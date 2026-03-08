@@ -492,6 +492,7 @@ dawuh
 de
 dede
 dedemit
+dekil
 delima
 demak
 demok
@@ -1395,6 +1396,7 @@ kopi
 koplak
 koplo
 kor
+kora
 koran
 korek
 kos
@@ -1413,6 +1415,7 @@ kuat
 kucing
 kuda
 kudu
+kudus
 kue
 kuku
 kukur
@@ -1476,6 +1479,7 @@ lamun
 lamunan
 lan
 lanang
+lancang
 lancar
 lancip
 langgeng
@@ -1615,6 +1619,7 @@ makan
 makane
 malah
 maleh
+malu
 mambu
 man
 mana
@@ -1732,6 +1737,7 @@ nai
 najis
 nak
 nakal
+naker
 naki
 nakon
 nakula
@@ -2319,6 +2325,7 @@ remi
 rempah
 remuk
 rencang
+rendang
 rendeng
 rene
 rengginang
@@ -2562,6 +2569,7 @@ sutra
 suwe
 suwi
 suwun
+swara
 syukur
 ta
 tabah
@@ -2606,6 +2614,7 @@ tegal
 teguh
 tekan
 teko
+tela
 telat
 telo
 telu
@@ -2710,6 +2719,7 @@ uga
 ugal
 ugo
 ugung
+uh
 uja
 ujar
 uji
