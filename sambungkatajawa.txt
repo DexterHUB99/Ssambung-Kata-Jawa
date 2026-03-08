@@ -688,6 +688,7 @@ dangu
 dani
 danur
 dapur
+dapuran
 dar
 dara
 dari
@@ -710,6 +711,7 @@ demak
 demit
 demok
 dendeng
+dene
 deneng
 der
 dereng
@@ -1617,6 +1619,7 @@ jaranan
 jare
 jari
 jasa
+jatah
 jati
 jawa
 jawaban
@@ -1899,6 +1902,7 @@ kiman
 kimpul
 kin
 kina
+kinan
 kinanthi
 kinasih
 kini
@@ -2342,6 +2346,7 @@ meteng
 metu
 mi
 mie
+mieayam
 mijil
 mik
 mikul
@@ -2521,6 +2526,7 @@ nempik
 nemu
 nen
 nendang
+nene
 nenen
 neng
 nengdi
@@ -2829,6 +2835,7 @@ nonjok
 nonton
 nopo
 norak
+nori
 nresna
 nresnani
 nrimo
@@ -3895,6 +3902,7 @@ umi
 umpam
 umpama
 umpamane
+umpami
 umpan
 umpane
 umuk
