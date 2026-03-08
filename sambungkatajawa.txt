@@ -168,6 +168,7 @@ angkasa
 angker
 angklung
 angkot
+angkringan
 angkuh
 angsa
 angsal
@@ -2041,6 +2042,7 @@ pamitan
 pamrih
 pan
 panas
+panci
 pandu
 panen
 pani
@@ -2369,6 +2371,7 @@ sinden
 sing
 singa
 singgah
+sinom
 sinten
 sip
 sipit
@@ -2480,6 +2483,7 @@ tata
 tatah
 tati
 taun
+tawan
 te
 tegal
 teguh
