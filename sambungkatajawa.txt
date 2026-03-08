@@ -242,6 +242,7 @@ cacah
 cacing
 cakot
 camat
+candi
 candra
 cawik
 cebok
@@ -280,6 +281,7 @@ didik
 dika
 diman
 dina
+dinas
 dinten
 dipun
 disek
@@ -439,6 +441,7 @@ gemar
 gemati
 gembel
 gemblong
+gemblung
 gendeng
 gene
 geni
@@ -721,6 +724,7 @@ kar
 karep
 kari
 karo
+kasar
 kasi
 kasih
 kasur
@@ -822,6 +826,7 @@ kutang
 laba
 lagi
 lagu
+lah
 laler
 lali
 lam
