@@ -2279,6 +2279,7 @@ jenggot
 jer
 jera
 jeram
+jeran
 jero
 jeruk
 ji
@@ -2446,6 +2447,7 @@ kara
 karak
 karang
 karawang
+karawitan
 karek
 karep
 karepe
@@ -2963,6 +2965,7 @@ lena
 lengen
 lenggah
 lengkuas
+lengser
 lepat
 lepe
 ler
@@ -3680,6 +3683,7 @@ ngasuh
 ngati
 ngatuk
 ngatur
+ngaturaken
 ngaub
 ngawa
 ngawe
