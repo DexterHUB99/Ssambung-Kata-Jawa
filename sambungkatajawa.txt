@@ -1142,6 +1142,7 @@ dung
 dungo
 dungu
 dupa
+dupo
 dur
 dura
 duren
@@ -4519,6 +4520,7 @@ puri
 purna
 purun
 pus
+puser
 pusing
 putih
 putra
