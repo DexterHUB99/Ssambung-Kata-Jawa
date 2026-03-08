@@ -90,6 +90,7 @@ ahlul
 aho
 ahoh
 ahok
+ahon
 ahor
 ahoy
 ahu
@@ -3546,6 +3547,7 @@ ngasep
 ngasi
 ngasih
 ngaso
+ngasoh
 ngasor
 ngasta
 ngasu
@@ -3558,6 +3560,7 @@ ngawa
 ngawe
 ngaweh
 ngawi
+ngawil
 ngawiti
 ngawo
 ngawor
