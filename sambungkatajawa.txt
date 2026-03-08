@@ -279,6 +279,7 @@ ancok
 ancuk
 ancur
 andap
+andar
 andaran
 andeg
 andel
@@ -298,6 +299,7 @@ aneh
 anek
 aner
 anes
+angan
 angar
 ange
 angel
@@ -781,6 +783,7 @@ bunga
 bungah
 bungkus
 buntut
+bur
 buron
 buru
 busi
