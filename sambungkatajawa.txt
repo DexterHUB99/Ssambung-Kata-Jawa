@@ -518,6 +518,7 @@ ayam
 ayan
 ayang
 ayani
+ayar
 aye
 ayem
 ayep
@@ -3552,6 +3553,7 @@ ngurip
 nguripi
 ngurui
 ngurus
+ngurusi
 ngusap
 nguser
 ngusik
@@ -5269,6 +5271,7 @@ witan
 witir
 wiwit
 wiwitan
+wo
 wok
 wol
 wolu
