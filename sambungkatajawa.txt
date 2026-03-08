@@ -653,6 +653,7 @@ eko
 ekor
 ekot
 eku
+ekur
 elah
 elak
 elan
@@ -1626,6 +1627,7 @@ layu
 leh
 lele
 lem
+lema
 lemah
 lemot
 lemper
@@ -2109,6 +2111,7 @@ ngunduh
 ngunjuk
 nguntal
 ngunung
+ngunut
 ngupil
 ngurip
 ngurus
@@ -2261,6 +2264,7 @@ orep
 ori
 orok
 os
+osek
 oseng
 osik
 otak
@@ -2821,6 +2825,7 @@ tembung
 tempe
 tempel
 tempik
+ten
 tenan
 tenane
 tengah
@@ -3125,6 +3130,7 @@ wirang
 wis
 wit
 wiwit
+wiwitan
 wolu
 wong
 wuh
