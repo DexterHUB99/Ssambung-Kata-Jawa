@@ -698,6 +698,7 @@ doro
 dorong
 dosen
 dowo
+du
 duda
 dudi
 dudo
@@ -743,6 +744,7 @@ duwek
 duwit
 duwur
 ealah
+eb
 ebeg
 ebi
 eco
@@ -1329,6 +1331,7 @@ ikal
 ikan
 ikat
 ikatan
+iket
 iki
 ikih
 ikil
@@ -2320,6 +2323,7 @@ nesu
 neteh
 netek
 netes
+ngabekti
 ngaben
 ngaca
 ngaco
@@ -3747,6 +3751,7 @@ weteng
 weton
 wewe
 wi
+widya
 wih
 wijaya
 wiku
