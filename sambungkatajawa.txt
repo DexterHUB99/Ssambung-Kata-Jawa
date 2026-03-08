@@ -1454,6 +1454,7 @@ etak
 etan
 ete
 etel
+eten
 etes
 eti
 etig
@@ -1527,6 +1528,7 @@ galih
 galo
 galok
 galon
+galung
 galungan
 gaman
 gambang
@@ -3845,6 +3847,7 @@ ngising
 ngisini
 ngisor
 ngisu
+ngisuh
 ngitung
 ngiwa
 ngiwasi
@@ -4137,6 +4140,7 @@ ogol
 oh
 ohh
 oho
+ohya
 oj
 ojek
 ojo
@@ -4729,6 +4733,7 @@ resah
 rese
 resi
 resik
+resika
 restu
 reti
 rewang
@@ -5934,6 +5939,7 @@ yohan
 yoiku
 yok
 yoka
+yoki
 yom
 yoman
 yon
