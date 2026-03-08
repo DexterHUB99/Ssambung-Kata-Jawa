@@ -1625,6 +1625,7 @@ gunem
 guneman
 guneme
 gung
+gunting
 guntur
 gunung
 gupak
