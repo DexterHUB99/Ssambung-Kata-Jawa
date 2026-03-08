@@ -172,6 +172,7 @@ amin
 amir
 amis
 amit
+amo
 amoh
 amok
 ampa
@@ -365,6 +366,7 @@ ati
 atin
 atir
 atis
+atma
 ato
 atok
 atom
@@ -616,6 +618,7 @@ coli
 colong
 condong
 congor
+cor
 coro
 corot
 cu
@@ -969,6 +972,7 @@ ete
 eti
 etig
 etika
+eto
 etok
 etos
 etuk
@@ -1673,6 +1677,7 @@ karo
 kartu
 karung
 kas
+kasang
 kasar
 kasep
 kasi
@@ -2014,6 +2019,7 @@ lepat
 leren
 leres
 leri
+les
 lesu
 lewat
 li
@@ -3538,6 +3544,7 @@ timbang
 timun
 timur
 tin
+tina
 tindak
 tindhak
 tinggal
@@ -3724,6 +3731,7 @@ ungu
 unjuk
 unta
 untal
+untik
 untu
 untuk
 untung
