@@ -592,6 +592,7 @@ bekel
 beko
 bela
 belah
+belang
 belek
 beli
 belo
@@ -894,7 +895,6 @@ delo
 delu
 dema
 demak
-demek
 demi
 demit
 demok
@@ -1102,7 +1102,6 @@ elar
 elas
 eleh
 elek
-elel
 elem
 elen
 eleng
@@ -1865,7 +1864,6 @@ imbuhan
 iming
 imit
 imo
-impen
 impi
 impian
 impit
@@ -2038,6 +2036,7 @@ jelek
 jem
 jembatan
 jember
+jembut
 jempol
 jenang
 jeneng
@@ -2212,7 +2211,6 @@ karung
 kas
 kasa
 kasang
-kasap
 kasar
 kasep
 kasi
@@ -2684,7 +2682,6 @@ lika
 liku
 lila
 lilin
-lilit
 lilo
 lim
 lima
@@ -2934,7 +2931,6 @@ mengko
 meni
 menika
 mentah
-menthok
 merah
 merem
 meri
@@ -2988,7 +2984,6 @@ moleh
 molen
 moli
 momong
-mon
 mondok
 monggo
 moni
@@ -3666,7 +3661,6 @@ ojol
 ojolan
 ok
 okan
-okar
 oke
 okea
 okee
@@ -3733,7 +3727,6 @@ opa
 opah
 opak
 opel
-opet
 opo
 opon
 opor
@@ -4400,7 +4393,6 @@ sek
 sekawan
 seket
 seko
-sekolah
 sekul
 sela
 selak
@@ -4806,7 +4798,6 @@ toren
 tori
 tos
 tosa
-toto
 toya
 tresno
 tu
@@ -5228,7 +5219,6 @@ yawis
 yekti
 yen
 yesa
-yet
 yi
 yo
 yoga
