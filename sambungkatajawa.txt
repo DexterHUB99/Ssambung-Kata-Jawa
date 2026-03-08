@@ -3738,6 +3738,7 @@ online
 onta
 ontang
 onthel
+onto
 oo
 oon
 op
@@ -5213,6 +5214,7 @@ wiwitan
 wok
 wol
 wolu
+won
 wong
 wonosobo
 wonten
