@@ -138,6 +138,7 @@ alangan
 alap
 alas
 alasa
+alasan
 alat
 alay
 ale
@@ -627,6 +628,7 @@ bunga
 bungah
 bungkus
 buntut
+buri
 buron
 buru
 busi
@@ -817,6 +819,7 @@ dino
 dinten
 dipun
 dir
+diri
 disana
 disek
 disik
@@ -896,6 +899,7 @@ ealah
 eb
 ebeg
 ebi
+ebuk
 eco
 ed
 eda
@@ -1944,6 +1948,7 @@ kas
 kasang
 kasar
 kasep
+kaset
 kasi
 kasih
 kasir
@@ -2049,6 +2054,7 @@ kesat
 kesel
 keset
 kesna
+kesot
 kesuh
 kesusu
 ketan
@@ -2827,6 +2833,7 @@ ngambar
 ngamben
 ngambi
 ngambil
+ngambu
 ngamil
 ngamok
 ngampun
@@ -3928,6 +3935,7 @@ suli
 suma
 sumbanga
 sumbangan
+sumbar
 sumber
 sumeh
 sumenep
@@ -4025,6 +4033,7 @@ tara
 tari
 tarik
 taru
+tarung
 tas
 tat
 tata
