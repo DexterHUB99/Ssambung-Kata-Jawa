@@ -28,6 +28,7 @@ alem
 ali
 aliran
 aman
+amarga
 ambil
 ambyar
 amerga
@@ -53,6 +54,7 @@ apel
 apung
 arang
 are
+areng
 arep
 asa
 asin
@@ -85,6 +87,7 @@ dan
 dasi
 dina
 disu
+duduh
 dumane
 dura
 duri
@@ -162,6 +165,7 @@ he
 heran
 heri
 hi
+hiji
 hir
 hiri
 hm
@@ -223,6 +227,7 @@ jeneng
 jili
 jimat
 jirih
+jiwa
 kadal
 kali
 kampung
@@ -266,6 +271,7 @@ lambemu
 lambung
 lami
 lampu
+lampung
 lanjut
 lantang
 laos
@@ -309,6 +315,7 @@ moto
 mulane
 muleh
 mundak
+murah
 murid
 nadi
 naga
@@ -348,6 +355,7 @@ ngombe
 ngono
 ngopi
 ngopo
+ngos
 ngrit
 ngukur
 ngulek
@@ -488,6 +496,7 @@ uler
 ulo
 umbel
 umpama
+umuk
 uncal
 unggah
 ungkir
