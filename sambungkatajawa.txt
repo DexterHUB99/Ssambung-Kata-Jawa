@@ -132,6 +132,7 @@ aliran
 alis
 alit
 alon
+alot
 alpukat
 alu
 alun
@@ -750,6 +751,7 @@ elu
 elus
 ema
 emak
+emal
 eman
 emane
 emang
@@ -761,6 +763,7 @@ emboh
 embong
 embuh
 emem
+emi
 emo
 emod
 emoh
@@ -1550,6 +1553,7 @@ kelonan
 kelor
 keluarga
 keluh
+kem
 kembang
 kemben
 kemene
@@ -2758,6 +2762,7 @@ rasakno
 rasi
 rasis
 rasuk
+rat
 rata
 ratau
 ratih
@@ -3460,6 +3465,7 @@ warok
 warung
 was
 wasi
+wasira
 wati
 watu
 wayah
