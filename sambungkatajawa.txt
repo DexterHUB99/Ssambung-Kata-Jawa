@@ -798,6 +798,7 @@ duh
 duhur
 duit
 duka
+duko
 dukon
 duku
 dukuh
@@ -1114,6 +1115,7 @@ ganggu
 gangsal
 ganjar
 ganjaran
+ganjel
 ganjil
 ganteng
 ganthi
@@ -1689,6 +1691,7 @@ jirih
 jitak
 jiwa
 joglo
+jok
 joki
 jol
 jola
@@ -2573,6 +2576,7 @@ nembung
 nemen
 nempel
 nempik
+nempil
 nemu
 nen
 nendang
@@ -3264,6 +3268,7 @@ randu
 rang
 rangkat
 rangkul
+rantas
 raos
 rap
 rapapa
@@ -3445,6 +3450,7 @@ sak
 saka
 sakarep
 saket
+sakne
 saku
 salah
 salam
@@ -3548,6 +3554,7 @@ siji
 sik
 sika
 sikat
+sikep
 sikil
 siku
 sikut
