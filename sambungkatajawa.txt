@@ -12,7 +12,6 @@ abi
 abot
 abrit
 abu
-abul
 acu
 ad
 ada
@@ -205,6 +204,7 @@ ambu
 ambung
 ambunge
 ambyar
+ame
 ameh
 amen
 amer
@@ -531,6 +531,7 @@ ayo
 ayok
 ayu
 ayuh
+ayuk
 ayun
 ayunan
 az
@@ -802,7 +803,6 @@ cengkeh
 cenil
 cep
 cerak
-ceret
 ceri
 cerita
 ceto
@@ -832,7 +832,6 @@ cocote
 codet
 cok
 coki
-cokot
 col
 colek
 coli
@@ -963,7 +962,6 @@ dilok
 diluk
 dilut
 diman
-dimana
 dimas
 dimul
 dina
@@ -980,6 +978,7 @@ disana
 disek
 disel
 disik
+disit
 disu
 dit
 dluwang
@@ -1134,7 +1133,6 @@ elang
 elap
 elar
 elas
-ele
 eleh
 elek
 elel
@@ -1194,7 +1192,6 @@ emper
 empet
 emping
 emprit
-empu
 empuk
 empun
 emu
@@ -1507,7 +1504,6 @@ gemblung
 gembong
 gembrot
 gemes
-gempa
 gempol
 gemuk
 gen
@@ -1685,6 +1681,7 @@ guyon
 guyu
 guyub
 guyup
+guyur
 ha
 habis
 hadap
@@ -1766,7 +1763,6 @@ hei
 heli
 hem
 hemat
-hepan
 hepi
 her
 hera
@@ -1829,7 +1825,6 @@ huruf
 hus
 husna
 hut
-huta
 hutan
 hutang
 ib
@@ -2103,7 +2098,6 @@ jenggot
 jer
 jera
 jero
-jeruk
 jijih
 jijik
 jikuk
@@ -2139,7 +2133,6 @@ jombang
 jomblo
 jon
 jona
-jongkok
 jor
 jora
 joran
@@ -2198,6 +2191,7 @@ kaleh
 kalem
 kaler
 kali
+kalian
 kalih
 kalim
 kalimat
@@ -2224,7 +2218,6 @@ kanah
 kanan
 kanca
 kancil
-kancing
 kancut
 kandang
 kandha
@@ -2307,7 +2300,6 @@ kawus
 kaya
 kayu
 ke
-kebak
 kebo
 kebon
 kecap
@@ -2483,7 +2475,6 @@ kliwon
 klumah
 ko
 kobel
-kobis
 kobong
 kocak
 kodok
@@ -2546,6 +2537,7 @@ kotor
 kowe
 kowen
 koyo
+koyok
 krama
 kripik
 krungu
@@ -2799,7 +2791,6 @@ lirih
 lis
 lisa
 lisan
-lise
 lit
 liwat
 liwet
@@ -2849,6 +2840,7 @@ lotek
 lowong
 loyo
 lu
+luber
 lucu
 ludah
 lugu
@@ -3176,7 +3168,6 @@ nan
 nana
 nanah
 nanak
-nanam
 nanang
 nanas
 nandang
@@ -3243,7 +3234,6 @@ negor
 neh
 nek
 neka
-nekani
 nekat
 neker
 neko
@@ -3278,7 +3268,6 @@ neptu
 ner
 nerak
 neraka
-nerima
 nerjang
 nesa
 nesu
@@ -3376,6 +3365,7 @@ ngarep
 ngaret
 ngarit
 ngarsa
+ngarung
 ngas
 ngasah
 ngasahi
@@ -3411,10 +3401,8 @@ ngeh
 ngejar
 ngek
 ngelak
-ngelap
 ngelas
 ngelawak
-ngelebok
 ngeleh
 ngelem
 ngeles
@@ -3570,6 +3558,7 @@ ngujuk
 ngukir
 ngukur
 ngul
+ngulang
 nguleg
 ngulek
 ngulet
@@ -3649,7 +3638,6 @@ nipis
 nipu
 nir
 niri
-nirwana
 nis
 nisa
 nisan
@@ -3683,6 +3671,7 @@ nonjok
 nonton
 nopo
 nor
+nora
 norak
 nori
 nos
@@ -3805,7 +3794,6 @@ oling
 olo
 olok
 olokan
-olong
 olor
 om
 oma
@@ -4080,7 +4068,6 @@ pitulung
 pitung
 pitutur
 piwulang
-piyak
 piye
 po
 pocong
@@ -4222,7 +4209,6 @@ rarawoh
 ras
 rasa
 rasah
-rasak
 rasakan
 rasakno
 rasan
@@ -4540,7 +4526,6 @@ sele
 selep
 selet
 semar
-sembah
 semen
 semok
 sempak
@@ -4701,7 +4686,6 @@ sulak
 sulam
 sule
 suli
-sultan
 sum
 suma
 suman
@@ -5254,6 +5238,7 @@ waduk
 wadul
 wae
 wage
+wagu
 wah
 wahing
 wahyu
