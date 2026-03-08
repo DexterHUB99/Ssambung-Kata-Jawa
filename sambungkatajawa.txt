@@ -899,6 +899,7 @@ dedi
 degan
 dek
 dekil
+del
 delima
 delman
 delo
