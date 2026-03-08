@@ -22,6 +22,7 @@ adhi
 adi
 adik
 adoh
+adol
 ados
 adu
 aduh
@@ -226,6 +227,7 @@ anget
 anggar
 anggara
 angger
+anggere
 anggur
 angin
 angka
@@ -266,6 +268,7 @@ antik
 anting
 anton
 antri
+antuk
 anu
 anus
 anut
@@ -486,6 +489,7 @@ bero
 besok
 besuk
 besuki
+betah
 beto
 biang
 biasa
@@ -540,6 +544,7 @@ bubar
 bubuk
 bubur
 budak
+budal
 bude
 budek
 budhal
@@ -709,6 +714,7 @@ diman
 dimas
 dina
 dinas
+dinggo
 dingklik
 dino
 dinten
@@ -1129,6 +1135,7 @@ gendhis
 gendong
 gendruwo
 gene
+generator
 geng
 geni
 genti
@@ -2102,6 +2109,7 @@ lirih
 lis
 lisa
 lisan
+lit
 liwat
 liwet
 liya
@@ -2812,6 +2820,7 @@ okel
 okol
 ol
 olah
+olahan
 olahraga
 olak
 ole
