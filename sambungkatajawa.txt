@@ -595,6 +595,7 @@ duh
 duhur
 duit
 duka
+dukuh
 dukun
 dula
 dulan
@@ -1186,6 +1187,7 @@ ip
 ipa
 ipe
 ipel
+ipik
 ipin
 ipit
 ir
@@ -2063,6 +2065,7 @@ ngibul
 ngicipi
 ngidul
 ngih
+ngijoli
 ngiki
 ngilang
 ngiler
@@ -3146,6 +3149,7 @@ wiwit
 wiwitan
 wolu
 wong
+wonten
 wuh
 wulan
 wuli
