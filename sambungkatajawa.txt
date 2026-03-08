@@ -263,6 +263,7 @@ borok
 boso
 bosok
 bubuk
+bubur
 bude
 budhal
 bulan
@@ -289,6 +290,7 @@ cik
 cilaka
 cocok
 cocot
+cocote
 codet
 cok
 colek
@@ -400,6 +402,7 @@ endi
 endog
 enek
 enggeh
+engkang
 eni
 enteni
 entong
@@ -557,6 +560,7 @@ gur
 guru
 gusah
 gusi
+gusti
 guyon
 guyu
 ha
@@ -1252,6 +1256,7 @@ ngupil
 ngurip
 ngutang
 nikah
+nikahan
 niki
 niku
 nila
@@ -1709,6 +1714,7 @@ tus
 tutuk
 tutur
 uang
+udah
 udan
 udang
 udek
@@ -1824,6 +1830,7 @@ waktu
 walah
 walang
 wangsul
+wani
 warga
 warisan
 warung
@@ -1833,6 +1840,7 @@ we
 wedang
 wedhi
 wedhus
+wedi
 wedok
 wegah
 wektu
