@@ -5,6 +5,7 @@ abab
 abad
 abah
 abang
+abdi
 aber
 abi
 abot
@@ -16,6 +17,7 @@ ada
 adah
 adai
 adal
+adam
 adang
 adat
 adek
@@ -106,6 +108,7 @@ akar
 akas
 akasa
 akat
+akbar
 ake
 akeh
 akek
@@ -204,6 +207,7 @@ amp
 ampa
 ampal
 amparan
+ampela
 ampil
 ampir
 amplas
@@ -394,6 +398,7 @@ asik
 asil
 asim
 asin
+asinan
 asing
 asli
 asma
@@ -409,6 +414,7 @@ asta
 astaga
 asu
 asuh
+asui
 asul
 asup
 asupan
@@ -549,7 +555,6 @@ bekel
 beko
 bela
 belah
-belek
 beli
 belo
 belu
@@ -576,6 +581,7 @@ beto
 biang
 biasa
 biaya
+bibi
 bibik
 bibir
 bibit
@@ -679,6 +685,7 @@ cagak
 cah
 cakot
 cal
+cama
 camat
 campur
 candi
@@ -860,6 +867,7 @@ dinggo
 dingklik
 dino
 dinten
+dipan
 dipun
 dir
 disana
@@ -1009,6 +1017,7 @@ elar
 elas
 eleh
 elek
+elen
 eleng
 eler
 eli
@@ -1199,6 +1208,7 @@ ewu
 eya
 eyang
 fokus
+fungsi
 ga
 gabah
 gabe
@@ -1407,6 +1417,7 @@ giwangan
 go
 goblog
 goblok
+gobloki
 godog
 godok
 godong
@@ -1437,6 +1448,7 @@ gorong
 gosip
 gosok
 gosong
+gowang
 gowo
 goyang
 gragal
@@ -1683,6 +1695,7 @@ ilah
 ilahi
 ilak
 ilang
+ilar
 ilat
 iler
 ileran
@@ -1789,6 +1802,7 @@ isap
 isek
 isel
 isen
+isep
 isi
 isian
 isih
@@ -2031,6 +2045,7 @@ karepmu
 kari
 karma
 karo
+karsa
 kartu
 karung
 kas
@@ -2128,6 +2143,7 @@ keramas
 kerang
 keras
 kerasa
+kerat
 kere
 keren
 kerep
@@ -2163,6 +2179,7 @@ kidal
 kidang
 kidul
 kie
+kijang
 kijing
 kika
 kiki
@@ -2225,6 +2242,7 @@ kola
 kolak
 kolam
 kolong
+kom
 koma
 komen
 kompak
@@ -2374,6 +2392,7 @@ landep
 langgeng
 langit
 langkung
+langsing
 lani
 lanjut
 lantang
@@ -2398,7 +2417,9 @@ lase
 latah
 latar
 lathi
+lati
 latih
+latihan
 laut
 lawa
 lawan
@@ -2421,6 +2442,7 @@ lele
 lem
 lema
 lemah
+lemak
 leman
 lemari
 lembah
@@ -2562,6 +2584,7 @@ luwes
 luwih
 luwung
 ma
+maaf
 mabar
 mabur
 maca
@@ -2670,6 +2693,7 @@ medal
 mega
 meh
 meja
+mek
 mekar
 mel
 melas
@@ -2787,6 +2811,7 @@ nabrak
 nabu
 nabuh
 nada
+nadah
 nadahi
 nadi
 nadyan
@@ -3088,6 +3113,7 @@ ngguyu
 ngibadah
 ngibul
 ngicipi
+ngidam
 ngidul
 ngidung
 ngih
@@ -3615,6 +3641,7 @@ posi
 potong
 prajurit
 prakawis
+pranata
 pripun
 pu
 puasa
@@ -4009,9 +4036,11 @@ senin
 separo
 sepi
 sepuh
+sepuluh
 sepur
 serami
 sere
+seres
 serius
 serong
 sesek
@@ -4399,6 +4428,7 @@ tutuk
 tutup
 tutur
 tuwa
+tuwuh
 tuyul
 uang
 ub
@@ -4542,7 +4572,6 @@ upik
 upil
 ur
 ura
-uraa
 urai
 urak
 urakan
@@ -4690,6 +4719,7 @@ wi
 widya
 wih
 wijaya
+wiji
 wiku
 wil
 wila
