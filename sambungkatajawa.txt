@@ -274,6 +274,7 @@ baca
 bagong
 bagus
 bah
+bai
 bajigur
 bajingan
 baju
@@ -318,6 +319,7 @@ bisu
 bisulan
 biyen
 bo
+bodo
 bojo
 bolo
 borok
@@ -720,6 +722,7 @@ gupak
 gur
 gurih
 guru
+gus
 gusa
 gusah
 gusi
@@ -982,6 +985,7 @@ joglo
 jola
 joli
 jomblo
+jor
 joran
 jore
 jorok
@@ -1896,6 +1900,7 @@ ri
 ribet
 ribut
 ridho
+rik
 rika
 rikma
 riko
