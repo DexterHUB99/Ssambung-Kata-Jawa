@@ -3436,6 +3436,7 @@ ngger
 nggih
 nggo
 nggolek
+nggoreng
 nggowo
 ngguyu
 ngibadah
@@ -4088,6 +4089,7 @@ pundhak
 pundhut
 pundi
 pungkasan
+puni
 punika
 punjul
 punten
