@@ -1447,6 +1447,7 @@ kelor
 keluarga
 kembang
 kemben
+kemene
 kemiri
 kemis
 kemproh
@@ -1531,6 +1532,7 @@ ko
 kodok
 koe
 koen
+koh
 kok
 koki
 kokop
@@ -2021,6 +2023,7 @@ nerjang
 nesu
 neteh
 netek
+netes
 ngaben
 ngaca
 ngaco
@@ -2060,6 +2063,7 @@ nganggo
 nganggur
 nganjuk
 nganti
+ngantor
 ngantuk
 nganu
 ngaos
@@ -2524,6 +2528,7 @@ raden
 radi
 ragat
 ragi
+rah
 rahmat
 rai
 raimu
@@ -2619,6 +2624,7 @@ restu
 reti
 rewang
 ri
+riang
 ribet
 ribut
 ridho
