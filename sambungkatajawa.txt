@@ -512,6 +512,7 @@ aya
 ayah
 ayak
 ayam
+ayan
 ayang
 aye
 ayem
@@ -2937,6 +2938,7 @@ melu
 mem
 meme
 memek
+mendung
 mene
 meneng
 mengko
@@ -4139,6 +4141,7 @@ reget
 rejo
 rek
 rekasa
+rekoso
 reksa
 rem
 rema
@@ -5259,6 +5262,7 @@ yudha
 yuh
 yuk
 yuka
+yuki
 yun
 yuna
 yuni
