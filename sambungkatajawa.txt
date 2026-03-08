@@ -2133,6 +2133,7 @@ kirang
 kiri
 kirik
 kirim
+kiriman
 kis
 kisa
 kisi
