@@ -12,7 +12,6 @@ abi
 abot
 abrit
 abu
-abul
 acu
 ad
 ada
@@ -801,7 +800,6 @@ cengkeh
 cenil
 cep
 cerak
-ceret
 ceri
 cerita
 ceto
@@ -1328,6 +1326,7 @@ etika
 etis
 eto
 etok
+etol
 eton
 etos
 etu
@@ -1501,7 +1500,6 @@ gemblung
 gembong
 gembrot
 gemes
-gempa
 gempol
 gemuk
 gen
@@ -1760,6 +1758,7 @@ hei
 heli
 hem
 hemat
+hepi
 her
 hera
 heran
@@ -1821,7 +1820,6 @@ huruf
 hus
 husna
 hut
-huta
 hutan
 hutang
 ib
@@ -2214,7 +2212,6 @@ kanah
 kanan
 kanca
 kancil
-kancing
 kancut
 kandang
 kandha
@@ -2297,7 +2294,6 @@ kawus
 kaya
 kayu
 ke
-kebak
 kebo
 kebon
 kecap
@@ -2473,7 +2469,6 @@ kliwon
 klumah
 ko
 kobel
-kobis
 kobong
 kocak
 kodok
@@ -2708,6 +2703,7 @@ lek
 lekat
 lele
 lelembut
+lelet
 lem
 lema
 lemah
@@ -2787,7 +2783,6 @@ lirih
 lis
 lisa
 lisan
-lise
 lit
 liwat
 liwet
@@ -3164,7 +3159,6 @@ nan
 nana
 nanah
 nanak
-nanam
 nanang
 nanas
 nandang
@@ -3231,7 +3225,6 @@ negor
 neh
 nek
 neka
-nekani
 nekat
 neker
 neko
@@ -3266,7 +3259,6 @@ neptu
 ner
 nerak
 neraka
-nerima
 nerjang
 nesa
 nesu
@@ -3399,10 +3391,8 @@ ngeh
 ngejar
 ngek
 ngelak
-ngelap
 ngelas
 ngelawak
-ngelebok
 ngeleh
 ngelem
 ngeles
@@ -3636,7 +3626,6 @@ nipis
 nipu
 nir
 niri
-nirwana
 nis
 nisa
 nisan
@@ -3792,7 +3781,6 @@ oling
 olo
 olok
 olokan
-olong
 olor
 om
 oma
@@ -3834,6 +3822,7 @@ opa
 opah
 opak
 opel
+open
 opo
 opon
 opor
@@ -4228,6 +4217,7 @@ rawan
 rawe
 rawon
 rawuh
+rayu
 re
 rebahan
 rebana
@@ -4523,7 +4513,6 @@ sele
 selep
 selet
 semar
-sembah
 semen
 semok
 sempak
