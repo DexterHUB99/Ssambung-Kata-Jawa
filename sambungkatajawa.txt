@@ -323,6 +323,7 @@ anjay
 anjing
 anjir
 anjlok
+anjog
 anjrit
 anjur
 anjuran
@@ -909,6 +910,7 @@ degan
 dek
 dekil
 del
+deli
 delima
 delman
 delo
@@ -4892,6 +4894,7 @@ toke
 tokek
 toko
 tolak
+toleh
 tolol
 tolong
 tomat
