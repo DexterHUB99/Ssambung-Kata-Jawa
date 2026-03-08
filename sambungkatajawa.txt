@@ -133,6 +133,7 @@ anake
 anal
 anam
 anan
+ananging
 anas
 ancen
 ancik
@@ -411,6 +412,7 @@ dawuh
 de
 dede
 dedemit
+delima
 demok
 dendeng
 dewi
@@ -567,6 +569,7 @@ epet
 epi
 epil
 epo
+epoh
 era
 erah
 eram
@@ -635,6 +638,7 @@ gancet
 gandrung
 gandul
 gangsal
+ganjaran
 gantung
 gapura
 gar
@@ -883,6 +887,7 @@ ilah
 ilang
 ilat
 iler
+ili
 ilih
 ilik
 ilir
@@ -1056,6 +1061,7 @@ kancil
 kancut
 kandang
 kandut
+kang
 kangen
 kanggo
 kanjeng
