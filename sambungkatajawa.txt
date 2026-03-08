@@ -2009,6 +2009,7 @@ jangkep
 jangkrik
 janji
 jar
+jara
 jaran
 jaranan
 jarang
@@ -4241,6 +4242,7 @@ rukun
 rum
 rumah
 rumangsa
+rumbi
 rumi
 rumiyin
 rumput
@@ -4656,6 +4658,7 @@ tanpa
 tansah
 tante
 tapa
+tapak
 tape
 tapi
 tapir
@@ -4847,6 +4850,7 @@ tutur
 tuwa
 tuwuh
 tuyul
+tv
 uang
 ub
 ubi
