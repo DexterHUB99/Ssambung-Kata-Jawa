@@ -10,6 +10,7 @@ adah
 adat
 adek
 adem
+aden
 adhem
 adi
 adoh
@@ -190,6 +191,7 @@ anteman
 anteng
 anter
 anti
+antik
 anting
 anton
 anu
@@ -1106,6 +1108,7 @@ iwal
 iwan
 iya
 iyo
+iyuh
 iz
 jab
 jagung
@@ -1692,6 +1695,7 @@ nanduk
 nandur
 nanem
 nang
+nangan
 nangdi
 nanggung
 nangi
@@ -1776,6 +1780,7 @@ ngan
 ngandani
 ngandok
 ngandut
+nganga
 nganggo
 nganggur
 nganjuk
@@ -2067,6 +2072,7 @@ panas
 panci
 pandu
 panen
+panggah
 pani
 panis
 panjaluk
@@ -2413,6 +2419,7 @@ slametan
 so
 sobat
 soklat
+sola
 solah
 solid
 sombong
@@ -2533,6 +2540,7 @@ terong
 terus
 ti
 tiba
+tibak
 tibo
 tikar
 tikung
