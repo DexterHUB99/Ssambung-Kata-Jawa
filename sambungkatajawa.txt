@@ -2221,6 +2221,7 @@ lingkung
 lingsir
 lintah
 lintang
+lintu
 lipat
 lipen
 lipur
@@ -3061,6 +3062,7 @@ pala
 palang
 palem
 paling
+paliyan
 palu
 palung
 pamali
@@ -3248,6 +3250,7 @@ raja
 rajah
 rajang
 rajin
+rajuk
 rajut
 rak
 raket
@@ -3487,6 +3490,7 @@ sangka
 sangkuni
 sangu
 sanjang
+santai
 santun
 sanur
 sap
@@ -4150,6 +4154,7 @@ wejangan
 wekasan
 wektu
 wel
+welas
 weleh
 weling
 wen
