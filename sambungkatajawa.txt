@@ -185,6 +185,7 @@ dan
 dana
 dapur
 dara
+darma
 dasi
 dawuh
 de
@@ -233,6 +234,7 @@ emboh
 emoh
 emok
 enak
+encok
 endah
 endang
 endog
@@ -246,6 +248,7 @@ epep
 eper
 epet
 epo
+era
 erah
 eram
 erat
@@ -254,6 +257,7 @@ eris
 ero
 eroh
 eros
+erosi
 eruh
 esek
 esih
@@ -538,6 +542,7 @@ klumah
 ko
 koe
 koen
+kol
 kolak
 kolam
 konco
@@ -653,6 +658,7 @@ man
 manasi
 mangan
 mangku
+manis
 manuk
 marak
 marem
@@ -801,6 +807,7 @@ nulis
 numpak
 nunung
 nunut
+nuthuk
 nyawiji
 oalah
 ob
@@ -874,6 +881,7 @@ por
 pun
 pundhut
 punika
+punten
 pusing
 putra
 rabi
@@ -974,6 +982,7 @@ siman
 simbah
 sinden
 singa
+singgah
 sinten
 sip
 siram
@@ -1027,6 +1036,7 @@ tuak
 tuku
 tul
 tula
+tuli
 tulis
 tulung
 tum
@@ -1040,6 +1050,7 @@ tunggu
 turah
 turu
 tutuk
+tutur
 uang
 udan
 udang
@@ -1115,6 +1126,7 @@ utang
 utar
 utawi
 utek
+uteke
 utel
 utuh
 uwes
