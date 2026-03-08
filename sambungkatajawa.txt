@@ -1352,6 +1352,7 @@ gala
 galah
 galak
 galang
+galek
 galengan
 galer
 gali
@@ -4443,6 +4444,7 @@ sendal
 sendhang
 sendok
 senin
+senuk
 separo
 sepat
 sepet
