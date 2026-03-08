@@ -1,4 +1,5 @@
 aa
+aah
 aaha
 ab
 abab
@@ -3368,6 +3369,7 @@ okeh
 okei
 okel
 okol
+okor
 ol
 olah
 olaha
@@ -4106,6 +4108,7 @@ slamet
 slametan
 so
 sobat
+sodok
 soklat
 sol
 sola
