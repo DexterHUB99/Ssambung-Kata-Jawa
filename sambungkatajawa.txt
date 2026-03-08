@@ -133,6 +133,7 @@ alir
 aliran
 alis
 alit
+alo
 alon
 alot
 alpukat
@@ -724,6 +725,7 @@ ehem
 eher
 ehey
 ehi
+ehir
 eho
 ehod
 ehok
@@ -1330,6 +1332,7 @@ injih
 injing
 intil
 intip
+inul
 inyong
 ip
 ipa
@@ -2099,6 +2102,7 @@ na
 nabi
 nabrak
 nabu
+nada
 nadahi
 nadi
 nadyan
@@ -2424,6 +2428,7 @@ niku
 nikung
 nil
 nila
+nilam
 nilem
 nilep
 nim
@@ -3598,6 +3603,7 @@ yani
 yas
 yasi
 yasin
+yati
 yekti
 yen
 yi
