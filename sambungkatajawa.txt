@@ -295,6 +295,7 @@ bebas
 bebek
 becik
 beda
+bego
 bejan
 bekas
 benang
@@ -1105,6 +1106,7 @@ kero
 kersa
 kesah
 ketek
+ketemu
 ketir
 ketok
 ketup
@@ -1463,6 +1465,7 @@ nani
 naon
 napa
 napi
+naran
 nari
 narimo
 nas
@@ -1504,6 +1507,7 @@ neteh
 netek
 ngaco
 ngacung
+ngadek
 ngadi
 ngadu
 ngaduk
@@ -1713,6 +1717,7 @@ omboh
 omong
 omongan
 ompong
+ompreng
 onar
 oncek
 oncom
@@ -1966,6 +1971,7 @@ rujak
 rukun
 rum
 rumah
+rumangsa
 run
 rung
 rungkad
@@ -2075,6 +2081,7 @@ su
 suami
 suba
 subhanallah
+subur
 sudi
 sugeng
 sugih
@@ -2137,6 +2144,7 @@ tar
 tari
 taru
 tata
+tati
 taun
 tegal
 teguh
