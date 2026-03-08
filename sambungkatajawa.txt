@@ -640,6 +640,7 @@ ceh
 cek
 cekel
 celeng
+celuk
 cempe
 cemplung
 cen
@@ -1152,6 +1153,7 @@ gaplek
 gapura
 gar
 gara
+garai
 garang
 garap
 garapan
@@ -1616,6 +1618,7 @@ irahan
 irai
 irak
 irama
+iras
 ireng
 iri
 iring
@@ -1789,6 +1792,7 @@ kaki
 kaku
 kala
 kalah
+kalai
 kalap
 kalawan
 kalebu
@@ -2653,6 +2657,7 @@ nelongso
 nembak
 nembang
 nembe
+nembel
 nembung
 nemen
 nempel
@@ -3811,6 +3816,7 @@ sutra
 suwe
 suwi
 suwun
+suwung
 swara
 syukur
 ta
