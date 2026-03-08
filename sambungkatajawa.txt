@@ -647,6 +647,7 @@ goblok
 godong
 gogrok
 gojlok
+gola
 golek
 golongan
 gombal
@@ -1141,6 +1142,7 @@ kutang
 kuti
 la
 laba
+labu
 lagi
 lagu
 lah
@@ -1278,6 +1280,7 @@ maleh
 mambu
 man
 mana
+manah
 manasi
 mandi
 mane
@@ -2171,6 +2174,7 @@ unta
 untal
 untu
 untuk
+untung
 up
 upa
 upah
