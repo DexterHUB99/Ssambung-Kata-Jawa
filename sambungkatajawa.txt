@@ -266,6 +266,7 @@ anjay
 anjing
 anjir
 anjlok
+anjrit
 anjur
 anjuran
 anoman
@@ -583,6 +584,7 @@ bulat
 buli
 bum
 bumi
+bunder
 bunga
 bungah
 bungkus
@@ -1124,6 +1126,7 @@ ganthi
 ganti
 gantung
 ganyong
+gaplek
 gapura
 gar
 gara
@@ -1872,6 +1875,7 @@ kemene
 kemi
 kemiri
 kemis
+kempol
 kemproh
 kemul
 ken
@@ -2885,6 +2889,7 @@ noken
 nokoh
 nol
 nolak
+noleh
 nom
 nombok
 nomer
@@ -3484,6 +3489,7 @@ sangu
 sanjang
 santun
 sanur
+sap
 sapa
 sapi
 sapih
@@ -3595,6 +3601,7 @@ siro
 sirsak
 sis
 sisa
+sisan
 sisi
 sisik
 sisir
