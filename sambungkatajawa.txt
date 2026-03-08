@@ -2683,6 +2683,7 @@ lika
 liku
 lila
 lilin
+lilit
 lilo
 lim
 lima
@@ -3731,6 +3732,7 @@ opa
 opah
 opak
 opel
+opet
 opo
 opon
 opor
