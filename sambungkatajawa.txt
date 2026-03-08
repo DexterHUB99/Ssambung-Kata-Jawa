@@ -2642,6 +2642,7 @@ kutang
 kutha
 kuti
 kutuk
+kuwalat
 kuwe
 kuwi
 la
@@ -3568,6 +3569,7 @@ ngocok
 ngok
 ngoke
 ngoko
+ngokop
 ngolah
 ngolet
 ngoli
@@ -3899,6 +3901,7 @@ opah
 opak
 opel
 open
+opera
 opet
 opo
 opon
@@ -5197,6 +5200,7 @@ undangan
 undhi
 unduh
 undur
+unem
 unen
 ung
 ungaran
