@@ -592,6 +592,7 @@ bejur
 bekas
 bekel
 beko
+bel
 bela
 belah
 belang
