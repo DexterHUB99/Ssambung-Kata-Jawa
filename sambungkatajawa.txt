@@ -421,6 +421,7 @@ donga
 dorong
 dowo
 duda
+dudi
 dudu
 duduh
 duduk
@@ -701,6 +702,7 @@ guneme
 gunung
 gupak
 gur
+gurih
 guru
 gusa
 gusah
@@ -976,6 +978,7 @@ kademan
 kados
 kae
 kahanan
+kaila
 kaisa
 kaji
 kajian
@@ -1424,6 +1427,7 @@ nedha
 nedho
 neduh
 negara
+negas
 nek
 nekat
 neko
@@ -1490,6 +1494,7 @@ ngasuh
 ngatur
 ngawe
 ngawi
+ngawiti
 ngawor
 ngecek
 ngelak
@@ -1673,6 +1678,7 @@ oreng
 orep
 ori
 orok
+os
 oseng
 otak
 otot
@@ -1972,6 +1978,7 @@ sip
 sipit
 sirah
 siram
+sirna
 sisi
 sisir
 siter
@@ -2153,6 +2160,7 @@ ujuk
 ujung
 uk
 uka
+ukaa
 ukar
 ukara
 ukarane
