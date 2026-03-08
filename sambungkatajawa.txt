@@ -1,4 +1,6 @@
 aa
+ab
+abu
 adah
 adoh
 adus
@@ -66,12 +68,14 @@ idep
 idu
 ijik
 iki
+iklim
 iku
 ilang
 iler
 ilih
 ingsun
 ipa
+irah
 ireng
 irus
 itil
@@ -93,6 +97,7 @@ kue
 kutang
 lambemu
 lambung
+leh
 lima
 loh
 madang
@@ -116,6 +121,7 @@ ngrit
 ngukur
 ngulek
 nipu
+nol
 nresnani
 ogah
 oke
@@ -135,6 +141,7 @@ riko
 roda
 sa
 sampean
+saru
 sayur
 sego
 siji
@@ -148,6 +155,7 @@ teras
 teri
 tindak
 tuak
+tumbas
 udan
 ujuk
 ukara
@@ -155,10 +163,12 @@ ula
 uler
 ulo
 umbel
+ungkir
 ungu
 untal
 untu
 urang
+urus
 usil
 usus
 utawi
@@ -166,3 +176,4 @@ uyuh
 wulan
 yuda
 yuka
+yuni
