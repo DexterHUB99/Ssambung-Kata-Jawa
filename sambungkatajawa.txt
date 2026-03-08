@@ -177,6 +177,7 @@ atun
 atur
 aturan
 aul
+aut
 awak
 awal
 awas
@@ -192,6 +193,7 @@ ayu
 az
 babi
 baca
+bajigur
 bajingan
 bajul
 bal
@@ -253,6 +255,7 @@ dadi
 dagang
 dagu
 dahar
+daki
 dalan
 dalem
 damen
@@ -1431,6 +1434,7 @@ ti
 tibo
 tikar
 tikung
+tikus
 til
 tilem
 tili
@@ -1460,6 +1464,7 @@ tum
 tuman
 tumbas
 tumindak
+tumpak
 tumplek
 tumrap
 tumut
