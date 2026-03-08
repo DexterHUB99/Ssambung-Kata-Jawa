@@ -3930,6 +3930,7 @@ nipak
 nipis
 nipu
 nir
+nira
 niri
 nirwana
 nis
@@ -4524,6 +4525,7 @@ rampung
 rampungan
 ramu
 ran
+rana
 ranah
 rancang
 randa
@@ -4533,6 +4535,7 @@ rang
 rangga
 rangkat
 rangkul
+rani
 ranjang
 rantang
 rantas
