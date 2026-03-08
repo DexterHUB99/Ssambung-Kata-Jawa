@@ -39,6 +39,7 @@ amerga
 ami
 amit
 amparan
+amung
 an
 ana
 anak
@@ -52,6 +53,7 @@ ani
 anjay
 anjing
 anjir
+antara
 anti
 anyar
 apa
@@ -88,6 +90,7 @@ bisu
 bisulan
 bo
 bojo
+bosok
 bude
 budhal
 camat
@@ -275,6 +278,7 @@ kayu
 ke
 kene
 kenek
+kera
 kesah
 kidang
 kila
@@ -396,6 +400,7 @@ ngapa
 ngapak
 ngarit
 ngatur
+ngelu
 ngertos
 ngg
 nggeh
@@ -468,7 +473,9 @@ pusing
 putra
 rabi
 rai
+raimu
 rakus
+rama
 rambut
 rame
 rampung
