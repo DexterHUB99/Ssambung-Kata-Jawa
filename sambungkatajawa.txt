@@ -99,6 +99,7 @@ alas
 alay
 alem
 aleman
+aler
 alet
 alhamdulillah
 ali
@@ -677,6 +678,7 @@ erah
 eram
 erang
 erat
+eren
 eri
 erik
 eris
@@ -1008,6 +1010,7 @@ id
 idam
 idep
 ider
+idih
 idu
 ig
 iga
@@ -2118,6 +2121,7 @@ padu
 padusan
 paguyupan
 pahing
+pahit
 pajak
 pajar
 paji
@@ -2544,6 +2548,7 @@ sura
 surat
 suri
 suroboyo
+suruh
 surup
 surya
 susah
