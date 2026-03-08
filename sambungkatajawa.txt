@@ -125,6 +125,7 @@ goblok
 golek
 golongan
 gong
+goreng
 gula
 guling
 gulu
@@ -155,6 +156,7 @@ hiri
 hm
 hooh
 hum
+hurip
 hutan
 hutang
 ibu
@@ -187,6 +189,7 @@ irah
 irahan
 ireng
 iri
+irung
 irus
 isa
 isi
@@ -252,11 +255,13 @@ laron
 layu
 leh
 lele
+lilo
 lima
 limo
 lintah
 lisa
 loh
+lombok
 lungguh
 lurah
 lusa
@@ -342,6 +347,7 @@ oncek
 onta
 opa
 opak
+opo
 ora
 ori
 otot
@@ -353,6 +359,7 @@ payah
 pinten
 piro
 po
+pun
 pundhut
 punika
 pusing
@@ -421,9 +428,11 @@ tuak
 tula
 tumbas
 tumut
+turu
 tutuk
 udan
 udang
+ugo
 ujuk
 uka
 ukar
