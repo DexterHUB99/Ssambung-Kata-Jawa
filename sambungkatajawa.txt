@@ -24,6 +24,7 @@ akil
 aksi
 aku
 akut
+ala
 alah
 alem
 ali
@@ -59,11 +60,13 @@ areng
 arep
 asa
 asin
+asli
 asma
 aso
 asta
 asu
 ati
+atis
 atos
 awas
 ayo
@@ -78,10 +81,12 @@ bisulan
 bo
 bojo
 bude
+budhal
 candra
 celeng
 cik
 codet
+curut
 dagang
 dalan
 dan
@@ -205,6 +210,7 @@ imo
 indak
 indu
 induk
+ing
 ingsun
 ini
 ipa
@@ -238,6 +244,7 @@ kacek
 kadal
 kaku
 kali
+kalis
 kampung
 kamu
 kancil
@@ -292,6 +299,7 @@ layu
 leh
 lele
 lemot
+lihat
 lika
 lilo
 lima
@@ -351,6 +359,7 @@ ngadi
 ngaji
 ngaleh
 ngalor
+ngamok
 nganjuk
 ngantuk
 ngaos
@@ -538,6 +547,7 @@ utang
 utawi
 utek
 utel
+utuh
 uyuh
 wadon
 warisan
