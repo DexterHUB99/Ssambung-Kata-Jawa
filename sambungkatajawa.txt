@@ -119,9 +119,11 @@ alang
 alangan
 alap
 alas
+alat
 alay
 alem
 aleman
+alep
 aler
 ales
 alet
@@ -229,6 +231,8 @@ angkringan
 angkuh
 angsa
 angsal
+angsul
+angus
 ani
 anik
 aning
@@ -256,6 +260,7 @@ anu
 anus
 anut
 anyar
+anyer
 ap
 apa
 apal
@@ -433,6 +438,7 @@ becik
 beda
 bedes
 bedok
+bedug
 begja
 bego
 beja
@@ -450,6 +456,7 @@ bene
 bengi
 beni
 benjol
+benten
 berak
 bero
 besok
@@ -488,6 +495,7 @@ bolo
 bolot
 bom
 bon
+bongkok
 boro
 borok
 bosen
@@ -667,6 +675,7 @@ dodol
 dola
 dolan
 dolanan
+dolen
 dom
 domba
 dompet
@@ -723,6 +732,7 @@ duwur
 ealah
 ebeg
 ebi
+eco
 eda
 edan
 edi
@@ -752,6 +762,7 @@ ehu
 ehuk
 eja
 eka
+ekal
 ekan
 eke
 ekeh
@@ -794,6 +805,7 @@ ember
 emboh
 embong
 embuh
+embun
 emem
 emi
 emo
@@ -842,6 +854,7 @@ entong
 entuk
 entut
 epa
+epal
 epan
 epang
 epar
@@ -996,6 +1009,7 @@ gawe
 gawean
 gaweopo
 gawok
+gayeng
 gayung
 ge
 geblek
@@ -1222,6 +1236,7 @@ hijau
 hiji
 hilang
 himpun
+himpunan
 hina
 hinggap
 hir
@@ -1444,6 +1459,7 @@ janji
 jaran
 jaranan
 jare
+jasa
 jati
 jawa
 jawaban
@@ -1481,6 +1497,7 @@ jola
 joli
 jomblo
 jor
+jora
 joran
 jore
 jorok
@@ -1689,10 +1706,12 @@ kil
 kila
 kilas
 kilat
+kile
 kilen
 kim
 kima
 kiman
+kimpul
 kina
 kinanthi
 kinasih
@@ -1739,6 +1758,7 @@ kondangan
 kono
 kontol
 kontrol
+kopeng
 koper
 kopi
 koplak
@@ -1749,6 +1769,7 @@ koran
 korek
 kos
 kose
+kosek
 kosok
 kot
 kota
@@ -1797,6 +1818,7 @@ kuno
 kunti
 kuntul
 kup
+kupat
 kuping
 kur
 kura
@@ -1820,6 +1842,7 @@ labu
 lagi
 lagu
 lah
+lakon
 laku
 laler
 lali
@@ -1864,6 +1887,7 @@ lari
 laron
 laru
 las
+lasak
 lase
 latah
 latar
@@ -1881,6 +1905,7 @@ le
 legi
 leh
 lek
+lekat
 lele
 lem
 lema
@@ -2046,6 +2071,7 @@ marah
 marak
 marani
 marem
+mareng
 mari
 mariki
 maring
@@ -2267,6 +2293,7 @@ ngacung
 ngadeg
 ngadek
 ngadem
+ngadep
 ngadi
 ngado
 ngadu
@@ -2451,6 +2478,7 @@ ngul
 ngulek
 nguli
 ngulik
+ngulo
 ngulon
 ngumbahi
 ngumpul
@@ -2468,6 +2496,7 @@ ngurip
 nguripi
 ngurus
 nguser
+ngusung
 ngutang
 nguyuh
 ngwah
@@ -2530,6 +2559,7 @@ nresnani
 nrimo
 nu
 nuduh
+nugel
 nuh
 nuhun
 nuki
@@ -2539,6 +2569,7 @@ nulis
 num
 numbal
 numpak
+numplek
 numpuk
 nun
 nung
@@ -2779,6 +2810,7 @@ piye
 po
 pocong
 pojok
+pojokan
 pokok
 pol
 pola
@@ -2818,6 +2850,7 @@ putih
 putra
 putri
 putu
+putus
 puyeng
 puyuh
 ra
@@ -3051,6 +3084,7 @@ sampean
 sampeyan
 sampun
 sana
+sandal
 sandhang
 sangga
 sangka
@@ -3305,6 +3339,7 @@ telu
 tema
 tembok
 tembung
+temen
 temon
 tempe
 tempel
@@ -3574,6 +3609,7 @@ usir
 usuk
 usung
 usus
+usut
 uta
 utama
 utang
@@ -3711,6 +3747,7 @@ yuna
 yuni
 yura
 yuri
+yusa
 yuswa
 yuyu
 zakat
