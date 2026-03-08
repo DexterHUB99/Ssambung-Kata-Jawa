@@ -619,6 +619,7 @@ besuk
 besuki
 betah
 beto
+biak
 biang
 biasa
 biaya
@@ -3504,6 +3505,7 @@ ngusik
 ngusir
 ngusung
 ngutang
+ngutik
 nguyu
 nguyuh
 ngwah
