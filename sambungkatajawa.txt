@@ -758,7 +758,6 @@ cari
 carik
 carita
 caruk
-cat
 cawet
 cawik
 cawis
@@ -781,7 +780,6 @@ cengel
 cengkeh
 cenil
 cep
-cer
 cerak
 ceri
 cerita
@@ -883,7 +881,6 @@ daun
 dawet
 dawuh
 de
-dedak
 dede
 dedek
 dedemit
@@ -910,17 +907,14 @@ dereng
 desa
 dewa
 dewe
-dewek
 dewi
 dhadha
 di
-diancok
 didak
 didi
 didik
 didu
 digawa
-dik
 dika
 dikep
 diki
@@ -1253,7 +1247,6 @@ ere
 erek
 eren
 erep
-eret
 eri
 erik
 ering
@@ -1317,7 +1310,6 @@ ex
 eya
 eyang
 eyup
-ez
 fokus
 fungsi
 ga
@@ -1631,7 +1623,6 @@ gur
 gurah
 guri
 gurih
-gurit
 guru
 gus
 gusa
@@ -1959,7 +1950,6 @@ isen
 isep
 isi
 isian
-isien
 isih
 isik
 isin
@@ -2351,7 +2341,6 @@ keset
 kesi
 kesna
 kesuh
-kesupen
 kesusu
 ketan
 ketar
@@ -2544,7 +2533,6 @@ kursi
 kuru
 kurus
 kus
-kuse
 kusen
 kusir
 kusuma
@@ -3212,7 +3200,6 @@ ngabekti
 ngaben
 ngaca
 ngaceng
-ngacir
 ngaco
 ngacung
 ngadeg
@@ -3449,7 +3436,6 @@ ngomong
 ngompol
 ngongkang
 ngono
-ngonten
 ngontol
 ngop
 ngopi
@@ -3682,7 +3668,6 @@ okee
 okeh
 okei
 okel
-oker
 okok
 okol
 okon
@@ -3750,7 +3735,6 @@ or
 ora
 orah
 orai
-oraiso
 orak
 oran
 orang
@@ -3850,7 +3834,6 @@ parang
 parani
 paras
 pare
-parek
 pareng
 pari
 paring
@@ -4573,7 +4556,6 @@ sulak
 sulam
 sule
 suli
-sulur
 sum
 suma
 suman
