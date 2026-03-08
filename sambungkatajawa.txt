@@ -30,6 +30,7 @@ akut
 ala
 alah
 alem
+aleman
 ali
 aliran
 aman
@@ -438,6 +439,7 @@ negara
 nekat
 neko
 nembung
+nerjang
 nesu
 ngadi
 ngaji
@@ -679,6 +681,7 @@ wangsul
 warisan
 wayang
 wedang
+wektu
 werno
 weton
 wit
