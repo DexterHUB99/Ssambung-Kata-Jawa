@@ -118,6 +118,7 @@ duri
 edan
 ehi
 eka
+eke
 eko
 ekor
 elang
@@ -239,6 +240,7 @@ inggih
 ingsun
 ini
 ipa
+ipin
 irah
 irahan
 ireng
@@ -290,6 +292,7 @@ kenek
 kera
 kesah
 kidang
+kidul
 kila
 kira
 kirang
@@ -303,6 +306,7 @@ kolak
 kono
 kontrol
 koran
+koyo
 krama
 ku
 kue
@@ -333,6 +337,7 @@ lanang
 lanjut
 lantang
 laos
+lapis
 lapo
 lari
 laron
@@ -591,6 +596,7 @@ ulam
 ulama
 ular
 uler
+ulih
 ulo
 umbel
 umpama
@@ -613,6 +619,7 @@ urip
 urung
 urus
 usah
+usap
 usil
 usus
 uta
@@ -623,6 +630,7 @@ utel
 utuh
 uyuh
 wadon
+wangsul
 warisan
 wayang
 wedang
