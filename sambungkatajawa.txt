@@ -360,6 +360,7 @@ anjir
 anjlok
 anjog
 anjrit
+anjuk
 anjur
 anjuran
 anom
@@ -2452,6 +2453,7 @@ kasa
 kasang
 kasar
 kasep
+kaset
 kasi
 kasih
 kasil
@@ -3212,6 +3214,7 @@ matamu
 matane
 matek
 mateng
+mateni
 mati
 matur
 maturnuwun
@@ -4222,6 +4225,7 @@ pager
 paguyupan
 pahing
 pahit
+paijo
 paing
 pait
 pajak
@@ -5394,6 +5398,7 @@ tuku
 tukul
 tul
 tula
+tulak
 tulang
 tulen
 tuli
