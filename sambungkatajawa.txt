@@ -1638,6 +1638,7 @@ gelud
 gelut
 gema
 gemar
+gemas
 gemati
 gembel
 gemblong
