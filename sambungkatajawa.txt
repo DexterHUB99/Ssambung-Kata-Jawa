@@ -2324,6 +2324,7 @@ kerep
 kereta
 keri
 keris
+kerja
 kerjo
 kero
 kerok
