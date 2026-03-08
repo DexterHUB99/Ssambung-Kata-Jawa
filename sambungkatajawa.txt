@@ -21,6 +21,7 @@ adal
 adam
 adang
 adat
+ade
 adek
 adem
 aden
@@ -98,6 +99,7 @@ aji
 ajig
 ajih
 ajik
+ajor
 ajur
 ak
 aka
@@ -105,6 +107,7 @@ akad
 akah
 akak
 akal
+akalan
 akan
 akang
 akar
@@ -247,7 +250,6 @@ anay
 ancen
 ancik
 ancok
-ancuk
 ancur
 andap
 andaran
@@ -296,6 +298,7 @@ angkot
 angkring
 angkringan
 angkuh
+angkut
 angon
 angop
 angsa
@@ -537,6 +540,7 @@ baju
 bajul
 bakmi
 bakso
+bakul
 bal
 balek
 bali
@@ -908,6 +912,8 @@ dikongkon
 dil
 dila
 dilah
+dilalah
+dilat
 dilem
 dilit
 dilok
@@ -1093,6 +1099,7 @@ elo
 elok
 elon
 elor
+elos
 elu
 eluh
 elus
@@ -1220,6 +1227,7 @@ erat
 ere
 erek
 eren
+erep
 eri
 erik
 ering
@@ -1246,7 +1254,6 @@ ese
 eseh
 esek
 esem
-esi
 esih
 eso
 esok
@@ -1294,6 +1301,7 @@ gabung
 gabus
 gadhah
 gading
+gaduh
 gae
 gagah
 gagak
@@ -1305,6 +1313,7 @@ gage
 gah
 gairah
 gajah
+gaje
 gajelas
 gaji
 gak
@@ -1430,6 +1439,7 @@ gemblong
 gemblung
 gembong
 gembrot
+gemes
 gempol
 gemuk
 gen
@@ -1837,6 +1847,7 @@ imut
 in
 ina
 inah
+inak
 inang
 indah
 indak
@@ -1853,6 +1864,7 @@ ing
 inggal
 inggih
 inggil
+ingi
 ingin
 ingkang
 ingkung
@@ -2166,6 +2178,7 @@ karsa
 kartu
 karung
 kas
+kasa
 kasang
 kasar
 kasep
@@ -2232,6 +2245,7 @@ kemah
 kembang
 kemben
 kemene
+kemeng
 kemi
 kemiri
 kemis
@@ -2378,6 +2392,7 @@ kolak
 kolam
 koloh
 kolong
+kolot
 kom
 koma
 komen
@@ -2469,6 +2484,7 @@ kup
 kupat
 kupeng
 kuping
+kupluk
 kur
 kura
 kuran
@@ -2883,12 +2899,14 @@ mie
 mieayam
 mijil
 mik
+mikir
 mikul
 mil
 mila
 milah
 milih
 milik
+mimis
 min
 minal
 minat
@@ -3587,6 +3605,7 @@ okok
 okol
 okon
 okor
+okos
 ol
 olah
 olaha
@@ -3658,6 +3677,7 @@ ori
 orie
 orok
 oros
+orotan
 os
 osah
 osaka
@@ -3722,6 +3742,7 @@ pang
 pangan
 panggah
 panggon
+pangling
 pani
 panik
 panis
@@ -3795,10 +3816,13 @@ pia
 piano
 picek
 pih
+pijat
+pijet
 pijit
 pikang
 pikir
 pikuk
+pikul
 pikun
 pil
 pilah
@@ -4010,6 +4034,7 @@ rawe
 rawon
 rawuh
 re
+rebahan
 rebana
 rebo
 receh
@@ -4127,6 +4152,7 @@ rotan
 roti
 roto
 rowang
+royal
 ru
 ruang
 rubuh
@@ -4152,6 +4178,7 @@ rupa
 rus
 rusa
 rusak
+rusaken
 rusuh
 rut
 ruti
@@ -4183,6 +4210,7 @@ sakarep
 saken
 saket
 saking
+sakit
 sakne
 sakti
 saku
@@ -4471,6 +4499,7 @@ sur
 sura
 surai
 surat
+suren
 suri
 suroboyo
 suruh
@@ -4595,6 +4624,7 @@ tenan
 tenane
 tengah
 tengen
+tenggok
 tentram
 tentrem
 tenun
@@ -4861,6 +4891,7 @@ ungkap
 ungkas
 ungkir
 ungu
+unjar
 unjuk
 unta
 untal
@@ -5059,6 +5090,7 @@ witir
 wiwit
 wiwitan
 wok
+wol
 wolu
 wong
 wonosobo
@@ -5082,6 +5114,7 @@ yas
 yasi
 yasin
 yati
+yawis
 yekti
 yen
 yesa
