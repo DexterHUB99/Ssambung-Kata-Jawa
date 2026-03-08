@@ -1401,6 +1401,7 @@ eris
 ero
 eroh
 erok
+eror
 eros
 erosi
 eru
@@ -2928,6 +2929,7 @@ layangan
 layar
 layu
 le
+leak
 lee
 lega
 legawa
@@ -3353,6 +3355,7 @@ mulang
 muleh
 mules
 muli
+mulia
 mulih
 mulya
 mumet
