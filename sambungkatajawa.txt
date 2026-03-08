@@ -150,7 +150,6 @@ ako
 akol
 akon
 akor
-aksa
 aksara
 aksen
 aksi
@@ -219,7 +218,6 @@ amber
 ambil
 ambruk
 ambu
-ambune
 ambung
 ambunge
 ambyar
@@ -280,14 +278,12 @@ ancik
 ancok
 ancuk
 ancur
-andalan
 andap
 andar
 andaran
 andeg
 andel
 anderan
-andha
 andhaan
 andhap
 andheng
@@ -380,7 +376,6 @@ anum
 anus
 anut
 anyam
-anyaman
 anyar
 anyep
 anyer
@@ -391,7 +386,6 @@ apal
 apalan
 apar
 ape
-apeg
 apek
 apel
 apem
@@ -421,6 +415,7 @@ arem
 aren
 areng
 arep
+aret
 ari
 arih
 aring
@@ -440,7 +435,6 @@ artis
 arto
 aru
 arum
-arupa
 arus
 as
 asa
@@ -552,7 +546,6 @@ awis
 awit
 awong
 awor
-awu
 awul
 awur
 aya
@@ -790,6 +783,7 @@ bunga
 bungah
 bungkus
 buntut
+bur
 buron
 buru
 busi
@@ -1042,6 +1036,7 @@ dinten
 dipan
 dipun
 dir
+diri
 disan
 disana
 disek
@@ -1252,7 +1247,6 @@ ember
 emboh
 embong
 embuh
-embuhe
 embun
 embunan
 embung
@@ -1299,6 +1293,7 @@ endong
 ene
 eneg
 enek
+enel
 enen
 eneng
 enggal
@@ -1426,7 +1421,6 @@ etu
 etub
 etuh
 etuk
-etung
 etus
 ew
 ewang
@@ -1672,6 +1666,7 @@ gilo
 giman
 gimbal
 gina
+gincu
 gini
 ginjal
 gir
@@ -1733,7 +1728,6 @@ griwa
 griya
 grobak
 grogi
-grombolan
 grujuk
 gu
 gudang
@@ -1774,7 +1768,6 @@ gunung
 gupak
 gupuh
 gur
-gura
 gurah
 guri
 gurih
@@ -2117,6 +2110,7 @@ iros
 iru
 irub
 irug
+irum
 irung
 irunge
 irup
@@ -2171,7 +2165,6 @@ jaga
 jagong
 jagung
 jahil
-jait
 jaja
 jajal
 jajan
@@ -2346,7 +2339,6 @@ kamar
 kambi
 kambil
 kambing
-kambuh
 kami
 kamis
 kampil
@@ -2801,6 +2793,7 @@ lame
 lamen
 lami
 lamis
+lamongan
 lampah
 lampar
 lamper
@@ -2825,7 +2818,6 @@ langsing
 langu
 lani
 lanjut
-lantai
 lantang
 lantas
 lanti
@@ -3008,6 +3000,7 @@ lori
 loro
 lorong
 los
+lose
 losi
 lotek
 lowong
@@ -3084,7 +3077,6 @@ malang
 malas
 maleh
 males
-malesan
 malih
 maling
 malu
@@ -3118,7 +3110,6 @@ mangkel
 mangkih
 mangku
 mangsa
-mangun
 mangut
 mani
 manis
@@ -3136,7 +3127,6 @@ maos
 marah
 marai
 marak
-marang
 marani
 marem
 mareng
@@ -3305,6 +3295,7 @@ murah
 muri
 murid
 murka
+murung
 murup
 mus
 musa
@@ -3348,7 +3339,6 @@ nalar
 nali
 nalik
 nalika
-nalikane
 naluri
 nama
 namba
@@ -3474,7 +3464,6 @@ neptu
 ner
 nerak
 neraka
-nerang
 nerima
 nerjang
 nesa
@@ -3649,7 +3638,6 @@ ngendog
 ngene
 ngenes
 ngeng
-ngengek
 ngenget
 ngenggo
 ngenjang
@@ -3677,7 +3665,6 @@ ngeyel
 ngg
 nggak
 nggali
-nggambar
 nggarap
 nggawa
 nggawe
@@ -3939,6 +3926,7 @@ nuli
 nulis
 nulungi
 num
+numan
 numbal
 numbas
 numpak
@@ -3982,6 +3970,7 @@ nyilih
 nyiram
 nyong
 nyusahake
+nyusu
 nyusul
 nyuwun
 oalah
@@ -4137,7 +4126,6 @@ pace
 pacik
 pacul
 padang
-padaran
 padas
 padasan
 pados
@@ -4159,7 +4147,6 @@ pake
 pakpuh
 paku
 pala
-palah
 palang
 palem
 paleng
@@ -4220,7 +4207,6 @@ paru
 pas
 pasa
 pasah
-pasak
 pasang
 pasar
 paser
@@ -4229,6 +4215,7 @@ pasir
 patek
 pati
 patih
+patin
 patis
 patub
 patuh
@@ -4258,7 +4245,6 @@ pena
 penak
 pendek
 pendopo
-pengen
 peni
 pensil
 pentil
@@ -4501,7 +4487,6 @@ rase
 rasi
 rasis
 rasuk
-rasukan
 rat
 rata
 ratan
@@ -4541,7 +4526,6 @@ rembang
 rembes
 rembug
 rembuk
-rembukan
 rembulan
 remeh
 remek
@@ -4553,7 +4537,6 @@ rempon
 remu
 remuk
 ren
-rena
 renang
 rencang
 rendang
@@ -4566,6 +4549,7 @@ rengginang
 reog
 rep
 repi
+repo
 repot
 reresik
 res
@@ -4666,7 +4650,6 @@ rumi
 rumiyin
 rumput
 run
-runcing
 rung
 rungkad
 rungkut
@@ -4745,7 +4728,6 @@ sampir
 sampo
 sampun
 sampur
-sampurna
 san
 sana
 sandal
@@ -4817,7 +4799,6 @@ sehat
 sek
 sekawan
 seke
-sekek
 seket
 seko
 sekolah
@@ -4833,7 +4814,6 @@ selet
 selir
 semar
 sembah
-sembahyang
 semen
 semok
 sempak
@@ -4846,6 +4826,7 @@ senang
 sendal
 sendhang
 sendok
+senen
 sengkir
 senin
 senuk
@@ -4867,6 +4848,7 @@ sesupe
 setan
 sewelas
 sewu
+si
 sia
 sial
 siap
@@ -5162,7 +5144,6 @@ teles
 telo
 telu
 teluk
-tem
 tema
 tembak
 tembang
@@ -5179,7 +5160,6 @@ temu
 ten
 tenan
 tenane
-tenang
 tengah
 tengen
 tenggok
@@ -5247,7 +5227,6 @@ titen
 titi
 titik
 titip
-titis
 tiwas
 tiyang
 to
@@ -5372,7 +5351,6 @@ ugung
 uh
 uja
 ujar
-ujaran
 uji
 ujian
 ujuk
@@ -5382,7 +5360,6 @@ uk
 uka
 ukaa
 ukai
-ukal
 ukar
 ukara
 ukaran
@@ -5520,7 +5497,6 @@ uripku
 uripmu
 uris
 urit
-uritan
 uru
 urub
 uruk
@@ -5688,7 +5664,6 @@ wirangan
 wiri
 wis
 wisa
-wisata
 wisuh
 wit
 witan
