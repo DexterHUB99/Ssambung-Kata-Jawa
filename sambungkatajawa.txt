@@ -133,6 +133,7 @@ akit
 ako
 akon
 akor
+akrab
 aksara
 aksen
 aksi
@@ -195,6 +196,7 @@ ambek
 amben
 amber
 ambil
+ambruk
 ambu
 ambung
 ambunge
@@ -250,6 +252,7 @@ anay
 ancen
 ancik
 ancok
+ancuk
 ancur
 andap
 andaran
@@ -446,6 +449,7 @@ ata
 atah
 atak
 atap
+atapan
 atar
 atas
 ataw
@@ -514,6 +518,7 @@ ayo
 ayok
 ayu
 ayuh
+ayuk
 ayun
 ayunan
 az
@@ -656,7 +661,6 @@ bo
 bobok
 bocah
 bodo
-bodoh
 bojo
 bokek
 bokong
@@ -710,6 +714,7 @@ bunga
 bungah
 bungkus
 buntut
+buri
 buron
 buru
 busi
@@ -945,7 +950,6 @@ doa
 dodo
 dodol
 dodolan
-dokar
 dola
 dolan
 dolanan
@@ -1094,7 +1098,6 @@ elem
 elen
 eleng
 eler
-elet
 eli
 elig
 elik
@@ -1259,7 +1262,7 @@ ese
 eseh
 esek
 esem
-eses
+esi
 esih
 eso
 esok
@@ -1888,6 +1891,7 @@ inul
 inyong
 ip
 ipa
+ipan
 ipar
 ipe
 ipel
@@ -1934,6 +1938,7 @@ isian
 isih
 isik
 isin
+isinan
 isine
 ising
 isis
@@ -2640,7 +2645,6 @@ lesu
 lewat
 li
 liane
-liar
 libur
 licik
 licin
@@ -2656,6 +2660,7 @@ lilo
 lim
 lima
 limaa
+limas
 limbah
 limbuk
 limbung
@@ -2665,6 +2670,7 @@ limpa
 limun
 lin
 lina
+lindes
 lindhu
 lindur
 linggih
@@ -2700,7 +2706,6 @@ lodeh
 log
 logat
 loh
-loha
 lohan
 lok
 loka
@@ -2747,6 +2752,7 @@ luluh
 luma
 lumajang
 lumaku
+lumbung
 lumpuh
 lumrah
 lumuh
@@ -2764,6 +2770,7 @@ luruh
 lurus
 lus
 lusa
+lusuh
 luwe
 luweh
 luwes
@@ -2949,7 +2956,6 @@ mokong
 mol
 moleh
 molen
-moli
 momong
 mondok
 monggo
@@ -2996,6 +3002,7 @@ mur
 murah
 muri
 murid
+muring
 murka
 murup
 mus
@@ -3033,6 +3040,7 @@ naki
 nakon
 nakula
 nala
+nalang
 nalar
 nali
 nalik
@@ -3191,7 +3199,6 @@ ngalas
 ngale
 ngaleh
 ngalem
-ngaler
 ngali
 ngalih
 ngalo
@@ -3389,6 +3396,7 @@ ngolet
 ngoli
 ngolo
 ngolok
+ngomah
 ngombe
 ngome
 ngomong
@@ -3520,6 +3528,7 @@ nol
 nolak
 noleh
 nom
+noman
 nombak
 nombok
 nomer
@@ -3597,7 +3606,6 @@ oalah
 ob
 obah
 obat
-obeng
 obong
 obor
 obral
@@ -3725,7 +3733,6 @@ padasan
 pados
 padu
 padusan
-pager
 paguyupan
 pahing
 pahit
@@ -3797,11 +3804,11 @@ pasar
 paser
 pasi
 pasir
+pasrah
 patek
 pati
 patis
 patub
-patuh
 pawan
 pawang
 pawon
@@ -4118,6 +4125,7 @@ ridho
 rik
 rika
 rikala
+rikat
 riki
 rikma
 riko
@@ -4352,10 +4360,10 @@ senajan
 senang
 sendal
 sendhang
+seneng
 senin
 separo
 sepat
-sepet
 sepi
 sepuh
 sepuluh
@@ -4701,7 +4709,6 @@ tir
 tiri
 tiris
 tiru
-tis
 tisi
 tita
 titen
@@ -4881,6 +4888,7 @@ uman
 umbah
 umbar
 umbel
+umbelen
 umbi
 umbul
 umi
@@ -5063,6 +5071,7 @@ wayang
 wayangan
 we
 wedang
+wedangan
 wedhang
 wedhi
 wedhus
