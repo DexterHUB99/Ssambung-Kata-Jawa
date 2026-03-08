@@ -288,6 +288,7 @@ aneh
 anek
 aner
 anes
+angan
 angar
 ange
 angel
@@ -3564,6 +3565,7 @@ ngendog
 ngene
 ngenes
 ngeng
+ngengek
 ngenget
 ngenggo
 ngenjang
@@ -5121,6 +5123,7 @@ titen
 titi
 titik
 titip
+titis
 tiwas
 tiyang
 to
