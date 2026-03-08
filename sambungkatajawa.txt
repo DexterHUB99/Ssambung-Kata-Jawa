@@ -1205,6 +1205,7 @@ galengan
 galer
 gali
 galih
+galo
 galok
 galon
 gaman
@@ -3452,6 +3453,7 @@ peri
 perih
 peta
 pethuk
+petruk
 pi
 pia
 piano
