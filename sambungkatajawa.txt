@@ -1159,6 +1159,7 @@ ekis
 eklas
 eklek
 eko
+ekol
 ekoli
 ekor
 ekot
