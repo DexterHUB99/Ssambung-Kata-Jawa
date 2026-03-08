@@ -2043,6 +2043,7 @@ indung
 inem
 inep
 iner
+ines
 ing
 inggal
 inggih
@@ -3791,6 +3792,7 @@ nguna
 ngundang
 ngunduh
 ngundur
+ngunggah
 ngungkuli
 ngunjuk
 nguntal
