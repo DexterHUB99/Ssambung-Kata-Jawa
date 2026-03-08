@@ -118,6 +118,7 @@ eko
 ekor
 elang
 elek
+eleng
 elo
 eman
 emoh
@@ -136,6 +137,7 @@ ero
 eroh
 eros
 eruh
+etan
 eya
 gajah
 gak
@@ -319,6 +321,7 @@ lami
 lampu
 lampung
 lan
+lanang
 lanjut
 lantang
 laos
@@ -340,6 +343,7 @@ liwat
 loh
 lombok
 lopa
+lopis
 lungguh
 lurah
 lusa
@@ -405,10 +409,12 @@ ngertos
 ngg
 nggeh
 nggolek
+ngibul
 ngilang
 ngirim
 ngising
 ngisu
+ngolet
 ngoli
 ngombe
 ngono
@@ -516,6 +522,7 @@ sego
 siji
 siman
 simbah
+singa
 sip
 sisir
 slametan
@@ -555,6 +562,8 @@ turu
 tutuk
 udan
 udang
+udu
+udut
 ugo
 ujuk
 ujung
