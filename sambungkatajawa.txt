@@ -449,6 +449,7 @@ eko
 ekor
 elah
 elak
+elan
 elang
 elap
 eleh
@@ -781,6 +782,7 @@ ikan
 ikat
 ikatan
 iki
+ikil
 iklim
 ikon
 iku
@@ -1021,6 +1023,7 @@ kilas
 kilat
 kilen
 kim
+kinanthi
 kintir
 kir
 kira
@@ -1657,6 +1660,7 @@ pitutur
 piwulang
 piye
 po
+pokok
 pol
 pola
 poli
@@ -2124,6 +2128,7 @@ usak
 usap
 usi
 usia
+usih
 usik
 usil
 usir
