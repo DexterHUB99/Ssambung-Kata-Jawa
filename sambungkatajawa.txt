@@ -3691,6 +3691,7 @@ okon
 okop
 okor
 okos
+okur
 ol
 olah
 olaha
