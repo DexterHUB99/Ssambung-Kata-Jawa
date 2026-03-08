@@ -3614,6 +3614,7 @@ ngumbel
 ngumpet
 ngumpul
 ngumpulake
+nguna
 ngundang
 ngunduh
 ngundur
