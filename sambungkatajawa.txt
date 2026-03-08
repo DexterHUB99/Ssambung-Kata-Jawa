@@ -314,6 +314,7 @@ angop
 angsa
 angsal
 angsul
+angsur
 angur
 angus
 ani
@@ -1045,6 +1046,7 @@ dumugi
 dun
 dung
 dungo
+dungu
 dupa
 dur
 dura
