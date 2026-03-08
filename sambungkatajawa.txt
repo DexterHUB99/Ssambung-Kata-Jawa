@@ -267,7 +267,6 @@ ancang
 ancen
 ancik
 ancok
-ancuk
 ancur
 andap
 andaran
@@ -289,7 +288,6 @@ aneh
 anek
 aner
 anes
-angan
 angar
 ange
 angel
@@ -534,7 +532,6 @@ awis
 awit
 awong
 awor
-awu
 awul
 awur
 aya
@@ -1219,7 +1216,6 @@ ember
 emboh
 embong
 embuh
-embuhe
 embun
 embunan
 embung
@@ -1391,7 +1387,6 @@ etu
 etub
 etuh
 etuk
-etung
 etus
 ew
 ewang
@@ -2064,6 +2059,7 @@ irisan
 irisen
 irit
 iroh
+iron
 irong
 iros
 iru
@@ -3028,7 +3024,6 @@ malam
 malang
 maleh
 males
-malesan
 malih
 maling
 malu
@@ -3062,7 +3057,6 @@ mangkel
 mangkih
 mangku
 mangsa
-mangun
 mangut
 mani
 manis
@@ -3288,7 +3282,6 @@ nalar
 nali
 nalik
 nalika
-nalikane
 naluri
 nama
 nambah
@@ -3410,7 +3403,6 @@ neptu
 ner
 nerak
 neraka
-nerang
 nerima
 nerjang
 nesa
@@ -3581,7 +3573,6 @@ ngendog
 ngene
 ngenes
 ngeng
-ngengek
 ngenget
 ngenggo
 ngenjang
@@ -3608,7 +3599,6 @@ ngeyel
 ngg
 nggak
 nggali
-nggambar
 nggarap
 nggawa
 nggawe
@@ -4082,7 +4072,6 @@ pake
 pakpuh
 paku
 pala
-palah
 palang
 palem
 paleng
@@ -4457,7 +4446,6 @@ rembang
 rembes
 rembug
 rembuk
-rembukan
 rembulan
 remeh
 remek
@@ -4657,7 +4645,6 @@ sampir
 sampo
 sampun
 sampur
-sampurna
 san
 sana
 sandal
@@ -5069,7 +5056,6 @@ teles
 telo
 telu
 teluk
-tem
 tema
 tembak
 tembang
@@ -5152,7 +5138,6 @@ titen
 titi
 titik
 titip
-titis
 tiwas
 tiyang
 to
@@ -5283,7 +5268,6 @@ uk
 uka
 ukaa
 ukai
-ukal
 ukar
 ukara
 ukaran
