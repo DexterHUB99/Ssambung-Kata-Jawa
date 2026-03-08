@@ -247,6 +247,7 @@ asat
 asek
 asem
 asi
+asia
 asih
 asik
 asim
@@ -599,6 +600,7 @@ eli
 eling
 elo
 elok
+elon
 elus
 ema
 emak
@@ -1048,6 +1050,7 @@ inang
 indah
 indak
 indang
+indek
 indu
 induk
 indung
@@ -1289,6 +1292,7 @@ kepiye
 kepo
 kepriye
 kera
+keras
 kere
 keren
 kereta
@@ -1677,6 +1681,7 @@ na
 nabi
 nabu
 nadi
+nadyan
 nafas
 naga
 nagasari
@@ -1732,6 +1737,7 @@ nastar
 nata
 nawa
 nawar
+ndang
 ndasmu
 nduk
 ne
@@ -2184,6 +2190,7 @@ puri
 pusing
 putih
 putra
+putu
 puyeng
 ra
 rabi
@@ -2341,6 +2348,7 @@ rusak
 rusuh
 rut
 ruti
+rutin
 ruwet
 sa
 sabar
@@ -2387,6 +2395,7 @@ sayah
 sayang
 sayor
 sayur
+sedina
 sego
 seket
 sela
