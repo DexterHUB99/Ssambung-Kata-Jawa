@@ -1968,6 +1968,7 @@ jahil
 jaja
 jajal
 jajan
+jaket
 jalar
 jalaran
 jalo
@@ -2250,7 +2251,9 @@ keluh
 kem
 kemah
 kembang
+kembar
 kemben
+kemeja
 kemene
 kemeng
 kemi
@@ -3876,6 +3879,7 @@ pindang
 pindho
 ping
 pinggih
+pinggir
 pinta
 pinten
 pinter
@@ -4357,6 +4361,7 @@ senajan
 senang
 sendal
 sendhang
+sendok
 senin
 separo
 sepat
@@ -4936,6 +4941,7 @@ untuk
 untung
 up
 upa
+upacara
 upah
 upam
 upang
