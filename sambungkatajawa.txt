@@ -250,6 +250,7 @@ amp
 ampa
 ampal
 amparan
+ampas
 ampe
 ampela
 ampil
@@ -871,6 +872,7 @@ cek
 cekel
 celek
 celeng
+celi
 celuk
 cemani
 cempe
@@ -3425,6 +3427,7 @@ nakon
 nakoni
 nakula
 nala
+nalangi
 nalar
 nali
 nalik
@@ -3885,6 +3888,7 @@ ngucap
 ngucek
 ngudang
 ngudek
+ngudel
 ngudi
 ngudo
 ngudud
@@ -4173,6 +4177,7 @@ ompreng
 on
 onar
 oncek
+onco
 oncom
 onde
 ondha
