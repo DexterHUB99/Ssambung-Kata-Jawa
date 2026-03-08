@@ -602,6 +602,7 @@ cecak
 cecek
 ceh
 cek
+cekel
 celeng
 cempe
 cemplung
@@ -719,6 +720,7 @@ diman
 dimas
 dina
 dinas
+dinggo
 dingklik
 dino
 dinten
@@ -859,6 +861,7 @@ eleng
 eler
 eli
 eling
+elmu
 elo
 elok
 elon
@@ -1126,6 +1129,7 @@ geleman
 geli
 gelis
 gelo
+gelot
 gelut
 gemar
 gemati
@@ -1135,6 +1139,7 @@ gemblung
 gembong
 gemuk
 gen
+gena
 genah
 gendar
 gendeng
@@ -1466,6 +1471,7 @@ imbuhan
 iming
 imit
 imo
+impi
 impian
 imut
 in
@@ -2351,6 +2357,7 @@ muji
 muk
 mula
 mulane
+mulang
 muleh
 mules
 muli
@@ -3735,6 +3742,7 @@ tumbuk
 tumindak
 tumpak
 tumplek
+tumpuk
 tumrap
 tumrape
 tumut
