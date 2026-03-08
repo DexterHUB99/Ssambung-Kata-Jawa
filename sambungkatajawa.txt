@@ -2154,6 +2154,7 @@ kir
 kira
 kirab
 kirang
+kirap
 kiri
 kirik
 kirim
@@ -3044,6 +3045,7 @@ nginjak
 ngintip
 ngira
 ngirim
+ngiris
 ngisak
 ngiseng
 ngisi
@@ -4378,6 +4380,7 @@ umah
 umahe
 umak
 uman
+umbah
 umbar
 umbel
 umbi
