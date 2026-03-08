@@ -432,6 +432,7 @@ bebek
 becik
 beda
 bedes
+bedha
 bedok
 begja
 bego
@@ -503,6 +504,7 @@ bubur
 budak
 bude
 budhal
+budi
 budo
 buh
 buk
@@ -642,6 +644,7 @@ didi
 didik
 didu
 dika
+dikit
 dikon
 dikongkon
 dilah
@@ -705,6 +708,7 @@ duman
 dumane
 dumeh
 dumugi
+dun
 dung
 dungo
 dupa
@@ -1972,6 +1976,7 @@ los
 lotek
 loyo
 lu
+lucu
 luh
 luhur
 luk
@@ -2563,6 +2568,7 @@ nurut
 nuruti
 nus
 nusa
+nusul
 nut
 nuthuk
 nutup
@@ -3166,6 +3172,7 @@ sisa
 sisi
 sisir
 siter
+siti
 sitik
 slamet
 slametan
@@ -3436,6 +3443,8 @@ tutup
 tutur
 tuwa
 uang
+ub
+ubi
 ud
 uda
 udah
