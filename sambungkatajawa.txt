@@ -137,12 +137,14 @@ anake
 anal
 anam
 anan
+ananging
 anas
 ancen
 ancik
 ancok
 ancur
 andap
+andaran
 andhap
 andi
 andon
@@ -150,6 +152,7 @@ andong
 anduk
 ane
 aneh
+anek
 anes
 angel
 anget
@@ -162,6 +165,7 @@ angsa
 angsal
 ani
 anik
+aning
 anis
 anjay
 anjing
@@ -177,10 +181,12 @@ anti
 anting
 anton
 anu
+anus
 anut
 anyar
 ap
 apa
+apal
 ape
 apel
 apem
@@ -206,6 +212,7 @@ aring
 arisan
 arit
 arjuna
+arta
 arto
 aru
 arum
@@ -310,6 +317,7 @@ beda
 bego
 bejan
 bekas
+belu
 ben
 benang
 bengi
@@ -335,6 +343,7 @@ biyen
 bo
 bodo
 bojo
+bokek
 bola
 bolo
 borok
@@ -358,6 +367,7 @@ buta
 butek
 cabi
 cacah
+cacahe
 cacing
 cah
 cakot
@@ -375,6 +385,7 @@ cecak
 cek
 celeng
 cengkeh
+cep
 cerak
 cerita
 ci
@@ -428,6 +439,7 @@ dawuh
 de
 dede
 dedemit
+delima
 demak
 demok
 dendeng
@@ -465,8 +477,10 @@ duda
 dudi
 dudo
 dudu
+dudug
 duduh
 duduk
+duh
 duhur
 duit
 duka
@@ -487,7 +501,6 @@ dur
 dura
 duren
 duri
-durian
 durung
 duso
 dusun
@@ -497,8 +510,10 @@ duwit
 duwur
 ealah
 edan
+edi
 egak
 ego
+egrang
 eh
 eha
 ehak
@@ -518,6 +533,7 @@ eka
 ekan
 eke
 ekeh
+eker
 eki
 ekis
 eko
@@ -540,6 +556,7 @@ elus
 ema
 emak
 eman
+emane
 emas
 embah
 embat
@@ -591,6 +608,7 @@ epi
 epil
 epis
 epo
+epoh
 era
 erah
 eram
@@ -601,6 +619,7 @@ erik
 eris
 ero
 eroh
+erok
 eros
 erosi
 eru
@@ -615,6 +634,7 @@ esem
 esih
 eso
 esok
+esuk
 eta
 etan
 eti
@@ -630,6 +650,7 @@ ga
 gabah
 gaber
 gabung
+gadhah
 gading
 gae
 gagah
@@ -661,6 +682,8 @@ gancet
 gandrung
 gandul
 gangsal
+ganjaran
+ganti
 gantung
 gapura
 gar
@@ -754,7 +777,7 @@ gosong
 gragal
 gu
 gudang
-gudel
+gudeg
 gudhal
 gugah
 guguk
@@ -810,6 +833,7 @@ hambar
 hamil
 han
 hana
+hanan
 hani
 hansip
 hantu
@@ -919,6 +943,7 @@ ilah
 ilang
 ilat
 iler
+ili
 ilih
 ilik
 ilir
@@ -996,6 +1021,7 @@ ising
 isis
 islam
 iso
+istimewa
 istri
 isu
 isuk
@@ -1080,6 +1106,7 @@ kakang
 kaki
 kaku
 kalawan
+kaleh
 kali
 kalih
 kalis
@@ -1087,6 +1114,7 @@ kalong
 kamar
 kambil
 kambing
+kami
 kampung
 kamu
 kamus
@@ -1099,6 +1127,7 @@ kancil
 kancut
 kandang
 kandut
+kang
 kangen
 kanggo
 kanjeng
@@ -1150,6 +1179,7 @@ kemben
 kemiri
 kemproh
 kemul
+kendang
 kenduri
 kene
 kenek
@@ -1161,14 +1191,15 @@ kepo
 kepriye
 kera
 kere
-keren
 kereta
 keri
+keris
 kero
 kersa
 kesah
 kesel
-kesna
+keset
+ketan
 ketek
 ketemu
 ketir
@@ -1229,6 +1260,7 @@ koran
 korek
 kos
 kose
+kosok
 kot
 kota
 kotak
@@ -1311,6 +1343,7 @@ langkung
 lani
 lanjut
 lantang
+lantas
 lantip
 laos
 lap
@@ -1321,9 +1354,11 @@ lar
 lari
 laron
 laru
+las
 lase
 latar
 lathi
+laut
 lawa
 lawang
 lawuh
@@ -1331,7 +1366,6 @@ layar
 layu
 leh
 lele
-lem
 lemah
 lemot
 lemper
@@ -1476,9 +1510,11 @@ menika
 meri
 mesake
 met
+metu
 mi
 mie
 mikul
+milih
 min
 minal
 miring
@@ -1499,6 +1535,7 @@ mudeng
 muji
 mulane
 muleh
+mules
 mumet
 mundak
 mung
@@ -1541,6 +1578,7 @@ nanem
 nang
 nangdi
 nanggung
+nangi
 nanging
 nangis
 nangka
@@ -1548,7 +1586,6 @@ nangkring
 nani
 naon
 napa
-napak
 napi
 naran
 nari
@@ -1643,6 +1680,7 @@ ngawe
 ngawi
 ngawiti
 ngawor
+ngawur
 ngecek
 ngelak
 ngelawak
@@ -1674,11 +1712,14 @@ ngguyu
 ngibul
 ngicipi
 ngidul
+ngih
 ngiki
 ngilang
 ngiler
 ngimpi
 ngirim
+ngisak
+ngiseng
 ngisi
 ngising
 ngisor
@@ -1782,6 +1823,7 @@ nunut
 nurut
 nusa
 nuthuk
+nutup
 nuwun
 nyawiji
 nyedhak
@@ -1801,6 +1843,7 @@ oh
 oj
 ojo
 ojok
+ojolan
 ok
 oke
 okea
@@ -1816,6 +1859,7 @@ olo
 om
 oma
 omah
+ombak
 ombe
 omboh
 ome
@@ -1851,6 +1895,7 @@ os
 oseng
 otak
 otot
+owah
 pa
 pacik
 pacul
@@ -1910,6 +1955,7 @@ pilu
 pin
 pina
 pinak
+pinang
 pinarak
 pindah
 pindang
@@ -1917,6 +1963,7 @@ pindho
 ping
 pinten
 pintu
+pipi
 pipis
 pir
 pirang
@@ -2119,12 +2166,14 @@ sadar
 saget
 sah
 sahur
+sajen
 sak
 saku
 salah
 salam
 salim
 salon
+sami
 sampah
 sampean
 sampeyan
@@ -2181,6 +2230,7 @@ sip
 sipit
 sirah
 siram
+sirih
 sirna
 sisi
 sisir
@@ -2194,6 +2244,7 @@ soklat
 solah
 solid
 sombong
+some
 sonten
 sop
 sopan
@@ -2216,6 +2267,7 @@ suk
 suka
 suket
 suki
+sukun
 sukur
 sul
 sulak
@@ -2235,6 +2287,7 @@ sura
 surat
 suri
 suroboyo
+surup
 surya
 susah
 susi
@@ -2289,7 +2342,6 @@ telu
 tembok
 tempe
 tempik
-tenan
 tenane
 teras
 teri
@@ -2399,6 +2451,7 @@ ulama
 ulan
 ulang
 ulangan
+ulangi
 ular
 ulas
 ulek
@@ -2457,8 +2510,10 @@ ur
 ura
 urai
 urak
+urakan
 urang
 urap
+uras
 uri
 urih
 urik
