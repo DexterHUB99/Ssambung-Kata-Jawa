@@ -6,6 +6,7 @@ adah
 adat
 adoh
 adus
+ag
 aha
 ahad
 ahal
@@ -150,6 +151,7 @@ dapur
 dara
 dasi
 de
+dewi
 didik
 diman
 dina
@@ -169,6 +171,7 @@ duri
 ealah
 edan
 eha
+ehe
 ehek
 ehem
 ehi
@@ -179,8 +182,10 @@ eke
 eko
 ekor
 elang
+eleh
 elek
 eleng
+eling
 elo
 elok
 eman
@@ -245,6 +250,7 @@ gigal
 gigi
 gila
 gilo
+gina
 go
 goblok
 golek
@@ -721,10 +727,12 @@ raos
 rasa
 rasah
 rasi
+ratih
 ratu
 raup
 rawuh
 rega
+regane
 reget
 remeh
 rene
@@ -768,6 +776,7 @@ salim
 sampean
 sampun
 sapi
+sara
 sare
 saru
 sarungan
