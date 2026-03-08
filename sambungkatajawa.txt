@@ -314,7 +314,6 @@ angop
 angsa
 angsal
 angsul
-angsur
 angur
 angus
 ani
@@ -570,6 +569,7 @@ balon
 balung
 bam
 ban
+bancak
 bandeng
 bandrek
 bangsat
@@ -1046,7 +1046,6 @@ dumugi
 dun
 dung
 dungo
-dungu
 dupa
 dur
 dura
@@ -2122,6 +2121,7 @@ ji
 jijih
 jijik
 jikuk
+jil
 jili
 jim
 jimat
