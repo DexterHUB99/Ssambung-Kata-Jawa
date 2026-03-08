@@ -1513,6 +1513,7 @@ hani
 hansip
 hantam
 hantu
+hap
 hapa
 hape
 hapus
@@ -3108,6 +3109,7 @@ ngorong
 ngos
 ngosek
 ngosok
+ngowah
 ngowe
 ngowoh
 ngoyak
