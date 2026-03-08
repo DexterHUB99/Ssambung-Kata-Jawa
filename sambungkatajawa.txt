@@ -17,6 +17,7 @@ ahu
 aing
 air
 ajal
+ajek
 ajeng
 akal
 akeh
@@ -54,6 +55,7 @@ anti
 anyar
 apa
 apel
+apik
 apung
 arang
 are
@@ -230,6 +232,7 @@ isine
 iso
 isu
 itil
+itung
 iwak
 iyo
 jab
@@ -271,6 +274,7 @@ koen
 kolak
 kono
 kontrol
+koran
 krama
 ku
 kue
@@ -286,6 +290,7 @@ kuru
 kut
 kutang
 lagu
+laler
 lali
 lam
 lambe
@@ -374,6 +379,7 @@ ngaos
 ngapa
 ngapak
 ngarit
+ngatur
 ngertos
 ngg
 nggeh
@@ -401,6 +407,7 @@ nipu
 no
 nok
 nol
+nomer
 nonton
 nresnani
 oalah
@@ -514,6 +521,7 @@ tuak
 tula
 tulung
 tumbas
+tumrap
 tumut
 tunggal
 turu
@@ -535,6 +543,7 @@ ulo
 umbel
 umpama
 umuk
+umur
 uncal
 unggah
 ungkir
@@ -563,6 +572,7 @@ uyuh
 wadon
 warisan
 wayang
+wedang
 werno
 weton
 wit
