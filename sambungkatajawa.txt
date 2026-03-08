@@ -267,6 +267,7 @@ ancang
 ancen
 ancik
 ancok
+ancuk
 ancur
 andap
 andaran
