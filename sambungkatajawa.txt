@@ -2791,6 +2791,7 @@ kukus
 kul
 kula
 kulak
+kulakan
 kuli
 kulina
 kulit
@@ -3251,6 +3252,7 @@ matur
 maturnuwun
 matursuwun
 mau
+mawon
 maya
 mayak
 mayat
@@ -4222,6 +4224,7 @@ orak
 oran
 orang
 orapopo
+oras
 ore
 orek
 oren
@@ -4307,6 +4310,7 @@ pandawa
 pandu
 panen
 pang
+pangajak
 pangan
 pangapura
 panggah
