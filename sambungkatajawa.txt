@@ -343,6 +343,7 @@ cecak
 celeng
 cengkeh
 cerak
+cerita
 cicak
 cik
 ciki
@@ -454,6 +455,7 @@ ehem
 ehi
 eho
 ehod
+ehok
 ehu
 ehuk
 eja
@@ -484,6 +486,7 @@ emas
 embah
 ember
 emboh
+embong
 embuh
 emoh
 emok
@@ -803,6 +806,7 @@ ijek
 ijen
 iji
 ijik
+ijin
 ijo
 ijol
 ika
@@ -1789,6 +1793,7 @@ rampung
 rampungan
 rancang
 randa
+rang
 raos
 rap
 rapat
@@ -2125,6 +2130,7 @@ udu
 uduk
 udut
 ugo
+uja
 ujar
 ujuk
 ujung
