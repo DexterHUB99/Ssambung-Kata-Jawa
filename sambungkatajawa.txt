@@ -1145,6 +1145,7 @@ gini
 ginjal
 gir
 giri
+giru
 gita
 githok
 giwangan
@@ -3275,6 +3276,7 @@ sek
 sekawan
 seket
 seko
+sekul
 sela
 selak
 selametan
@@ -3338,8 +3340,10 @@ sirih
 sirna
 siro
 sirsak
+sis
 sisa
 sisi
+sisik
 sisir
 siter
 siti
@@ -3552,6 +3556,7 @@ tingkah
 tip
 tir
 tiri
+tisi
 tita
 titen
 titi
@@ -3829,6 +3834,7 @@ warga
 waris
 warisan
 warok
+waru
 warung
 was
 wasi
