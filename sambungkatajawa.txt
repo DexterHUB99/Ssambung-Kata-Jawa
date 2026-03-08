@@ -3921,6 +3921,7 @@ nuli
 nulis
 nulungi
 num
+numan
 numbal
 numbas
 numpak
@@ -4820,6 +4821,7 @@ senang
 sendal
 sendhang
 sendok
+senen
 sengkir
 senin
 senuk
