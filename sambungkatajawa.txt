@@ -1026,6 +1026,7 @@ ena
 enak
 enal
 enam
+enan
 encok
 endah
 endang
@@ -3925,6 +3926,7 @@ sira
 sirah
 siram
 siraman
+sirep
 sirih
 sirna
 siro
