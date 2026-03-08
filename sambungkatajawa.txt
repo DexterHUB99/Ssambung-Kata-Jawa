@@ -2672,6 +2672,7 @@ kitab
 kiti
 kiwa
 klambi
+klenger
 klepon
 kleru
 kliwon
@@ -2974,6 +2975,7 @@ lika
 liku
 lila
 lilin
+lilit
 lilo
 lim
 lima
@@ -3951,6 +3953,7 @@ nindakake
 ning
 ningali
 ninggal
+ningsih
 nini
 nip
 nipak
