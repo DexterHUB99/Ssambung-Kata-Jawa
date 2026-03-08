@@ -255,6 +255,7 @@ arisan
 arit
 arjuna
 aroh
+aros
 arsa
 arta
 arti
@@ -1625,6 +1626,7 @@ lawa
 lawan
 lawang
 lawuh
+layang
 layar
 layu
 leh
@@ -1699,6 +1701,7 @@ lori
 loro
 los
 lotek
+loyo
 luhur
 luk
 luka
@@ -1844,6 +1847,7 @@ mung
 munggah
 muni
 muntah
+mur
 murah
 murid
 musa
@@ -2151,6 +2155,7 @@ niri
 nis
 nisa
 nisan
+nit
 nitih
 no
 nogel
@@ -2289,6 +2294,7 @@ padusan
 paguyupan
 pahing
 pahit
+paing
 pajak
 pajang
 pajar
