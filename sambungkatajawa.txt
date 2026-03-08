@@ -5764,6 +5764,7 @@ wakil
 waktu
 walah
 walang
+wali
 walik
 waluh
 wan
