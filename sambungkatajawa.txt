@@ -1171,6 +1171,7 @@ emang
 emas
 emba
 embah
+emban
 embat
 embe
 ember
@@ -1555,6 +1556,7 @@ gero
 gerobak
 gesek
 geseng
+gesit
 gething
 gethuk
 getok
@@ -1780,6 +1782,7 @@ here
 heri
 hes
 hesen
+heti
 hi
 hias
 hijau
@@ -1967,10 +1970,12 @@ ip
 ipa
 ipan
 ipar
+ipat
 ipe
 ipel
 ipes
 ipik
+ipil
 ipin
 ipit
 ipuk
@@ -2376,6 +2381,7 @@ kenen
 keni
 kening
 kenok
+kenopo
 kentang
 kenter
 kenthir
@@ -2785,6 +2791,7 @@ limpa
 limun
 lin
 lina
+lincah
 lindhu
 lindur
 linggih
@@ -2890,6 +2897,7 @@ lurus
 lus
 lusa
 lusi
+lusuh
 luwe
 luweh
 luwes
@@ -2936,6 +2944,7 @@ mampus
 man
 mana
 manah
+manak
 manasi
 mandang
 mandeg
@@ -3060,6 +3069,7 @@ minggu
 minta
 miri
 miring
+mirip
 miris
 mirsani
 mis
@@ -3135,6 +3145,7 @@ murup
 mus
 musa
 musi
+musim
 musoh
 musuh
 mut
@@ -3433,6 +3444,7 @@ ngelem
 ngeles
 ngelih
 ngeling
+ngelon
 ngeloni
 ngelu
 ngeluh
@@ -3575,6 +3587,7 @@ ngrumat
 ngucap
 ngucek
 ngudang
+ngudek
 ngudi
 ngudud
 ngudut
@@ -3625,6 +3638,7 @@ ngusung
 ngusungi
 ngutang
 ngutik
+ngutil
 nguyu
 nguyuh
 ngwah
@@ -4121,6 +4135,7 @@ poran
 pori
 pos
 pose
+posen
 posi
 potong
 prajurit
@@ -4274,6 +4289,7 @@ rek
 rekasa
 rekoso
 reksa
+relax
 rem
 rema
 remah
@@ -4653,6 +4669,7 @@ sithik
 siti
 sitik
 siwak
+siwur
 slamet
 slametan
 so
