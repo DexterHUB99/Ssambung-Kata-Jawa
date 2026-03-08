@@ -378,6 +378,7 @@ gigi
 gih
 gila
 gilang
+gili
 gilo
 gina
 go
@@ -396,6 +397,7 @@ guguk
 gugur
 gul
 gula
+gulai
 guling
 gulu
 gulung
@@ -444,6 +446,7 @@ he
 heh
 hei
 hem
+hera
 heran
 heri
 hi
@@ -474,6 +477,7 @@ hutan
 hutang
 ibadah
 ibu
+ibuk
 ical
 idep
 idu
@@ -613,6 +617,7 @@ kar
 karep
 kari
 karo
+kasih
 kasur
 katah
 katok
@@ -873,6 +878,7 @@ nekat
 neko
 nelongso
 nembung
+nendang
 nenen
 neng
 nengdi
@@ -1089,6 +1095,7 @@ rambat
 rambut
 rame
 rampung
+rampungan
 raos
 rapat
 rapi
@@ -1348,6 +1355,7 @@ ur
 ura
 urak
 urang
+urap
 uri
 urik
 urip
