@@ -314,6 +314,7 @@ angop
 angsa
 angsal
 angsul
+angsur
 angur
 angus
 ani
@@ -569,7 +570,6 @@ balon
 balung
 bam
 ban
-bancak
 bandeng
 bandrek
 bangsat
@@ -1046,6 +1046,7 @@ dumugi
 dun
 dung
 dungo
+dungu
 dupa
 dur
 dura
@@ -2121,7 +2122,6 @@ ji
 jijih
 jijik
 jikuk
-jil
 jili
 jim
 jimat
@@ -2695,7 +2695,6 @@ lantang
 lantas
 lanti
 lantip
-lantur
 laos
 lap
 lapak
@@ -2733,6 +2732,7 @@ layangan
 layar
 layu
 le
+lee
 lega
 legawa
 legi
@@ -2812,7 +2812,6 @@ lip
 lipan
 lipat
 lipen
-lipet
 lipi
 lipis
 lipur
@@ -2842,6 +2841,7 @@ lohan
 lok
 loka
 lokan
+lola
 loloh
 lolos
 lom
@@ -2878,10 +2878,10 @@ lucu
 ludah
 lugu
 luh
+luhan
 luhur
 luk
 luka
-luku
 lulang
 luluh
 luma
@@ -3045,7 +3045,6 @@ mengko
 meni
 menika
 mentah
-mentas
 mentolo
 merah
 merem
@@ -3303,7 +3302,6 @@ nenek
 nenen
 neng
 nengdi
-nengen
 nepak
 nepi
 nepis
@@ -3336,6 +3334,7 @@ ngadi
 ngado
 ngadu
 ngaduk
+ngagem
 ngajak
 ngajar
 ngajeng
@@ -3442,7 +3441,6 @@ ngayal
 ngebo
 ngece
 ngecek
-ngecet
 ngeden
 ngegas
 ngeh
@@ -3483,6 +3481,7 @@ ngepel
 ngepet
 ngerek
 ngeri
+ngeroso
 ngersa
 ngerti
 ngertos
@@ -3553,6 +3552,7 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
+ngnggo
 ngobat
 ngobong
 ngobor
@@ -3798,7 +3798,6 @@ obeng
 obong
 obor
 obral
-obrol
 od
 odol
 ogah
@@ -4184,6 +4183,7 @@ pupu
 puput
 pura
 puri
+purna
 purun
 pus
 pusing
@@ -4202,6 +4202,7 @@ rada
 radar
 raden
 radi
+radio
 raga
 ragam
 ragangan
@@ -4679,7 +4680,6 @@ sis
 sisa
 sisan
 sisi
-sisih
 sisik
 sisil
 sisir
@@ -4734,7 +4734,6 @@ suami
 suamii
 suba
 subhanallah
-subuh
 subur
 sudi
 sugeng
@@ -4755,6 +4754,7 @@ sulam
 sule
 suli
 sultan
+sulung
 sum
 suma
 suman
@@ -4976,7 +4976,6 @@ tiris
 tiru
 tis
 tisi
-tit
 tita
 titen
 titi
@@ -5379,7 +5378,6 @@ werno
 weruh
 wes
 wesi
-weta
 wetan
 weteng
 weton
