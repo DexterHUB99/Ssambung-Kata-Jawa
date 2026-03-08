@@ -280,6 +280,7 @@ asi
 asia
 asih
 asik
+asil
 asim
 asin
 asing
@@ -411,6 +412,7 @@ bidur
 biji
 bika
 bila
+bima
 bin
 bindeng
 biru
@@ -1075,6 +1077,7 @@ hooh
 hora
 hore
 hormat
+hp
 hu
 hudan
 hujan
@@ -1839,6 +1842,7 @@ moh
 mok
 moleh
 monggo
+mor
 mosok
 mot
 moto
@@ -2115,6 +2119,7 @@ ngorek
 ngoreng
 ngorok
 ngos
+ngosek
 ngosok
 ngoyak
 ngoyo
@@ -2183,6 +2188,7 @@ nol
 nolak
 nombok
 nomer
+non
 nongki
 nonjok
 nonton
@@ -2355,6 +2361,7 @@ paser
 pasi
 pasir
 patek
+pati
 pawon
 payah
 pe
