@@ -2400,6 +2400,7 @@ lantas
 lantip
 laos
 lap
+lapak
 lapar
 lapis
 lapo
