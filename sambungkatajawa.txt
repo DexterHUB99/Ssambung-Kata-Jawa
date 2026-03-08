@@ -1086,6 +1086,7 @@ dukur
 dula
 dulan
 dulang
+duli
 dulu
 dulur
 dum
@@ -1765,6 +1766,7 @@ gusar
 gusi
 gusti
 gusur
+guwa
 guyon
 guyu
 guyub
@@ -3358,6 +3360,7 @@ napak
 napas
 nape
 napi
+napis
 napsu
 nar
 nara
@@ -4899,6 +4902,7 @@ solat
 sole
 soli
 solid
+som
 somat
 sombong
 some
@@ -5286,6 +5290,7 @@ ucul
 ud
 uda
 udah
+udakara
 udan
 udang
 udara
