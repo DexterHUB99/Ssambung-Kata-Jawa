@@ -105,6 +105,7 @@ akad
 akah
 akak
 akal
+akalan
 akan
 akang
 akar
@@ -1081,6 +1082,7 @@ elo
 elok
 elon
 elor
+elos
 elu
 eluh
 elus
@@ -2849,6 +2851,7 @@ mila
 milah
 milih
 milik
+mimis
 min
 minal
 minat
@@ -3732,6 +3735,7 @@ pia
 piano
 picek
 pih
+pijet
 pijit
 pikang
 pikir
@@ -3944,6 +3948,7 @@ rawe
 rawon
 rawuh
 re
+rebahan
 rebana
 rebo
 receh
@@ -4782,6 +4787,7 @@ ungkap
 ungkas
 ungkir
 ungu
+unjar
 unjuk
 unta
 untal
