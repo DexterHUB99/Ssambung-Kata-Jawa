@@ -604,6 +604,7 @@ bokek
 bokong
 bola
 bolo
+bolong
 bolot
 bom
 bon
@@ -673,7 +674,6 @@ campur
 candi
 candra
 cangkem
-cangkir
 cangkul
 cantik
 canting
@@ -967,7 +967,6 @@ eja
 ek
 eka
 ekal
-ekali
 ekan
 eke
 ekeh
@@ -1297,6 +1296,7 @@ gedang
 gede
 gedhang
 gedhe
+gedor
 gega
 geger
 geguritan
@@ -2451,7 +2451,6 @@ lindur
 linggih
 linggis
 lingkung
-linglung
 lingsir
 lintah
 lintang
@@ -2651,7 +2650,6 @@ mekar
 mel
 melas
 melek
-melinjo
 melu
 mem
 meme
@@ -2723,6 +2721,7 @@ mubeng
 mudeng
 mudhun
 mugi
+muh
 mujair
 muji
 muk
@@ -3065,7 +3064,6 @@ ngibadah
 ngibul
 ngicipi
 ngidul
-ngidung
 ngih
 ngijab
 ngijoli
@@ -3212,6 +3210,7 @@ nis
 nisa
 nisan
 nit
+niten
 niti
 nitih
 nitip
@@ -3332,7 +3331,6 @@ olih
 oling
 olo
 olok
-olokan
 om
 oma
 omah
@@ -3393,7 +3391,6 @@ otak
 otot
 ow
 owah
-owahan
 owak
 pa
 pacik
@@ -4029,7 +4026,6 @@ sirah
 siram
 siraman
 sirep
-siri
 sirih
 sirna
 siro
@@ -4145,7 +4141,6 @@ sutil
 sutra
 suwe
 suwi
-suwir
 suwun
 suwung
 swara
@@ -4661,6 +4656,7 @@ wingi
 wingking
 wira
 wirang
+wirangan
 wiri
 wis
 wisuh
