@@ -49,7 +49,6 @@ ahab
 ahad
 ahah
 ahal
-aham
 ahan
 ahar
 ahas
@@ -173,13 +172,11 @@ aman
 amanah
 amarga
 amargi
-amat
 amba
 ambal
 ambar
 ambek
 amben
-amber
 ambil
 ambu
 ambung
@@ -405,7 +402,6 @@ astaga
 asu
 asuh
 asul
-asup
 asupan
 asus
 asuti
@@ -482,7 +478,6 @@ ayun
 ayunan
 az
 ba
-baba
 babai
 babi
 babu
@@ -570,7 +565,6 @@ biasa
 biaya
 bibik
 bibir
-bibit
 bidan
 bidun
 bidur
@@ -631,7 +625,6 @@ budo
 buh
 buk
 buka
-bukak
 bukit
 buko
 bul
@@ -698,7 +691,6 @@ cen
 cendol
 cengel
 cengkeh
-cenil
 cep
 cerak
 ceri
@@ -729,7 +721,6 @@ cok
 coki
 colek
 coli
-colo
 colong
 condong
 congor
@@ -739,7 +730,6 @@ cor
 corak
 coro
 corot
-cowo
 cu
 cuci
 cucu
@@ -768,7 +758,6 @@ dalan
 dalang
 dalem
 dalu
-dam
 damai
 damel
 damen
@@ -796,7 +785,6 @@ de
 dede
 dedek
 dedemit
-dedi
 dek
 dekil
 delima
@@ -815,7 +803,6 @@ der
 dereng
 desa
 dewa
-dewe
 dewi
 dhadha
 di
@@ -854,7 +841,6 @@ do
 doa
 dodo
 dodol
-dodolan
 dola
 dolan
 dolanan
@@ -992,8 +978,6 @@ elek
 eleng
 eler
 eli
-elig
-elik
 eling
 elmu
 elo
@@ -1085,7 +1069,6 @@ entong
 entuk
 entut
 enyong
-ep
 epa
 epal
 epan
@@ -1189,7 +1172,6 @@ gadhah
 gading
 gae
 gagah
-gagak
 gagal
 gagap
 gagar
@@ -1210,7 +1192,6 @@ galengan
 galer
 gali
 galih
-galo
 galok
 galon
 gaman
@@ -1285,6 +1266,7 @@ gayem
 gayeng
 gayung
 ge
+geblak
 geblek
 gedang
 gede
@@ -1374,7 +1356,6 @@ gini
 ginjal
 gir
 giri
-giring
 giru
 gita
 gitar
@@ -1395,6 +1376,7 @@ gokil
 gola
 gole
 golek
+golet
 golo
 golongan
 gombal
@@ -1414,7 +1396,6 @@ gorong
 gosip
 gosok
 gosong
-gowo
 goyang
 gragal
 graji
@@ -1810,7 +1791,6 @@ jaluk
 jam
 jamal
 jaman
-jambi
 jambu
 jambul
 jampi
@@ -1821,7 +1801,6 @@ jancok
 jancuk
 jang
 jangan
-janggut
 jangkep
 jangkrik
 janji
@@ -1850,7 +1829,6 @@ jempol
 jenang
 jeneng
 jenengan
-jenggot
 jer
 jera
 jero
@@ -1902,7 +1880,6 @@ juru
 ka
 kabeh
 kabul
-kaca
 kacang
 kacau
 kacek
@@ -2162,7 +2139,6 @@ kir
 kira
 kirab
 kirang
-kirap
 kiri
 kirik
 kirim
@@ -2206,7 +2182,6 @@ kondisi
 kondur
 kongkon
 kono
-kontal
 kontol
 kontrol
 kopeng
@@ -2283,7 +2258,6 @@ kupeng
 kuping
 kur
 kura
-kuran
 kurang
 kuri
 kurna
@@ -2475,7 +2449,6 @@ lomi
 lompat
 lon
 longgar
-longor
 longsor
 lontar
 lonte
@@ -2635,7 +2608,6 @@ meja
 mekar
 mel
 melas
-melek
 melu
 mem
 meme
@@ -2710,7 +2682,6 @@ mugi
 mujair
 muji
 muk
-muka
 mul
 mula
 mulane
@@ -2732,7 +2703,6 @@ muntah
 munyuk
 mur
 murah
-muri
 murid
 murup
 mus
@@ -2916,7 +2886,6 @@ ngaleh
 ngalem
 ngali
 ngalih
-ngalo
 ngalor
 ngamal
 ngambar
@@ -3050,6 +3019,7 @@ ngih
 ngijab
 ngijoli
 ngik
+ngika
 ngiki
 ngilang
 ngiler
@@ -3061,7 +3031,6 @@ nginjak
 ngintip
 ngira
 ngirim
-ngiris
 ngisak
 ngiseng
 ngisi
@@ -3106,7 +3075,6 @@ ngorong
 ngos
 ngosek
 ngosok
-ngowe
 ngowoh
 ngoyak
 ngoyo
@@ -3121,7 +3089,6 @@ ngudud
 ngudut
 nguji
 ngujuk
-ngukir
 ngukur
 ngul
 ngulek
@@ -3348,7 +3315,6 @@ opor
 or
 ora
 orai
-orak
 orang
 ore
 orek
@@ -3359,7 +3325,6 @@ ori
 orie
 orok
 os
-osah
 osek
 oseng
 osik
@@ -3388,7 +3353,6 @@ pajang
 pajar
 pajek
 paji
-pak
 pake
 pakpuh
 paku
@@ -3424,7 +3388,6 @@ pantar
 panut
 papa
 papan
-papat
 par
 para
 parah
@@ -3473,7 +3436,6 @@ peri
 perih
 peta
 pethuk
-petruk
 pi
 pia
 piano
@@ -3599,7 +3561,6 @@ ragangan
 ragat
 ragi
 rah
-rahayu
 rahmat
 rai
 raib
@@ -3766,7 +3727,6 @@ rolas
 rom
 roma
 rombak
-rombeng
 rombong
 rombongan
 rome
@@ -3888,7 +3848,6 @@ sarep
 sari
 sarna
 saru
-sarung
 sarungan
 sasa
 sasi
@@ -3977,7 +3936,6 @@ silit
 sim
 siman
 simbah
-simpang
 simpenan
 sin
 sinau
@@ -3987,7 +3945,6 @@ singa
 singgah
 sinom
 sinoman
-sinta
 sinten
 sip
 sipit
@@ -4062,6 +4019,7 @@ sulak
 sulam
 sule
 suli
+sulung
 sum
 suma
 sumbanga
@@ -4125,7 +4083,6 @@ tah
 tahu
 tahun
 tai
-taik
 tak
 taka
 taken
@@ -4171,7 +4128,6 @@ tasi
 tat
 tata
 tatah
-tatas
 tati
 tatu
 taun
@@ -4180,7 +4136,6 @@ tawon
 te
 tegal
 teguh
-teka
 tekan
 teko
 tela
@@ -4191,6 +4146,7 @@ teles
 telo
 telu
 tema
+tembaga
 tembang
 tembok
 tembung
@@ -4313,6 +4269,7 @@ tunas
 tunggal
 tunggu
 tungkak
+tupe
 tupi
 tur
 turah
@@ -4410,7 +4367,6 @@ umah
 umahe
 umak
 uman
-umbah
 umbar
 umbel
 umbi
@@ -4480,7 +4436,6 @@ urih
 urik
 urip
 uripan
-uripku
 uris
 urit
 uru
