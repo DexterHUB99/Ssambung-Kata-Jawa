@@ -314,7 +314,6 @@ angop
 angsa
 angsal
 angsul
-angsur
 angur
 angus
 ani
@@ -570,6 +569,7 @@ balon
 balung
 bam
 ban
+bancak
 bandeng
 bandrek
 bangsat
@@ -1046,7 +1046,6 @@ dumugi
 dun
 dung
 dungo
-dungu
 dupa
 dur
 dura
@@ -2122,6 +2121,7 @@ ji
 jijih
 jijik
 jikuk
+jil
 jili
 jim
 jimat
@@ -2695,6 +2695,7 @@ lantang
 lantas
 lanti
 lantip
+lantur
 laos
 lap
 lapak
@@ -2732,7 +2733,6 @@ layangan
 layar
 layu
 le
-lee
 lega
 legawa
 legi
@@ -2841,7 +2841,6 @@ lohan
 lok
 loka
 lokan
-lola
 loloh
 lolos
 lom
@@ -2878,10 +2877,10 @@ lucu
 ludah
 lugu
 luh
-luhan
 luhur
 luk
 luka
+luku
 lulang
 luluh
 luma
@@ -3045,6 +3044,7 @@ mengko
 meni
 menika
 mentah
+mentas
 mentolo
 merah
 merem
@@ -3302,6 +3302,7 @@ nenek
 nenen
 neng
 nengdi
+nengen
 nepak
 nepi
 nepis
@@ -3440,6 +3441,7 @@ ngayal
 ngebo
 ngece
 ngecek
+ngecet
 ngeden
 ngegas
 ngeh
@@ -4674,6 +4676,7 @@ sis
 sisa
 sisan
 sisi
+sisih
 sisik
 sisil
 sisir
@@ -4748,7 +4751,6 @@ sulam
 sule
 suli
 sultan
-sulung
 sum
 suma
 suman
