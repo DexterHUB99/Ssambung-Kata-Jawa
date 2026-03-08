@@ -1504,6 +1504,7 @@ genep
 generator
 geng
 geni
+genta
 genteng
 genter
 genti
@@ -2777,6 +2778,7 @@ loha
 lohan
 lok
 loka
+lokan
 loloh
 lolos
 lom
@@ -3559,6 +3561,7 @@ nguser
 ngusik
 ngusir
 ngusung
+ngusungi
 ngutang
 ngutik
 nguyu
@@ -4471,6 +4474,7 @@ selamet
 selametan
 selas
 sele
+selep
 selet
 semar
 semen
@@ -4648,6 +4652,7 @@ sumuk
 sumur
 sun
 sunat
+sundel
 sundul
 sungai
 sungguh
@@ -4672,6 +4677,7 @@ suruh
 surup
 surut
 surya
+sus
 susa
 susah
 susan
