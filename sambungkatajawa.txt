@@ -958,6 +958,7 @@ degan
 dek
 dekil
 del
+deleng
 deli
 delima
 delman
