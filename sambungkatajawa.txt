@@ -68,6 +68,7 @@ are
 areng
 arep
 asa
+asi
 asih
 asin
 asli
@@ -122,6 +123,7 @@ dumane
 dura
 duri
 edan
+ehek
 ehi
 eka
 eke
@@ -257,6 +259,7 @@ iri
 irung
 irus
 isa
+isen
 isi
 isin
 isine
@@ -324,6 +327,7 @@ kue
 kuku
 kukur
 kula
+kuli
 kulit
 kum
 kundur
@@ -437,6 +441,7 @@ nggeh
 nggolek
 ngibul
 ngilang
+ngiler
 ngirim
 ngising
 ngisu
@@ -536,6 +541,7 @@ roda
 romo
 rono
 roti
+rujak
 run
 rupa
 rusak
@@ -554,6 +560,7 @@ sayur
 sego
 siapa
 siji
+sila
 siman
 simbah
 singa
