@@ -48,7 +48,6 @@ agama
 agami
 agawe
 age
-agem
 ageng
 agung
 agus
@@ -99,7 +98,6 @@ ajak
 ajal
 ajang
 ajar
-ajay
 ajeg
 ajek
 ajeng
@@ -203,7 +201,6 @@ ambal
 ambar
 ambek
 amben
-ambeng
 amber
 ambil
 ambu
@@ -327,7 +324,6 @@ anif
 anik
 aning
 anis
-anja
 anjar
 anjay
 anjing
@@ -497,7 +493,6 @@ atum
 atun
 atur
 aturan
-aturen
 atus
 atut
 aub
@@ -544,7 +539,6 @@ ayuh
 ayuk
 ayun
 ayunan
-ayune
 az
 ba
 baba
@@ -568,7 +562,6 @@ bajing
 bajingan
 baju
 bajul
-bakal
 bakmi
 bakso
 bakul
@@ -732,7 +725,6 @@ buh
 buk
 buka
 bukak
-bukan
 bukit
 buko
 buku
@@ -808,6 +800,7 @@ cedek
 ceh
 cek
 cekel
+celek
 celeng
 celuk
 cempe
@@ -1374,7 +1367,6 @@ ewuh
 ex
 eya
 eyang
-eyu
 eyup
 fokus
 fungsi
@@ -1428,6 +1420,7 @@ gambuh
 gambut
 gambyong
 game
+gamel
 gamelan
 gamis
 gampang
@@ -2019,6 +2012,7 @@ irisan
 irisen
 irit
 iroh
+irong
 iros
 iru
 irub
@@ -2505,6 +2499,7 @@ kirap
 kirek
 kiri
 kirik
+kirikan
 kirim
 kiriman
 kiris
@@ -2660,7 +2655,6 @@ kutang
 kutha
 kuti
 kutuk
-kuwalat
 kuwe
 kuwi
 la
@@ -2833,7 +2827,6 @@ linglung
 lingsir
 lintah
 lintang
-lintas
 lintu
 lip
 lipan
@@ -3291,7 +3284,6 @@ ndak
 ndang
 ndasmu
 ndelok
-ndoro
 nduk
 ne
 nedah
@@ -3599,9 +3591,7 @@ ngocok
 ngok
 ngoke
 ngoko
-ngokop
 ngolah
-ngolek
 ngolet
 ngoli
 ngolo
@@ -3741,7 +3731,6 @@ nitih
 nitip
 njajal
 njaluk
-njupuk
 no
 nogel
 noh
@@ -3846,7 +3835,6 @@ oge
 ogoh
 ogol
 oh
-ohh
 oho
 oj
 ojek
@@ -3872,6 +3860,7 @@ okon
 okop
 okor
 okos
+okot
 okur
 ol
 olah
@@ -3933,12 +3922,10 @@ opah
 opak
 opel
 open
-opera
 opet
 opo
 opon
 opor
-oposi
 or
 ora
 orah
@@ -4066,7 +4053,6 @@ patih
 patis
 patub
 patuh
-patung
 pawan
 pawang
 pawon
@@ -4079,9 +4065,9 @@ pedes
 pedot
 pegel
 peka
-pekan
 pekok
 pel
+pelan
 pele
 pelem
 peli
@@ -4741,7 +4727,6 @@ siwur
 slamet
 slametan
 so
-soale
 sobat
 sodok
 sodor
@@ -4824,7 +4809,6 @@ sumur
 sun
 sunat
 sundel
-sunduk
 sundul
 sungai
 sungguh
@@ -5242,7 +5226,6 @@ undangan
 undhi
 unduh
 undur
-unem
 unen
 ung
 ungaran
