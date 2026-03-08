@@ -12,6 +12,7 @@ abi
 abot
 abrit
 abu
+abul
 acu
 ad
 ada
@@ -803,6 +804,7 @@ cengkeh
 cenil
 cep
 cerak
+ceret
 ceri
 cerita
 ceto
@@ -832,6 +834,7 @@ cocote
 codet
 cok
 coki
+cokot
 col
 colek
 coli
@@ -962,6 +965,7 @@ dilok
 diluk
 dilut
 diman
+dimana
 dimas
 dimul
 dina
@@ -1133,6 +1137,7 @@ elang
 elap
 elar
 elas
+ele
 eleh
 elek
 elel
@@ -1192,6 +1197,7 @@ emper
 empet
 emping
 emprit
+empu
 empuk
 empun
 emu
@@ -1504,6 +1510,7 @@ gemblung
 gembong
 gembrot
 gemes
+gempa
 gempol
 gemuk
 gen
@@ -1763,6 +1770,7 @@ hei
 heli
 hem
 hemat
+hepan
 hepi
 her
 hera
@@ -1825,6 +1833,7 @@ huruf
 hus
 husna
 hut
+huta
 hutan
 hutang
 ib
@@ -2041,6 +2050,7 @@ jaja
 jajal
 jajan
 jaket
+jala
 jalar
 jalaran
 jalo
@@ -2098,6 +2108,7 @@ jenggot
 jer
 jera
 jero
+jeruk
 jijih
 jijik
 jikuk
@@ -2133,6 +2144,7 @@ jombang
 jomblo
 jon
 jona
+jongkok
 jor
 jora
 joran
@@ -2218,6 +2230,7 @@ kanah
 kanan
 kanca
 kancil
+kancing
 kancut
 kandang
 kandha
@@ -2300,6 +2313,7 @@ kawus
 kaya
 kayu
 ke
+kebak
 kebo
 kebon
 kecap
@@ -2476,6 +2490,7 @@ kliwon
 klumah
 ko
 kobel
+kobis
 kobong
 kocak
 kodok
@@ -2792,6 +2807,7 @@ lirih
 lis
 lisa
 lisan
+lise
 lit
 liwat
 liwet
@@ -3169,6 +3185,7 @@ nan
 nana
 nanah
 nanak
+nanam
 nanang
 nanas
 nandang
@@ -3235,6 +3252,7 @@ negor
 neh
 nek
 neka
+nekani
 nekat
 neker
 neko
@@ -3269,6 +3287,7 @@ neptu
 ner
 nerak
 neraka
+nerima
 nerjang
 nesa
 nesu
@@ -3402,8 +3421,10 @@ ngeh
 ngejar
 ngek
 ngelak
+ngelap
 ngelas
 ngelawak
+ngelebok
 ngeleh
 ngelem
 ngeles
@@ -3639,6 +3660,7 @@ nipis
 nipu
 nir
 niri
+nirwana
 nis
 nisa
 nisan
@@ -3795,6 +3817,7 @@ oling
 olo
 olok
 olokan
+olong
 olor
 om
 oma
@@ -4069,6 +4092,7 @@ pitulung
 pitung
 pitutur
 piwulang
+piyak
 piye
 po
 pocong
@@ -4210,6 +4234,7 @@ rarawoh
 ras
 rasa
 rasah
+rasak
 rasakan
 rasakno
 rasan
@@ -4527,6 +4552,7 @@ sele
 selep
 selet
 semar
+sembah
 semen
 semok
 sempak
@@ -4687,6 +4713,7 @@ sulak
 sulam
 sule
 suli
+sultan
 sum
 suma
 suman
