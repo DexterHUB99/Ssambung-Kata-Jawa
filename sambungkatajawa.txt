@@ -2171,6 +2171,7 @@ kiri
 kirik
 kirim
 kiriman
+kiris
 kis
 kisa
 kisi
@@ -3483,6 +3484,7 @@ pentil
 pera
 peri
 perih
+peso
 peta
 pethuk
 petruk
