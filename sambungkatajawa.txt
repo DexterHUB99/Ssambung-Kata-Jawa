@@ -50,6 +50,7 @@ ahur
 ahus
 aing
 air
+ajak
 ajal
 ajek
 ajeng
@@ -746,6 +747,7 @@ gene
 geni
 gentong
 gerah
+gerak
 geram
 gerang
 geret
@@ -770,6 +772,7 @@ goblok
 godong
 gogrok
 gojlok
+gok
 gola
 golek
 golongan
@@ -789,6 +792,7 @@ gosip
 gosok
 gosong
 gragal
+griya
 gu
 gudang
 gudeg
@@ -855,6 +859,7 @@ hape
 har
 hara
 haram
+harga
 hari
 harimau
 harjo
@@ -1253,6 +1258,7 @@ klambi
 kliwon
 klumah
 ko
+kodok
 koe
 koen
 kok
@@ -1870,6 +1876,7 @@ ogak
 oge
 oh
 oj
+ojek
 ojo
 ojok
 ojolan
