@@ -39,6 +39,7 @@ akut
 ala
 alah
 alam
+alay
 alem
 ali
 alip
@@ -114,6 +115,7 @@ awas
 ayam
 ayo
 ayu
+babi
 baca
 bajul
 balon
@@ -121,7 +123,6 @@ balung
 banter
 basi
 bebas
-bebek
 bidan
 bidun
 bisa
@@ -179,6 +180,7 @@ elang
 elek
 eleng
 elo
+ema
 eman
 ember
 emboh
@@ -210,7 +212,6 @@ eya
 gairah
 gajah
 gak
-gaktau
 galak
 galengan
 galer
@@ -232,6 +233,7 @@ gawe
 gawok
 gayung
 gedang
+gedhe
 gemar
 gembel
 gendeng
@@ -246,7 +248,6 @@ golek
 golongan
 gong
 goreng
-guguk
 gugur
 gula
 guling
@@ -272,7 +273,6 @@ halah
 hama
 hansip
 hantu
-har
 hara
 hari
 harimau
@@ -289,7 +289,6 @@ hiji
 hilang
 hir
 hiri
-hitung
 hm
 hooh
 hora
@@ -362,7 +361,7 @@ iwak
 iwal
 iyo
 jab
-jambu
+jaluk
 jamu
 jancok
 jare
@@ -379,7 +378,6 @@ jiwa
 joran
 kacek
 kadal
-kaki
 kaku
 kalawan
 kali
@@ -390,6 +388,7 @@ kampung
 kamu
 kancil
 kanjeng
+kanthi
 kapak
 kapok
 kapuk
@@ -513,6 +512,7 @@ maleh
 man
 manasi
 mangan
+mantuk
 manuk
 marak
 marem
@@ -550,7 +550,6 @@ nanging
 nangka
 naon
 napa
-napi
 nari
 nasi
 nastar
@@ -570,6 +569,7 @@ ngaleh
 ngalor
 ngamok
 nganggo
+nganggur
 nganjuk
 ngantuk
 ngaos
@@ -577,6 +577,7 @@ ngapa
 ngapak
 ngapusi
 ngarit
+ngasahi
 ngatur
 ngelu
 ngenjang
@@ -627,6 +628,7 @@ nonton
 nopo
 nresnani
 nuku
+nulis
 numpak
 nunung
 oalah
@@ -671,15 +673,17 @@ pani
 panis
 papan
 pari
+parit
 pasir
 payah
+pe
 peka
-picek
+pi
 pil
 pin
 pinten
-pirang
 piro
+pisan
 pisang
 piwulang
 po
@@ -732,7 +736,6 @@ rowang
 ru
 rugi
 rujak
-rumah
 run
 rupa
 rus
@@ -766,9 +769,10 @@ siman
 simbah
 singa
 sip
-siram
+sipit
 sisir
 slametan
+so
 sobat
 sopan
 sopo
@@ -809,6 +813,7 @@ tul
 tula
 tulis
 tulung
+tuman
 tumbas
 tumindak
 tumrap
@@ -894,6 +899,7 @@ warisan
 warung
 wayang
 wedang
+wektu
 weling
 werna
 werno
@@ -902,10 +908,9 @@ wit
 wolu
 wong
 wulan
-yo
+ya
 yoga
 yom
-yora
 yuda
 yuh
 yuka
