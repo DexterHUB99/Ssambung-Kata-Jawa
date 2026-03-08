@@ -239,6 +239,7 @@ andon
 andong
 andu
 anduk
+andum
 ane
 aneh
 anek
@@ -1594,6 +1595,7 @@ ikat
 ikatan
 ikel
 iket
+ikhlas
 iki
 ikih
 ikil
@@ -3337,6 +3339,7 @@ paringi
 parit
 paru
 pas
+pasah
 pasang
 pasar
 paser
@@ -4253,6 +4256,7 @@ ulangan
 ulangi
 ular
 ulas
+ulat
 ule
 uleg
 ulek
@@ -4285,6 +4289,7 @@ umpamane
 umpami
 umpan
 umpane
+umpet
 umuk
 umum
 umur
