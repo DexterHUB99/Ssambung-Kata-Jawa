@@ -2911,6 +2911,7 @@ ngaku
 ngal
 ngala
 ngalah
+ngalam
 ngalas
 ngale
 ngaleh
@@ -3832,6 +3833,7 @@ sajen
 sajim
 sak
 saka
+sakar
 sakarep
 saken
 saket
