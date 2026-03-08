@@ -444,6 +444,7 @@ duda
 dudi
 dudo
 dudu
+dudug
 duduh
 duduk
 duhur
@@ -518,6 +519,7 @@ elus
 ema
 emak
 eman
+emane
 emas
 embah
 ember
@@ -602,6 +604,7 @@ fokus
 ga
 gabah
 gaber
+gadhah
 gae
 gagah
 gage
@@ -718,6 +721,7 @@ gosong
 gragal
 gu
 gudang
+gudeg
 gudhal
 gugah
 guguk
@@ -1113,6 +1117,7 @@ kera
 kere
 kereta
 keri
+keris
 kero
 kersa
 kesah
@@ -1700,6 +1705,7 @@ nunut
 nurut
 nusa
 nuthuk
+nutup
 nyawiji
 nyedhak
 nyong
@@ -1718,6 +1724,7 @@ oh
 oj
 ojo
 ojok
+ojolan
 ok
 oke
 okea
@@ -1740,6 +1747,7 @@ omong
 omongan
 ompong
 ompreng
+on
 onar
 oncek
 oncom
@@ -2117,6 +2125,7 @@ suk
 suka
 suket
 suki
+sukun
 sukur
 sul
 sulak
@@ -2346,6 +2355,7 @@ ur
 ura
 urai
 urak
+urakan
 urang
 urap
 uri
