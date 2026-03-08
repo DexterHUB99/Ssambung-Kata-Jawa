@@ -1925,6 +1925,7 @@ iwel
 iya
 iyan
 iyo
+iyu
 iyuh
 iz
 jab
@@ -2590,6 +2591,7 @@ leren
 leres
 leri
 les
+lesehan
 lesu
 lewat
 li
@@ -3148,6 +3150,7 @@ ngamok
 ngampun
 ngamuk
 ngan
+nganah
 ngancani
 ngandang
 ngandani
@@ -3738,6 +3741,7 @@ pelem
 peli
 pena
 penak
+pendek
 pendopo
 peni
 pensil
