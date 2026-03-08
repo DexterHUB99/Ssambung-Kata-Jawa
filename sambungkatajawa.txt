@@ -1,4 +1,5 @@
 aa
+aaha
 ab
 abab
 abang
@@ -435,6 +436,7 @@ colong
 condong
 coro
 cu
+cuci
 culik
 curut
 dada
@@ -719,6 +721,7 @@ gambyong
 game
 gamelan
 gampang
+gampil
 gancet
 gandrung
 gandul
@@ -1038,6 +1041,7 @@ inep
 ing
 inggih
 inggil
+ingin
 ingkang
 ingkung
 ingsun
@@ -1310,6 +1314,7 @@ kis
 kisa
 kisi
 kita
+kitab
 klambi
 kliwon
 klumah
@@ -1327,6 +1332,7 @@ kolam
 kolong
 koma
 kon
+konangan
 konco
 kondangan
 kono
@@ -1654,6 +1660,7 @@ naga
 nagasari
 nagih
 nah
+naha
 nai
 najis
 nak
@@ -2450,6 +2457,7 @@ susah
 susi
 susu
 susul
+susun
 sut
 sutil
 sutra
@@ -2526,6 +2534,7 @@ tilep
 tili
 tim
 timah
+timba
 timbal
 timbang
 timun
