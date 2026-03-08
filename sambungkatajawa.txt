@@ -928,6 +928,7 @@ dadu
 dagang
 dagu
 dah
+dahan
 dahar
 dahi
 dakar
@@ -3639,6 +3640,7 @@ ngempot
 ngemut
 ngen
 ngendang
+ngendep
 ngendi
 ngendika
 ngendog
@@ -5300,6 +5302,7 @@ tumbas
 tumbu
 tumbuk
 tumindak
+tumis
 tumit
 tumpah
 tumpak
