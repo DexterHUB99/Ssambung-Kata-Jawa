@@ -2489,6 +2489,7 @@ kono
 kontal
 kontol
 kontrol
+kop
 kopeng
 koper
 koperasi
@@ -3718,6 +3719,7 @@ ogah
 ogak
 oge
 ogoh
+ogol
 oh
 oho
 oj
