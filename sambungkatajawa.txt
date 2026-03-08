@@ -191,6 +191,7 @@ amung
 an
 ana
 anah
+anai
 anak
 anake
 anal
@@ -1111,6 +1112,7 @@ gendheng
 gendhis
 gendong
 gendruwo
+gendut
 gene
 geng
 geni
@@ -1181,6 +1183,7 @@ gorong
 gosip
 gosok
 gosong
+goyang
 gragal
 graji
 griya
@@ -2535,6 +2538,7 @@ ngertos
 ngeseng
 ngesot
 ngetan
+ngeti
 ngetok
 ngewe
 ngg
@@ -3094,6 +3098,7 @@ rejo
 rek
 rekasa
 rem
+remah
 remang
 remas
 rembes
