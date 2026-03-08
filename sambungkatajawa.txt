@@ -1015,6 +1015,7 @@ enjih
 enjing
 eno
 enok
+enol
 enom
 entek
 enteng
@@ -1605,6 +1606,7 @@ imit
 imo
 impi
 impian
+impit
 imut
 in
 ina
@@ -2460,6 +2462,7 @@ manis
 manja
 manjing
 mantap
+mantu
 mantuk
 manuk
 manuke
@@ -2704,6 +2707,7 @@ neko
 nelen
 neli
 nelongso
+nelu
 nembak
 nembang
 nembe
@@ -2977,6 +2981,7 @@ ngunjuk
 nguntal
 ngunung
 ngunut
+ngupaya
 ngupil
 nguping
 ngurip
@@ -3668,6 +3673,7 @@ sangkuni
 sangu
 sanjang
 santai
+santen
 santun
 sanur
 sap
@@ -4092,6 +4098,7 @@ turi
 turu
 tus
 tusi
+tusuk
 tutuk
 tutup
 tutur
