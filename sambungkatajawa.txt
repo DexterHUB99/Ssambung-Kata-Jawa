@@ -117,6 +117,7 @@ apes
 apik
 apo
 apung
+apus
 arah
 arak
 aran
@@ -360,6 +361,7 @@ gareng
 gari
 garing
 garuk
+garut
 gasa
 gasak
 gatel
@@ -379,6 +381,7 @@ gemblong
 gendeng
 gene
 geni
+gerji
 gesek
 gi
 gigal
@@ -754,6 +757,7 @@ leh
 lele
 lemot
 lenggah
+lepat
 licik
 lihat
 lika
@@ -1135,6 +1139,7 @@ remang
 remeh
 remen
 rempah
+remuk
 rene
 rengginang
 repot
@@ -1395,6 +1400,7 @@ uta
 utama
 utang
 utar
+utara
 utawi
 utek
 uteke
