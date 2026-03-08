@@ -56,7 +56,6 @@ aha
 ahab
 ahad
 ahah
-ahak
 ahal
 aham
 ahan
@@ -81,7 +80,6 @@ ahir
 ahis
 ahli
 ahline
-ahlul
 aho
 ahoh
 ahok
@@ -201,6 +199,7 @@ ambal
 ambar
 ambek
 amben
+ambeng
 amber
 ambil
 ambu
@@ -316,7 +315,6 @@ angop
 angsa
 angsal
 angsul
-angsur
 angur
 angus
 ani
@@ -324,6 +322,7 @@ anif
 anik
 aning
 anis
+anja
 anjar
 anjay
 anjing
@@ -395,7 +394,6 @@ aren
 areng
 arep
 ari
-arih
 aring
 arip
 aris
@@ -493,6 +491,7 @@ atum
 atun
 atur
 aturan
+aturen
 atus
 atut
 aub
@@ -632,7 +631,6 @@ bengi
 beni
 benjol
 benten
-bentrok
 berak
 berkah
 bero
@@ -786,7 +784,6 @@ cari
 carik
 carita
 caruk
-cas
 cawe
 cawet
 cawik
@@ -840,7 +837,6 @@ cocot
 cocote
 codet
 cok
-cokelat
 coki
 cokot
 col
@@ -1053,7 +1049,6 @@ dumugi
 dun
 dung
 dungo
-dungu
 dupa
 dur
 dura
@@ -1093,7 +1088,6 @@ ehan
 ehar
 ehas
 ehat
-ehay
 ehe
 ehed
 eheh
@@ -1298,7 +1292,6 @@ eras
 erat
 ere
 erek
-erem
 eren
 ereng
 erep
@@ -1863,7 +1856,6 @@ idam
 idep
 ider
 idih
-idin
 idu
 ieu
 ig
@@ -2600,7 +2592,6 @@ kul
 kula
 kulak
 kuli
-kulina
 kulit
 kulon
 kulup
@@ -2651,6 +2642,7 @@ kutang
 kutha
 kuti
 kutuk
+kuwalat
 kuwe
 kuwi
 la
@@ -2747,7 +2739,6 @@ layangan
 layar
 layu
 le
-lee
 lega
 legawa
 legi
@@ -2857,7 +2848,6 @@ lohan
 lok
 loka
 lokan
-lola
 loloh
 lolos
 lom
@@ -2894,7 +2884,6 @@ lucu
 ludah
 lugu
 luh
-luhan
 luhur
 luk
 luka
@@ -3277,6 +3266,7 @@ ndak
 ndang
 ndasmu
 ndelok
+ndoro
 nduk
 ne
 nedah
@@ -3353,7 +3343,6 @@ ngadi
 ngado
 ngadu
 ngaduk
-ngagem
 ngajak
 ngajar
 ngajeng
@@ -3452,7 +3441,6 @@ ngawe
 ngaweh
 ngawi
 ngawiti
-ngawo
 ngawor
 ngawu
 ngawur
@@ -3502,7 +3490,6 @@ ngepel
 ngepet
 ngerek
 ngeri
-ngeroso
 ngersa
 ngerti
 ngertos
@@ -3573,7 +3560,6 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
-ngnggo
 ngobat
 ngobong
 ngobor
@@ -3584,6 +3570,7 @@ ngocok
 ngok
 ngoke
 ngoko
+ngokop
 ngolah
 ngolet
 ngoli
@@ -3724,6 +3711,7 @@ nitih
 nitip
 njajal
 njaluk
+njupuk
 no
 nogel
 noh
@@ -3914,6 +3902,7 @@ opah
 opak
 opel
 open
+opera
 opet
 opo
 opon
@@ -4205,7 +4194,6 @@ pupu
 puput
 pura
 puri
-purna
 purun
 pus
 pusing
@@ -4224,7 +4212,6 @@ rada
 radar
 raden
 radi
-radio
 raga
 ragam
 ragangan
@@ -4512,7 +4499,6 @@ salam
 sali
 salim
 salon
-salut
 sama
 samar
 sambang
@@ -4717,6 +4703,7 @@ siwur
 slamet
 slametan
 so
+soale
 sobat
 sodok
 sodor
@@ -4780,7 +4767,6 @@ sulam
 sule
 suli
 sultan
-sulung
 sum
 suma
 suman
@@ -5215,6 +5201,7 @@ undangan
 undhi
 unduh
 undur
+unem
 unen
 ung
 ungaran
