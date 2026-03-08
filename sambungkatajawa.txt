@@ -143,6 +143,7 @@ asor
 asta
 asu
 atap
+atas
 ataw
 atep
 ati
@@ -265,6 +266,7 @@ eke
 eko
 ekor
 elang
+elap
 eleh
 elek
 eleng
@@ -314,6 +316,7 @@ es
 esek
 esih
 etan
+eti
 etig
 etika
 ewoh
@@ -471,6 +474,7 @@ idu
 iga
 igak
 ijen
+iji
 ijik
 ijo
 ika
@@ -566,6 +570,7 @@ jili
 jimat
 jin
 jirih
+jitak
 jiwa
 joli
 joran
@@ -609,6 +614,7 @@ kawula
 kayu
 ke
 kebo
+kebon
 kelebon
 kelek
 kelingan
@@ -940,6 +946,7 @@ nindak
 ning
 ninggal
 nipu
+nisan
 nitih
 no
 nok
@@ -1041,6 +1048,7 @@ poli
 polisi
 poni
 por
+pripun
 puasa
 pun
 pundhut
@@ -1159,6 +1167,7 @@ sih
 siji
 siku
 sila
+silet
 siman
 simbah
 sinden
