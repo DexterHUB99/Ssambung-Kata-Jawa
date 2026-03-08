@@ -146,6 +146,7 @@ camat
 candra
 cecak
 celeng
+cengkeh
 cicak
 cik
 codet
@@ -227,6 +228,7 @@ galer
 gali
 galih
 galok
+gaman
 gambuh
 gamelan
 gandul
@@ -303,6 +305,7 @@ hiji
 hilang
 hir
 hiri
+his
 hitung
 hm
 hooh
@@ -385,6 +388,7 @@ jamu
 jancok
 jare
 jawa
+jawaban
 jawir
 jaya
 je
@@ -424,6 +428,7 @@ kayu
 ke
 kelebon
 kelon
+kembang
 kene
 kenek
 kera
@@ -448,6 +453,7 @@ kolam
 kono
 kontol
 kontrol
+koper
 kopi
 koplak
 koran
@@ -572,6 +578,7 @@ nambah
 nanang
 nandur
 nanem
+nang
 nanggung
 nanging
 nangka
@@ -629,6 +636,7 @@ ngolet
 ngoli
 ngombe
 ngomong
+ngompol
 ngono
 ngopi
 ngopo
@@ -676,6 +684,7 @@ oleh
 olo
 omah
 omong
+omongan
 ompong
 onar
 oncek
@@ -690,6 +699,7 @@ or
 ora
 orang
 ori
+orok
 otot
 padas
 paku
