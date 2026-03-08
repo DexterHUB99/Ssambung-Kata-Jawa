@@ -385,7 +385,6 @@ arang
 aras
 arat
 are
-areh
 arek
 arel
 arem
@@ -1123,7 +1122,6 @@ ekis
 eklas
 eklek
 eko
-ekol
 ekoli
 ekor
 ekot
@@ -3231,6 +3229,7 @@ napak
 napas
 nape
 napi
+napsu
 nar
 nara
 narai
@@ -5220,6 +5219,7 @@ urang
 urap
 uras
 urat
+urek
 uren
 uri
 urih
