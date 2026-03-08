@@ -35,6 +35,7 @@ aman
 amarga
 ambil
 ambyar
+amer
 amerga
 ami
 amit
@@ -78,6 +79,7 @@ atis
 atom
 atos
 awas
+ayam
 ayo
 ayu
 bajul
@@ -144,6 +146,7 @@ gak
 galak
 galengan
 galer
+gambuh
 gamelan
 gandul
 gangsal
@@ -287,6 +290,7 @@ kila
 kira
 kirang
 kiri
+kisa
 klambi
 ko
 koe
@@ -328,6 +332,7 @@ laos
 lapo
 lari
 laron
+lawuh
 layu
 leh
 lele
@@ -406,6 +411,7 @@ ngarit
 ngatur
 ngelu
 ngertos
+ngetok
 ngg
 nggeh
 nggolek
@@ -431,6 +437,7 @@ nikah
 niki
 nila
 nindak
+ning
 nipu
 no
 nok
@@ -438,6 +445,7 @@ nol
 nomer
 nonton
 nresnani
+nuku
 oalah
 ob
 ogah
@@ -573,6 +581,7 @@ ukara
 ukir
 ukur
 ula
+ulama
 ular
 uler
 ulo
