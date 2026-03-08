@@ -12,6 +12,7 @@ ahi
 ahir
 ahli
 aho
+ahok
 aing
 air
 ajal
@@ -84,6 +85,7 @@ codet
 dagang
 dalan
 dan
+dapur
 dasi
 dina
 disu
@@ -267,6 +269,7 @@ kulit
 kum
 kundur
 kur
+kursi
 kuru
 kut
 kutang
@@ -311,6 +314,7 @@ maem
 maju
 maleh
 man
+manasi
 mangan
 marem
 masak
@@ -349,6 +353,7 @@ ngaleh
 ngalor
 nganjuk
 ngantuk
+ngaos
 ngapa
 ngapak
 ngarit
@@ -406,11 +411,13 @@ padas
 pala
 palang
 paling
+pani
 payah
 pinten
 piro
 po
 pol
+poli
 pun
 pundhut
 punika
@@ -447,6 +454,7 @@ saku
 salah
 salim
 sampean
+sapi
 saru
 sarungan
 sayang
