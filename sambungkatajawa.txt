@@ -1767,6 +1767,7 @@ got
 gotong
 gowang
 gowo
+goyah
 goyang
 gragal
 graji
@@ -3159,6 +3160,7 @@ maha
 mai
 maido
 maju
+mak
 makam
 makan
 makane
@@ -4036,6 +4038,7 @@ nora
 norak
 nori
 nos
+noya
 nresna
 nresnani
 nrimo
