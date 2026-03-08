@@ -280,6 +280,7 @@ ananging
 ananti
 anas
 anay
+ancaman
 ancang
 ancen
 ancik
@@ -2498,6 +2499,7 @@ katrok
 kaula
 kawah
 kawanen
+kawasan
 kawat
 kawen
 kawi
@@ -4973,6 +4975,7 @@ selir
 semar
 sembah
 sembahyang
+sembrono
 semen
 semok
 sempak
