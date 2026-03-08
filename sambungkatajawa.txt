@@ -2088,6 +2088,7 @@ jinjit
 jinten
 jir
 jira
+jiran
 jiri
 jirih
 jitak
