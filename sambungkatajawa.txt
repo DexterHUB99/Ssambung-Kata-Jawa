@@ -14,6 +14,7 @@ ahli
 air
 ajal
 ajeng
+akal
 akeh
 akil
 aksi
@@ -51,10 +52,12 @@ dagang
 dalan
 dasi
 dumane
+dura
 duri
 edan
 ehi
 eka
+eko
 elang
 eman
 emok
@@ -120,6 +123,7 @@ ilir
 imas
 imo
 indak
+indu
 induk
 ingsun
 ini
@@ -158,6 +162,7 @@ kut
 kutang
 lagu
 lam
+lambe
 lambemu
 lambung
 lampu
@@ -196,6 +201,7 @@ nganjuk
 ngapa
 ngapak
 ngarit
+nggolek
 ngilang
 ngisu
 ngombe
@@ -234,6 +240,7 @@ ridho
 rikma
 riko
 rim
+rin
 ris
 roda
 run
@@ -249,6 +256,7 @@ sarungan
 sayur
 sego
 siji
+siman
 simbah
 sopan
 subhanallah
@@ -291,6 +299,7 @@ uta
 utawi
 uyuh
 wit
+wong
 wulan
 yoga
 yuda
