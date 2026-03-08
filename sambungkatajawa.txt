@@ -39,6 +39,7 @@ ali
 alip
 aliran
 alur
+ama
 aman
 amarga
 ambil
@@ -156,6 +157,7 @@ dumane
 dumugi
 dura
 duri
+ealah
 edan
 eha
 ehek
@@ -209,6 +211,7 @@ gambuh
 gamelan
 gandul
 gangsal
+gantung
 gapura
 garem
 gareng
@@ -225,6 +228,7 @@ gemati
 gembel
 gendeng
 gi
+gigal
 gigi
 gila
 gilo
@@ -239,6 +243,7 @@ guling
 gulu
 gulung
 gun
+guna
 gundul
 gunung
 gupak
@@ -718,6 +723,7 @@ rupa
 rus
 rusak
 rusuh
+rut
 ruti
 sa
 sabar
