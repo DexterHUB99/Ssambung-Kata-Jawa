@@ -3600,6 +3600,7 @@ nresna
 nresnani
 nrimo
 nu
+nub
 nuduh
 nuduhi
 nugel
@@ -4478,6 +4479,7 @@ sim
 simak
 siman
 simbah
+simbaran
 simbok
 simpang
 simpenan
@@ -5101,6 +5103,7 @@ uwes
 uwis
 uwit
 uwong
+uwu
 uyah
 uyuh
 wader
