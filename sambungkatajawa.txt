@@ -2194,6 +2194,7 @@ kleru
 kliwon
 klumah
 ko
+kobel
 kobong
 kocak
 kodok
@@ -2429,6 +2430,7 @@ li
 liane
 libur
 licik
+licin
 lidah
 lih
 lihat
@@ -3914,6 +3916,7 @@ sapa
 sapi
 sapih
 sapu
+saput
 sar
 sara
 sarap
