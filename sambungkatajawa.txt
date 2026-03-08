@@ -87,7 +87,6 @@ ajur
 ak
 aka
 akad
-akah
 akak
 akal
 akan
@@ -263,12 +262,14 @@ anu
 anus
 anut
 anyar
+anyep
 anyer
 ap
 apa
 apal
 apar
 ape
+apek
 apel
 apem
 apes
@@ -278,7 +279,6 @@ apo
 apos
 apung
 apus
-arab
 arah
 arak
 aran
@@ -355,7 +355,6 @@ atem
 atep
 ater
 ati
-atin
 atir
 atis
 ato
@@ -459,7 +458,6 @@ belo
 belu
 ben
 benang
-bende
 bene
 bengi
 beni
@@ -471,7 +469,6 @@ besok
 besuk
 besuki
 beto
-biang
 biasa
 biaya
 bibik
@@ -482,7 +479,6 @@ bidur
 bigu
 biji
 bika
-bikak
 bila
 bili
 bima
@@ -538,7 +534,6 @@ bungah
 bungkus
 buntut
 buron
-busi
 buta
 butek
 buto
@@ -795,7 +790,6 @@ eker
 eki
 ekis
 eko
-ekoli
 ekor
 ekot
 eku
@@ -815,7 +809,6 @@ eling
 elo
 elok
 elon
-elor
 elu
 eluh
 elus
@@ -958,7 +951,6 @@ fokus
 ga
 gabah
 gaber
-gabes
 gabuk
 gabung
 gabus
@@ -1082,7 +1074,6 @@ geng
 geni
 genti
 gentong
-geol
 gerah
 gerak
 geram
@@ -1534,6 +1525,7 @@ jol
 jola
 joli
 jomblo
+jon
 jor
 jora
 joran
@@ -1619,7 +1611,6 @@ kantil
 kanyuwun
 kaos
 kapak
-kapal
 kapan
 kapi
 kaping
@@ -1635,6 +1626,7 @@ karepe
 karepmu
 kari
 karo
+kartu
 karung
 kas
 kasar
@@ -1755,7 +1747,6 @@ kim
 kima
 kiman
 kimpul
-kin
 kina
 kinanthi
 kinasih
@@ -1873,6 +1864,7 @@ kursi
 kuru
 kurus
 kus
+kusen
 kusir
 kut
 kuta
@@ -1942,12 +1934,12 @@ laut
 lawa
 lawan
 lawang
-lawas
 lawuh
 layang
 layar
 layu
 le
+lega
 legi
 leh
 lek
@@ -2097,7 +2089,6 @@ man
 mana
 manah
 manasi
-mandeg
 mandi
 mane
 maneh
@@ -2154,12 +2145,10 @@ meme
 memek
 mene
 meneng
-meni
 menika
 merah
 meri
 mesake
-mesem
 met
 meteng
 metu
@@ -2265,7 +2254,6 @@ namung
 nan
 nana
 nanah
-nanak
 nanang
 nanas
 nandang
@@ -2337,6 +2325,7 @@ neng
 nengdi
 nepak
 nepi
+nepsu
 neptu
 ner
 nerak
@@ -2372,6 +2361,7 @@ ngalah
 ngale
 ngaleh
 ngalem
+ngali
 ngalih
 ngalor
 ngamal
@@ -2413,7 +2403,6 @@ ngarit
 ngas
 ngasah
 ngasahi
-ngasal
 ngasar
 ngasep
 ngasi
@@ -2422,7 +2411,6 @@ ngaso
 ngasta
 ngasu
 ngasuh
-ngatuk
 ngatur
 ngawa
 ngawe
@@ -2489,6 +2477,7 @@ ngiler
 ngilo
 ngimpi
 ngintip
+ngira
 ngirim
 ngisak
 ngiseng
@@ -3257,7 +3246,6 @@ sinoman
 sinten
 sip
 sipit
-sira
 sirah
 siram
 sirih
@@ -3402,7 +3390,6 @@ tanpa
 tansah
 tape
 tapi
-tapir
 tar
 tari
 tarik
@@ -3504,7 +3491,6 @@ tresno
 tu
 tuak
 tubruk
-tugel
 tuh
 tuk
 tukang
@@ -3733,6 +3719,7 @@ waduk
 wadul
 wae
 wah
+wahyu
 waktu
 walah
 walang
@@ -3742,7 +3729,6 @@ wana
 wangsul
 wangsulan
 wani
-wareg
 warga
 warisan
 warok
@@ -3841,7 +3827,6 @@ yudha
 yuh
 yuk
 yuka
-yun
 yuna
 yuni
 yura
