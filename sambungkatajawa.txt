@@ -1517,6 +1517,7 @@ ganti
 gantung
 ganyong
 gaplek
+gapuk
 gapura
 gar
 gara
@@ -3103,6 +3104,7 @@ mana
 manah
 manak
 manasi
+mancal
 mandang
 mandeg
 mandhek
@@ -3826,8 +3828,10 @@ nguna
 ngundang
 ngunduh
 ngundur
+ngunem
 ngunggah
 ngungkuli
+nguning
 ngunjuk
 nguntal
 ngunung
@@ -4394,6 +4398,7 @@ pula
 pulsa
 puluh
 pun
+puna
 punapa
 pundhak
 pundhut
@@ -4924,6 +4929,7 @@ sirih
 sirna
 siro
 sirsak
+sirup
 sis
 sisa
 sisan
