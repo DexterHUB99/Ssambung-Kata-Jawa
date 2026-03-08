@@ -2783,6 +2783,7 @@ lah
 lahan
 lahir
 lajeng
+laju
 lak
 laki
 lakon
@@ -3363,6 +3364,7 @@ namung
 nan
 nana
 nanah
+nanai
 nanak
 nanam
 nanang
@@ -3700,6 +3702,7 @@ ngijab
 ngijoli
 ngik
 ngiki
+ngiku
 ngilang
 ngiler
 ngili
