@@ -325,6 +325,7 @@ angsal
 angso
 angsul
 angsur
+angsuran
 angur
 angus
 ani
@@ -5110,6 +5111,7 @@ tikung
 tikungan
 tikus
 til
+tilap
 tilas
 tile
 tilem
