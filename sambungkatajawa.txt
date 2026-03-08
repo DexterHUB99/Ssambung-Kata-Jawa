@@ -11,6 +11,7 @@ ahay
 ahi
 ahir
 ahli
+aho
 aing
 air
 ajal
@@ -46,6 +47,7 @@ anjir
 apa
 apel
 apung
+arang
 are
 arep
 asa
@@ -96,6 +98,7 @@ gajah
 gak
 galak
 galer
+gamelan
 gangsal
 gapura
 garem
@@ -120,6 +123,7 @@ gupak
 guru
 guyu
 ha
+hah
 haha
 hai
 hajat
@@ -136,6 +140,7 @@ heri
 hi
 hir
 hiri
+hm
 hooh
 hum
 hutan
@@ -146,6 +151,7 @@ idu
 ijik
 ikal
 ikan
+ikatan
 iki
 iklim
 iku
@@ -276,6 +282,7 @@ ngapa
 ngapak
 ngarit
 ngertos
+nggeh
 nggolek
 ngilang
 ngising
@@ -365,6 +372,7 @@ siman
 simbah
 sip
 sisir
+slametan
 sopan
 srawung
 subhanallah
@@ -391,6 +399,7 @@ udan
 udang
 ujuk
 uka
+ukar
 ukara
 ukir
 ukur
