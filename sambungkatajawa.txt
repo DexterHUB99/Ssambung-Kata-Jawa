@@ -968,6 +968,7 @@ elak
 elan
 elang
 elap
+elar
 elas
 eleh
 elek
@@ -4373,6 +4374,7 @@ unggaran
 unggas
 unggul
 ungkal
+ungkap
 ungkas
 ungkir
 ungu
