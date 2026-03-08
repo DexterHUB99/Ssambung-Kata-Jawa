@@ -30,7 +30,6 @@ ae
 afe
 ag
 agal
-age
 ageng
 agung
 agus
@@ -74,7 +73,6 @@ air
 aja
 ajak
 ajal
-ajang
 ajeg
 ajek
 ajeng
@@ -208,6 +206,7 @@ anes
 angel
 anget
 anggar
+anggara
 angger
 anggur
 angin
@@ -275,7 +274,6 @@ areng
 arep
 ari
 aring
-aris
 arisan
 arit
 arjuna
@@ -312,7 +310,6 @@ asli
 asma
 asmara
 aso
-asok
 asop
 asor
 asri
@@ -436,7 +433,6 @@ bero
 besok
 besuk
 besuki
-beto
 biasa
 biaya
 bibik
@@ -603,6 +599,7 @@ demak
 demok
 dendeng
 deneng
+der
 dereng
 desa
 dewa
@@ -966,10 +963,8 @@ gedhe
 geger
 geguritan
 geh
-gel
 gelang
 gelem
-geleman
 geli
 gelis
 gelo
@@ -1026,7 +1021,6 @@ gini
 gir
 gita
 githok
-giwangan
 go
 goblok
 godog
@@ -1107,7 +1101,6 @@ habis
 hadeh
 hadiah
 hadir
-hadist
 hah
 haha
 hai
@@ -1121,7 +1114,6 @@ hala
 halah
 halal
 halen
-hali
 halo
 halus
 ham
@@ -1136,7 +1128,6 @@ hancur
 hani
 hansip
 hantu
-hapa
 hape
 har
 hara
@@ -1499,6 +1490,7 @@ kanjut
 kanthi
 kanthil
 kanti
+kantil
 kanyuwun
 kaos
 kapak
@@ -1645,7 +1637,6 @@ kisi
 kita
 kitab
 klambi
-kleru
 kliwon
 klumah
 ko
@@ -1828,6 +1819,7 @@ libur
 licik
 lih
 lihat
+lik
 lika
 liku
 lila
@@ -2022,7 +2014,6 @@ mlebu
 modar
 modus
 moh
-mojo
 mok
 mol
 moleh
@@ -2234,11 +2225,9 @@ ngas
 ngasah
 ngasahi
 ngasar
-ngasep
 ngasi
 ngasih
 ngaso
-ngasta
 ngasu
 ngasuh
 ngatur
@@ -2632,7 +2621,6 @@ pikang
 pikun
 pil
 pilih
-pilok
 pilu
 piluh
 pin
@@ -2675,7 +2663,6 @@ pol
 pola
 poli
 polisi
-pom
 pomi
 pon
 pondok
@@ -2763,7 +2750,6 @@ rapi
 rapih
 rapopo
 rapuh
-rarawoh
 ras
 rasa
 rasah
@@ -2807,6 +2793,7 @@ rencang
 rendang
 rendeng
 rene
+reng
 rengginang
 rep
 repot
@@ -2910,7 +2897,6 @@ saget
 sah
 saha
 sahur
-saiki
 sajen
 sak
 saka
@@ -3074,7 +3060,6 @@ suma
 sumbanga
 sumbangan
 sumenep
-sumi
 sumpah
 sumuk
 sumur
@@ -3134,7 +3119,6 @@ tambal
 tampah
 tampar
 tamu
-tanah
 tandang
 tandha
 tanduk
@@ -3446,7 +3430,6 @@ uteke
 utel
 uter
 utik
-utowo
 utuh
 utus
 uwes
@@ -3477,6 +3460,7 @@ warok
 warung
 was
 wasi
+wati
 watu
 wayah
 wayang
