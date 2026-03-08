@@ -421,6 +421,7 @@ arang
 aras
 arat
 are
+areh
 arek
 arel
 arem
@@ -2521,6 +2522,7 @@ keliru
 kelon
 kelonan
 kelor
+keloro
 keluarga
 keluh
 kem
@@ -2566,6 +2568,7 @@ keong
 kep
 kepala
 kepenak
+kepepet
 kepet
 kepik
 kepiye
@@ -2753,6 +2756,7 @@ krupuk
 ku
 kuasa
 kuat
+kuburan
 kucing
 kuda
 kudet
