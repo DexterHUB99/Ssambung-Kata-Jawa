@@ -109,7 +109,6 @@ aker
 aket
 akhir
 aki
-akih
 akik
 akil
 akir
@@ -202,7 +201,6 @@ amrih
 amu
 amuk
 amung
-amut
 an
 ana
 anah
@@ -297,6 +295,7 @@ anu
 anum
 anus
 anut
+anyam
 anyar
 anyep
 anyer
@@ -426,7 +425,6 @@ aus
 aut
 auta
 autan
-auto
 awak
 awakdewe
 awake
@@ -1070,7 +1068,6 @@ erusi
 es
 esa
 esah
-esai
 esay
 ese
 eseh
@@ -1303,6 +1300,7 @@ githok
 giwang
 giwangan
 go
+goblog
 goblok
 godog
 godok
@@ -1455,6 +1453,7 @@ hayu
 hayuk
 he
 hebat
+heboh
 heh
 hehe
 hei
@@ -1568,7 +1567,6 @@ ikut
 il
 ilah
 ilahi
-ilak
 ilang
 ilat
 iler
@@ -1664,7 +1662,6 @@ irup
 irus
 is
 isa
-isai
 isak
 isam
 isan
@@ -1706,7 +1703,6 @@ jab
 jaga
 jagung
 jahil
-jaja
 jajal
 jajan
 jalar
@@ -1717,7 +1713,6 @@ jam
 jamal
 jaman
 jambu
-jambul
 jamu
 jamur
 jan
@@ -1792,7 +1787,6 @@ jori
 jorok
 jos
 jule
-juli
 jumat
 jun
 jupuk
@@ -1875,7 +1869,6 @@ kanthi
 kanthil
 kanti
 kantil
-kantor
 kanyuwun
 kaos
 kapak
@@ -1908,12 +1901,10 @@ kasep
 kasi
 kasih
 kasir
-kasor
 kasoran
 kasuh
 kasur
 kasut
-kat
 katah
 kathok
 katok
@@ -1938,7 +1929,6 @@ kedah
 kediri
 kek
 kekal
-keke
 kel
 kela
 kelam
@@ -2273,7 +2263,6 @@ lemah
 leman
 lemari
 lembah
-lembek
 leme
 lemes
 lemot
@@ -2372,7 +2361,6 @@ lotek
 loyo
 lu
 lucu
-ludah
 lugu
 luh
 luhur
@@ -2450,6 +2438,7 @@ mang
 manga
 mangan
 manggil
+mangkane
 mangke
 mangkel
 mangku
@@ -2566,6 +2555,7 @@ mrono
 mu
 mubeng
 mudeng
+mugi
 mujair
 muji
 muk
@@ -2754,7 +2744,6 @@ ngakeh
 ngaku
 ngal
 ngalah
-ngalas
 ngale
 ngaleh
 ngalem
@@ -2829,6 +2818,7 @@ ngece
 ngecek
 ngeden
 ngeh
+ngejar
 ngek
 ngelak
 ngelawak
@@ -2970,7 +2960,6 @@ ngunung
 ngunut
 ngupil
 nguping
-nguri
 ngurip
 nguripi
 ngurus
@@ -3065,6 +3054,7 @@ nuntun
 nunung
 nunut
 nur
+nuri
 nurun
 nurut
 nuruti
@@ -3195,7 +3185,6 @@ paguyupan
 pahing
 pahit
 paing
-pait
 pajak
 pajang
 pajar
@@ -3288,7 +3277,6 @@ pikang
 pikuk
 pikun
 pil
-pilah
 pilar
 pilih
 pilok
@@ -3367,7 +3355,6 @@ pukul
 pulsa
 pun
 punapa
-pundhak
 pundhut
 pundi
 pungkasan
@@ -3434,7 +3421,6 @@ ranah
 rancang
 randa
 randu
-randue
 rang
 rangkat
 rangkul
@@ -3481,6 +3467,7 @@ reget
 rejo
 rek
 rekasa
+reksa
 rem
 rema
 remah
@@ -3635,7 +3622,6 @@ sali
 salim
 salon
 sama
-sambat
 sambel
 samben
 sambi
@@ -3653,7 +3639,6 @@ sandal
 sandang
 sandangan
 sandhang
-sanes
 sangga
 sangka
 sangkuni
@@ -3667,7 +3652,6 @@ sapa
 sapi
 sapih
 sapu
-sar
 sara
 sarap
 sare
@@ -3702,7 +3686,6 @@ segara
 sego
 segoro
 seh
-sehat
 sek
 sekawan
 seket
@@ -3955,7 +3938,6 @@ tela
 telas
 telat
 tele
-teles
 telo
 telu
 tema
@@ -3986,7 +3968,6 @@ tiba
 tibak
 tibo
 tik
-tika
 tikar
 tiki
 tikung
@@ -4357,7 +4338,6 @@ werna
 werno
 weruh
 wes
-wesi
 wetan
 weteng
 weton
