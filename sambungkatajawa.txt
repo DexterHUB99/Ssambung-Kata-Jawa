@@ -357,6 +357,7 @@ asal
 asam
 asap
 asar
+asas
 asat
 ase
 asek
@@ -484,6 +485,7 @@ balon
 balung
 ban
 bandeng
+bandrek
 bani
 banter
 banyu
@@ -706,6 +708,7 @@ cucu
 cucur
 cukur
 culik
+cuma
 cunduk
 curut
 cusu
@@ -2909,6 +2912,7 @@ ngisor
 ngisu
 ngitung
 ngiwa
+ngiwasi
 nglon
 ngluwehi
 ngluwihi
@@ -3058,6 +3062,7 @@ nuli
 nulis
 num
 numbal
+numbas
 numpak
 numplek
 numpuk
@@ -3229,6 +3234,7 @@ panen
 pang
 pangan
 panggah
+panggon
 pani
 panik
 panis
@@ -3912,6 +3918,7 @@ tali
 tam
 tama
 tamah
+tamba
 tambah
 tambal
 tampah
