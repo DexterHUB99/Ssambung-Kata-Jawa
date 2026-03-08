@@ -180,6 +180,7 @@ amit
 amo
 amoh
 amok
+amor
 ampa
 ampal
 amparan
@@ -521,6 +522,7 @@ bil
 bila
 bili
 bima
+bimo
 bin
 bindeng
 bintang
@@ -2279,6 +2281,7 @@ malah
 malang
 maleh
 malu
+mam
 mamas
 mambu
 mampus
