@@ -736,6 +736,7 @@ condong
 congor
 conto
 contoh
+copot
 cor
 corak
 coro
@@ -4219,6 +4220,7 @@ tenane
 tengah
 tengen
 tentrem
+tenun
 tep
 tepe
 terang
