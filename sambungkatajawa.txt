@@ -311,7 +311,6 @@ anton
 antri
 antuk
 anu
-anuk
 anum
 anus
 anut
@@ -1286,6 +1285,7 @@ gayem
 gayeng
 gayung
 ge
+geblak
 geblek
 gedang
 gede
@@ -1350,8 +1350,10 @@ geret
 geri
 gerji
 gerobak
+gesa
 gesek
 geseng
+geser
 gething
 gethuk
 getuk
@@ -1396,6 +1398,7 @@ gokil
 gola
 gole
 golek
+golet
 golo
 golongan
 gombal
@@ -1514,7 +1517,6 @@ hani
 hansip
 hantam
 hantu
-hap
 hapa
 hape
 hapus
@@ -1522,6 +1524,7 @@ hapusi
 har
 hara
 haram
+haran
 harga
 hari
 harimau
@@ -1751,6 +1754,7 @@ irisan
 irisen
 irit
 iroh
+irong
 iros
 iru
 irung
@@ -2339,7 +2343,6 @@ lanang
 lancang
 lancar
 lancip
-landa
 landak
 landep
 langgeng
@@ -2811,7 +2814,6 @@ naon
 nap
 napa
 napak
-napas
 nape
 napi
 nar
@@ -2914,7 +2916,6 @@ ngaku
 ngal
 ngala
 ngalah
-ngalam
 ngalas
 ngale
 ngaleh
@@ -2928,7 +2929,6 @@ ngambar
 ngamben
 ngambi
 ngambil
-ngambung
 ngamil
 ngamok
 ngampun
@@ -3056,6 +3056,7 @@ ngih
 ngijab
 ngijoli
 ngik
+ngika
 ngiki
 ngilang
 ngiler
@@ -3112,7 +3113,6 @@ ngorong
 ngos
 ngosek
 ngosok
-ngowah
 ngowe
 ngowoh
 ngoyak
@@ -3123,6 +3123,7 @@ ngrumat
 ngucap
 ngucek
 ngudang
+ngudek
 ngudi
 ngudud
 ngudut
@@ -3288,7 +3289,6 @@ odol
 ogah
 ogak
 oge
-ogoh
 oh
 oj
 ojek
@@ -3317,7 +3317,6 @@ oles
 olih
 oling
 olo
-olok
 om
 oma
 omah
@@ -3549,6 +3548,7 @@ pol
 pola
 polah
 polan
+poles
 poli
 polisi
 pom
@@ -3584,7 +3584,6 @@ pungkasan
 punika
 punten
 pupu
-puput
 puri
 purun
 pus
@@ -3841,7 +3840,6 @@ sajen
 sajim
 sak
 saka
-sakar
 sakarep
 saken
 saket
@@ -4073,6 +4071,7 @@ sulak
 sulam
 sule
 suli
+sulung
 sum
 suma
 sumbanga
@@ -4202,6 +4201,7 @@ teles
 telo
 telu
 tema
+tembaga
 tembang
 tembok
 tembung
@@ -4304,7 +4304,6 @@ tul
 tula
 tulang
 tuli
-tulip
 tulis
 tulisan
 tulung
@@ -4325,6 +4324,7 @@ tunas
 tunggal
 tunggu
 tungkak
+tupe
 tupi
 tur
 turah
