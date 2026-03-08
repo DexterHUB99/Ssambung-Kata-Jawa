@@ -29,6 +29,7 @@ adep
 adhem
 adhi
 adi
+adigang
 adik
 adil
 adoh
@@ -133,6 +134,7 @@ akit
 ako
 akon
 akor
+akrab
 aksara
 aksen
 aksi
@@ -195,6 +197,7 @@ ambek
 amben
 amber
 ambil
+ambruk
 ambu
 ambung
 ambunge
@@ -250,6 +253,7 @@ anay
 ancen
 ancik
 ancok
+ancuk
 ancur
 andap
 andaran
@@ -447,6 +451,7 @@ ata
 atah
 atak
 atap
+atapan
 atar
 atas
 ataw
@@ -515,6 +520,7 @@ ayo
 ayok
 ayu
 ayuh
+ayuk
 ayun
 ayunan
 az
@@ -559,6 +565,7 @@ banter
 banyu
 bapak
 bar
+baris
 barongan
 basi
 baskom
@@ -711,6 +718,7 @@ bunga
 bungah
 bungkus
 buntut
+buri
 buron
 buru
 busi
@@ -1069,6 +1077,7 @@ ekeh
 ekek
 ekel
 eker
+eket
 eki
 ekis
 eklas
@@ -1261,6 +1270,7 @@ eseh
 esek
 esem
 eses
+esi
 esih
 eso
 esok
@@ -1420,6 +1430,7 @@ gede
 gedek
 gedhang
 gedhe
+gedhi
 gedor
 gega
 geger
@@ -1733,6 +1744,7 @@ hooh
 hor
 hora
 hore
+horen
 hori
 hormat
 hotel
@@ -1889,6 +1901,7 @@ inul
 inyong
 ip
 ipa
+ipan
 ipar
 ipe
 ipel
@@ -1935,6 +1948,7 @@ isian
 isih
 isik
 isin
+isinan
 isine
 ising
 isis
@@ -2436,6 +2450,7 @@ kos
 kose
 kosek
 kosok
+kosong
 kosor
 kot
 kota
@@ -2548,6 +2563,7 @@ lamis
 lampah
 lampar
 lamper
+lampir
 lampu
 lampung
 lamu
@@ -2660,6 +2676,7 @@ lilo
 lim
 lima
 limaa
+limas
 limbah
 limbuk
 limbung
@@ -2669,6 +2686,7 @@ limpa
 limun
 lin
 lina
+lindes
 lindhu
 lindur
 linggih
@@ -2752,6 +2770,7 @@ luluh
 luma
 lumajang
 lumaku
+lumbung
 lumpuh
 lumrah
 lumuh
@@ -2769,6 +2788,7 @@ luruh
 lurus
 lus
 lusa
+lusuh
 luwe
 luweh
 luwes
@@ -2810,7 +2830,6 @@ mama
 mamah
 mamas
 mambu
-mami
 mampus
 man
 mana
@@ -2917,7 +2936,6 @@ metu
 mi
 mie
 mieayam
-migunani
 mijil
 mik
 mikir
@@ -3004,6 +3022,7 @@ mur
 murah
 muri
 murid
+muring
 murka
 murup
 mus
@@ -3041,6 +3060,7 @@ naki
 nakon
 nakula
 nala
+nalang
 nalar
 nali
 nalik
@@ -3203,6 +3223,7 @@ ngalem
 ngaler
 ngali
 ngalih
+ngalis
 ngalo
 ngalor
 ngam
@@ -3276,6 +3297,7 @@ ngawa
 ngawe
 ngaweh
 ngawi
+ngawit
 ngawiti
 ngawor
 ngawu
@@ -3325,6 +3347,7 @@ ngerti
 ngertos
 nges
 ngeseng
+ngesik
 ngesot
 ngetan
 ngeti
@@ -3400,10 +3423,12 @@ ngolet
 ngoli
 ngolo
 ngolok
+ngomah
 ngombe
 ngome
 ngomong
 ngompol
+ngong
 ngongkang
 ngono
 ngontol
@@ -3533,6 +3558,7 @@ nol
 nolak
 noleh
 nom
+noman
 nombak
 nombok
 nomer
@@ -3757,6 +3783,7 @@ paku
 pala
 palang
 palem
+pali
 paling
 paliyan
 palu
@@ -3811,6 +3838,7 @@ pasar
 paser
 pasi
 pasir
+pasrah
 patek
 pati
 patis
@@ -3844,6 +3872,7 @@ pepes
 pera
 peri
 perih
+pesen
 peso
 peta
 pethuk
@@ -4134,6 +4163,7 @@ ridho
 rik
 rika
 rikala
+rikat
 riki
 rikma
 riko
@@ -4372,6 +4402,7 @@ senang
 sendal
 sendhang
 sendok
+seneng
 senin
 separo
 sepat
@@ -4685,6 +4716,7 @@ teri
 terong
 terus
 tete
+tetep
 ti
 tiba
 tibak
@@ -4903,6 +4935,7 @@ uman
 umbah
 umbar
 umbel
+umbelen
 umbi
 umbul
 umi
@@ -5086,6 +5119,7 @@ wayang
 wayangan
 we
 wedang
+wedangan
 wedhang
 wedhi
 wedhus
