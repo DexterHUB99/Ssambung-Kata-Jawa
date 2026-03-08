@@ -44,6 +44,7 @@ ahas
 ahat
 ahay
 ahe
+aheh
 ahek
 ahem
 aher
@@ -90,7 +91,6 @@ akas
 akat
 ake
 akeh
-aker
 aki
 akik
 akil
@@ -147,7 +147,6 @@ ambu
 ambung
 ambyar
 ameh
-amen
 amer
 amerga
 amet
@@ -157,7 +156,6 @@ amir
 amis
 amit
 amoh
-amok
 ampa
 ampal
 amparan
@@ -438,7 +436,6 @@ bima
 bin
 bindeng
 biru
-bis
 bisa
 biso
 bisu
@@ -480,7 +477,6 @@ bunga
 bungah
 bungkus
 buntut
-buron
 buta
 butek
 buto
@@ -495,12 +491,12 @@ cadel
 cagak
 cah
 cakot
-cal
 camat
 campur
 candi
 candra
 cangkem
+cangkul
 caping
 cari
 cawet
@@ -509,7 +505,6 @@ cebok
 cecak
 cek
 celeng
-cemplung
 cengkeh
 cep
 cerak
@@ -586,6 +581,7 @@ dendeng
 deneng
 dereng
 desa
+dewa
 dewi
 di
 didi
@@ -653,7 +649,6 @@ dumane
 dumeh
 dumugi
 dung
-dungo
 dupa
 dur
 dura
@@ -710,7 +705,6 @@ ekor
 ekot
 eku
 ekur
-ela
 elah
 elak
 elan
@@ -791,6 +785,7 @@ epep
 eper
 epet
 epi
+epik
 epil
 epis
 epo
@@ -830,7 +825,6 @@ esok
 estu
 esuk
 eta
-etak
 etan
 ete
 eti
@@ -855,7 +849,6 @@ gading
 gae
 gagah
 gagal
-gagap
 gage
 gah
 gairah
@@ -876,7 +869,6 @@ gambang
 gambar
 gambas
 gambir
-gambreng
 gambuh
 gambut
 gambyong
@@ -964,7 +956,6 @@ gerah
 gerak
 geram
 gerang
-gereng
 geret
 gerji
 gesek
@@ -983,12 +974,10 @@ gili
 giling
 gilo
 giman
-gimbal
 gina
 gini
 gir
 gita
-githok
 go
 goblok
 godog
@@ -1345,7 +1334,6 @@ jare
 jati
 jawa
 jawaban
-jawi
 jawir
 jawuh
 jaya
@@ -1372,7 +1360,6 @@ jirih
 jitak
 jiwa
 joglo
-jol
 jola
 joli
 jomblo
@@ -1387,7 +1374,6 @@ jupuk
 juru
 ka
 kabeh
-kabul
 kacang
 kacau
 kacek
@@ -1410,7 +1396,6 @@ kaki
 kaku
 kalah
 kalawan
-kalebu
 kaleh
 kalem
 kali
@@ -1419,14 +1404,12 @@ kalis
 kaliyan
 kalo
 kalong
-kalung
 kamar
 kambil
 kambing
 kami
 kamis
 kampil
-kampret
 kampung
 kamu
 kamus
@@ -1502,7 +1485,6 @@ kelon
 kelonan
 kelor
 keluarga
-keluh
 kembang
 kemben
 kemene
@@ -1513,6 +1495,7 @@ kemproh
 kemul
 ken
 kena
+kenapa
 kendang
 kenduri
 kene
@@ -1528,15 +1511,14 @@ kepiye
 kepo
 kepriye
 kera
+kerang
 keras
 kerasa
 kere
 keren
-kerep
 kereta
 keri
 keris
-kerjo
 kero
 kersa
 kesah
@@ -1639,6 +1621,7 @@ kudus
 kue
 kuk
 kuku
+kukuh
 kukur
 kul
 kula
@@ -1730,6 +1713,7 @@ laron
 laru
 las
 lase
+latah
 latar
 lathi
 latih
@@ -1809,6 +1793,7 @@ lomi
 lompat
 lon
 longgar
+lontar
 lonte
 lontong
 lop
@@ -1949,7 +1934,6 @@ modar
 modus
 moh
 mok
-mol
 moleh
 mondok
 monggo
@@ -2049,12 +2033,12 @@ nas
 nasi
 nasib
 nastar
+nat
 nata
 nawa
 nawar
 ndang
 ndasmu
-ndelok
 nduk
 ne
 nedah
@@ -2074,7 +2058,6 @@ nembak
 nembe
 nembung
 nemen
-nempel
 nempik
 nemu
 nen
@@ -2108,7 +2091,6 @@ ngajar
 ngajeni
 ngaji
 ngajia
-ngak
 ngakak
 ngaku
 ngalah
@@ -2255,6 +2237,7 @@ ngoyo
 ngrayu
 ngrit
 ngucap
+ngucek
 ngudang
 ngudi
 ngudud
@@ -2298,6 +2281,7 @@ nilep
 nim
 nimba
 nimbun
+nin
 nina
 nindak
 ning
@@ -2452,6 +2436,7 @@ pacik
 pacul
 padang
 padas
+padasan
 pados
 padu
 padusan
@@ -2487,13 +2472,13 @@ panis
 panjaluk
 panjang
 panjenengan
-panut
 papa
 papan
 par
 para
 parah
 parani
+pare
 pari
 paring
 parit
@@ -2524,7 +2509,6 @@ pethuk
 pi
 picek
 pih
-pikang
 pikun
 pil
 pilih
@@ -2554,13 +2538,13 @@ pisan
 pisang
 pisuh
 pitakon
+pitek
 pitik
 pitu
 pitutur
 piwulang
 piye
 po
-pocong
 pojok
 pokok
 pol
@@ -2691,6 +2675,7 @@ remen
 remi
 rempah
 remuk
+renang
 rencang
 rendang
 rendeng
@@ -2698,7 +2683,6 @@ rene
 rengginang
 rep
 repot
-reresik
 resah
 rese
 resi
@@ -2803,7 +2787,6 @@ sakarep
 saku
 salah
 salam
-sali
 salim
 salon
 sama
@@ -2817,10 +2800,10 @@ sampeyan
 sampun
 sana
 sandhang
+sangga
 sangu
 sanjang
 santun
-sanur
 sapa
 sapi
 sapih
@@ -2886,7 +2869,6 @@ silet
 silit
 siman
 simbah
-simpenan
 sin
 sinau
 sinden
@@ -2938,7 +2920,6 @@ subur
 sudi
 sugeng
 sugih
-sujud
 suk
 suka
 suket
@@ -2971,6 +2952,7 @@ supe
 supen
 sur
 sura
+surai
 surat
 suri
 suroboyo
@@ -3096,8 +3078,8 @@ titi
 titik
 tiwas
 tiyang
+to
 tok
-toke
 tokek
 toko
 tolak
@@ -3282,6 +3264,7 @@ urip
 uris
 urit
 uruk
+urunan
 urung
 urup
 urus
@@ -3327,6 +3310,7 @@ wadoh
 wadon
 waduh
 waduk
+wadul
 wae
 wah
 waktu
@@ -3334,6 +3318,7 @@ walah
 walang
 waluh
 wan
+wana
 wangsul
 wangsulan
 wani
@@ -3341,6 +3326,7 @@ warga
 warisan
 warung
 was
+wasi
 watu
 wayah
 wayang
@@ -3370,7 +3356,6 @@ wi
 wih
 wijaya
 wiku
-wil
 windu
 wingi
 wira
@@ -3404,7 +3389,6 @@ yo
 yoga
 yogya
 yohan
-yoka
 yom
 yoman
 yora
