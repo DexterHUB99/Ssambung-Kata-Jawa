@@ -110,6 +110,7 @@ bojo
 bosok
 bude
 budhal
+buli
 camat
 candra
 celeng
@@ -370,6 +371,7 @@ kula
 kuli
 kulit
 kum
+kumen
 kundur
 kur
 kurang
@@ -391,6 +393,7 @@ lampu
 lampung
 lan
 lanang
+langit
 lanjut
 lantang
 laos
@@ -431,6 +434,7 @@ maleh
 man
 manasi
 mangan
+manuk
 marem
 masak
 maturnuwun
@@ -658,6 +662,7 @@ tangi
 tanpa
 tata
 taun
+teko
 telo
 teras
 teri
@@ -666,6 +671,7 @@ tilem
 tindak
 tomat
 tuak
+tul
 tula
 tulung
 tumbas
@@ -694,6 +700,7 @@ ulama
 ular
 uler
 ulih
+ulik
 ulo
 umahe
 umbar
