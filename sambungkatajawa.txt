@@ -647,6 +647,7 @@ colong
 condong
 congor
 conto
+contoh
 cor
 corak
 coro
@@ -2221,6 +2222,7 @@ luntur
 lupa
 lupis
 luput
+lur
 lurah
 luruh
 lurus
@@ -3706,6 +3708,7 @@ tili
 tim
 tima
 timah
+timang
 timba
 timbal
 timbang
