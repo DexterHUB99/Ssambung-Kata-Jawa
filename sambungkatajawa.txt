@@ -356,6 +356,7 @@ cok
 colek
 coli
 colong
+condong
 coro
 curut
 dadi
@@ -941,6 +942,7 @@ jirih
 jitak
 jiwa
 joglo
+jola
 joli
 jomblo
 joran
@@ -1098,6 +1100,7 @@ korek
 kos
 kose
 kot
+kota
 kotak
 kotang
 kowe
@@ -1418,12 +1421,14 @@ nengdi
 nepak
 neptu
 ner
+nerak
 nerjang
 nesu
 neteh
 netek
 ngacung
 ngadi
+ngadu
 ngaduk
 ngajak
 ngajeni
@@ -1726,6 +1731,7 @@ pol
 pola
 poli
 polisi
+pon
 pondok
 poni
 ponorogo
@@ -1926,6 +1932,7 @@ siku
 sikut
 sila
 silet
+silit
 siman
 simbah
 sinau
@@ -2036,6 +2043,7 @@ tempik
 tenane
 teras
 teri
+terong
 ti
 tibo
 tikar
@@ -2262,6 +2270,7 @@ wewe
 wi
 wingi
 wit
+wiwit
 wolu
 wong
 wuh
