@@ -1089,6 +1089,7 @@ jorok
 jos
 jumat
 jupuk
+juru
 ka
 kabeh
 kacang
@@ -1393,6 +1394,7 @@ lima
 limbah
 limbuk
 limo
+limun
 lin
 linggis
 lingsir
@@ -1409,6 +1411,7 @@ liwat
 liwet
 liya
 liyo
+lo
 lodeh
 loh
 lom
@@ -1523,6 +1526,7 @@ misuh
 mlaku
 mlebu
 modar
+modus
 moh
 mok
 moleh
@@ -1671,6 +1675,7 @@ ngapak
 ngapunten
 ngapurancang
 ngapusi
+ngare
 ngarep
 ngaret
 ngarit
@@ -2382,6 +2387,7 @@ timur
 tin
 tindak
 tinggal
+tip
 tir
 titen
 titi
