@@ -106,7 +106,6 @@ ake
 akeh
 aker
 aket
-akhir
 aki
 akik
 akil
@@ -199,6 +198,7 @@ amrih
 amu
 amuk
 amung
+amut
 an
 ana
 anah
@@ -262,7 +262,6 @@ angsal
 angsul
 angus
 ani
-anif
 anik
 aning
 anis
@@ -376,7 +375,6 @@ asta
 astaga
 asu
 asuh
-asul
 asupan
 asuti
 ata
@@ -595,7 +593,6 @@ buko
 bul
 bulan
 bulat
-bule
 buli
 bum
 bumi
@@ -793,7 +790,6 @@ disu
 dit
 dluwang
 do
-doa
 dodo
 dodol
 dola
@@ -887,7 +883,6 @@ ehem
 eher
 ehey
 ehi
-ehil
 ehir
 eho
 ehod
@@ -963,7 +958,6 @@ empal
 empang
 empek
 emper
-empet
 emping
 emprit
 empun
@@ -998,7 +992,6 @@ enik
 enjang
 enjih
 enjing
-eno
 enok
 enom
 entek
@@ -1061,6 +1054,7 @@ erusi
 es
 esa
 esah
+esai
 esay
 ese
 eseh
@@ -1087,7 +1081,6 @@ eto
 etok
 eton
 etos
-etu
 etuk
 etus
 ew
@@ -1247,8 +1240,6 @@ genter
 genti
 gentong
 geol
-geprek
-gepuk
 gerah
 gerak
 geram
@@ -1557,7 +1548,6 @@ ilahi
 ilang
 ilat
 iler
-ileran
 ili
 ilih
 ilik
@@ -1750,7 +1740,6 @@ jinjit
 jinten
 jir
 jira
-jiri
 jirih
 jitak
 jiwa
@@ -1773,6 +1762,7 @@ jori
 jorok
 jos
 jule
+juli
 jumat
 jun
 jupuk
@@ -1868,7 +1858,6 @@ kapur
 kar
 kara
 karak
-karang
 karawang
 karek
 karep
@@ -1914,6 +1903,7 @@ kedah
 kediri
 kek
 kekal
+keke
 kel
 kela
 kelam
@@ -2024,7 +2014,6 @@ kini
 kintal
 kintir
 kios
-kipas
 kir
 kira
 kirab
@@ -2248,6 +2237,7 @@ lemah
 leman
 lemari
 lembah
+lembek
 leme
 lemes
 lemot
@@ -2650,7 +2640,6 @@ nat
 nata
 nawa
 nawar
-ndak
 ndang
 ndasmu
 ndelok
@@ -2928,7 +2917,6 @@ nguli
 ngulik
 ngulo
 ngulon
-ngulu
 ngumbahi
 ngumpul
 ngumpulake
@@ -2979,7 +2967,6 @@ ninggal
 nip
 nipak
 nipu
-nir
 niri
 nis
 nisa
@@ -3050,7 +3037,6 @@ nuwun
 nyamuk
 nyapa
 nyapu
-nyasar
 nyawiji
 nyedhak
 nyilih
@@ -3095,7 +3081,6 @@ oleh
 oleng
 oles
 olih
-oling
 olo
 om
 oma
@@ -3255,6 +3240,7 @@ pikang
 pikuk
 pikun
 pil
+pilah
 pilar
 pilih
 pilok
@@ -3614,6 +3600,7 @@ sana
 sandal
 sandangan
 sandhang
+sanes
 sangga
 sangka
 sangkuni
@@ -3627,6 +3614,7 @@ sapa
 sapi
 sapih
 sapu
+sar
 sara
 sarap
 sare
@@ -3659,7 +3647,6 @@ sedulur
 sega
 segara
 sego
-segoro
 seh
 sek
 sekawan
@@ -3751,7 +3738,6 @@ slametan
 so
 sobat
 soklat
-sol
 sola
 solah
 solat
@@ -3816,7 +3802,6 @@ sungai
 sungguh
 sungkan
 sungkem
-sungu
 sup
 supados
 supaya
@@ -3912,6 +3897,7 @@ tela
 telas
 telat
 tele
+teles
 telo
 telu
 tema
@@ -4158,7 +4144,6 @@ unggaran
 unggas
 unggul
 ungkal
-ungkas
 ungkir
 ungu
 unjuk
@@ -4175,7 +4160,6 @@ upam
 upang
 upaya
 upel
-upik
 upil
 ur
 ura
@@ -4191,7 +4175,6 @@ uri
 urih
 urik
 urip
-uripan
 uris
 urit
 uru
@@ -4340,7 +4323,6 @@ wiwitan
 wok
 wolu
 wong
-wonosobo
 wonten
 wuh
 wulan
