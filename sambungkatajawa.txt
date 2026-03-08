@@ -3552,6 +3552,7 @@ niku
 nikung
 nil
 nila
+nilai
 nilam
 nilem
 nilep
@@ -3838,6 +3839,7 @@ pamit
 pamitan
 pamrih
 pan
+panah
 panai
 panas
 pancal
