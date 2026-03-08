@@ -3121,6 +3121,7 @@ ngudud
 ngudut
 nguji
 ngujuk
+ngukir
 ngukur
 ngul
 ngulek
@@ -3423,6 +3424,7 @@ pantar
 panut
 papa
 papan
+papat
 par
 para
 parah
