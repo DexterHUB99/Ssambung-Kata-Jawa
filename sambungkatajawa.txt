@@ -120,6 +120,7 @@ angel
 anget
 angger
 angka
+angkara
 angklung
 angkuh
 angsa
@@ -243,6 +244,7 @@ bebek
 becik
 bejan
 bekas
+bengi
 besuk
 biaya
 bibir
@@ -518,6 +520,7 @@ gerji
 gesek
 geseng
 gi
+gidal
 gigal
 gigi
 gih
@@ -1274,6 +1277,7 @@ ngunung
 ngupil
 ngurip
 ngutang
+niba
 nikah
 nikahan
 niki
@@ -1476,6 +1480,7 @@ ratih
 ratu
 raup
 raut
+rawa
 rawuh
 rega
 regane
