@@ -44,6 +44,7 @@ ahas
 ahat
 ahay
 ahe
+aheh
 ahek
 ahem
 aher
@@ -90,7 +91,6 @@ akas
 akat
 ake
 akeh
-aker
 aki
 akik
 akil
@@ -147,7 +147,6 @@ ambu
 ambung
 ambyar
 ameh
-amen
 amer
 amerga
 amet
@@ -157,7 +156,6 @@ amir
 amis
 amit
 amoh
-amok
 ampa
 ampal
 amparan
@@ -438,7 +436,6 @@ bima
 bin
 bindeng
 biru
-bis
 bisa
 biso
 bisu
@@ -480,7 +477,6 @@ bunga
 bungah
 bungkus
 buntut
-buron
 buta
 butek
 buto
@@ -495,12 +491,12 @@ cadel
 cagak
 cah
 cakot
-cal
 camat
 campur
 candi
 candra
 cangkem
+cangkul
 caping
 cari
 cawet
@@ -585,6 +581,7 @@ dendeng
 deneng
 dereng
 desa
+dewa
 dewi
 di
 didi
@@ -652,7 +649,6 @@ dumane
 dumeh
 dumugi
 dung
-dungo
 dupa
 dur
 dura
@@ -828,7 +824,6 @@ esok
 estu
 esuk
 eta
-etak
 etan
 ete
 eti
@@ -853,7 +848,6 @@ gading
 gae
 gagah
 gagal
-gagap
 gage
 gah
 gairah
@@ -874,7 +868,6 @@ gambang
 gambar
 gambas
 gambir
-gambreng
 gambuh
 gambut
 gambyong
@@ -962,7 +955,6 @@ gerah
 gerak
 geram
 gerang
-gereng
 geret
 gerji
 gesek
@@ -981,12 +973,10 @@ gili
 giling
 gilo
 giman
-gimbal
 gina
 gini
 gir
 gita
-githok
 go
 goblok
 godog
@@ -1343,7 +1333,6 @@ jare
 jati
 jawa
 jawaban
-jawi
 jawir
 jawuh
 jaya
@@ -1384,7 +1373,6 @@ jupuk
 juru
 ka
 kabeh
-kabul
 kacang
 kacau
 kacek
@@ -1407,7 +1395,6 @@ kaki
 kaku
 kalah
 kalawan
-kalebu
 kaleh
 kalem
 kali
@@ -1422,7 +1409,6 @@ kambing
 kami
 kamis
 kampil
-kampret
 kampung
 kamu
 kamus
@@ -1508,6 +1494,7 @@ kemproh
 kemul
 ken
 kena
+kenapa
 kendang
 kenduri
 kene
@@ -1523,15 +1510,14 @@ kepiye
 kepo
 kepriye
 kera
+kerang
 keras
 kerasa
 kere
 keren
-kerep
 kereta
 keri
 keris
-kerjo
 kero
 kersa
 kesah
@@ -1725,6 +1711,7 @@ laron
 laru
 las
 lase
+latah
 latar
 lathi
 latih
@@ -1944,7 +1931,6 @@ modar
 modus
 moh
 mok
-mol
 moleh
 mondok
 monggo
@@ -2049,7 +2035,6 @@ nawa
 nawar
 ndang
 ndasmu
-ndelok
 nduk
 ne
 nedah
@@ -2102,7 +2087,6 @@ ngajar
 ngajeni
 ngaji
 ngajia
-ngak
 ngakak
 ngaku
 ngalah
@@ -2249,6 +2233,7 @@ ngoyo
 ngrayu
 ngrit
 ngucap
+ngucek
 ngudang
 ngudi
 ngudud
@@ -2292,6 +2277,7 @@ nilep
 nim
 nimba
 nimbun
+nin
 nina
 nindak
 ning
@@ -2446,6 +2432,7 @@ pacik
 pacul
 padang
 padas
+padasan
 pados
 padu
 padusan
@@ -2481,13 +2468,13 @@ panis
 panjaluk
 panjang
 panjenengan
-panut
 papa
 papan
 par
 para
 parah
 parani
+pare
 pari
 paring
 parit
@@ -2518,7 +2505,6 @@ pethuk
 pi
 picek
 pih
-pikang
 pikun
 pil
 pilih
@@ -2554,7 +2540,6 @@ pitutur
 piwulang
 piye
 po
-pocong
 pojok
 pokok
 pol
@@ -2685,6 +2670,7 @@ remen
 remi
 rempah
 remuk
+renang
 rencang
 rendang
 rendeng
@@ -2796,7 +2782,6 @@ sakarep
 saku
 salah
 salam
-sali
 salim
 salon
 sama
@@ -2810,10 +2795,10 @@ sampeyan
 sampun
 sana
 sandhang
+sangga
 sangu
 sanjang
 santun
-sanur
 sapa
 sapi
 sapih
@@ -2879,7 +2864,6 @@ silet
 silit
 siman
 simbah
-simpenan
 sin
 sinau
 sinden
@@ -2931,7 +2915,6 @@ subur
 sudi
 sugeng
 sugih
-sujud
 suk
 suka
 suket
@@ -3090,7 +3073,6 @@ titik
 tiwas
 tiyang
 tok
-toke
 tokek
 toko
 tolak
@@ -3334,6 +3316,7 @@ warga
 warisan
 warung
 was
+wasi
 watu
 wayah
 wayang
@@ -3396,7 +3379,6 @@ yo
 yoga
 yogya
 yohan
-yoka
 yom
 yoman
 yora
