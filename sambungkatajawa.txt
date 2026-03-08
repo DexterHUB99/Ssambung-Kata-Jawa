@@ -2332,6 +2332,7 @@ keluh
 kem
 kemah
 kemari
+kemayu
 kembang
 kembar
 kemben
@@ -4896,6 +4897,7 @@ tin
 tina
 tindak
 tindhak
+tinemu
 tinggal
 tingkah
 tip
