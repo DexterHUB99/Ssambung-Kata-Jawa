@@ -1463,6 +1463,7 @@ geleman
 geli
 gelis
 gelo
+gelombang
 gelot
 gelud
 gelut
