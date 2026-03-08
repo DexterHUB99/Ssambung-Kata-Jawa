@@ -2812,6 +2812,7 @@ lip
 lipan
 lipat
 lipen
+lipet
 lipi
 lipis
 lipur
@@ -4973,6 +4974,7 @@ tiris
 tiru
 tis
 tisi
+tit
 tita
 titen
 titi
