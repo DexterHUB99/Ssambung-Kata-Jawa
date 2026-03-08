@@ -27,6 +27,7 @@ amerga
 ami
 amparan
 anak
+anake
 anam
 ancik
 ancok
@@ -124,6 +125,7 @@ iler
 ilih
 ilir
 imas
+iming
 imo
 indak
 indu
@@ -134,6 +136,7 @@ ipa
 irah
 irahan
 ireng
+iri
 irus
 isi
 itil
@@ -198,6 +201,7 @@ moto
 mulane
 muleh
 mundak
+nadi
 nandur
 nanggung
 nangka
@@ -215,6 +219,7 @@ nggolek
 ngilang
 ngisu
 ngombe
+ngono
 ngrit
 ngukur
 ngulek
@@ -224,6 +229,7 @@ nipu
 no
 nok
 nol
+nonton
 nresnani
 ogah
 ojo
@@ -232,6 +238,7 @@ ol
 ole
 oleh
 ompong
+oncek
 onta
 ora
 otot
@@ -239,6 +246,7 @@ padas
 palang
 paling
 payah
+po
 pundhut
 pusing
 putra
@@ -272,6 +280,7 @@ sego
 siji
 siman
 simbah
+sip
 sisir
 sopan
 subhanallah
@@ -282,6 +291,7 @@ tanduran
 taun
 teras
 teri
+til
 tilem
 tindak
 tomat
@@ -294,6 +304,7 @@ udang
 ujuk
 uka
 ukara
+ukir
 ukur
 ula
 uler
