@@ -433,6 +433,7 @@ dorong
 dowo
 duda
 dudi
+dudo
 dudu
 duduh
 duduk
@@ -483,6 +484,7 @@ eka
 eke
 ekeh
 eki
+ekis
 eko
 ekor
 ekot
@@ -651,6 +653,7 @@ gemblung
 gemuk
 gen
 gendeng
+gender
 gendruwo
 gene
 geni
@@ -840,6 +843,7 @@ ijik
 ijin
 ijo
 ijol
+ik
 ika
 ikal
 ikan
@@ -1035,6 +1039,7 @@ kanjeng
 kanjut
 kanthi
 kanti
+kanyuwun
 kaos
 kapak
 kapan
@@ -1300,6 +1305,7 @@ lopis
 lor
 loro
 los
+lotek
 luhur
 luk
 luka
@@ -1379,6 +1385,7 @@ melu
 mem
 memek
 meneng
+meri
 mesake
 met
 min
@@ -2029,6 +2036,7 @@ sisi
 sisir
 siter
 sitik
+slamet
 slametan
 so
 sobat
