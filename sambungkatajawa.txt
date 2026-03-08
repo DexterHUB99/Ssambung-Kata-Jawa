@@ -49,6 +49,7 @@ ahab
 ahad
 ahah
 ahal
+aham
 ahan
 ahar
 ahas
@@ -172,6 +173,7 @@ aman
 amanah
 amarga
 amargi
+amat
 amba
 ambal
 ambar
@@ -402,6 +404,7 @@ astaga
 asu
 asuh
 asul
+asup
 asupan
 asus
 asuti
@@ -478,6 +481,7 @@ ayun
 ayunan
 az
 ba
+baba
 babai
 babi
 babu
@@ -565,6 +569,7 @@ biasa
 biaya
 bibik
 bibir
+bibit
 bidan
 bidun
 bidur
@@ -691,6 +696,7 @@ cen
 cendol
 cengel
 cengkeh
+cenil
 cep
 cerak
 ceri
@@ -721,6 +727,7 @@ cok
 coki
 colek
 coli
+colo
 colong
 condong
 congor
@@ -758,6 +765,7 @@ dalan
 dalang
 dalem
 dalu
+dam
 damai
 damel
 damen
@@ -785,6 +793,7 @@ de
 dede
 dedek
 dedemit
+dedi
 dek
 dekil
 delima
@@ -803,6 +812,7 @@ der
 dereng
 desa
 dewa
+dewe
 dewi
 dhadha
 di
@@ -841,6 +851,7 @@ do
 doa
 dodo
 dodol
+dodolan
 dola
 dolan
 dolanan
@@ -978,6 +989,8 @@ elek
 eleng
 eler
 eli
+elig
+elik
 eling
 elmu
 elo
@@ -1069,6 +1082,7 @@ entong
 entuk
 entut
 enyong
+ep
 epa
 epal
 epan
@@ -1192,6 +1206,7 @@ galengan
 galer
 gali
 galih
+galo
 galok
 galon
 gaman
@@ -1355,6 +1370,7 @@ gini
 ginjal
 gir
 giri
+giring
 giru
 gita
 gitar
@@ -1375,7 +1391,6 @@ gokil
 gola
 gole
 golek
-golet
 golo
 golongan
 gombal
@@ -1395,6 +1410,7 @@ gorong
 gosip
 gosok
 gosong
+gowo
 goyang
 gragal
 graji
@@ -1790,6 +1806,7 @@ jaluk
 jam
 jamal
 jaman
+jambi
 jambu
 jambul
 jampi
@@ -1828,6 +1845,7 @@ jempol
 jenang
 jeneng
 jenengan
+jenggot
 jer
 jera
 jero
@@ -1879,6 +1897,7 @@ juru
 ka
 kabeh
 kabul
+kaca
 kacang
 kacau
 kacek
@@ -2138,6 +2157,7 @@ kir
 kira
 kirab
 kirang
+kirap
 kiri
 kirik
 kirim
@@ -2448,6 +2468,7 @@ lomi
 lompat
 lon
 longgar
+longor
 longsor
 lontar
 lonte
@@ -2607,6 +2628,7 @@ meja
 mekar
 mel
 melas
+melek
 melu
 mem
 meme
@@ -2702,6 +2724,7 @@ muntah
 munyuk
 mur
 murah
+muri
 murid
 murup
 mus
@@ -3029,6 +3052,7 @@ nginjak
 ngintip
 ngira
 ngirim
+ngiris
 ngisak
 ngiseng
 ngisi
@@ -3073,6 +3097,7 @@ ngorong
 ngos
 ngosek
 ngosok
+ngowe
 ngowoh
 ngoyak
 ngoyo
@@ -3313,6 +3338,7 @@ opor
 or
 ora
 orai
+orak
 orang
 ore
 orek
@@ -3351,6 +3377,7 @@ pajang
 pajar
 pajek
 paji
+pak
 pake
 pakpuh
 paku
@@ -3434,6 +3461,7 @@ peri
 perih
 peta
 pethuk
+petruk
 pi
 pia
 piano
@@ -3559,6 +3587,7 @@ ragangan
 ragat
 ragi
 rah
+rahayu
 rahmat
 rai
 raib
@@ -3725,6 +3754,7 @@ rolas
 rom
 roma
 rombak
+rombeng
 rombong
 rombongan
 rome
@@ -3846,6 +3876,7 @@ sarep
 sari
 sarna
 saru
+sarung
 sarungan
 sasa
 sasi
@@ -3934,6 +3965,7 @@ silit
 sim
 siman
 simbah
+simpang
 simpenan
 sin
 sinau
@@ -3943,6 +3975,7 @@ singa
 singgah
 sinom
 sinoman
+sinta
 sinten
 sip
 sipit
@@ -4080,6 +4113,7 @@ tah
 tahu
 tahun
 tai
+taik
 tak
 taka
 taken
@@ -4125,6 +4159,7 @@ tasi
 tat
 tata
 tatah
+tatas
 tati
 tatu
 taun
@@ -4133,6 +4168,7 @@ tawon
 te
 tegal
 teguh
+teka
 tekan
 teko
 tela
@@ -4362,6 +4398,7 @@ umah
 umahe
 umak
 uman
+umbah
 umbar
 umbel
 umbi
@@ -4431,6 +4468,7 @@ urih
 urik
 urip
 uripan
+uripku
 uris
 urit
 uru
