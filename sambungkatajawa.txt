@@ -53,6 +53,7 @@ agem
 ageng
 agung
 agus
+aguy
 ah
 aha
 ahab
@@ -2515,6 +2516,7 @@ kerutan
 kes
 kesah
 kesat
+kese
 kesed
 kesel
 keset
@@ -5492,6 +5494,7 @@ uwit
 uwong
 ux
 uy
+uya
 uyah
 uyuh
 uz
