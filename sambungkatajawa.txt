@@ -3818,6 +3818,7 @@ perih
 peso
 peta
 pethuk
+peti
 petruk
 pi
 pia
@@ -4024,6 +4025,7 @@ rasah
 rasakan
 rasakno
 rasan
+rase
 rasi
 rasis
 rasuk
