@@ -413,6 +413,7 @@ arem
 aren
 areng
 arep
+aret
 ari
 arih
 aring
@@ -1660,6 +1661,7 @@ gilo
 giman
 gimbal
 gina
+gincu
 gini
 ginjal
 gir
@@ -2991,6 +2993,7 @@ lori
 loro
 lorong
 los
+lose
 losi
 lotek
 lowong
