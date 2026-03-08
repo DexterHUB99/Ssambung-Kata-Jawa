@@ -172,6 +172,7 @@ ancok
 ancur
 andap
 andaran
+andel
 andhap
 andi
 andon
@@ -1666,6 +1667,7 @@ lima
 limbah
 limbuk
 limo
+limolas
 limpa
 limun
 lin
@@ -2039,6 +2041,7 @@ ngeloni
 ngelu
 ngembang
 ngemut
+ngen
 ngendi
 ngendika
 ngene
@@ -2381,6 +2384,7 @@ pinutur
 pipi
 pipis
 pir
+pira
 pirang
 piro
 pis
@@ -2499,6 +2503,7 @@ ratu
 raup
 raut
 rawa
+rawan
 rawon
 rawuh
 re
@@ -2683,6 +2688,7 @@ setan
 sewu
 sia
 sial
+siap
 siapa
 sigap
 sigar
@@ -2751,6 +2757,7 @@ suk
 suka
 suket
 suki
+suko
 sukun
 sukur
 sul
