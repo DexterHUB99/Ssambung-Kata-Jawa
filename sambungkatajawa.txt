@@ -368,6 +368,7 @@ ati
 atin
 atir
 atis
+atit
 ato
 atok
 atom
@@ -901,6 +902,7 @@ enen
 eneng
 enggal
 enggeh
+enggih
 enggon
 engkang
 engko
@@ -1296,6 +1298,7 @@ hasil
 hasrat
 hati
 hawa
+hawane
 hayang
 hayat
 hayu
@@ -2407,6 +2410,7 @@ negas
 neh
 nek
 nekat
+neker
 neko
 nelen
 neli
@@ -2529,6 +2533,7 @@ ngebo
 ngece
 ngecek
 ngeden
+ngeh
 ngek
 ngelak
 ngelawak
