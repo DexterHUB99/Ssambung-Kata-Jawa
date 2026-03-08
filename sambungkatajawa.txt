@@ -4822,6 +4822,7 @@ sumur
 sun
 sunat
 sundel
+sunduk
 sundul
 sungai
 sungguh
