@@ -1638,6 +1638,7 @@ jawir
 jawuh
 jaya
 je
+jelas
 jem
 jembatan
 jember
@@ -3021,6 +3022,7 @@ pang
 pangan
 panggah
 pani
+panik
 panis
 panjaluk
 panjang
@@ -3695,6 +3697,7 @@ teko
 tela
 telas
 telat
+tele
 telo
 telu
 tema
