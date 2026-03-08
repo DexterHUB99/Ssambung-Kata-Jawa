@@ -206,6 +206,7 @@ buli
 bungah
 cabi
 cacah
+cakot
 camat
 candra
 cawik
@@ -343,6 +344,7 @@ galih
 galok
 galon
 gaman
+gambang
 gambar
 gambuh
 gamelan
@@ -373,6 +375,7 @@ gelo
 gemar
 gemati
 gembel
+gemblong
 gendeng
 gene
 geni
@@ -399,6 +402,7 @@ gorengan
 gori
 gorok
 gorong
+gudang
 guguk
 gugur
 gul
@@ -610,6 +614,7 @@ kampung
 kamu
 kancil
 kancut
+kandang
 kandut
 kangen
 kanjeng
@@ -704,6 +709,7 @@ kum
 kumen
 kumuh
 kundur
+kuntul
 kuping
 kur
 kurang
@@ -726,6 +732,7 @@ lame
 lami
 lampu
 lampung
+lamunan
 lan
 lanang
 langgeng
@@ -1011,6 +1018,7 @@ ol
 olah
 ole
 oleh
+oleng
 oles
 olih
 olo
@@ -1245,6 +1253,7 @@ suwi
 syukur
 ta
 tabah
+taek
 tahu
 tai
 tak
@@ -1294,6 +1303,7 @@ tum
 tuman
 tumbas
 tumindak
+tumplek
 tumrap
 tumut
 tunas
