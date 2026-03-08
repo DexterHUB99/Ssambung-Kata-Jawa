@@ -334,6 +334,7 @@ bude
 budhal
 buk
 bulan
+bulat
 buli
 bumi
 bungah
@@ -442,6 +443,7 @@ duduk
 duhur
 duit
 duka
+dukun
 dula
 dulan
 dulang
@@ -956,6 +958,7 @@ iyo
 iz
 jab
 jagung
+jajal
 jajan
 jaluk
 jam
@@ -1186,6 +1189,7 @@ kumbah
 kumbang
 kumen
 kumuh
+kun
 kunang
 kunci
 kundur
@@ -1386,6 +1390,7 @@ maturnuwun
 mau
 mega
 meh
+meja
 melas
 melu
 mem
@@ -1870,6 +1875,7 @@ rampung
 rampungan
 rancang
 randa
+randu
 rang
 raos
 rap
@@ -1938,6 +1944,7 @@ riyaya
 ro
 roda
 rolas
+rom
 roma
 rombak
 rombong
@@ -2112,6 +2119,7 @@ tahun
 tai
 tak
 takon
+takut
 tali
 tam
 tambah
