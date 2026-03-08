@@ -85,6 +85,7 @@ ayam
 ayo
 ayu
 bajul
+balon
 banter
 basi
 bebas
@@ -103,12 +104,15 @@ celeng
 cik
 codet
 curut
+dadi
 dagang
 dalan
 dan
+dana
 dapur
 dara
 dasi
+diman
 dina
 disek
 disu
@@ -254,6 +258,7 @@ irung
 irus
 isa
 isi
+isin
 isine
 iso
 isu
@@ -516,6 +521,7 @@ rasa
 rasi
 ratu
 rawuh
+remeh
 repot
 resah
 restu
@@ -546,6 +552,7 @@ sarungan
 sayang
 sayur
 sego
+siapa
 siji
 siman
 simbah
