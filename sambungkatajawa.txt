@@ -990,6 +990,7 @@ godog
 godok
 godong
 gogrok
+gojek
 gojlok
 gok
 gola
@@ -1892,6 +1893,7 @@ marani
 marem
 mari
 mariki
+maring
 maruk
 mas
 masa
@@ -2273,6 +2275,7 @@ nguntal
 ngunung
 ngunut
 ngupil
+nguping
 ngurip
 ngurus
 ngutang
@@ -2380,6 +2383,7 @@ oj
 ojek
 ojo
 ojok
+ojol
 ojolan
 ok
 oke
@@ -3360,6 +3364,7 @@ wedus
 wegah
 wejangan
 wektu
+weleh
 weling
 wen
 wer
