@@ -11,7 +11,6 @@ ag
 aha
 ahad
 ahal
-ahat
 ahay
 aher
 ahi
@@ -43,12 +42,9 @@ akut
 ala
 alah
 alam
-alang
-alay
 alem
 aleman
 ali
-alim
 alip
 aliran
 alis
@@ -67,6 +63,7 @@ amir
 amis
 amit
 amparan
+amu
 amung
 an
 ana
@@ -101,7 +98,6 @@ apa
 apel
 apes
 apik
-apo
 apung
 arah
 arak
@@ -132,6 +128,7 @@ atis
 atom
 atos
 atun
+aturan
 aul
 awak
 awal
@@ -150,13 +147,11 @@ banter
 basi
 bebas
 bebek
-becik
 bekas
 bibir
 bidan
 bidun
 bika
-bin
 biru
 bisa
 biso
@@ -171,7 +166,6 @@ bude
 budhal
 buli
 bungah
-cabi
 cacah
 camat
 candra
@@ -200,10 +194,10 @@ dewi
 didik
 diman
 dina
-dinten
 dipun
 disek
 disu
+dluwang
 dodo
 dolan
 dompet
@@ -236,8 +230,9 @@ eleng
 eling
 elo
 elok
-ema
+emak
 eman
+emas
 ember
 emboh
 emoh
@@ -245,7 +240,6 @@ emok
 enak
 endah
 endang
-endi
 endog
 enggeh
 eni
@@ -256,6 +250,7 @@ epa
 epep
 eper
 epet
+epi
 epo
 erah
 eram
@@ -266,7 +261,6 @@ ero
 eroh
 eros
 eruh
-es
 esek
 esih
 etan
@@ -295,6 +289,7 @@ gangsal
 gantung
 gapura
 gar
+gara
 garem
 gareng
 garing
@@ -306,7 +301,6 @@ gawok
 gayung
 ge
 gedang
-gedhe
 gelo
 gemar
 gemati
@@ -337,6 +331,7 @@ gula
 guling
 gulu
 gulung
+gumun
 gun
 guna
 gundul
@@ -426,6 +421,7 @@ iler
 ilih
 ilik
 ilir
+ilmu
 ilo
 ilu
 imam
@@ -460,18 +456,20 @@ irisen
 irung
 irus
 isa
+isek
 isen
 isi
 isih
 isin
 isine
 iso
+istri
 isu
+item
 itil
 itung
 iwak
 iwal
-iya
 iyo
 iz
 jab
@@ -479,6 +477,7 @@ jaluk
 jam
 jambu
 jamu
+jan
 jancok
 jare
 jawa
@@ -496,6 +495,7 @@ joran
 kabeh
 kacek
 kadal
+kados
 kaki
 kaku
 kalawan
@@ -507,9 +507,7 @@ kampung
 kamu
 kancil
 kandut
-kangen
 kanjeng
-kanthi
 kanti
 kapak
 kapok
@@ -543,6 +541,7 @@ kidang
 kidul
 kila
 kintir
+kir
 kira
 kirang
 kiri
@@ -556,7 +555,6 @@ koe
 koen
 kolak
 kolam
-kon
 konco
 kono
 kontol
@@ -565,7 +563,6 @@ koper
 kopi
 koplak
 koran
-kotak
 kowe
 koyo
 krama
@@ -642,7 +639,6 @@ liwat
 loh
 lombok
 lonte
-lontong
 lopa
 lopis
 lor
@@ -662,7 +658,6 @@ luwih
 luwung
 mada
 madang
-madhang
 madu
 madura
 maem
@@ -671,10 +666,8 @@ makan
 maleh
 man
 manasi
-mandi
 mangan
 mangku
-mantuk
 manuk
 marak
 marem
@@ -690,6 +683,7 @@ mesake
 met
 min
 miring
+miris
 mlaku
 mlebu
 modar
@@ -709,19 +703,19 @@ murid
 na
 nadi
 naga
-nagih
 nai
-nak
 nala
 nali
 nalika
 nambah
+nambai
 nanang
 nandur
 nanem
 nang
 nanggung
 nanging
+nangis
 nangka
 nani
 naon
@@ -754,7 +748,6 @@ ngalor
 ngambi
 ngamok
 nganggo
-nganggur
 nganjuk
 ngantuk
 ngaos
@@ -762,7 +755,6 @@ ngapa
 ngapak
 ngapusi
 ngarit
-ngasahi
 ngasuh
 ngatur
 ngawi
@@ -846,7 +838,6 @@ olah
 ole
 oleh
 olo
-oma
 omah
 omong
 omongan
@@ -868,7 +859,6 @@ ori
 orok
 oseng
 otot
-pacik
 padas
 paku
 pala
@@ -879,12 +869,9 @@ pani
 panis
 papan
 pari
-parit
 pasir
 payah
-pe
 peka
-pi
 picek
 pil
 pin
@@ -893,7 +880,7 @@ pinten
 pintu
 pirang
 piro
-pisan
+pis
 pisang
 piwulang
 po
@@ -905,13 +892,12 @@ poni
 por
 pun
 pundhut
-pundi
 punika
 pusing
 putra
-ra
 rabi
 ragi
+rahmat
 rai
 raimu
 rakus
@@ -924,7 +910,6 @@ rame
 rampung
 raos
 rapi
-ras
 rasa
 rasah
 rasi
@@ -935,7 +920,6 @@ rawuh
 rega
 regane
 reget
-rek
 rekasa
 remeh
 remen
@@ -957,6 +941,7 @@ rindu
 ringkas
 ris
 risa
+risi
 roda
 roma
 rombong
@@ -993,7 +978,6 @@ sampean
 sampeyan
 sampun
 sapi
-sapu
 sara
 sare
 sari
@@ -1013,12 +997,11 @@ sinden
 singa
 sinten
 sip
-sipit
 siram
 sisir
 slametan
-so
 sobat
+solid
 sopan
 sopo
 sos
@@ -1030,6 +1013,7 @@ suka
 suket
 sungkem
 supaya
+suri
 susu
 sut
 suwe
@@ -1038,7 +1022,6 @@ ta
 tabah
 tahu
 tai
-tak
 takon
 tali
 tam
@@ -1070,7 +1053,6 @@ tula
 tulis
 tulung
 tum
-tuman
 tumbas
 tumindak
 tumrap
@@ -1160,7 +1142,6 @@ utel
 utuh
 uwes
 uwis
-uwong
 uyuh
 wadon
 wae
@@ -1170,7 +1151,6 @@ wangsul
 warisan
 warung
 wayang
-we
 wedang
 wektu
 weling
@@ -1184,7 +1164,6 @@ wit
 wolu
 wong
 wulan
-ya
 yo
 yoga
 yom
