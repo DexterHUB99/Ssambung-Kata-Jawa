@@ -20,6 +20,7 @@ akil
 aksi
 aku
 akut
+alem
 ali
 aliran
 aman
@@ -44,6 +45,7 @@ ati
 atos
 awas
 ayo
+ayu
 bebas
 bidan
 bidun
@@ -62,6 +64,7 @@ eka
 eko
 elang
 eman
+emoh
 emok
 endah
 entong
@@ -111,6 +114,7 @@ hiri
 hooh
 hum
 hutan
+hutang
 ibu
 idep
 idu
@@ -147,6 +151,7 @@ jawir
 jenang
 jeneng
 jimat
+kadal
 kali
 kampung
 katok
@@ -202,6 +207,7 @@ mulane
 muleh
 mundak
 nadi
+naga
 nandur
 nanggung
 nangka
@@ -235,6 +241,7 @@ ogah
 ojo
 oke
 ol
+olah
 ole
 oleh
 ompong
@@ -289,6 +296,7 @@ sut
 tali
 tanduran
 taun
+telo
 teras
 teri
 til
