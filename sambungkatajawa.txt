@@ -266,6 +266,7 @@ amung
 amut
 an
 ana
+anae
 anah
 anai
 anak
@@ -362,12 +363,12 @@ anjay
 anjing
 anjir
 anjlok
-anjlokake
 anjog
 anjrit
 anjuk
 anjur
 anjuran
+ano
 anom
 anoman
 anta
@@ -387,6 +388,7 @@ antuk
 anu
 anuk
 anum
+anun
 anus
 anut
 anyam
@@ -920,7 +922,6 @@ cocok
 cocot
 cocote
 codet
-codot
 cok
 cokelat
 coki
@@ -1068,6 +1069,7 @@ dimana
 dimas
 dimul
 dina
+dinan
 dinas
 dinggo
 dingklik
@@ -1438,6 +1440,7 @@ eseh
 esek
 esem
 eses
+esi
 esih
 esin
 eso
@@ -1610,6 +1613,7 @@ gayeng
 gayuh
 gayung
 ge
+geber
 geblek
 gedag
 gedang
@@ -1674,6 +1678,7 @@ genter
 genti
 genting
 gentong
+gentos
 genuk
 geol
 geprek
@@ -2037,7 +2042,6 @@ iket
 ikhlas
 ikhtiar
 iki
-ikian
 ikih
 ikil
 iklas
@@ -2380,6 +2384,7 @@ kahanan
 kaila
 kain
 kaisa
+kaisar
 kajeng
 kaji
 kajian
@@ -2646,6 +2651,7 @@ ketemu
 kethek
 ketiban
 ketir
+ketis
 ketok
 ketup
 ketupat
@@ -2904,6 +2910,7 @@ lancip
 landa
 landak
 landep
+landi
 landung
 langgeng
 langit
@@ -3031,6 +3038,7 @@ lindhu
 lindur
 linggih
 linggis
+lingkar
 lingkung
 linglung
 lingsir
@@ -3333,6 +3341,7 @@ miris
 mirsani
 mis
 misake
+miskin
 misuh
 mitoni
 mlaku
@@ -3825,6 +3834,7 @@ ngilu
 ngiman
 ngimi
 ngimpi
+ngin
 nging
 nginjak
 ngintip
@@ -4037,6 +4047,7 @@ non
 nona
 nong
 nongki
+nongkrong
 noni
 nonjok
 nonton
@@ -4222,6 +4233,7 @@ opak
 opel
 open
 opera
+opes
 opet
 opo
 opon
@@ -4785,6 +4797,7 @@ rombeng
 rombong
 rombongan
 rome
+romi
 romo
 rompi
 ron
@@ -4910,6 +4923,7 @@ sandang
 sandangan
 sandhang
 sanes
+sangar
 sangga
 sangka
 sangkuni
@@ -4986,7 +5000,6 @@ selamet
 selametan
 selas
 selatan
-selawe
 sele
 selep
 selet
@@ -5349,6 +5362,7 @@ tempura
 temu
 ten
 tenan
+tenanan
 tenane
 tenang
 tengah
