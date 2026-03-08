@@ -2588,6 +2588,7 @@ lawan
 lawang
 lawas
 lawe
+lawu
 lawuh
 layang
 layangan
@@ -2621,6 +2622,7 @@ lena
 lengen
 lenggah
 lepat
+lepe
 ler
 leren
 leres
