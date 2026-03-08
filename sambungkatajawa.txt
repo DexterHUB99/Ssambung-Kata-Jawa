@@ -1095,6 +1095,7 @@ endi
 endog
 endong
 ene
+eneg
 enek
 enen
 eneng
@@ -2697,6 +2698,7 @@ mateng
 mati
 matur
 maturnuwun
+matursuwun
 mau
 maya
 mayat
@@ -3714,6 +3716,7 @@ rai
 raib
 raimu
 raine
+raiso
 raja
 rajah
 rajang
