@@ -691,6 +691,7 @@ boyok
 bu
 buaya
 bubar
+bubrah
 bubuk
 bubur
 budak
@@ -1920,6 +1921,7 @@ inul
 inyong
 ip
 ipa
+ipan
 ipar
 ipe
 ipel
@@ -3754,6 +3756,7 @@ ongkang
 ongkel
 ongkos
 online
+ono
 onta
 ontang
 onthel
