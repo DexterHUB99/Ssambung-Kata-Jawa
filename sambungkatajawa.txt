@@ -11,7 +11,6 @@ ahad
 ahal
 ahay
 ahi
-ahik
 ahir
 ahli
 aho
@@ -25,6 +24,7 @@ ajal
 ajek
 ajeng
 akal
+akan
 akeh
 aki
 akil
@@ -39,7 +39,6 @@ alem
 ali
 alip
 aliran
-alis
 alur
 aman
 amarga
@@ -49,7 +48,6 @@ ambyar
 amer
 amerga
 ami
-amir
 amit
 amparan
 amung
@@ -211,6 +209,7 @@ gatot
 gawe
 gawok
 gayung
+gedang
 gemar
 gembel
 gendeng
@@ -253,7 +252,6 @@ he
 heran
 heri
 hi
-hijau
 hiji
 hir
 hiri
@@ -295,7 +293,6 @@ imbuh
 iming
 imit
 imo
-indah
 indak
 indang
 indu
@@ -324,7 +321,6 @@ isu
 itil
 itung
 iwak
-iwal
 iyo
 jab
 jamu
@@ -450,7 +446,6 @@ lombok
 lopa
 lopis
 luluh
-lumrah
 lungguh
 luput
 lurah
@@ -467,10 +462,10 @@ maleh
 man
 manasi
 mangan
+mantuk
 manuk
 marak
 marem
-mari
 masak
 maturnuwun
 melas
@@ -520,6 +515,7 @@ ngaleh
 ngalor
 ngamok
 nganggo
+nganggur
 nganjuk
 ngantuk
 ngaos
@@ -542,7 +538,6 @@ ngirim
 ngising
 ngisu
 ngitung
-ngluwehi
 ngoko
 ngolet
 ngoli
@@ -573,13 +568,13 @@ nomer
 nonton
 nresnani
 nuku
+nulis
 numpak
 nunung
 oalah
 ob
 obah
 ogah
-oh
 ojo
 ojok
 ok
@@ -608,20 +603,19 @@ orang
 ori
 otot
 padas
-paku
 pala
 palang
 paling
 pan
 pani
-panis
 pari
 pasir
 payah
+pi
 pil
-pin
 pinten
 piro
+pisan
 pisang
 po
 pol
@@ -639,12 +633,10 @@ raimu
 rakus
 rama
 ramah
-ramai
 rambut
 rame
 rampung
 raos
-rapi
 rasa
 rasah
 rasi
@@ -668,12 +660,10 @@ romo
 rono
 roti
 rowang
-ru
 rujak
 run
 rupa
 rus
-rusa
 rusak
 rusuh
 ruti
@@ -693,7 +683,6 @@ satu
 sayang
 sayur
 sego
-seket
 siapa
 siji
 sila
@@ -701,6 +690,7 @@ siman
 simbah
 singa
 sip
+sipit
 sisir
 slametan
 sobat
@@ -737,7 +727,6 @@ tindak
 tolak
 tomat
 tuak
-tuku
 tul
 tula
 tulung
@@ -782,7 +771,6 @@ unak
 uncal
 undak
 unggah
-unggul
 ungkir
 ungu
 unta
@@ -813,13 +801,11 @@ uwis
 uyuh
 wadon
 wah
-walah
 wangsul
 warisan
 warung
 wayang
 wedang
-weling
 werna
 werno
 weton
