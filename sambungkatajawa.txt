@@ -229,6 +229,7 @@ ampal
 amparan
 ampe
 ampela
+amper
 ampil
 ampir
 amplas
@@ -1121,6 +1122,7 @@ ekek
 ekel
 eker
 eki
+ekik
 ekis
 eklas
 eklek
@@ -4459,6 +4461,7 @@ saestu
 saget
 sah
 saha
+saham
 sahur
 sai
 saiki
