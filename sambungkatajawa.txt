@@ -27,6 +27,7 @@ aman
 amerga
 ami
 amparan
+an
 ana
 anak
 anake
@@ -38,6 +39,7 @@ ani
 anjay
 anjing
 anjir
+are
 asa
 asma
 aso
@@ -156,6 +158,7 @@ jimat
 kadal
 kali
 kampung
+kamu
 katok
 ke
 kene
@@ -170,6 +173,7 @@ koen
 kono
 ku
 kue
+kukur
 kula
 kum
 kundur
@@ -183,6 +187,7 @@ lam
 lambe
 lambemu
 lambung
+lami
 lampu
 lantang
 laos
@@ -190,6 +195,7 @@ lari
 leh
 lele
 lima
+limo
 lintah
 loh
 lungguh
@@ -216,6 +222,7 @@ nangka
 nasi
 nata
 nawa
+negara
 nekat
 ngadi
 ngaji
@@ -229,6 +236,7 @@ nggolek
 ngilang
 ngising
 ngisu
+ngoli
 ngombe
 ngono
 ngrit
@@ -252,6 +260,7 @@ oleh
 ompong
 oncek
 onta
+opak
 ora
 ori
 otot
@@ -301,6 +310,7 @@ sopan
 subhanallah
 susu
 sut
+tai
 tali
 tanduran
 tata
