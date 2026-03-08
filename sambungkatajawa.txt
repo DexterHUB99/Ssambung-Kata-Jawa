@@ -5,11 +5,14 @@ adus
 aha
 ahay
 ahi
+air
 ajeng
 akeh
 aksi
 aku
+aliran
 amerga
+anak
 ancik
 ancok
 anjing
@@ -39,6 +42,7 @@ gila
 guling
 gun
 gundul
+guru
 ha
 halah
 hama
@@ -65,6 +69,7 @@ itil
 iwak
 jancok
 jawir
+jeneng
 kesah
 kidang
 kue
@@ -99,6 +104,7 @@ padas
 pusing
 putra
 rabi
+rai
 rambut
 ridho
 rikma
@@ -121,6 +127,8 @@ ula
 uler
 ulo
 umbel
+ungu
+untal
 urang
 usil
 usus
