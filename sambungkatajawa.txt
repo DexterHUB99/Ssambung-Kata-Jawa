@@ -433,6 +433,7 @@ duduk
 duhur
 duit
 duka
+dula
 dulan
 dulang
 dulu
@@ -1163,6 +1164,7 @@ kunang
 kunci
 kundur
 kuneng
+kung
 kuno
 kunti
 kuntul
@@ -1232,6 +1234,7 @@ lemah
 lemot
 lemper
 lemu
+lemut
 lenggah
 lepat
 leri
@@ -1478,6 +1481,7 @@ ngaku
 ngaleh
 ngalem
 ngalor
+ngamal
 ngambi
 ngamok
 ngan
@@ -1895,6 +1899,7 @@ risa
 risi
 risih
 riyaya
+ro
 roda
 rolas
 roma
@@ -1905,6 +1910,7 @@ romo
 rompi
 ronda
 rono
+ropi
 rosa
 rosi
 roti
@@ -2341,6 +2347,7 @@ wuli
 ya
 yaapa
 yah
+yak
 yakin
 yaman
 yas
