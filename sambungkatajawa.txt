@@ -352,6 +352,7 @@ angus
 ani
 anif
 anik
+anin
 aning
 anis
 anja
@@ -433,6 +434,7 @@ arep
 aret
 ari
 arih
+arik
 aring
 arip
 aris
@@ -1339,6 +1341,7 @@ enggeh
 enggih
 enggon
 engkang
+engklek
 engko
 engkol
 eni
@@ -5458,6 +5461,7 @@ tumis
 tumit
 tumpah
 tumpak
+tumpeng
 tumplek
 tumpuk
 tumrap
