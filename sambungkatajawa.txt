@@ -20,14 +20,15 @@ amerga
 anak
 ancik
 ancok
-anjay
 anjing
 anjir
+anyar
 asa
 asma
 asu
 ati
 atos
+atu
 awas
 bebas
 bidan
@@ -36,7 +37,6 @@ bude
 dalan
 dasi
 dumane
-duri
 ehi
 eka
 elang
@@ -49,7 +49,6 @@ eros
 eruh
 eya
 galak
-gareng
 gawe
 gawok
 gayung
@@ -65,13 +64,14 @@ gupak
 guru
 guyu
 ha
+hai
 hajat
 halah
 hama
 hansip
 hantu
-hasan
 hasil
+hayang
 heran
 hi
 hir
@@ -94,6 +94,7 @@ ingsun
 ipa
 irah
 ireng
+iri
 irus
 itil
 iwak
@@ -110,6 +111,7 @@ kira
 ko
 koe
 kono
+koplo
 ku
 kue
 kum
@@ -126,11 +128,10 @@ madu
 maem
 maju
 maleh
-man
 mangan
+mugi
 mulane
 muleh
-nanggung
 nangka
 nawa
 nekat
@@ -141,7 +142,10 @@ nganjuk
 ngapa
 ngapak
 ngarit
+ngibing
 ngombe
+ngomong
+ngorok
 ngrit
 ngukur
 ngulek
@@ -165,7 +169,6 @@ rampung
 ridho
 rikma
 riko
-rim
 roda
 sa
 salim
@@ -180,6 +183,7 @@ sopan
 subhanallah
 susu
 sut
+tamu
 tanduran
 teras
 teri
@@ -206,6 +210,7 @@ usil
 usus
 utawi
 uyuh
+wolu
 wulan
 yuda
 yuka
