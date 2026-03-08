@@ -5,6 +5,7 @@ abab
 abad
 abah
 abang
+abdi
 aber
 abi
 abot
@@ -16,6 +17,7 @@ ada
 adah
 adai
 adal
+adam
 adang
 adat
 adek
@@ -106,6 +108,7 @@ akar
 akas
 akasa
 akat
+akbar
 ake
 akeh
 akek
@@ -162,6 +165,7 @@ alit
 alo
 alon
 alot
+aloy
 alpukat
 alu
 alun
@@ -204,6 +208,7 @@ amp
 ampa
 ampal
 amparan
+ampela
 ampil
 ampir
 amplas
@@ -394,6 +399,7 @@ asik
 asil
 asim
 asin
+asinan
 asing
 asli
 asma
@@ -409,6 +415,7 @@ asta
 astaga
 asu
 asuh
+asui
 asul
 asup
 asupan
@@ -425,6 +432,7 @@ atek
 atem
 atep
 ater
+athi
 ati
 atin
 atine
@@ -549,7 +557,6 @@ bekel
 beko
 bela
 belah
-belek
 beli
 belo
 belu
@@ -576,6 +583,7 @@ beto
 biang
 biasa
 biaya
+bibi
 bibik
 bibir
 bibit
@@ -661,6 +669,7 @@ buntut
 buron
 buru
 busi
+busu
 busuk
 buta
 butek
@@ -679,6 +688,7 @@ cagak
 cah
 cakot
 cal
+cama
 camat
 campur
 candi
@@ -860,6 +870,7 @@ dinggo
 dingklik
 dino
 dinten
+dipan
 dipun
 dir
 disana
@@ -1009,6 +1020,7 @@ elar
 elas
 eleh
 elek
+elen
 eleng
 eler
 eli
@@ -1199,6 +1211,7 @@ ewu
 eya
 eyang
 fokus
+fungsi
 ga
 gabah
 gabe
@@ -1235,6 +1248,7 @@ galih
 galo
 galok
 galon
+galungan
 gaman
 gambang
 gambar
@@ -1296,6 +1310,7 @@ gathel
 gathot
 gatok
 gatot
+gaul
 gawa
 gawai
 gawan
@@ -1407,6 +1422,7 @@ giwangan
 go
 goblog
 goblok
+gobloki
 godog
 godok
 godong
@@ -1437,6 +1453,7 @@ gorong
 gosip
 gosok
 gosong
+gowang
 gowo
 goyang
 gragal
@@ -1683,6 +1700,7 @@ ilah
 ilahi
 ilak
 ilang
+ilar
 ilat
 iler
 ileran
@@ -1789,6 +1807,7 @@ isap
 isek
 isel
 isen
+isep
 isi
 isian
 isih
@@ -2031,6 +2050,7 @@ karepmu
 kari
 karma
 karo
+karsa
 kartu
 karung
 kas
@@ -2116,6 +2136,7 @@ kening
 kenthir
 keong
 kep
+kepala
 kepenak
 kepet
 kepik
@@ -2128,6 +2149,7 @@ keramas
 kerang
 keras
 kerasa
+kerat
 kere
 keren
 kerep
@@ -2163,6 +2185,7 @@ kidal
 kidang
 kidul
 kie
+kijang
 kijing
 kika
 kiki
@@ -2225,6 +2248,7 @@ kola
 kolak
 kolam
 kolong
+kom
 koma
 komen
 kompak
@@ -2374,6 +2398,7 @@ landep
 langgeng
 langit
 langkung
+langsing
 lani
 lanjut
 lantang
@@ -2381,6 +2406,7 @@ lantas
 lantip
 laos
 lap
+lapak
 lapar
 lapis
 lapo
@@ -2398,7 +2424,9 @@ lase
 latah
 latar
 lathi
+lati
 latih
+latihan
 laut
 lawa
 lawan
@@ -2421,6 +2449,7 @@ lele
 lem
 lema
 lemah
+lemak
 leman
 lemari
 lembah
@@ -2562,6 +2591,7 @@ luwes
 luwih
 luwung
 ma
+maaf
 mabar
 mabur
 maca
@@ -2670,6 +2700,7 @@ medal
 mega
 meh
 meja
+mek
 mekar
 mel
 melas
@@ -2703,6 +2734,7 @@ mil
 mila
 milah
 milih
+milik
 min
 minal
 minat
@@ -2787,6 +2819,7 @@ nabrak
 nabu
 nabuh
 nada
+nadah
 nadahi
 nadi
 nadyan
@@ -2883,6 +2916,7 @@ neduh
 neg
 negara
 negas
+negesi
 negor
 neh
 nek
@@ -3088,6 +3122,7 @@ ngguyu
 ngibadah
 ngibul
 ngicipi
+ngidam
 ngidul
 ngidung
 ngih
@@ -3362,7 +3397,6 @@ oling
 olo
 olok
 olokan
-olor
 om
 oma
 omah
@@ -3546,7 +3580,6 @@ pikun
 pil
 pilah
 pilar
-pileh
 pilem
 pilih
 pilok
@@ -3613,11 +3646,11 @@ por
 pora
 poran
 pos
-pose
 posi
 potong
 prajurit
 prakawis
+pranata
 pripun
 pu
 puasa
@@ -4012,9 +4045,11 @@ senin
 separo
 sepi
 sepuh
+sepuluh
 sepur
 serami
 sere
+seres
 serius
 serong
 sesek
@@ -4045,6 +4080,7 @@ silet
 silih
 silit
 sim
+simak
 siman
 simbah
 simpang
@@ -4402,6 +4438,7 @@ tutuk
 tutup
 tutur
 tuwa
+tuwuh
 tuyul
 uang
 ub
@@ -4545,7 +4582,6 @@ upik
 upil
 ur
 ura
-uraa
 urai
 urak
 urakan
@@ -4693,6 +4729,7 @@ wi
 widya
 wih
 wijaya
+wiji
 wiku
 wil
 wila
