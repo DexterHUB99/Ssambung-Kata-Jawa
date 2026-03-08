@@ -2654,6 +2654,7 @@ latih
 latihan
 laut
 lawa
+lawak
 lawan
 lawang
 lawas
@@ -5164,6 +5165,7 @@ wahing
 wahyu
 wajan
 wajar
+wajik
 wak
 wakil
 waktu
