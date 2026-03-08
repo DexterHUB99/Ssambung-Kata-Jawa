@@ -33,11 +33,11 @@ akur
 akut
 ala
 alah
+alam
 alem
 ali
 alip
 aliran
-alis
 alur
 aman
 amarga
@@ -444,7 +444,6 @@ lombok
 lopa
 lopis
 luluh
-lumrah
 lungguh
 luput
 lurah
@@ -461,6 +460,7 @@ maleh
 man
 manasi
 mangan
+mantuk
 manuk
 marak
 marem
@@ -571,7 +571,6 @@ oalah
 ob
 obah
 ogah
-oh
 ojo
 ojok
 ok
@@ -605,7 +604,6 @@ palang
 paling
 pan
 pani
-panis
 pari
 pasir
 payah
@@ -629,7 +627,6 @@ raimu
 rakus
 rama
 ramah
-ramai
 rambut
 rame
 rampung
@@ -680,7 +677,6 @@ satu
 sayang
 sayur
 sego
-seket
 siapa
 siji
 sila
@@ -768,7 +764,6 @@ unak
 uncal
 undak
 unggah
-unggul
 ungkir
 ungu
 unta
