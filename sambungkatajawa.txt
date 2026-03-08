@@ -190,6 +190,7 @@ alpukat
 alu
 alum
 alun
+alunan
 alur
 alus
 am
@@ -1758,6 +1759,7 @@ hadeh
 hadiah
 hadir
 hadist
+hafal
 hah
 haha
 hahaha
