@@ -556,6 +556,7 @@ ayar
 aye
 ayem
 ayep
+ayi
 ayo
 ayok
 ayu
@@ -846,6 +847,7 @@ cendol
 cengel
 cengkeh
 cenil
+centil
 cep
 cerak
 ceret
@@ -3663,6 +3665,7 @@ ngiler
 ngili
 ngilo
 ngilu
+ngiman
 ngimi
 ngimpi
 nging
