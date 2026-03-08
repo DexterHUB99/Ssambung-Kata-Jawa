@@ -191,6 +191,7 @@ ape
 apel
 apem
 apes
+api
 apik
 apo
 apung
@@ -470,6 +471,7 @@ dodol
 dolan
 dolanan
 dom
+domba
 dompet
 donga
 dorong
@@ -651,6 +653,7 @@ ga
 gabah
 gaber
 gabung
+gabus
 gadhah
 gading
 gae
@@ -1168,6 +1171,7 @@ ke
 kebo
 kebon
 kecap
+kecut
 kelam
 kelebon
 kelek
@@ -1637,6 +1641,7 @@ ngaco
 ngacung
 ngadek
 ngadi
+ngado
 ngadu
 ngaduk
 ngajak
@@ -2379,6 +2384,7 @@ tiyang
 tokek
 toko
 tolak
+tolol
 tolong
 tomat
 tompel
