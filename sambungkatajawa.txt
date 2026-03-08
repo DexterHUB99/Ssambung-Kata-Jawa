@@ -427,6 +427,7 @@ becik
 beda
 bedes
 bedok
+begja
 bego
 beja
 bejan
@@ -794,6 +795,7 @@ emper
 emping
 empun
 emu
+emuh
 emut
 en
 ena
@@ -1030,6 +1032,7 @@ gerji
 gerobak
 gesek
 geseng
+gething
 gethuk
 getuk
 getun
@@ -1667,6 +1670,7 @@ kilen
 kim
 kima
 kiman
+kina
 kinanthi
 kinasih
 kini
@@ -2468,6 +2472,7 @@ nis
 nisa
 nisan
 nit
+niti
 nitih
 nitip
 njaluk
@@ -2549,6 +2554,7 @@ ojolan
 ok
 oke
 okea
+okee
 okeh
 okei
 okel
