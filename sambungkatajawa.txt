@@ -40,6 +40,7 @@ ani
 anjay
 anjing
 anjir
+apa
 apung
 are
 asa
@@ -74,6 +75,8 @@ eman
 emoh
 emok
 endah
+eni
+enteni
 entong
 ero
 eroh
@@ -154,11 +157,14 @@ irahan
 ireng
 iri
 irus
+isa
 isi
 itil
 iwak
+iyo
 jancok
 jare
+jawa
 jawir
 jaya
 jenang
@@ -262,6 +268,7 @@ ngrit
 ngukur
 ngulek
 ngundang
+ngurip
 nikah
 niki
 nipu
@@ -290,6 +297,7 @@ padas
 palang
 paling
 payah
+pinten
 piro
 po
 pundhut
@@ -313,6 +321,7 @@ rin
 rindu
 ris
 roda
+roti
 run
 rupa
 ruti
@@ -365,6 +374,7 @@ uler
 ulo
 umbel
 umpama
+unggah
 ungkir
 ungu
 untal
