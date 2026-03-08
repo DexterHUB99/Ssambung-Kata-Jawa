@@ -2105,6 +2105,7 @@ iros
 iru
 irub
 irug
+irum
 irung
 irunge
 irup
@@ -3288,6 +3289,7 @@ murah
 muri
 murid
 murka
+murung
 murup
 mus
 musa
@@ -4206,6 +4208,7 @@ pasir
 patek
 pati
 patih
+patin
 patis
 patub
 patuh
