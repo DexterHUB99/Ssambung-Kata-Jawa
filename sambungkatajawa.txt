@@ -385,6 +385,7 @@ arang
 aras
 arat
 are
+areh
 arek
 arel
 arem
@@ -1122,6 +1123,7 @@ ekis
 eklas
 eklek
 eko
+ekol
 ekoli
 ekor
 ekot
