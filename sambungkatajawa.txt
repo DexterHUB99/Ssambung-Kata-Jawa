@@ -1678,6 +1678,7 @@ guyon
 guyu
 guyub
 guyup
+guyur
 ha
 habis
 hadap
@@ -2532,6 +2533,7 @@ kotor
 kowe
 kowen
 koyo
+koyok
 krama
 kripik
 krungu
@@ -3550,6 +3552,7 @@ ngujuk
 ngukir
 ngukur
 ngul
+ngulang
 nguleg
 ngulek
 ngulet
