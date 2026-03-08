@@ -92,6 +92,7 @@ ahor
 ahoy
 ahu
 ahuh
+ahul
 ahur
 ahus
 aing
@@ -901,6 +902,7 @@ culik
 cuma
 cumi
 cunduk
+curu
 curut
 cusu
 dab
@@ -4193,6 +4195,7 @@ pendopo
 peni
 pensil
 pentil
+pentung
 pepes
 pera
 peri
