@@ -267,7 +267,6 @@ ancang
 ancen
 ancik
 ancok
-ancuk
 ancur
 andap
 andaran
@@ -289,7 +288,6 @@ aneh
 anek
 aner
 anes
-angan
 angar
 ange
 angel
@@ -478,6 +476,7 @@ atak
 atap
 atar
 atas
+atasan
 ataw
 atawa
 ate
@@ -533,7 +532,6 @@ awis
 awit
 awong
 awor
-awu
 awul
 awur
 aya
@@ -588,6 +586,7 @@ bali
 balik
 balon
 balung
+balur
 bam
 ban
 bancak
@@ -649,6 +648,7 @@ bendo
 bene
 bener
 bengi
+bengkok
 beni
 benjol
 benten
@@ -1331,6 +1331,7 @@ erem
 eren
 ereng
 erep
+ereruh
 eri
 erik
 ering
@@ -1386,7 +1387,6 @@ etu
 etub
 etuh
 etuk
-etung
 etus
 ew
 ewang
@@ -1605,6 +1605,7 @@ gero
 gerobak
 gesek
 geseng
+geser
 gesit
 gething
 gethuk
@@ -2587,6 +2588,7 @@ kola
 kolah
 kolak
 kolam
+kolek
 koloh
 kolong
 kolot
@@ -3021,7 +3023,6 @@ malam
 malang
 maleh
 males
-malesan
 malih
 maling
 malu
@@ -3055,7 +3056,6 @@ mangkel
 mangkih
 mangku
 mangsa
-mangun
 mangut
 mani
 manis
@@ -3281,7 +3281,6 @@ nalar
 nali
 nalik
 nalika
-nalikane
 naluri
 nama
 nambah
@@ -3403,7 +3402,6 @@ neptu
 ner
 nerak
 neraka
-nerang
 nerima
 nerjang
 nesa
@@ -3480,6 +3478,8 @@ nganggo
 nganggur
 ngangon
 ngangsu
+ngangu
+ngangur
 ngani
 nganjuk
 nganti
@@ -3572,7 +3572,6 @@ ngendog
 ngene
 ngenes
 ngeng
-ngengek
 ngenget
 ngenggo
 ngenjang
@@ -3599,7 +3598,6 @@ ngeyel
 ngg
 nggak
 nggali
-nggambar
 nggarap
 nggawa
 nggawe
@@ -3904,6 +3902,7 @@ ob
 obah
 obat
 obeng
+obok
 obong
 obor
 obral
@@ -4072,9 +4071,9 @@ pake
 pakpuh
 paku
 pala
-palah
 palang
 palem
+paleng
 paling
 paliyan
 palu
@@ -4091,11 +4090,14 @@ panas
 pancal
 pancen
 panci
+pancing
 pandak
+pandawa
 pandu
 panen
 pang
 pangan
+pangapura
 panggah
 panggon
 pangling
@@ -4250,6 +4252,7 @@ piyak
 piye
 po
 pocong
+podho
 pojok
 pojokan
 pokok
@@ -4442,7 +4445,6 @@ rembang
 rembes
 rembug
 rembuk
-rembukan
 rembulan
 remeh
 remek
@@ -4465,6 +4467,7 @@ reng
 rengginang
 reog
 rep
+repi
 repot
 reresik
 res
@@ -4585,6 +4588,7 @@ sa
 sabar
 saben
 sabi
+sabit
 sabtu
 sabun
 sadar
@@ -4640,7 +4644,6 @@ sampir
 sampo
 sampun
 sampur
-sampurna
 san
 sana
 sandal
@@ -5052,7 +5055,6 @@ teles
 telo
 telu
 teluk
-tem
 tema
 tembak
 tembang
@@ -5135,7 +5137,6 @@ titen
 titi
 titik
 titip
-titis
 tiwas
 tiyang
 to
@@ -5266,7 +5267,6 @@ uk
 uka
 ukaa
 ukai
-ukal
 ukar
 ukara
 ukaran
@@ -5607,6 +5607,7 @@ yati
 yawis
 yekti
 yen
+yes
 yesa
 yi
 yo
