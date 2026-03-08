@@ -725,6 +725,7 @@ enjih
 enjing
 enok
 entek
+enteng
 enteni
 enter
 entong
@@ -1421,6 +1422,7 @@ kelor
 keluarga
 kembang
 kemben
+kemi
 kemiri
 kemis
 kemproh
@@ -2661,6 +2663,7 @@ sampeyan
 sampun
 sana
 sandhang
+sangu
 sanjang
 santun
 sapa
@@ -2982,6 +2985,7 @@ udeg
 udek
 udel
 udeng
+udik
 udin
 udo
 udu
@@ -3122,6 +3126,7 @@ utang
 utar
 utara
 utas
+utawa
 utawi
 utek
 uteke
