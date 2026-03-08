@@ -820,6 +820,7 @@ cino
 cinta
 cire
 ciro
+co
 coc
 cocok
 cocot
@@ -842,6 +843,7 @@ cor
 corak
 coro
 corot
+cote
 cowo
 cu
 cuci
@@ -5052,6 +5054,7 @@ ulih
 ulik
 ulo
 ulu
+uluk
 ulung
 ulur
 um
