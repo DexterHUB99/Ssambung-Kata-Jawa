@@ -785,6 +785,7 @@ epep
 eper
 epet
 epi
+epik
 epil
 epis
 epo
@@ -2534,6 +2535,7 @@ pisan
 pisang
 pisuh
 pitakon
+pitek
 pitik
 pitu
 pitutur
@@ -3257,6 +3259,7 @@ urip
 uris
 urit
 uruk
+urunan
 urung
 urup
 urus
@@ -3302,6 +3305,7 @@ wadoh
 wadon
 waduh
 waduk
+wadul
 wae
 wah
 waktu
