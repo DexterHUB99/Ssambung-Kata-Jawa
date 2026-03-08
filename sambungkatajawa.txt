@@ -915,6 +915,7 @@ epu
 er
 era
 erah
+erak
 eram
 erang
 erat
@@ -2134,6 +2135,7 @@ mangut
 mani
 manis
 manja
+manjing
 mantap
 mantuk
 manuk
@@ -2179,6 +2181,7 @@ mene
 meneng
 meni
 menika
+mentah
 merah
 meri
 mesake
@@ -2717,6 +2720,7 @@ okee
 okeh
 okei
 okel
+okol
 ol
 olah
 olahraga
