@@ -48,7 +48,6 @@ agama
 agami
 agawe
 age
-agem
 ageng
 agung
 agus
@@ -71,6 +70,7 @@ ahek
 ahem
 aheng
 aher
+ahet
 ahh
 ahi
 ahih
@@ -99,7 +99,6 @@ ajak
 ajal
 ajang
 ajar
-ajay
 ajeg
 ajek
 ajeng
@@ -203,9 +202,9 @@ ambal
 ambar
 ambek
 amben
-ambeng
 amber
 ambil
+ambruk
 ambu
 ambung
 ambunge
@@ -328,7 +327,6 @@ anif
 anik
 aning
 anis
-anja
 anjar
 anjay
 anjing
@@ -450,7 +448,6 @@ aso
 asok
 asop
 asor
-asoy
 aspal
 asrama
 asri
@@ -474,6 +471,7 @@ atap
 atar
 atas
 ataw
+atawa
 ate
 atek
 atem
@@ -482,7 +480,6 @@ atep
 ater
 athi
 ati
-atik
 atin
 atine
 atir
@@ -500,7 +497,6 @@ atum
 atun
 atur
 aturan
-aturen
 atus
 atut
 aub
@@ -547,7 +543,6 @@ ayuh
 ayuk
 ayun
 ayunan
-ayune
 az
 ba
 baba
@@ -571,7 +566,6 @@ bajing
 bajingan
 baju
 bajul
-bakal
 bakmi
 bakso
 bakul
@@ -597,7 +591,6 @@ barongan
 basi
 baskom
 basuki
-bata
 batok
 bau
 bayi
@@ -618,7 +611,6 @@ bego
 beh
 beja
 bejan
-bejo
 bejur
 bekas
 bekel
@@ -737,7 +729,6 @@ buh
 buk
 buka
 bukak
-bukan
 bukit
 buko
 buku
@@ -745,7 +736,6 @@ bul
 bulan
 bulat
 bule
-bulet
 buli
 bulu
 bum
@@ -847,7 +837,6 @@ cincin
 cino
 cinta
 cire
-cireng
 ciro
 co
 coc
@@ -1169,7 +1158,6 @@ eleh
 elek
 elel
 elem
-eleman
 elen
 eleng
 eler
@@ -1373,12 +1361,12 @@ eton
 etos
 etu
 etub
+etuh
 etuk
 etus
 ew
 ewang
 ewe
-eweh
 ewi
 ewoh
 ewu
@@ -1386,7 +1374,6 @@ ewuh
 ex
 eya
 eyang
-eyu
 eyup
 fokus
 fungsi
@@ -1447,7 +1434,6 @@ gampang
 gampil
 gancet
 gandeng
-gandos
 gandrung
 gandul
 gang
@@ -1639,7 +1625,6 @@ gol
 gola
 gole
 golek
-goleki
 golo
 golong
 golongan
@@ -1688,7 +1673,6 @@ gul
 gula
 gulai
 gule
-guleman
 guleng
 guli
 guling
@@ -1738,6 +1722,7 @@ hadist
 hah
 haha
 hahaha
+haho
 hai
 hajar
 hajat
@@ -1751,6 +1736,7 @@ hala
 halah
 halal
 halang
+halangan
 halen
 hali
 halo
@@ -1807,7 +1793,6 @@ heha
 hehe
 hei
 heli
-helikopter
 hem
 hemat
 hepan
@@ -1934,6 +1919,7 @@ ilahi
 ilak
 ilam
 ilang
+ilap
 ilar
 ilat
 iler
@@ -1941,7 +1927,6 @@ ileran
 ili
 ilih
 ilik
-ililang
 ilir
 ilmu
 ilo
@@ -1965,7 +1950,6 @@ imboh
 imbu
 imbuh
 imbuhan
-imbung
 iming
 imit
 imo
@@ -2178,7 +2162,6 @@ jini
 jinjing
 jinjit
 jinten
-jipuk
 jir
 jira
 jiran
@@ -2353,6 +2336,7 @@ kathok
 katil
 katok
 katon
+katot
 katrok
 kawah
 kawanen
@@ -2685,7 +2669,6 @@ kutang
 kutha
 kuti
 kutuk
-kuwalat
 kuwe
 kuwi
 la
@@ -2754,6 +2737,7 @@ lapis
 lapo
 lar
 lara
+larang
 laras
 lare
 lari
@@ -2859,7 +2843,6 @@ linglung
 lingsir
 lintah
 lintang
-lintas
 lintu
 lip
 lipan
@@ -2987,7 +2970,6 @@ maha
 mai
 maido
 maju
-makam
 makan
 makane
 make
@@ -3195,7 +3177,6 @@ muli
 mulih
 mulya
 mumet
-mumpung
 munafik
 mundak
 mundhut
@@ -3319,7 +3300,6 @@ ndak
 ndang
 ndasmu
 ndelok
-ndoro
 nduk
 ne
 nedah
@@ -3459,14 +3439,15 @@ ngapa
 ngapah
 ngapain
 ngapak
+ngapel
 ngapunten
+ngapura
 ngapurancang
 ngapuro
 ngapus
 ngapusi
 ngar
 ngarah
-ngarang
 ngarani
 ngare
 ngarek
@@ -3491,6 +3472,7 @@ ngasuh
 ngati
 ngatuk
 ngatur
+ngaub
 ngawa
 ngawe
 ngaweh
@@ -3525,7 +3507,6 @@ ngelon
 ngeloni
 ngelu
 ngeluh
-ngeman
 ngembang
 ngempot
 ngemut
@@ -3629,9 +3610,7 @@ ngocok
 ngok
 ngoke
 ngoko
-ngokop
 ngolah
-ngolek
 ngolet
 ngoli
 ngolo
@@ -3645,7 +3624,6 @@ ngongkang
 ngono
 ngontol
 ngop
-ngopeni
 ngopi
 ngopii
 ngopo
@@ -3773,7 +3751,6 @@ nitih
 nitip
 njajal
 njaluk
-njupuk
 no
 nogel
 noh
@@ -3878,7 +3855,6 @@ oge
 ogoh
 ogol
 oh
-ohh
 oho
 oj
 ojek
@@ -3966,12 +3942,10 @@ opah
 opak
 opel
 open
-opera
 opet
 opo
 opon
 opor
-oposi
 or
 ora
 orah
@@ -4052,7 +4026,6 @@ panas
 pancal
 pancen
 panci
-pandak
 pandu
 panen
 pang
@@ -4100,7 +4073,6 @@ patih
 patis
 patub
 patuh
-patung
 pawan
 pawang
 pawon
@@ -4113,7 +4085,6 @@ pedes
 pedot
 pegel
 peka
-pekan
 pekok
 pel
 pelan
@@ -4217,6 +4188,7 @@ pol
 pola
 polah
 polan
+poles
 poli
 polisi
 pom
@@ -4306,7 +4278,6 @@ rak
 raka
 raket
 rakit
-raksasa
 rakus
 ram
 rama
@@ -4335,7 +4306,6 @@ randa
 randu
 randue
 rang
-rangga
 rangkat
 rangkul
 ranjang
@@ -4432,6 +4402,7 @@ resik
 restu
 reti
 rewang
+rewel
 ri
 riang
 ribet
@@ -4534,7 +4505,6 @@ rut
 ruti
 rutin
 ruwah
-ruwat
 ruwet
 sa
 sabar
@@ -4591,7 +4561,6 @@ sampah
 sampai
 sampean
 sampeyan
-sampir
 sampo
 sampun
 sampur
@@ -4678,6 +4647,7 @@ selas
 sele
 selep
 selet
+selir
 semar
 sembah
 semen
@@ -4692,7 +4662,6 @@ senang
 sendal
 sendhang
 sendok
-sengkir
 senin
 senuk
 separo
@@ -4784,7 +4753,6 @@ siwur
 slamet
 slametan
 so
-soale
 sobat
 sodok
 sodor
@@ -4868,7 +4836,6 @@ sumur
 sun
 sunat
 sundel
-sunduk
 sundul
 sungai
 sungguh
@@ -4929,6 +4896,7 @@ taii
 taik
 tak
 taka
+takbir
 taken
 takjil
 takon
@@ -4943,7 +4911,6 @@ tamba
 tambah
 tambak
 tambal
-tambang
 tameng
 tampah
 tampar
@@ -4989,7 +4956,6 @@ tawon
 te
 tegal
 teguh
-teja
 teka
 tekan
 teko
@@ -5012,7 +4978,6 @@ temon
 tempe
 tempel
 tempik
-tempura
 temu
 ten
 tenan
@@ -5214,6 +5179,7 @@ ukaa
 ukai
 ukar
 ukara
+ukaran
 ukarane
 uker
 ukir
@@ -5254,7 +5220,6 @@ ulik
 ulo
 ulu
 uluk
-ulun
 ulung
 ulur
 um
@@ -5291,7 +5256,6 @@ undangan
 undhi
 unduh
 undur
-unem
 unen
 ung
 ungaran
@@ -5434,7 +5398,6 @@ wangsul
 wangsulan
 wani
 wanita
-wantah
 warah
 warak
 wareg
@@ -5521,7 +5484,6 @@ wol
 wolu
 won
 wong
-woni
 wonosobo
 wonten
 wudel
@@ -5534,7 +5496,6 @@ ya
 yaapa
 yah
 yak
-yake
 yakin
 yaman
 yana
@@ -5577,7 +5538,6 @@ yuka
 yuki
 yun
 yuna
-yune
 yuni
 yura
 yuri
