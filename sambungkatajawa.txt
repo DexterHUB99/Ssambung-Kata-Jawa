@@ -1368,6 +1368,7 @@ etus
 ew
 ewang
 ewe
+eweh
 ewi
 ewoh
 ewu
@@ -5389,6 +5390,7 @@ wangsul
 wangsulan
 wani
 wanita
+wantah
 warah
 warak
 wareg
