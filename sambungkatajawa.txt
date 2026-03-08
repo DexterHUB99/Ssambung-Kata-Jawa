@@ -304,6 +304,7 @@ cacah
 cacing
 cakot
 camat
+campur
 candi
 candra
 cangkem
@@ -1597,10 +1598,12 @@ pundhut
 pundi
 punika
 punten
+puri
 pusing
 putra
 ra
 rabi
+rada
 ragi
 rahmat
 rai
@@ -1816,6 +1819,7 @@ susah
 susu
 sut
 sutil
+sutra
 suwe
 suwi
 syukur
@@ -1970,6 +1974,7 @@ unak
 uncal
 undak
 undangan
+unduh
 undur
 unen
 ung
@@ -2064,6 +2069,7 @@ wetan
 weton
 wewe
 wi
+wingi
 wit
 wolu
 wong
