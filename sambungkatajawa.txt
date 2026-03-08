@@ -52,6 +52,7 @@ ajek
 ajeng
 aji
 ajig
+ajih
 ajik
 ajur
 aka
@@ -872,6 +873,7 @@ ijin
 ijo
 ijol
 ika
+ikaa
 ikal
 ikan
 ikat
@@ -1294,6 +1296,7 @@ lemot
 lemper
 lemu
 lemut
+lena
 lenggah
 lepat
 leri
@@ -1479,6 +1482,7 @@ nalika
 nama
 nambah
 nambai
+nampani
 nan
 nanang
 nandhang
@@ -1649,6 +1653,7 @@ ngorok
 ngos
 ngosok
 ngoyak
+ngoyo
 ngrit
 ngucap
 ngudang
@@ -2192,6 +2197,7 @@ tansah
 tapi
 tar
 tari
+tarik
 taru
 tata
 taun
@@ -2210,6 +2216,7 @@ tenane
 teras
 teri
 terong
+terus
 ti
 tibo
 tikar
@@ -2447,6 +2454,7 @@ wetan
 weton
 wewe
 wi
+wijaya
 wingi
 wit
 wiwit
@@ -2461,6 +2469,7 @@ yah
 yak
 yakin
 yaman
+yana
 yas
 yekti
 yen
