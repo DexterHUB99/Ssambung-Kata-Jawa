@@ -566,6 +566,7 @@ gor
 goreng
 gorengan
 gori
+goroh
 gorok
 gorong
 gosip
@@ -860,6 +861,7 @@ kanthi
 kanti
 kaos
 kapak
+kapan
 kaping
 kapok
 kapuk
@@ -1482,6 +1484,7 @@ pinarak
 pindah
 pindang
 pindho
+ping
 pinten
 pintu
 pirang
@@ -1529,6 +1532,7 @@ rama
 ramadhan
 ramah
 ramai
+rambak
 rambat
 rambu
 rambut
