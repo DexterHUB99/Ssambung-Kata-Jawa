@@ -33,11 +33,11 @@ akur
 akut
 ala
 alah
-alam
 alem
 ali
 alip
 aliran
+alis
 alur
 aman
 amarga
@@ -250,6 +250,7 @@ he
 heran
 heri
 hi
+hijau
 hiji
 hir
 hiri
@@ -444,6 +445,7 @@ lombok
 lopa
 lopis
 luluh
+lumrah
 lungguh
 luput
 lurah
@@ -460,7 +462,6 @@ maleh
 man
 manasi
 mangan
-mantuk
 manuk
 marak
 marem
@@ -535,6 +536,7 @@ ngirim
 ngising
 ngisu
 ngitung
+ngluwehi
 ngoko
 ngolet
 ngoli
@@ -571,6 +573,7 @@ oalah
 ob
 obah
 ogah
+oh
 ojo
 ojok
 ok
@@ -599,11 +602,13 @@ orang
 ori
 otot
 padas
+paku
 pala
 palang
 paling
 pan
 pani
+panis
 pari
 pasir
 payah
@@ -627,10 +632,12 @@ raimu
 rakus
 rama
 ramah
+ramai
 rambut
 rame
 rampung
 raos
+rapi
 rasa
 rasah
 rasi
@@ -654,10 +661,12 @@ romo
 rono
 roti
 rowang
+ru
 rujak
 run
 rupa
 rus
+rusa
 rusak
 rusuh
 ruti
@@ -677,6 +686,7 @@ satu
 sayang
 sayur
 sego
+seket
 siapa
 siji
 sila
@@ -720,6 +730,7 @@ tindak
 tolak
 tomat
 tuak
+tuku
 tul
 tula
 tulung
@@ -764,6 +775,7 @@ unak
 uncal
 undak
 unggah
+unggul
 ungkir
 ungu
 unta
@@ -799,6 +811,7 @@ warisan
 warung
 wayang
 wedang
+weling
 werna
 werno
 weton
