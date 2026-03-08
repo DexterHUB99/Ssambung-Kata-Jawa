@@ -193,6 +193,7 @@ bisu
 bisulan
 bo
 bojo
+borok
 boso
 bosok
 bubuk
@@ -888,6 +889,7 @@ ngalor
 ngambi
 ngamok
 ngan
+ngandani
 ngandut
 nganggo
 nganggur
@@ -1103,6 +1105,7 @@ regane
 reget
 rek
 rekasa
+remang
 remeh
 remen
 rempah
