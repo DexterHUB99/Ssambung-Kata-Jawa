@@ -1376,6 +1376,7 @@ gathel
 gathot
 gatok
 gatot
+gatuk
 gaul
 gawa
 gawai
@@ -2266,6 +2267,7 @@ keri
 keris
 kerjo
 kero
+kerok
 keroso
 kersa
 kertas
@@ -2343,6 +2345,7 @@ kitab
 kiti
 kiwa
 klambi
+klepon
 kleru
 kliwon
 klumah
@@ -3462,6 +3465,7 @@ nombok
 nomer
 non
 nona
+nong
 nongki
 nonjok
 nonton
@@ -3683,6 +3687,7 @@ pamrih
 pan
 panai
 panas
+pancal
 pancen
 panci
 pandu
@@ -4923,6 +4928,7 @@ wahing
 wahyu
 wajan
 wajar
+wak
 wakil
 waktu
 walah
