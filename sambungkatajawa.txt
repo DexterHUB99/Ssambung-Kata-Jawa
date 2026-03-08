@@ -269,6 +269,7 @@ eleng
 eling
 elo
 elok
+elus
 ema
 emak
 eman
@@ -397,6 +398,7 @@ gur
 guru
 gusah
 gusi
+guyon
 guyu
 ha
 habis
@@ -760,6 +762,7 @@ maem
 maju
 makan
 maleh
+mambu
 man
 manasi
 mandi
@@ -933,6 +936,7 @@ nitih
 no
 nok
 nol
+nombok
 nomer
 nonton
 nopo
@@ -1172,9 +1176,11 @@ suka
 suket
 suki
 sukur
+sul
 sulak
 sunat
 sungkem
+supados
 supaya
 suri
 susah
