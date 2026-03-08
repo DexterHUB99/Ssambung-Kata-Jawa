@@ -1146,6 +1146,7 @@ eyang
 fokus
 ga
 gabah
+gabe
 gaber
 gabes
 gabuk
@@ -1443,6 +1444,7 @@ hadir
 hadist
 hah
 haha
+hahaha
 hai
 hajar
 hajat
@@ -1783,6 +1785,7 @@ janji
 jar
 jaran
 jaranan
+jarang
 jare
 jari
 jarik
@@ -2066,6 +2069,7 @@ kesel
 keset
 kesna
 kesuh
+kesusu
 ketan
 ketar
 ketara
@@ -2644,6 +2648,7 @@ mugi
 mujair
 muji
 muk
+mul
 mula
 mulane
 mulang
@@ -3963,6 +3968,7 @@ sulak
 sulam
 sule
 suli
+sum
 suma
 sumbanga
 sumbangan
