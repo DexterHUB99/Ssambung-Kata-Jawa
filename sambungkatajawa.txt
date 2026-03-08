@@ -25,11 +25,13 @@ adu
 aduh
 adus
 adzan
+afe
 ag
 agal
 ageng
 agung
 agus
+ah
 aha
 ahab
 ahad
@@ -48,6 +50,7 @@ ahi
 ahik
 ahil
 ahim
+ahin
 ahir
 ahis
 ahli
@@ -64,6 +67,7 @@ aing
 air
 ajak
 ajal
+ajeg
 ajek
 ajeng
 aji
@@ -380,6 +384,7 @@ bebek
 becik
 beda
 bedes
+bedok
 bego
 bejan
 bekas
@@ -517,6 +522,7 @@ dalam
 dalan
 dalang
 dalem
+damai
 damen
 dan
 dana
@@ -551,6 +557,7 @@ didi
 didik
 didu
 dika
+dikon
 dikongkon
 dilem
 dilit
@@ -595,7 +602,7 @@ duh
 duhur
 duit
 duka
-dukuh
+dukon
 dukun
 dula
 dulan
@@ -635,6 +642,7 @@ ehak
 ehan
 ehar
 ehe
+eheh
 ehek
 ehem
 eher
@@ -673,6 +681,7 @@ eling
 elo
 elok
 elon
+elu
 elus
 ema
 emak
@@ -1034,6 +1043,7 @@ hawa
 hayang
 hayat
 hayu
+hayuk
 he
 hebat
 heh
@@ -1187,7 +1197,6 @@ ip
 ipa
 ipe
 ipel
-ipik
 ipin
 ipit
 ir
@@ -1399,6 +1408,7 @@ kelangan
 kelawan
 kelebon
 kelek
+keli
 kelingan
 kelon
 kelonan
@@ -1463,6 +1473,7 @@ kilas
 kilat
 kilen
 kim
+kima
 kiman
 kinanthi
 kinasih
@@ -1531,6 +1542,7 @@ kuda
 kudu
 kudus
 kue
+kuk
 kuku
 kukur
 kul
@@ -1552,6 +1564,7 @@ kunci
 kundur
 kuneng
 kung
+kuning
 kuno
 kunti
 kuntul
@@ -1559,6 +1572,7 @@ kuping
 kur
 kura
 kurang
+kurna
 kursi
 kuru
 kurus
@@ -1648,6 +1662,7 @@ leri
 lesu
 lewat
 li
+liane
 libur
 licik
 lih
@@ -1662,6 +1677,7 @@ lima
 limbah
 limbuk
 limo
+limolas
 limpa
 limun
 lin
@@ -1739,6 +1755,7 @@ madu
 madura
 madya
 maem
+maha
 mai
 maju
 makan
@@ -1757,6 +1774,7 @@ maneh
 manga
 mangan
 manggil
+mangkel
 mangku
 mangut
 mani
@@ -1839,6 +1857,7 @@ mula
 mulane
 muleh
 mules
+muli
 mulih
 mulya
 mumet
@@ -1881,6 +1900,7 @@ nala
 nalar
 nali
 nalika
+naluri
 nama
 nambah
 nambai
@@ -1972,6 +1992,7 @@ ngado
 ngadu
 ngaduk
 ngajak
+ngajar
 ngajeni
 ngaji
 ngajia
@@ -2065,7 +2086,6 @@ ngibul
 ngicipi
 ngidul
 ngih
-ngijoli
 ngiki
 ngilang
 ngiler
@@ -2094,6 +2114,7 @@ ngombe
 ngome
 ngomong
 ngompol
+ngongkang
 ngono
 ngontol
 ngopi
@@ -2131,6 +2152,7 @@ ngurip
 ngurus
 ngutang
 nguyuh
+ngwah
 ni
 niba
 nik
@@ -2162,6 +2184,7 @@ nit
 nitih
 no
 nogel
+noh
 nok
 noken
 nokoh
@@ -2342,6 +2365,7 @@ pasir
 patek
 pawon
 payah
+payung
 pe
 pedot
 peka
@@ -2357,7 +2381,9 @@ pi
 picek
 pikun
 pil
+pilih
 pilu
+piluh
 pin
 pina
 pinak
@@ -2453,6 +2479,7 @@ ramadhan
 ramah
 ramai
 rambak
+ramban
 rambat
 rambu
 rambut
@@ -2549,6 +2576,7 @@ risa
 risi
 risih
 riyaya
+riyin
 ro
 roda
 rogoh
@@ -2569,6 +2597,7 @@ ropi
 rosa
 rosi
 roti
+roto
 rowang
 ru
 ruang
@@ -2688,6 +2717,7 @@ silet
 silit
 siman
 simbah
+sin
 sinau
 sinden
 sing
@@ -2786,6 +2816,7 @@ swara
 syukur
 ta
 tabah
+tabib
 tabung
 taek
 tah
@@ -2885,6 +2916,7 @@ titi
 titik
 tiwas
 tiyang
+tok
 tokek
 toko
 tolak
@@ -2894,6 +2926,8 @@ tomat
 tombak
 tompel
 tora
+tosa
+toya
 tresno
 tu
 tuak
@@ -2945,8 +2979,10 @@ udeng
 udin
 udo
 udu
+udud
 uduk
 udut
+udutan
 uga
 ugal
 ugo
@@ -2982,6 +3018,7 @@ ulangan
 ulangi
 ular
 ulas
+uleg
 ulek
 uleman
 ulen
@@ -3105,6 +3142,7 @@ waktu
 walah
 walang
 waluh
+wan
 wangsul
 wangsulan
 wani
@@ -3147,9 +3185,9 @@ wis
 wit
 wiwit
 wiwitan
+wok
 wolu
 wong
-wonten
 wuh
 wulan
 wuli
