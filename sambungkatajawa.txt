@@ -3875,6 +3875,7 @@ paringi
 parit
 paru
 pas
+pasa
 pasah
 pasang
 pasar
