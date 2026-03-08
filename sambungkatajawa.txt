@@ -395,6 +395,7 @@ bajing
 bajingan
 baju
 bajul
+bakso
 bal
 balek
 bali
@@ -1458,6 +1459,7 @@ kakak
 kakang
 kaki
 kaku
+kala
 kalah
 kalawan
 kalebu
@@ -2243,6 +2245,7 @@ ngasar
 ngasi
 ngasih
 ngaso
+ngasta
 ngasu
 ngasuh
 ngatur
@@ -2322,6 +2325,7 @@ ngluwihi
 ngobat
 ngobor
 ngobrol
+ngobroli
 ngocok
 ngoko
 ngolah
