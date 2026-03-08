@@ -266,7 +266,6 @@ amung
 amut
 an
 ana
-anae
 anah
 anai
 anak
@@ -368,7 +367,6 @@ anjrit
 anjuk
 anjur
 anjuran
-ano
 anom
 anoman
 anta
@@ -388,7 +386,6 @@ antuk
 anu
 anuk
 anum
-anun
 anus
 anut
 anyam
@@ -925,6 +922,7 @@ codet
 cok
 cokelat
 coki
+coklat
 cokot
 col
 colek
@@ -1068,7 +1066,6 @@ dimana
 dimas
 dimul
 dina
-dinan
 dinas
 dinggo
 dingklik
@@ -1439,7 +1436,6 @@ eseh
 esek
 esem
 eses
-esi
 esih
 esin
 eso
@@ -1612,7 +1608,6 @@ gayeng
 gayuh
 gayung
 ge
-geber
 geblek
 gedag
 gedang
@@ -1643,6 +1638,7 @@ gelud
 gelut
 gema
 gemar
+gemas
 gemati
 gembel
 gemblong
@@ -1676,7 +1672,6 @@ genter
 genti
 genting
 gentong
-gentos
 genuk
 geol
 geprek
@@ -2348,6 +2343,7 @@ jore
 jori
 jorok
 jos
+jotos
 jujur
 jule
 juli
@@ -2381,7 +2377,6 @@ kahanan
 kaila
 kain
 kaisa
-kaisar
 kajeng
 kaji
 kajian
@@ -2648,7 +2643,6 @@ ketemu
 kethek
 ketiban
 ketir
-ketis
 ketok
 ketup
 ketupat
@@ -2811,6 +2805,7 @@ kum
 kuma
 kuman
 kumbah
+kumbakarna
 kumbang
 kume
 kumel
@@ -2906,7 +2901,6 @@ lancip
 landa
 landak
 landep
-landi
 landung
 langgeng
 langit
@@ -3034,7 +3028,6 @@ lindhu
 lindur
 linggih
 linggis
-lingkar
 lingkung
 linglung
 lingsir
@@ -3107,6 +3100,7 @@ lose
 losi
 lotek
 lowong
+lowongan
 loyo
 lu
 luber
@@ -3336,7 +3330,6 @@ miris
 mirsani
 mis
 misake
-miskin
 misuh
 mitoni
 mlaku
@@ -3344,6 +3337,7 @@ mlebu
 mo
 modar
 modus
+mogok
 moh
 mojo
 mok
@@ -3828,7 +3822,6 @@ ngilu
 ngiman
 ngimi
 ngimpi
-ngin
 nging
 nginjak
 ngintip
@@ -4041,7 +4034,6 @@ non
 nona
 nong
 nongki
-nongkrong
 noni
 nonjok
 nonton
@@ -4227,7 +4219,6 @@ opak
 opel
 open
 opera
-opes
 opet
 opo
 opon
@@ -4608,6 +4599,7 @@ ramasalah
 rambak
 ramban
 rambat
+rambatan
 rambu
 rambut
 rambutan
@@ -4790,7 +4782,6 @@ rombeng
 rombong
 rombongan
 rome
-romi
 romo
 rompi
 ron
@@ -4916,7 +4907,6 @@ sandang
 sandangan
 sandhang
 sanes
-sangar
 sangga
 sangka
 sangkuni
@@ -5180,6 +5170,7 @@ suli
 suling
 sultan
 sulung
+sulur
 sum
 suma
 suman
@@ -5354,7 +5345,6 @@ tempura
 temu
 ten
 tenan
-tenanan
 tenane
 tenang
 tengah
@@ -5551,6 +5541,7 @@ udutan
 ug
 uga
 ugal
+ugi
 ugo
 ugung
 uh
@@ -5760,6 +5751,7 @@ utusan
 ututer
 uw
 uwes
+uwi
 uwis
 uwit
 uwong
@@ -5902,6 +5894,7 @@ wun
 xilofon
 ya
 yaapa
+yaelah
 yah
 yak
 yake
