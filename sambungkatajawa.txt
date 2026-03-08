@@ -54,6 +54,7 @@ ayu
 bebas
 bidan
 bidun
+bisulan
 bojo
 bude
 cik
@@ -203,6 +204,7 @@ lampu
 lantang
 laos
 lari
+laron
 layu
 leh
 lele
@@ -238,6 +240,8 @@ nata
 nawa
 negara
 nekat
+nembung
+nesu
 ngadi
 ngaji
 ngaleh
@@ -253,11 +257,13 @@ ngisu
 ngoli
 ngombe
 ngono
+ngopo
 ngrit
 ngukur
 ngulek
 ngundang
 nikah
+niki
 nipu
 no
 nok
@@ -375,6 +381,7 @@ usus
 uta
 utawi
 utek
+utel
 uyuh
 wit
 wong
