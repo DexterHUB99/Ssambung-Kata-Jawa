@@ -22,6 +22,7 @@ akil
 aksi
 aku
 akut
+alah
 alem
 ali
 aliran
@@ -44,6 +45,7 @@ ani
 anjay
 anjing
 anjir
+anti
 apa
 apel
 apung
@@ -68,6 +70,7 @@ bisu
 bisulan
 bojo
 bude
+celeng
 cik
 dagang
 dalan
@@ -105,6 +108,7 @@ gangsal
 gapura
 garem
 gareng
+garing
 gatel
 gawe
 gawok
@@ -150,6 +154,7 @@ hum
 hutan
 hutang
 ibu
+ical
 idep
 idu
 ijik
@@ -182,6 +187,7 @@ isa
 isi
 isine
 iso
+isu
 itil
 iwak
 iyo
@@ -202,6 +208,7 @@ kapuk
 katok
 ke
 kene
+kenek
 kesah
 kidang
 kira
@@ -260,6 +267,7 @@ mangan
 marem
 masak
 maturnuwun
+melas
 min
 modar
 moto
@@ -384,11 +392,13 @@ slametan
 sopan
 srawung
 subhanallah
+suka
 susu
 sut
 tai
 tali
 tam
+tamu
 tanduran
 tata
 taun
