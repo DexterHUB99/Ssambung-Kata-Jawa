@@ -800,6 +800,7 @@ cengkeh
 cenil
 cep
 cerak
+ceret
 ceri
 cerita
 ceto
@@ -1499,6 +1500,7 @@ gemblung
 gembong
 gembrot
 gemes
+gempa
 gempol
 gemuk
 gen
@@ -2210,6 +2212,7 @@ kanah
 kanan
 kanca
 kancil
+kancing
 kancut
 kandang
 kandha
@@ -2292,6 +2295,7 @@ kawus
 kaya
 kayu
 ke
+kebak
 kebo
 kebon
 kecap
@@ -2467,6 +2471,7 @@ kliwon
 klumah
 ko
 kobel
+kobis
 kobong
 kocak
 kodok
@@ -2780,6 +2785,7 @@ lirih
 lis
 lisa
 lisan
+lise
 lit
 liwat
 liwet
@@ -3256,6 +3262,7 @@ neptu
 ner
 nerak
 neraka
+nerima
 nerjang
 nesa
 nesu
@@ -3390,6 +3397,7 @@ ngek
 ngelak
 ngelas
 ngelawak
+ngelebok
 ngeleh
 ngelem
 ngeles
@@ -3623,6 +3631,7 @@ nipis
 nipu
 nir
 niri
+nirwana
 nis
 nisa
 nisan
@@ -4213,7 +4222,6 @@ rawan
 rawe
 rawon
 rawuh
-rayu
 re
 rebahan
 rebana
@@ -4509,6 +4517,7 @@ sele
 selep
 selet
 semar
+sembah
 semen
 semok
 sempak
