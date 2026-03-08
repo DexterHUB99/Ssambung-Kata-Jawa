@@ -199,6 +199,7 @@ ami
 amil
 amin
 amir
+amiri
 amis
 amit
 amo
@@ -2309,6 +2310,7 @@ kopet
 kopi
 koplak
 koplo
+kopok
 kor
 kora
 koran
@@ -3211,6 +3213,7 @@ ngobong
 ngobor
 ngobrol
 ngobroli
+ngoceh
 ngocok
 ngok
 ngoke
