@@ -16,6 +16,7 @@ adu
 aduh
 adus
 ag
+agal
 ageng
 agung
 agus
@@ -291,6 +292,7 @@ aya
 ayak
 ayam
 ayang
+aye
 ayem
 ayep
 ayo
@@ -305,6 +307,7 @@ bagus
 bah
 bai
 bajigur
+bajing
 bajingan
 baju
 bajul
@@ -1520,6 +1523,7 @@ madhang
 madi
 madu
 madura
+madya
 maem
 mai
 maju
@@ -1793,6 +1797,7 @@ nggeh
 nggih
 nggolek
 ngguyu
+ngibadah
 ngibul
 ngicipi
 ngidul
