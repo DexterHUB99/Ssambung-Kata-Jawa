@@ -25,6 +25,7 @@ alem
 ali
 aliran
 aman
+ambyar
 amerga
 ami
 amparan
@@ -41,11 +42,13 @@ anjay
 anjing
 anjir
 apa
+apel
 apung
 are
 asa
 asma
 aso
+asta
 asu
 ati
 atos
@@ -91,6 +94,7 @@ gangsal
 gapura
 garem
 gareng
+gatel
 gawe
 gawok
 gayung
@@ -207,6 +211,7 @@ lambemu
 lambung
 lami
 lampu
+lanjut
 lantang
 laos
 lari
@@ -231,6 +236,7 @@ man
 mangan
 marem
 min
+modar
 moto
 mulane
 muleh
@@ -289,11 +295,13 @@ omah
 ompong
 oncek
 onta
+opa
 opak
 ora
 ori
 otot
 padas
+pala
 palang
 paling
 payah
@@ -347,6 +355,7 @@ susu
 sut
 tai
 tali
+tam
 tanduran
 tata
 taun
@@ -393,6 +402,7 @@ utawi
 utek
 utel
 uyuh
+warisan
 wit
 wong
 wulan
