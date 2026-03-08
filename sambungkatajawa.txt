@@ -13,6 +13,7 @@ adek
 adem
 aden
 adhem
+adhi
 adi
 adik
 adoh
@@ -295,6 +296,7 @@ auman
 aura
 aus
 aut
+autan
 awak
 awakdewe
 awal
@@ -1205,6 +1207,7 @@ kamar
 kambil
 kambing
 kami
+kamis
 kampil
 kampung
 kamu
@@ -1321,6 +1324,7 @@ kidal
 kidang
 kidul
 kika
+kiki
 kikil
 kil
 kila
@@ -1608,6 +1612,7 @@ manuke
 manungsa
 manut
 maos
+marah
 marak
 marani
 marem
@@ -2360,6 +2365,7 @@ ruwet
 sa
 sabar
 saben
+sabtu
 sabun
 sadar
 saget
@@ -2408,6 +2414,7 @@ seket
 sela
 selak
 selametan
+selas
 sempak
 sempit
 senang
