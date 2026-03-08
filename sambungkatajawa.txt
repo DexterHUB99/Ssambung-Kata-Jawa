@@ -3191,6 +3191,7 @@ ngalas
 ngale
 ngaleh
 ngalem
+ngaler
 ngali
 ngalih
 ngalo
