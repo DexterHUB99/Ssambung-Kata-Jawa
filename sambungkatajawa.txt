@@ -20,6 +20,7 @@ amerga
 anak
 ancik
 ancok
+anjay
 anjing
 anjir
 asa
@@ -35,6 +36,7 @@ bude
 dalan
 dasi
 dumane
+duri
 ehi
 eka
 elang
@@ -47,6 +49,7 @@ eros
 eruh
 eya
 galak
+gareng
 gawe
 gawok
 gayung
@@ -67,6 +70,7 @@ halah
 hama
 hansip
 hantu
+hasan
 hasil
 heran
 hi
@@ -122,9 +126,11 @@ madu
 maem
 maju
 maleh
+man
 mangan
 mulane
 muleh
+nanggung
 nangka
 nawa
 nekat
@@ -159,6 +165,7 @@ rampung
 ridho
 rikma
 riko
+rim
 roda
 sa
 salim
