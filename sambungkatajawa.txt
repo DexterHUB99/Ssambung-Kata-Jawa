@@ -59,8 +59,8 @@ are
 areng
 arep
 asa
+asih
 asin
-asing
 asli
 asma
 aso
@@ -70,7 +70,6 @@ ati
 atis
 atos
 awas
-ayah
 ayo
 ayu
 banter
@@ -98,11 +97,9 @@ dina
 disu
 dorong
 duduh
-dugi
 dumane
 dura
 duri
-ealah
 edan
 ehi
 eka
@@ -112,7 +109,6 @@ elang
 elek
 elo
 eman
-emang
 emoh
 emok
 endah
@@ -174,7 +170,6 @@ hama
 hansip
 hantu
 hara
-hari
 harimau
 hasan
 hasil
@@ -263,6 +258,7 @@ kene
 kenek
 kesah
 kidang
+kila
 kira
 kiri
 klambi
@@ -292,6 +288,7 @@ lam
 lambe
 lambemu
 lambung
+lame
 lami
 lampu
 lampung
@@ -334,6 +331,7 @@ marem
 masak
 maturnuwun
 melas
+met
 min
 modar
 mosok
@@ -346,7 +344,7 @@ murid
 nadi
 naga
 nala
-nalika
+nambah
 nanang
 nandur
 nanem
@@ -374,7 +372,6 @@ ngapa
 ngapak
 ngarit
 ngertos
-ngesot
 ngg
 nggeh
 nggolek
@@ -466,7 +463,6 @@ run
 rupa
 ruti
 sa
-sabar
 sah
 saku
 salah
