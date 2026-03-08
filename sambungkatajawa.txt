@@ -12,6 +12,7 @@ ahi
 ahir
 ahli
 aho
+ahoh
 ahok
 ahu
 aing
@@ -106,6 +107,7 @@ dagang
 dalan
 dan
 dapur
+dara
 dasi
 dina
 disek
@@ -128,6 +130,7 @@ elo
 eman
 emoh
 emok
+enak
 endah
 enggeh
 eni
@@ -207,6 +210,7 @@ hooh
 hum
 human
 hurip
+huruf
 hutan
 hutang
 ibu
@@ -239,6 +243,7 @@ ing
 inggih
 ingsun
 ini
+intil
 ipa
 ipin
 irah
@@ -263,6 +268,7 @@ jare
 jawa
 jawir
 jaya
+je
 jenang
 jeneng
 jili
@@ -484,12 +490,14 @@ pala
 palang
 paling
 pani
+pari
 payah
 pinten
 piro
 po
 pol
 poli
+polisi
 pun
 pundhut
 punika
@@ -546,6 +554,7 @@ sip
 sisir
 slametan
 sopan
+sopo
 srawung
 subhanallah
 sugih
@@ -641,6 +650,7 @@ wolu
 wong
 wulan
 yoga
+yom
 yuda
 yuka
 yuni
