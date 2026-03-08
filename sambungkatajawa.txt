@@ -922,6 +922,7 @@ codet
 cok
 cokelat
 coki
+coklat
 cokot
 col
 colek
@@ -3096,6 +3097,7 @@ lose
 losi
 lotek
 lowong
+lowongan
 loyo
 lu
 luber
@@ -4593,6 +4595,7 @@ ramasalah
 rambak
 ramban
 rambat
+rambatan
 rambu
 rambut
 rambutan
@@ -5742,6 +5745,7 @@ utusan
 ututer
 uw
 uwes
+uwi
 uwis
 uwit
 uwong
@@ -5884,6 +5888,7 @@ wun
 xilofon
 ya
 yaapa
+yaelah
 yah
 yak
 yake
