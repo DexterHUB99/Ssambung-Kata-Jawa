@@ -1256,6 +1256,7 @@ embunan
 embung
 emek
 emem
+emer
 emi
 emil
 emo
@@ -4416,6 +4417,7 @@ punten
 pupu
 pupuh
 puput
+pur
 pura
 puri
 purna
