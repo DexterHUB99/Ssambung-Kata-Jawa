@@ -2589,6 +2589,7 @@ lo
 loba
 lobi
 lodeh
+log
 logat
 loh
 lohan
@@ -3491,6 +3492,7 @@ ombak
 ombe
 omboh
 ome
+omel
 omong
 omongan
 ompol
@@ -3601,6 +3603,7 @@ panis
 panjaluk
 panjang
 panjenengan
+pantai
 pantar
 panut
 papa
