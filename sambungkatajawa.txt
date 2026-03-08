@@ -4549,6 +4549,7 @@ sobat
 sodok
 sodor
 sogok
+sok
 soklat
 sokor
 sol
