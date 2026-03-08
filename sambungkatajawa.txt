@@ -34,6 +34,7 @@ ajik
 akal
 akan
 akang
+akar
 ake
 akeh
 aki
@@ -225,6 +226,7 @@ cicak
 cik
 codet
 cok
+colek
 colong
 coro
 curut
@@ -735,6 +737,7 @@ kum
 kumen
 kumuh
 kundur
+kuno
 kuntul
 kuping
 kur
@@ -756,6 +759,7 @@ lambemu
 lambung
 lame
 lami
+lamis
 lampu
 lampung
 lamunan
@@ -888,6 +892,7 @@ nagih
 nai
 najis
 nak
+nakula
 nala
 nali
 nalika
@@ -1289,6 +1294,7 @@ sungkan
 sungkem
 supados
 supaya
+sura
 suri
 susah
 susu
@@ -1344,6 +1350,7 @@ tomat
 tuak
 tukang
 tuku
+tukul
 tul
 tula
 tuli
@@ -1461,6 +1468,7 @@ uyuh
 wadon
 wae
 wah
+waktu
 walah
 wangsul
 warga
