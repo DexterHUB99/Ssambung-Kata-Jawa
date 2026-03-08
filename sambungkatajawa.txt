@@ -1,6 +1,7 @@
 aa
 adah
 adoh
+adus
 aha
 ahay
 ahi
@@ -20,6 +21,7 @@ atos
 awas
 bebas
 bidan
+dalan
 dasi
 dumane
 ehi
@@ -32,8 +34,10 @@ eruh
 gawe
 gawok
 gila
+gundul
 ha
 halah
+hama
 hansip
 hasil
 heran
@@ -62,6 +66,7 @@ lambung
 lima
 loh
 madang
+madu
 maem
 maju
 mangan
@@ -80,6 +85,8 @@ nipu
 ogah
 oke
 oleh
+ora
+padas
 pusing
 putra
 rabi
@@ -91,6 +98,7 @@ sa
 sayur
 sego
 simbah
+sopan
 susu
 sut
 tanduran
@@ -106,5 +114,7 @@ urang
 usil
 usus
 utawi
+uyuh
 wulan
+yuda
 yuka
