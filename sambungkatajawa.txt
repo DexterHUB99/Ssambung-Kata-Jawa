@@ -1459,6 +1459,7 @@ etak
 etan
 ete
 etel
+eten
 etes
 eti
 etig
@@ -1532,6 +1533,7 @@ galih
 galo
 galok
 galon
+galung
 galungan
 gaman
 gambang
@@ -2047,6 +2049,7 @@ ikhlas
 ikhtiar
 iki
 ikian
+ikie
 ikih
 ikil
 iklas
@@ -3689,6 +3692,7 @@ ngapah
 ngapain
 ngapak
 ngapel
+ngapu
 ngapunten
 ngapura
 ngapurancang
@@ -3858,6 +3862,7 @@ ngising
 ngisini
 ngisor
 ngisu
+ngisuh
 ngitung
 ngiwa
 ngiwasi
@@ -4126,6 +4131,7 @@ nyedhak
 nyilih
 nyiram
 nyong
+nyunggi
 nyusahake
 nyusu
 nyusul
@@ -4150,6 +4156,7 @@ ogol
 oh
 ohh
 oho
+ohya
 oj
 ojek
 ojo
@@ -4196,7 +4203,6 @@ olokan
 olon
 olong
 olor
-olos
 om
 oma
 omah
@@ -4745,6 +4751,7 @@ resah
 rese
 resi
 resik
+resika
 restu
 reti
 rewang
@@ -5267,6 +5274,7 @@ tabah
 tabib
 tabuh
 tabung
+tabur
 taek
 tah
 tahlil
@@ -5404,6 +5412,7 @@ tikung
 tikungan
 tikus
 til
+tila
 tilap
 tilas
 tile
@@ -5517,6 +5526,7 @@ tumpuk
 tumrap
 tumrape
 tumut
+tun
 tunas
 tunggal
 tunggu
@@ -5951,6 +5961,7 @@ yohan
 yoiku
 yok
 yoka
+yoki
 yom
 yoman
 yon
