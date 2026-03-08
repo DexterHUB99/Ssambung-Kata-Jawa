@@ -393,6 +393,7 @@ asik
 asil
 asim
 asin
+asinan
 asing
 asli
 asma
@@ -572,6 +573,7 @@ beto
 biang
 biasa
 biaya
+bibi
 bibik
 bibir
 bibit
