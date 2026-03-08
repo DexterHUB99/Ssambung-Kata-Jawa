@@ -27,6 +27,7 @@ aman
 amerga
 ami
 amparan
+ana
 anak
 anake
 anam
@@ -105,6 +106,7 @@ hama
 hansip
 hantu
 hara
+harimau
 hasan
 hasil
 heran
@@ -212,10 +214,12 @@ nandur
 nanggung
 nangka
 nasi
+nata
 nawa
 nekat
 ngadi
 ngaji
+ngaleh
 ngalor
 nganjuk
 ngapa
@@ -223,6 +227,7 @@ ngapak
 ngarit
 nggolek
 ngilang
+ngising
 ngisu
 ngombe
 ngono
@@ -248,6 +253,7 @@ ompong
 oncek
 onta
 ora
+ori
 otot
 padas
 palang
@@ -263,6 +269,7 @@ rakus
 rambut
 rampung
 raos
+rasa
 rasi
 repot
 ridho
@@ -270,6 +277,7 @@ rikma
 riko
 rim
 rin
+rindu
 ris
 roda
 run
@@ -295,6 +303,7 @@ susu
 sut
 tali
 tanduran
+tata
 taun
 telo
 teras
