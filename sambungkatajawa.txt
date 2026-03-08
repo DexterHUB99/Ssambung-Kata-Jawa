@@ -314,6 +314,7 @@ angop
 angsa
 angsal
 angsul
+angsur
 angur
 angus
 ani
