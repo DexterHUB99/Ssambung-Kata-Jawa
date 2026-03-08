@@ -486,6 +486,7 @@ ehu
 ehuk
 eja
 eka
+ekan
 eke
 ekeh
 eki
@@ -1085,6 +1086,7 @@ kelebon
 kelek
 kelingan
 kelon
+kelor
 keluarga
 kembang
 kemben
@@ -1832,6 +1834,7 @@ poni
 ponorogo
 por
 pora
+pos
 posi
 potong
 prakawis
@@ -1948,6 +1951,7 @@ risih
 riyaya
 ro
 roda
+rogoh
 rolas
 rom
 roma
@@ -2103,6 +2107,7 @@ sungkem
 supados
 supaya
 sura
+surat
 suri
 suroboyo
 surya
@@ -2276,6 +2281,7 @@ umahe
 umak
 umbar
 umbel
+umi
 umpama
 umpamane
 umpan
