@@ -3719,6 +3719,7 @@ puki
 pukul
 pula
 pulsa
+puluh
 pun
 punapa
 pundhak
