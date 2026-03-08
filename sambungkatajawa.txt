@@ -169,12 +169,10 @@ amer
 amerga
 amet
 ami
-amil
 amin
 amir
 amis
 amit
-amo
 amoh
 amok
 ampa
@@ -192,7 +190,6 @@ amung
 an
 ana
 anah
-anai
 anak
 anake
 anal
@@ -371,7 +368,6 @@ ati
 atin
 atir
 atis
-atma
 ato
 atok
 atom
@@ -629,8 +625,6 @@ coli
 colong
 condong
 congor
-conto
-cor
 coro
 corot
 cu
@@ -703,7 +697,6 @@ dika
 dikit
 dikon
 dikongkon
-dil
 dilah
 dilem
 dilit
@@ -991,7 +984,6 @@ ete
 eti
 etig
 etika
-eto
 etok
 etos
 etuk
@@ -1018,6 +1010,7 @@ gagah
 gagal
 gagap
 gagar
+gagas
 gage
 gah
 gairah
@@ -1061,7 +1054,6 @@ ganteng
 ganthi
 ganti
 gantung
-ganyong
 gapura
 gar
 gara
@@ -1083,7 +1075,6 @@ gasak
 gasik
 gatel
 gathel
-gathot
 gatok
 gatot
 gawa
@@ -1105,6 +1096,7 @@ geguritan
 geh
 gel
 gelang
+gelar
 gelas
 gelem
 geleman
@@ -1129,11 +1121,9 @@ gendheng
 gendhis
 gendong
 gendruwo
-gendut
 gene
 geng
 geni
-genteng
 genti
 gentong
 geol
@@ -1143,7 +1133,6 @@ geram
 gerang
 gereng
 geret
-geri
 gerji
 gerobak
 gesek
@@ -1169,7 +1158,6 @@ gini
 ginjal
 gir
 giri
-giru
 gita
 githok
 giwangan
@@ -1203,7 +1191,6 @@ gorong
 gosip
 gosok
 gosong
-goyang
 gragal
 graji
 griya
@@ -1502,7 +1489,6 @@ irisen
 irit
 iroh
 iros
-iru
 irung
 irup
 irus
@@ -1524,6 +1510,7 @@ isis
 islam
 iso
 isol
+isti
 istimewa
 istri
 isu
@@ -1541,6 +1528,7 @@ iyo
 iyuh
 iz
 jab
+jaga
 jagung
 jahil
 jajal
@@ -1563,7 +1551,6 @@ janji
 jaran
 jaranan
 jare
-jari
 jasa
 jati
 jawa
@@ -1631,7 +1618,6 @@ kados
 kadung
 kae
 kafan
-kaget
 kahanan
 kaila
 kain
@@ -1713,7 +1699,6 @@ karo
 kartu
 karung
 kas
-kasang
 kasar
 kasep
 kasi
@@ -1761,6 +1746,7 @@ kelor
 keluarga
 keluh
 kem
+kemah
 kembang
 kemben
 kemene
@@ -1905,7 +1891,6 @@ kota
 kotak
 kotang
 kowe
-kowen
 koyo
 krama
 kripik
@@ -1955,7 +1940,6 @@ kuping
 kur
 kura
 kurang
-kuri
 kurna
 kursi
 kuru
@@ -2063,7 +2047,6 @@ lepat
 leren
 leres
 leri
-les
 lesu
 lewat
 li
@@ -2170,6 +2153,7 @@ mabur
 maca
 macak
 macan
+macul
 mada
 madang
 madhang
@@ -2186,7 +2170,6 @@ makan
 makane
 make
 malah
-malang
 maleh
 malu
 mamas
@@ -2227,7 +2210,6 @@ mari
 mariki
 maring
 maruk
-marus
 mas
 masa
 masak
@@ -2243,7 +2225,6 @@ matur
 maturnuwun
 mau
 maya
-mayat
 mbak
 me
 mega
@@ -2272,7 +2253,6 @@ mie
 mijil
 mik
 mikul
-mil
 mila
 milah
 milih
@@ -2285,7 +2265,6 @@ minta
 miring
 miris
 mis
-misake
 misuh
 mlaku
 mlebu
@@ -2295,6 +2274,7 @@ modus
 moh
 mojo
 mok
+mokong
 mol
 moleh
 mondok
@@ -2449,6 +2429,7 @@ nepsu
 neptu
 ner
 nerak
+neraka
 nerjang
 nesu
 neteh
@@ -2572,13 +2553,11 @@ ngentut
 ngepet
 ngerek
 ngeri
-ngersa
 ngerti
 ngertos
 ngeseng
 ngesot
 ngetan
-ngeti
 ngetok
 ngewe
 ngg
@@ -2602,6 +2581,7 @@ ngilang
 ngiler
 ngilo
 ngimpi
+nginjak
 ngintip
 ngira
 ngirim
@@ -2937,7 +2917,6 @@ pasir
 patek
 pati
 patis
-pawang
 pawon
 payah
 payung
@@ -2997,7 +2976,6 @@ pitakon
 pitek
 pitik
 pitu
-pitulung
 pitutur
 piwulang
 piye
@@ -3141,7 +3119,6 @@ rejo
 rek
 rekasa
 rem
-remah
 remang
 remas
 rembes
@@ -3151,6 +3128,7 @@ remeh
 remen
 remi
 rempah
+remu
 remuk
 ren
 renang
@@ -3202,7 +3180,6 @@ riyaya
 riyin
 ro
 rob
-roban
 roda
 rogoh
 rok
@@ -3339,7 +3316,6 @@ sek
 sekawan
 seket
 seko
-sekul
 sela
 selak
 selametan
@@ -3377,7 +3353,6 @@ sikil
 siku
 sikut
 sila
-silam
 silet
 silih
 silit
@@ -3404,10 +3379,8 @@ sirih
 sirna
 siro
 sirsak
-sis
 sisa
 sisi
-sisik
 sisir
 siter
 siti
@@ -3420,7 +3393,6 @@ soklat
 sola
 solah
 solat
-soli
 solid
 sombong
 some
@@ -3428,7 +3400,6 @@ sonten
 sop
 sopa
 sopan
-sopir
 sopo
 sor
 sorak
@@ -3549,7 +3520,6 @@ tape
 tapi
 tapir
 tar
-tara
 tari
 tarik
 taru
@@ -3616,7 +3586,6 @@ timbang
 timun
 timur
 tin
-tina
 tindak
 tindhak
 tinggal
@@ -3624,7 +3593,6 @@ tingkah
 tip
 tir
 tiri
-tisi
 tita
 titen
 titi
@@ -3714,7 +3682,6 @@ udud
 uduk
 udut
 udutan
-ug
 uga
 ugal
 ugo
@@ -3807,7 +3774,6 @@ ungu
 unjuk
 unta
 untal
-untik
 untu
 untuk
 untung
@@ -3841,6 +3807,7 @@ urung
 urup
 urus
 urusan
+urutan
 us
 usa
 usah
@@ -3909,7 +3876,6 @@ warga
 waris
 warisan
 warok
-waru
 warung
 was
 wasi
@@ -3958,7 +3924,6 @@ wingi
 wingking
 wira
 wirang
-wiri
 wis
 wit
 wiwit
