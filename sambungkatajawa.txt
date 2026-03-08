@@ -2681,6 +2681,7 @@ lancip
 landa
 landak
 landep
+landung
 langgeng
 langit
 langkung
@@ -2934,6 +2935,7 @@ malam
 malang
 maleh
 males
+malih
 maling
 malu
 mam
@@ -4029,6 +4031,7 @@ pele
 pelem
 peli
 pelit
+pelita
 pena
 penak
 pendek
