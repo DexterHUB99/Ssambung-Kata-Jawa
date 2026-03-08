@@ -42,12 +42,9 @@ akut
 ala
 alah
 alam
-alang
-alay
 alem
 aleman
 ali
-alim
 alip
 aliran
 alis
@@ -100,7 +97,6 @@ apa
 apel
 apes
 apik
-apo
 apung
 arah
 arak
@@ -131,6 +127,7 @@ atis
 atom
 atos
 atun
+aturan
 aul
 awak
 awal
@@ -149,13 +146,11 @@ banter
 basi
 bebas
 bebek
-becik
 bekas
 bibir
 bidan
 bidun
 bika
-bin
 biru
 bisa
 biso
@@ -170,7 +165,6 @@ bude
 budhal
 buli
 bungah
-cabi
 cacah
 camat
 candra
@@ -234,7 +228,7 @@ eleng
 eling
 elo
 elok
-ema
+emak
 eman
 ember
 emboh
@@ -253,6 +247,7 @@ epa
 epep
 eper
 epet
+epi
 epo
 erah
 eram
@@ -263,7 +258,6 @@ ero
 eroh
 eros
 eruh
-es
 esek
 esih
 etan
@@ -303,7 +297,6 @@ gawok
 gayung
 ge
 gedang
-gedhe
 gelo
 gemar
 gemati
@@ -457,18 +450,20 @@ irisen
 irung
 irus
 isa
+isek
 isen
 isi
 isih
 isin
 isine
 iso
+istri
 isu
+item
 itil
 itung
 iwak
 iwal
-iya
 iyo
 iz
 jab
@@ -504,9 +499,7 @@ kampung
 kamu
 kancil
 kandut
-kangen
 kanjeng
-kanthi
 kanti
 kapak
 kapok
@@ -553,7 +546,6 @@ koe
 koen
 kolak
 kolam
-kon
 konco
 kono
 kontol
@@ -562,7 +554,6 @@ koper
 kopi
 koplak
 koran
-kotak
 kowe
 koyo
 krama
@@ -639,7 +630,6 @@ liwat
 loh
 lombok
 lonte
-lontong
 lopa
 lopis
 lor
@@ -659,7 +649,6 @@ luwih
 luwung
 mada
 madang
-madhang
 madu
 madura
 maem
@@ -668,10 +657,8 @@ makan
 maleh
 man
 manasi
-mandi
 mangan
 mangku
-mantuk
 manuk
 marak
 marem
@@ -706,7 +693,6 @@ murid
 na
 nadi
 naga
-nagih
 nai
 nala
 nali
@@ -750,7 +736,6 @@ ngalor
 ngambi
 ngamok
 nganggo
-nganggur
 nganjuk
 ngantuk
 ngaos
@@ -758,7 +743,6 @@ ngapa
 ngapak
 ngapusi
 ngarit
-ngasahi
 ngasuh
 ngatur
 ngawi
@@ -842,7 +826,6 @@ olah
 ole
 oleh
 olo
-oma
 omah
 omong
 omongan
@@ -864,7 +847,6 @@ ori
 orok
 oseng
 otot
-pacik
 padas
 paku
 pala
@@ -875,12 +857,9 @@ pani
 panis
 papan
 pari
-parit
 pasir
 payah
-pe
 peka
-pi
 picek
 pil
 pin
@@ -889,7 +868,7 @@ pinten
 pintu
 pirang
 piro
-pisan
+pis
 pisang
 piwulang
 po
@@ -904,7 +883,6 @@ pundhut
 punika
 pusing
 putra
-ra
 rabi
 ragi
 rai
@@ -919,7 +897,6 @@ rame
 rampung
 raos
 rapi
-ras
 rasa
 rasah
 rasi
@@ -930,7 +907,6 @@ rawuh
 rega
 regane
 reget
-rek
 rekasa
 remeh
 remen
@@ -988,7 +964,6 @@ sampean
 sampeyan
 sampun
 sapi
-sapu
 sara
 sare
 sari
@@ -1008,11 +983,9 @@ sinden
 singa
 sinten
 sip
-sipit
 siram
 sisir
 slametan
-so
 sobat
 sopan
 sopo
@@ -1064,7 +1037,6 @@ tula
 tulis
 tulung
 tum
-tuman
 tumbas
 tumindak
 tumrap
@@ -1154,7 +1126,6 @@ utel
 utuh
 uwes
 uwis
-uwong
 uyuh
 wadon
 wae
@@ -1164,7 +1135,6 @@ wangsul
 warisan
 warung
 wayang
-we
 wedang
 wektu
 weling
@@ -1178,7 +1148,6 @@ wit
 wolu
 wong
 wulan
-ya
 yo
 yoga
 yom
