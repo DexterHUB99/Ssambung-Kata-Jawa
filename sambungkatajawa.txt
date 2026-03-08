@@ -211,7 +211,6 @@ anek
 aner
 anes
 angel
-angen
 anget
 anggar
 anggara
@@ -266,7 +265,6 @@ apes
 api
 apik
 apo
-apos
 apung
 apus
 arah
@@ -403,7 +401,6 @@ bajing
 bajingan
 baju
 bajul
-bakso
 bal
 balek
 bali
@@ -611,7 +608,6 @@ dedemit
 dek
 dekil
 delima
-delu
 dema
 demak
 demok
@@ -810,7 +806,6 @@ enen
 eneng
 enggal
 enggeh
-enggon
 engkang
 engko
 engkol
@@ -875,7 +870,6 @@ esem
 esih
 eso
 esok
-eson
 estu
 esuk
 eta
@@ -1488,9 +1482,7 @@ kakak
 kakang
 kaki
 kaku
-kala
 kalah
-kalap
 kalawan
 kalebu
 kaleh
@@ -1565,7 +1557,6 @@ kathok
 katok
 katon
 katrok
-kawah
 kawen
 kawin
 kawruh
@@ -1679,6 +1670,7 @@ kirim
 kis
 kisa
 kisi
+kit
 kita
 kitab
 klambi
@@ -1746,7 +1738,6 @@ kuli
 kulit
 kulon
 kum
-kuman
 kumbah
 kumbang
 kume
@@ -1848,6 +1839,7 @@ layu
 le
 legi
 leh
+lek
 lele
 lem
 lema
@@ -1934,7 +1926,6 @@ los
 lotek
 loyo
 lu
-luh
 luhur
 luk
 luka
@@ -2163,7 +2154,6 @@ nangis
 nangka
 nangkring
 nani
-nanti
 naon
 nap
 napa
@@ -2244,14 +2234,13 @@ ngak
 ngakak
 ngakeh
 ngaku
+ngal
 ngalah
-ngale
 ngaleh
 ngalem
 ngalih
 ngalor
 ngamal
-ngambar
 ngamben
 ngambi
 ngambil
@@ -2374,7 +2363,6 @@ ngluwihi
 ngobat
 ngobor
 ngobrol
-ngobroli
 ngocok
 ngoko
 ngolah
@@ -2521,6 +2509,7 @@ nyapa
 nyapu
 nyawiji
 nyedhak
+nyilih
 nyong
 nyusahake
 oalah
@@ -2747,7 +2736,6 @@ poni
 ponorogo
 por
 pora
-poran
 pos
 posi
 potong
@@ -2771,7 +2759,6 @@ purun
 pusing
 putih
 putra
-putri
 putu
 puyeng
 puyuh
@@ -2782,7 +2769,6 @@ racun
 rada
 raden
 radi
-raga
 ragangan
 ragat
 ragi
@@ -2854,7 +2840,6 @@ rawan
 rawon
 rawuh
 re
-rebana
 rebo
 redi
 rega
@@ -3007,7 +2992,6 @@ sampun
 sana
 sandhang
 sangga
-sangka
 sangu
 sanjang
 santun
@@ -3043,7 +3027,6 @@ sego
 sek
 sekawan
 seket
-seko
 sela
 selak
 selametan
@@ -3214,6 +3197,7 @@ tambah
 tambal
 tampah
 tampar
+tampi
 tamu
 tanah
 tandang
@@ -3255,7 +3239,6 @@ temon
 tempe
 tempel
 tempik
-temu
 ten
 tenan
 tenane
@@ -3295,7 +3278,6 @@ tin
 tindak
 tindhak
 tinggal
-tingkah
 tip
 tir
 tiri
@@ -3599,6 +3581,7 @@ wijaya
 wiku
 wil
 wilangan
+win
 windu
 wingi
 wira
@@ -3637,6 +3620,7 @@ yohan
 yoka
 yom
 yoman
+yon
 yoopo
 yora
 yos
