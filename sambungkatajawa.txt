@@ -237,6 +237,7 @@ angkot
 angkring
 angkringan
 angkuh
+angop
 angsa
 angsal
 angsul
@@ -930,6 +931,7 @@ epar
 epas
 epe
 epek
+epekne
 epel
 epen
 epep
@@ -1736,6 +1738,7 @@ kebo
 kebon
 kecap
 kecut
+kediri
 kekal
 kel
 kela
@@ -2074,6 +2077,7 @@ lilin
 lilo
 lim
 lima
+limaa
 limbah
 limbuk
 limo
@@ -2361,6 +2365,7 @@ nambai
 nami
 nampa
 nampani
+nampar
 namung
 nan
 nana
@@ -2673,6 +2678,7 @@ nguping
 ngurip
 nguripi
 ngurus
+ngusap
 nguser
 ngusung
 ngutang
@@ -2970,6 +2976,7 @@ pindah
 pindang
 pindho
 ping
+pinggih
 pinten
 pinter
 pintu
@@ -3001,6 +3008,7 @@ pojokan
 pokok
 pol
 pola
+polan
 poli
 polisi
 pom
@@ -3861,6 +3869,7 @@ utik
 utowo
 utuh
 utus
+utusan
 ututer
 uwes
 uwis
