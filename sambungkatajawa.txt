@@ -825,6 +825,7 @@ colek
 coli
 colo
 colong
+combro
 condong
 congor
 conto
@@ -2248,6 +2249,7 @@ kasar
 kasep
 kasi
 kasih
+kasil
 kasir
 kasor
 kasoran
@@ -4223,6 +4225,7 @@ rencang
 rendang
 rendem
 rendeng
+rendi
 rene
 reng
 rengginang
