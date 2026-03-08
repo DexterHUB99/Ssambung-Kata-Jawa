@@ -205,6 +205,7 @@ arus
 as
 asa
 asah
+asal
 asam
 asap
 asar
@@ -633,6 +634,7 @@ gedang
 gede
 gedhe
 geh
+gelem
 gelo
 gelut
 gemar
@@ -995,6 +997,7 @@ kaila
 kaisa
 kaji
 kajian
+kakak
 kakang
 kaki
 kaku
@@ -1291,6 +1294,7 @@ luhur
 luk
 luka
 luluh
+luma
 lumajang
 lumrah
 lumuh
@@ -1645,6 +1649,7 @@ nusa
 nuthuk
 nyawiji
 nyedhak
+nyong
 nyusahake
 oalah
 ob
@@ -1768,6 +1773,7 @@ pindho
 ping
 pinten
 pintu
+pipis
 pir
 pirang
 piro
@@ -2184,6 +2190,7 @@ udu
 uduk
 udut
 ugo
+ugung
 uja
 ujar
 ujuk
