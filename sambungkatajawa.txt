@@ -1079,6 +1079,7 @@ epep
 eper
 epet
 epi
+epih
 epik
 epil
 epis
@@ -3867,6 +3868,7 @@ semar
 semok
 sempak
 sempit
+semu
 semut
 senajan
 senang
