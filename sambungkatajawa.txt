@@ -393,6 +393,7 @@ asik
 asil
 asim
 asin
+asinan
 asing
 asli
 asma
@@ -516,7 +517,6 @@ ban
 bandeng
 bandrek
 bani
-banjir
 banter
 banyu
 bapak
@@ -557,7 +557,6 @@ ben
 benang
 bende
 bene
-bener
 bengi
 beni
 benjol
@@ -574,6 +573,7 @@ beto
 biang
 biasa
 biaya
+bibi
 bibik
 bibir
 bibit
@@ -611,7 +611,6 @@ bokek
 bokong
 bola
 bolo
-bolong
 bolot
 bom
 bon
@@ -676,6 +675,7 @@ cagak
 cah
 cakot
 cal
+cama
 camat
 campur
 candi
@@ -848,7 +848,6 @@ dilah
 dilem
 dilit
 diluk
-dilut
 diman
 dimas
 dina
@@ -1309,7 +1308,6 @@ gedang
 gede
 gedhang
 gedhe
-gedor
 gega
 geger
 geguritan
@@ -1900,7 +1898,6 @@ jo
 joglo
 jok
 joki
-joko
 jol
 jola
 joli
@@ -2396,6 +2393,7 @@ latah
 latar
 lathi
 latih
+latihan
 laut
 lawa
 lawan
@@ -2418,6 +2416,7 @@ lele
 lem
 lema
 lemah
+lemak
 leman
 lemari
 lembah
@@ -2515,7 +2514,6 @@ lop
 lopa
 lopis
 lor
-lore
 lori
 loro
 lorong
@@ -2652,7 +2650,6 @@ mata
 matamu
 matane
 matek
-mateng
 mati
 matur
 maturnuwun
@@ -2743,7 +2740,6 @@ mubeng
 mudeng
 mudhun
 mugi
-muh
 mujair
 muji
 muk
@@ -3115,7 +3111,6 @@ ngiwa
 ngiwasi
 nglon
 ngluwehi
-ngluwih
 ngluwihi
 ngobat
 ngobong
@@ -3235,7 +3230,6 @@ nis
 nisa
 nisan
 nit
-niten
 niti
 nitih
 nitip
@@ -3498,7 +3492,6 @@ pasir
 patek
 pati
 patis
-patub
 pawan
 pawang
 pawon
@@ -4182,7 +4175,6 @@ syukur
 ta
 tabah
 tabib
-tabuh
 tabung
 taek
 tah
@@ -4412,7 +4404,6 @@ udo
 udu
 udud
 uduk
-udun
 udut
 udutan
 ug
@@ -4692,7 +4683,6 @@ wingi
 wingking
 wira
 wirang
-wirangan
 wiri
 wis
 wisuh
@@ -4727,7 +4717,6 @@ yasin
 yati
 yekti
 yen
-yesa
 yi
 yo
 yoga
@@ -4740,7 +4729,6 @@ yoka
 yom
 yoman
 yon
-yonan
 yoopo
 yora
 yos
