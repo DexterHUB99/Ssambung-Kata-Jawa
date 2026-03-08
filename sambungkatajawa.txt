@@ -457,6 +457,7 @@ dumane
 dumeh
 dumugi
 dupa
+dur
 dura
 duren
 duri
@@ -730,6 +731,7 @@ gundik
 gundul
 guneman
 guneme
+guntur
 gunung
 gupak
 gur
@@ -1403,6 +1405,7 @@ meneng
 meri
 mesake
 met
+mikul
 min
 minal
 miring
@@ -1890,6 +1893,7 @@ rap
 rapat
 rape
 rapi
+rapih
 ras
 rasa
 rasah
