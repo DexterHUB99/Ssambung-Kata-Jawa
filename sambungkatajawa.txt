@@ -362,6 +362,7 @@ anjay
 anjing
 anjir
 anjlok
+anjlokake
 anjog
 anjrit
 anjuk
@@ -919,6 +920,7 @@ cocok
 cocot
 cocote
 codet
+codot
 cok
 cokelat
 coki
@@ -2035,6 +2037,7 @@ iket
 ikhlas
 ikhtiar
 iki
+ikian
 ikih
 ikil
 iklas
@@ -4983,6 +4986,7 @@ selamet
 selametan
 selas
 selatan
+selawe
 sele
 selep
 selet
