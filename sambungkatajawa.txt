@@ -737,6 +737,7 @@ cor
 corak
 coro
 corot
+cowo
 cu
 cuci
 cucu
@@ -2703,6 +2704,7 @@ mugi
 mujair
 muji
 muk
+muka
 mul
 mula
 mulane
@@ -3349,6 +3351,7 @@ ori
 orie
 orok
 os
+osah
 osek
 oseng
 osik
