@@ -404,6 +404,7 @@ astaga
 asu
 asuh
 asul
+asup
 asupan
 asus
 asuti
@@ -480,6 +481,7 @@ ayun
 ayunan
 az
 ba
+baba
 babai
 babi
 babu
@@ -3939,6 +3941,7 @@ silit
 sim
 siman
 simbah
+simpang
 simpenan
 sin
 sinau
@@ -4131,6 +4134,7 @@ tasi
 tat
 tata
 tatah
+tatas
 tati
 tatu
 taun
