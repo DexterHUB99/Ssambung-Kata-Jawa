@@ -342,6 +342,7 @@ beda
 bego
 bejan
 bekas
+bekel
 belo
 belu
 ben
@@ -375,6 +376,7 @@ bokek
 bola
 bolo
 bolot
+bom
 borok
 bosen
 boso
@@ -1823,6 +1825,7 @@ ngemut
 ngendi
 ngendika
 ngene
+ngenes
 ngeng
 ngenjang
 ngenteni
@@ -2234,6 +2237,7 @@ rawa
 rawon
 rawuh
 re
+rebo
 redi
 rega
 regane
@@ -2548,6 +2552,7 @@ tiba
 tibo
 tikar
 tikung
+tikungan
 tikus
 til
 tilem
