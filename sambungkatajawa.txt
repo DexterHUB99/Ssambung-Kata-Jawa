@@ -2996,6 +2996,7 @@ mengko
 meni
 menika
 mentah
+mentolo
 merah
 merem
 meri
@@ -4231,6 +4232,7 @@ rema
 remah
 remang
 remas
+rembang
 rembes
 rembug
 rembuk
