@@ -37,6 +37,7 @@ ambil
 ambyar
 amerga
 ami
+amit
 amparan
 an
 ana
@@ -71,6 +72,7 @@ asta
 asu
 ati
 atis
+atom
 atos
 awas
 ayo
@@ -120,6 +122,8 @@ eni
 enteni
 entong
 entuk
+eram
+erat
 eris
 ero
 eroh
@@ -352,6 +356,7 @@ murid
 nadi
 naga
 nala
+nalika
 nambah
 nanang
 nandur
@@ -460,6 +465,7 @@ rasi
 ratu
 rawuh
 repot
+resah
 restu
 ridho
 rikma
@@ -473,6 +479,7 @@ romo
 roti
 run
 rupa
+rusak
 ruti
 sa
 sah
