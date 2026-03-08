@@ -3411,6 +3411,7 @@ ngelem
 ngeles
 ngelih
 ngeling
+ngelon
 ngeloni
 ngelu
 ngeluh
@@ -3603,6 +3604,7 @@ ngusung
 ngusungi
 ngutang
 ngutik
+ngutil
 nguyu
 nguyuh
 ngwah
