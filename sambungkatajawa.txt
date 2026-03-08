@@ -396,6 +396,7 @@ aros
 arsa
 arta
 arti
+artis
 arto
 aru
 arum
