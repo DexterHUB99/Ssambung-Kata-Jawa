@@ -193,6 +193,7 @@ alir
 aliran
 alis
 alit
+alm
 alo
 alon
 alot
@@ -264,7 +265,6 @@ amung
 amut
 an
 ana
-anae
 anah
 anai
 anak
@@ -361,9 +361,9 @@ anjir
 anjlok
 anjog
 anjrit
+anjuk
 anjur
 anjuran
-ano
 anom
 anoman
 anta
@@ -383,7 +383,6 @@ antuk
 anu
 anuk
 anum
-anun
 anus
 anut
 anyam
@@ -553,6 +552,7 @@ auto
 awak
 awakdewe
 awake
+awakku
 awal
 awan
 awas
@@ -654,6 +654,7 @@ becik
 beda
 bedes
 bedha
+bedo
 bedok
 bedong
 bedug
@@ -867,6 +868,7 @@ cekel
 celek
 celeng
 celuk
+cemani
 cempe
 cemplung
 cen
@@ -1052,7 +1054,6 @@ dimana
 dimas
 dimul
 dina
-dinan
 dinas
 dinggo
 dingklik
@@ -1419,8 +1420,8 @@ eseh
 esek
 esem
 eses
-esi
 esih
+esin
 eso
 esok
 eson
@@ -1591,7 +1592,6 @@ gayeng
 gayuh
 gayung
 ge
-geber
 geblek
 gedag
 gedang
@@ -1655,7 +1655,6 @@ genter
 genti
 genting
 gentong
-gentos
 genuk
 geol
 geprek
@@ -2132,12 +2131,14 @@ irah
 irahan
 irai
 irak
+iram
 irama
 iras
 ireng
 iri
 irian
 irigasi
+irin
 iring
 iringan
 iris
@@ -2312,6 +2313,7 @@ jomblo
 jon
 jona
 jongkok
+joni
 jor
 jora
 joran
@@ -2344,6 +2346,7 @@ kadang
 kademan
 kados
 kadung
+kadut
 kae
 kafan
 kaget
@@ -2351,7 +2354,6 @@ kahanan
 kaila
 kain
 kaisa
-kaisar
 kajeng
 kaji
 kajian
@@ -2453,6 +2455,7 @@ kasa
 kasang
 kasar
 kasep
+kaset
 kasi
 kasih
 kasil
@@ -2612,7 +2615,6 @@ ketemu
 kethek
 ketiban
 ketir
-ketis
 ketok
 ketup
 ketupat
@@ -2867,7 +2869,6 @@ lancip
 landa
 landak
 landep
-landi
 landung
 langgeng
 langit
@@ -3215,6 +3216,7 @@ matamu
 matane
 matek
 mateng
+mateni
 mati
 matur
 maturnuwun
@@ -3290,7 +3292,6 @@ miris
 mirsani
 mis
 misake
-miskin
 misuh
 mitoni
 mlaku
@@ -3759,6 +3760,7 @@ ngibadah
 ngibul
 ngicipi
 ngidam
+ngidek
 ngider
 ngidu
 ngidul
@@ -3777,7 +3779,6 @@ ngilu
 ngiman
 ngimi
 ngimpi
-ngin
 nging
 nginjak
 ngintip
@@ -3988,7 +3989,6 @@ non
 nona
 nong
 nongki
-nongkrong
 noni
 nonjok
 nonton
@@ -4170,7 +4170,6 @@ opak
 opel
 open
 opera
-opes
 opet
 opo
 opon
@@ -4198,6 +4197,7 @@ orotan
 os
 osah
 osaka
+osal
 osan
 osek
 oseng
@@ -4228,6 +4228,7 @@ pager
 paguyupan
 pahing
 pahit
+paijo
 paing
 pait
 pajak
@@ -4281,6 +4282,7 @@ panjenengan
 panji
 pantai
 pantar
+pantun
 panut
 panutan
 papa
@@ -4568,6 +4570,7 @@ rani
 ranjang
 rantang
 rantas
+ranti
 raos
 rap
 rapapa
@@ -4706,6 +4709,7 @@ rob
 robah
 roban
 roda
+rodo
 rogoh
 rok
 roke
@@ -4714,12 +4718,12 @@ rokok
 rolas
 rom
 roma
+romah
 rombak
 rombeng
 rombong
 rombongan
 rome
-romi
 romo
 rompi
 ron
@@ -5280,7 +5284,6 @@ tempura
 temu
 ten
 tenan
-tenanan
 tenane
 tenang
 tengah
@@ -5398,6 +5401,7 @@ tuku
 tukul
 tul
 tula
+tulak
 tulang
 tulen
 tuli
