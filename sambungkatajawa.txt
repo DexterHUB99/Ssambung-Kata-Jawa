@@ -566,6 +566,7 @@ ayunan
 ayune
 az
 ba
+bab
 baba
 babai
 babi
@@ -1559,6 +1560,7 @@ geh
 gek
 gel
 gela
+gelak
 gelang
 gelar
 gelas
@@ -2073,6 +2075,7 @@ irama
 iras
 ireng
 iri
+irian
 irigasi
 iring
 iringan
@@ -3021,6 +3024,7 @@ luwung
 ma
 maaf
 mabar
+mabuk
 mabur
 maca
 macak
@@ -4370,6 +4374,7 @@ ragam
 ragangan
 ragat
 ragi
+ragil
 rah
 rahayu
 rahmat
@@ -4607,6 +4612,7 @@ rumput
 run
 rung
 rungkad
+rungkut
 runtuh
 rup
 rupa
