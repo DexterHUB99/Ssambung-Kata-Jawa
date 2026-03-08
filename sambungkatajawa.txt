@@ -12,6 +12,7 @@ ahi
 ahir
 ahli
 air
+ajal
 ajeng
 akeh
 akil
@@ -51,6 +52,7 @@ dalan
 dasi
 dumane
 duri
+edan
 ehi
 eka
 elang
@@ -66,6 +68,7 @@ eya
 gajah
 gak
 galak
+garem
 gareng
 gawe
 gawok
@@ -149,6 +152,7 @@ kue
 kula
 kum
 kundur
+kur
 kuru
 kut
 kutang
@@ -158,7 +162,9 @@ lambemu
 lambung
 lampu
 laos
+lari
 leh
+lele
 lima
 lintah
 loh
@@ -171,13 +177,16 @@ maju
 maleh
 man
 mangan
+marem
 min
 moto
 mulane
 muleh
+mundak
 nandur
 nanggung
 nangka
+nasi
 nawa
 nekat
 ngadi
@@ -201,6 +210,7 @@ nok
 nol
 nresnani
 ogah
+ojo
 oke
 ol
 ole
@@ -272,6 +282,7 @@ untu
 upah
 ura
 urang
+uri
 urus
 usah
 usil
