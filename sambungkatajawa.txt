@@ -1960,6 +1960,7 @@ igak
 igus
 ih
 ihsan
+ija
 ijab
 ijek
 ijen
@@ -5696,6 +5697,7 @@ wonosobo
 wonten
 wudel
 wuh
+wujud
 wulan
 wuli
 wulu
