@@ -139,6 +139,7 @@ ancik
 ancok
 ancur
 andap
+andaran
 andhap
 andi
 andong
@@ -157,6 +158,7 @@ angsa
 angsal
 ani
 anik
+aning
 anis
 anjay
 anjing
@@ -298,6 +300,7 @@ beda
 bego
 bejan
 bekas
+belu
 benang
 bengi
 berak
@@ -322,6 +325,7 @@ biyen
 bo
 bodo
 bojo
+bokek
 bola
 bolo
 borok
@@ -1464,6 +1468,7 @@ nanem
 nang
 nangdi
 nanggung
+nangi
 nanging
 nangis
 nangka
@@ -1595,6 +1600,7 @@ ngilang
 ngiler
 ngimpi
 ngirim
+ngiseng
 ngisi
 ngising
 ngisor
@@ -2120,6 +2126,7 @@ sura
 surat
 suri
 suroboyo
+surup
 surya
 susah
 susi
