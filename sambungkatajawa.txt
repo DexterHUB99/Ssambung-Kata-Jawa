@@ -1459,6 +1459,7 @@ keras
 kerasa
 kere
 keren
+kerep
 kereta
 keri
 keris
@@ -2371,6 +2372,7 @@ panis
 panjaluk
 panjang
 panjenengan
+panut
 papa
 papan
 par
@@ -2946,6 +2948,7 @@ titi
 titik
 tiwas
 tiyang
+toke
 tokek
 toko
 tolak
