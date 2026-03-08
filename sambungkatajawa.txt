@@ -276,6 +276,7 @@ ancang
 ancen
 ancik
 ancok
+ancuk
 ancur
 andap
 andaran
@@ -3957,6 +3958,7 @@ nyilih
 nyiram
 nyong
 nyusahake
+nyusu
 nyusul
 nyuwun
 oalah
@@ -4534,6 +4536,7 @@ rengginang
 reog
 rep
 repi
+repo
 repot
 reresik
 res
