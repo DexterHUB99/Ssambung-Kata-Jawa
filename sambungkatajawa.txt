@@ -3660,6 +3660,7 @@ nyapu
 nyasar
 nyawa
 nyawiji
+nyawit
 nyedhak
 nyilih
 nyiram
