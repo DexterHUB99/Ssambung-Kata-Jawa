@@ -71,6 +71,7 @@ bisu
 bisulan
 bojo
 bude
+candra
 celeng
 cik
 codet
@@ -175,6 +176,7 @@ ilang
 iler
 ilih
 ilir
+ilo
 ilu
 imas
 iming
@@ -211,9 +213,11 @@ kadal
 kali
 kampung
 kamu
+kancil
 kanjeng
 kapuk
 katok
+kayu
 ke
 kene
 kenek
@@ -250,6 +254,7 @@ lampu
 lanjut
 lantang
 laos
+lapo
 lari
 laron
 layu
@@ -317,6 +322,7 @@ ngisu
 ngoli
 ngombe
 ngono
+ngopi
 ngopo
 ngrit
 ngukur
@@ -373,6 +379,7 @@ raos
 rasa
 rasi
 ratu
+rawuh
 repot
 ridho
 rikma
@@ -410,6 +417,7 @@ sugih
 suka
 susu
 sut
+tabah
 tai
 tali
 tam
@@ -428,6 +436,7 @@ tuak
 tula
 tumbas
 tumut
+tunggal
 turu
 tutuk
 udan
@@ -471,6 +480,7 @@ utel
 uyuh
 warisan
 werno
+weton
 wit
 wolu
 wong
