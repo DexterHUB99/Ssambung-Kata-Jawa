@@ -231,6 +231,7 @@ anggar
 anggara
 angger
 anggur
+angguran
 angin
 angka
 angkara
@@ -1430,6 +1431,7 @@ iket
 iki
 ikih
 ikil
+iklas
 iklim
 ikon
 ikrar
@@ -1624,6 +1626,7 @@ joki
 jol
 jola
 joli
+jombang
 jomblo
 jon
 jona
@@ -2064,6 +2067,7 @@ lawang
 lawas
 lawuh
 layang
+layangan
 layar
 layu
 le
@@ -2945,6 +2949,7 @@ pamali
 pamitan
 pamrih
 pan
+panai
 panas
 pancen
 panci
@@ -4053,6 +4058,7 @@ yogya
 yoh
 yohan
 yoiku
+yok
 yoka
 yom
 yoman
