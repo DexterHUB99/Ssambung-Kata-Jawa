@@ -81,6 +81,7 @@ gi
 gila
 gilo
 goblok
+golek
 golongan
 gong
 gula
@@ -131,8 +132,10 @@ ingsun
 ini
 ipa
 irah
+irahan
 ireng
 irus
+isi
 itil
 iwak
 jancok
@@ -144,6 +147,7 @@ jimat
 kali
 kampung
 katok
+ke
 kene
 kesah
 kidang
@@ -164,11 +168,13 @@ kuru
 kut
 kutang
 lagu
+lali
 lam
 lambe
 lambemu
 lambung
 lampu
+lantang
 laos
 lari
 leh
@@ -176,6 +182,7 @@ lele
 lima
 lintah
 loh
+lungguh
 mada
 madang
 madu
@@ -231,6 +238,7 @@ otot
 padas
 palang
 paling
+payah
 pundhut
 pusing
 putra
