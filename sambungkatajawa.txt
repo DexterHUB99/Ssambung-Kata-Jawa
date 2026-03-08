@@ -516,6 +516,7 @@ ayak
 ayam
 ayan
 ayang
+ayani
 aye
 ayem
 ayep
@@ -3938,6 +3939,7 @@ peri
 perih
 peso
 peta
+petak
 pethuk
 peti
 petruk
@@ -4838,6 +4840,7 @@ titip
 tiwas
 tiyang
 to
+tobat
 toh
 tok
 toke
