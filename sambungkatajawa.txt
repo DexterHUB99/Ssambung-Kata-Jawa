@@ -267,7 +267,6 @@ ancang
 ancen
 ancik
 ancok
-ancuk
 ancur
 andap
 andaran
@@ -289,7 +288,6 @@ aneh
 anek
 aner
 anes
-angan
 angar
 ange
 angel
@@ -365,7 +363,6 @@ anum
 anus
 anut
 anyam
-anyaman
 anyar
 anyep
 anyer
@@ -376,7 +373,6 @@ apal
 apalan
 apar
 ape
-apeg
 apek
 apel
 apem
@@ -536,12 +532,12 @@ awis
 awit
 awong
 awor
-awu
 awul
 awur
 aya
 ayah
 ayak
+ayalan
 ayam
 ayan
 ayang
@@ -1107,6 +1103,7 @@ ebeg
 ebi
 ebol
 eco
+ed
 eda
 edan
 edi
@@ -1164,6 +1161,7 @@ ekis
 eklas
 eklek
 eko
+ekol
 ekoli
 ekor
 ekot
@@ -1221,7 +1219,6 @@ ember
 emboh
 embong
 embuh
-embuhe
 embun
 embunan
 embung
@@ -1393,7 +1390,6 @@ etu
 etub
 etuh
 etuk
-etung
 etus
 ew
 ewang
@@ -2066,6 +2062,7 @@ irisan
 irisen
 irit
 iroh
+iron
 irong
 iros
 iru
@@ -2297,7 +2294,6 @@ kamar
 kambi
 kambil
 kambing
-kambuh
 kami
 kamis
 kampil
@@ -3031,7 +3027,6 @@ malam
 malang
 maleh
 males
-malesan
 malih
 maling
 malu
@@ -3065,7 +3060,6 @@ mangkel
 mangkih
 mangku
 mangsa
-mangun
 mangut
 mani
 manis
@@ -3291,7 +3285,6 @@ nalar
 nali
 nalik
 nalika
-nalikane
 naluri
 nama
 nambah
@@ -3413,7 +3406,6 @@ neptu
 ner
 nerak
 neraka
-nerang
 nerima
 nerjang
 nesa
@@ -3556,6 +3548,7 @@ ngecet
 ngeden
 ngegas
 ngeh
+ngejak
 ngejar
 ngek
 ngelak
@@ -3584,7 +3577,6 @@ ngendog
 ngene
 ngenes
 ngeng
-ngengek
 ngenget
 ngenggo
 ngenjang
@@ -3611,7 +3603,6 @@ ngeyel
 ngg
 nggak
 nggali
-nggambar
 nggarap
 nggawa
 nggawe
@@ -3708,6 +3699,7 @@ ngos
 ngosek
 ngosok
 ngoti
+ngotot
 ngowah
 ngowe
 ngowoh
@@ -4085,7 +4077,6 @@ pake
 pakpuh
 paku
 pala
-palah
 palang
 palem
 paleng
@@ -4145,7 +4136,6 @@ paru
 pas
 pasa
 pasah
-pasak
 pasang
 pasar
 paser
@@ -4183,7 +4173,6 @@ pena
 penak
 pendek
 pendopo
-pengen
 peni
 pensil
 pentil
@@ -4256,6 +4245,7 @@ pisah
 pisan
 pisang
 pisuh
+pisut
 pit
 pitakon
 pitek
@@ -4423,7 +4413,6 @@ rase
 rasi
 rasis
 rasuk
-rasukan
 rat
 rata
 ratan
@@ -4463,7 +4452,6 @@ rembang
 rembes
 rembug
 rembuk
-rembukan
 rembulan
 remeh
 remek
@@ -4663,7 +4651,6 @@ sampir
 sampo
 sampun
 sampur
-sampurna
 san
 sana
 sandal
@@ -4919,6 +4906,7 @@ sulak
 sulam
 sule
 suli
+suling
 sultan
 sulung
 sum
@@ -5075,7 +5063,6 @@ teles
 telo
 telu
 teluk
-tem
 tema
 tembak
 tembang
@@ -5158,7 +5145,6 @@ titen
 titi
 titik
 titip
-titis
 tiwas
 tiyang
 to
@@ -5289,7 +5275,6 @@ uk
 uka
 ukaa
 ukai
-ukal
 ukar
 ukara
 ukaran
@@ -5425,7 +5410,6 @@ uripan
 uripku
 uris
 urit
-uritan
 uru
 urub
 uruk
