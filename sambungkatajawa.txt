@@ -190,6 +190,7 @@ bekas
 bibir
 bidan
 bidun
+bidur
 bika
 bin
 biru
@@ -293,6 +294,7 @@ eman
 emas
 ember
 emboh
+embuh
 emoh
 emok
 empal
@@ -337,6 +339,7 @@ etika
 ewoh
 eya
 gaber
+gah
 gairah
 gajah
 gak
@@ -465,6 +468,7 @@ he
 heh
 hei
 hem
+her
 hera
 heran
 heri
@@ -569,6 +573,7 @@ isi
 isih
 isin
 isine
+islam
 iso
 istri
 isu
@@ -885,6 +890,7 @@ nanang
 nandur
 nanem
 nang
+nangdi
 nanggung
 nanging
 nangis
@@ -973,6 +979,7 @@ ngombe
 ngomong
 ngompol
 ngono
+ngontol
 ngopi
 ngopii
 ngopo
@@ -1123,6 +1130,7 @@ ragi
 rahmat
 rai
 raimu
+raine
 rakus
 ram
 rama
@@ -1181,6 +1189,7 @@ roda
 roma
 rombong
 romo
+ronda
 rono
 rosa
 rosi
@@ -1190,6 +1199,7 @@ ru
 rubuh
 rugi
 rujak
+rukun
 rum
 rumah
 run
@@ -1295,6 +1305,7 @@ teko
 telo
 tembok
 tempe
+tenane
 teras
 teri
 ti
