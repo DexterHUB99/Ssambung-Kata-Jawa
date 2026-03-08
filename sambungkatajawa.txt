@@ -3252,6 +3252,7 @@ ngarek
 ngarep
 ngaret
 ngarit
+ngarsa
 ngas
 ngasah
 ngasahi
@@ -3851,6 +3852,7 @@ pijat
 pijet
 pijit
 pikang
+piki
 pikir
 pikuk
 pikul
