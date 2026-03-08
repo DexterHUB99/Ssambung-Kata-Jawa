@@ -9,6 +9,7 @@ abang
 abdi
 aber
 abi
+abis
 abot
 abrit
 abu
@@ -2037,6 +2038,7 @@ imbung
 iming
 imit
 imo
+impen
 impi
 impian
 impit
@@ -2331,6 +2333,7 @@ kale
 kalebu
 kaleh
 kalem
+kaleng
 kaler
 kali
 kalian
