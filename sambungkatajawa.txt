@@ -2695,6 +2695,7 @@ lantang
 lantas
 lanti
 lantip
+lantur
 laos
 lap
 lapak
@@ -2879,6 +2880,7 @@ luh
 luhur
 luk
 luka
+luku
 lulang
 luluh
 luma
