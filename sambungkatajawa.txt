@@ -525,6 +525,7 @@ cangkem
 cangkul
 caping
 cari
+caruk
 cawet
 cawik
 cebok
@@ -3007,6 +3008,7 @@ sayang
 sayor
 sayur
 sedina
+sedulur
 sega
 sego
 sek
@@ -3120,6 +3122,7 @@ suli
 suma
 sumbanga
 sumbangan
+sumeh
 sumenep
 sumi
 sumpah
@@ -3601,6 +3604,7 @@ yohan
 yoka
 yom
 yoman
+yoopo
 yora
 yos
 yosa
