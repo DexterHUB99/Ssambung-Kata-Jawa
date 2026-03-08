@@ -1171,6 +1171,7 @@ emang
 emas
 emba
 embah
+emban
 embat
 embe
 ember
@@ -1555,6 +1556,7 @@ gero
 gerobak
 gesek
 geseng
+gesit
 gething
 gethuk
 getok
@@ -2376,6 +2378,7 @@ kenen
 keni
 kening
 kenok
+kenopo
 kentang
 kenter
 kenthir
@@ -2785,6 +2788,7 @@ limpa
 limun
 lin
 lina
+lincah
 lindhu
 lindur
 linggih
@@ -2936,6 +2940,7 @@ mampus
 man
 mana
 manah
+manak
 manasi
 mandang
 mandeg
@@ -3135,6 +3140,7 @@ murup
 mus
 musa
 musi
+musim
 musoh
 musuh
 mut
@@ -3433,6 +3439,7 @@ ngelem
 ngeles
 ngelih
 ngeling
+ngelon
 ngeloni
 ngelu
 ngeluh
@@ -3575,6 +3582,7 @@ ngrumat
 ngucap
 ngucek
 ngudang
+ngudek
 ngudi
 ngudud
 ngudut
@@ -3625,6 +3633,7 @@ ngusung
 ngusungi
 ngutang
 ngutik
+ngutil
 nguyu
 nguyuh
 ngwah
@@ -4274,6 +4283,7 @@ rek
 rekasa
 rekoso
 reksa
+relax
 rem
 rema
 remah
@@ -4653,6 +4663,7 @@ sithik
 siti
 sitik
 siwak
+siwur
 slamet
 slametan
 so
