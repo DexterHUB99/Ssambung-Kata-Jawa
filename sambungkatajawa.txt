@@ -793,6 +793,7 @@ de
 dede
 dedek
 dedemit
+dedi
 dek
 dekil
 delima
@@ -988,6 +989,7 @@ elek
 eleng
 eler
 eli
+elik
 eling
 elmu
 elo
@@ -1799,6 +1801,7 @@ jaluk
 jam
 jamal
 jaman
+jambi
 jambu
 jambul
 jampi
@@ -4089,6 +4092,7 @@ tah
 tahu
 tahun
 tai
+taik
 tak
 taka
 taken
