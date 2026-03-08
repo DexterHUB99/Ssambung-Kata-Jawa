@@ -68,6 +68,7 @@ ahek
 ahem
 aheng
 aher
+ahh
 ahi
 ahih
 ahik
@@ -3793,6 +3794,7 @@ or
 ora
 orah
 orai
+oraiso
 orak
 oran
 orang
