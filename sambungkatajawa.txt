@@ -13,6 +13,7 @@ ahir
 ahli
 aho
 ahok
+ahu
 aing
 air
 ajal
@@ -183,6 +184,7 @@ hiri
 hm
 hooh
 hum
+human
 hurip
 hutan
 hutang
@@ -207,6 +209,7 @@ ilu
 imas
 imbuh
 iming
+imit
 imo
 indak
 indu
@@ -376,6 +379,7 @@ ngg
 nggeh
 nggolek
 ngilang
+ngirim
 ngising
 ngisu
 ngoli
@@ -449,6 +453,7 @@ rasi
 ratu
 rawuh
 repot
+restu
 ridho
 rikma
 riko
@@ -507,6 +512,7 @@ tindak
 tomat
 tuak
 tula
+tulung
 tumbas
 tumut
 tunggal
@@ -567,3 +573,4 @@ yoga
 yuda
 yuka
 yuni
+yuswa
