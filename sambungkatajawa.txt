@@ -63,10 +63,12 @@ apa
 apel
 apik
 apung
+arak
 arang
 are
 areng
 arep
+arto
 asa
 asi
 asih
@@ -85,6 +87,7 @@ awas
 ayam
 ayo
 ayu
+baca
 bajul
 balon
 banter
@@ -213,6 +216,7 @@ hir
 hiri
 hm
 hooh
+hu
 hum
 human
 hurip
@@ -234,6 +238,7 @@ iku
 ilang
 iler
 ilih
+ilik
 ilir
 ilo
 ilu
@@ -294,6 +299,7 @@ kampung
 kamu
 kancil
 kanjeng
+kapak
 kapuk
 kapur
 katok
@@ -318,6 +324,7 @@ koe
 koen
 kolak
 kono
+kontol
 kontrol
 koran
 koyo
@@ -336,6 +343,7 @@ kursi
 kuru
 kut
 kutang
+laba
 lagu
 laler
 lali
@@ -549,6 +557,7 @@ rupa
 rusak
 ruti
 sa
+sabar
 sah
 saku
 salah
