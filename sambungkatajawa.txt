@@ -87,6 +87,7 @@ ajur
 ak
 aka
 akad
+akah
 akak
 akal
 akan
@@ -277,6 +278,7 @@ apo
 apos
 apung
 apus
+arab
 arah
 arak
 aran
@@ -353,6 +355,7 @@ atem
 atep
 ater
 ati
+atin
 atir
 atis
 ato
@@ -456,6 +459,7 @@ belo
 belu
 ben
 benang
+bende
 bene
 bengi
 beni
@@ -467,6 +471,7 @@ besok
 besuk
 besuki
 beto
+biang
 biasa
 biaya
 bibik
@@ -788,6 +793,7 @@ eker
 eki
 ekis
 eko
+ekoli
 ekor
 ekot
 eku
@@ -949,6 +955,7 @@ fokus
 ga
 gabah
 gaber
+gabes
 gabuk
 gabung
 gabus
@@ -1743,6 +1750,7 @@ kim
 kima
 kiman
 kimpul
+kin
 kina
 kinanthi
 kinasih
@@ -1929,6 +1937,7 @@ laut
 lawa
 lawan
 lawang
+lawas
 lawuh
 layang
 layar
@@ -2083,6 +2092,7 @@ man
 mana
 manah
 manasi
+mandeg
 mandi
 mane
 maneh
@@ -2139,10 +2149,12 @@ meme
 memek
 mene
 meneng
+meni
 menika
 merah
 meri
 mesake
+mesem
 met
 meteng
 metu
@@ -2395,6 +2407,7 @@ ngarit
 ngas
 ngasah
 ngasahi
+ngasal
 ngasar
 ngasep
 ngasi
@@ -2403,6 +2416,7 @@ ngaso
 ngasta
 ngasu
 ngasuh
+ngatuk
 ngatur
 ngawa
 ngawe
@@ -3381,6 +3395,7 @@ tanpa
 tansah
 tape
 tapi
+tapir
 tar
 tari
 tarik
@@ -3482,6 +3497,7 @@ tresno
 tu
 tuak
 tubruk
+tugel
 tuh
 tuk
 tukang
@@ -3719,6 +3735,7 @@ wana
 wangsul
 wangsulan
 wani
+wareg
 warga
 warisan
 warok
@@ -3817,6 +3834,7 @@ yudha
 yuh
 yuk
 yuka
+yun
 yuna
 yuni
 yura
