@@ -68,6 +68,7 @@ anduk
 aneh
 angkuh
 angsa
+angsal
 ani
 anik
 anjay
@@ -160,6 +161,7 @@ dumane
 dura
 duri
 edan
+ehe
 ehek
 ehem
 ehi
@@ -265,6 +267,7 @@ hasan
 hasil
 hawa
 he
+heh
 heran
 heri
 hi
@@ -274,6 +277,7 @@ hir
 hiri
 hm
 hooh
+hora
 hormat
 hu
 hum
@@ -471,6 +475,7 @@ lopa
 lopis
 luluh
 lumrah
+lumuh
 lungguh
 luput
 lurah
@@ -484,6 +489,7 @@ madu
 madura
 maem
 maju
+makan
 maleh
 man
 manasi
@@ -791,6 +797,7 @@ udut
 ugo
 ujuk
 ujung
+uk
 uka
 ukar
 ukara
@@ -840,6 +847,7 @@ usap
 usil
 usus
 uta
+utama
 utang
 utar
 utawi
