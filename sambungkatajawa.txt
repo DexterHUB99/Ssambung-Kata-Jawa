@@ -65,6 +65,7 @@ ahe
 aheh
 ahek
 ahem
+aheng
 aher
 ahi
 ahih
@@ -3374,6 +3375,7 @@ ngertos
 nges
 ngeseng
 ngesot
+nget
 ngetan
 ngeti
 ngetok
@@ -5108,6 +5110,7 @@ uwes
 uwis
 uwit
 uwong
+uy
 uyah
 uyuh
 uz
