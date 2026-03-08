@@ -6,7 +6,6 @@ adah
 adat
 adek
 adem
-adhem
 adi
 adoh
 adu
@@ -14,8 +13,6 @@ aduh
 adus
 ag
 ageng
-agung
-agus
 aha
 ahad
 ahah
@@ -25,11 +22,11 @@ ahar
 ahas
 ahat
 ahay
+ahe
 ahem
 aher
 ahi
 ahik
-ahim
 ahir
 ahis
 ahli
@@ -77,7 +74,6 @@ alas
 alay
 alem
 aleman
-alhamdulillah
 ali
 alih
 alim
@@ -102,7 +98,6 @@ ambyar
 ameh
 amer
 amerga
-amet
 ami
 amin
 amir
@@ -113,7 +108,6 @@ amparan
 amplas
 ampuh
 ampun
-amrih
 amu
 amung
 an
@@ -207,7 +201,6 @@ asik
 asin
 asli
 asma
-asmara
 aso
 asop
 asor
@@ -253,7 +246,6 @@ ayep
 ayo
 ayok
 ayu
-ayuh
 az
 babi
 baca
@@ -262,7 +254,6 @@ bagus
 bah
 bajigur
 bajingan
-baju
 bajul
 bal
 bali
@@ -278,10 +269,10 @@ basuki
 bebas
 bebek
 becik
-beda
 bejan
 bekas
 bengi
+berak
 besuk
 biaya
 bibir
@@ -362,7 +353,6 @@ dan
 dana
 dandan
 dandang
-dang
 dapur
 dara
 darma
@@ -370,8 +360,6 @@ das
 dasi
 dawuh
 de
-dede
-dedemit
 demok
 dendeng
 dewi
@@ -398,7 +386,6 @@ dom
 dompet
 donga
 dorong
-dowo
 duda
 dudu
 duduh
@@ -406,7 +393,6 @@ duduk
 duhur
 duit
 dulan
-dulu
 dulur
 dum
 dumadi
@@ -419,14 +405,13 @@ duren
 duri
 durung
 duso
-duwek
+dusun
 duwur
 ealah
 edan
 egak
 eh
 eha
-ehak
 ehan
 ehe
 ehek
@@ -439,8 +424,6 @@ ehuk
 eja
 eka
 eke
-ekeh
-eki
 eko
 ekor
 elah
@@ -471,6 +454,7 @@ emping
 empun
 en
 enak
+enam
 encok
 endah
 endang
@@ -483,7 +467,6 @@ enggal
 enggeh
 engkang
 eni
-enok
 entek
 enteni
 entong
@@ -531,7 +514,6 @@ eyang
 ga
 gabah
 gaber
-gae
 gagah
 gage
 gah
@@ -552,12 +534,10 @@ gambar
 gambas
 gambir
 gambuh
-gambut
 gambyong
 gamelan
 gampang
 gancet
-gandrung
 gandul
 gangsal
 gantung
@@ -594,6 +574,7 @@ gembel
 gemblong
 gemblung
 gemuk
+gen
 gendeng
 gendruwo
 gene
@@ -615,7 +596,6 @@ gili
 giling
 gilo
 gina
-gir
 go
 goblok
 godong
@@ -676,9 +656,7 @@ hai
 hajar
 hajat
 haji
-hak
 hal
-hala
 halah
 halal
 halus
@@ -699,7 +677,6 @@ harjo
 harum
 has
 hasan
-hase
 hasil
 hasrat
 hati
@@ -717,7 +694,6 @@ hera
 heran
 heri
 hes
-hesen
 hi
 hias
 hijau
@@ -757,7 +733,6 @@ ibadah
 ibu
 ibuk
 ical
-id
 idep
 ider
 idu
@@ -765,7 +740,6 @@ iga
 igak
 ih
 ihsan
-ijek
 ijen
 iji
 ijik
@@ -789,7 +763,6 @@ ilik
 ilir
 ilmu
 ilo
-ilok
 ilu
 ilui
 im
@@ -837,7 +810,6 @@ iringan
 iris
 irisen
 irit
-iros
 irung
 irup
 irus
@@ -879,7 +851,6 @@ jambu
 jamu
 jan
 jancok
-jang
 jangkrik
 jaran
 jare
@@ -907,6 +878,7 @@ jitak
 jiwa
 joglo
 joli
+jomblo
 joran
 jore
 jorok
@@ -969,6 +941,7 @@ kasur
 katah
 kathok
 katok
+katrok
 kawin
 kawruh
 kawula
@@ -1035,7 +1008,6 @@ koen
 kok
 kokop
 kol
-kola
 kolak
 kolam
 kolong
@@ -1086,11 +1058,9 @@ kurang
 kursi
 kuru
 kurus
-kus
 kut
 kuta
 kutang
-kuti
 la
 laba
 lagi
@@ -1152,7 +1122,6 @@ lewat
 li
 libur
 licik
-lih
 lihat
 lika
 liku
@@ -1190,7 +1159,6 @@ lor
 loro
 los
 luhur
-luk
 luka
 luluh
 lumajang
@@ -1248,19 +1216,16 @@ mari
 maruk
 mas
 masak
-masih
 masjid
 matamu
 matane
 matek
 mati
-matur
 maturnuwun
 mau
 mega
 meh
 melas
-melu
 mem
 memek
 meneng
@@ -1291,6 +1256,7 @@ muntah
 murah
 murid
 musa
+musi
 musuh
 na
 nabi
@@ -1338,7 +1304,6 @@ nawa
 ndasmu
 nduk
 ne
-nedah
 nedha
 nedho
 neduh
@@ -1394,7 +1359,6 @@ ngapusi
 ngarep
 ngaret
 ngarit
-ngas
 ngasah
 ngasahi
 ngasi
@@ -1415,7 +1379,6 @@ ngendika
 ngene
 ngeng
 ngenjang
-ngenteni
 ngentut
 ngepet
 ngertos
@@ -1425,6 +1388,7 @@ ngetok
 ngewe
 ngg
 nggali
+nggawe
 nggeh
 nggih
 nggolek
@@ -1484,6 +1448,7 @@ niba
 nikah
 nikahan
 niki
+nikmat
 niku
 nikung
 nila
@@ -1638,7 +1603,6 @@ pindho
 ping
 pinten
 pintu
-pir
 pirang
 piro
 pis
@@ -1674,19 +1638,16 @@ punika
 punten
 puri
 pusing
-putih
 putra
 ra
 rabi
 rada
-ragat
 ragi
 rahmat
 rai
 raimu
 raine
 raja
-rajin
 rak
 rakus
 ram
@@ -1723,19 +1684,16 @@ raup
 raut
 rawa
 rawuh
-re
 rega
 regane
 reget
 rek
 rekasa
 remang
-rembes
 remeh
 remen
 rempah
 remuk
-rendeng
 rene
 rengginang
 repot
@@ -1821,7 +1779,6 @@ sare
 sari
 saru
 sarungan
-sasa
 sat
 sate
 satu
@@ -1849,13 +1806,11 @@ siman
 simbah
 sinau
 sinden
-sing
 singa
 singgah
 sinten
 sip
 sipit
-sirah
 siram
 sisi
 sisir
@@ -1879,7 +1834,6 @@ su
 suami
 suba
 subhanallah
-sudi
 sugeng
 sugih
 suk
@@ -1903,6 +1857,7 @@ sura
 suri
 surya
 susah
+susi
 susu
 susul
 sut
@@ -1935,7 +1890,6 @@ tansah
 tapi
 tar
 tari
-taru
 tata
 taun
 tegal
@@ -1963,10 +1917,7 @@ timah
 timbal
 timbang
 timun
-tin
 tindak
-tir
-titen
 titi
 titik
 tiwas
@@ -2032,7 +1983,6 @@ ukarane
 ukir
 ukon
 ukur
-ukura
 ukuran
 ukuren
 ul
@@ -2084,6 +2034,7 @@ unjuk
 unta
 untal
 untu
+untuk
 up
 upa
 upah
@@ -2102,7 +2053,6 @@ urih
 urik
 urip
 urung
-urup
 urus
 urusan
 usa
@@ -2184,6 +2134,7 @@ yen
 yo
 yoga
 yom
+yoman
 yora
 yos
 yowis
