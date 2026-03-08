@@ -136,6 +136,7 @@ am
 ama
 amal
 aman
+amanah
 amarga
 amba
 ambar
@@ -1392,6 +1393,7 @@ kali
 kalih
 kalis
 kaliyan
+kalo
 kalong
 kamar
 kambil
@@ -1724,6 +1726,7 @@ lena
 lenggah
 lepat
 leren
+leres
 leri
 lesu
 lewat
