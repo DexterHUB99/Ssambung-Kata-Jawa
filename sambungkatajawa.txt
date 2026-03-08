@@ -3349,6 +3349,7 @@ ngali
 ngalih
 ngalo
 ngalor
+ngalus
 ngam
 ngamal
 ngambang
