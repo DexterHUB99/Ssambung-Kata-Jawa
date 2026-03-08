@@ -649,6 +649,7 @@ bungah
 bungkus
 buntut
 buron
+buru
 busi
 busuk
 buta
@@ -2583,6 +2584,7 @@ mangkane
 mangkat
 mangke
 mangkel
+mangkih
 mangku
 mangut
 mani
