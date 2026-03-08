@@ -30,8 +30,8 @@ akut
 ala
 alah
 alem
-aleman
 ali
+alip
 aliran
 aman
 amarga
@@ -220,6 +220,7 @@ hir
 hiri
 hm
 hooh
+hormat
 hu
 hum
 human
@@ -417,6 +418,7 @@ moto
 mulane
 muleh
 mundak
+mung
 murah
 murid
 nadi
@@ -439,13 +441,13 @@ negara
 nekat
 neko
 nembung
-nerjang
 nesu
 ngadi
 ngaji
 ngaleh
 ngalor
 ngamok
+nganggo
 nganjuk
 ngantuk
 ngaos
@@ -544,6 +546,7 @@ rame
 rampung
 raos
 rasa
+rasah
 rasi
 ratu
 rawuh
@@ -625,6 +628,7 @@ tumut
 tunggal
 turu
 tutuk
+uang
 udan
 udang
 udu
@@ -677,11 +681,11 @@ utel
 utuh
 uyuh
 wadon
+wah
 wangsul
 warisan
 wayang
 wedang
-wektu
 werno
 weton
 wit
