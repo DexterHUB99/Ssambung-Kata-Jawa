@@ -147,6 +147,7 @@ andong
 anduk
 ane
 aneh
+anek
 anes
 angel
 anget
@@ -499,6 +500,7 @@ eka
 ekan
 eke
 ekeh
+eker
 eki
 ekis
 eko
@@ -780,6 +782,7 @@ hambar
 hamil
 han
 hana
+hanan
 hani
 hansip
 hantu
@@ -1278,6 +1281,7 @@ lar
 lari
 laron
 laru
+las
 lase
 latar
 lathi
@@ -1427,6 +1431,7 @@ meneng
 meri
 mesake
 met
+metu
 mikul
 milih
 min
@@ -1613,6 +1618,7 @@ ngguyu
 ngibul
 ngicipi
 ngidul
+ngih
 ngiki
 ngilang
 ngiler
@@ -2109,6 +2115,7 @@ soklat
 solah
 solid
 sombong
+some
 sonten
 sop
 sopan
@@ -2279,6 +2286,7 @@ udo
 udu
 uduk
 udut
+uga
 ugo
 ugung
 uja
