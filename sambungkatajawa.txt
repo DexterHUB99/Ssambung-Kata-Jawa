@@ -81,6 +81,7 @@ alas
 alay
 alem
 aleman
+alet
 alhamdulillah
 ali
 alih
@@ -593,6 +594,7 @@ gasak
 gasik
 gatel
 gathel
+gatok
 gatot
 gawai
 gawan
@@ -1086,6 +1088,7 @@ koran
 korek
 kos
 kose
+kot
 kotak
 kotang
 kowe
@@ -1221,6 +1224,7 @@ loman
 lombok
 lompat
 lon
+longgar
 lonte
 lontong
 lop
@@ -1679,6 +1683,7 @@ pensil
 pentil
 pi
 picek
+pikun
 pil
 pilu
 pin
@@ -2255,6 +2260,7 @@ yom
 yoman
 yora
 yos
+yowes
 yowis
 yuda
 yuh
