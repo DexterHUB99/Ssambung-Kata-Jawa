@@ -906,6 +906,7 @@ dereng
 desa
 dewa
 dewe
+dewek
 dewi
 dhadha
 di
@@ -3439,6 +3440,7 @@ ngomong
 ngompol
 ngongkang
 ngono
+ngonten
 ngontol
 ngop
 ngopi
@@ -3669,6 +3671,7 @@ okee
 okeh
 okei
 okel
+oker
 okok
 okol
 okon
