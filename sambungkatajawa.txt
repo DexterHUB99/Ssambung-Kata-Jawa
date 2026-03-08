@@ -3215,6 +3215,7 @@ nerjang
 nesa
 nesu
 net
+netap
 nete
 neteh
 netek
@@ -3358,6 +3359,7 @@ ngembang
 ngempot
 ngemut
 ngen
+ngena
 ngendang
 ngendi
 ngendika
@@ -4165,6 +4167,7 @@ reget
 rejo
 rek
 rekasa
+rekoso
 reksa
 rem
 rema
@@ -4520,6 +4523,7 @@ sira
 sirah
 siram
 siraman
+sire
 sirep
 siri
 sirih
