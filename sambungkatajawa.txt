@@ -351,6 +351,7 @@ buta
 butek
 cabi
 cacah
+cacahe
 cacing
 cakot
 camat
@@ -481,6 +482,7 @@ duwit
 duwur
 ealah
 edan
+edi
 egak
 ego
 egrang
@@ -1053,6 +1055,7 @@ kakang
 kaki
 kaku
 kalawan
+kaleh
 kali
 kalih
 kalis
@@ -1295,6 +1298,7 @@ las
 lase
 latar
 lathi
+laut
 lawa
 lawang
 lawuh
@@ -2117,6 +2121,7 @@ sip
 sipit
 sirah
 siram
+sirih
 sirna
 sisi
 sisir
@@ -2328,6 +2333,7 @@ ulama
 ulan
 ulang
 ulangan
+ulangi
 ular
 ulas
 ulek
