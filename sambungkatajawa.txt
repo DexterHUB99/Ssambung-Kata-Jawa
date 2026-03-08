@@ -1620,6 +1620,7 @@ gur
 gurah
 guri
 gurih
+gurit
 guru
 gus
 gusa
@@ -2338,6 +2339,7 @@ keset
 kesi
 kesna
 kesuh
+kesupen
 kesusu
 ketan
 ketar
@@ -2530,6 +2532,7 @@ kursi
 kuru
 kurus
 kus
+kuse
 kusen
 kusir
 kusuma
@@ -3730,6 +3733,7 @@ or
 ora
 orah
 orai
+oraiso
 orak
 oran
 orang
@@ -3829,6 +3833,7 @@ parang
 parani
 paras
 pare
+parek
 pareng
 pari
 paring
@@ -4551,6 +4556,7 @@ sulak
 sulam
 sule
 suli
+sulur
 sum
 suma
 suman
