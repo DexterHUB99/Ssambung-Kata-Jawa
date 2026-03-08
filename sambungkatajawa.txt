@@ -2154,6 +2154,7 @@ iwal
 iwan
 iwas
 iwel
+iy
 iya
 iyan
 iyo
@@ -2392,6 +2393,7 @@ karek
 karep
 karepe
 karepmu
+karet
 kari
 karma
 karo
@@ -2424,6 +2426,7 @@ katok
 katon
 katot
 katrok
+kaula
 kawah
 kawanen
 kawat
@@ -3653,6 +3656,7 @@ ngeroso
 ngersa
 ngerti
 ngertos
+ngeruk
 nges
 ngesat
 ngeseng
