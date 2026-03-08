@@ -21,6 +21,7 @@ adal
 adam
 adang
 adat
+ade
 adek
 adem
 aden
@@ -4100,6 +4101,7 @@ rupa
 rus
 rusa
 rusak
+rusaken
 rusuh
 rut
 ruti
