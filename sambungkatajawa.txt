@@ -1499,7 +1499,6 @@ gemblung
 gembong
 gembrot
 gemes
-gempa
 gempol
 gemuk
 gen
@@ -2211,7 +2210,6 @@ kanah
 kanan
 kanca
 kancil
-kancing
 kancut
 kandang
 kandha
@@ -2294,7 +2292,6 @@ kawus
 kaya
 kayu
 ke
-kebak
 kebo
 kebon
 kecap
@@ -3259,7 +3256,6 @@ neptu
 ner
 nerak
 neraka
-nerima
 nerjang
 nesa
 nesu
@@ -3394,7 +3390,6 @@ ngek
 ngelak
 ngelas
 ngelawak
-ngelebok
 ngeleh
 ngelem
 ngeles
@@ -3628,7 +3623,6 @@ nipis
 nipu
 nir
 niri
-nirwana
 nis
 nisa
 nisan
