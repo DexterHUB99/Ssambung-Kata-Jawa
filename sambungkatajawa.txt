@@ -2,6 +2,7 @@ aa
 ab
 abang
 abu
+ada
 adah
 adat
 adek
@@ -31,6 +32,7 @@ ahem
 aher
 ahi
 ahik
+ahil
 ahim
 ahir
 ahis
@@ -378,6 +380,7 @@ dandan
 dandang
 dang
 dapur
+dar
 dara
 darma
 das
@@ -488,6 +491,7 @@ ember
 emboh
 embong
 embuh
+emo
 emoh
 emok
 empal
@@ -1128,6 +1132,7 @@ kuli
 kulit
 kulon
 kum
+kumbah
 kumbang
 kumen
 kumuh
@@ -1921,6 +1926,7 @@ sate
 satu
 satunggal
 sawit
+sayah
 sayang
 sayur
 sego
