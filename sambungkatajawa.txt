@@ -301,6 +301,7 @@ angkring
 angkringan
 angkuh
 angkut
+angler
 angon
 angop
 angsa
@@ -1079,6 +1080,7 @@ eka
 ekal
 ekali
 ekan
+ekas
 eke
 ekeh
 ekek
