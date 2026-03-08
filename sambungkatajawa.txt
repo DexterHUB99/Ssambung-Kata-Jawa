@@ -322,6 +322,7 @@ bubuk
 bubur
 bude
 budhal
+buk
 bulan
 buli
 bumi
@@ -1563,6 +1564,7 @@ ngunung
 ngupil
 ngurip
 ngutang
+nguyuh
 ni
 niba
 nikah
@@ -2251,6 +2253,7 @@ utawi
 utek
 uteke
 utel
+uter
 utuh
 uwes
 uwis
