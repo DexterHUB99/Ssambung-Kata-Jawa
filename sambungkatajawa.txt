@@ -5442,6 +5442,7 @@ urik
 urip
 uripan
 uripku
+uripmu
 uris
 urit
 uru
