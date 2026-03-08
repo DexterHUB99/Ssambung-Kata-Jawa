@@ -314,6 +314,7 @@ angop
 angsa
 angsal
 angsul
+angsur
 angur
 angus
 ani
@@ -781,6 +782,7 @@ cari
 carik
 carita
 caruk
+cas
 cawe
 cawet
 cawik
@@ -1046,6 +1048,7 @@ dumugi
 dun
 dung
 dungo
+dungu
 dupa
 dur
 dura
@@ -1085,6 +1088,7 @@ ehan
 ehar
 ehas
 ehat
+ehay
 ehe
 ehed
 eheh
@@ -1853,6 +1857,7 @@ idam
 idep
 ider
 idih
+idin
 idu
 ieu
 ig
@@ -2589,6 +2594,7 @@ kul
 kula
 kulak
 kuli
+kulina
 kulit
 kulon
 kulup
@@ -2735,6 +2741,7 @@ layangan
 layar
 layu
 le
+lee
 lega
 legawa
 legi
@@ -2844,6 +2851,7 @@ lohan
 lok
 loka
 lokan
+lola
 loloh
 lolos
 lom
@@ -2880,6 +2888,7 @@ lucu
 ludah
 lugu
 luh
+luhan
 luhur
 luk
 luka
@@ -3338,6 +3347,7 @@ ngadi
 ngado
 ngadu
 ngaduk
+ngagem
 ngajak
 ngajar
 ngajeng
@@ -3436,6 +3446,7 @@ ngawe
 ngaweh
 ngawi
 ngawiti
+ngawo
 ngawor
 ngawu
 ngawur
@@ -3485,6 +3496,7 @@ ngepel
 ngepet
 ngerek
 ngeri
+ngeroso
 ngersa
 ngerti
 ngertos
@@ -3555,6 +3567,7 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
+ngnggo
 ngobat
 ngobong
 ngobor
@@ -4186,6 +4199,7 @@ pupu
 puput
 pura
 puri
+purna
 purun
 pus
 pusing
@@ -4204,6 +4218,7 @@ rada
 radar
 raden
 radi
+radio
 raga
 ragam
 ragangan
@@ -4491,6 +4506,7 @@ salam
 sali
 salim
 salon
+salut
 sama
 samar
 sambang
@@ -4758,6 +4774,7 @@ sulam
 sule
 suli
 sultan
+sulung
 sum
 suma
 suman
