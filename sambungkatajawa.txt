@@ -3780,6 +3780,7 @@ ngucek
 ngudang
 ngudek
 ngudi
+ngudo
 ngudud
 ngudut
 nguji
@@ -3825,6 +3826,7 @@ ngurus
 ngurusi
 ngusap
 nguser
+ngusi
 ngusik
 ngusir
 ngusung
@@ -4869,6 +4871,7 @@ sil
 sila
 silam
 silet
+sili
 silih
 silit
 sim
