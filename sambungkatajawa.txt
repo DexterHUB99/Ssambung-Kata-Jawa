@@ -83,6 +83,7 @@ ajik
 ajur
 ak
 aka
+akad
 akak
 akal
 akan
@@ -1407,6 +1408,7 @@ joran
 jore
 jorok
 jos
+jule
 jumat
 jun
 jupuk
@@ -1480,6 +1482,7 @@ kanyuwun
 kaos
 kapak
 kapan
+kapi
 kaping
 kapok
 kapuk
@@ -1817,6 +1820,7 @@ lin
 lindhu
 lindur
 linggis
+lingkung
 lingsir
 lintah
 lintang
@@ -2224,6 +2228,7 @@ ngeling
 ngeloni
 ngelu
 ngembang
+ngempot
 ngemut
 ngen
 ngendi
