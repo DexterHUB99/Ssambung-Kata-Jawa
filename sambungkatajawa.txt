@@ -78,6 +78,7 @@ atos
 awas
 ayo
 ayu
+bajul
 banter
 basi
 bebas
@@ -124,6 +125,7 @@ eni
 enteni
 entong
 entuk
+eper
 eram
 erat
 eris
@@ -267,6 +269,8 @@ kanjeng
 kapuk
 kapur
 katok
+kawruh
+kawula
 kayu
 ke
 kene
@@ -310,6 +314,7 @@ lame
 lami
 lampu
 lampung
+lan
 lanjut
 lantang
 laos
@@ -423,6 +428,7 @@ nomer
 nonton
 nresnani
 oalah
+ob
 ogah
 ojo
 ok
@@ -572,6 +578,7 @@ urang
 uri
 urik
 urip
+urung
 urus
 usah
 usil
