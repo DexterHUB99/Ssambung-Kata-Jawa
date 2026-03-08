@@ -1782,6 +1782,7 @@ here
 heri
 hes
 hesen
+heti
 hi
 hias
 hijau
@@ -1969,6 +1970,7 @@ ip
 ipa
 ipan
 ipar
+ipat
 ipe
 ipel
 ipes
