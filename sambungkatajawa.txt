@@ -10,6 +10,7 @@ ajeng
 akeh
 aksi
 aku
+akut
 aliran
 amerga
 anak
@@ -24,6 +25,7 @@ atos
 awas
 bebas
 bidan
+bojo
 dalan
 dasi
 dumane
@@ -32,6 +34,7 @@ eka
 elang
 eman
 emok
+ero
 eroh
 eros
 eruh
@@ -77,6 +80,7 @@ jeneng
 jimat
 kesah
 kidang
+koe
 kue
 kutang
 lambemu
@@ -95,12 +99,14 @@ nekat
 ngadi
 ngaji
 ngalor
+nganjuk
 ngapa
 ngapak
 ngarit
 ngombe
 ngrit
 ngukur
+ngulek
 nipu
 nresnani
 ogah
@@ -108,6 +114,7 @@ oke
 oleh
 ora
 padas
+paling
 pusing
 putra
 rabi
@@ -130,6 +137,7 @@ sut
 tanduran
 teras
 tindak
+tuak
 udan
 ujuk
 ukara
