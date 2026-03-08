@@ -60,6 +60,7 @@ cik
 dagang
 dalan
 dasi
+disu
 dumane
 dura
 duri
@@ -83,6 +84,7 @@ gak
 galak
 galer
 gangsal
+gapura
 garem
 gareng
 gawe
@@ -178,6 +180,7 @@ ko
 koe
 koen
 kono
+kontrol
 ku
 kue
 kuku
@@ -269,6 +272,7 @@ ol
 olah
 ole
 oleh
+omah
 ompong
 oncek
 onta
@@ -350,6 +354,7 @@ ukara
 ukir
 ukur
 ula
+ular
 uler
 ulo
 umbel
@@ -369,6 +374,7 @@ usil
 usus
 uta
 utawi
+utek
 uyuh
 wit
 wong
