@@ -40,6 +40,7 @@ ani
 anjay
 anjing
 anjir
+apung
 are
 asa
 asma
@@ -80,6 +81,7 @@ eya
 gajah
 gak
 galak
+galer
 gangsal
 garem
 gareng
@@ -178,6 +180,7 @@ koen
 kono
 ku
 kue
+kuku
 kukur
 kula
 kum
@@ -203,6 +206,7 @@ lele
 lima
 limo
 lintah
+lisa
 loh
 lungguh
 mada
@@ -222,6 +226,7 @@ muleh
 mundak
 nadi
 naga
+nala
 nandur
 nanggung
 nangka
@@ -275,6 +280,7 @@ padas
 palang
 paling
 payah
+piro
 po
 pundhut
 pusing
@@ -287,6 +293,7 @@ rampung
 raos
 rasa
 rasi
+ratu
 repot
 ridho
 rikma
@@ -300,6 +307,7 @@ run
 rupa
 ruti
 sa
+sah
 saku
 salah
 salim
@@ -314,6 +322,7 @@ simbah
 sip
 sisir
 sopan
+srawung
 subhanallah
 susu
 sut
@@ -353,6 +362,7 @@ upah
 ura
 urang
 uri
+urip
 urus
 usah
 usil
