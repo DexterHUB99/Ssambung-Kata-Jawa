@@ -719,6 +719,7 @@ biyung
 bo
 bobok
 bocah
+bocor
 bodo
 bodoh
 bojo
@@ -1705,6 +1706,7 @@ gosok
 gosoki
 gosong
 got
+gotong
 gowang
 gowo
 goyang
@@ -3136,6 +3138,7 @@ maturnuwun
 matursuwun
 mau
 maya
+mayak
 mayat
 mbak
 mbok
@@ -3629,6 +3632,7 @@ ngersa
 ngerti
 ngertos
 nges
+ngesat
 ngeseng
 ngesot
 nget
@@ -5317,6 +5321,7 @@ uh
 uja
 ujar
 uji
+ujian
 ujuk
 ujung
 ujur
