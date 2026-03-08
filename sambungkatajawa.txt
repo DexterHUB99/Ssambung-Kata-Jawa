@@ -283,6 +283,7 @@ bisulan
 biyen
 bo
 bojo
+bolo
 borok
 boso
 bosok
@@ -404,6 +405,7 @@ ehi
 eho
 ehod
 ehu
+ehuk
 eja
 eka
 eke
@@ -555,6 +557,7 @@ gemblong
 gemblung
 gemuk
 gendeng
+gendruwo
 gene
 geni
 gentong
@@ -1189,6 +1192,7 @@ meneng
 mesake
 met
 min
+minal
 miring
 miris
 misuh
@@ -1263,6 +1267,7 @@ nedha
 nedho
 neduh
 negara
+nek
 nekat
 neko
 nelen
@@ -2011,6 +2016,7 @@ utel
 utuh
 uwes
 uwis
+uwit
 uwong
 uyah
 uyuh
