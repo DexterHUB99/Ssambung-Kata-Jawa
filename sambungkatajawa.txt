@@ -372,6 +372,7 @@ es
 esek
 esih
 esok
+eta
 etan
 eti
 etig
@@ -660,6 +661,7 @@ jawaban
 jawir
 jaya
 je
+jem
 jenang
 jeneng
 jikuk
@@ -876,6 +878,7 @@ loh
 loman
 lombok
 lompat
+lon
 lonte
 lontong
 lopa
@@ -1152,6 +1155,8 @@ oncek
 oncom
 onde
 onta
+oo
+oon
 op
 opa
 opah
@@ -1247,6 +1252,7 @@ rambat
 rambu
 rambut
 rambutan
+rambute
 rame
 rampung
 rampungan
@@ -1595,6 +1601,7 @@ wayang
 we
 wedang
 wedhus
+wedok
 wektu
 weling
 werna
