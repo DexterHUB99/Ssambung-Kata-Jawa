@@ -484,6 +484,7 @@ bo
 bodo
 bojo
 bokek
+bokong
 bola
 bolo
 bolot
@@ -865,6 +866,7 @@ epil
 epis
 epo
 epoh
+epu
 er
 era
 erah
@@ -1778,6 +1780,7 @@ kuk
 kuku
 kukuh
 kukur
+kukus
 kul
 kula
 kulak
@@ -2361,6 +2364,7 @@ ngebo
 ngece
 ngecek
 ngeden
+ngek
 ngelak
 ngelawak
 ngeles
@@ -2817,6 +2821,7 @@ prakawis
 pripun
 pu
 puasa
+pucuk
 puja
 puki
 pukul
@@ -2828,6 +2833,7 @@ pundi
 pungkasan
 punika
 punten
+pupu
 puri
 purun
 pusing
@@ -2979,6 +2985,7 @@ ris
 risa
 risi
 risih
+riti
 riyaya
 riyin
 ro
@@ -3376,6 +3383,7 @@ tingkah
 tip
 tir
 tiri
+tita
 titen
 titi
 titik
