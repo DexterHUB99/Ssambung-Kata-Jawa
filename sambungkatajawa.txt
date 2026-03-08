@@ -947,6 +947,7 @@ dir
 disan
 disana
 disek
+disel
 disik
 disu
 dit
@@ -3459,6 +3460,7 @@ ngowe
 ngowoh
 ngoyak
 ngoyo
+ngrawuh
 ngrayu
 ngrit
 ngrumat
