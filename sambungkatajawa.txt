@@ -184,6 +184,7 @@ amo
 amoh
 amok
 amor
+amp
 ampa
 ampal
 amparan
@@ -1651,6 +1652,7 @@ jalu
 jaluk
 jam
 jamal
+jaman
 jambu
 jamu
 jamur
@@ -3240,6 +3242,7 @@ punten
 pupu
 puri
 purun
+pus
 pusing
 putih
 putra
@@ -3425,6 +3428,7 @@ romo
 rompi
 ronda
 rono
+rop
 rope
 ropi
 ros
@@ -3982,6 +3986,7 @@ ulas
 ule
 uleg
 ulek
+ulem
 uleman
 ulen
 uler
