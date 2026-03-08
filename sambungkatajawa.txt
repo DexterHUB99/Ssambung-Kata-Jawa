@@ -693,6 +693,7 @@ cen
 cendol
 cengel
 cengkeh
+cenil
 cep
 cerak
 ceri
@@ -807,6 +808,7 @@ der
 dereng
 desa
 dewa
+dewe
 dewi
 dhadha
 di
