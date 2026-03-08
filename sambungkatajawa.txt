@@ -183,6 +183,7 @@ amit
 amo
 amoh
 amok
+amor
 ampa
 ampal
 amparan
@@ -486,6 +487,7 @@ bedok
 bedug
 begja
 bego
+beh
 beja
 bejan
 bejur
@@ -529,6 +531,7 @@ bil
 bila
 bili
 bima
+bimo
 bin
 bindeng
 bintang
@@ -717,6 +720,7 @@ dawet
 dawuh
 de
 dede
+dedek
 dedemit
 dek
 dekil
@@ -1049,6 +1053,7 @@ etik
 etika
 eto
 etok
+eton
 etos
 etuk
 etus
@@ -1201,6 +1206,7 @@ generator
 geng
 geni
 genteng
+genter
 genti
 gentong
 geol
@@ -1679,6 +1685,7 @@ jikuk
 jili
 jim
 jimat
+jimbar
 jimpit
 jin
 jina
@@ -2242,6 +2249,7 @@ lomi
 lompat
 lon
 longgar
+longsor
 lontar
 lonte
 lontong
@@ -2312,6 +2320,7 @@ malah
 malang
 maleh
 malu
+mam
 mamas
 mambu
 mampus
@@ -2428,6 +2437,7 @@ mokong
 mol
 moleh
 molen
+momong
 mondok
 monggo
 mor
@@ -2436,8 +2446,10 @@ mosok
 mot
 moto
 mpun
+mrono
 mu
 mudeng
+mujair
 muji
 muk
 mula
@@ -2738,6 +2750,7 @@ ngger
 nggih
 nggo
 nggolek
+nggowo
 ngguyu
 ngibadah
 ngibul
@@ -2998,6 +3011,7 @@ ongkel
 ongkos
 online
 onta
+onthel
 oo
 oon
 op
@@ -3760,6 +3774,7 @@ tele
 telo
 telu
 tema
+tembang
 tembok
 tembung
 temen
@@ -4053,6 +4068,7 @@ usih
 usik
 usil
 usir
+ustadz
 usuk
 usung
 usus
@@ -4222,6 +4238,7 @@ yuni
 yura
 yuri
 yusa
+yusi
 yuswa
 yuyu
 zakat
