@@ -123,7 +123,6 @@ alay
 alem
 aleman
 aler
-ales
 alet
 alhamdulillah
 ali
@@ -212,6 +211,7 @@ anek
 aner
 anes
 angel
+angen
 anget
 anggar
 anggara
@@ -266,6 +266,7 @@ apes
 api
 apik
 apo
+apos
 apung
 apus
 arah
@@ -286,7 +287,6 @@ aris
 arisan
 arit
 arjuna
-arjuno
 aroh
 aros
 arsa
@@ -403,6 +403,7 @@ bajing
 bajingan
 baju
 bajul
+bakso
 bal
 balek
 bali
@@ -419,6 +420,7 @@ barongan
 basi
 basuki
 batok
+be
 bebas
 bebek
 becik
@@ -426,6 +428,7 @@ beda
 bedes
 bedok
 bego
+beja
 bejan
 bekas
 bekel
@@ -610,6 +613,7 @@ dedemit
 dek
 dekil
 delima
+delu
 dema
 demak
 demok
@@ -808,6 +812,7 @@ enen
 eneng
 enggal
 enggeh
+enggon
 engkang
 engko
 engkol
@@ -828,7 +833,6 @@ epan
 epang
 epar
 epas
-epe
 epek
 epel
 epen
@@ -873,8 +877,10 @@ esem
 esih
 eso
 esok
+eson
 estu
 esuk
+et
 eta
 etak
 etan
@@ -1398,6 +1404,7 @@ iyuh
 iz
 jab
 jagung
+jahil
 jajal
 jajan
 jaluk
@@ -1410,7 +1417,6 @@ jan
 jancok
 jang
 jangan
-jangkep
 jangkrik
 janji
 jaran
@@ -1486,7 +1492,9 @@ kakak
 kakang
 kaki
 kaku
+kala
 kalah
+kalap
 kalawan
 kalebu
 kaleh
@@ -1561,6 +1569,7 @@ kathok
 katok
 katon
 katrok
+kawah
 kawen
 kawin
 kawruh
@@ -1674,7 +1683,6 @@ kirim
 kis
 kisa
 kisi
-kit
 kita
 kitab
 klambi
@@ -1742,6 +1750,7 @@ kuli
 kulit
 kulon
 kum
+kuman
 kumbah
 kumbang
 kume
@@ -1843,7 +1852,6 @@ layu
 le
 legi
 leh
-lek
 lele
 lem
 lema
@@ -1930,6 +1938,7 @@ los
 lotek
 loyo
 lu
+luh
 luhur
 luk
 luka
@@ -2158,6 +2167,7 @@ nangis
 nangka
 nangkring
 nani
+nanti
 naon
 nap
 napa
@@ -2238,13 +2248,14 @@ ngak
 ngakak
 ngakeh
 ngaku
-ngal
 ngalah
+ngale
 ngaleh
 ngalem
 ngalih
 ngalor
 ngamal
+ngambar
 ngamben
 ngambi
 ngambil
@@ -2367,6 +2378,7 @@ ngluwihi
 ngobat
 ngobor
 ngobrol
+ngobroli
 ngocok
 ngoko
 ngolah
@@ -2513,7 +2525,6 @@ nyapa
 nyapu
 nyawiji
 nyedhak
-nyilih
 nyong
 nyusahake
 oalah
@@ -2740,6 +2751,7 @@ poni
 ponorogo
 por
 pora
+poran
 pos
 posi
 potong
@@ -2763,6 +2775,7 @@ purun
 pusing
 putih
 putra
+putri
 putu
 puyeng
 puyuh
@@ -2773,6 +2786,7 @@ racun
 rada
 raden
 radi
+raga
 ragangan
 ragat
 ragi
@@ -2844,6 +2858,7 @@ rawan
 rawon
 rawuh
 re
+rebana
 rebo
 redi
 rega
@@ -2996,7 +3011,7 @@ sampun
 sana
 sandhang
 sangga
-sangkuni
+sangka
 sangu
 sanjang
 santun
@@ -3032,6 +3047,7 @@ sego
 sek
 sekawan
 seket
+seko
 sela
 selak
 selametan
@@ -3067,6 +3083,7 @@ siku
 sikut
 sila
 silet
+silih
 silit
 siman
 simbah
@@ -3202,7 +3219,6 @@ tambah
 tambal
 tampah
 tampar
-tampi
 tamu
 tanah
 tandang
@@ -3244,6 +3260,7 @@ temon
 tempe
 tempel
 tempik
+temu
 ten
 tenan
 tenane
@@ -3283,6 +3300,7 @@ tin
 tindak
 tindhak
 tinggal
+tingkah
 tip
 tir
 tiri
@@ -3586,7 +3604,6 @@ wijaya
 wiku
 wil
 wilangan
-win
 windu
 wingi
 wira
@@ -3625,7 +3642,6 @@ yohan
 yoka
 yom
 yoman
-yon
 yoopo
 yora
 yos
