@@ -1213,6 +1213,7 @@ husna
 hut
 hutan
 hutang
+ib
 ibadah
 ibu
 ibuk
@@ -1844,6 +1845,7 @@ limolas
 limpa
 limun
 lin
+lina
 lindhu
 lindur
 linggis
@@ -2115,6 +2117,7 @@ nangka
 nangkring
 nani
 naon
+nap
 napa
 napak
 napi
@@ -2563,6 +2566,7 @@ paing
 pajak
 pajang
 pajar
+pajek
 paji
 pake
 paku
