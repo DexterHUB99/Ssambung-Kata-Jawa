@@ -212,6 +212,7 @@ anek
 aner
 anes
 angel
+angen
 anget
 anggar
 anggara
@@ -266,6 +267,7 @@ apes
 api
 apik
 apo
+apos
 apung
 apus
 arah
@@ -405,6 +407,7 @@ bajing
 bajingan
 baju
 bajul
+bakso
 bal
 balek
 bali
@@ -421,13 +424,16 @@ barongan
 basi
 basuki
 batok
+be
 bebas
 bebek
 becik
 beda
 bedes
 bedok
+begja
 bego
+beja
 bejan
 bekas
 bekel
@@ -612,6 +618,7 @@ dedemit
 dek
 dekil
 delima
+delu
 dema
 demak
 demok
@@ -657,6 +664,7 @@ dolanan
 dom
 domba
 dompet
+don
 dong
 donga
 doni
@@ -792,6 +800,7 @@ emper
 emping
 empun
 emu
+emuh
 emut
 en
 ena
@@ -810,6 +819,7 @@ enen
 eneng
 enggal
 enggeh
+enggon
 engkang
 engko
 engkol
@@ -875,8 +885,10 @@ esem
 esih
 eso
 esok
+eson
 estu
 esuk
+et
 eta
 etak
 etan
@@ -1026,6 +1038,7 @@ gerji
 gerobak
 gesek
 geseng
+gething
 gethuk
 getuk
 getun
@@ -1400,6 +1413,7 @@ iyuh
 iz
 jab
 jagung
+jahil
 jajal
 jajan
 jalar
@@ -1411,6 +1425,7 @@ jamu
 jamur
 jan
 jancok
+jancuk
 jang
 jangan
 jangkep
@@ -1489,7 +1504,9 @@ kakak
 kakang
 kaki
 kaku
+kala
 kalah
+kalap
 kalawan
 kalebu
 kaleh
@@ -1564,6 +1581,7 @@ kathok
 katok
 katon
 katrok
+kawah
 kawanen
 kawen
 kawin
@@ -1662,6 +1680,7 @@ kilen
 kim
 kima
 kiman
+kina
 kinanthi
 kinasih
 kini
@@ -1746,6 +1765,7 @@ kuli
 kulit
 kulon
 kum
+kuman
 kumbah
 kumbang
 kume
@@ -1869,6 +1889,7 @@ li
 liane
 libur
 licik
+lidah
 lih
 lihat
 lik
@@ -1934,6 +1955,7 @@ los
 lotek
 loyo
 lu
+luh
 luhur
 luk
 luka
@@ -2067,6 +2089,7 @@ mis
 misuh
 mlaku
 mlebu
+mo
 modar
 modus
 moh
@@ -2162,6 +2185,7 @@ nangis
 nangka
 nangkring
 nani
+nanti
 naon
 nap
 napa
@@ -2244,11 +2268,13 @@ ngakeh
 ngaku
 ngal
 ngalah
+ngale
 ngaleh
 ngalem
 ngalih
 ngalor
 ngamal
+ngambar
 ngamben
 ngambi
 ngambil
@@ -2371,6 +2397,7 @@ ngluwihi
 ngobat
 ngobor
 ngobrol
+ngobroli
 ngocok
 ngoko
 ngolah
@@ -2461,6 +2488,7 @@ nis
 nisa
 nisan
 nit
+niti
 nitih
 nitip
 njaluk
@@ -2543,6 +2571,7 @@ ojolan
 ok
 oke
 okea
+okee
 okeh
 okei
 okel
@@ -2745,6 +2774,7 @@ poni
 ponorogo
 por
 pora
+poran
 pos
 posi
 potong
@@ -2768,6 +2798,7 @@ purun
 pusing
 putih
 putra
+putri
 putu
 puyeng
 puyuh
@@ -2778,6 +2809,7 @@ racun
 rada
 raden
 radi
+raga
 ragangan
 ragat
 ragi
@@ -2849,6 +2881,7 @@ rawan
 rawon
 rawuh
 re
+rebana
 rebo
 redi
 rega
@@ -3001,6 +3034,7 @@ sampun
 sana
 sandhang
 sangga
+sangka
 sangkuni
 sangu
 sanjang
@@ -3037,6 +3071,7 @@ sego
 sek
 sekawan
 seket
+seko
 sela
 selak
 selametan
@@ -3073,6 +3108,7 @@ siku
 sikut
 sila
 silet
+silih
 silit
 siman
 simbah
@@ -3250,6 +3286,7 @@ temon
 tempe
 tempel
 tempik
+temu
 ten
 tenan
 tenane
@@ -3289,6 +3326,7 @@ tin
 tindak
 tindhak
 tinggal
+tingkah
 tip
 tir
 tiri
