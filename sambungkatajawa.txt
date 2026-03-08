@@ -8,6 +8,7 @@ aha
 ahay
 ahi
 ahir
+ahli
 air
 ajeng
 akeh
@@ -21,6 +22,7 @@ ancik
 ancok
 anjing
 anjir
+asa
 asma
 asu
 ati
@@ -38,16 +40,19 @@ eka
 elang
 eman
 emok
+entong
 ero
 eroh
 eros
 eruh
 eya
+galak
 gawe
 gawok
 gayung
 gi
 gila
+goblok
 guling
 gulung
 gun
@@ -77,6 +82,8 @@ iku
 ilang
 iler
 ilih
+ilir
+imas
 ingsun
 ipa
 irah
@@ -141,6 +148,7 @@ putra
 rabi
 rai
 rambut
+rampung
 ridho
 rikma
 riko
@@ -149,6 +157,7 @@ sa
 salim
 sampean
 saru
+sarungan
 sayur
 sego
 siji
@@ -170,6 +179,7 @@ ula
 uler
 ulo
 umbel
+umpama
 ungkir
 ungu
 untal
