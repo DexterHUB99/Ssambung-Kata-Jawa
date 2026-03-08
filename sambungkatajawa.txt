@@ -133,6 +133,7 @@ duri
 edan
 ehek
 ehi
+eja
 eka
 eke
 eko
@@ -328,6 +329,7 @@ ki
 kidang
 kidul
 kila
+kintir
 kira
 kirang
 kiri
@@ -491,6 +493,7 @@ niki
 nila
 nindak
 ning
+ninggal
 nipu
 no
 nok
@@ -554,6 +557,7 @@ rasa
 rasi
 ratu
 rawuh
+reget
 remeh
 repot
 resah
@@ -582,6 +586,7 @@ salah
 salim
 sampean
 sapi
+sare
 saru
 sarungan
 sayang
@@ -593,6 +598,7 @@ sila
 siman
 simbah
 singa
+sinten
 sip
 sisir
 slametan
@@ -630,6 +636,7 @@ tulung
 tumbas
 tumrap
 tumut
+tunas
 tunggal
 turu
 tutuk
@@ -688,6 +695,7 @@ utel
 utuh
 uyuh
 wadon
+wae
 wangsul
 warisan
 wayang
