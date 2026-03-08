@@ -779,6 +779,7 @@ cengel
 cengkeh
 cenil
 cep
+cer
 cerak
 ceri
 cerita
@@ -1247,6 +1248,7 @@ ere
 erek
 eren
 erep
+eret
 eri
 erik
 ering
@@ -1952,6 +1954,7 @@ isen
 isep
 isi
 isian
+isien
 isih
 isik
 isin
@@ -3204,6 +3207,7 @@ ngabekti
 ngaben
 ngaca
 ngaceng
+ngacir
 ngaco
 ngacung
 ngadeg
