@@ -460,6 +460,7 @@ awit
 awong
 awor
 awul
+awur
 aya
 ayah
 ayak
@@ -968,6 +969,7 @@ elak
 elan
 elang
 elap
+elar
 elas
 eleh
 elek
@@ -1026,6 +1028,7 @@ ena
 enak
 enal
 enam
+enan
 encok
 endah
 endang
@@ -1078,6 +1081,7 @@ epep
 eper
 epet
 epi
+epih
 epik
 epil
 epis
@@ -1173,6 +1177,7 @@ gage
 gah
 gairah
 gajah
+gajelas
 gaji
 gak
 gaktau
@@ -2129,6 +2134,7 @@ kirang
 kiri
 kirik
 kirim
+kiriman
 kis
 kisa
 kisi
@@ -3792,6 +3798,7 @@ sampah
 sampai
 sampean
 sampeyan
+sampo
 sampun
 san
 sana
@@ -3866,6 +3873,7 @@ semar
 semok
 sempak
 sempit
+semu
 semut
 senajan
 senang
@@ -3925,6 +3933,7 @@ sira
 sirah
 siram
 siraman
+sirep
 sirih
 sirna
 siro
@@ -4368,6 +4377,7 @@ unggaran
 unggas
 unggul
 ungkal
+ungkap
 ungkas
 ungkir
 ungu
