@@ -1384,6 +1384,7 @@ etu
 etub
 etuh
 etuk
+etung
 etus
 ew
 ewang
@@ -3018,6 +3019,7 @@ malam
 malang
 maleh
 males
+malesan
 malih
 maling
 malu
@@ -3276,6 +3278,7 @@ nalar
 nali
 nalik
 nalika
+nalikane
 naluri
 nama
 nambah
