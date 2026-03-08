@@ -63,6 +63,7 @@ amir
 amis
 amit
 amparan
+amu
 amung
 an
 ana
@@ -230,6 +231,7 @@ elo
 elok
 emak
 eman
+emas
 ember
 emboh
 emoh
@@ -327,6 +329,7 @@ gula
 guling
 gulu
 gulung
+gumun
 gun
 guna
 gundul
@@ -471,6 +474,7 @@ jaluk
 jam
 jambu
 jamu
+jan
 jancok
 jare
 jawa
@@ -488,6 +492,7 @@ joran
 kabeh
 kacek
 kadal
+kados
 kaki
 kaku
 kalawan
@@ -533,6 +538,7 @@ kidang
 kidul
 kila
 kintir
+kir
 kira
 kirang
 kiri
@@ -674,6 +680,7 @@ mesake
 met
 min
 miring
+miris
 mlaku
 mlebu
 modar
@@ -698,12 +705,14 @@ nala
 nali
 nalika
 nambah
+nambai
 nanang
 nandur
 nanem
 nang
 nanggung
 nanging
+nangis
 nangka
 nani
 naon
@@ -928,6 +937,7 @@ rindu
 ringkas
 ris
 risa
+risi
 roda
 roma
 rombong
