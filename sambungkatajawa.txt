@@ -102,7 +102,6 @@ akan
 akang
 akar
 akas
-akasa
 akat
 ake
 akeh
@@ -126,6 +125,7 @@ aksen
 aksi
 aku
 akuh
+akui
 akun
 akur
 akut
@@ -138,6 +138,7 @@ alangan
 alap
 alas
 alasa
+alasan
 alat
 alay
 ale
@@ -402,7 +403,6 @@ asu
 asuh
 asul
 asupan
-asus
 asuti
 ata
 atak
@@ -423,7 +423,6 @@ atis
 atit
 atma
 ato
-atoh
 atok
 atom
 atos
@@ -638,7 +637,9 @@ bunga
 bungah
 bungkus
 buntut
+buri
 buron
+buru
 busi
 busuk
 buta
@@ -800,6 +801,7 @@ deneng
 der
 dereng
 desa
+deso
 dewa
 dewi
 dhadha
@@ -829,6 +831,7 @@ dino
 dinten
 dipun
 dir
+diri
 disana
 disek
 disik
@@ -890,6 +893,7 @@ dun
 dung
 dungo
 dupa
+dupo
 dur
 dura
 duren
@@ -908,7 +912,9 @@ ealah
 eb
 ebeg
 ebi
+ebuk
 eco
+ed
 eda
 edan
 edi
@@ -952,10 +958,12 @@ ekek
 ekel
 eker
 eki
+ekil
 ekis
 eklas
 eko
 ekoli
+ekon
 ekor
 ekot
 eku
@@ -995,6 +1003,7 @@ embah
 embat
 ember
 emboh
+embok
 embong
 embuh
 embun
@@ -1023,7 +1032,6 @@ emut
 en
 ena
 enak
-enal
 enam
 encok
 endah
@@ -1179,6 +1187,7 @@ gala
 galah
 galak
 galang
+gale
 galengan
 galer
 gali
@@ -1650,6 +1659,7 @@ imas
 imba
 imbalan
 imbas
+imboh
 imbu
 imbuh
 imbuhan
@@ -1857,6 +1867,7 @@ jore
 jori
 jorok
 jos
+jot
 jule
 juli
 jumat
@@ -1973,6 +1984,7 @@ kas
 kasang
 kasar
 kasep
+kaset
 kasi
 kasih
 kasir
@@ -1988,6 +2000,7 @@ katok
 katon
 katrok
 kawah
+kawan
 kawanen
 kawat
 kawen
@@ -2079,6 +2092,7 @@ kesat
 kesel
 keset
 kesna
+kesot
 kesuh
 kesusu
 ketan
@@ -2326,6 +2340,7 @@ lawan
 lawang
 lawas
 lawe
+lawu
 lawuh
 layang
 layangan
@@ -2870,6 +2885,7 @@ ngambar
 ngamben
 ngambi
 ngambil
+ngambu
 ngamil
 ngamok
 ngampun
@@ -2911,6 +2927,7 @@ ngasah
 ngasahi
 ngasal
 ngasar
+ngasek
 ngasep
 ngasi
 ngasih
@@ -2930,6 +2947,7 @@ ngawor
 ngawu
 ngawur
 ngayah
+ngayuh
 ngebo
 ngece
 ngecek
@@ -3176,6 +3194,7 @@ nulungi
 num
 numbal
 numbas
+numpah
 numpak
 numplek
 numpuk
@@ -3212,6 +3231,7 @@ nyilih
 nyiram
 nyong
 nyusahake
+nyuwir
 oalah
 ob
 obah
@@ -3221,6 +3241,7 @@ obor
 obral
 od
 odol
+og
 ogah
 ogak
 oge
@@ -3473,6 +3494,7 @@ pokok
 pol
 pola
 polan
+pole
 poli
 polisi
 pom
@@ -3764,6 +3786,7 @@ saka
 sakarep
 saken
 saket
+saking
 sakne
 sakti
 saku
@@ -3813,6 +3836,7 @@ sara
 sarap
 sare
 saren
+sareng
 sarep
 sari
 sarna
@@ -3988,6 +4012,7 @@ sum
 suma
 sumbanga
 sumbangan
+sumbar
 sumber
 sumeh
 sumenep
@@ -4086,6 +4111,7 @@ tara
 tari
 tarik
 taru
+tarung
 tas
 tasi
 tat
@@ -4263,6 +4289,7 @@ udo
 udu
 udud
 uduk
+udun
 udut
 udutan
 ug
@@ -4283,6 +4310,8 @@ ukai
 ukar
 ukara
 ukarane
+ukel
+ukeli
 ukir
 ukiran
 ukon
@@ -4369,6 +4398,7 @@ untal
 untik
 untu
 untuk
+untune
 untung
 up
 upa
@@ -4512,6 +4542,7 @@ welas
 weleh
 weling
 wen
+wengi
 weni
 wer
 werna
