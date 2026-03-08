@@ -25,6 +25,7 @@ alem
 ali
 aliran
 aman
+ambil
 ambyar
 amerga
 ami
@@ -57,6 +58,7 @@ atos
 awas
 ayo
 ayu
+banter
 bebas
 bidan
 bidun
@@ -84,6 +86,7 @@ endah
 eni
 enteni
 entong
+eris
 ero
 eroh
 eros
@@ -150,6 +153,7 @@ ilang
 iler
 ilih
 ilir
+ilu
 imas
 iming
 imo
@@ -166,6 +170,7 @@ iri
 irus
 isa
 isi
+iso
 itil
 iwak
 iyo
@@ -201,6 +206,7 @@ kue
 kuku
 kukur
 kula
+kulit
 kum
 kundur
 kur
@@ -229,6 +235,7 @@ lintah
 lisa
 loh
 lungguh
+lusa
 mada
 madang
 madu
@@ -284,12 +291,14 @@ ngundang
 ngurip
 nikah
 niki
+nila
 nipu
 no
 nok
 nol
 nonton
 nresnani
+oalah
 ogah
 ojo
 oke
@@ -397,6 +406,7 @@ ungkir
 ungu
 untal
 untu
+upa
 upah
 upaya
 ura
