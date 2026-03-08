@@ -70,6 +70,7 @@ asma
 aso
 asta
 asu
+atep
 ati
 atis
 atom
@@ -88,6 +89,7 @@ bo
 bojo
 bude
 budhal
+camat
 candra
 celeng
 cik
@@ -254,13 +256,16 @@ jiwa
 kacek
 kadal
 kaku
+kalawan
 kali
 kalis
+kambil
 kampung
 kamu
 kancil
 kanjeng
 kapuk
+kapur
 katok
 kayu
 ke
@@ -270,6 +275,7 @@ kesah
 kidang
 kila
 kira
+kirang
 kiri
 klambi
 ko
@@ -408,6 +414,7 @@ ngurip
 nikah
 niki
 nila
+nindak
 nipu
 no
 nok
