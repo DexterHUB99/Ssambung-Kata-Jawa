@@ -82,6 +82,7 @@ akas
 akat
 ake
 akeh
+aker
 aki
 akik
 akil
@@ -462,6 +463,7 @@ bunga
 bungah
 bungkus
 buntut
+buron
 buta
 butek
 buto
@@ -811,6 +813,7 @@ gading
 gae
 gagah
 gagal
+gagap
 gage
 gah
 gairah
@@ -917,6 +920,7 @@ gerah
 gerak
 geram
 gerang
+gereng
 geret
 gerji
 gesek
@@ -1290,6 +1294,7 @@ jare
 jati
 jawa
 jawaban
+jawi
 jawir
 jaya
 je
@@ -2750,6 +2755,7 @@ silet
 silit
 siman
 simbah
+simpenan
 sinau
 sinden
 sing
@@ -2800,6 +2806,7 @@ subur
 sudi
 sugeng
 sugih
+sujud
 suk
 suka
 suket
