@@ -3442,6 +3442,7 @@ osah
 osek
 oseng
 osik
+osok
 osor
 ot
 otak
