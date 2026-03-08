@@ -2143,6 +2143,7 @@ iw
 iwak
 iwal
 iwan
+iwas
 iwel
 iya
 iyan
@@ -3383,6 +3384,7 @@ narimo
 nas
 nasa
 nasai
+nasehat
 nasi
 nasib
 nastar
@@ -4690,6 +4692,7 @@ salon
 salut
 sama
 samak
+saman
 samar
 sambang
 sambat
