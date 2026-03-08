@@ -713,6 +713,7 @@ duwur
 ealah
 ebeg
 ebi
+eco
 eda
 edan
 edi
@@ -742,6 +743,7 @@ ehu
 ehuk
 eja
 eka
+ekal
 ekan
 eke
 ekeh
@@ -1713,6 +1715,7 @@ kondangan
 kono
 kontol
 kontrol
+kopeng
 koper
 kopi
 koplak
@@ -1855,6 +1858,7 @@ le
 legi
 leh
 lek
+lekat
 lele
 lem
 lema
@@ -2739,6 +2743,7 @@ piye
 po
 pocong
 pojok
+pojokan
 pokok
 pol
 pola
@@ -3656,6 +3661,7 @@ yuna
 yuni
 yura
 yuri
+yusa
 yuswa
 yuyu
 zakat
