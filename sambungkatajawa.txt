@@ -1288,6 +1288,7 @@ etak
 etan
 ete
 etel
+eter
 eti
 etig
 etik
@@ -2066,6 +2067,7 @@ jingkrak
 jini
 jinjit
 jinten
+jipuk
 jir
 jira
 jiri
@@ -2211,6 +2213,7 @@ kari
 karma
 karo
 karoan
+karpet
 karsa
 kartu
 karung
@@ -3965,6 +3968,7 @@ pisan
 pisang
 pisuh
 pit
+pitak
 pitakon
 pitek
 pitik
