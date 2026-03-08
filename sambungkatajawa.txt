@@ -119,6 +119,7 @@ gawe
 gawok
 gayung
 gembel
+gendeng
 gi
 gila
 gilo
@@ -149,6 +150,7 @@ hara
 harimau
 hasan
 hasil
+he
 heran
 heri
 hi
@@ -201,6 +203,7 @@ isu
 itil
 iwak
 iyo
+jab
 jancok
 jare
 jawa
@@ -208,6 +211,7 @@ jawir
 jaya
 jenang
 jeneng
+jili
 jimat
 kadal
 kali
@@ -270,6 +274,7 @@ lombok
 lungguh
 lurah
 lusa
+luwung
 mada
 madang
 madu
@@ -285,6 +290,7 @@ maturnuwun
 melas
 min
 modar
+mosok
 moto
 mulane
 muleh
@@ -310,6 +316,7 @@ ngaji
 ngaleh
 ngalor
 nganjuk
+ngantuk
 ngapa
 ngapak
 ngarit
@@ -347,6 +354,7 @@ ol
 olah
 ole
 oleh
+olo
 omah
 ompong
 oncek
@@ -365,6 +373,7 @@ payah
 pinten
 piro
 po
+pol
 pun
 pundhut
 punika
@@ -389,6 +398,7 @@ rin
 rindu
 ris
 roda
+romo
 roti
 run
 rupa
