@@ -1996,6 +1996,7 @@ kapok
 kapor
 kapuk
 kapur
+kapus
 kar
 kara
 karak
@@ -3377,6 +3378,7 @@ osah
 osek
 oseng
 osik
+osor
 ot
 otak
 otot
