@@ -106,6 +106,7 @@ ake
 akeh
 aker
 aket
+akhir
 aki
 akik
 akil
@@ -587,6 +588,7 @@ buko
 bul
 bulan
 bulat
+bule
 buli
 bum
 bumi
@@ -869,6 +871,7 @@ ehem
 eher
 ehey
 ehi
+ehil
 ehir
 eho
 ehod
@@ -943,6 +946,7 @@ empal
 empang
 empek
 emper
+empet
 emping
 emprit
 empun
@@ -1062,6 +1066,7 @@ eto
 etok
 eton
 etos
+etu
 etuk
 etus
 ew
@@ -2979,6 +2984,7 @@ nuwun
 nyamuk
 nyapa
 nyapu
+nyasar
 nyawiji
 nyedhak
 nyilih
@@ -4089,6 +4095,7 @@ uri
 urih
 urik
 urip
+uripan
 uris
 urit
 uru
