@@ -123,6 +123,7 @@ alay
 alem
 aleman
 aler
+ales
 alet
 alhamdulillah
 ali
@@ -285,6 +286,7 @@ aris
 arisan
 arit
 arjuna
+arjuno
 aroh
 aros
 arsa
@@ -826,6 +828,7 @@ epan
 epang
 epar
 epas
+epe
 epek
 epel
 epen
@@ -1407,6 +1410,7 @@ jan
 jancok
 jang
 jangan
+jangkep
 jangkrik
 janji
 jaran
@@ -2992,6 +2996,7 @@ sampun
 sana
 sandhang
 sangga
+sangkuni
 sangu
 sanjang
 santun
