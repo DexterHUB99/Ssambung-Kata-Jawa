@@ -4072,6 +4072,7 @@ sabi
 sabtu
 sabun
 sadar
+sade
 sae
 saestu
 saget
@@ -4456,6 +4457,7 @@ tati
 tatu
 taun
 tawan
+tawar
 tawon
 te
 tegal
