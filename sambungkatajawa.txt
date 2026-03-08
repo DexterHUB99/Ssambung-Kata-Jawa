@@ -574,6 +574,7 @@ cin
 cincin
 cino
 cinta
+cire
 cocok
 cocot
 cocote
@@ -791,6 +792,7 @@ elo
 elok
 elon
 elu
+eluh
 elus
 ema
 emak
@@ -995,6 +997,7 @@ garu
 garuk
 garut
 garwa
+gas
 gasa
 gasak
 gasik
@@ -2828,6 +2831,7 @@ poran
 pos
 posi
 potong
+prajurit
 prakawis
 pripun
 pu
@@ -3117,6 +3121,7 @@ sayah
 sayang
 sayor
 sayur
+sedan
 sedina
 sedulur
 sega
@@ -3137,6 +3142,7 @@ senang
 sendal
 sendhang
 senin
+separo
 sepi
 sepuh
 sepur
@@ -3311,6 +3317,7 @@ tanduran
 tangan
 tangga
 tangi
+tani
 tanpa
 tansah
 tape
@@ -3593,6 +3600,7 @@ urung
 urup
 urus
 urusan
+us
 usa
 usah
 usaha
