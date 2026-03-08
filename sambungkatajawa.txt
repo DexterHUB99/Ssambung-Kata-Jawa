@@ -267,6 +267,7 @@ amung
 amut
 an
 ana
+anae
 anah
 anai
 anak
@@ -369,6 +370,7 @@ anjrit
 anjuk
 anjur
 anjuran
+ano
 anom
 anoman
 anta
@@ -388,6 +390,7 @@ antuk
 anu
 anuk
 anum
+anun
 anus
 anut
 anyam
@@ -1069,6 +1072,7 @@ dimana
 dimas
 dimul
 dina
+dinan
 dinas
 dinggo
 dingklik
@@ -1439,6 +1443,7 @@ eseh
 esek
 esem
 eses
+esi
 esih
 esin
 eso
@@ -1454,7 +1459,6 @@ etak
 etan
 ete
 etel
-eten
 etes
 eti
 etig
@@ -1528,7 +1532,6 @@ galih
 galo
 galok
 galon
-galung
 galungan
 gaman
 gambang
@@ -1542,6 +1545,7 @@ gambyong
 game
 gamel
 gamelan
+gamer
 gamis
 gampang
 gampil
@@ -1613,6 +1617,7 @@ gayeng
 gayuh
 gayung
 ge
+geber
 geblek
 gedag
 gedang
@@ -1677,6 +1682,7 @@ genter
 genti
 genting
 gentong
+gentos
 genuk
 geol
 geprek
@@ -2041,7 +2047,6 @@ ikhlas
 ikhtiar
 iki
 ikian
-ikie
 ikih
 ikil
 iklas
@@ -2384,6 +2389,7 @@ kahanan
 kaila
 kain
 kaisa
+kaisar
 kajeng
 kaji
 kajian
@@ -2650,6 +2656,7 @@ ketemu
 kethek
 ketiban
 ketir
+ketis
 ketok
 ketup
 ketupat
@@ -2908,6 +2915,7 @@ lancip
 landa
 landak
 landep
+landi
 landung
 langgeng
 langit
@@ -3035,6 +3043,7 @@ lindhu
 lindur
 linggih
 linggis
+lingkar
 lingkung
 linglung
 lingsir
@@ -3338,6 +3347,7 @@ miris
 mirsani
 mis
 misake
+miskin
 misuh
 mitoni
 mlaku
@@ -3830,6 +3840,7 @@ ngilu
 ngiman
 ngimi
 ngimpi
+ngin
 nging
 nginjak
 ngintip
@@ -3847,7 +3858,6 @@ ngising
 ngisini
 ngisor
 ngisu
-ngisuh
 ngitung
 ngiwa
 ngiwasi
@@ -4043,6 +4053,7 @@ non
 nona
 nong
 nongki
+nongkrong
 noni
 nonjok
 nonton
@@ -4115,7 +4126,6 @@ nyedhak
 nyilih
 nyiram
 nyong
-nyunggi
 nyusahake
 nyusu
 nyusul
@@ -4140,7 +4150,6 @@ ogol
 oh
 ohh
 oho
-ohya
 oj
 ojek
 ojo
@@ -4230,6 +4239,7 @@ opak
 opel
 open
 opera
+opes
 opet
 opo
 opon
@@ -4437,6 +4447,7 @@ pikuk
 pikul
 pikun
 pil
+pila
 pilah
 pilak
 pilar
@@ -4733,7 +4744,6 @@ resah
 rese
 resi
 resik
-resika
 restu
 reti
 rewang
@@ -4794,6 +4804,7 @@ rombeng
 rombong
 rombongan
 rome
+romi
 romo
 rompi
 ron
@@ -4919,6 +4930,7 @@ sandang
 sandangan
 sandhang
 sanes
+sangar
 sangga
 sangka
 sangkuni
@@ -5359,6 +5371,7 @@ tempura
 temu
 ten
 tenan
+tenanan
 tenane
 tenang
 tengah
@@ -5390,7 +5403,6 @@ tikung
 tikungan
 tikus
 til
-tila
 tilap
 tilas
 tile
@@ -5504,7 +5516,6 @@ tumpuk
 tumrap
 tumrape
 tumut
-tun
 tunas
 tunggal
 tunggu
@@ -5939,7 +5950,6 @@ yohan
 yoiku
 yok
 yoka
-yoki
 yom
 yoman
 yon
