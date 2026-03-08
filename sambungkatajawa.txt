@@ -3556,6 +3556,7 @@ ngrumat
 ngucap
 ngucek
 ngudang
+ngudek
 ngudi
 ngudud
 ngudut
