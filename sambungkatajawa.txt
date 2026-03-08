@@ -219,6 +219,7 @@ aner
 anes
 angel
 angen
+anger
 anget
 anggar
 anggara
@@ -231,6 +232,7 @@ angkasa
 angker
 angklung
 angkot
+angkring
 angkringan
 angkuh
 angsa
@@ -610,6 +612,7 @@ culik
 curut
 cusu
 dab
+dablek
 dada
 dadi
 dadu
@@ -843,6 +846,7 @@ emoh
 emok
 empal
 empang
+empek
 emper
 emping
 empun
@@ -3798,6 +3802,7 @@ wilangan
 win
 windu
 wingi
+wingking
 wira
 wirang
 wis
