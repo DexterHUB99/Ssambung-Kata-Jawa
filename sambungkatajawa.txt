@@ -2116,6 +2116,7 @@ jer
 jera
 jero
 jeruk
+ji
 jijih
 jijik
 jikuk
@@ -4687,6 +4688,7 @@ sola
 solah
 solar
 solat
+sole
 soli
 solid
 somat
