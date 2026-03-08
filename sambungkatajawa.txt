@@ -3584,6 +3584,7 @@ pungkasan
 punika
 punten
 pupu
+puput
 puri
 purun
 pus
