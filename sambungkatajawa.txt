@@ -3484,6 +3484,7 @@ pelem
 peli
 pena
 penak
+pendopo
 peni
 pensil
 pentil
@@ -3650,6 +3651,7 @@ rambut
 rambutan
 rambute
 rame
+rames
 rampung
 rampungan
 ramu
