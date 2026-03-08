@@ -49,7 +49,6 @@ ahab
 ahad
 ahah
 ahal
-aham
 ahan
 ahar
 ahas
@@ -173,7 +172,6 @@ aman
 amanah
 amarga
 amargi
-amat
 amba
 ambal
 ambar
@@ -404,7 +402,6 @@ astaga
 asu
 asuh
 asul
-asup
 asupan
 asus
 asuti
@@ -481,7 +478,6 @@ ayun
 ayunan
 az
 ba
-baba
 babai
 babi
 babu
@@ -569,7 +565,6 @@ biasa
 biaya
 bibik
 bibir
-bibit
 bidan
 bidun
 bidur
@@ -696,7 +691,6 @@ cen
 cendol
 cengel
 cengkeh
-cenil
 cep
 cerak
 ceri
@@ -727,7 +721,6 @@ cok
 coki
 colek
 coli
-colo
 colong
 condong
 congor
@@ -765,7 +758,6 @@ dalan
 dalang
 dalem
 dalu
-dam
 damai
 damel
 damen
@@ -793,7 +785,6 @@ de
 dede
 dedek
 dedemit
-dedi
 dek
 dekil
 delima
@@ -812,7 +803,6 @@ der
 dereng
 desa
 dewa
-dewe
 dewi
 dhadha
 di
@@ -851,7 +841,6 @@ do
 doa
 dodo
 dodol
-dodolan
 dola
 dolan
 dolanan
@@ -989,7 +978,6 @@ elek
 eleng
 eler
 eli
-elik
 eling
 elmu
 elo
@@ -1010,6 +998,7 @@ emas
 emba
 embah
 embat
+embe
 ember
 emboh
 embong
@@ -1080,7 +1069,6 @@ entong
 entuk
 entut
 enyong
-ep
 epa
 epal
 epan
@@ -1367,7 +1355,6 @@ gini
 ginjal
 gir
 giri
-giring
 giru
 gita
 gitar
@@ -1783,6 +1770,7 @@ iwal
 iwan
 iwel
 iya
+iyan
 iyo
 iyuh
 iz
@@ -1801,7 +1789,6 @@ jaluk
 jam
 jamal
 jaman
-jambi
 jambu
 jambul
 jampi
@@ -1840,7 +1827,6 @@ jempol
 jenang
 jeneng
 jenengan
-jenggot
 jer
 jera
 jero
@@ -1892,7 +1878,6 @@ juru
 ka
 kabeh
 kabul
-kaca
 kacang
 kacau
 kacek
@@ -2619,7 +2604,6 @@ meja
 mekar
 mel
 melas
-melek
 melu
 mem
 meme
@@ -3086,7 +3070,6 @@ ngorong
 ngos
 ngosek
 ngosok
-ngowe
 ngowoh
 ngoyak
 ngoyo
@@ -3321,6 +3304,7 @@ op
 opa
 opah
 opak
+opel
 opo
 opor
 or
@@ -3428,6 +3412,7 @@ pawon
 payah
 payung
 pe
+pedes
 pedot
 peka
 pekok
@@ -3857,7 +3842,6 @@ sarep
 sari
 sarna
 saru
-sarung
 sarungan
 sasa
 sasi
@@ -3919,6 +3903,7 @@ serong
 sesek
 sesupe
 setan
+sewelas
 sewu
 sia
 sial
@@ -3945,7 +3930,6 @@ silit
 sim
 siman
 simbah
-simpang
 simpenan
 sin
 sinau
@@ -3955,7 +3939,6 @@ singa
 singgah
 sinom
 sinoman
-sinta
 sinten
 sip
 sipit
@@ -4093,7 +4076,6 @@ tah
 tahu
 tahun
 tai
-taik
 tak
 taka
 taken
@@ -4139,7 +4121,6 @@ tasi
 tat
 tata
 tatah
-tatas
 tati
 tatu
 taun
@@ -4445,7 +4426,6 @@ urih
 urik
 urip
 uripan
-uripku
 uris
 urit
 uru
