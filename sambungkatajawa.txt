@@ -555,6 +555,7 @@ bon
 bongkok
 boro
 borok
+boros
 bosen
 boso
 bosok
@@ -687,6 +688,7 @@ dadu
 dagang
 dagu
 dahar
+dahi
 dakar
 daki
 dakon
@@ -1181,6 +1183,7 @@ geli
 gelis
 gelo
 gelot
+gelud
 gelut
 gemar
 gemati
@@ -1283,6 +1286,7 @@ goyang
 gragal
 graji
 griya
+grujuk
 gu
 gudang
 gudeg
@@ -2295,6 +2299,7 @@ lus
 lusa
 luwe
 luweh
+luwes
 luwih
 luwung
 ma
@@ -3281,6 +3286,7 @@ randu
 rang
 rangkat
 rangkul
+ranjang
 rantas
 raos
 rap
