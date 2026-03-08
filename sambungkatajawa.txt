@@ -71,6 +71,7 @@ alas
 alay
 alem
 aleman
+alhamdulillah
 ali
 alih
 alim
@@ -102,6 +103,7 @@ amit
 ampal
 amparan
 ampun
+amrih
 amu
 amung
 an
@@ -192,6 +194,7 @@ asik
 asin
 asli
 asma
+asmara
 aso
 asop
 asor
@@ -435,6 +438,7 @@ enggal
 enggeh
 engkang
 eni
+enok
 entek
 enteni
 entong
@@ -737,6 +741,7 @@ indak
 indang
 indu
 induk
+indung
 inep
 ing
 inggih
@@ -1150,6 +1155,7 @@ matamu
 matane
 matek
 mati
+matur
 maturnuwun
 mau
 melas
@@ -1924,6 +1930,7 @@ urih
 urik
 urip
 urung
+urup
 urus
 urusan
 usa
