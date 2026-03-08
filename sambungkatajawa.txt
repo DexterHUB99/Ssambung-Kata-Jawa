@@ -487,6 +487,7 @@ dur
 dura
 duren
 duri
+durian
 durung
 duso
 dusun
@@ -753,6 +754,7 @@ gosong
 gragal
 gu
 gudang
+gudel
 gudhal
 gugah
 guguk
@@ -1159,12 +1161,14 @@ kepo
 kepriye
 kera
 kere
+keren
 kereta
 keri
 kero
 kersa
 kesah
 kesel
+kesna
 ketek
 ketemu
 ketir
@@ -1327,6 +1331,7 @@ layar
 layu
 leh
 lele
+lem
 lemah
 lemot
 lemper
@@ -1543,6 +1548,7 @@ nangkring
 nani
 naon
 napa
+napak
 napi
 naran
 nari
@@ -2283,6 +2289,7 @@ telu
 tembok
 tempe
 tempik
+tenan
 tenane
 teras
 teri
