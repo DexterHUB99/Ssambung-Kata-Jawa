@@ -71,6 +71,7 @@ aki
 akik
 akil
 akir
+akit
 ako
 akor
 aksara
@@ -328,6 +329,7 @@ besok
 besuk
 biasa
 biaya
+bibik
 bibir
 bidan
 bidun
@@ -1700,6 +1702,7 @@ ngecek
 ngelak
 ngelawak
 ngeling
+ngeloni
 ngelu
 ngemut
 ngendi
@@ -1889,6 +1892,7 @@ onar
 oncek
 oncom
 onde
+oneng
 online
 onta
 oo
@@ -2220,6 +2224,7 @@ sawit
 sayah
 sayang
 sayur
+sega
 sego
 seket
 sela
