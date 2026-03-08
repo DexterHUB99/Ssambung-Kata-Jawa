@@ -961,6 +961,7 @@ daun
 dawa
 dawet
 dawuh
+dayang
 de
 dede
 dedek
@@ -1389,6 +1390,7 @@ esok
 eson
 estri
 estu
+esu
 esuk
 et
 eta
@@ -3240,6 +3242,7 @@ mrono
 mu
 mual
 mubeng
+mudal
 mudar
 mudeng
 mudhun
