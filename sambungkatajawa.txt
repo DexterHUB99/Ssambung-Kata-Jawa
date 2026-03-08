@@ -749,6 +749,7 @@ indak
 indang
 indu
 induk
+indung
 inep
 ing
 inggih
@@ -1148,6 +1149,7 @@ mana
 manasi
 mandi
 mane
+maneh
 manga
 mangan
 mangku
@@ -1506,6 +1508,7 @@ pani
 panis
 panjenengan
 papan
+par
 parani
 pari
 paring
