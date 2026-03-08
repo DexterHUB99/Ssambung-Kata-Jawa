@@ -1217,6 +1217,7 @@ engko
 engkol
 eni
 enik
+enir
 enjang
 enjih
 enjing
@@ -4548,6 +4549,7 @@ silet
 silih
 silit
 sim
+sima
 simak
 siman
 simbah
