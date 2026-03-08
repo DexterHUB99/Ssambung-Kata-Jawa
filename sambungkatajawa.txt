@@ -18,6 +18,7 @@ ajal
 ajeng
 akal
 akeh
+aki
 akil
 aksi
 aku
@@ -121,6 +122,7 @@ gareng
 garing
 garuk
 gatel
+gatot
 gawe
 gawok
 gayung
@@ -241,6 +243,7 @@ klambi
 ko
 koe
 koen
+kolak
 kono
 kontrol
 ku
@@ -318,8 +321,10 @@ nangka
 nasi
 nata
 nawa
+nduk
 negara
 nekat
+neko
 nembung
 nesu
 ngadi
@@ -347,6 +352,7 @@ ngrit
 ngukur
 ngulek
 ngundang
+ngupil
 ngurip
 nikah
 niki
@@ -370,6 +376,7 @@ oleh
 olo
 omah
 ompong
+onar
 oncek
 onta
 opa
@@ -447,6 +454,7 @@ tali
 tam
 tamu
 tanduran
+tangi
 tanpa
 tata
 taun
@@ -468,6 +476,7 @@ udan
 udang
 ugo
 ujuk
+ujung
 uka
 ukar
 ukara
@@ -503,6 +512,7 @@ utawi
 utek
 utel
 uyuh
+wadon
 warisan
 wayang
 werno
