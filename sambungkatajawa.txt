@@ -203,6 +203,7 @@ cabi
 cacah
 camat
 candra
+cawik
 cecak
 celeng
 cengkeh
@@ -350,6 +351,7 @@ gari
 garing
 garuk
 gasa
+gasak
 gatel
 gatot
 gawai
@@ -650,6 +652,7 @@ klumah
 ko
 koe
 koen
+kok
 kol
 kolak
 kolam
@@ -767,6 +770,7 @@ lusa
 luweh
 luwih
 luwung
+maca
 mada
 madang
 madhang
@@ -780,6 +784,7 @@ mambu
 man
 manasi
 mandi
+manga
 mangan
 mangku
 manis
@@ -831,6 +836,7 @@ nak
 nala
 nali
 nalika
+nama
 nambah
 nambai
 nan
@@ -864,6 +870,7 @@ nembung
 nenen
 neng
 nengdi
+neptu
 nerjang
 nesu
 ngacung
@@ -1048,6 +1055,7 @@ poli
 polisi
 poni
 por
+pora
 pripun
 puasa
 pun
