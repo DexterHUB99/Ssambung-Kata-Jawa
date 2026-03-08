@@ -211,6 +211,7 @@ amah
 amal
 aman
 amanah
+amang
 amarga
 amargi
 amat
@@ -3135,6 +3136,7 @@ lupis
 luput
 lur
 lurah
+lurik
 luruh
 lurus
 lus
@@ -5049,6 +5051,7 @@ siku
 sikut
 sil
 sila
+silah
 silam
 silet
 sili
@@ -5591,6 +5594,7 @@ ulangan
 ulangi
 ular
 ulas
+ulasan
 ulat
 ule
 uleg
