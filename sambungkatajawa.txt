@@ -362,6 +362,7 @@ anjog
 anjrit
 anjur
 anjuran
+ano
 anom
 anoman
 anta
@@ -381,6 +382,7 @@ antuk
 anu
 anuk
 anum
+anun
 anus
 anut
 anyam
@@ -651,7 +653,6 @@ becik
 beda
 bedes
 bedha
-bedo
 bedok
 bedong
 bedug
@@ -865,7 +866,6 @@ cekel
 celek
 celeng
 celuk
-cemani
 cempe
 cemplung
 cen
@@ -1051,6 +1051,7 @@ dimana
 dimas
 dimul
 dina
+dinan
 dinas
 dinggo
 dingklik
@@ -1417,8 +1418,8 @@ eseh
 esek
 esem
 eses
+esi
 esih
-esin
 eso
 esok
 eson
@@ -1589,6 +1590,7 @@ gayeng
 gayuh
 gayung
 ge
+geber
 geblek
 gedag
 gedang
@@ -1652,6 +1654,7 @@ genter
 genti
 genting
 gentong
+gentos
 genuk
 geol
 geprek
@@ -2128,14 +2131,12 @@ irah
 irahan
 irai
 irak
-iram
 irama
 iras
 ireng
 iri
 irian
 irigasi
-irin
 iring
 iringan
 iris
@@ -2342,7 +2343,6 @@ kadang
 kademan
 kados
 kadung
-kadut
 kae
 kafan
 kaget
@@ -2610,6 +2610,7 @@ ketemu
 kethek
 ketiban
 ketir
+ketis
 ketok
 ketup
 ketupat
@@ -2864,6 +2865,7 @@ lancip
 landa
 landak
 landep
+landi
 landung
 langgeng
 langit
@@ -3286,6 +3288,7 @@ miris
 mirsani
 mis
 misake
+miskin
 misuh
 mitoni
 mlaku
@@ -3772,6 +3775,7 @@ ngilu
 ngiman
 ngimi
 ngimpi
+ngin
 nging
 nginjak
 ngintip
@@ -3982,6 +3986,7 @@ non
 nona
 nong
 nongki
+nongkrong
 noni
 nonjok
 nonton
@@ -4163,6 +4168,7 @@ opak
 opel
 open
 opera
+opes
 opet
 opo
 opon
@@ -4190,7 +4196,6 @@ orotan
 os
 osah
 osaka
-osal
 osan
 osek
 oseng
@@ -4699,7 +4704,6 @@ rob
 robah
 roban
 roda
-rodo
 rogoh
 rok
 roke
@@ -4713,6 +4717,7 @@ rombeng
 rombong
 rombongan
 rome
+romi
 romo
 rompi
 ron
@@ -5273,6 +5278,7 @@ tempura
 temu
 ten
 tenan
+tenanan
 tenane
 tenang
 tengah
