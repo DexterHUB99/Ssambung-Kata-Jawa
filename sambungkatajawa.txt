@@ -906,6 +906,7 @@ demok
 dendeng
 dene
 deneng
+dengkul
 deni
 der
 dereng
@@ -1426,6 +1427,7 @@ gaul
 gawa
 gawai
 gawan
+gawang
 gawe
 gawean
 gaweopo
