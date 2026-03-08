@@ -168,6 +168,7 @@ anteman
 anteng
 anti
 anting
+anton
 anu
 anut
 anyar
@@ -245,6 +246,7 @@ atur
 aturan
 aul
 aulah
+auman
 aus
 aut
 awak
@@ -354,6 +356,7 @@ cik
 ciki
 cilaka
 cilik
+cino
 cinta
 cocok
 cocot
@@ -366,6 +369,7 @@ colong
 condong
 coro
 curut
+dada
 dadi
 dadu
 dagang
@@ -394,6 +398,7 @@ dede
 dedemit
 demok
 dendeng
+deneng
 dewi
 di
 didik
@@ -533,6 +538,7 @@ eper
 epet
 epi
 epil
+epis
 epo
 era
 erah
@@ -548,6 +554,7 @@ erosi
 eru
 eruh
 eruk
+erupi
 es
 esa
 esay
@@ -568,6 +575,8 @@ eyang
 ga
 gabah
 gaber
+gabung
+gading
 gae
 gagah
 gage
@@ -623,7 +632,9 @@ ge
 gedang
 gede
 gedhe
+geger
 geh
+gelang
 gelo
 gelut
 gemar
@@ -633,6 +644,7 @@ gemblong
 gemblung
 gemuk
 gen
+gendar
 gendeng
 gendruwo
 gene
@@ -641,9 +653,11 @@ gentong
 gerah
 geram
 gerang
+geret
 gerji
 gesek
 geseng
+gethuk
 gi
 gidal
 gigal
@@ -851,11 +865,13 @@ imas
 imbalan
 imbu
 imbuh
+imbuhan
 iming
 imit
 imo
 imut
 in
+ina
 inang
 indah
 indak
@@ -947,6 +963,7 @@ jembatan
 jember
 jenang
 jeneng
+jenengan
 jero
 jijik
 jikuk
@@ -998,6 +1015,7 @@ kamus
 kan
 kana
 kanah
+kanan
 kanca
 kancil
 kancut
@@ -1023,8 +1041,10 @@ karepmu
 kari
 karo
 kasar
+kasep
 kasi
 kasih
+kasir
 kasur
 katah
 kathok
@@ -1062,6 +1082,7 @@ kereta
 keri
 kersa
 kesah
+kesel
 ketek
 ketir
 ketok
@@ -1114,6 +1135,7 @@ kontrol
 koper
 kopi
 koplak
+koplo
 kor
 koran
 korek
@@ -1155,6 +1177,7 @@ kunti
 kuntul
 kuping
 kur
+kura
 kurang
 kursi
 kuru
@@ -1188,6 +1211,7 @@ lamun
 lamunan
 lan
 lanang
+lancar
 lancip
 langgeng
 langit
@@ -1347,6 +1371,7 @@ memek
 meneng
 mesake
 met
+mie
 min
 minal
 miring
@@ -1356,6 +1381,7 @@ mlaku
 mlebu
 modar
 moh
+mok
 moleh
 monggo
 mosok
@@ -1513,6 +1539,7 @@ ngepet
 ngertos
 ngeseng
 ngesot
+ngetan
 ngetok
 ngewe
 ngg
@@ -1540,6 +1567,7 @@ ngluwehi
 ngobrol
 ngocok
 ngoko
+ngolah
 ngolet
 ngoli
 ngolo
@@ -1569,10 +1597,12 @@ nguli
 ngulon
 ngumpulake
 ngundang
+ngunjuk
 nguntal
 ngunung
 ngupil
 ngurip
+ngurus
 ngutang
 nguyuh
 ni
@@ -1585,6 +1615,7 @@ niku
 nikung
 nila
 nilep
+nim
 nimbun
 nindak
 ning
@@ -1656,6 +1687,7 @@ omboh
 omong
 omongan
 ompong
+on
 onar
 oncek
 oncom
@@ -1674,6 +1706,7 @@ or
 ora
 orang
 orek
+oren
 oreng
 orep
 ori
@@ -1724,6 +1757,7 @@ pe
 pedot
 peka
 pekok
+pel
 pelem
 peli
 penak
@@ -1748,6 +1782,7 @@ pir
 pirang
 piro
 pis
+pisah
 pisan
 pisang
 pitakon
@@ -1842,11 +1877,14 @@ reget
 rek
 rekasa
 remang
+remas
 rembes
 remeh
 remen
+remi
 rempah
 remuk
+rencang
 rendeng
 rene
 rengginang
@@ -1898,6 +1936,7 @@ rujak
 rukun
 rum
 rumah
+rumiyin
 run
 rung
 rungkad
@@ -2022,6 +2061,7 @@ sunat
 sungai
 sungkan
 sungkem
+sup
 supados
 supaya
 sura
@@ -2052,6 +2092,7 @@ tali
 tam
 tambah
 tambal
+tampar
 tamu
 tanduk
 tandur
@@ -2066,6 +2107,7 @@ tari
 taru
 tata
 taun
+te
 tegal
 teguh
 teko
@@ -2166,6 +2208,7 @@ ukara
 ukarane
 ukir
 ukon
+ukul
 ukur
 ukura
 ukuran
@@ -2194,6 +2237,8 @@ umahe
 umak
 umbar
 umbel
+umbul
+umi
 umpama
 umpamane
 umpan
@@ -2300,6 +2345,7 @@ wedok
 wegah
 wektu
 weling
+wer
 werna
 werno
 weruh
