@@ -1115,6 +1115,7 @@ elar
 elas
 eleh
 elek
+elel
 elem
 elen
 eleng
@@ -1217,6 +1218,7 @@ entek
 enteng
 enteni
 enter
+entir
 entong
 entuk
 entut
