@@ -307,6 +307,7 @@ awakdewe
 awal
 awan
 awas
+awe
 awit
 awong
 awor
@@ -515,6 +516,7 @@ dinas
 dino
 dinten
 dipun
+dir
 disana
 disek
 disik
@@ -1218,6 +1220,7 @@ kaku
 kalah
 kalawan
 kaleh
+kalem
 kali
 kalih
 kalis
@@ -1776,6 +1779,7 @@ naon
 napa
 napak
 napi
+nara
 naran
 narasi
 nari
@@ -2251,6 +2255,7 @@ ra
 rabi
 racun
 rada
+radi
 ragat
 ragi
 rahmat
@@ -2258,6 +2263,7 @@ rai
 raimu
 raine
 raja
+rajang
 rajin
 rajut
 rak
@@ -2443,6 +2449,7 @@ sara
 sarap
 sare
 sari
+sarna
 saru
 sarungan
 sasa
