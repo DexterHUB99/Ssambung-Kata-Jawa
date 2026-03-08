@@ -4153,6 +4153,7 @@ panji
 pantai
 pantar
 panut
+panutan
 papa
 papan
 papat
