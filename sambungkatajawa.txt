@@ -273,6 +273,7 @@ bejan
 bekas
 bengi
 berak
+besok
 besuk
 biaya
 bibir
@@ -581,6 +582,7 @@ gene
 geni
 gentong
 gerah
+geram
 gerang
 gerji
 gesek
@@ -980,6 +982,7 @@ ketok
 ketup
 kewan
 ki
+kidal
 kidang
 kidul
 kika
@@ -997,6 +1000,7 @@ kirab
 kirang
 kiri
 kirik
+kirim
 kis
 kisa
 kita
@@ -1522,6 +1526,7 @@ olo
 om
 oma
 omah
+ombe
 omboh
 omong
 omongan
@@ -1718,6 +1723,7 @@ rin
 rina
 rindu
 ringkas
+ringkih
 ris
 risa
 risi
@@ -1831,6 +1837,7 @@ sop
 sopan
 sopo
 sor
+sore
 sori
 sos
 sose
