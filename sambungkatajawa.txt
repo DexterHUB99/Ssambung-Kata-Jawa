@@ -1,5 +1,4 @@
 aa
-aah
 aaha
 ab
 abab
@@ -24,12 +23,10 @@ adat
 adek
 adem
 aden
-adep
 adhem
 adhi
 adi
 adik
-adil
 adoh
 adol
 ados
@@ -336,6 +333,7 @@ anyir
 ap
 apa
 apal
+apalan
 apar
 ape
 apek
@@ -510,7 +508,6 @@ babuk
 baca
 bacot
 badek
-badokan
 bagong
 bagus
 bah
@@ -530,7 +527,6 @@ bali
 balik
 balon
 balung
-bam
 ban
 bandeng
 bandrek
@@ -602,6 +598,7 @@ bibik
 bibir
 bibit
 bicu
+bidak
 bidan
 bidun
 bidur
@@ -667,7 +664,6 @@ buka
 bukak
 bukit
 buko
-buku
 bul
 bulan
 bulat
@@ -684,7 +680,6 @@ buntut
 buron
 buru
 busi
-busik
 busu
 busuk
 buta
@@ -693,7 +688,6 @@ buto
 butuh
 buy
 buyar
-buyut
 cabe
 cabi
 cacah
@@ -726,7 +720,6 @@ cawik
 cawis
 cebok
 cecak
-cece
 cecek
 cedak
 ceh
@@ -2098,7 +2091,6 @@ kasut
 kat
 kata
 katah
-kates
 kathok
 katok
 katon
@@ -2136,6 +2128,7 @@ kelek
 keles
 keli
 kelingan
+keliru
 kelon
 kelonan
 kelor
@@ -2192,14 +2185,12 @@ keri
 keris
 kerjo
 kero
-keroso
 kersa
 kertas
 kerupuk
 kes
 kesah
 kesat
-kesed
 kesel
 keset
 kesna
@@ -2316,7 +2307,6 @@ kos
 kose
 kosek
 kosok
-kosor
 kot
 kota
 kotak
@@ -2327,7 +2317,6 @@ koyo
 krama
 kripik
 krungu
-krupuk
 ku
 kuasa
 kuat
@@ -2571,7 +2560,6 @@ loh
 lohan
 lok
 loka
-loloh
 lolos
 lom
 loman
@@ -2854,7 +2842,6 @@ murup
 mus
 musa
 musi
-musoh
 musuh
 mut
 mutah
@@ -3405,7 +3392,6 @@ nyilih
 nyiram
 nyong
 nyusahake
-nyuwun
 oalah
 ob
 obah
@@ -3507,7 +3493,6 @@ osaka
 osek
 oseng
 osik
-osok
 osor
 ot
 otak
@@ -3858,7 +3843,6 @@ remek
 remen
 remi
 rempah
-rempon
 remu
 remuk
 ren
@@ -4187,7 +4171,6 @@ slamet
 slametan
 so
 sobat
-sodok
 soklat
 sol
 sola
@@ -4742,7 +4725,6 @@ wahing
 wahyu
 wajan
 wajar
-wakil
 waktu
 walah
 walang
