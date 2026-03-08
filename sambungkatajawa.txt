@@ -597,6 +597,7 @@ barongan
 basi
 baskom
 basuki
+bata
 batok
 bau
 bayi
@@ -617,6 +618,7 @@ bego
 beh
 beja
 bejan
+bejo
 bejur
 bekas
 bekel
@@ -1938,6 +1940,7 @@ ileran
 ili
 ilih
 ilik
+ililang
 ilir
 ilmu
 ilo
@@ -3520,6 +3523,7 @@ ngelon
 ngeloni
 ngelu
 ngeluh
+ngeman
 ngembang
 ngempot
 ngemut
@@ -4937,6 +4941,7 @@ tamba
 tambah
 tambak
 tambal
+tambang
 tameng
 tampah
 tampar
