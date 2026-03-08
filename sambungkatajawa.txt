@@ -2,6 +2,7 @@ aa
 aaha
 ab
 abab
+abad
 abah
 abang
 abi
@@ -295,6 +296,7 @@ atuh
 atun
 atur
 aturan
+atut
 aul
 aulah
 auman
@@ -613,6 +615,7 @@ elap
 eleh
 elek
 eleng
+eler
 eli
 eling
 elo
@@ -2148,6 +2151,8 @@ panjenengan
 papa
 papan
 par
+para
+parah
 parani
 pari
 paring
@@ -2411,6 +2416,7 @@ sah
 sahur
 sajen
 sak
+sakarep
 saku
 salah
 salam
@@ -2693,6 +2699,7 @@ turah
 turi
 turu
 tus
+tusi
 tutuk
 tutup
 tutur
