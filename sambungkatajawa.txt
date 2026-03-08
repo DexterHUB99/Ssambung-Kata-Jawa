@@ -230,6 +230,7 @@ andap
 andaran
 andeg
 andel
+anderan
 andhap
 andheng
 andi
@@ -991,6 +992,7 @@ emoh
 emok
 empal
 empang
+empedu
 empek
 emper
 empet
@@ -1431,6 +1433,7 @@ hajar
 hajat
 haji
 hak
+haka
 haki
 hakim
 hal
@@ -1763,6 +1766,7 @@ jaran
 jaranan
 jare
 jari
+jarik
 jasa
 jatah
 jati
@@ -2468,6 +2472,7 @@ maling
 malu
 mam
 mama
+mamah
 mamas
 mambu
 mampus
@@ -3030,6 +3035,7 @@ nguping
 nguri
 ngurip
 nguripi
+ngurui
 ngurus
 ngusap
 nguser
@@ -3336,6 +3342,7 @@ penak
 peni
 pensil
 pentil
+pera
 peri
 perih
 peta
@@ -3456,6 +3463,7 @@ rada
 raden
 radi
 raga
+ragam
 ragangan
 ragat
 ragi
@@ -3997,6 +4005,7 @@ tangi
 tani
 tanpa
 tansah
+tante
 tapa
 tape
 tapi
