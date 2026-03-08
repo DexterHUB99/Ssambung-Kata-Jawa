@@ -229,7 +229,6 @@ ampal
 amparan
 ampe
 ampela
-amper
 ampil
 ampir
 amplas
@@ -386,7 +385,6 @@ arang
 aras
 arat
 are
-areh
 arek
 arel
 arem
@@ -510,7 +508,6 @@ awakdewe
 awake
 awal
 awan
-awang
 awas
 awe
 awet
@@ -741,7 +738,6 @@ bungkus
 buntut
 buron
 buru
-bus
 busi
 busik
 busu
@@ -1122,12 +1118,10 @@ ekek
 ekel
 eker
 eki
-ekik
 ekis
 eklas
 eklek
 eko
-ekol
 ekoli
 ekor
 ekot
@@ -1664,7 +1658,6 @@ guli
 guling
 gulu
 gulung
-gumam
 gumati
 gumun
 gun
@@ -3236,6 +3229,7 @@ napak
 napas
 nape
 napi
+napsu
 nar
 nara
 narai
@@ -4461,7 +4455,6 @@ saestu
 saget
 sah
 saha
-saham
 sahur
 sai
 saiki
@@ -4941,7 +4934,6 @@ tikung
 tikungan
 tikus
 til
-tilam
 tilas
 tile
 tilem
@@ -5227,6 +5219,7 @@ urang
 urap
 uras
 urat
+urek
 uren
 uri
 urih
