@@ -49,7 +49,6 @@ ahab
 ahad
 ahah
 ahal
-aham
 ahan
 ahar
 ahas
@@ -177,6 +176,7 @@ amba
 ambal
 ambar
 ambek
+amben
 ambil
 ambu
 ambung
@@ -461,6 +461,7 @@ awit
 awong
 awor
 awul
+awur
 aya
 ayah
 ayak
@@ -757,7 +758,6 @@ dalan
 dalang
 dalem
 dalu
-dam
 damai
 damel
 damen
@@ -841,7 +841,6 @@ do
 doa
 dodo
 dodol
-dodolan
 dola
 dolan
 dolanan
@@ -957,6 +956,7 @@ eker
 eki
 ekis
 eklas
+eklek
 eko
 ekoli
 ekor
@@ -971,6 +971,7 @@ elak
 elan
 elang
 elap
+elar
 elas
 eleh
 elek
@@ -1029,6 +1030,7 @@ ena
 enak
 enal
 enam
+enan
 encok
 endah
 endang
@@ -1081,6 +1083,7 @@ epep
 eper
 epet
 epi
+epih
 epik
 epil
 epis
@@ -1176,6 +1179,7 @@ gage
 gah
 gairah
 gajah
+gajelas
 gaji
 gak
 gaktau
@@ -1350,7 +1354,6 @@ gini
 ginjal
 gir
 giri
-giring
 giru
 gita
 gitar
@@ -1910,6 +1913,7 @@ kalem
 kaler
 kali
 kalih
+kalim
 kalimat
 kalis
 kaliyan
@@ -2058,6 +2062,7 @@ keong
 kep
 kepenak
 kepet
+kepik
 kepiye
 kepo
 kepriye
@@ -2133,6 +2138,7 @@ kirang
 kiri
 kirik
 kirim
+kiriman
 kis
 kisa
 kisi
@@ -2271,6 +2277,7 @@ lagi
 lagu
 lah
 lahir
+lak
 laki
 lakon
 laku
@@ -2321,6 +2328,7 @@ lari
 laron
 laru
 las
+lasa
 lasak
 lase
 latah
@@ -3060,7 +3068,6 @@ ngorong
 ngos
 ngosek
 ngosok
-ngowe
 ngowoh
 ngoyak
 ngoyo
@@ -3508,6 +3515,7 @@ pucuk
 puja
 puki
 pukul
+pula
 pulsa
 pun
 punapa
@@ -3797,6 +3805,7 @@ sampah
 sampai
 sampean
 sampeyan
+sampo
 sampun
 san
 sana
@@ -3871,6 +3880,7 @@ semar
 semok
 sempak
 sempit
+semu
 semut
 senajan
 senang
@@ -3923,14 +3933,15 @@ singa
 singgah
 sinom
 sinoman
-sinta
 sinten
 sip
 sipit
+sir
 sira
 sirah
 siram
 siraman
+sirep
 sirih
 sirna
 siro
@@ -4374,6 +4385,7 @@ unggaran
 unggas
 unggul
 ungkal
+ungkap
 ungkas
 ungkir
 ungu
