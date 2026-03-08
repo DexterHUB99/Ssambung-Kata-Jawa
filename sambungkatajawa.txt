@@ -13,6 +13,7 @@ acu
 ad
 ada
 adah
+adai
 adat
 adek
 adem
@@ -989,6 +990,7 @@ erusi
 es
 esa
 esay
+ese
 eseh
 esek
 esem
@@ -2043,6 +2045,7 @@ lanang
 lancang
 lancar
 lancip
+landep
 langgeng
 langit
 langkung
@@ -2549,6 +2552,7 @@ ngamok
 ngampun
 ngamuk
 ngan
+ngandang
 ngandani
 ngandap
 ngandok
@@ -2640,6 +2644,7 @@ ngetok
 ngewe
 ngg
 nggali
+nggarap
 nggawa
 nggawe
 nggeh
