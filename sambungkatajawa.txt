@@ -37,6 +37,7 @@ alem
 ali
 alip
 aliran
+alur
 aman
 amarga
 ambil
@@ -125,6 +126,7 @@ celeng
 cicak
 cik
 codet
+coro
 curut
 dadi
 dagang
@@ -160,6 +162,7 @@ eleng
 elo
 eman
 ember
+emboh
 emoh
 emok
 enak
@@ -181,6 +184,7 @@ eros
 eruh
 etan
 etig
+etika
 eya
 gairah
 gajah
@@ -488,6 +492,7 @@ nanggung
 nanging
 nangka
 naon
+napa
 nasi
 nastar
 nata
@@ -527,6 +532,7 @@ ngiler
 ngirim
 ngising
 ngisu
+ngitung
 ngoko
 ngolet
 ngoli
@@ -597,7 +603,9 @@ paling
 pan
 pani
 pari
+pasir
 payah
+pil
 pinten
 piro
 pisang
