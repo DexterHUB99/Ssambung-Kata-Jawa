@@ -49,6 +49,7 @@ ahab
 ahad
 ahah
 ahal
+aham
 ahan
 ahar
 ahas
@@ -172,6 +173,7 @@ aman
 amanah
 amarga
 amargi
+amat
 amba
 ambal
 ambar
@@ -758,6 +760,7 @@ dalan
 dalang
 dalem
 dalu
+dam
 damai
 damel
 damen
@@ -841,6 +844,7 @@ do
 doa
 dodo
 dodol
+dodolan
 dola
 dolan
 dolanan
@@ -1068,6 +1072,7 @@ entong
 entuk
 entut
 enyong
+ep
 epa
 epal
 epan
@@ -1354,6 +1359,7 @@ gini
 ginjal
 gir
 giri
+giring
 giru
 gita
 gitar
@@ -1825,6 +1831,7 @@ jempol
 jenang
 jeneng
 jenengan
+jenggot
 jer
 jera
 jero
@@ -3068,6 +3075,7 @@ ngorong
 ngos
 ngosek
 ngosok
+ngowe
 ngowoh
 ngoyak
 ngoyo
@@ -3838,6 +3846,7 @@ sarep
 sari
 sarna
 saru
+sarung
 sarungan
 sasa
 sasi
@@ -3934,6 +3943,7 @@ singa
 singgah
 sinom
 sinoman
+sinta
 sinten
 sip
 sipit
