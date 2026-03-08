@@ -1973,6 +1973,7 @@ ipe
 ipel
 ipes
 ipik
+ipil
 ipin
 ipit
 ipuk
@@ -3065,6 +3066,7 @@ minggu
 minta
 miri
 miring
+mirip
 miris
 mirsani
 mis
@@ -4130,6 +4132,7 @@ poran
 pori
 pos
 pose
+posen
 posi
 potong
 prajurit
