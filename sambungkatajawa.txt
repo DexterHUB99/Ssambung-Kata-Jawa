@@ -2337,6 +2337,7 @@ lanang
 lancang
 lancar
 lancip
+landa
 landak
 landep
 langgeng
@@ -4293,6 +4294,7 @@ tul
 tula
 tulang
 tuli
+tulip
 tulis
 tulisan
 tulung
