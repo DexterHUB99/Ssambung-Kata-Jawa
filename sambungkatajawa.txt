@@ -908,6 +908,7 @@ cire
 cireng
 ciro
 co
+cobaan
 coc
 cocok
 cocot
@@ -1193,6 +1194,7 @@ ehi
 ehil
 ehim
 ehir
+ehis
 eho
 ehod
 ehok
@@ -4225,6 +4227,7 @@ osan
 osek
 oseng
 osik
+osip
 osir
 osok
 osor
