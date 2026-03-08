@@ -495,6 +495,7 @@ campur
 candi
 candra
 cangkem
+cangkul
 caping
 cari
 cawet
@@ -1491,6 +1492,7 @@ kemproh
 kemul
 ken
 kena
+kenapa
 kendang
 kenduri
 kene
@@ -1506,6 +1508,7 @@ kepiye
 kepo
 kepriye
 kera
+kerang
 keras
 kerasa
 kere
@@ -1706,6 +1709,7 @@ laron
 laru
 las
 lase
+latah
 latar
 lathi
 latih
@@ -2227,6 +2231,7 @@ ngoyo
 ngrayu
 ngrit
 ngucap
+ngucek
 ngudang
 ngudi
 ngudud
@@ -2465,6 +2470,7 @@ par
 para
 parah
 parani
+pare
 pari
 paring
 parit
@@ -2660,6 +2666,7 @@ remen
 remi
 rempah
 remuk
+renang
 rencang
 rendang
 rendeng
