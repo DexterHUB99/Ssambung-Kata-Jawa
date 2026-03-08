@@ -465,6 +465,7 @@ batok
 be
 bebas
 bebek
+becak
 becik
 beda
 bedes
@@ -1373,6 +1374,7 @@ himpunan
 hina
 hinggap
 hir
+hira
 hiren
 hiri
 hiruk
@@ -2362,6 +2364,7 @@ mok
 mokong
 mol
 moleh
+molen
 mondok
 monggo
 mor
@@ -3055,11 +3058,13 @@ pilih
 pilok
 pilu
 piluh
+pilus
 pin
 pina
 pinak
 pinang
 pinarak
+pincang
 pindah
 pindang
 pindho
@@ -3455,6 +3460,7 @@ sepuh
 sepur
 serami
 sere
+serius
 serong
 sesupe
 setan
@@ -3987,6 +3993,7 @@ uwit
 uwong
 uyah
 uyuh
+wader
 wadoh
 wadon
 waduh
