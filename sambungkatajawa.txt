@@ -957,6 +957,7 @@ eho
 ehod
 ehok
 ehol
+ehop
 ehor
 ehu
 ehuk
@@ -1842,6 +1843,7 @@ jatah
 jati
 jawa
 jawaban
+jawah
 jawi
 jawir
 jawuh
