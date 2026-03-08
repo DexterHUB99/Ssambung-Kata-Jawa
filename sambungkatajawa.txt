@@ -248,6 +248,7 @@ anjar
 anjay
 anjing
 anjir
+anjlok
 anjur
 anjuran
 anoman
@@ -342,6 +343,7 @@ aso
 asok
 asop
 asor
+asrama
 asri
 assalamualaikum
 asta
@@ -1442,6 +1444,7 @@ indung
 inep
 iner
 ing
+inggal
 inggih
 inggil
 ingin
@@ -3718,6 +3721,7 @@ uma
 umah
 umahe
 umak
+uman
 umbar
 umbel
 umbi
@@ -3804,6 +3808,7 @@ usuk
 usung
 usus
 usut
+ut
 uta
 utama
 utang
