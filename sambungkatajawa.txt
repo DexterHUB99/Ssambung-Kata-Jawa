@@ -172,7 +172,6 @@ amin
 amir
 amis
 amit
-amo
 amoh
 amok
 ampa
@@ -366,7 +365,6 @@ ati
 atin
 atir
 atis
-atma
 ato
 atok
 atom
@@ -463,6 +461,7 @@ bejan
 bejur
 bekas
 bekel
+beko
 belah
 beli
 belo
@@ -529,6 +528,7 @@ boti
 boto
 boyok
 bu
+buaya
 bubar
 bubuk
 bubur
@@ -540,6 +540,7 @@ budi
 budo
 buh
 buk
+buka
 bukit
 buko
 bul
@@ -597,11 +598,13 @@ cerita
 ceto
 ci
 cicak
+cicit
 cik
 cikal
 ciki
 cilaka
 cilik
+cilok
 cin
 cincin
 cino
@@ -618,7 +621,6 @@ coli
 colong
 condong
 congor
-cor
 coro
 corot
 cu
@@ -805,6 +807,7 @@ eho
 ehod
 ehok
 ehol
+ehor
 ehu
 ehuk
 eja
@@ -870,6 +873,7 @@ empang
 empek
 emper
 emping
+emprit
 empun
 emu
 emuh
@@ -907,6 +911,7 @@ enter
 entong
 entuk
 entut
+enyong
 epa
 epal
 epan
@@ -930,6 +935,7 @@ epu
 er
 era
 erah
+erak
 eram
 erang
 eras
@@ -972,7 +978,6 @@ ete
 eti
 etig
 etika
-eto
 etok
 etos
 etuk
@@ -1145,7 +1150,6 @@ gini
 ginjal
 gir
 giri
-giru
 gita
 githok
 giwangan
@@ -1161,6 +1165,7 @@ gok
 gola
 gole
 golek
+golo
 golongan
 gombal
 gondok
@@ -1195,6 +1200,7 @@ gugur
 gul
 gula
 gulai
+gule
 guleng
 guli
 guling
@@ -1225,6 +1231,7 @@ gusah
 gusar
 gusi
 gusti
+gusur
 guyon
 guyu
 ha
@@ -1379,6 +1386,7 @@ ikal
 ikan
 ikat
 ikatan
+ikel
 iket
 iki
 ikih
@@ -1559,6 +1567,7 @@ jimpit
 jin
 jingga
 jinjit
+jinten
 jir
 jira
 jirih
@@ -1625,6 +1634,7 @@ kalo
 kalong
 kalung
 kamar
+kambi
 kambil
 kambing
 kami
@@ -1678,7 +1688,6 @@ karo
 kartu
 karung
 kas
-kasang
 kasar
 kasep
 kasi
@@ -1775,6 +1784,7 @@ kesna
 kesuh
 ketan
 ketar
+ketara
 ketek
 ketemu
 kethek
@@ -1851,6 +1861,7 @@ kontol
 kontrol
 kopeng
 koper
+koperasi
 kopi
 koplak
 koplo
@@ -1936,6 +1947,7 @@ labu
 lagi
 lagu
 lah
+laki
 lakon
 laku
 laler
@@ -2008,6 +2020,7 @@ lema
 lemah
 leman
 lemari
+lembah
 leme
 lemes
 lemot
@@ -2020,7 +2033,6 @@ lepat
 leren
 leres
 leri
-les
 lesu
 lewat
 li
@@ -2141,6 +2153,7 @@ mai
 maju
 makan
 makane
+make
 malah
 maleh
 malu
@@ -2165,6 +2178,7 @@ mangut
 mani
 manis
 manja
+manjing
 mantap
 mantuk
 manuk
@@ -2210,6 +2224,7 @@ mene
 meneng
 meni
 menika
+mentah
 merah
 meri
 mesake
@@ -2752,6 +2767,7 @@ okee
 okeh
 okei
 okel
+okol
 ol
 olah
 olahraga
@@ -3207,6 +3223,7 @@ saget
 sah
 saha
 sahur
+sai
 saiki
 sajen
 sak
@@ -3276,7 +3293,6 @@ sek
 sekawan
 seket
 seko
-sekul
 sela
 selak
 selametan
@@ -3340,10 +3356,8 @@ sirih
 sirna
 siro
 sirsak
-sis
 sisa
 sisi
-sisik
 sisir
 siter
 siti
@@ -3548,7 +3562,6 @@ timbang
 timun
 timur
 tin
-tina
 tindak
 tindhak
 tinggal
@@ -3556,7 +3569,6 @@ tingkah
 tip
 tir
 tiri
-tisi
 tita
 titen
 titi
@@ -3736,7 +3748,6 @@ ungu
 unjuk
 unta
 untal
-untik
 untu
 untuk
 untung
@@ -3746,6 +3757,7 @@ upah
 upam
 upang
 upaya
+upel
 upil
 ur
 ura
@@ -3822,6 +3834,7 @@ wajan
 waktu
 walah
 walang
+walik
 waluh
 wan
 wana
@@ -3834,7 +3847,6 @@ warga
 waris
 warisan
 warok
-waru
 warung
 was
 wasi
@@ -3915,6 +3927,7 @@ yoga
 yogya
 yoh
 yohan
+yoiku
 yoka
 yom
 yoman
