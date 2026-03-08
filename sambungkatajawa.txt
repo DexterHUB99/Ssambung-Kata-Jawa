@@ -151,7 +151,6 @@ akit
 ako
 akol
 akon
-akoni
 akor
 aksa
 aksara
@@ -362,6 +361,7 @@ anjog
 anjrit
 anjur
 anjuran
+ano
 anom
 anoman
 anta
@@ -800,7 +800,6 @@ buntut
 bur
 buron
 buru
-bus
 busi
 busik
 busu
@@ -829,7 +828,6 @@ cakot
 cal
 cama
 camat
-cambah
 campur
 candi
 candra
@@ -1413,6 +1411,7 @@ eseh
 esek
 esem
 eses
+esi
 esih
 eso
 esok
@@ -2034,7 +2033,6 @@ ilih
 ilik
 ililang
 ilir
-ilis
 ilmu
 ilmune
 ilo
@@ -2602,6 +2600,7 @@ ketemu
 kethek
 ketiban
 ketir
+ketis
 ketok
 ketup
 ketupat
@@ -3076,7 +3075,6 @@ lunga
 lungguh
 lungo
 luntur
-lunyu
 lupa
 lupis
 luput
@@ -3277,6 +3275,7 @@ miris
 mirsani
 mis
 misake
+miskin
 misuh
 mitoni
 mlaku
@@ -3973,6 +3972,7 @@ non
 nona
 nong
 nongki
+nongkrong
 noni
 nonjok
 nonton
@@ -4154,6 +4154,7 @@ opak
 opel
 open
 opera
+opes
 opet
 opo
 opon
@@ -4701,6 +4702,7 @@ rombeng
 rombong
 rombongan
 rome
+romi
 romo
 rompi
 ron
@@ -4868,7 +4870,6 @@ sawan
 sawang
 sawi
 sawiji
-sawijine
 sawit
 sayah
 sayang
@@ -5244,7 +5245,6 @@ telu
 teluk
 tem
 tema
-teman
 tembak
 tembang
 tembok
@@ -5252,7 +5252,6 @@ tembung
 teme
 temen
 temon
-tempat
 tempe
 tempel
 tempik
