@@ -2,6 +2,7 @@ aa
 ab
 abang
 abu
+ada
 adah
 adat
 adek
@@ -166,6 +167,7 @@ anteman
 anteng
 anti
 anting
+anton
 anu
 anut
 anyar
@@ -243,6 +245,7 @@ atur
 aturan
 aul
 aulah
+auman
 aus
 aut
 awak
@@ -347,6 +350,7 @@ cik
 ciki
 cilaka
 cilik
+cino
 cinta
 cocok
 cocot
@@ -356,9 +360,9 @@ cok
 colek
 coli
 colong
-condong
 coro
 curut
+dada
 dadi
 dadu
 dagang
@@ -535,6 +539,7 @@ erosi
 eru
 eruh
 eruk
+erupi
 es
 esa
 esay
@@ -610,6 +615,7 @@ ge
 gedang
 gede
 gedhe
+geger
 geh
 gelo
 gelut
@@ -839,6 +845,7 @@ imit
 imo
 imut
 in
+ina
 inang
 indah
 indak
@@ -942,7 +949,6 @@ jirih
 jitak
 jiwa
 joglo
-jola
 joli
 jomblo
 joran
@@ -979,6 +985,7 @@ kamu
 kamus
 kan
 kanah
+kanan
 kanca
 kancil
 kancut
@@ -1004,8 +1011,10 @@ karepmu
 kari
 karo
 kasar
+kasep
 kasi
 kasih
+kasir
 kasur
 katah
 kathok
@@ -1100,7 +1109,6 @@ korek
 kos
 kose
 kot
-kota
 kotak
 kotang
 kowe
@@ -1134,6 +1142,7 @@ kunti
 kuntul
 kuping
 kur
+kura
 kurang
 kursi
 kuru
@@ -1325,6 +1334,7 @@ memek
 meneng
 mesake
 met
+mie
 min
 minal
 miring
@@ -1334,6 +1344,7 @@ mlaku
 mlebu
 modar
 moh
+mok
 moleh
 monggo
 mosok
@@ -1421,14 +1432,12 @@ nengdi
 nepak
 neptu
 ner
-nerak
 nerjang
 nesu
 neteh
 netek
 ngacung
 ngadi
-ngadu
 ngaduk
 ngajak
 ngajeni
@@ -1486,6 +1495,7 @@ ngepet
 ngertos
 ngeseng
 ngesot
+ngetan
 ngetok
 ngewe
 ngg
@@ -1646,6 +1656,7 @@ or
 ora
 orang
 orek
+oren
 oreng
 orep
 ori
@@ -1694,6 +1705,7 @@ pe
 pedot
 peka
 pekok
+pel
 pelem
 peli
 penak
@@ -1717,6 +1729,7 @@ pir
 pirang
 piro
 pis
+pisah
 pisan
 pisang
 pitakon
@@ -1731,7 +1744,6 @@ pol
 pola
 poli
 polisi
-pon
 pondok
 poni
 ponorogo
@@ -1810,9 +1822,11 @@ reget
 rek
 rekasa
 remang
+remas
 rembes
 remeh
 remen
+remi
 rempah
 remuk
 rendeng
@@ -1932,7 +1946,6 @@ siku
 sikut
 sila
 silet
-silit
 siman
 simbah
 sinau
@@ -1988,6 +2001,7 @@ sunat
 sungai
 sungkan
 sungkem
+sup
 supados
 supaya
 sura
@@ -2017,6 +2031,7 @@ tali
 tam
 tambah
 tambal
+tampar
 tamu
 tanduk
 tandur
@@ -2043,7 +2058,6 @@ tempik
 tenane
 teras
 teri
-terong
 ti
 tibo
 tikar
@@ -2156,6 +2170,7 @@ umahe
 umak
 umbar
 umbel
+umi
 umpama
 umpamane
 umpan
@@ -2260,6 +2275,7 @@ wedok
 wegah
 wektu
 weling
+wer
 werna
 werno
 weruh
@@ -2270,7 +2286,6 @@ wewe
 wi
 wingi
 wit
-wiwit
 wolu
 wong
 wuh
