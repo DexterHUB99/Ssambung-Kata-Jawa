@@ -48,6 +48,7 @@ bidan
 bidun
 bojo
 bude
+cik
 dagang
 dalan
 dasi
@@ -78,6 +79,7 @@ gawok
 gayung
 gi
 gila
+gilo
 goblok
 golongan
 gong
@@ -134,6 +136,7 @@ irus
 itil
 iwak
 jancok
+jare
 jawir
 jenang
 jeneng
@@ -222,7 +225,9 @@ ol
 ole
 oleh
 ompong
+onta
 ora
+otot
 padas
 palang
 paling
@@ -236,6 +241,7 @@ rambut
 rampung
 raos
 rasi
+repot
 ridho
 rikma
 riko
@@ -258,10 +264,12 @@ sego
 siji
 siman
 simbah
+sisir
 sopan
 subhanallah
 susu
 sut
+tali
 tanduran
 taun
 teras
@@ -274,6 +282,7 @@ tula
 tumbas
 tutuk
 udan
+udang
 ujuk
 uka
 ukara
