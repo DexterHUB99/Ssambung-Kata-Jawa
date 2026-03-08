@@ -177,6 +177,7 @@ gatot
 gawe
 gawok
 gayung
+gemar
 gembel
 gendeng
 gi
@@ -304,6 +305,7 @@ kamu
 kancil
 kanjeng
 kapak
+kapok
 kapuk
 kapur
 katok
@@ -334,6 +336,7 @@ koran
 koyo
 krama
 ku
+kucing
 kue
 kuku
 kukur
@@ -375,6 +378,7 @@ lele
 lemot
 lihat
 lika
+lila
 lilo
 lima
 limo
@@ -469,6 +473,7 @@ ngos
 ngrit
 ngukur
 ngulek
+nguli
 ngundang
 ngupil
 ngurip
@@ -642,6 +647,7 @@ umpama
 umuk
 umur
 uncal
+undak
 unggah
 ungkir
 ungu
