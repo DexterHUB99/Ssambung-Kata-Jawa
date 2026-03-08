@@ -2121,6 +2121,7 @@ injak
 injek
 injih
 injing
+insyaallah
 intil
 intip
 inul
@@ -2566,6 +2567,7 @@ kendang
 kendel
 kendhil
 kendi
+kendil
 kenduri
 kene
 kenek
@@ -4737,6 +4739,7 @@ risa
 risak
 risi
 risih
+rit
 rita
 riti
 riwayat
