@@ -2430,6 +2430,7 @@ kot
 kota
 kotak
 kotang
+kotor
 kowe
 kowen
 koyo
@@ -3668,6 +3669,7 @@ orah
 orai
 orak
 orang
+orapopo
 ore
 orek
 oren
