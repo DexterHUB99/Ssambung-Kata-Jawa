@@ -756,6 +756,7 @@ cari
 carik
 carita
 caruk
+cat
 cawet
 cawik
 cawis
@@ -908,6 +909,7 @@ dewe
 dewi
 dhadha
 di
+diancok
 didak
 didi
 didik
@@ -1307,6 +1309,7 @@ ex
 eya
 eyang
 eyup
+ez
 fokus
 fungsi
 ga
