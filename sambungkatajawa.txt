@@ -4680,6 +4680,7 @@ sungguh
 sungkan
 sungkem
 sungu
+suni
 suntuk
 sup
 supados
@@ -5008,6 +5009,7 @@ ukai
 ukar
 ukara
 ukarane
+uker
 ukir
 ukiran
 ukon
