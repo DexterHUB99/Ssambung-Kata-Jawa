@@ -1846,6 +1846,7 @@ gusar
 gusi
 gusti
 gusur
+gut
 guwa
 guyon
 guyu
@@ -2661,6 +2662,7 @@ ketiban
 ketir
 ketis
 ketok
+ketuk
 ketup
 ketupat
 kewan
@@ -3375,6 +3377,7 @@ mondok
 monggo
 moni
 mor
+mora
 mori
 moro
 mosok
@@ -4887,6 +4890,7 @@ sahur
 sai
 saiki
 sajen
+saji
 sajim
 sak
 saka
