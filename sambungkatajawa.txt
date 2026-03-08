@@ -2730,6 +2730,7 @@ mil
 mila
 milah
 milih
+milik
 min
 minal
 minat
@@ -2911,6 +2912,7 @@ neduh
 neg
 negara
 negas
+negesi
 negor
 neh
 nek
@@ -4074,6 +4076,7 @@ silet
 silih
 silit
 sim
+simak
 siman
 simbah
 simpang
