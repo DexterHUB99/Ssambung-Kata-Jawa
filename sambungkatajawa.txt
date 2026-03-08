@@ -60,6 +60,7 @@ amerga
 ami
 amin
 amir
+amis
 amit
 amparan
 amung
@@ -259,6 +260,7 @@ esih
 etan
 etig
 etika
+ewoh
 eya
 gaber
 gairah
@@ -292,6 +294,7 @@ gawok
 gayung
 ge
 gedang
+gelo
 gemar
 gemati
 gembel
@@ -324,6 +327,7 @@ gulung
 gun
 guna
 gundul
+guneme
 gunung
 gupak
 gur
@@ -457,6 +461,7 @@ iwal
 iyo
 iz
 jab
+jaluk
 jam
 jambu
 jamu
@@ -589,6 +594,7 @@ langit
 lanjut
 lantang
 laos
+lap
 lapis
 lapo
 lari
@@ -658,6 +664,7 @@ mati
 maturnuwun
 melas
 memek
+mesake
 met
 min
 miring
@@ -800,6 +807,7 @@ ob
 obah
 odol
 ogah
+ogak
 oge
 oh
 ojo
@@ -914,6 +922,7 @@ ringkas
 ris
 risa
 roda
+roma
 rombong
 romo
 rono
