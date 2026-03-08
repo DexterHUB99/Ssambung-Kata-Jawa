@@ -1131,6 +1131,7 @@ ilok
 ilu
 ilui
 im
+ima
 imam
 iman
 imas
@@ -1141,6 +1142,7 @@ imbuhan
 iming
 imit
 imo
+impian
 imut
 in
 ina
@@ -2898,6 +2900,7 @@ uda
 udah
 udan
 udang
+udeg
 udek
 udel
 udeng
@@ -3056,6 +3059,7 @@ uyah
 uyuh
 wadoh
 wadon
+waduh
 waduk
 wae
 wah
