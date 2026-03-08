@@ -604,6 +604,7 @@ bokek
 bokong
 bola
 bolo
+bolong
 bolot
 bom
 bon
@@ -673,7 +674,6 @@ campur
 candi
 candra
 cangkem
-cangkir
 cangkul
 cantik
 canting
@@ -3062,7 +3062,6 @@ ngibadah
 ngibul
 ngicipi
 ngidul
-ngidung
 ngih
 ngijab
 ngijoli
@@ -3329,7 +3328,6 @@ olih
 oling
 olo
 olok
-olokan
 om
 oma
 omah
@@ -3390,7 +3388,6 @@ otak
 otot
 ow
 owah
-owahan
 owak
 pa
 pacik
