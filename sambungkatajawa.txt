@@ -422,6 +422,7 @@ are
 arek
 arel
 arem
+arema
 aren
 areng
 arep
@@ -4706,6 +4707,7 @@ romo
 rompi
 ron
 ronda
+rongpuluh
 roni
 rono
 rop
