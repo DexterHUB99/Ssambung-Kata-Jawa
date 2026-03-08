@@ -804,6 +804,7 @@ bunga
 bungah
 bungkus
 buntut
+bunuh
 bur
 buron
 buru
@@ -3648,6 +3649,7 @@ ngapuro
 ngapus
 ngapusi
 ngar
+ngara
 ngarah
 ngarang
 ngarani
@@ -4621,6 +4623,7 @@ rawan
 rawe
 rawon
 rawuh
+rayap
 rayu
 re
 rebahan
