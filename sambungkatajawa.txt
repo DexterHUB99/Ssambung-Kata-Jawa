@@ -9,6 +9,7 @@ abang
 abdi
 aber
 abi
+abis
 abot
 abrit
 abu
@@ -493,6 +494,7 @@ asup
 asupan
 asus
 asuti
+asuy
 ata
 atah
 atak
@@ -956,6 +958,7 @@ dam
 damai
 damel
 damen
+dampak
 dan
 dana
 dancok
@@ -1266,6 +1269,7 @@ embunan
 embung
 emek
 emem
+emer
 emi
 emil
 emo
@@ -1406,7 +1410,6 @@ eseh
 esek
 esem
 eses
-esi
 esih
 eso
 esok
@@ -1530,6 +1533,7 @@ ganti
 gantung
 ganyong
 gaplek
+gapuk
 gapura
 gar
 gara
@@ -1544,6 +1548,7 @@ gareng
 gari
 garik
 garing
+garis
 garpu
 garu
 garuk
@@ -2053,6 +2058,7 @@ imbung
 iming
 imit
 imo
+impen
 impi
 impian
 impit
@@ -2185,6 +2191,7 @@ iyuh
 iz
 jab
 jaga
+jago
 jagong
 jagung
 jahil
@@ -2280,6 +2287,7 @@ jitak
 jiwa
 jo
 joglo
+jogo
 jok
 joki
 joko
@@ -2348,6 +2356,7 @@ kale
 kalebu
 kaleh
 kalem
+kaleng
 kaler
 kali
 kalian
@@ -2549,6 +2558,7 @@ ker
 kera
 keramas
 kerang
+keranjingan
 keras
 kerasa
 kerat
@@ -2588,7 +2598,6 @@ ketemu
 kethek
 ketiban
 ketir
-ketis
 ketok
 ketup
 ketupat
@@ -2776,6 +2785,7 @@ kur
 kura
 kuran
 kurang
+kurawa
 kuri
 kurna
 kursi
@@ -3126,6 +3136,7 @@ mana
 manah
 manak
 manasi
+mancal
 mandang
 mandeg
 mandhek
@@ -3370,6 +3381,7 @@ nakal
 naker
 naki
 nakon
+nakoni
 nakula
 nala
 nalar
@@ -3655,6 +3667,7 @@ ngeh
 ngejak
 ngejar
 ngek
+ngelag
 ngelak
 ngelap
 ngelas
@@ -3811,6 +3824,7 @@ ngorong
 ngos
 ngosek
 ngosok
+ngosong
 ngoti
 ngotot
 ngowah
@@ -3857,8 +3871,10 @@ nguna
 ngundang
 ngunduh
 ngundur
+ngunem
 ngunggah
 ngungkuli
+nguning
 ngunjuk
 nguntal
 ngunung
@@ -3920,6 +3936,7 @@ nipak
 nipis
 nipu
 nir
+nira
 niri
 nirwana
 nis
@@ -3951,7 +3968,6 @@ non
 nona
 nong
 nongki
-nongkrong
 noni
 nonjok
 nonton
@@ -4133,7 +4149,6 @@ opak
 opel
 open
 opera
-opes
 opet
 opo
 opon
@@ -4433,6 +4448,7 @@ pula
 pulsa
 puluh
 pun
+puna
 punapa
 pundhak
 pundhut
@@ -4445,6 +4461,7 @@ punten
 pupu
 pupuh
 puput
+pur
 pura
 puri
 purna
@@ -4514,6 +4531,7 @@ rampung
 rampungan
 ramu
 ran
+rana
 ranah
 rancang
 randa
@@ -4523,6 +4541,7 @@ rang
 rangga
 rangkat
 rangkul
+rani
 ranjang
 rantang
 rantas
@@ -4905,6 +4924,7 @@ sepi
 sepuh
 sepuluh
 sepur
+sepura
 serami
 sere
 seres
@@ -4972,6 +4992,7 @@ sirih
 sirna
 siro
 sirsak
+sirup
 sis
 sisa
 sisan
@@ -5007,6 +5028,7 @@ sole
 soli
 solid
 som
+somar
 somat
 sombong
 some
