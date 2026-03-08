@@ -3650,6 +3650,7 @@ non
 nona
 nong
 nongki
+noni
 nonjok
 nonton
 nopo
@@ -4917,6 +4918,7 @@ tosa
 toya
 tresno
 tu
+tua
 tuak
 tubruk
 tugel
