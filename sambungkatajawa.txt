@@ -436,6 +436,7 @@ bubur
 budak
 bude
 budhal
+budo
 buk
 bulan
 bulat
@@ -572,6 +573,7 @@ dolanan
 dom
 domba
 dompet
+dong
 donga
 doni
 doro
@@ -2412,6 +2414,7 @@ rai
 raimu
 raine
 raja
+rajah
 rajang
 rajin
 rajut
