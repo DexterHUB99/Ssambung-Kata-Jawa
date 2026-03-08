@@ -288,7 +288,6 @@ aneh
 anek
 aner
 anes
-angan
 angar
 ange
 angel
@@ -647,6 +646,7 @@ bendo
 bene
 bener
 bengi
+bengkok
 beni
 benjol
 benten
@@ -1329,6 +1329,7 @@ erem
 eren
 ereng
 erep
+ereruh
 eri
 erik
 ering
@@ -1384,7 +1385,6 @@ etu
 etub
 etuh
 etuk
-etung
 etus
 ew
 ewang
@@ -2585,6 +2585,7 @@ kola
 kolah
 kolak
 kolam
+kolek
 koloh
 kolong
 kolot
@@ -3019,7 +3020,6 @@ malam
 malang
 maleh
 males
-malesan
 malih
 maling
 malu
@@ -3278,7 +3278,6 @@ nalar
 nali
 nalik
 nalika
-nalikane
 naluri
 nama
 nambah
@@ -3568,7 +3567,6 @@ ngendog
 ngene
 ngenes
 ngeng
-ngengek
 ngenget
 ngenggo
 ngenjang
@@ -4069,6 +4067,7 @@ paku
 pala
 palang
 palem
+paleng
 paling
 paliyan
 palu
@@ -4085,11 +4084,14 @@ panas
 pancal
 pancen
 panci
+pancing
 pandak
+pandawa
 pandu
 panen
 pang
 pangan
+pangapura
 panggah
 panggon
 pangling
@@ -4436,7 +4438,6 @@ rembang
 rembes
 rembug
 rembuk
-rembukan
 rembulan
 remeh
 remek
@@ -4579,6 +4580,7 @@ sa
 sabar
 saben
 sabi
+sabit
 sabtu
 sabun
 sadar
@@ -5127,7 +5129,6 @@ titen
 titi
 titik
 titip
-titis
 tiwas
 tiyang
 to
@@ -5598,6 +5599,7 @@ yati
 yawis
 yekti
 yen
+yes
 yesa
 yi
 yo
