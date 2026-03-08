@@ -644,6 +644,7 @@ bata
 batal
 batok
 bau
+bawal
 bayang
 bayi
 be
@@ -659,6 +660,7 @@ bedo
 bedok
 bedong
 bedug
+begal
 begja
 bego
 beh
@@ -4397,6 +4399,7 @@ pileh
 pilek
 pilem
 pilih
+pilihan
 pilok
 pilu
 piluh
@@ -5478,6 +5481,7 @@ udah
 udakara
 udan
 udang
+udani
 udara
 udeg
 udek
