@@ -2622,6 +2622,7 @@ lani
 lanjut
 lantang
 lantas
+lanti
 lantip
 laos
 lap
