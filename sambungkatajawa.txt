@@ -1240,6 +1240,7 @@ ewoh
 ewu
 eya
 eyang
+eyup
 fokus
 fungsi
 ga
@@ -4637,6 +4638,7 @@ umpane
 umpet
 umuk
 umum
+umume
 umur
 un
 unak
