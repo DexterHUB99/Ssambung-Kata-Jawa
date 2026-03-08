@@ -124,6 +124,7 @@ aki
 akih
 akik
 akil
+akin
 akir
 akit
 ako
@@ -141,6 +142,7 @@ al
 ala
 alah
 alam
+alama
 alang
 alangan
 alap
@@ -254,6 +256,7 @@ anderan
 andhaan
 andhap
 andheng
+andhong
 andi
 andon
 andong
@@ -632,6 +635,7 @@ bintang
 biru
 bis
 bisa
+bisiki
 biso
 bisu
 bisulan
@@ -995,7 +999,6 @@ eco
 eda
 edan
 edi
-edul
 eg
 egak
 ego
@@ -1372,6 +1375,7 @@ gaweopo
 gawok
 gayem
 gayeng
+gayuh
 gayung
 ge
 geblek
@@ -1435,6 +1439,7 @@ gerah
 gerak
 geram
 gerang
+gereh
 gereng
 geret
 geri
@@ -1451,6 +1456,7 @@ gi
 gidal
 gigal
 gigi
+gigih
 gigit
 gigu
 gih
@@ -1507,7 +1513,9 @@ gorok
 gorong
 gosip
 gosok
+gosoki
 gosong
+got
 gowang
 gowo
 goyang
@@ -1516,7 +1524,6 @@ graji
 grana
 griwa
 griya
-grogi
 grujuk
 gu
 gudang
@@ -1692,7 +1699,6 @@ hubungan
 hudan
 hujan
 hukum
-hukume
 hukumen
 hulu
 hum
@@ -1785,6 +1791,7 @@ imas
 imba
 imbal
 imbalan
+imbang
 imbas
 imbat
 imboh
@@ -1810,6 +1817,7 @@ indra
 indu
 induk
 indung
+inem
 inep
 iner
 ing
@@ -2022,6 +2030,7 @@ kacau
 kacek
 kacir
 kacuk
+kacung
 kadal
 kadang
 kademan
@@ -2240,6 +2249,7 @@ keroso
 kersa
 kertas
 kerupuk
+kerutan
 kes
 kesah
 kesat
@@ -2451,6 +2461,7 @@ lagi
 lagu
 lah
 lahir
+lajeng
 lak
 laki
 lakon
@@ -2629,6 +2640,7 @@ lomi
 lompat
 lon
 loncat
+londho
 longgar
 longor
 longsor
@@ -2771,6 +2783,7 @@ masa
 masak
 masam
 masang
+masi
 masih
 masjid
 masu
@@ -2902,6 +2915,7 @@ mur
 murah
 muri
 murid
+murka
 murup
 mus
 musa
@@ -3118,6 +3132,8 @@ ngandut
 nganga
 nganggo
 nganggur
+ngangon
+ngangsu
 ngani
 nganjuk
 nganti
@@ -3195,6 +3211,7 @@ ngenes
 ngeng
 ngenggo
 ngenjang
+ngeno
 ngenteni
 ngentut
 ngepel
@@ -3277,6 +3294,7 @@ ngolah
 ngolet
 ngoli
 ngolo
+ngolok
 ngombe
 ngome
 ngomong
@@ -3295,6 +3313,7 @@ ngorong
 ngos
 ngosek
 ngosok
+ngoti
 ngowah
 ngowe
 ngowoh
@@ -3828,6 +3847,7 @@ rabi
 rabu
 racun
 rada
+radar
 raden
 radi
 raga
@@ -3869,6 +3889,7 @@ rambutan
 rambute
 rame
 rames
+rampas
 rampung
 rampungan
 ramu
@@ -4323,6 +4344,7 @@ sugih
 sujud
 suk
 suka
+suker
 suket
 suki
 suko
@@ -4376,7 +4398,6 @@ susah
 susan
 susi
 susu
-susue
 susul
 susun
 sut
@@ -4485,6 +4506,7 @@ tenan
 tenane
 tengah
 tengen
+tentram
 tentrem
 tenun
 tep
@@ -4556,6 +4578,7 @@ tombak
 tombok
 tompel
 tongkol
+topa
 topeng
 topi
 tora
@@ -4579,6 +4602,7 @@ tukul
 tul
 tula
 tulang
+tulen
 tuli
 tulip
 tulis
@@ -4592,7 +4616,6 @@ tumbas
 tumbuk
 tumindak
 tumit
-tumpah
 tumpak
 tumplek
 tumpuk
@@ -4639,6 +4662,7 @@ udu
 udud
 uduk
 udun
+udur
 udut
 udutan
 ug
@@ -4930,6 +4954,7 @@ wirang
 wirangan
 wiri
 wis
+wisa
 wisuh
 wit
 witan
