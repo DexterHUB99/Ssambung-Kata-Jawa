@@ -46,6 +46,7 @@ anjay
 anjing
 anjir
 anti
+anyar
 apa
 apel
 apung
@@ -69,6 +70,7 @@ bidan
 bidun
 bisu
 bisulan
+bo
 bojo
 bude
 candra
@@ -77,6 +79,7 @@ cik
 codet
 dagang
 dalan
+dan
 dasi
 dina
 disu
@@ -106,6 +109,7 @@ eya
 gajah
 gak
 galak
+galengan
 galer
 gamelan
 gangsal
@@ -271,6 +275,7 @@ lintah
 lisa
 loh
 lombok
+lopa
 lungguh
 lurah
 lusa
@@ -321,6 +326,7 @@ ngapa
 ngapak
 ngarit
 ngertos
+ngg
 nggeh
 nggolek
 ngilang
@@ -348,6 +354,7 @@ nresnani
 oalah
 ogah
 ojo
+ok
 oke
 okeh
 ol
@@ -427,6 +434,7 @@ sugih
 suka
 susu
 sut
+suwe
 tabah
 tai
 tali
