@@ -4564,6 +4564,7 @@ sisik
 sisil
 sisir
 siter
+sithik
 siti
 sitik
 siwak
@@ -5250,6 +5251,7 @@ widya
 wih
 wijaya
 wiji
+wik
 wiku
 wil
 wila
