@@ -17,6 +17,7 @@ ahar
 ahas
 ahat
 ahay
+ahem
 aher
 ahi
 ahik
@@ -537,6 +538,7 @@ gulung
 gumun
 gun
 guna
+gundik
 gundul
 guneme
 gunung
@@ -609,6 +611,7 @@ hujan
 hukum
 hum
 human
+hun
 hur
 hurip
 huru
@@ -707,6 +710,7 @@ isih
 isik
 isin
 isine
+ising
 isis
 islam
 iso
@@ -877,6 +881,7 @@ koyo
 krama
 krungu
 ku
+kuat
 kucing
 kudu
 kue
@@ -1049,6 +1054,7 @@ maturnuwun
 mau
 melas
 memek
+meneng
 mesake
 met
 min
@@ -1260,6 +1266,7 @@ numpak
 numpuk
 nunung
 nunut
+nusa
 nuthuk
 nyawiji
 oalah
@@ -1342,6 +1349,7 @@ pasir
 pawon
 payah
 pe
+pedot
 peka
 pekok
 pelem
@@ -1414,6 +1422,7 @@ randa
 raos
 rap
 rapat
+rape
 rapi
 ras
 rasa
