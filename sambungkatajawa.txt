@@ -15,6 +15,7 @@ aho
 ahoh
 ahok
 ahu
+ahuh
 aing
 air
 ajal
@@ -30,8 +31,8 @@ akut
 ala
 alah
 alem
-aleman
 ali
+alip
 aliran
 aman
 amarga
@@ -52,7 +53,6 @@ anam
 ancik
 ancok
 andi
-anduk
 aneh
 angkuh
 ani
@@ -62,7 +62,6 @@ anjing
 anjir
 antara
 anti
-anu
 anyar
 apa
 apel
@@ -152,6 +151,7 @@ enteni
 entong
 entuk
 eper
+epet
 eram
 erat
 eris
@@ -221,8 +221,8 @@ hiji
 hir
 hiri
 hm
-ho
 hooh
+hormat
 hu
 hum
 human
@@ -333,6 +333,7 @@ ko
 koe
 koen
 kolak
+kolam
 kono
 kontol
 kontrol
@@ -420,6 +421,7 @@ moto
 mulane
 muleh
 mundak
+mung
 murah
 murid
 nadi
@@ -442,13 +444,13 @@ negara
 nekat
 neko
 nembung
-nerjang
 nesu
 ngadi
 ngaji
 ngaleh
 ngalor
 ngamok
+nganggo
 nganjuk
 ngantuk
 ngaos
@@ -468,6 +470,7 @@ ngiler
 ngirim
 ngising
 ngisu
+ngoko
 ngolet
 ngoli
 ngombe
@@ -514,6 +517,7 @@ onar
 oncek
 onta
 opa
+opah
 opak
 opo
 ora
@@ -547,6 +551,7 @@ rame
 rampung
 raos
 rasa
+rasah
 rasi
 ratu
 rawuh
@@ -572,6 +577,7 @@ rusak
 ruti
 sa
 sabar
+saben
 sah
 saku
 salah
@@ -610,7 +616,6 @@ tamu
 tanduran
 tangi
 tanpa
-tansah
 tata
 taun
 telo
@@ -629,6 +634,7 @@ tumut
 tunggal
 turu
 tutuk
+uang
 udan
 udang
 udu
@@ -641,9 +647,7 @@ ukar
 ukara
 ukir
 ukur
-ukuren
 ula
-ulah
 ulam
 ulama
 ular
@@ -683,11 +687,11 @@ utel
 utuh
 uyuh
 wadon
+wah
 wangsul
 warisan
 wayang
 wedang
-wektu
 werno
 weton
 wit
