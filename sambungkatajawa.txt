@@ -48,7 +48,6 @@ agama
 agami
 agawe
 age
-agem
 ageng
 agung
 agus
@@ -57,6 +56,7 @@ aha
 ahab
 ahad
 ahah
+ahak
 ahal
 aham
 ahan
@@ -81,6 +81,7 @@ ahir
 ahis
 ahli
 ahline
+ahlul
 aho
 ahoh
 ahok
@@ -200,7 +201,6 @@ ambal
 ambar
 ambek
 amben
-ambeng
 amber
 ambil
 ambu
@@ -316,6 +316,7 @@ angop
 angsa
 angsal
 angsul
+angsur
 angur
 angus
 ani
@@ -323,7 +324,6 @@ anif
 anik
 aning
 anis
-anja
 anjar
 anjay
 anjing
@@ -395,6 +395,7 @@ aren
 areng
 arep
 ari
+arih
 aring
 arip
 aris
@@ -492,7 +493,6 @@ atum
 atun
 atur
 aturan
-aturen
 atus
 atut
 aub
@@ -632,6 +632,7 @@ bengi
 beni
 benjol
 benten
+bentrok
 berak
 berkah
 bero
@@ -785,6 +786,7 @@ cari
 carik
 carita
 caruk
+cas
 cawe
 cawet
 cawik
@@ -838,6 +840,7 @@ cocot
 cocote
 codet
 cok
+cokelat
 coki
 cokot
 col
@@ -1050,6 +1053,7 @@ dumugi
 dun
 dung
 dungo
+dungu
 dupa
 dur
 dura
@@ -1089,6 +1093,7 @@ ehan
 ehar
 ehas
 ehat
+ehay
 ehe
 ehed
 eheh
@@ -1293,6 +1298,7 @@ eras
 erat
 ere
 erek
+erem
 eren
 ereng
 erep
@@ -1360,7 +1366,6 @@ ewuh
 ex
 eya
 eyang
-eyu
 eyup
 fokus
 fungsi
@@ -1858,6 +1863,7 @@ idam
 idep
 ider
 idih
+idin
 idu
 ieu
 ig
@@ -2594,6 +2600,7 @@ kul
 kula
 kulak
 kuli
+kulina
 kulit
 kulon
 kulup
@@ -2644,7 +2651,6 @@ kutang
 kutha
 kuti
 kutuk
-kuwalat
 kuwe
 kuwi
 la
@@ -2656,6 +2662,7 @@ laen
 lagi
 lagu
 lah
+lahan
 lahir
 lajeng
 lak
@@ -2741,6 +2748,7 @@ layangan
 layar
 layu
 le
+lee
 lega
 legawa
 legi
@@ -2815,7 +2823,6 @@ linglung
 lingsir
 lintah
 lintang
-lintas
 lintu
 lip
 lipan
@@ -2851,6 +2858,7 @@ lohan
 lok
 loka
 lokan
+lola
 loloh
 lolos
 lom
@@ -2887,6 +2895,7 @@ lucu
 ludah
 lugu
 luh
+luhan
 luhur
 luk
 luka
@@ -3034,6 +3043,7 @@ mbok
 mbuh
 me
 medal
+medeni
 mega
 meh
 meja
@@ -3076,6 +3086,7 @@ mikul
 mil
 mila
 milah
+mili
 milih
 milik
 mimis
@@ -3269,7 +3280,6 @@ ndak
 ndang
 ndasmu
 ndelok
-ndoro
 nduk
 ne
 nedah
@@ -3445,6 +3455,7 @@ ngawe
 ngaweh
 ngawi
 ngawiti
+ngawo
 ngawor
 ngawu
 ngawur
@@ -3494,6 +3505,7 @@ ngepel
 ngepet
 ngerek
 ngeri
+ngeroso
 ngersa
 ngerti
 ngertos
@@ -3564,6 +3576,7 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
+ngnggo
 ngobat
 ngobong
 ngobor
@@ -3574,9 +3587,7 @@ ngocok
 ngok
 ngoke
 ngoko
-ngokop
 ngolah
-ngolek
 ngolet
 ngoli
 ngolo
@@ -3716,7 +3727,6 @@ nitih
 nitip
 njajal
 njaluk
-njupuk
 no
 nogel
 noh
@@ -3907,12 +3917,10 @@ opah
 opak
 opel
 open
-opera
 opet
 opo
 opon
 opor
-oposi
 or
 ora
 orah
@@ -4040,7 +4048,6 @@ patih
 patis
 patub
 patuh
-patung
 pawan
 pawang
 pawon
@@ -4201,6 +4208,7 @@ pupu
 puput
 pura
 puri
+purna
 purun
 pus
 pusing
@@ -4219,6 +4227,7 @@ rada
 radar
 raden
 radi
+radio
 raga
 ragam
 ragangan
@@ -4506,6 +4515,7 @@ salam
 sali
 salim
 salon
+salut
 sama
 samar
 sambang
@@ -4710,7 +4720,6 @@ siwur
 slamet
 slametan
 so
-soale
 sobat
 sodok
 sodor
@@ -4774,6 +4783,7 @@ sulam
 sule
 suli
 sultan
+sulung
 sum
 suma
 suman
@@ -5027,6 +5037,7 @@ toren
 tori
 tos
 tosa
+toto
 toya
 tresno
 tu
@@ -5208,7 +5219,6 @@ undangan
 undhi
 unduh
 undur
-unem
 unen
 ung
 ungaran
