@@ -1455,6 +1455,7 @@ geguritan
 geh
 gek
 gel
+gela
 gelang
 gelar
 gelas
@@ -1954,6 +1955,7 @@ iros
 iru
 irub
 irung
+irunge
 irup
 irus
 is
@@ -2309,6 +2311,7 @@ kempol
 kemproh
 kemroh
 kemul
+kemulan
 ken
 kena
 kenapa
