@@ -133,6 +133,7 @@ akit
 ako
 akon
 akor
+akrab
 aksara
 aksen
 aksi
@@ -195,6 +196,7 @@ ambek
 amben
 amber
 ambil
+ambruk
 ambu
 ambung
 ambunge
@@ -250,6 +252,7 @@ anay
 ancen
 ancik
 ancok
+ancuk
 ancur
 andap
 andaran
@@ -514,6 +517,7 @@ ayo
 ayok
 ayu
 ayuh
+ayuk
 ayun
 ayunan
 az
@@ -709,6 +713,7 @@ bunga
 bungah
 bungkus
 buntut
+buri
 buron
 buru
 busi
@@ -1256,6 +1261,7 @@ ese
 eseh
 esek
 esem
+esi
 esih
 eso
 esok
@@ -1930,6 +1936,7 @@ isian
 isih
 isik
 isin
+isinan
 isine
 ising
 isis
@@ -2660,6 +2667,7 @@ limpa
 limun
 lin
 lina
+lindes
 lindhu
 lindur
 linggih
@@ -2741,6 +2749,7 @@ luluh
 luma
 lumajang
 lumaku
+lumbung
 lumpuh
 lumrah
 lumuh
@@ -2758,6 +2767,7 @@ luruh
 lurus
 lus
 lusa
+lusuh
 luwe
 luweh
 luwes
@@ -2989,6 +2999,7 @@ mur
 murah
 muri
 murid
+muring
 murka
 murup
 mus
@@ -3026,6 +3037,7 @@ naki
 nakon
 nakula
 nala
+nalang
 nalar
 nali
 nalik
@@ -3381,6 +3393,7 @@ ngolet
 ngoli
 ngolo
 ngolok
+ngomah
 ngombe
 ngome
 ngomong
@@ -3787,6 +3800,7 @@ pasar
 paser
 pasi
 pasir
+pasrah
 patek
 pati
 patis
@@ -4341,6 +4355,7 @@ senajan
 senang
 sendal
 sendhang
+seneng
 senin
 separo
 sepat
@@ -4868,6 +4883,7 @@ uman
 umbah
 umbar
 umbel
+umbelen
 umbi
 umbul
 umi
@@ -5050,6 +5066,7 @@ wayang
 wayangan
 we
 wedang
+wedangan
 wedhang
 wedhi
 wedhus
