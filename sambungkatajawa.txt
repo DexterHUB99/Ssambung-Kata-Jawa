@@ -496,6 +496,7 @@ babu
 babuk
 baca
 bacot
+badokan
 bagong
 bagus
 bah
@@ -2267,6 +2268,7 @@ kos
 kose
 kosek
 kosok
+kosor
 kot
 kota
 kotak
