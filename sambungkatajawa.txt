@@ -409,6 +409,7 @@ apa
 apak
 apal
 apalan
+apane
 apar
 ape
 apeg
@@ -4535,6 +4536,7 @@ pijit
 pikang
 piki
 pikir
+piknik
 pikuk
 pikul
 pikun
