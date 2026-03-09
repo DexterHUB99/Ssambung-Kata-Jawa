@@ -88,6 +88,7 @@ ahis
 ahli
 ahlian
 ahline
+ahlu
 ahlul
 aho
 ahoh
@@ -3723,6 +3724,7 @@ ngangur
 ngani
 nganjuk
 nganter
+nganthi
 nganti
 ngantor
 ngantuk
@@ -4079,6 +4081,7 @@ nirwana
 nis
 nisa
 nisan
+nista
 nit
 niten
 niti
