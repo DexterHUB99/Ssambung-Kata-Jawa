@@ -776,6 +776,7 @@ bolot
 bom
 bon
 bongkok
+bor
 boro
 borok
 boros
@@ -1599,6 +1600,7 @@ gardu
 garem
 gareng
 gari
+garian
 garik
 garing
 garis
