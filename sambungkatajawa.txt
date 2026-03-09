@@ -1024,6 +1024,7 @@ dedi
 degan
 dek
 dekil
+dekor
 del
 deleh
 deleng
@@ -2011,6 +2012,7 @@ hurip
 huru
 huruf
 hus
+husen
 husna
 hut
 huta
@@ -5729,6 +5731,7 @@ unjuk
 unta
 untal
 untel
+unter
 untik
 untu
 untuk
@@ -6026,3 +6029,4 @@ yuyu
 yuyun
 zakat
 ze
+ziarah
