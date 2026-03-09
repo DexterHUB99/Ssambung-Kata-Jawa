@@ -3180,6 +3180,7 @@ luhan
 luhur
 luk
 luka
+lukisan
 luku
 lulang
 luluh
@@ -4850,6 +4851,7 @@ rina
 rinci
 rindhik
 rindu
+ringin
 ringkas
 ringkih
 rini
