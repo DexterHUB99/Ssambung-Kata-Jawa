@@ -1534,6 +1534,7 @@ gagar
 gagas
 gagasan
 gage
+gagrak
 gaguna
 gah
 gairah
@@ -2871,6 +2872,7 @@ kumel
 kumen
 kumi
 kumpul
+kumpulan
 kumuh
 kun
 kunang
@@ -3829,6 +3831,7 @@ ngeluh
 ngeman
 ngembang
 ngemil
+ngemong
 ngempot
 ngemut
 ngen
