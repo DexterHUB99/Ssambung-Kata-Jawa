@@ -3058,6 +3058,7 @@ lengser
 lepat
 lepe
 ler
+lere
 leren
 leres
 leri
@@ -3293,6 +3294,7 @@ mangun
 mangut
 mani
 manis
+manise
 manja
 manjing
 mantap
