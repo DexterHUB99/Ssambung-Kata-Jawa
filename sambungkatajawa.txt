@@ -3586,6 +3586,7 @@ nawa
 nawang
 nawar
 ndak
+ndalu
 ndang
 ndasmu
 ndawuh
@@ -3918,6 +3919,7 @@ ngisuh
 ngitung
 ngiwa
 ngiwasi
+ngliwet
 nglon
 ngluwehi
 ngluwih
@@ -4559,6 +4561,7 @@ pis
 pisah
 pisan
 pisang
+pisna
 pisuh
 pisut
 pit
