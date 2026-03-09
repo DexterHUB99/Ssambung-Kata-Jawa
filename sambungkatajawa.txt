@@ -1354,6 +1354,7 @@ emut
 en
 ena
 enak
+enake
 enal
 enam
 enan
