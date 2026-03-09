@@ -4594,6 +4594,7 @@ potong
 prajurit
 prakawis
 pranata
+prei
 pring
 pripun
 pu
@@ -5357,6 +5358,7 @@ tambak
 tambal
 tambang
 tameng
+tami
 tampah
 tampar
 tampi
@@ -6005,6 +6007,7 @@ yas
 yasi
 yasin
 yati
+yawes
 yawis
 yekti
 yen
