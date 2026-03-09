@@ -1503,6 +1503,7 @@ etus
 ew
 ewang
 ewe
+ewean
 eweh
 ewi
 ewoh
@@ -3290,7 +3291,6 @@ mangun
 mangut
 mani
 manis
-manise
 manja
 manjing
 mantap
@@ -5055,6 +5055,7 @@ sate
 satru
 satu
 satunggal
+satus
 saur
 saut
 sawah
@@ -5875,6 +5876,7 @@ utus
 utusan
 ututer
 uw
+uwa
 uwes
 uwi
 uwis
