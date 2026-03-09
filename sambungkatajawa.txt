@@ -1489,6 +1489,7 @@ etak
 etan
 ete
 etel
+etem
 eten
 etes
 eti
