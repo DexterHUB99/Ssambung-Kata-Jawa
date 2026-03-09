@@ -1312,6 +1312,7 @@ embat
 embe
 ember
 emboh
+embok
 embong
 embuh
 embuhe
@@ -2652,6 +2653,7 @@ kepepet
 kepet
 kepik
 kepiye
+keplak
 kepo
 kepriben
 kepriye
@@ -3286,6 +3288,7 @@ mangun
 mangut
 mani
 manis
+manise
 manja
 manjing
 mantap
