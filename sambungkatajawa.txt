@@ -416,6 +416,7 @@ apem
 apes
 api
 apik
+apit
 apo
 apol
 apos
@@ -954,6 +955,7 @@ corak
 coro
 corone
 corot
+cot
 cote
 cowo
 cu
