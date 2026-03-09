@@ -2603,6 +2603,7 @@ kemeng
 kemi
 kemiri
 kemis
+kemol
 kempol
 kemproh
 kemroh
@@ -3808,6 +3809,7 @@ ngelu
 ngeluh
 ngeman
 ngembang
+ngemil
 ngempot
 ngemut
 ngen
