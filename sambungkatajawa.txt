@@ -3230,6 +3230,7 @@ malu
 mam
 mama
 mamah
+mamak
 mamas
 mambu
 mami
