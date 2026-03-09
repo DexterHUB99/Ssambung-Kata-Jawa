@@ -507,6 +507,7 @@ asul
 asup
 asupan
 asus
+asut
 asuti
 asuy
 ata
@@ -1552,6 +1553,7 @@ gamis
 gampang
 gampil
 gancet
+gandai
 gandeng
 gandos
 gandrung
