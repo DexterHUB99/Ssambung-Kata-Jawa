@@ -33,6 +33,7 @@ adhi
 adi
 adik
 adil
+adipati
 ado
 adoh
 adol
@@ -722,6 +723,7 @@ beto
 biak
 biang
 biasa
+biawak
 biaya
 bibi
 bibik
@@ -1081,6 +1083,7 @@ dimul
 dina
 dinan
 dinas
+dinding
 dinggo
 dingklik
 dino
@@ -1732,6 +1735,7 @@ gih
 gila
 gilane
 gilang
+gilek
 gili
 giling
 gilo
@@ -1825,10 +1829,12 @@ guling
 gulu
 gulung
 gumati
+gumuh
 gumun
 gun
 guna
 gundah
+gundam
 gundhul
 gundik
 gundul
@@ -2163,6 +2169,7 @@ ipan
 ipar
 ipat
 ipe
+ipek
 ipel
 ipes
 ipik
@@ -2529,6 +2536,7 @@ katil
 katok
 katon
 katot
+katresnan
 katrok
 kaula
 kawah
@@ -2675,6 +2683,7 @@ ketiban
 ketir
 ketis
 ketok
+ketor
 ketuk
 ketup
 ketupat
@@ -2762,6 +2771,7 @@ kolot
 kom
 koma
 komen
+komik
 kompak
 kompor
 kon
@@ -3122,6 +3132,7 @@ longor
 longsor
 lontar
 lonte
+lonthe
 lontong
 lop
 lopa
@@ -3371,8 +3382,11 @@ miskin
 misuh
 mitoni
 mlaku
+mlayu
 mlebu
 mo
+mobil
+modal
 modar
 modus
 mogok
@@ -3494,6 +3508,7 @@ nama
 namba
 nambah
 nambai
+nambal
 name
 nami
 nampa
@@ -3547,6 +3562,7 @@ narimo
 nas
 nasa
 nasai
+nasar
 nasehat
 nasi
 nasib
@@ -3678,9 +3694,11 @@ ngambul
 ngambung
 ngamil
 ngamok
+ngampang
 ngampun
 ngamuk
 ngan
+ngana
 nganah
 ngancani
 ngancing
@@ -4116,6 +4134,7 @@ numplek
 numpuk
 nun
 nung
+nunggang
 nunggoni
 nunggu
 nuntun
@@ -4284,6 +4303,7 @@ orapopo
 oras
 ore
 orek
+orem
 oren
 oreng
 orep
@@ -4372,6 +4392,7 @@ pang
 pangajak
 pangan
 pangapura
+pangestu
 panggah
 panggon
 pangling
@@ -4402,6 +4423,7 @@ pari
 paring
 paringi
 parit
+paro
 paru
 pas
 pasa
@@ -4435,6 +4457,7 @@ peka
 pekan
 pekok
 pel
+pela
 pelan
 pele
 pelem
@@ -4472,6 +4495,7 @@ pijit
 pikang
 piki
 pikir
+pikiran
 pikuk
 pikul
 pikun
@@ -4597,6 +4621,7 @@ puri
 purna
 purun
 pus
+pusaka
 puser
 pusing
 putih
@@ -4646,6 +4671,7 @@ rama
 ramadhan
 ramah
 ramai
+raman
 ramasalah
 rambak
 ramban
@@ -5187,6 +5213,7 @@ sonten
 sop
 sopa
 sopan
+sopi
 sopir
 sopo
 sor
@@ -5377,6 +5404,7 @@ teja
 teka
 tekan
 teko
+tel
 tela
 telan
 telas
@@ -5691,6 +5719,7 @@ umpane
 umpet
 umrah
 umuk
+umul
 umum
 umume
 umur
@@ -5747,6 +5776,7 @@ urah
 urai
 urak
 urakan
+ural
 urang
 urap
 uras
@@ -6002,6 +6032,7 @@ yowis
 yu
 yuda
 yudha
+yudhistira
 yuh
 yuk
 yuka
