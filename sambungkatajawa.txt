@@ -1401,6 +1401,7 @@ entir
 entong
 entuk
 entut
+enul
 enyong
 ep
 epa
@@ -5193,6 +5194,7 @@ siman
 simbah
 simbok
 simpang
+simpen
 simpenan
 sin
 sinau
