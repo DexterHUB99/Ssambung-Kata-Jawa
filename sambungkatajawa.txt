@@ -664,6 +664,7 @@ batal
 batok
 bau
 bawal
+bawok
 bayang
 bayi
 be
