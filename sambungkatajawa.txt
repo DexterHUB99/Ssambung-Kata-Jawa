@@ -2249,6 +2249,7 @@ iso
 isol
 isti
 istiadat
+istigfar
 istilah
 istimewa
 istirahat
@@ -2812,6 +2813,7 @@ kopok
 kor
 kora
 koran
+korban
 korek
 koreng
 korok
