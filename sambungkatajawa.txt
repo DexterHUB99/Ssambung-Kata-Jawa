@@ -1533,6 +1533,7 @@ gagar
 gagas
 gagasan
 gage
+gaguna
 gah
 gairah
 gajah
@@ -2876,6 +2877,7 @@ kuneng
 kung
 kuni
 kuning
+kuningan
 kunir
 kuno
 kunti
