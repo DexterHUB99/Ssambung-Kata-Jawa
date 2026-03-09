@@ -3282,6 +3282,7 @@ mangun
 mangut
 mani
 manis
+manise
 manja
 manjing
 mantap
@@ -3845,6 +3846,7 @@ ngenteni
 ngentut
 ngepel
 ngepet
+ngerasani
 ngerek
 ngeri
 ngeroso
