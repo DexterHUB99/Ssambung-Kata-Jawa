@@ -2524,6 +2524,7 @@ karek
 karep
 karepe
 karepmu
+kares
 karet
 kari
 karma
@@ -3291,7 +3292,6 @@ mangun
 mangut
 mani
 manis
-manise
 manja
 manjing
 mantap
