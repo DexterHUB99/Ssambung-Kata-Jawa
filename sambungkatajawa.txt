@@ -1834,6 +1834,7 @@ gugu
 guguk
 gugup
 gugur
+gugus
 gul
 gula
 gulai
@@ -3288,6 +3289,7 @@ mangun
 mangut
 mani
 manis
+manise
 manja
 manjing
 mantap
