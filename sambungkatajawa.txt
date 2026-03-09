@@ -531,6 +531,7 @@ atep
 ater
 athi
 ati
+atih
 atik
 atin
 atine
@@ -2232,6 +2233,7 @@ iso
 isol
 isti
 istiadat
+istilah
 istimewa
 istirahat
 istri
