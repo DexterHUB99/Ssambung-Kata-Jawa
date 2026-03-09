@@ -1353,6 +1353,7 @@ ene
 eneg
 enek
 enel
+enem
 enen
 eneng
 enggal
