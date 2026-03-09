@@ -2509,6 +2509,7 @@ kasut
 kat
 kata
 katah
+katang
 katel
 kates
 kathok
@@ -2667,6 +2668,7 @@ ketup
 ketupat
 kewan
 ki
+kiai
 kidal
 kidang
 kidul
