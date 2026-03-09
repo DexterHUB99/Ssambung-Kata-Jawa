@@ -4167,6 +4167,7 @@ nyawit
 nyedhak
 nyilih
 nyiram
+nyirep
 nyong
 nyunggi
 nyusahake
