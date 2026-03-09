@@ -2208,6 +2208,7 @@ irama
 iras
 iren
 ireng
+ires
 iri
 irian
 irigasi
@@ -4901,6 +4902,7 @@ rompi
 ron
 ronda
 rongpuluh
+rongsokan
 roni
 rono
 rop
