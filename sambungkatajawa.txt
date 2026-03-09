@@ -401,6 +401,7 @@ anyer
 anyir
 ap
 apa
+apak
 apal
 apalan
 apar
@@ -1209,6 +1210,7 @@ ehey
 ehi
 ehil
 ehim
+ehip
 ehir
 ehis
 eho
@@ -2222,6 +2224,7 @@ isol
 isti
 istiadat
 istimewa
+istirahat
 istri
 isu
 isuk
@@ -4302,6 +4305,7 @@ owahan
 owak
 oy
 oyak
+oyi
 pa
 pace
 pacik
