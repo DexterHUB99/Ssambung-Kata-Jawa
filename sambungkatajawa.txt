@@ -2833,6 +2833,7 @@ kopok
 kor
 kora
 koran
+kore
 korek
 koreng
 korok
