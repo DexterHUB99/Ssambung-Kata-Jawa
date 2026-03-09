@@ -664,7 +664,6 @@ batal
 batok
 bau
 bawal
-bawok
 bayang
 bayi
 be
@@ -1534,7 +1533,6 @@ gagar
 gagas
 gagasan
 gage
-gagrak
 gaguna
 gah
 gairah
@@ -2250,7 +2248,6 @@ iso
 isol
 isti
 istiadat
-istigfar
 istilah
 istimewa
 istirahat
@@ -2814,7 +2811,6 @@ kopok
 kor
 kora
 koran
-korban
 korek
 koreng
 korok
@@ -2872,7 +2868,6 @@ kumel
 kumen
 kumi
 kumpul
-kumpulan
 kumuh
 kun
 kunang
@@ -3182,7 +3177,6 @@ luhan
 luhur
 luk
 luka
-lukisan
 luku
 lulang
 luluh
@@ -3338,7 +3332,6 @@ mayak
 mayat
 mbak
 mbok
-mboten
 mbuh
 me
 medal
@@ -3355,6 +3348,7 @@ melinjo
 melu
 mem
 meme
+memedi
 memek
 mendung
 mene
@@ -3831,7 +3825,6 @@ ngeluh
 ngeman
 ngembang
 ngemil
-ngemong
 ngempot
 ngemut
 ngen
@@ -4536,6 +4529,7 @@ pilek
 pilem
 pilih
 pilihan
+pilingan
 pilok
 pilot
 pilu
@@ -4814,7 +4808,6 @@ rendem
 rendeng
 rendi
 rene
-renek
 reng
 rengginang
 reog
@@ -4854,7 +4847,6 @@ rina
 rinci
 rindhik
 rindu
-ringin
 ringkas
 ringkih
 rini
@@ -5665,7 +5657,6 @@ ugi
 ugo
 ugung
 uh
-uj
 uja
 ujar
 ujaran
