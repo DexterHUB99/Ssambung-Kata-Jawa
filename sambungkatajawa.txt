@@ -209,6 +209,7 @@ am
 ama
 amah
 amal
+amalan
 aman
 amanah
 amang
@@ -401,6 +402,7 @@ anyer
 anyir
 ap
 apa
+apak
 apal
 apalan
 apar
@@ -499,6 +501,7 @@ assalamualaikum
 asta
 astaga
 astagfirullah
+astaghfirullah
 asu
 asuh
 asui
@@ -507,6 +510,7 @@ asul
 asup
 asupan
 asus
+asut
 asuti
 asuy
 ata
@@ -1208,6 +1212,7 @@ ehey
 ehi
 ehil
 ehim
+ehip
 ehir
 ehis
 eho
@@ -1553,6 +1558,7 @@ gamis
 gampang
 gampil
 gancet
+gandai
 gandeng
 gandos
 gandrung
@@ -1722,6 +1728,7 @@ gigit
 gigu
 gih
 gila
+gilane
 gilang
 gili
 giling
@@ -2220,6 +2227,7 @@ isol
 isti
 istiadat
 istimewa
+istirahat
 istri
 isu
 isuk
@@ -2510,6 +2518,7 @@ kasut
 kat
 kata
 katah
+katang
 katel
 kates
 kathok
@@ -2668,6 +2677,7 @@ ketup
 ketupat
 kewan
 ki
+kiai
 kidal
 kidang
 kidul
@@ -4297,7 +4307,9 @@ ow
 owah
 owahan
 owak
+oy
 oyak
+oyi
 pa
 pace
 pacik
