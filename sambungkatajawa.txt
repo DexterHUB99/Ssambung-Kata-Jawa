@@ -1190,6 +1190,7 @@ duwur
 ealah
 eb
 ebeg
+ebew
 ebi
 ebol
 eco
@@ -1222,6 +1223,7 @@ eher
 ehes
 ehey
 ehi
+ehid
 ehil
 ehim
 ehip
@@ -1510,6 +1512,7 @@ eya
 eyang
 eyu
 eyup
+fix
 fokus
 fulus
 fungsi
@@ -2018,6 +2021,7 @@ hukume
 hukumen
 hulu
 hum
+huma
 human
 hun
 huni
@@ -3282,7 +3286,6 @@ mangun
 mangut
 mani
 manis
-manise
 manja
 manjing
 mantap
