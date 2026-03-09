@@ -1726,6 +1726,7 @@ gigit
 gigu
 gih
 gila
+gilane
 gilang
 gili
 giling
