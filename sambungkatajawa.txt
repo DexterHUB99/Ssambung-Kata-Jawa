@@ -3955,6 +3955,7 @@ ngoyo
 ngrabi
 ngrawuh
 ngrayu
+ngret
 ngrit
 ngrumat
 ngucap
