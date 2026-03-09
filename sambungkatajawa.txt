@@ -4590,6 +4590,7 @@ pirang
 piring
 piro
 pis
+pisa
 pisah
 pisan
 pisang
@@ -5194,6 +5195,7 @@ siman
 simbah
 simbok
 simpang
+simpen
 simpenan
 sin
 sinau
