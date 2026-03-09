@@ -2335,6 +2335,7 @@ jenang
 jeneng
 jenengan
 jenggot
+jengkal
 jer
 jera
 jeram
@@ -3121,6 +3122,7 @@ lobi
 lodeh
 log
 logat
+logi
 loh
 loha
 lohan
