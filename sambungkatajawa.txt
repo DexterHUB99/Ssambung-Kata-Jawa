@@ -2741,6 +2741,7 @@ kitab
 kiti
 kiwa
 klambi
+klebus
 klenger
 klepon
 kleru
