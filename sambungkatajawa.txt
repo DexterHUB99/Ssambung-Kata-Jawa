@@ -3335,6 +3335,7 @@ mayak
 mayat
 mbak
 mbok
+mboten
 mbuh
 me
 medal
@@ -4809,6 +4810,7 @@ rendem
 rendeng
 rendi
 rene
+renek
 reng
 rengginang
 reog
@@ -5658,6 +5660,7 @@ ugi
 ugo
 ugung
 uh
+uj
 uja
 ujar
 ujaran
