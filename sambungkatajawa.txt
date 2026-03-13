@@ -3818,6 +3818,7 @@ lapang
 lapar
 lapi
 lapis
+lapisan
 lapo
 lar
 lara
@@ -5840,6 +5841,7 @@ pepe
 pepek
 pepes
 pera
+perang
 percaya
 peri
 perih
