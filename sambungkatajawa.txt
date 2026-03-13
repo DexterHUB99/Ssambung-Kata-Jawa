@@ -4465,6 +4465,7 @@ mundak
 mundhut
 mundur
 mung
+mungah
 munggah
 mungkin
 muni
@@ -7937,6 +7938,7 @@ yoman
 yon
 yona
 yonan
+yong
 yono
 yoo
 yoopo
