@@ -746,6 +746,7 @@ bajing
 bajingan
 baju
 bajul
+bak
 bakal
 bakar
 bakmi
@@ -2722,6 +2723,7 @@ isis
 iski
 islam
 iso
+isoe
 isok
 isol
 isone
@@ -6306,6 +6308,7 @@ seres
 serius
 serong
 seru
+ses
 sesek
 sesok
 sesuk
