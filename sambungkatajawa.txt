@@ -2861,6 +2861,7 @@ ketiban
 ketir
 ketis
 ketok
+ketua
 ketuk
 ketup
 ketupat
