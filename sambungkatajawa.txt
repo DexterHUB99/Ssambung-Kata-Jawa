@@ -2561,6 +2561,7 @@ horo
 horog
 hote
 hotel
+hotma
 howo
 hp
 hu
@@ -4190,6 +4191,7 @@ manah
 manak
 manasi
 mancal
+mancing
 mandang
 mandeg
 mandhek
