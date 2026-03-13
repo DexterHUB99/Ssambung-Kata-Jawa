@@ -3543,6 +3543,7 @@ loman
 lomba
 lombok
 lomi
+lomo
 lomot
 lompat
 lon
