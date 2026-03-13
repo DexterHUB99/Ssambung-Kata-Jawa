@@ -1614,6 +1614,7 @@ elik
 elin
 eling
 elinga
+elingo
 elit
 elmu
 elo
@@ -4344,6 +4345,7 @@ mirsani
 mis
 misah
 misake
+misi
 miskin
 misu
 misuh
@@ -5062,6 +5064,7 @@ ngoli
 ngolo
 ngolok
 ngolor
+ngomah
 ngombe
 ngombi
 ngome
