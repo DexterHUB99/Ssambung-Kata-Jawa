@@ -2936,6 +2936,7 @@ kasi
 kasih
 kasil
 kasir
+kasmaran
 kasor
 kasoran
 kasuh
@@ -3226,6 +3227,7 @@ kolot
 kom
 koma
 komen
+komi
 kompak
 kompor
 kon
@@ -4041,6 +4043,7 @@ murah
 muri
 murid
 murka
+murtad
 murub
 murung
 murup
@@ -6949,6 +6952,7 @@ wangsulan
 wani
 wanita
 wantah
+wara
 warah
 warak
 wareg
