@@ -693,6 +693,7 @@ ban
 bancak
 bandeng
 bandrek
+bangke
 bangsat
 bani
 banjir
@@ -2375,6 +2376,7 @@ ipik
 ipil
 ipin
 ipit
+ipo
 ipoe
 iprit
 ipuk
@@ -2802,6 +2804,7 @@ kebon
 kecap
 kece
 kecel
+kecelek
 kecut
 kedah
 kediri
