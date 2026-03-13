@@ -4724,6 +4724,7 @@ nila
 nilai
 nilam
 nilas
+nile
 nilem
 nilep
 nim
@@ -4909,6 +4910,7 @@ ohhh
 oho
 ohya
 oj
+ojar
 ojek
 ojo
 ojok
@@ -5443,6 +5445,7 @@ putus
 puyeng
 puyuh
 ra
+raa
 rabi
 rabu
 racun
