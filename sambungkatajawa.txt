@@ -5501,6 +5501,7 @@ sele
 selep
 selet
 selir
+semak
 semar
 sembah
 sembahyang
