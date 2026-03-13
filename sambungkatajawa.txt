@@ -5,6 +5,7 @@ ab
 abab
 abad
 abah
+abak
 abang
 abdi
 aber
@@ -3727,6 +3728,7 @@ masa
 masak
 masam
 masang
+mase
 masi
 masih
 masjid
@@ -6662,6 +6664,7 @@ utuh
 utus
 utusan
 ututer
+uud
 uv
 uw
 uwa
