@@ -174,6 +174,7 @@ akah
 akak
 akal
 akalan
+akale
 akalmu
 akam
 akan
@@ -631,6 +632,7 @@ asing
 asli
 asma
 asmara
+asmaradana
 aso
 asoe
 asoi
@@ -4563,6 +4565,7 @@ nambah
 nambai
 name
 nami
+namine
 namo
 nampa
 nampan
@@ -4992,6 +4995,7 @@ ngetot
 ngewangi
 ngewe
 ngewedang
+ngewelingi
 ngewi
 ngewoh
 ngewu
@@ -7278,6 +7282,7 @@ tor
 tora
 toren
 tori
+toro
 tos
 tosa
 tose
