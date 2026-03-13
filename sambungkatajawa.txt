@@ -5422,6 +5422,7 @@ oalah
 ob
 obah
 obat
+obek
 obeng
 obok
 obong
@@ -7135,6 +7136,7 @@ tepa
 tepak
 tepe
 tepi
+ter
 terang
 teras
 teri
