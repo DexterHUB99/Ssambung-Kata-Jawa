@@ -1982,6 +1982,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3380,6 +3381,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -4613,6 +4615,7 @@ oran
 orang
 orapopo
 oras
+oraurus
 ore
 oreg
 orek
