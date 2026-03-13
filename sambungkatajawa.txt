@@ -3240,6 +3240,7 @@ kitan
 kiti
 kiwa
 klambi
+klambine
 klebus
 klenger
 klenteng
@@ -4578,6 +4579,7 @@ nggoreng
 nggowo
 ngguyu
 ngibadah
+ngibrit
 ngibu
 ngibul
 ngicipi
