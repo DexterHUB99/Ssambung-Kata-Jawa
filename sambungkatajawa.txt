@@ -1155,6 +1155,7 @@ cewek
 ci
 cica
 cicak
+cici
 cicit
 ciduk
 cik
@@ -3400,6 +3401,7 @@ kenter
 kenthir
 kentu
 kentut
+kentutmu
 kenur
 keong
 kep
@@ -5391,6 +5393,7 @@ nutup
 nutur
 nuturi
 nuwun
+nuwunsewu
 ny
 nya
 nyai
@@ -7885,6 +7888,7 @@ wulan
 wuli
 wulo
 wulu
+wulung
 wun
 wusa
 xenon
