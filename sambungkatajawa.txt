@@ -1986,7 +1986,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -2636,6 +2635,7 @@ kaliyan
 kalo
 kalong
 kalung
+kama
 kamar
 kambi
 kambil
@@ -3387,7 +3387,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
