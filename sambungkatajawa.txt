@@ -694,6 +694,7 @@ awakdewe
 awake
 awakku
 awal
+awam
 awan
 awas
 awe
@@ -1671,6 +1672,7 @@ enok
 enol
 enom
 entas
+ente
 entek
 enteng
 enteni
@@ -1867,6 +1869,7 @@ gajah
 gaje
 gajelas
 gaji
+gajul
 gak
 gaktau
 gal
