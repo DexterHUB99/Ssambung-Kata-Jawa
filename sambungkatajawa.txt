@@ -937,6 +937,7 @@ biso
 bisu
 bisulan
 bito
+biu
 biyen
 biyung
 bo
