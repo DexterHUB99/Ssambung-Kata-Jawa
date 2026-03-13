@@ -3157,6 +3157,7 @@ kiki
 kikil
 kil
 kila
+kilan
 kilas
 kilat
 kile
@@ -4902,6 +4903,7 @@ obrol
 od
 odok
 odol
+og
 ogah
 ogak
 oge
@@ -5183,6 +5185,7 @@ panti
 pantun
 panut
 panutan
+panuwun
 papa
 papan
 papat
