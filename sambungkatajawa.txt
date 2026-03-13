@@ -2551,6 +2551,7 @@ huta
 hutan
 hutang
 huti
+hyang
 ib
 iba
 ibadah
