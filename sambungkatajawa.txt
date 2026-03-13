@@ -380,6 +380,7 @@ angur
 angus
 ani
 anif
+anig
 anik
 anin
 aning
