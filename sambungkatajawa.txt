@@ -6148,6 +6148,7 @@ saget
 sagu
 sah
 saha
+saham
 sahur
 sai
 saiki
@@ -7341,6 +7342,7 @@ wak
 wakil
 waktu
 wakul
+wala
 walah
 walang
 wali
