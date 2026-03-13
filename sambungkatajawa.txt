@@ -83,6 +83,7 @@ ahet
 ahey
 ahh
 ahi
+ahid
 ahih
 ahik
 ahil
@@ -3458,6 +3459,7 @@ loba
 lobang
 lobi
 lodeh
+loe
 log
 logat
 logi
@@ -4577,6 +4579,7 @@ nuku
 nul
 nuli
 nulis
+nulung
 nulungi
 num
 numan
@@ -6349,6 +6352,7 @@ ulat
 ule
 uleg
 ulek
+ulekan
 ulem
 uleman
 ulen
