@@ -6934,6 +6934,7 @@ terus
 tet
 tete
 tetek
+teuing
 ti
 tiba
 tibak
@@ -7316,6 +7317,7 @@ ungkas
 ungkir
 ungu
 uni
+unjal
 unjar
 unjuk
 uno
