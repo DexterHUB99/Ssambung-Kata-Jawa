@@ -4811,6 +4811,7 @@ ngolet
 ngoli
 ngolo
 ngolok
+ngolor
 ngombe
 ngombi
 ngome
@@ -5272,6 +5273,7 @@ opose
 oposi
 or
 ora
+orae
 orah
 orai
 oraiso
