@@ -5646,6 +5646,7 @@ osok
 osor
 ot
 otak
+otakmu
 otek
 otik
 otol
@@ -5664,6 +5665,7 @@ oy
 oyag
 oyak
 oyi
+oyot
 oz
 pa
 paalu
