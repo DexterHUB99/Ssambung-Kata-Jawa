@@ -4965,6 +4965,7 @@ padasan
 padha
 pados
 padu
+paduka
 padune
 padusan
 pager
