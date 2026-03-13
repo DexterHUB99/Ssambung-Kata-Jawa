@@ -2860,6 +2860,7 @@ irih
 irin
 iring
 iringan
+iringane
 iringi
 iris
 irisan
@@ -7040,6 +7041,7 @@ susuk
 susul
 susumu
 susun
+susune
 sut
 suti
 sutil
@@ -8048,6 +8050,7 @@ yuka
 yuki
 yuko
 yuli
+yumi
 yun
 yuna
 yunani
