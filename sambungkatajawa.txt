@@ -1167,6 +1167,7 @@ cili
 cilik
 cilok
 cin
+cina
 cincin
 cine
 cing
@@ -1933,6 +1934,7 @@ gabuk
 gabung
 gabus
 gaco
+gada
 gadah
 gadang
 gadhah
@@ -6433,6 +6435,7 @@ rum
 rumah
 rumangsa
 rumangsane
+rumbai
 rumbi
 rumi
 rumit
