@@ -459,6 +459,7 @@ anom
 anoman
 ansur
 anta
+antah
 antar
 antara
 antek
@@ -1065,6 +1066,7 @@ cedak
 cedek
 ceh
 cek
+cekap
 cekel
 celek
 celeng
@@ -4300,6 +4302,7 @@ nalikane
 naliko
 nalur
 naluri
+nam
 nama
 namah
 namamu
@@ -4829,6 +4832,7 @@ ngome
 ngomel
 ngomong
 ngompol
+ngon
 ngonde
 ngone
 ngongkang
