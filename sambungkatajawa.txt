@@ -706,6 +706,7 @@ bau
 bawal
 bayang
 bayi
+bayu
 be
 bebas
 bebek
@@ -3838,6 +3839,7 @@ narasi
 nari
 narik
 narimo
+narkoba
 nas
 nasa
 nasai
@@ -5848,6 +5850,7 @@ tawon
 te
 tegal
 teguh
+teh
 teja
 teka
 tekan
