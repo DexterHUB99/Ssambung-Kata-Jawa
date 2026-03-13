@@ -1983,6 +1983,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3191,6 +3192,7 @@ lari
 laris
 laron
 laru
+larung
 las
 lasa
 lasak
@@ -3381,6 +3383,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -6414,6 +6417,7 @@ werna
 werno
 weruh
 wes
+wesa
 wese
 wesi
 weta
