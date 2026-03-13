@@ -1973,7 +1973,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -3365,7 +3364,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
@@ -6123,6 +6121,7 @@ umpan
 umpane
 umpet
 umrah
+umu
 umuk
 umum
 umume
