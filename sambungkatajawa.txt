@@ -2857,6 +2857,7 @@ kem
 kemah
 kemari
 kemayu
+kembali
 kembang
 kembar
 kemben
