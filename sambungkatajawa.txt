@@ -3532,6 +3532,7 @@ layu
 le
 leak
 lebah
+lecet
 lee
 lega
 legawa
@@ -5480,6 +5481,7 @@ pulau
 pulen
 pulsa
 puluh
+pulung
 pun
 puna
 punapa
