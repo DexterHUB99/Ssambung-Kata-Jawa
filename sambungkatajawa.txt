@@ -981,6 +981,7 @@ bodok
 bojo
 bokek
 bokong
+bokonge
 bol
 bola
 boleh
@@ -1755,6 +1756,7 @@ entu
 entuk
 entung
 entut
+entutmu
 enu
 enul
 enya
@@ -5524,6 +5526,7 @@ ongkos
 online
 ono
 onoe
+onone
 onori
 onta
 ontang
