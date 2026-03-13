@@ -2301,6 +2301,7 @@ go
 goblog
 goblok
 gobloki
+goboh
 goceki
 godek
 godhong
