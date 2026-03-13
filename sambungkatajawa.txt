@@ -2697,6 +2697,7 @@ kaliyan
 kalo
 kalong
 kalung
+kam
 kama
 kamar
 kambi
@@ -3101,6 +3102,7 @@ kower
 koyo
 koyok
 krama
+krambil
 kripik
 krungu
 krupuk
@@ -5842,6 +5844,7 @@ supaya
 supe
 supen
 supi
+supoyo
 sur
 sura
 surai
