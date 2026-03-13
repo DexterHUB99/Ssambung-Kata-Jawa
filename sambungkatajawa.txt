@@ -5307,6 +5307,7 @@ pelit
 pelita
 pelo
 peluk
+pen
 pena
 penak
 pendek
