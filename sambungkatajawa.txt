@@ -166,6 +166,7 @@ aket
 akhir
 akhirat
 aki
+akie
 akih
 akik
 akil
@@ -183,6 +184,7 @@ aksen
 aksi
 aku
 akuh
+akui
 akul
 akum
 akumi
@@ -396,6 +398,7 @@ angsuran
 angur
 angus
 ani
+anie
 anif
 anig
 anik
@@ -2928,6 +2931,7 @@ kemul
 kemulan
 ken
 kena
+kenak
 kenapa
 kendang
 kendel
