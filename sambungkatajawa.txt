@@ -205,7 +205,6 @@ akum
 akumi
 akun
 akur
-akuran
 akut
 al
 ala
@@ -805,6 +804,7 @@ bejan
 bejo
 bejur
 bek
+bekal
 bekas
 bekel
 beko
@@ -1310,6 +1310,7 @@ donga
 doni
 dora
 dore
+dori
 doro
 dorong
 dosa
@@ -1832,7 +1833,6 @@ gampar
 gampil
 gancet
 ganco
-ganda
 gandai
 gandeng
 gandos
@@ -1960,7 +1960,6 @@ gemen
 gemes
 gempa
 gempol
-gemu
 gemuk
 gen
 gena
@@ -2256,6 +2255,7 @@ harimau
 harimu
 harjo
 harta
+haru
 harum
 harus
 haruse
@@ -2395,6 +2395,7 @@ ib
 iba
 ibadah
 ibak
+iber
 ibu
 ibuk
 ical
@@ -3340,6 +3341,7 @@ kotang
 kote
 kotor
 kowe
+kowek
 kowen
 kower
 koyo
@@ -3672,7 +3674,6 @@ lipen
 lipet
 lipi
 lipis
-lipit
 lipur
 lir
 lira
@@ -4076,7 +4077,6 @@ mora
 morat
 mori
 moro
-mosing
 mosok
 mot
 moto
@@ -4670,7 +4670,6 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
-ngn
 ngnggo
 ngobah
 ngobat
@@ -4703,6 +4702,7 @@ ngone
 ngongkang
 ngongko
 ngono
+ngonten
 ngontol
 ngop
 ngopak
@@ -4971,7 +4971,6 @@ nyapa
 nyapu
 nyasar
 nyawa
-nyawang
 nyawiji
 nyawit
 nyedhak
@@ -5087,7 +5086,6 @@ ombo
 omboh
 ome
 omel
-omen
 omo
 omong
 omongan
@@ -5368,7 +5366,6 @@ pentil
 pentung
 peo
 pepaya
-pepe
 pepek
 pepes
 pera
@@ -5920,7 +5917,6 @@ ruwet
 rw
 sa
 saa
-saan
 sabar
 saben
 sabi
@@ -6153,7 +6149,6 @@ sewu
 si
 sia
 sial
-sialan
 siap
 siapa
 siasu
@@ -6405,6 +6400,7 @@ sutra
 suwan
 suwe
 suwen
+suweng
 suwi
 suwir
 suwun
@@ -6482,6 +6478,7 @@ tar
 tara
 tari
 tarik
+taro
 taru
 tarung
 tas
@@ -6883,6 +6880,7 @@ umbul
 ume
 umen
 umi
+umo
 umpa
 umpam
 umpama
@@ -7179,7 +7177,6 @@ wes
 wesa
 wese
 wesi
-weso
 weta
 wetan
 weteng
@@ -7269,7 +7266,6 @@ yasi
 yasin
 yat
 yati
-yaudah
 yawes
 yawis
 yaya
@@ -7316,7 +7312,6 @@ yuki
 yuli
 yun
 yuna
-yunani
 yune
 yuni
 yura
