@@ -1177,6 +1177,7 @@ dedeg
 dedek
 dedemit
 dedi
+dedik
 degan
 dek
 dekil
@@ -4607,6 +4608,7 @@ ngopo
 ngopose
 ngore
 ngorek
+ngoreki
 ngoreng
 ngorok
 ngorong
@@ -5310,6 +5312,7 @@ pinter
 pintu
 pinuh
 pinuk
+pinus
 pinutur
 pipi
 pipis
@@ -5896,6 +5899,7 @@ saru
 sarung
 sarungan
 sasa
+sasak
 sasi
 sat
 sate
