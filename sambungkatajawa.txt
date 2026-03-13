@@ -291,6 +291,7 @@ amam
 aman
 amanah
 amang
+amar
 amarga
 amargi
 amargo
@@ -658,6 +659,7 @@ asta
 astaga
 astagfirullah
 astaghfirullah
+asti
 asu
 asue
 asuh
@@ -1248,6 +1250,7 @@ cuma
 cumi
 cunduk
 curu
+curug
 curut
 cus
 cusu
