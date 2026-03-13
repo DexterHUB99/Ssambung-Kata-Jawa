@@ -184,6 +184,7 @@ aksi
 aku
 akuh
 akul
+akum
 akumi
 akun
 akur
@@ -5909,6 +5910,7 @@ sunat
 sundel
 sunduk
 sundul
+sung
 sungai
 sungguh
 sungkan
