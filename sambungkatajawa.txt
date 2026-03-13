@@ -1123,6 +1123,7 @@ cocotmu
 codet
 codot
 cok
+coke
 cokelat
 coki
 coklat
@@ -4069,6 +4070,7 @@ mek
 mekar
 mekso
 mel
+mela
 melas
 melek
 melinjo
