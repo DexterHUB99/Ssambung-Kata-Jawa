@@ -233,6 +233,7 @@ alay
 ale
 alem
 aleman
+alengka
 alep
 aler
 ales
@@ -296,6 +297,7 @@ amek
 amen
 amer
 amerga
+ames
 amet
 ami
 amie
