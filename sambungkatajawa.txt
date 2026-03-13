@@ -55,6 +55,7 @@ aduh
 adus
 adzan
 ae
+aeng
 afa
 afe
 ag
@@ -275,6 +276,7 @@ alm
 alo
 aloe
 alon
+alos
 alot
 aloy
 alpukat
@@ -1147,6 +1149,7 @@ caruk
 cas
 cawe
 cawet
+cawi
 cawik
 cawis
 ce
@@ -1210,6 +1213,7 @@ cinta
 cire
 cireng
 ciro
+ciyut
 co
 cobaan
 cobek
@@ -3469,6 +3473,7 @@ kenduri
 kene
 kenek
 kenen
+kenetel
 keni
 kening
 kenok
@@ -3851,7 +3856,6 @@ lah
 laha
 lahan
 lahir
-laiki
 lajeng
 laju
 lak
@@ -4277,7 +4281,6 @@ maki
 maksud
 maku
 mal
-mala
 malah
 malak
 malam
@@ -4450,7 +4453,6 @@ mi
 mie
 mieayam
 migunani
-mijet
 mijil
 mik
 mika
@@ -4791,6 +4793,7 @@ nembang
 nembe
 nembel
 nembung
+neme
 nemen
 nempe
 nempel
@@ -4854,6 +4857,7 @@ ngae
 ngagem
 ngagung
 ngail
+ngajah
 ngajak
 ngajar
 ngajeng
@@ -5156,7 +5160,6 @@ ngik
 ngiki
 ngiku
 ngilang
-ngilekne
 ngiler
 ngili
 ngilo
@@ -5386,7 +5389,6 @@ nilam
 nilas
 nile
 nilem
-nilemake
 nilep
 nim
 nimba
@@ -5403,7 +5405,6 @@ nindakake
 ning
 ningali
 ninggal
-ninggalake
 ningkat
 ningsih
 nini
@@ -6138,7 +6139,6 @@ polah
 polahe
 polahmu
 polan
-pole
 poles
 poli
 polisi
@@ -6151,7 +6151,6 @@ pon
 ponakan
 pondok
 poni
-pono
 ponorogo
 poo
 pop
@@ -6173,6 +6172,7 @@ prajurit
 prakawis
 pranata
 prei
+pria
 pring
 pripun
 pu
@@ -6821,7 +6821,6 @@ sego
 segoro
 seh
 sehat
-sejen
 sek
 seka
 sekawan
@@ -8118,7 +8117,6 @@ yah
 yaho
 yai
 yak
-yaka
 yake
 yakin
 yali
@@ -8154,6 +8152,7 @@ yet
 yi
 yo
 yoan
+yoe
 yoga
 yogya
 yoh
