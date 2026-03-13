@@ -2126,6 +2126,7 @@ goyang
 gragal
 graji
 grana
+gresik
 griwa
 griya
 grobak
@@ -3990,6 +3991,7 @@ me
 medal
 medeni
 mega
+megah
 meh
 meja
 mek
@@ -4941,6 +4943,7 @@ norak
 nori
 nos
 not
+nota
 noti
 noya
 nresna
