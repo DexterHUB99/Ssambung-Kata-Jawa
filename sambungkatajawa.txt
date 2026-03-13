@@ -2225,6 +2225,7 @@ hasut
 hati
 hawa
 hawane
+hawe
 haya
 hayang
 hayat
@@ -2981,6 +2982,7 @@ keke
 keket
 kel
 kela
+kelak
 kelam
 kelambe
 kelangan
@@ -6824,6 +6826,7 @@ usik
 usil
 usir
 usko
+ust
 usta
 ustadz
 usu
@@ -7067,6 +7070,7 @@ yekti
 yen
 yes
 yesa
+yesi
 yi
 yo
 yoga
