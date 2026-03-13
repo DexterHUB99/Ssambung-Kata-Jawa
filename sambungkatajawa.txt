@@ -1688,6 +1688,7 @@ ganthi
 ganti
 gantung
 ganyong
+gap
 gapi
 gaplek
 gapuk
