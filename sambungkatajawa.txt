@@ -3161,6 +3161,7 @@ kem
 kemah
 kemang
 kemari
+kemas
 kemayu
 kembali
 kembang
@@ -4856,6 +4857,7 @@ ngret
 ngrit
 ngrumat
 nguber
+ngubur
 ngucap
 ngucek
 ngudang
@@ -5084,6 +5086,7 @@ nuwun
 ny
 nya
 nyai
+nyala
 nyam
 nyambel
 nyamuk
@@ -6951,6 +6954,7 @@ uha
 uhe
 uhi
 uho
+ui
 uing
 uja
 ujan
@@ -7393,6 +7397,7 @@ witir
 wiwit
 wiwitan
 wo
+woe
 wok
 woke
 wol
