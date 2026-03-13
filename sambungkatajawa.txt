@@ -2400,6 +2400,7 @@ inep
 iner
 ines
 ing
+ingat
 inggal
 inggih
 inggil
@@ -3778,6 +3779,7 @@ minat
 minggat
 minggir
 minggu
+mini
 minta
 miri
 miring
