@@ -4257,6 +4257,7 @@ nerima
 nerimo
 nerjang
 neros
+nes
 nesa
 nesu
 net
@@ -6548,6 +6549,7 @@ toren
 tori
 tos
 tosa
+tose
 toto
 toya
 tresno
