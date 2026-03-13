@@ -131,6 +131,7 @@ aimi
 aimu
 aina
 aing
+aini
 aio
 air
 aira
@@ -150,6 +151,7 @@ ajig
 ajih
 ajik
 ajining
+ajisaka
 ajor
 ajrih
 ajur
@@ -205,7 +207,6 @@ akum
 akumi
 akun
 akur
-akuran
 akut
 al
 ala
@@ -425,6 +426,7 @@ ani
 anie
 anif
 anig
+anih
 anik
 anin
 aning
@@ -433,6 +435,7 @@ anja
 anjar
 anjay
 anji
+anjian
 anjing
 anjir
 anjlok
@@ -535,6 +538,7 @@ arjuna
 arjuno
 arogan
 aroh
+arok
 aron
 aros
 arsa
@@ -883,6 +887,7 @@ bindeng
 bingung
 bini
 bintang
+bira
 biru
 bis
 bisa
@@ -1141,6 +1146,7 @@ dadi
 dados
 dadu
 dagang
+dagelan
 dagu
 dah
 dahan
@@ -1256,6 +1262,7 @@ dilit
 dilok
 diluk
 dilut
+dim
 dima
 diman
 dimana
@@ -1438,6 +1445,7 @@ ehur
 eja
 ek
 eka
+ekah
 ekal
 ekali
 ekam
@@ -1465,6 +1473,7 @@ ektika
 eku
 ekun
 ekur
+ekut
 el
 ela
 elah
@@ -1500,6 +1509,7 @@ elor
 elos
 elu
 eluh
+eluk
 elur
 elus
 elut
@@ -1547,6 +1557,7 @@ emper
 empet
 empik
 emping
+empo
 emprit
 empu
 empuk
@@ -1645,6 +1656,7 @@ epoh
 epok
 epor
 epu
+epuh
 epus
 er
 era
@@ -1832,7 +1844,6 @@ gampar
 gampil
 gancet
 ganco
-ganda
 gandai
 gandeng
 gandos
@@ -1854,6 +1865,7 @@ ganti
 gantung
 ganyong
 gap
+gapa
 gapi
 gaplek
 gaplok
@@ -1889,6 +1901,7 @@ gasal
 gasik
 gasing
 gasir
+gass
 gatau
 gatel
 gateli
@@ -1936,6 +1949,7 @@ gelak
 gelang
 gelar
 gelas
+gele
 gelem
 geleman
 geli
@@ -1960,7 +1974,6 @@ gemen
 gemes
 gempa
 gempol
-gemu
 gemuk
 gen
 gena
@@ -2623,6 +2636,7 @@ irup
 irus
 is
 isa
+isaa
 isai
 isak
 isam
@@ -2662,6 +2676,7 @@ isuk
 isun
 isya
 it
+ita
 itali
 ite
 item
@@ -2682,6 +2697,7 @@ iwir
 ix
 iy
 iya
+iyaa
 iyan
 iyes
 iyo
@@ -2837,6 +2853,7 @@ jun
 juni
 jupuk
 jur
+jura
 juru
 jus
 ka
@@ -2993,6 +3010,7 @@ kasih
 kasihan
 kasil
 kasir
+kasire
 kasmaran
 kasor
 kasoran
@@ -3030,6 +3048,7 @@ kawula
 kawung
 kawus
 kaya
+kayak
 kayane
 kayu
 ke
@@ -3222,6 +3241,7 @@ kilen
 kim
 kima
 kiman
+kimi
 kimpul
 kin
 kina
@@ -3427,6 +3447,7 @@ kurban
 kuri
 kurma
 kurna
+kuro
 kursi
 kursii
 kuru
@@ -3612,6 +3633,7 @@ leri
 les
 lesehan
 lesu
+let
 letong
 lewat
 li
@@ -3672,7 +3694,6 @@ lipen
 lipet
 lipi
 lipis
-lipit
 lipur
 lir
 lira
@@ -4099,6 +4120,7 @@ muji
 muk
 muka
 mukak
+muke
 mul
 mula
 mulai
@@ -4269,6 +4291,7 @@ ndang
 ndas
 ndasmu
 ndawuh
+ndek
 ndelok
 ndlogok
 ndoro
@@ -4561,6 +4584,7 @@ ngentu
 ngentut
 ngepel
 ngepet
+nger
 ngerampok
 ngerasani
 ngerek
@@ -4669,7 +4693,6 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
-ngn
 ngnggo
 ngobah
 ngobat
@@ -4685,6 +4708,7 @@ ngok
 ngoke
 ngoko
 ngokop
+ngol
 ngolah
 ngoleh
 ngolek
@@ -4807,6 +4831,7 @@ nguyu
 nguyuh
 ngwah
 ni
+nia
 niba
 nie
 nik
@@ -4970,10 +4995,10 @@ nyapa
 nyapu
 nyasar
 nyawa
-nyawang
 nyawiji
 nyawit
 nyedhak
+nyekar
 nyeluk
 nyikat
 nyilih
@@ -5086,7 +5111,6 @@ ombo
 omboh
 ome
 omel
-omen
 omo
 omong
 omongan
@@ -5233,6 +5257,7 @@ pakan
 pakar
 pakdhe
 pake
+pakir
 pakpuh
 paku
 pala
@@ -5364,10 +5389,10 @@ peniti
 peno
 pensil
 pentil
+penting
 pentung
 peo
 pepaya
-pepe
 pepek
 pepes
 pera
@@ -5510,6 +5535,7 @@ pose
 posen
 posi
 potong
+poyo
 prajurit
 prakawis
 pranata
@@ -5577,6 +5603,7 @@ raga
 ragam
 ragangan
 ragat
+ragelem
 ragi
 ragil
 rah
@@ -5707,6 +5734,7 @@ reget
 rei
 rejo
 rek
+rekam
 rekasa
 rekmo
 rekom
@@ -5797,6 +5825,7 @@ rinci
 rindhik
 rindu
 ringkas
+ringkes
 ringkih
 rini
 rino
@@ -5804,6 +5833,7 @@ rio
 rip
 ripa
 ripi
+rira
 riri
 ris
 risa
@@ -5824,6 +5854,7 @@ riyo
 ro
 roa
 rob
+roba
 robah
 roban
 roda
@@ -5919,7 +5950,6 @@ ruwet
 rw
 sa
 saa
-saan
 sabar
 saben
 sabi
@@ -6147,6 +6177,7 @@ sesuk
 sesupe
 setan
 setrika
+setunggal
 sewelas
 sewu
 si
@@ -6295,6 +6326,7 @@ sua
 suami
 suamii
 suara
+suasu
 suba
 subal
 subhanallah
@@ -6302,6 +6334,7 @@ subuh
 subur
 suci
 sudah
+sude
 sudi
 sudukan
 sue
@@ -6350,6 +6383,7 @@ sumur
 sun
 sunan
 sunat
+sunda
 sundel
 sunduk
 sundul
@@ -7011,6 +7045,7 @@ usah
 usaha
 usai
 usak
+usan
 usap
 use
 usek
@@ -7177,7 +7212,6 @@ wes
 wesa
 wese
 wesi
-weso
 weta
 wetan
 weteng
@@ -7233,6 +7267,7 @@ wonten
 woo
 wowo
 wudel
+wudhu
 wuh
 wujud
 wulan
@@ -7267,7 +7302,6 @@ yasi
 yasin
 yat
 yati
-yaudah
 yawes
 yawis
 yaya
@@ -7314,8 +7348,8 @@ yuki
 yuli
 yun
 yuna
-yunani
 yune
+yung
 yuni
 yura
 yuri
