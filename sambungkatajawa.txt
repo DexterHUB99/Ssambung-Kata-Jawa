@@ -1752,6 +1752,7 @@ esuk
 esun
 et
 eta
+etah
 etak
 etan
 etar
@@ -2098,6 +2099,7 @@ gini
 ginjal
 gipang
 gir
+gira
 girang
 giri
 giring
@@ -2209,6 +2211,7 @@ guneman
 guneme
 gung
 gunggungan
+gunjing
 gunting
 guntur
 gunung
