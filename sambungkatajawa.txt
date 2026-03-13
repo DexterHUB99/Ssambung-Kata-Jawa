@@ -5798,6 +5798,7 @@ siraman
 sirep
 siri
 sirih
+sirik
 sirna
 siro
 sirop
@@ -6443,6 +6444,7 @@ un
 una
 unah
 unak
+unan
 unang
 uncal
 undak
