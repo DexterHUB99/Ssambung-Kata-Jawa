@@ -4656,6 +4656,7 @@ ngaku
 ngal
 ngala
 ngalah
+ngalahi
 ngalam
 ngalas
 ngale
@@ -4791,6 +4792,7 @@ ngawur
 ngayah
 ngayal
 ngayu
+ngayub
 ngayuh
 ngayuk
 ngayun
