@@ -1810,6 +1810,7 @@ epep
 eper
 epet
 epi
+epic
 epih
 epik
 epil
@@ -2646,6 +2647,7 @@ ibak
 iber
 ibu
 ibuk
+ica
 ical
 icu
 id
@@ -6409,6 +6411,7 @@ rio
 rip
 ripa
 ripi
+ripih
 rira
 riri
 ris
