@@ -2223,6 +2223,7 @@ gundah
 gundhul
 gundik
 gundul
+gune
 gunem
 guneman
 guneme
@@ -4876,6 +4877,7 @@ ngosek
 ngosip
 ngosok
 ngosong
+ngotak
 ngoti
 ngotori
 ngotot
