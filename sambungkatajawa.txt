@@ -1322,6 +1322,7 @@ dudug
 duduh
 duduhi
 duduk
+dudung
 dugi
 dugo
 duh
@@ -3343,6 +3344,7 @@ kuasa
 kuat
 kuburan
 kucing
+kucur
 kuda
 kudet
 kudu
@@ -5114,6 +5116,7 @@ opin
 opini
 opo
 opoe
+opoki
 opon
 opor
 opose
