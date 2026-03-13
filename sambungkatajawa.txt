@@ -1107,6 +1107,7 @@ di
 didak
 didi
 didik
+didol
 didu
 digawa
 dijalan
@@ -5321,6 +5322,7 @@ sapu
 saput
 sar
 sara
+saran
 sarap
 sare
 saren
@@ -5836,6 +5838,7 @@ tinemu
 tinggal
 tingkah
 tini
+tinju
 tip
 tipi
 tir
@@ -6303,6 +6306,7 @@ wayah
 wayang
 wayangan
 we
+wea
 wedan
 wedang
 wedhang
