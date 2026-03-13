@@ -2141,6 +2141,7 @@ hura
 hurip
 huru
 huruf
+hurung
 hus
 husen
 husna
@@ -2850,6 +2851,7 @@ kesusu
 ketan
 ketar
 ketara
+ketat
 ketek
 ketemu
 kethek
@@ -4028,6 +4030,7 @@ ngelas
 ngelawak
 ngelebok
 ngeleh
+ngelek
 ngelem
 ngeles
 ngelih
@@ -6093,6 +6096,7 @@ umume
 umur
 un
 una
+unah
 unak
 unang
 uncal
