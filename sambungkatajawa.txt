@@ -970,6 +970,7 @@ bor
 boro
 borok
 boros
+bos
 bosen
 boso
 bosok
