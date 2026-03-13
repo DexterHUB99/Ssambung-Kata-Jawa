@@ -1071,6 +1071,7 @@ cilok
 cin
 cincin
 cine
+cing
 cingkrang
 cino
 cinta
@@ -4476,6 +4477,7 @@ ngejar
 ngek
 ngelag
 ngelak
+ngelakoni
 ngelap
 ngelas
 ngelawak
