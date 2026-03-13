@@ -3096,6 +3096,7 @@ karepmu
 kares
 karet
 kari
+karipan
 karma
 karo
 karoan
@@ -5970,6 +5971,7 @@ rembulan
 remeh
 remek
 remen
+remeng
 remes
 remi
 remok
