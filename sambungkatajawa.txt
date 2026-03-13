@@ -845,6 +845,7 @@ bin
 bina
 bindeng
 bingung
+bini
 bintang
 biru
 bis
