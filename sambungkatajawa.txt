@@ -3560,6 +3560,7 @@ manungsa
 manungso
 manut
 maos
+mapan
 marah
 marai
 marak
@@ -5968,6 +5969,7 @@ timba
 timbal
 timbali
 timbang
+timbangan
 timbul
 timun
 timur
