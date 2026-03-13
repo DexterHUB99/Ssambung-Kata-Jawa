@@ -1796,6 +1796,7 @@ etok
 etol
 eton
 etos
+etot
 etu
 etub
 etuh
