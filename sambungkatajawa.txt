@@ -1443,6 +1443,7 @@ duku
 dukuh
 dukun
 dukur
+dul
 dula
 dulan
 dulang
