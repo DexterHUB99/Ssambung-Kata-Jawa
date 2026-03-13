@@ -1488,6 +1488,7 @@ dut
 duta
 duwe
 duwek
+duwet
 duwit
 duwur
 ealah
@@ -6626,6 +6627,7 @@ selet
 selimut
 selir
 selo
+sem
 semak
 semar
 semarang
