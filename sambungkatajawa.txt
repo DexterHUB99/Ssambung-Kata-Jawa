@@ -1783,6 +1783,7 @@ gayung
 ge
 geber
 geblek
+gebug
 gedag
 gedang
 gede
@@ -2829,7 +2830,6 @@ kekal
 keke
 kel
 kela
-kelab
 kelam
 kelangan
 kelaran
@@ -4556,7 +4556,6 @@ nusi
 nusul
 nut
 nuthuk
-nuti
 nutup
 nutur
 nuturi
