@@ -749,6 +749,7 @@ berkah
 bero
 bes
 besan
+besar
 besek
 besok
 besuk
@@ -2704,6 +2705,7 @@ kebo
 kebon
 kecap
 kece
+kecel
 kecut
 kedah
 kediri
@@ -4960,6 +4962,7 @@ rasak
 rasakan
 rasakno
 rasan
+rasani
 rase
 rasi
 rasis
@@ -6242,6 +6245,7 @@ wegah
 weh
 wejang
 wejangan
+wek
 wekasan
 wektu
 wel
