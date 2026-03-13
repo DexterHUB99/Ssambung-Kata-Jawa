@@ -4850,6 +4850,7 @@ nget
 ngetan
 ngetem
 ngeti
+ngetik
 ngetok
 ngetot
 ngewe
@@ -5949,6 +5950,7 @@ ramai
 ramasalah
 rambak
 ramban
+rambas
 rambat
 rambatan
 rambi
