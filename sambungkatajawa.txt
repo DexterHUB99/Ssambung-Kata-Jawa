@@ -4378,6 +4378,7 @@ ngili
 ngilo
 ngilu
 ngiman
+ngimbar
 ngimi
 ngimpi
 ngin
@@ -5372,6 +5373,7 @@ rejo
 rek
 rekasa
 rekmo
+rekom
 rekoso
 reksa
 relax
