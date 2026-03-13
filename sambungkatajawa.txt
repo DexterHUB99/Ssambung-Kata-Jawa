@@ -1848,6 +1848,7 @@ gih
 gila
 gilane
 gilang
+gilani
 gili
 giling
 gilo
@@ -1983,7 +1984,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -3383,7 +3383,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
@@ -4362,6 +4361,7 @@ nirwana
 nis
 nisa
 nisan
+nisi
 nista
 nit
 niten
