@@ -2076,6 +2076,7 @@ hapusi
 har
 hara
 haram
+haren
 harga
 hari
 harian
@@ -3383,6 +3384,7 @@ lo
 loa
 lob
 loba
+lobang
 lobi
 lodeh
 log
