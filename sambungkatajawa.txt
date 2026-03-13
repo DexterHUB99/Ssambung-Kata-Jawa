@@ -836,6 +836,7 @@ biak
 biang
 biasa
 biaya
+biba
 bibi
 bibik
 bibir
@@ -4874,6 +4875,7 @@ oli
 olih
 oling
 olo
+oloe
 olok
 olokan
 olon
