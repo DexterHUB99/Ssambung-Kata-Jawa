@@ -1806,6 +1806,7 @@ gemblong
 gemblung
 gembong
 gembrot
+gemen
 gemes
 gempa
 gempol
@@ -2860,6 +2861,7 @@ keni
 kening
 kenok
 kenopo
+kenot
 kentang
 kenter
 kenthir
@@ -5909,6 +5911,7 @@ teka
 tekan
 teke
 teko
+tel
 tela
 telan
 telas
