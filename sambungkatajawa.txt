@@ -2913,6 +2913,7 @@ kobis
 kobong
 kocak
 koclok
+kocok
 kodok
 koe
 koen
@@ -2975,6 +2976,7 @@ kotang
 kotor
 kowe
 kowen
+kower
 koyo
 koyok
 krama
@@ -3981,6 +3983,7 @@ ngawu
 ngawur
 ngayah
 ngayal
+ngayuh
 nge
 ngebo
 ngebus
