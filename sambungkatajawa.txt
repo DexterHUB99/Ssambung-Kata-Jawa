@@ -965,6 +965,7 @@ buron
 buru
 buruh
 bus
+busa
 busi
 busik
 busu
@@ -5190,6 +5191,7 @@ panen
 pang
 pangajak
 pangan
+panganan
 pangapura
 panggah
 panggon
