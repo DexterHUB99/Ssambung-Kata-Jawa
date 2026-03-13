@@ -1573,6 +1573,7 @@ emil
 emo
 emod
 emoh
+emohe
 emok
 emot
 empal
@@ -1739,6 +1740,7 @@ esi
 esih
 esin
 eso
+esoe
 esok
 eson
 estri
@@ -2135,6 +2137,7 @@ gondol
 gondrong
 gong
 goni
+gontor
 gopal
 gopoh
 gor
@@ -3376,6 +3379,7 @@ konde
 kondi
 kondisi
 kondur
+koneng
 kongkon
 kono
 kontal
@@ -5356,6 +5360,7 @@ palah
 palak
 palang
 palem
+palen
 paleng
 paling
 paliyan
