@@ -5379,6 +5379,7 @@ njajal
 njaluk
 njupuk
 nki
+nko
 nn
 nnan
 nngawi
@@ -6614,6 +6615,7 @@ saking
 sakit
 sakne
 sakral
+saksake
 sakti
 saku
 sakun
