@@ -3135,6 +3135,7 @@ kula
 kulak
 kulakan
 kulan
+kule
 kuli
 kulina
 kulit
@@ -5490,6 +5491,7 @@ sali
 salim
 salon
 salut
+sam
 sama
 samak
 saman
