@@ -3798,6 +3798,7 @@ libur
 licik
 licin
 lidah
+lie
 lih
 liha
 lihat
@@ -5156,6 +5157,7 @@ nuh
 nuhun
 nuki
 nuku
+nukul
 nul
 nulang
 nuli
@@ -5362,6 +5364,7 @@ ongkos
 online
 ono
 onoe
+onori
 onta
 ontang
 ontel
