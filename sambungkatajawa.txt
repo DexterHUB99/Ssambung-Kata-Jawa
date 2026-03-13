@@ -1199,6 +1199,7 @@ dinar
 dinas
 dinggo
 dingklik
+dini
 dino
 dinten
 dipan
@@ -6718,6 +6719,7 @@ wi
 wicak
 widi
 widya
+wie
 wih
 wii
 wijaya
