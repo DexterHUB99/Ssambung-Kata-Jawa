@@ -10,6 +10,7 @@ abdi
 aber
 abi
 abis
+aboh
 abot
 abrit
 abu
@@ -312,7 +313,6 @@ andhap
 andheng
 andhong
 andi
-andok
 andon
 andong
 andu
@@ -1318,6 +1318,7 @@ elo
 elok
 elom
 elon
+eloo
 elor
 elos
 elu
@@ -1478,6 +1479,7 @@ erok
 eror
 eros
 erosi
+erta
 eru
 eruh
 eruk
@@ -1630,6 +1632,7 @@ ganjil
 ganteng
 ganthi
 ganti
+gantian
 gantung
 ganyong
 gaplek
@@ -1791,6 +1794,7 @@ gih
 gila
 gilane
 gilang
+gilani
 gili
 giling
 gilo
@@ -1972,6 +1976,7 @@ hani
 hansip
 hantam
 hantu
+hanyo
 hap
 hapa
 hape
@@ -2048,6 +2053,7 @@ hiri
 hiruk
 his
 hisa
+hitam
 hitung
 hiu
 hla
@@ -2089,6 +2095,7 @@ hura
 hurip
 huru
 huruf
+hurung
 hus
 husen
 husna
@@ -2259,6 +2266,7 @@ ipik
 ipil
 ipin
 ipit
+ipo
 ipoe
 ipuk
 ir
@@ -2396,6 +2404,7 @@ jarang
 jare
 jari
 jarik
+jarum
 jasa
 jatah
 jati
@@ -2475,6 +2484,7 @@ joran
 jore
 jori
 jorok
+jorong
 jos
 jotos
 jujur
@@ -2875,6 +2885,7 @@ kolot
 kom
 koma
 komen
+komodo
 kompak
 kompor
 kon
@@ -3109,6 +3120,7 @@ layar
 layu
 le
 leak
+lebah
 lee
 lega
 legawa
@@ -3210,6 +3222,7 @@ lisa
 lisan
 lise
 lit
+liwa
 liwat
 liwet
 liya
@@ -3463,6 +3476,7 @@ mentas
 mentol
 mentolo
 merah
+merak
 merem
 meri
 mesake
@@ -3505,6 +3519,7 @@ miskin
 misuh
 mitoni
 mlaku
+mlayu
 mlebu
 mo
 mobil
@@ -3622,8 +3637,10 @@ nakon
 nakoni
 nakula
 nala
+nalang
 nalangi
 nalar
+naleni
 nali
 nalik
 nalika
@@ -3684,6 +3701,7 @@ narasi
 nari
 narik
 narimo
+naro
 nas
 nasa
 nasai
@@ -5000,6 +5018,7 @@ rina
 rinci
 rindhik
 rindu
+ringin
 ringkas
 ringkih
 rini
@@ -5016,6 +5035,7 @@ rit
 rita
 riti
 riwayat
+riwe
 riyaya
 riyin
 ro
@@ -5196,6 +5216,7 @@ sarep
 sari
 sarip
 sarna
+sarong
 saru
 sarung
 sarungan
@@ -5333,6 +5354,7 @@ sinden
 sing
 singa
 singgah
+singo
 sinom
 sinoman
 sinta
@@ -5692,12 +5714,14 @@ tini
 tip
 tipi
 tir
+tirai
 tiran
 tiri
 tiris
 tiru
 tis
 tisi
+tisu
 tit
 tita
 titen
@@ -5928,6 +5952,7 @@ umum
 umume
 umur
 un
+una
 unak
 unang
 uncal
@@ -5956,6 +5981,7 @@ ungu
 uni
 unjar
 unjuk
+uno
 unta
 untal
 untel
@@ -6067,6 +6093,7 @@ uwi
 uwis
 uwit
 uwong
+uwung
 ux
 uy
 uya
@@ -6112,6 +6139,7 @@ warga
 waris
 warisan
 warna
+warno
 warok
 waru
 warung
@@ -6126,6 +6154,7 @@ watone
 watu
 wawasan
 wayah
+wayahe
 wayang
 wayangan
 we
@@ -6188,6 +6217,7 @@ wisuh
 wit
 witan
 witir
+wiwi
 wiwit
 wiwitan
 wo
