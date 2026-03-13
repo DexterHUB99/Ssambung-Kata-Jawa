@@ -2186,6 +2186,7 @@ gentos
 genuk
 geo
 geol
+gepeng
 gepok
 geprek
 gepuk
@@ -4771,6 +4772,7 @@ ngaduk
 ngadus
 ngae
 ngagem
+ngagung
 ngail
 ngajak
 ngajar
