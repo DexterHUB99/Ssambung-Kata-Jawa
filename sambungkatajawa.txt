@@ -1173,6 +1173,7 @@ dema
 demak
 demi
 demit
+demo
 demok
 dendeng
 dene
@@ -3691,6 +3692,7 @@ malam
 malang
 malas
 maleh
+malek
 males
 malesan
 malih
@@ -4946,6 +4948,7 @@ otak
 otek
 otik
 otom
+otomot
 otot
 ov
 ow
