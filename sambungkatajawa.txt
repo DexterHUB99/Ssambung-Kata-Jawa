@@ -1722,6 +1722,7 @@ gasak
 gasal
 gasik
 gasing
+gatau
 gatel
 gateli
 gathel
@@ -2957,6 +2958,7 @@ kiwa
 klambi
 klebus
 klenger
+klenteng
 klepon
 kleru
 kliwon
@@ -6243,6 +6245,7 @@ urah
 urai
 urak
 urakan
+ural
 uram
 urang
 urap
