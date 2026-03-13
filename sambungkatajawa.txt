@@ -138,7 +138,6 @@ aika
 aiko
 ail
 aila
-aile
 aili
 aima
 aimi
@@ -149,6 +148,7 @@ aini
 aio
 air
 aira
+aisin
 aiya
 aiyo
 aja
@@ -348,6 +348,7 @@ ampar
 amparan
 ampas
 ampe
+ampek
 ampel
 ampela
 ampes
@@ -813,6 +814,7 @@ badek
 badhe
 badokan
 bagong
+bagos
 bagu
 bagus
 bah
@@ -1034,6 +1036,7 @@ boro
 borok
 boros
 bos
+bosan
 bosen
 boso
 bosok
@@ -1148,6 +1151,7 @@ carik
 carita
 caruk
 cas
+cawan
 cawe
 cawet
 cawi
@@ -1444,6 +1448,7 @@ disik
 disit
 disu
 dit
+dita
 ditulung
 diwa
 dluwang
@@ -1757,6 +1762,7 @@ enake
 enal
 enam
 enan
+enang
 encok
 endah
 endang
@@ -1912,6 +1918,7 @@ esin
 eso
 esoe
 esok
+esol
 eson
 estri
 estu
@@ -2210,6 +2217,8 @@ gendong
 gendruwo
 gendut
 gene
+genea
+geneo
 genep
 generator
 geneyi
@@ -2301,7 +2310,6 @@ go
 goblog
 goblok
 gobloki
-goboh
 goceki
 godek
 godhong
@@ -2480,6 +2488,7 @@ haman
 hamba
 hambar
 hambawa
+hambur
 hamel
 hamil
 hampir
@@ -2786,11 +2795,11 @@ ilis
 ilmu
 ilmune
 ilo
+iloe
 ilok
 ilu
 ilui
 iluk
-ilyas
 im
 ima
 imai
@@ -3802,6 +3811,7 @@ kuningan
 kunir
 kunjur
 kuno
+kunta
 kunti
 kuntul
 kunyuk
@@ -3859,6 +3869,7 @@ lah
 laha
 lahan
 lahir
+laiki
 lajeng
 laju
 lak
@@ -4284,6 +4295,7 @@ maki
 maksud
 maku
 mal
+mala
 malah
 malak
 malam
@@ -4456,6 +4468,7 @@ mi
 mie
 mieayam
 migunani
+mijet
 mijil
 mik
 mika
@@ -4769,6 +4782,7 @@ nebake
 neda
 nedah
 nedha
+nedhaa
 nedho
 nedi
 neduh
@@ -5163,6 +5177,7 @@ ngik
 ngiki
 ngiku
 ngilang
+ngilekne
 ngiler
 ngili
 ngilo
@@ -5392,6 +5407,7 @@ nilam
 nilas
 nile
 nilem
+nilemake
 nilep
 nim
 nimba
@@ -5408,6 +5424,7 @@ nindakake
 ning
 ningali
 ninggal
+ninggalake
 ningkat
 ningsih
 nini
@@ -6142,6 +6159,7 @@ polah
 polahe
 polahmu
 polan
+pole
 poles
 poli
 polisi
@@ -6154,6 +6172,7 @@ pon
 ponakan
 pondok
 poni
+pono
 ponorogo
 poo
 pop
@@ -6741,6 +6760,7 @@ sanes
 sangar
 sangat
 sangga
+sanggar
 sanggul
 sangit
 sangka
@@ -6824,6 +6844,7 @@ sego
 segoro
 seh
 sehat
+sejen
 sek
 seka
 sekawan
@@ -7076,6 +7097,7 @@ suci
 sudah
 sude
 sudi
+sudo
 sudukan
 sue
 sugeh
@@ -7315,6 +7337,7 @@ tema
 teman
 tembak
 tembang
+tembari
 tembok
 tembung
 teme
@@ -7651,6 +7674,7 @@ ulah
 ulahan
 ulai
 ulakan
+ulal
 ulala
 ulam
 ulama
@@ -7970,6 +7994,7 @@ wantah
 wara
 warah
 warak
+waras
 wareg
 warga
 waris
@@ -8012,7 +8037,6 @@ wedus
 wee
 wegah
 weh
-wei
 wejang
 wejangan
 wek
@@ -8121,6 +8145,7 @@ yah
 yaho
 yai
 yak
+yaka
 yake
 yakin
 yali
