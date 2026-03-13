@@ -3865,6 +3865,7 @@ lati
 latih
 latihan
 laut
+laute
 lawa
 lawak
 lawan
