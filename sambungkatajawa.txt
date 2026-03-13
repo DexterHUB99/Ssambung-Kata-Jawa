@@ -1220,6 +1220,7 @@ congok
 congor
 conto
 contoh
+copet
 copot
 cor
 corak
@@ -4514,6 +4515,7 @@ muli
 mulia
 mulih
 mulung
+mulus
 mulya
 mumbul
 mumet
