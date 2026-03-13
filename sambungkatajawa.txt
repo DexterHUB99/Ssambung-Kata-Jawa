@@ -2768,6 +2768,7 @@ jore
 jori
 jorok
 jos
+joss
 jotos
 jujur
 jule
@@ -4316,6 +4317,7 @@ ngangu
 ngangur
 ngani
 nganjuk
+ngantel
 nganter
 nganthi
 nganti
