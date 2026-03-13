@@ -2763,6 +2763,7 @@ katok
 katon
 katot
 katrok
+katun
 kaula
 kawah
 kawak
@@ -4939,6 +4940,7 @@ piro
 pis
 pisa
 pisah
+pisahan
 pisan
 pisang
 pising
@@ -5435,6 +5437,7 @@ sangka
 sangkuni
 sangon
 sangu
+sani
 sanjang
 santai
 santen
