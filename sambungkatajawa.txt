@@ -5361,6 +5361,7 @@ num
 numan
 numbal
 numbas
+numbuk
 numpak
 numpaki
 numpang
