@@ -2892,6 +2892,7 @@ kana
 kanah
 kanan
 kanca
+kancaku
 kancil
 kancing
 kancut
@@ -3365,6 +3366,7 @@ kuno
 kunti
 kuntul
 kup
+kupas
 kupat
 kupeng
 kuping
@@ -4146,6 +4148,7 @@ nampa
 nampan
 nampani
 nampar
+nampil
 nampol
 namu
 namung
@@ -5848,6 +5851,7 @@ sadar
 sade
 sae
 saestu
+sage
 saget
 sagu
 sah
@@ -6309,6 +6313,7 @@ sut
 suti
 sutil
 sutra
+suwan
 suwe
 suwen
 suwi
@@ -6690,6 +6695,7 @@ uha
 uhe
 uhi
 uho
+uing
 uja
 ujan
 ujar
