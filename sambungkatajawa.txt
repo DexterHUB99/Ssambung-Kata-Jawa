@@ -2524,6 +2524,7 @@ ireng
 ires
 iri
 irian
+irie
 irigasi
 irin
 iring
@@ -3903,6 +3904,7 @@ misah
 misake
 miskin
 misuh
+mita
 mitoni
 mlaku
 mlarat
