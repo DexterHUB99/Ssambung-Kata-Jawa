@@ -2053,6 +2053,7 @@ heh
 heha
 hehe
 hei
+heki
 hele
 heli
 helikopter
@@ -2107,6 +2108,7 @@ hora
 hore
 hori
 hormat
+hot
 hotel
 hp
 hu
@@ -3771,6 +3773,7 @@ ndoro
 nduk
 nduwe
 ne
+neda
 nedah
 nedha
 nedho
