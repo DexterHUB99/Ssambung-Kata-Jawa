@@ -103,6 +103,7 @@ ahur
 ahus
 ai
 ail
+aima
 aina
 aing
 air
@@ -705,6 +706,7 @@ bela
 belah
 belang
 belek
+beler
 beli
 belo
 belu
@@ -2152,6 +2154,7 @@ ilih
 ilik
 ililang
 iling
+ilingo
 ilir
 ilis
 ilmu
