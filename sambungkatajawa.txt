@@ -102,6 +102,7 @@ ahul
 ahur
 ahus
 ai
+aina
 aing
 air
 aja
@@ -410,6 +411,7 @@ apa
 apak
 apal
 apalan
+apan
 apane
 apar
 ape
@@ -719,7 +721,6 @@ beni
 benjol
 benten
 bentrok
-beo
 berak
 berek
 berkah
@@ -1722,6 +1723,7 @@ gendut
 gene
 genep
 generator
+geneyi
 geng
 geni
 genta
@@ -2288,7 +2290,6 @@ isu
 isuk
 it
 item
-itik
 itil
 itung
 iw
@@ -4453,6 +4454,7 @@ paliyan
 palu
 palung
 pamali
+paman
 pamil
 pamit
 pamitan
@@ -5729,6 +5731,7 @@ ugi
 ugo
 ugung
 uh
+uho
 uja
 ujar
 ujaran
@@ -5748,7 +5751,6 @@ ukaran
 ukarane
 ukas
 uker
-uki
 ukir
 ukiran
 ukon
@@ -6088,7 +6090,6 @@ wulan
 wuli
 wulu
 wun
-xenon
 xilofon
 ya
 yaapa
