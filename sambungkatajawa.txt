@@ -2972,6 +2972,7 @@ keket
 kel
 kela
 kelam
+kelambe
 kelangan
 kelaran
 kelas
@@ -4431,6 +4432,7 @@ ngeruk
 nges
 ngesat
 ngeseng
+ngesok
 ngesot
 nget
 ngetan
