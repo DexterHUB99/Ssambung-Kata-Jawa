@@ -1342,6 +1342,7 @@ elor
 elos
 elu
 eluh
+elur
 elus
 elut
 em
@@ -5466,6 +5467,7 @@ sogok
 sok
 soket
 soklat
+soko
 sokor
 sol
 sola
@@ -5700,6 +5702,7 @@ telat
 tele
 telek
 teles
+teli
 telo
 telon
 telu
@@ -5950,6 +5953,7 @@ uka
 ukaa
 ukai
 ukal
+ukam
 ukar
 ukara
 ukaran
