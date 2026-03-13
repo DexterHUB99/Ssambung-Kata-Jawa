@@ -846,6 +846,7 @@ basuki
 bata
 batal
 bathuk
+bati
 bato
 batok
 bau
@@ -4807,6 +4808,7 @@ ngandi
 ngandok
 ngandung
 ngandut
+ngang
 nganga
 ngangge
 nganggo
@@ -5660,6 +5662,7 @@ osaha
 osak
 osaka
 osal
+osam
 osama
 osan
 osar
@@ -7820,6 +7823,7 @@ wati
 waton
 watone
 watu
+wawa
 wawang
 wawasan
 wayah
