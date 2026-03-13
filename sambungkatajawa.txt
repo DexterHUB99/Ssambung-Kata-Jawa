@@ -642,7 +642,6 @@ babi
 babu
 babuk
 baca
-bacok
 bacot
 badeg
 badek
@@ -1974,6 +1973,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -2714,7 +2714,6 @@ katok
 katon
 katot
 katrok
-katut
 kaula
 kawah
 kawak
@@ -3316,7 +3315,6 @@ lo
 loa
 lob
 loba
-lobang
 lobi
 lodeh
 log
@@ -5060,7 +5058,6 @@ raup
 rausah
 raut
 rawa
-rawah
 rawan
 rawe
 rawi
@@ -5775,7 +5772,6 @@ tata
 tatah
 tatas
 tati
-tatik
 tatu
 taun
 tawan
