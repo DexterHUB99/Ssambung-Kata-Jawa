@@ -540,6 +540,7 @@ arang
 aras
 arat
 are
+areg
 areh
 arek
 arel
@@ -1464,6 +1465,7 @@ egi
 ego
 egor
 egrang
+egu
 eh
 eha
 ehad
