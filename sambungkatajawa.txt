@@ -4948,6 +4948,7 @@ ngetok
 ngetot
 ngewangi
 ngewe
+ngewedang
 ngewi
 ngewoh
 ngewu
