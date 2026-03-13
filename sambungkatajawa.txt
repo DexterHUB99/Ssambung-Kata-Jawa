@@ -428,6 +428,7 @@ angin
 angka
 angkara
 angkasa
+angkel
 angker
 angklung
 angkot
@@ -1593,6 +1594,7 @@ elig
 elik
 elin
 eling
+elinga
 elit
 elmu
 elo
@@ -6310,6 +6312,7 @@ rusaken
 ruso
 rusuh
 rut
+ruta
 ruti
 rutin
 ruwah
@@ -7669,6 +7672,7 @@ wika
 wiku
 wil
 wila
+wilan
 wilangan
 win
 wina
