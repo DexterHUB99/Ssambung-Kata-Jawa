@@ -102,8 +102,6 @@ ahul
 ahur
 ahus
 ai
-ail
-aina
 aing
 air
 aja
@@ -412,7 +410,6 @@ apa
 apak
 apal
 apalan
-apan
 apane
 apar
 ape
@@ -696,6 +693,7 @@ beja
 bejan
 bejo
 bejur
+bek
 bekas
 bekel
 beko
@@ -722,6 +720,7 @@ beni
 benjol
 benten
 bentrok
+beo
 berak
 berek
 berkah
@@ -765,6 +764,7 @@ bintang
 biru
 bis
 bisa
+bisik
 bisiki
 biso
 bisu
@@ -1064,6 +1064,7 @@ dengkul
 deni
 der
 dereng
+deres
 desa
 deso
 dewa
@@ -1232,6 +1233,7 @@ ehed
 eheh
 ehek
 ehem
+ehen
 eher
 ehes
 ehey
@@ -1635,7 +1637,6 @@ garing
 garis
 garpu
 garu
-garuda
 garuk
 garut
 garwa
@@ -1725,7 +1726,6 @@ gendut
 gene
 genep
 generator
-geneyi
 geng
 geni
 genta
@@ -1781,7 +1781,6 @@ giman
 gimbal
 gina
 gincu
-ginem
 gini
 ginjal
 gir
@@ -1965,7 +1964,6 @@ harga
 hari
 harian
 harimau
-harimu
 harjo
 harum
 has
@@ -2027,6 +2025,7 @@ hiruk
 his
 hisa
 hitung
+hiu
 hla
 hm
 hmm
@@ -2034,7 +2033,7 @@ ho
 hobi
 hoe
 hoh
-holi
+homo
 hooh
 hor
 hora
@@ -2141,6 +2140,7 @@ ili
 ilih
 ilik
 ililang
+iling
 ilir
 ilis
 ilmu
@@ -2277,7 +2277,6 @@ isi
 isian
 isih
 isik
-isikan
 isil
 isin
 isine
@@ -2296,9 +2295,10 @@ isu
 isuk
 it
 item
+itik
 itil
-itu
 itung
+iut
 iw
 iwak
 iwal
@@ -2306,6 +2306,7 @@ iwan
 iwas
 iwel
 iwir
+ix
 iy
 iya
 iyan
@@ -2958,6 +2959,7 @@ kuta
 kutang
 kutha
 kuti
+kutilang
 kutuk
 kuwalat
 kuwe
@@ -3542,7 +3544,6 @@ musoh
 musuh
 mut
 mutah
-mutan
 na
 nabi
 nabrak
@@ -3649,6 +3650,7 @@ natal
 nawa
 nawang
 nawar
+nawi
 ndak
 ndalu
 ndang
@@ -3826,7 +3828,6 @@ ngarit
 ngarsa
 ngarung
 ngas
-ngasa
 ngasah
 ngasahi
 ngasal
@@ -3861,6 +3862,7 @@ ngayal
 ngebo
 ngece
 ngecek
+ngeces
 ngecet
 ngeden
 ngegas
@@ -4290,6 +4292,7 @@ ojok
 ojol
 ojolan
 ok
+oka
 okan
 okar
 oke
@@ -4329,6 +4332,7 @@ olokan
 olon
 olong
 olor
+olos
 om
 oma
 omah
@@ -4463,7 +4467,6 @@ paliyan
 palu
 palung
 pamali
-paman
 pamil
 pamit
 pamitan
@@ -4551,6 +4554,7 @@ pel
 pelan
 pele
 pelem
+peler
 peli
 pelit
 pelita
@@ -4566,7 +4570,6 @@ pentung
 pepek
 pepes
 pera
-percaya
 peri
 perih
 pesen
@@ -4674,7 +4677,7 @@ ponakan
 pondok
 poni
 ponorogo
-pop
+poo
 por
 pora
 poran
@@ -4850,6 +4853,7 @@ redi
 rega
 regane
 reget
+rei
 rejo
 rek
 rekasa
@@ -4872,7 +4876,6 @@ remek
 remen
 remes
 remi
-remok
 rempah
 rempon
 remu
@@ -5341,7 +5344,6 @@ subal
 subhanallah
 subuh
 subur
-sudah
 sudi
 sudukan
 sugeng
@@ -5518,7 +5520,6 @@ telan
 telas
 telat
 tele
-telek
 teles
 telo
 telon
@@ -5738,6 +5739,7 @@ udun
 udur
 udut
 udutan
+uem
 ug
 uga
 ugal
@@ -5745,7 +5747,7 @@ ugi
 ugo
 ugung
 uh
-uho
+uha
 uja
 ujar
 ujaran
@@ -5765,6 +5767,7 @@ ukaran
 ukarane
 ukas
 uker
+uki
 ukir
 ukiran
 ukon
@@ -5898,6 +5901,7 @@ uren
 uri
 urih
 urik
+uring
 urip
 uripan
 uripku
@@ -5956,6 +5960,7 @@ uti
 utik
 utir
 utowo
+utu
 utuh
 utus
 utusan
@@ -6061,6 +6066,7 @@ weteng
 weton
 wewe
 wi
+widi
 widya
 wih
 wijaya
@@ -6104,6 +6110,7 @@ wulan
 wuli
 wulu
 wun
+xenon
 xilofon
 ya
 yaapa
