@@ -2154,6 +2154,7 @@ guyup
 guyur
 ha
 haa
+habib
 habis
 hadap
 hadeh
@@ -4586,6 +4587,7 @@ ngoke
 ngoko
 ngokop
 ngolah
+ngoleh
 ngolek
 ngolet
 ngoli
