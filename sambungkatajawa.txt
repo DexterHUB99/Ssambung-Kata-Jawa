@@ -4699,6 +4699,7 @@ nyeluk
 nyilih
 nyiram
 nyirep
+nyo
 nyong
 nyuluh
 nyunggi
@@ -5360,6 +5361,7 @@ rayap
 rayon
 rayu
 re
+rebah
 rebahan
 rebana
 rebo
