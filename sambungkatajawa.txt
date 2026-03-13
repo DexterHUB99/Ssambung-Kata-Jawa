@@ -1707,6 +1707,7 @@ endah
 endang
 endas
 endek
+endel
 endhas
 endhog
 endhok
@@ -2443,6 +2444,7 @@ harap
 haren
 harep
 harga
+hargai
 hari
 harian
 harimau
@@ -5064,6 +5066,7 @@ ngluwih
 ngluwihi
 ngn
 ngnggo
+ngni
 ngobah
 ngobat
 ngobok
