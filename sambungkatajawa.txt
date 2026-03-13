@@ -942,6 +942,7 @@ boros
 bosen
 boso
 bosok
+boten
 boti
 boto
 botol
@@ -1337,6 +1338,7 @@ dompet
 don
 dong
 donga
+dongo
 doni
 dora
 dore
