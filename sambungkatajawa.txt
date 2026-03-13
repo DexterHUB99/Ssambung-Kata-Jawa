@@ -5582,6 +5582,7 @@ robah
 roban
 roda
 rodo
+roe
 rogoh
 roi
 rok
@@ -6544,6 +6545,7 @@ ukuren
 ul
 ula
 ulah
+ulai
 ulakan
 ulam
 ulama
