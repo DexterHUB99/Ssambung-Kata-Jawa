@@ -2866,6 +2866,7 @@ jaran
 jaranan
 jarang
 jare
+jarene
 jari
 jarik
 jas
@@ -7352,6 +7353,7 @@ usut
 uswa
 ut
 uta
+utah
 utama
 utamane
 utami
