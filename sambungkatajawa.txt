@@ -1584,6 +1584,7 @@ entir
 entoh
 entok
 entong
+entu
 entuk
 entung
 entut
@@ -3286,6 +3287,7 @@ kudus
 kue
 kui
 kuk
+kuka
 kuku
 kukuh
 kukur
@@ -3652,6 +3654,7 @@ lontong
 loo
 lop
 lopa
+lope
 lopis
 lor
 lore
