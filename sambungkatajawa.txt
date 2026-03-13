@@ -546,6 +546,7 @@ arak
 aran
 arane
 arang
+araning
 aras
 arat
 are
@@ -5944,6 +5945,7 @@ ragil
 rah
 rahayu
 rahmat
+rahwana
 rai
 raib
 raie
