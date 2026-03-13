@@ -1017,6 +1017,7 @@ bubur
 budak
 budal
 bude
+budeg
 budek
 budhal
 budhe
@@ -5301,6 +5302,7 @@ noli
 nom
 nombak
 nombok
+nombol
 nome
 nomer
 nomere
