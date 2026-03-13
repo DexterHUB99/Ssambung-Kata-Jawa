@@ -2010,6 +2010,7 @@ ge
 geber
 geblek
 geblog
+gebok
 gebug
 gebuki
 gedag
@@ -3999,6 +4000,7 @@ macak
 macan
 macul
 mada
+madan
 madang
 madhang
 madi
@@ -7165,6 +7167,7 @@ ulan
 ulang
 ulangan
 ulangi
+ulap
 ular
 ulas
 ulasan
