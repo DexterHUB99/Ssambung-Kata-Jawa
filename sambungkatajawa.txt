@@ -68,6 +68,7 @@ agem
 agen
 ageng
 agi
+agor
 agung
 agus
 aguy
@@ -2817,6 +2818,7 @@ isoe
 isok
 isol
 isone
+isra
 istana
 isti
 istiadat
@@ -3279,6 +3281,7 @@ kembang
 kembar
 kemben
 kemeja
+kemem
 kemene
 kemeng
 kemi
