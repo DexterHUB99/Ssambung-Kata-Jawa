@@ -4094,6 +4094,7 @@ mora
 morat
 mori
 moro
+mosa
 mosing
 mosok
 mot
@@ -4216,6 +4217,7 @@ nambah
 nambai
 name
 nami
+namo
 nampa
 nampan
 nampani
