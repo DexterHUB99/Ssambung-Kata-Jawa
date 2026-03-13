@@ -494,6 +494,7 @@ apit
 apo
 apol
 apos
+aposi
 apu
 apuh
 apung
@@ -2213,6 +2214,7 @@ hana
 hanacaraka
 hanan
 hancur
+hangat
 hani
 hansip
 hantam
@@ -4446,6 +4448,7 @@ ngawe
 ngaweh
 ngawi
 ngawil
+ngawis
 ngawit
 ngawiti
 ngawo
@@ -6193,6 +6196,7 @@ sole
 soli
 solid
 solo
+solot
 som
 somar
 somat
