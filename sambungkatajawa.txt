@@ -2224,6 +2224,7 @@ hore
 hori
 hormat
 hotel
+howo
 hp
 hu
 hub
@@ -4633,6 +4634,7 @@ nyam
 nyambel
 nyamuk
 nyangu
+nyanyi
 nyapa
 nyapu
 nyasar
@@ -5085,6 +5087,7 @@ pisuhi
 pisut
 pit
 pita
+pitak
 pitakon
 pitek
 pitik
