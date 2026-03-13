@@ -871,7 +871,6 @@ bocor
 bodo
 bodoh
 bodok
-bogor
 bojo
 bokek
 bokong
@@ -5276,7 +5275,6 @@ puser
 pusing
 put
 putih
-puting
 putra
 putri
 putu
