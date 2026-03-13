@@ -3308,6 +3308,7 @@ katok
 katon
 katot
 katrok
+katul
 katun
 kaula
 kawah
@@ -6613,6 +6614,7 @@ sandangan
 sandhang
 sanes
 sangar
+sangat
 sangga
 sanggul
 sangit
