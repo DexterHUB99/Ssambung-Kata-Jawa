@@ -2033,7 +2033,6 @@ gilani
 gili
 giling
 gilo
-gima
 giman
 gimbal
 gina
@@ -2851,6 +2850,7 @@ kadang
 kademan
 kadewa
 kados
+kadose
 kadung
 kadut
 kae
