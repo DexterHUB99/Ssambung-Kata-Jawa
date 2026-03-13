@@ -3910,6 +3910,7 @@ leren
 leres
 leri
 les
+lesa
 lesehan
 lesu
 let
