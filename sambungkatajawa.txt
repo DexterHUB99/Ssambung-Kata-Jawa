@@ -5545,6 +5545,7 @@ osaha
 osak
 osaka
 osal
+osama
 osan
 osar
 osas
