@@ -2399,6 +2399,7 @@ indah
 indak
 indang
 indek
+inding
 indra
 indu
 induk
@@ -2878,6 +2879,7 @@ kebaya
 kebo
 kebon
 kecap
+kecapi
 kece
 kecel
 kecelek
@@ -5494,6 +5496,7 @@ roto
 rowang
 royal
 ru
+ruam
 ruang
 rubuh
 rugi
