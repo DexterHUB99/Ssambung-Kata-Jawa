@@ -2383,6 +2383,7 @@ huta
 hutan
 hutang
 ib
+iba
 ibadah
 ibu
 ibuk
@@ -4563,6 +4564,7 @@ ngeti
 ngetok
 ngetot
 ngewe
+ngewi
 ngewoh
 ngewu
 ngeyel
@@ -5559,6 +5561,7 @@ rahmat
 rai
 raib
 raie
+raiku
 raimu
 raimuasu
 raine
