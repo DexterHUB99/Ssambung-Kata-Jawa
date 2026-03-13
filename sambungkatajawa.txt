@@ -3557,6 +3557,7 @@ mirip
 miris
 mirsani
 mis
+misah
 misake
 miskin
 misuh
@@ -4279,7 +4280,9 @@ nit
 niten
 niti
 nitih
+nitik
 nitip
+nitis
 njajal
 njaluk
 njupuk
