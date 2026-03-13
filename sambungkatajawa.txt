@@ -146,7 +146,6 @@ ajak
 ajal
 ajang
 ajar
-ajari
 ajay
 ajeg
 ajek
@@ -1992,7 +1991,6 @@ gatok
 gatot
 gatuk
 gaul
-gaun
 gawa
 gawai
 gawan
@@ -4407,7 +4405,6 @@ nanak
 nanam
 nanang
 nanas
-nancep
 nandang
 nandhang
 nanduk
@@ -7591,7 +7588,6 @@ yai
 yak
 yake
 yakin
-yala
 yali
 yam
 yamaha
