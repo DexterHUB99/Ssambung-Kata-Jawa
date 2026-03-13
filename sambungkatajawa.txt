@@ -826,6 +826,7 @@ boto
 boyok
 bu
 buaya
+buba
 bubar
 bubrah
 bubuk
@@ -944,6 +945,7 @@ ceri
 cerita
 ceto
 cewek
+cewok
 ci
 cica
 cicak
@@ -1996,6 +1998,7 @@ halus
 halusi
 ham
 hama
+hamba
 hambar
 hamel
 hamil
@@ -2051,6 +2054,7 @@ heh
 heha
 hehe
 hei
+heki
 hele
 heli
 helikopter
@@ -2105,6 +2109,7 @@ hora
 hore
 hori
 hormat
+hot
 hotel
 hp
 hu
@@ -2136,6 +2141,7 @@ huta
 hutan
 hutang
 ib
+iba
 ibadah
 ibu
 ibuk
@@ -3168,6 +3174,7 @@ leh
 lek
 lekas
 lekat
+lekoh
 lele
 lelembut
 lelet
@@ -3556,6 +3563,7 @@ mirip
 miris
 mirsani
 mis
+misah
 misake
 miskin
 misuh
@@ -3767,6 +3775,7 @@ ndoro
 nduk
 nduwe
 ne
+neda
 nedah
 nedha
 nedho
@@ -4278,7 +4287,9 @@ nit
 niten
 niti
 nitih
+nitik
 nitip
+nitis
 njajal
 njaluk
 njupuk
@@ -4416,6 +4427,7 @@ ojol
 ojolan
 ok
 oka
+okai
 okan
 okar
 okas
@@ -4840,6 +4852,7 @@ puja
 puki
 pukul
 pula
+pulen
 pulsa
 puluh
 pun
@@ -5426,6 +5439,7 @@ sinom
 sinoman
 sinta
 sinten
+sio
 sip
 sipa
 sipit
