@@ -1446,6 +1446,7 @@ dore
 dori
 doro
 dorong
+dos
 dosa
 dosen
 doso
@@ -3681,6 +3682,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kuburan
 kucing
 kucir
@@ -7271,6 +7273,7 @@ timbal
 timbali
 timbang
 timbangan
+timbange
 timbul
 timun
 timur
@@ -7734,6 +7737,7 @@ usik
 usil
 usir
 usko
+uso
 ust
 usta
 ustadz
