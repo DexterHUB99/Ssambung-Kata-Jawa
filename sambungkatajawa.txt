@@ -131,6 +131,7 @@ aimi
 aimu
 aina
 aing
+aini
 aio
 air
 aira
@@ -1254,6 +1255,7 @@ dilit
 dilok
 diluk
 dilut
+dim
 dima
 diman
 dimana
@@ -2677,6 +2679,7 @@ iwir
 ix
 iy
 iya
+iyaa
 iyan
 iyes
 iyo
@@ -2832,6 +2835,7 @@ jun
 juni
 jupuk
 jur
+jura
 juru
 jus
 ka
@@ -6289,6 +6293,7 @@ subuh
 subur
 suci
 sudah
+sude
 sudi
 sudukan
 sue
