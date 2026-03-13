@@ -1311,6 +1311,7 @@ edah
 edan
 edi
 edul
+edus
 eeh
 eg
 ega
@@ -2425,6 +2426,7 @@ ipar
 ipat
 ipe
 ipel
+ipen
 ipes
 ipi
 ipik
@@ -5429,6 +5431,7 @@ roban
 roda
 rodo
 rogoh
+roi
 rok
 roke
 roki
