@@ -847,6 +847,7 @@ boso
 bosok
 boti
 boto
+botol
 boyok
 bu
 buaya
@@ -3351,6 +3352,7 @@ lintas
 lintu
 lip
 lipan
+lipas
 lipat
 lipen
 lipet
