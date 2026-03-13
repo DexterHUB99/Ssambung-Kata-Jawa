@@ -5076,6 +5076,7 @@ ngempot
 ngemut
 ngen
 ngena
+ngenah
 ngendah
 ngendang
 ngendeng
