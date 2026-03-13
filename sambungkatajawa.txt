@@ -344,6 +344,7 @@ ampas
 ampe
 ampel
 ampela
+ampes
 ampil
 ampir
 ampiri
