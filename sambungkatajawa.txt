@@ -6093,6 +6093,7 @@ warga
 waris
 warisan
 warna
+warno
 warok
 waru
 warung
