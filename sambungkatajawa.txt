@@ -9,6 +9,7 @@ abang
 abdi
 aber
 abi
+abil
 abis
 abot
 abrit
@@ -107,6 +108,7 @@ ail
 aima
 aina
 aing
+aio
 air
 aja
 ajak
@@ -167,6 +169,7 @@ aksi
 aku
 akuh
 akul
+akumi
 akun
 akur
 akut
@@ -296,6 +299,7 @@ ancaman
 ancang
 ancen
 ancik
+anco
 ancok
 ancuk
 ancur
@@ -667,6 +671,7 @@ bangsat
 bani
 banjir
 banter
+bantu
 banyu
 bapak
 bar
@@ -759,6 +764,7 @@ bidan
 bidik
 bidun
 bidur
+bien
 bigu
 biji
 bika
@@ -1090,6 +1096,7 @@ didik
 didu
 digawa
 dijalan
+diji
 dik
 dika
 dikep
@@ -1415,11 +1422,13 @@ eno
 enok
 enol
 enom
+entas
 entek
 enteng
 enteni
 enter
 entir
+entoh
 entok
 entong
 entuk
@@ -1508,6 +1517,7 @@ estri
 estu
 esu
 esuk
+esun
 et
 eta
 etak
@@ -1535,6 +1545,7 @@ etuk
 etung
 etus
 ev
+evo
 ew
 ewang
 ewe
@@ -1830,6 +1841,7 @@ gola
 gole
 golek
 goleki
+goler
 golo
 golong
 golongan
@@ -1983,7 +1995,6 @@ hapusi
 har
 hara
 haram
-harap
 harga
 hari
 harian
@@ -2264,7 +2275,9 @@ ipil
 ipin
 ipit
 ipoe
+iprit
 ipuk
+ipun
 ir
 ira
 irah
@@ -2334,6 +2347,7 @@ istri
 isu
 isuk
 it
+ite
 item
 itik
 itil
@@ -2435,6 +2449,7 @@ jijih
 jijik
 jikuk
 jil
+jilat
 jili
 jim
 jimat
@@ -2657,6 +2672,7 @@ kawula
 kawung
 kawus
 kaya
+kayane
 kayu
 ke
 kebak
@@ -2825,6 +2841,7 @@ kinanthi
 kinasih
 kini
 kintal
+kintel
 kintir
 kios
 kipas
@@ -2981,7 +2998,6 @@ kunjur
 kuno
 kunti
 kuntul
-kunyuk
 kup
 kupat
 kupeng
@@ -3233,6 +3249,7 @@ logi
 loh
 loha
 lohan
+loi
 lok
 loka
 lokan
@@ -3292,6 +3309,7 @@ luma
 lumajang
 lumaku
 luman
+lumping
 lumpuh
 lumrah
 lumuh
@@ -3631,6 +3649,7 @@ nakula
 nala
 nalangi
 nalar
+nale
 nali
 nalik
 nalika
@@ -3864,6 +3883,7 @@ ngapah
 ngapain
 ngapak
 ngapel
+ngapeli
 ngapu
 ngapunten
 ngapura
@@ -3909,6 +3929,7 @@ ngawe
 ngaweh
 ngawi
 ngawil
+ngawit
 ngawiti
 ngawo
 ngawor
@@ -4341,6 +4362,7 @@ odol
 ogah
 ogak
 oge
+ogi
 ogoh
 ogol
 oh
@@ -4421,6 +4443,7 @@ onco
 oncom
 onde
 ondha
+ondo
 ondol
 oneng
 ongkang
@@ -4488,6 +4511,7 @@ ot
 otak
 otek
 otot
+ov
 ow
 owah
 owahan
@@ -5051,6 +5075,7 @@ romo
 rompi
 ron
 ronda
+rondo
 rongpuluh
 rongsokan
 roni
@@ -5072,6 +5097,7 @@ ruang
 rubuh
 rugi
 ruh
+rui
 rujak
 rujuk
 ruki
@@ -5188,6 +5214,7 @@ santai
 santen
 santun
 sanur
+sao
 sap
 sapa
 sapi
@@ -5232,6 +5259,7 @@ se
 sebah
 sedan
 sedina
+seduh
 sedulur
 sega
 segara
@@ -5341,6 +5369,7 @@ sinden
 sing
 singa
 singgah
+sini
 sinom
 sinoman
 sinta
@@ -5470,6 +5499,7 @@ sumerep
 sumi
 sumonggo
 sumpah
+sumringah
 sumuk
 sumur
 sun
@@ -5547,6 +5577,7 @@ takjil
 takon
 takut
 talas
+tale
 talenan
 tali
 tam
@@ -5987,6 +6018,7 @@ upel
 upik
 upil
 upit
+upo
 ur
 ura
 uraa
@@ -6045,12 +6077,14 @@ usko
 ustadz
 usu
 usuk
+usul
 usung
 usus
 usut
 ut
 uta
 utama
+utamane
 utang
 utar
 utara
