@@ -2817,6 +2817,7 @@ iri
 irian
 irie
 irigasi
+irih
 irin
 iring
 iringan
@@ -3653,6 +3654,7 @@ kuli
 kulina
 kulit
 kulo
+kuloe
 kulon
 kulup
 kum
@@ -6085,6 +6087,7 @@ ramen
 rames
 rampas
 ramping
+rampok
 rampun
 rampung
 rampungan
@@ -6409,6 +6412,7 @@ ruso
 rusuh
 rut
 ruta
+rutan
 ruti
 rutin
 ruwah
@@ -7723,6 +7727,7 @@ watu
 wawang
 wawasan
 wayah
+wayahe
 wayang
 wayangan
 we
