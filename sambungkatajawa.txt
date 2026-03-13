@@ -2126,6 +2126,7 @@ hias
 hijab
 hijau
 hiji
+hijrah
 hilang
 himpun
 himpunan
@@ -3072,6 +3073,7 @@ kudet
 kudu
 kudus
 kue
+kui
 kuk
 kuku
 kukuh
@@ -3955,6 +3957,7 @@ ngadhep
 ngadi
 ngado
 ngadoh
+ngadok
 ngadu
 ngaduk
 ngadus
@@ -6153,6 +6156,7 @@ uker
 uki
 ukir
 ukiran
+ukka
 uko
 ukon
 uku
