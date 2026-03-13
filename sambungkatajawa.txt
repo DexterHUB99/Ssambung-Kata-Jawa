@@ -1931,6 +1931,7 @@ esem
 eses
 esi
 esih
+esik
 esin
 eso
 esoe
