@@ -5871,6 +5871,7 @@ pilar
 pileh
 pilek
 pilem
+pili
 pilih
 pilihan
 pilok
@@ -7465,6 +7466,7 @@ umbul
 ume
 umen
 umi
+ummi
 umo
 umpa
 umpam
@@ -7545,6 +7547,7 @@ upah
 upam
 upan
 upang
+upas
 upaya
 upel
 upi
