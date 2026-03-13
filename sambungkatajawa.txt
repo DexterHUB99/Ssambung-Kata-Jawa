@@ -1982,6 +1982,7 @@ heh
 heha
 hehe
 hei
+hele
 heli
 helikopter
 hem
@@ -4384,6 +4385,7 @@ osok
 osor
 ot
 otak
+otek
 otot
 ow
 owah
