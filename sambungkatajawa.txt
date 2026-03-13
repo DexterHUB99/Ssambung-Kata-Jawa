@@ -4317,6 +4317,7 @@ ngetan
 ngetem
 ngeti
 ngetok
+ngetot
 ngewe
 ngewu
 ngeyel
@@ -6659,6 +6660,7 @@ walang
 wali
 walik
 waluh
+waluyo
 wan
 wana
 wandu
