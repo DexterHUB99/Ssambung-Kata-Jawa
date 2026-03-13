@@ -2739,6 +2739,7 @@ isin
 isine
 ising
 isis
+iska
 iski
 islam
 ismu
@@ -5788,6 +5789,7 @@ raimu
 raimuasu
 raine
 raio
+raisin
 raiso
 raja
 rajah
