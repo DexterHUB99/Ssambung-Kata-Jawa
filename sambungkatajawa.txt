@@ -91,6 +91,7 @@ ahin
 ahir
 ahire
 ahis
+ahit
 ahlak
 ahli
 ahlian
@@ -5409,6 +5410,7 @@ roo
 rop
 rope
 ropi
+roro
 ros
 rosa
 rosi
