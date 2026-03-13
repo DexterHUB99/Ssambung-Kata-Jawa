@@ -102,7 +102,6 @@ ahul
 ahur
 ahus
 ai
-aina
 aing
 air
 aja
@@ -411,7 +410,6 @@ apa
 apak
 apal
 apalan
-apan
 apane
 apar
 ape
@@ -721,6 +719,7 @@ beni
 benjol
 benten
 bentrok
+beo
 berak
 berek
 berkah
@@ -764,6 +763,7 @@ bintang
 biru
 bis
 bisa
+bisik
 bisiki
 biso
 bisu
@@ -1063,6 +1063,7 @@ dengkul
 deni
 der
 dereng
+deres
 desa
 deso
 dewa
@@ -1723,7 +1724,6 @@ gendut
 gene
 genep
 generator
-geneyi
 geng
 geni
 genta
@@ -1779,7 +1779,6 @@ giman
 gimbal
 gina
 gincu
-ginem
 gini
 ginjal
 gir
@@ -2031,7 +2030,7 @@ ho
 hobi
 hoe
 hoh
-holi
+homo
 hooh
 hor
 hora
@@ -2292,8 +2291,8 @@ isu
 isuk
 it
 item
+itik
 itil
-itu
 itung
 iw
 iwak
@@ -2302,6 +2301,7 @@ iwan
 iwas
 iwel
 iwir
+ix
 iy
 iya
 iyan
@@ -4457,7 +4457,6 @@ paliyan
 palu
 palung
 pamali
-paman
 pamil
 pamit
 pamitan
@@ -4667,6 +4666,7 @@ ponakan
 pondok
 poni
 ponorogo
+poo
 por
 pora
 poran
@@ -4842,6 +4842,7 @@ redi
 rega
 regane
 reget
+rei
 rejo
 rek
 rekasa
@@ -4864,7 +4865,6 @@ remek
 remen
 remes
 remi
-remok
 rempah
 rempon
 remu
@@ -5333,7 +5333,6 @@ subal
 subhanallah
 subuh
 subur
-sudah
 sudi
 sudukan
 sugeng
@@ -5736,7 +5735,6 @@ ugi
 ugo
 ugung
 uh
-uho
 uja
 ujar
 ujaran
@@ -5756,6 +5754,7 @@ ukaran
 ukarane
 ukas
 uker
+uki
 ukir
 ukiran
 ukon
@@ -6095,6 +6094,7 @@ wulan
 wuli
 wulu
 wun
+xenon
 xilofon
 ya
 yaapa
