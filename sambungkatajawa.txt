@@ -2567,6 +2567,7 @@ hawa
 hawane
 hawe
 hawi
+hawo
 haya
 hayang
 hayat
@@ -7106,6 +7107,7 @@ somar
 somat
 sombong
 some
+somi
 sompral
 son
 songket
