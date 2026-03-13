@@ -226,6 +226,7 @@ ama
 amah
 amal
 amalan
+amam
 aman
 amanah
 amang
@@ -272,6 +273,7 @@ ampang
 amparan
 ampas
 ampe
+ampel
 ampela
 ampil
 ampir
@@ -2913,6 +2915,7 @@ kidung
 kie
 kijang
 kijing
+kik
 kika
 kiki
 kikil
