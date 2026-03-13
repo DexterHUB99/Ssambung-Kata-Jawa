@@ -747,6 +747,7 @@ bayang
 bayi
 bayu
 be
+bean
 bebas
 bebek
 beber
@@ -3297,6 +3298,7 @@ laler
 lali
 lam
 lama
+lamaran
 lambe
 lambemu
 lambene
@@ -3965,6 +3967,7 @@ nalur
 naluri
 nama
 namah
+namamu
 namba
 nambah
 nambai
@@ -4999,6 +5002,7 @@ paring
 paringi
 parit
 paru
+paruh
 pas
 pasa
 pasah
