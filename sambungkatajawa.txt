@@ -5825,6 +5825,7 @@ rumbi
 rumi
 rumiyin
 rumput
+rumu
 run
 runcing
 rundingan
@@ -6170,6 +6171,7 @@ slamet
 slametan
 so
 soale
+soasu
 sob
 sobat
 sodok
@@ -6301,6 +6303,7 @@ supoyo
 sur
 sura
 surai
+surasa
 surat
 sure
 suren
