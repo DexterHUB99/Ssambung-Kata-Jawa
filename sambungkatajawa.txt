@@ -12,6 +12,7 @@ aber
 abi
 abil
 abis
+aboh
 abon
 abot
 abrit
@@ -644,6 +645,7 @@ aut
 auta
 autan
 auto
+aw
 awak
 awakdewe
 awake
