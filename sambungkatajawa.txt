@@ -2186,6 +2186,7 @@ here
 heri
 hes
 hesen
+hesi
 heti
 hi
 hias
@@ -3441,6 +3442,7 @@ lingkung
 linglung
 lingsir
 lini
+linta
 lintah
 lintang
 lintas
