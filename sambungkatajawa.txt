@@ -3273,6 +3273,7 @@ kon
 konangan
 konco
 kondangan
+kondi
 kondisi
 kondur
 kongkon
@@ -4006,6 +4007,7 @@ mitoni
 mlaku
 mlarat
 mlebu
+mmantu
 mo
 mobil
 moco
@@ -4592,6 +4594,7 @@ ngimi
 ngimpi
 ngin
 ngina
+nginep
 nging
 nginjak
 ngintik
