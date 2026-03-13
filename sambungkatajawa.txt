@@ -779,6 +779,7 @@ batok
 bau
 bawal
 bayang
+bayem
 bayi
 bayu
 be
@@ -806,6 +807,7 @@ bejan
 bejo
 bejur
 bek
+bekal
 bekas
 bekel
 beko
@@ -1311,6 +1313,7 @@ donga
 doni
 dora
 dore
+dori
 doro
 dorong
 dosa
@@ -2258,6 +2261,7 @@ harimau
 harimu
 harjo
 harta
+haru
 harum
 harus
 haruse
@@ -2397,6 +2401,7 @@ ib
 iba
 ibadah
 ibak
+iber
 ibu
 ibuk
 ical
@@ -3344,6 +3349,7 @@ kotang
 kote
 kotor
 kowe
+kowek
 kowen
 kower
 koyo
@@ -4281,6 +4287,7 @@ ndoro
 nduk
 nduwe
 ne
+nebake
 neda
 nedah
 nedha
@@ -4708,6 +4715,7 @@ ngone
 ngongkang
 ngongko
 ngono
+ngonten
 ngontol
 ngop
 ngopak
@@ -5071,6 +5079,7 @@ olih
 oling
 olo
 oloe
+oloh
 olok
 olokan
 olon
@@ -6410,6 +6419,7 @@ sutra
 suwan
 suwe
 suwen
+suweng
 suwi
 suwir
 suwun
@@ -6487,6 +6497,7 @@ tar
 tara
 tari
 tarik
+taro
 taru
 tarung
 tas
@@ -6828,6 +6839,7 @@ uko
 ukol
 ukon
 ukop
+ukra
 ukro
 uku
 ukuk
@@ -6888,6 +6900,7 @@ umbul
 ume
 umen
 umi
+umo
 umpa
 umpam
 umpama
