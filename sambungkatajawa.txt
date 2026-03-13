@@ -5824,6 +5824,7 @@ sayur
 se
 sebah
 sedan
+sedeng
 sedina
 seduh
 sedulur
@@ -6306,6 +6307,7 @@ ti
 tiba
 tibak
 tiban
+tibano
 tibo
 tik
 tika
