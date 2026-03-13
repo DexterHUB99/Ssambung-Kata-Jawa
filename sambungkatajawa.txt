@@ -2733,6 +2733,7 @@ kambing
 kambuh
 kami
 kamis
+kamit
 kampil
 kampret
 kampung
@@ -3698,6 +3699,7 @@ meh
 meja
 mek
 mekar
+mekso
 mel
 melas
 melek
