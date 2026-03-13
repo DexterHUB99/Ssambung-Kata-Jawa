@@ -243,7 +243,6 @@ amben
 ambeng
 amber
 ambil
-amboi
 ambruk
 ambu
 ambune
@@ -693,7 +692,6 @@ ban
 bancak
 bandeng
 bandrek
-bangke
 bangsat
 bani
 banjir
@@ -982,7 +980,6 @@ ciduk
 cik
 cikal
 ciki
-cila
 cilaka
 cili
 cilik
@@ -1595,6 +1592,7 @@ etik
 etika
 etis
 eto
+etoh
 etok
 etol
 eton
@@ -1650,6 +1648,7 @@ gagar
 gagas
 gagasan
 gage
+gagu
 gaguna
 gah
 gairah
@@ -1675,7 +1674,6 @@ galok
 galon
 galung
 galungan
-gama
 gaman
 gambang
 gambar
@@ -2376,7 +2374,6 @@ ipik
 ipil
 ipin
 ipit
-ipo
 ipoe
 iprit
 ipuk
@@ -2554,6 +2551,7 @@ jeran
 jero
 jeruk
 ji
+jigong
 jijih
 jijik
 jika
@@ -2804,7 +2802,6 @@ kebon
 kecap
 kece
 kecel
-kecelek
 kecut
 kedah
 kediri
@@ -5551,7 +5548,6 @@ selawe
 sele
 selep
 selet
-selimut
 selir
 semak
 semar
@@ -5563,7 +5559,6 @@ semen
 semok
 sempak
 sempit
-semprul
 semu
 semut
 sen
@@ -5642,6 +5637,7 @@ sinden
 sing
 singa
 singgah
+singo
 sini
 sinom
 sinoman
@@ -5917,7 +5913,6 @@ tegal
 teguh
 teh
 teja
-tek
 teka
 tekan
 teke
@@ -6334,7 +6329,6 @@ upupah
 ur
 ura
 uraa
-urab
 urah
 urai
 urak
@@ -6398,6 +6392,7 @@ usul
 usung
 usus
 usut
+usya
 ut
 uta
 utama
