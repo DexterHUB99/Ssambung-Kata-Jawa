@@ -1549,6 +1549,7 @@ etuk
 etung
 etus
 ev
+eva
 evo
 ew
 ewang
@@ -6155,6 +6156,7 @@ wajik
 wak
 wakil
 waktu
+wakul
 walah
 walang
 wali
