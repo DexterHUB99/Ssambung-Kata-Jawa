@@ -1392,6 +1392,7 @@ ditulung
 dluwang
 do
 doa
+dobol
 dodo
 dodol
 dodolan
