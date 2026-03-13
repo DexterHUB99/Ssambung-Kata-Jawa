@@ -6165,6 +6165,7 @@ tuwo
 tuwuh
 tuyul
 tv
+ua
 uan
 uang
 ub
@@ -6375,6 +6376,7 @@ urak
 urakan
 ural
 uram
+uran
 urang
 urap
 urapan
