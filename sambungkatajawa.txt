@@ -4583,6 +4583,7 @@ nuhun
 nuki
 nuku
 nul
+nulang
 nuli
 nulis
 nulung
@@ -6322,6 +6323,7 @@ ukara
 ukaran
 ukarane
 ukas
+uke
 uker
 uket
 uki
