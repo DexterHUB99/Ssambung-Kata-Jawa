@@ -2554,6 +2554,7 @@ hoha
 hoho
 hoi
 hoki
+hola
 holi
 homo
 hon
@@ -5098,6 +5099,7 @@ ngoko
 ngokop
 ngol
 ngolah
+ngolak
 ngoleh
 ngolek
 ngolet
@@ -5123,6 +5125,7 @@ ngontol
 ngop
 ngopak
 ngopeni
+ngopet
 ngopi
 ngopii
 ngopo
@@ -6714,6 +6717,7 @@ serius
 serong
 seru
 ses
+sesak
 sesek
 sesok
 sesuk
@@ -7714,6 +7718,7 @@ uya
 uyah
 uye
 uyuh
+uyuhmu
 uz
 visa
 voli
