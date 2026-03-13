@@ -3650,6 +3650,7 @@ kuat
 kuburan
 kucing
 kucir
+kuciwa
 kucur
 kuda
 kudet
@@ -3971,6 +3972,7 @@ lingkung
 linglung
 lingsir
 lini
+lino
 linta
 lintah
 lintang
