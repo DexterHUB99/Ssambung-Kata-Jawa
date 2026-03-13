@@ -5767,6 +5767,7 @@ slamet
 slametan
 so
 soale
+sob
 sobat
 sodok
 sodor
