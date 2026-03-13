@@ -1288,6 +1288,7 @@ eeh
 eg
 ega
 egak
+egi
 ego
 egrang
 eh
@@ -5886,6 +5887,7 @@ tamu
 tanah
 tandang
 tandha
+tandhuk
 tanduk
 tandur
 tanduran
