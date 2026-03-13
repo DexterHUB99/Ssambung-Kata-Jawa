@@ -2376,6 +2376,7 @@ igus
 ih
 iha
 ihe
+ihha
 ihi
 ihing
 ihma
@@ -3230,6 +3231,7 @@ koma
 komen
 komi
 kompak
+kompas
 kompor
 kon
 konangan
