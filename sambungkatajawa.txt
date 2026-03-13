@@ -4782,6 +4782,7 @@ ngawe
 ngaweh
 ngawi
 ngawil
+ngawini
 ngawis
 ngawit
 ngawiti
@@ -5952,6 +5953,7 @@ ragat
 ragelem
 ragi
 ragil
+ragu
 rah
 rahayu
 rahmat
