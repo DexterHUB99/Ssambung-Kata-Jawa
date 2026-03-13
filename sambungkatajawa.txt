@@ -2219,6 +2219,7 @@ go
 goblog
 goblok
 gobloki
+goceki
 godek
 godhong
 godog
@@ -6322,6 +6323,7 @@ ru
 ruam
 ruang
 rubuh
+rue
 rugi
 rugimu
 ruh
