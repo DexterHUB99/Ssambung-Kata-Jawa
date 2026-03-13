@@ -1258,6 +1258,7 @@ dini
 dino
 dinten
 dipan
+dipo
 dipun
 dir
 diri
@@ -5284,6 +5285,7 @@ peli
 pelit
 pelita
 pelo
+peluk
 pena
 penak
 pendek
@@ -7058,6 +7060,7 @@ wea
 web
 wedan
 wedang
+wede
 wedhang
 wedhi
 wedhus
