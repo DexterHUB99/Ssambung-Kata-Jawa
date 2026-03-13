@@ -170,6 +170,7 @@ akie
 akih
 akik
 akil
+akim
 akin
 akir
 akit
@@ -3237,6 +3238,7 @@ kura
 kuran
 kurang
 kurawa
+kurban
 kuri
 kurma
 kurna
@@ -6132,6 +6134,7 @@ tenan
 tenanan
 tenane
 tenang
+teng
 tengah
 tengen
 tenggok
