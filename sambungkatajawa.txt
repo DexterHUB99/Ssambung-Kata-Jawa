@@ -781,6 +781,7 @@ banyu
 bapak
 bar
 bareng
+bariki
 baron
 barongan
 bas
@@ -947,6 +948,7 @@ boten
 boti
 boto
 botol
+boyo
 boyok
 bu
 buaya
