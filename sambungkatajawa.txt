@@ -131,6 +131,7 @@ aimi
 aimu
 aina
 aing
+aini
 aio
 air
 aira
@@ -534,6 +535,7 @@ arjuna
 arjuno
 arogan
 aroh
+arok
 aron
 aros
 arsa
@@ -748,7 +750,6 @@ balungan
 balur
 bam
 ban
-banana
 bancak
 banci
 bandeng
@@ -772,7 +773,6 @@ baskom
 basuki
 bata
 batal
-bato
 batok
 bau
 bawal
@@ -882,6 +882,7 @@ bindeng
 bingung
 bini
 bintang
+bira
 biru
 bis
 bisa
@@ -1255,6 +1256,7 @@ dilit
 dilok
 diluk
 dilut
+dim
 dima
 diman
 dimana
@@ -1499,6 +1501,7 @@ elor
 elos
 elu
 eluh
+eluk
 elur
 elus
 elut
@@ -1644,6 +1647,7 @@ epoh
 epok
 epor
 epu
+epuh
 epus
 er
 era
@@ -2034,7 +2038,6 @@ gilani
 gili
 giling
 gilo
-gima
 giman
 gimbal
 gina
@@ -2619,12 +2622,12 @@ irup
 irus
 is
 isa
+isaa
 isai
 isak
 isam
 isan
 isap
-ise
 isek
 isel
 isen
@@ -2658,6 +2661,7 @@ isuk
 isun
 isya
 it
+ita
 itali
 ite
 item
@@ -2678,6 +2682,7 @@ iwir
 ix
 iy
 iya
+iyaa
 iyan
 iyes
 iyo
@@ -2833,6 +2838,7 @@ jun
 juni
 jupuk
 jur
+jura
 juru
 jus
 ka
@@ -2852,7 +2858,6 @@ kadang
 kademan
 kadewa
 kados
-kadose
 kadung
 kadut
 kae
@@ -3026,6 +3031,7 @@ kawula
 kawung
 kawus
 kaya
+kayak
 kayane
 kayu
 ke
@@ -3169,7 +3175,6 @@ kese
 kesed
 kesel
 keselek
-kesem
 keset
 kesi
 kesna
@@ -3218,6 +3223,7 @@ kilen
 kim
 kima
 kiman
+kimi
 kimpul
 kin
 kina
@@ -3422,6 +3428,7 @@ kurban
 kuri
 kurma
 kurna
+kuro
 kursi
 kursii
 kuru
@@ -4507,7 +4514,6 @@ ngegas
 ngeh
 ngejak
 ngejar
-ngejek
 ngek
 ngelag
 ngelak
@@ -4799,6 +4805,7 @@ nguyu
 nguyuh
 ngwah
 ni
+nia
 niba
 nie
 nik
@@ -6290,6 +6297,7 @@ subuh
 subur
 suci
 sudah
+sude
 sudi
 sudukan
 sue
@@ -7219,6 +7227,7 @@ wonten
 woo
 wowo
 wudel
+wudhu
 wuh
 wujud
 wulan
