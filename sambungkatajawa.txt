@@ -685,6 +685,7 @@ balik
 balok
 balon
 balung
+balungan
 balur
 bam
 ban
@@ -5353,6 +5354,7 @@ rumiyin
 rumput
 run
 runcing
+rundingan
 rung
 rungkad
 rungkut
@@ -6232,6 +6234,7 @@ umahe
 umak
 uman
 umar
+umat
 umbah
 umbar
 umbel
