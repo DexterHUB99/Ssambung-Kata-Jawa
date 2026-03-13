@@ -500,7 +500,6 @@ anot
 ansur
 anta
 antah
-antam
 antar
 antara
 antarane
@@ -531,7 +530,6 @@ anyaman
 anyar
 anyep
 anyer
-anyes
 anying
 anyir
 ap
@@ -554,7 +552,6 @@ apem
 apes
 api
 apik
-apip
 apit
 apo
 apol
@@ -685,7 +682,6 @@ at
 ata
 atah
 atak
-atam
 atap
 atar
 atas
@@ -867,7 +863,6 @@ bathuk
 bati
 bato
 batok
-batu
 bau
 bawal
 bawok
@@ -1685,7 +1680,6 @@ eman
 emane
 emang
 emas
-emat
 ematane
 emba
 embah
@@ -2695,7 +2689,6 @@ ihi
 ihing
 ihka
 ihli
-ihlo
 ihma
 iho
 ihsan
@@ -3080,7 +3073,6 @@ jero
 jeruk
 ji
 jidat
-jigong
 jijih
 jijik
 jika
@@ -3417,6 +3409,7 @@ keluh
 kem
 kemah
 kemaki
+kemalan
 kemang
 kemari
 kemas
@@ -3480,7 +3473,6 @@ kepriben
 kepriye
 ker
 kera
-kerah
 keramas
 kerang
 keranjingan
@@ -3602,7 +3594,6 @@ kiriman
 kiris
 kis
 kisa
-kisan
 kisi
 kit
 kita
@@ -4454,7 +4445,6 @@ mini
 minta
 minum
 mirah
-mirengake
 miri
 miring
 mirip
@@ -4551,7 +4541,6 @@ mulus
 mulya
 mumbul
 mumet
-mumi
 mumpung
 munafik
 mundak
@@ -4711,7 +4700,6 @@ nastar
 nat
 nata
 natal
-natap
 nawa
 nawang
 nawar
@@ -4800,7 +4788,6 @@ nete
 neteh
 netek
 netes
-ngabari
 ngabekti
 ngaben
 ngaca
@@ -4843,7 +4830,6 @@ ngala
 ngalah
 ngalahi
 ngalam
-ngalami
 ngalas
 ngale
 ngaleh
@@ -5255,7 +5241,6 @@ ngrayu
 ngret
 ngrit
 ngrumat
-ngrusak
 nguber
 ngubur
 ngucap
@@ -5291,7 +5276,6 @@ ngumpet
 ngumpul
 ngumpulake
 nguna
-nguncal
 ngundang
 ngunduh
 ngundur
@@ -5346,7 +5330,6 @@ nikmat
 niko
 niku
 nikung
-nikus
 nil
 nila
 nilai
@@ -5392,7 +5375,6 @@ nisi
 nising
 nista
 nit
-nita
 niten
 niti
 nitih
@@ -5472,7 +5454,6 @@ numan
 numbal
 numbas
 numbuk
-numpah
 numpak
 numpaki
 numpang
@@ -5794,7 +5775,6 @@ pacik
 pacol
 pacul
 pada
-padahal
 padang
 padaran
 padas
@@ -6090,7 +6070,6 @@ po
 pocong
 podho
 poe
-poho
 pojok
 pojokan
 poke
@@ -6712,7 +6691,6 @@ sap
 sapa
 sapi
 sapih
-sapir
 sapu
 saput
 sar
@@ -7728,7 +7706,6 @@ up
 upa
 upacara
 upah
-upaku
 upam
 upan
 upang
@@ -8137,7 +8114,6 @@ yuda
 yudha
 yudi
 yuh
-yui
 yuk
 yuka
 yuki
