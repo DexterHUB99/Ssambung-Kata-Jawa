@@ -85,6 +85,7 @@ ahin
 ahir
 ahire
 ahis
+ahlak
 ahli
 ahlian
 ahline
@@ -166,7 +167,6 @@ aksi
 aku
 akuh
 akul
-akumi
 akun
 akur
 akut
@@ -742,6 +742,7 @@ besuk
 besuki
 betah
 beto
+bi
 biak
 biang
 biasa
@@ -1086,6 +1087,7 @@ didi
 didik
 didu
 digawa
+dijalan
 dik
 dika
 dikep
@@ -1421,6 +1423,7 @@ entong
 entuk
 entut
 enul
+enyak
 enyong
 ep
 epa
@@ -2115,6 +2118,7 @@ ih
 iha
 ihe
 ihi
+ihma
 ihsan
 ija
 ijab
@@ -2648,7 +2652,6 @@ kawula
 kawung
 kawus
 kaya
-kayane
 kayu
 ke
 kebak
@@ -3227,6 +3230,7 @@ lok
 loka
 lokan
 lola
+loli
 loloh
 lolos
 lom
@@ -3779,6 +3783,7 @@ ngadi
 ngado
 ngadu
 ngaduk
+ngae
 ngagem
 ngajak
 ngajar
@@ -3851,7 +3856,6 @@ ngapah
 ngapain
 ngapak
 ngapel
-ngapeli
 ngapu
 ngapunten
 ngapura
@@ -3904,6 +3908,7 @@ ngawu
 ngawur
 ngayah
 ngayal
+nge
 ngebo
 ngece
 ngecek
@@ -4327,7 +4332,6 @@ odol
 ogah
 ogak
 oge
-ogi
 ogoh
 ogol
 oh
@@ -4344,6 +4348,7 @@ ok
 oka
 okan
 okar
+okas
 oke
 okea
 okee
@@ -4400,6 +4405,7 @@ ompol
 ompong
 ompreng
 on
+onang
 onar
 oncek
 onco
@@ -4418,6 +4424,7 @@ ontang
 ontel
 onthel
 onto
+ontong
 oo
 oon
 op
@@ -4833,6 +4840,7 @@ rambak
 ramban
 rambat
 rambatan
+rambi
 rambu
 rambut
 rambutan
@@ -5302,6 +5310,7 @@ sil
 sila
 silah
 silam
+sile
 silet
 sili
 silih
@@ -5321,7 +5330,6 @@ sinden
 sing
 singa
 singgah
-sini
 sinom
 sinoman
 sinta
@@ -5349,6 +5357,7 @@ sisih
 sisik
 sisil
 sisir
+sita
 siter
 sithik
 siti
@@ -5405,6 +5414,7 @@ srawung
 su
 suami
 suamii
+suara
 suba
 subal
 subhanallah
@@ -5451,6 +5461,7 @@ sumpah
 sumuk
 sumur
 sun
+sunan
 sunat
 sundel
 sunduk
@@ -5464,6 +5475,7 @@ suni
 suntuk
 sup
 supados
+supan
 supaya
 supe
 supen
@@ -5502,6 +5514,7 @@ syukur
 ta
 tabah
 tabib
+tabir
 tabuh
 tabung
 tabur
@@ -5522,12 +5535,12 @@ takjil
 takon
 takut
 talas
-tale
 talenan
 tali
 tam
 tama
 tamah
+taman
 tamba
 tambah
 tambak
@@ -5937,6 +5950,7 @@ ungkap
 ungkas
 ungkir
 ungu
+uni
 unjar
 unjuk
 unta
@@ -6018,7 +6032,6 @@ usko
 ustadz
 usu
 usuk
-usul
 usung
 usus
 usut
