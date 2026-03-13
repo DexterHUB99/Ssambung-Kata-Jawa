@@ -3145,6 +3145,7 @@ kasar
 kasep
 kaset
 kasi
+kasian
 kasih
 kasihan
 kasil
