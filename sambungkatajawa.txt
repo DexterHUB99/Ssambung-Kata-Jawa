@@ -1731,6 +1731,7 @@ emban
 embat
 embe
 embel
+emben
 ember
 emboh
 embok
@@ -4636,6 +4637,7 @@ mumbul
 mumet
 mumi
 mumpung
+mun
 munafik
 mundak
 mundhut
@@ -6996,6 +6998,7 @@ sialan
 siap
 siapa
 siasu
+sibat
 sida
 sidang
 sie
@@ -7902,6 +7905,7 @@ urat
 ure
 urek
 uren
+uret
 uri
 urih
 urik
