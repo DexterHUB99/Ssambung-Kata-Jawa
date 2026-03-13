@@ -4368,6 +4368,7 @@ ngenggo
 ngenjang
 ngeno
 ngenteni
+ngentong
 ngentu
 ngentut
 ngepel
@@ -4411,6 +4412,7 @@ nggoreng
 nggowo
 ngguyu
 ngibadah
+ngibu
 ngibul
 ngicipi
 ngidam
@@ -5514,6 +5516,7 @@ ribet
 ribut
 ridho
 rie
+rih
 rik
 rika
 rikala
@@ -5627,6 +5630,7 @@ rundingan
 rung
 rungkad
 rungkut
+rungsing
 runtuh
 ruo
 rup
