@@ -2033,6 +2033,7 @@ gilani
 gili
 giling
 gilo
+gima
 giman
 gimbal
 gina
@@ -2622,6 +2623,7 @@ isak
 isam
 isan
 isap
+ise
 isek
 isel
 isen
@@ -3165,6 +3167,7 @@ kese
 kesed
 kesel
 keselek
+kesem
 keset
 kesi
 kesna
