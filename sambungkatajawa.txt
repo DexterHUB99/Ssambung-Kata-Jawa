@@ -3305,6 +3305,7 @@ kerupuk
 kerutan
 kes
 kesah
+kesal
 kesasar
 kesat
 kese
@@ -6151,6 +6152,7 @@ rukun
 rum
 rumah
 rumangsa
+rumangsane
 rumbi
 rumi
 rumiyin
