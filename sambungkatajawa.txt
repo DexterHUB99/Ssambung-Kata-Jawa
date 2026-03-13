@@ -6832,6 +6832,7 @@ supi
 supoyo
 sur
 sura
+surabaya
 surai
 surasa
 surat
@@ -7581,6 +7582,7 @@ visa
 voli
 wa
 waca
+wadah
 wadara
 wader
 wadha
