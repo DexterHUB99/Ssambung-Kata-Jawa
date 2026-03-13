@@ -1578,6 +1578,7 @@ enir
 enjang
 enjih
 enjing
+enka
 enlo
 eno
 enok
@@ -3284,6 +3285,7 @@ korek
 koreng
 korok
 kos
+kosan
 kose
 kosek
 kosok
@@ -4578,6 +4580,7 @@ nging
 nginjak
 ngintik
 ngintip
+nginum
 ngipas
 ngira
 ngiri
@@ -5984,6 +5987,7 @@ sebah
 seda
 sedan
 sedeng
+sedih
 sedina
 seduh
 sedulur
