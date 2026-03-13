@@ -185,6 +185,7 @@ akat
 akbar
 ake
 akeh
+akehe
 akek
 akel
 akem
@@ -1608,6 +1609,7 @@ ele
 eleh
 elek
 elekan
+eleke
 elel
 elem
 eleman
@@ -2623,6 +2625,7 @@ idam
 ide
 idep
 ider
+idi
 idih
 idin
 idma
@@ -2676,6 +2679,7 @@ ikian
 ikie
 ikih
 ikil
+ikilo
 ikiwe
 iklas
 iklim
@@ -5034,6 +5038,7 @@ ngin
 ngina
 nginep
 nging
+ngini
 nginjak
 ngintik
 ngintil
