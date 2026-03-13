@@ -107,6 +107,7 @@ ahur
 ahus
 ai
 aian
+aii
 aika
 ail
 aima
@@ -887,6 +888,7 @@ bunuh
 bur
 buron
 buru
+buruh
 bus
 busi
 busik
@@ -2684,6 +2686,7 @@ kancil
 kancing
 kancut
 kandang
+kandani
 kandha
 kandut
 kane
