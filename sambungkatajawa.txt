@@ -5600,6 +5600,7 @@ paring
 paringi
 paris
 parit
+parkir
 paru
 paruh
 pas
@@ -5810,6 +5811,7 @@ pos
 pose
 posen
 posi
+pot
 potong
 poye
 poyo
