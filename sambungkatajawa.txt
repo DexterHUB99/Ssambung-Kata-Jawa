@@ -1229,6 +1229,7 @@ dam
 damai
 damel
 damen
+dami
 dampak
 dan
 dana
@@ -6202,6 +6203,7 @@ rolo
 rom
 roma
 romah
+roman
 rombak
 rombeng
 rombong
