@@ -969,6 +969,7 @@ cireng
 ciro
 co
 cobaan
+cobek
 coc
 cocok
 cocot
@@ -4578,6 +4579,7 @@ osor
 ot
 otak
 otek
+otik
 otot
 ov
 ow
@@ -5085,6 +5087,7 @@ restu
 reti
 rewang
 rewel
+rewo
 ri
 riang
 ribet
@@ -6224,6 +6227,7 @@ uz
 visa
 voli
 wa
+waca
 wader
 wadoh
 wadon
