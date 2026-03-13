@@ -3337,6 +3337,7 @@ kipas
 kir
 kira
 kirab
+kiran
 kirana
 kirang
 kirap
@@ -3697,6 +3698,7 @@ lemari
 lemas
 lembah
 lembek
+lembut
 leme
 lemes
 lemot
@@ -4593,6 +4595,7 @@ ngas
 ngasa
 ngasah
 ngasahi
+ngasai
 ngasal
 ngasalan
 ngasar
@@ -4741,6 +4744,7 @@ nggoreng
 nggowo
 nggula
 ngguyu
+ngguyue
 ngibadah
 ngibrit
 ngibu
