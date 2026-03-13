@@ -2047,6 +2047,7 @@ golo
 golong
 golongan
 gombal
+gombalan
 gondok
 gondol
 gondrong
@@ -3475,6 +3476,7 @@ lawih
 lawu
 lawuh
 layah
+layak
 layang
 layangan
 layar
