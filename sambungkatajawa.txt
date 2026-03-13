@@ -269,6 +269,7 @@ amer
 amerga
 amet
 ami
+amie
 amil
 amin
 amir
@@ -3016,6 +3017,7 @@ ketiban
 ketir
 ketis
 ketok
+ketoke
 ketua
 ketuk
 ketup
@@ -5761,6 +5763,7 @@ sih
 siji
 sik
 sika
+sikah
 sikat
 sikep
 siki
