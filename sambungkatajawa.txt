@@ -3007,6 +3007,7 @@ jol
 jola
 jolan
 joli
+jom
 jombang
 jomblo
 jon
@@ -7710,6 +7711,7 @@ wolu
 won
 wong
 woni
+wono
 wonogiri
 wonosobo
 wonten
