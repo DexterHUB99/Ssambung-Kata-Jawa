@@ -2381,6 +2381,7 @@ ihe
 ihha
 ihi
 ihing
+ihka
 ihma
 ihsan
 ija
@@ -5204,6 +5205,7 @@ pareng
 pari
 paring
 paringi
+paris
 parit
 paru
 paruh
