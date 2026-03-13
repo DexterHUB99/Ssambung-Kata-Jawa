@@ -3644,6 +3644,7 @@ mon
 mondok
 monggo
 moni
+montor
 monyet
 mopi
 mor
@@ -6466,6 +6467,7 @@ yan
 yana
 yang
 yani
+yano
 yare
 yas
 yasi
