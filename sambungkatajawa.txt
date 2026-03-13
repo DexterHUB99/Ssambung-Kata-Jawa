@@ -968,6 +968,7 @@ cerak
 ceret
 ceri
 cerita
+ceta
 ceto
 cewek
 ci
@@ -1266,6 +1267,7 @@ duwit
 duwur
 ealah
 eb
+eba
 ebeg
 ebew
 ebi
@@ -3699,6 +3701,7 @@ moleh
 molen
 molet
 moli
+molok
 momong
 mon
 mondok
