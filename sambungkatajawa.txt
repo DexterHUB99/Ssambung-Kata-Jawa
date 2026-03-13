@@ -134,6 +134,7 @@ aia
 aian
 aii
 aika
+aiko
 ail
 aila
 aili
@@ -4472,6 +4473,7 @@ mirip
 miris
 mirsani
 mis
+misa
 misah
 misake
 misi
@@ -5547,6 +5549,7 @@ nyilih
 nyiram
 nyirep
 nyo
+nyolong
 nyong
 nyuluh
 nyunggi
