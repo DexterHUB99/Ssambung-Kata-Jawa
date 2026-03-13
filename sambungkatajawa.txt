@@ -3853,6 +3853,7 @@ mujair
 muji
 muk
 muka
+mukak
 mul
 mula
 mulai
@@ -5592,6 +5593,7 @@ sampah
 sampai
 sampean
 sampeyan
+sampian
 samping
 sampir
 sampo
