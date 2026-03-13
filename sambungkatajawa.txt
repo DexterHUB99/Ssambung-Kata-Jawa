@@ -528,6 +528,7 @@ anyir
 ap
 apa
 apae
+apah
 apak
 apal
 apalan
@@ -5293,6 +5294,7 @@ nimbang
 nimbangi
 nimbul
 nimbun
+nimo
 nimpal
 nin
 nina
@@ -5363,6 +5365,7 @@ noni
 nonjok
 nono
 nonton
+nontone
 nop
 nopang
 nopo
@@ -6203,6 +6206,7 @@ rantas
 ranti
 ranting
 ranum
+rao
 raono
 raos
 rap
@@ -6630,6 +6634,7 @@ sar
 sara
 saran
 sarap
+sarapan
 sare
 saren
 sareng
