@@ -1637,6 +1637,7 @@ enok
 enol
 enom
 entas
+ente
 entek
 enteng
 enteni
