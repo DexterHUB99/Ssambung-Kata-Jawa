@@ -2758,6 +2758,7 @@ impen
 impi
 impian
 impit
+imuh
 imut
 in
 ina
@@ -6062,6 +6063,7 @@ punten
 pup
 pupu
 pupuh
+pupuk
 puput
 pur
 pura
