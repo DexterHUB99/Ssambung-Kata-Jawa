@@ -3967,6 +3967,7 @@ makane
 make
 maki
 malah
+malak
 malam
 malang
 malas
@@ -5786,6 +5787,7 @@ rajut
 rak
 raka
 raket
+raki
 rakit
 raksasa
 rakus
