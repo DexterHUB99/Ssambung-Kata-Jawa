@@ -3706,6 +3706,7 @@ nalik
 nalika
 nalikane
 naliko
+nalur
 naluri
 nama
 namba
@@ -4398,6 +4399,7 @@ nyawa
 nyawiji
 nyawit
 nyedhak
+nyeluk
 nyilih
 nyiram
 nyirep
