@@ -6277,6 +6277,7 @@ uban
 uber
 ubi
 ubur
+uc
 ucap
 ucapan
 ucul
