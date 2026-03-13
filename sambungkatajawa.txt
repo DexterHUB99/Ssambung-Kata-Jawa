@@ -4214,6 +4214,7 @@ manak
 manasi
 mancal
 mancing
+mandan
 mandang
 mandeg
 mandhek
@@ -7700,6 +7701,7 @@ utawo
 ute
 utek
 uteke
+utekmu
 utel
 uter
 uti
