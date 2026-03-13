@@ -1432,6 +1432,7 @@ dunga
 dungo
 dungu
 dupa
+dupak
 dupo
 dur
 dura
@@ -3400,6 +3401,7 @@ kilas
 kilat
 kile
 kilen
+kili
 kim
 kima
 kiman
@@ -4561,6 +4563,7 @@ ner
 nerak
 neraka
 nerang
+neri
 nerima
 nerimo
 nerjang
