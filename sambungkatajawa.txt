@@ -2267,6 +2267,7 @@ hoi
 hoki
 holi
 homo
+hon
 hono
 hoo
 hooh
@@ -6343,6 +6344,7 @@ titis
 titit
 tiwas
 tiyang
+tni
 to
 tobat
 toh
@@ -6917,6 +6919,7 @@ woni
 wonosobo
 wonten
 woo
+wowo
 wudel
 wuh
 wujud
