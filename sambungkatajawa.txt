@@ -616,6 +616,7 @@ ayan
 ayang
 ayani
 ayar
+ayat
 aye
 ayem
 ayep
@@ -690,6 +691,7 @@ batal
 batok
 bau
 bawal
+bawok
 bayang
 bayi
 be
@@ -826,6 +828,7 @@ boto
 boyok
 bu
 buaya
+buba
 bubar
 bubrah
 bubuk
@@ -937,6 +940,7 @@ cengel
 cengkeh
 cenil
 centil
+centong
 cep
 cerak
 ceret
@@ -944,6 +948,7 @@ ceri
 cerita
 ceto
 cewek
+cewok
 ci
 cica
 cicak
@@ -1996,6 +2001,7 @@ halus
 halusi
 ham
 hama
+hamba
 hambar
 hamel
 hamil
@@ -2051,6 +2057,7 @@ heh
 heha
 hehe
 hei
+heki
 hele
 heli
 helikopter
@@ -2105,6 +2112,7 @@ hora
 hore
 hori
 hormat
+hot
 hotel
 hp
 hu
@@ -2136,6 +2144,7 @@ huta
 hutan
 hutang
 ib
+iba
 ibadah
 ibu
 ibuk
@@ -2160,6 +2169,7 @@ iha
 ihe
 ihi
 ihma
+iho
 ihsan
 ija
 ijab
@@ -3039,6 +3049,7 @@ kuran
 kurang
 kurawa
 kuri
+kurma
 kurna
 kursi
 kuru
@@ -3169,6 +3180,7 @@ leh
 lek
 lekas
 lekat
+lekoh
 lele
 lelembut
 lelet
@@ -3216,6 +3228,7 @@ lik
 lika
 liku
 lila
+lili
 lilin
 lilit
 lilo
@@ -3246,6 +3259,7 @@ lintah
 lintang
 lintas
 lintu
+lio
 lip
 lipan
 lipat
@@ -3507,7 +3521,6 @@ melek
 melinjo
 melu
 mem
-memar
 meme
 memek
 mendung
@@ -3558,6 +3571,7 @@ mirip
 miris
 mirsani
 mis
+misah
 misake
 miskin
 misuh
@@ -3769,6 +3783,7 @@ ndoro
 nduk
 nduwe
 ne
+neda
 nedah
 nedha
 nedho
@@ -3975,7 +3990,6 @@ ngayah
 ngayal
 nge
 ngebo
-ngebus
 ngece
 ngecek
 ngeces
@@ -4104,6 +4118,7 @@ ngisuh
 ngitung
 ngiwa
 ngiwasi
+ngko
 ngliwet
 nglon
 ngluwehi
@@ -4242,6 +4257,7 @@ nikah
 nikahan
 niki
 nikmat
+niko
 niku
 nikung
 nil
@@ -4281,7 +4297,9 @@ nit
 niten
 niti
 nitih
+nitik
 nitip
+nitis
 njajal
 njaluk
 njupuk
@@ -4419,6 +4437,7 @@ ojol
 ojolan
 ok
 oka
+okai
 okan
 okar
 okas
@@ -4528,7 +4547,6 @@ orang
 orapopo
 oras
 ore
-oreg
 orek
 oren
 oreng
@@ -4838,12 +4856,14 @@ prei
 pring
 pripun
 pu
+puan
 puasa
 pucuk
 puja
 puki
 pukul
 pula
+pulen
 pulsa
 puluh
 pun
@@ -5359,7 +5379,6 @@ sendal
 sendhang
 sendok
 senen
-seneng
 sengkir
 senin
 senok
@@ -5431,6 +5450,7 @@ sinom
 sinoman
 sinta
 sinten
+sio
 sip
 sipa
 sipit
@@ -5608,6 +5628,7 @@ sutra
 suwe
 suwi
 suwir
+suwuk
 suwun
 suwung
 swara
@@ -5715,6 +5736,7 @@ teluk
 tem
 tema
 teman
+tembaga
 tembak
 tembang
 tembok
@@ -6087,7 +6109,6 @@ upik
 upil
 upit
 upo
-upupah
 ur
 ura
 uraa
@@ -6273,7 +6294,6 @@ werna
 werno
 weruh
 wes
-wese
 wesi
 weta
 wetan
