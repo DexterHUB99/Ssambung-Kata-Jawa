@@ -4211,6 +4211,7 @@ makane
 make
 maki
 maksud
+maku
 mal
 malah
 malak
