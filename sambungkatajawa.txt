@@ -1753,6 +1753,7 @@ galah
 galak
 galang
 galau
+gale
 galek
 galeng
 galengan
