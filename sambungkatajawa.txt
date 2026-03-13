@@ -5572,6 +5572,7 @@ paji
 pak
 pakan
 pakar
+pakde
 pakdhe
 pake
 pakir
