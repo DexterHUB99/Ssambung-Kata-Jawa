@@ -1195,6 +1195,7 @@ disik
 disit
 disu
 dit
+ditulung
 dluwang
 do
 doa
@@ -3319,6 +3320,7 @@ lekat
 lele
 lelembut
 lelet
+leli
 lem
 lema
 lemah
