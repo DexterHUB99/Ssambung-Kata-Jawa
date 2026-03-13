@@ -4438,6 +4438,7 @@ oka
 okan
 okar
 okas
+okasa
 oke
 okea
 okee
@@ -6118,6 +6119,7 @@ urah
 urai
 urak
 urakan
+uram
 urang
 urap
 urapan
