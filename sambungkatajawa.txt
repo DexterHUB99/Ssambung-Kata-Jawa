@@ -1887,6 +1887,7 @@ getih
 getok
 getuk
 getun
+geyo
 gi
 gidal
 gigal
@@ -5141,6 +5142,7 @@ rahayu
 rahmat
 rai
 raib
+raie
 raimu
 raine
 raiso
