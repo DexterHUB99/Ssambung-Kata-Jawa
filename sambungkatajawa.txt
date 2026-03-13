@@ -935,6 +935,7 @@ budi
 budo
 buh
 bui
+bujangan
 bujuk
 buk
 buka
@@ -2961,6 +2962,7 @@ kasep
 kaset
 kasi
 kasih
+kasihan
 kasil
 kasir
 kasmaran
@@ -4590,6 +4592,7 @@ ngipas
 ngira
 ngiri
 ngirim
+ngirimi
 ngiris
 ngirit
 ngisak
