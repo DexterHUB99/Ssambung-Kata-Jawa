@@ -2107,6 +2107,7 @@ igo
 igus
 ih
 iha
+ihi
 ihsan
 ija
 ijab
@@ -4150,6 +4151,7 @@ ngwah
 ni
 niba
 nik
+nika
 nikah
 nikahan
 niki
@@ -4972,6 +4974,7 @@ rindu
 ringkas
 ringkih
 rini
+rio
 rip
 ripa
 riri
@@ -5987,6 +5990,7 @@ usil
 usir
 usko
 ustadz
+usu
 usuk
 usung
 usus
