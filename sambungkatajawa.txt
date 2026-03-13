@@ -1715,6 +1715,7 @@ gambang
 gambar
 gambas
 gambir
+gambleh
 gambreng
 gambuh
 gambut
@@ -2740,6 +2741,7 @@ kambuh
 kami
 kamis
 kamit
+kampak
 kampil
 kampret
 kampung
@@ -3591,6 +3593,7 @@ mah
 maha
 mai
 maido
+majo
 maju
 mak
 makam
@@ -5740,6 +5743,7 @@ silet
 sili
 silih
 silit
+silo
 sim
 sima
 simak
