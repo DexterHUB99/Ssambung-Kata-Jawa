@@ -4580,6 +4580,7 @@ molok
 mom
 momong
 mon
+mondar
 mondok
 monggo
 moni
@@ -4842,6 +4843,7 @@ nekani
 nekat
 neker
 neko
+nel
 nela
 nelen
 neli
@@ -7559,6 +7561,7 @@ tos
 tosa
 tose
 toto
+towo
 toya
 tresno
 truk
