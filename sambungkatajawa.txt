@@ -1262,6 +1262,7 @@ dalan
 dalang
 dale
 dalem
+dalih
 dalu
 dam
 damai
@@ -1368,6 +1369,7 @@ dilah
 dilalah
 dilan
 dilat
+dileh
 dilem
 dilit
 dilok
