@@ -2267,6 +2267,7 @@ gontor
 gopal
 gopoh
 gor
+gore
 goreng
 gorengan
 gori
@@ -2457,6 +2458,7 @@ hase
 hasem
 hasi
 hasil
+hasile
 hasrat
 hasri
 hasta
