@@ -1692,6 +1692,7 @@ gemar
 gemas
 gemati
 gembel
+gembira
 gemblong
 gemblung
 gembong
@@ -2018,6 +2019,7 @@ hm
 hmm
 ho
 hobi
+hoe
 hoh
 hooh
 hor
@@ -5300,6 +5302,7 @@ subhanallah
 subuh
 subur
 sudi
+sudukan
 sugeng
 sugih
 sujud
