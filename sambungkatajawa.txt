@@ -4276,6 +4276,7 @@ maki
 maksud
 maku
 mal
+mala
 malah
 malak
 malam
@@ -5399,6 +5400,7 @@ nindakake
 ning
 ningali
 ninggal
+ninggalake
 ningkat
 ningsih
 nini
@@ -6133,6 +6135,7 @@ polah
 polahe
 polahmu
 polan
+pole
 poles
 poli
 polisi
@@ -6815,6 +6818,7 @@ sego
 segoro
 seh
 sehat
+sejen
 sek
 seka
 sekawan
