@@ -2383,6 +2383,7 @@ isu
 isuk
 isya
 it
+itali
 ite
 item
 itik
@@ -4718,6 +4719,7 @@ pedang
 pedes
 pedot
 pegel
+pek
 peka
 pekan
 pekok
@@ -6155,6 +6157,7 @@ uripmu
 uris
 urit
 uritan
+uro
 uru
 urub
 uruk
