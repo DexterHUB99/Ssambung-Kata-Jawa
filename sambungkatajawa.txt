@@ -3689,6 +3689,7 @@ larang
 laras
 lare
 lari
+laring
 laris
 laron
 laru
@@ -7116,6 +7117,7 @@ ukaran
 ukarane
 ukas
 uke
+ukel
 uker
 uket
 uki
