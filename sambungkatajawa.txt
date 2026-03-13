@@ -2341,6 +2341,7 @@ jago
 jagong
 jagung
 jahil
+jail
 jait
 jaja
 jajal
@@ -4393,6 +4394,7 @@ online
 ono
 onta
 ontang
+ontel
 onthel
 onto
 oo
