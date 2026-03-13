@@ -1772,6 +1772,7 @@ erok
 eror
 eros
 erosi
+erot
 eru
 eruh
 eruk
@@ -4213,6 +4214,7 @@ migunani
 mijil
 mik
 mika
+miker
 mikir
 mikul
 mil
@@ -5113,6 +5115,7 @@ nis
 nisa
 nisan
 nisi
+nising
 nista
 nit
 niten
