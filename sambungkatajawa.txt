@@ -146,6 +146,7 @@ ajak
 ajal
 ajang
 ajar
+ajari
 ajay
 ajeg
 ajek
@@ -4405,6 +4406,7 @@ nanak
 nanam
 nanang
 nanas
+nancep
 nandang
 nandhang
 nanduk
