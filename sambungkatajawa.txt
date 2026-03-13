@@ -3638,6 +3638,7 @@ matur
 maturnuwun
 matursuwun
 mau
+mawah
 mawon
 maya
 mayak
@@ -4760,6 +4761,7 @@ ot
 otak
 otek
 otik
+otom
 otot
 ov
 ow
