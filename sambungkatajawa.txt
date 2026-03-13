@@ -6923,6 +6923,7 @@ telo
 telon
 telu
 teluk
+telur
 tem
 tema
 teman
@@ -7476,6 +7477,7 @@ utas
 utawa
 utawi
 utawo
+ute
 utek
 uteke
 utel
