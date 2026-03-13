@@ -582,6 +582,7 @@ asuti
 asuwe
 asuy
 aswatama
+at
 ata
 atah
 atak
@@ -1126,6 +1127,7 @@ dapur
 dapuran
 dar
 dara
+darah
 dari
 darma
 darmi
