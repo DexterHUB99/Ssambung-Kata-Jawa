@@ -2415,6 +2415,7 @@ isis
 iski
 islam
 iso
+isok
 isol
 istana
 isti
@@ -3728,6 +3729,7 @@ muni
 muntah
 munyuk
 mur
+mura
 murah
 muri
 murid
