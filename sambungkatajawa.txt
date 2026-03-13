@@ -2268,6 +2268,7 @@ gulir
 gulu
 gulung
 gumati
+gumuh
 gumun
 gun
 guna
@@ -7210,6 +7211,7 @@ ukon
 ukop
 ukra
 ukro
+ukta
 uku
 ukuk
 ukul
