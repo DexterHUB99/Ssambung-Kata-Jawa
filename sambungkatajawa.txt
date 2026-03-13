@@ -987,6 +987,7 @@ cagak
 cah
 cakep
 cakot
+cakung
 cal
 cama
 camat
@@ -4400,6 +4401,7 @@ ngawur
 ngayah
 ngayal
 ngayuh
+ngayuk
 nge
 ngebo
 ngebus
@@ -4615,6 +4617,7 @@ ngowoh
 ngoyak
 ngoyo
 ngrabi
+ngrasani
 ngrawuh
 ngrayu
 ngret
