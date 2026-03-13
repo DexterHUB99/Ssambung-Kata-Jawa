@@ -2495,6 +2495,7 @@ itik
 itil
 itu
 itung
+itungan
 iut
 iw
 iwak
@@ -6416,6 +6417,7 @@ upam
 upang
 upaya
 upel
+upi
 upik
 upil
 upit
