@@ -6035,6 +6035,7 @@ selep
 selet
 selimut
 selir
+selo
 semak
 semar
 semarang
