@@ -1567,6 +1567,7 @@ ehim
 ehip
 ehir
 ehis
+ehit
 eho
 ehod
 ehok
@@ -6695,6 +6696,7 @@ seda
 sedan
 sedeng
 sedha
+sedho
 sedih
 sedina
 seduh
