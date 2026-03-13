@@ -3952,6 +3952,7 @@ lilo
 lim
 lima
 limaa
+limang
 limas
 limbah
 limbuk
@@ -5545,6 +5546,7 @@ omi
 omo
 omong
 omongan
+omongane
 ompol
 ompong
 ompreng
