@@ -1482,6 +1482,7 @@ erang
 eras
 erat
 ere
+ereh
 erek
 erem
 eren
@@ -1675,6 +1676,7 @@ garian
 garik
 garing
 garis
+garong
 garpu
 garu
 garuda
@@ -3308,6 +3310,7 @@ los
 lose
 losi
 lotek
+lowo
 lowong
 lowongan
 loyo
@@ -4386,6 +4389,7 @@ obor
 obral
 obrol
 od
+odok
 odol
 ogah
 ogak
