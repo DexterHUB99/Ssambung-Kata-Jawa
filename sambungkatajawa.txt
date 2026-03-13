@@ -4967,6 +4967,7 @@ odok
 odol
 og
 ogah
+ogahe
 ogak
 oge
 ogi
@@ -6940,6 +6941,7 @@ urik
 uring
 urip
 uripan
+uripe
 uripku
 uripmu
 uris
