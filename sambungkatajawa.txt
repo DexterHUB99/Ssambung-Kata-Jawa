@@ -534,6 +534,7 @@ arjuna
 arjuno
 arogan
 aroh
+arok
 aron
 aros
 arsa
@@ -2616,6 +2617,7 @@ irup
 irus
 is
 isa
+isaa
 isai
 isak
 isam
@@ -3212,6 +3214,7 @@ kilen
 kim
 kima
 kiman
+kimi
 kimpul
 kin
 kina
