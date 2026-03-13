@@ -344,6 +344,7 @@ ampela
 ampil
 ampir
 ampiri
+ampit
 amplas
 ampok
 ampuh
@@ -2984,6 +2985,7 @@ jajal
 jajan
 jaket
 jala
+jalan
 jalar
 jalaran
 jalo
@@ -3857,6 +3859,7 @@ lantas
 lante
 lanti
 lantip
+lantun
 lantur
 laos
 lap
@@ -7445,6 +7448,7 @@ udan
 udang
 udani
 udara
+udari
 udeg
 udek
 udel
