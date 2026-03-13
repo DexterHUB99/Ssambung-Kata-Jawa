@@ -7212,6 +7212,7 @@ unen
 ung
 ungaran
 unggah
+unggal
 unggar
 unggaran
 unggas
@@ -7328,6 +7329,7 @@ usul
 usung
 usus
 usut
+uswa
 ut
 uta
 utama
