@@ -6361,6 +6361,7 @@ sabene
 sabi
 sabit
 sabtu
+sabuk
 sabun
 sada
 sadar
