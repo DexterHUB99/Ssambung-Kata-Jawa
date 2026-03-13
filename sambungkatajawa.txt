@@ -6609,6 +6609,7 @@ yom
 yoman
 yon
 yonan
+yoo
 yoopo
 yor
 yora
