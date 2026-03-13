@@ -5782,6 +5782,7 @@ tabung
 tabur
 taek
 tah
+tahajud
 tahlil
 tahu
 tahun
@@ -5957,6 +5958,7 @@ tinju
 tip
 tipi
 tir
+tirai
 tiran
 tiri
 tiris
