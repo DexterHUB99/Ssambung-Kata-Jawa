@@ -1974,6 +1974,7 @@ golongan
 gombal
 gondok
 gondol
+gondrong
 gong
 goni
 gopal
@@ -5122,6 +5123,7 @@ pojok
 pojokan
 poke
 pokok
+pokoke
 pol
 pola
 polah
