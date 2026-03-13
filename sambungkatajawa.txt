@@ -437,6 +437,7 @@ angin
 angka
 angkara
 angkasa
+angkat
 angkel
 angker
 angklung
@@ -794,6 +795,7 @@ bagong
 bagu
 bagus
 bah
+bahasa
 bai
 baja
 bajan
@@ -1844,6 +1846,7 @@ ero
 eroe
 eroh
 erok
+eron
 eror
 eros
 erosi
@@ -5859,6 +5862,7 @@ pati
 patih
 patin
 patis
+patok
 patub
 patuh
 patung
@@ -6469,6 +6473,7 @@ rowang
 rowo
 royal
 ru
+rua
 ruam
 ruang
 rubuh
