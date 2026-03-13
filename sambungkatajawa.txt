@@ -1943,6 +1943,7 @@ guyub
 guyup
 guyur
 ha
+haa
 habis
 hadap
 hadeh
@@ -2119,6 +2120,7 @@ ical
 icu
 id
 idam
+ide
 idep
 ider
 idih
