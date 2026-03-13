@@ -1828,6 +1828,7 @@ gagar
 gagas
 gagasan
 gage
+gagu
 gaguna
 gah
 gairah
@@ -2675,6 +2676,7 @@ irigasi
 irin
 iring
 iringan
+iringi
 iris
 irisan
 irisen
@@ -4692,6 +4694,7 @@ ngesat
 ngeseng
 ngesok
 ngesot
+ngesuk
 nget
 ngetan
 ngetem
