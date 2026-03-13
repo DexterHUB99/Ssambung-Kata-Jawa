@@ -7158,6 +7158,7 @@ tembok
 tembung
 teme
 temen
+temenan
 temon
 tempat
 tempe
@@ -7813,6 +7814,7 @@ wasiat
 wasir
 wasira
 wasuh
+watak
 wati
 waton
 watone
