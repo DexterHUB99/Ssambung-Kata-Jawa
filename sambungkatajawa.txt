@@ -5613,6 +5613,7 @@ panganan
 pangapura
 panggah
 panggeh
+panggih
 panggon
 pangku
 pangling
@@ -7514,6 +7515,7 @@ uud
 uv
 uw
 uwa
+uwe
 uwes
 uwi
 uwis
