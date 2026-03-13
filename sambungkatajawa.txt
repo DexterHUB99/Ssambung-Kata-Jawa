@@ -102,8 +102,6 @@ ahul
 ahur
 ahus
 ai
-ail
-aina
 aing
 air
 aja
@@ -412,7 +410,6 @@ apa
 apak
 apal
 apalan
-apan
 apane
 apar
 ape
@@ -1642,7 +1639,6 @@ garing
 garis
 garpu
 garu
-garuda
 garuk
 garut
 garwa
@@ -1732,7 +1728,6 @@ gendut
 gene
 genep
 generator
-geneyi
 geng
 geni
 genta
@@ -1788,7 +1783,6 @@ giman
 gimbal
 gina
 gincu
-ginem
 gini
 ginjal
 gir
@@ -1972,7 +1966,6 @@ harga
 hari
 harian
 harimau
-harimu
 harjo
 harum
 has
@@ -2043,7 +2036,6 @@ ho
 hobi
 hoe
 hoh
-holi
 homo
 hoo
 hooh
@@ -2101,8 +2093,6 @@ iga
 igak
 igus
 ih
-iha
-ihi
 ihsan
 ija
 ijab
@@ -2291,7 +2281,6 @@ isi
 isian
 isih
 isik
-isikan
 isil
 isin
 isine
@@ -2312,7 +2301,6 @@ it
 item
 itik
 itil
-itu
 itung
 iut
 iw
@@ -2540,7 +2528,6 @@ kancil
 kancing
 kancut
 kandang
-kandani
 kandha
 kandut
 kane
@@ -3563,7 +3550,6 @@ musoh
 musuh
 mut
 mutah
-mutan
 na
 nabi
 nabrak
@@ -3574,6 +3560,7 @@ nada
 nadah
 nadahi
 nadi
+nado
 nadyan
 nafas
 naga
@@ -3848,7 +3835,6 @@ ngarit
 ngarsa
 ngarung
 ngas
-ngasa
 ngasah
 ngasahi
 ngasal
@@ -4388,7 +4374,6 @@ online
 ono
 onta
 ontang
-ontel
 onthel
 onto
 oo
@@ -4491,7 +4476,6 @@ paliyan
 palu
 palung
 pamali
-paman
 pamil
 pamit
 pamitan
@@ -4596,7 +4580,6 @@ pepek
 pepes
 pera
 perang
-percaya
 peri
 perih
 pesen
@@ -4705,7 +4688,6 @@ pondok
 poni
 ponorogo
 poo
-pop
 por
 pora
 poran
@@ -4728,7 +4710,6 @@ puja
 puki
 pukul
 pula
-puli
 pulsa
 puluh
 pun
@@ -4905,7 +4886,6 @@ remek
 remen
 remes
 remi
-remok
 rempah
 rempon
 remu
@@ -4913,7 +4893,6 @@ remuk
 ren
 rena
 renang
-rencana
 rencang
 rendang
 rendem
@@ -5377,7 +5356,6 @@ subal
 subhanallah
 subuh
 subur
-sudah
 sudi
 sudukan
 sugeng
@@ -5555,7 +5533,6 @@ telan
 telas
 telat
 tele
-telek
 teles
 telo
 telon
@@ -5621,7 +5598,6 @@ tili
 tim
 tima
 timah
-timan
 timang
 timba
 timbal
@@ -5785,8 +5761,6 @@ ugo
 ugung
 uh
 uha
-uhi
-uho
 uja
 ujar
 ujaran
@@ -5809,7 +5783,6 @@ uker
 uki
 ukir
 ukiran
-uko
 ukon
 ukuk
 ukul
