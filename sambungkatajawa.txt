@@ -2702,6 +2702,7 @@ katot
 katrok
 kaula
 kawah
+kawak
 kawanen
 kawasan
 kawat
@@ -5949,6 +5950,7 @@ tuwo
 tuwuh
 tuyul
 tv
+uan
 uang
 ub
 uber
