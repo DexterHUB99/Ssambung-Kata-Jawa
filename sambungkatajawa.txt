@@ -1480,6 +1480,7 @@ ehu
 ehuk
 ehur
 eja
+ejo
 ek
 eka
 ekah
@@ -1554,6 +1555,7 @@ elus
 elut
 em
 ema
+emah
 emak
 emal
 eman
@@ -5073,6 +5075,7 @@ numan
 numbal
 numbas
 numpak
+numpaki
 numpang
 numplek
 numpuk
