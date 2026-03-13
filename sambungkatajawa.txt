@@ -304,6 +304,7 @@ anco
 ancok
 ancuk
 ancur
+anda
 andai
 andalan
 andap
@@ -1047,6 +1048,7 @@ dar
 dara
 dari
 darma
+darmi
 das
 dasa
 dasar
@@ -4963,6 +4965,7 @@ rawi
 rawon
 rawuh
 rayap
+rayon
 rayu
 re
 rebahan
