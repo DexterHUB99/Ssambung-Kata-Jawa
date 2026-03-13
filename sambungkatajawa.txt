@@ -524,6 +524,7 @@ apalan
 apan
 apane
 apar
+apas
 apat
 ape
 apeg
@@ -1286,6 +1287,7 @@ dedik
 degan
 dek
 deka
+deke
 dekil
 dekor
 del
