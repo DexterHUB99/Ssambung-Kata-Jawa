@@ -1138,6 +1138,7 @@ caruk
 cas
 cawe
 cawet
+cawi
 cawik
 cawis
 ce
@@ -3448,6 +3449,7 @@ kenduri
 kene
 kenek
 kenen
+kenetel
 keni
 kening
 kenok
