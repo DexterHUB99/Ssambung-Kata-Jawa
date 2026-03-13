@@ -1718,6 +1718,7 @@ gawan
 gawang
 gawe
 gawean
+gaweanku
 gaweopo
 gawok
 gayem
@@ -3939,6 +3940,7 @@ nganga
 ngangge
 nganggo
 nganggur
+ngangkang
 ngangon
 ngangsu
 ngangu
@@ -5191,6 +5193,7 @@ rongpuluh
 rongsokan
 roni
 rono
+roo
 rop
 rope
 ropi
