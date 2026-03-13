@@ -2040,6 +2040,7 @@ hamil
 hampir
 han
 hana
+hanacaraka
 hanan
 hancur
 hani
@@ -2297,6 +2298,7 @@ in
 ina
 inah
 inak
+inam
 inang
 indah
 indak
@@ -2583,6 +2585,7 @@ juni
 jupuk
 jur
 juru
+jus
 ka
 kabeh
 kabel
@@ -4421,6 +4424,7 @@ norak
 nori
 nos
 not
+noti
 noya
 nresna
 nresnani
