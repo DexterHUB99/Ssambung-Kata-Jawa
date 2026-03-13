@@ -43,6 +43,7 @@ adhi
 adi
 adik
 adil
+adit
 ado
 adoh
 adol
@@ -5026,7 +5027,6 @@ ngrasani
 ngrawuh
 ngrayu
 ngret
-ngrip
 ngrit
 ngrumat
 nguber
@@ -7464,7 +7464,6 @@ usuk
 usul
 usung
 usus
-ususan
 usut
 uswa
 ut
