@@ -1120,6 +1120,7 @@ cuci
 cucu
 cucur
 cudek
+cuek
 cuki
 cukur
 culik
@@ -3366,6 +3367,7 @@ kum
 kuma
 kuman
 kumbah
+kumbahan
 kumbakarna
 kumbang
 kume
@@ -4947,6 +4949,7 @@ nyawiji
 nyawit
 nyedhak
 nyeluk
+nyikat
 nyilih
 nyiram
 nyirep
@@ -6721,6 +6724,7 @@ udara
 udeg
 udek
 udel
+udelmu
 udeng
 udik
 udin
@@ -7189,6 +7193,7 @@ wolu
 won
 wong
 woni
+wonogiri
 wonosobo
 wonten
 woo
