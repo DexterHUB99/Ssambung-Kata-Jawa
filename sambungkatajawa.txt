@@ -1661,6 +1661,7 @@ endas
 endek
 endhas
 endhog
+endhok
 endi
 endog
 endong
