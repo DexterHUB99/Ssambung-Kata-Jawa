@@ -3495,6 +3495,7 @@ longsor
 lonjong
 lontar
 lonte
+lonthe
 lontong
 loo
 lop
@@ -3737,6 +3738,7 @@ mesum
 met
 meteng
 metu
+metuan
 mi
 mie
 mieayam
@@ -5266,6 +5268,7 @@ rasan
 rasani
 rase
 rasi
+rasim
 rasis
 rasuk
 rasukan
