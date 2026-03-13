@@ -1296,6 +1296,7 @@ ekeh
 ekek
 ekel
 eker
+eket
 eki
 ekis
 eklas
@@ -6149,6 +6150,7 @@ utara
 utas
 utawa
 utawi
+utawo
 utek
 uteke
 utel
