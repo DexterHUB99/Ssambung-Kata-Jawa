@@ -1400,6 +1400,7 @@ enteng
 enteni
 enter
 entir
+entok
 entong
 entuk
 entut
@@ -1973,6 +1974,7 @@ hawane
 haya
 hayang
 hayat
+hayo
 hayu
 hayuk
 he
@@ -2213,6 +2215,7 @@ ipik
 ipil
 ipin
 ipit
+ipoe
 ipuk
 ir
 ira
@@ -2587,6 +2590,7 @@ kawah
 kawanen
 kawasan
 kawat
+kawe
 kawen
 kawi
 kawin
@@ -3868,6 +3872,7 @@ ngempot
 ngemut
 ngen
 ngendang
+ngendeng
 ngendep
 ngendi
 ngendika
@@ -4856,6 +4861,7 @@ rendi
 rene
 reng
 rengginang
+reo
 reog
 rep
 repi
