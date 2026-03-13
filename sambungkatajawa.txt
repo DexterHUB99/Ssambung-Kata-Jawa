@@ -4946,6 +4946,7 @@ pesen
 peso
 peta
 petak
+peteng
 pethuk
 peti
 petruk
@@ -6591,6 +6592,7 @@ wetan
 weteng
 weton
 wewe
+weweling
 wi
 wicak
 widi
