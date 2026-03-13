@@ -1031,6 +1031,7 @@ bolot
 bom
 bon
 bonang
+bongko
 bongkok
 bor
 boro
@@ -2889,6 +2890,7 @@ ipan
 ipar
 ipat
 ipe
+ipea
 ipel
 ipen
 ipes
@@ -4309,6 +4311,7 @@ malang
 malas
 maleh
 malek
+malem
 males
 malesan
 mali
