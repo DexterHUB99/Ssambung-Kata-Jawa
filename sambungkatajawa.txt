@@ -4105,6 +4105,7 @@ makan
 makane
 make
 maki
+mal
 malah
 malak
 malam
@@ -4234,6 +4235,7 @@ mekso
 mel
 mela
 melas
+melati
 melek
 melinjo
 melok
@@ -4333,6 +4335,7 @@ molen
 molet
 moli
 molok
+mom
 momong
 mon
 mondok
@@ -6513,6 +6516,7 @@ seket
 seko
 sekolah
 sekul
+sel
 sela
 selak
 selamet
