@@ -2556,6 +2556,7 @@ iyu
 iyuh
 iz
 jab
+jabang
 jaga
 jago
 jagong
@@ -2581,6 +2582,7 @@ jambi
 jambu
 jambul
 jampi
+jamput
 jamu
 jamur
 jan
@@ -2675,6 +2677,7 @@ jon
 jona
 jongkok
 joni
+jontor
 jor
 jora
 joran
@@ -3792,6 +3795,7 @@ milah
 mili
 milih
 milik
+mimi
 mimis
 min
 minal
@@ -4431,6 +4435,7 @@ ngongkang
 ngono
 ngontol
 ngop
+ngopak
 ngopeni
 ngopi
 ngopii
