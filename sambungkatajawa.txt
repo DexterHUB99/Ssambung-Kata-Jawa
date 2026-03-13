@@ -1329,6 +1329,7 @@ dino
 dinoe
 dinten
 dipan
+dipangan
 dipo
 dipun
 dir
@@ -7564,6 +7565,7 @@ ya
 yaapa
 yaelah
 yah
+yaho
 yai
 yak
 yake
