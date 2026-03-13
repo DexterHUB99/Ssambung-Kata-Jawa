@@ -740,6 +740,7 @@ belo
 belu
 beluk
 belut
+bem
 ben
 bena
 benang
@@ -4036,6 +4037,7 @@ ngasta
 ngasu
 ngasuh
 ngati
+ngatok
 ngatuk
 ngatur
 ngaturaken
@@ -5217,6 +5219,7 @@ rita
 riti
 riwayat
 riwe
+riya
 riyaya
 riyin
 riyo
