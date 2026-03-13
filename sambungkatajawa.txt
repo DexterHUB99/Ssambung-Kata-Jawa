@@ -4738,6 +4738,7 @@ pindah
 pindak
 pindang
 pindho
+pindo
 ping
 pinggih
 pinggir
@@ -6037,6 +6038,7 @@ unter
 untik
 untu
 untuk
+untumu
 untune
 untung
 untur
