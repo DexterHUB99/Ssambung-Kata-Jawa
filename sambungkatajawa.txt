@@ -946,6 +946,7 @@ bulu
 bum
 bumi
 bun
+bundas
 bunder
 bunga
 bungah
@@ -4219,6 +4220,7 @@ nerak
 neraka
 nerang
 nerima
+nerimo
 nerjang
 neros
 nesa
@@ -5369,6 +5371,7 @@ puasa
 pucuk
 pue
 puja
+puk
 puki
 pukul
 pula
