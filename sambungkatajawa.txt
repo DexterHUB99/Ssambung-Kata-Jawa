@@ -1666,6 +1666,7 @@ empan
 empang
 empedu
 empek
+empeng
 emper
 empet
 empik
@@ -1895,6 +1896,7 @@ eyang
 eyo
 eyu
 eyup
+fasih
 fix
 fokus
 fulus
