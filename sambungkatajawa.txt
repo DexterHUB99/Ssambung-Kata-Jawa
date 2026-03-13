@@ -595,6 +595,7 @@ aran
 arane
 arang
 araning
+arap
 aras
 arat
 are
@@ -5122,6 +5123,7 @@ ngelu
 ngeluh
 ngeman
 ngembang
+ngemen
 ngemil
 ngemong
 ngempot
@@ -6016,6 +6018,7 @@ paringi
 paris
 parit
 parkir
+paro
 paru
 paruh
 pas
@@ -7737,6 +7740,7 @@ ukum
 ukur
 ukura
 ukuran
+ukurane
 ukure
 ukuren
 ul
@@ -7989,6 +7993,7 @@ utek
 uteke
 utekmu
 utel
+uten
 uter
 uti
 utik
