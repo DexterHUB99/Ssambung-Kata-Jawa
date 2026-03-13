@@ -1998,6 +1998,7 @@ giri
 giring
 giris
 giru
+gisa
 gita
 gitar
 githok
@@ -4447,6 +4448,7 @@ nggih
 nggilani
 nggo
 nggolek
+nggon
 nggoreng
 nggowo
 ngguyu
@@ -5327,6 +5329,7 @@ puja
 puki
 pukul
 pula
+pulen
 pulsa
 puluh
 pun
