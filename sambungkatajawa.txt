@@ -1325,6 +1325,7 @@ ed
 eda
 edah
 edan
+edar
 edi
 edul
 edus
@@ -2736,6 +2737,7 @@ kaka
 kakak
 kakang
 kakehan
+kakek
 kaki
 kaku
 kala
