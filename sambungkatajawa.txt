@@ -2665,6 +2665,7 @@ jira
 jiran
 jiri
 jirih
+jit
 jitak
 jiwa
 jo
@@ -3774,6 +3775,7 @@ meme
 memek
 mendung
 mene
+meneh
 meneng
 mengko
 meni
@@ -5323,6 +5325,7 @@ ranjang
 rantang
 rantas
 ranti
+ranum
 raono
 raos
 rap
