@@ -1797,6 +1797,7 @@ ereruh
 eres
 eri
 erik
+eril
 erim
 ering
 eris
@@ -4406,6 +4407,7 @@ mulia
 mulih
 mulung
 mulya
+mumbul
 mumet
 mumpung
 munafik
@@ -7444,6 +7446,7 @@ untal
 untel
 unter
 untik
+untir
 untu
 untuk
 untul
@@ -7759,6 +7762,7 @@ wonogiri
 wonosobo
 wonten
 woo
+woro
 wowo
 wudel
 wudhu
