@@ -515,6 +515,7 @@ apung
 apuran
 apus
 apusa
+ar
 ara
 arab
 arah
@@ -1297,6 +1298,7 @@ dinggo
 dingklik
 dini
 dino
+dinoe
 dinten
 dipan
 dipo
@@ -4942,6 +4944,7 @@ ningali
 ninggal
 ningsih
 nini
+ninja
 nio
 nip
 nipak
@@ -5139,6 +5142,7 @@ okel
 okem
 oker
 okerek
+okin
 okok
 okoka
 okoke
@@ -5783,6 +5787,7 @@ rase
 rasi
 rasim
 rasis
+raso
 rasuk
 rasukan
 rat
@@ -7290,6 +7295,7 @@ wedhus
 wedi
 wedok
 wedus
+wee
 wegah
 weh
 wejang
