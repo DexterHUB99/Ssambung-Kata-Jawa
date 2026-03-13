@@ -4167,6 +4167,7 @@ maya
 mayak
 mayat
 mayit
+mbah
 mbak
 mben
 mbengi
@@ -6438,6 +6439,7 @@ sela
 selak
 selamet
 selametan
+selar
 selas
 selatan
 selawe
