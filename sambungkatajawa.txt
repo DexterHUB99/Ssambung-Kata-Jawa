@@ -2420,6 +2420,7 @@ jaga
 jago
 jagong
 jagung
+jahat
 jahil
 jail
 jait
@@ -4678,6 +4679,7 @@ pangan
 pangapura
 panggah
 panggon
+pangku
 pangling
 pani
 panik
@@ -5101,6 +5103,7 @@ rep
 repi
 repo
 repot
+rerema
 reresik
 res
 resah
@@ -6426,6 +6429,7 @@ yasin
 yati
 yawes
 yawis
+yaya
 yekti
 yen
 yes
