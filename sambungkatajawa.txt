@@ -1631,6 +1631,7 @@ eman
 emane
 emang
 emas
+ematane
 emba
 embah
 emban
