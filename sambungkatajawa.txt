@@ -1171,6 +1171,7 @@ dene
 deneng
 dengkul
 deni
+depa
 der
 dereng
 deres
@@ -1676,6 +1677,7 @@ ewean
 eweh
 ewi
 ewoh
+ewok
 ewu
 ewuh
 ex
@@ -4458,6 +4460,7 @@ ngome
 ngomel
 ngomong
 ngompol
+ngonde
 ngone
 ngongkang
 ngono
