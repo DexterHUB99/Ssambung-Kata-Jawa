@@ -131,7 +131,6 @@ ajib
 ajig
 ajih
 ajik
-ajining
 ajor
 ajrih
 ajur
@@ -309,7 +308,6 @@ anas
 anay
 ancaman
 ancang
-ancase
 ancen
 ancik
 anco
@@ -644,7 +642,6 @@ aye
 ayem
 ayep
 ayi
-ayir
 ayo
 ayok
 ayu
@@ -845,7 +842,6 @@ bolong
 bolot
 bom
 bon
-bonang
 bongkok
 bor
 boro
@@ -1197,7 +1193,6 @@ doa
 dodo
 dodol
 dodolan
-doh
 dokar
 dol
 dola
@@ -1294,7 +1289,6 @@ eeh
 eg
 ega
 egak
-egi
 ego
 egrang
 eh
@@ -2370,7 +2364,6 @@ injing
 injuk
 insyaallah
 intil
-intinya
 intip
 inul
 inyo
@@ -3135,7 +3128,6 @@ kumel
 kumen
 kumi
 kumpul
-kumpula
 kumuh
 kun
 kunang
@@ -3336,6 +3328,7 @@ lesehan
 lesu
 lewat
 li
+lia
 liane
 liar
 libur
@@ -3777,7 +3770,6 @@ mules
 muli
 mulia
 mulih
-mulung
 mulya
 mumet
 mumpung
@@ -4131,7 +4123,6 @@ ngaub
 ngaur
 ngawa
 ngawal
-ngawali
 ngawang
 ngawas
 ngawe
@@ -4664,7 +4655,6 @@ oman
 ombak
 ombe
 omben
-ombo
 omboh
 ome
 omel
@@ -5000,7 +4990,6 @@ pisang
 pising
 pisna
 pisuh
-pisuhi
 pisut
 pit
 pita
@@ -5902,7 +5891,6 @@ tamu
 tanah
 tandang
 tandha
-tandhuk
 tanduk
 tandur
 tanduran
@@ -6204,7 +6192,6 @@ uhe
 uhi
 uho
 uja
-ujan
 ujar
 ujaran
 uji
@@ -6565,7 +6552,6 @@ weteng
 weton
 wewe
 wi
-wicak
 widi
 widya
 wih
