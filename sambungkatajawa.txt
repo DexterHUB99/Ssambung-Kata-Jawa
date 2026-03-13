@@ -379,6 +379,7 @@ anger
 anget
 anggar
 anggara
+anggaran
 anggene
 anggep
 angger
@@ -5705,6 +5706,7 @@ sakti
 saku
 sakun
 sal
+salae
 salah
 salak
 salam
@@ -6118,6 +6120,7 @@ susi
 susu
 susue
 susuh
+susuk
 susul
 susumu
 susun
