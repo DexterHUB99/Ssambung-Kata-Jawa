@@ -842,6 +842,7 @@ bi
 biak
 biang
 biasa
+biawak
 biaya
 biba
 bibi
@@ -6494,6 +6495,7 @@ tita
 titah
 titen
 titi
+titid
 titik
 titikan
 titip
