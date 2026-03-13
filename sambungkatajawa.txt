@@ -2831,6 +2831,7 @@ isis
 iska
 iski
 islam
+isli
 ismu
 isna
 iso
