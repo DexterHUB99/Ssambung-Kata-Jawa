@@ -1722,6 +1722,7 @@ entek
 enteng
 enteni
 enter
+enthol
 entir
 entoh
 entok
