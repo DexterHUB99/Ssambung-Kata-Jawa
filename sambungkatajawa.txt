@@ -260,6 +260,7 @@ alif
 alih
 alik
 alim
+alin
 aling
 alip
 alir
