@@ -264,6 +264,7 @@ amor
 amp
 ampa
 ampal
+ampang
 amparan
 ampas
 ampe
@@ -2025,6 +2026,7 @@ harimu
 harjo
 harta
 harum
+harus
 has
 hasa
 hasan
@@ -4653,6 +4655,7 @@ panutan
 papa
 papan
 papat
+papi
 par
 para
 parah
@@ -5807,6 +5810,7 @@ tiris
 tiru
 tis
 tisi
+tisu
 tit
 tita
 titah
