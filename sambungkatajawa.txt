@@ -6306,6 +6306,7 @@ run
 runcing
 rundingan
 rung
+rungi
 rungkad
 rungkut
 rungsing
