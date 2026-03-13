@@ -2210,6 +2210,7 @@ hoe
 hoh
 hoho
 hoi
+hoki
 holi
 homo
 hono
@@ -4274,6 +4275,7 @@ ngeseng
 ngesot
 nget
 ngetan
+ngetem
 ngeti
 ngetok
 ngewe
@@ -4787,6 +4789,7 @@ oran
 orang
 orapopo
 oras
+orasah
 oraurus
 ore
 oreg
