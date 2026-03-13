@@ -4999,6 +4999,7 @@ ngasor
 ngasta
 ngasu
 ngasuh
+ngatasi
 ngati
 ngatin
 ngatok
@@ -6173,6 +6174,7 @@ pora
 poran
 pore
 pori
+poro
 poron
 pos
 pose
