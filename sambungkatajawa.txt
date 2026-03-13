@@ -3534,6 +3534,7 @@ loman
 lomba
 lombok
 lomi
+lomot
 lompat
 lon
 loncat
