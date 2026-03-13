@@ -2920,6 +2920,7 @@ kelas
 kelawan
 kelebon
 kelek
+kelekmu
 kelem
 kelep
 keles
@@ -4870,6 +4871,7 @@ oraiso
 orak
 oran
 orang
+orangapusi
 orapopo
 oras
 orasah
@@ -5367,6 +5369,7 @@ ratau
 ratih
 ratna
 ratu
+ratus
 raul
 raup
 rausah
@@ -5486,6 +5489,7 @@ rino
 rio
 rip
 ripa
+ripi
 riri
 ris
 risa
@@ -6402,6 +6406,7 @@ uen
 ug
 uga
 ugal
+uget
 ugi
 ugo
 ugung
