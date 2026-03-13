@@ -1602,6 +1602,7 @@ embah
 emban
 embat
 embe
+embel
 ember
 emboh
 embok
@@ -2445,6 +2446,7 @@ hesti
 heti
 hi
 hias
+hidayah
 hidup
 hijab
 hijau
@@ -7533,6 +7535,7 @@ wejang
 wejangan
 wek
 wekasan
+weki
 weko
 wektu
 wel
