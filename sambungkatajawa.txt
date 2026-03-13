@@ -1983,6 +1983,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3381,6 +3382,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -4104,6 +4106,7 @@ ngenteni
 ngentut
 ngepel
 ngepet
+ngerasani
 ngerek
 ngeri
 ngeroso
