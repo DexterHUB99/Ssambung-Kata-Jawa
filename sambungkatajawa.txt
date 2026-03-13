@@ -964,6 +964,7 @@ butuh
 buy
 buyar
 buyut
+ca
 cabe
 cabi
 caca
@@ -6959,6 +6960,7 @@ wiwitan
 wo
 wok
 wol
+wolo
 wolu
 won
 wong
