@@ -4944,6 +4944,7 @@ ngeti
 ngetik
 ngetok
 ngetot
+ngewangi
 ngewe
 ngewi
 ngewoh
