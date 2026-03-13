@@ -4308,6 +4308,7 @@ ngece
 ngecek
 ngeces
 ngecet
+ngedang
 ngeden
 ngegas
 ngeh
@@ -6059,6 +6060,7 @@ surai
 surat
 suren
 suri
+suro
 suroboyo
 suruh
 surup
