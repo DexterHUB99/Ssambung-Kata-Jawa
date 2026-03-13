@@ -200,6 +200,7 @@ akik
 akil
 akim
 akin
+aking
 akip
 akir
 akit
@@ -1598,6 +1599,7 @@ elas
 ele
 eleh
 elek
+elekan
 elel
 elem
 eleman
@@ -4685,6 +4687,7 @@ ngadi
 ngado
 ngadoh
 ngadok
+ngadon
 ngadu
 ngaduk
 ngadus
