@@ -6215,6 +6215,7 @@ sabi
 sabit
 sabtu
 sabun
+sada
 sadar
 sade
 sae
@@ -6400,6 +6401,7 @@ semarang
 sembah
 sembahyang
 sembrono
+sembur
 semen
 semok
 sempak
@@ -7238,6 +7240,7 @@ undur
 unek
 unem
 unen
+unesa
 ung
 ungaran
 unggah
