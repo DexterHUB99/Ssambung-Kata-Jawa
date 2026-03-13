@@ -1870,6 +1870,7 @@ genting
 gentong
 gentos
 genuk
+geo
 geol
 gepok
 geprek
@@ -1925,6 +1926,7 @@ gir
 girang
 giri
 giring
+giris
 giru
 gita
 gitar
