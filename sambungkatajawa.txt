@@ -847,6 +847,7 @@ bidur
 bien
 bigu
 biji
+bijor
 bika
 bikak
 bil
@@ -4296,6 +4297,7 @@ ngasa
 ngasah
 ngasahi
 ngasal
+ngasalan
 ngasar
 ngasep
 ngasi
