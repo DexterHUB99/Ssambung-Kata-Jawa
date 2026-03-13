@@ -2395,6 +2395,7 @@ ing
 inggal
 inggih
 inggil
+inggit
 ingi
 ingin
 ingkang
