@@ -105,6 +105,7 @@ ahul
 ahur
 ahus
 ai
+aian
 aika
 ail
 aima
@@ -1976,6 +1977,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -2710,6 +2712,7 @@ kasut
 kat
 kata
 katah
+katak
 katang
 katel
 kates
@@ -3371,6 +3374,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
