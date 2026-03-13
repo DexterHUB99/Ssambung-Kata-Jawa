@@ -1183,6 +1183,7 @@ dipan
 dipun
 dir
 diri
+disa
 disan
 disana
 disek
