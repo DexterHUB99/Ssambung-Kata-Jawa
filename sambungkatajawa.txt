@@ -479,6 +479,7 @@ apos
 apu
 apuh
 apung
+apuran
 apus
 apusa
 ara
@@ -4659,6 +4660,7 @@ numpak
 numpang
 numplek
 numpuk
+numpul
 nun
 nung
 nunggoni
