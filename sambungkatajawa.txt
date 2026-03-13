@@ -5565,6 +5565,7 @@ peteng
 pethuk
 peti
 petruk
+peye
 pi
 pia
 piano
