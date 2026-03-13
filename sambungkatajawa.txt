@@ -5527,6 +5527,7 @@ ranum
 raono
 raos
 rap
+rapa
 rapapa
 rapat
 rape
@@ -5649,6 +5650,7 @@ rewel
 rewo
 ri
 ria
+rian
 riang
 ribet
 ribut
@@ -6189,6 +6191,7 @@ sul
 sula
 sulak
 sulam
+sulap
 sule
 suli
 suling
