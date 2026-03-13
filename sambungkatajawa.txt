@@ -3062,6 +3062,7 @@ kusir
 kusuma
 kut
 kuta
+kutan
 kutang
 kutha
 kuti
@@ -3979,6 +3980,7 @@ ngaturaken
 ngaub
 ngawa
 ngawal
+ngawang
 ngawas
 ngawe
 ngaweh
