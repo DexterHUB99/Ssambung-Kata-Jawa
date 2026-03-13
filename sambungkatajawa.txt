@@ -960,6 +960,7 @@ buntut
 bunuh
 bur
 burik
+burok
 buron
 buru
 buruh
@@ -7179,6 +7180,7 @@ yoiku
 yok
 yoka
 yoki
+yole
 yom
 yoman
 yon
