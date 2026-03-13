@@ -1260,6 +1260,7 @@ ebol
 eco
 ed
 eda
+edah
 edan
 edi
 edul
@@ -3637,6 +3638,7 @@ mirip
 miris
 mirsani
 mis
+misah
 misake
 miskin
 misuh
@@ -4945,6 +4947,7 @@ pop
 por
 pora
 poran
+pore
 pori
 pos
 pose
