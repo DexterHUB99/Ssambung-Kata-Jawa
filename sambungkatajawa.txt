@@ -76,6 +76,7 @@ ahek
 ahem
 aheng
 aher
+ahes
 ahet
 ahey
 ahh
@@ -175,6 +176,7 @@ aksen
 aksi
 aku
 akuh
+akui
 akul
 akumi
 akun
@@ -301,6 +303,7 @@ anal
 anam
 anan
 anandong
+anane
 anang
 ananging
 ananti
@@ -308,7 +311,6 @@ anas
 anay
 ancaman
 ancang
-ancase
 ancen
 ancik
 anco
@@ -479,6 +481,7 @@ aren
 areng
 arep
 aret
+arga
 ari
 arih
 arik
@@ -1289,7 +1292,6 @@ eeh
 eg
 ega
 egak
-egi
 ego
 egrang
 eh
@@ -1598,6 +1600,7 @@ etik
 etika
 etis
 eto
+etoh
 etok
 etol
 eton
@@ -1653,6 +1656,7 @@ gagar
 gagas
 gagasan
 gage
+gagu
 gaguna
 gah
 gairah
@@ -1863,6 +1867,7 @@ gering
 gerji
 gero
 gerobak
+geroh
 gerus
 gesek
 geseng
@@ -1918,6 +1923,7 @@ gogrok
 gojek
 gojlok
 gok
+goki
 gokil
 gol
 gola
@@ -2279,6 +2285,7 @@ ilah
 ilahi
 ilak
 ilam
+ilan
 ilang
 ilangan
 ilap
@@ -2363,7 +2370,6 @@ injing
 injuk
 insyaallah
 intil
-intinya
 intip
 inul
 inyo
@@ -2559,6 +2565,7 @@ jeran
 jero
 jeruk
 ji
+jigong
 jijih
 jijik
 jika
@@ -2904,6 +2911,7 @@ keraton
 kere
 keren
 kerep
+keres
 kereta
 keri
 keris
@@ -3107,6 +3115,7 @@ kukur
 kukus
 kul
 kula
+kulaan
 kulak
 kulakan
 kulan
@@ -4155,6 +4164,7 @@ ngelap
 ngelas
 ngelawak
 ngelebok
+ngeleg
 ngeleh
 ngelek
 ngelem
@@ -4422,6 +4432,7 @@ nilem
 nilep
 nim
 nimba
+nimbali
 nimbang
 nimbangi
 nimbul
@@ -4653,7 +4664,6 @@ oman
 ombak
 ombe
 omben
-ombo
 omboh
 ome
 omel
@@ -4988,7 +4998,6 @@ pisang
 pising
 pisna
 pisuh
-pisuhi
 pisut
 pit
 pita
@@ -5594,6 +5603,7 @@ senuk
 seo
 separo
 sepat
+sepatu
 sepet
 sepi
 sepuh
@@ -5654,6 +5664,7 @@ sinden
 sing
 singa
 singgah
+singo
 sini
 sinom
 sinoman
@@ -5889,7 +5900,6 @@ tamu
 tanah
 tandang
 tandha
-tandhuk
 tanduk
 tandur
 tanduran
@@ -6191,7 +6201,6 @@ uhe
 uhi
 uho
 uja
-ujan
 ujar
 ujaran
 uji
@@ -6412,6 +6421,7 @@ usul
 usung
 usus
 usut
+usya
 ut
 uta
 utama
@@ -6551,7 +6561,6 @@ weteng
 weton
 wewe
 wi
-wicak
 widi
 widya
 wih
