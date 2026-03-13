@@ -19,6 +19,7 @@ abot
 abrit
 abu
 abul
+acan
 acu
 ad
 ada
@@ -1287,6 +1288,7 @@ dodol
 dodolan
 doh
 dokar
+doko
 dol
 dola
 dolan
@@ -1611,6 +1613,7 @@ enyong
 ep
 epa
 epal
+epam
 epan
 epang
 epar
@@ -3175,6 +3178,7 @@ ketut
 kewan
 ki
 kiai
+kicep
 kidal
 kidang
 kidul
