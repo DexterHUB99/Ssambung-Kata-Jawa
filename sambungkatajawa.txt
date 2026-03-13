@@ -2659,6 +2659,7 @@ kadung
 kadut
 kae
 kafan
+kafir
 kagem
 kaget
 kahanan
@@ -3148,6 +3149,7 @@ kumen
 kumi
 kumpul
 kumpula
+kumu
 kumuh
 kun
 kunang
@@ -6261,6 +6263,7 @@ ukiran
 ukka
 ukna
 uko
+ukol
 ukon
 ukop
 ukro
