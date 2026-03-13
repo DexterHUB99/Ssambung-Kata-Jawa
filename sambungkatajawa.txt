@@ -821,6 +821,7 @@ bito
 biyen
 biyung
 bo
+bobo
 bobok
 bocah
 bocor
@@ -4715,6 +4716,7 @@ oyak
 oyi
 oz
 pa
+paalu
 pace
 pacik
 pacul
