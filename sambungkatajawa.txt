@@ -1781,6 +1781,7 @@ etah
 etak
 etan
 etar
+etas
 ete
 etel
 etem
@@ -5060,6 +5061,7 @@ njaluk
 njupuk
 nki
 nn
+nngawi
 nni
 nny
 no
