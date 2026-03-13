@@ -1983,7 +1983,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -3382,7 +3381,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
@@ -4035,6 +4033,7 @@ ngatur
 ngaturaken
 ngaturi
 ngaub
+ngaur
 ngawa
 ngawal
 ngawang
