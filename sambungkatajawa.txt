@@ -539,6 +539,7 @@ asupan
 asus
 asut
 asuti
+asuwe
 asuy
 aswatama
 ata
@@ -3007,6 +3008,7 @@ kripik
 krungu
 krupuk
 ku
+kua
 kuasa
 kuat
 kuburan
@@ -4874,6 +4876,7 @@ poles
 poli
 polisi
 pom
+poma
 pomi
 pon
 ponakan
@@ -5834,6 +5837,7 @@ tikungan
 tikus
 til
 tila
+tilan
 tilap
 tilas
 tile
