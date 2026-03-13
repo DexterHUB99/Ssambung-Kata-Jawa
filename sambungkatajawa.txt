@@ -2521,6 +2521,7 @@ islam
 iso
 isok
 isol
+isone
 istana
 isti
 istiadat
@@ -2992,6 +2993,7 @@ kerat
 keraton
 kerbau
 kere
+kerek
 keren
 kerep
 kereta
@@ -3556,6 +3558,7 @@ lorong
 los
 lose
 losi
+loso
 lotek
 lowo
 lowong
@@ -4040,6 +4043,7 @@ nawi
 ndak
 ndalu
 ndang
+ndas
 ndasmu
 ndawuh
 ndelok
@@ -5074,12 +5078,14 @@ petruk
 pi
 pia
 piano
+piatu
 picek
 pie
 pih
 pijat
 pijet
 pijit
+pika
 pikang
 piki
 pikir
