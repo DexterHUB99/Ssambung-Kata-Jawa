@@ -1542,6 +1542,7 @@ elet
 eli
 elig
 elik
+elin
 eling
 elit
 elmu
@@ -4276,6 +4277,7 @@ musi
 musim
 musisi
 musoh
+mustahil
 musuh
 mut
 mutah
@@ -6218,6 +6220,7 @@ sanes
 sangar
 sangga
 sanggul
+sangit
 sangka
 sangkuni
 sangon
