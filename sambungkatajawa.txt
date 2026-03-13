@@ -5401,6 +5401,7 @@ prei
 pring
 pripun
 pu
+puan
 puasa
 pucuk
 pue
@@ -6771,6 +6772,7 @@ undar
 undhi
 undi
 unduh
+unduk
 undur
 unek
 unem
