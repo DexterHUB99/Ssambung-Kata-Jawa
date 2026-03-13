@@ -3024,6 +3024,7 @@ jitak
 jiwa
 jo
 jodho
+jodoh
 joglo
 jogo
 jok
@@ -4764,6 +4765,7 @@ ngapa
 ngapah
 ngapain
 ngapak
+ngapal
 ngapel
 ngapeli
 ngapu
