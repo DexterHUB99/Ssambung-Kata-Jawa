@@ -6052,6 +6052,7 @@ tv
 uan
 uang
 ub
+uban
 uber
 ubi
 ubur
@@ -6106,6 +6107,7 @@ ukaa
 ukai
 ukal
 ukam
+ukan
 ukar
 ukara
 ukaran
@@ -6499,6 +6501,7 @@ ya
 yaapa
 yaelah
 yah
+yai
 yak
 yake
 yakin
