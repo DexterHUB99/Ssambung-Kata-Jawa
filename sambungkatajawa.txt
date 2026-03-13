@@ -2057,6 +2057,7 @@ gerji
 gero
 gerobak
 gerus
+ges
 gesek
 geseng
 geser
@@ -4314,6 +4315,7 @@ nanem
 nang
 nangan
 nangdi
+nange
 nanggap
 nanggung
 nangi
@@ -7106,6 +7108,7 @@ upa
 upacara
 upah
 upam
+upan
 upang
 upaya
 upel
