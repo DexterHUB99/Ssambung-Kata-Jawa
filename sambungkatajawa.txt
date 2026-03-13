@@ -85,7 +85,6 @@ ahin
 ahir
 ahire
 ahis
-ahlak
 ahli
 ahlian
 ahline
@@ -104,6 +103,7 @@ ahur
 ahus
 ai
 ail
+aima
 aina
 aing
 air
@@ -665,6 +665,7 @@ banter
 banyu
 bapak
 bar
+bareng
 barongan
 basi
 baskom
@@ -706,6 +707,7 @@ bela
 belah
 belang
 belek
+beler
 beli
 belo
 belu
@@ -737,7 +739,6 @@ besuk
 besuki
 betah
 beto
-bi
 biak
 biang
 biasa
@@ -1524,6 +1525,7 @@ etuh
 etuk
 etung
 etus
+ev
 ew
 ewang
 ewe
@@ -1792,6 +1794,7 @@ ginem
 gini
 ginjal
 gir
+girang
 giri
 giring
 giru
@@ -1997,6 +2000,7 @@ he
 heal
 hebat
 heboh
+hee
 heh
 heha
 hehe
@@ -2099,6 +2103,7 @@ ieu
 ig
 iga
 igak
+igo
 igus
 ih
 iha
@@ -2154,6 +2159,7 @@ ilih
 ilik
 ililang
 iling
+ilingo
 ilir
 ilis
 ilmu
@@ -2162,6 +2168,7 @@ ilo
 ilok
 ilu
 ilui
+iluk
 im
 ima
 imai
@@ -2335,6 +2342,7 @@ jago
 jagong
 jagung
 jahil
+jail
 jait
 jaja
 jajal
@@ -2414,6 +2422,7 @@ jimbar
 jimpit
 jin
 jina
+jinak
 jingga
 jingkrak
 jini
@@ -2918,6 +2927,7 @@ kul
 kula
 kulak
 kulakan
+kulan
 kuli
 kulina
 kulit
@@ -3205,7 +3215,6 @@ lok
 loka
 lokan
 lola
-loli
 loloh
 lolos
 lom
@@ -3407,6 +3416,7 @@ maya
 mayak
 mayat
 mbak
+mbengi
 mbok
 mbuh
 me
@@ -3480,6 +3490,7 @@ mitoni
 mlaku
 mlebu
 mo
+mobil
 modar
 modus
 mogok
@@ -3878,7 +3889,6 @@ ngawu
 ngawur
 ngayah
 ngayal
-nge
 ngebo
 ngece
 ngecek
@@ -4245,6 +4255,7 @@ nun
 nung
 nunggoni
 nunggu
+nunjuk
 nuntun
 nunung
 nunut
@@ -4265,6 +4276,7 @@ nutup
 nutur
 nuturi
 nuwun
+ny
 nyam
 nyambel
 nyamuk
@@ -4385,6 +4397,7 @@ online
 ono
 onta
 ontang
+ontel
 onthel
 onto
 oo
@@ -4474,6 +4487,7 @@ pajek
 paji
 pak
 pakan
+pakar
 pake
 pakpuh
 paku
@@ -4827,6 +4841,7 @@ ranjang
 rantang
 rantas
 ranti
+raono
 raos
 rap
 rapapa
@@ -4862,6 +4877,7 @@ raut
 rawa
 rawan
 rawe
+rawi
 rawon
 rawuh
 rayap
@@ -5264,7 +5280,6 @@ sil
 sila
 silah
 silam
-sile
 silet
 sili
 silih
@@ -5311,7 +5326,6 @@ sisih
 sisik
 sisil
 sisir
-sita
 siter
 sithik
 siti
@@ -5338,6 +5352,7 @@ solat
 sole
 soli
 solid
+solo
 som
 somar
 somat
@@ -5374,6 +5389,7 @@ subur
 sudah
 sudi
 sudukan
+sue
 sugeng
 sugih
 sujud
@@ -5424,7 +5440,6 @@ suni
 suntuk
 sup
 supados
-supan
 supaya
 supe
 supen
@@ -5488,7 +5503,6 @@ tali
 tam
 tama
 tamah
-taman
 tamba
 tambah
 tambak
@@ -5568,6 +5582,7 @@ temen
 temon
 tempat
 tempe
+tempek
 tempel
 tempik
 tempura
@@ -5893,7 +5908,6 @@ ungkap
 ungkas
 ungkir
 ungu
-uni
 unjar
 unjuk
 unta
@@ -6156,6 +6170,7 @@ yakin
 yam
 yaman
 yana
+yang
 yani
 yare
 yas
@@ -6190,6 +6205,7 @@ yosa
 yosan
 yowes
 yowis
+yoyo
 yu
 yuda
 yudha
