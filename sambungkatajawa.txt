@@ -241,6 +241,7 @@ ales
 alet
 alhamdulillah
 ali
+alien
 alif
 alih
 alik
@@ -604,6 +605,7 @@ asli
 asma
 asmara
 aso
+asoe
 asoi
 asok
 asop
@@ -1643,6 +1645,7 @@ endang
 endas
 endek
 endhas
+endhog
 endi
 endog
 endong
