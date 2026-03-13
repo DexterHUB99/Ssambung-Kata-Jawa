@@ -3574,6 +3574,7 @@ mondok
 monggo
 moni
 monyet
+mopi
 mor
 mora
 mori
@@ -4302,6 +4303,7 @@ nora
 norak
 nori
 nos
+not
 noya
 nresna
 nresnani
@@ -5067,6 +5069,7 @@ rindu
 ringkas
 ringkih
 rini
+rino
 rio
 rip
 ripa
