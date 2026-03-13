@@ -1574,6 +1574,7 @@ ev
 eva
 evo
 ew
+ewak
 ewang
 ewe
 ewean
@@ -3810,6 +3811,7 @@ ndang
 ndasmu
 ndawuh
 ndelok
+ndlogok
 ndoro
 nduk
 nduwe
@@ -6480,6 +6482,7 @@ yoyo
 yu
 yuda
 yudha
+yudi
 yuh
 yuk
 yuka
