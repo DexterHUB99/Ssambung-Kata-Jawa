@@ -2464,6 +2464,7 @@ istirahat
 istri
 isu
 isuk
+isun
 isya
 it
 itali
@@ -3602,6 +3603,7 @@ manungso
 manut
 maos
 mapan
+mara
 marah
 marai
 marak
@@ -5239,6 +5241,7 @@ remang
 remas
 rembang
 rembes
+rembet
 rembug
 rembuk
 rembukan
