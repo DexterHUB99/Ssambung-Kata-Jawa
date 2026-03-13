@@ -1997,6 +1997,7 @@ halus
 halusi
 ham
 hama
+hamba
 hambar
 hamel
 hamil
@@ -4845,6 +4846,7 @@ puja
 puki
 pukul
 pula
+pulen
 pulsa
 puluh
 pun
@@ -5431,6 +5433,7 @@ sinom
 sinoman
 sinta
 sinten
+sio
 sip
 sipa
 sipit
