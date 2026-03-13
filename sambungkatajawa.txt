@@ -5584,6 +5584,7 @@ opon
 opor
 opose
 oposi
+opoyo
 or
 ora
 orae
@@ -6716,6 +6717,7 @@ sie
 sigap
 sigar
 sih
+sii
 siji
 sik
 sika
