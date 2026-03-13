@@ -2689,7 +2689,6 @@ ihi
 ihing
 ihka
 ihli
-ihlo
 ihma
 iho
 ihsan
@@ -3072,7 +3071,6 @@ jero
 jeruk
 ji
 jidat
-jigong
 jijih
 jijik
 jika
@@ -4786,7 +4784,6 @@ nete
 neteh
 netek
 netes
-ngabari
 ngabekti
 ngaben
 ngaca
@@ -5275,7 +5272,6 @@ ngumpet
 ngumpul
 ngumpulake
 nguna
-nguncal
 ngundang
 ngunduh
 ngundur
@@ -5330,7 +5326,6 @@ nikmat
 niko
 niku
 nikung
-nikus
 nil
 nila
 nilai
@@ -5775,7 +5770,6 @@ pacik
 pacol
 pacul
 pada
-padahal
 padang
 padaran
 padas
