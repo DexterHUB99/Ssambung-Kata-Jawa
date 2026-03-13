@@ -579,6 +579,7 @@ arok
 aron
 aros
 arsa
+arsi
 arta
 arti
 artis
