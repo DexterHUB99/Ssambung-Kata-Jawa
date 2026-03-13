@@ -1963,6 +1963,7 @@ hase
 hasi
 hasil
 hasrat
+hasta
 hasut
 hati
 hawa
@@ -3550,6 +3551,7 @@ nali
 nalik
 nalika
 nalikane
+naliko
 naluri
 nama
 namba
