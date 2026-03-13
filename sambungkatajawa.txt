@@ -431,6 +431,7 @@ angsa
 angsal
 angso
 angsul
+angsulan
 angsur
 angsuran
 angur
