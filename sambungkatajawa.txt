@@ -3879,6 +3879,7 @@ ngadep
 ngadhep
 ngadi
 ngado
+ngadoh
 ngadu
 ngaduk
 ngae
@@ -4177,6 +4178,7 @@ ngome
 ngomel
 ngomong
 ngompol
+ngone
 ngongkang
 ngono
 ngontol
