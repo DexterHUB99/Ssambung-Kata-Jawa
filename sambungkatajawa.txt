@@ -2656,6 +2656,7 @@ isuk
 isun
 isya
 it
+ita
 itali
 ite
 item
@@ -3419,6 +3420,7 @@ kurban
 kuri
 kurma
 kurna
+kuro
 kursi
 kursii
 kuru
