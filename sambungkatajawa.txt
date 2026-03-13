@@ -1334,6 +1334,7 @@ ehok
 ehol
 ehop
 ehor
+ehos
 ehu
 ehuk
 ehur
@@ -6261,6 +6262,7 @@ ukka
 ukna
 uko
 ukon
+ukop
 ukro
 uku
 ukuk
