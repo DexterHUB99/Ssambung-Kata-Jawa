@@ -1103,6 +1103,7 @@ colok
 colong
 combro
 condong
+congok
 congor
 conto
 contoh
@@ -3134,6 +3135,7 @@ keraton
 kerbau
 kere
 kerek
+keremen
 keren
 kerep
 kereta
@@ -4207,6 +4209,7 @@ nangi
 nanging
 nangis
 nangka
+nangkene
 nangkring
 nani
 nanti
