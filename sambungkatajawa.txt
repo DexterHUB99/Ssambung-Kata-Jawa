@@ -2490,6 +2490,7 @@ huru
 huruf
 hurung
 hus
+huse
 husen
 husna
 husne
@@ -3141,6 +3142,7 @@ katang
 kate
 katel
 kates
+kathah
 kathok
 katil
 katok
