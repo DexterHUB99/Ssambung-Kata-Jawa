@@ -454,6 +454,7 @@ anjuk
 anjur
 anjuran
 ano
+anoa
 anom
 anoman
 ansur
@@ -477,6 +478,7 @@ anu
 anuk
 anum
 anun
+anur
 anus
 anut
 anyam
@@ -768,6 +770,7 @@ banci
 bandeng
 bando
 bandrek
+bandung
 bangke
 bangsat
 bani
@@ -1744,7 +1747,9 @@ eta
 etak
 etan
 etar
+etat
 ete
+etek
 etel
 etem
 eten
@@ -1787,6 +1792,7 @@ eyam
 eyang
 eyu
 eyup
+fafa
 fix
 fokus
 fulus
@@ -1824,6 +1830,7 @@ gaje
 gajelas
 gaji
 gak
+gakono
 gaktau
 gal
 gala
@@ -1864,6 +1871,7 @@ gamo
 gampang
 gampar
 gampil
+gan
 gancet
 ganco
 ganda
@@ -2151,6 +2159,7 @@ goyang
 gragal
 graji
 grana
+gresik
 griwa
 griya
 grobak
@@ -2579,6 +2588,7 @@ inam
 inang
 inda
 indah
+indaho
 indak
 indang
 indek
@@ -4036,6 +4046,7 @@ me
 medal
 medeni
 mega
+megah
 meh
 meja
 mek
@@ -4048,6 +4059,7 @@ melinjo
 melok
 melu
 mem
+mema
 memar
 meme
 memek
@@ -4757,7 +4769,9 @@ ngisuh
 ngitung
 ngiwa
 ngiwasi
+ngk
 ngko
+nglindur
 ngliwet
 nglon
 ngluwehi
@@ -4767,6 +4781,7 @@ ngn
 ngnggo
 ngobah
 ngobat
+ngoblok
 ngobok
 ngobong
 ngobor
@@ -4999,6 +5014,7 @@ norak
 nori
 nos
 not
+nota
 noti
 noya
 nresna
@@ -5780,6 +5796,7 @@ rase
 rasi
 rasim
 rasis
+raso
 rasuk
 rasukan
 rat
@@ -6155,6 +6172,7 @@ sarung
 sarungan
 sasa
 sasak
+sasar
 sasi
 sat
 sate
@@ -7289,6 +7307,7 @@ wedok
 wedus
 wegah
 weh
+wei
 wejang
 wejangan
 wek
