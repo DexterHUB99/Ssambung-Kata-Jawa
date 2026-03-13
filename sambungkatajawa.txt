@@ -6775,6 +6775,7 @@ tepi
 terang
 teras
 teri
+terima
 terong
 terus
 tet
@@ -7077,6 +7078,7 @@ ulem
 uleman
 ulen
 uler
+ules
 ulet
 uli
 ulih
