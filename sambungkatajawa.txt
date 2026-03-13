@@ -5416,6 +5416,7 @@ opet
 opik
 opin
 opini
+opit
 opo
 opoe
 opoki
@@ -6112,6 +6113,7 @@ riko
 ril
 rila
 rilis
+rilo
 rim
 rima
 rimu
