@@ -5212,6 +5212,7 @@ nipu
 nir
 nira
 niri
+niro
 nirwana
 nis
 nisa
