@@ -2581,6 +2581,7 @@ kadung
 kadut
 kae
 kafan
+kagem
 kaget
 kahanan
 kaila
@@ -3077,6 +3078,7 @@ kuran
 kurang
 kurawa
 kuri
+kurma
 kurna
 kursi
 kuru
