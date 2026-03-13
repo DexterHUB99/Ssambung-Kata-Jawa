@@ -3501,11 +3501,13 @@ lir
 lira
 liren
 lirih
+liru
 lis
 lisa
 lisan
 lise
 lit
+lita
 liwat
 liwet
 liya
