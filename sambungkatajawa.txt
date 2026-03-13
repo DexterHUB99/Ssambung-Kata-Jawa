@@ -1393,6 +1393,7 @@ dodolan
 doh
 dokar
 doko
+dokon
 dol
 dola
 dolan
@@ -2588,6 +2589,7 @@ idih
 idin
 idma
 idu
+idumu
 ieu
 if
 ig
