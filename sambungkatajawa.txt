@@ -1165,6 +1165,7 @@ disan
 disana
 disek
 disel
+disi
 disik
 disit
 disu
@@ -1358,6 +1359,7 @@ eli
 elig
 elik
 eling
+elit
 elmu
 elo
 elok
@@ -4350,6 +4352,7 @@ nikah
 nikahan
 niki
 nikmat
+niko
 niku
 nikung
 nil
