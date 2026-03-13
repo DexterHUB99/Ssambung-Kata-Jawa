@@ -705,6 +705,7 @@ balur
 bam
 ban
 bancak
+banci
 bandeng
 bandrek
 bangke
