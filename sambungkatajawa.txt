@@ -5456,6 +5456,7 @@ nrimo
 nu
 nua
 nub
+nubruk
 nudu
 nuduh
 nuduhi
@@ -6544,6 +6545,7 @@ rowo
 royal
 ru
 rua
+ruah
 ruam
 ruang
 rubuh
