@@ -4924,6 +4924,7 @@ nuturi
 nuwun
 ny
 nya
+nyai
 nyam
 nyambel
 nyamuk
@@ -6506,6 +6507,7 @@ tep
 tepa
 tepak
 tepe
+tepi
 terang
 teras
 teri
