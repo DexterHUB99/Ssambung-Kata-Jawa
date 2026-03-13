@@ -32,6 +32,7 @@ adan
 adang
 adat
 ade
+adeg
 adek
 adeking
 adem
@@ -250,6 +251,7 @@ alisan
 alit
 alm
 alo
+aloe
 alon
 alot
 aloy
@@ -7529,6 +7531,7 @@ yusa
 yusi
 yuswa
 yut
+yuti
 yuyu
 yuyun
 zakat
