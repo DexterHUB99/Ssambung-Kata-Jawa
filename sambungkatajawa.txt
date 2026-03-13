@@ -101,6 +101,7 @@ ahuh
 ahul
 ahur
 ahus
+ai
 aing
 air
 aja
@@ -3061,6 +3062,7 @@ legawa
 legi
 leh
 lek
+lekas
 lekat
 lele
 lelembut
@@ -4381,6 +4383,7 @@ orep
 ori
 orie
 orok
+orong
 oros
 orotan
 os
@@ -4391,6 +4394,7 @@ osan
 osek
 oseng
 osik
+osing
 osip
 osir
 osok
@@ -4561,6 +4565,7 @@ pi
 pia
 piano
 picek
+pie
 pih
 pijat
 pijet
