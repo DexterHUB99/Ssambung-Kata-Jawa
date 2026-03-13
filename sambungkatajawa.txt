@@ -10,7 +10,6 @@ abdi
 aber
 abi
 abis
-aboh
 abot
 abrit
 abu
@@ -1966,7 +1965,6 @@ hani
 hansip
 hantam
 hantu
-hanyo
 hap
 hapa
 hape
@@ -2042,7 +2040,6 @@ hiri
 hiruk
 his
 hisa
-hitam
 hitung
 hiu
 hla
@@ -2385,7 +2382,6 @@ jarang
 jare
 jari
 jarik
-jarum
 jasa
 jatah
 jati
@@ -2465,7 +2461,6 @@ joran
 jore
 jori
 jorok
-jorong
 jos
 jotos
 jujur
@@ -2866,7 +2861,6 @@ kolot
 kom
 koma
 komen
-komodo
 kompak
 kompor
 kon
@@ -3202,7 +3196,6 @@ lisa
 lisan
 lise
 lit
-liwa
 liwat
 liwet
 liya
@@ -4394,6 +4387,7 @@ ompol
 ompong
 ompreng
 on
+onang
 onar
 oncek
 onco
@@ -4826,6 +4820,7 @@ rambak
 ramban
 rambat
 rambatan
+rambi
 rambu
 rambut
 rambutan
@@ -5312,7 +5307,6 @@ sinden
 sing
 singa
 singgah
-singo
 sinom
 sinoman
 sinta
@@ -5396,6 +5390,7 @@ srawung
 su
 suami
 suamii
+suara
 suba
 subal
 subhanallah
