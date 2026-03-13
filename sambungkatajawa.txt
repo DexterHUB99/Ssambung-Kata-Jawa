@@ -565,7 +565,6 @@ apem
 apes
 api
 apik
-apikan
 apip
 apit
 apo
@@ -5496,6 +5495,7 @@ noti
 noya
 nresna
 nresnani
+nrima
 nrimo
 nu
 nua
