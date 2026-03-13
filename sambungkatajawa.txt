@@ -207,6 +207,7 @@ akin
 aking
 akip
 akir
+akis
 akit
 ako
 akoe
@@ -2940,6 +2941,7 @@ isi
 isian
 isih
 isik
+isika
 isikan
 isil
 isin
@@ -4427,6 +4429,7 @@ mentah
 mentas
 mentol
 mentolo
+menyan
 menyang
 merah
 merem
@@ -4888,6 +4891,7 @@ ngambul
 ngambung
 ngamil
 ngamok
+ngampel
 ngampun
 ngamuk
 ngan
