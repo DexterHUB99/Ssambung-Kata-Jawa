@@ -140,6 +140,7 @@ aini
 aio
 air
 aira
+aiya
 aiyo
 aja
 ajak
@@ -7664,6 +7665,7 @@ yep
 yes
 yesa
 yesi
+yet
 yi
 yo
 yoan
