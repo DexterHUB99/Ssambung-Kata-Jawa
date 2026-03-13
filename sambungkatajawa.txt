@@ -3420,6 +3420,7 @@ kit
 kita
 kitab
 kitan
+kite
 kiti
 kiwa
 klambi
@@ -3860,6 +3861,7 @@ lir
 lira
 liren
 lirih
+liro
 liru
 lis
 lisa
