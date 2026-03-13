@@ -530,7 +530,6 @@ anyaman
 anyar
 anyep
 anyer
-anyes
 anying
 anyir
 ap
@@ -2690,7 +2689,6 @@ ihi
 ihing
 ihka
 ihli
-ihlo
 ihma
 iho
 ihsan
@@ -2750,6 +2748,7 @@ ilar
 ilat
 iler
 ileran
+ilermu
 ili
 ilih
 ilik
@@ -3073,7 +3072,6 @@ jero
 jeruk
 ji
 jidat
-jigong
 jijih
 jijik
 jika
@@ -3594,7 +3592,6 @@ kiriman
 kiris
 kis
 kisa
-kisan
 kisi
 kit
 kita
@@ -4788,7 +4785,6 @@ nete
 neteh
 netek
 netes
-ngabari
 ngabekti
 ngaben
 ngaca
@@ -4831,7 +4827,6 @@ ngala
 ngalah
 ngalahi
 ngalam
-ngalami
 ngalas
 ngale
 ngaleh
@@ -5278,7 +5273,6 @@ ngumpet
 ngumpul
 ngumpulake
 nguna
-nguncal
 ngundang
 ngunduh
 ngundur
@@ -5333,7 +5327,6 @@ nikmat
 niko
 niku
 nikung
-nikus
 nil
 nila
 nilai
@@ -5387,6 +5380,7 @@ njajal
 njaluk
 njupuk
 nki
+nko
 nn
 nnan
 nngawi
@@ -5457,7 +5451,6 @@ numan
 numbal
 numbas
 numbuk
-numpah
 numpak
 numpaki
 numpang
@@ -5779,7 +5772,6 @@ pacik
 pacol
 pacul
 pada
-padahal
 padang
 padaran
 padas
@@ -6075,7 +6067,6 @@ po
 pocong
 podho
 poe
-poho
 pojok
 pojokan
 poke
@@ -6427,6 +6418,7 @@ rilis
 rilo
 rim
 rima
+rimo
 rimu
 rin
 rina
@@ -6624,6 +6616,7 @@ saking
 sakit
 sakne
 sakral
+saksake
 sakti
 saku
 sakun
@@ -6695,7 +6688,6 @@ sap
 sapa
 sapi
 sapih
-sapir
 sapu
 saput
 sar
