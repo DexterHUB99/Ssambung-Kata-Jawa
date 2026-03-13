@@ -2328,6 +2328,7 @@ gundah
 gundhul
 gundik
 gundul
+gundulmu
 gune
 gunem
 guneman
@@ -5840,6 +5841,7 @@ pih
 pijat
 pijet
 pijit
+pik
 pika
 pikang
 piki
@@ -7311,6 +7313,7 @@ udara
 udeg
 udek
 udel
+udelku
 udelmu
 udeng
 udik
