@@ -7352,6 +7352,7 @@ urap
 urapan
 uras
 urat
+ure
 urek
 uren
 uri
