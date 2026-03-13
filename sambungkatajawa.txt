@@ -6677,6 +6677,7 @@ serami
 serasih
 serat
 sere
+sereh
 sereng
 seres
 seret
@@ -6869,6 +6870,7 @@ sukak
 suker
 suket
 suki
+sukma
 suko
 suku
 sukun
