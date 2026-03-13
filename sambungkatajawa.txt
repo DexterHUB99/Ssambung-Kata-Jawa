@@ -192,6 +192,7 @@ akik
 akil
 akim
 akin
+akip
 akir
 akit
 ako
@@ -2949,6 +2950,7 @@ jorok
 jos
 joss
 jotos
+jujug
 jujur
 jule
 juli
@@ -4411,6 +4413,7 @@ napas
 nape
 napi
 napis
+napo
 napsu
 nar
 nara
