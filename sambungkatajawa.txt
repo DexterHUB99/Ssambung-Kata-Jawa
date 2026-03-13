@@ -2614,6 +2614,7 @@ hi
 hias
 hidayah
 hidup
+hihihi
 hijab
 hijau
 hiji
@@ -5839,6 +5840,7 @@ orie
 orok
 orong
 oros
+orosi
 orotan
 os
 osah
@@ -7851,6 +7853,7 @@ untul
 untumu
 untune
 untung
+untunge
 untur
 unus
 uo
