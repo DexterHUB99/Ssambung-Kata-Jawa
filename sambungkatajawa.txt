@@ -3312,6 +3312,7 @@ kula
 kulak
 kulakan
 kulan
+kulang
 kule
 kuli
 kulina
@@ -5033,6 +5034,7 @@ open
 opera
 opes
 opet
+opik
 opin
 opini
 opo
@@ -6299,6 +6301,7 @@ tabur
 taek
 tah
 tahajud
+tahi
 tahlil
 tahu
 tahun
