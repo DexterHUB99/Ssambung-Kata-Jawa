@@ -1227,6 +1227,7 @@ cinta
 cire
 cireng
 ciro
+ciu
 ciyut
 co
 cobaan
@@ -3953,6 +3954,7 @@ lap
 lapak
 lapang
 lapar
+lape
 lapi
 lapis
 lapisan
@@ -4652,6 +4654,7 @@ mut
 mutah
 mutan
 muten
+muti
 na
 nabi
 nabok
@@ -5915,6 +5918,7 @@ pala
 palah
 palak
 palang
+pale
 palem
 palen
 paleng
