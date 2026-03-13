@@ -838,6 +838,7 @@ bejan
 bejo
 bejur
 bek
+beka
 bekal
 bekas
 bekel
