@@ -986,6 +986,7 @@ cengel
 cengkeh
 cenil
 centil
+centong
 cep
 cerak
 ceret
@@ -5391,6 +5392,7 @@ riyaya
 riyin
 riyo
 ro
+roa
 rob
 robah
 roban
@@ -6658,6 +6660,7 @@ wii
 wijaya
 wiji
 wik
+wika
 wiku
 wil
 wila
