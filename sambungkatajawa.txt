@@ -2255,6 +2255,7 @@ hora
 hore
 hori
 hormat
+horog
 hotel
 howo
 hp
@@ -6249,6 +6250,7 @@ tina
 tindak
 tindhak
 tinemu
+tingal
 tinggal
 tingkah
 tini
