@@ -1651,6 +1651,7 @@ ganthi
 ganti
 gantung
 ganyong
+gapi
 gaplek
 gapuk
 gapura
@@ -2792,6 +2793,7 @@ keris
 kerja
 kerjo
 kero
+keroh
 kerok
 keroso
 kersa
