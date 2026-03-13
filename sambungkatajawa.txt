@@ -1693,6 +1693,7 @@ epok
 epor
 epu
 epuh
+epun
 epus
 er
 era
@@ -1998,6 +1999,7 @@ geleman
 geli
 gelis
 gelo
+geloe
 gelombang
 geloo
 gelot
@@ -5105,6 +5107,7 @@ nyanyi
 nyapa
 nyapu
 nyasar
+nyatu
 nyawa
 nyawang
 nyawiji
