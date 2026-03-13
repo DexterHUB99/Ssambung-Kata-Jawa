@@ -325,6 +325,7 @@ amoh
 amok
 among
 amor
+amoro
 amp
 ampa
 ampal
@@ -3274,6 +3275,7 @@ kayane
 kayangan
 kayu
 ke
+keapa
 kebak
 kebaya
 kebo
