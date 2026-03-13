@@ -2187,6 +2187,7 @@ ikai
 ikal
 ikan
 ikar
+ikas
 ikat
 ikatan
 ikel
@@ -3432,6 +3433,7 @@ mama
 mamah
 mamak
 mamas
+mamat
 mambu
 mami
 mampus
