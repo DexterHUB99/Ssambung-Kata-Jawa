@@ -4523,6 +4523,7 @@ ngiris
 ngirit
 ngisak
 ngiseng
+ngisep
 ngiser
 ngisi
 ngisin
