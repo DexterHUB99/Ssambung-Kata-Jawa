@@ -345,6 +345,7 @@ ampar
 amparan
 ampas
 ampe
+ampek
 ampel
 ampela
 ampes
@@ -6741,6 +6742,7 @@ sanes
 sangar
 sangat
 sangga
+sanggar
 sanggul
 sangit
 sangka
