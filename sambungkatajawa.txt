@@ -748,7 +748,6 @@ balungan
 balur
 bam
 ban
-banana
 bancak
 banci
 bandeng
@@ -772,7 +771,6 @@ baskom
 basuki
 bata
 batal
-bato
 batok
 bau
 bawal
@@ -2034,7 +2032,6 @@ gilani
 gili
 giling
 gilo
-gima
 giman
 gimbal
 gina
@@ -2391,7 +2388,6 @@ hutang
 ib
 iba
 ibadah
-ibak
 ibu
 ibuk
 ical
@@ -2625,7 +2621,6 @@ isak
 isam
 isan
 isap
-ise
 isek
 isel
 isen
@@ -2853,7 +2848,6 @@ kadang
 kademan
 kadewa
 kados
-kadose
 kadung
 kadut
 kae
@@ -3170,7 +3164,6 @@ kese
 kesed
 kesel
 keselek
-kesem
 keset
 kesi
 kesna
@@ -3668,6 +3661,7 @@ lipen
 lipet
 lipi
 lipis
+lipit
 lipur
 lir
 lira
@@ -4508,7 +4502,6 @@ ngegas
 ngeh
 ngejak
 ngejar
-ngejek
 ngek
 ngelag
 ngelak
@@ -4663,6 +4656,7 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
+ngn
 ngnggo
 ngobah
 ngobat
