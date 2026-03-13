@@ -424,6 +424,7 @@ anyaman
 anyar
 anyep
 anyer
+anying
 anyir
 ap
 apa
@@ -1921,6 +1922,7 @@ griya
 grobak
 grogi
 grombolan
+grontol
 grujuk
 gu
 gudang
@@ -1980,6 +1982,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3378,6 +3381,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
