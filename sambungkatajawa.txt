@@ -55,6 +55,7 @@ agawe
 age
 agem
 ageng
+agi
 agung
 agus
 aguy
@@ -3886,6 +3887,7 @@ nampa
 nampan
 nampani
 nampar
+nampol
 namu
 namung
 nan
@@ -4791,6 +4793,7 @@ owahan
 owak
 ox
 oy
+oyag
 oyak
 oyi
 oz
@@ -5149,6 +5152,7 @@ raib
 raie
 raimu
 raine
+raio
 raiso
 raja
 rajah
