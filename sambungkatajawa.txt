@@ -1573,6 +1573,7 @@ elit
 elmu
 elo
 eloe
+eloh
 elok
 elom
 elon
@@ -6021,6 +6022,7 @@ rembug
 rembuk
 rembukan
 rembulan
+rembung
 remeh
 remek
 remen
