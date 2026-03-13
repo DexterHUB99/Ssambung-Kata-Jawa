@@ -4693,6 +4693,7 @@ ngisuh
 ngitung
 ngiwa
 ngiwasi
+ngk
 ngko
 ngliwet
 nglon
