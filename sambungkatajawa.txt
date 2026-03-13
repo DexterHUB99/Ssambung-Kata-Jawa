@@ -496,6 +496,7 @@ anta
 antah
 antar
 antara
+antarane
 antasena
 antek
 antem
@@ -6419,6 +6420,7 @@ rombak
 rombeng
 rombong
 rombongan
+rombongane
 rome
 romi
 romlah
