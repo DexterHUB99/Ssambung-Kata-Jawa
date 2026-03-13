@@ -362,6 +362,7 @@ angkring
 angkringan
 angkuh
 angkut
+angl
 angler
 angon
 angop
@@ -3941,6 +3942,7 @@ nganter
 nganthi
 nganti
 ngantor
+ngantri
 ngantuk
 nganu
 ngaos
@@ -5446,6 +5448,7 @@ sik
 sika
 sikat
 sikep
+siki
 sikil
 siku
 sikut
