@@ -885,6 +885,7 @@ budi
 budo
 buh
 bui
+bujuk
 buk
 buka
 bukak
@@ -3420,6 +3421,7 @@ lintah
 lintang
 lintas
 lintu
+lio
 lip
 lipan
 lipas
@@ -6296,6 +6298,7 @@ ukaran
 ukarane
 ukas
 uker
+uket
 uki
 ukir
 ukiran
