@@ -1729,6 +1729,7 @@ gajelas
 gaji
 gak
 gaktau
+gal
 gala
 galah
 galak
@@ -2657,6 +2658,7 @@ jeran
 jero
 jeruk
 ji
+jidat
 jijih
 jijik
 jika
