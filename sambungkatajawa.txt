@@ -3583,6 +3583,7 @@ kuasa
 kuat
 kuburan
 kucing
+kucir
 kucur
 kuda
 kudet
