@@ -5059,6 +5059,7 @@ nogel
 noh
 nok
 noken
+noki
 nokoh
 nol
 nolak
@@ -5861,6 +5862,7 @@ rang
 rangga
 rangkat
 rangkul
+rangu
 rani
 ranjang
 rantai
