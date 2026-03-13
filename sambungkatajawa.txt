@@ -1918,6 +1918,7 @@ gedek
 gedhang
 gedhe
 gedhi
+gedhung
 gedor
 gega
 geger
@@ -2197,6 +2198,7 @@ haie
 hajar
 hajat
 haji
+hajimi
 hak
 haka
 hake
@@ -4619,6 +4621,7 @@ nginep
 nging
 nginjak
 ngintik
+ngintil
 ngintip
 nginum
 ngipas
