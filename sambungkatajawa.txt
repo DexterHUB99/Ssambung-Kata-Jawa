@@ -2697,6 +2697,7 @@ jembatan
 jember
 jembut
 jempol
+jemput
 jenang
 jeneng
 jenengan
@@ -4986,6 +4987,7 @@ open
 opera
 opes
 opet
+opin
 opini
 opo
 opoe
