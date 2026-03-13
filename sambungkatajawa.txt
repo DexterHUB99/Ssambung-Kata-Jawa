@@ -3138,6 +3138,7 @@ kuri
 kurma
 kurna
 kursi
+kursii
 kuru
 kurung
 kurus
@@ -3448,6 +3449,7 @@ luku
 lulang
 lulu
 luluh
+lulur
 luma
 lumah
 lumajang
