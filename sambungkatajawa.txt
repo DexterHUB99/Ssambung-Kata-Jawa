@@ -1712,6 +1712,7 @@ eva
 evo
 ew
 ewak
+ewan
 ewang
 ewe
 ewean
@@ -3225,6 +3226,7 @@ koen
 koh
 kok
 koki
+koko
 kokop
 kol
 kola
