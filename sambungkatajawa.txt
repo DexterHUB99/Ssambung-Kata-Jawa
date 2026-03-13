@@ -807,6 +807,7 @@ bena
 benang
 bende
 bendo
+bendung
 bene
 bener
 bengi
@@ -2378,6 +2379,7 @@ ikil
 ikiwe
 iklas
 iklim
+iko
 ikon
 ikrar
 iku
@@ -5403,6 +5405,7 @@ ran
 rana
 ranah
 rancang
+rancu
 randa
 randu
 randue
