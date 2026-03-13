@@ -2165,6 +2165,7 @@ geret
 geri
 gering
 gerji
+germo
 gero
 gerobak
 gerus
@@ -5741,6 +5742,7 @@ patung
 pawan
 pawang
 pawon
+paya
 payah
 payu
 payung
