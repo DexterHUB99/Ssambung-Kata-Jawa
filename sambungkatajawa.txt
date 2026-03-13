@@ -24,6 +24,7 @@ adah
 adai
 adal
 adam
+adan
 adang
 adat
 ade
@@ -738,6 +739,7 @@ banyu
 bapak
 bar
 bareng
+baron
 barongan
 basah
 basi
@@ -6318,6 +6320,7 @@ tosa
 toto
 toya
 tresno
+truk
 tu
 tua
 tuak
