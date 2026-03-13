@@ -113,6 +113,7 @@ ahur
 ahus
 ahuy
 ai
+aia
 aian
 aii
 aika
@@ -5438,6 +5439,7 @@ rep
 repi
 repo
 repot
+rere
 rerema
 reresik
 res
