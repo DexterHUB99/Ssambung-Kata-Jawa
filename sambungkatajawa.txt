@@ -470,6 +470,7 @@ apu
 apuh
 apung
 apus
+apusa
 ara
 arab
 arah
