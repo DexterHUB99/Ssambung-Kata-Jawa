@@ -7543,6 +7543,7 @@ wasi
 wasiat
 wasir
 wasira
+wasuh
 wati
 waton
 watone
