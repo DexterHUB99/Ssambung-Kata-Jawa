@@ -193,6 +193,7 @@ aksara
 aksen
 aksi
 aku
+akue
 akuh
 akui
 akul
@@ -1454,6 +1455,7 @@ eling
 elit
 elmu
 elo
+eloe
 elok
 elom
 elon
@@ -1862,6 +1864,7 @@ ge
 geber
 geblek
 gebug
+gebuki
 gedag
 gedang
 gede
@@ -6654,6 +6657,7 @@ unen
 ung
 ungaran
 unggah
+unggar
 unggaran
 unggas
 unggul
