@@ -570,6 +570,7 @@ athi
 ati
 atih
 atik
+atika
 atin
 atine
 atir
@@ -1462,6 +1463,7 @@ enir
 enjang
 enjih
 enjing
+enlo
 eno
 enok
 enol
