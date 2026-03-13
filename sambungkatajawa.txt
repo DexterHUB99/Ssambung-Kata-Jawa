@@ -1734,6 +1734,7 @@ gede
 gedek
 gedhang
 gedhe
+gedhi
 gedor
 gega
 geger
@@ -4479,6 +4480,7 @@ okeh
 okei
 okel
 oker
+okerek
 okok
 okoka
 okoke
