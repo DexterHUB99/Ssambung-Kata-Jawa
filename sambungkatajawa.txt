@@ -2446,6 +2446,7 @@ hubungan
 huda
 hudan
 hujan
+huk
 hukum
 hukume
 hukumen
@@ -2548,6 +2549,7 @@ ikui
 ikut
 il
 ila
+ilaa
 ilag
 ilah
 ilahi
