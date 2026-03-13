@@ -7021,6 +7021,7 @@ was
 wasana
 wasi
 wasiat
+wasir
 wasira
 wati
 waton
