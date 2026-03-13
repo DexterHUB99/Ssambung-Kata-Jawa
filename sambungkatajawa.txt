@@ -233,6 +233,7 @@ alip
 alir
 aliran
 alis
+alisan
 alit
 alm
 alo
@@ -5366,6 +5367,7 @@ puja
 puki
 pukul
 pula
+pulau
 pulen
 pulsa
 puluh
@@ -6711,6 +6713,7 @@ unang
 uncal
 undak
 undakan
+undal
 undang
 undangan
 undar
