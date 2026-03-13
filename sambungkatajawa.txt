@@ -5036,6 +5036,7 @@ padune
 padusan
 pager
 pagi
+pagus
 paguyupan
 pahing
 pahit
@@ -6912,6 +6913,7 @@ wejang
 wejangan
 wek
 wekasan
+weko
 wektu
 wel
 welah
@@ -6972,6 +6974,7 @@ wiwit
 wiwitan
 wo
 wok
+woke
 wol
 wolo
 wolu
