@@ -1689,6 +1689,7 @@ galak
 galang
 galau
 galek
+galeng
 galengan
 galer
 gali
@@ -6048,6 +6049,7 @@ teras
 teri
 terong
 terus
+tet
 tete
 tetek
 ti
@@ -6218,6 +6220,7 @@ uban
 uber
 ubi
 ubur
+ucap
 ucapan
 ucul
 ud
