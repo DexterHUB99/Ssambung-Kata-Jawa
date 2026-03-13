@@ -4984,6 +4984,7 @@ osaha
 osaka
 osal
 osan
+osas
 osek
 oseng
 osik
