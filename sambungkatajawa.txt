@@ -358,6 +358,7 @@ andong
 andu
 anduk
 andum
+andung
 andus
 ane
 aneh
@@ -614,6 +615,7 @@ atir
 atis
 atit
 atma
+atmana
 ato
 atoh
 atok
@@ -871,7 +873,6 @@ bocor
 bodo
 bodoh
 bodok
-bogor
 bojo
 bokek
 bokong
@@ -1604,6 +1605,7 @@ eren
 ereng
 erep
 ereruh
+eres
 eri
 erik
 ering
@@ -2451,6 +2453,7 @@ injih
 injing
 injuk
 insyaallah
+inti
 intil
 intinya
 intip
@@ -2479,7 +2482,6 @@ ipun
 ir
 ira
 irah
-iraha
 irahan
 irai
 irak
@@ -2916,6 +2918,7 @@ kecel
 kecelek
 kecut
 kedah
+keder
 kediri
 kek
 keka
@@ -3868,7 +3871,6 @@ moh
 mojo
 mok
 mokal
-moki
 mokong
 mol
 mola
@@ -4408,7 +4410,6 @@ ngijoli
 ngik
 ngiki
 ngiku
-ngikut
 ngilang
 ngiler
 ngili
@@ -4595,7 +4596,6 @@ nilai
 nilam
 nilem
 nilep
-nili
 nim
 nimba
 nimbang
@@ -5280,7 +5280,6 @@ puser
 pusing
 put
 putih
-puting
 putra
 putri
 putu
@@ -5476,6 +5475,7 @@ rere
 rerema
 reresik
 res
+resa
 resah
 rese
 resi
@@ -6282,6 +6282,7 @@ tipi
 tir
 tirai
 tiran
+tiren
 tiri
 tiris
 tirta
