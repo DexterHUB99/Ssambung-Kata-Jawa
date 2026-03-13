@@ -2829,6 +2829,7 @@ kekal
 keke
 kel
 kela
+kelab
 kelam
 kelangan
 kelaran
@@ -4555,6 +4556,7 @@ nusi
 nusul
 nut
 nuthuk
+nuti
 nutup
 nutur
 nuturi
