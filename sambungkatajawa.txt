@@ -243,7 +243,6 @@ amben
 ambeng
 amber
 ambil
-amboi
 ambruk
 ambu
 ambune
@@ -981,7 +980,6 @@ ciduk
 cik
 cikal
 ciki
-cila
 cilaka
 cili
 cilik
@@ -1649,6 +1647,7 @@ gagar
 gagas
 gagasan
 gage
+gagu
 gaguna
 gah
 gairah
@@ -1674,7 +1673,6 @@ galok
 galon
 galung
 galungan
-gama
 gaman
 gambang
 gambar
@@ -2552,6 +2550,7 @@ jeran
 jero
 jeruk
 ji
+jigong
 jijih
 jijik
 jika
@@ -5548,7 +5547,6 @@ selawe
 sele
 selep
 selet
-selimut
 selir
 semak
 semar
@@ -5560,7 +5558,6 @@ semen
 semok
 sempak
 sempit
-semprul
 semu
 semut
 sen
@@ -5639,6 +5636,7 @@ sinden
 sing
 singa
 singgah
+singo
 sini
 sinom
 sinoman
@@ -5914,7 +5912,6 @@ tegal
 teguh
 teh
 teja
-tek
 teka
 tekan
 teke
