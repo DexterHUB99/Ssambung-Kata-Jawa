@@ -1239,6 +1239,7 @@ dil
 dila
 dilah
 dilalah
+dilan
 dilat
 dilem
 dilit
@@ -6190,6 +6191,7 @@ somar
 somat
 sombong
 some
+sompral
 son
 songket
 songo
