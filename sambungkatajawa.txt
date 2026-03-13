@@ -2143,6 +2143,7 @@ helikopter
 helo
 hem
 hemat
+hena
 hep
 hepan
 hepi
@@ -6449,6 +6450,7 @@ usek
 user
 usi
 usia
+usie
 usih
 usik
 usil
