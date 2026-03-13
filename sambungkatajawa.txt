@@ -6845,6 +6845,7 @@ talas
 tale
 talenan
 tali
+talo
 tam
 tama
 tamah
