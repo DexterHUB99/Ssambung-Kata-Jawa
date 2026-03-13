@@ -2740,6 +2740,7 @@ ising
 isis
 iski
 islam
+ismu
 iso
 isoe
 isok
@@ -4163,6 +4164,7 @@ mis
 misah
 misake
 miskin
+misu
 misuh
 mita
 mitoni
