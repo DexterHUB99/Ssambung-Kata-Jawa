@@ -3846,6 +3846,7 @@ lon
 loncat
 lonceng
 londho
+londok
 longgar
 longgo
 longor
@@ -5832,6 +5833,7 @@ rantai
 rantang
 rantas
 ranti
+ranting
 ranum
 raono
 raos
