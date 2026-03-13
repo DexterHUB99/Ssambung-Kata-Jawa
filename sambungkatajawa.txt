@@ -6465,6 +6465,7 @@ tolong
 tomat
 tombak
 tombok
+tomo
 tompel
 ton
 tongkol
