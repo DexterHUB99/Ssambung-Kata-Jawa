@@ -47,7 +47,6 @@ ae
 afa
 afe
 ag
-agak
 agal
 agama
 agami
@@ -740,7 +739,6 @@ begal
 begja
 bego
 beh
-bei
 beja
 bejad
 bejan
@@ -1490,6 +1488,7 @@ enir
 enjang
 enjih
 enjing
+enko
 enlo
 eno
 enok
@@ -1785,7 +1784,6 @@ gayung
 ge
 geber
 geblek
-gebug
 gedag
 gedang
 gede
@@ -1975,7 +1973,6 @@ grombolan
 grontol
 grujuk
 gu
-gubug
 gudang
 gudeg
 gudel
@@ -2623,6 +2620,7 @@ jora
 joran
 jore
 jori
+joring
 jorok
 jos
 jotos
@@ -2833,6 +2831,7 @@ kekal
 keke
 kel
 kela
+kelab
 kelam
 kelangan
 kelaran
@@ -3540,7 +3539,6 @@ madura
 madya
 mae
 maem
-mag
 mah
 maha
 mai
@@ -4560,6 +4558,7 @@ nusi
 nusul
 nut
 nuthuk
+nuti
 nutup
 nutur
 nuturi
@@ -4928,7 +4927,6 @@ pendopo
 pengen
 peni
 peniti
-peno
 pensil
 pentil
 pentung
@@ -5022,7 +5020,6 @@ pitakon
 pitek
 pitik
 pitu
-pitulas
 pitulung
 pitung
 pitutur
@@ -5073,7 +5070,6 @@ pripun
 pu
 puasa
 pucuk
-pue
 puja
 puki
 pukul
@@ -5472,6 +5468,7 @@ sal
 salah
 salak
 salam
+salep
 sali
 salim
 salon
@@ -6638,7 +6635,6 @@ wun
 wusa
 xenon
 xilofon
-xray
 ya
 yaapa
 yaelah
@@ -6653,6 +6649,7 @@ yan
 yana
 yang
 yani
+yanko
 yano
 yare
 yas
