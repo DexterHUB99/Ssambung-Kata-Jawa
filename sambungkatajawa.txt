@@ -4339,6 +4339,7 @@ nalik
 nalika
 nalikane
 naliko
+nalina
 nalur
 naluri
 nam
@@ -4966,6 +4967,7 @@ ngunut
 ngupah
 ngupai
 ngupaya
+ngupel
 ngupi
 ngupil
 nguping
