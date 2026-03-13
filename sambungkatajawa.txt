@@ -102,6 +102,8 @@ ahul
 ahur
 ahus
 ai
+ail
+aina
 aing
 air
 aja
@@ -410,6 +412,7 @@ apa
 apak
 apal
 apalan
+apan
 apane
 apar
 ape
@@ -1637,6 +1640,7 @@ garing
 garis
 garpu
 garu
+garuda
 garuk
 garut
 garwa
@@ -1726,6 +1730,7 @@ gendut
 gene
 genep
 generator
+geneyi
 geng
 geni
 genta
@@ -1781,6 +1786,7 @@ giman
 gimbal
 gina
 gincu
+ginem
 gini
 ginjal
 gir
@@ -1964,6 +1970,7 @@ harga
 hari
 harian
 harimau
+harimu
 harjo
 harum
 has
@@ -2034,6 +2041,7 @@ ho
 hobi
 hoe
 hoh
+holi
 homo
 hoo
 hooh
@@ -2279,6 +2287,7 @@ isi
 isian
 isih
 isik
+isikan
 isil
 isin
 isine
@@ -2299,6 +2308,7 @@ it
 item
 itik
 itil
+itu
 itung
 iut
 iw
@@ -3547,6 +3557,7 @@ musoh
 musuh
 mut
 mutah
+mutan
 na
 nabi
 nabrak
@@ -3831,6 +3842,7 @@ ngarit
 ngarsa
 ngarung
 ngas
+ngasa
 ngasah
 ngasahi
 ngasal
@@ -4470,6 +4482,7 @@ paliyan
 palu
 palung
 pamali
+paman
 pamil
 pamit
 pamitan
@@ -4573,6 +4586,7 @@ pentung
 pepek
 pepes
 pera
+percaya
 peri
 perih
 pesen
@@ -4681,6 +4695,7 @@ pondok
 poni
 ponorogo
 poo
+pop
 por
 pora
 poran
@@ -4879,6 +4894,7 @@ remek
 remen
 remes
 remi
+remok
 rempah
 rempon
 remu
@@ -5348,6 +5364,7 @@ subal
 subhanallah
 subuh
 subur
+sudah
 sudi
 sudukan
 sugeng
@@ -5524,6 +5541,7 @@ telan
 telas
 telat
 tele
+telek
 teles
 telo
 telon
@@ -5752,6 +5770,7 @@ ugo
 ugung
 uh
 uha
+uho
 uja
 ujar
 ujaran
