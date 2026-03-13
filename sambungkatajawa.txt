@@ -9,6 +9,7 @@ abang
 abdi
 aber
 abi
+abil
 abis
 abot
 abrit
@@ -36,6 +37,7 @@ adil
 ado
 adoh
 adol
+adon
 ados
 adu
 aduh
@@ -107,6 +109,7 @@ ail
 aima
 aina
 aing
+aio
 air
 aja
 ajak
@@ -167,6 +170,7 @@ aksi
 aku
 akuh
 akul
+akumi
 akun
 akur
 akut
@@ -296,6 +300,7 @@ ancaman
 ancang
 ancen
 ancik
+anco
 ancok
 ancuk
 ancur
@@ -456,7 +461,6 @@ areng
 arep
 aret
 ari
-arif
 arih
 arik
 aring
@@ -468,6 +472,7 @@ arjuna
 arjuno
 arogan
 aroh
+aron
 aros
 arsa
 arta
@@ -534,7 +539,6 @@ aswatama
 ata
 atah
 atak
-atam
 atap
 atar
 atas
@@ -669,6 +673,7 @@ bangsat
 bani
 banjir
 banter
+bantu
 banyu
 bapak
 bar
@@ -761,6 +766,7 @@ bidan
 bidik
 bidun
 bidur
+bien
 bigu
 biji
 bika
@@ -845,7 +851,6 @@ bulu
 bum
 bumi
 bun
-buncis
 bunder
 bunga
 bungah
@@ -1093,6 +1098,7 @@ didik
 didu
 digawa
 dijalan
+diji
 dik
 dika
 dikep
@@ -1418,11 +1424,13 @@ eno
 enok
 enol
 enom
+entas
 entek
 enteng
 enteni
 enter
 entir
+entoh
 entok
 entong
 entuk
@@ -1511,6 +1519,7 @@ estri
 estu
 esu
 esuk
+esun
 et
 eta
 etak
@@ -1538,6 +1547,7 @@ etuk
 etung
 etus
 ev
+evo
 ew
 ewang
 ewe
@@ -1665,7 +1675,6 @@ gas
 gasa
 gasak
 gasal
-gasi
 gasik
 gasing
 gatel
@@ -1834,6 +1843,7 @@ gola
 gole
 golek
 goleki
+goler
 golo
 golong
 golongan
@@ -1916,6 +1926,7 @@ gupuh
 gur
 gura
 gurah
+gure
 guri
 gurih
 guru
@@ -1935,6 +1946,7 @@ guyub
 guyup
 guyur
 ha
+haa
 habis
 hadap
 hadeh
@@ -1987,7 +1999,6 @@ hapusi
 har
 hara
 haram
-harap
 harga
 hari
 harian
@@ -2112,6 +2123,7 @@ ical
 icu
 id
 idam
+ide
 idep
 ider
 idih
@@ -2138,7 +2150,6 @@ ijik
 ijin
 ijo
 ijol
-ijolan
 ik
 ika
 ikaa
@@ -2269,7 +2280,9 @@ ipil
 ipin
 ipit
 ipoe
+iprit
 ipuk
+ipun
 ir
 ira
 irah
@@ -2339,6 +2352,7 @@ istri
 isu
 isuk
 it
+ite
 item
 itik
 itil
@@ -2440,6 +2454,7 @@ jijih
 jijik
 jikuk
 jil
+jilat
 jili
 jim
 jimat
@@ -2662,6 +2677,7 @@ kawula
 kawung
 kawus
 kaya
+kayane
 kayu
 ke
 kebak
@@ -2830,6 +2846,7 @@ kinanthi
 kinasih
 kini
 kintal
+kintel
 kintir
 kios
 kipas
@@ -2986,7 +3003,6 @@ kunjur
 kuno
 kunti
 kuntul
-kunyuk
 kup
 kupat
 kupeng
@@ -3238,6 +3254,7 @@ logi
 loh
 loha
 lohan
+loi
 lok
 loka
 lokan
@@ -3297,6 +3314,7 @@ luma
 lumajang
 lumaku
 luman
+lumping
 lumpuh
 lumrah
 lumuh
@@ -3574,7 +3592,6 @@ mules
 muli
 mulia
 mulih
-mulung
 mulya
 mumet
 mumpung
@@ -3637,6 +3654,7 @@ nakula
 nala
 nalangi
 nalar
+nale
 nali
 nalik
 nalika
@@ -3870,11 +3888,11 @@ ngapah
 ngapain
 ngapak
 ngapel
+ngapeli
 ngapu
 ngapunten
 ngapura
 ngapurancang
-ngapurane
 ngapuro
 ngapus
 ngapusi
@@ -3916,6 +3934,7 @@ ngawe
 ngaweh
 ngawi
 ngawil
+ngawit
 ngawiti
 ngawo
 ngawor
@@ -4245,6 +4264,7 @@ noleh
 nom
 nombak
 nombok
+nome
 nomer
 nomere
 non
@@ -4254,6 +4274,7 @@ nongki
 nongkrong
 noni
 nonjok
+nono
 nonton
 nopang
 nopo
@@ -4324,7 +4345,6 @@ nyawa
 nyawiji
 nyawit
 nyedhak
-nyi
 nyilih
 nyiram
 nyirep
@@ -4349,6 +4369,7 @@ odol
 ogah
 ogak
 oge
+ogi
 ogoh
 ogol
 oh
@@ -4429,6 +4450,7 @@ onco
 oncom
 onde
 ondha
+ondo
 ondol
 oneng
 ongkang
@@ -4496,6 +4518,7 @@ ot
 otak
 otek
 otot
+ov
 ow
 owah
 owahan
@@ -5032,6 +5055,7 @@ rit
 rita
 riti
 riwayat
+riwe
 riyaya
 riyin
 ro
@@ -5059,6 +5083,7 @@ romo
 rompi
 ron
 ronda
+rondo
 rongpuluh
 rongsokan
 roni
@@ -5080,6 +5105,7 @@ ruang
 rubuh
 rugi
 ruh
+rui
 rujak
 rujuk
 ruki
@@ -5114,6 +5140,7 @@ ruwat
 ruwet
 rw
 sa
+saa
 sabar
 saben
 sabi
@@ -5196,6 +5223,7 @@ santai
 santen
 santun
 sanur
+sao
 sap
 sapa
 sapi
@@ -5240,6 +5268,7 @@ se
 sebah
 sedan
 sedina
+seduh
 sedulur
 sega
 segara
@@ -5349,6 +5378,7 @@ sinden
 sing
 singa
 singgah
+sini
 sinom
 sinoman
 sinta
@@ -5478,6 +5508,7 @@ sumerep
 sumi
 sumonggo
 sumpah
+sumringah
 sumuk
 sumur
 sun
@@ -5555,6 +5586,7 @@ takjil
 takon
 takut
 talas
+tale
 talenan
 tali
 tam
@@ -5717,6 +5749,7 @@ tis
 tisi
 tit
 tita
+titah
 titen
 titi
 titik
@@ -5741,6 +5774,7 @@ tombok
 tompel
 ton
 tongkol
+too
 topa
 topeng
 topi
@@ -5898,7 +5932,6 @@ ulan
 ulang
 ulangan
 ulangi
-ulap
 ular
 ulas
 ulasan
@@ -5996,6 +6029,7 @@ upel
 upik
 upil
 upit
+upo
 ur
 ura
 uraa
@@ -6051,16 +6085,17 @@ usik
 usil
 usir
 usko
-usku
 ustadz
 usu
 usuk
+usul
 usung
 usus
 usut
 ut
 uta
 utama
+utamane
 utang
 utar
 utara
@@ -6093,6 +6128,7 @@ uya
 uyah
 uyuh
 uz
+visa
 wa
 wader
 wadoh
@@ -6239,6 +6275,7 @@ yake
 yakin
 yam
 yaman
+yan
 yana
 yang
 yani
