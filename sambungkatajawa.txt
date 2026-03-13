@@ -2289,6 +2289,7 @@ hora
 hore
 hori
 hormat
+horo
 horog
 hotel
 howo
@@ -6046,6 +6047,7 @@ sos
 sose
 sosi
 sosiji
+sosok
 sotel
 soto
 sowan
