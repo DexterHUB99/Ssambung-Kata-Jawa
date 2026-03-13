@@ -366,6 +366,7 @@ anggene
 anggep
 angger
 anggere
+anggit
 anggon
 anggrek
 angguk
@@ -2877,6 +2878,7 @@ kek
 keka
 kekal
 keke
+keket
 kel
 kela
 kelam
