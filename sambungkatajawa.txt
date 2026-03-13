@@ -2260,6 +2260,7 @@ ibuk
 ical
 icu
 id
+ida
 idam
 ide
 idep
@@ -5573,6 +5574,7 @@ sandhang
 sanes
 sangar
 sangga
+sanggul
 sangka
 sangkuni
 sangon
