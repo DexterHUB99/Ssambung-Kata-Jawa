@@ -1497,6 +1497,7 @@ ekoli
 ekon
 ekor
 ekot
+eksi
 ektika
 eku
 ekun
@@ -4559,6 +4560,7 @@ ngarek
 ngarep
 ngaret
 ngari
+ngaring
 ngarit
 ngarsa
 ngaruk
@@ -4637,6 +4639,7 @@ ngelem
 ngeles
 ngelih
 ngeling
+ngelingi
 ngelon
 ngeloni
 ngelor
@@ -5220,6 +5223,7 @@ onar
 oncek
 onco
 oncom
+onda
 onde
 ondha
 ondo
@@ -5291,6 +5295,7 @@ osak
 osaka
 osal
 osan
+osar
 osas
 osek
 oseng
@@ -6692,6 +6697,7 @@ tempel
 tempik
 tempura
 temu
+temulawak
 ten
 tenan
 tenanan
