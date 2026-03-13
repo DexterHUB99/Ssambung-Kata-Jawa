@@ -1396,6 +1396,7 @@ ek
 eka
 ekal
 ekali
+ekam
 ekan
 ekane
 ekas
@@ -1770,6 +1771,7 @@ gampang
 gampar
 gampil
 gancet
+ganco
 gandai
 gandeng
 gandos
