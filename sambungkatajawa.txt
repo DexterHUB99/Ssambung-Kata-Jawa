@@ -5185,6 +5185,7 @@ nindakake
 ning
 ningali
 ninggal
+ningkat
 ningsih
 nini
 ninja
@@ -6692,6 +6693,7 @@ siwak
 siwur
 slamet
 slametan
+sleman
 so
 soale
 soasu
