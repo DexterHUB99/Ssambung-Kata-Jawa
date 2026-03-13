@@ -11,6 +11,7 @@ aber
 abi
 abil
 abis
+abon
 abot
 abrit
 abu
@@ -107,6 +108,7 @@ ahuh
 ahul
 ahur
 ahus
+ahuy
 ai
 aian
 aii
