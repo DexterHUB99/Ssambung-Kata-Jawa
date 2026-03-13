@@ -264,6 +264,7 @@ alur
 alus
 am
 ama
+amaa
 amah
 amal
 amalan
@@ -5275,6 +5276,7 @@ op
 opa
 opah
 opak
+opan
 opel
 open
 opera
@@ -5719,6 +5721,7 @@ puro
 purun
 pus
 puser
+pusi
 pusing
 put
 putih
