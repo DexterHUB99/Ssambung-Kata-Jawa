@@ -4657,6 +4657,7 @@ ondo
 ondol
 oneng
 ongkang
+ongkek
 ongkel
 ongkos
 online
@@ -6194,6 +6195,7 @@ ukka
 ukna
 uko
 ukon
+ukro
 uku
 ukuk
 ukul
