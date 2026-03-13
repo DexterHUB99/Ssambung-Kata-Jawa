@@ -4219,6 +4219,7 @@ mem
 memar
 meme
 memek
+men
 mendung
 mene
 meneh
@@ -4793,6 +4794,7 @@ ngejak
 ngejar
 ngejek
 ngek
+ngeko
 ngelag
 ngelak
 ngelakoni
@@ -6983,6 +6985,7 @@ tibak
 tiban
 tibano
 tibo
+tigan
 tik
 tika
 tikar
