@@ -2658,6 +2658,7 @@ jaya
 je
 jeglong
 jek
+jeke
 jelas
 jelek
 jem
@@ -4362,6 +4363,7 @@ ngelih
 ngeling
 ngelon
 ngeloni
+ngelor
 ngelu
 ngeluh
 ngeman
