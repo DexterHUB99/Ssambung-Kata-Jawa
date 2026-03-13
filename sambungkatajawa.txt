@@ -6199,6 +6199,7 @@ udur
 udut
 udutan
 uem
+uen
 ug
 uga
 ugal
