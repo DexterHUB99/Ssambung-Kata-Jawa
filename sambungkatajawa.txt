@@ -697,6 +697,7 @@ awe
 awet
 awis
 awit
+awok
 awong
 awor
 awu
@@ -2479,6 +2480,7 @@ hurung
 hus
 husen
 husna
+husne
 husuk
 hut
 huta
