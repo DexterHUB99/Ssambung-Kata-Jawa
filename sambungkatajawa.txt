@@ -1184,6 +1184,7 @@ don
 dong
 donga
 doni
+dora
 dore
 doro
 dorong
@@ -1985,6 +1986,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3385,6 +3387,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -6534,6 +6537,7 @@ yuh
 yuk
 yuka
 yuki
+yuli
 yun
 yuna
 yune
