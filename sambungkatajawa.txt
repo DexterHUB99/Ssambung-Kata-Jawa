@@ -5153,6 +5153,7 @@ ngik
 ngiki
 ngiku
 ngilang
+ngilekne
 ngiler
 ngili
 ngilo
@@ -8109,6 +8110,7 @@ yah
 yaho
 yai
 yak
+yaka
 yake
 yakin
 yali
