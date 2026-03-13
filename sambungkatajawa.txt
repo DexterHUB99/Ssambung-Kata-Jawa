@@ -2398,6 +2398,7 @@ ix
 iy
 iya
 iyan
+iyes
 iyo
 iyu
 iyuh
@@ -6088,6 +6089,7 @@ ungu
 uni
 unjar
 unjuk
+uno
 unta
 untal
 untel
