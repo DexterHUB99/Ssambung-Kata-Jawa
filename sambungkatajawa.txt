@@ -131,6 +131,7 @@ aimi
 aimu
 aina
 aing
+aini
 aio
 air
 aira
@@ -534,6 +535,7 @@ arjuna
 arjuno
 arogan
 aroh
+arok
 aron
 aros
 arsa
@@ -1253,6 +1255,7 @@ dilit
 dilok
 diluk
 dilut
+dim
 dima
 diman
 dimana
@@ -2616,6 +2619,7 @@ irup
 irus
 is
 isa
+isaa
 isai
 isak
 isam
@@ -2654,6 +2658,7 @@ isuk
 isun
 isya
 it
+ita
 itali
 ite
 item
@@ -2674,6 +2679,7 @@ iwir
 ix
 iy
 iya
+iyaa
 iyan
 iyes
 iyo
@@ -2829,6 +2835,7 @@ jun
 juni
 jupuk
 jur
+jura
 juru
 jus
 ka
@@ -3021,6 +3028,7 @@ kawula
 kawung
 kawus
 kaya
+kayak
 kayane
 kayu
 ke
@@ -3212,6 +3220,7 @@ kilen
 kim
 kima
 kiman
+kimi
 kimpul
 kin
 kina
@@ -3416,6 +3425,7 @@ kurban
 kuri
 kurma
 kurna
+kuro
 kursi
 kursii
 kuru
@@ -4792,6 +4802,7 @@ nguyu
 nguyuh
 ngwah
 ni
+nia
 niba
 nie
 nik
@@ -6283,6 +6294,7 @@ subuh
 subur
 suci
 sudah
+sude
 sudi
 sudukan
 sue
@@ -7212,6 +7224,7 @@ wonten
 woo
 wowo
 wudel
+wudhu
 wuh
 wujud
 wulan
