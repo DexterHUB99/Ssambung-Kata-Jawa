@@ -776,6 +776,7 @@ bab
 baba
 babai
 babi
+babon
 babu
 babuk
 baca
@@ -2587,6 +2588,7 @@ hudan
 hujan
 huk
 hukum
+hukuman
 hukume
 hukumen
 hula
