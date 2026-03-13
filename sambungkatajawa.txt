@@ -5423,6 +5423,7 @@ ny
 nya
 nyai
 nyala
+nyali
 nyam
 nyambel
 nyamuk
@@ -6817,6 +6818,7 @@ sipo
 sir
 sira
 sirah
+sirahe
 siram
 siraman
 sirep
