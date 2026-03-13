@@ -3659,6 +3659,7 @@ larut
 las
 lasa
 lasak
+lasan
 lase
 latah
 latar
@@ -5528,6 +5529,7 @@ payah
 payu
 payung
 pe
+pean
 peci
 pedang
 pede
@@ -7080,6 +7082,7 @@ ulah
 ulahan
 ulai
 ulakan
+ulala
 ulam
 ulama
 ulan
