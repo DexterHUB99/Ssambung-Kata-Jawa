@@ -1104,6 +1104,7 @@ cacing
 cadel
 cagak
 cah
+cak
 cakep
 cakot
 cakung
@@ -4687,6 +4688,7 @@ natal
 nawa
 nawang
 nawar
+nawari
 nawi
 naya
 ndak
@@ -4762,6 +4764,7 @@ nerima
 nerimo
 nerjang
 neros
+nerus
 nes
 nesa
 nesu
