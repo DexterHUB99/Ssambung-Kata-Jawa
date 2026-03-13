@@ -644,6 +644,7 @@ asah
 asai
 asak
 asal
+asale
 asam
 asap
 asar
@@ -2286,6 +2287,7 @@ gethok
 gethuk
 geti
 getih
+getir
 getok
 getuk
 getun
@@ -4266,6 +4268,7 @@ lunga
 lungguh
 lunging
 lungo
+lungsur
 lunjak
 luntur
 lunyu
@@ -6417,6 +6420,7 @@ rasak
 rasakan
 rasakno
 rasan
+rasane
 rasani
 rase
 rasi
@@ -7112,6 +7116,7 @@ sompral
 son
 songket
 songo
+sono
 sonten
 sop
 sopa
@@ -8115,6 +8120,7 @@ weo
 wer
 werna
 werno
+wero
 weruh
 wes
 wesa
