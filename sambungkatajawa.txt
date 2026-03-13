@@ -1455,6 +1455,7 @@ empedu
 empek
 emper
 empet
+empik
 emping
 emprit
 empu
@@ -3869,6 +3870,7 @@ nah
 naha
 nai
 naik
+nail
 najan
 najis
 nak
