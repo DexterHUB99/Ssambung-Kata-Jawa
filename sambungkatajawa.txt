@@ -1963,6 +1963,7 @@ geseng
 geser
 gesit
 gething
+gethok
 gethuk
 geti
 getih
