@@ -2333,6 +2333,7 @@ ih
 iha
 ihe
 ihi
+ihing
 ihma
 ihsan
 ija
@@ -6143,6 +6144,7 @@ taken
 takjil
 takon
 takut
+tal
 talas
 tale
 talenan
