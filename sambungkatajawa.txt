@@ -7188,6 +7188,7 @@ tolong
 tomat
 tombak
 tombok
+tomi
 tomo
 tompel
 ton
