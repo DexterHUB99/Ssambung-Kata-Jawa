@@ -2140,6 +2140,7 @@ huta
 hutan
 hutang
 ib
+iba
 ibadah
 ibu
 ibuk
