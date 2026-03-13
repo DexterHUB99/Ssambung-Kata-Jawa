@@ -973,6 +973,7 @@ bodok
 bojo
 bokek
 bokong
+bol
 bola
 boleh
 bolo
@@ -3842,6 +3843,7 @@ lemu
 lemut
 len
 lena
+leng
 lengen
 lenggah
 lengkuas
