@@ -2968,6 +2968,7 @@ jit
 jitak
 jiwa
 jo
+jodho
 joglo
 jogo
 jok
@@ -7438,6 +7439,7 @@ utan
 utang
 utar
 utara
+utaran
 utas
 utawa
 utawi
