@@ -6609,6 +6609,7 @@ sere
 sereng
 seres
 seret
+seri
 serius
 serong
 seru
@@ -7051,6 +7052,7 @@ teri
 terima
 terong
 terus
+tesi
 tet
 tete
 tetek
