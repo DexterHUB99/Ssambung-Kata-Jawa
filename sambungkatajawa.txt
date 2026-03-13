@@ -5354,6 +5354,7 @@ osar
 osas
 osek
 oseng
+oser
 osik
 osin
 osing
