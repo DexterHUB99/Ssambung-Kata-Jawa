@@ -2834,6 +2834,7 @@ irang
 iras
 iren
 ireng
+irenge
 ires
 iri
 irian
@@ -7558,6 +7559,7 @@ ungger
 unggul
 ungkal
 ungkap
+ungkapan
 ungkas
 ungkir
 ungu
