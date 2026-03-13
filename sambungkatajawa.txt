@@ -2511,6 +2511,7 @@ injuk
 insyaallah
 inti
 intil
+intine
 intinya
 intip
 inul
@@ -2739,6 +2740,7 @@ jini
 jinjing
 jinjit
 jinten
+jinwe
 jipuk
 jir
 jira
@@ -3669,6 +3671,7 @@ lose
 losi
 loso
 lotek
+lowe
 lowo
 lowong
 lowongan
