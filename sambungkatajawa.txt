@@ -105,6 +105,7 @@ ahul
 ahur
 ahus
 ai
+aika
 ail
 aima
 aina
@@ -1246,6 +1247,7 @@ edi
 edul
 eeh
 eg
+ega
 egak
 ego
 egrang
@@ -1641,6 +1643,7 @@ gamelan
 gamer
 gamis
 gampang
+gampar
 gampil
 gancet
 gandai
