@@ -4595,6 +4595,7 @@ nimbang
 nimbangi
 nimbul
 nimbun
+nimpal
 nin
 nina
 nindak
