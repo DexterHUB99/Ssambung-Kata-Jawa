@@ -55,7 +55,6 @@ aduh
 adus
 adzan
 ae
-aeng
 afa
 afe
 ag
@@ -276,7 +275,6 @@ alm
 alo
 aloe
 alon
-alos
 alot
 aloy
 alpukat
@@ -1149,7 +1147,6 @@ caruk
 cas
 cawe
 cawet
-cawi
 cawik
 cawis
 ce
@@ -3472,7 +3469,6 @@ kenduri
 kene
 kenek
 kenen
-kenetel
 keni
 kening
 kenok
@@ -5157,6 +5153,7 @@ ngik
 ngiki
 ngiku
 ngilang
+ngilekne
 ngiler
 ngili
 ngilo
@@ -6148,6 +6145,7 @@ pon
 ponakan
 pondok
 poni
+pono
 ponorogo
 poo
 pop
@@ -6169,7 +6167,6 @@ prajurit
 prakawis
 pranata
 prei
-pria
 pring
 pripun
 pu
@@ -8114,6 +8111,7 @@ yah
 yaho
 yai
 yak
+yaka
 yake
 yakin
 yali
@@ -8149,7 +8147,6 @@ yet
 yi
 yo
 yoan
-yoe
 yoga
 yogya
 yoh
