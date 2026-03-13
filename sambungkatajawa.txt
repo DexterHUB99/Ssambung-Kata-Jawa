@@ -1060,6 +1060,7 @@ col
 colek
 coli
 colo
+colok
 colong
 combro
 condong
@@ -2346,6 +2347,7 @@ ikian
 ikie
 ikih
 ikil
+ikiwe
 iklas
 iklim
 ikon
