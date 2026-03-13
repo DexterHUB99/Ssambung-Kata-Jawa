@@ -4868,6 +4868,7 @@ ngorok
 ngorong
 ngos
 ngosek
+ngosip
 ngosok
 ngosong
 ngoti
@@ -5250,6 +5251,7 @@ omboh
 ome
 omel
 omen
+omi
 omo
 omong
 omongan
@@ -6550,6 +6552,7 @@ sun
 sunan
 sunat
 sunda
+sundari
 sundel
 sunduk
 sundul
