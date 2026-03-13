@@ -4745,6 +4745,7 @@ ngemong
 ngempot
 ngemut
 ngen
+ngendah
 ngendang
 ngendeng
 ngendep
@@ -6314,6 +6315,7 @@ saren
 sareng
 sarep
 sari
+sarimi
 sarip
 sarna
 saru
