@@ -479,6 +479,7 @@ apalan
 apan
 apane
 apar
+apat
 ape
 apeg
 apek
@@ -6468,6 +6469,7 @@ tompel
 ton
 tongkol
 too
+top
 topa
 topeng
 topi
