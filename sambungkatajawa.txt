@@ -1681,6 +1681,7 @@ eno
 enok
 enol
 enom
+entar
 entas
 ente
 entek
