@@ -717,6 +717,7 @@ aul
 aulah
 aum
 auman
+aup
 aura
 aurip
 aus
@@ -4007,6 +4008,7 @@ lira
 liren
 liri
 lirih
+lirik
 liro
 liru
 lis
