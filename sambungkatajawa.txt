@@ -131,7 +131,6 @@ aimi
 aimu
 aina
 aing
-aini
 aio
 air
 aira
@@ -425,7 +424,6 @@ ani
 anie
 anif
 anig
-anih
 anik
 anin
 aning
@@ -536,7 +534,6 @@ arjuna
 arjuno
 arogan
 aroh
-arok
 aron
 aros
 arsa
@@ -883,7 +880,6 @@ bindeng
 bingung
 bini
 bintang
-bira
 biru
 bis
 bisa
@@ -1257,7 +1253,6 @@ dilit
 dilok
 diluk
 dilut
-dim
 dima
 diman
 dimana
@@ -1502,7 +1497,6 @@ elor
 elos
 elu
 eluh
-eluk
 elur
 elus
 elut
@@ -1648,7 +1642,6 @@ epoh
 epok
 epor
 epu
-epuh
 epus
 er
 era
@@ -1892,7 +1885,6 @@ gasal
 gasik
 gasing
 gasir
-gass
 gatau
 gatel
 gateli
@@ -2624,7 +2616,6 @@ irup
 irus
 is
 isa
-isaa
 isai
 isak
 isam
@@ -2663,7 +2654,6 @@ isuk
 isun
 isya
 it
-ita
 itali
 ite
 item
@@ -2684,7 +2674,6 @@ iwir
 ix
 iy
 iya
-iyaa
 iyan
 iyes
 iyo
@@ -2840,7 +2829,6 @@ jun
 juni
 jupuk
 jur
-jura
 juru
 jus
 ka
@@ -3033,7 +3021,6 @@ kawula
 kawung
 kawus
 kaya
-kayak
 kayane
 kayu
 ke
@@ -3225,7 +3212,6 @@ kilen
 kim
 kima
 kiman
-kimi
 kimpul
 kin
 kina
@@ -3430,7 +3416,6 @@ kurban
 kuri
 kurma
 kurna
-kuro
 kursi
 kursii
 kuru
@@ -3676,6 +3661,7 @@ lipen
 lipet
 lipi
 lipis
+lipit
 lipur
 lir
 lira
@@ -4670,6 +4656,7 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
+ngn
 ngnggo
 ngobah
 ngobat
@@ -4685,7 +4672,6 @@ ngok
 ngoke
 ngoko
 ngokop
-ngol
 ngolah
 ngoleh
 ngolek
@@ -4808,7 +4794,6 @@ nguyu
 nguyuh
 ngwah
 ni
-nia
 niba
 nie
 nik
@@ -5509,7 +5494,6 @@ pose
 posen
 posi
 potong
-poyo
 prajurit
 prakawis
 pranata
@@ -5824,7 +5808,6 @@ riyo
 ro
 roa
 rob
-roba
 robah
 roban
 roda
@@ -5920,6 +5903,7 @@ ruwet
 rw
 sa
 saa
+saan
 sabar
 saben
 sabi
@@ -6302,7 +6286,6 @@ subuh
 subur
 suci
 sudah
-sude
 sudi
 sudukan
 sue
@@ -7011,7 +6994,6 @@ usah
 usaha
 usai
 usak
-usan
 usap
 use
 usek
@@ -7233,7 +7215,6 @@ wonten
 woo
 wowo
 wudel
-wudhu
 wuh
 wujud
 wulan
