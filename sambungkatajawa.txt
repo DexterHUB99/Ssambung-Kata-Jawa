@@ -4675,6 +4675,7 @@ ngapusi
 ngar
 ngara
 ngarah
+ngaran
 ngarang
 ngarani
 ngare
@@ -6150,6 +6151,7 @@ roke
 roki
 rokok
 rolas
+rolo
 rom
 roma
 romah
