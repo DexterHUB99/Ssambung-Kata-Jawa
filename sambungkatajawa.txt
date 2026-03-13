@@ -3615,6 +3615,7 @@ lali
 lam
 lama
 lamaran
+lamban
 lambe
 lambemu
 lambene
