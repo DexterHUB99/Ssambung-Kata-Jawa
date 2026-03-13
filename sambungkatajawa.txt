@@ -3904,6 +3904,7 @@ lipur
 lir
 lira
 liren
+liri
 lirih
 liro
 liru
@@ -6381,6 +6382,7 @@ sampul
 sampun
 sampur
 sampurna
+samui
 san
 sana
 sandal
