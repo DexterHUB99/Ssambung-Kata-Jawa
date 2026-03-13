@@ -4767,6 +4767,7 @@ ngani
 nganjok
 nganjuk
 ngantel
+ngantemi
 nganter
 nganthi
 nganti
@@ -6827,6 +6828,7 @@ sue
 sugeh
 sugeng
 sugih
+suh
 sui
 sujud
 suk
