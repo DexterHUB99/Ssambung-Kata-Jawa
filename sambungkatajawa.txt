@@ -205,7 +205,6 @@ akum
 akumi
 akun
 akur
-akuran
 akut
 al
 ala
@@ -1832,7 +1831,6 @@ gampar
 gampil
 gancet
 ganco
-ganda
 gandai
 gandeng
 gandos
@@ -3671,7 +3669,6 @@ lipen
 lipet
 lipi
 lipis
-lipit
 lipur
 lir
 lira
@@ -4668,7 +4665,6 @@ nglon
 ngluwehi
 ngluwih
 ngluwihi
-ngn
 ngnggo
 ngobah
 ngobat
@@ -5084,7 +5080,6 @@ ombo
 omboh
 ome
 omel
-omen
 omo
 omong
 omongan
@@ -5916,7 +5911,6 @@ ruwet
 rw
 sa
 saa
-saan
 sabar
 saben
 sabi
@@ -6400,6 +6394,7 @@ sutra
 suwan
 suwe
 suwen
+suweng
 suwi
 suwir
 suwun
@@ -6878,6 +6873,7 @@ umbul
 ume
 umen
 umi
+umo
 umpa
 umpam
 umpama
