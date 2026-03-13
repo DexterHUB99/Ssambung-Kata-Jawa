@@ -1783,7 +1783,6 @@ gayung
 ge
 geber
 geblek
-gebug
 gedag
 gedang
 gede
@@ -2830,6 +2829,7 @@ kekal
 keke
 kel
 kela
+kelab
 kelam
 kelangan
 kelaran
@@ -3537,7 +3537,6 @@ madura
 madya
 mae
 maem
-mag
 mah
 maha
 mai
@@ -4557,6 +4556,7 @@ nusi
 nusul
 nut
 nuthuk
+nuti
 nutup
 nutur
 nuturi
@@ -5466,6 +5466,7 @@ sal
 salah
 salak
 salam
+salep
 sali
 salim
 salon
@@ -6632,7 +6633,6 @@ wun
 wusa
 xenon
 xilofon
-xray
 ya
 yaapa
 yaelah
@@ -6647,6 +6647,7 @@ yan
 yana
 yang
 yani
+yanko
 yano
 yare
 yas
