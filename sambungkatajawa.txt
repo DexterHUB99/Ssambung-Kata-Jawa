@@ -745,6 +745,7 @@ ban
 bancak
 banci
 bandeng
+bando
 bandrek
 bangke
 bangsat
@@ -3764,6 +3765,7 @@ madya
 mae
 maem
 mag
+magrib
 mah
 maha
 mai
@@ -5233,6 +5235,7 @@ pawan
 pawang
 pawon
 payah
+payu
 payung
 pe
 peci
