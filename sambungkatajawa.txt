@@ -4665,6 +4665,7 @@ ngamok
 ngampun
 ngamuk
 ngan
+ngana
 nganah
 ngancani
 ngancing
@@ -6261,6 +6262,7 @@ rumangsa
 rumangsane
 rumbi
 rumi
+rumit
 rumiyin
 rumput
 rumu
