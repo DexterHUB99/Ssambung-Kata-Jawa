@@ -2780,6 +2780,7 @@ irai
 irak
 iram
 irama
+irana
 irang
 iras
 iren
@@ -4379,6 +4380,7 @@ mudeng
 mudhun
 muga
 mugi
+mugih
 muh
 mujair
 muji
@@ -6304,6 +6306,7 @@ ruam
 ruang
 rubuh
 rugi
+rugimu
 ruh
 rui
 rujak
