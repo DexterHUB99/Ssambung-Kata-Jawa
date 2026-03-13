@@ -10,6 +10,7 @@ abdi
 aber
 abi
 abis
+aboh
 abot
 abrit
 abu
@@ -2040,6 +2041,7 @@ hiri
 hiruk
 his
 hisa
+hitam
 hitung
 hiu
 hla
@@ -2382,6 +2384,7 @@ jarang
 jare
 jari
 jarik
+jarum
 jasa
 jatah
 jati
@@ -2861,6 +2864,7 @@ kolot
 kom
 koma
 komen
+komodo
 kompak
 kompor
 kon
@@ -4819,7 +4823,6 @@ rambak
 ramban
 rambat
 rambatan
-rambi
 rambu
 rambut
 rambutan
@@ -5306,6 +5309,7 @@ sinden
 sing
 singa
 singgah
+singo
 sinom
 sinoman
 sinta
