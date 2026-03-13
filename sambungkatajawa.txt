@@ -1977,6 +1977,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -2173,6 +2174,7 @@ idep
 ider
 idih
 idin
+idma
 idu
 ieu
 ig
@@ -3373,6 +3375,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -4438,6 +4441,7 @@ nutur
 nuturi
 nuwun
 ny
+nya
 nyam
 nyambel
 nyamuk
