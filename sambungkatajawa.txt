@@ -1297,6 +1297,7 @@ di
 didak
 didi
 didik
+didin
 didol
 didu
 digawa
@@ -1467,6 +1468,7 @@ eeh
 eg
 ega
 egak
+egar
 egi
 ego
 egor
@@ -2526,6 +2528,7 @@ hut
 huta
 hutan
 hutang
+huti
 ib
 iba
 ibadah
