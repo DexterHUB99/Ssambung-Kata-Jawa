@@ -4704,6 +4704,7 @@ ngn
 ngnggo
 ngobah
 ngobat
+ngoblok
 ngobok
 ngobong
 ngobor
