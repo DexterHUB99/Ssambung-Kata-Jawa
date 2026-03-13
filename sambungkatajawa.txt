@@ -54,6 +54,7 @@ agak
 agal
 agama
 agami
+agaw
 agawe
 age
 agem
@@ -6916,6 +6917,7 @@ yare
 yas
 yasi
 yasin
+yat
 yati
 yawes
 yawis
