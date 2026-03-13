@@ -1284,6 +1284,7 @@ ehes
 ehey
 ehi
 ehid
+ehik
 ehil
 ehim
 ehip
@@ -1979,6 +1980,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3377,6 +3379,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -3920,6 +3923,7 @@ ngaji
 ngajia
 ngak
 ngakak
+ngakali
 ngakeh
 ngakon
 ngaku
@@ -5721,6 +5725,7 @@ ta
 tabah
 tabib
 tabir
+tabok
 tabuh
 tabung
 tabur
