@@ -1104,6 +1104,7 @@ dik
 dika
 dikep
 diki
+dikir
 dikit
 dikon
 dikongkon
@@ -1772,6 +1773,7 @@ gentong
 gentos
 genuk
 geol
+gepok
 geprek
 gepuk
 gerah
@@ -5698,6 +5700,7 @@ tentrem
 tenun
 tep
 tepa
+tepak
 tepe
 terang
 teras
