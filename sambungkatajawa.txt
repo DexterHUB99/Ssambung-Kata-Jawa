@@ -544,6 +544,7 @@ arwah
 as
 asa
 asah
+asai
 asak
 asal
 asam
@@ -4075,6 +4076,7 @@ nal
 nala
 nalangi
 nalar
+nalare
 nale
 nali
 nalik
@@ -5093,6 +5095,7 @@ paji
 pak
 pakan
 pakar
+pakdhe
 pake
 pakpuh
 paku
@@ -5976,6 +5979,7 @@ serius
 serong
 seru
 sesek
+sesok
 sesuk
 sesupe
 setan
