@@ -1980,6 +1980,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -3378,6 +3379,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
@@ -4630,6 +4632,7 @@ osan
 osek
 oseng
 osik
+osin
 osing
 osip
 osir
