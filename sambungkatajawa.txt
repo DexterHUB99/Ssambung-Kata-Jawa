@@ -1188,6 +1188,7 @@ dimas
 dimul
 dina
 dinan
+dinar
 dinas
 dinggo
 dingklik
@@ -3688,6 +3689,7 @@ mayak
 mayat
 mayit
 mbak
+mben
 mbengi
 mbok
 mbuh
@@ -3704,6 +3706,7 @@ mel
 melas
 melek
 melinjo
+melok
 melu
 mem
 memar
