@@ -1808,6 +1808,7 @@ ganjar
 ganjaran
 ganjel
 ganjil
+gano
 ganteng
 ganthi
 ganti
@@ -3089,6 +3090,7 @@ kerupuk
 kerutan
 kes
 kesah
+kesasar
 kesat
 kese
 kesed
@@ -4765,6 +4767,7 @@ nresnani
 nrimo
 nu
 nua
+nub
 nudu
 nuduh
 nuduhi
