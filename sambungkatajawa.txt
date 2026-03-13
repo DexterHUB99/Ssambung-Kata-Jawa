@@ -1364,6 +1364,7 @@ edah
 edan
 edar
 edi
+edo
 edul
 edus
 eeh
@@ -6197,6 +6198,7 @@ sungkem
 sungu
 suni
 suntuk
+sunyi
 sup
 supados
 supan
