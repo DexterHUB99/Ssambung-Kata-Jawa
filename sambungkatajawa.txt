@@ -980,7 +980,6 @@ ciduk
 cik
 cikal
 ciki
-cila
 cilaka
 cili
 cilik
@@ -1648,6 +1647,7 @@ gagar
 gagas
 gagasan
 gage
+gagu
 gaguna
 gah
 gairah
@@ -1673,7 +1673,6 @@ galok
 galon
 galung
 galungan
-gama
 gaman
 gambang
 gambar
