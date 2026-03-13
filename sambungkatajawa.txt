@@ -1210,6 +1210,7 @@ colo
 colok
 colong
 combro
+como
 condong
 congok
 congor
@@ -2791,6 +2792,7 @@ inep
 iner
 ines
 ing
+ingah
 ingat
 inggal
 inggih
@@ -3772,6 +3774,7 @@ kuti
 kutilang
 kutu
 kutuk
+kuwa
 kuwalat
 kuwe
 kuwi
