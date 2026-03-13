@@ -5079,6 +5079,7 @@ pira
 pirang
 piring
 piro
+piruk
 pis
 pisa
 pisah
@@ -5660,6 +5661,7 @@ segoro
 seh
 sehat
 sek
+seka
 sekawan
 seke
 sekek
