@@ -103,7 +103,6 @@ ahur
 ahus
 ai
 ail
-aima
 aina
 aing
 air
@@ -706,7 +705,6 @@ bela
 belah
 belang
 belek
-beler
 beli
 belo
 belu
@@ -2154,7 +2152,6 @@ ilih
 ilik
 ililang
 iling
-ilingo
 ilir
 ilis
 ilmu
@@ -4906,6 +4903,7 @@ remuk
 ren
 rena
 renang
+rencana
 rencang
 rendang
 rendem
@@ -5611,6 +5609,7 @@ tili
 tim
 tima
 timah
+timan
 timang
 timba
 timbal
@@ -5774,6 +5773,7 @@ ugo
 ugung
 uh
 uha
+uhi
 uho
 uja
 ujar
