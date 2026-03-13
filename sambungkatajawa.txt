@@ -1171,6 +1171,7 @@ cunduk
 curu
 curut
 cusu
+cuti
 cuyu
 dab
 dablek
@@ -5755,6 +5756,7 @@ pusi
 pusing
 put
 putih
+puting
 putra
 putri
 putu
