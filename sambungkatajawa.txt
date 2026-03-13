@@ -3741,6 +3741,7 @@ makam
 makan
 makane
 make
+maki
 malah
 malam
 malang
@@ -5882,6 +5883,7 @@ sayor
 sayur
 se
 sebah
+seda
 sedan
 sedeng
 sedina
