@@ -1708,6 +1708,7 @@ ewuh
 ex
 eya
 eyak
+eyam
 eyang
 eyu
 eyup
@@ -4495,6 +4496,7 @@ ngiris
 ngirit
 ngisak
 ngiseng
+ngiser
 ngisi
 ngisin
 ngising
