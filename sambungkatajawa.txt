@@ -3023,6 +3023,7 @@ kecapi
 kece
 kecel
 kecelek
+kecewa
 kecut
 kedah
 keder
@@ -3385,6 +3386,7 @@ kunjur
 kuno
 kunti
 kuntul
+kunyuk
 kup
 kupas
 kupat
@@ -3703,6 +3705,7 @@ longgar
 longgo
 longor
 longsor
+lonjak
 lonjong
 lontar
 lonte
