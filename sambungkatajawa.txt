@@ -5292,6 +5292,7 @@ pede
 pedes
 pedot
 pegel
+peju
 pek
 peka
 pekan
@@ -5960,6 +5961,7 @@ sanjang
 sano
 santai
 santen
+santri
 santun
 sanur
 sao
