@@ -118,6 +118,7 @@ aika
 ail
 aila
 aima
+aimi
 aina
 aing
 aio
@@ -204,6 +205,7 @@ alangan
 alap
 alas
 alasa
+alasan
 alat
 alay
 ale
@@ -5902,6 +5904,7 @@ sori
 sos
 sose
 sosi
+sosiji
 sotel
 soto
 sowan
