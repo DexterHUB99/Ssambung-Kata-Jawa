@@ -406,6 +406,7 @@ ansur
 anta
 antar
 antara
+antek
 antem
 anteman
 anteng
@@ -542,6 +543,7 @@ asuh
 asui
 asuk
 asul
+asun
 asup
 asupan
 asus
@@ -4572,6 +4574,7 @@ olaha
 olahan
 olahraga
 olak
+olas
 ole
 oleh
 olek
