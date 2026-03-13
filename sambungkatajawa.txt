@@ -5796,6 +5796,7 @@ pethuk
 peti
 petruk
 peye
+peyek
 pi
 pia
 piano
