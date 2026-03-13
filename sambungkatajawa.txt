@@ -912,6 +912,7 @@ bungkus
 buntut
 bunuh
 bur
+burik
 buron
 buru
 buruh
@@ -6818,6 +6819,7 @@ yut
 yuyu
 yuyun
 zakat
+zat
 ze
 ziarah
 zina
