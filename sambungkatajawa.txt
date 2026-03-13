@@ -3694,6 +3694,7 @@ kuno
 kunti
 kuntul
 kunyuk
+kuo
 kup
 kupas
 kupat
@@ -5660,6 +5661,7 @@ pagus
 paguyupan
 pahing
 pahit
+paido
 paijo
 painem
 paing
