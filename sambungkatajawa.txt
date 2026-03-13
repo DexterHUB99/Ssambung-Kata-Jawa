@@ -4622,6 +4622,7 @@ nguntal
 ngunu
 ngunung
 ngunut
+ngupah
 ngupaya
 ngupi
 ngupil
@@ -6070,6 +6071,7 @@ sos
 sose
 sosi
 sosiji
+sosis
 sosok
 sotel
 soto
