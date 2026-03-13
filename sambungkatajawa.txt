@@ -3387,6 +3387,7 @@ lamongan
 lampah
 lampar
 lamper
+lampir
 lampu
 lampung
 lamu
@@ -4589,6 +4590,7 @@ ngrayu
 ngret
 ngrit
 ngrumat
+nguber
 ngucap
 ngucek
 ngudang
