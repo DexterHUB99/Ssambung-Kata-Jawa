@@ -1980,7 +1980,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -3379,7 +3378,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
@@ -4672,6 +4670,7 @@ paguyupan
 pahing
 pahit
 paijo
+painem
 paing
 pait
 pajak
@@ -5279,6 +5278,7 @@ rus
 rusa
 rusak
 rusaken
+ruso
 rusuh
 rut
 ruti
