@@ -2542,6 +2542,7 @@ hori
 hormat
 horo
 horog
+hote
 hotel
 howo
 hp
