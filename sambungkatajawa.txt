@@ -686,6 +686,7 @@ ayan
 ayang
 ayani
 ayar
+ayat
 aye
 ayem
 ayep
@@ -2280,6 +2281,7 @@ hera
 heran
 here
 heri
+hero
 hes
 hesen
 hesi
