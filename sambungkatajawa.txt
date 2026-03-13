@@ -660,6 +660,7 @@ asui
 asuk
 asul
 asun
+asune
 asup
 asupan
 asus
