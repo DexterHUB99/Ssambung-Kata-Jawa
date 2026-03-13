@@ -5547,6 +5547,7 @@ selawe
 sele
 selep
 selet
+selimut
 selir
 semak
 semar
@@ -5558,6 +5559,7 @@ semen
 semok
 sempak
 sempit
+semprul
 semu
 semut
 sen
