@@ -1485,6 +1485,7 @@ endog
 endong
 ene
 eneg
+eneh
 enek
 enel
 enem
