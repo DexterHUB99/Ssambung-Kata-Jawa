@@ -2506,6 +2506,7 @@ ihha
 ihi
 ihing
 ihka
+ihli
 ihma
 iho
 ihsan
@@ -6404,6 +6405,7 @@ sio
 sip
 sipa
 sipit
+sipo
 sir
 sira
 sirah
@@ -7475,6 +7477,7 @@ yake
 yakin
 yali
 yam
+yamaha
 yaman
 yan
 yana
