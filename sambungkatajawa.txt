@@ -114,6 +114,7 @@ ahline
 ahlu
 ahlul
 aho
+ahoe
 ahoh
 ahok
 ahon
@@ -476,6 +477,7 @@ anjuk
 anjur
 anjuran
 ano
+anoe
 anom
 anoman
 anot
