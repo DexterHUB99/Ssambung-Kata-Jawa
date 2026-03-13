@@ -3596,6 +3596,7 @@ lomot
 lompat
 lon
 loncat
+lonceng
 londho
 longgar
 longgo
@@ -4691,6 +4692,7 @@ nokoh
 nol
 nolak
 noleh
+noli
 nom
 nombak
 nombok
@@ -5288,6 +5290,7 @@ pora
 poran
 pore
 pori
+poron
 pos
 pose
 posen
