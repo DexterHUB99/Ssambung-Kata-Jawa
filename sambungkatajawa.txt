@@ -2603,6 +2603,7 @@ hori
 hormat
 horo
 horog
+hot
 hote
 hotel
 hotma
@@ -3215,6 +3216,7 @@ kalong
 kalung
 kam
 kama
+kaman
 kamar
 kambi
 kambil
@@ -3298,6 +3300,7 @@ kas
 kasa
 kasang
 kasar
+kasat
 kasep
 kaset
 kasi
