@@ -336,6 +336,7 @@ ancaman
 ancang
 ancase
 ancen
+ancer
 ancik
 anco
 ancok
@@ -4148,6 +4149,7 @@ ndoro
 nduk
 nduwe
 ne
+neda
 nedah
 nedha
 nedho
@@ -4492,6 +4494,7 @@ ngimbar
 ngimi
 ngimpi
 ngin
+ngina
 nging
 nginjak
 ngintik
@@ -6257,6 +6260,7 @@ tanduran
 tangan
 tangeh
 tangga
+tanggung
 tangi
 tani
 tanpa
