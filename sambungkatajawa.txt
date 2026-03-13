@@ -2886,6 +2886,7 @@ kobel
 kobis
 kobong
 kocak
+koclok
 kodok
 koe
 koen
@@ -5881,6 +5882,7 @@ udu
 udud
 uduk
 udun
+udunen
 udur
 udut
 udutan
