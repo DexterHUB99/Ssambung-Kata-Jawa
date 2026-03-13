@@ -3419,6 +3419,7 @@ laos
 lap
 lapak
 lapar
+lapi
 lapis
 lapo
 lar
@@ -5606,6 +5607,7 @@ rila
 rilis
 rim
 rima
+rimu
 rin
 rina
 rinci
