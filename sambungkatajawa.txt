@@ -1234,6 +1234,7 @@ delima
 delman
 delo
 delu
+dem
 dema
 demak
 demek
@@ -2367,6 +2368,7 @@ hero
 hes
 hesen
 hesi
+hesti
 heti
 hi
 hias
@@ -5983,6 +5985,7 @@ rombong
 rombongan
 rome
 romi
+romlah
 romo
 rompi
 ron
