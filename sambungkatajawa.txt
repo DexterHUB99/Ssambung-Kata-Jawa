@@ -1359,6 +1359,7 @@ ekon
 ekor
 ekot
 eku
+ekun
 ekur
 el
 ela
