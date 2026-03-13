@@ -2088,6 +2088,7 @@ has
 hasa
 hasan
 hase
+hasem
 hasi
 hasil
 hasrat
