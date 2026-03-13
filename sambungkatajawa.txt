@@ -5259,6 +5259,7 @@ rai
 raib
 raie
 raimu
+raimuasu
 raine
 raio
 raiso
