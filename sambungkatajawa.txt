@@ -103,6 +103,7 @@ ahur
 ahus
 ai
 ail
+aima
 aina
 aing
 air
@@ -705,6 +706,7 @@ bela
 belah
 belang
 belek
+beler
 beli
 belo
 belu
@@ -960,7 +962,6 @@ col
 colek
 coli
 colo
-colok
 colong
 combro
 condong
@@ -1523,6 +1524,7 @@ etuh
 etuk
 etung
 etus
+ev
 ew
 ewang
 ewe
@@ -1996,6 +1998,7 @@ he
 heal
 hebat
 heboh
+hee
 heh
 heha
 hehe
@@ -2101,7 +2104,6 @@ igak
 igus
 ih
 iha
-ihi
 ihsan
 ija
 ijab
@@ -2154,6 +2156,7 @@ ilih
 ilik
 ililang
 iling
+ilingo
 ilir
 ilis
 ilmu
@@ -2539,7 +2542,6 @@ kancil
 kancing
 kancut
 kandang
-kandani
 kandha
 kandut
 kane
@@ -3407,6 +3409,7 @@ maya
 mayak
 mayat
 mbak
+mbengi
 mbok
 mbuh
 me
@@ -4375,7 +4378,6 @@ onco
 oncom
 onde
 ondha
-ondo
 ondol
 oneng
 ongkang
@@ -4385,7 +4387,6 @@ online
 ono
 onta
 ontang
-ontel
 onthel
 onto
 oo
@@ -4724,7 +4725,6 @@ puja
 puki
 pukul
 pula
-puli
 pulsa
 puluh
 pun
@@ -4864,6 +4864,7 @@ raut
 rawa
 rawan
 rawe
+rawi
 rawon
 rawuh
 rayap
@@ -4909,7 +4910,6 @@ remuk
 ren
 rena
 renang
-rencana
 rencang
 rendang
 rendem
@@ -5429,7 +5429,6 @@ supaya
 supe
 supen
 supi
-supoyo
 sur
 sura
 surai
@@ -5616,7 +5615,6 @@ tili
 tim
 tima
 timah
-timan
 timang
 timba
 timbal
@@ -5780,7 +5778,6 @@ ugo
 ugung
 uh
 uha
-uhi
 uho
 uja
 ujar
@@ -6191,6 +6188,7 @@ yosa
 yosan
 yowes
 yowis
+yoyo
 yu
 yuda
 yudha
