@@ -790,6 +790,7 @@ bimo
 bin
 bina
 bindeng
+bingung
 bintang
 biru
 bis
@@ -1973,7 +1974,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -2115,6 +2115,7 @@ ho
 hobi
 hoe
 hoh
+hoho
 holi
 homo
 hono
@@ -3365,7 +3366,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
@@ -4012,6 +4012,7 @@ ngati
 ngatuk
 ngatur
 ngaturaken
+ngaturi
 ngaub
 ngawa
 ngawal
@@ -4471,6 +4472,7 @@ ogoh
 ogol
 oh
 ohh
+ohhh
 oho
 ohya
 oj
@@ -6143,6 +6145,7 @@ undhi
 undi
 unduh
 undur
+unek
 unem
 unen
 ung
