@@ -4784,7 +4784,6 @@ nete
 neteh
 netek
 netes
-ngabari
 ngabekti
 ngaben
 ngaca
@@ -5327,7 +5326,6 @@ nikmat
 niko
 niku
 nikung
-nikus
 nil
 nila
 nilai
@@ -5772,7 +5770,6 @@ pacik
 pacol
 pacul
 pada
-padahal
 padang
 padaran
 padas
