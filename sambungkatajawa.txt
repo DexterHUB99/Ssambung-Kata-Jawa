@@ -1431,6 +1431,7 @@ enggon
 engkang
 engklek
 engko
+engkok
 engkol
 eni
 enik
@@ -4502,6 +4503,7 @@ om
 oma
 omah
 omahe
+omahku
 oman
 ombak
 ombe
@@ -6383,6 +6385,7 @@ wuli
 wulo
 wulu
 wun
+wusa
 xenon
 xilofon
 ya
