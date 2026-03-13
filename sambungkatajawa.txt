@@ -208,6 +208,7 @@ akip
 akir
 akit
 ako
+akoe
 akol
 akon
 akoni
@@ -474,7 +475,6 @@ anik
 anin
 aning
 anis
-anit
 anja
 anjani
 anjar
@@ -488,7 +488,6 @@ anjlok
 anjlokake
 anjng
 anjog
-anjok
 anjrit
 anjuk
 anjung
@@ -502,7 +501,6 @@ anot
 ansur
 anta
 antah
-antam
 antar
 antara
 antarane
@@ -533,7 +531,6 @@ anyaman
 anyar
 anyep
 anyer
-anyes
 anying
 anyir
 ap
@@ -556,7 +553,6 @@ apem
 apes
 api
 apik
-apip
 apit
 apo
 apol
@@ -687,7 +683,6 @@ at
 ata
 atah
 atak
-atam
 atap
 atar
 atas
@@ -783,6 +778,7 @@ ayep
 ayi
 ayir
 ayo
+ayoe
 ayok
 ayu
 ayuh
@@ -869,7 +865,6 @@ bathuk
 bati
 bato
 batok
-batu
 bau
 bawal
 bawok
@@ -1290,7 +1285,6 @@ dalih
 dalu
 dam
 damai
-damar
 damel
 damen
 dami
@@ -1436,7 +1430,6 @@ disit
 disu
 dit
 ditulung
-diwa
 dluwang
 do
 doa
@@ -1689,7 +1682,6 @@ eman
 emane
 emang
 emas
-emat
 ematane
 emba
 embah
@@ -1751,6 +1743,7 @@ encok
 endah
 endang
 endas
+endasmu
 endek
 endel
 endhas
@@ -2540,7 +2533,6 @@ heh
 heha
 hehe
 hei
-heka
 hela
 hele
 heli
@@ -2671,7 +2663,6 @@ ibu
 ibuk
 ica
 ical
-icip
 icu
 id
 ida
@@ -2701,7 +2692,6 @@ ihi
 ihing
 ihka
 ihli
-ihlo
 ihma
 iho
 ihsan
@@ -3013,7 +3003,6 @@ jait
 jaja
 jajal
 jajan
-jak
 jaket
 jala
 jalan
@@ -3087,7 +3076,6 @@ jero
 jeruk
 ji
 jidat
-jigong
 jijih
 jijik
 jika
@@ -3488,7 +3476,6 @@ kepriben
 kepriye
 ker
 kera
-kerah
 keramas
 kerang
 keranjingan
@@ -3553,7 +3540,6 @@ ketup
 ketupat
 ketut
 kewan
-kewek
 ki
 kiai
 kicep
@@ -3611,7 +3597,6 @@ kiriman
 kiris
 kis
 kisa
-kisan
 kisi
 kit
 kita
@@ -3934,7 +3919,6 @@ lathi
 lati
 latih
 latihan
-lato
 laut
 laute
 lawa
@@ -3954,7 +3938,6 @@ layar
 layu
 le
 leak
-leba
 lebah
 lebu
 lecet
@@ -4465,7 +4448,6 @@ mini
 minta
 minum
 mirah
-mirengake
 miri
 miring
 mirip
@@ -4562,7 +4544,6 @@ mulus
 mulya
 mumbul
 mumet
-mumi
 mumpung
 munafik
 mundak
@@ -4652,6 +4633,7 @@ namamu
 namba
 nambah
 nambai
+nambal
 name
 nami
 namine
@@ -4693,7 +4675,6 @@ nangkring
 nani
 nantang
 nanti
-nao
 naon
 nap
 napa
@@ -4713,7 +4694,6 @@ nari
 narik
 narimo
 narkoba
-naro
 nas
 nasa
 nasai
@@ -4724,7 +4704,6 @@ nastar
 nat
 nata
 natal
-natap
 nawa
 nawang
 nawar
@@ -4813,7 +4792,6 @@ nete
 neteh
 netek
 netes
-ngabari
 ngabekti
 ngaben
 ngaca
@@ -4856,7 +4834,6 @@ ngala
 ngalah
 ngalahi
 ngalam
-ngalami
 ngalas
 ngale
 ngaleh
@@ -5268,7 +5245,6 @@ ngrayu
 ngret
 ngrit
 ngrumat
-ngrusak
 nguber
 ngubur
 ngucap
@@ -5304,7 +5280,6 @@ ngumpet
 ngumpul
 ngumpulake
 nguna
-nguncal
 ngundang
 ngunduh
 ngundur
@@ -5359,7 +5334,6 @@ nikmat
 niko
 niku
 nikung
-nikus
 nil
 nila
 nilai
@@ -5405,7 +5379,6 @@ nisi
 nising
 nista
 nit
-nita
 niten
 niti
 nitih
@@ -5465,7 +5438,6 @@ nrimo
 nu
 nua
 nub
-nubruk
 nudu
 nuduh
 nuduhi
@@ -5486,7 +5458,6 @@ numan
 numbal
 numbas
 numbuk
-numpah
 numpak
 numpaki
 numpang
@@ -5808,7 +5779,6 @@ pacik
 pacol
 pacul
 pada
-padahal
 padang
 padaran
 padas
@@ -6104,7 +6074,6 @@ po
 pocong
 podho
 poe
-poho
 pojok
 pojokan
 poke
@@ -6555,7 +6524,6 @@ rowo
 royal
 ru
 rua
-ruah
 ruam
 ruang
 rubuh
@@ -6593,7 +6561,6 @@ rungkad
 rungkut
 rungsing
 rungu
-runi
 runtuh
 runtut
 ruo
@@ -6729,7 +6696,6 @@ sap
 sapa
 sapi
 sapih
-sapir
 sapu
 saput
 sar
@@ -7747,7 +7713,6 @@ up
 upa
 upacara
 upah
-upaku
 upam
 upan
 upang
@@ -8156,7 +8121,6 @@ yuda
 yudha
 yudi
 yuh
-yui
 yuk
 yuka
 yuki
