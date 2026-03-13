@@ -1626,6 +1626,7 @@ gage
 gaguna
 gah
 gairah
+gaja
 gajah
 gaje
 gajelas
@@ -1984,6 +1985,7 @@ gusi
 gusti
 gusur
 gut
+guta
 guwa
 guyon
 guyu
@@ -2231,6 +2233,7 @@ iku
 ikui
 ikut
 il
+ila
 ilah
 ilahi
 ilak
@@ -3383,6 +3386,7 @@ lowo
 lowong
 lowongan
 loyo
+lsp
 lu
 luang
 luber
