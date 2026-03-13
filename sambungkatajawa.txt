@@ -3933,6 +3933,7 @@ ngado
 ngadoh
 ngadu
 ngaduk
+ngadus
 ngae
 ngagem
 ngajak
@@ -4827,6 +4828,7 @@ peniti
 pensil
 pentil
 pentung
+pepaya
 pepek
 pepes
 pera
