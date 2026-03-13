@@ -1970,6 +1970,7 @@ hadeh
 hadiah
 hadir
 hadist
+hae
 hafal
 hah
 haha
@@ -2371,6 +2372,7 @@ istirahat
 istri
 isu
 isuk
+isya
 it
 ite
 item
@@ -3154,6 +3156,7 @@ lawan
 lawang
 lawas
 lawe
+lawih
 lawu
 lawuh
 layah
@@ -5811,6 +5814,7 @@ titik
 titikan
 titip
 titis
+titit
 tiwas
 tiyang
 to
