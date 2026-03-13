@@ -3397,6 +3397,7 @@ lololo
 lolos
 lom
 loman
+lomba
 lombok
 lomi
 lompat
@@ -3491,6 +3492,7 @@ mada
 madang
 madhang
 madi
+mados
 madu
 madura
 madya
@@ -4494,6 +4496,7 @@ nunjuk
 nuntun
 nunung
 nunut
+nup
 nur
 nure
 nuri
@@ -4663,6 +4666,7 @@ open
 opera
 opes
 opet
+opini
 opo
 opon
 opor
@@ -4693,6 +4697,7 @@ oros
 orotan
 os
 osah
+osaha
 osaka
 osal
 osan
