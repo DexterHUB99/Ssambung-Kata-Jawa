@@ -719,6 +719,7 @@ beni
 benjol
 benten
 bentrok
+beo
 berak
 berek
 berkah
@@ -2287,6 +2288,7 @@ isu
 isuk
 it
 item
+itik
 itil
 itung
 iw
@@ -5746,6 +5748,7 @@ ukaran
 ukarane
 ukas
 uker
+uki
 ukir
 ukiran
 ukon
@@ -6085,6 +6088,7 @@ wulan
 wuli
 wulu
 wun
+xenon
 xilofon
 ya
 yaapa
