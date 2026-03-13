@@ -1406,6 +1406,7 @@ emur
 emut
 en
 ena
+enah
 enak
 enake
 enal
@@ -3250,6 +3251,7 @@ lih
 lihat
 lik
 lika
+likan
 liku
 lila
 lilin
@@ -4631,6 +4633,7 @@ padang
 padaran
 padas
 padasan
+padha
 pados
 padu
 padune
