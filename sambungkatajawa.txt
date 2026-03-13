@@ -325,6 +325,7 @@ andong
 andu
 anduk
 andum
+andus
 ane
 aneh
 anek
@@ -709,6 +710,7 @@ begja
 bego
 beh
 beja
+bejad
 bejan
 bejo
 bejur
@@ -4429,6 +4431,7 @@ olahraga
 olak
 ole
 oleh
+olek
 oleng
 oler
 oles
@@ -5778,6 +5781,7 @@ titah
 titen
 titi
 titik
+titikan
 titip
 titis
 tiwas
