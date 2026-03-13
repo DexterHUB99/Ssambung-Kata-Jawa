@@ -6097,6 +6097,7 @@ rasan
 rasani
 rase
 rasi
+rasik
 rasim
 rasis
 raso
@@ -7825,6 +7826,7 @@ ye
 yekti
 yen
 yep
+yer
 yes
 yesa
 yesi
