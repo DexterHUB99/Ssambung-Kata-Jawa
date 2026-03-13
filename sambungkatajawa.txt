@@ -101,7 +101,6 @@ ahuh
 ahul
 ahur
 ahus
-ai
 aing
 air
 aja
@@ -719,6 +718,7 @@ beni
 benjol
 benten
 bentrok
+beo
 berak
 berek
 berkah
@@ -2287,6 +2287,7 @@ isu
 isuk
 it
 item
+itik
 itil
 itung
 iw
@@ -3062,7 +3063,6 @@ legawa
 legi
 leh
 lek
-lekas
 lekat
 lele
 lelembut
@@ -4383,7 +4383,6 @@ orep
 ori
 orie
 orok
-orong
 oros
 orotan
 os
@@ -4394,7 +4393,6 @@ osan
 osek
 oseng
 osik
-osing
 osip
 osir
 osok
@@ -4565,7 +4563,6 @@ pi
 pia
 piano
 picek
-pie
 pih
 pijat
 pijet
