@@ -85,6 +85,7 @@ ahin
 ahir
 ahire
 ahis
+ahlak
 ahli
 ahlian
 ahline
@@ -739,6 +740,7 @@ besuk
 besuki
 betah
 beto
+bi
 biak
 biang
 biasa
@@ -2107,7 +2109,6 @@ igo
 igus
 ih
 iha
-ihi
 ihsan
 ija
 ijab
@@ -3216,6 +3217,7 @@ lok
 loka
 lokan
 lola
+loli
 loloh
 lolos
 lom
@@ -3890,6 +3892,7 @@ ngawu
 ngawur
 ngayah
 ngayal
+nge
 ngebo
 ngece
 ngecek
@@ -4151,7 +4154,6 @@ ngwah
 ni
 niba
 nik
-nika
 nikah
 nikahan
 niki
@@ -4974,7 +4976,6 @@ rindu
 ringkas
 ringkih
 rini
-rio
 rip
 ripa
 riri
@@ -5283,6 +5284,7 @@ sil
 sila
 silah
 silam
+sile
 silet
 sili
 silih
@@ -5329,6 +5331,7 @@ sisih
 sisik
 sisil
 sisir
+sita
 siter
 sithik
 siti
@@ -5443,6 +5446,7 @@ suni
 suntuk
 sup
 supados
+supan
 supaya
 supe
 supen
@@ -5506,6 +5510,7 @@ tali
 tam
 tama
 tamah
+taman
 tamba
 tambah
 tambak
@@ -5911,6 +5916,7 @@ ungkap
 ungkas
 ungkir
 ungu
+uni
 unjar
 unjuk
 unta
@@ -5990,7 +5996,6 @@ usil
 usir
 usko
 ustadz
-usu
 usuk
 usung
 usus
