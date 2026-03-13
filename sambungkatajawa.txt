@@ -2263,6 +2263,7 @@ hiri
 hiruk
 his
 hisa
+hise
 hitam
 hitung
 hiu
@@ -6381,6 +6382,7 @@ tiyang
 tni
 to
 tobat
+toe
 toh
 tok
 toke
