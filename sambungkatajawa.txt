@@ -1786,6 +1786,7 @@ game
 gamel
 gamelan
 gamer
+gami
 gamis
 gampang
 gampar
