@@ -3835,6 +3835,7 @@ lanjut
 lantai
 lantang
 lantas
+lante
 lanti
 lantip
 lantur
