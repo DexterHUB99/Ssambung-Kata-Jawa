@@ -2959,6 +2959,7 @@ kacang
 kacau
 kacek
 kacir
+kacok
 kacuk
 kacung
 kadal
@@ -6126,6 +6127,7 @@ rung
 rungkad
 rungkut
 rungsing
+rungu
 runtuh
 ruo
 rup
