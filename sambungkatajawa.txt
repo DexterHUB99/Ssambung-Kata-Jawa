@@ -5526,6 +5526,7 @@ runtuh
 ruo
 rup
 rupa
+rupamu
 rupo
 rus
 rusa
@@ -5627,6 +5628,7 @@ sangon
 sangu
 sani
 sanjang
+sano
 santai
 santen
 santun
@@ -6691,6 +6693,7 @@ wayang
 wayangan
 we
 wea
+web
 wedan
 wedang
 wedhang
