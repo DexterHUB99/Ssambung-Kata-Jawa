@@ -10,6 +10,7 @@ abdi
 aber
 abi
 abis
+aboh
 abot
 abrit
 abu
@@ -1785,6 +1786,7 @@ gih
 gila
 gilane
 gilang
+gilani
 gili
 giling
 gilo
@@ -1965,6 +1967,7 @@ hani
 hansip
 hantam
 hantu
+hanyo
 hap
 hapa
 hape
@@ -2040,6 +2043,7 @@ hiri
 hiruk
 his
 hisa
+hitam
 hitung
 hiu
 hla
@@ -2081,6 +2085,7 @@ hura
 hurip
 huru
 huruf
+hurung
 hus
 husen
 husna
@@ -2109,7 +2114,6 @@ igo
 igus
 ih
 iha
-ihma
 ihsan
 ija
 ijab
@@ -2383,6 +2387,7 @@ jarang
 jare
 jari
 jarik
+jarum
 jasa
 jatah
 jati
@@ -2462,6 +2467,7 @@ joran
 jore
 jori
 jorok
+jorong
 jos
 jotos
 jujur
@@ -2862,6 +2868,7 @@ kolot
 kom
 koma
 komen
+komodo
 kompak
 kompor
 kon
@@ -3096,6 +3103,7 @@ layar
 layu
 le
 leak
+lebah
 lee
 lega
 legawa
@@ -3197,6 +3205,7 @@ lisa
 lisan
 lise
 lit
+liwa
 liwat
 liwet
 liya
@@ -3492,6 +3501,7 @@ miskin
 misuh
 mitoni
 mlaku
+mlayu
 mlebu
 mo
 mobil
@@ -3608,6 +3618,7 @@ nakon
 nakoni
 nakula
 nala
+nalang
 nalangi
 nalar
 nali
@@ -3670,6 +3681,7 @@ narasi
 nari
 narik
 narimo
+naro
 nas
 nasa
 nasai
@@ -4333,7 +4345,6 @@ ok
 oka
 okan
 okar
-okas
 oke
 okea
 okee
@@ -4389,7 +4400,6 @@ ompol
 ompong
 ompreng
 on
-onang
 onar
 oncek
 onco
@@ -4822,7 +4832,6 @@ rambak
 ramban
 rambat
 rambatan
-rambi
 rambu
 rambut
 rambutan
@@ -4978,6 +4987,7 @@ rina
 rinci
 rindhik
 rindu
+ringin
 ringkas
 ringkih
 rini
@@ -5172,6 +5182,7 @@ sarep
 sari
 sarip
 sarna
+sarong
 saru
 sarung
 sarungan
@@ -5309,6 +5320,7 @@ sinden
 sing
 singa
 singgah
+singo
 sinom
 sinoman
 sinta
@@ -5392,7 +5404,6 @@ srawung
 su
 suami
 suamii
-suara
 suba
 subal
 subhanallah
@@ -5926,6 +5937,7 @@ ungu
 uni
 unjar
 unjuk
+uno
 unta
 untal
 untel
@@ -6095,6 +6107,7 @@ watone
 watu
 wawasan
 wayah
+wayahe
 wayang
 wayangan
 we
