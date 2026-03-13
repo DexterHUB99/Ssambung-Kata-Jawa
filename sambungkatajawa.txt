@@ -3322,6 +3322,7 @@ laen
 lagi
 lagu
 lah
+laha
 lahan
 lahir
 lajeng
@@ -6583,6 +6584,7 @@ umpami
 umpan
 umpane
 umpet
+umpil
 umrah
 umu
 umuk
