@@ -243,6 +243,7 @@ amben
 ambeng
 amber
 ambil
+amboi
 ambruk
 ambu
 ambune
@@ -5913,6 +5914,7 @@ tegal
 teguh
 teh
 teja
+tek
 teka
 tekan
 teke
