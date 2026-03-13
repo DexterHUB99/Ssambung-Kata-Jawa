@@ -1801,6 +1801,7 @@ garang
 garangan
 garap
 garapan
+garapen
 gardu
 garem
 gareng
@@ -1973,6 +1974,7 @@ gincu
 ginem
 gini
 ginjal
+gipang
 gir
 girang
 giri
@@ -5825,6 +5827,7 @@ semut
 sen
 senajan
 senang
+senar
 sendal
 sendhang
 sendok
