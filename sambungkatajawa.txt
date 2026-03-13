@@ -2610,6 +2610,7 @@ hurip
 huru
 huruf
 hurung
+hurup
 hus
 huse
 husen
@@ -3071,6 +3072,7 @@ jiwa
 jo
 jodho
 jodoh
+jogja
 joglo
 jogo
 jok
@@ -3634,6 +3636,7 @@ koreng
 kori
 korok
 kos
+kosa
 kosan
 kose
 kosek
@@ -5102,6 +5105,7 @@ ngluwih
 ngluwihi
 ngn
 ngnggo
+ngngombe
 ngni
 ngobah
 ngobat
@@ -5847,6 +5851,7 @@ payu
 payung
 pe
 pean
+pecel
 peci
 pedang
 pede
