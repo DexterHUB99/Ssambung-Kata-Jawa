@@ -1569,6 +1569,7 @@ entoh
 entok
 entong
 entuk
+entung
 entut
 enul
 enyak
