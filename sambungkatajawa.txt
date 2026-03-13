@@ -3014,6 +3014,7 @@ kaku
 kakung
 kala
 kalah
+kalahan
 kalai
 kalap
 kalawan
@@ -7630,6 +7631,7 @@ yuh
 yuk
 yuka
 yuki
+yuko
 yuli
 yun
 yuna
