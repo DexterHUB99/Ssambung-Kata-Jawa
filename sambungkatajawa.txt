@@ -512,6 +512,7 @@ aru
 arum
 arupa
 arus
+arwah
 as
 asa
 asah
@@ -6183,6 +6184,7 @@ toke
 tokek
 toko
 tolak
+tole
 toleh
 tolol
 tolong
