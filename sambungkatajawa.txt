@@ -3242,6 +3242,7 @@ lilo
 lim
 lima
 limaa
+limas
 limbah
 limbuk
 limbung
