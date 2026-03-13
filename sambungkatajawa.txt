@@ -310,6 +310,7 @@ ancur
 anda
 andai
 andalan
+andang
 andap
 andar
 andaran
@@ -1977,7 +1978,6 @@ gusi
 gusti
 gusur
 gut
-guta
 guwa
 guyon
 guyu
@@ -3375,7 +3375,6 @@ lowo
 lowong
 lowongan
 loyo
-lsp
 lu
 luang
 luber
