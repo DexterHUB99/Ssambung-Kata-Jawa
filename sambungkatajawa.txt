@@ -102,9 +102,6 @@ ahul
 ahur
 ahus
 ai
-ail
-aima
-aina
 aing
 air
 aja
@@ -413,7 +410,6 @@ apa
 apak
 apal
 apalan
-apan
 apane
 apar
 ape
@@ -706,7 +702,6 @@ bela
 belah
 belang
 belek
-beler
 beli
 belo
 belu
@@ -962,6 +957,7 @@ col
 colek
 coli
 colo
+colok
 colong
 combro
 condong
@@ -1524,7 +1520,6 @@ etuh
 etuk
 etung
 etus
-ev
 ew
 ewang
 ewe
@@ -1643,7 +1638,6 @@ garing
 garis
 garpu
 garu
-garuda
 garuk
 garut
 garwa
@@ -1733,7 +1727,6 @@ gendut
 gene
 genep
 generator
-geneyi
 geng
 geni
 genta
@@ -1789,7 +1782,6 @@ giman
 gimbal
 gina
 gincu
-ginem
 gini
 ginjal
 gir
@@ -1973,7 +1965,6 @@ harga
 hari
 harian
 harimau
-harimu
 harjo
 harum
 has
@@ -1998,7 +1989,6 @@ he
 heal
 hebat
 heboh
-hee
 heh
 heha
 hehe
@@ -2045,7 +2035,6 @@ ho
 hobi
 hoe
 hoh
-holi
 homo
 hoo
 hooh
@@ -2103,7 +2092,6 @@ iga
 igak
 igus
 ih
-iha
 ihsan
 ija
 ijab
@@ -2156,7 +2144,6 @@ ilih
 ilik
 ililang
 iling
-ilingo
 ilir
 ilis
 ilmu
@@ -2293,7 +2280,6 @@ isi
 isian
 isih
 isik
-isikan
 isil
 isin
 isine
@@ -2314,7 +2300,6 @@ it
 item
 itik
 itil
-itu
 itung
 iut
 iw
@@ -3563,7 +3548,6 @@ musoh
 musuh
 mut
 mutah
-mutan
 na
 nabi
 nabrak
@@ -3848,7 +3832,6 @@ ngarit
 ngarsa
 ngarung
 ngas
-ngasa
 ngasah
 ngasahi
 ngasal
@@ -4377,6 +4360,7 @@ onco
 oncom
 onde
 ondha
+ondo
 ondol
 oneng
 ongkang
@@ -4488,7 +4472,6 @@ paliyan
 palu
 palung
 pamali
-paman
 pamil
 pamit
 pamitan
@@ -4592,7 +4575,6 @@ pentung
 pepek
 pepes
 pera
-percaya
 peri
 perih
 pesen
@@ -4701,7 +4683,6 @@ pondok
 poni
 ponorogo
 poo
-pop
 por
 pora
 poran
@@ -4863,7 +4844,6 @@ raut
 rawa
 rawan
 rawe
-rawi
 rawon
 rawuh
 rayap
@@ -4901,7 +4881,6 @@ remek
 remen
 remes
 remi
-remok
 rempah
 rempon
 remu
@@ -5371,7 +5350,6 @@ subal
 subhanallah
 subuh
 subur
-sudah
 sudi
 sudukan
 sugeng
@@ -5428,6 +5406,7 @@ supaya
 supe
 supen
 supi
+supoyo
 sur
 sura
 surai
@@ -5548,7 +5527,6 @@ telan
 telas
 telat
 tele
-telek
 teles
 telo
 telon
@@ -5777,7 +5755,6 @@ ugo
 ugung
 uh
 uha
-uho
 uja
 ujar
 ujaran
@@ -5800,7 +5777,6 @@ uker
 uki
 ukir
 ukiran
-uko
 ukon
 ukuk
 ukul
@@ -6187,7 +6163,6 @@ yosa
 yosan
 yowes
 yowis
-yoyo
 yu
 yuda
 yudha
