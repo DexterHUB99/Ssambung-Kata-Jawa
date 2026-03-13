@@ -3309,6 +3309,7 @@ kelekmu
 kelem
 kelep
 keles
+kelet
 keli
 kelia
 kelinci
@@ -6551,6 +6552,7 @@ sedina
 seduh
 sedulur
 sega
+segaa
 segara
 segawon
 seger
