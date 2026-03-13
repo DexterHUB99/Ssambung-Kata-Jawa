@@ -32,6 +32,7 @@ adang
 adat
 ade
 adek
+adeking
 adem
 aden
 adep
@@ -128,7 +129,6 @@ aila
 aili
 aima
 aimi
-aimo
 aimu
 aina
 aing
@@ -780,6 +780,7 @@ batok
 bau
 bawal
 bayang
+bayem
 bayi
 bayu
 be
@@ -807,6 +808,7 @@ bejan
 bejo
 bejur
 bek
+bekal
 bekas
 bekel
 beko
@@ -981,6 +983,7 @@ busi
 busik
 busu
 busuk
+busung
 buta
 butek
 buto
@@ -1262,6 +1265,7 @@ dima
 diman
 dimana
 dimas
+dimna
 dimul
 dina
 dinan
@@ -1312,6 +1316,7 @@ donga
 doni
 dora
 dore
+dori
 doro
 dorong
 dosa
@@ -2229,6 +2234,7 @@ ham
 hama
 haman
 hambar
+hambawa
 hamel
 hamil
 hampir
@@ -2237,6 +2243,7 @@ hana
 hanacaraka
 hanan
 hancur
+hang
 hangat
 hani
 hansip
@@ -2259,6 +2266,7 @@ harimau
 harimu
 harjo
 harta
+haru
 harum
 harus
 haruse
@@ -2398,6 +2406,7 @@ ib
 iba
 ibadah
 ibak
+iber
 ibu
 ibuk
 ical
@@ -3315,6 +3324,7 @@ kontal
 konten
 kontol
 kontrol
+konyol
 kop
 kopeng
 koper
@@ -3330,6 +3340,7 @@ koran
 kore
 korek
 koreng
+kori
 korok
 kos
 kosan
@@ -3345,6 +3356,7 @@ kotang
 kote
 kotor
 kowe
+kowek
 kowen
 kower
 koyo
@@ -4282,6 +4294,7 @@ ndoro
 nduk
 nduwe
 ne
+nebake
 neda
 nedah
 nedha
@@ -4415,6 +4428,7 @@ ngancing
 ngandang
 ngandani
 ngandap
+ngandi
 ngandok
 ngandut
 nganga
@@ -4586,7 +4600,6 @@ nget
 ngetan
 ngetem
 ngeti
-ngetik
 ngetok
 ngetot
 ngewe
@@ -4710,6 +4723,7 @@ ngone
 ngongkang
 ngongko
 ngono
+ngonten
 ngontol
 ngop
 ngopak
@@ -5044,7 +5058,6 @@ okel
 okem
 oker
 okerek
-okin
 okok
 okoka
 okoke
@@ -5074,6 +5087,7 @@ olih
 oling
 olo
 oloe
+oloh
 olok
 olokan
 olon
@@ -5096,7 +5110,6 @@ omboh
 ome
 omel
 omen
-omi
 omo
 omong
 omongan
@@ -5699,7 +5712,6 @@ rawe
 rawi
 rawon
 rawuh
-raya
 rayap
 rayon
 rayu
@@ -5876,6 +5888,7 @@ rosi
 roso
 rotan
 roti
+rotii
 roto
 rowang
 rowo
@@ -6415,6 +6428,7 @@ sutra
 suwan
 suwe
 suwen
+suweng
 suwi
 suwir
 suwun
@@ -6492,6 +6506,7 @@ tar
 tara
 tari
 tarik
+taro
 taru
 tarung
 tas
@@ -6526,7 +6541,6 @@ telat
 tele
 telek
 teles
-televisi
 teli
 telo
 telon
@@ -6537,7 +6551,6 @@ tema
 teman
 tembak
 tembang
-tembe
 tembok
 tembung
 teme
@@ -6822,7 +6835,6 @@ ukaran
 ukarane
 ukas
 uke
-ukel
 uker
 uket
 uki
@@ -6836,6 +6848,7 @@ uko
 ukol
 ukon
 ukop
+ukra
 ukro
 uku
 ukuk
@@ -6896,6 +6909,7 @@ umbul
 ume
 umen
 umi
+umo
 umpa
 umpam
 umpama
