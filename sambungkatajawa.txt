@@ -1784,6 +1784,7 @@ ganyong
 gap
 gapi
 gaplek
+gaplok
 gapuk
 gapura
 gar
@@ -3447,6 +3448,7 @@ leri
 les
 lesehan
 lesu
+letong
 lewat
 li
 lia
