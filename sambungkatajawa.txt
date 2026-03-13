@@ -5956,6 +5956,7 @@ sikat
 sikep
 siki
 sikil
+siko
 siku
 sikut
 sil
