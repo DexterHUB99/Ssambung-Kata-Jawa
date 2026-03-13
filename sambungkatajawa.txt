@@ -1030,6 +1030,7 @@ cenil
 centil
 centong
 cep
+cepet
 cerak
 ceret
 ceri
@@ -6593,6 +6594,7 @@ uke
 uker
 uket
 uki
+uking
 ukir
 ukiran
 ukit
