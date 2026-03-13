@@ -4926,6 +4926,7 @@ opes
 opet
 opini
 opo
+opoe
 opon
 opor
 opose
@@ -5885,6 +5886,7 @@ sepur
 sepura
 serami
 sere
+sereng
 seres
 serius
 serong
