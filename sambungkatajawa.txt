@@ -2190,6 +2190,7 @@ hasem
 hasi
 hasil
 hasrat
+hasri
 hasta
 hasut
 hati
@@ -5550,6 +5551,7 @@ risa
 risak
 risi
 risih
+riski
 riso
 rit
 rita
@@ -6708,6 +6710,7 @@ usik
 usil
 usir
 usko
+usta
 ustadz
 usu
 usuk
