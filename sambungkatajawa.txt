@@ -1788,6 +1788,7 @@ gamelan
 gamer
 gami
 gamis
+gamo
 gampang
 gampar
 gampil
@@ -2809,6 +2810,7 @@ kakehan
 kakek
 kaki
 kaku
+kakung
 kala
 kalah
 kalai
