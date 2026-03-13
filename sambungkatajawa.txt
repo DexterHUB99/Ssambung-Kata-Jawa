@@ -669,6 +669,7 @@ baca
 bacot
 badeg
 badek
+badhe
 badokan
 bagong
 bagu
@@ -4246,6 +4247,7 @@ ngetan
 ngeti
 ngetok
 ngewe
+ngewu
 ngeyel
 ngg
 nggak
@@ -6666,6 +6668,7 @@ wun
 wusa
 xenon
 xilofon
+xixixi
 xray
 ya
 yaapa
