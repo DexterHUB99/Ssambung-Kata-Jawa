@@ -569,6 +569,7 @@ arti
 artis
 arto
 aru
+arul
 arum
 arupa
 arus
@@ -6206,6 +6207,7 @@ saa
 saan
 sabar
 saben
+sabene
 sabi
 sabit
 sabtu
