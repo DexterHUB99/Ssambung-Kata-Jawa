@@ -2852,6 +2852,7 @@ kecut
 kedah
 kediri
 kek
+keka
 kekal
 keke
 kel
@@ -5742,6 +5743,7 @@ siri
 sirih
 sirna
 siro
+sirop
 sirsak
 sirup
 sis
