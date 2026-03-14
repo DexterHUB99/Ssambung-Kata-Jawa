@@ -712,6 +712,7 @@ arue
 aruh
 arul
 arum
+arup
 arupa
 arus
 arwa
@@ -792,6 +793,7 @@ atah
 atai
 atak
 atam
+atan
 atang
 atap
 atar
