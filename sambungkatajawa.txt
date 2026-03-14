@@ -115,7 +115,6 @@ ahit
 ahlak
 ahli
 ahlian
-ahlie
 ahline
 ahlu
 ahlul
@@ -307,7 +306,6 @@ amaa
 amah
 amal
 amalan
-amalane
 amam
 aman
 amanah
@@ -481,7 +479,6 @@ angkat
 angkel
 angker
 angklung
-angkong
 angkot
 angkrik
 angkring
@@ -763,7 +760,6 @@ atir
 atis
 atit
 atma
-atmaa
 atmana
 ato
 atoh
@@ -811,7 +807,6 @@ awer
 awet
 awis
 awit
-awo
 awok
 awong
 awor
@@ -995,7 +990,6 @@ benten
 bentrok
 beo
 berak
-beras
 berek
 berkah
 bero
@@ -1350,7 +1344,6 @@ da
 dab
 dablek
 dada
-dadah
 dadar
 dadi
 dados
@@ -2030,7 +2023,6 @@ etar
 etas
 ete
 eteh
-etek
 etel
 etem
 eten
@@ -2531,7 +2523,6 @@ gunjing
 gunting
 guntur
 gunung
-guoblok
 gupak
 gupuh
 gur
@@ -2750,6 +2741,7 @@ hoi
 hoki
 hola
 holi
+holo
 homo
 hon
 hono
@@ -2878,6 +2870,7 @@ ikat
 ikatan
 ike
 ikel
+iker
 iket
 ikhlas
 ikhtiar
@@ -3192,7 +3185,6 @@ jalo
 jalu
 jaluk
 jam
-jama
 jamal
 jaman
 jambi
@@ -4776,7 +4768,6 @@ muk
 muka
 mukak
 muke
-muku
 mukul
 mul
 mula
@@ -5139,7 +5130,6 @@ ngambung
 ngamil
 ngamok
 ngampel
-ngampil
 ngampun
 ngamuk
 ngan
@@ -5326,7 +5316,6 @@ ngenes
 ngeng
 ngengek
 ngenget
-ngenggeh
 ngenggo
 ngenjang
 ngeno
@@ -5446,7 +5435,6 @@ ngirimi
 ngiris
 ngirit
 ngisak
-ngisan
 ngiseng
 ngisep
 ngiser
@@ -5464,7 +5452,6 @@ ngitung
 ngiwa
 ngiwasi
 ngko
-nglakoni
 nglangkah
 ngliwet
 nglon
@@ -5997,7 +5984,6 @@ ondha
 ondo
 ondol
 oneng
-onet
 ongkang
 ongkek
 ongkel
@@ -6008,7 +5994,6 @@ online
 ono
 onoe
 onone
-onoo
 onori
 onta
 ontang
@@ -6445,7 +6430,6 @@ pocong
 podho
 poe
 poho
-poi
 pojok
 pojokan
 pok
@@ -6496,7 +6480,6 @@ poyo
 prajurit
 prakawis
 pranata
-prau
 prei
 pria
 pring
@@ -6641,7 +6624,6 @@ randa
 randu
 randue
 rang
-rangda
 rangga
 rangkat
 rangkul
@@ -6662,7 +6644,6 @@ rapa
 rapapa
 rapat
 rape
-rapet
 rapi
 rapie
 rapih
@@ -7037,7 +7018,6 @@ salam
 saleh
 sali
 salim
-salo
 saloe
 salon
 salut
@@ -7367,6 +7347,7 @@ sogok
 sok
 soka
 sokan
+soke
 soket
 soklat
 soko
@@ -8148,7 +8129,6 @@ unjuk
 uno
 unta
 untal
-untalen
 untel
 unter
 untik
@@ -8552,7 +8532,6 @@ ye
 yek
 yekti
 yen
-yeni
 yeno
 yep
 yer
