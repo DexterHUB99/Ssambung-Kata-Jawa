@@ -2223,6 +2223,7 @@ geloo
 gelot
 gelud
 gelut
+gem
 gema
 gemar
 gemas
@@ -2286,6 +2287,7 @@ gereh
 gereng
 geret
 geri
+gerik
 gering
 gerji
 germo
@@ -2477,6 +2479,7 @@ gusti
 gusur
 gut
 guta
+guten
 guwa
 guyon
 guyonan
@@ -4830,6 +4833,7 @@ nawar
 nawari
 nawi
 naya
+nayo
 ndak
 ndalu
 ndang
