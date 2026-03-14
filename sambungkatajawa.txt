@@ -1302,6 +1302,7 @@ cekap
 cekel
 celek
 celeng
+celengan
 celi
 celuk
 cemani
