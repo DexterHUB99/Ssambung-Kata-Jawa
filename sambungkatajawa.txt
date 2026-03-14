@@ -4935,6 +4935,7 @@ mutah
 mutan
 muten
 muti
+mutih
 na
 nabi
 nabok
@@ -6867,6 +6868,7 @@ rebahan
 rebana
 rebo
 rebung
+rebut
 receh
 redi
 rega
