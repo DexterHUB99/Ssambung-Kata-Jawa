@@ -3817,6 +3817,7 @@ kono
 kontal
 konten
 kontol
+kontolmu
 kontrol
 konyol
 kop
@@ -6350,6 +6351,7 @@ pitulung
 pitung
 pitutur
 piwulang
+piya
 piyak
 piyan
 piye
@@ -6770,6 +6772,7 @@ rob
 roba
 robah
 roban
+robi
 roboh
 roda
 rodo
