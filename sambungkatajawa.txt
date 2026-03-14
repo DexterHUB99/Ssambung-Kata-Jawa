@@ -2719,6 +2719,7 @@ gure
 guri
 gurih
 gurit
+gurita
 guru
 guruh
 gus
@@ -6972,6 +6973,7 @@ ragi
 ragil
 ragu
 rah
+rahasia
 rahayu
 rahmat
 rahwana
