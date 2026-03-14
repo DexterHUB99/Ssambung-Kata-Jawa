@@ -195,7 +195,6 @@ akam
 akan
 akang
 akar
-akara
 akas
 akasa
 akat
@@ -234,6 +233,7 @@ akor
 akos
 akrab
 aksa
+aksama
 aksara
 aksen
 aksi
@@ -669,6 +669,7 @@ arupa
 arus
 arwa
 arwah
+arya
 as
 asa
 asah
@@ -864,6 +865,7 @@ badeg
 badek
 badhe
 badokan
+bagi
 bagong
 bagos
 bagu
@@ -920,7 +922,6 @@ bareng
 bariki
 baron
 barongan
-baru
 bas
 basah
 basi
@@ -934,6 +935,7 @@ bato
 batok
 batu
 bau
+bawa
 bawal
 bawok
 bawuk
@@ -1112,7 +1114,6 @@ botol
 boyo
 boyok
 bu
-bua
 buaya
 bubar
 bubrah
@@ -1575,7 +1576,6 @@ dosa
 dosen
 doso
 dowo
-doyan
 du
 duda
 dudi
@@ -2222,7 +2222,6 @@ garem
 gareng
 gari
 garian
-garih
 garik
 garing
 garis
@@ -2378,6 +2377,7 @@ gerji
 germo
 gero
 gerobak
+geroh
 gerus
 ges
 gesek
@@ -2643,7 +2643,6 @@ har
 hara
 haram
 harap
-harapan
 haren
 harep
 harga
@@ -2667,7 +2666,6 @@ hasem
 hasi
 hasil
 hasile
-hasna
 hasrat
 hasri
 hasta
@@ -2840,7 +2838,6 @@ icu
 id
 ida
 idam
-idan
 ide
 idep
 ider
@@ -3352,7 +3349,6 @@ juni
 jupuk
 jur
 jura
-jurang
 juru
 jus
 ka
@@ -3360,6 +3356,7 @@ kabeh
 kabel
 kabul
 kabupaten
+kabur
 kaca
 kacang
 kacau
@@ -3496,7 +3493,6 @@ karawitan
 kare
 karek
 karen
-karena
 karep
 karepe
 karepmu
@@ -3511,9 +3507,9 @@ karpet
 karsa
 kartu
 karung
-karya
 kas
 kasa
+kasak
 kasang
 kasar
 kasat
@@ -3658,7 +3654,6 @@ ken
 kena
 kenak
 kenapa
-kencot
 kendal
 kendang
 kendel
@@ -3976,7 +3971,6 @@ kulon
 kulup
 kum
 kuma
-kumaha
 kuman
 kumbah
 kumbahan
@@ -4743,6 +4737,7 @@ modus
 mogok
 moh
 mojo
+mojokerto
 mok
 mokal
 mokong
@@ -4848,7 +4843,6 @@ mus
 musa
 musi
 musim
-musing
 musisi
 musoh
 mustahil
@@ -5170,7 +5164,6 @@ ngamuk
 ngan
 ngana
 nganah
-nganak
 ngancani
 ngancing
 ngandang
@@ -5325,7 +5318,6 @@ ngeles
 ngelih
 ngeling
 ngelingi
-ngelok
 ngelon
 ngeloni
 ngelor
@@ -5834,6 +5826,7 @@ nun
 nung
 nunggoni
 nunggu
+nuni
 nunjuk
 nuntun
 nunung
@@ -6385,6 +6378,7 @@ pijit
 pik
 pika
 pikang
+piker
 piki
 pikir
 piknik
@@ -6545,7 +6539,6 @@ puki
 pukul
 pula
 pulau
-pule
 pulen
 puli
 pulsa
@@ -6705,6 +6698,7 @@ rapopo
 rapuh
 rara
 rarawoh
+raro
 ras
 rasa
 rasah
@@ -6968,7 +6962,6 @@ rujuk
 ruka
 ruki
 ruko
-ruku
 rukuh
 rukun
 rum
@@ -7288,7 +7281,6 @@ seru
 ses
 sesak
 sesek
-seser
 sesok
 sesuk
 sesupe
@@ -7589,7 +7581,6 @@ suwung
 swara
 syukur
 ta
-tab
 tabah
 tabib
 tabir
@@ -7619,6 +7610,7 @@ tako
 takon
 takut
 tal
+talak
 talas
 tale
 talenan
@@ -7765,7 +7757,6 @@ tesi
 tet
 tete
 tetek
-tetes
 teuing
 ti
 tiba
@@ -7866,7 +7857,6 @@ tomi
 tomo
 tompel
 ton
-tonggo
 tongkol
 tono
 tonton
@@ -7894,7 +7884,6 @@ truk
 tu
 tua
 tuak
-tub
 tubruk
 tugel
 tuh
@@ -8381,7 +8370,6 @@ wagu
 wah
 wahing
 wahyu
-wai
 wajan
 wajar
 wajik
@@ -8417,6 +8405,7 @@ waris
 warisan
 warna
 warok
+warta
 waru
 warung
 was
@@ -8506,7 +8495,6 @@ wilangan
 wilujeng
 win
 wina
-winan
 windu
 wingi
 wingking
@@ -8544,6 +8532,7 @@ wonten
 woo
 wor
 woro
+wowi
 wowo
 wudel
 wudhu
@@ -8563,6 +8552,7 @@ xray
 ya
 yaa
 yaapa
+yadi
 yaelah
 yah
 yaho
@@ -8583,7 +8573,6 @@ yang
 yani
 yano
 yap
-yaping
 yare
 yas
 yasi
@@ -8594,7 +8583,6 @@ yaudah
 yawes
 yawis
 yaya
-yayasa
 ye
 yek
 yekti
