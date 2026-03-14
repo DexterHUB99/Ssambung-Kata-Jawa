@@ -468,6 +468,7 @@ anget
 anggar
 anggara
 anggaran
+anggeh
 anggene
 anggep
 angger
@@ -2552,6 +2553,7 @@ gun
 guna
 gunae
 gundah
+gundam
 gundhul
 gundik
 gundul
@@ -7125,7 +7127,6 @@ sama
 samak
 saman
 samar
-sambal
 sambang
 sambat
 sambel
@@ -8231,6 +8232,7 @@ unjal
 unjar
 unjuk
 unjung
+unki
 uno
 unta
 untal
