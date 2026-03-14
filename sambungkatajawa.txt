@@ -1169,6 +1169,7 @@ buru
 buruh
 bus
 busa
+buset
 busi
 busik
 busu
