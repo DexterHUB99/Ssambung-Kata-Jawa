@@ -4764,6 +4764,7 @@ mam
 mama
 mamah
 mamak
+mamake
 mamas
 mamat
 mambu
@@ -4801,6 +4802,7 @@ mangkok
 mangku
 mangsa
 mangsi
+mangu
 mangun
 mangut
 mani
