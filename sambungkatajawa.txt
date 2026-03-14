@@ -44,6 +44,7 @@ adhi
 adi
 adik
 adil
+adipati
 adit
 ado
 adoh
@@ -3705,6 +3706,7 @@ koen
 koh
 kok
 koki
+kokiso
 koko
 kokop
 kol
@@ -3908,6 +3910,7 @@ laha
 lahan
 lahir
 laiki
+lairan
 lajeng
 laju
 lak
@@ -4901,6 +4904,7 @@ ngabari
 ngabekti
 ngaben
 ngaca
+ngacara
 ngacem
 ngaceng
 ngacir
@@ -4922,6 +4926,7 @@ ngadus
 ngae
 ngagem
 ngagung
+ngahad
 ngail
 ngajah
 ngajak
@@ -5751,6 +5756,7 @@ oma
 omah
 omahe
 omahku
+omahmu
 oman
 ombak
 ombe
