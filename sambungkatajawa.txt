@@ -171,6 +171,7 @@ aini
 aio
 air
 aira
+airo
 aisin
 aiya
 aiyo
@@ -7525,6 +7526,7 @@ rop
 rope
 ropi
 rore
+rori
 roro
 ros
 rosa
