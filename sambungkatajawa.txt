@@ -2651,6 +2651,7 @@ golekan
 goleki
 goler
 golet
+goli
 golo
 golong
 golongan
@@ -6063,6 +6064,7 @@ nguping
 ngur
 ngurah
 ngurang
+nguras
 ngurek
 nguri
 ngurip
@@ -7260,6 +7262,7 @@ rekasa
 rekmo
 rekom
 rekoso
+rekot
 reksa
 rela
 relax
