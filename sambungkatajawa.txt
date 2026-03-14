@@ -2663,6 +2663,7 @@ gubeng
 gubris
 gubug
 gudang
+gudangan
 gudeg
 gudel
 gudhal
@@ -5317,6 +5318,7 @@ negas
 negeri
 negesi
 negor
+negori
 neh
 nek
 neka
@@ -8927,6 +8929,7 @@ wewe
 weweling
 wi
 wicak
+widana
 widara
 widi
 widya
