@@ -1554,6 +1554,7 @@ dipo
 dipun
 dir
 diri
+dirum
 disa
 disan
 disana
