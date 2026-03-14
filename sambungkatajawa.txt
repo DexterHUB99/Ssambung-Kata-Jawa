@@ -4306,6 +4306,7 @@ kuwo
 la
 lab
 laba
+labas
 labi
 labu
 lada
