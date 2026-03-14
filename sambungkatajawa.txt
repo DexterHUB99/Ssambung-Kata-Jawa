@@ -3333,6 +3333,7 @@ kalung
 kam
 kama
 kaman
+kamana
 kamar
 kambi
 kambil
@@ -5462,6 +5463,7 @@ ngumpulake
 ngun
 nguna
 nguncal
+ngundal
 ngundang
 ngunduh
 ngundur
@@ -8026,6 +8028,7 @@ urit
 uritan
 uro
 uru
+urua
 urub
 uruk
 urun
