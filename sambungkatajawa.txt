@@ -2202,6 +2202,7 @@ etan
 etang
 etar
 etas
+etawa
 ete
 eteh
 etek
@@ -8492,6 +8493,7 @@ tulip
 tulis
 tulisan
 tulung
+tulunge
 tulus
 tum
 tuma
