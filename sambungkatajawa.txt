@@ -3634,6 +3634,7 @@ ken
 kena
 kenak
 kenapa
+kencot
 kendal
 kendang
 kendel
@@ -8541,6 +8542,7 @@ yaudah
 yawes
 yawis
 yaya
+yayasa
 ye
 yek
 yekti
