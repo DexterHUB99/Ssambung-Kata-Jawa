@@ -598,6 +598,7 @@ antri
 antuk
 antur
 anu
+anua
 anuk
 anum
 anun
@@ -2154,6 +2155,7 @@ esik
 esin
 eso
 esoe
+esoh
 esok
 esol
 eson
@@ -4838,6 +4840,7 @@ manjing
 mantap
 mantep
 manthuk
+mantol
 mantu
 mantuk
 mantune
@@ -6341,6 +6344,7 @@ olong
 olop
 olor
 olos
+olot
 om
 oma
 omah
@@ -6731,6 +6735,7 @@ perang
 percaya
 peri
 perih
+permisi
 pero
 pes
 pesen
@@ -8086,6 +8091,7 @@ tanggung
 tangi
 tangina
 tani
+tanjung
 tanpa
 tansah
 tante
