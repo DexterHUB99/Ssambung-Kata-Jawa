@@ -1907,6 +1907,7 @@ emi
 emih
 emik
 emil
+emir
 emo
 emod
 emoh
@@ -7507,6 +7508,7 @@ semok
 sempak
 sempit
 semprul
+semrawut
 semu
 semut
 sen
