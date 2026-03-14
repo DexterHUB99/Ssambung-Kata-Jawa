@@ -115,7 +115,6 @@ ahit
 ahlak
 ahli
 ahlian
-ahlie
 ahline
 ahlu
 ahlul
@@ -125,7 +124,6 @@ ahoh
 ahok
 ahol
 ahon
-ahop
 ahor
 ahoy
 ahu
@@ -195,6 +193,7 @@ akam
 akan
 akang
 akar
+akara
 akas
 akasa
 akat
@@ -309,7 +308,6 @@ amaa
 amah
 amal
 amalan
-amalane
 amam
 aman
 amanah
@@ -483,7 +481,6 @@ angkat
 angkel
 angker
 angklung
-angkong
 angkot
 angkrik
 angkring
@@ -505,7 +502,6 @@ angu
 angur
 angus
 ani
-aniani
 anie
 anif
 anig
@@ -766,7 +762,6 @@ atir
 atis
 atit
 atma
-atmaa
 atmana
 ato
 atoh
@@ -814,7 +809,6 @@ awer
 awet
 awis
 awit
-awo
 awok
 awong
 awor
@@ -999,7 +993,6 @@ benten
 bentrok
 beo
 berak
-beras
 berek
 berkah
 bero
@@ -1354,7 +1347,6 @@ da
 dab
 dablek
 dada
-dadah
 dadar
 dadi
 dados
@@ -1463,7 +1455,6 @@ dewi
 dhadha
 di
 diangsang
-dibo
 didak
 didi
 didik
@@ -2035,7 +2026,6 @@ etar
 etas
 ete
 eteh
-etek
 etel
 etem
 eten
@@ -2138,7 +2128,6 @@ galang
 galangan
 galau
 gale
-galeh
 galek
 galeng
 galengan
@@ -2537,7 +2526,6 @@ gunjing
 gunting
 guntur
 gunung
-guoblok
 gupak
 gupuh
 gur
@@ -3200,7 +3188,6 @@ jalo
 jalu
 jaluk
 jam
-jama
 jamal
 jaman
 jambi
@@ -3486,6 +3473,7 @@ karawitan
 kare
 karek
 karen
+karena
 karep
 karepe
 karepmu
@@ -3963,6 +3951,7 @@ kulon
 kulup
 kum
 kuma
+kumaha
 kuman
 kumbah
 kumbahan
@@ -4698,7 +4687,6 @@ minggu
 mini
 minta
 minum
-mio
 mirah
 mirengake
 miri
@@ -4785,7 +4773,6 @@ muk
 muka
 mukak
 muke
-muku
 mukul
 mul
 mula
@@ -4834,6 +4821,7 @@ mus
 musa
 musi
 musim
+musing
 musisi
 musoh
 mustahil
@@ -5149,7 +5137,6 @@ ngambung
 ngamil
 ngamok
 ngampel
-ngampil
 ngampun
 ngamuk
 ngan
@@ -5308,6 +5295,7 @@ ngeles
 ngelih
 ngeling
 ngelingi
+ngelok
 ngelon
 ngeloni
 ngelor
@@ -5336,9 +5324,7 @@ ngenes
 ngeng
 ngengek
 ngenget
-ngenggeh
 ngenggo
-ngeniko
 ngenjang
 ngeno
 ngenteni
@@ -5457,7 +5443,6 @@ ngirimi
 ngiris
 ngirit
 ngisak
-ngisan
 ngiseng
 ngisep
 ngiser
@@ -5475,7 +5460,6 @@ ngitung
 ngiwa
 ngiwasi
 ngko
-nglakoni
 nglangkah
 ngliwet
 nglon
@@ -6008,7 +5992,6 @@ ondha
 ondo
 ondol
 oneng
-onet
 ongkang
 ongkek
 ongkel
@@ -6019,7 +6002,6 @@ online
 ono
 onoe
 onone
-onoo
 onori
 onta
 ontang
@@ -6458,7 +6440,6 @@ pocong
 podho
 poe
 poho
-poi
 pojok
 pojokan
 pok
@@ -6509,7 +6490,6 @@ poyo
 prajurit
 prakawis
 pranata
-prau
 prei
 pria
 pring
@@ -6654,7 +6634,6 @@ randa
 randu
 randue
 rang
-rangda
 rangga
 rangkat
 rangkul
@@ -6675,7 +6654,6 @@ rapa
 rapapa
 rapat
 rape
-rapet
 rapi
 rapie
 rapih
@@ -7050,7 +7028,6 @@ salam
 saleh
 sali
 salim
-salo
 saloe
 salon
 salut
@@ -7741,6 +7718,7 @@ tesi
 tet
 tete
 tetek
+tetes
 teuing
 ti
 tiba
@@ -8163,7 +8141,6 @@ unjung
 uno
 unta
 untal
-untalen
 untel
 unter
 untik
@@ -8478,6 +8455,7 @@ wilangan
 wilujeng
 win
 wina
+winan
 windu
 wingi
 wingking
@@ -8542,7 +8520,6 @@ yak
 yaka
 yake
 yakin
-yaku
 yali
 yalo
 yam
@@ -8568,7 +8545,6 @@ ye
 yek
 yekti
 yen
-yeni
 yeno
 yep
 yer
