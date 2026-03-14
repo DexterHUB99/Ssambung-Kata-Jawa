@@ -3494,6 +3494,7 @@ kasor
 kasoran
 kasu
 kasuh
+kasuk
 kasur
 kasut
 kat
