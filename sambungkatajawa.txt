@@ -4840,6 +4840,7 @@ mokong
 mol
 mola
 molas
+mole
 moleh
 molen
 molet
