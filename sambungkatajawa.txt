@@ -8316,6 +8316,7 @@ tato
 tatu
 taun
 tawa
+tawaf
 tawan
 tawar
 tawi
@@ -9017,6 +9018,7 @@ utuh
 utus
 utusan
 ututer
+utya
 uud
 uv
 uw
