@@ -315,6 +315,7 @@ amba
 ambal
 ambar
 ambek
+ambel
 amben
 ambeng
 amber
@@ -1821,6 +1822,7 @@ endas
 endasmu
 endek
 endel
+endem
 endhas
 endhog
 endhok
@@ -5324,6 +5326,7 @@ ngimi
 ngimpi
 ngin
 ngina
+nginceng
 nginep
 nging
 ngini
@@ -7690,6 +7693,7 @@ toro
 tos
 tosa
 tose
+totak
 toto
 towo
 toya
