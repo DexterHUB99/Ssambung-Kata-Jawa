@@ -287,6 +287,7 @@ alit
 alm
 alo
 aloe
+alok
 alon
 alos
 alot
@@ -508,6 +509,7 @@ aning
 anis
 anit
 anja
+anjai
 anjani
 anjar
 anjay
@@ -1983,6 +1985,7 @@ es
 esa
 esah
 esai
+esan
 esay
 ese
 eseh
