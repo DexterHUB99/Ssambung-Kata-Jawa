@@ -2571,6 +2571,7 @@ griwa
 griya
 grobak
 grogi
+grogot
 grombolan
 grontol
 grujuk
@@ -3435,6 +3436,7 @@ jule
 juli
 jumat
 jumeneng
+jumpa
 jun
 juni
 jupuk
@@ -6399,6 +6401,7 @@ pantat
 pantes
 panti
 pantun
+panun
 panut
 panutan
 panuwun
