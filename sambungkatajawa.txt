@@ -3748,6 +3748,7 @@ karpet
 karsa
 kartu
 karung
+karya
 kas
 kasa
 kasak
@@ -4968,6 +4969,7 @@ mentolo
 menyan
 menyang
 meong
+mer
 merah
 merem
 meri
