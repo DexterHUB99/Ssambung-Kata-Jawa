@@ -1060,6 +1060,7 @@ bodo
 bodoh
 bodok
 bojo
+boke
 bokek
 bokong
 bokonge
@@ -5542,6 +5543,7 @@ ngumpulake
 ngun
 nguna
 nguncal
+ngunci
 ngundal
 ngundang
 ngunduh
