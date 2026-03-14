@@ -2187,6 +2187,7 @@ fakir
 fani
 fasih
 fix
+fo
 fokus
 fulus
 fungsi
