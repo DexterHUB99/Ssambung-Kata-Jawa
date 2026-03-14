@@ -4826,6 +4826,7 @@ manis
 manja
 manjing
 mantap
+mantep
 manthuk
 mantu
 mantuk
@@ -7479,6 +7480,7 @@ sambang
 sambat
 sambel
 samben
+sambet
 sambi
 sambil
 sambung
