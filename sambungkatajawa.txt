@@ -142,6 +142,7 @@ ahud
 ahuh
 ahuk
 ahul
+ahun
 ahur
 ahus
 ahut
@@ -2437,6 +2438,7 @@ gawean
 gaweanku
 gaweo
 gaweopo
+gawir
 gawok
 gayem
 gayeng
@@ -4611,6 +4613,7 @@ lintas
 lintu
 lio
 lip
+lipa
 lipan
 lipas
 lipat
