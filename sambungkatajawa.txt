@@ -2894,6 +2894,7 @@ hara
 haram
 harang
 harap
+harapan
 haren
 harep
 harga
@@ -8002,6 +8003,7 @@ sin
 sina
 sinau
 sinden
+sindu
 sing
 singa
 singgah
