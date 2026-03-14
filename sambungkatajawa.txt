@@ -4695,6 +4695,7 @@ luhan
 luhur
 luk
 luka
+luki
 luku
 lulang
 lulu
@@ -8911,6 +8912,7 @@ waris
 warisan
 warna
 warok
+warsa
 warta
 waru
 warung
