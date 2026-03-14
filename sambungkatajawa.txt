@@ -5909,6 +5909,7 @@ oyot
 oz
 pa
 paalu
+pacar
 pace
 pacik
 pacol
@@ -7329,6 +7330,7 @@ talas
 tale
 talenan
 tali
+talie
 talo
 tam
 tama
