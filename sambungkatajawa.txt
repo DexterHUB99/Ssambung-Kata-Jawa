@@ -2035,6 +2035,7 @@ entas
 ente
 entek
 enteng
+entenge
 enteni
 enter
 enthen
@@ -8943,6 +8944,7 @@ wen
 weni
 weo
 wer
+wera
 werna
 werno
 wero
