@@ -6886,6 +6886,7 @@ pil
 pila
 pilah
 pilak
+pilang
 pilar
 pileh
 pilek
@@ -8752,6 +8753,7 @@ unan
 unang
 unap
 uncal
+undagi
 undak
 undakan
 undal
