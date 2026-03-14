@@ -1577,6 +1577,7 @@ delu
 dem
 dema
 demak
+demam
 deman
 demek
 demi
