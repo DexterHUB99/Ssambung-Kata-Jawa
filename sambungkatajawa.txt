@@ -1754,6 +1754,7 @@ eeh
 ef
 eg
 ega
+egah
 egak
 egar
 egi
@@ -2354,6 +2355,7 @@ garpu
 garu
 garuda
 garuk
+garung
 garut
 garwa
 gas
