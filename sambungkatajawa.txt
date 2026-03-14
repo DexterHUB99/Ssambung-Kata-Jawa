@@ -7105,6 +7105,7 @@ pocong
 podho
 poe
 poho
+pohung
 poi
 pojok
 pojokan
@@ -8393,6 +8394,7 @@ tapak
 tape
 tapi
 tapir
+tapuk
 tar
 tara
 tari
