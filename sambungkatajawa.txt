@@ -2665,6 +2665,7 @@ golong
 golongan
 gombal
 gombalan
+gondo
 gondok
 gondol
 gondrong
@@ -8080,6 +8081,7 @@ sun
 sunan
 sunat
 sunda
+sundala
 sundari
 sundel
 sunduk
