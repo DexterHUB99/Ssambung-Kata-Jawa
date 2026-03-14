@@ -2344,6 +2344,7 @@ galok
 galon
 galung
 galungan
+gam
 gama
 gaman
 gambang
