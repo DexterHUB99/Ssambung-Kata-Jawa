@@ -148,6 +148,7 @@ aie
 aii
 aika
 aiko
+aiku
 ail
 aila
 aile
