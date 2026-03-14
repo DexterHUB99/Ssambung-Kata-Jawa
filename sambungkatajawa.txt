@@ -3519,6 +3519,7 @@ jauh
 jawa
 jawaban
 jawah
+jawe
 jawi
 jawir
 jawoh
@@ -7359,6 +7360,7 @@ remi
 remo
 remok
 rempah
+rempeyek
 rempon
 remu
 remuk
