@@ -172,6 +172,7 @@ aisin
 aiya
 aiyo
 aja
+ajai
 ajak
 ajal
 ajang
@@ -7607,6 +7608,7 @@ sawah
 sawan
 sawang
 sawer
+sawet
 sawi
 sawiji
 sawijine
