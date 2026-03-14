@@ -498,7 +498,6 @@ anggep
 angger
 anggere
 anggit
-anggo
 anggok
 anggon
 anggrek
@@ -1851,7 +1850,6 @@ ekol
 ekoli
 ekon
 ekor
-ekos
 ekot
 eksi
 ektika
@@ -2036,7 +2034,6 @@ entek
 enteng
 enteni
 enter
-enthen
 enthol
 entir
 entit
@@ -2153,6 +2150,7 @@ esik
 esin
 eso
 esoe
+esoh
 esok
 esol
 eson
@@ -2210,7 +2208,6 @@ ewi
 ewih
 ewoh
 ewok
-ewong
 ewu
 ewuh
 ex
@@ -2807,7 +2804,6 @@ hani
 hansip
 hantam
 hantu
-hanya
 hap
 hapa
 hape
@@ -2938,7 +2934,6 @@ hobi
 hoe
 hoh
 hoha
-hohi
 hoho
 hoi
 hoki
@@ -4837,6 +4832,7 @@ manjing
 mantap
 mantep
 manthuk
+mantol
 mantu
 mantuk
 mantune
@@ -5016,7 +5012,6 @@ mlebu
 mmantu
 mo
 mobil
-mobilan
 moco
 modal
 modar
@@ -6337,6 +6332,7 @@ olong
 olop
 olor
 olos
+olot
 om
 oma
 omah
@@ -6727,6 +6723,7 @@ perang
 percaya
 peri
 perih
+permisi
 pero
 pes
 pesen
@@ -7836,7 +7833,6 @@ solid
 solo
 solot
 som
-soma
 somar
 somasi
 somat
@@ -8391,7 +8387,6 @@ tut
 tutuk
 tutup
 tutur
-tuturane
 tuwa
 tuwo
 tuwuh
@@ -8905,7 +8900,6 @@ we
 wea
 wean
 web
-webi
 wedan
 wedang
 wede
