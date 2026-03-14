@@ -1214,6 +1214,7 @@ cep
 cepe
 cepet
 cerak
+cere
 ceret
 ceri
 cerit
@@ -6123,6 +6124,7 @@ peju
 pek
 peka
 pekan
+peko
 pekok
 pel
 pelan
@@ -6956,6 +6958,7 @@ sayor
 sayur
 se
 sebah
+sebat
 seda
 sedan
 sedeng
