@@ -2938,6 +2938,7 @@ hiruk
 his
 hisa
 hise
+hisi
 hitam
 hitung
 hiu
@@ -4309,6 +4310,7 @@ kuwalat
 kuwe
 kuwi
 kuwo
+kyai
 la
 lab
 laba
