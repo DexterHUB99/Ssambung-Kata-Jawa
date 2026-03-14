@@ -3963,6 +3963,7 @@ kendi
 kendil
 kenduri
 kene
+kenee
 kenek
 kenen
 kenetel
@@ -7919,6 +7920,7 @@ simak
 siman
 simbah
 simbok
+simo
 simpang
 simpen
 simpenan
