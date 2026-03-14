@@ -309,6 +309,7 @@ alis
 alisan
 alit
 alm
+almari
 alo
 aloe
 alok
