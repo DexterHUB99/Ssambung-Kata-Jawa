@@ -974,6 +974,7 @@ batu
 bau
 bawa
 bawal
+bawe
 bawok
 bawuk
 bay
@@ -8713,6 +8714,7 @@ wekasan
 weki
 weko
 wektu
+weku
 wel
 welah
 welas
