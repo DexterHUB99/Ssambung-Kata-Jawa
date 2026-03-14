@@ -4093,6 +4093,7 @@ koran
 kore
 korek
 koreng
+koret
 kori
 korok
 kos
@@ -6775,6 +6776,7 @@ pojokan
 pok
 poke
 poki
+poko
 pokok
 pokoke
 pol
