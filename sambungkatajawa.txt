@@ -782,6 +782,7 @@ awaku
 awal
 awam
 awan
+awang
 awas
 awe
 awer
@@ -2066,6 +2067,7 @@ gala
 galah
 galak
 galang
+galangan
 galau
 gale
 galek
@@ -3076,6 +3078,7 @@ iyo
 iyoi
 iyu
 iyuh
+iyung
 iz
 ja
 jab
@@ -6086,6 +6089,7 @@ patok
 patub
 patuh
 patung
+paw
 pawan
 pawang
 pawon
