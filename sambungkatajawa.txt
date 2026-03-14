@@ -437,6 +437,7 @@ angah
 angan
 angap
 angar
+angat
 ange
 angel
 angen
@@ -1202,6 +1203,7 @@ cenil
 centil
 centong
 cep
+cepe
 cepet
 cerak
 ceret
@@ -1499,6 +1501,7 @@ dong
 donga
 dongo
 doni
+dono
 dora
 dore
 dori
@@ -6184,6 +6187,7 @@ pinus
 pinutur
 pio
 pipi
+pipipis
 pipis
 pir
 pira
