@@ -6618,6 +6618,7 @@ randa
 randu
 randue
 rang
+rangda
 rangga
 rangkat
 rangkul
