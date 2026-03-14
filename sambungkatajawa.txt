@@ -8621,6 +8621,7 @@ uc
 ucak
 ucap
 ucapan
+ucek
 uciha
 ucul
 ud
