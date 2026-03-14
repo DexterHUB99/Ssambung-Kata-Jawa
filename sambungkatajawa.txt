@@ -8358,6 +8358,7 @@ tun
 tuna
 tunas
 tunggal
+tunggale
 tunggu
 tungkak
 tupi
