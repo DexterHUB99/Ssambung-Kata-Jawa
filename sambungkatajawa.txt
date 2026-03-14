@@ -732,6 +732,7 @@ asat
 ase
 asek
 asem
+aseng
 asep
 aset
 asi
