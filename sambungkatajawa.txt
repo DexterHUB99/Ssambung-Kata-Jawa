@@ -2003,6 +2003,7 @@ emih
 emik
 emil
 emir
+emisi
 emo
 emod
 emoh
@@ -5038,6 +5039,7 @@ masang
 mase
 masi
 masih
+masio
 masjid
 maso
 masu
