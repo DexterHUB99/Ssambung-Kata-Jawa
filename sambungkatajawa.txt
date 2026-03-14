@@ -5044,6 +5044,7 @@ mugi
 mugih
 muh
 mujair
+mujar
 muji
 muk
 muka
@@ -7399,6 +7400,7 @@ sak
 saka
 sakar
 sakarep
+sakarepe
 sakarepmu
 saken
 saket
