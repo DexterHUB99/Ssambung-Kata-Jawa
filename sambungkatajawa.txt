@@ -7168,6 +7168,7 @@ raimu
 raimuasu
 raimui
 raimulo
+rain
 raine
 raio
 raisin
@@ -7778,6 +7779,7 @@ sebah
 sebat
 seda
 sedan
+sedang
 sedeng
 sedha
 sedho
