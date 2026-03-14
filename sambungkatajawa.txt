@@ -1876,6 +1876,7 @@ eje
 ejo
 ek
 eka
+ekae
 ekah
 ekal
 ekali
@@ -1964,6 +1965,7 @@ em
 ema
 emab
 emah
+email
 emak
 emal
 eman
@@ -2418,6 +2420,7 @@ gano
 ganteng
 ganthi
 ganti
+gantolan
 gantung
 gantungan
 ganyong
@@ -9321,6 +9324,7 @@ wiri
 wiro
 wis
 wisa
+wisan
 wisata
 wisuh
 wit
