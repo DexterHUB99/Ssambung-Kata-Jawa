@@ -4533,6 +4533,7 @@ losah
 lose
 losi
 loso
+lote
 lotek
 lotis
 lowe
@@ -7726,6 +7727,7 @@ sumeh
 sumenep
 sumerep
 sumi
+sumo
 sumonggo
 sumpah
 sumringah
