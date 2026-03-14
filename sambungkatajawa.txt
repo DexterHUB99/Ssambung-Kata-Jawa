@@ -1795,6 +1795,7 @@ ekere
 eket
 eki
 ekis
+ekit
 eklas
 eklek
 eko
@@ -6647,6 +6648,7 @@ pisan
 pisang
 pising
 pisna
+pisu
 pisuh
 pisuhi
 pisut
