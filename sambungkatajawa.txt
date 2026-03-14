@@ -3417,6 +3417,7 @@ karang
 karawang
 karawitan
 karek
+karen
 karep
 karepe
 karepmu
@@ -5432,6 +5433,7 @@ ngopi
 ngopii
 ngoplo
 ngopo
+ngopoe
 ngopor
 ngopose
 ngore
@@ -5785,6 +5787,7 @@ oge
 ogi
 ogoh
 ogol
+ogor
 oh
 ohh
 ohhh
@@ -6908,6 +6911,7 @@ sal
 salae
 salah
 salahe
+salahku
 salak
 salam
 saleh
