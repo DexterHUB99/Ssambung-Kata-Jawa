@@ -848,7 +848,6 @@ badeg
 badek
 badhe
 badokan
-bae
 bagong
 bagos
 bagu
@@ -1617,7 +1616,6 @@ eben
 ebew
 ebi
 ebol
-ecek
 eco
 ed
 eda
@@ -2584,7 +2582,6 @@ hambur
 hamel
 hamil
 hampir
-hamu
 han
 hana
 hanacaraka
@@ -2612,7 +2609,6 @@ harga
 hargai
 hari
 harian
-harima
 harimau
 harimu
 harjo
@@ -4280,7 +4276,6 @@ loe
 log
 logat
 logi
-logok
 loh
 loha
 lohan
@@ -4609,7 +4604,6 @@ mentolo
 menyan
 menyang
 meong
-mera
 merah
 merem
 meri
@@ -5438,7 +5432,6 @@ ngobrol
 ngobroli
 ngoceh
 ngocok
-ngodok
 ngoe
 ngoh
 ngojek
@@ -6672,7 +6665,6 @@ rekmo
 rekom
 rekoso
 reksa
-rela
 relax
 rem
 rema
@@ -7563,7 +7555,6 @@ tapak
 tape
 tapi
 tapir
-tapuk
 tar
 tara
 tari
