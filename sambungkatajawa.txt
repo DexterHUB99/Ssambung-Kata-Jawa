@@ -1944,6 +1944,7 @@ embuhe
 embun
 embunan
 embung
+eme
 emeh
 emek
 emem
@@ -7866,6 +7867,7 @@ siti
 sitik
 siwak
 siwur
+siyo
 slamet
 slametan
 sleman
