@@ -922,6 +922,7 @@ bantu
 banyak
 banyu
 bapak
+bapakmu
 bar
 bareng
 bariki
@@ -2416,6 +2417,7 @@ getun
 geyo
 gi
 gidal
+gig
 gigal
 gigi
 gigih
