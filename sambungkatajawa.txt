@@ -5953,6 +5953,7 @@ pager
 pagi
 pagus
 paguyupan
+pahat
 pahing
 pahit
 paido
