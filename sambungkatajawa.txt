@@ -1223,6 +1223,7 @@ budeg
 budek
 budhal
 budhe
+budhi
 budi
 budo
 bugil
@@ -7791,6 +7792,7 @@ saput
 sar
 sara
 saran
+sarang
 sarap
 sarapan
 sare
