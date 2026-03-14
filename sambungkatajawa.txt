@@ -344,6 +344,7 @@ amiri
 amis
 amit
 amo
+amoe
 amoh
 amok
 among
@@ -1587,6 +1588,7 @@ ealah
 eb
 eba
 ebeg
+eben
 ebew
 ebi
 ebol
@@ -2018,6 +2020,7 @@ eya
 eyak
 eyam
 eyang
+eye
 eyo
 eyu
 eyup
@@ -8343,6 +8346,7 @@ yawes
 yawis
 yaya
 ye
+yek
 yekti
 yen
 yep
