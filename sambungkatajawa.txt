@@ -221,6 +221,7 @@ akis
 akit
 ako
 akoe
+akok
 akol
 akon
 akoni
@@ -8497,6 +8498,7 @@ ye
 yek
 yekti
 yen
+yeno
 yep
 yer
 yere
