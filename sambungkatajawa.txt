@@ -3984,6 +3984,7 @@ kower
 koyo
 koyok
 koyone
+kram
 krama
 krambil
 kraton
