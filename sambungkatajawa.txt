@@ -4011,6 +4011,7 @@ ketis
 ketok
 ketoke
 keton
+ketos
 ketua
 ketuk
 ketup
@@ -4543,6 +4544,7 @@ lilo
 lim
 lima
 limaa
+liman
 limang
 limas
 limbah
