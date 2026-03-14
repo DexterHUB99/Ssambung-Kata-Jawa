@@ -372,6 +372,7 @@ ame
 ameh
 amek
 amen
+ameng
 amer
 amerga
 ames
@@ -5625,6 +5626,7 @@ ngantemi
 nganter
 nganthi
 nganti
+ngantien
 ngantor
 ngantri
 ngantuk
