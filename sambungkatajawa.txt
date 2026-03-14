@@ -4333,7 +4333,6 @@ kulit
 kulo
 kuloe
 kulon
-kuluk
 kulup
 kum
 kuma
@@ -5333,7 +5332,6 @@ najis
 nak
 naka
 nakal
-nakata
 naker
 naki
 nakoe
@@ -6327,7 +6325,6 @@ nore
 nori
 nos
 nosa
-nosen
 not
 nota
 noti
@@ -9344,7 +9341,6 @@ yaku
 yali
 yalo
 yam
-yama
 yamaha
 yaman
 yamen
