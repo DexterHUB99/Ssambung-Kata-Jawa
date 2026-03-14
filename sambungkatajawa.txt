@@ -2472,6 +2472,7 @@ gerah
 gerak
 geram
 gerang
+gerbong
 gere
 gereh
 gereja
@@ -8279,6 +8280,7 @@ ubur
 uc
 ucap
 ucapan
+uciha
 ucul
 ud
 uda
