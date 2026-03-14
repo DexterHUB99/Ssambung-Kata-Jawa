@@ -5150,6 +5150,7 @@ mulai
 mulak
 mulane
 mulang
+mule
 muleh
 mules
 muli
@@ -5709,6 +5710,7 @@ ngelor
 ngelu
 ngeluh
 ngeman
+ngemas
 ngembang
 ngemen
 ngemil
