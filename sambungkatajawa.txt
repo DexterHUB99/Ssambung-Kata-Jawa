@@ -4953,6 +4953,7 @@ maos
 mapak
 mapan
 mapi
+mar
 mara
 marah
 marai
@@ -5895,6 +5896,7 @@ ngider
 ngidu
 ngidul
 ngidung
+ngie
 ngig
 ngih
 ngijab
