@@ -2517,6 +2517,7 @@ ginjal
 gipang
 gir
 gira
+giran
 girang
 giri
 giring
@@ -4845,6 +4846,7 @@ mia
 mie
 mieayam
 migunani
+mii
 mijet
 mijil
 mik
