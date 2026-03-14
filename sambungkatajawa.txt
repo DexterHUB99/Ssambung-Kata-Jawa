@@ -2522,6 +2522,7 @@ gol
 gola
 gole
 golek
+golekan
 goleki
 goler
 golet
@@ -3906,6 +3907,7 @@ kiran
 kirana
 kirang
 kirap
+kirapan
 kire
 kirek
 kirep
@@ -5057,6 +5059,7 @@ nang
 nangan
 nangdi
 nange
+nanggal
 nanggap
 nanggung
 nangi
@@ -5872,6 +5875,7 @@ nita
 niten
 niti
 nitih
+nitik
 nitip
 njagong
 njajal
