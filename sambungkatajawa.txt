@@ -3177,6 +3177,7 @@ jalo
 jalu
 jaluk
 jam
+jama
 jamal
 jaman
 jambi
