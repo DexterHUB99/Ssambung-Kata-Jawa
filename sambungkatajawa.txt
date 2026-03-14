@@ -4735,6 +4735,7 @@ modus
 mogok
 moh
 mojo
+mojokerto
 mok
 mokal
 mokong
@@ -6694,6 +6695,7 @@ rapopo
 rapuh
 rara
 rarawoh
+raro
 ras
 rasa
 rasah
