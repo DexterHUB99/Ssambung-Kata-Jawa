@@ -2916,6 +2916,7 @@ hesi
 hesti
 heta
 heti
+heya
 hi
 hias
 hidayah
@@ -4345,6 +4346,7 @@ lali
 laline
 lam
 lama
+laman
 lamar
 lamaran
 lamban
@@ -7461,6 +7463,7 @@ sabit
 sabtu
 sabuk
 sabun
+sad
 sada
 sadar
 sade
