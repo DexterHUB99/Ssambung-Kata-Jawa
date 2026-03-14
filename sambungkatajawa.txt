@@ -4495,6 +4495,7 @@ landak
 landep
 landi
 landung
+langganan
 langgar
 langgeng
 langit
@@ -7779,6 +7780,7 @@ samui
 san
 sana
 sandal
+sandale
 sandang
 sandangan
 sandhang
