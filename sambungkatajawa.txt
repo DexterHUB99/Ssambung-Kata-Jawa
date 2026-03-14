@@ -5289,6 +5289,7 @@ nggambar
 nggarap
 nggawa
 nggawe
+ngge
 nggeh
 ngger
 nggi
