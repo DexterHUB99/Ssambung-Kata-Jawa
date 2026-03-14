@@ -2990,6 +2990,7 @@ ic
 ica
 ical
 icip
+ico
 icu
 id
 ida
