@@ -301,6 +301,7 @@ alm
 alo
 aloe
 alok
+alomo
 alon
 alos
 alot
@@ -5580,6 +5581,7 @@ ngilok
 ngilu
 ngiman
 ngimbar
+ngimbuh
 ngimi
 ngimpi
 ngin
