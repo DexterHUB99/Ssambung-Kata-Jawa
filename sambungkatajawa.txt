@@ -2322,6 +2322,7 @@ gereh
 gereng
 geret
 geri
+gerih
 gerik
 gering
 gerji
@@ -4371,6 +4372,7 @@ lus
 lusa
 lusi
 lusuh
+lut
 luwe
 luweh
 luwes
