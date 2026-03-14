@@ -1926,6 +1926,7 @@ enem
 enen
 eneng
 enggal
+enggar
 enggeh
 enggih
 enggon
@@ -1946,6 +1947,7 @@ eno
 enok
 enol
 enom
+enta
 entar
 entas
 ente
@@ -7107,6 +7109,7 @@ runcing
 rundingan
 rung
 rungi
+rungka
 rungkad
 rungkut
 rungsing
