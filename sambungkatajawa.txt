@@ -5984,6 +5984,7 @@ ngijol
 ngijoli
 ngik
 ngika
+ngikat
 ngiki
 ngiku
 ngilang
@@ -7852,6 +7853,7 @@ sapi
 sapih
 sapir
 sapiro
+sapo
 sapu
 saput
 sar
