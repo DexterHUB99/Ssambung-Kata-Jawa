@@ -1756,6 +1756,7 @@ duren
 duri
 durian
 durjana
+durma
 durung
 duso
 dusun
@@ -4863,6 +4864,7 @@ males
 malesan
 mali
 malih
+malin
 maling
 malu
 mam
