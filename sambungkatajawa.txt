@@ -4648,6 +4648,7 @@ loso
 lote
 lotek
 lotis
+lowas
 lowe
 lowo
 lowong
@@ -5680,6 +5681,7 @@ nger
 ngerampok
 ngerasani
 ngerek
+ngeres
 ngeret
 ngeri
 ngerit
@@ -6957,6 +6959,7 @@ putra
 putri
 putu
 putus
+puwan
 puwira
 puyeng
 puyuh
