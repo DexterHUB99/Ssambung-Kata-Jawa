@@ -10,6 +10,7 @@ abak
 abang
 abangi
 abdi
+aben
 aber
 abi
 abil
@@ -6334,6 +6335,7 @@ payah
 payu
 payung
 pe
+pea
 pean
 pecel
 peci
