@@ -166,7 +166,6 @@ ajak
 ajal
 ajang
 ajar
-ajaran
 ajay
 ajeg
 ajek
@@ -2936,6 +2935,7 @@ ikrar
 iku
 ikui
 ikuku
+ikus
 ikut
 ikutoh
 il
@@ -3309,7 +3309,6 @@ jika
 jikuk
 jil
 jilat
-jilbab
 jili
 jim
 jimat
@@ -5242,7 +5241,6 @@ ngapah
 ngapain
 ngapak
 ngapal
-ngapati
 ngapel
 ngapeli
 ngapu
@@ -5736,7 +5734,6 @@ nile
 nilem
 nilemake
 nilep
-nilo
 nim
 nimba
 nimbang
@@ -5932,6 +5929,7 @@ nyusul
 nyuwun
 oalah
 ob
+oba
 obah
 obat
 obek
@@ -6406,6 +6404,7 @@ pesing
 peso
 peta
 petak
+pete
 peteng
 pethuk
 peti
@@ -8210,7 +8209,6 @@ undhi
 undi
 unduh
 unduk
-undukan
 undur
 une
 unek
@@ -8346,7 +8344,6 @@ usih
 usik
 usil
 usir
-uska
 usko
 uso
 ust
@@ -8633,7 +8630,6 @@ yalo
 yam
 yamaha
 yaman
-yamen
 yan
 yana
 yang
