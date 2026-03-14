@@ -1254,6 +1254,7 @@ bundas
 bunder
 bunga
 bungah
+bungahe
 bungkus
 buntu
 buntung
@@ -2863,6 +2864,7 @@ hamel
 hami
 hamil
 hampir
+hamu
 han
 hana
 hanacaraka
