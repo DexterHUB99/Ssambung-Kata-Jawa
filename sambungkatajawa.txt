@@ -3317,6 +3317,7 @@ jipuk
 jir
 jira
 jiran
+jireh
 jiri
 jirih
 jit
@@ -4459,6 +4460,7 @@ lunjak
 luntur
 lunyu
 lupa
+lupi
 lupis
 luput
 lur
