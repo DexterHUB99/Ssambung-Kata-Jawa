@@ -498,6 +498,7 @@ anggep
 angger
 anggere
 anggit
+anggo
 anggok
 anggon
 anggrek
@@ -1850,6 +1851,7 @@ ekol
 ekoli
 ekon
 ekor
+ekos
 ekot
 eksi
 ektika
@@ -2034,6 +2036,7 @@ entek
 enteng
 enteni
 enter
+enthen
 enthol
 entir
 entit
@@ -2803,6 +2806,7 @@ hani
 hansip
 hantam
 hantu
+hanya
 hap
 hapa
 hape
@@ -2933,6 +2937,7 @@ hobi
 hoe
 hoh
 hoha
+hohi
 hoho
 hoi
 hoki
@@ -5010,6 +5015,7 @@ mlebu
 mmantu
 mo
 mobil
+mobilan
 moco
 modal
 modar
