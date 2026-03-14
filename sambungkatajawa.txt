@@ -2628,6 +2628,7 @@ hemat
 hena
 hene
 heni
+heno
 hep
 hepan
 hepi
@@ -4950,6 +4951,7 @@ ngacir
 ngaco
 ngacung
 ngada
+ngadang
 ngadeg
 ngadek
 ngadem
@@ -5153,6 +5155,7 @@ ngeko
 ngelag
 ngelak
 ngelakoni
+ngelantur
 ngelap
 ngelas
 ngelawak
@@ -7227,6 +7230,7 @@ sua
 suami
 suamii
 suara
+suaro
 suasu
 suba
 subal
