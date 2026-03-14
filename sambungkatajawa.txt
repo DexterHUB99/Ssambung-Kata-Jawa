@@ -2036,6 +2036,7 @@ enok
 enol
 enom
 enta
+entang
 entar
 entas
 ente
@@ -2747,6 +2748,7 @@ gusa
 gusah
 gusar
 gusi
+guso
 gusti
 gusur
 gut
@@ -5753,6 +5755,7 @@ ngewangi
 ngewarnai
 ngewe
 ngewedang
+ngewei
 ngewelingi
 ngeweruhi
 ngewi
