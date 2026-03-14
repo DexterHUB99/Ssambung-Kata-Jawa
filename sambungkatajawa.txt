@@ -3644,6 +3644,7 @@ kana
 kanah
 kanan
 kanca
+kancah
 kancaku
 kancil
 kancing
@@ -4866,6 +4867,7 @@ mbak
 mben
 mbengi
 mbok
+mboten
 mbuh
 me
 medal
