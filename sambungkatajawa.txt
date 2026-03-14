@@ -65,6 +65,7 @@ aeng
 afa
 afe
 ag
+aga
 agak
 agal
 agama
@@ -3139,6 +3140,7 @@ inem
 inep
 iner
 ines
+infaq
 ing
 ingah
 ingat
