@@ -7529,6 +7529,7 @@ tapak
 tape
 tapi
 tapir
+tapuk
 tar
 tara
 tari
