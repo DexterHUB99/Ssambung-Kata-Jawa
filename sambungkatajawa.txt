@@ -3366,6 +3366,7 @@ juni
 jupuk
 jur
 jura
+juragan
 juru
 jus
 ka
@@ -6902,6 +6903,7 @@ risa
 risak
 risi
 risih
+riska
 riski
 riso
 rit
