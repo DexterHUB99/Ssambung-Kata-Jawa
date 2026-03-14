@@ -902,6 +902,7 @@ bani
 banjir
 banter
 bantu
+banyak
 banyu
 bapak
 bar
@@ -2579,7 +2580,6 @@ haka
 hake
 haki
 hakim
-haku
 hakuwi
 hal
 hala
@@ -2742,6 +2742,7 @@ hoi
 hoki
 hola
 holi
+holo
 homo
 hon
 hono
@@ -2870,6 +2871,7 @@ ikat
 ikatan
 ike
 ikel
+iker
 iket
 ikhlas
 ikhtiar
@@ -6077,7 +6079,6 @@ osin
 osing
 osip
 osir
-osoh
 osok
 osor
 ot
@@ -6413,6 +6414,7 @@ pita
 pitak
 pitakon
 pitek
+piten
 piter
 pitik
 pitu
@@ -7347,6 +7349,7 @@ sogok
 sok
 soka
 sokan
+soke
 soket
 soklat
 soko
@@ -8125,6 +8128,7 @@ uni
 unjal
 unjar
 unjuk
+unjung
 uno
 unta
 untal
@@ -8557,7 +8561,6 @@ yole
 yolo
 yom
 yoman
-yomo
 yon
 yona
 yonan
