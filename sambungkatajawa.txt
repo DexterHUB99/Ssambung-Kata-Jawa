@@ -664,6 +664,7 @@ arema
 aren
 areng
 arep
+arepe
 ares
 aret
 arga
@@ -6013,6 +6014,7 @@ nitip
 njagong
 njajal
 njaluk
+njancok
 njupuk
 nki
 nko
