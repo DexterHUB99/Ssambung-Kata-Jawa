@@ -4614,6 +4614,7 @@ lumrah
 lumuh
 lun
 luna
+lung
 lunga
 lungguh
 lunging
@@ -6334,6 +6335,7 @@ orek
 oren
 oreng
 orep
+orer
 organisasi
 ori
 orie
@@ -8033,6 +8035,7 @@ tempura
 temu
 temulawak
 ten
+tena
 tenan
 tenanan
 tenane
