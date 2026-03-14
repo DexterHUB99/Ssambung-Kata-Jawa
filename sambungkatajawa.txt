@@ -2202,6 +2202,7 @@ gajah
 gaje
 gajelas
 gaji
+gajimu
 gajul
 gak
 gaktau
@@ -2270,6 +2271,7 @@ ganteng
 ganthi
 ganti
 gantung
+gantungan
 ganyong
 gap
 gapa
