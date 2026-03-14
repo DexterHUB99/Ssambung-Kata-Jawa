@@ -5794,6 +5794,7 @@ ngeres
 ngeret
 ngeri
 ngerit
+ngerok
 ngeroso
 ngersa
 ngerteni
@@ -6195,6 +6196,7 @@ niti
 nitih
 nitik
 nitip
+niwa
 njagong
 njajal
 njaluk
