@@ -1168,7 +1168,6 @@ cakep
 cakot
 cakung
 cal
-cala
 cama
 camat
 cambah
@@ -5540,6 +5539,7 @@ nguyup
 ngwah
 ni
 nia
+nian
 niba
 nie
 nien
@@ -7835,6 +7835,7 @@ ujaran
 uji
 ujian
 ujuk
+ujun
 ujung
 ujur
 uk
@@ -8432,6 +8433,7 @@ yoo
 yoopo
 yor
 yora
+yori
 yos
 yosa
 yosan
