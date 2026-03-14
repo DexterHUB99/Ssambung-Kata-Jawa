@@ -1068,6 +1068,7 @@ bindeng
 bingung
 bini
 bintang
+bio
 bir
 bira
 biru
@@ -1164,6 +1165,7 @@ bulo
 bulu
 bulus
 bum
+bumbune
 bumi
 bun
 bundas
@@ -1385,6 +1387,7 @@ dadar
 dadi
 dados
 dadu
+daduk
 dagang
 dagelan
 dagu
@@ -1654,7 +1657,6 @@ duri
 durian
 durjana
 durung
-dusa
 duso
 dusun
 dut
@@ -2360,6 +2362,7 @@ gen
 gena
 genah
 genap
+gendak
 gendar
 gendeng
 gender
@@ -3592,6 +3595,7 @@ kathok
 katil
 katok
 katon
+katone
 katot
 katrok
 katul
@@ -5044,6 +5048,7 @@ natap
 nate
 nawa
 nawang
+nawani
 nawar
 nawari
 nawi
@@ -5770,6 +5775,7 @@ ning
 ningali
 ninggal
 ninggalake
+ninggali
 ningkat
 ningsih
 nini
@@ -6001,6 +6007,7 @@ okeh
 okehe
 okei
 okel
+okela
 okem
 okeno
 oker
@@ -7233,6 +7240,7 @@ saru
 saruh
 sarung
 sarungan
+sas
 sasa
 sasak
 sasi
@@ -7927,6 +7935,7 @@ tobat
 toe
 toh
 tok
+toka
 toke
 tokek
 toko
