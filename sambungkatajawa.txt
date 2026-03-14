@@ -5365,6 +5365,7 @@ nembel
 nembung
 neme
 nemen
+nemok
 nempe
 nempel
 nempik
@@ -8108,6 +8109,7 @@ tari
 tarik
 taro
 taru
+taruh
 tarung
 tas
 tasa
