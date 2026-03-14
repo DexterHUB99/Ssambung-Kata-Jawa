@@ -1791,6 +1791,7 @@ encok
 endah
 endahe
 endang
+endap
 endas
 endasmu
 endek
@@ -1959,6 +1960,7 @@ etan
 etar
 etas
 ete
+eteh
 etel
 etem
 eten
