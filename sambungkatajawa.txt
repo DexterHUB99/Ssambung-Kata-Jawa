@@ -4186,6 +4186,7 @@ lik
 lika
 likan
 like
+liko
 liku
 lila
 lili
@@ -5812,6 +5813,7 @@ ogah
 ogahe
 ogak
 oge
+oger
 ogi
 ogoh
 ogol
