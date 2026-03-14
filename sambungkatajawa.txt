@@ -432,6 +432,7 @@ andus
 ane
 aneh
 anek
+aneng
 aner
 anes
 angah
@@ -2584,6 +2585,7 @@ hasta
 hasut
 hati
 hawa
+hawai
 hawane
 hawe
 hawi
