@@ -3984,6 +3984,7 @@ kiye
 klambi
 klambine
 klebus
+klemer
 klenger
 klenteng
 klepon
@@ -7511,6 +7512,7 @@ senin
 senok
 senuk
 seo
+sepak
 separo
 sepat
 sepatu
@@ -7654,6 +7656,7 @@ soka
 sokan
 soke
 soket
+sokin
 soklat
 soko
 sokor
