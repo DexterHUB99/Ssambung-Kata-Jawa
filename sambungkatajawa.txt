@@ -33,6 +33,7 @@ adang
 adat
 ade
 adeg
+adeh
 adek
 adeking
 adem
@@ -3217,6 +3218,7 @@ jora
 joran
 jore
 jori
+joro
 jorok
 jos
 joss
@@ -4336,6 +4338,7 @@ mag
 magrib
 mah
 maha
+mahir
 mai
 maido
 main
@@ -5435,6 +5438,7 @@ ngupi
 ngupil
 nguping
 ngur
+ngurah
 ngurang
 nguri
 ngurip
