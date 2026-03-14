@@ -7483,6 +7483,7 @@ ruki
 ruko
 rukuh
 rukun
+rula
 rum
 rumah
 rumangsa
@@ -8031,6 +8032,7 @@ sukun
 sukur
 sul
 sula
+sulah
 sulak
 sulam
 sulap
