@@ -5218,6 +5218,7 @@ nang
 nangan
 nangdi
 nange
+nangendi
 nanggal
 nanggap
 nanggung
@@ -7549,6 +7550,7 @@ saut
 sawah
 sawan
 sawang
+sawer
 sawi
 sawiji
 sawijine
@@ -8009,6 +8011,7 @@ tako
 takon
 takut
 tal
+tala
 talak
 talas
 tale
