@@ -719,6 +719,7 @@ asin
 asinan
 asing
 asli
+asline
 asma
 asmara
 asmaradana
@@ -859,6 +860,7 @@ ayal
 ayalan
 ayam
 ayan
+ayanen
 ayang
 ayani
 ayar
@@ -6252,6 +6254,7 @@ opoe
 opoiki
 opoki
 opon
+opone
 opor
 opose
 oposi
