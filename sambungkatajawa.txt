@@ -1771,6 +1771,7 @@ embung
 emeh
 emek
 emem
+emen
 emer
 emi
 emih
@@ -4447,6 +4448,7 @@ mangkel
 mangkih
 mangku
 mangsa
+mangsi
 mangun
 mangut
 mani
@@ -4886,6 +4888,7 @@ ndawuh
 ndek
 ndelok
 nderek
+ndeso
 ndlogok
 ndoro
 nduk
@@ -4901,6 +4904,7 @@ nedi
 neduh
 neg
 negara
+negari
 negas
 negeri
 negesi
