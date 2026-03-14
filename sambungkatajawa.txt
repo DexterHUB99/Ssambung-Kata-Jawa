@@ -5494,6 +5494,7 @@ ngaub
 ngaup
 ngaur
 ngawa
+ngawah
 ngawal
 ngawali
 ngawang
@@ -8388,6 +8389,7 @@ uku
 ukuk
 ukul
 ukum
+ukung
 ukur
 ukura
 ukuran
