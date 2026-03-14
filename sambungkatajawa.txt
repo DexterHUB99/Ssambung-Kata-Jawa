@@ -471,6 +471,7 @@ andon
 andong
 andu
 anduk
+andukan
 andum
 andung
 andus
@@ -3378,6 +3379,7 @@ itaa
 itali
 ite
 item
+ites
 itik
 itil
 ito
