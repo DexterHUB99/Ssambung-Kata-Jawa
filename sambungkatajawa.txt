@@ -997,6 +997,7 @@ bibit
 bicu
 bidak
 bidan
+bidek
 bidik
 bidun
 bidur
@@ -2891,6 +2892,7 @@ indah
 indak
 indang
 indek
+indeng
 inding
 indra
 indu
@@ -5164,6 +5166,7 @@ ngemut
 ngen
 ngena
 ngenah
+ngencuk
 ngendah
 ngendang
 ngendeng
