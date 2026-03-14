@@ -5136,6 +5136,7 @@ ngecek
 ngeces
 ngecet
 ngedang
+ngedani
 ngeden
 ngegas
 ngeh
@@ -5245,6 +5246,7 @@ nggih
 nggilani
 nggo
 nggolek
+nggoleti
 nggon
 nggoreng
 nggowo
@@ -5262,6 +5264,7 @@ ngider
 ngidu
 ngidul
 ngidung
+ngig
 ngih
 ngijab
 ngijing
@@ -5438,6 +5441,7 @@ ngumbel
 ngumpet
 ngumpul
 ngumpulake
+ngun
 nguna
 nguncal
 ngundang
@@ -6094,6 +6098,7 @@ patub
 patuh
 patung
 paw
+pawai
 pawan
 pawang
 pawon
@@ -7952,6 +7957,7 @@ upan
 upang
 upas
 upaya
+upe
 upel
 upi
 upik
