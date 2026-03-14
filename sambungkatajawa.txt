@@ -6496,6 +6496,7 @@ ojolali
 ojolan
 ok
 oka
+okae
 okai
 okal
 okam
@@ -7568,6 +7569,7 @@ roi
 rok
 roke
 roki
+roko
 rokok
 rolas
 role
@@ -9437,6 +9439,7 @@ yori
 yos
 yosa
 yosan
+yosi
 yoto
 yowe
 yowes
