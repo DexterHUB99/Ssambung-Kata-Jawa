@@ -2340,6 +2340,7 @@ gemuk
 gen
 gena
 genah
+genap
 gendar
 gendeng
 gender
