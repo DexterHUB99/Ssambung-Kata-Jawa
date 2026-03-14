@@ -3514,12 +3514,14 @@ keka
 kekal
 keke
 keket
+keki
 kel
 kela
 kelak
 kelam
 kelambe
 kelangan
+kelar
 kelaran
 kelas
 kelawan
@@ -6791,6 +6793,7 @@ rotii
 roto
 rowang
 rowo
+rowoe
 royal
 ru
 rua
@@ -7659,6 +7662,7 @@ tit
 tita
 titah
 titen
+titeni
 titi
 titid
 titik
