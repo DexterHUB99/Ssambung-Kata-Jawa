@@ -3435,6 +3435,7 @@ kayu
 ke
 keapa
 kebak
+kebas
 kebaya
 kebo
 kebon
@@ -4496,6 +4497,7 @@ mentol
 mentolo
 menyan
 menyang
+meong
 merah
 merem
 meri
@@ -7510,6 +7512,7 @@ tiris
 tirta
 tiru
 tis
+tisa
 tisi
 tisu
 tit
