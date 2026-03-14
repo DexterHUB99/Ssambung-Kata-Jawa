@@ -3997,6 +3997,7 @@ ken
 kena
 kenak
 kenapa
+kencur
 kendal
 kendang
 kendel
@@ -7621,6 +7622,7 @@ rum
 rumah
 rumangsa
 rumangsane
+rumba
 rumbai
 rumbi
 rumi
