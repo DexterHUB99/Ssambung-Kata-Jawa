@@ -1604,6 +1604,7 @@ dhadha
 di
 diancok
 diangsang
+dibawa
 dibo
 didak
 didi
@@ -6641,6 +6642,7 @@ opit
 opo
 opoe
 opoiki
+opok
 opoki
 opon
 opone
@@ -9046,6 +9048,7 @@ usa
 usaa
 usah
 usaha
+usahane
 usai
 usak
 usan
