@@ -3951,6 +3951,7 @@ lab
 laba
 labu
 lada
+ladak
 lading
 laen
 lagi
@@ -5298,6 +5299,7 @@ ngig
 ngih
 ngijab
 ngijing
+ngijol
 ngijoli
 ngik
 ngiki
@@ -6930,6 +6932,7 @@ sanggar
 sanggul
 sangit
 sangka
+sangking
 sangkuni
 sangon
 sangu
@@ -7417,6 +7420,7 @@ taka
 takbir
 taken
 takjil
+tako
 takon
 takut
 tal
