@@ -951,6 +951,7 @@ bayu
 be
 bean
 bebas
+bebe
 bebek
 beber
 becak
@@ -4796,6 +4797,7 @@ mrono
 mu
 mual
 muara
+mubal
 mubeng
 mudal
 mudar
