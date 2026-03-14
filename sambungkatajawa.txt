@@ -3490,6 +3490,7 @@ jangga
 janggut
 jangkep
 jangkrik
+jani
 janian
 janji
 jar
@@ -5042,6 +5043,7 @@ metu
 metuan
 mi
 mia
+micek
 mie
 mieayam
 migunani
