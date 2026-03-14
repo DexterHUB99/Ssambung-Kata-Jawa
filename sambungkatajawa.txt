@@ -1179,6 +1179,7 @@ bolot
 bom
 bon
 bonang
+bong
 bongko
 bongkok
 bop
@@ -6031,6 +6032,7 @@ ngulek
 ngulet
 nguli
 ngulik
+ngulit
 ngulo
 ngulon
 ngulu
