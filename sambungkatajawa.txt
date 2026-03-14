@@ -3884,6 +3884,7 @@ kedaton
 keder
 kediri
 keduhung
+kejam
 kek
 keka
 kekal
@@ -5668,6 +5669,7 @@ ngasuh
 ngatasi
 ngatau
 ngatel
+ngaten
 ngati
 ngatin
 ngatok
@@ -6548,6 +6550,7 @@ oposi
 opoyo
 or
 ora
+oraa
 orae
 orah
 orai
