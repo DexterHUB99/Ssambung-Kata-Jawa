@@ -770,6 +770,7 @@ auta
 autan
 auto
 aw
+awah
 awak
 awakdewe
 awake
@@ -4599,6 +4600,7 @@ momong
 mon
 mondar
 mondok
+mong
 monggo
 moni
 montor
@@ -5438,6 +5440,7 @@ nguri
 ngurip
 nguripi
 ngurui
+ngurung
 ngurus
 ngurusi
 ngus
@@ -5454,6 +5457,7 @@ ngutil
 nguyon
 nguyu
 nguyuh
+nguyup
 ngwah
 ni
 nia
@@ -6269,6 +6273,7 @@ posen
 posi
 pot
 potong
+powa
 powo
 poye
 poyo
@@ -7967,6 +7972,7 @@ urus
 urusan
 urusen
 urusi
+urusno
 urut
 urutan
 us
