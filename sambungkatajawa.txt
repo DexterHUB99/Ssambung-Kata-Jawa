@@ -505,6 +505,7 @@ anget
 anggar
 anggara
 anggaran
+angge
 anggeh
 anggene
 anggep
@@ -1391,6 +1392,7 @@ cili
 cilik
 cilo
 cilok
+cilung
 cin
 cina
 cincin
@@ -2891,6 +2893,7 @@ harian
 harimau
 harimu
 harjo
+harm
 harman
 haro
 harta
