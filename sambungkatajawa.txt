@@ -910,6 +910,7 @@ bandeng
 bando
 bandrek
 bangke
+bangkong
 bangsat
 bani
 banjir
@@ -1461,6 +1462,7 @@ dengkul
 deni
 depa
 der
+derek
 dereng
 deres
 desa
