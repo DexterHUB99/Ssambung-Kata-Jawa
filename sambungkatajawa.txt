@@ -1035,6 +1035,7 @@ bito
 biu
 biyen
 biyung
+blas
 bo
 bobo
 bobok
@@ -4756,6 +4757,7 @@ naka
 nakal
 naker
 naki
+nakoe
 nakon
 nakoni
 nakula
@@ -6555,6 +6557,7 @@ rega
 regane
 reget
 rei
+rejeb
 rejo
 rek
 rekam
@@ -6901,6 +6904,7 @@ sandal
 sandang
 sandangan
 sandhang
+sane
 sanes
 sangar
 sangat
@@ -8351,6 +8355,7 @@ yekti
 yen
 yep
 yer
+yere
 yero
 yes
 yesa
