@@ -357,6 +357,7 @@ amboi
 ambrol
 ambruk
 ambu
+ambul
 ambune
 ambung
 ambunge
@@ -3964,6 +3965,7 @@ kersane
 kertas
 keruh
 kerupuk
+kerus
 kerutan
 kes
 kesah
