@@ -2741,7 +2741,6 @@ hoi
 hoki
 hola
 holi
-holo
 homo
 hon
 hono
@@ -2870,7 +2869,6 @@ ikat
 ikatan
 ike
 ikel
-iker
 iket
 ikhlas
 ikhtiar
@@ -6078,6 +6076,7 @@ osin
 osing
 osip
 osir
+osoh
 osok
 osor
 ot
@@ -7347,7 +7346,6 @@ sogok
 sok
 soka
 sokan
-soke
 soket
 soklat
 soko
