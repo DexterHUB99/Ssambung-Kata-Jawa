@@ -115,7 +115,6 @@ ahit
 ahlak
 ahli
 ahlian
-ahlie
 ahline
 ahlu
 ahlul
@@ -761,7 +760,6 @@ atir
 atis
 atit
 atma
-atmaa
 atmana
 ato
 atoh
@@ -809,7 +807,6 @@ awer
 awet
 awis
 awit
-awo
 awok
 awong
 awor
@@ -1345,7 +1342,6 @@ da
 dab
 dablek
 dada
-dadah
 dadar
 dadi
 dados
@@ -2650,6 +2646,7 @@ hasri
 hasta
 hasut
 hati
+hatimu
 hawa
 hawai
 hawane
@@ -3182,7 +3179,6 @@ jalo
 jalu
 jaluk
 jam
-jama
 jamal
 jaman
 jambi
@@ -5128,7 +5124,6 @@ ngambung
 ngamil
 ngamok
 ngampel
-ngampil
 ngampun
 ngamuk
 ngan
@@ -5450,7 +5445,6 @@ ngitung
 ngiwa
 ngiwasi
 ngko
-nglakoni
 nglangkah
 ngliwet
 nglon
@@ -6429,7 +6423,6 @@ pocong
 podho
 poe
 poho
-poi
 pojok
 pojokan
 pok
@@ -6624,7 +6617,6 @@ randa
 randu
 randue
 rang
-rangda
 rangga
 rangkat
 rangkul
@@ -6645,7 +6637,6 @@ rapa
 rapapa
 rapat
 rape
-rapet
 rapi
 rapie
 rapih
@@ -7020,7 +7011,6 @@ salam
 saleh
 sali
 salim
-salo
 saloe
 salon
 salut
@@ -7290,6 +7280,7 @@ simpang
 simpen
 simpenan
 sin
+sina
 sinau
 sinden
 sing
