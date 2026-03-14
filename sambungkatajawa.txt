@@ -1532,6 +1532,7 @@ demi
 demit
 demo
 demok
+dempul
 dendeng
 dene
 deneng
@@ -4017,6 +4018,7 @@ kiris
 kis
 kisa
 kisan
+kisanak
 kisi
 kit
 kita
