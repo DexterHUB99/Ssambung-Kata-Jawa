@@ -2170,6 +2170,7 @@ etah
 etak
 etal
 etan
+etang
 etar
 etas
 ete
