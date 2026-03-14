@@ -2221,6 +2221,7 @@ gandrung
 gandul
 gandung
 gang
+ganggang
 ganggu
 gangsal
 gangsing
@@ -8463,6 +8464,7 @@ visa
 voli
 wa
 waca
+wacana
 wadah
 wadara
 wader
