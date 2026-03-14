@@ -340,6 +340,7 @@ ami
 amie
 amil
 amin
+amini
 amir
 amiri
 amis
@@ -4031,6 +4032,7 @@ lapisan
 lapo
 lar
 lara
+laran
 larang
 laras
 lare
@@ -4953,6 +4955,7 @@ neros
 nerus
 nes
 nesa
+nesi
 nesu
 net
 nete
@@ -5403,6 +5406,7 @@ ngopeni
 ngopet
 ngopi
 ngopii
+ngoplo
 ngopo
 ngopor
 ngopose
@@ -5495,6 +5499,7 @@ nguping
 ngur
 ngurah
 ngurang
+ngurek
 nguri
 ngurip
 nguripi
@@ -8335,6 +8340,7 @@ xilofon
 xixixi
 xray
 ya
+yaa
 yaapa
 yaelah
 yah
