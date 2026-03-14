@@ -5579,6 +5579,7 @@ ngundang
 ngunduh
 ngundur
 ngunem
+ngung
 ngunggah
 ngungkuli
 nguning
@@ -8332,6 +8333,7 @@ warah
 warak
 waras
 wareg
+warek
 warga
 waris
 warisan
