@@ -173,6 +173,7 @@ ajih
 ajik
 ajing
 ajining
+ajis
 ajisaka
 ajor
 ajrih
@@ -6479,6 +6480,7 @@ puan
 puasa
 pucuk
 pue
+pui
 puja
 puk
 puki
