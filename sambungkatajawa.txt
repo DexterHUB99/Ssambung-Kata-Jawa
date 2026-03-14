@@ -1059,6 +1059,7 @@ bonang
 bongko
 bongkok
 bor
+boring
 boro
 borok
 boros
@@ -2490,6 +2491,7 @@ guten
 guwa
 guyon
 guyonan
+guys
 guyu
 guyub
 guyup
@@ -4271,6 +4273,7 @@ lowe
 lowo
 lowong
 lowongan
+loya
 loyo
 lsp
 lu
@@ -4945,6 +4948,7 @@ ngaceng
 ngacir
 ngaco
 ngacung
+ngada
 ngadeg
 ngadek
 ngadem
