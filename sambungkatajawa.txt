@@ -2509,6 +2509,7 @@ gigit
 gigu
 gih
 gila
+gilak
 gilane
 gilang
 gilani
@@ -3388,6 +3389,7 @@ jaya
 je
 jeglong
 jeh
+jejel
 jek
 jeke
 jelas
@@ -5011,6 +5013,7 @@ muncul
 mundak
 mundhut
 mundur
+munek
 mung
 mungah
 munggah
@@ -5311,6 +5314,7 @@ ngadus
 ngae
 ngagem
 ngagung
+ngah
 ngahad
 ngail
 ngaja
