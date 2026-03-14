@@ -2280,6 +2280,7 @@ gagar
 gagas
 gagasan
 gage
+gagrak
 gagu
 gaguna
 gah
@@ -7526,6 +7527,7 @@ sakiki
 saking
 sakit
 sakne
+sakno
 sakral
 saksake
 sakti
