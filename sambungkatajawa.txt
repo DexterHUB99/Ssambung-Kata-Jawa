@@ -2744,6 +2744,7 @@ harjo
 haro
 harta
 haru
+harui
 harum
 harus
 haruse
@@ -3112,6 +3113,7 @@ ingu
 ini
 injak
 injek
+inji
 injih
 injing
 injuk
@@ -4682,6 +4684,7 @@ mangkat
 mangke
 mangkel
 mangkih
+mangkok
 mangku
 mangsa
 mangsi
