@@ -6478,6 +6478,7 @@ pados
 padu
 paduka
 padune
+padus
 padusan
 pagar
 pager
