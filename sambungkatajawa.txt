@@ -492,6 +492,7 @@ anggep
 angger
 anggere
 anggit
+anggok
 anggon
 anggrek
 angguk
@@ -1951,6 +1952,7 @@ enal
 enam
 enan
 enang
+encer
 encok
 endah
 endahe
@@ -4601,6 +4603,7 @@ luber
 lucu
 ludah
 ludruk
+lugas
 lugu
 luh
 luhan
