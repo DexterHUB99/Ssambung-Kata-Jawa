@@ -2243,6 +2243,7 @@ fulus
 fungsi
 ga
 gabah
+gabak
 gabe
 gaber
 gabes
