@@ -1103,6 +1103,7 @@ besok
 besuk
 besuki
 betah
+beti
 beto
 beton
 bewa
@@ -3763,6 +3764,7 @@ kancing
 kancut
 kandang
 kandani
+kandel
 kandha
 kandut
 kane
