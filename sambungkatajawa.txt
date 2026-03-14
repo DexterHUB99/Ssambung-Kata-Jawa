@@ -610,6 +610,7 @@ anu
 anuk
 anum
 anun
+anung
 anus
 anut
 anyam
@@ -5786,6 +5787,7 @@ ngesak
 ngesat
 ngeseng
 ngesok
+ngesor
 ngesot
 ngesuk
 nget
