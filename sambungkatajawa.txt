@@ -4572,6 +4572,7 @@ loncat
 lonceng
 londho
 londok
+lone
 longgar
 longgo
 longgor
@@ -4959,6 +4960,7 @@ moco
 modal
 modar
 modus
+modyar
 mogok
 moh
 mojo
