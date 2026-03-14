@@ -1,5 +1,4 @@
 aa
-aae
 aah
 aaha
 ab
@@ -1573,7 +1572,6 @@ dluwang
 do
 doa
 dobol
-dodi
 dodo
 dodol
 dodolan
@@ -3539,7 +3537,6 @@ kanti
 kantil
 kanto
 kantor
-kantun
 kanyuwun
 kaos
 kapak
@@ -3882,7 +3879,6 @@ kiran
 kirana
 kirang
 kirap
-kire
 kirek
 kirep
 kiri
@@ -4935,7 +4931,6 @@ mutah
 mutan
 muten
 muti
-mutih
 na
 nabi
 nabok
@@ -4999,7 +4994,6 @@ namine
 namo
 nampa
 nampak
-nampake
 nampan
 nampani
 nampar
@@ -5072,7 +5066,6 @@ nata
 natal
 natap
 nate
-nati
 nawa
 nawang
 nawani
@@ -5235,7 +5228,6 @@ ngalor
 ngalus
 ngam
 ngamal
-ngamar
 ngamba
 ngambang
 ngambar
@@ -6741,7 +6733,6 @@ raja
 rajah
 rajang
 rajin
-raju
 rajuk
 rajut
 rak
@@ -6868,7 +6859,6 @@ rebahan
 rebana
 rebo
 rebung
-rebut
 receh
 redi
 rega
@@ -7433,7 +7423,6 @@ sidang
 sie
 sigap
 sigar
-sigrak
 sih
 sii
 siji
@@ -8182,7 +8171,6 @@ ukma
 ukna
 uko
 ukol
-ukom
 ukon
 ukop
 ukra
@@ -8658,7 +8646,6 @@ wisuh
 wit
 witan
 witir
-wiwi
 wiwit
 wiwitan
 wo
