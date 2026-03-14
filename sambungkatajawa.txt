@@ -418,7 +418,6 @@ ancang
 ancas
 ancase
 ancen
-ancene
 ancer
 ancik
 anco
@@ -1069,6 +1068,7 @@ bindeng
 bingung
 bini
 bintang
+bio
 bir
 bira
 biru
@@ -1165,6 +1165,7 @@ bulo
 bulu
 bulus
 bum
+bumbune
 bumi
 bun
 bundas
@@ -1386,6 +1387,7 @@ dadar
 dadi
 dados
 dadu
+daduk
 dagang
 dagelan
 dagu
@@ -1655,7 +1657,6 @@ duri
 durian
 durjana
 durung
-dusa
 duso
 dusun
 dut
@@ -2552,6 +2553,7 @@ gugus
 gul
 gula
 gulai
+gulali
 gule
 guleman
 guleng
@@ -2845,7 +2847,6 @@ hup
 hur
 hura
 hure
-huri
 hurip
 huru
 huruf
@@ -3594,6 +3595,7 @@ kathok
 katil
 katok
 katon
+katone
 katot
 katrok
 katul
@@ -3981,7 +3983,6 @@ koyok
 koyone
 krama
 krambil
-krasa
 kresna
 kripik
 krungu
@@ -4674,6 +4675,7 @@ mawar
 mawon
 maya
 mayak
+mayan
 mayat
 mayit
 mbah
@@ -4987,7 +4989,6 @@ nanah
 nanai
 nanak
 nanam
-nananas
 nanang
 nanas
 nandang
@@ -5048,6 +5049,7 @@ natap
 nate
 nawa
 nawang
+nawani
 nawar
 nawari
 nawi
@@ -5360,7 +5362,6 @@ ngedani
 ngeden
 ngegas
 ngeh
-ngei
 ngejak
 ngejar
 ngejek
@@ -5891,6 +5892,7 @@ numpuk
 numpul
 nun
 nung
+nunggal
 nunggoni
 nunggu
 nuni
@@ -6006,6 +6008,7 @@ okeh
 okehe
 okei
 okel
+okela
 okem
 okeno
 oker
@@ -6314,7 +6317,6 @@ pantai
 pantar
 pantat
 pantes
-pantesan
 panti
 pantun
 panut
@@ -6443,7 +6445,6 @@ peyek
 pi
 pia
 piagam
-piala
 piano
 piatu
 picak
@@ -6846,7 +6847,6 @@ rekmo
 rekom
 rekoso
 reksa
-reksasa
 rela
 relax
 rem
@@ -7154,7 +7154,6 @@ salam
 saleh
 sali
 salim
-salira
 salo
 saloe
 salon
@@ -7242,6 +7241,7 @@ saru
 saruh
 sarung
 sarungan
+sas
 sasa
 sasak
 sasi
@@ -7918,6 +7918,7 @@ tisu
 tit
 tita
 titah
+titan
 titen
 titeni
 titi
@@ -7936,6 +7937,7 @@ tobat
 toe
 toh
 tok
+toka
 toke
 tokek
 toko
@@ -8270,7 +8272,6 @@ ungkas
 ungkir
 ungu
 uni
-uning
 unjal
 unjar
 unjuk
