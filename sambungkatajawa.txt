@@ -3609,6 +3609,7 @@ juri
 juru
 jus
 ka
+kabar
 kabeh
 kabel
 kabul
@@ -4429,6 +4430,7 @@ lantur
 laos
 lap
 lapak
+lapan
 lapang
 lapar
 lape
