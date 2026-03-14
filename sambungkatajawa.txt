@@ -2686,6 +2686,7 @@ hormat
 horo
 horog
 hot
+hota
 hote
 hotel
 hotma
@@ -4716,6 +4717,7 @@ nadahi
 nadi
 nadyan
 nafas
+nag
 naga
 nagasari
 nagi
@@ -7209,6 +7211,7 @@ subhanallah
 subuh
 subur
 suci
+sud
 suda
 sudah
 sude
@@ -7713,6 +7716,7 @@ udel
 udelku
 udelmu
 udeng
+udi
 udik
 udin
 udo
