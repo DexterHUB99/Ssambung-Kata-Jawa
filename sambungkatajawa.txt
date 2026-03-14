@@ -1350,6 +1350,7 @@ cing
 cingkrang
 cino
 cinta
+cipa
 cire
 cireng
 ciro
