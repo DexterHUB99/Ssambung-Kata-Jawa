@@ -1863,6 +1863,7 @@ ekem
 eken
 eker
 ekere
+ekes
 eket
 eki
 ekin
@@ -5627,6 +5628,7 @@ ngari
 ngaring
 ngarit
 ngarsa
+ngarti
 ngaruh
 ngaruk
 ngarung
