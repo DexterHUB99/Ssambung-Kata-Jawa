@@ -922,7 +922,6 @@ bani
 banjir
 banter
 bantu
-bantul
 banyak
 banyu
 bapak
@@ -5736,6 +5735,7 @@ nile
 nilem
 nilemake
 nilep
+nilo
 nim
 nimba
 nimbang
