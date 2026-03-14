@@ -5446,6 +5446,7 @@ nempik
 nempil
 nemu
 nen
+nenake
 nendang
 nene
 nenek
@@ -7606,6 +7607,7 @@ sali
 salim
 salo
 saloe
+salom
 salon
 salut
 sam
