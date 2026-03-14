@@ -355,6 +355,7 @@ ampang
 ampar
 amparan
 ampas
+ampat
 ampe
 ampek
 ampel
@@ -1961,6 +1962,7 @@ ete
 etel
 etem
 eten
+eter
 etes
 eti
 etig
@@ -6047,6 +6049,7 @@ pati
 patih
 patin
 patis
+pato
 patok
 patub
 patuh
