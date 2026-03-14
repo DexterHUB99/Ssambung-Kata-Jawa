@@ -616,6 +616,7 @@ arep
 ares
 aret
 ari
+arif
 arih
 arik
 aring
@@ -2018,6 +2019,7 @@ eyo
 eyu
 eyup
 fakir
+fani
 fasih
 fix
 fokus
@@ -2740,6 +2742,7 @@ ib
 iba
 ibadah
 ibak
+ibarat
 iber
 ibu
 ibuk
@@ -3630,6 +3633,7 @@ ketat
 ketek
 ketel
 ketemu
+keter
 kethek
 ketiban
 ketir
@@ -8031,6 +8035,7 @@ usu
 usuk
 usul
 usung
+usuo
 usus
 usut
 uswa
