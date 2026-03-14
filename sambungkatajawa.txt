@@ -136,6 +136,7 @@ ahuy
 ai
 aia
 aian
+aie
 aii
 aika
 aiko
@@ -1148,6 +1149,7 @@ cabi
 caca
 cacah
 cacahe
+cacar
 cacat
 caci
 cacig
@@ -4684,6 +4686,7 @@ mules
 muli
 mulia
 mulih
+muliho
 mulung
 mulus
 mulya
