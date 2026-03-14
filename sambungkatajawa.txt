@@ -5153,6 +5153,7 @@ naek
 nafas
 nag
 naga
+nagara
 nagasari
 nagi
 nagih
@@ -6021,6 +6022,7 @@ nilep
 nilo
 nim
 nima
+nimah
 nimba
 nimbang
 nimbangi
