@@ -922,7 +922,6 @@ bani
 banjir
 banter
 bantu
-bantul
 banyak
 banyu
 bapak
@@ -8632,6 +8631,7 @@ yalo
 yam
 yamaha
 yaman
+yamen
 yan
 yana
 yang
