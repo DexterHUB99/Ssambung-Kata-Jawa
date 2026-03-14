@@ -1232,6 +1232,7 @@ burok
 buron
 buru
 buruh
+buruk
 bus
 busa
 buset
@@ -5748,6 +5749,7 @@ ngirimi
 ngiris
 ngirit
 ngirup
+ngis
 ngisak
 ngisan
 ngiseng
