@@ -4258,6 +4258,7 @@ loe
 log
 logat
 logi
+logok
 loh
 loha
 lohan
@@ -5409,6 +5410,7 @@ ngobrol
 ngobroli
 ngoceh
 ngocok
+ngodok
 ngoe
 ngoh
 ngojek
