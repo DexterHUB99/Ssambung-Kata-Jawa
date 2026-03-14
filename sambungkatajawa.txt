@@ -3224,6 +3224,7 @@ impi
 impian
 impil
 impit
+impor
 imuh
 imut
 in
@@ -9330,6 +9331,7 @@ yuki
 yuko
 yuli
 yulo
+yuma
 yumi
 yun
 yuna
