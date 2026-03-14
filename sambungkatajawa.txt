@@ -7541,6 +7541,7 @@ terang
 teras
 teri
 terima
+terne
 terong
 terus
 tesi
@@ -7990,6 +7991,7 @@ upel
 upi
 upik
 upil
+uping
 upir
 upit
 upo
