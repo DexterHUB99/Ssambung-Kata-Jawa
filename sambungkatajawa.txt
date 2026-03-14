@@ -8418,6 +8418,7 @@ ukit
 ukka
 ukma
 ukmo
+ukmu
 ukna
 uko
 ukol
