@@ -2078,6 +2078,7 @@ entenge
 enteni
 enter
 enthen
+entheng
 enthol
 entir
 entit
@@ -8535,6 +8536,7 @@ toro
 tos
 tosa
 tose
+tota
 totak
 toto
 towo
