@@ -8804,6 +8804,7 @@ wa
 waca
 wacana
 wadah
+wadan
 wadara
 wader
 wadha
