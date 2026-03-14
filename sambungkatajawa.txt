@@ -6112,6 +6112,7 @@ ngut
 ngutang
 ngutik
 ngutil
+nguwi
 nguyon
 nguyu
 nguyuh
@@ -7002,6 +7003,7 @@ pole
 poles
 poli
 polisi
+poll
 polo
 pom
 poma
