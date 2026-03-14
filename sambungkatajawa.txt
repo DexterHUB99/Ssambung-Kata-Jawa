@@ -3552,6 +3552,7 @@ kapan
 kapas
 kapi
 kaping
+kaplok
 kapok
 kapor
 kapuk
@@ -6854,6 +6855,7 @@ raup
 rausah
 raut
 rawa
+rawal
 rawan
 rawe
 rawi
