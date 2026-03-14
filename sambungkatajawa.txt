@@ -446,6 +446,7 @@ ancuk
 ancur
 anda
 andai
+andal
 andalan
 andang
 andap
@@ -2225,6 +2226,7 @@ eye
 eyo
 eyu
 eyup
+fafa
 faham
 fakir
 fani
@@ -8943,6 +8945,7 @@ welas
 weleh
 weli
 weling
+welo
 wen
 weni
 weo
