@@ -2366,6 +2366,7 @@ gambuh
 gambut
 gambyong
 game
+gamean
 gamel
 gamela
 gamelan
@@ -2752,6 +2753,7 @@ gulai
 gulak
 gulali
 gule
+gulek
 guleman
 guleng
 guli
@@ -3255,6 +3257,7 @@ in
 ina
 inah
 inak
+inal
 inam
 inang
 inani
