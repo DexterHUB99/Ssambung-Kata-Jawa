@@ -5760,6 +5760,7 @@ ngurek
 nguri
 ngurip
 nguripi
+nguru
 ngurui
 ngurung
 ngurus
@@ -8418,6 +8419,7 @@ urung
 urup
 urus
 urusan
+urusane
 urusen
 urusi
 urusno
@@ -8716,6 +8718,7 @@ xixixi
 xray
 ya
 yaa
+yaampun
 yaapa
 yadi
 yaelah
