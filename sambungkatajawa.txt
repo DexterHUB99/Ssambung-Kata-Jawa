@@ -5999,6 +5999,7 @@ ngujuk
 ngukir
 ngukur
 ngul
+ngulai
 ngulang
 nguleg
 ngulek
