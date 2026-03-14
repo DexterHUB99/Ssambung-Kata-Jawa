@@ -3212,6 +3212,7 @@ isil
 isin
 isine
 ising
+isinna
 isis
 iska
 iski
@@ -5852,6 +5853,7 @@ nilemake
 nilep
 nilo
 nim
+nima
 nimba
 nimbang
 nimbangi
@@ -6433,6 +6435,7 @@ parang
 parani
 paras
 pare
+paren
 pareng
 pari
 paring
@@ -6687,6 +6690,7 @@ poran
 pore
 porek
 pori
+porno
 poro
 poron
 pos
