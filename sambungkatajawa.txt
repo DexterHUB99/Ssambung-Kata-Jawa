@@ -789,6 +789,7 @@ atasan
 ataw
 atawa
 ate
+ateh
 atek
 atel
 atem
@@ -3461,6 +3462,7 @@ jil
 jilat
 jilbab
 jili
+jilid
 jim
 jimat
 jimbar
