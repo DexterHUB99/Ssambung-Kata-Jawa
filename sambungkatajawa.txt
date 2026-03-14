@@ -5137,6 +5137,7 @@ ngatuk
 ngatur
 ngaturaken
 ngaturi
+ngaturno
 ngaub
 ngaup
 ngaur
@@ -5961,6 +5962,7 @@ osan
 osar
 osas
 osek
+osen
 oseng
 oser
 osik
@@ -7701,6 +7703,7 @@ tugel
 tuh
 tuhan
 tuk
+tukan
 tukang
 tukaran
 tuki
