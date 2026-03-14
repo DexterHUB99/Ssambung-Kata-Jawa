@@ -4151,6 +4151,7 @@ limbung
 limo
 limolas
 limpa
+limu
 limun
 lin
 lina
@@ -4648,6 +4649,7 @@ mripat
 mrono
 mu
 mual
+muara
 mubeng
 mudal
 mudar
@@ -5501,6 +5503,7 @@ ni
 nia
 niba
 nie
+nien
 nik
 nika
 nikah
