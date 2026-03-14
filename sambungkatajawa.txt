@@ -1567,6 +1567,7 @@ dimana
 dimar
 dimas
 dimna
+dimo
 dimul
 dina
 dinan
@@ -8860,6 +8861,7 @@ yani
 yano
 yap
 yaping
+yapo
 yare
 yas
 yasi
