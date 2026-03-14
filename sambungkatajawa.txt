@@ -6455,6 +6455,7 @@ pakur
 pala
 palah
 palak
+palamu
 palang
 pale
 palem
