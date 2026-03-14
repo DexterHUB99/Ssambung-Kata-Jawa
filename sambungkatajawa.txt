@@ -1601,6 +1601,7 @@ edo
 edul
 edus
 eeh
+ef
 eg
 ega
 egak
@@ -2020,6 +2021,7 @@ eyang
 eyo
 eyu
 eyup
+faham
 fakir
 fani
 fasih
@@ -5387,6 +5389,7 @@ ngopet
 ngopi
 ngopii
 ngopo
+ngopor
 ngopose
 ngore
 ngorek
@@ -7458,6 +7461,7 @@ tawa
 tawan
 tawar
 tawon
+tawuran
 tayo
 te
 tebu
@@ -7977,6 +7981,7 @@ upel
 upi
 upik
 upil
+upir
 upit
 upo
 upupah
