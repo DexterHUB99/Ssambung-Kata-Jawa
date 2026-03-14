@@ -195,6 +195,7 @@ akam
 akan
 akang
 akar
+akara
 akas
 akasa
 akat
@@ -233,7 +234,6 @@ akor
 akos
 akrab
 aksa
-aksama
 aksara
 aksen
 aksi
@@ -669,7 +669,6 @@ arupa
 arus
 arwa
 arwah
-arya
 as
 asa
 asah
@@ -1112,6 +1111,7 @@ botol
 boyo
 boyok
 bu
+bua
 buaya
 bubar
 bubrah
@@ -1574,6 +1574,7 @@ dosa
 dosen
 doso
 dowo
+doyan
 du
 duda
 dudi
@@ -2220,6 +2221,7 @@ garem
 gareng
 gari
 garian
+garih
 garik
 garing
 garis
@@ -2375,7 +2377,6 @@ gerji
 germo
 gero
 gerobak
-geroh
 gerus
 ges
 gesek
@@ -2641,6 +2642,7 @@ har
 hara
 haram
 harap
+harapan
 haren
 harep
 harga
@@ -2664,6 +2666,7 @@ hasem
 hasi
 hasil
 hasile
+hasna
 hasrat
 hasri
 hasta
@@ -3354,7 +3357,6 @@ kabeh
 kabel
 kabul
 kabupaten
-kabur
 kaca
 kacang
 kacau
@@ -3491,6 +3493,7 @@ karawitan
 kare
 karek
 karen
+karena
 karep
 karepe
 karepmu
@@ -3505,9 +3508,9 @@ karpet
 karsa
 kartu
 karung
+karya
 kas
 kasa
-kasak
 kasang
 kasar
 kasat
@@ -3652,6 +3655,7 @@ ken
 kena
 kenak
 kenapa
+kencot
 kendal
 kendang
 kendel
@@ -3969,6 +3973,7 @@ kulon
 kulup
 kum
 kuma
+kumaha
 kuman
 kumbah
 kumbahan
@@ -4840,6 +4845,7 @@ mus
 musa
 musi
 musim
+musing
 musisi
 musoh
 mustahil
@@ -5315,6 +5321,7 @@ ngeles
 ngelih
 ngeling
 ngelingi
+ngelok
 ngelon
 ngeloni
 ngelor
@@ -6374,7 +6381,6 @@ pijit
 pik
 pika
 pikang
-piker
 piki
 pikir
 piknik
@@ -6535,6 +6541,7 @@ puki
 pukul
 pula
 pulau
+pule
 pulen
 puli
 pulsa
@@ -7276,6 +7283,7 @@ seru
 ses
 sesak
 sesek
+seser
 sesok
 sesuk
 sesupe
@@ -7576,6 +7584,7 @@ suwung
 swara
 syukur
 ta
+tab
 tabah
 tabib
 tabir
@@ -7751,6 +7760,7 @@ tesi
 tet
 tete
 tetek
+tetes
 teuing
 ti
 tiba
@@ -8488,6 +8498,7 @@ wilangan
 wilujeng
 win
 wina
+winan
 windu
 wingi
 wingking
@@ -8564,6 +8575,7 @@ yang
 yani
 yano
 yap
+yaping
 yare
 yas
 yasi
@@ -8574,6 +8586,7 @@ yaudah
 yawes
 yawis
 yaya
+yayasa
 ye
 yek
 yekti
