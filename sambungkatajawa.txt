@@ -4145,6 +4145,7 @@ kuwo
 la
 lab
 laba
+labi
 labu
 lada
 ladak
@@ -4170,6 +4171,7 @@ laku
 lalat
 laler
 lali
+laline
 lam
 lama
 lamaran
@@ -4436,6 +4438,7 @@ logi
 loh
 loha
 lohan
+lohe
 loi
 lok
 loka
@@ -7716,6 +7719,7 @@ susa
 susah
 susan
 susi
+susila
 susu
 susue
 susuh
