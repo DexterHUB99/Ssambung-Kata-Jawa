@@ -7313,6 +7313,7 @@ resika
 resing
 respati
 restu
+retak
 reti
 rewang
 rewel
@@ -8080,6 +8081,7 @@ susan
 susi
 susila
 susu
+susuare
 susue
 susuh
 susuk
