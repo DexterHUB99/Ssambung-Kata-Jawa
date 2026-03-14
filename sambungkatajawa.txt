@@ -115,6 +115,7 @@ ahit
 ahlak
 ahli
 ahlian
+ahlie
 ahline
 ahlu
 ahlul
@@ -5446,6 +5447,7 @@ ngitung
 ngiwa
 ngiwasi
 ngko
+nglakoni
 nglangkah
 ngliwet
 nglon
