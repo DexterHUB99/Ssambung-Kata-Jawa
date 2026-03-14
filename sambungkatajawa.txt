@@ -1761,6 +1761,7 @@ elus
 elut
 em
 ema
+emab
 emah
 emak
 emal
@@ -3892,6 +3893,7 @@ kudet
 kudu
 kudus
 kue
+kuen
 kui
 kuk
 kuka
