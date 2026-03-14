@@ -3523,6 +3523,7 @@ kelam
 kelambe
 kelangan
 kelar
+kelara
 kelaran
 kelas
 kelawan
@@ -4965,6 +4966,7 @@ ner
 nerak
 neraka
 nerang
+nerangake
 neri
 nerima
 nerimo
@@ -5594,6 +5596,7 @@ ninggalake
 ningkat
 ningsih
 nini
+nining
 ninja
 nino
 nio
