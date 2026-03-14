@@ -4247,6 +4247,7 @@ kopok
 kor
 kora
 koran
+korban
 kore
 korek
 koreng
@@ -5589,6 +5590,7 @@ ngalah
 ngalahi
 ngalam
 ngalami
+ngalap
 ngalas
 ngale
 ngaleh
