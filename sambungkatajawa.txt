@@ -1852,6 +1852,7 @@ ekot
 eksi
 ektika
 eku
+ekuk
 ekun
 ekur
 ekut
