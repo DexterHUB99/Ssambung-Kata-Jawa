@@ -6529,6 +6529,7 @@ opah
 opak
 opal
 opan
+opat
 opel
 open
 opera
@@ -7458,6 +7459,7 @@ roke
 roki
 rokok
 rolas
+role
 rolo
 rom
 roma
