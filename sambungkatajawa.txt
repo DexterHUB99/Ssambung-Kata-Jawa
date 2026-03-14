@@ -1121,6 +1121,7 @@ bintang
 bio
 bir
 bira
+biro
 biru
 bis
 bisa
@@ -9047,6 +9048,7 @@ ye
 yek
 yekti
 yen
+yeng
 yeni
 yeno
 yep
