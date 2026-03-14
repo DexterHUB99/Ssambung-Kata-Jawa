@@ -1540,6 +1540,7 @@ duduk
 dudung
 dugi
 dugo
+dugu
 duh
 duhur
 duit
@@ -2534,6 +2535,7 @@ haka
 hake
 haki
 hakim
+hakuwi
 hal
 hala
 halah
@@ -8215,6 +8217,7 @@ wayang
 wayangan
 we
 wea
+wean
 web
 wedan
 wedang
