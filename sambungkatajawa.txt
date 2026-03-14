@@ -4715,6 +4715,7 @@ manut
 maos
 mapak
 mapan
+mapi
 mara
 marah
 marai
@@ -4900,6 +4901,7 @@ momong
 mon
 mondar
 mondok
+mone
 mong
 monggo
 moni
