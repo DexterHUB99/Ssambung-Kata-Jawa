@@ -2221,6 +2221,7 @@ etek
 etel
 etem
 eten
+etep
 eter
 etes
 eti
@@ -4621,6 +4622,7 @@ limaa
 liman
 limang
 limas
+limasan
 limbah
 limbuk
 limbung
