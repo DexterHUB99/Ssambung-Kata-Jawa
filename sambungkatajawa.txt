@@ -2250,6 +2250,7 @@ gamo
 gampang
 gampar
 gampil
+gamping
 gancet
 ganco
 ganda
