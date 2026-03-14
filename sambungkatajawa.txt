@@ -541,6 +541,7 @@ antasena
 antek
 antem
 anteman
+antemi
 anteng
 antep
 anter
@@ -6200,6 +6201,7 @@ peju
 pek
 peka
 pekan
+peking
 peko
 pekok
 pel
@@ -6872,6 +6874,7 @@ rusuh
 rut
 ruta
 rutan
+rute
 ruti
 rutin
 ruwah
