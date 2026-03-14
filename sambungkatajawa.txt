@@ -4381,6 +4381,7 @@ kuta
 kutah
 kutan
 kutang
+kute
 kutek
 kutha
 kuti
@@ -5781,6 +5782,7 @@ ngelih
 ngeling
 ngelingi
 ngelmu
+ngelok
 ngelon
 ngeloni
 ngelor
@@ -6925,6 +6927,7 @@ peyek
 pi
 pia
 piagam
+piala
 pian
 piano
 piatu
