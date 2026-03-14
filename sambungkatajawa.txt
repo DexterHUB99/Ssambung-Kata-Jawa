@@ -2476,6 +2476,7 @@ germo
 gero
 gerobak
 geroh
+gerot
 gerung
 gerus
 ges
@@ -4271,6 +4272,7 @@ landung
 langgar
 langgeng
 langit
+langkah
 langkung
 langsing
 langu
@@ -8215,6 +8217,7 @@ turahe
 turi
 turu
 turuk
+turun
 tus
 tusi
 tusuk
