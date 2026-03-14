@@ -1339,6 +1339,7 @@ cik
 cikal
 ciken
 ciki
+cikur
 cila
 cilaka
 cili
@@ -3908,6 +3909,7 @@ kesem
 keset
 kesetanan
 kesi
+kesirep
 kesna
 kesuh
 kesuk
@@ -5830,6 +5832,7 @@ ngudang
 ngudek
 ngudel
 ngudi
+ngudik
 ngudo
 ngudud
 ngudut
