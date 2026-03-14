@@ -1168,6 +1168,7 @@ cakep
 cakot
 cakung
 cal
+cala
 cama
 camat
 cambah
@@ -5788,6 +5789,7 @@ ojolan
 ok
 oka
 okai
+okal
 okam
 okan
 okar
