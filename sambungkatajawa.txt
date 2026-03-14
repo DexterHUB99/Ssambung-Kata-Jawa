@@ -2329,6 +2329,7 @@ gambut
 gambyong
 game
 gamel
+gamela
 gamelan
 gamer
 gami
@@ -5911,6 +5912,7 @@ ngolek
 ngolet
 ngoli
 ngolo
+ngoloh
 ngolok
 ngolor
 ngomah
