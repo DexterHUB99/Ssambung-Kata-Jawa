@@ -3223,6 +3223,7 @@ irus
 is
 isa
 isaa
+isab
 isai
 isak
 isam
@@ -4554,6 +4555,7 @@ lor
 lore
 lori
 loro
+lorone
 lorong
 los
 losah
