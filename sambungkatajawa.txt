@@ -3810,6 +3810,7 @@ katone
 katot
 katrok
 katu
+katuk
 katul
 katun
 kaula
@@ -6008,6 +6009,7 @@ ngulo
 ngulon
 ngulu
 nguluk
+ngulur
 ngumah
 ngumbah
 ngumbahi
