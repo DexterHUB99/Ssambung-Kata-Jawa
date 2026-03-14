@@ -3131,6 +3131,7 @@ ingah
 ingat
 ingatan
 ingati
+inget
 inggal
 inggi
 inggih
@@ -7703,6 +7704,7 @@ sopi
 sopir
 sopo
 sor
+sora
 sorak
 sore
 sori
