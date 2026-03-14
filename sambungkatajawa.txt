@@ -3766,6 +3766,7 @@ kamus
 kan
 kana
 kanah
+kanak
 kanan
 kanca
 kancah
