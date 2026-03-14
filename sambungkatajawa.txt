@@ -2069,6 +2069,7 @@ enggeh
 enggih
 enggon
 engkang
+engkel
 engklek
 engko
 engkok
@@ -7225,6 +7226,7 @@ puyuh
 ra
 raa
 raba
+rabah
 rabi
 rabisa
 rabit
