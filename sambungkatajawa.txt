@@ -6463,6 +6463,7 @@ rawa
 rawan
 rawe
 rawi
+rawit
 rawon
 rawuh
 rayap
@@ -6950,6 +6951,7 @@ sembahyang
 sembarang
 sembrono
 sembur
+seme
 semen
 semok
 sempak
@@ -6987,6 +6989,7 @@ serasih
 serat
 sere
 sereh
+serem
 sereng
 seres
 seret
@@ -7371,6 +7374,7 @@ taru
 tarung
 tas
 tasbih
+tase
 tasi
 tat
 tata
