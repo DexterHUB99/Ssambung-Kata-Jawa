@@ -3309,6 +3309,7 @@ jika
 jikuk
 jil
 jilat
+jilbab
 jili
 jim
 jimat
@@ -8343,6 +8344,7 @@ usih
 usik
 usil
 usir
+uska
 usko
 uso
 ust
