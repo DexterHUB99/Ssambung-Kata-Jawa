@@ -4277,6 +4277,7 @@ kopine
 koplak
 koplo
 kopok
+kopyor
 kor
 kora
 koran
