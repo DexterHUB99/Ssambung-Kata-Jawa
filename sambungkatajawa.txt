@@ -769,6 +769,7 @@ atam
 atang
 atap
 atar
+atara
 atas
 atasan
 ataw
