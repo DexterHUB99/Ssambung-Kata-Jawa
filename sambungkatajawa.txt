@@ -1334,6 +1334,7 @@ cebok
 cecak
 cece
 cecek
+cecok
 cedak
 cedek
 ceh
@@ -5974,6 +5975,7 @@ ngok
 ngoke
 ngoko
 ngokop
+ngokor
 ngol
 ngolah
 ngolak
@@ -7148,6 +7150,7 @@ radar
 raden
 radi
 radio
+rae
 raga
 ragam
 ragangan
