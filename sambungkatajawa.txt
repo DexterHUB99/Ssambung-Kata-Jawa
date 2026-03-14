@@ -10,6 +10,7 @@ abak
 abang
 abangi
 abdi
+abek
 aben
 aber
 abi
@@ -7637,6 +7638,7 @@ so
 soale
 soasu
 sob
+soba
 sobat
 sodok
 sodor
