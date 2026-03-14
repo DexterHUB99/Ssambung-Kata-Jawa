@@ -1918,6 +1918,7 @@ epus
 er
 era
 erah
+erai
 erak
 eram
 eran
@@ -6174,6 +6175,7 @@ pede
 pedes
 pedot
 pegel
+pegi
 peju
 pek
 peka
@@ -7480,6 +7482,7 @@ tangeh
 tangga
 tanggung
 tangi
+tangina
 tani
 tanpa
 tansah
