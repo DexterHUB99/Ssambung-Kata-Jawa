@@ -2541,6 +2541,7 @@ grombolan
 grontol
 grujuk
 gu
+gubeng
 gubug
 gudang
 gudeg
@@ -5126,6 +5127,7 @@ nenek
 nenen
 neng
 nengdi
+nenge
 nengen
 nepak
 nepi
@@ -8045,6 +8047,7 @@ turuk
 tus
 tusi
 tusuk
+tut
 tutuk
 tutup
 tutur
