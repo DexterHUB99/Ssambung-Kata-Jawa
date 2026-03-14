@@ -8346,6 +8346,7 @@ ungkap
 ungkapan
 ungkas
 ungkir
+ungkit
 ungkur
 ungu
 uni
