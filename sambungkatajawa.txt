@@ -3689,6 +3689,7 @@ ketir
 ketis
 ketok
 ketoke
+keton
 ketua
 ketuk
 ketup
@@ -5295,6 +5296,7 @@ ngetik
 ngetok
 ngetot
 ngewangi
+ngewarnai
 ngewe
 ngewedang
 ngewelingi
