@@ -7588,6 +7588,7 @@ sapa
 sapi
 sapih
 sapir
+sapiro
 sapu
 saput
 sar
