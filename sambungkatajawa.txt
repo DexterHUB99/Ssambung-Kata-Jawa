@@ -6442,6 +6442,7 @@ panci
 pancing
 pandak
 pandawa
+pande
 pandu
 panen
 pang
@@ -6875,6 +6876,7 @@ rakit
 raksasa
 rakus
 ralet
+rali
 ram
 rama
 ramadhan
@@ -8899,6 +8901,7 @@ yet
 yi
 yiwa
 yo
+yoa
 yoan
 yoe
 yoga
