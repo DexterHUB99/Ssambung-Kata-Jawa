@@ -3471,6 +3471,7 @@ jare
 jarene
 jari
 jarik
+jaring
 jas
 jasa
 jatah
@@ -6576,6 +6577,7 @@ paduka
 padune
 padus
 padusan
+paes
 pagar
 pager
 pagi
@@ -7082,6 +7084,7 @@ raki
 rakit
 raksasa
 rakus
+rala
 ralet
 rali
 ram
