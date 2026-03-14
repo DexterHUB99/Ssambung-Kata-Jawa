@@ -1159,6 +1159,7 @@ cadel
 cagak
 cah
 cak
+cakar
 cakep
 cakot
 cakung
@@ -1514,6 +1515,7 @@ don
 dong
 donga
 dongo
+dongol
 doni
 dono
 dora
@@ -2242,6 +2244,7 @@ gelud
 gelut
 gem
 gema
+gemah
 gemar
 gemas
 gemati
@@ -2910,6 +2913,7 @@ indak
 indang
 indek
 indeng
+indik
 inding
 indra
 indu
@@ -6979,6 +6983,7 @@ sayo
 sayor
 sayur
 se
+sea
 sebah
 sebat
 seda
