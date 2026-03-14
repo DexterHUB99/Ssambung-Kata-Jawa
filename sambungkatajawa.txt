@@ -6107,6 +6107,7 @@ orek
 oren
 oreng
 orep
+organisasi
 ori
 orie
 orok
