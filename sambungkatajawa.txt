@@ -658,6 +658,7 @@ ari
 arif
 arih
 arik
+arin
 aring
 arip
 aris
@@ -2966,6 +2967,7 @@ ihha
 ihi
 ihing
 ihka
+ihla
 ihli
 ihlo
 ihma
