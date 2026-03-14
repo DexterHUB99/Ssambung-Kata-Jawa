@@ -3439,6 +3439,7 @@ isra
 istana
 isti
 istiadat
+istighfar
 istilah
 istimewa
 istirahat
