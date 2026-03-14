@@ -645,6 +645,7 @@ ara
 arab
 arah
 arak
+arami
 aran
 arane
 arang
@@ -7912,6 +7913,7 @@ suwung
 swara
 syukur
 ta
+taato
 tabah
 tabib
 tabir
