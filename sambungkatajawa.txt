@@ -4185,6 +4185,7 @@ kucir
 kuciwa
 kucur
 kuda
+kudaa
 kudet
 kudu
 kudus
