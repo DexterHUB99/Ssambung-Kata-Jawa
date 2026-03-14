@@ -1608,6 +1608,7 @@ eben
 ebew
 ebi
 ebol
+ecek
 eco
 ed
 eda
@@ -4584,6 +4585,7 @@ mentolo
 menyan
 menyang
 meong
+mera
 merah
 merem
 meri
