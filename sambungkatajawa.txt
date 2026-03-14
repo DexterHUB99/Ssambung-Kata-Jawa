@@ -1746,6 +1746,7 @@ dula
 dulan
 dulang
 duli
+dulo
 dulu
 dulur
 dum
@@ -2045,6 +2046,7 @@ endik
 endog
 endol
 endong
+endung
 ene
 eneg
 eneh
@@ -4415,6 +4417,7 @@ labas
 labi
 labu
 labuh
+labur
 lada
 ladak
 lading
@@ -5633,6 +5636,7 @@ ngamuk
 ngan
 ngana
 nganah
+nganak
 ngancani
 ngancing
 ngandang
