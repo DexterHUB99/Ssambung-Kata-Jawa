@@ -1777,6 +1777,7 @@ ekel
 ekem
 eken
 eker
+ekere
 eket
 eki
 ekis
