@@ -2560,6 +2560,7 @@ geyo
 gi
 gidal
 gig
+giga
 gigal
 gigi
 gigih
@@ -8407,6 +8408,7 @@ tus
 tusi
 tusuk
 tut
+tuta
 tutuk
 tutup
 tutur
