@@ -1830,6 +1830,7 @@ ehat
 ehay
 ehe
 ehed
+eheg
 eheh
 ehek
 ehem
@@ -5106,6 +5107,7 @@ milah
 mili
 milih
 milik
+milna
 milo
 mimi
 mimis
