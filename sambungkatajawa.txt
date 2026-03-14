@@ -132,6 +132,7 @@ ahoe
 ahoh
 ahok
 ahol
+ahom
 ahon
 ahop
 ahor
@@ -5149,6 +5150,7 @@ murup
 mus
 musa
 musi
+musibah
 musim
 musisi
 musoh
@@ -7243,6 +7245,7 @@ resep
 resi
 resik
 resika
+resing
 respati
 restu
 reti
@@ -8957,6 +8960,7 @@ weli
 weling
 welo
 wen
+weneh
 weni
 weo
 wer
