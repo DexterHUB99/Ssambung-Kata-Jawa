@@ -4860,6 +4860,7 @@ mora
 morat
 mori
 moro
+mos
 mosa
 mosi
 mosing
