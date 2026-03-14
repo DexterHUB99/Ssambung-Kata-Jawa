@@ -5452,6 +5452,7 @@ ngeles
 ngelih
 ngeling
 ngelingi
+ngelmu
 ngelon
 ngeloni
 ngelor
