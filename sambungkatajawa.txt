@@ -3118,6 +3118,7 @@ ines
 ing
 ingah
 ingat
+ingatan
 ingati
 inggal
 inggi
