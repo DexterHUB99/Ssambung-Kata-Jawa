@@ -2898,6 +2898,7 @@ haram
 harang
 harap
 harapan
+hare
 haren
 harep
 harga
@@ -9430,6 +9431,7 @@ yuk
 yuka
 yuki
 yuko
+yula
 yuli
 yulo
 yuma
