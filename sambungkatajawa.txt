@@ -1846,6 +1846,7 @@ elin
 eling
 elinga
 elingo
+elis
 elit
 elmu
 elo
@@ -5675,6 +5676,7 @@ ngko
 nglakoni
 nglamun
 nglangkah
+nglantur
 ngliwet
 nglon
 ngluwehi
