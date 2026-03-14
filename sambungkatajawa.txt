@@ -6450,6 +6450,7 @@ palen
 paleng
 paling
 paliyan
+paloh
 palsu
 palu
 palung
@@ -7976,6 +7977,7 @@ tat
 tata
 tatag
 tatah
+tatakrama
 tatas
 tati
 tato
