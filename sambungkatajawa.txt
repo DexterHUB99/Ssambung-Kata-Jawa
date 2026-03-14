@@ -115,6 +115,7 @@ ahit
 ahlak
 ahli
 ahlian
+ahlie
 ahline
 ahlu
 ahlul
@@ -124,6 +125,7 @@ ahoh
 ahok
 ahol
 ahon
+ahop
 ahor
 ahoy
 ahu
@@ -307,6 +309,7 @@ amaa
 amah
 amal
 amalan
+amalane
 amam
 aman
 amanah
@@ -480,6 +483,7 @@ angkat
 angkel
 angker
 angklung
+angkong
 angkot
 angkrik
 angkring
@@ -501,6 +505,7 @@ angu
 angur
 angus
 ani
+aniani
 anie
 anif
 anig
@@ -761,6 +766,7 @@ atir
 atis
 atit
 atma
+atmaa
 atmana
 ato
 atoh
@@ -808,6 +814,7 @@ awer
 awet
 awis
 awit
+awo
 awok
 awong
 awor
@@ -992,6 +999,7 @@ benten
 bentrok
 beo
 berak
+beras
 berek
 berkah
 bero
@@ -1346,6 +1354,7 @@ da
 dab
 dablek
 dada
+dadah
 dadar
 dadi
 dados
@@ -2025,6 +2034,7 @@ etar
 etas
 ete
 eteh
+etek
 etel
 etem
 eten
@@ -2127,6 +2137,7 @@ galang
 galangan
 galau
 gale
+galeh
 galek
 galeng
 galengan
@@ -2525,6 +2536,7 @@ gunjing
 gunting
 guntur
 gunung
+guoblok
 gupak
 gupuh
 gur
@@ -3187,6 +3199,7 @@ jalo
 jalu
 jaluk
 jam
+jama
 jamal
 jaman
 jambi
@@ -4770,6 +4783,7 @@ muk
 muka
 mukak
 muke
+muku
 mukul
 mul
 mula
@@ -4818,7 +4832,6 @@ mus
 musa
 musi
 musim
-musing
 musisi
 musoh
 mustahil
@@ -5134,6 +5147,7 @@ ngambung
 ngamil
 ngamok
 ngampel
+ngampil
 ngampun
 ngamuk
 ngan
@@ -5292,7 +5306,6 @@ ngeles
 ngelih
 ngeling
 ngelingi
-ngelok
 ngelon
 ngeloni
 ngelor
@@ -5321,7 +5334,9 @@ ngenes
 ngeng
 ngengek
 ngenget
+ngenggeh
 ngenggo
+ngeniko
 ngenjang
 ngeno
 ngenteni
@@ -5440,6 +5455,7 @@ ngirimi
 ngiris
 ngirit
 ngisak
+ngisan
 ngiseng
 ngisep
 ngiser
@@ -5457,6 +5473,7 @@ ngitung
 ngiwa
 ngiwasi
 ngko
+nglakoni
 nglangkah
 ngliwet
 nglon
@@ -5989,6 +6006,7 @@ ondha
 ondo
 ondol
 oneng
+onet
 ongkang
 ongkek
 ongkel
@@ -5999,6 +6017,7 @@ online
 ono
 onoe
 onone
+onoo
 onori
 onta
 ontang
@@ -6437,6 +6456,7 @@ pocong
 podho
 poe
 poho
+poi
 pojok
 pojokan
 pok
@@ -6487,6 +6507,7 @@ poyo
 prajurit
 prakawis
 pranata
+prau
 prei
 pria
 pring
@@ -6631,6 +6652,7 @@ randa
 randu
 randue
 rang
+rangda
 rangga
 rangkat
 rangkul
@@ -6651,6 +6673,7 @@ rapa
 rapapa
 rapat
 rape
+rapet
 rapi
 rapie
 rapih
@@ -7025,6 +7048,7 @@ salam
 saleh
 sali
 salim
+salo
 saloe
 salon
 salut
@@ -8137,6 +8161,7 @@ unjung
 uno
 unta
 untal
+untalen
 untel
 unter
 untik
@@ -8515,6 +8540,7 @@ yak
 yaka
 yake
 yakin
+yaku
 yali
 yalo
 yam
@@ -8540,6 +8566,7 @@ ye
 yek
 yekti
 yen
+yeni
 yeno
 yep
 yer
