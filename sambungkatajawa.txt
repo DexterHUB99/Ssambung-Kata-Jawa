@@ -2334,6 +2334,7 @@ geram
 gerang
 gere
 gereh
+gereja
 gereng
 geret
 geri
@@ -5162,6 +5163,7 @@ ngarah
 ngaran
 ngarang
 ngarani
+ngarasa
 ngare
 ngarek
 ngarep
