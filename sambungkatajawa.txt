@@ -6405,6 +6405,7 @@ padu
 paduka
 padune
 padusan
+pagar
 pager
 pagi
 pagus
@@ -6626,6 +6627,7 @@ piano
 piatu
 picak
 picek
+pidak
 pie
 pih
 pijat
