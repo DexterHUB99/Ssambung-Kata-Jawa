@@ -2338,6 +2338,7 @@ gaji
 gajimu
 gajul
 gak
+gaki
 gaktau
 gal
 gala
@@ -4268,7 +4269,6 @@ kosa
 kosan
 kose
 kosek
-kosi
 kosok
 kosong
 kosor
@@ -4530,7 +4530,6 @@ lasa
 lasak
 lasan
 lase
-lasi
 latah
 latar
 late
@@ -6553,6 +6552,7 @@ ombea
 omben
 ombo
 omboh
+ombro
 ome
 omel
 omen
@@ -8382,6 +8382,7 @@ tawan
 tawar
 tawi
 tawon
+tawur
 tawuran
 tayo
 te
