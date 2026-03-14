@@ -3305,6 +3305,7 @@ iski
 isla
 islam
 isli
+isma
 ismu
 isna
 iso
@@ -4053,6 +4054,7 @@ klenteng
 klepon
 kleru
 kliwon
+klo
 klumah
 ko
 kobel
@@ -7386,6 +7388,7 @@ sabun
 sada
 sadar
 sade
+sadis
 sadulur
 sae
 saestu
