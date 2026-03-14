@@ -5719,6 +5719,7 @@ ngantien
 ngantor
 ngantri
 ngantuk
+ngantung
 nganu
 ngaos
 ngapa
