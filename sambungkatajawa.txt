@@ -2144,6 +2144,7 @@ eson
 estri
 estu
 esu
+esue
 esuk
 esun
 et
