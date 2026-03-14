@@ -761,6 +761,7 @@ atir
 atis
 atit
 atma
+atmaa
 atmana
 ato
 atoh
@@ -5126,6 +5127,7 @@ ngambung
 ngamil
 ngamok
 ngampel
+ngampil
 ngampun
 ngamuk
 ngan
