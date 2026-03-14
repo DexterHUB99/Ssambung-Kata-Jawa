@@ -927,6 +927,7 @@ barongan
 bas
 basah
 basi
+basin
 baskom
 basuki
 bata
@@ -7199,6 +7200,7 @@ sedan
 sedeng
 sedha
 sedho
+sedi
 sedih
 sedina
 seduh
