@@ -6640,6 +6640,7 @@ rekmo
 rekom
 rekoso
 reksa
+rela
 relax
 rem
 rema
