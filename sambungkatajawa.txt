@@ -6806,6 +6806,7 @@ pangkur
 pangling
 pani
 panik
+paningal
 panis
 panjaluk
 panjang
@@ -8688,6 +8689,7 @@ udakara
 udan
 udang
 udani
+udar
 udara
 udari
 udeg
@@ -9408,6 +9410,7 @@ yoy
 yoyo
 yu
 yua
+yuan
 yuda
 yudha
 yudi
