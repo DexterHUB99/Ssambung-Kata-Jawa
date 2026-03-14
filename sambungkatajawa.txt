@@ -6855,6 +6855,7 @@ rambute
 rame
 ramen
 rames
+ramo
 rampas
 ramping
 rampok
@@ -8148,6 +8149,7 @@ tumrap
 tumrape
 tumut
 tun
+tuna
 tunas
 tunggal
 tunggu
