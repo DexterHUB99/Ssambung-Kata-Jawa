@@ -4413,6 +4413,7 @@ laba
 labas
 labi
 labu
+labuh
 lada
 ladak
 lading
@@ -7820,6 +7821,7 @@ sawi
 sawiji
 sawijine
 sawit
+sawo
 saya
 sayah
 sayang
