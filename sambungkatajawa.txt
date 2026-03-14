@@ -357,7 +357,6 @@ amboi
 ambrol
 ambruk
 ambu
-ambul
 ambune
 ambung
 ambunge
@@ -743,7 +742,6 @@ asing
 asli
 asline
 asma
-asmane
 asmara
 asmaradana
 aso
@@ -2835,7 +2833,6 @@ hari
 harian
 harimau
 harimu
-hariyo
 harjo
 harman
 haro
@@ -3967,7 +3964,6 @@ kersane
 kertas
 keruh
 kerupuk
-kerus
 kerutan
 kes
 kesah
@@ -5212,7 +5208,6 @@ nalik
 nalika
 nalikane
 naliko
-naliku
 nalina
 nalu
 nalur
@@ -5225,7 +5220,6 @@ namba
 nambah
 nambai
 nambal
-nambi
 name
 nami
 namine
@@ -5513,7 +5507,6 @@ ngangge
 nganggo
 nganggur
 ngangkang
-nganglik
 ngangon
 ngangsu
 ngangu
@@ -5637,7 +5630,6 @@ ngedani
 ngeden
 ngegas
 ngeh
-ngehitung
 ngejak
 ngejar
 ngejek
@@ -6202,7 +6194,6 @@ nunung
 nunut
 nup
 nur
-nurani
 nure
 nuri
 nuru
@@ -6737,6 +6728,7 @@ pensil
 pentil
 penting
 pentung
+penyu
 peo
 pepaya
 pepe
