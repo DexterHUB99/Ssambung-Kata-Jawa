@@ -6283,6 +6283,7 @@ nubruk
 nudu
 nuduh
 nuduhi
+nue
 nugel
 nuh
 nuhun
@@ -6863,6 +6864,7 @@ pendopo
 pengen
 penggalihe
 peni
+pening
 peniti
 peno
 pensil
@@ -7679,6 +7681,7 @@ sampai
 sampar
 sampe
 sampean
+sampen
 sampeyan
 sampian
 samping
@@ -9192,6 +9195,7 @@ windu
 wingi
 wingking
 wingko
+winko
 wira
 wirang
 wirangan
