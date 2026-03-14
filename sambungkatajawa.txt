@@ -1788,6 +1788,7 @@ enan
 enang
 encok
 endah
+endahe
 endang
 endas
 endasmu
@@ -3867,6 +3868,7 @@ kuran
 kurang
 kurawa
 kurban
+kuren
 kuri
 kurma
 kurna
@@ -6255,6 +6257,7 @@ posen
 posi
 pot
 potong
+powo
 poye
 poyo
 prajurit
