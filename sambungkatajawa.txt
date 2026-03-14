@@ -736,6 +736,7 @@ asuh
 asui
 asuk
 asul
+asum
 asun
 asune
 asup
