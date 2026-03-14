@@ -2141,6 +2141,7 @@ ese
 eseh
 esek
 esem
+eseme
 eses
 esi
 esih
@@ -3311,6 +3312,7 @@ isine
 ising
 isinna
 isis
+isita
 iska
 iski
 isla
