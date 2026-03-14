@@ -8148,6 +8148,7 @@ tambah
 tambak
 tambal
 tambang
+tambi
 tameng
 tami
 tampa
@@ -9216,6 +9217,7 @@ yori
 yos
 yosa
 yosan
+yoto
 yowes
 yowis
 yoy
