@@ -4972,6 +4972,7 @@ net
 nete
 neteh
 netek
+netel
 netes
 ngabari
 ngabekti
@@ -5413,6 +5414,7 @@ ngong
 ngongkang
 ngongko
 ngono
+ngonoe
 ngonten
 ngontol
 ngop
