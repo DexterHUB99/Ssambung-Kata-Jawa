@@ -1658,6 +1658,7 @@ dodol
 dodolan
 dodot
 doh
+dok
 dokar
 doko
 dokon
@@ -4758,6 +4759,7 @@ lunjak
 luntur
 lunyu
 lupa
+lupe
 lupi
 lupis
 luput
@@ -6225,6 +6227,7 @@ nuduhi
 nugel
 nuh
 nuhun
+nuk
 nuki
 nuku
 nukul
