@@ -1573,6 +1573,7 @@ dluwang
 do
 doa
 dobol
+dodi
 dodo
 dodol
 dodolan
@@ -7430,6 +7431,7 @@ sidang
 sie
 sigap
 sigar
+sigrak
 sih
 sii
 siji
