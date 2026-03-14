@@ -743,6 +743,7 @@ asing
 asli
 asline
 asma
+asmane
 asmara
 asmaradana
 aso
@@ -2834,6 +2835,7 @@ hari
 harian
 harimau
 harimu
+hariyo
 harjo
 harman
 haro
@@ -5634,6 +5636,7 @@ ngedani
 ngeden
 ngegas
 ngeh
+ngehitung
 ngejak
 ngejar
 ngejek
