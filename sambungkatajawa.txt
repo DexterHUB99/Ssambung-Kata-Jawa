@@ -538,6 +538,7 @@ anjok
 anjrit
 anjuk
 anjung
+anjungan
 anjur
 anjuran
 ano
@@ -3789,6 +3790,7 @@ kesel
 keselek
 kesem
 keset
+kesetanan
 kesi
 kesna
 kesuh
@@ -3984,6 +3986,7 @@ koyok
 koyone
 krama
 krambil
+kraton
 kresna
 kripik
 krungu
