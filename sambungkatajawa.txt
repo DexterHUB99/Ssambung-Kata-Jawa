@@ -664,6 +664,7 @@ arisan
 arit
 arjuna
 arjuno
+arma
 aro
 arogan
 aroh
@@ -3675,6 +3676,7 @@ kawi
 kawih
 kawin
 kawit
+kawitan
 kawruh
 kawula
 kawung
