@@ -1764,6 +1764,7 @@ ehem
 ehen
 eher
 ehes
+ehet
 ehey
 ehi
 ehid
@@ -2774,6 +2775,7 @@ harian
 harimau
 harimu
 harjo
+harman
 haro
 harta
 haru
@@ -5063,6 +5065,7 @@ nadah
 nadahi
 nadi
 nadyan
+naek
 nafas
 nag
 naga
@@ -6535,6 +6538,7 @@ pasir
 pasu
 patang
 patek
+paten
 pati
 patih
 patin
