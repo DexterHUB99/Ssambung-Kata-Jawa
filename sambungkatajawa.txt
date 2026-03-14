@@ -3133,6 +3133,7 @@ iku
 ikui
 ikuku
 ikulo
+ikur
 ikus
 ikut
 ikutoh
@@ -7667,6 +7668,7 @@ satru
 satu
 satunggal
 satus
+saung
 saur
 saut
 sawah
