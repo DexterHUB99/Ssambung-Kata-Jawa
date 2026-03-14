@@ -2392,6 +2392,7 @@ gantungan
 ganyong
 gap
 gapa
+gapapa
 gapi
 gaplek
 gaplok
@@ -5397,6 +5398,7 @@ nasikuning
 nastar
 nat
 nata
+natah
 natal
 natap
 nate
