@@ -3683,6 +3683,7 @@ kelalen
 kelam
 kelambe
 kelangan
+kelaparan
 kelar
 kelara
 kelaran
@@ -4637,6 +4638,7 @@ mangan
 mangano
 mangga
 manggil
+manggis
 manggon
 mangkane
 mangkat
@@ -6233,6 +6235,7 @@ osan
 osar
 osas
 osek
+osem
 osen
 oseng
 oser
