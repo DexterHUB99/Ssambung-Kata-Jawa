@@ -4268,7 +4268,6 @@ kosa
 kosan
 kose
 kosek
-kosi
 kosok
 kosong
 kosor
@@ -4530,7 +4529,6 @@ lasa
 lasak
 lasan
 lase
-lasi
 latah
 latar
 late
