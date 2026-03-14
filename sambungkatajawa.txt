@@ -723,6 +723,7 @@ ata
 atah
 atak
 atam
+atang
 atap
 atar
 atas
