@@ -2362,6 +2362,7 @@ gen
 gena
 genah
 genap
+gendak
 gendar
 gendeng
 gender
@@ -5775,6 +5776,7 @@ ning
 ningali
 ninggal
 ninggalake
+ninggali
 ningkat
 ningsih
 nini
