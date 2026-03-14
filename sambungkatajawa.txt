@@ -74,6 +74,7 @@ agar
 agaw
 agawe
 age
+agek
 agem
 agen
 ageng
@@ -2265,6 +2266,7 @@ faham
 fakir
 fani
 fasih
+firman
 fix
 fo
 fokus
@@ -5271,6 +5273,7 @@ nag
 naga
 nagara
 nagasari
+nage
 nagi
 nagih
 nah
@@ -8358,6 +8361,7 @@ tenan
 tenanan
 tenane
 tenang
+tenen
 teng
 tengah
 tengen
