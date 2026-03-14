@@ -333,6 +333,7 @@ alun
 alunan
 alur
 alus
+aluse
 am
 ama
 amaa
