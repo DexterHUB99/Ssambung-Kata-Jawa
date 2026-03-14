@@ -3345,6 +3345,7 @@ jas
 jasa
 jatah
 jati
+jauh
 jawa
 jawaban
 jawah
