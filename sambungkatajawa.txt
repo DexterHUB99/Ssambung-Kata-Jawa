@@ -2327,6 +2327,7 @@ gampang
 gampar
 gampil
 gamping
+gana
 gancet
 ganco
 ganda
@@ -8138,6 +8139,7 @@ taun
 tawa
 tawan
 tawar
+tawi
 tawon
 tawuran
 tayo
