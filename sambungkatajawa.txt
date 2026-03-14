@@ -3905,6 +3905,7 @@ kebas
 kebaya
 kebo
 kebon
+kecak
 kecap
 kecapi
 kece
@@ -4597,6 +4598,7 @@ lengser
 lepas
 lepat
 lepe
+lepi
 ler
 lere
 leren
