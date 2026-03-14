@@ -2004,6 +2004,7 @@ epok
 epor
 epu
 epuh
+epuk
 epul
 epun
 epup
@@ -8318,6 +8319,7 @@ ungkap
 ungkapan
 ungkas
 ungkir
+ungkur
 ungu
 uni
 unjal
