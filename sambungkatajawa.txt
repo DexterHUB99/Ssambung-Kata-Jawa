@@ -6743,6 +6743,7 @@ pasar
 paser
 pasi
 pasir
+pasrah
 pasu
 patang
 patek
@@ -8548,6 +8549,7 @@ udel
 udelku
 udelmu
 udeng
+udha
 udharan
 udi
 udik
