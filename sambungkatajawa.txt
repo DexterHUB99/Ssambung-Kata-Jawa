@@ -256,6 +256,7 @@ akue
 akuh
 akui
 akul
+akulo
 akum
 akumi
 akun
@@ -3080,6 +3081,7 @@ ili
 ilih
 ilik
 ililang
+ilin
 iling
 ilingo
 ilir
@@ -4921,6 +4923,7 @@ mini
 minta
 minum
 mio
+mira
 mirah
 mirengake
 miri
