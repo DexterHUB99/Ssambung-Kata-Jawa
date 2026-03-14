@@ -195,6 +195,7 @@ akam
 akan
 akang
 akar
+akara
 akas
 akasa
 akat
@@ -1572,6 +1573,7 @@ dosa
 dosen
 doso
 dowo
+doyan
 du
 duda
 dudi
@@ -2638,6 +2640,7 @@ har
 hara
 haram
 harap
+harapan
 haren
 harep
 harga
@@ -3487,6 +3490,7 @@ karawitan
 kare
 karek
 karen
+karena
 karep
 karepe
 karepmu
@@ -3647,6 +3651,7 @@ ken
 kena
 kenak
 kenapa
+kencot
 kendal
 kendang
 kendel
@@ -3964,6 +3969,7 @@ kulon
 kulup
 kum
 kuma
+kumaha
 kuman
 kumbah
 kumbahan
@@ -4835,6 +4841,7 @@ mus
 musa
 musi
 musim
+musing
 musisi
 musoh
 mustahil
@@ -5310,6 +5317,7 @@ ngeles
 ngelih
 ngeling
 ngelingi
+ngelok
 ngelon
 ngeloni
 ngelor
@@ -6529,6 +6537,7 @@ puki
 pukul
 pula
 pulau
+pule
 pulen
 puli
 pulsa
@@ -7570,6 +7579,7 @@ suwung
 swara
 syukur
 ta
+tab
 tabah
 tabib
 tabir
@@ -7745,6 +7755,7 @@ tesi
 tet
 tete
 tetek
+tetes
 teuing
 ti
 tiba
@@ -8482,6 +8493,7 @@ wilangan
 wilujeng
 win
 wina
+winan
 windu
 wingi
 wingking
@@ -8568,6 +8580,7 @@ yaudah
 yawes
 yawis
 yaya
+yayasa
 ye
 yek
 yekti
