@@ -1504,6 +1504,7 @@ darat
 dari
 darma
 darmi
+daro
 das
 dasa
 dasar
@@ -5953,6 +5954,7 @@ ngowoh
 ngoyak
 ngoyo
 ngrabi
+ngrasa
 ngrasani
 ngrawuh
 ngrayu
