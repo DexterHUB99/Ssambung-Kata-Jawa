@@ -5285,6 +5285,7 @@ ngitung
 ngiwa
 ngiwasi
 ngko
+nglangkah
 ngliwet
 nglon
 ngluwehi
@@ -8277,6 +8278,7 @@ yekti
 yen
 yep
 yer
+yero
 yes
 yesa
 yesi
