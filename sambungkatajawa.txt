@@ -4386,6 +4386,7 @@ langgar
 langgeng
 langit
 langkah
+langkap
 langkung
 langsing
 langu
@@ -5654,6 +5655,7 @@ ngejar
 ngejek
 ngek
 ngeko
+ngela
 ngelag
 ngelak
 ngelakoni
@@ -6873,6 +6875,7 @@ pitek
 piten
 piter
 pitik
+piton
 pitu
 pitulas
 pitulung
