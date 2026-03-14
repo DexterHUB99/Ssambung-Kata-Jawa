@@ -800,6 +800,7 @@ auta
 autan
 auto
 aw
+awa
 awah
 awak
 awakdewe
@@ -2962,6 +2963,7 @@ ima
 imai
 imam
 iman
+imar
 imas
 imba
 imbal
@@ -6194,6 +6196,7 @@ pajar
 pajek
 paji
 pak
+paka
 pakan
 pakar
 pakde
@@ -6455,6 +6458,7 @@ piro
 piruk
 pis
 pisa
+pisab
 pisah
 pisahan
 pisan
