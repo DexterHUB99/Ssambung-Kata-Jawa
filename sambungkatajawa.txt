@@ -2598,6 +2598,7 @@ grontol
 grujuk
 gu
 gubeng
+gubris
 gubug
 gudang
 gudeg
@@ -5164,6 +5165,7 @@ nawang
 nawani
 nawar
 nawari
+nawe
 nawi
 naya
 nayo
