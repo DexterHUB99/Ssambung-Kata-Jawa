@@ -209,6 +209,7 @@ akalmu
 akam
 akan
 akang
+akap
 akar
 akas
 akasa
@@ -652,6 +653,7 @@ apung
 apuran
 apus
 apusa
+apuwo
 ar
 ara
 arab
@@ -6279,6 +6281,7 @@ nusul
 nut
 nuthuk
 nutup
+nutupi
 nutur
 nuturi
 nuwun
