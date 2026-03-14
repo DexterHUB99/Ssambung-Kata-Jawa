@@ -921,6 +921,7 @@ bani
 banjir
 banter
 bantu
+bantul
 banyak
 banyu
 bapak
@@ -8206,6 +8207,7 @@ undhi
 undi
 unduh
 unduk
+undukan
 undur
 une
 unek
