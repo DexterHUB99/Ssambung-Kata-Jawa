@@ -3092,6 +3092,7 @@ iler
 ileran
 ilermu
 ili
+ilie
 ilih
 ilik
 ililang
@@ -7050,6 +7051,7 @@ rata
 ratai
 ratan
 ratau
+rati
 ratih
 ratna
 ratu
@@ -8704,6 +8706,7 @@ uti
 utik
 uting
 utir
+utira
 uto
 utowo
 utri
