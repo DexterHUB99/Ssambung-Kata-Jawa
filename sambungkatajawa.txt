@@ -892,6 +892,7 @@ bab
 baba
 babai
 babak
+babe
 babi
 babon
 babu
@@ -2197,6 +2198,7 @@ gaco
 gada
 gadah
 gadang
+gadha
 gadhah
 gading
 gado
