@@ -1235,6 +1235,7 @@ busung
 buta
 butek
 buto
+butoh
 butuh
 buy
 buyar
@@ -5604,6 +5605,7 @@ nger
 ngerampok
 ngerasani
 ngerek
+ngeret
 ngeri
 ngerit
 ngeroso
