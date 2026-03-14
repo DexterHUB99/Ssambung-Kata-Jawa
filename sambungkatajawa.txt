@@ -3132,6 +3132,7 @@ ising
 isis
 iska
 iski
+isla
 islam
 isli
 ismu
