@@ -1987,6 +1987,7 @@ enteni
 enter
 enthol
 entir
+entit
 entoh
 entok
 entong
@@ -6395,6 +6396,7 @@ palen
 paleng
 paling
 paliyan
+palsu
 palu
 palung
 pamahan
@@ -7654,6 +7656,7 @@ sonten
 sop
 sopa
 sopan
+sopi
 sopir
 sopo
 sor
