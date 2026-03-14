@@ -2930,6 +2930,7 @@ icu
 id
 ida
 idam
+idan
 ide
 idep
 ider
@@ -3596,6 +3597,7 @@ kapur
 kapus
 kar
 kara
+karah
 karak
 karang
 karawang
@@ -5303,6 +5305,7 @@ ngamben
 ngambi
 ngambil
 ngambing
+ngambruk
 ngambu
 ngambul
 ngambung
