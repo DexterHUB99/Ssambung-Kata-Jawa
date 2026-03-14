@@ -5171,6 +5171,7 @@ munggah
 mungkin
 muni
 munjul
+muntab
 muntah
 munyuk
 mur
@@ -8680,6 +8681,7 @@ unak
 unam
 unan
 unang
+unap
 uncal
 undak
 undakan
