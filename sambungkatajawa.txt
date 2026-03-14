@@ -1878,6 +1878,7 @@ encok
 endah
 endahe
 endang
+endange
 endap
 endas
 endasmu
