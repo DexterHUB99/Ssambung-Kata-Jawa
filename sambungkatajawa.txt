@@ -166,7 +166,6 @@ ajak
 ajal
 ajang
 ajar
-ajaran
 ajay
 ajeg
 ajek
@@ -1170,6 +1169,7 @@ bunder
 bunga
 bungah
 bungkus
+buntu
 buntung
 buntut
 bunuh
@@ -1247,6 +1247,7 @@ cawi
 cawik
 cawis
 ce
+ceblok
 cebok
 cecak
 cece
@@ -1596,6 +1597,7 @@ dosen
 doso
 dowo
 du
+dubur
 duda
 dudi
 dudo
@@ -1729,9 +1731,7 @@ ehu
 ehuk
 ehur
 ehuy
-ej
 eja
-eje
 ejo
 ek
 eka
@@ -2125,6 +2125,7 @@ gabah
 gabe
 gaber
 gabes
+gabug
 gabuk
 gabung
 gabus
@@ -2342,6 +2343,7 @@ gembong
 gembrot
 gemen
 gemes
+gemi
 gemo
 gempa
 gempol
@@ -2436,6 +2438,7 @@ gilani
 gili
 giling
 gilo
+gim
 gima
 giman
 gimbal
@@ -2938,6 +2941,7 @@ ikrar
 iku
 ikui
 ikuku
+ikulo
 ikus
 ikut
 ikutoh
@@ -3312,7 +3316,6 @@ jika
 jikuk
 jil
 jilat
-jilbab
 jili
 jim
 jimat
@@ -3968,6 +3971,7 @@ koyok
 koyone
 krama
 krambil
+kresna
 kripik
 krungu
 krupuk
@@ -5246,7 +5250,6 @@ ngapah
 ngapain
 ngapak
 ngapal
-ngapati
 ngapel
 ngapeli
 ngapu
@@ -5404,7 +5407,6 @@ ngentuk
 ngentut
 ngepel
 ngepet
-ngepot
 nger
 ngerampok
 ngerasani
@@ -5741,7 +5743,6 @@ nile
 nilem
 nilemake
 nilep
-nilo
 nim
 nimba
 nimbang
@@ -6240,6 +6241,7 @@ pake
 pakir
 pakpuh
 paku
+pakur
 pala
 palah
 palak
@@ -7812,6 +7814,7 @@ tepa
 tepak
 tepe
 tepi
+tepung
 ter
 terang
 teras
@@ -8044,6 +8047,7 @@ udel
 udelku
 udelmu
 udeng
+udharan
 udi
 udik
 udin
@@ -8217,7 +8221,6 @@ undhi
 undi
 unduh
 unduk
-undukan
 undur
 une
 unek
@@ -8353,7 +8356,6 @@ usih
 usik
 usil
 usir
-uska
 usko
 uso
 ust
@@ -8551,6 +8553,7 @@ wewe
 weweling
 wi
 wicak
+widara
 widi
 widya
 wie
@@ -8640,7 +8643,6 @@ yalo
 yam
 yamaha
 yaman
-yamen
 yan
 yana
 yang
@@ -8712,6 +8714,7 @@ yua
 yuda
 yudha
 yudi
+yugo
 yuh
 yui
 yuk
