@@ -992,6 +992,7 @@ bareng
 bariki
 baron
 barongan
+baru
 bas
 basah
 basi
