@@ -26,6 +26,7 @@ abuh
 abul
 acak
 acan
+ace
 acu
 ad
 ada
@@ -57,6 +58,7 @@ ado
 adoh
 adol
 adon
+adonan
 ados
 adu
 aduh
@@ -4708,6 +4710,7 @@ like
 liko
 liku
 lila
+lilas
 lili
 lilin
 lilit
