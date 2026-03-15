@@ -3970,6 +3970,7 @@ itaa
 itali
 ite
 item
+iteo
 ites
 itik
 itil
@@ -8862,6 +8863,7 @@ sad
 sada
 sadar
 sade
+sadina
 sadis
 sadulur
 sae
@@ -9089,6 +9091,7 @@ seje
 sejen
 sek
 seka
+sekar
 sekawan
 seke
 sekek
