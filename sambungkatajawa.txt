@@ -917,6 +917,7 @@ awang
 awas
 awe
 aweh
+awek
 awer
 awet
 awis
@@ -7415,6 +7416,7 @@ putu
 putune
 putus
 puwan
+puwen
 puwira
 puyeng
 puyuh
@@ -7550,6 +7552,7 @@ rapih
 rapina
 rapo
 rapopo
+rapu
 rapuh
 rara
 rarawoh
@@ -8359,6 +8362,7 @@ some
 somi
 sompral
 son
+sona
 songket
 songo
 sono
