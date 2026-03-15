@@ -7353,6 +7353,7 @@ panun
 panut
 panutan
 panuwun
+panyuwun
 papa
 papah
 papak
@@ -9442,6 +9443,7 @@ ukarane
 ukas
 uke
 ukel
+ukep
 uker
 ukes
 uket
