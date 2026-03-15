@@ -4514,6 +4514,7 @@ kuran
 kurang
 kurawa
 kurban
+kure
 kuren
 kuri
 kurina
@@ -5745,6 +5746,7 @@ ngadul
 ngadus
 ngae
 ngagem
+ngago
 ngagung
 ngah
 ngahad
