@@ -4842,6 +4842,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
