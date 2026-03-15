@@ -691,6 +691,7 @@ ar
 ara
 arab
 arah
+arahan
 arak
 aram
 arami
@@ -1273,6 +1274,7 @@ budhi
 budi
 budo
 bugil
+bugis
 buh
 bui
 bujang
@@ -6326,6 +6328,7 @@ nguk
 ngukir
 ngukur
 ngul
+ngulah
 ngulai
 ngulang
 nguleg
