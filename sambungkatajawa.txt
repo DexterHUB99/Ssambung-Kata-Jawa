@@ -1477,6 +1477,7 @@ cucur
 cudek
 cuek
 cuk
+cuka
 cuki
 cukur
 culik
@@ -8804,6 +8805,7 @@ ucap
 ucapan
 ucek
 uciha
+ucu
 ucul
 ud
 uda
