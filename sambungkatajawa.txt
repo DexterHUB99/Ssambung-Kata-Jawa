@@ -1750,6 +1750,7 @@ dongol
 doni
 dono
 dop
+dor
 dora
 dore
 dori
@@ -4416,6 +4417,7 @@ kudus
 kue
 kuen
 kui
+kuio
 kuk
 kuka
 kuki
