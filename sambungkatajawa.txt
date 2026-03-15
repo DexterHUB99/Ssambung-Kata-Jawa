@@ -4911,6 +4911,7 @@ kram
 krama
 kramas
 krambil
+kran
 kraton
 kresna
 kripik
