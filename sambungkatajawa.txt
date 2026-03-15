@@ -3960,6 +3960,7 @@ kancut
 kanda
 kandang
 kandani
+kandas
 kandel
 kandha
 kandi
