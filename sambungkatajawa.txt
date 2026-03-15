@@ -2798,7 +2798,6 @@ gemblong
 gemblung
 gembok
 gembong
-gembor
 gembrot
 gembung
 gemen
@@ -4242,6 +4241,7 @@ kater
 kates
 kathah
 kathok
+kati
 katil
 katok
 katon
