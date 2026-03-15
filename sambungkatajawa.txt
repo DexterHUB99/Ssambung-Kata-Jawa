@@ -407,6 +407,7 @@ amay
 amba
 ambal
 ambar
+ambat
 ambek
 ambel
 amben
