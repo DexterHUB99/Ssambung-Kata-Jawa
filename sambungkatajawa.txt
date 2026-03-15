@@ -2242,6 +2242,7 @@ emah
 email
 emak
 emal
+emam
 eman
 emane
 emang
@@ -8365,6 +8366,7 @@ remen
 remeng
 remes
 remi
+remis
 remo
 remok
 rempah
