@@ -1060,6 +1060,7 @@ bakso
 baku
 bakul
 bal
+bala
 balak
 balek
 baleni
@@ -1296,6 +1297,7 @@ bola
 boleh
 bolo
 bolong
+bolos
 bolot
 bom
 bon
@@ -1832,6 +1834,7 @@ disit
 disu
 dit
 dita
+ditilep
 ditulung
 diwa
 dluwang
@@ -7732,6 +7735,7 @@ puk
 puka
 puki
 pukul
+pul
 pula
 pulau
 pulen
@@ -10036,6 +10040,7 @@ wis
 wisa
 wisan
 wisata
+wisma
 wisuh
 wit
 witan
