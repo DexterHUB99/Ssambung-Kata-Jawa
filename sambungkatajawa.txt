@@ -670,7 +670,6 @@ antep
 anter
 anti
 antik
-antimo
 anting
 anto
 anton
@@ -680,7 +679,6 @@ antri
 antuk
 antur
 anu
-anuan
 anuk
 anum
 anun
@@ -1640,6 +1638,7 @@ cuti
 cuyu
 da
 dab
+dabak
 dablek
 dada
 dadah
@@ -6014,6 +6013,7 @@ nembak
 nembang
 nembe
 nembel
+nembelas
 nembok
 nembung
 neme
@@ -9246,7 +9246,6 @@ tenan
 tenanan
 tenane
 tenang
-tendang
 tenen
 teng
 tengah
