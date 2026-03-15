@@ -1219,6 +1219,7 @@ bel
 bela
 belah
 belang
+belanja
 beleh
 belek
 beler
@@ -1654,6 +1655,7 @@ cu
 cublak
 cuci
 cucu
+cucuk
 cucur
 cudek
 cuek
