@@ -9047,6 +9047,7 @@ sekul
 sel
 sela
 selak
+selam
 selamat
 selamet
 selametan
