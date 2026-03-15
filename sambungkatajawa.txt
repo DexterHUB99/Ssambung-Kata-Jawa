@@ -3291,6 +3291,7 @@ ihla
 ihli
 ihlo
 ihma
+ihna
 iho
 ihra
 ihsan
