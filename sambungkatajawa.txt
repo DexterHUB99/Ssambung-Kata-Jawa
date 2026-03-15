@@ -3937,6 +3937,7 @@ janti
 jantung
 jar
 jara
+jarak
 jaran
 jaranan
 jarang
