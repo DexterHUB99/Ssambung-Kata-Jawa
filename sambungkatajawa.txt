@@ -1574,6 +1574,7 @@ ceto
 cewe
 cewek
 ci
+ciba
 cica
 cicak
 cici
@@ -7777,6 +7778,7 @@ pedang
 pede
 pedes
 pedot
+pegat
 pegel
 pegi
 peju
