@@ -3246,6 +3246,7 @@ hari
 harian
 harimau
 harimu
+harine
 harjo
 harm
 harman
@@ -3991,6 +3992,7 @@ jin
 jina
 jinak
 jinaka
+jinawi
 jingga
 jingkrak
 jingkrik
@@ -8029,6 +8031,7 @@ puwan
 puwen
 puwira
 puyeng
+puyi
 puyuh
 ra
 raa
