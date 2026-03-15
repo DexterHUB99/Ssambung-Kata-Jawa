@@ -615,6 +615,7 @@ anoman
 anon
 anot
 ansur
+ansuran
 anta
 antah
 antam
@@ -1303,6 +1304,7 @@ bulo
 bulu
 bulus
 bum
+bumbu
 bumbune
 bumi
 bun
@@ -6942,6 +6944,7 @@ otek
 otik
 otol
 otom
+otoman
 otomot
 otot
 ototo
