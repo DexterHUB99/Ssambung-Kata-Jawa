@@ -6659,6 +6659,7 @@ ngopeni
 ngopet
 ngopi
 ngopii
+ngopin
 ngoplo
 ngopo
 ngopoe
@@ -7079,6 +7080,7 @@ obak
 obat
 obek
 obeng
+oblong
 obok
 obong
 obor
