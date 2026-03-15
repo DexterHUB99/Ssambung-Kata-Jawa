@@ -352,7 +352,6 @@ alunan
 alur
 alus
 aluse
-alwan
 am
 ama
 amaa
@@ -363,7 +362,6 @@ amalan
 amalane
 amam
 amama
-amambil
 aman
 amana
 amanah
@@ -454,7 +452,6 @@ amut
 an
 ana
 anae
-anag
 anah
 anai
 anak
@@ -1064,7 +1061,6 @@ bar
 bareng
 bariki
 baron
-barong
 barongan
 baru
 bas
@@ -2044,7 +2040,6 @@ eleng
 eler
 elet
 eli
-elif
 elig
 elik
 elin
@@ -2162,7 +2157,6 @@ endasmu
 endek
 endel
 endem
-endep
 endhas
 endhog
 endhok
@@ -2236,7 +2230,6 @@ enyak
 enyong
 ep
 epa
-epak
 epal
 epam
 epan
@@ -2420,7 +2413,6 @@ fakta
 famu
 fani
 fasih
-fikir
 final
 firman
 fix
@@ -3366,7 +3358,6 @@ ilah
 ilahi
 ilai
 ilak
-ilala
 ilali
 ilam
 ilan
@@ -4851,6 +4842,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
@@ -8475,7 +8467,6 @@ siter
 sithik
 siti
 sitik
-siwa
 siwak
 siwur
 siyo
