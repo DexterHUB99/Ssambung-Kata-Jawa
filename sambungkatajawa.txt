@@ -5991,6 +5991,7 @@ munyuk
 mur
 mura
 murah
+mure
 muri
 murid
 murka
@@ -8440,6 +8441,7 @@ rekot
 reksa
 rela
 relax
+relo
 rem
 rema
 remah
