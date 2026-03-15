@@ -2450,6 +2450,7 @@ ev
 eva
 evo
 ew
+ewa
 ewak
 ewan
 ewang
@@ -4326,6 +4327,7 @@ kentu
 kentut
 kentutmu
 kenur
+kenyot
 keong
 kep
 kepa
