@@ -4330,6 +4330,7 @@ keren
 kerep
 kereta
 keri
+kerik
 keris
 kerja
 kerjo
