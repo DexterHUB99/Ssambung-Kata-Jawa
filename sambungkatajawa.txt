@@ -4532,6 +4532,7 @@ kemangi
 kemari
 kemaruk
 kemas
+kemasan
 kemayu
 kembali
 kembang
@@ -6004,6 +6005,7 @@ munjul
 muntab
 muntah
 munyuk
+mupi
 mur
 mura
 murah
@@ -9136,6 +9138,7 @@ sidoarjo
 sie
 sigap
 sigar
+sigrak
 sih
 sii
 siji
