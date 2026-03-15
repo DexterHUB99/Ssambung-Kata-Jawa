@@ -4818,6 +4818,7 @@ kuka
 kuki
 kuku
 kukuh
+kukul
 kukur
 kukus
 kul
@@ -6008,6 +6009,7 @@ nanggung
 nangi
 nanging
 nangis
+nangisan
 nangka
 nangkene
 nangkep
@@ -7616,6 +7618,7 @@ panggah
 panggeh
 panggih
 panggon
+pangkat
 pangku
 pangkur
 panglima
@@ -9337,6 +9340,7 @@ tanggul
 tanggung
 tangi
 tangina
+tangkap
 tani
 tanjung
 tanpa
