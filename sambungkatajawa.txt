@@ -321,6 +321,7 @@ aliran
 alis
 alisan
 alit
+alka
 alm
 almari
 alo
