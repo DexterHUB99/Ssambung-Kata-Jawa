@@ -5466,6 +5466,7 @@ manis
 manja
 manjing
 mantap
+manten
 mantep
 manthuk
 mantu
@@ -8148,6 +8149,7 @@ rebahan
 rebana
 rebo
 rebung
+rebutan
 receh
 redi
 rega
@@ -9768,6 +9770,7 @@ umbahan
 umbar
 umbel
 umbi
+umbu
 umbul
 ume
 umen
