@@ -2157,7 +2157,6 @@ endasmu
 endek
 endel
 endem
-endep
 endhas
 endhog
 endhok
@@ -4843,6 +4842,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
