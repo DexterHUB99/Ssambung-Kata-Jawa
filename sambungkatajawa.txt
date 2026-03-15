@@ -6196,6 +6196,7 @@ naru
 naruh
 nas
 nasa
+nasab
 nasaba
 nasai
 nase
@@ -6441,6 +6442,7 @@ ngambul
 ngambung
 ngamel
 ngamil
+ngamis
 ngamok
 ngampel
 ngampet
