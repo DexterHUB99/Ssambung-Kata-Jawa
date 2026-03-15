@@ -3452,6 +3452,7 @@ isak
 isam
 isan
 isap
+isar
 ise
 isek
 isel
