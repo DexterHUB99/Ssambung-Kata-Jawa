@@ -246,6 +246,7 @@ akeh
 akehe
 akek
 akel
+akela
 akem
 aken
 akeng
@@ -1201,6 +1202,7 @@ benjol
 bentak
 benten
 bentrok
+bentuk
 beo
 berak
 beras
@@ -1649,6 +1651,7 @@ dakar
 daki
 dakngerti
 dakon
+dakwah
 dalah
 dalam
 dalan
@@ -4989,6 +4992,7 @@ lembek
 lembur
 lembut
 leme
+lemek
 lemes
 lemot
 lempeng
@@ -8268,6 +8272,7 @@ ruk
 ruka
 ruki
 ruko
+ruku
 rukuh
 rukun
 rula
