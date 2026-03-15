@@ -5345,6 +5345,7 @@ lip
 lipa
 lipan
 lipas
+lipase
 lipat
 lipen
 lipet
@@ -8369,6 +8370,7 @@ raono
 raos
 rap
 rapa
+rapak
 rapapa
 rapat
 rape
@@ -9014,6 +9016,7 @@ seka
 sekawan
 seke
 sekek
+sekel
 seket
 seko
 sekolah
