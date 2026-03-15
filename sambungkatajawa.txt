@@ -279,6 +279,7 @@ akun
 akur
 akuran
 akut
+akute
 al
 ala
 alah
@@ -3704,6 +3705,7 @@ jingkrak
 jini
 jinjing
 jinjit
+jinra
 jinten
 jinwe
 jipang
