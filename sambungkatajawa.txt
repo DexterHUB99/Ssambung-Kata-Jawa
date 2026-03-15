@@ -1679,7 +1679,6 @@ cuma
 cumi
 cumo
 cunduk
-cungkring
 cur
 curi
 curu
@@ -4595,6 +4594,7 @@ kesasar
 kesat
 kese
 kesed
+kesek
 kesel
 keselek
 kesem
@@ -6195,7 +6195,6 @@ nembelas
 nembok
 nembung
 neme
-nemek
 nemen
 nemi
 nemok
