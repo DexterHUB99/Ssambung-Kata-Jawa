@@ -2660,6 +2660,7 @@ gepok
 geprek
 gepuk
 ger
+gera
 gerah
 gerak
 geram
@@ -6211,6 +6212,7 @@ ngombi
 ngome
 ngomel
 ngomong
+ngomongo
 ngompol
 ngon
 ngonde
@@ -8912,6 +8914,7 @@ uang
 ub
 uba
 uban
+ubanan
 uber
 ubi
 ubii
