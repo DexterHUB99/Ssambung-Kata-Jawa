@@ -6363,6 +6363,7 @@ nombol
 nome
 nomer
 nomere
+nomi
 non
 nona
 nong
@@ -9371,6 +9372,7 @@ wisuh
 wit
 witan
 witir
+wito
 wiwit
 wiwitan
 wo
