@@ -6866,6 +6866,7 @@ nulis
 nulung
 nulungi
 num
+numa
 numan
 numbal
 numbas
