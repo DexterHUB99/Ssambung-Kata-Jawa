@@ -7781,6 +7781,7 @@ pedot
 pegat
 pegel
 pegi
+pejah
 peju
 pek
 peka
@@ -8115,6 +8116,7 @@ puwan
 puwen
 puwira
 puyeng
+puyo
 puyuh
 ra
 raa
