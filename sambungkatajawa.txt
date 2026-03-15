@@ -7350,6 +7350,7 @@ onggok
 ongkang
 ongkek
 ongkel
+ongko
 ongkos
 ongkose
 ongol
@@ -9752,6 +9753,7 @@ uji
 ujia
 ujian
 ujuk
+ujul
 ujun
 ujung
 ujur
