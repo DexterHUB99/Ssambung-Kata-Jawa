@@ -1089,6 +1089,7 @@ bel
 bela
 belah
 belang
+beleh
 belek
 beler
 beli
@@ -1441,6 +1442,7 @@ cireng
 ciro
 ciu
 ciyut
+clurut
 co
 coba
 cobaan
@@ -9325,6 +9327,7 @@ wae
 wage
 wagu
 wah
+wahana
 wahing
 wahyu
 wajah
