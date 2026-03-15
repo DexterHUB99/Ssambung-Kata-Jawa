@@ -6005,6 +6005,7 @@ ngasor
 ngasta
 ngasu
 ngasuh
+ngasul
 ngata
 ngatasi
 ngatau
@@ -6729,6 +6730,7 @@ nyawa
 nyawang
 nyawiji
 nyawit
+nyebut
 nyedhak
 nyekar
 nyeluk
