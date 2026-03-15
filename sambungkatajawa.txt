@@ -8360,6 +8360,7 @@ santai
 santen
 santri
 santun
+santuy
 sanur
 sao
 sap
@@ -8953,6 +8954,7 @@ tamu
 tan
 tanah
 tandang
+tandas
 tandha
 tandhuk
 tanduk
