@@ -2816,6 +2816,7 @@ generator
 geneyi
 geng
 geni
+genit
 genjot
 geno
 genta
@@ -6355,6 +6356,7 @@ ngembang
 ngemen
 ngemil
 ngemong
+ngemot
 ngempal
 ngemper
 ngempot
