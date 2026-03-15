@@ -5539,6 +5539,7 @@ mini
 minta
 minum
 mio
+mir
 mira
 mirah
 mirengake
