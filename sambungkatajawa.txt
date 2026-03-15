@@ -362,6 +362,7 @@ amalan
 amalane
 amam
 amama
+amambil
 aman
 amana
 amanah
@@ -452,6 +453,7 @@ amut
 an
 ana
 anae
+anag
 anah
 anai
 anak
@@ -2157,6 +2159,7 @@ endasmu
 endek
 endel
 endem
+endep
 endhas
 endhog
 endhok
@@ -2230,6 +2233,7 @@ enyak
 enyong
 ep
 epa
+epak
 epal
 epam
 epan
@@ -3358,6 +3362,7 @@ ilah
 ilahi
 ilai
 ilak
+ilala
 ilali
 ilam
 ilan
@@ -4842,7 +4847,6 @@ leri
 les
 lesa
 lesehan
-lestari
 lesu
 lesung
 let
