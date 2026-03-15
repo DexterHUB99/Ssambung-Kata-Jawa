@@ -2314,6 +2314,7 @@ epo
 epoh
 epok
 epor
+epos
 epot
 epu
 epuh
@@ -7149,6 +7150,7 @@ osem
 osen
 oseng
 oser
+oses
 osik
 osin
 osing
