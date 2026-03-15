@@ -7414,6 +7414,7 @@ obat
 obata
 obati
 obek
+obel
 obeng
 oblong
 obok
@@ -7935,6 +7936,7 @@ pekan
 peking
 peko
 pekok
+peksi
 pel
 pela
 pelan
