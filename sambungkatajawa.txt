@@ -6281,6 +6281,7 @@ ngiwasi
 ngko
 nglakoni
 nglamun
+nglangi
 nglangkah
 nglantur
 nglek
