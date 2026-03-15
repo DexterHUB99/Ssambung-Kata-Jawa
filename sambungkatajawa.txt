@@ -5499,6 +5499,7 @@ mung
 mungah
 munggah
 mungkin
+mungkur
 muni
 munjul
 muntab
@@ -5516,6 +5517,7 @@ murung
 murup
 mus
 musa
+musan
 musi
 musibah
 musim
@@ -6284,6 +6286,7 @@ ngngombe
 ngni
 ngobah
 ngobat
+ngober
 ngobok
 ngobong
 ngobor
@@ -7572,6 +7575,7 @@ raisin
 raiso
 raja
 rajah
+rajam
 rajang
 rajar
 rajin
