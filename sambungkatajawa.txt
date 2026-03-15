@@ -1040,6 +1040,7 @@ bakso
 baku
 bakul
 bal
+balak
 balek
 baleni
 bali
@@ -4187,6 +4188,7 @@ kek
 keka
 kekal
 keke
+kekel
 keker
 keket
 keki
@@ -7380,6 +7382,7 @@ pensil
 pentil
 penting
 pentung
+penuh
 penyu
 peo
 pepaya
@@ -9115,6 +9118,7 @@ tolak
 tole
 toleh
 tolek
+toli
 tolol
 tolong
 tomat
