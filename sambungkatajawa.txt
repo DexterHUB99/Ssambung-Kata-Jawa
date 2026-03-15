@@ -2395,6 +2395,7 @@ etal
 etam
 etan
 etang
+etano
 etar
 etas
 etawa
@@ -4441,6 +4442,7 @@ kira
 kirab
 kiran
 kirana
+kirane
 kirang
 kirap
 kirapan
@@ -9529,6 +9531,7 @@ upacara
 upah
 upaku
 upam
+upama
 upan
 upang
 upas
