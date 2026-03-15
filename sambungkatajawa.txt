@@ -195,6 +195,7 @@ air
 aira
 airo
 aisin
+aita
 aiya
 aiyo
 aj
@@ -750,6 +751,7 @@ ara
 arab
 arah
 arahan
+arai
 arak
 aram
 arami
@@ -1838,7 +1840,6 @@ dila
 dilah
 dilalah
 dilan
-dilas
 dilat
 dilati
 dileh
@@ -2474,6 +2475,7 @@ esek
 esem
 eseme
 eses
+eset
 esey
 esi
 esih
@@ -2922,7 +2924,6 @@ gethuk
 geti
 getih
 getir
-geto
 getok
 geton
 getuk
@@ -4517,6 +4518,7 @@ kerono
 keroso
 kersa
 kersane
+kerta
 kertas
 keruh
 kerupuk
@@ -5339,6 +5341,7 @@ lumajang
 lumaku
 luman
 lumbung
+lumpang
 lumping
 lumpuh
 lumrah
@@ -6849,6 +6852,7 @@ nguning
 ngunjuk
 ngunta
 nguntal
+nguntung
 ngunu
 ngunung
 ngunut
@@ -10323,6 +10327,7 @@ wisa
 wisan
 wisata
 wisma
+wisnu
 wisuh
 wit
 witan
