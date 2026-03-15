@@ -78,6 +78,7 @@ ae
 aeng
 afa
 afe
+afi
 ag
 aga
 agah
@@ -7591,6 +7592,7 @@ oras
 orasah
 orasi
 oraurus
+orausah
 ore
 oreg
 orek
@@ -8927,6 +8929,7 @@ sarungan
 sas
 sasa
 sasak
+sasampean
 sasaran
 sasi
 sasih
