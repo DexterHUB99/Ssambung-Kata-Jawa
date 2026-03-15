@@ -4466,6 +4466,7 @@ klawu
 klebus
 klemer
 klenger
+klengkeng
 klenteng
 klepon
 kleru
@@ -7465,6 +7466,7 @@ pinak
 pinang
 pinarak
 pincang
+pincuk
 pindah
 pindak
 pindang
@@ -7624,6 +7626,7 @@ pulung
 pun
 puna
 punapa
+puncak
 pundhak
 pundhut
 pundi
