@@ -5105,6 +5105,7 @@ lopi
 lopis
 lor
 lore
+loreng
 lori
 loro
 lorone
