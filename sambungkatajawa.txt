@@ -3984,6 +3984,7 @@ kas
 kasa
 kasah
 kasak
+kasam
 kasang
 kasar
 kasat
@@ -5684,6 +5685,7 @@ negara
 negari
 negas
 negeri
+neges
 negesi
 negor
 negori
@@ -7346,6 +7348,7 @@ poki
 poko
 pokok
 pokoke
+pokone
 pol
 pola
 polah
