@@ -743,7 +743,6 @@ apung
 apuran
 apus
 apusa
-apusi
 apuwo
 ar
 ara
@@ -2705,6 +2704,7 @@ gapapa
 gapi
 gaplek
 gaplok
+gapopo
 gapuk
 gapura
 gar
@@ -4520,6 +4520,7 @@ keruh
 kerupuk
 kerutan
 kes
+kesa
 kesah
 kesal
 kesasar
@@ -5457,6 +5458,7 @@ man
 mana
 manah
 manak
+manas
 manasi
 mancal
 mancing
@@ -10249,6 +10251,7 @@ weku
 wel
 welah
 welas
+wele
 weleh
 weli
 weling
