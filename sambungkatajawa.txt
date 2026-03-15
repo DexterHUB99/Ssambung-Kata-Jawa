@@ -378,6 +378,7 @@ amalane
 amam
 amama
 amambil
+amamin
 aman
 amana
 amanah
@@ -687,6 +688,7 @@ anyer
 anyes
 anying
 anyir
+aos
 ap
 apa
 apae
@@ -988,6 +990,7 @@ ayak
 ayal
 ayalan
 ayam
+ayamne
 ayan
 ayanen
 ayang
@@ -1213,6 +1216,7 @@ betah
 beti
 beto
 beton
+betutu
 bewa
 bi
 biak
@@ -1797,7 +1801,6 @@ diman
 dimana
 dimar
 dimas
-dimi
 dimna
 dimo
 dimul
@@ -2901,6 +2904,7 @@ giwang
 giwangan
 go
 gobak
+gobang
 goblog
 goblok
 gobloki
@@ -3893,7 +3897,6 @@ jinak
 jinaka
 jingga
 jingkrak
-jingkrik
 jini
 jinjing
 jinjit
@@ -4051,7 +4054,6 @@ kalor
 kalung
 kam
 kama
-kamal
 kaman
 kamana
 kamar
@@ -4107,6 +4109,7 @@ kanti
 kantil
 kanto
 kantor
+kanyatane
 kanyuwun
 kaos
 kapak
@@ -4572,7 +4575,6 @@ kolah
 kolak
 kolam
 kolek
-koli
 koloh
 kolong
 kolot
@@ -5430,7 +5432,6 @@ mateni
 mati
 matin
 matio
-matu
 matur
 maturnuwun
 matursuwun
@@ -5556,7 +5557,6 @@ mio
 mir
 mira
 mirah
-mireng
 mirengake
 miri
 miring
@@ -5885,6 +5885,7 @@ natah
 natal
 natap
 nate
+natik
 nawa
 nawang
 nawani
@@ -6966,6 +6967,7 @@ nyilih
 nyiram
 nyirep
 nyo
+nyocot
 nyolong
 nyong
 nyuluh
@@ -6979,6 +6981,7 @@ oalah
 ob
 oba
 obah
+obak
 obat
 obek
 obeng
@@ -7825,7 +7828,6 @@ rah
 rahas
 rahasia
 rahayu
-rahma
 rahmat
 rahwana
 rai
@@ -7933,6 +7935,7 @@ rapo
 rapopo
 rapu
 rapuh
+rapus
 rara
 rarawoh
 rari
@@ -8267,7 +8270,6 @@ rungka
 rungkad
 rungkut
 rungo
-rungono
 rungsing
 rungu
 runi
@@ -10129,6 +10131,7 @@ yana
 yang
 yani
 yano
+yao
 yap
 yaping
 yapo
