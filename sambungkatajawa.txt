@@ -6382,6 +6382,7 @@ nikah
 nikahan
 niki
 nikmat
+nikmate
 niko
 niku
 nikung
@@ -9641,6 +9642,7 @@ yiwa
 yo
 yoa
 yoan
+yodi
 yoe
 yoga
 yogya
