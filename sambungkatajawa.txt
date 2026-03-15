@@ -2756,6 +2756,7 @@ gram
 grana
 greges
 greget
+gresik
 griwa
 griya
 grobak
