@@ -1327,6 +1327,7 @@ bubur
 buda
 budak
 budal
+budaya
 bude
 budeg
 budek
@@ -4308,6 +4309,7 @@ kena
 kenak
 kenanga
 kenapa
+kenari
 kencur
 kendal
 kendang
