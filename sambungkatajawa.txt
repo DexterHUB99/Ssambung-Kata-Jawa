@@ -3237,6 +3237,7 @@ hina
 hinggap
 hir
 hira
+hire
 hiren
 hiri
 hiruk
@@ -9208,6 +9209,7 @@ toleh
 tolek
 toli
 tolol
+tolola
 tolong
 tomat
 tombak
