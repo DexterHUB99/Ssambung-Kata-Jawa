@@ -2724,6 +2724,7 @@ ganggu
 gangsal
 gangsing
 gani
+ganing
 ganja
 ganjar
 ganjaran
@@ -3535,6 +3536,7 @@ ihna
 iho
 ihra
 ihsan
+ihta
 ihya
 ihyo
 ij
@@ -3748,6 +3750,7 @@ ipi
 ipik
 ipil
 ipin
+iping
 ipit
 ipo
 ipoe
