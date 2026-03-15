@@ -9056,6 +9056,7 @@ tawon
 tawuran
 tayo
 te
+tebih
 tebu
 tegal
 tegalan
@@ -9289,6 +9290,7 @@ tuhan
 tuk
 tukan
 tukang
+tukange
 tukaran
 tuki
 tuku
