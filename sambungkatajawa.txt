@@ -1989,6 +1989,7 @@ elos
 elu
 eluh
 eluk
+elungan
 elur
 elus
 elut
@@ -4202,6 +4203,7 @@ kijang
 kijing
 kik
 kika
+kike
 kiki
 kikil
 kil
