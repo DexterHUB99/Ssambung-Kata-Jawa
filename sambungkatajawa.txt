@@ -2513,6 +2513,7 @@ epok
 epor
 epos
 epot
+epoy
 epu
 epuh
 epuk
@@ -8475,6 +8476,7 @@ rasa
 rasah
 rasak
 rasakan
+rasake
 rasakno
 rasan
 rasane
