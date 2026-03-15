@@ -744,6 +744,7 @@ apuran
 apus
 apusa
 apusi
+aput
 apuwo
 ar
 ara
@@ -1497,6 +1498,7 @@ care
 cari
 carik
 carita
+carok
 caruk
 cas
 cawan
@@ -2705,6 +2707,7 @@ gapapa
 gapi
 gaplek
 gaplok
+gapopo
 gapuk
 gapura
 gar
@@ -3193,7 +3196,6 @@ ham
 hama
 haman
 hamba
-hambali
 hambamu
 hambar
 hambawa
@@ -4409,7 +4411,6 @@ kemayu
 kembali
 kembang
 kembar
-kembaran
 kemben
 kemeja
 kemem
@@ -4522,6 +4523,7 @@ keruh
 kerupuk
 kerutan
 kes
+kesa
 kesah
 kesal
 kesasar
@@ -5459,6 +5461,7 @@ man
 mana
 manah
 manak
+manas
 manasi
 mancal
 mancing
@@ -5689,7 +5692,6 @@ mio
 mir
 mira
 mirah
-mirang
 mireng
 mirengake
 miri
@@ -6164,7 +6166,6 @@ ngabari
 ngabekti
 ngaben
 ngaboti
-ngabur
 ngaca
 ngacak
 ngacara
@@ -10255,6 +10256,7 @@ weku
 wel
 welah
 welas
+wele
 weleh
 weli
 weling
