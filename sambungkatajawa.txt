@@ -6402,6 +6402,7 @@ ngurus
 ngurusi
 ngurut
 ngus
+ngusak
 ngusap
 nguser
 ngusi
@@ -9690,6 +9691,7 @@ yano
 yap
 yaping
 yapo
+yar
 yare
 yas
 yasa
