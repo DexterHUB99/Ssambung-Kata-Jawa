@@ -756,6 +756,7 @@ asak
 asal
 asale
 asam
+asaman
 asan
 asap
 asar
@@ -3615,6 +3616,7 @@ jangkrik
 jani
 janian
 janji
+janti
 jar
 jara
 jaran
