@@ -184,6 +184,7 @@ airo
 aisin
 aiya
 aiyo
+aj
 aja
 ajai
 ajak
@@ -3322,6 +3323,7 @@ iklas
 iklim
 iko
 ikon
+ikoro
 ikrar
 iku
 ikui
@@ -3780,6 +3782,7 @@ joged
 jogja
 joglo
 jogo
+jojor
 jok
 joki
 joko
@@ -5520,6 +5523,7 @@ mutan
 muten
 muti
 mutih
+muwa
 na
 nabi
 nabok
@@ -5900,6 +5904,7 @@ ngangkang
 ngangluh
 ngangon
 ngangsu
+ngangsur
 ngangu
 ngangur
 ngani
