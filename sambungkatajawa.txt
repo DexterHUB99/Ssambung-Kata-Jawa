@@ -3785,6 +3785,7 @@ jumat
 jumeneng
 jumpa
 jun
+juna
 juni
 jupuk
 jur
@@ -6968,6 +6969,7 @@ pajang
 pajar
 pajek
 paji
+pajil
 pak
 paka
 pakan
