@@ -1655,7 +1655,6 @@ dakar
 daki
 dakngerti
 dakon
-dakwah
 dalah
 dalam
 dalan
@@ -6203,6 +6202,7 @@ ngarah
 ngaran
 ngarang
 ngarani
+ngarap
 ngarasa
 ngare
 ngarek
@@ -8278,7 +8278,6 @@ ruk
 ruka
 ruki
 ruko
-ruku
 rukuh
 rukun
 rula
