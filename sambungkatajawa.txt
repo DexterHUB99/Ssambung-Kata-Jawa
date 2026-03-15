@@ -852,6 +852,7 @@ ata
 atah
 atai
 atak
+atakno
 atam
 atan
 atang
@@ -9742,6 +9743,7 @@ weton
 wewe
 weweling
 wi
+wibu
 wicak
 widana
 widara
