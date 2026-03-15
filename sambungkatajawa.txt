@@ -2347,6 +2347,7 @@ empan
 empang
 empedu
 empek
+empela
 empeng
 emper
 empet
@@ -5069,6 +5070,7 @@ kutuk
 kuwa
 kuwalat
 kuwat
+kuwatir
 kuwe
 kuwi
 kuwo
