@@ -418,6 +418,7 @@ amas
 amat
 amati
 amay
+amaya
 amba
 ambal
 ambar
@@ -6607,6 +6608,7 @@ ngedol
 ngegame
 ngegas
 ngeh
+ngehormati
 ngei
 ngejak
 ngejar
@@ -8864,6 +8866,7 @@ sampul
 sampun
 sampur
 sampurna
+samudra
 samui
 san
 sana
