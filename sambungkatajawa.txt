@@ -195,7 +195,6 @@ air
 aira
 airo
 aisin
-aita
 aiya
 aiyo
 aj
@@ -751,7 +750,6 @@ ara
 arab
 arah
 arahan
-arai
 arak
 aram
 arami
@@ -2476,7 +2474,6 @@ esek
 esem
 eseme
 eses
-eset
 esey
 esi
 esih
@@ -4520,7 +4517,6 @@ kerono
 keroso
 kersa
 kersane
-kerta
 kertas
 keruh
 kerupuk
@@ -5128,7 +5124,6 @@ lestari
 lesu
 lesung
 let
-leto
 letong
 lewat
 li
@@ -5345,7 +5340,6 @@ lumajang
 lumaku
 luman
 lumbung
-lumpang
 lumping
 lumpuh
 lumrah
@@ -6177,6 +6171,7 @@ ngacem
 ngaceng
 ngacir
 ngaco
+ngacok
 ngacung
 ngada
 ngadang
@@ -6856,7 +6851,6 @@ nguning
 ngunjuk
 ngunta
 nguntal
-nguntung
 ngunu
 ngunung
 ngunut
@@ -6884,6 +6878,7 @@ ngurus
 ngurusi
 ngurut
 ngus
+ngusah
 ngusak
 ngusap
 nguser
@@ -8817,7 +8812,6 @@ sempit
 semprul
 semrawut
 semu
-semua
 semut
 sen
 senajan
@@ -9921,6 +9915,7 @@ ungkit
 ungkur
 ungu
 uni
+uniko
 unjal
 unjang
 unjar
@@ -10332,7 +10327,6 @@ wisa
 wisan
 wisata
 wisma
-wisnu
 wisuh
 wit
 witan
