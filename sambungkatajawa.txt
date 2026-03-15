@@ -3060,6 +3060,7 @@ gobak
 gobang
 goblog
 goblok
+gobloke
 gobloki
 goboh
 goceki
