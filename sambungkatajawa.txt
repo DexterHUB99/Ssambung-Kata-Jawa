@@ -1424,6 +1424,7 @@ cambah
 campur
 can
 cancut
+canda
 candi
 candra
 canggah
@@ -8294,6 +8295,7 @@ sami
 samir
 sampah
 sampai
+sampang
 sampar
 sampe
 sampean
