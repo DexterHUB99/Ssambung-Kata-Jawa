@@ -2072,6 +2072,7 @@ empu
 empuk
 empul
 empun
+empung
 emu
 emuh
 emuk
