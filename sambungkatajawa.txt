@@ -1467,6 +1467,7 @@ conto
 contoh
 contohe
 copet
+coplok
 copot
 cor
 corak
@@ -2326,6 +2327,7 @@ fafa
 faham
 fakir
 fakta
+famu
 fani
 fasih
 firman
@@ -7731,6 +7733,7 @@ ruh
 rui
 rujak
 rujuk
+ruk
 ruka
 ruki
 ruko
