@@ -316,6 +316,7 @@ alat
 alay
 ale
 aleh
+alek
 alem
 aleman
 alengka
