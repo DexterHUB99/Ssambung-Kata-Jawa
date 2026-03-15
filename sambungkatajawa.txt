@@ -93,7 +93,6 @@ agen
 ageng
 ager
 agi
-ago
 agor
 agu
 agung
@@ -1650,6 +1649,7 @@ cuek
 cuk
 cuka
 cuki
+cukin
 cukur
 culik
 culu
@@ -1951,7 +1951,6 @@ dosa
 dosen
 doso
 dowo
-doyan
 du
 dubur
 duda
@@ -2886,7 +2885,6 @@ gentos
 genuk
 geo
 geol
-gepak
 gepeng
 gepok
 geprek
@@ -5998,7 +5996,6 @@ nangis
 nangka
 nangkene
 nangkep
-nangkis
 nangkring
 nani
 nano
@@ -6614,7 +6611,6 @@ ngibrit
 ngibu
 ngibul
 ngicipi
-ngicir
 ngidam
 ngidek
 ngider
@@ -8282,7 +8278,6 @@ remi
 remo
 remok
 rempah
-rempak
 rempeyek
 rempon
 remu
@@ -8546,7 +8541,6 @@ rus
 rusa
 rusak
 rusaken
-rusi
 ruso
 rusuh
 rut
@@ -8755,7 +8749,6 @@ sawiji
 sawijine
 sawit
 sawo
-sawung
 saya
 sayah
 sayak
@@ -9598,7 +9591,6 @@ totak
 toto
 towo
 toya
-toyo
 trenggalek
 tresna
 tresno
@@ -9923,7 +9915,6 @@ undian
 unduh
 unduk
 undukan
-undung
 undur
 une
 unek
