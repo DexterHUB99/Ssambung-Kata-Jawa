@@ -2903,6 +2903,7 @@ giwang
 giwangan
 go
 gobak
+gobang
 goblog
 goblok
 gobloki
