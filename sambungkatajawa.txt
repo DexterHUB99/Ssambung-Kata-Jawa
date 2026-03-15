@@ -924,6 +924,7 @@ awis
 awit
 awo
 awok
+awon
 awong
 awor
 awu
@@ -4070,6 +4071,7 @@ kelak
 kelalen
 kelam
 kelambe
+kelana
 kelangan
 kelaparan
 kelar
