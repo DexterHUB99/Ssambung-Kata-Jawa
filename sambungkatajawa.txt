@@ -378,7 +378,6 @@ amalane
 amam
 amama
 amambil
-amamin
 aman
 amana
 amanah
@@ -989,7 +988,6 @@ ayak
 ayal
 ayalan
 ayam
-ayamne
 ayan
 ayanen
 ayang
@@ -4051,6 +4049,7 @@ kalor
 kalung
 kam
 kama
+kamal
 kaman
 kamana
 kamar
@@ -5428,6 +5427,7 @@ mateni
 mati
 matin
 matio
+matu
 matur
 maturnuwun
 matursuwun
@@ -6962,7 +6962,6 @@ nyilih
 nyiram
 nyirep
 nyo
-nyocot
 nyolong
 nyong
 nyuluh
@@ -6976,7 +6975,6 @@ oalah
 ob
 oba
 obah
-obak
 obat
 obek
 obeng
@@ -7823,6 +7821,7 @@ rah
 rahas
 rahasia
 rahayu
+rahma
 rahmat
 rahwana
 rai
@@ -8264,6 +8263,7 @@ rungka
 rungkad
 rungkut
 rungo
+rungono
 rungsing
 rungu
 runi
@@ -10125,7 +10125,6 @@ yana
 yang
 yani
 yano
-yao
 yap
 yaping
 yapo
