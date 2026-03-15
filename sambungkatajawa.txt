@@ -2112,6 +2112,7 @@ empung
 emu
 emuh
 emuk
+emul
 emur
 emut
 en
@@ -3239,6 +3240,7 @@ ida
 idam
 idan
 ide
+idem
 idep
 ider
 idi
@@ -6414,6 +6416,7 @@ ngurip
 nguripi
 nguru
 ngurui
+nguruki
 ngurung
 ngurus
 ngurusi
