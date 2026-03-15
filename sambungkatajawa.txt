@@ -3901,6 +3901,7 @@ kancaku
 kancil
 kancing
 kancut
+kanda
 kandang
 kandani
 kandel
@@ -4588,6 +4589,7 @@ laju
 lak
 laka
 laki
+lakna
 lakon
 lakoni
 laku
@@ -8930,6 +8932,7 @@ tunggu
 tungkak
 tupi
 tur
+tura
 turah
 turahe
 turi
