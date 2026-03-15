@@ -1336,6 +1336,7 @@ cakra
 cakung
 cal
 cala
+calung
 cama
 camat
 cambah
