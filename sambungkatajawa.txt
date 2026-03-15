@@ -55,6 +55,8 @@ adhang
 adhem
 adhi
 adi
+adiguna
+adigung
 adik
 adil
 adin
@@ -722,6 +724,7 @@ anut
 anyam
 anyaman
 anyar
+anyeb
 anyep
 anyer
 anyes
@@ -827,6 +830,7 @@ arsa
 arsi
 arta
 arti
+artii
 artine
 artis
 arto
@@ -996,6 +1000,7 @@ aus
 aut
 auta
 autan
+auten
 auto
 av
 ava
@@ -1137,6 +1142,7 @@ banci
 bandeng
 bando
 bandrek
+bandung
 bangke
 bangkong
 bangsa
@@ -1292,6 +1298,7 @@ bibi
 bibik
 bibir
 bibit
+bibu
 bicu
 bid
 bidak
@@ -1443,6 +1450,7 @@ bumbu
 bumbune
 bumi
 bun
+buna
 bundas
 bunder
 bunga
@@ -1510,6 +1518,7 @@ campur
 can
 cancut
 canda
+candak
 candi
 candra
 canggah
@@ -2136,6 +2145,7 @@ ehob
 ehod
 ehok
 ehol
+ehon
 ehop
 ehor
 ehos
@@ -2174,7 +2184,6 @@ ekere
 ekes
 eket
 eki
-ekih
 ekik
 ekin
 ekis
@@ -2205,6 +2214,7 @@ elag
 elah
 elai
 elak
+elam
 elan
 elang
 elap
@@ -2354,6 +2364,7 @@ endik
 endog
 endol
 endong
+endorse
 endung
 ene
 eneg
@@ -3068,6 +3079,7 @@ golonga
 golongan
 gombal
 gombalan
+gondhok
 gondo
 gondok
 gondol
@@ -3260,6 +3272,7 @@ hambur
 hamel
 hami
 hamil
+hamis
 hampir
 hamu
 han
@@ -4147,6 +4160,7 @@ juragan
 juri
 juru
 jus
+juta
 ka
 kabar
 kabeh
@@ -4297,7 +4311,9 @@ kapan
 kapas
 kape
 kapi
+kapik
 kaping
+kapiran
 kaplok
 kapok
 kapor
@@ -4489,6 +4505,7 @@ kemaki
 kemalan
 kemang
 kemari
+kemaruk
 kemas
 kemayu
 kembali
@@ -4605,6 +4622,7 @@ kerok
 kerono
 keroso
 kersa
+kersana
 kersane
 kerta
 kertas
@@ -4781,6 +4799,7 @@ koma
 komen
 komi
 komik
+komodo
 kompak
 kompas
 kompor
@@ -4922,6 +4941,7 @@ kumu
 kumuh
 kumut
 kun
+kuna
 kunang
 kunci
 kundur
@@ -5393,6 +5413,7 @@ lopi
 lopis
 lor
 lore
+lorek
 loreng
 lori
 loro
@@ -5444,6 +5465,7 @@ lumajang
 lumaku
 luman
 lumbung
+lumen
 lumpang
 lumping
 lumpuh
@@ -5678,6 +5700,7 @@ mayak
 mayan
 mayat
 mayit
+mayu
 mayuh
 mayungi
 mbah
@@ -5714,6 +5737,7 @@ memar
 membal
 meme
 memek
+memelas
 memen
 men
 menawa
@@ -5856,6 +5880,7 @@ mondok
 mone
 mong
 monggo
+mongo
 moni
 montor
 monyet
@@ -6021,6 +6046,7 @@ naki
 nakoe
 nakon
 nakoni
+naksir
 naku
 nakula
 nal
@@ -6142,10 +6168,12 @@ nat
 nata
 natah
 natal
+natalan
 natap
 nate
 natik
 nawa
+nawan
 nawang
 nawani
 nawar
@@ -6188,6 +6216,7 @@ nega
 negara
 negari
 negas
+nege
 negeri
 neges
 negesi
@@ -6374,6 +6403,7 @@ ngamok
 ngampel
 ngampet
 ngampil
+ngampir
 ngampun
 ngamuk
 ngan
@@ -6596,6 +6626,7 @@ ngembang
 ngemen
 ngemi
 ngemil
+ngemis
 ngemong
 ngemot
 ngempal
@@ -6869,7 +6900,6 @@ ngonten
 ngontol
 ngop
 ngopak
-ngopeng
 ngopeni
 ngopet
 ngopi
@@ -7076,6 +7106,7 @@ nina
 nindak
 nindakake
 ning
+ninga
 ningali
 ninggal
 ninggalake
@@ -7344,6 +7375,7 @@ ohhh
 oho
 ohya
 oj
+ojam
 ojar
 ojek
 ojekan
@@ -8364,6 +8396,7 @@ rayon
 rayu
 re
 rea
+rebab
 rebah
 rebahan
 rebana
@@ -9030,7 +9063,6 @@ serep
 seres
 seret
 seri
-serik
 serius
 serong
 seru
@@ -9345,6 +9377,7 @@ sur
 sura
 surabaya
 surai
+surakarta
 surasa
 surat
 sure
@@ -9531,7 +9564,6 @@ tebu
 tegak
 tegal
 tegalan
-tegas
 teguh
 teh
 teja
@@ -9552,6 +9584,7 @@ telek
 teles
 teli
 telinga
+teliti
 telo
 telon
 telu
@@ -9799,6 +9832,7 @@ tumbal
 tumbas
 tumbu
 tumbuk
+tumi
 tumindak
 tumis
 tumit
@@ -10550,6 +10584,7 @@ womo
 won
 wong
 wonge
+wongko
 woni
 wono
 wonogiri
@@ -10596,9 +10631,11 @@ yakan
 yake
 yakin
 yaku
+yale
 yali
 yalo
 yam
+yama
 yamaha
 yaman
 yamen
