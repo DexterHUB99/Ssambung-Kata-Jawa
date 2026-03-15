@@ -743,6 +743,7 @@ apung
 apuran
 apus
 apusa
+apusi
 apuwo
 ar
 ara
@@ -10248,7 +10249,6 @@ weku
 wel
 welah
 welas
-wele
 weleh
 weli
 weling
