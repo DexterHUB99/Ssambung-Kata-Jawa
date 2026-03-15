@@ -772,6 +772,7 @@ apip
 apit
 apo
 apol
+apolo
 apos
 aposi
 app
@@ -850,6 +851,7 @@ artis
 arto
 artos
 aru
+arud
 arue
 aruh
 arul
