@@ -5953,6 +5953,7 @@ negori
 neh
 nek
 neka
+nekad
 nekani
 nekat
 neker
