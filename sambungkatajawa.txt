@@ -6003,6 +6003,7 @@ ngambruk
 ngambu
 ngambul
 ngambung
+ngamel
 ngamil
 ngamok
 ngampel
