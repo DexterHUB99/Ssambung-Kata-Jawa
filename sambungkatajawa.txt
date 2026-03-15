@@ -5612,6 +5612,7 @@ mae
 maem
 maen
 mag
+mage
 magrib
 mah
 maha
