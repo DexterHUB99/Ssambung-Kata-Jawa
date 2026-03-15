@@ -685,7 +685,6 @@ anum
 anun
 anung
 anup
-anur
 anus
 anut
 anyam
@@ -1277,7 +1276,6 @@ bindeng
 bingung
 bini
 bintang
-bintit
 bio
 bir
 bira
@@ -2800,7 +2798,6 @@ gemblong
 gemblung
 gembok
 gembong
-gembor
 gembrot
 gembung
 gemen
@@ -3186,7 +3183,6 @@ hantam
 hantu
 hanung
 hanya
-hao
 hap
 hapa
 hape
@@ -4245,6 +4241,7 @@ kater
 kates
 kathah
 kathok
+kati
 katil
 katok
 katon
@@ -6836,6 +6833,7 @@ nil
 nila
 nilai
 nilam
+nilar
 nilas
 nile
 nilem
