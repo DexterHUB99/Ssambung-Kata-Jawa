@@ -2294,6 +2294,7 @@ erup
 erupi
 erus
 erusi
+erut
 es
 esa
 esah
@@ -5279,6 +5280,7 @@ meneng
 mengko
 meni
 menika
+menit
 mentah
 mentas
 mentol
@@ -7862,6 +7864,7 @@ rom
 roma
 romah
 roman
+romawi
 rombak
 rombeng
 rombong
