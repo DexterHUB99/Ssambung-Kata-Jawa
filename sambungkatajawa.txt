@@ -104,14 +104,12 @@ ahan
 ahar
 ahas
 ahat
-ahav
 ahay
 ahe
 aheh
 ahek
 ahel
 ahem
-ahen
 aheng
 aher
 ahes
@@ -972,7 +970,6 @@ ayas
 ayat
 aye
 ayem
-ayeme
 ayep
 ayi
 aying
@@ -1057,7 +1054,6 @@ bangsa
 bangsat
 bani
 banjir
-bantal
 banter
 bantu
 bantul
@@ -1083,7 +1079,6 @@ bata
 batal
 bathuk
 bati
-batik
 bato
 batok
 batu
@@ -1161,6 +1156,7 @@ bengi
 bengkok
 beni
 benjol
+bentak
 benten
 bentrok
 beo
@@ -1196,7 +1192,6 @@ bibik
 bibir
 bibit
 bicu
-bid
 bidak
 bidan
 bidek
@@ -1298,7 +1293,6 @@ bubar
 bubrah
 bubuk
 bubur
-buda
 budak
 budal
 bude
@@ -1401,7 +1395,6 @@ camat
 cambah
 campur
 can
-cancut
 candi
 candra
 canggah
@@ -1564,7 +1557,6 @@ culu
 cum
 cuma
 cumi
-cumo
 cunduk
 cur
 curi
@@ -1647,6 +1639,7 @@ daun
 dawa
 dawet
 dawuh
+daya
 dayang
 dayu
 de
@@ -1727,7 +1720,6 @@ dikir
 dikit
 dikon
 dikongkon
-dikontol
 diku
 dil
 dila
@@ -2321,6 +2313,7 @@ eror
 eros
 erosi
 erot
+erti
 eru
 eruh
 eruk
@@ -2588,7 +2581,6 @@ garian
 garik
 garing
 garis
-garisan
 garong
 garpu
 garu
@@ -2852,7 +2844,6 @@ golet
 goli
 golo
 golong
-golonga
 golongan
 gombal
 gombalan
@@ -3284,7 +3275,6 @@ icu
 id
 ida
 idam
-idaman
 idan
 ide
 idem
@@ -3747,7 +3737,6 @@ jawaban
 jawah
 jawe
 jawi
-jawila
 jawir
 jawoh
 jawuh
@@ -3780,7 +3769,6 @@ jero
 jeruk
 ji
 jidat
-jiga
 jigong
 jijih
 jijik
@@ -4017,7 +4005,6 @@ kapak
 kapal
 kapan
 kapas
-kape
 kapi
 kaping
 kaplok
@@ -4276,7 +4263,6 @@ kera
 kerah
 kerak
 keram
-kerama
 keramas
 kerang
 keranjingan
@@ -4872,7 +4858,6 @@ leri
 les
 lesa
 lesehan
-lestari
 lesu
 lesung
 let
@@ -5411,7 +5396,6 @@ minat
 minggat
 minggir
 minggu
-mingkem
 mini
 minta
 minum
@@ -5459,6 +5443,7 @@ mokong
 mol
 mola
 molah
+molan
 molas
 mole
 moleh
@@ -5859,7 +5844,6 @@ netek
 netel
 netes
 netra
-ngaba
 ngabab
 ngabari
 ngabekti
@@ -5960,7 +5944,6 @@ ngandani
 ngandap
 ngandi
 ngandok
-ngandong
 nganduk
 ngandung
 ngandut
@@ -6106,6 +6089,7 @@ ngece
 ngecek
 ngeces
 ngecet
+ngedan
 ngedang
 ngedani
 ngeden
@@ -6242,12 +6226,10 @@ nggawa
 nggawe
 ngge
 nggeh
-nggendong
 ngger
 nggi
 nggih
 nggilani
-nggiling
 nggo
 nggolek
 nggoleti
@@ -6291,7 +6273,6 @@ ngilu
 ngimam
 ngiman
 ngimbar
-ngimbu
 ngimbuh
 ngimi
 ngimpi
@@ -6414,7 +6395,6 @@ ngopo
 ngopoe
 ngopor
 ngopose
-ngor
 ngora
 ngore
 ngorek
@@ -6483,7 +6463,6 @@ ngulon
 ngulu
 nguluk
 ngulur
-nguma
 ngumah
 ngumbah
 ngumbahi
@@ -6589,7 +6568,6 @@ nimbang
 nimbangi
 nimbul
 nimbun
-nimen
 nimo
 nimpal
 nin
@@ -6611,6 +6589,7 @@ nio
 nip
 nipak
 nipan
+nipi
 nipis
 nipu
 nir
@@ -6671,6 +6650,7 @@ nomi
 non
 nona
 nong
+nongeng
 nongki
 nongkrong
 noni
@@ -6775,7 +6755,6 @@ nyali
 nyam
 nyaman
 nyambel
-nyambi
 nyamuk
 nyangu
 nyanyi
@@ -6933,7 +6912,6 @@ ombo
 omboh
 ome
 omel
-omelan
 omen
 omi
 omo
@@ -7416,7 +7394,6 @@ pindoe
 ping
 pinggih
 pinggir
-pingsan
 pinja
 pinta
 pinten
@@ -7800,7 +7777,6 @@ redi
 rega
 regane
 reget
-regu
 rei
 rejeb
 rejo
@@ -8152,6 +8128,7 @@ saksake
 sakti
 saku
 sakun
+sakur
 sal
 salae
 salah
@@ -8275,6 +8252,7 @@ saut
 sawah
 sawan
 sawang
+sawe
 sawer
 sawet
 sawi
@@ -8507,6 +8485,7 @@ sisih
 sisik
 sisil
 sisir
+siso
 sisu
 sita
 siter
@@ -8947,7 +8926,6 @@ terus
 tesi
 tet
 tete
-teteg
 tetek
 tetes
 teuing
@@ -9143,6 +9121,7 @@ turi
 turu
 turuk
 turun
+turut
 tus
 tusi
 tusuk
@@ -9419,7 +9398,6 @@ unjung
 unki
 uno
 unta
-untah
 untal
 untalen
 untara
@@ -9614,7 +9592,6 @@ uye
 uyuh
 uyuhmu
 uz
-vila
 visa
 voli
 wa
