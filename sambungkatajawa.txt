@@ -1867,6 +1867,7 @@ duh
 duhur
 duit
 dujer
+duk
 duka
 dukar
 duko
@@ -4501,6 +4502,7 @@ komik
 kompak
 kompas
 kompor
+komputer
 kon
 konangan
 konco
