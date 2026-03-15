@@ -63,6 +63,7 @@ adoh
 adol
 adon
 adonan
+ador
 ados
 adu
 aduan
@@ -7095,6 +7096,7 @@ nur
 nura
 nurah
 nure
+nuren
 nuri
 nuro
 nuru
@@ -9716,6 +9718,7 @@ ujan
 ujar
 ujaran
 uji
+ujia
 ujian
 ujuk
 ujun
