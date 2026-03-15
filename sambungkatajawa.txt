@@ -1776,6 +1776,7 @@ derek
 dereng
 deres
 deru
+des
 desa
 deso
 dewa
@@ -6274,6 +6275,7 @@ ngarasa
 ngare
 ngarek
 ngarep
+ngarepi
 ngaret
 ngari
 ngaring
@@ -7844,6 +7846,7 @@ pot
 potong
 powa
 powo
+poya
 poye
 poyo
 prajurit
