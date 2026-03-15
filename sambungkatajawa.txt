@@ -4515,7 +4515,6 @@ kerono
 keroso
 kersa
 kersane
-kerta
 kertas
 keruh
 kerupuk
@@ -6848,7 +6847,6 @@ nguning
 ngunjuk
 ngunta
 nguntal
-nguntung
 ngunu
 ngunung
 ngunut
