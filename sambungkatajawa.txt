@@ -6766,6 +6766,7 @@ ngentu
 ngentuk
 ngentut
 ngenyek
+ngeo
 ngepang
 ngepel
 ngepet
@@ -8532,6 +8533,7 @@ rejo
 rek
 reka
 rekam
+rekan
 rekasa
 rekmo
 reko
