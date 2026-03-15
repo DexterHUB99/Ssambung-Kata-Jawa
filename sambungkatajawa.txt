@@ -1964,7 +1964,6 @@ doni
 dono
 donya
 dop
-dopo
 dor
 dora
 dore
@@ -4012,7 +4011,6 @@ jemput
 jenang
 jeneng
 jenengan
-jeng
 jenggot
 jengkal
 jengne
@@ -4507,6 +4505,7 @@ kendil
 kenduri
 kene
 kenee
+keneh
 kenek
 kenen
 kenese
@@ -5319,6 +5318,7 @@ loha
 lohan
 lohe
 loi
+loji
 lok
 loka
 lokan
@@ -5871,6 +5871,7 @@ mugi
 mugih
 muh
 muha
+muhi
 muhun
 mujair
 mujar
@@ -6362,7 +6363,6 @@ ngandung
 ngandut
 ngang
 nganga
-ngangah
 ngangen
 ngangge
 nganggep
@@ -7085,7 +7085,6 @@ njagong
 njajal
 njaluk
 njancok
-njangan
 njelehi
 njupuk
 nki
@@ -9593,7 +9592,6 @@ tilam
 tilan
 tilap
 tilas
-tilasan
 tile
 tilem
 tilep
@@ -9945,7 +9943,6 @@ ulan
 ulang
 ulangan
 ulangi
-ulao
 ulap
 ular
 ulas
