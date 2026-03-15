@@ -3349,6 +3349,7 @@ hukuman
 hukume
 hukumen
 hula
+hulat
 hulu
 hum
 huma
@@ -5591,6 +5592,7 @@ minggu
 mingkem
 mini
 minta
+minter
 minum
 mio
 mir
