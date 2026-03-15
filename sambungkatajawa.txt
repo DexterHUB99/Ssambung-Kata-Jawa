@@ -9122,6 +9122,7 @@ ucak
 ucap
 ucapan
 ucek
+uceng
 uciha
 ucu
 ucul
