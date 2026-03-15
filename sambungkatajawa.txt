@@ -5771,6 +5771,7 @@ naruh
 nas
 nasa
 nasai
+nase
 nasehat
 nasi
 nasia
@@ -8452,6 +8453,7 @@ sepuh
 sepuluh
 sepur
 sepura
+sera
 serakah
 serami
 serasih
