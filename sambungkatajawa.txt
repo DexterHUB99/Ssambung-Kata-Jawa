@@ -367,6 +367,7 @@ aloy
 alpukat
 alu
 aluh
+aluk
 alukan
 alum
 alun
@@ -4725,6 +4726,7 @@ kora
 koran
 korban
 kore
+korea
 korek
 koreng
 koret
