@@ -4558,6 +4558,7 @@ kemalan
 kemang
 kemangi
 kemari
+kemarin
 kemaruk
 kemas
 kemasan
@@ -7486,6 +7487,7 @@ okel
 okela
 okem
 okeno
+okeo
 oker
 okera
 okeran
