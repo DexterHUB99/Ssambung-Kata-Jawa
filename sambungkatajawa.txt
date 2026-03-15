@@ -3448,6 +3448,7 @@ ibuk
 ic
 ica
 ical
+ican
 icip
 ico
 icu
@@ -3497,6 +3498,7 @@ iho
 ihra
 ihsan
 ihya
+ihyo
 ij
 ija
 ijab
@@ -6181,7 +6183,6 @@ ngacem
 ngaceng
 ngacir
 ngaco
-ngacok
 ngacung
 ngada
 ngadang
@@ -8329,6 +8330,7 @@ ridho
 rie
 rien
 rih
+rihan
 rik
 rika
 rikala
@@ -9655,6 +9657,7 @@ tutuk
 tutup
 tutur
 tuturane
+tuturi
 tuwa
 tuwo
 tuwuh
