@@ -626,6 +626,7 @@ antik
 anting
 anto
 anton
+antoni
 antri
 antuk
 antur
@@ -1912,6 +1913,7 @@ ehu
 ehuk
 ehun
 ehur
+ehus
 ehuy
 ej
 eja
