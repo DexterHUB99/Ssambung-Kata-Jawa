@@ -5611,6 +5611,7 @@ nembak
 nembang
 nembe
 nembel
+nembok
 nembung
 neme
 nemen
