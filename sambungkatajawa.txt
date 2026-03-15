@@ -385,6 +385,7 @@ amber
 ambi
 ambik
 ambil
+ambing
 amboi
 ambrol
 ambruk
@@ -3799,7 +3800,6 @@ jogja
 joglo
 jogo
 jojor
-jojoran
 jok
 joki
 joko
@@ -4646,7 +4646,6 @@ lada
 ladak
 lading
 laen
-lagek
 lagi
 lagu
 lah
@@ -5219,7 +5218,6 @@ manungsa
 manungso
 manut
 maos
-map
 mapak
 mapan
 mapi
@@ -6942,7 +6940,6 @@ opa
 opah
 opak
 opal
-opam
 opan
 opat
 opel
@@ -7764,7 +7761,6 @@ rejo
 rek
 reka
 rekam
-rekan
 rekasa
 rekmo
 rekom
@@ -8463,6 +8459,7 @@ sisih
 sisik
 sisil
 sisir
+sisu
 sita
 siter
 sithik
@@ -9185,7 +9182,6 @@ uja
 ujan
 ujar
 ujaran
-ujare
 uji
 ujian
 ujuk
@@ -9514,6 +9510,7 @@ utami
 utan
 utang
 utange
+utangi
 utangmu
 utar
 utara
