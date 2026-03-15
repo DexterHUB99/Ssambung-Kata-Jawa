@@ -2798,6 +2798,7 @@ gorok
 gorong
 gosip
 gosok
+gosokan
 gosoki
 gosong
 got
