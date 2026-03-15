@@ -2897,6 +2897,7 @@ hal
 hala
 halah
 halal
+halan
 halang
 halangan
 halen
