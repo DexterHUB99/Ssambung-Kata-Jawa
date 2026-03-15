@@ -467,6 +467,7 @@ ananti
 anas
 anay
 anca
+ancak
 ancaman
 ancang
 ancas
@@ -4680,6 +4681,7 @@ lancip
 landa
 landak
 landep
+landhep
 landi
 landung
 langganan
