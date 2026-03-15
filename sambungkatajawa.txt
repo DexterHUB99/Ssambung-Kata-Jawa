@@ -2590,6 +2590,7 @@ ganco
 ganda
 gandai
 gandeng
+gandhul
 gandos
 gandrung
 gandul
@@ -7598,6 +7599,7 @@ poki
 poko
 pokok
 pokoke
+pokoknya
 pokone
 pol
 pola
