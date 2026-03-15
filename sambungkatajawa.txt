@@ -4124,6 +4124,7 @@ jingkrik
 jini
 jinjing
 jinjit
+jino
 jinra
 jinten
 jinwe
@@ -5057,6 +5058,7 @@ kuwe
 kuwi
 kuwo
 kuya
+kuyaka
 kuyo
 kyai
 la
