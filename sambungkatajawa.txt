@@ -574,6 +574,7 @@ angkasa
 angkat
 angkel
 angker
+angkle
 angklung
 angkong
 angkot
@@ -1313,6 +1314,7 @@ bosan
 bosen
 boso
 bosok
+botak
 boten
 boti
 boto
