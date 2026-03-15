@@ -4392,6 +4392,7 @@ kumpul
 kumpula
 kumu
 kumuh
+kumut
 kun
 kunang
 kunci
@@ -8115,6 +8116,7 @@ sinom
 sinoman
 sinta
 sinten
+sinyal
 sio
 sip
 sipa
