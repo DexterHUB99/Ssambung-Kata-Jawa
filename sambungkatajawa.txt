@@ -3983,6 +3983,7 @@ kara
 karah
 karak
 karang
+karat
 karawang
 karawitan
 kare
@@ -6320,6 +6321,7 @@ ngong
 ngongkang
 ngongko
 ngono
+ngonoa
 ngonoe
 ngonoi
 ngonten
