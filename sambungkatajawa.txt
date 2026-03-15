@@ -795,7 +795,6 @@ aro
 arogan
 aroh
 arok
-arom
 aron
 aros
 arow
@@ -1127,7 +1126,6 @@ banyu
 bapak
 bapakmu
 bar
-barak
 bareng
 bariki
 baron
@@ -1840,6 +1838,7 @@ dila
 dilah
 dilalah
 dilan
+dilas
 dilat
 dilati
 dileh
@@ -2923,6 +2922,7 @@ gethuk
 geti
 getih
 getir
+geto
 getok
 geton
 getuk
@@ -4876,6 +4876,7 @@ kus
 kusa
 kuse
 kusen
+kusi
 kusir
 kusuma
 kut
@@ -5088,7 +5089,6 @@ leman
 lemari
 lemas
 lembah
-lembar
 lembek
 lembur
 lembut
@@ -7826,7 +7826,6 @@ pipi
 pipik
 pipipis
 pipis
-pipit
 pir
 pira
 pirang
@@ -9649,7 +9648,6 @@ tuwuh
 tuyul
 tv
 ua
-uake
 uan
 uang
 ub
