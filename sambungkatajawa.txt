@@ -1713,6 +1713,7 @@ dabak
 dablek
 dada
 dadah
+dadak
 dadali
 dadang
 dadar
@@ -4799,6 +4800,7 @@ kolong
 kolot
 kom
 koma
+kome
 komen
 komi
 komik
@@ -5768,6 +5770,7 @@ mer
 merah
 merem
 meri
+merpati
 mersani
 meru
 mesake
