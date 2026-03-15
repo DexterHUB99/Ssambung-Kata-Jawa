@@ -1371,6 +1371,7 @@ cedak
 cedek
 ceh
 cek
+cekak
 cekap
 cekel
 celek
@@ -3252,6 +3253,7 @@ ilaa
 ilag
 ilah
 ilahi
+ilai
 ilak
 ilali
 ilam
