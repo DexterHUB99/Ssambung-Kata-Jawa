@@ -1261,6 +1261,7 @@ bosok
 boten
 boti
 boto
+botok
 botol
 bowo
 boyo
