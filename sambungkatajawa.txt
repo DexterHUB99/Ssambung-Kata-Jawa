@@ -4190,6 +4190,7 @@ karepo
 kares
 karet
 kari
+karimun
 karipa
 karipan
 karma
@@ -10051,6 +10052,7 @@ wareg
 warek
 warga
 wari
+waria
 waris
 warisan
 warna
