@@ -6125,6 +6125,7 @@ ngabar
 ngabari
 ngabekti
 ngaben
+ngaboti
 ngaca
 ngacak
 ngacara
