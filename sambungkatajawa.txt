@@ -6543,6 +6543,7 @@ ngisor
 ngisu
 ngisuh
 ngisuk
+ngitil
 ngitung
 ngiwa
 ngiwasi
@@ -6830,6 +6831,7 @@ nipan
 nipi
 nipis
 nipu
+nipun
 nir
 nira
 niri
