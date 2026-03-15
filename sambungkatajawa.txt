@@ -1946,6 +1946,7 @@ dolo
 dolu
 dom
 domba
+domblong
 dompet
 don
 dong
