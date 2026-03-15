@@ -6206,6 +6206,7 @@ ngina
 nginceng
 nginep
 nging
+ngingkang
 ngini
 nginjak
 nginjuk
@@ -6339,6 +6340,7 @@ ngowahi
 ngowe
 ngowoh
 ngoyak
+ngoyaki
 ngoyo
 ngrabi
 ngrasa
@@ -6778,6 +6780,7 @@ okot
 okur
 okut
 ol
+olab
 olah
 olaha
 olahan
