@@ -1262,6 +1262,7 @@ beri
 berisik
 berkah
 bero
+berot
 bes
 besan
 besar
@@ -9013,6 +9014,7 @@ serong
 seru
 ses
 sesak
+sesat
 sesek
 sesok
 sesuk
