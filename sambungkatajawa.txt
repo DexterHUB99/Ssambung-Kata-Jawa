@@ -665,7 +665,6 @@ antar
 antara
 antarane
 antare
-antareja
 antasena
 antek
 antem
@@ -1700,7 +1699,6 @@ dancuk
 dandan
 dandang
 dang
-dangdut
 dangu
 dani
 danur
@@ -2796,7 +2794,6 @@ gelombang
 geloo
 gelot
 gelud
-gelung
 gelut
 gem
 gema
@@ -3445,6 +3442,7 @@ ieu
 if
 ig
 iga
+igah
 igak
 igo
 igus
@@ -3703,7 +3701,6 @@ irian
 irie
 irigasi
 irih
-irik
 irin
 iring
 iringan
@@ -3879,7 +3876,6 @@ jani
 janian
 janji
 janti
-jantung
 jar
 jara
 jaran
@@ -4166,6 +4162,7 @@ kangge
 kanggo
 kangkung
 kangmas
+kani
 kanjeng
 kanjut
 kanthi
@@ -5893,7 +5890,6 @@ nambah
 nambai
 nambal
 nambang
-nambani
 name
 nami
 namine
@@ -6062,7 +6058,6 @@ neme
 nemen
 nemi
 nemok
-nemoni
 nempe
 nempel
 nempik
@@ -6111,7 +6106,6 @@ netes
 netra
 ngaba
 ngabab
-ngabar
 ngabari
 ngabekti
 ngaben
@@ -6458,7 +6452,6 @@ ngentu
 ngentuk
 ngentut
 ngenyek
-ngepang
 ngepel
 ngepet
 ngepot
@@ -6583,7 +6576,6 @@ ngingkang
 ngini
 nginjak
 nginjuk
-nginsing
 ngintik
 ngintil
 ngintip
@@ -6726,7 +6718,6 @@ ngoyaki
 ngoyo
 ngrabi
 ngrasa
-ngrasakna
 ngrasani
 ngrawuh
 ngrayu
@@ -6757,7 +6748,6 @@ ngul
 ngulah
 ngulai
 ngulang
-ngulangi
 nguleg
 ngulek
 ngulet
@@ -8576,7 +8566,6 @@ sanes
 sangar
 sangat
 sangga
-sanggah
 sanggar
 sanggul
 sanggup
@@ -9225,7 +9214,6 @@ tapir
 tapuk
 tar
 tara
-tarek
 tari
 tarik
 taro
@@ -10065,6 +10053,7 @@ wah
 wahana
 wahing
 wahyu
+waja
 wajah
 wajan
 wajar
@@ -10131,6 +10120,7 @@ watu
 wawa
 wawang
 wawasan
+wawe
 wayah
 wayahe
 wayan
@@ -10198,7 +10188,6 @@ weweling
 wi
 wibu
 wicak
-wicaksana
 widana
 widara
 widi
