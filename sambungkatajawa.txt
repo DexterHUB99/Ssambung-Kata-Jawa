@@ -207,6 +207,7 @@ ajih
 ajik
 ajing
 ajining
+ajip
 ajir
 ajis
 ajisaka
@@ -2002,6 +2003,7 @@ ehor
 ehos
 ehoy
 ehu
+ehuh
 ehuk
 ehun
 ehur
@@ -4259,6 +4261,7 @@ kemulan
 ken
 kena
 kenak
+kenanga
 kenapa
 kencur
 kendal
