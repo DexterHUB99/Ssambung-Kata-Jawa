@@ -375,6 +375,7 @@ alm
 almari
 alo
 aloe
+aloi
 alok
 alom
 alomo
@@ -1638,6 +1639,7 @@ cili
 cilik
 cilo
 cilok
+cilu
 cilung
 cim
 cimo
