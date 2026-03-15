@@ -210,6 +210,7 @@ ajining
 ajir
 ajis
 ajisaka
+ajo
 ajor
 ajrih
 aju
@@ -1690,7 +1691,6 @@ demak
 demam
 deman
 demek
-demen
 demi
 demit
 demo
@@ -3313,7 +3313,6 @@ ide
 idem
 idep
 ider
-idham
 idhu
 idi
 idih
@@ -3933,6 +3932,7 @@ kagem
 kaget
 kagungan
 kahanan
+kail
 kaila
 kain
 kaisa
@@ -5173,7 +5173,6 @@ madiun
 mados
 madosi
 madu
-madung
 madura
 madya
 mae
@@ -5259,7 +5258,6 @@ mangkel
 mangkih
 mangkok
 mangku
-mangkuk
 mangsa
 mangsi
 mangu
@@ -5510,7 +5508,6 @@ mondok
 mone
 mong
 monggo
-mongo
 moni
 montor
 monyet
@@ -9649,7 +9646,6 @@ utowo
 utri
 utu
 utuh
-utura
 utus
 utusan
 utusane
