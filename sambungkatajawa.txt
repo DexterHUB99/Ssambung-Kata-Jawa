@@ -368,7 +368,6 @@ almari
 alo
 aloe
 alok
-alom
 alomo
 alon
 alor
@@ -1680,6 +1679,7 @@ cuma
 cumi
 cumo
 cunduk
+cungkring
 cur
 curi
 curu
@@ -1966,7 +1966,6 @@ doni
 dono
 donya
 dop
-dopo
 dor
 dora
 dore
@@ -2060,7 +2059,6 @@ ebit
 eboh
 ebol
 ebu
-ecer
 eco
 ed
 eda
@@ -3843,7 +3841,6 @@ isine
 ising
 isinna
 isis
-isiso
 isit
 isita
 iska
@@ -4013,11 +4010,9 @@ jember
 jembut
 jempol
 jemput
-jemuran
 jenang
 jeneng
 jenengan
-jeng
 jenggot
 jengkal
 jengne
@@ -5987,7 +5982,6 @@ nagih
 nah
 naha
 nahan
-nahar
 nai
 naik
 naika
@@ -6201,6 +6195,7 @@ nembelas
 nembok
 nembung
 neme
+nemek
 nemen
 nemi
 nemok
@@ -6371,7 +6366,6 @@ ngandung
 ngandut
 ngang
 nganga
-ngangah
 ngangen
 ngangge
 nganggep
@@ -7094,7 +7088,6 @@ njagong
 njajal
 njaluk
 njancok
-njangan
 njelehi
 njupuk
 nki
@@ -9604,7 +9597,6 @@ tilam
 tilan
 tilap
 tilas
-tilasan
 tile
 tilem
 tilep
@@ -9707,7 +9699,6 @@ topi
 topo
 tor
 tora
-tore
 toren
 tori
 toro
@@ -9957,7 +9948,6 @@ ulan
 ulang
 ulangan
 ulangi
-ulao
 ulap
 ular
 ulas
