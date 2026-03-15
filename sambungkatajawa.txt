@@ -2146,6 +2146,7 @@ encok
 endah
 endahe
 endang
+endangan
 endange
 endap
 endas
@@ -3832,6 +3833,7 @@ jule
 juli
 juluk
 jumat
+jumblah
 jumeneng
 jumpa
 jun
