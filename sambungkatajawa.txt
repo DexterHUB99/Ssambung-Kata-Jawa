@@ -2389,6 +2389,7 @@ entutmu
 enu
 enul
 enum
+enus
 enya
 enyak
 enyong
