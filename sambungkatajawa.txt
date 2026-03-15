@@ -9609,6 +9609,7 @@ waras
 wareg
 warek
 warga
+wari
 waris
 warisan
 warna
