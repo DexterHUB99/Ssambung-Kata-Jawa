@@ -5343,6 +5343,7 @@ mlarat
 mlebet
 mlebu
 mmantu
+mmi
 mo
 mobil
 mobilan
@@ -7065,6 +7066,7 @@ panjang
 panjenengan
 panji
 pantai
+pantang
 pantar
 pantat
 pantes
