@@ -5887,6 +5887,7 @@ mlebu
 mlumah
 mmantu
 mmi
+mmika
 mo
 mobil
 mobilan
@@ -7488,6 +7489,7 @@ oleh
 olehan
 olehe
 olek
+olem
 oleng
 oler
 oles
