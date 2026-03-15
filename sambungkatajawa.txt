@@ -795,7 +795,6 @@ aro
 arogan
 aroh
 arok
-arom
 aron
 aros
 arow
@@ -844,6 +843,7 @@ aset
 asi
 asia
 asie
+asig
 asih
 asik
 asil
@@ -1127,7 +1127,6 @@ banyu
 bapak
 bapakmu
 bar
-barak
 bareng
 bariki
 baron
@@ -5091,7 +5090,6 @@ leman
 lemari
 lemas
 lembah
-lembar
 lembek
 lembur
 lembut
@@ -6174,6 +6172,7 @@ ngacem
 ngaceng
 ngacir
 ngaco
+ngacok
 ngacung
 ngada
 ngadang
@@ -6703,6 +6702,7 @@ ngobroli
 ngocak
 ngoceh
 ngocok
+ngodol
 ngoe
 ngoh
 ngojek
@@ -6880,6 +6880,7 @@ ngurus
 ngurusi
 ngurut
 ngus
+ngusah
 ngusak
 ngusap
 nguser
@@ -7829,7 +7830,6 @@ pipi
 pipik
 pipipis
 pipis
-pipit
 pir
 pira
 pirang
@@ -9652,7 +9652,6 @@ tuwuh
 tuyul
 tv
 ua
-uake
 uan
 uang
 ub
@@ -9918,6 +9917,7 @@ ungkit
 ungkur
 ungu
 uni
+uniko
 unjal
 unjang
 unjar
