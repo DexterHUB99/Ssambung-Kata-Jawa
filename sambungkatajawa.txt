@@ -3822,6 +3822,7 @@ ip
 ipa
 ipak
 ipan
+ipana
 ipar
 ipat
 ipe
@@ -9861,6 +9862,7 @@ toga
 togog
 toh
 toha
+toi
 tok
 toka
 toke
