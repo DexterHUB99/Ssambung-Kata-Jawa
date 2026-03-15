@@ -2809,6 +2809,7 @@ gelang
 gelap
 gelar
 gelas
+gelatik
 gele
 geleh
 gelek
