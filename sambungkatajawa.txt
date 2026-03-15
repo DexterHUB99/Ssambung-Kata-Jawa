@@ -6603,6 +6603,7 @@ ngepet
 ngepot
 nger
 ngerampok
+ngerandu
 ngerasani
 ngerek
 ngeres
