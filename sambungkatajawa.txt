@@ -349,6 +349,7 @@ alif
 alih
 alik
 alim
+alima
 alin
 aling
 alip
@@ -3283,6 +3284,7 @@ hasri
 hasta
 hasut
 hati
+hatiku
 hatimu
 hawa
 hawai
@@ -6374,6 +6376,7 @@ ngapusi
 ngar
 ngara
 ngarah
+ngarai
 ngaran
 ngarang
 ngarani
