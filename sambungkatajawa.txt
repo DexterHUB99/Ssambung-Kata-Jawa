@@ -3999,6 +3999,7 @@ kapak
 kapal
 kapan
 kapas
+kape
 kapi
 kaping
 kaplok
@@ -4220,7 +4221,6 @@ kenek
 kenen
 kenese
 kenetel
-kengken
 keni
 kening
 kenok
@@ -4852,6 +4852,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
@@ -5865,7 +5866,6 @@ ngadu
 ngaduk
 ngadul
 ngadus
-ngadusi
 ngae
 ngagem
 ngago
@@ -6386,6 +6386,7 @@ ngopo
 ngopoe
 ngopor
 ngopose
+ngor
 ngora
 ngore
 ngorek
@@ -9728,7 +9729,6 @@ widara
 widi
 widya
 wie
-wifi
 wih
 wii
 wijaya
@@ -9935,7 +9935,6 @@ yusi
 yuswa
 yut
 yuti
-yuya
 yuyu
 yuyun
 zakat
