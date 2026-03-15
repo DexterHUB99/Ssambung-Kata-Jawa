@@ -9,6 +9,7 @@ abah
 abak
 abang
 abangi
+abasa
 abdi
 abek
 aben
@@ -8554,6 +8555,7 @@ teng
 tengah
 tengen
 tenggok
+tengkleng
 tentram
 tentrem
 tenun
@@ -9021,6 +9023,7 @@ unggul
 ungkal
 ungkap
 ungkapan
+ungkara
 ungkas
 ungkir
 ungkit
