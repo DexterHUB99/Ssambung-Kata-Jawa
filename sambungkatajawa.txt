@@ -8658,6 +8658,7 @@ sut
 suti
 sutil
 sutra
+suw
 suwan
 suwargi
 suwe
