@@ -2764,6 +2764,7 @@ gembira
 gemblong
 gemblung
 gembok
+gembol
 gembong
 gembrot
 gembung
