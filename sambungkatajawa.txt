@@ -670,6 +670,7 @@ antep
 anter
 anti
 antik
+antimo
 anting
 anto
 anton
@@ -679,6 +680,7 @@ antri
 antuk
 antur
 anu
+anuan
 anuk
 anum
 anun
@@ -991,7 +993,6 @@ awu
 awuh
 awul
 awur
-awuren
 ax
 ay
 aya
@@ -1639,7 +1640,6 @@ cuti
 cuyu
 da
 dab
-dabak
 dablek
 dada
 dadah
@@ -2081,7 +2081,6 @@ ekali
 ekam
 ekan
 ekane
-ekar
 ekas
 eke
 ekeh
@@ -2795,7 +2794,6 @@ gemes
 gemi
 gemo
 gempa
-gempar
 gempol
 gemu
 gemuk
@@ -5388,6 +5386,7 @@ manak
 manasi
 mancal
 mancing
+mancur
 mandan
 mandang
 mandeg
@@ -6016,7 +6015,6 @@ nembak
 nembang
 nembe
 nembel
-nembelas
 nembok
 nembung
 neme
@@ -6441,7 +6439,6 @@ ngesuk
 nget
 ngetan
 ngetem
-ngeten
 ngeti
 ngetik
 ngetok
@@ -6599,6 +6596,7 @@ ngojek
 ngok
 ngoke
 ngoko
+ngokok
 ngokop
 ngokor
 ngol
@@ -8946,7 +8944,6 @@ suker
 suket
 suki
 sukma
-sukmo
 suko
 suku
 sukun
@@ -9251,6 +9248,7 @@ tenan
 tenanan
 tenane
 tenang
+tendang
 tenen
 teng
 tengah
