@@ -135,6 +135,7 @@ ahline
 ahlu
 ahlul
 aho
+ahoa
 ahoe
 ahoh
 ahok
