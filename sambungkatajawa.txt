@@ -5456,6 +5456,7 @@ mala
 malah
 malak
 malam
+malan
 malang
 malas
 maleh
@@ -9382,6 +9383,7 @@ tayub
 te
 tebih
 tebu
+tegak
 tegal
 tegalan
 teguh
