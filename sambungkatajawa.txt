@@ -4887,6 +4887,7 @@ laras
 lare
 laren
 lari
+larik
 laring
 laris
 laron
@@ -10065,6 +10066,7 @@ woyo
 wudel
 wudhu
 wuh
+wui
 wujud
 wulan
 wuli
