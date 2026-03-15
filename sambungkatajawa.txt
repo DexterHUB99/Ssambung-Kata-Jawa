@@ -1318,6 +1318,7 @@ bil
 bila
 bilah
 bilahi
+bilara
 bili
 bilih
 bilu
@@ -9074,6 +9075,7 @@ sesek
 sesok
 sesuk
 sesupe
+setam
 setan
 setrika
 setunggal
