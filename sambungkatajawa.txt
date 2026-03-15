@@ -1191,6 +1191,7 @@ bibik
 bibir
 bibit
 bicu
+bid
 bidak
 bidan
 bidek
@@ -1394,6 +1395,7 @@ camat
 cambah
 campur
 can
+cancut
 candi
 candra
 canggah
@@ -1718,6 +1720,7 @@ dikir
 dikit
 dikon
 dikongkon
+dikontol
 diku
 dil
 dila
@@ -3271,6 +3274,7 @@ icu
 id
 ida
 idam
+idaman
 idan
 ide
 idem
@@ -3733,6 +3737,7 @@ jawaban
 jawah
 jawe
 jawi
+jawila
 jawir
 jawoh
 jawuh
@@ -4001,6 +4006,7 @@ kapak
 kapal
 kapan
 kapas
+kape
 kapi
 kaping
 kaplok
@@ -4854,6 +4860,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
@@ -5392,6 +5399,7 @@ minat
 minggat
 minggir
 minggu
+mingkem
 mini
 minta
 minum
@@ -6389,6 +6397,7 @@ ngopo
 ngopoe
 ngopor
 ngopose
+ngor
 ngora
 ngore
 ngorek
@@ -6457,6 +6466,7 @@ ngulon
 ngulu
 nguluk
 ngulur
+nguma
 ngumah
 ngumbah
 ngumbahi
@@ -6562,6 +6572,7 @@ nimbang
 nimbangi
 nimbul
 nimbun
+nimen
 nimo
 nimpal
 nin
@@ -6747,6 +6758,7 @@ nyali
 nyam
 nyaman
 nyambel
+nyambi
 nyamuk
 nyangu
 nyanyi
@@ -6904,6 +6916,7 @@ ombo
 omboh
 ome
 omel
+omelan
 omen
 omi
 omo
