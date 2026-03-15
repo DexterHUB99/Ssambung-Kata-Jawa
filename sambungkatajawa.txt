@@ -23,6 +23,7 @@ abrit
 abu
 abuh
 abul
+acak
 acan
 acu
 ad
@@ -2033,6 +2034,7 @@ empo
 emprit
 empu
 empuk
+empul
 empun
 emu
 emuh
@@ -3417,6 +3419,7 @@ irung
 irunge
 irup
 irus
+irut
 is
 isa
 isaa
