@@ -722,6 +722,7 @@ aring
 arip
 aris
 arisan
+arisna
 arit
 arjuna
 arjuno
