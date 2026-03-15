@@ -8312,6 +8312,7 @@ sose
 sosi
 sosiji
 sosis
+sosmed
 sosok
 sotel
 soto
