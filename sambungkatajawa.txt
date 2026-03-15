@@ -795,7 +795,6 @@ aro
 arogan
 aroh
 arok
-arom
 aron
 aros
 arow
@@ -1839,6 +1838,7 @@ dila
 dilah
 dilalah
 dilan
+dilas
 dilat
 dilati
 dileh
@@ -5087,7 +5087,6 @@ leman
 lemari
 lemas
 lembah
-lembar
 lembek
 lembur
 lembut
@@ -9647,7 +9646,6 @@ tuwuh
 tuyul
 tv
 ua
-uake
 uan
 uang
 ub
