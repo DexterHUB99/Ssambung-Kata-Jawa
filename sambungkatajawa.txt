@@ -2208,6 +2208,7 @@ erog
 eroh
 erok
 eron
+erop
 eror
 eros
 erosi
@@ -2741,6 +2742,7 @@ gontor
 gopal
 gopoh
 gor
+gora
 gore
 goreng
 gorengan
@@ -3635,6 +3637,7 @@ jikuk
 jil
 jilat
 jilbab
+jile
 jili
 jilid
 jim
