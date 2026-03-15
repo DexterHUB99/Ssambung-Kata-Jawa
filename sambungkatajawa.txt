@@ -9579,6 +9579,7 @@ yaho
 yai
 yak
 yaka
+yakan
 yake
 yakin
 yaku
@@ -9638,6 +9639,7 @@ yok
 yoka
 yoki
 yole
+yoli
 yolo
 yom
 yoman
