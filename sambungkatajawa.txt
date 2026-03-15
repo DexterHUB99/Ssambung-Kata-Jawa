@@ -1511,6 +1511,7 @@ cakar
 cakep
 cakot
 cakra
+cakrak
 cakung
 cal
 cala
@@ -4081,6 +4082,7 @@ jile
 jili
 jilid
 jim
+jima
 jimat
 jimbar
 jimpit
