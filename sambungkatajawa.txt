@@ -8202,6 +8202,7 @@ sego
 segoro
 seh
 sehat
+seje
 sejen
 sek
 seka
