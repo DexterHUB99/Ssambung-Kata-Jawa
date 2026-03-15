@@ -8827,6 +8827,7 @@ sembrono
 sembur
 seme
 semen
+semo
 semok
 semot
 sempak
