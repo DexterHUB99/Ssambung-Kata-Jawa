@@ -1005,6 +1005,7 @@ aup
 aura
 aurip
 aus
+ausa
 aut
 auta
 autan
