@@ -2957,6 +2957,7 @@ genap
 gendak
 gendar
 gendeng
+gendenge
 gender
 genderuwo
 gendheng
@@ -8355,6 +8356,7 @@ raki
 rakit
 raksasa
 raku
+rakum
 rakus
 rala
 ralet
