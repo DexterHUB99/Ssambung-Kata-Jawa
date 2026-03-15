@@ -944,6 +944,7 @@ awakku
 awakmu
 awaku
 awal
+awalane
 awam
 awan
 awang
@@ -7321,6 +7322,7 @@ pas
 pasa
 pasah
 pasak
+pasal
 pasang
 pasar
 paser
