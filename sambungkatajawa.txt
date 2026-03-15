@@ -4221,7 +4221,6 @@ kenek
 kenen
 kenese
 kenetel
-kengken
 keni
 kening
 kenok
@@ -9244,6 +9243,7 @@ ukukur
 ukul
 ukum
 ukung
+ukup
 ukur
 ukura
 ukuran
