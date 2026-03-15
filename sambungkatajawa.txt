@@ -262,6 +262,7 @@ aksara
 aksen
 aksi
 aku
+akua
 akue
 akuh
 akui
@@ -1124,6 +1125,7 @@ biang
 biasa
 biawak
 biaya
+bib
 biba
 bibi
 bibik
@@ -5851,6 +5853,7 @@ ngedang
 ngedani
 ngeden
 ngedeni
+ngegame
 ngegas
 ngeh
 ngei
