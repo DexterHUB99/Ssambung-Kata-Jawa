@@ -950,6 +950,7 @@ atar
 atara
 atas
 atasan
+atasi
 atatap
 atatas
 ataw
@@ -4638,6 +4639,7 @@ kep
 kepa
 kepala
 kepanggih
+keparat
 kepel
 kepenak
 kepepet
@@ -8497,6 +8499,7 @@ rawon
 rawuh
 raya
 rayap
+rayo
 rayon
 rayu
 re
