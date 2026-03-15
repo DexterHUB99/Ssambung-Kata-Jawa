@@ -1848,6 +1848,7 @@ dimi
 dimna
 dimo
 dimul
+dimut
 din
 dina
 dinan
@@ -6125,6 +6126,7 @@ ngabar
 ngabari
 ngabekti
 ngaben
+ngaboti
 ngaca
 ngacak
 ngacara
@@ -8370,6 +8372,7 @@ ron
 ronda
 rondo
 ronggeng
+ronggo
 rongpuluh
 rongsokan
 roni
@@ -8623,6 +8626,7 @@ sapir
 sapiro
 sapo
 sapu
+sapura
 saput
 sar
 sara
