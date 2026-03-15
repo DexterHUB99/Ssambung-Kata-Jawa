@@ -950,6 +950,7 @@ bab
 baba
 babai
 babak
+babat
 babe
 babi
 babon
@@ -3647,6 +3648,7 @@ jer
 jera
 jeram
 jeran
+jerih
 jero
 jeruk
 ji
@@ -8585,6 +8587,7 @@ telur
 tem
 tema
 teman
+temanggung
 tembak
 tembang
 tembari
