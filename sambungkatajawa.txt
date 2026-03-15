@@ -1784,6 +1784,7 @@ dhika
 di
 diancok
 diangsang
+dibabi
 dibawa
 dibo
 dida
@@ -3847,6 +3848,7 @@ jam
 jama
 jamal
 jaman
+jamber
 jambi
 jambret
 jambu
