@@ -1778,6 +1778,7 @@ dikes
 diki
 dikir
 dikit
+dikom
 dikon
 dikongkon
 dikontol
@@ -1889,6 +1890,7 @@ dos
 dosa
 dosen
 doso
+doti
 dowo
 du
 dubur
