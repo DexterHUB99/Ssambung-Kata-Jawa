@@ -1698,6 +1698,7 @@ dimas
 dimna
 dimo
 dimul
+din
 dina
 dinan
 dinar
@@ -6998,6 +6999,7 @@ pande
 pandu
 panen
 pang
+pangah
 pangajak
 pangan
 panganan
