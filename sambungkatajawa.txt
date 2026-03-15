@@ -123,6 +123,7 @@ ahel
 ahem
 ahen
 aheng
+ahep
 aher
 ahes
 ahet
@@ -404,6 +405,7 @@ aman
 amana
 amanah
 amanat
+amandel
 amang
 amar
 amarga
@@ -1262,6 +1264,7 @@ beri
 berisik
 berkah
 bero
+berot
 bes
 besan
 besar
@@ -1682,6 +1685,7 @@ cuma
 cumi
 cumo
 cunduk
+cungkring
 cur
 curi
 curu
@@ -4478,13 +4482,13 @@ kemaki
 kemalan
 kemang
 kemari
-kemaruk
 kemas
 kemayu
 kembali
 kembang
 kembar
 kemben
+keme
 kemeja
 kemem
 kemene
@@ -4493,6 +4497,7 @@ kemeruh
 kemi
 kemiri
 kemis
+kemna
 kemol
 kempis
 kempol
@@ -4768,7 +4773,6 @@ koma
 komen
 komi
 komik
-komodo
 kompak
 kompas
 kompor
@@ -6161,6 +6165,7 @@ ndoro
 nduk
 nduwe
 ne
+neb
 nebake
 nebas
 neda
@@ -6208,9 +6213,11 @@ nembelas
 nembok
 nembung
 neme
+nemek
 nemen
 nemi
 nemok
+nemokke
 nemoni
 nempe
 nempel
@@ -6359,7 +6366,6 @@ ngamok
 ngampel
 ngampet
 ngampil
-ngampir
 ngampun
 ngamuk
 ngan
@@ -7328,7 +7334,6 @@ ohhh
 oho
 ohya
 oj
-ojam
 ojar
 ojek
 ojekan
@@ -7428,6 +7433,7 @@ omben
 ombian
 ombo
 omboh
+ombong
 ome
 omel
 omelan
@@ -7753,6 +7759,7 @@ paringi
 paris
 parit
 parkir
+parno
 paro
 parti
 paru
@@ -8343,7 +8350,6 @@ rayon
 rayu
 re
 rea
-rebab
 rebah
 rebahan
 rebana
@@ -8452,6 +8458,7 @@ rewo
 ri
 ria
 rian
+riana
 riang
 ribet
 ribut
@@ -9011,6 +9018,7 @@ serong
 seru
 ses
 sesak
+sesat
 sesek
 sesok
 sesuk
@@ -9118,6 +9126,7 @@ sisil
 sisir
 siso
 sisu
+siswo
 sita
 siter
 sithik
