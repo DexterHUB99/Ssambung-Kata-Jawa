@@ -7319,6 +7319,7 @@ nuk
 nuka
 nuki
 nukil
+nuko
 nuku
 nukul
 nul
@@ -10732,6 +10733,7 @@ wudhu
 wuh
 wui
 wujud
+wuku
 wulan
 wuli
 wulo
