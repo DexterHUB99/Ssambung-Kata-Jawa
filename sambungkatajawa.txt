@@ -5939,6 +5939,7 @@ nganu
 ngaos
 ngapa
 ngapah
+ngapai
 ngapain
 ngapak
 ngapal
@@ -8655,6 +8656,7 @@ suwi
 suwir
 suwun
 suwung
+suyo
 swara
 syukur
 ta
