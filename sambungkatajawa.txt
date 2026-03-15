@@ -8448,6 +8448,7 @@ tabir
 tabok
 tabuh
 tabung
+tabungan
 tabur
 taek
 tah
