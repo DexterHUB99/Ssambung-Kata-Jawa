@@ -1064,6 +1064,7 @@ bar
 bareng
 bariki
 baron
+barong
 barongan
 baru
 bas
@@ -4219,6 +4220,7 @@ kenek
 kenen
 kenese
 kenetel
+kengken
 keni
 kening
 kenok
