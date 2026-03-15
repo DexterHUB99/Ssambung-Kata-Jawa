@@ -436,6 +436,7 @@ amu
 amuk
 amun
 amung
+amur
 amut
 an
 ana
@@ -2822,6 +2823,7 @@ griwa
 griya
 grobak
 grogi
+grogoh
 grogot
 grombolan
 grontol
