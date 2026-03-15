@@ -7735,6 +7735,7 @@ puk
 puka
 puki
 pukul
+pul
 pula
 pulau
 pulen
