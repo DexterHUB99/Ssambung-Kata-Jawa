@@ -3792,6 +3792,7 @@ jujug
 jujur
 jule
 juli
+juluk
 jumat
 jumeneng
 jumpa
@@ -6550,6 +6551,7 @@ nonton
 nontone
 nop
 nopang
+nopi
 nopo
 nor
 nora
