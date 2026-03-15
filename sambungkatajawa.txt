@@ -1644,6 +1644,7 @@ dakar
 daki
 dakngerti
 dakon
+dakwah
 dalah
 dalam
 dalan
@@ -8256,6 +8257,7 @@ ruk
 ruka
 ruki
 ruko
+ruku
 rukuh
 rukun
 rula
@@ -9200,6 +9202,7 @@ tet
 tete
 teteg
 tetek
+tetep
 tetes
 teuing
 ti
