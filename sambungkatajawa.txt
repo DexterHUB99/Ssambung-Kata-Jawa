@@ -633,6 +633,7 @@ angs
 angsa
 angsal
 angsalipun
+angsle
 angso
 angsul
 angsulan
@@ -2720,6 +2721,7 @@ gama
 gaman
 gambang
 gambar
+gambaran
 gambas
 gamber
 gambir
@@ -3675,6 +3677,7 @@ iluk
 ilyas
 im
 ima
+imaan
 imai
 imam
 iman
