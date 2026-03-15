@@ -1118,6 +1118,7 @@ bejur
 bek
 beka
 bekal
+bekan
 bekas
 bekel
 beko
