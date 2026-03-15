@@ -290,6 +290,7 @@ akit
 ako
 akoe
 akoh
+akoi
 akok
 akol
 akon
@@ -3680,6 +3681,7 @@ ilap
 ilar
 ilas
 ilat
+ilate
 iler
 ileran
 ilermu
