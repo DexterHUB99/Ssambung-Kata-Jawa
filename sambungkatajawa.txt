@@ -307,6 +307,7 @@ akum
 akumi
 akun
 akune
+akup
 akur
 akuran
 akus
@@ -1814,6 +1815,7 @@ dewa
 dewe
 dewi
 dhadha
+dhahar
 dhika
 di
 diancok
