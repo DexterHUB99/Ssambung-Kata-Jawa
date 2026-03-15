@@ -403,6 +403,7 @@ ambi
 ambik
 ambil
 ambing
+ambles
 amboi
 ambrol
 ambruk
@@ -1777,6 +1778,7 @@ dikes
 diki
 dikir
 dikit
+dikom
 dikon
 dikongkon
 dikontol
@@ -1888,6 +1890,7 @@ dos
 dosa
 dosen
 doso
+doti
 dowo
 du
 dubur
@@ -2146,6 +2149,7 @@ elus
 elut
 em
 ema
+emaan
 emab
 emah
 email
@@ -2765,6 +2769,7 @@ gembira
 gemblong
 gemblung
 gembok
+gembol
 gembong
 gembrot
 gembung
@@ -3056,6 +3061,7 @@ guri
 gurih
 gurit
 gurita
+guritan
 guru
 guruh
 gus
@@ -3813,6 +3819,7 @@ jamur
 jan
 jancok
 jancuk
+jane
 jang
 jangan
 jangga
@@ -5949,6 +5956,7 @@ negori
 neh
 nek
 neka
+nekad
 nekani
 nekat
 neker
@@ -6062,10 +6070,12 @@ ngajah
 ngajak
 ngajar
 ngajari
+ngajen
 ngajeng
 ngajeni
 ngaji
 ngajia
+ngajii
 ngak
 ngakak
 ngakali
@@ -6349,6 +6359,7 @@ ngenggo
 ngeniko
 ngenjang
 ngeno
+ngenot
 ngenteni
 ngentong
 ngentu
@@ -6822,6 +6833,7 @@ nko
 nma
 nn
 nnan
+nnari
 nngawi
 nni
 nny
@@ -7864,6 +7876,7 @@ raja
 rajah
 rajang
 rajar
+rajen
 rajin
 rajuk
 rajut
