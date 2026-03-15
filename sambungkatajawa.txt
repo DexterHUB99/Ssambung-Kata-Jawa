@@ -7086,6 +7086,7 @@ pangajak
 pangan
 panganan
 pangapura
+pangarepan
 pangeran
 panggah
 panggeh
@@ -7288,6 +7289,7 @@ pili
 pilih
 pilihan
 pilit
+pilo
 pilok
 pilot
 pilu
