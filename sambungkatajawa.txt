@@ -1225,6 +1225,7 @@ besok
 besuk
 besuki
 betah
+bete
 beti
 beto
 beton
@@ -1851,7 +1852,6 @@ disek
 disel
 disi
 disik
-disini
 disit
 disu
 dit
@@ -2817,7 +2817,6 @@ generator
 geneyi
 geng
 geni
-genit
 genjot
 geno
 genta
@@ -4289,6 +4288,7 @@ keker
 keket
 keki
 kekil
+keko
 kekok
 kel
 kela
@@ -4777,7 +4777,6 @@ kupat
 kupeng
 kuping
 kupluk
-kupu
 kur
 kura
 kuran
@@ -5061,7 +5060,6 @@ lik
 lika
 likan
 like
-liki
 liko
 liku
 lila
@@ -5718,6 +5716,7 @@ mulane
 mulang
 mule
 muleh
+mulek
 mules
 muli
 mulia
@@ -5736,6 +5735,7 @@ munafik
 muncul
 mundak
 mundhut
+munding
 mundur
 munek
 mung
@@ -5844,7 +5844,6 @@ namba
 nambah
 nambai
 nambal
-nambang
 name
 nami
 namine
@@ -6209,7 +6208,6 @@ ngapati
 ngapel
 ngapeli
 ngapi
-ngaplok
 ngapu
 ngapunten
 ngapura
@@ -6361,7 +6359,6 @@ ngembang
 ngemen
 ngemil
 ngemong
-ngemot
 ngempal
 ngemper
 ngempot
@@ -6548,7 +6545,6 @@ ngisor
 ngisu
 ngisuh
 ngisuk
-ngitil
 ngitung
 ngiwa
 ngiwasi
@@ -6835,9 +6831,7 @@ nipak
 nipan
 nipi
 nipis
-nipon
 nipu
-nipun
 nir
 nira
 niri
@@ -7024,7 +7018,6 @@ nyeluk
 nyembah
 nyikat
 nyilih
-nyimak
 nyiram
 nyirep
 nyo
@@ -9131,6 +9124,7 @@ tanpa
 tansah
 tante
 tao
+tap
 tapa
 tapak
 tape
@@ -9252,6 +9246,7 @@ terang
 teras
 teri
 terima
+terlihat
 terne
 terong
 terus
@@ -9756,7 +9751,6 @@ untel
 unter
 untik
 untir
-untiren
 untu
 untuk
 untul
@@ -9981,7 +9975,6 @@ wak
 wakil
 waktu
 waktune
-waku
 wakul
 wal
 wala
