@@ -36,6 +36,7 @@ ada
 adah
 adai
 adal
+adala
 adam
 adan
 adang
@@ -7689,6 +7690,7 @@ peri
 perih
 pero
 pes
+pesan
 pesen
 pesing
 peso
@@ -8253,6 +8255,7 @@ resep
 resi
 resik
 resika
+resiko
 resing
 respati
 restu
