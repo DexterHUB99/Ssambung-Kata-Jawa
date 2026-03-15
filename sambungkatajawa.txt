@@ -1594,6 +1594,7 @@ cot
 cote
 cowek
 cowo
+crita
 cu
 cublak
 cuci
@@ -5961,6 +5962,7 @@ neli
 nelih
 nelongso
 nelu
+neluk
 nem
 nemah
 nembak
