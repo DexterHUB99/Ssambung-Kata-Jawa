@@ -368,6 +368,7 @@ almari
 alo
 aloe
 alok
+alom
 alomo
 alon
 alor
@@ -1679,7 +1680,6 @@ cuma
 cumi
 cumo
 cunduk
-cungkring
 cur
 curi
 curu
@@ -1831,6 +1831,7 @@ dhadha
 dhahar
 dhika
 di
+dialah
 diancok
 diangsang
 dibabi
@@ -1966,6 +1967,7 @@ doni
 dono
 donya
 dop
+dopo
 dor
 dora
 dore
@@ -2059,6 +2061,7 @@ ebit
 eboh
 ebol
 ebu
+ecer
 eco
 ed
 eda
@@ -3841,6 +3844,7 @@ isine
 ising
 isinna
 isis
+isiso
 isit
 isita
 iska
@@ -3918,6 +3922,7 @@ iz
 ja
 jab
 jabang
+jadi
 jaga
 jagar
 jago
@@ -4010,9 +4015,11 @@ jember
 jembut
 jempol
 jemput
+jemuran
 jenang
 jeneng
 jenengan
+jeng
 jenggot
 jengkal
 jengne
@@ -5892,6 +5899,7 @@ mulak
 mulan
 mulane
 mulang
+mulas
 mule
 muleh
 mulek
@@ -5982,6 +5990,7 @@ nagih
 nah
 naha
 nahan
+nahar
 nai
 naik
 naika
@@ -6148,7 +6157,6 @@ ndoro
 nduk
 nduwe
 ne
-neb
 nebake
 nebas
 neda
@@ -6196,11 +6204,9 @@ nembelas
 nembok
 nembung
 neme
-nemek
 nemen
 nemi
 nemok
-nemokke
 nemoni
 nempe
 nempel
@@ -6368,6 +6374,7 @@ ngandung
 ngandut
 ngang
 nganga
+ngangah
 ngangen
 ngangge
 nganggep
@@ -7090,6 +7097,7 @@ njagong
 njajal
 njaluk
 njancok
+njangan
 njelehi
 njupuk
 nki
@@ -7414,7 +7422,6 @@ omben
 ombian
 ombo
 omboh
-ombong
 ome
 omel
 omelan
@@ -7740,7 +7747,6 @@ paringi
 paris
 parit
 parkir
-parno
 paro
 parti
 paru
@@ -8439,7 +8445,6 @@ rewo
 ri
 ria
 rian
-riana
 riang
 ribet
 ribut
@@ -9106,7 +9111,6 @@ sisil
 sisir
 siso
 sisu
-siswo
 sita
 siter
 sithik
@@ -9570,6 +9574,7 @@ teras
 teri
 terima
 terlihat
+ternak
 terne
 terong
 terus
@@ -9603,6 +9608,7 @@ tilam
 tilan
 tilap
 tilas
+tilasan
 tile
 tilem
 tilep
@@ -9705,6 +9711,7 @@ topi
 topo
 tor
 tora
+tore
 toren
 tori
 toro
@@ -9954,6 +9961,7 @@ ulan
 ulang
 ulangan
 ulangi
+ulao
 ulap
 ular
 ulas
