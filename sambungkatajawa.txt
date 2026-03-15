@@ -352,6 +352,7 @@ alunan
 alur
 alus
 aluse
+alwan
 am
 ama
 amaa
@@ -2418,6 +2419,7 @@ fakta
 famu
 fani
 fasih
+fikir
 final
 firman
 fix
@@ -4217,6 +4219,7 @@ kenek
 kenen
 kenese
 kenetel
+kengken
 keni
 kening
 kenok
