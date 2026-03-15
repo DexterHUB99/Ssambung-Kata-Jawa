@@ -5997,6 +5997,7 @@ nangis
 nangka
 nangkene
 nangkep
+nangkis
 nangkring
 nani
 nano
@@ -8280,6 +8281,7 @@ remi
 remo
 remok
 rempah
+rempak
 rempeyek
 rempon
 remu
