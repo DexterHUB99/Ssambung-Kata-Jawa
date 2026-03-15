@@ -1325,6 +1325,7 @@ bonang
 bong
 bongko
 bongkok
+bongo
 bop
 bor
 boring
@@ -1814,6 +1815,7 @@ dileh
 dilem
 dilindes
 dilit
+dilo
 dilok
 diluk
 dilut
@@ -6080,6 +6082,7 @@ ngabari
 ngabekti
 ngaben
 ngaca
+ngacak
 ngacara
 ngacem
 ngaceng
