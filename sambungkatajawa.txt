@@ -4022,6 +4022,7 @@ kak
 kaka
 kakak
 kakang
+kake
 kakehan
 kakek
 kaki
@@ -5127,6 +5128,7 @@ loka
 lokan
 lokasi
 loke
+loken
 loki
 loko
 lola
