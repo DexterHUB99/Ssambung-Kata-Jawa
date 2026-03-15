@@ -1467,7 +1467,6 @@ conto
 contoh
 contohe
 copet
-coplok
 copot
 cor
 corak
@@ -2327,7 +2326,6 @@ fafa
 faham
 fakir
 fakta
-famu
 fani
 fasih
 firman
@@ -2938,7 +2936,6 @@ hano
 hansip
 hantam
 hantu
-hanung
 hanya
 hap
 hapa
@@ -3452,7 +3449,6 @@ isak
 isam
 isan
 isap
-isar
 ise
 isek
 isel
@@ -5208,7 +5204,6 @@ milih
 milik
 milna
 milo
-mima
 mimi
 mimis
 mimisan
@@ -6492,7 +6487,6 @@ nura
 nurah
 nure
 nuri
-nuro
 nuru
 nurun
 nurut
@@ -7084,7 +7078,6 @@ piatu
 picak
 picek
 pidak
-pidang
 pie
 pih
 pijat
@@ -7426,6 +7419,7 @@ rangkul
 rangu
 rani
 ranjang
+ranji
 rantai
 rantang
 rantas
@@ -7737,7 +7731,6 @@ ruh
 rui
 rujak
 rujuk
-ruk
 ruka
 ruki
 ruko
@@ -7745,7 +7738,6 @@ rukuh
 rukun
 rula
 rum
-ruma
 rumah
 rumangsa
 rumangsane
@@ -7957,7 +7949,6 @@ sarungan
 sas
 sasa
 sasak
-sasaran
 sasi
 sat
 sate
@@ -8165,6 +8156,7 @@ sindu
 sing
 singa
 singgah
+singkong
 sini
 sinom
 sinoman
@@ -9123,7 +9115,6 @@ urab
 urah
 urai
 urak
-uraka
 urakan
 ural
 uram
@@ -9459,7 +9450,6 @@ woke
 wol
 wolo
 wolu
-womo
 won
 wong
 wonge
