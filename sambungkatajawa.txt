@@ -4744,6 +4744,7 @@ kukur
 kukus
 kul
 kula
+kulaan
 kulak
 kulakan
 kulan
