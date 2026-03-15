@@ -3284,6 +3284,7 @@ igus
 ih
 iha
 ihaa
+ihai
 ihan
 ihe
 ihha
@@ -3295,6 +3296,7 @@ ihla
 ihli
 ihlo
 ihma
+ihmu
 ihna
 iho
 ihra
