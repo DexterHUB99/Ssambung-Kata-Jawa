@@ -826,7 +826,6 @@ arsa
 arsi
 arta
 arti
-artii
 artine
 artis
 arto
@@ -1292,7 +1291,6 @@ bibi
 bibik
 bibir
 bibit
-bibu
 bicu
 bid
 bidak
@@ -1885,6 +1883,7 @@ dilindes
 dilit
 dilo
 dilok
+dilu
 diluk
 dilut
 dim
@@ -2136,7 +2135,6 @@ ehob
 ehod
 ehok
 ehol
-ehon
 ehop
 ehor
 ehos
@@ -2205,7 +2203,6 @@ elag
 elah
 elai
 elak
-elam
 elan
 elang
 elap
@@ -2286,6 +2283,7 @@ emek
 emem
 emen
 emer
+emes
 emi
 emih
 emik
@@ -4486,7 +4484,6 @@ kemaki
 kemalan
 kemang
 kemari
-kemaruk
 kemas
 kemayu
 kembali
@@ -4778,7 +4775,6 @@ koma
 komen
 komi
 komik
-komodo
 kompak
 kompas
 kompor
@@ -4920,7 +4916,6 @@ kumu
 kumuh
 kumut
 kun
-kuna
 kunang
 kunci
 kundur
@@ -5392,7 +5387,6 @@ lopi
 lopis
 lor
 lore
-lorek
 loreng
 lori
 loro
@@ -5444,7 +5438,6 @@ lumajang
 lumaku
 luman
 lumbung
-lumen
 lumpang
 lumping
 lumpuh
@@ -6022,7 +6015,6 @@ naki
 nakoe
 nakon
 nakoni
-naksir
 naku
 nakula
 nal
@@ -6376,7 +6368,6 @@ ngamok
 ngampel
 ngampet
 ngampil
-ngampir
 ngampun
 ngamuk
 ngan
@@ -7345,7 +7336,6 @@ ohhh
 oho
 ohya
 oj
-ojam
 ojar
 ojek
 ojekan
@@ -8101,6 +8091,7 @@ pucuk
 pucung
 pue
 puguh
+puh
 pui
 puja
 puk
@@ -8363,7 +8354,6 @@ rayon
 rayu
 re
 rea
-rebab
 rebah
 rebahan
 rebana
@@ -8448,6 +8438,7 @@ repi
 repo
 repot
 rere
+rerek
 rerema
 reresik
 res
@@ -10048,6 +10039,7 @@ umpan
 umpanan
 umpane
 umpet
+umpi
 umpil
 umrah
 umu
@@ -10590,7 +10582,6 @@ yaku
 yali
 yalo
 yam
-yama
 yamaha
 yaman
 yamen
