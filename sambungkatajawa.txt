@@ -6493,6 +6493,7 @@ nian
 niba
 nie
 nien
+niha
 nii
 nik
 nika
@@ -7946,6 +7947,7 @@ rowang
 rowo
 rowoe
 royal
+royo
 ru
 rua
 ruah
