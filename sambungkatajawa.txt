@@ -3841,6 +3841,7 @@ kala
 kalah
 kalahan
 kalai
+kalam
 kalap
 kalawan
 kale
@@ -6739,6 +6740,7 @@ olong
 olop
 olor
 olos
+olot
 om
 oma
 omah
