@@ -732,6 +732,7 @@ apane
 apapa
 apar
 apas
+apase
 apat
 ape
 apeg
@@ -7902,6 +7903,7 @@ pipis
 pir
 pira
 pirang
+piranga
 piring
 piro
 piruk
