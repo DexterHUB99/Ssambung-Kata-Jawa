@@ -276,6 +276,7 @@ akulo
 akum
 akumi
 akun
+akune
 akur
 akuran
 akut
@@ -7911,6 +7912,7 @@ sahur
 sai
 saiki
 sair
+sairan
 saja
 sajen
 saji
