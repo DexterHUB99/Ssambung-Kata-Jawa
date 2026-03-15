@@ -1655,6 +1655,7 @@ dakar
 daki
 dakngerti
 dakon
+dakwah
 dalah
 dalam
 dalan
@@ -1768,6 +1769,7 @@ diancok
 diangsang
 dibawa
 dibo
+dida
 didak
 didi
 didik
@@ -8278,6 +8280,7 @@ ruk
 ruka
 ruki
 ruko
+ruku
 rukuh
 rukun
 rula
