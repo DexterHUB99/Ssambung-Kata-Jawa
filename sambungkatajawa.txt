@@ -6971,6 +6971,7 @@ okal
 okam
 okan
 okar
+okaro
 okas
 okasa
 oke
@@ -10037,6 +10038,7 @@ yam
 yamaha
 yaman
 yamen
+yami
 yan
 yana
 yang
