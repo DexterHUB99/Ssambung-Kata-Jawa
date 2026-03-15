@@ -5265,6 +5265,7 @@ merah
 merem
 meri
 mesake
+mese
 mesem
 mesin
 meso
@@ -5852,6 +5853,7 @@ ngangge
 nganggo
 nganggur
 ngangkang
+ngangluh
 ngangon
 ngangsu
 ngangu
@@ -6077,6 +6079,7 @@ ngerti
 ngertos
 ngeruk
 nges
+ngesah
 ngesak
 ngesat
 ngeseng
@@ -8895,6 +8898,7 @@ toto
 towo
 toya
 trenggalek
+tresna
 tresno
 truk
 tu
