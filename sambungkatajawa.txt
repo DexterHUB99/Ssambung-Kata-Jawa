@@ -1060,6 +1060,7 @@ bakso
 baku
 bakul
 bal
+bala
 balak
 balek
 baleni
@@ -1296,6 +1297,7 @@ bola
 boleh
 bolo
 bolong
+bolos
 bolot
 bom
 bon
