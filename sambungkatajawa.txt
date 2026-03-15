@@ -976,6 +976,7 @@ atmana
 ato
 atoh
 atok
+atol
 atom
 atos
 atra
@@ -1098,6 +1099,7 @@ babuk
 baca
 bacin
 bacot
+bacut
 badeg
 badek
 badhe
