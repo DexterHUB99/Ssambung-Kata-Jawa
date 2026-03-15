@@ -2709,6 +2709,7 @@ gedhung
 gedor
 gega
 geger
+geget
 geguritan
 geh
 gek
