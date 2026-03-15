@@ -1690,6 +1690,7 @@ demak
 demam
 deman
 demek
+demen
 demi
 demit
 demo
@@ -3312,6 +3313,7 @@ ide
 idem
 idep
 ider
+idham
 idhu
 idi
 idih
@@ -5171,6 +5173,7 @@ madiun
 mados
 madosi
 madu
+madung
 madura
 madya
 mae
@@ -5256,6 +5259,7 @@ mangkel
 mangkih
 mangkok
 mangku
+mangkuk
 mangsa
 mangsi
 mangu
@@ -5506,6 +5510,7 @@ mondok
 mone
 mong
 monggo
+mongo
 moni
 montor
 monyet
