@@ -1336,6 +1336,7 @@ bidun
 bidur
 bien
 bigu
+bijak
 biji
 bijor
 bika
@@ -10642,6 +10643,7 @@ weku
 wel
 welah
 welas
+wele
 weleh
 weli
 weling
