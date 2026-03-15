@@ -5053,6 +5053,7 @@ lapi
 lapis
 lapisan
 lapo
+lapuk
 lar
 lara
 laran
@@ -7272,6 +7273,7 @@ oj
 ojar
 ojek
 ojekan
+ojen
 ojo
 ojok
 ojol
