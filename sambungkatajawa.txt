@@ -802,6 +802,7 @@ asat
 ase
 asek
 asel
+aseli
 asem
 aseng
 asep
@@ -8523,6 +8524,7 @@ siasu
 sibat
 sida
 sidang
+sidoarjo
 sie
 sigap
 sigar
