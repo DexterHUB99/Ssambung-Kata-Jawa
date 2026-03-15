@@ -454,6 +454,7 @@ ampe
 ampek
 ampel
 ampela
+amper
 ampes
 ampil
 ampir
@@ -3899,6 +3900,7 @@ jeh
 jejel
 jek
 jeke
+jelang
 jelas
 jelek
 jem
@@ -4158,6 +4160,7 @@ kanthil
 kanti
 kantil
 kanto
+kantongan
 kantor
 kanyatane
 kanyuwun
@@ -8490,7 +8493,6 @@ salahku
 salak
 salam
 saleh
-salem
 sali
 salim
 salip
