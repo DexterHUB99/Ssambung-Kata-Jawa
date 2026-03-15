@@ -6858,6 +6858,7 @@ pakon
 pakpuh
 paku
 pakur
+pal
 pala
 palah
 palak
