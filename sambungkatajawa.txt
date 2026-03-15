@@ -875,6 +875,7 @@ ateh
 atek
 atel
 atem
+atema
 aten
 atena
 atep
