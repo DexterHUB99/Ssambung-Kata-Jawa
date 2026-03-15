@@ -1888,6 +1888,7 @@ ehur
 ehuy
 ej
 eja
+ejah
 eje
 ejo
 ek
@@ -5084,6 +5085,7 @@ matek
 mateng
 mateni
 mati
+matin
 matio
 matur
 maturnuwun
