@@ -3393,6 +3393,7 @@ ike
 ikel
 iker
 iket
+iketen
 ikhlas
 ikhtiar
 iki
@@ -5371,6 +5372,7 @@ mayak
 mayan
 mayat
 mayit
+mayuh
 mayungi
 mbah
 mbak
@@ -7261,6 +7263,7 @@ pandak
 pandawa
 pande
 pandu
+panem
 panen
 pang
 pangah
