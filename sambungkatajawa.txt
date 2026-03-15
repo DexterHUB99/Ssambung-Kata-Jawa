@@ -6022,6 +6022,7 @@ ngalor
 ngalus
 ngam
 ngamal
+ngamar
 ngamba
 ngambang
 ngambar
@@ -8904,6 +8905,7 @@ tai
 taii
 taik
 taine
+tajin
 tajir
 tak
 taka
