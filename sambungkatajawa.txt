@@ -1770,6 +1770,7 @@ der
 derek
 dereng
 deres
+deru
 desa
 deso
 dewa
@@ -6056,6 +6057,7 @@ neng
 nengdi
 nenge
 nengen
+neni
 nepak
 nepi
 nepis
