@@ -274,6 +274,7 @@ akon
 akoni
 akor
 akos
+akot
 akra
 akrab
 aksa
@@ -5872,6 +5873,7 @@ negas
 negeri
 neges
 negesi
+negi
 negor
 negori
 neh
