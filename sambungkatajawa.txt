@@ -4896,6 +4896,7 @@ lisa
 lisah
 lisan
 lise
+lisung
 lit
 lita
 liwat
@@ -8691,6 +8692,7 @@ tanggung
 tangi
 tangina
 tani
+tanjung
 tanpa
 tansah
 tante
