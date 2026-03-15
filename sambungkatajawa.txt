@@ -1248,6 +1248,7 @@ boten
 boti
 boto
 botol
+bowo
 boyo
 boyok
 bu
@@ -6257,6 +6258,7 @@ ngopo
 ngopoe
 ngopor
 ngopose
+ngora
 ngore
 ngorek
 ngoreki
