@@ -357,7 +357,6 @@ aloy
 alpukat
 alu
 aluh
-alukan
 alum
 alun
 alunan
@@ -1561,7 +1560,6 @@ colok
 colong
 combro
 como
-comot
 condong
 congok
 congor
@@ -2709,7 +2707,6 @@ gedhung
 gedor
 gega
 geger
-geget
 geguritan
 geh
 gek
@@ -7343,7 +7340,6 @@ pantai
 pantang
 pantar
 pantat
-pante
 pantes
 panti
 pantun
