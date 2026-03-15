@@ -6334,6 +6334,7 @@ neka
 nekad
 nekani
 nekat
+neken
 neker
 neko
 nel
@@ -7135,6 +7136,7 @@ ngur
 ngurah
 ngurang
 nguras
+ngure
 ngurek
 nguri
 ngurip
