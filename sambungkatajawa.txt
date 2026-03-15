@@ -665,6 +665,7 @@ antar
 antara
 antarane
 antare
+antareja
 antasena
 antek
 antem
@@ -2796,6 +2797,7 @@ gelombang
 geloo
 gelot
 gelud
+gelung
 gelut
 gem
 gema
@@ -3704,6 +3706,7 @@ irian
 irie
 irigasi
 irih
+irik
 irin
 iring
 iringan
@@ -3879,6 +3882,7 @@ jani
 janian
 janji
 janti
+jantung
 jar
 jara
 jaran
@@ -6064,6 +6068,7 @@ neme
 nemen
 nemi
 nemok
+nemoni
 nempe
 nempel
 nempik
@@ -6585,6 +6590,7 @@ ngingkang
 ngini
 nginjak
 nginjuk
+nginsing
 ngintik
 ngintil
 ngintip
@@ -6758,6 +6764,7 @@ ngul
 ngulah
 ngulai
 ngulang
+ngulangi
 nguleg
 ngulek
 ngulet
@@ -8579,6 +8586,7 @@ sanes
 sangar
 sangat
 sangga
+sanggah
 sanggar
 sanggul
 sanggup
