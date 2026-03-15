@@ -155,6 +155,7 @@ ahlina
 ahline
 ahlu
 ahlul
+ahmak
 aho
 ahoa
 ahoe
@@ -2636,6 +2637,7 @@ ewong
 ewu
 ewuh
 ex
+ey
 eya
 eyak
 eyam
