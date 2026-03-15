@@ -202,6 +202,7 @@ ajih
 ajik
 ajing
 ajining
+ajir
 ajis
 ajisaka
 ajor
@@ -2737,6 +2738,7 @@ geti
 getih
 getir
 getok
+geton
 getuk
 getun
 gewa
@@ -6166,6 +6168,7 @@ nggo
 nggolek
 nggoleti
 nggon
+nggone
 nggoreng
 nggowo
 nggula
@@ -6965,6 +6968,7 @@ osing
 osip
 osir
 osit
+osoh
 osok
 osor
 ot
