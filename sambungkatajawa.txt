@@ -1673,6 +1673,7 @@ dipan
 dipangan
 dipiki
 dipo
+dipu
 dipun
 dir
 diri
@@ -3660,6 +3661,7 @@ jokowi
 jol
 jola
 jolan
+jole
 jolen
 joli
 jom
@@ -5618,6 +5620,7 @@ ngaco
 ngacung
 ngada
 ngadang
+ngade
 ngadeg
 ngadek
 ngadem
