@@ -846,6 +846,7 @@ arue
 aruh
 arul
 arum
+arun
 arup
 arupa
 arus
@@ -3737,6 +3738,7 @@ inah
 inak
 inal
 inam
+inama
 inang
 inani
 inara
@@ -4816,6 +4818,7 @@ koee
 koen
 koh
 kok
+koka
 koki
 kokiso
 koko
