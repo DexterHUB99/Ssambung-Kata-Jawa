@@ -2816,7 +2816,6 @@ generator
 geneyi
 geng
 geni
-genit
 genjot
 geno
 genta
@@ -6356,7 +6355,6 @@ ngembang
 ngemen
 ngemil
 ngemong
-ngemot
 ngempal
 ngemper
 ngempot
@@ -6543,7 +6541,6 @@ ngisor
 ngisu
 ngisuh
 ngisuk
-ngitil
 ngitung
 ngiwa
 ngiwasi
@@ -6831,7 +6828,6 @@ nipan
 nipi
 nipis
 nipu
-nipun
 nir
 nira
 niri
@@ -9749,7 +9745,6 @@ untel
 unter
 untik
 untir
-untiren
 untu
 untuk
 untul
