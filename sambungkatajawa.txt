@@ -452,6 +452,7 @@ ames
 amet
 amey
 ami
+amia
 amie
 amik
 amil
@@ -1005,6 +1006,7 @@ auten
 auto
 av
 ava
+avi
 aw
 awa
 awah
@@ -3713,6 +3715,7 @@ inal
 inam
 inang
 inani
+inara
 inceng
 inda
 indah
@@ -8997,6 +9000,7 @@ selek
 selendang
 selep
 selet
+seli
 selimut
 seling
 selir
