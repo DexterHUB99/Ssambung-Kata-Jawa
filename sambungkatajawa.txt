@@ -6107,6 +6107,7 @@ nganti
 ngantien
 ngantik
 ngantor
+ngantos
 ngantri
 ngantuk
 ngantung
@@ -6239,6 +6240,7 @@ ngejar
 ngejek
 ngek
 ngeko
+ngekok
 ngela
 ngelag
 ngelak
