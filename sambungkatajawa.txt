@@ -403,6 +403,7 @@ ambyar
 ame
 ameh
 amek
+amel
 amen
 ameng
 amer
@@ -2065,6 +2066,7 @@ eleke
 elel
 elem
 eleman
+elemen
 elen
 eleng
 eler
