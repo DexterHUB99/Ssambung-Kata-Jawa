@@ -9704,6 +9704,7 @@ urap
 urapan
 uras
 urat
+uratan
 ure
 urek
 uren
@@ -10063,6 +10064,7 @@ wos
 wowi
 wowo
 woyo
+wu
 wudel
 wudhu
 wuh
