@@ -1860,6 +1860,7 @@ eha
 ehad
 ehah
 ehak
+ehal
 eham
 ehan
 ehar
@@ -5453,6 +5454,7 @@ nalika
 nalikane
 naliko
 nalina
+nalo
 nalu
 nalur
 naluri
@@ -7692,6 +7694,7 @@ roke
 roki
 roko
 rokok
+roku
 rolas
 role
 roli
