@@ -2582,6 +2582,7 @@ gebuki
 gedag
 gedang
 gede
+gedeg
 gedek
 gedhang
 gedhe
@@ -2626,6 +2627,7 @@ gemblung
 gembok
 gembong
 gembrot
+gembung
 gemen
 gemes
 gemi
