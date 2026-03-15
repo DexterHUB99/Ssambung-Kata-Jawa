@@ -6018,6 +6018,7 @@ ngentong
 ngentu
 ngentuk
 ngentut
+ngenyek
 ngepel
 ngepet
 ngepot
@@ -8244,6 +8245,7 @@ sindu
 sing
 singa
 singgah
+singo
 sini
 sinom
 sinoman
@@ -9171,6 +9173,7 @@ uno
 unta
 untal
 untalen
+untara
 untel
 unter
 untik
