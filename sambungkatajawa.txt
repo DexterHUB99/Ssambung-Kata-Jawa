@@ -5178,6 +5178,7 @@ masu
 masuk
 mat
 mata
+matam
 matamu
 matane
 matek
@@ -6539,6 +6540,7 @@ noya
 nresna
 nresnani
 nrimo
+nsu
 nu
 nua
 nub
