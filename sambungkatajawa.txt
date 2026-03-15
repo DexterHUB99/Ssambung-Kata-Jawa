@@ -941,6 +941,7 @@ aye
 ayem
 ayep
 ayi
+aying
 ayir
 ayo
 ayoe
@@ -3846,6 +3847,7 @@ kama
 kaman
 kamana
 kamar
+kamari
 kambi
 kambil
 kambing
@@ -4147,6 +4149,7 @@ kepriye
 ker
 kera
 kerah
+kerak
 keram
 keramas
 kerang
