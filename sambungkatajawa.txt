@@ -4208,6 +4208,7 @@ ketus
 ketut
 kewan
 kewek
+keyong
 ki
 kiai
 kicep
@@ -8566,6 +8567,7 @@ tatah
 tatakrama
 tatas
 tati
+tatik
 tato
 tatu
 taun
