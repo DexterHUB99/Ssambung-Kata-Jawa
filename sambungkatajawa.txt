@@ -4102,6 +4102,7 @@ keles
 kelet
 keli
 kelia
+kelik
 keliling
 kelinci
 kelingan
@@ -7617,6 +7618,7 @@ ratna
 ratu
 ratus
 raul
+rauma
 raup
 rausah
 raut
