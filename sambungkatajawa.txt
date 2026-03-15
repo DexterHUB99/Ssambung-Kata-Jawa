@@ -670,6 +670,7 @@ antep
 anter
 anti
 antik
+antimo
 anting
 anto
 anton
@@ -1638,7 +1639,6 @@ cuti
 cuyu
 da
 dab
-dabak
 dablek
 dada
 dadah
