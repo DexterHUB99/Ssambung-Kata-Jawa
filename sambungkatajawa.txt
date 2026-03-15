@@ -1191,6 +1191,7 @@ bima
 bimo
 bin
 bina
+binara
 bindeng
 bingung
 bini
@@ -6792,6 +6793,7 @@ ombak
 ombe
 ombea
 omben
+ombian
 ombo
 omboh
 ome
