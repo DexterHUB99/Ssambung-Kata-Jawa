@@ -2816,6 +2816,7 @@ generator
 geneyi
 geng
 geni
+genit
 genjot
 geno
 genta
@@ -5058,6 +5059,7 @@ lik
 lika
 likan
 like
+liki
 liko
 liku
 lila
@@ -6355,6 +6357,7 @@ ngembang
 ngemen
 ngemil
 ngemong
+ngemot
 ngempal
 ngemper
 ngempot
@@ -6541,6 +6544,7 @@ ngisor
 ngisu
 ngisuh
 ngisuk
+ngitil
 ngitung
 ngiwa
 ngiwasi
@@ -6827,7 +6831,9 @@ nipak
 nipan
 nipi
 nipis
+nipon
 nipu
+nipun
 nir
 nira
 niri
@@ -9745,6 +9751,7 @@ untel
 unter
 untik
 untir
+untiren
 untu
 untuk
 untul
@@ -9969,6 +9976,7 @@ wak
 wakil
 waktu
 waktune
+waku
 wakul
 wal
 wala
