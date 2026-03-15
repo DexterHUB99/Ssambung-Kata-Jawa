@@ -1541,6 +1541,7 @@ cuma
 cumi
 cunduk
 cur
+curi
 curu
 curug
 curut
@@ -3248,6 +3249,7 @@ ide
 idem
 idep
 ider
+idhu
 idi
 idih
 idin
@@ -3692,6 +3694,7 @@ jas
 jasa
 jatah
 jati
+jatuh
 jauh
 jawa
 jawaban
@@ -9684,6 +9687,7 @@ woi
 wok
 woke
 wol
+wolak
 wolo
 wolu
 womo
