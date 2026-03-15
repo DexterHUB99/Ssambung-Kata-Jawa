@@ -1577,6 +1577,7 @@ cote
 cowek
 cowo
 cu
+cublak
 cuci
 cucu
 cucur
@@ -2056,6 +2057,7 @@ eklas
 eklek
 eko
 ekoh
+ekok
 ekol
 ekoli
 ekon
@@ -3479,6 +3481,7 @@ imba
 imbal
 imbalan
 imbang
+imbangi
 imbas
 imbat
 imbel
