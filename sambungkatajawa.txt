@@ -403,6 +403,7 @@ ambi
 ambik
 ambil
 ambing
+ambles
 amboi
 ambrol
 ambruk
@@ -3054,6 +3055,7 @@ guri
 gurih
 gurit
 gurita
+guritan
 guru
 guruh
 gus
@@ -6059,6 +6061,7 @@ ngajah
 ngajak
 ngajar
 ngajari
+ngajen
 ngajeng
 ngajeni
 ngaji
