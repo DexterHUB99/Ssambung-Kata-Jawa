@@ -5317,6 +5317,7 @@ loha
 lohan
 lohe
 loi
+loji
 lok
 loka
 lokan
@@ -5869,6 +5870,7 @@ mugi
 mugih
 muh
 muha
+muhi
 muhun
 mujair
 mujar
