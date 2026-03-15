@@ -2938,6 +2938,7 @@ hano
 hansip
 hantam
 hantu
+hanung
 hanya
 hap
 hapa
@@ -7081,6 +7082,7 @@ piatu
 picak
 picek
 pidak
+pidang
 pie
 pih
 pijat
@@ -7952,6 +7954,7 @@ sarungan
 sas
 sasa
 sasak
+sasaran
 sasi
 sat
 sate
@@ -9452,6 +9455,7 @@ woke
 wol
 wolo
 wolu
+womo
 won
 wong
 wonge
