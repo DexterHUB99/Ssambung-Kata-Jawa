@@ -6653,6 +6653,7 @@ nuh
 nuhun
 nuk
 nuki
+nukil
 nuku
 nukul
 nul
