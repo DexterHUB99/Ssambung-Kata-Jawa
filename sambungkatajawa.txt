@@ -87,6 +87,7 @@ agek
 agem
 agen
 ageng
+ager
 agi
 agor
 agu
@@ -1645,7 +1646,6 @@ dakar
 daki
 dakngerti
 dakon
-dakwah
 dalah
 dalam
 dalan
@@ -2886,6 +2886,7 @@ gim
 gima
 giman
 gimbal
+gimen
 gina
 gincu
 ginem
@@ -8260,7 +8261,6 @@ ruk
 ruka
 ruki
 ruko
-ruku
 rukuh
 rukun
 rula
