@@ -4533,6 +4533,7 @@ kesetanan
 kesi
 kesirep
 kesna
+kesot
 kesuh
 kesuk
 kesusu
@@ -7623,6 +7624,7 @@ paringi
 paris
 parit
 parkir
+parno
 paro
 parti
 paru
