@@ -8096,6 +8096,7 @@ remuk
 ren
 rena
 renang
+rencana
 rencang
 rendang
 rendem
