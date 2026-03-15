@@ -550,7 +550,6 @@ angsulan
 angsur
 angsuran
 angu
-anguk
 angur
 angus
 ani
@@ -720,7 +719,6 @@ arsa
 arsi
 arta
 arti
-artine
 artis
 arto
 artos
@@ -2687,7 +2685,6 @@ githok
 giwang
 giwangan
 go
-gobak
 goblog
 goblok
 gobloki
@@ -3664,7 +3661,6 @@ jombang
 jomblo
 jon
 jona
-jonan
 jong
 jongkok
 joni
@@ -5168,6 +5164,7 @@ mimi
 mimis
 mimisan
 min
+mina
 minal
 minangka
 minat
@@ -5218,6 +5215,7 @@ mokal
 mokong
 mol
 mola
+molah
 molas
 mole
 moleh
@@ -6511,7 +6509,6 @@ ogak
 oge
 oger
 ogi
-ogil
 ogoh
 ogol
 ogor
@@ -7356,7 +7353,6 @@ randue
 rang
 rangda
 rangga
-rangka
 rangkat
 rangkul
 rangu
@@ -8262,7 +8258,6 @@ sumbanga
 sumbangan
 sumber
 sumeh
-sumen
 sumenep
 sumerep
 sumi
@@ -8328,7 +8323,6 @@ susuh
 susuk
 susukamu
 susul
-susulan
 susumu
 susun
 susune
@@ -9118,7 +9112,6 @@ ustadz
 usu
 usuk
 usul
-usulan
 usung
 usungi
 usuo
