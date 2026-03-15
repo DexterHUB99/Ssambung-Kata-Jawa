@@ -27,6 +27,7 @@ abul
 acak
 acan
 ace
+acor
 acu
 ad
 ada
