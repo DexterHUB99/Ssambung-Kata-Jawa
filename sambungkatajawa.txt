@@ -8980,6 +8980,7 @@ tele
 telek
 teles
 teli
+telinga
 telo
 telon
 telu
