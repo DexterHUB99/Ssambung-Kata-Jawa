@@ -2910,6 +2910,7 @@ gole
 golek
 golekan
 goleki
+golekno
 goler
 golet
 goli
@@ -8293,6 +8294,7 @@ saham
 sahur
 sai
 saiki
+saiku
 sair
 sairan
 saja
