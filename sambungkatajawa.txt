@@ -550,7 +550,6 @@ angsulan
 angsur
 angsuran
 angu
-anguk
 angur
 angus
 ani
@@ -5165,6 +5164,7 @@ mimi
 mimis
 mimisan
 min
+mina
 minal
 minangka
 minat
@@ -5215,6 +5215,7 @@ mokal
 mokong
 mol
 mola
+molah
 molas
 mole
 moleh
@@ -7352,7 +7353,6 @@ randue
 rang
 rangda
 rangga
-rangka
 rangkat
 rangkul
 rangu
@@ -9112,7 +9112,6 @@ ustadz
 usu
 usuk
 usul
-usulan
 usung
 usungi
 usuo
