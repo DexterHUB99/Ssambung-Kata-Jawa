@@ -2155,6 +2155,7 @@ ekere
 ekes
 eket
 eki
+ekik
 ekin
 ekis
 ekit
@@ -4658,6 +4659,7 @@ kintel
 kintir
 kios
 kipas
+kipet
 kir
 kira
 kirab
