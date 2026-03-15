@@ -2794,6 +2794,7 @@ gelombang
 geloo
 gelot
 gelud
+gelung
 gelut
 gem
 gema
@@ -6574,6 +6575,7 @@ ngingkang
 ngini
 nginjak
 nginjuk
+nginsing
 ngintik
 ngintil
 ngintip
@@ -8564,6 +8566,7 @@ sanes
 sangar
 sangat
 sangga
+sanggah
 sanggar
 sanggul
 sanggup
