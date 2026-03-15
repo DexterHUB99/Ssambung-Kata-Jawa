@@ -450,7 +450,6 @@ amuk
 amun
 amung
 amur
-amus
 amut
 an
 ana
@@ -1191,6 +1190,7 @@ bibik
 bibir
 bibit
 bicu
+bid
 bidak
 bidan
 bidek
@@ -1718,6 +1718,7 @@ dikir
 dikit
 dikon
 dikongkon
+dikontol
 diku
 dil
 dila
@@ -3271,6 +3272,7 @@ icu
 id
 ida
 idam
+idaman
 idan
 ide
 idem
@@ -3909,7 +3911,6 @@ kakek
 kaki
 kaku
 kakung
-kakus
 kal
 kala
 kalah
@@ -4001,6 +4002,7 @@ kapak
 kapal
 kapan
 kapas
+kape
 kapi
 kaping
 kaplok
@@ -4222,7 +4224,6 @@ kenek
 kenen
 kenese
 kenetel
-kengken
 keni
 kening
 kenok
@@ -4854,6 +4855,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
@@ -5391,6 +5393,7 @@ minat
 minggat
 minggir
 minggu
+mingkem
 mini
 minta
 minum
@@ -5867,7 +5870,6 @@ ngadu
 ngaduk
 ngadul
 ngadus
-ngadusi
 ngae
 ngagem
 ngago
@@ -6388,6 +6390,7 @@ ngopo
 ngopoe
 ngopor
 ngopose
+ngor
 ngora
 ngore
 ngorek
@@ -6456,6 +6459,7 @@ ngulon
 ngulu
 nguluk
 ngulur
+nguma
 ngumah
 ngumbah
 ngumbahi
@@ -6746,6 +6750,7 @@ nyali
 nyam
 nyaman
 nyambel
+nyambi
 nyamuk
 nyangu
 nyanyi
@@ -6903,6 +6908,7 @@ ombo
 omboh
 ome
 omel
+omelan
 omen
 omi
 omo
@@ -9245,7 +9251,6 @@ ukukur
 ukul
 ukum
 ukung
-ukup
 ukur
 ukura
 ukuran
@@ -9413,7 +9418,6 @@ upas
 upaya
 upe
 upel
-upen
 uper
 upi
 upik
@@ -9732,7 +9736,6 @@ widara
 widi
 widya
 wie
-wifi
 wih
 wii
 wijaya
@@ -9939,7 +9942,6 @@ yusi
 yuswa
 yut
 yuti
-yuya
 yuyu
 yuyun
 zakat
