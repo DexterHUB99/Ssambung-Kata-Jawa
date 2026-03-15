@@ -4590,6 +4590,7 @@ kikil
 kil
 kila
 kilan
+kilap
 kilas
 kilasan
 kilat
@@ -9336,6 +9337,7 @@ tawa
 tawaf
 tawan
 tawar
+tawas
 tawi
 tawon
 tawur
