@@ -2287,6 +2287,7 @@ elmu
 elo
 eloe
 eloh
+eloi
 elok
 elom
 elon
