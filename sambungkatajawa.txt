@@ -357,6 +357,7 @@ aloy
 alpukat
 alu
 aluh
+alukan
 alum
 alun
 alunan
@@ -1560,6 +1561,7 @@ colok
 colong
 combro
 como
+comot
 condong
 congok
 congor
