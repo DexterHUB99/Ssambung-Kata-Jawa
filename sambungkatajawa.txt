@@ -7295,6 +7295,7 @@ olar
 olas
 ole
 oleh
+olehan
 olehe
 olek
 oleng
@@ -9979,6 +9980,7 @@ untung
 untunge
 untur
 unus
+unyi
 uo
 up
 upa
