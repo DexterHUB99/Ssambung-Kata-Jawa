@@ -603,6 +603,7 @@ angot
 angs
 angsa
 angsal
+angsalipun
 angso
 angsul
 angsulan
@@ -8565,6 +8566,7 @@ sangat
 sangga
 sanggar
 sanggul
+sanggup
 sangit
 sangka
 sangking
