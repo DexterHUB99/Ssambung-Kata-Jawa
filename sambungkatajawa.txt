@@ -3890,6 +3890,7 @@ kandang
 kandani
 kandel
 kandha
+kandi
 kandut
 kane
 kang
@@ -6831,6 +6832,7 @@ oreg
 orek
 oren
 oreng
+oreo
 orep
 orer
 organisasi
