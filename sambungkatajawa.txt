@@ -110,6 +110,7 @@ ahel
 ahem
 aheng
 aher
+ahes
 ahet
 ahey
 ahh
@@ -1789,6 +1790,7 @@ dongok
 dongol
 doni
 dono
+donya
 dop
 dor
 dora
