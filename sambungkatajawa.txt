@@ -2410,6 +2410,7 @@ epih
 epik
 epil
 epin
+epip
 epis
 epo
 epoh
@@ -9388,6 +9389,7 @@ tawa
 tawaf
 tawan
 tawar
+tawas
 tawi
 tawon
 tawur
