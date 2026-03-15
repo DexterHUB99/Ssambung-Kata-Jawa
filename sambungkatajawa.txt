@@ -3152,6 +3152,7 @@ grujuk
 gu
 gubah
 gubeng
+gubernur
 gubris
 gubug
 gudang
@@ -5799,6 +5800,7 @@ mese
 mesem
 mesin
 meso
+mesuka
 mesum
 met
 meteng
