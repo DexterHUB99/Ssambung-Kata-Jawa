@@ -6625,6 +6625,7 @@ ngetik
 ngetok
 ngeton
 ngetot
+ngetung
 ngewangi
 ngewarnai
 ngewe
@@ -8661,6 +8662,7 @@ saiku
 sair
 sairan
 saja
+sajadah
 sajen
 saji
 sajim
