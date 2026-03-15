@@ -5770,6 +5770,7 @@ ngapal
 ngapati
 ngapel
 ngapeli
+ngapi
 ngapu
 ngapunten
 ngapura
