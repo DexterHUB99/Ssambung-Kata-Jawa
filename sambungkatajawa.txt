@@ -2334,6 +2334,7 @@ fakta
 famu
 fani
 fasih
+final
 firman
 fix
 fo
@@ -6116,6 +6117,7 @@ nglakoni
 nglamun
 nglangkah
 nglantur
+nglek
 ngliwet
 nglon
 ngluwehi
