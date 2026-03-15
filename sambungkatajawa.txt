@@ -2748,6 +2748,7 @@ galau
 gale
 galeh
 galek
+galem
 galeng
 galengan
 galer
