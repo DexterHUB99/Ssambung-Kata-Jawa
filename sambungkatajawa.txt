@@ -1470,6 +1470,7 @@ copet
 copot
 cor
 corak
+coret
 coro
 corone
 corot
@@ -5567,6 +5568,7 @@ nedho
 nedi
 neduh
 neg
+nega
 negara
 negari
 negas
@@ -6136,6 +6138,7 @@ ngolo
 ngoloh
 ngolok
 ngolor
+ngom
 ngomah
 ngombe
 ngombi
@@ -7277,6 +7280,7 @@ puni
 punika
 punjul
 punten
+punya
 pup
 pupu
 pupuh
@@ -7605,6 +7609,7 @@ rilis
 rilo
 rim
 rima
+riman
 rimo
 rimu
 rin
