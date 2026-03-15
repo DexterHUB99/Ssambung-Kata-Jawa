@@ -1165,6 +1165,7 @@ becak
 becik
 beco
 beda
+bedah
 bedak
 bedes
 bedha
@@ -4453,6 +4454,7 @@ kep
 kepa
 kepala
 kepanggih
+kepel
 kepenak
 kepepet
 kepet
