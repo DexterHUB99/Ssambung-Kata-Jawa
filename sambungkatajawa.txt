@@ -209,7 +209,6 @@ ajib
 ajig
 ajih
 ajik
-ajim
 ajing
 ajining
 ajip
@@ -476,7 +475,6 @@ anae
 anag
 anah
 anai
-anaj
 anak
 anakan
 anake
@@ -1521,7 +1519,6 @@ cicak
 cici
 cicir
 cicit
-cidek
 ciduk
 cik
 cikal
@@ -1804,6 +1801,7 @@ diman
 dimana
 dimar
 dimas
+dimi
 dimna
 dimo
 dimul
@@ -3859,7 +3857,6 @@ jeke
 jelas
 jelek
 jem
-jembar
 jembatan
 jember
 jembut
@@ -3901,6 +3898,7 @@ jinak
 jinaka
 jingga
 jingkrak
+jingkrik
 jini
 jinjing
 jinjit
@@ -4022,7 +4020,6 @@ kak
 kaka
 kakak
 kakang
-kake
 kakehan
 kakek
 kaki
@@ -4059,6 +4056,7 @@ kalor
 kalung
 kam
 kama
+kamal
 kaman
 kamana
 kamar
@@ -4505,6 +4503,7 @@ kinan
 kinanthi
 kinanti
 kinasih
+kincir
 kini
 kinjeng
 kintal
@@ -4580,6 +4579,7 @@ kolah
 kolak
 kolam
 kolek
+koli
 koloh
 kolong
 kolot
@@ -5102,6 +5102,7 @@ lisung
 lit
 lita
 liwat
+liwe
 liwet
 liya
 liyane
@@ -5128,7 +5129,6 @@ loka
 lokan
 lokasi
 loke
-loken
 loki
 loko
 lola
@@ -5208,6 +5208,7 @@ luhan
 luhur
 luk
 luka
+luke
 luki
 luku
 lulang
@@ -5321,7 +5322,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -5439,6 +5439,7 @@ mateni
 mati
 matin
 matio
+matu
 matur
 maturnuwun
 matursuwun
@@ -5564,6 +5565,7 @@ mio
 mir
 mira
 mirah
+mireng
 mirengake
 miri
 miring
@@ -7389,6 +7391,7 @@ pangling
 pani
 panik
 paningal
+panir
 panis
 panjaluk
 panjang
@@ -7403,7 +7406,6 @@ pantes
 panti
 pantun
 panun
-panur
 panut
 panutan
 panuwun
@@ -7836,6 +7838,7 @@ rah
 rahas
 rahasia
 rahayu
+rahma
 rahmat
 rahwana
 rai
@@ -8278,6 +8281,7 @@ rungka
 rungkad
 rungkut
 rungo
+rungono
 rungsing
 rungu
 runi
@@ -9447,6 +9451,7 @@ udharan
 udi
 udik
 udin
+udna
 udo
 udu
 udud
@@ -10031,7 +10036,6 @@ wie
 wifi
 wih
 wii
-wijang
 wijaya
 wiji
 wik
@@ -10067,7 +10071,6 @@ wit
 witan
 witir
 wito
-wiwi
 wiwit
 wiwitan
 wo
