@@ -4190,6 +4190,7 @@ kentang
 kenter
 kenthel
 kenthir
+kentongan
 kentu
 kentut
 kentutmu
@@ -5511,6 +5512,7 @@ mutah
 mutan
 muten
 muti
+mutih
 na
 nabi
 nabok
