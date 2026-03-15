@@ -8371,6 +8371,7 @@ ron
 ronda
 rondo
 ronggeng
+ronggo
 rongpuluh
 rongsokan
 roni
@@ -8624,6 +8625,7 @@ sapir
 sapiro
 sapo
 sapu
+sapura
 saput
 sar
 sara
