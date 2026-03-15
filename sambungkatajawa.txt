@@ -795,6 +795,7 @@ aro
 arogan
 aroh
 arok
+arom
 aron
 aros
 arow
@@ -1126,6 +1127,7 @@ banyu
 bapak
 bapakmu
 bar
+barak
 bareng
 bariki
 baron
@@ -5089,6 +5091,7 @@ leman
 lemari
 lemas
 lembah
+lembar
 lembek
 lembur
 lembut
@@ -7826,6 +7829,7 @@ pipi
 pipik
 pipipis
 pipis
+pipit
 pir
 pira
 pirang
@@ -9648,6 +9652,7 @@ tuwuh
 tuyul
 tv
 ua
+uake
 uan
 uang
 ub
@@ -9913,7 +9918,6 @@ ungkit
 ungkur
 ungu
 uni
-uniko
 unjal
 unjang
 unjar
