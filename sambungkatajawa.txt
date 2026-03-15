@@ -4125,6 +4125,7 @@ kelor
 keloro
 keluarga
 keluh
+kelut
 kem
 kemah
 kemaki
@@ -6977,6 +6978,7 @@ pacol
 pacul
 pada
 padahal
+padam
 padang
 padaran
 padas
