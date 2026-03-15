@@ -826,6 +826,7 @@ arsa
 arsi
 arta
 arti
+artii
 artine
 artis
 arto
@@ -995,6 +996,7 @@ aus
 aut
 auta
 autan
+auten
 auto
 av
 ava
@@ -1291,6 +1293,7 @@ bibi
 bibik
 bibir
 bibit
+bibu
 bicu
 bid
 bidak
@@ -2135,6 +2138,7 @@ ehob
 ehod
 ehok
 ehol
+ehon
 ehop
 ehor
 ehos
@@ -2203,6 +2207,7 @@ elag
 elah
 elai
 elak
+elam
 elan
 elang
 elap
@@ -2848,7 +2853,6 @@ geger
 geget
 geguritan
 geh
-gei
 gek
 gel
 gela
@@ -3258,6 +3262,7 @@ hambur
 hamel
 hami
 hamil
+hamis
 hampir
 hamu
 han
@@ -4145,6 +4150,7 @@ juragan
 juri
 juru
 jus
+juta
 ka
 kabar
 kabeh
@@ -4487,6 +4493,7 @@ kemaki
 kemalan
 kemang
 kemari
+kemaruk
 kemas
 kemayu
 kembali
@@ -4778,6 +4785,7 @@ koma
 komen
 komi
 komik
+komodo
 kompak
 kompas
 kompor
@@ -4919,6 +4927,7 @@ kumu
 kumuh
 kumut
 kun
+kuna
 kunang
 kunci
 kundur
@@ -5390,6 +5399,7 @@ lopi
 lopis
 lor
 lore
+lorek
 loreng
 lori
 loro
@@ -5441,6 +5451,7 @@ lumajang
 lumaku
 luman
 lumbung
+lumen
 lumpang
 lumping
 lumpuh
@@ -6018,6 +6029,7 @@ naki
 nakoe
 nakon
 nakoni
+naksir
 naku
 nakula
 nal
@@ -6143,6 +6155,7 @@ natap
 nate
 natik
 nawa
+nawan
 nawang
 nawani
 nawar
@@ -6371,6 +6384,7 @@ ngamok
 ngampel
 ngampet
 ngampil
+ngampir
 ngampun
 ngamuk
 ngan
@@ -6484,7 +6498,6 @@ ngasep
 ngasi
 ngasih
 ngasihi
-ngasin
 ngaso
 ngasoh
 ngasor
@@ -6593,6 +6606,7 @@ ngembang
 ngemen
 ngemi
 ngemil
+ngemis
 ngemong
 ngemot
 ngempal
@@ -7072,6 +7086,7 @@ nina
 nindak
 nindakake
 ning
+ninga
 ningali
 ninggal
 ninggalake
@@ -7340,6 +7355,7 @@ ohhh
 oho
 ohya
 oj
+ojam
 ojar
 ojek
 ojekan
@@ -7931,7 +7947,6 @@ pilis
 pilit
 pilo
 pilok
-pilong
 pilot
 pilu
 piluh
@@ -8359,6 +8374,7 @@ rayon
 rayu
 re
 rea
+rebab
 rebah
 rebahan
 rebana
@@ -10587,6 +10603,7 @@ yaku
 yali
 yalo
 yam
+yama
 yamaha
 yaman
 yamen
