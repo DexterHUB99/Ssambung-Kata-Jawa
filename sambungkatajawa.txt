@@ -2559,6 +2559,7 @@ gel
 gela
 gelak
 gelang
+gelap
 gelar
 gelas
 gele
@@ -9324,6 +9325,7 @@ walang
 wale
 wali
 walik
+walisongo
 waluh
 waluyo
 wan
