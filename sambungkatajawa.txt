@@ -2042,6 +2042,7 @@ eleng
 eler
 elet
 eli
+elif
 elig
 elik
 elin
@@ -4216,7 +4217,6 @@ kenek
 kenen
 kenese
 kenetel
-kengken
 keni
 kening
 kenok
@@ -8472,6 +8472,7 @@ siter
 sithik
 siti
 sitik
+siwa
 siwak
 siwur
 siyo
