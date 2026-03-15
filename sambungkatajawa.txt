@@ -6318,6 +6318,7 @@ ngeret
 ngeri
 ngerit
 ngerok
+ngerokok
 ngeroso
 ngersa
 ngerteni
@@ -7619,6 +7620,7 @@ piye
 po
 poa
 pocong
+pocung
 podho
 poe
 poho
@@ -9984,6 +9986,7 @@ wila
 wilan
 wilangan
 wili
+wilo
 wilujeng
 win
 wina
