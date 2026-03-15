@@ -2254,6 +2254,7 @@ enteni
 enter
 enthen
 entheng
+enthok
 enthol
 entir
 entit
@@ -3891,6 +3892,7 @@ jos
 josa
 joss
 jotos
+jualan
 jujug
 jujur
 jule
