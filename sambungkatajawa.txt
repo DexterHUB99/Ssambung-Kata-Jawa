@@ -1358,6 +1358,7 @@ bowo
 boyo
 boyok
 bu
+buang
 buaya
 bubar
 bubrah
@@ -2131,6 +2132,7 @@ ekoh
 ekok
 ekol
 ekoli
+ekom
 ekon
 ekor
 ekoran
