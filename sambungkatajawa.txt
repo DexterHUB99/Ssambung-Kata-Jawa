@@ -1190,6 +1190,7 @@ bibik
 bibir
 bibit
 bicu
+bid
 bidak
 bidan
 bidek
@@ -3270,6 +3271,7 @@ icu
 id
 ida
 idam
+idaman
 idan
 ide
 idem
@@ -3908,7 +3910,6 @@ kakek
 kaki
 kaku
 kakung
-kakus
 kal
 kala
 kalah
@@ -4000,6 +4001,7 @@ kapak
 kapal
 kapan
 kapas
+kape
 kapi
 kaping
 kaplok
@@ -4852,6 +4854,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
@@ -5389,6 +5392,7 @@ minat
 minggat
 minggir
 minggu
+mingkem
 mini
 minta
 minum
@@ -5865,7 +5869,6 @@ ngadu
 ngaduk
 ngadul
 ngadus
-ngadusi
 ngae
 ngagem
 ngago
@@ -6386,6 +6389,7 @@ ngopo
 ngopoe
 ngopor
 ngopose
+ngor
 ngora
 ngore
 ngorek
@@ -9728,7 +9732,6 @@ widara
 widi
 widya
 wie
-wifi
 wih
 wii
 wijaya
@@ -9935,7 +9938,6 @@ yusi
 yuswa
 yut
 yuti
-yuya
 yuyu
 yuyun
 zakat
