@@ -2792,6 +2792,7 @@ gap
 gapa
 gapapa
 gapi
+gapil
 gaplek
 gaplok
 gapuk
@@ -9241,6 +9242,7 @@ siter
 sithik
 siti
 sitik
+sitok
 siwa
 siwak
 siwur
@@ -9668,6 +9670,7 @@ tempat
 tempe
 tempek
 tempel
+tempelen
 tempik
 tempur
 tempura
