@@ -922,6 +922,7 @@ ayanen
 ayang
 ayani
 ayar
+ayas
 ayat
 aye
 ayem
@@ -1524,6 +1525,7 @@ daleme
 dalih
 dalu
 dam
+dama
 damai
 damar
 damel
