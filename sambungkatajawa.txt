@@ -1692,6 +1692,7 @@ demit
 demo
 demok
 dempul
+den
 dendeng
 dene
 deneng
