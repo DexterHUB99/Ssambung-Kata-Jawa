@@ -168,6 +168,7 @@ ai
 aia
 aian
 aie
+aiho
 aii
 aika
 aiko
@@ -1964,6 +1965,7 @@ eda
 edah
 edam
 edan
+edanan
 edar
 ede
 edi
@@ -3256,6 +3258,7 @@ hiri
 hiruk
 his
 hisa
+hisan
 hise
 hisi
 hitam
