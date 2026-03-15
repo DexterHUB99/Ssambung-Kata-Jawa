@@ -2820,6 +2820,7 @@ grontol
 grosir
 grujuk
 gu
+gubah
 gubeng
 gubris
 gubug
@@ -4777,6 +4778,7 @@ liman
 limang
 limas
 limasan
+limat
 limbah
 limbuk
 limbung
@@ -6531,6 +6533,7 @@ numplek
 numpuk
 numpul
 nun
+nuna
 nung
 nunggal
 nunggang
