@@ -988,6 +988,7 @@ ayak
 ayal
 ayalan
 ayam
+ayamne
 ayan
 ayanen
 ayang
@@ -6960,6 +6961,7 @@ nyilih
 nyiram
 nyirep
 nyo
+nyocot
 nyolong
 nyong
 nyuluh
@@ -6973,6 +6975,7 @@ oalah
 ob
 oba
 obah
+obak
 obat
 obek
 obeng
