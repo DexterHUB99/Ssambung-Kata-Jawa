@@ -4652,6 +4652,7 @@ kuma
 kuman
 kumbah
 kumbahan
+kumbahen
 kumbakarna
 kumbang
 kume
@@ -6670,6 +6671,7 @@ nim
 nima
 nimah
 nimba
+nimbal
 nimbang
 nimbangi
 nimbul
@@ -6787,6 +6789,7 @@ nsu
 nu
 nua
 nub
+nubi
 nubruk
 nudu
 nuduh
