@@ -1130,6 +1130,7 @@ bawe
 bawok
 bawuk
 bay
+baya
 bayang
 bayem
 bayi
@@ -5500,6 +5501,7 @@ men
 menawa
 menawi
 mencret
+mendoan
 mendung
 mendut
 mene
@@ -9709,6 +9711,7 @@ untu
 untuk
 untul
 untumu
+untun
 untune
 untung
 untunge
@@ -9774,6 +9777,7 @@ uripmu
 uris
 urit
 uritan
+urka
 urma
 uro
 urra
