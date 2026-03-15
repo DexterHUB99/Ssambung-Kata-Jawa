@@ -160,6 +160,7 @@ aho
 ahoa
 ahoe
 ahoh
+ahoi
 ahok
 ahol
 ahom
@@ -6447,6 +6448,7 @@ ngalis
 ngalo
 ngalon
 ngalor
+ngalum
 ngalur
 ngalus
 ngam
