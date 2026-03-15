@@ -873,6 +873,7 @@ atoh
 atok
 atom
 atos
+atra
 atri
 atu
 atuh
@@ -1448,6 +1449,7 @@ cincin
 cine
 cing
 cingkrang
+cingur
 cino
 cinta
 cipa
