@@ -646,6 +646,7 @@ anton
 antoni
 antri
 antuk
+antun
 antur
 anu
 anuk
@@ -789,7 +790,6 @@ asem
 aseng
 asep
 aset
-aseta
 asi
 asia
 asie
@@ -803,7 +803,6 @@ asing
 asli
 asline
 asma
-asmane
 asmara
 asmaradana
 aso
@@ -1194,7 +1193,6 @@ bijor
 bika
 bikak
 biko
-biku
 bil
 bila
 bilah
@@ -1240,7 +1238,6 @@ bodo
 bodoh
 bodok
 bojo
-bojoku
 boke
 bokek
 boker
@@ -1430,7 +1427,6 @@ celengan
 celi
 celuk
 cemani
-cemot
 cempe
 cemplung
 cen
@@ -1778,7 +1774,6 @@ dodol
 dodolan
 dodot
 doh
-dohi
 dok
 dokar
 doko
@@ -2220,6 +2215,7 @@ entut
 entutmu
 enu
 enul
+enum
 enya
 enyak
 enyong
@@ -2563,7 +2559,6 @@ garian
 garik
 garing
 garis
-garit
 garong
 garpu
 garu
@@ -2958,7 +2953,6 @@ gut
 guta
 guten
 guwa
-guyang
 guyon
 guyonan
 guys
@@ -4151,7 +4145,6 @@ kelingan
 keliru
 kelon
 kelonan
-kelop
 kelor
 keloro
 keluarga
@@ -4251,7 +4244,6 @@ kerek
 keremen
 keren
 kerep
-keret
 kereta
 keri
 keris
@@ -4928,7 +4920,6 @@ lise
 lisung
 lit
 lita
-litik
 liwat
 liwet
 liya
@@ -5108,6 +5099,7 @@ mae
 maem
 maen
 mag
+magang
 magrib
 mah
 maha
@@ -5388,7 +5380,6 @@ misi
 miskin
 misu
 misuh
-mit
 mita
 mitoni
 mlaku
@@ -5510,7 +5501,6 @@ mung
 mungah
 munggah
 mungkin
-mungkur
 muni
 munjul
 muntab
@@ -5528,7 +5518,6 @@ murung
 murup
 mus
 musa
-musan
 musi
 musibah
 musim
@@ -5862,7 +5851,6 @@ ngak
 ngakak
 ngakali
 ngakeh
-ngaki
 ngakon
 ngaku
 ngal
@@ -5902,7 +5890,6 @@ ngamok
 ngampel
 ngampil
 ngampun
-ngampung
 ngamuk
 ngan
 ngana
@@ -6300,7 +6287,6 @@ ngngombe
 ngni
 ngobah
 ngobat
-ngober
 ngobok
 ngobong
 ngobor
@@ -6573,7 +6559,6 @@ niti
 nitih
 nitik
 nitip
-nitis
 niwa
 njagong
 njajal
@@ -6750,7 +6735,6 @@ oalah
 ob
 oba
 obah
-obahing
 obat
 obek
 obeng
@@ -6913,7 +6897,6 @@ onori
 onta
 ontang
 ontel
-onten
 onthel
 onto
 ontong
@@ -7435,7 +7418,6 @@ polahmu
 polan
 polar
 pole
-poleh
 poles
 poli
 polisi
@@ -7591,11 +7573,9 @@ raisin
 raiso
 raja
 rajah
-rajam
 rajang
 rajar
 rajin
-raju
 rajuk
 rajut
 rak
@@ -7737,6 +7717,7 @@ rebahan
 rebana
 rebo
 rebung
+rebut
 receh
 redi
 rega
@@ -7936,6 +7917,7 @@ rompi
 ron
 ronda
 rondo
+rone
 ronggeng
 rongpuluh
 rongsokan
@@ -7984,7 +7966,6 @@ rum
 ruma
 rumah
 rumahe
-rumang
 rumangsa
 rumangsane
 rumba
@@ -8011,7 +7992,6 @@ rungu
 runi
 runtuh
 runtut
-runyam
 ruo
 rup
 rupa
@@ -8067,6 +8047,7 @@ saiki
 sair
 sairan
 saja
+sajak
 sajen
 saji
 sajim
@@ -8100,7 +8081,6 @@ salam
 saleh
 sali
 salim
-salin
 salo
 saloe
 salom
@@ -8843,6 +8823,7 @@ tempe
 tempek
 tempel
 tempik
+tempoyak
 tempur
 tempura
 temu
@@ -8881,7 +8862,6 @@ tesi
 tet
 tete
 tetek
-tetembung
 tetes
 teuing
 ti
@@ -9019,6 +8999,7 @@ tu
 tua
 tuak
 tubruk
+tubuh
 tugel
 tuh
 tuhan
@@ -9072,6 +9053,7 @@ tur
 tura
 turah
 turahe
+turai
 turi
 turu
 turuk
@@ -9176,7 +9158,6 @@ ukaa
 ukai
 ukak
 ukal
-ukala
 ukam
 ukan
 ukar
@@ -9604,6 +9585,7 @@ warek
 warga
 waris
 warisan
+warkop
 warna
 warok
 warsa
