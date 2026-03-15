@@ -3004,6 +3004,7 @@ haman
 hamba
 hambar
 hambawa
+hambok
 hambur
 hamel
 hami
@@ -4612,6 +4613,7 @@ kuwat
 kuwe
 kuwi
 kuwo
+kuya
 kyai
 la
 lab
