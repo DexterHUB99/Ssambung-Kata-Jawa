@@ -1225,6 +1225,7 @@ besok
 besuk
 besuki
 betah
+bete
 beti
 beto
 beton
@@ -3580,6 +3581,7 @@ indek
 indeng
 indik
 inding
+indomie
 indra
 indu
 induk
@@ -4231,6 +4233,7 @@ katuk
 katul
 katun
 katur
+katut
 kaula
 kawah
 kawak
@@ -4290,6 +4293,7 @@ keker
 keket
 keki
 kekil
+keko
 kekok
 kel
 kela
@@ -5719,6 +5723,7 @@ mulane
 mulang
 mule
 muleh
+mulek
 mules
 muli
 mulia
@@ -5737,6 +5742,7 @@ munafik
 muncul
 mundak
 mundhut
+munding
 mundur
 munek
 mung
@@ -8191,6 +8197,7 @@ rina
 rinci
 rindhik
 rindu
+rindui
 rine
 ring
 ringan
@@ -8900,6 +8907,7 @@ su
 sua
 suami
 suamii
+suar
 suara
 suaro
 suasu
@@ -9134,6 +9142,7 @@ tanpa
 tansah
 tante
 tao
+tap
 tapa
 tapak
 tape
@@ -9255,6 +9264,7 @@ terang
 teras
 teri
 terima
+terlihat
 terne
 terong
 terus
