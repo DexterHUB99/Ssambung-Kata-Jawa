@@ -5763,6 +5763,7 @@ nembok
 nembung
 neme
 nemen
+nemi
 nemok
 nempe
 nempel
