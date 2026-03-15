@@ -9038,6 +9038,7 @@ sedan
 sedang
 sedaya
 sedeng
+sedereng
 sedha
 sedho
 sedi
@@ -9535,6 +9536,7 @@ tabuh
 tabung
 tabungan
 tabur
+tae
 taek
 tah
 tahajud
