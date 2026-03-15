@@ -3255,6 +3255,7 @@ ihha
 ihi
 ihing
 ihka
+ihku
 ihla
 ihli
 ihlo
@@ -5669,6 +5670,7 @@ nduk
 nduwe
 ne
 nebake
+nebas
 neda
 nedah
 nedha
