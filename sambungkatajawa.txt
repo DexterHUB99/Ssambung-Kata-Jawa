@@ -6511,6 +6511,7 @@ ogak
 oge
 oger
 ogi
+ogil
 ogoh
 ogol
 ogor
@@ -8261,6 +8262,7 @@ sumbanga
 sumbangan
 sumber
 sumeh
+sumen
 sumenep
 sumerep
 sumi
