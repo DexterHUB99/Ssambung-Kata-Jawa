@@ -4633,6 +4633,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopek
 kopeng
 koper
 koperasi
