@@ -603,7 +603,6 @@ angot
 angs
 angsa
 angsal
-angsalipun
 angso
 angsul
 angsulan
@@ -5888,6 +5887,7 @@ nambah
 nambai
 nambal
 nambang
+nambani
 name
 nami
 namine
@@ -6450,6 +6450,7 @@ ngentu
 ngentuk
 ngentut
 ngenyek
+ngepang
 ngepel
 ngepet
 ngepot
@@ -8566,7 +8567,6 @@ sangat
 sangga
 sanggar
 sanggul
-sanggup
 sangit
 sangka
 sangking
@@ -10117,7 +10117,6 @@ watu
 wawa
 wawang
 wawasan
-wawe
 wayah
 wayahe
 wayan
