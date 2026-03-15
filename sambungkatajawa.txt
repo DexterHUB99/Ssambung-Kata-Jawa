@@ -6808,6 +6808,7 @@ opan
 opat
 opel
 open
+oper
 opera
 opes
 opet
