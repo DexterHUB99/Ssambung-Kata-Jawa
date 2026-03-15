@@ -1494,6 +1494,7 @@ cecek
 cecok
 cedak
 cedek
+ceget
 ceh
 cek
 cekak
