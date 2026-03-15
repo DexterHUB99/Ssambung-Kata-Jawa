@@ -887,6 +887,7 @@ atem
 atema
 aten
 atena
+atene
 atep
 ater
 ates
