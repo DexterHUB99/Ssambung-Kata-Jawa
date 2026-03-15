@@ -5475,6 +5475,7 @@ mer
 merah
 merem
 meri
+mersani
 mesake
 mese
 mesem
@@ -6405,6 +6406,7 @@ ngika
 ngikat
 ngiki
 ngiku
+ngila
 ngilang
 ngilekne
 ngiler
