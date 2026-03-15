@@ -603,7 +603,6 @@ angot
 angs
 angsa
 angsal
-angsalipun
 angso
 angsul
 angsulan
@@ -1034,6 +1033,7 @@ ayum
 ayun
 ayunan
 ayune
+ayup
 az
 ba
 bab
@@ -1699,6 +1699,7 @@ dancuk
 dandan
 dandang
 dang
+dangdut
 dangu
 dani
 danur
@@ -3442,7 +3443,6 @@ ieu
 if
 ig
 iga
-igah
 igak
 igo
 igus
@@ -4162,7 +4162,6 @@ kangge
 kanggo
 kangkung
 kangmas
-kani
 kanjeng
 kanjut
 kanthi
@@ -5890,6 +5889,7 @@ nambah
 nambai
 nambal
 nambang
+nambani
 name
 nami
 namine
@@ -6106,6 +6106,7 @@ netes
 netra
 ngaba
 ngabab
+ngabar
 ngabari
 ngabekti
 ngaben
@@ -6418,6 +6419,7 @@ ngemong
 ngemot
 ngempal
 ngemper
+ngempet
 ngempot
 ngemut
 ngen
@@ -6452,6 +6454,7 @@ ngentu
 ngentuk
 ngentut
 ngenyek
+ngepang
 ngepel
 ngepet
 ngepot
@@ -6718,6 +6721,7 @@ ngoyaki
 ngoyo
 ngrabi
 ngrasa
+ngrasakna
 ngrasani
 ngrawuh
 ngrayu
@@ -7422,7 +7426,6 @@ padusan
 paes
 pagar
 pager
-paget
 pagi
 pagus
 paguyupan
@@ -8569,7 +8572,6 @@ sangat
 sangga
 sanggar
 sanggul
-sanggup
 sangit
 sangka
 sangking
@@ -9212,10 +9214,10 @@ tapak
 tape
 tapi
 tapir
-tapis
 tapuk
 tar
 tara
+tarek
 tari
 tarik
 taro
@@ -10055,7 +10057,6 @@ wah
 wahana
 wahing
 wahyu
-waja
 wajah
 wajan
 wajar
@@ -10122,7 +10123,6 @@ watu
 wawa
 wawang
 wawasan
-wawe
 wayah
 wayahe
 wayan
@@ -10190,6 +10190,7 @@ weweling
 wi
 wibu
 wicak
+wicaksana
 widana
 widara
 widi
