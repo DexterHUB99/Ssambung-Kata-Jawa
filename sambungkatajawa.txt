@@ -1551,6 +1551,7 @@ corone
 corot
 cot
 cote
+cowek
 cowo
 cu
 cuci
@@ -8357,6 +8358,7 @@ selek
 selep
 selet
 selimut
+seling
 selir
 selo
 sem
