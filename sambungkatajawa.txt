@@ -1267,6 +1267,7 @@ biko
 bil
 bila
 bilah
+bilahi
 bili
 bilih
 bilu
@@ -4854,6 +4855,7 @@ kuwe
 kuwi
 kuwo
 kuya
+kuyo
 kyai
 la
 lab
@@ -6168,6 +6170,7 @@ ngalis
 ngalo
 ngalon
 ngalor
+ngalur
 ngalus
 ngam
 ngamal
