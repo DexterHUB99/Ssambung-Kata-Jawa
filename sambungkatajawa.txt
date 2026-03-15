@@ -2202,6 +2202,7 @@ ekali
 ekam
 ekan
 ekane
+ekap
 ekar
 ekas
 eke
@@ -9550,6 +9551,7 @@ tahlil
 tahlilan
 tahta
 tahu
+tahubulat
 tahun
 tai
 taii
@@ -9606,6 +9608,7 @@ tanduran
 tangan
 tangeh
 tangga
+tanggal
 tanggul
 tanggung
 tangi
