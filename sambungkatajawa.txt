@@ -2831,6 +2831,7 @@ gendhing
 gendhis
 gendong
 gendruwo
+gendung
 gendut
 gene
 genea
