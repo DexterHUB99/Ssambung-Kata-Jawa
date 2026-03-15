@@ -5063,6 +5063,7 @@ lapa
 lapak
 lapan
 lapang
+lapanga
 lapar
 lape
 lapi
