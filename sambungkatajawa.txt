@@ -3702,6 +3702,7 @@ irian
 irie
 irigasi
 irih
+irik
 irin
 iring
 iringan
@@ -6750,6 +6751,7 @@ ngul
 ngulah
 ngulai
 ngulang
+ngulangi
 nguleg
 ngulek
 ngulet
