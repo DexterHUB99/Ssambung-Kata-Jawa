@@ -10486,6 +10486,7 @@ waria
 waris
 warisan
 warna
+warno
 warok
 warsa
 warta
