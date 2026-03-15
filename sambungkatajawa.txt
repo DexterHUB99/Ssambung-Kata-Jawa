@@ -3336,6 +3336,7 @@ hesi
 hesti
 heta
 heti
+hewa
 hewe
 heya
 hi
@@ -5027,6 +5028,7 @@ lantun
 lantur
 laos
 lap
+lapa
 lapak
 lapan
 lapang
@@ -6246,6 +6248,7 @@ ngak
 ngakak
 ngakali
 ngakeh
+ngakir
 ngakon
 ngaku
 ngal
