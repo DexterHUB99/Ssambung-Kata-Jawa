@@ -7691,6 +7691,7 @@ paro
 parti
 paru
 paruh
+parut
 pas
 pasa
 pasah
@@ -10285,6 +10286,7 @@ wasi
 wasiat
 wasir
 wasira
+wasno
 wasuh
 watak
 wati
