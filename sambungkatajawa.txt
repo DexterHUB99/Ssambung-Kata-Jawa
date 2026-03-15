@@ -1945,6 +1945,7 @@ ehir
 ehis
 ehit
 eho
+ehob
 ehod
 ehok
 ehol
@@ -4756,6 +4757,7 @@ leak
 leba
 lebah
 lebu
+lecek
 lecet
 lee
 lega
@@ -5960,6 +5962,7 @@ ngasa
 ngasah
 ngasahi
 ngasai
+ngasak
 ngasal
 ngasalan
 ngasang
@@ -9056,6 +9059,7 @@ ubanan
 uber
 ubi
 ubii
+ubun
 ubur
 uc
 ucak
