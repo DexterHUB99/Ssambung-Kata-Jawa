@@ -8263,6 +8263,7 @@ rembet
 rembug
 rembuk
 rembukan
+rembul
 rembulan
 rembung
 remeh
@@ -8839,6 +8840,7 @@ senar
 sendal
 sendawa
 sendhang
+sendi
 sendok
 senen
 seneng
