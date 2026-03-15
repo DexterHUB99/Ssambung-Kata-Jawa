@@ -422,6 +422,7 @@ ambu
 ambune
 ambung
 ambunge
+ambungen
 ambyar
 ame
 ameh
@@ -8329,6 +8330,7 @@ resiko
 resing
 respati
 restu
+ret
 retak
 reti
 rewang
