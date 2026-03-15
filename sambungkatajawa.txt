@@ -1801,6 +1801,7 @@ diman
 dimana
 dimar
 dimas
+dimi
 dimna
 dimo
 dimul
@@ -3897,6 +3898,7 @@ jinak
 jinaka
 jingga
 jingkrak
+jingkrik
 jini
 jinjing
 jinjit
@@ -4054,6 +4056,7 @@ kalor
 kalung
 kam
 kama
+kamal
 kaman
 kamana
 kamar
@@ -4500,6 +4503,7 @@ kinan
 kinanthi
 kinanti
 kinasih
+kincir
 kini
 kinjeng
 kintal
@@ -4575,6 +4579,7 @@ kolah
 kolak
 kolam
 kolek
+koli
 koloh
 kolong
 kolot
@@ -5097,6 +5102,7 @@ lisung
 lit
 lita
 liwat
+liwe
 liwet
 liya
 liyane
@@ -5202,6 +5208,7 @@ luhan
 luhur
 luk
 luka
+luke
 luki
 luku
 lulang
@@ -5432,6 +5439,7 @@ mateni
 mati
 matin
 matio
+matu
 matur
 maturnuwun
 matursuwun
@@ -5557,6 +5565,7 @@ mio
 mir
 mira
 mirah
+mireng
 mirengake
 miri
 miring
@@ -7382,6 +7391,7 @@ pangling
 pani
 panik
 paningal
+panir
 panis
 panjaluk
 panjang
@@ -7396,7 +7406,6 @@ pantes
 panti
 pantun
 panun
-panur
 panut
 panutan
 panuwun
@@ -7829,6 +7838,7 @@ rah
 rahas
 rahasia
 rahayu
+rahma
 rahmat
 rahwana
 rai
@@ -8271,6 +8281,7 @@ rungka
 rungkad
 rungkut
 rungo
+rungono
 rungsing
 rungu
 runi
@@ -9440,6 +9451,7 @@ udharan
 udi
 udik
 udin
+udna
 udo
 udu
 udud
