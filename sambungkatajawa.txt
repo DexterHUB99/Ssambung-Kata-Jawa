@@ -1652,7 +1652,6 @@ dakar
 daki
 dakngerti
 dakon
-dakwah
 dalah
 dalam
 dalan
@@ -4617,6 +4616,7 @@ koneng
 kongkon
 koni
 kono
+konoo
 kontal
 konten
 kontol
@@ -8273,7 +8273,6 @@ ruk
 ruka
 ruki
 ruko
-ruku
 rukuh
 rukun
 rula
