@@ -797,6 +797,7 @@ asas
 asat
 ase
 asek
+asel
 asem
 aseng
 asep
