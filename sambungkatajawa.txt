@@ -1840,6 +1840,7 @@ didol
 didu
 diewe
 digawa
+digo
 dihan
 diimboh
 dijalan
@@ -2181,6 +2182,7 @@ ekur
 ekut
 el
 ela
+elag
 elah
 elai
 elak
@@ -3811,6 +3813,7 @@ isel
 isen
 iseng
 isep
+iser
 ises
 isi
 isian
@@ -4322,6 +4325,7 @@ kasu
 kasuh
 kasuk
 kasur
+kasus
 kasut
 kat
 kata
