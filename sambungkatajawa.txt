@@ -455,6 +455,7 @@ ampek
 ampel
 ampela
 amper
+amperan
 ampes
 ampil
 ampir
@@ -7657,6 +7658,7 @@ piagam
 piala
 pian
 piano
+piara
 piatu
 picak
 picek
@@ -8453,6 +8455,7 @@ saget
 sagu
 sah
 saha
+sahabat
 saham
 sahur
 sai
@@ -8493,7 +8496,6 @@ salahku
 salak
 salam
 saleh
-salem
 sali
 salim
 salip
@@ -8879,7 +8881,6 @@ soasu
 sob
 soba
 sobat
-sobek
 sodara
 sodok
 sodor
