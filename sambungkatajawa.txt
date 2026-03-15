@@ -3592,6 +3592,7 @@ ikulo
 ikur
 ikus
 ikut
+ikutan
 ikutoh
 il
 ila
