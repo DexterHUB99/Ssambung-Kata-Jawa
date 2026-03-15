@@ -385,7 +385,6 @@ amber
 ambi
 ambik
 ambil
-ambing
 amboi
 ambrol
 ambruk
@@ -9181,6 +9180,7 @@ uja
 ujan
 ujar
 ujaran
+ujare
 uji
 ujian
 ujuk
