@@ -104,12 +104,14 @@ ahan
 ahar
 ahas
 ahat
+ahav
 ahay
 ahe
 aheh
 ahek
 ahel
 ahem
+ahen
 aheng
 aher
 ahes
@@ -266,6 +268,7 @@ akon
 akoni
 akor
 akos
+akra
 akrab
 aksa
 aksaa
@@ -971,6 +974,7 @@ ayas
 ayat
 aye
 ayem
+ayeme
 ayep
 ayi
 aying
@@ -1055,6 +1059,7 @@ bangsa
 bangsat
 bani
 banjir
+bantal
 banter
 bantu
 bantul
@@ -1080,6 +1085,7 @@ bata
 batal
 bathuk
 bati
+batik
 bato
 batok
 batu
@@ -1194,6 +1200,7 @@ bibik
 bibir
 bibit
 bicu
+bid
 bidak
 bidan
 bidek
@@ -1295,6 +1302,7 @@ bubar
 bubrah
 bubuk
 bubur
+buda
 budak
 budal
 bude
@@ -1391,12 +1399,14 @@ cakra
 cakung
 cal
 cala
+calak
 calung
 cama
 camat
 cambah
 campur
 can
+cancut
 candi
 candra
 canggah
@@ -1406,6 +1416,7 @@ cangkir
 cangkul
 cantik
 canting
+cap
 caping
 cara
 carane
@@ -1543,6 +1554,7 @@ corone
 corot
 cot
 cote
+cowek
 cowo
 cu
 cuci
@@ -1559,6 +1571,7 @@ culu
 cum
 cuma
 cumi
+cumo
 cunduk
 cur
 curi
@@ -1680,6 +1693,7 @@ demit
 demo
 demok
 dempul
+den
 dendeng
 dene
 deneng
@@ -1722,6 +1736,7 @@ dikir
 dikit
 dikon
 dikongkon
+dikontol
 diku
 dil
 dila
@@ -2186,6 +2201,7 @@ enem
 enen
 eneng
 enggal
+enggan
 enggar
 enggeh
 enggih
@@ -2528,6 +2544,7 @@ gampang
 gampar
 gampil
 gamping
+gan
 gana
 gancet
 ganco
@@ -2583,6 +2600,7 @@ garian
 garik
 garing
 garis
+garisan
 garong
 garpu
 garu
@@ -2846,6 +2864,7 @@ golet
 goli
 golo
 golong
+golonga
 golongan
 gombal
 gombalan
@@ -2987,6 +3006,7 @@ guyur
 ha
 haa
 habib
+habibi
 habis
 hadap
 hadeh
@@ -3198,6 +3218,7 @@ hola
 holi
 holo
 homa
+homi
 homo
 hon
 hono
@@ -3277,6 +3298,7 @@ icu
 id
 ida
 idam
+idaman
 idan
 ide
 idem
@@ -3739,11 +3761,13 @@ jawaban
 jawah
 jawe
 jawi
+jawila
 jawir
 jawoh
 jawuh
 jaya
 je
+jeding
 jeglong
 jeh
 jejel
@@ -3771,6 +3795,7 @@ jero
 jeruk
 ji
 jidat
+jiga
 jigong
 jijih
 jijik
@@ -4007,6 +4032,7 @@ kapak
 kapal
 kapan
 kapas
+kape
 kapi
 kaping
 kaplok
@@ -4265,6 +4291,7 @@ kera
 kerah
 kerak
 keram
+kerama
 keramas
 kerang
 keranjingan
@@ -4547,6 +4574,7 @@ kudus
 kue
 kuen
 kui
+kuing
 kuio
 kuk
 kuka
@@ -4860,6 +4888,7 @@ leri
 les
 lesa
 lesehan
+lestari
 lesu
 lesung
 let
@@ -5066,6 +5095,7 @@ lulang
 lulu
 luluh
 lulur
+lum
 luma
 lumah
 lumajang
@@ -5400,6 +5430,7 @@ minat
 minggat
 minggir
 minggu
+mingkem
 mini
 minta
 minum
@@ -5849,6 +5880,7 @@ netek
 netel
 netes
 netra
+ngaba
 ngabab
 ngabari
 ngabekti
@@ -5950,6 +5982,7 @@ ngandani
 ngandap
 ngandi
 ngandok
+ngandong
 nganduk
 ngandung
 ngandut
@@ -5957,6 +5990,7 @@ ngang
 nganga
 ngangge
 nganggo
+nganggok
 nganggur
 ngangkang
 ngangluh
@@ -5978,6 +6012,7 @@ nganter
 nganthi
 nganti
 ngantien
+ngantik
 ngantor
 ngantri
 ngantuk
@@ -6037,6 +6072,7 @@ ngasem
 ngasep
 ngasi
 ngasih
+ngasihi
 ngaso
 ngasoh
 ngasor
@@ -6232,10 +6268,12 @@ nggawa
 nggawe
 ngge
 nggeh
+nggendong
 ngger
 nggi
 nggih
 nggilani
+nggiling
 nggo
 nggolek
 nggoleti
@@ -6279,6 +6317,7 @@ ngilu
 ngimam
 ngiman
 ngimbar
+ngimbu
 ngimbuh
 ngimi
 ngimpi
@@ -6401,6 +6440,7 @@ ngopo
 ngopoe
 ngopor
 ngopose
+ngor
 ngora
 ngore
 ngorek
@@ -6469,6 +6509,8 @@ ngulon
 ngulu
 nguluk
 ngulur
+ngum
+nguma
 ngumah
 ngumbah
 ngumbahi
@@ -6574,6 +6616,7 @@ nimbang
 nimbangi
 nimbul
 nimbun
+nimen
 nimo
 nimpal
 nin
@@ -6761,6 +6804,7 @@ nyali
 nyam
 nyaman
 nyambel
+nyambi
 nyamuk
 nyangu
 nyanyi
@@ -6770,6 +6814,7 @@ nyasar
 nyatu
 nyawa
 nyawang
+nyawi
 nyawiji
 nyawit
 nyebut
@@ -6918,6 +6963,7 @@ ombo
 omboh
 ome
 omel
+omelan
 omen
 omi
 omo
@@ -7401,6 +7447,7 @@ pindoe
 ping
 pinggih
 pinggir
+pingsan
 pinja
 pinta
 pinten
@@ -7526,6 +7573,7 @@ prei
 pria
 primbon
 pring
+prio
 pripun
 pu
 puan
@@ -7785,6 +7833,7 @@ redi
 rega
 regane
 reget
+regu
 rei
 rejeb
 rejo
@@ -7955,6 +8004,7 @@ roho
 roi
 rok
 roke
+roket
 roki
 roko
 rokok
@@ -8327,6 +8377,7 @@ selek
 selep
 selet
 selimut
+seling
 selir
 selo
 sem
@@ -8407,6 +8458,7 @@ sewu
 si
 sia
 sial
+siala
 sialan
 siap
 siapa
@@ -8935,6 +8987,7 @@ terus
 tesi
 tet
 tete
+teteg
 tetek
 tetes
 teuing
@@ -9108,6 +9161,7 @@ tumis
 tumit
 tumpah
 tumpak
+tumpeh
 tumpeng
 tumplek
 tumpuk
@@ -9217,6 +9271,7 @@ uho
 ui
 uing
 uja
+ujak
 ujan
 ujar
 ujaran
@@ -9407,6 +9462,7 @@ unjung
 unki
 uno
 unta
+untah
 untal
 untalen
 untara
@@ -9601,6 +9657,7 @@ uye
 uyuh
 uyuhmu
 uz
+vila
 visa
 voli
 wa
