@@ -1192,6 +1192,7 @@ bijor
 bika
 bikak
 biko
+biku
 bil
 bila
 bilah
@@ -6555,6 +6556,7 @@ niti
 nitih
 nitik
 nitip
+nitis
 niwa
 njagong
 njajal
