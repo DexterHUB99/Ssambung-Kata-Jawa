@@ -8626,6 +8626,7 @@ sandhang
 sandung
 sane
 sanes
+sang
 sangar
 sangat
 sangga
