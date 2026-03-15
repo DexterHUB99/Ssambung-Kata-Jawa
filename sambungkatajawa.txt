@@ -199,6 +199,7 @@ ajang
 ajar
 ajaran
 ajay
+aje
 ajeg
 ajek
 ajeng
@@ -4835,6 +4836,7 @@ laran
 larang
 laras
 lare
+laren
 lari
 laring
 laris
