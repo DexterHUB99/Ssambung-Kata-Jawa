@@ -4973,6 +4973,7 @@ landep
 landhep
 landi
 landung
+lane
 langganan
 langgar
 langgeng
@@ -6690,6 +6691,7 @@ ngobong
 ngobor
 ngobrol
 ngobroli
+ngocak
 ngoceh
 ngocok
 ngoe
