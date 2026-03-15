@@ -4942,6 +4942,7 @@ kuciwa
 kucur
 kuda
 kudaa
+kudaan
 kudet
 kudu
 kudus
@@ -9327,6 +9328,7 @@ sonya
 sop
 sopa
 sopan
+sopel
 sopi
 sopir
 sopo
@@ -10374,6 +10376,7 @@ using
 usir
 uska
 usko
+usli
 usma
 uso
 ust
