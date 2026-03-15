@@ -945,6 +945,7 @@ aulah
 aum
 auma
 auman
+aun
 aup
 aura
 aurip
@@ -1653,7 +1654,6 @@ dakar
 daki
 dakngerti
 dakon
-dakwah
 dalah
 dalam
 dalan
@@ -8276,7 +8276,6 @@ ruk
 ruka
 ruki
 ruko
-ruku
 rukuh
 rukun
 rula
