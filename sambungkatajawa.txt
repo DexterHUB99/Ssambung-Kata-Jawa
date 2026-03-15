@@ -1192,7 +1192,6 @@ bijor
 bika
 bikak
 biko
-biku
 bil
 bila
 bilah
@@ -5499,7 +5498,6 @@ mung
 mungah
 munggah
 mungkin
-mungkur
 muni
 munjul
 muntab
@@ -5517,7 +5515,6 @@ murung
 murup
 mus
 musa
-musan
 musi
 musibah
 musim
@@ -5851,7 +5848,6 @@ ngak
 ngakak
 ngakali
 ngakeh
-ngaki
 ngakon
 ngaku
 ngal
@@ -5891,7 +5887,6 @@ ngamok
 ngampel
 ngampil
 ngampun
-ngampung
 ngamuk
 ngan
 ngana
@@ -6288,7 +6283,6 @@ ngngombe
 ngni
 ngobah
 ngobat
-ngober
 ngobok
 ngobong
 ngobor
@@ -6561,7 +6555,6 @@ niti
 nitih
 nitik
 nitip
-nitis
 niwa
 njagong
 njajal
@@ -6738,7 +6731,6 @@ oalah
 ob
 oba
 obah
-obahing
 obat
 obek
 obeng
@@ -7577,11 +7569,9 @@ raisin
 raiso
 raja
 rajah
-rajam
 rajang
 rajar
 rajin
-raju
 rajuk
 rajut
 rak
