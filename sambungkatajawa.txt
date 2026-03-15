@@ -4718,6 +4718,7 @@ kuntul
 kunyuk
 kuo
 kup
+kupa
 kupas
 kupat
 kupeng
@@ -5609,6 +5610,7 @@ mosing
 mosok
 mot
 moto
+motong
 motor
 mpun
 mringis
