@@ -5194,6 +5194,7 @@ lurah
 lurik
 luru
 luruh
+lurung
 lurus
 lus
 lusa
@@ -7300,6 +7301,7 @@ pangajak
 pangan
 panganan
 pangapura
+pangarep
 pangarepan
 pangeran
 panggah
