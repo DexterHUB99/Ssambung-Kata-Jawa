@@ -6731,6 +6731,7 @@ oalah
 ob
 oba
 obah
+obahing
 obat
 obek
 obeng
@@ -7572,6 +7573,7 @@ rajah
 rajang
 rajar
 rajin
+raju
 rajuk
 rajut
 rak
