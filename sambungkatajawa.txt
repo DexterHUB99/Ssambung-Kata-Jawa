@@ -5168,6 +5168,7 @@ mimi
 mimis
 mimisan
 min
+mina
 minal
 minangka
 minat
@@ -5218,6 +5219,7 @@ mokal
 mokong
 mol
 mola
+molah
 molas
 mole
 moleh
@@ -7337,6 +7339,7 @@ rambute
 rame
 ramen
 rames
+rami
 ramo
 rampas
 ramping
