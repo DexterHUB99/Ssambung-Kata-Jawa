@@ -243,7 +243,6 @@ akan
 akang
 akap
 akar
-akare
 akas
 akasa
 akat
@@ -846,7 +845,6 @@ aset
 asi
 asia
 asie
-asig
 asih
 asik
 asil
@@ -2858,7 +2856,6 @@ genderuwo
 gendheng
 gendhing
 gendhis
-gendi
 gendong
 gendruwo
 gendung
@@ -4009,7 +4006,6 @@ jireh
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -4392,7 +4388,6 @@ kelekmu
 kelem
 kelengkeng
 kelep
-keler
 keles
 kelet
 keli
@@ -6186,7 +6181,6 @@ ngacem
 ngaceng
 ngacir
 ngaco
-ngacok
 ngacung
 ngada
 ngadang
@@ -6282,7 +6276,6 @@ ngancing
 ngandang
 ngandani
 ngandap
-ngandel
 ngandi
 ngandok
 ngandong
@@ -6717,7 +6710,6 @@ ngobroli
 ngocak
 ngoceh
 ngocok
-ngodol
 ngoe
 ngoh
 ngojek
@@ -6896,7 +6888,6 @@ ngurus
 ngurusi
 ngurut
 ngus
-ngusah
 ngusak
 ngusap
 nguser
@@ -7148,7 +7139,6 @@ nuwun
 nuwunsewu
 ny
 nya
-nyah
 nyai
 nyala
 nyali
@@ -8338,6 +8328,7 @@ ridho
 rie
 rien
 rih
+rihan
 rik
 rika
 rikala
@@ -9028,7 +9019,6 @@ solan
 solar
 solat
 sole
-solek
 soli
 solid
 solo
@@ -9936,7 +9926,6 @@ ungkit
 ungkur
 ungu
 uni
-uniko
 unjal
 unjang
 unjar
