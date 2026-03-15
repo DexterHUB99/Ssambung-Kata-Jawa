@@ -1060,6 +1060,7 @@ bakso
 baku
 bakul
 bal
+bala
 balak
 balek
 baleni
@@ -1296,6 +1297,7 @@ bola
 boleh
 bolo
 bolong
+bolos
 bolot
 bom
 bon
@@ -1832,6 +1834,7 @@ disit
 disu
 dit
 dita
+ditilep
 ditulung
 diwa
 dluwang
@@ -2077,6 +2080,7 @@ ekol
 ekoli
 ekon
 ekor
+ekoran
 ekos
 ekot
 eksi
@@ -5259,6 +5263,7 @@ mada
 madan
 madang
 madas
+madep
 madhang
 madi
 madiun
@@ -6968,7 +6973,6 @@ oalah
 ob
 oba
 obah
-obak
 obat
 obek
 obeng
@@ -7733,6 +7737,7 @@ puk
 puka
 puki
 pukul
+pul
 pula
 pulau
 pulen
@@ -10037,6 +10042,7 @@ wis
 wisa
 wisan
 wisata
+wisma
 wisuh
 wit
 witan
