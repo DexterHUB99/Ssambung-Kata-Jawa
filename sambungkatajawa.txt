@@ -5677,6 +5677,7 @@ nendang
 nene
 nenek
 nenen
+nenenen
 neng
 nengdi
 nenge
@@ -6573,6 +6574,7 @@ nusi
 nusul
 nut
 nuthuk
+nutuk
 nutup
 nutupi
 nutur
@@ -7054,6 +7056,7 @@ pasir
 pasrah
 pasu
 pasuruan
+patak
 patang
 patek
 paten
@@ -9389,6 +9392,7 @@ wajik
 wak
 wakil
 waktu
+waktune
 wakul
 wal
 wala
