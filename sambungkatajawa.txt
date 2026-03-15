@@ -1647,6 +1647,7 @@ dakar
 daki
 dakngerti
 dakon
+dakwah
 dalah
 dalam
 dalan
@@ -5738,6 +5739,7 @@ musoh
 mustahil
 mustaka
 musuh
+musuk
 mut
 muta
 mutah
@@ -8264,6 +8266,7 @@ ruk
 ruka
 ruki
 ruko
+ruku
 rukuh
 rukun
 rula
