@@ -6085,6 +6085,7 @@ ndalu
 ndang
 ndas
 ndasmu
+ndawa
 ndawuh
 ndek
 ndelok
@@ -7769,6 +7770,7 @@ pepek
 pepes
 per
 pera
+perak
 peran
 perang
 percaya
