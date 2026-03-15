@@ -3514,6 +3514,7 @@ ihyo
 ij
 ija
 ijab
+ijazah
 ijek
 ijen
 iji
@@ -8100,6 +8101,7 @@ rajah
 rajang
 rajar
 rajin
+raju
 rajuk
 rajut
 rak
