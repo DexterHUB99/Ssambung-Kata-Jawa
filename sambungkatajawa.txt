@@ -1098,6 +1098,7 @@ badeg
 badek
 badhe
 badokan
+bagen
 bagi
 bagong
 bagos
@@ -6747,6 +6748,7 @@ nggilani
 nggiling
 nggo
 nggolek
+nggoleki
 nggoleti
 nggon
 nggone
