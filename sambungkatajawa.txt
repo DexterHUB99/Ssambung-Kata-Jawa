@@ -6503,6 +6503,7 @@ nyai
 nyala
 nyali
 nyam
+nyaman
 nyambel
 nyamuk
 nyangu
@@ -9404,6 +9405,7 @@ wil
 wila
 wilan
 wilangan
+wili
 wilujeng
 win
 wina
