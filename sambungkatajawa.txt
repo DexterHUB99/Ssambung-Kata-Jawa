@@ -5891,6 +5891,7 @@ ngemut
 ngen
 ngena
 ngenah
+ngencang
 ngencuk
 ngendah
 ngendang
