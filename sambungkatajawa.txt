@@ -3173,6 +3173,7 @@ ihma
 iho
 ihra
 ihsan
+ihya
 ij
 ija
 ijab
@@ -7577,6 +7578,7 @@ rina
 rinci
 rindhik
 rindu
+rine
 ring
 ringan
 ringin
