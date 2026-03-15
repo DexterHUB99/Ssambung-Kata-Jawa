@@ -2954,6 +2954,7 @@ greget
 gresik
 griwa
 griya
+griyane
 grobak
 grogi
 grogoh
@@ -3867,6 +3868,7 @@ jimpit
 jin
 jina
 jinak
+jinaka
 jingga
 jingkrak
 jini
@@ -8434,6 +8436,7 @@ sawit
 sawo
 saya
 sayah
+sayak
 sayang
 sayo
 sayor
@@ -8532,6 +8535,7 @@ sengkir
 seni
 senin
 senok
+senon
 sentosa
 senuk
 seo
@@ -8570,6 +8574,7 @@ sesupe
 setan
 setrika
 setunggal
+sewa
 sewelas
 sewu
 si
