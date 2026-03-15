@@ -5275,6 +5275,7 @@ libur
 licik
 licin
 lidah
+lider
 lie
 lih
 liha
