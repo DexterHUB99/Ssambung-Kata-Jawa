@@ -2503,6 +2503,7 @@ gaman
 gambang
 gambar
 gambas
+gamber
 gambir
 gambleh
 gambreng
