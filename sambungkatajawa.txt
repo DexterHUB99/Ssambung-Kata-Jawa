@@ -4079,6 +4079,7 @@ karoan
 karpet
 karsa
 kartu
+karuh
 karung
 karya
 kas
