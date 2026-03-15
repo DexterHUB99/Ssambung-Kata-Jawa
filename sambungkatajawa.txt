@@ -1375,6 +1375,7 @@ cek
 cekak
 cekap
 cekel
+cekot
 celek
 celeng
 celengan
@@ -4328,6 +4329,7 @@ koper
 koperasi
 kopet
 kopi
+kopiah
 kopine
 koplak
 koplo
