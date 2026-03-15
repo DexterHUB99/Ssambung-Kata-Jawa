@@ -4839,6 +4839,7 @@ les
 lesa
 lesehan
 lesu
+lesung
 let
 letong
 lewat
@@ -5231,6 +5232,7 @@ mariki
 marine
 maring
 martabak
+maru
 maruk
 marus
 mas
@@ -8507,6 +8509,7 @@ sona
 sone
 songket
 songo
+songong
 sono
 sonten
 sop
