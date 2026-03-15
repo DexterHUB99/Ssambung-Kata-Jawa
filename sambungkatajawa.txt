@@ -93,6 +93,7 @@ agen
 ageng
 ager
 agi
+ago
 agor
 agu
 agung
@@ -2884,6 +2885,7 @@ gentos
 genuk
 geo
 geol
+gepak
 gepeng
 gepok
 geprek
@@ -6610,6 +6612,7 @@ ngibrit
 ngibu
 ngibul
 ngicipi
+ngicir
 ngidam
 ngidek
 ngider
@@ -8748,6 +8751,7 @@ sawiji
 sawijine
 sawit
 sawo
+sawung
 saya
 sayah
 sayak
