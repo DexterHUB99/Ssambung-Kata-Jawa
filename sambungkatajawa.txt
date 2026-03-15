@@ -5965,6 +5965,7 @@ ngayuk
 ngayun
 nge
 ngebo
+ngebul
 ngebus
 ngece
 ngecek
@@ -8591,6 +8592,7 @@ talak
 talas
 tale
 talenan
+tales
 tali
 talie
 talo
