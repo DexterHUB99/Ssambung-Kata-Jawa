@@ -210,6 +210,7 @@ ajining
 ajir
 ajis
 ajisaka
+ajo
 ajor
 ajrih
 aju
@@ -995,7 +996,6 @@ az
 ba
 bab
 baba
-babah
 babai
 babak
 babat
@@ -1653,7 +1653,6 @@ dasa
 dasar
 dasare
 dasi
-dasu
 daun
 dawa
 dawet
@@ -1692,7 +1691,6 @@ demak
 demam
 deman
 demek
-demen
 demi
 demit
 demo
@@ -1923,7 +1921,6 @@ eba
 ebe
 ebeg
 eben
-eberem
 ebew
 ebi
 eboh
@@ -3316,7 +3313,6 @@ ide
 idem
 idep
 ider
-idham
 idhu
 idi
 idih
@@ -3936,6 +3932,7 @@ kagem
 kaget
 kagungan
 kahanan
+kail
 kaila
 kain
 kaisa
@@ -3975,7 +3972,6 @@ kalian
 kalih
 kalim
 kalimat
-kalin
 kaliren
 kalis
 kalisa
@@ -4300,6 +4296,7 @@ kepiye
 keplak
 kepo
 kepriben
+kepriwe
 kepriye
 kepuh
 ker
@@ -4654,7 +4651,6 @@ kupat
 kupeng
 kuping
 kupluk
-kupu
 kur
 kura
 kuran
@@ -5178,7 +5174,6 @@ madiun
 mados
 madosi
 madu
-madung
 madura
 madya
 mae
@@ -5264,7 +5259,6 @@ mangkel
 mangkih
 mangkok
 mangku
-mangkuk
 mangsa
 mangsi
 mangu
@@ -5515,7 +5509,6 @@ mondok
 mone
 mong
 monggo
-mongo
 moni
 montor
 monyet
@@ -7596,6 +7589,7 @@ primbon
 pring
 prio
 pripun
+priwe
 pu
 puan
 puasa
@@ -7607,7 +7601,6 @@ puk
 puka
 puki
 pukul
-pul
 pula
 pulau
 pulen
@@ -8810,6 +8803,7 @@ syukur
 ta
 taato
 tabah
+tabak
 tabib
 tabir
 tabok
@@ -9655,7 +9649,6 @@ utowo
 utri
 utu
 utuh
-utura
 utus
 utusan
 utusane
