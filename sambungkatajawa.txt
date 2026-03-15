@@ -4919,6 +4919,7 @@ lakna
 lakon
 lakoni
 laku
+lalar
 lalat
 laler
 lali
@@ -10002,6 +10003,7 @@ usaha
 usahane
 usai
 usak
+usaku
 usan
 usap
 usar
