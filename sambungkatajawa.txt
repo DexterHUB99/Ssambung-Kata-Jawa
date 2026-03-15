@@ -1276,6 +1276,7 @@ bindeng
 bingung
 bini
 bintang
+bintit
 bio
 bir
 bira
@@ -3184,6 +3185,7 @@ hantam
 hantu
 hanung
 hanya
+hao
 hap
 hapa
 hape
