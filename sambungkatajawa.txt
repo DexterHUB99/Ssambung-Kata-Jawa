@@ -2157,6 +2157,7 @@ endasmu
 endek
 endel
 endem
+endep
 endhas
 endhog
 endhok
@@ -2230,6 +2231,7 @@ enyak
 enyong
 ep
 epa
+epak
 epal
 epam
 epan
@@ -4842,7 +4844,6 @@ leri
 les
 lesa
 lesehan
-lestari
 lesu
 lesung
 let
