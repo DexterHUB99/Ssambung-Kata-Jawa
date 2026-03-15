@@ -243,7 +243,6 @@ akan
 akang
 akap
 akar
-akare
 akas
 akasa
 akat
@@ -846,7 +845,6 @@ aset
 asi
 asia
 asie
-asig
 asih
 asik
 asil
@@ -1561,7 +1559,6 @@ cicak
 cici
 cicir
 cicit
-cidek
 ciduk
 cik
 cikal
@@ -1617,7 +1614,6 @@ coli
 colo
 colok
 colong
-combe
 combro
 como
 comot
@@ -2594,7 +2590,6 @@ gabut
 gaco
 gada
 gadah
-gadai
 gadang
 gadha
 gadhah
@@ -2861,7 +2856,6 @@ genderuwo
 gendheng
 gendhing
 gendhis
-gendi
 gendong
 gendruwo
 gendung
@@ -3249,7 +3243,6 @@ hari
 harian
 harimau
 harimu
-harine
 harjo
 harm
 harman
@@ -3455,6 +3448,7 @@ ibuk
 ic
 ica
 ical
+ican
 icip
 ico
 icu
@@ -3504,6 +3498,7 @@ iho
 ihra
 ihsan
 ihya
+ihyo
 ij
 ija
 ijab
@@ -3514,7 +3509,6 @@ ijik
 ijin
 ijo
 ijol
-ijolan
 ik
 ika
 ikaa
@@ -3996,7 +3990,6 @@ jin
 jina
 jinak
 jinaka
-jinawi
 jingga
 jingkrak
 jingkrik
@@ -4015,7 +4008,6 @@ jireh
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -4398,7 +4390,6 @@ kelekmu
 kelem
 kelengkeng
 kelep
-keler
 keles
 kelet
 keli
@@ -4698,7 +4689,6 @@ kola
 kolah
 kolak
 kolam
-koleh
 kolek
 koli
 koloh
@@ -5150,7 +5140,6 @@ li
 lia
 liane
 liar
-liaran
 libas
 libur
 licik
@@ -6194,7 +6183,6 @@ ngacem
 ngaceng
 ngacir
 ngaco
-ngacok
 ngacung
 ngada
 ngadang
@@ -6290,7 +6278,6 @@ ngancing
 ngandang
 ngandani
 ngandap
-ngandel
 ngandi
 ngandok
 ngandong
@@ -6725,7 +6712,6 @@ ngobroli
 ngocak
 ngoceh
 ngocok
-ngodol
 ngoe
 ngoh
 ngojek
@@ -6904,7 +6890,6 @@ ngurus
 ngurusi
 ngurut
 ngus
-ngusah
 ngusak
 ngusap
 nguser
@@ -6963,7 +6948,6 @@ nima
 nimah
 nimba
 nimbal
-nimbali
 nimbang
 nimbangi
 nimbul
@@ -7157,7 +7141,6 @@ nuwun
 nuwunsewu
 ny
 nya
-nyah
 nyai
 nyala
 nyali
@@ -7816,6 +7799,7 @@ pilem
 pili
 pilih
 pilihan
+pilis
 pilit
 pilo
 pilok
@@ -8038,7 +8022,6 @@ puwan
 puwen
 puwira
 puyeng
-puyi
 puyuh
 ra
 raa
@@ -8348,6 +8331,7 @@ ridho
 rie
 rien
 rih
+rihan
 rik
 rika
 rikala
@@ -9038,7 +9022,6 @@ solan
 solar
 solat
 sole
-solek
 soli
 solid
 solo
@@ -9248,7 +9231,6 @@ taato
 tabah
 tabak
 tabib
-tabik
 tabir
 tabok
 tabuh
@@ -9367,7 +9349,6 @@ tawa
 tawaf
 tawan
 tawar
-tawas
 tawi
 tawon
 tawur
@@ -9677,6 +9658,7 @@ tutuk
 tutup
 tutur
 tuturane
+tuturi
 tuwa
 tuwo
 tuwuh
@@ -9948,7 +9930,6 @@ ungkit
 ungkur
 ungu
 uni
-uniko
 unjal
 unjang
 unjar
