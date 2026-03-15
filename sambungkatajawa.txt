@@ -2701,6 +2701,7 @@ getir
 getok
 getuk
 getun
+gewa
 geyo
 gi
 gidal
@@ -4310,6 +4311,7 @@ kiwa
 kiye
 klambi
 klambine
+klawu
 klebus
 klemer
 klenger
@@ -9488,6 +9490,7 @@ weling
 welo
 wen
 weneh
+wengi
 weni
 weo
 wer
