@@ -195,7 +195,6 @@ air
 aira
 airo
 aisin
-aita
 aiya
 aiyo
 aj
@@ -751,7 +750,6 @@ ara
 arab
 arah
 arahan
-arai
 arak
 aram
 arami
@@ -845,6 +843,7 @@ aset
 asi
 asia
 asie
+asig
 asih
 asik
 asil
@@ -2476,7 +2475,6 @@ esek
 esem
 eseme
 eses
-eset
 esey
 esi
 esih
@@ -2856,6 +2854,7 @@ genderuwo
 gendheng
 gendhing
 gendhis
+gendi
 gendong
 gendruwo
 gendung
@@ -4159,7 +4158,6 @@ kambi
 kambil
 kambing
 kambuh
-kamera
 kami
 kamir
 kamis
@@ -4521,7 +4519,6 @@ kerono
 keroso
 kersa
 kersane
-kerta
 kertas
 keruh
 kerupuk
@@ -5129,7 +5126,6 @@ lestari
 lesu
 lesung
 let
-leto
 letong
 lewat
 li
@@ -5346,7 +5342,6 @@ lumajang
 lumaku
 luman
 lumbung
-lumpang
 lumping
 lumpuh
 lumrah
@@ -5770,7 +5765,6 @@ mos
 mosa
 mosi
 mosing
-mosoh
 mosok
 mot
 moto
@@ -6179,6 +6173,7 @@ ngacem
 ngaceng
 ngacir
 ngaco
+ngacok
 ngacung
 ngada
 ngadang
@@ -6708,6 +6703,7 @@ ngobroli
 ngocak
 ngoceh
 ngocok
+ngodol
 ngoe
 ngoh
 ngojek
@@ -6858,7 +6854,6 @@ nguning
 ngunjuk
 ngunta
 nguntal
-nguntung
 ngunu
 ngunung
 ngunut
@@ -6886,6 +6881,7 @@ ngurus
 ngurusi
 ngurut
 ngus
+ngusah
 ngusak
 ngusap
 nguser
@@ -8819,7 +8815,6 @@ sempit
 semprul
 semrawut
 semu
-semua
 semut
 sen
 senajan
@@ -9923,6 +9918,7 @@ ungkit
 ungkur
 ungu
 uni
+uniko
 unjal
 unjang
 unjar
@@ -10334,7 +10330,6 @@ wisa
 wisan
 wisata
 wisma
-wisnu
 wisuh
 wit
 witan
