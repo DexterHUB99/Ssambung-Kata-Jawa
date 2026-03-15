@@ -446,6 +446,7 @@ ananging
 ananti
 anas
 anay
+anca
 ancaman
 ancang
 ancas
@@ -6791,6 +6792,7 @@ padaran
 padas
 padasan
 padha
+padil
 pados
 padu
 paduka
@@ -9495,6 +9497,7 @@ yole
 yolo
 yom
 yoman
+yomi
 yon
 yona
 yonan
