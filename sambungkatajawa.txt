@@ -6072,6 +6072,7 @@ losah
 lose
 losi
 loso
+lot
 lote
 lotek
 loti
@@ -10037,6 +10038,7 @@ sayur
 sayuran
 se
 sea
+seba
 sebab
 sebah
 sebat
