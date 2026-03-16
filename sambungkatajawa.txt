@@ -2503,6 +2503,7 @@ elek
 elekan
 eleke
 elel
+elelek
 elem
 eleman
 elemen
