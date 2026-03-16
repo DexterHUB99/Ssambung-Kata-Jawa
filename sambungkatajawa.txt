@@ -2883,6 +2883,7 @@ gadai
 gadang
 gadha
 gadhah
+gadhing
 gading
 gado
 gadue
@@ -9644,7 +9645,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
