@@ -792,6 +792,7 @@ apin
 apip
 apit
 apo
+apok
 apol
 apolo
 apos
