@@ -3347,6 +3347,7 @@ gondok
 gondol
 gondrong
 gong
+gongso
 goni
 gonjing
 gontor
@@ -4059,6 +4060,7 @@ ingkang
 ingko
 ingkung
 ingo
+ingong
 ingsun
 ingu
 inguk
@@ -6697,6 +6699,7 @@ nayo
 ncok
 ndadak
 ndak
+ndalem
 ndalu
 ndang
 ndas
@@ -8058,6 +8061,7 @@ okot
 okul
 okum
 okur
+okura
 okut
 okute
 ol
@@ -8223,6 +8227,7 @@ orausah
 ore
 oreg
 orek
+orem
 oren
 oreng
 oreo
@@ -8737,7 +8742,6 @@ poe
 poho
 pohung
 poi
-poing
 pojok
 pojokan
 pok
@@ -10981,6 +10985,7 @@ undal
 undang
 undangan
 undar
+undhakan
 undhi
 undi
 undian
@@ -11557,6 +11562,7 @@ yana
 yang
 yani
 yano
+yanyo
 yao
 yap
 yapi
