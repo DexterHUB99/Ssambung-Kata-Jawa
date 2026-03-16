@@ -783,7 +783,6 @@ antah
 antam
 antar
 antara
-antaran
 antarane
 antare
 antareja
@@ -5381,6 +5380,7 @@ koki
 kokiso
 koko
 kokop
+kokowi
 kol
 kola
 kolah
@@ -7139,6 +7139,7 @@ ngalah
 ngalahi
 ngalam
 ngalami
+ngalamun
 ngalap
 ngalas
 ngale
@@ -7450,7 +7451,6 @@ ngena
 ngenah
 ngenak
 ngencang
-ngencer
 ngencuk
 ngendah
 ngendang
@@ -7512,7 +7512,6 @@ ngersa
 ngerteni
 ngerti
 ngertos
-ngeruh
 ngeruk
 nges
 ngesa
@@ -8032,7 +8031,6 @@ nitih
 nitik
 nitip
 niwa
-njaba
 njagong
 njajal
 njaluk
@@ -8334,6 +8332,7 @@ okerek
 okeri
 oket
 okin
+okit
 okok
 okoka
 okoke
@@ -9270,7 +9269,6 @@ rajungan
 rajut
 rak
 raka
-rakan
 raket
 raki
 rakit
@@ -9514,6 +9512,7 @@ rendeng
 rendi
 rene
 reng
+rengas
 renges
 renggang
 rengginang
@@ -11578,7 +11577,6 @@ usus
 ususa
 usut
 uswa
-uswe
 ut
 uta
 utaa
