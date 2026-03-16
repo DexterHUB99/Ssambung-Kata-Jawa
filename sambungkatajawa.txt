@@ -1717,6 +1717,7 @@ cocok
 cocot
 cocote
 cocotmu
+codan
 codet
 codot
 cok
@@ -8572,6 +8573,7 @@ ragi
 ragil
 ragu
 rah
+raha
 rahas
 rahasia
 rahaya
