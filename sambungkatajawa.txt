@@ -991,6 +991,7 @@ asune
 asup
 asupan
 asur
+asura
 asus
 asusi
 asut
@@ -9355,6 +9356,7 @@ rumbai
 rumbak
 rumbi
 rumi
+rumien
 rumit
 rumiyin
 rumongso
@@ -9904,6 +9906,7 @@ sisir
 siso
 sisu
 siswo
+sit
 sita
 siter
 sithik
@@ -11139,6 +11142,7 @@ uten
 uter
 uthi
 uti
+utih
 utik
 uting
 utir
