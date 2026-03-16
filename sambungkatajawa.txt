@@ -3747,7 +3747,6 @@ ilon
 ilu
 ilui
 iluk
-ilwa
 ilyas
 im
 ima
@@ -4150,7 +4149,6 @@ jeran
 jerih
 jero
 jeruk
-jet
 jeti
 ji
 jidat
@@ -4238,7 +4236,6 @@ joss
 jotos
 jual
 jualan
-jubah
 jujug
 jujur
 jule
@@ -9756,7 +9753,6 @@ taun
 tawa
 tawaf
 tawan
-tawang
 tawar
 tawas
 tawi
@@ -10151,7 +10147,6 @@ udutan
 ue
 uem
 uen
-uf
 ug
 uga
 ugal
