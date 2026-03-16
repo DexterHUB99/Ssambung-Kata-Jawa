@@ -2978,6 +2978,7 @@ etung
 etus
 ev
 eva
+eval
 evo
 ew
 ewa
@@ -10189,6 +10190,7 @@ sareng
 sarep
 sari
 sarimi
+saringan
 sarip
 sarna
 saro
