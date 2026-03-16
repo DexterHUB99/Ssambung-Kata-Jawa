@@ -1446,6 +1446,7 @@ beo
 berak
 beras
 berek
+beres
 beri
 berisik
 berkah
