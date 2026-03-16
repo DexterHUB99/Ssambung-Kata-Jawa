@@ -1065,6 +1065,7 @@ atara
 atas
 atasan
 atasi
+atat
 atatap
 atatas
 ataw
@@ -4849,6 +4850,7 @@ kapisan
 kaplok
 kapok
 kapor
+kaprah
 kapuk
 kapun
 kapur
