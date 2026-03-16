@@ -7908,6 +7908,7 @@ nguntung
 ngunu
 ngunung
 ngunut
+ngunyem
 ngup
 ngupah
 ngupai
@@ -10880,6 +10881,7 @@ ter
 terak
 terang
 teras
+terasi
 tere
 teri
 terima
