@@ -5157,6 +5157,7 @@ kukuh
 kukul
 kukur
 kukus
+kukusan
 kul
 kula
 kulaan
@@ -8106,6 +8107,7 @@ pan
 panah
 panai
 panas
+panca
 pancal
 pancen
 panci
