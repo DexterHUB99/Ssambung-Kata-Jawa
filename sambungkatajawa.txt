@@ -175,7 +175,6 @@ ahom
 ahon
 ahop
 ahor
-ahos
 ahoy
 ahu
 ahud
@@ -1406,7 +1405,6 @@ bidik
 bidun
 bidur
 bien
-bigan
 bigu
 bijak
 biji
@@ -9140,6 +9138,7 @@ riko
 riku
 ril
 rila
+rileks
 rilem
 rilis
 rilo
@@ -11072,7 +11071,6 @@ utekmu
 utel
 uten
 uter
-uthi
 uti
 utik
 uting
