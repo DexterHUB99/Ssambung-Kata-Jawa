@@ -2349,6 +2349,7 @@ elin
 eling
 elinga
 elingo
+elip
 elis
 elit
 elmu
@@ -9512,6 +9513,7 @@ sida
 sidang
 sidoarjo
 sie
+sien
 sigap
 sigar
 sigrak
