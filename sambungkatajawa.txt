@@ -5831,6 +5831,7 @@ lintah
 lintang
 lintangen
 lintas
+lintasan
 lintu
 lio
 lip
