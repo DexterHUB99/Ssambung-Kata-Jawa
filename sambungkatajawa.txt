@@ -265,7 +265,6 @@ aju
 ajudan
 ajur
 ajura
-ajuran
 ak
 aka
 akad
@@ -661,7 +660,6 @@ anggene
 anggep
 angger
 anggere
-angget
 anggit
 anggo
 anggok
@@ -5411,6 +5409,7 @@ krama
 kramas
 krambil
 kran
+krapyak
 kraton
 kresna
 krida
@@ -6739,7 +6738,6 @@ nampan
 nampani
 nampar
 nampil
-namping
 nampol
 namu
 namung
@@ -6860,6 +6858,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulur
 nduwe
 ne
 neb
@@ -11507,6 +11506,7 @@ uy
 uya
 uyah
 uye
+uyo
 uyuh
 uyuhmu
 uz
@@ -11543,6 +11543,7 @@ wajar
 wajib
 wajik
 wak
+waka
 wakil
 waktu
 waktune
