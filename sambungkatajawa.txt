@@ -399,7 +399,6 @@ alunan
 alur
 alus
 aluse
-alwa
 alwan
 am
 ama
@@ -1003,6 +1002,7 @@ atol
 atom
 atos
 atra
+atrap
 atri
 atu
 atuh
@@ -1831,7 +1831,6 @@ dasa
 dasar
 dasare
 dasi
-dat
 datu
 daun
 dawa
@@ -2693,7 +2692,6 @@ eyu
 eyup
 fafa
 faham
-faki
 fakir
 fakta
 famu
@@ -6837,6 +6835,7 @@ ngerandu
 ngerasani
 ngerek
 ngeres
+ngeresi
 ngeret
 ngeri
 ngerit
@@ -7210,7 +7209,6 @@ ngusir
 ngusung
 ngusungi
 ngut
-nguta
 ngutang
 ngutek
 ngutik
@@ -8364,6 +8362,7 @@ pur
 pura
 puri
 purna
+purnama
 puro
 purun
 purwa
@@ -8545,6 +8544,7 @@ raro
 ras
 rasa
 rasah
+rasahe
 rasak
 rasakan
 rasake
@@ -8589,7 +8589,6 @@ rawon
 rawuh
 raya
 rayap
-rayi
 rayo
 rayon
 rayu
@@ -10623,6 +10622,7 @@ wader
 wadha
 wadoh
 wadon
+wadonan
 waduh
 waduk
 wadul
@@ -10883,7 +10883,6 @@ yaelah
 yah
 yaho
 yai
-yaiya
 yak
 yaka
 yakan
