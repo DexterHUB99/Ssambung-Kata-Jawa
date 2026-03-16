@@ -5685,6 +5685,7 @@ loan
 lob
 loba
 lobang
+lober
 lobi
 lobok
 lodeh
@@ -7140,6 +7141,7 @@ ngewarnai
 ngewe
 ngewedang
 ngewei
+ngewek
 ngewelingi
 ngeweruhi
 ngewi
