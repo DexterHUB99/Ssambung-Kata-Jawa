@@ -4019,6 +4019,7 @@ iteo
 ites
 itik
 itil
+itilan
 ito
 itoe
 itoi
@@ -7276,6 +7277,7 @@ nimbangi
 nimbul
 nimbun
 nimen
+nimi
 nimo
 nimpal
 nimun
