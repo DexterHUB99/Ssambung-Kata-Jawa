@@ -4463,6 +4463,7 @@ istimewa
 istirahat
 istri
 isu
+isue
 isui
 isuk
 isun
@@ -8935,6 +8936,7 @@ pasi
 pasir
 pasrah
 pasu
+pasuh
 pasuruan
 pat
 patah
