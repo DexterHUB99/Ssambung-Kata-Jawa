@@ -51,6 +51,7 @@ adap
 adat
 ade
 adeg
+adegan
 adeh
 adek
 adeking
@@ -593,6 +594,7 @@ andang
 andani
 andap
 andar
+andara
 andaran
 andeg
 andel
@@ -2883,6 +2885,7 @@ gadai
 gadang
 gadha
 gadhah
+gadhing
 gading
 gado
 gadue
@@ -3682,6 +3685,7 @@ heya
 hi
 hias
 hidayah
+hidhup
 hidup
 hihihi
 hijab
@@ -4498,7 +4502,6 @@ jujur
 jule
 juli
 juluk
-jum
 jumat
 jumblah
 jumeneng
@@ -9645,7 +9648,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
@@ -9757,6 +9759,7 @@ sekel
 seket
 seko
 sekolah
+sekti
 sekul
 sel
 sela
