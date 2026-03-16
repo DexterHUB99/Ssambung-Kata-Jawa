@@ -514,6 +514,7 @@ ampek
 ampel
 ampela
 amper
+ampera
 amperan
 ampes
 ampi
@@ -674,6 +675,7 @@ angs
 angsa
 angsal
 angsalipun
+angsara
 angsle
 angso
 angsul
@@ -808,6 +810,7 @@ apel
 apem
 apes
 api
+apih
 apik
 apika
 apikan
@@ -1256,6 +1259,7 @@ bar
 barek
 bareng
 bariki
+barku
 baron
 barong
 barongan
@@ -1331,6 +1335,7 @@ bekal
 bekan
 bekas
 bekel
+bekne
 beko
 bel
 bela
@@ -3200,6 +3205,7 @@ gerot
 gerung
 gerus
 ges
+gesa
 gesang
 gesek
 geseng
@@ -4515,6 +4521,7 @@ kaka
 kakak
 kakaka
 kakang
+kake
 kakehan
 kakek
 kaki
@@ -4771,6 +4778,7 @@ kecel
 kecelek
 kecewa
 kecoa
+kecot
 kecut
 kedah
 kedanan
@@ -5602,6 +5610,7 @@ lemu
 lemut
 len
 lena
+lendra
 leng
 lengen
 lenggah
@@ -6645,6 +6654,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndlosor
 ndoro
 nduk
 nduwe
@@ -6685,6 +6695,7 @@ nel
 nela
 nelayan
 nelen
+neleng
 neler
 neli
 nelih
@@ -7049,6 +7060,7 @@ nge
 ngebaki
 ngebang
 ngebo
+ngebor
 ngebul
 ngebus
 ngece
@@ -8072,6 +8084,7 @@ ongkose
 ongol
 online
 ono
+onoa
 onoe
 onone
 onoo
@@ -9004,6 +9017,7 @@ raut
 rawa
 rawal
 rawan
+rawang
 rawat
 rawe
 rawi
@@ -10207,6 +10221,7 @@ tandhuk
 tanduk
 tandur
 tanduran
+tandurane
 tangan
 tangeh
 tangga
@@ -10703,6 +10718,7 @@ ujaran
 uji
 ujia
 ujian
+ujub
 ujuk
 ujul
 ujun
