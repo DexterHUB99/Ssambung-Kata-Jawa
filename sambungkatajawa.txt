@@ -599,6 +599,7 @@ andel
 anderan
 andha
 andhaan
+andhana
 andhap
 andheng
 andhikane
@@ -9846,6 +9847,7 @@ sesek
 sesok
 sesuk
 sesupe
+set
 setam
 setan
 setaun
