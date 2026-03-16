@@ -9315,6 +9315,7 @@ salak
 salam
 saleh
 saleng
+salep
 sali
 salim
 salin
@@ -10832,6 +10833,7 @@ uratan
 ure
 urek
 uren
+ures
 uret
 uri
 urih
