@@ -3998,6 +3998,7 @@ irana
 irang
 iras
 irat
+irawa
 iren
 ireng
 irenge
@@ -4581,6 +4582,7 @@ kasah
 kasak
 kasam
 kasang
+kasap
 kasar
 kasat
 kasep
