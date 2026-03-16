@@ -26,6 +26,7 @@ abrit
 abu
 abuh
 abul
+ac
 acak
 acan
 ace
@@ -33,6 +34,7 @@ aci
 acor
 acu
 acuh
+acung
 ad
 ada
 adah
@@ -9139,6 +9141,7 @@ saestu
 sage
 saged
 saget
+sagon
 sagu
 sah
 saha
