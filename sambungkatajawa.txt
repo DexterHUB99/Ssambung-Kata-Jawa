@@ -6816,6 +6816,7 @@ ngarap
 ngarasa
 ngare
 ngarek
+ngareni
 ngarep
 ngarepi
 ngaret
