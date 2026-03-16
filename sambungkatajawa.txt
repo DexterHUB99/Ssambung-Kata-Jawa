@@ -196,6 +196,7 @@ aila
 aile
 aili
 ailing
+ailo
 aima
 aimi
 aimu
@@ -3461,6 +3462,7 @@ hasrat
 hasri
 hasta
 hasut
+hasya
 hate
 hati
 hatiku
