@@ -483,7 +483,6 @@ amor
 amoro
 amp
 ampa
-ampah
 ampal
 ampang
 ampar
@@ -698,7 +697,6 @@ ano
 anoa
 anoe
 anok
-anol
 anom
 anoman
 anon
@@ -1280,6 +1278,7 @@ bekan
 bekas
 bekel
 beko
+bekot
 bel
 bela
 belah
@@ -1650,6 +1649,7 @@ cewe
 cewek
 ci
 ciba
+ciblek
 cica
 cicak
 cici
@@ -3221,6 +3221,7 @@ griwa
 griya
 griyane
 grobak
+groboh
 grogi
 grogoh
 grogot
@@ -4180,6 +4181,7 @@ jer
 jera
 jeram
 jeran
+jere
 jerih
 jero
 jeruk
@@ -6237,7 +6239,6 @@ naku
 nakula
 nal
 nala
-nalah
 nalak
 nalang
 nalangi
