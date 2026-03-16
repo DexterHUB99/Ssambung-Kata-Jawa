@@ -3040,6 +3040,7 @@ gaduh
 gadung
 gadungan
 gae
+gaene
 gagah
 gagak
 gagal
@@ -3790,6 +3791,7 @@ hasile
 hasilo
 hasna
 hasrat
+hasratne
 hasri
 hasta
 hasut
@@ -6606,6 +6608,7 @@ mina
 minal
 minangka
 minat
+minate
 minggat
 minggir
 minggu
