@@ -1337,7 +1337,6 @@ begal
 begja
 bego
 beh
-beha
 behi
 bei
 beja
@@ -4579,7 +4578,6 @@ kalahan
 kalai
 kalam
 kalang
-kalangkung
 kalap
 kalapa
 kalawan
@@ -7044,7 +7042,6 @@ ngaru
 ngaruh
 ngaruk
 ngarung
-ngarus
 ngas
 ngasa
 ngasah
@@ -8375,7 +8372,6 @@ palung
 pamahan
 pamali
 paman
-pamer
 pami
 pamil
 pamit
@@ -8746,6 +8742,7 @@ poe
 poho
 pohung
 poi
+poing
 pojok
 pojokan
 pok
@@ -10940,6 +10937,7 @@ umat
 umbah
 umbahan
 umbar
+umbas
 umbel
 umbi
 umbu
