@@ -196,7 +196,6 @@ aila
 aile
 aili
 ailing
-ailo
 aima
 aimi
 aimu
@@ -327,7 +326,6 @@ akune
 akup
 akur
 akuran
-akure
 akus
 akut
 akute
@@ -338,7 +336,6 @@ alak
 alal
 alam
 alama
-alame
 alami
 alan
 alang
@@ -804,7 +801,6 @@ apusa
 apuse
 apusi
 apuwo
-aqiqah
 ar
 ara
 arab
@@ -1828,7 +1824,6 @@ dam
 dama
 damai
 damar
-damba
 damel
 damen
 dami
@@ -2973,7 +2968,6 @@ gebuki
 gedag
 gedang
 gede
-gedean
 gedeg
 gedek
 gedhang
@@ -3228,7 +3222,6 @@ gora
 gore
 goreng
 gorengan
-gorenge
 gori
 goro
 goroh
@@ -3427,7 +3420,6 @@ hantam
 hantu
 hanung
 hanya
-hao
 hap
 hapa
 hape
@@ -3472,7 +3464,6 @@ hasrat
 hasri
 hasta
 hasut
-hasya
 hate
 hati
 hatiku
@@ -3661,7 +3652,6 @@ ibadah
 ibak
 ibarat
 iber
-iblis
 ibu
 ibuk
 ic
@@ -4412,7 +4402,6 @@ kalen
 kaleng
 kaler
 kali
-kalia
 kalian
 kalih
 kalim
@@ -4985,7 +4974,6 @@ kodok
 koe
 koee
 koen
-koene
 koh
 kok
 koka
@@ -5318,7 +5306,6 @@ langganan
 langgar
 langgeng
 langit
-langka
 langkah
 langkap
 langkung
@@ -5612,7 +5599,6 @@ loman
 lomba
 lombo
 lombok
-lomboke
 lomi
 lomo
 lomot
@@ -5623,7 +5609,6 @@ lonceng
 londho
 londok
 lone
-longan
 longgar
 longgo
 longgor
@@ -5894,7 +5879,6 @@ mari
 mariki
 marine
 maring
-marmut
 martabak
 maru
 maruk
@@ -6002,11 +5986,9 @@ menyan
 menyang
 meong
 mepe
-mepet
 mer
 merah
 merem
-mergo
 meri
 merpati
 mersani
@@ -6092,7 +6074,6 @@ mlumah
 mmantu
 mmi
 mmika
-mmundur
 mo
 mobil
 mobilan
@@ -6561,7 +6542,6 @@ nes
 nesa
 nesi
 nesu
-nesune
 net
 nete
 neteh
@@ -6657,6 +6637,7 @@ ngalur
 ngalus
 ngam
 ngamal
+ngamana
 ngamar
 ngamba
 ngambang
@@ -7343,7 +7324,6 @@ ngusung
 ngusungi
 ngut
 ngutang
-ngutar
 ngutek
 ngutik
 ngutil
@@ -7596,7 +7576,6 @@ nutup
 nutupi
 nutur
 nuturi
-nuwek
 nuwun
 nuwunsewu
 ny
@@ -8211,7 +8190,6 @@ penak
 pendek
 pendem
 pendopo
-pene
 pengen
 penggalihe
 peni
@@ -8476,7 +8454,6 @@ puguh
 puh
 pui
 puja
-puju
 puk
 puka
 puki
@@ -8922,7 +8899,6 @@ riri
 ris
 risa
 risak
-risang
 risi
 risih
 riska
@@ -9120,7 +9096,6 @@ sadulur
 sae
 saestu
 sage
-saged
 saget
 sagu
 sah
@@ -9172,7 +9147,6 @@ salim
 salin
 salip
 salisa
-saliwat
 salo
 saloe
 salom
@@ -9308,7 +9282,6 @@ sawet
 sawi
 sawiji
 sawijine
-sawise
 sawit
 sawo
 saya
@@ -9412,7 +9385,6 @@ senajan
 senang
 senar
 sendal
-sendang
 sendawa
 sendhang
 sendi
@@ -9466,7 +9438,6 @@ sesuk
 sesupe
 setam
 setan
-setaun
 setrika
 setunggal
 sewa
@@ -9948,6 +9919,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatan
 tatas
 tati
 tatik
@@ -10009,7 +9981,6 @@ tembari
 tembe
 tembel
 tembok
-tembu
 tembung
 teme
 temen
@@ -10198,7 +10169,6 @@ top
 topa
 topeng
 topi
-topine
 topo
 tor
 tora
@@ -10245,7 +10215,6 @@ tulis
 tulisan
 tulung
 tulunge
-tulungi
 tulus
 tum
 tuma
@@ -10430,7 +10399,6 @@ ukna
 uko
 ukok
 ukol
-ukom
 ukon
 ukop
 ukra
