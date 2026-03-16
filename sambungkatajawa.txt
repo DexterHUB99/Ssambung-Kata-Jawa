@@ -1909,6 +1909,7 @@ comot
 condong
 congok
 congor
+congore
 conto
 contoh
 contohe
@@ -2905,6 +2906,7 @@ esey
 esi
 esih
 esik
+esim
 esin
 esir
 eso
@@ -10988,6 +10990,7 @@ tenan
 tenanan
 tenane
 tenang
+tene
 tenen
 teng
 tengah
