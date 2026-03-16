@@ -801,6 +801,7 @@ apusa
 apuse
 apusi
 apuwo
+aqiqah
 ar
 ara
 arab
@@ -3221,6 +3222,7 @@ gora
 gore
 goreng
 gorengan
+gorenge
 gori
 goro
 goroh
@@ -10179,6 +10181,7 @@ top
 topa
 topeng
 topi
+topine
 topo
 tor
 tora
