@@ -3600,7 +3600,6 @@ huda
 hudan
 hujan
 huk
-huka
 hukum
 hukuman
 hukume
@@ -6323,6 +6322,7 @@ nanang
 nanas
 nandang
 nandhang
+nandhur
 nanduk
 nandur
 nanem
@@ -8250,7 +8250,6 @@ pilem
 pili
 pilih
 pilihan
-pilir
 pilis
 pilit
 pilo
