@@ -868,6 +868,7 @@ apus
 apusa
 apuse
 apusi
+aput
 apuwo
 aqiqah
 ar
@@ -4857,6 +4858,7 @@ karimun
 karipa
 karipan
 karipen
+karit
 karma
 karna
 karo
