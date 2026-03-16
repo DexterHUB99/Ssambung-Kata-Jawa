@@ -2488,7 +2488,6 @@ eje
 ejek
 eji
 ejo
-ejuh
 ek
 eka
 ekaan
@@ -3514,6 +3513,7 @@ golekan
 goleki
 golekno
 goler
+goleran
 golet
 goli
 golo
@@ -4370,6 +4370,7 @@ irig
 irigasi
 irih
 irik
+irim
 irin
 iring
 iringan
@@ -4590,6 +4591,7 @@ jarene
 jari
 jarik
 jaring
+jarum
 jas
 jasa
 jatah
@@ -4762,6 +4764,7 @@ jus
 juta
 ka
 kabar
+kabare
 kabeh
 kabel
 kabul
@@ -6369,6 +6372,7 @@ man
 mana
 manah
 manak
+manas
 manasi
 mancal
 mancing
@@ -6820,7 +6824,6 @@ murtad
 murub
 murung
 murup
-murupen
 mus
 musa
 muser
@@ -7267,7 +7270,6 @@ ngalahi
 ngalam
 ngalami
 ngalamun
-ngalang
 ngalap
 ngalas
 ngale
@@ -7633,6 +7635,7 @@ ngerandu
 ngerap
 ngerasani
 ngerek
+ngerem
 ngerenek
 ngeres
 ngeresi
@@ -8881,7 +8884,6 @@ panti
 pantun
 panuh
 panun
-panuntun
 panut
 panutan
 panuwun
@@ -9468,6 +9470,7 @@ ramene
 rames
 rami
 ramo
+rampa
 rampas
 ramping
 rampok
@@ -9874,7 +9877,6 @@ rori
 roro
 ros
 rosa
-rose
 rosi
 roso
 rotan
@@ -10273,7 +10275,6 @@ seket
 seko
 sekolah
 sekti
-sektoh
 sekul
 sel
 sela
@@ -10882,6 +10883,7 @@ tanjung
 tanpa
 tansah
 tante
+tanya
 tao
 tap
 tapa
