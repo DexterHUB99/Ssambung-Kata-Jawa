@@ -5773,6 +5773,7 @@ lulang
 lulu
 luluh
 lulur
+luluran
 lum
 luma
 lumah
@@ -8057,6 +8058,7 @@ osit
 osoh
 osok
 osor
+osut
 ot
 otak
 otakmu
