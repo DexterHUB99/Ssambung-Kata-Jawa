@@ -231,6 +231,7 @@ aja
 ajai
 ajak
 ajal
+ajam
 ajane
 ajang
 ajar
@@ -740,6 +741,7 @@ anjurane
 ano
 anoa
 anoe
+anoi
 anok
 anol
 anom
@@ -1454,7 +1456,6 @@ bilahi
 bilara
 bili
 bilih
-bilo
 bilu
 bima
 bimo
@@ -2034,6 +2035,7 @@ dialah
 diancok
 diangsang
 diarani
+diarep
 dibabi
 dibawa
 dibo
@@ -2148,7 +2150,6 @@ do
 doa
 dobleh
 dobol
-dodi
 dodo
 dodok
 dodol
@@ -2248,7 +2249,6 @@ dungo
 dungu
 dupa
 dupak
-dupel
 dupo
 dur
 dura
@@ -2348,12 +2348,14 @@ ehit
 eho
 ehob
 ehod
+ehoh
 ehok
 ehol
 ehon
 ehop
 ehor
 ehos
+ehot
 ehoy
 ehu
 ehuh
@@ -2703,6 +2705,7 @@ epur
 epus
 er
 era
+eraa
 erah
 erai
 erak
@@ -2776,6 +2779,7 @@ esin
 esir
 eso
 esoe
+esoh
 esok
 esol
 eson
@@ -2859,7 +2863,6 @@ eyang
 eye
 eyek
 eyo
-eyok
 eyos
 eyu
 eyup
@@ -3252,6 +3255,7 @@ geseng
 geser
 gesi
 gesit
+get
 gething
 gethok
 gethuk
@@ -3312,7 +3316,6 @@ giring
 giris
 giru
 gisa
-gisik
 gita
 gitar
 githok
@@ -4520,7 +4523,6 @@ jujur
 jule
 juli
 juluk
-jum
 jumat
 jumblah
 jumeneng
@@ -6405,7 +6407,6 @@ mongo
 moni
 montor
 monyet
-monyong
 mop
 mopi
 mor
@@ -8071,6 +8072,7 @@ okari
 okaro
 okas
 okasa
+okasan
 oke
 okea
 okee
@@ -8161,6 +8163,7 @@ ombian
 ombo
 omboh
 ombong
+ombor
 ome
 omel
 omelan
@@ -8841,7 +8844,6 @@ pos
 pose
 posen
 posi
-posing
 pot
 potong
 powa
@@ -9228,7 +9230,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
@@ -9536,7 +9537,6 @@ sad
 sada
 sadar
 sade
-sadewa
 sadina
 sadis
 sadulur
@@ -9622,7 +9622,6 @@ samben
 sambet
 sambi
 sambil
-sambo
 sambung
 sambut
 sami
@@ -9685,7 +9684,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
@@ -9694,7 +9692,6 @@ sapo
 sapu
 sapura
 saput
-saputra
 sar
 sara
 saran
@@ -9727,7 +9724,6 @@ sata
 sate
 sati
 satitik
-satria
 satru
 satu
 satunggal
@@ -10902,6 +10898,7 @@ ukere
 ukes
 uket
 uki
+ukin
 uking
 ukir
 ukira
@@ -11731,6 +11728,7 @@ yuni
 yur
 yura
 yuri
+yuro
 yus
 yusa
 yusi
