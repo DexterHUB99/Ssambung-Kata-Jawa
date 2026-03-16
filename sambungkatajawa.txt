@@ -1884,7 +1884,6 @@ cuka
 cuki
 cukin
 cukur
-culai
 culik
 culu
 cum
@@ -3098,6 +3097,7 @@ garik
 garing
 garis
 garisan
+garit
 garong
 garpu
 garu
@@ -5180,7 +5180,6 @@ ketel
 ketemu
 keter
 kethek
-keti
 ketiban
 ketingal
 ketir
