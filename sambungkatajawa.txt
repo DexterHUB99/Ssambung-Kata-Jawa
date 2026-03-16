@@ -44,6 +44,7 @@ ad
 ada
 adah
 adai
+adak
 adal
 adala
 adam
@@ -447,6 +448,7 @@ amah
 amai
 amak
 amal
+amala
 amalan
 amalane
 amam
@@ -2383,7 +2385,6 @@ ede
 edi
 edit
 edo
-edok
 edul
 edus
 eeh
@@ -4327,7 +4328,6 @@ iru
 irub
 irue
 irug
-iruk
 irum
 irung
 irunge
