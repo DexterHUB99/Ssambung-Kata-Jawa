@@ -7783,6 +7783,7 @@ ngintip
 nginu
 nginum
 ngipas
+ngir
 ngira
 ngiri
 ngirim
@@ -12055,6 +12056,7 @@ wilujeng
 win
 wina
 windu
+wine
 wingi
 wingking
 wingko
