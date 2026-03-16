@@ -4163,6 +4163,7 @@ ipin
 iping
 ipit
 ipki
+ipna
 ipo
 ipoe
 ipone
