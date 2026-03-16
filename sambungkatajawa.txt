@@ -109,6 +109,7 @@ ahab
 ahad
 ahada
 ahadi
+ahag
 ahah
 ahak
 ahal
@@ -4389,6 +4390,7 @@ kapal
 kapan
 kapas
 kape
+kapen
 kapi
 kapik
 kaping
