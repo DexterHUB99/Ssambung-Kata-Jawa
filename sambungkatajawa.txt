@@ -9462,7 +9462,6 @@ ramene
 rames
 rami
 ramo
-rampa
 rampas
 ramping
 rampok
@@ -11869,6 +11868,7 @@ wajib
 wajik
 wak
 wakil
+wakmu
 waktu
 waktune
 waku
