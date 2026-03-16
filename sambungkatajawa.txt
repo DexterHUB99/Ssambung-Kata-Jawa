@@ -4699,6 +4699,7 @@ kafir
 kagem
 kaget
 kagungan
+kagus
 kahanan
 kail
 kaila
@@ -7672,6 +7673,7 @@ nglantur
 nglek
 ngliwet
 nglon
+nglor
 ngluput
 ngluwehi
 ngluwih
