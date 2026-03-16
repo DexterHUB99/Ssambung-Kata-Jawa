@@ -695,7 +695,6 @@ anjog
 anjok
 anjrit
 anjuk
-anjun
 anjung
 anjungan
 anjur
@@ -1305,7 +1304,6 @@ belu
 beluk
 belut
 bem
-beme
 ben
 bena
 benang
@@ -1374,7 +1372,6 @@ bijor
 bik
 bika
 bikak
-bikin
 biko
 bil
 bila
@@ -1710,7 +1707,6 @@ cobek
 coc
 coco
 cocok
-cocor
 cocot
 cocote
 cocotmu
@@ -1812,7 +1808,6 @@ dakngerti
 dakon
 dakwah
 dal
-dala
 dalah
 dalam
 dalan
@@ -2026,7 +2021,6 @@ dipun
 dir
 diri
 dirum
-dis
 disa
 disan
 disana
@@ -2047,7 +2041,6 @@ dluwang
 do
 doa
 dobol
-dodi
 dodo
 dodok
 dodol
@@ -2421,7 +2414,6 @@ empet
 empik
 emping
 empo
-empol
 emprit
 empu
 empuk
@@ -2877,7 +2869,6 @@ ganjaran
 ganjel
 ganjil
 gano
-ganong
 ganteng
 ganthi
 ganti
@@ -3573,7 +3564,6 @@ hoha
 hohi
 hoho
 hoi
-hoka
 hoki
 hoko
 hola
@@ -3847,7 +3837,6 @@ impian
 impil
 impit
 impor
-impun
 imuh
 imut
 in
@@ -4029,7 +4018,6 @@ isit
 isita
 iska
 iski
-isku
 isla
 islam
 islami
@@ -5285,7 +5273,6 @@ lamuna
 lamunan
 lan
 lanang
-lanangan
 lanange
 lancang
 lancar
@@ -5326,7 +5313,6 @@ lapak
 lapan
 lapang
 lapanga
-lapangan
 lapar
 lape
 lapi
@@ -5983,7 +5969,6 @@ meong
 mepe
 mer
 merah
-merana
 merem
 meri
 merpati
@@ -6202,7 +6187,6 @@ munjul
 munjung
 muntab
 muntah
-muntu
 munyuk
 mupi
 mur
@@ -6619,7 +6603,6 @@ ngalas
 ngale
 ngaleh
 ngalem
-ngaleng
 ngaler
 ngali
 ngalih
@@ -6815,7 +6798,6 @@ ngawur
 ngawut
 ngayah
 ngayal
-ngayomi
 ngayu
 ngayub
 ngayuh
@@ -6876,7 +6858,6 @@ ngeloni
 ngelor
 ngelu
 ngeluh
-ngelus
 ngeman
 ngemas
 ngembang
@@ -7008,7 +6989,6 @@ nggone
 nggoreng
 nggowo
 nggula
-ngguling
 ngguyu
 ngguyue
 ngibadah
@@ -7051,7 +7031,6 @@ ngimi
 ngimpi
 ngin
 ngina
-nginap
 nginceng
 ngincer
 nginep
@@ -7075,7 +7054,6 @@ ngiring
 ngiris
 ngirit
 ngirup
-ngirus
 ngis
 ngisak
 ngisan
@@ -8342,7 +8320,6 @@ pitek
 piten
 piter
 pitik
-pito
 piton
 pitrah
 pitu
@@ -8449,7 +8426,6 @@ pue
 puguh
 puh
 pui
-puing
 puja
 puk
 puka
@@ -9430,7 +9406,6 @@ sesek
 sesok
 sesuk
 sesupe
-seta
 setam
 setan
 setrika
@@ -9493,7 +9468,6 @@ sina
 sinau
 sinden
 sindu
-sindur
 sinen
 sing
 singa
