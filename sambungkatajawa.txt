@@ -7584,6 +7584,7 @@ nirwana
 nis
 nisa
 nisan
+niscaya
 nisi
 nising
 nista
@@ -9787,6 +9788,7 @@ soasu
 sob
 soba
 sobat
+soblok
 sodara
 sodok
 sodor
