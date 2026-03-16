@@ -3656,6 +3656,7 @@ hoi
 hoki
 hoko
 hola
+hole
 holi
 holo
 homa
@@ -10632,6 +10633,7 @@ uking
 ukir
 ukira
 ukiran
+ukiro
 ukit
 ukka
 ukma
