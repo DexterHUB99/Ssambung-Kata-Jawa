@@ -3256,6 +3256,7 @@ gilak
 gilane
 gilang
 gilani
+gilap
 gili
 gilik
 giling
@@ -5764,6 +5765,7 @@ lita
 liwat
 liwe
 liwet
+liwo
 liya
 liyane
 liyo
