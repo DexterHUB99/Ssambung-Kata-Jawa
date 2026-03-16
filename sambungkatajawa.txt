@@ -1373,7 +1373,6 @@ bes
 besan
 besar
 besek
-besi
 besok
 besuk
 besuki
@@ -1723,7 +1722,6 @@ cicir
 cicit
 ciduk
 cik
-cika
 cikal
 ciken
 ciki
@@ -2013,7 +2011,6 @@ didu
 diewe
 difa
 digawa
-digawe
 digo
 dihan
 diimboh
@@ -3394,7 +3391,6 @@ gumuh
 gumun
 gun
 guna
-gunaake
 gunae
 gundah
 gundam
@@ -5767,7 +5763,6 @@ lomo
 lomot
 lompat
 lon
-loncang
 loncat
 lonceng
 londho
@@ -7210,7 +7205,6 @@ nggae
 nggak
 nggali
 nggambar
-ngganti
 nggarap
 nggawa
 nggawe
@@ -7915,6 +7909,7 @@ ojar
 ojek
 ojekan
 ojen
+ojik
 ojil
 ojo
 ojok
@@ -8696,7 +8691,6 @@ powo
 poya
 poye
 poyo
-praja
 prajurit
 prakawis
 pranata
@@ -9313,7 +9307,6 @@ rumput
 rumu
 rumus
 run
-runa
 runcing
 rundingan
 rung
@@ -9589,6 +9582,7 @@ sayak
 sayang
 sayo
 sayor
+sayuk
 sayur
 sayuran
 se
@@ -10078,7 +10072,6 @@ sus
 susa
 susah
 susan
-suse
 susi
 susila
 susu
