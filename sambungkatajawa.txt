@@ -4840,6 +4840,7 @@ kerep
 kereta
 keri
 kerik
+keripik
 keris
 kerja
 kerjo
