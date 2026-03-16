@@ -1979,6 +1979,7 @@ dimul
 dimut
 din
 dina
+dinah
 dinan
 dinar
 dinas
@@ -5501,6 +5502,7 @@ lob
 loba
 lobang
 lobi
+lobok
 lodeh
 lodoh
 loe
@@ -6503,6 +6505,7 @@ ngadil
 ngading
 ngado
 ngadoh
+ngadohi
 ngadok
 ngadon
 ngadu
