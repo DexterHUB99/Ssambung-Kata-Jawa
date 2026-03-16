@@ -553,7 +553,6 @@ ampuh
 ampul
 ampun
 ampune
-ampunen
 ampus
 amput
 amri
@@ -12003,7 +12002,6 @@ yoo
 yoopo
 yor
 yora
-yore
 yori
 yoro
 yos
