@@ -1363,6 +1363,7 @@ bar
 barek
 bareng
 bariki
+baris
 barku
 baron
 barong
