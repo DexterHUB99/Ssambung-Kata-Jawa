@@ -4502,6 +4502,7 @@ jujur
 jule
 juli
 juluk
+jum
 jumat
 jumblah
 jumeneng
@@ -9648,6 +9649,7 @@ sao
 saos
 sap
 sapa
+sape
 sapi
 sapih
 sapir
