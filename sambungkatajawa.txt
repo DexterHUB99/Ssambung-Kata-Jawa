@@ -2220,6 +2220,7 @@ dokak
 dokar
 doko
 dokon
+dokter
 dol
 dola
 dolan
@@ -11720,6 +11721,7 @@ wedhang
 wedhi
 wedhus
 wedi
+wedo
 wedok
 wedus
 wee
