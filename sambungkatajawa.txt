@@ -4469,6 +4469,7 @@ jenenge
 jeng
 jenggot
 jengkal
+jengkel
 jengne
 jeno
 jer
@@ -4754,7 +4755,6 @@ kantil
 kanto
 kantongan
 kantor
-kantun
 kanyatane
 kanyuwun
 kaos
@@ -9494,7 +9494,6 @@ roha
 roho
 roi
 rok
-roka
 roke
 roket
 roki
