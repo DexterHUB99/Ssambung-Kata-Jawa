@@ -1131,6 +1131,7 @@ awah
 awak
 awakdewe
 awake
+awakedhewe
 awakku
 awakmu
 awaku
@@ -5417,6 +5418,7 @@ krama
 kramas
 krambil
 kran
+krapyak
 kraton
 kresna
 krida
@@ -6869,6 +6871,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulur
 nduwe
 ne
 neb
@@ -10904,6 +10907,7 @@ truk
 tu
 tua
 tuak
+tuba
 tubruk
 tubuh
 tugel
@@ -11521,6 +11525,7 @@ uy
 uya
 uyah
 uye
+uyo
 uyuh
 uyuhmu
 uz
@@ -11557,6 +11562,7 @@ wajar
 wajib
 wajik
 wak
+waka
 wakil
 waktu
 waktune
