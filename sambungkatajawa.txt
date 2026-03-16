@@ -1835,6 +1835,7 @@ coli
 colo
 colok
 colong
+com
 combi
 combro
 como
@@ -11050,6 +11051,7 @@ ukuran
 ukurane
 ukure
 ukuren
+ukurna
 ukuro
 ul
 ula
