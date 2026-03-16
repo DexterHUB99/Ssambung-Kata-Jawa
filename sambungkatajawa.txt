@@ -528,7 +528,6 @@ amus
 amut
 an
 ana
-anaa
 anae
 anag
 anah
@@ -1594,6 +1593,7 @@ cakung
 cal
 cala
 calak
+calo
 calung
 cama
 camat
@@ -2790,7 +2790,6 @@ gabut
 gaco
 gada
 gadah
-gadai
 gadang
 gadha
 gadhah
@@ -3003,7 +3002,6 @@ gedhe
 gedhi
 gedhung
 gedor
-gee
 gega
 geger
 geget
@@ -3744,6 +3742,7 @@ ihmu
 ihna
 iho
 ihra
+ihre
 ihsan
 ihta
 ihya
@@ -4417,6 +4416,7 @@ kajian
 kak
 kaka
 kakak
+kakaka
 kakang
 kakehan
 kakek
@@ -6892,6 +6892,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngebaki
 ngebang
 ngebo
 ngebul
@@ -7087,7 +7088,6 @@ ngibadah
 ngibrit
 ngibu
 ngibul
-ngical
 ngicipi
 ngidam
 ngidek
@@ -7115,6 +7115,7 @@ ngili
 ngilo
 ngilok
 ngilu
+ngima
 ngimam
 ngiman
 ngimbar
@@ -7126,6 +7127,7 @@ ngin
 ngina
 nginceng
 ngincer
+ngindang
 nginep
 nging
 ngingkang
@@ -7595,6 +7597,7 @@ nula
 nulang
 nuli
 nulis
+nulo
 nulung
 nulungi
 num
@@ -7744,6 +7747,7 @@ ojar
 ojek
 ojekan
 ojen
+ojil
 ojo
 ojok
 ojol
@@ -8336,6 +8340,7 @@ piker
 piki
 pikir
 piknik
+piko
 pikon
 pikuk
 pikul
@@ -8530,7 +8535,6 @@ pue
 puguh
 puh
 pui
-puing
 puja
 puju
 puk
@@ -8576,7 +8580,6 @@ puro
 purun
 purwa
 pus
-pusa
 pusaka
 pusen
 puser
@@ -8840,6 +8843,7 @@ rekom
 rekoso
 rekot
 reksa
+reku
 rela
 relax
 reli
@@ -9446,6 +9450,7 @@ selimut
 seling
 selir
 selo
+selon
 selot
 sem
 semak
@@ -9499,7 +9504,6 @@ sepat
 sepatu
 sepet
 sepi
-sepo
 sepuh
 sepuluh
 sepur
@@ -11127,7 +11131,6 @@ wor
 woro
 wortel
 wos
-wose
 wosing
 wowi
 wowo
