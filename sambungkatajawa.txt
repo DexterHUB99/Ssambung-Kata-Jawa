@@ -10445,6 +10445,7 @@ tanggung
 tangi
 tangina
 tangkap
+tanglet
 tani
 tanjung
 tanpa
@@ -10713,7 +10714,6 @@ tokek
 token
 toko
 tokoh
-tola
 tolak
 tole
 toleh
@@ -11006,7 +11006,6 @@ ukuren
 ukuro
 ul
 ula
-ulaa
 ulah
 ulahan
 ulahmu
@@ -11258,6 +11257,7 @@ urup
 urus
 urusan
 urusane
+uruse
 urusen
 urusi
 urusno
