@@ -1136,6 +1136,7 @@ atom
 atop
 atos
 atra
+atrama
 atrap
 atri
 atu
@@ -10868,6 +10869,7 @@ taato
 taba
 tabah
 tabak
+tabi
 tabib
 tabir
 tabok
