@@ -1014,7 +1014,6 @@ atoh
 atok
 atol
 atom
-atop
 atos
 atra
 atrap
@@ -1860,7 +1859,6 @@ dasa
 dasar
 dasare
 dasi
-dasu
 data
 datu
 daun
@@ -2808,6 +2806,7 @@ gale
 galeh
 galek
 galem
+galen
 galeng
 galengan
 galer
@@ -3602,7 +3601,6 @@ huda
 hudan
 hujan
 huk
-huka
 hukum
 hukuman
 hukume
@@ -3731,7 +3729,6 @@ ikea
 ikel
 iker
 iket
-iketan
 iketen
 ikhlas
 ikhtiar
@@ -4404,7 +4401,6 @@ kalo
 kalong
 kalor
 kalung
-kalut
 kam
 kama
 kamak
@@ -4840,7 +4836,6 @@ ketemu
 keter
 kethek
 ketiban
-ketingal
 ketir
 ketis
 ketok
@@ -6328,6 +6323,7 @@ nanang
 nanas
 nandang
 nandhang
+nandhur
 nanduk
 nandur
 nanem
@@ -6905,7 +6901,6 @@ ngeniko
 ngenjang
 ngeno
 ngenteni
-ngenti
 ngentik
 ngentong
 ngentu
@@ -6913,7 +6908,6 @@ ngentuk
 ngentut
 ngenyek
 ngeo
-ngep
 ngepang
 ngepas
 ngepel
@@ -8257,7 +8251,6 @@ pilem
 pili
 pilih
 pilihan
-pilir
 pilis
 pilit
 pilo
@@ -11054,11 +11047,11 @@ yani
 yano
 yao
 yap
+yapi
 yaping
 yapo
 yar
 yare
-yaro
 yas
 yasa
 yasi
