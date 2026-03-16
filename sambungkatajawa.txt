@@ -7642,6 +7642,7 @@ ngrasakna
 ngrasani
 ngrawuh
 ngrayu
+ngrep
 ngrepoti
 ngret
 ngrit
