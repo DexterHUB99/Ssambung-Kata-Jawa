@@ -1070,6 +1070,7 @@ awuren
 ax
 ay
 aya
+ayag
 ayah
 ayak
 ayal
@@ -2107,6 +2108,7 @@ durian
 durjana
 durma
 durung
+dus
 duso
 dusun
 dut
@@ -4420,6 +4422,7 @@ karang
 karat
 karawang
 karawitan
+karbit
 kare
 karek
 karem
@@ -4770,7 +4773,6 @@ ketupat
 ketus
 ketut
 keur
-kewah
 kewan
 kewek
 kewer
@@ -7462,7 +7464,6 @@ nyirep
 nyo
 nyocot
 nyolong
-nyomot
 nyong
 nyuluh
 nyunggi
@@ -7662,7 +7663,6 @@ onori
 onta
 ontang
 ontel
-onten
 onthel
 onto
 ontong
@@ -8024,7 +8024,6 @@ pelita
 pelo
 peluk
 pemo
-pemuda
 pen
 pena
 penak
@@ -8619,6 +8618,7 @@ rena
 renang
 rencana
 rencang
+rendah
 rendang
 rendem
 rendeng
