@@ -224,7 +224,6 @@ aio
 air
 aira
 airan
-airi
 airo
 aisih
 aisin
@@ -3652,7 +3651,6 @@ haii
 hajar
 hajat
 haji
-hajien
 hajimi
 hak
 haka
@@ -4187,7 +4185,6 @@ inceng
 incer
 inda
 indah
-indahe
 indak
 indang
 indek
@@ -5330,6 +5327,7 @@ kinanthi
 kinanti
 kinasih
 kincir
+kinclong
 kini
 kinjeng
 kintal
@@ -6646,6 +6644,7 @@ moto
 motong
 motor
 mpun
+mriku
 mringis
 mripat
 mrono
@@ -6772,7 +6771,6 @@ nabur
 nada
 nadah
 nadahi
-nadhah
 nadi
 nadyan
 nae
@@ -6889,6 +6887,7 @@ nangkep
 nangko
 nangkring
 nani
+naning
 nano
 nantang
 nanti
@@ -7947,6 +7946,7 @@ ngurusi
 ngurut
 ngus
 ngusa
+ngusah
 ngusaha
 ngusak
 ngusap
@@ -8466,7 +8466,6 @@ oncom
 onda
 onde
 ondha
-ondhe
 ondo
 ondol
 oneng
@@ -9781,7 +9780,6 @@ ruko
 ruku
 rukuh
 rukun
-rukuna
 rula
 ruli
 rum
@@ -10130,7 +10128,6 @@ sego
 segoro
 seh
 sehat
-sei
 seje
 sejen
 sek
@@ -11361,7 +11358,6 @@ uma
 umaa
 umah
 umahe
-umai
 umak
 uman
 umar
