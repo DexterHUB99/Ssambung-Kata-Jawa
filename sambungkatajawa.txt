@@ -3728,6 +3728,7 @@ hijab
 hijau
 hiji
 hijrah
+hikayat
 hikmah
 hilang
 himpun
@@ -4743,6 +4744,7 @@ kar
 kara
 karah
 karak
+karan
 karang
 karat
 karawang
