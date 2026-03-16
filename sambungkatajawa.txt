@@ -1150,6 +1150,7 @@ awuren
 ax
 ay
 aya
+ayag
 ayah
 ayak
 ayal
@@ -4124,6 +4125,7 @@ insan
 insana
 insyaallah
 inti
+intii
 intil
 intine
 intinya
@@ -4889,6 +4891,7 @@ kedul
 kedung
 keisi
 kejam
+kejer
 kek
 keka
 kekal
@@ -6394,6 +6397,7 @@ mlebet
 mlebu
 mlumah
 mmantu
+mmelu
 mmi
 mmika
 mmundur
@@ -9365,6 +9369,7 @@ rimo
 rimu
 rin
 rina
+rinak
 rinci
 rindhik
 rindu
@@ -9676,6 +9681,7 @@ sambat
 sambel
 sambelmu
 samben
+samber
 sambet
 sambi
 sambil
