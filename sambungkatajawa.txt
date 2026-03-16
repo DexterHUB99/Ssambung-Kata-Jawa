@@ -4271,6 +4271,7 @@ ja
 jab
 jabang
 jadi
+jae
 jaga
 jagar
 jago
