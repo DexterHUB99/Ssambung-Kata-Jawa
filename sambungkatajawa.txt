@@ -8927,6 +8927,7 @@ pidang
 pie
 pih
 pijak
+pijang
 pijat
 pijet
 pijit
@@ -11333,6 +11334,7 @@ umar
 umat
 umbah
 umbahan
+umbang
 umbar
 umbas
 umbel
