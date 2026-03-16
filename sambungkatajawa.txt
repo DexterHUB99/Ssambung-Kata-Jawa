@@ -214,7 +214,6 @@ aiku
 ail
 aila
 aile
-ailen
 aili
 ailing
 ailo
@@ -10711,6 +10710,7 @@ sulung
 sulur
 sum
 suma
+sumampir
 suman
 sumbang
 sumbanga
