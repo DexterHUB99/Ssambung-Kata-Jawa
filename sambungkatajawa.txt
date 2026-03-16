@@ -6982,6 +6982,7 @@ nandhang
 nandhur
 nanduk
 nandur
+nane
 nanem
 nang
 nanga
@@ -7358,6 +7359,7 @@ ngandong
 nganduk
 ngandung
 ngandut
+ngane
 ngang
 nganga
 ngangah
@@ -12245,6 +12247,7 @@ yeng
 yeni
 yeno
 yep
+yeping
 yer
 yere
 yero
