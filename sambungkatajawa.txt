@@ -783,7 +783,6 @@ antah
 antam
 antar
 antara
-antaran
 antarane
 antare
 antareja
@@ -5381,6 +5380,7 @@ koki
 kokiso
 koko
 kokop
+kokowi
 kol
 kola
 kolah
@@ -7139,6 +7139,7 @@ ngalah
 ngalahi
 ngalam
 ngalami
+ngalamun
 ngalap
 ngalas
 ngale
@@ -7511,7 +7512,6 @@ ngersa
 ngerteni
 ngerti
 ngertos
-ngeruh
 ngeruk
 nges
 ngesa
@@ -8332,6 +8332,7 @@ okerek
 okeri
 oket
 okin
+okit
 okok
 okoka
 okoke
@@ -11575,7 +11576,6 @@ usus
 ususa
 usut
 uswa
-uswe
 ut
 uta
 utaa
