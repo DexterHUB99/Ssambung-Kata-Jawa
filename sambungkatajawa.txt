@@ -2588,7 +2588,6 @@ empet
 empik
 emping
 empit
-emplok
 empo
 emprit
 empu
@@ -2822,7 +2821,6 @@ ese
 eseh
 esek
 esem
-eseman
 eseme
 esemka
 esen
@@ -3661,7 +3659,6 @@ hap
 hapa
 hape
 hapi
-hapunten
 hapus
 hapusi
 har
@@ -3989,7 +3986,6 @@ ijin
 ijo
 ijok
 ijol
-ijoli
 ik
 ika
 ikaa
@@ -4024,7 +4020,6 @@ ikon
 ikoro
 ikrar
 iku
-ikua
 ikue
 ikui
 ikuku
@@ -4276,7 +4271,6 @@ irug
 irum
 irung
 irunge
-irungmu
 irup
 irus
 irut
@@ -4574,7 +4568,6 @@ jiret
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -5177,7 +5170,6 @@ keruh
 kerupuk
 kerutan
 kes
-kesa
 kesah
 kesak
 kesal
@@ -5311,7 +5303,6 @@ kiwa
 kiye
 klambi
 klambine
-klaten
 klawu
 klebus
 klemer
@@ -7058,6 +7049,7 @@ ngadul
 ngadus
 ngadusi
 ngae
+ngaei
 ngagem
 ngago
 ngagung
@@ -7415,7 +7407,6 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
-ngengko
 ngeniko
 ngenjang
 ngeno
@@ -9356,7 +9347,6 @@ rawan
 rawang
 rawat
 rawe
-rawedi
 rawi
 rawit
 rawon
@@ -10209,7 +10199,6 @@ simpenan
 simu
 sin
 sina
-sinare
 sinau
 sinden
 sindu
@@ -11883,7 +11872,6 @@ yano
 yanyo
 yao
 yap
-yapa
 yapi
 yaping
 yapo
