@@ -676,6 +676,7 @@ anggur
 angguran
 angin
 angka
+angkana
 angkara
 angkasa
 angkat
@@ -855,6 +856,7 @@ aposi
 app
 apu
 apuh
+apun
 apung
 apuran
 apure
@@ -909,6 +911,7 @@ arim
 arin
 aring
 arip
+arir
 aris
 arisan
 arisna
@@ -1726,6 +1729,7 @@ capi
 caping
 capung
 cara
+caraka
 carane
 care
 cari
@@ -2588,7 +2592,6 @@ empet
 empik
 emping
 empit
-emplok
 empo
 emprit
 empu
@@ -2822,7 +2825,6 @@ ese
 eseh
 esek
 esem
-eseman
 eseme
 esemka
 esen
@@ -3072,6 +3074,7 @@ ganjaran
 ganjel
 ganjil
 gano
+ganta
 gantang
 ganteng
 ganthi
@@ -3661,7 +3664,6 @@ hap
 hapa
 hape
 hapi
-hapunten
 hapus
 hapusi
 har
@@ -3748,6 +3750,7 @@ helikopter
 helo
 hem
 hemat
+hemu
 hena
 hene
 heni
@@ -3989,7 +3992,6 @@ ijin
 ijo
 ijok
 ijol
-ijoli
 ik
 ika
 ikaa
@@ -4024,7 +4026,6 @@ ikon
 ikoro
 ikrar
 iku
-ikua
 ikue
 ikui
 ikuku
@@ -4103,7 +4104,6 @@ imboh
 imbu
 imbuh
 imbuhan
-imbuhi
 imbung
 ime
 imen
@@ -4277,7 +4277,6 @@ irug
 irum
 irung
 irunge
-irungmu
 irup
 irus
 irut
@@ -4575,7 +4574,6 @@ jiret
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -4666,6 +4664,7 @@ kadal
 kadang
 kademan
 kadewa
+kadi
 kadong
 kados
 kadose
@@ -5178,7 +5177,6 @@ keruh
 kerupuk
 kerutan
 kes
-kesa
 kesah
 kesak
 kesal
@@ -5312,7 +5310,6 @@ kiwa
 kiye
 klambi
 klambine
-klaten
 klawu
 klebus
 klemer
@@ -5603,6 +5600,7 @@ labur
 lada
 ladak
 lading
+ladosan
 laen
 laga
 lagai
@@ -6228,6 +6226,7 @@ mandang
 mandeg
 mandhek
 mandi
+mandraguna
 mandu
 manduk
 mane
@@ -7010,6 +7009,7 @@ nesi
 nesu
 nesune
 net
+netas
 nete
 neteh
 netek
@@ -7416,7 +7416,6 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
-ngengko
 ngeniko
 ngenjang
 ngeno
@@ -9357,7 +9356,6 @@ rawan
 rawang
 rawat
 rawe
-rawedi
 rawi
 rawit
 rawon
@@ -9954,6 +9952,7 @@ sata
 sate
 sati
 satitik
+satria
 satru
 satu
 satunggal
@@ -10210,7 +10209,6 @@ simpenan
 simu
 sin
 sina
-sinare
 sinau
 sinden
 sindu
@@ -10639,6 +10637,7 @@ tapis
 tapuk
 tar
 tara
+taras
 tarek
 tari
 tarian
@@ -11273,7 +11272,6 @@ umuk
 umul
 umum
 umume
-umun
 umur
 umure
 un
@@ -11339,6 +11337,7 @@ unjuk
 unjul
 unjung
 unki
+unma
 uno
 unta
 untah
@@ -11885,7 +11884,6 @@ yano
 yanyo
 yao
 yap
-yapa
 yapi
 yaping
 yapo
