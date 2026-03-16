@@ -3747,6 +3747,7 @@ ilon
 ilu
 ilui
 iluk
+ilwa
 ilyas
 im
 ima
@@ -4149,6 +4150,7 @@ jeran
 jerih
 jero
 jeruk
+jet
 jeti
 ji
 jidat
@@ -4236,6 +4238,7 @@ joss
 jotos
 jual
 jualan
+jubah
 jujug
 jujur
 jule
@@ -5192,6 +5195,7 @@ lamper
 lamping
 lampir
 lampu
+lampune
 lampung
 lamu
 lamun
@@ -7941,6 +7945,7 @@ papak
 papan
 papat
 papi
+papo
 papu
 par
 para
@@ -9753,6 +9758,7 @@ taun
 tawa
 tawaf
 tawan
+tawang
 tawar
 tawas
 tawi
@@ -10147,6 +10153,7 @@ udutan
 ue
 uem
 uen
+uf
 ug
 uga
 ugal
@@ -10210,7 +10217,6 @@ ukmo
 ukmu
 ukna
 uko
-ukok
 ukol
 ukon
 ukop
