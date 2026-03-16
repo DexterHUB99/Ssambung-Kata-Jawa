@@ -1169,6 +1169,7 @@ bali
 balik
 balok
 balon
+balu
 balung
 balungan
 balur
