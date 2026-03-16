@@ -4682,6 +4682,7 @@ kempel
 kempis
 kempol
 kemproh
+kempul
 kemroh
 kemul
 kemulan
@@ -10677,6 +10678,7 @@ utir
 utira
 utma
 uto
+utoh
 utowo
 utri
 utu
