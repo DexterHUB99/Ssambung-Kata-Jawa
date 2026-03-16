@@ -6079,6 +6079,7 @@ muara
 muatan
 mubal
 mubeng
+mucak
 mudal
 mudar
 mudeng
@@ -7307,6 +7308,7 @@ ninggal
 ninggalake
 ninggali
 ningkat
+ningning
 ningsih
 nini
 nining
