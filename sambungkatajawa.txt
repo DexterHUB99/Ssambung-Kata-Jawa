@@ -2215,6 +2215,7 @@ disit
 disu
 dit
 dita
+ditampol
 ditilep
 ditulung
 diwa
