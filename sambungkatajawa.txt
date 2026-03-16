@@ -175,7 +175,6 @@ ahom
 ahon
 ahop
 ahor
-ahos
 ahoy
 ahu
 ahud
@@ -254,7 +253,6 @@ ajrih
 aju
 ajudan
 ajur
-ajura
 ak
 aka
 akad
@@ -709,7 +707,6 @@ anjay
 anjeg
 anji
 anjian
-anjimi
 anjing
 anjining
 anjir
@@ -734,7 +731,6 @@ anom
 anoman
 anon
 anop
-anor
 anot
 ansur
 ansuran
@@ -1377,6 +1373,7 @@ bes
 besan
 besar
 besek
+besi
 besok
 besuk
 besuki
@@ -1409,7 +1406,6 @@ bidik
 bidun
 bidur
 bien
-bigan
 bigu
 bijak
 biji
@@ -1728,6 +1724,7 @@ cicir
 cicit
 ciduk
 cik
+cika
 cikal
 ciken
 ciki
@@ -1857,6 +1854,7 @@ dadi
 dados
 dadu
 daduk
+daga
 dagang
 dagelan
 daging
@@ -1893,7 +1891,6 @@ damen
 dami
 dampak
 dampal
-dampit
 damput
 damu
 dan
@@ -2018,6 +2015,7 @@ didu
 diewe
 difa
 digawa
+digawe
 digo
 dihan
 diimboh
@@ -2148,6 +2146,7 @@ dongol
 doni
 dono
 donya
+donyo
 dop
 dopo
 dor
@@ -2452,7 +2451,6 @@ ematane
 emba
 embah
 emban
-embar
 embat
 embe
 embel
@@ -2619,6 +2617,7 @@ enyak
 enyong
 ep
 epa
+epah
 epak
 epal
 epam
@@ -3111,6 +3110,7 @@ gembleng
 gemblong
 gemblung
 gembok
+gemboke
 gembong
 gembrot
 gembung
@@ -3401,7 +3401,10 @@ gumuh
 gumun
 gun
 guna
+gunaake
 gunae
+gunake
+gunane
 gundah
 gundam
 gundhul
@@ -4270,7 +4273,6 @@ jambi
 jambret
 jambu
 jambul
-jamin
 jampi
 jamput
 jamu
@@ -4553,6 +4555,7 @@ kalong
 kalor
 kalung
 kalut
+kaluweh
 kam
 kama
 kamak
@@ -4835,7 +4838,6 @@ kem
 kema
 kemah
 kemaki
-kemal
 kemalan
 kemang
 kemangi
@@ -5347,6 +5349,7 @@ kursi
 kursii
 kuru
 kurung
+kurungan
 kurus
 kus
 kusa
@@ -5455,7 +5458,6 @@ lamun
 lamuna
 lamunan
 lan
-lana
 lanang
 lanange
 lancang
@@ -5776,6 +5778,7 @@ lomo
 lomot
 lompat
 lon
+loncang
 loncat
 lonceng
 londho
@@ -5925,7 +5928,6 @@ madosi
 madu
 madul
 madura
-maduro
 madya
 mae
 maem
@@ -6433,7 +6435,6 @@ mut
 muta
 mutah
 mutan
-mute
 muten
 muter
 muti
@@ -6921,7 +6922,6 @@ ngantor
 ngantos
 ngantri
 ngantuk
-ngantuki
 ngantung
 nganu
 ngaos
@@ -7161,7 +7161,6 @@ ngepit
 ngepot
 nger
 ngerak
-ngerami
 ngerampok
 ngerandu
 ngerap
@@ -7223,6 +7222,7 @@ nggae
 nggak
 nggali
 nggambar
+ngganti
 nggarap
 nggawa
 nggawe
@@ -7638,6 +7638,7 @@ ninggal
 ninggalake
 ninggali
 ningkat
+ningki
 ningning
 ningsih
 nini
@@ -8710,6 +8711,7 @@ powo
 poya
 poye
 poyo
+praja
 prajurit
 prakawis
 pranata
@@ -9087,6 +9089,7 @@ rena
 renang
 rencana
 rencang
+renda
 rendang
 rendem
 rendeng
@@ -9327,6 +9330,7 @@ rumput
 rumu
 rumus
 run
+runa
 runcing
 rundingan
 rung
@@ -9600,7 +9604,6 @@ saya
 sayah
 sayak
 sayang
-sayet
 sayo
 sayor
 sayuk
@@ -10094,6 +10097,7 @@ sus
 susa
 susah
 susan
+suse
 susi
 susila
 susu
@@ -10555,6 +10559,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulunge
 tulungi
 tulus
@@ -10805,6 +10810,7 @@ ulu
 uluk
 ulun
 ulung
+ulup
 ulur
 um
 uma
@@ -11094,7 +11100,6 @@ utekmu
 utel
 uten
 uter
-uthi
 uti
 utik
 uting
