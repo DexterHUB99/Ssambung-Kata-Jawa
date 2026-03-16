@@ -3179,6 +3179,7 @@ gaweo
 gaweopo
 gawir
 gawok
+gayam
 gayem
 gayeng
 gayu
@@ -3520,6 +3521,7 @@ gudangan
 gudeg
 gudel
 gudhal
+gudheg
 gugah
 gugat
 gugatan
@@ -4818,6 +4820,7 @@ kane
 kang
 kangen
 kangge
+kanggeh
 kanggo
 kangkung
 kangmas
