@@ -1071,6 +1071,7 @@ awuren
 ax
 ay
 aya
+ayag
 ayah
 ayak
 ayal
@@ -2109,6 +2110,7 @@ durian
 durjana
 durma
 durung
+dus
 duso
 dusun
 dut
@@ -2593,7 +2595,6 @@ esek
 esem
 eseme
 esemka
-esen
 eses
 eset
 esey
@@ -4072,6 +4073,7 @@ jambul
 jampi
 jamput
 jamu
+jamuan
 jamur
 jan
 janaka
@@ -4195,6 +4197,7 @@ jitak
 jiwa
 jo
 jodho
+jodog
 jodoh
 joged
 jogja
@@ -4312,6 +4315,7 @@ kala
 kalah
 kalahan
 kalai
+kalajengking
 kalam
 kalap
 kalawan
@@ -4424,9 +4428,11 @@ kara
 karah
 karak
 karang
+karap
 karat
 karawang
 karawitan
+karbit
 kare
 karek
 karem
@@ -5855,7 +5861,6 @@ melok
 melu
 meluk
 mem
-mema
 memang
 memar
 membal
@@ -6284,6 +6289,7 @@ naro
 narsis
 naru
 naruh
+naruk
 nas
 nasa
 nasab
@@ -8086,6 +8092,7 @@ pi
 pia
 piagam
 piala
+pialang
 pian
 piano
 piara
@@ -8480,6 +8487,7 @@ ranggi
 rangka
 rangkat
 rangkul
+rangkum
 rangu
 rani
 ranjang
@@ -8632,6 +8640,7 @@ rena
 renang
 rencana
 rencang
+rendah
 rendang
 rendem
 rendeng
@@ -10347,6 +10356,7 @@ unggul
 ungkal
 ungkap
 ungkapan
+ungkar
 ungkara
 ungkas
 ungkir
@@ -10752,6 +10762,7 @@ wijaya
 wiji
 wik
 wika
+wiko
 wiku
 wil
 wila
@@ -10812,6 +10823,7 @@ woo
 wor
 woro
 wos
+wot
 wowi
 wowo
 woyo
