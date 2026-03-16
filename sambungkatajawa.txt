@@ -2153,7 +2153,6 @@ dipun
 dir
 diran
 diri
-diru
 dirum
 disa
 disan
@@ -7501,7 +7500,6 @@ ngingkang
 ngini
 nginjak
 nginjuk
-ngino
 nginsing
 ngintik
 ngintil
@@ -8575,7 +8573,6 @@ pante
 pantes
 panti
 pantun
-panuh
 panun
 panut
 panutan
@@ -8823,7 +8820,6 @@ pinggir
 pingsan
 pinja
 pino
-pinsil
 pinta
 pinten
 pinter
@@ -10085,7 +10081,6 @@ sile
 silet
 sili
 silih
-silir
 silit
 silo
 sim
@@ -11472,7 +11467,6 @@ wage
 wagu
 wah
 wahana
-wahi
 wahing
 wahyu
 waja
