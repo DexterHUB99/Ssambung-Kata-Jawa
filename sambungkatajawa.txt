@@ -7372,6 +7372,7 @@ ngawal
 ngawali
 ngawang
 ngawas
+ngawasi
 ngawe
 ngaweh
 ngawer
@@ -11644,6 +11645,7 @@ utawi
 utawo
 ute
 utek
+utekan
 uteke
 utekmu
 utel
