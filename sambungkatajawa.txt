@@ -2601,6 +2601,7 @@ enka
 enko
 enlo
 eno
+enoh
 enok
 enol
 enom
