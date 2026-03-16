@@ -3298,6 +3298,7 @@ genea
 geneo
 genep
 generator
+geneya
 geneyi
 geng
 genggem
@@ -7235,6 +7236,7 @@ nganjing
 nganjir
 nganjok
 nganjuk
+nganjut
 ngantar
 ngantel
 ngantem
