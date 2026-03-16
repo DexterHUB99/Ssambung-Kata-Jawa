@@ -895,6 +895,7 @@ aqiqah
 ar
 ara
 arab
+araen
 arah
 arahan
 arai
@@ -4140,6 +4141,7 @@ ilam
 ilan
 ilang
 ilangan
+ilangen
 ilap
 ilar
 ilas
@@ -7927,6 +7929,7 @@ ngret
 ngrit
 ngrumat
 ngrusak
+ngubah
 nguber
 ngubur
 ngucap
