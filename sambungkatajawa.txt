@@ -2395,6 +2395,7 @@ ebak
 ebe
 ebeg
 eben
+ebes
 ebew
 ebi
 ebit
