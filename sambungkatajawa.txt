@@ -759,7 +759,6 @@ anyir
 aos
 ap
 apa
-apaan
 apae
 apah
 apak
@@ -2044,7 +2043,6 @@ diwa
 dluwang
 do
 doa
-dobleh
 dobol
 dodo
 dodok
@@ -4117,7 +4115,6 @@ jai
 jail
 jait
 jaja
-jajah
 jajal
 jajan
 jak
@@ -4644,7 +4641,6 @@ keko
 kekok
 kel
 kela
-kelabang
 kelak
 kelalen
 kelam
@@ -5984,9 +5980,11 @@ menyan
 menyang
 meong
 mepe
+mepet
 mer
 merah
 merem
+mergo
 meri
 merpati
 mersani
@@ -6071,6 +6069,7 @@ mlumah
 mmantu
 mmi
 mmika
+mmundur
 mo
 mobil
 mobilan
@@ -7320,6 +7319,7 @@ ngusung
 ngusungi
 ngut
 ngutang
+ngutar
 ngutek
 ngutik
 ngutil
@@ -7572,6 +7572,7 @@ nutup
 nutupi
 nutur
 nuturi
+nuwek
 nuwun
 nuwunsewu
 ny
@@ -8450,6 +8451,7 @@ puguh
 puh
 pui
 puja
+puju
 puk
 puka
 puki
@@ -8894,6 +8896,7 @@ riri
 ris
 risa
 risak
+risang
 risi
 risih
 riska
@@ -9091,6 +9094,7 @@ sadulur
 sae
 saestu
 sage
+saged
 saget
 sagu
 sah
@@ -9380,6 +9384,7 @@ senajan
 senang
 senar
 sendal
+sendang
 sendawa
 sendhang
 sendi
@@ -10289,7 +10294,6 @@ ucul
 ud
 uda
 udah
-udahan
 udahlah
 udak
 udakara
@@ -10392,6 +10396,7 @@ ukna
 uko
 ukok
 ukol
+ukom
 ukon
 ukop
 ukra
