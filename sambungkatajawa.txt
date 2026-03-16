@@ -3681,6 +3681,7 @@ gur
 gura
 gurah
 gurami
+guran
 gure
 guri
 gurih
@@ -7436,6 +7437,7 @@ ngantuki
 ngantung
 nganu
 ngaos
+ngap
 ngapa
 ngapah
 ngapai
@@ -9681,6 +9683,7 @@ rayon
 rayu
 re
 rea
+reang
 reba
 rebab
 rebah
