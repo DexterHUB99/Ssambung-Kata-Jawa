@@ -7441,6 +7441,7 @@ nggak
 nggali
 nggambar
 nggarap
+nggateli
 nggawa
 nggawe
 ngge
@@ -9822,6 +9823,7 @@ sanjang
 sano
 santai
 santen
+santo
 santosa
 santri
 santun
