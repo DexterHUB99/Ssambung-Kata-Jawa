@@ -6996,6 +6996,7 @@ nem
 nemah
 neman
 nembak
+nembaki
 nembang
 nembe
 nembel
@@ -9255,6 +9256,7 @@ raiso
 raiya
 raja
 rajah
+rajak
 rajang
 rajar
 rajin
@@ -9805,6 +9807,7 @@ sa
 saa
 saan
 saayang
+sab
 saba
 sabar
 sabe
