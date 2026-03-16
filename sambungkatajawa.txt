@@ -33,6 +33,7 @@ ac
 aca
 acak
 acan
+acar
 ace
 aceh
 aci
@@ -42,6 +43,7 @@ acuh
 acung
 ad
 ada
+adab
 adah
 adai
 adal
@@ -463,6 +465,7 @@ amar
 amarga
 amargi
 amargo
+amarta
 amas
 amat
 amati
@@ -809,7 +812,6 @@ anton
 antoni
 antoro
 antri
-antrian
 antuk
 antun
 antur
@@ -1304,7 +1306,6 @@ balur
 bam
 bambu
 ban
-banak
 banana
 bancak
 banci
@@ -1346,6 +1347,7 @@ basi
 basin
 baskom
 baso
+basuh
 basuki
 bata
 batak
@@ -1523,6 +1525,7 @@ bin
 bina
 binara
 bindeng
+bingah
 bingung
 bini
 bino
@@ -1666,6 +1669,7 @@ bune
 bunga
 bungah
 bungahe
+bungkam
 bungkus
 buntel
 buntu
@@ -1786,6 +1790,7 @@ celeng
 celengan
 celi
 celuk
+celup
 cemani
 cemen
 cempe
@@ -2207,7 +2212,6 @@ direng
 diri
 diru
 dirum
-dirumah
 disa
 disan
 disana
@@ -3527,6 +3531,7 @@ griwa
 griya
 griyane
 grobak
+grobogan
 grogi
 grogoh
 grogot
@@ -4699,6 +4704,7 @@ jus
 juta
 ka
 kabar
+kabare
 kabeh
 kabel
 kabul
@@ -4803,6 +4809,7 @@ kamari
 kambi
 kambil
 kambing
+kambu
 kambuh
 kame
 kamer
@@ -5034,6 +5041,7 @@ kediri
 keduhung
 kedul
 kedung
+kedut
 kegowo
 keisi
 kejam
@@ -5235,6 +5243,7 @@ kertas
 kertos
 kerudung
 keruh
+kerung
 kerupuk
 kerutan
 kes
@@ -7031,6 +7040,7 @@ nelur
 nem
 nemah
 neman
+nembah
 nembak
 nembaki
 nembang
@@ -7214,6 +7224,7 @@ ngamis
 ngamok
 ngampel
 ngampet
+ngampih
 ngampil
 ngampir
 ngampleng
@@ -7380,6 +7391,7 @@ ngawal
 ngawali
 ngawang
 ngawas
+ngawasi
 ngawe
 ngaweh
 ngawer
@@ -7917,6 +7929,7 @@ nguntung
 ngunu
 ngunung
 ngunut
+ngunyem
 ngup
 ngupah
 ngupai
@@ -8412,6 +8425,7 @@ oler
 oles
 oli
 olih
+olik
 olin
 oling
 olit
@@ -9974,6 +9988,7 @@ sampang
 sampar
 sampe
 sampean
+sampek
 sampen
 sampeyan
 sampian
@@ -10186,6 +10201,7 @@ sembur
 seme
 semen
 semene
+semir
 semo
 semok
 semot
@@ -10686,6 +10702,7 @@ taka
 takan
 takbir
 taken
+taki
 takjil
 tako
 takon
@@ -10890,6 +10907,7 @@ ter
 terak
 terang
 teras
+terasi
 tere
 teri
 terima
@@ -11075,6 +11093,7 @@ tugel
 tuh
 tuhan
 tuk
+tuka
 tukan
 tukang
 tukange
@@ -11500,6 +11519,7 @@ upai
 upaku
 upam
 upama
+upamane
 upan
 upane
 upang
@@ -11651,6 +11671,7 @@ utawi
 utawo
 ute
 utek
+utekan
 uteke
 utekmu
 utel
