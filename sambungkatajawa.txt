@@ -7652,6 +7652,7 @@ ngisor
 ngisu
 ngisuh
 ngisuk
+ngit
 ngitem
 ngitil
 ngitung
