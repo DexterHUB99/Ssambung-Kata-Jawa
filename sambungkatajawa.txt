@@ -4428,6 +4428,7 @@ kalahan
 kalai
 kalam
 kalap
+kalapa
 kalawan
 kale
 kalebu
@@ -6884,6 +6885,7 @@ ngayub
 ngayuh
 ngayuk
 ngayun
+ngcak
 nge
 ngebang
 ngebo
