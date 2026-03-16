@@ -1344,6 +1344,7 @@ bigu
 bijak
 biji
 bijor
+bik
 bika
 bikak
 biko
@@ -7548,6 +7549,7 @@ okul
 okum
 okur
 okut
+okute
 ol
 olab
 olah
