@@ -1209,6 +1209,7 @@ bajan
 baji
 bajigur
 bajing
+bajinga
 bajingan
 baju
 bajul
@@ -8076,6 +8077,7 @@ omo
 omong
 omongan
 omongane
+omonge
 ompol
 ompong
 ompreng
