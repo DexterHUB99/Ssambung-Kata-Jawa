@@ -10508,6 +10508,7 @@ sutil
 sutra
 suw
 suwan
+suwara
 suwargi
 suwe
 suwek
