@@ -5776,6 +5776,7 @@ lipit
 lipur
 lir
 lira
+lire
 liren
 liri
 lirih
@@ -11712,4 +11713,5 @@ zakat
 zat
 ze
 ziarah
+zikir
 zina
