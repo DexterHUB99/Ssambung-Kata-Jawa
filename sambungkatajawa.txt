@@ -10036,6 +10036,7 @@ setunggal
 sewa
 sewelas
 sewu
+sholat
 si
 sia
 sial
@@ -10373,6 +10374,7 @@ sus
 susa
 susah
 susan
+susas
 susi
 susila
 susu
