@@ -5298,6 +5298,7 @@ laline
 lam
 lama
 laman
+lamane
 lamar
 lamaran
 lamba
