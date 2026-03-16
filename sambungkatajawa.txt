@@ -2585,6 +2585,7 @@ endel
 endem
 endep
 endhas
+endho
 endhog
 endhok
 endi
@@ -6543,6 +6544,7 @@ murung
 murup
 mus
 musa
+muser
 musi
 musibah
 musim
@@ -10374,6 +10376,7 @@ takjil
 tako
 takon
 takut
+takwa
 tal
 tala
 talak
