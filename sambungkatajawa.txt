@@ -6395,6 +6395,7 @@ mlebet
 mlebu
 mlumah
 mmantu
+mmelu
 mmi
 mmika
 mmundur
@@ -9366,6 +9367,7 @@ rimo
 rimu
 rin
 rina
+rinak
 rinci
 rindhik
 rindu
