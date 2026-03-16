@@ -3600,7 +3600,6 @@ huda
 hudan
 hujan
 huk
-huka
 hukum
 hukuman
 hukume
@@ -3729,7 +3728,6 @@ ikea
 ikel
 iker
 iket
-iketan
 iketen
 ikhlas
 ikhtiar
@@ -6324,6 +6322,7 @@ nanang
 nanas
 nandang
 nandhang
+nandhur
 nanduk
 nandur
 nanem
@@ -6908,7 +6907,6 @@ ngentuk
 ngentut
 ngenyek
 ngeo
-ngep
 ngepang
 ngepas
 ngepel
@@ -8252,7 +8250,6 @@ pilem
 pili
 pilih
 pilihan
-pilir
 pilis
 pilit
 pilo
@@ -11049,11 +11046,11 @@ yani
 yano
 yao
 yap
+yapi
 yaping
 yapo
 yar
 yare
-yaro
 yas
 yasa
 yasi
