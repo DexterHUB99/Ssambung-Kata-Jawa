@@ -3196,6 +3196,7 @@ gerot
 gerung
 gerus
 ges
+gesa
 gesang
 gesek
 geseng
@@ -7042,6 +7043,7 @@ nge
 ngebaki
 ngebang
 ngebo
+ngebor
 ngebul
 ngebus
 ngece
@@ -8997,6 +8999,7 @@ raut
 rawa
 rawal
 rawan
+rawang
 rawat
 rawe
 rawi
