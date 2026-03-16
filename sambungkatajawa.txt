@@ -5023,6 +5023,7 @@ kukur
 kukus
 kul
 kula
+kulaan
 kulak
 kulakan
 kulan
@@ -10783,6 +10784,7 @@ wisma
 wisnu
 wisuh
 wit
+wita
 witan
 witir
 wito
