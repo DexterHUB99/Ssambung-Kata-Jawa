@@ -5322,6 +5322,7 @@ kompas
 kompor
 komputer
 kon
+konan
 konangan
 konco
 kondangan
@@ -10239,6 +10240,7 @@ song
 songket
 songo
 songong
+soni
 sono
 sonten
 sontoloyo
