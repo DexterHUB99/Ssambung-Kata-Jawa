@@ -414,6 +414,7 @@ am
 ama
 amaa
 amah
+amai
 amak
 amal
 amalan
@@ -697,7 +698,6 @@ anjar
 anjaran
 anjas
 anjay
-anjeg
 anji
 anjian
 anjing
@@ -1509,7 +1509,6 @@ budhe
 budhi
 budi
 budo
-bue
 bug
 bugil
 bugis
@@ -2692,7 +2691,6 @@ esi
 esih
 esik
 esin
-esir
 eso
 esoe
 esok
@@ -3248,7 +3246,6 @@ goke
 gokil
 gol
 gola
-golak
 gole
 golek
 golekan
@@ -3531,7 +3528,6 @@ hate
 hati
 hatiku
 hatimu
-haturnuhun
 hawa
 hawai
 hawane
@@ -3596,6 +3592,7 @@ hewe
 heya
 hi
 hias
+hiasan
 hidayah
 hidup
 hihihi
@@ -6601,7 +6598,6 @@ nelih
 nelongso
 nelu
 neluk
-nelur
 nem
 nemah
 nembak
@@ -7192,6 +7188,7 @@ nging
 ngingkang
 ngini
 nginjak
+nginjek
 nginjuk
 nginsing
 ngintik
@@ -8654,7 +8651,6 @@ puser
 pusi
 pusing
 put
-puten
 putih
 puting
 putra
@@ -9011,11 +9007,9 @@ rie
 rien
 rih
 rihan
-riing
 rik
 rika
 rikala
-rikan
 rikat
 riki
 rikma
@@ -10267,6 +10261,7 @@ timur
 tin
 tina
 tindak
+tindakan
 tindhak
 tinemu
 tingal
