@@ -2777,6 +2777,7 @@ esa
 esab
 esah
 esai
+esak
 esan
 esay
 ese
