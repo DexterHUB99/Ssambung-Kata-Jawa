@@ -265,6 +265,7 @@ aju
 ajudan
 ajur
 ajura
+ajuran
 ak
 aka
 akad
@@ -661,6 +662,7 @@ anggene
 anggep
 angger
 anggere
+angget
 anggit
 anggo
 anggok
@@ -1131,7 +1133,6 @@ awah
 awak
 awakdewe
 awake
-awakedhewe
 awakku
 awakmu
 awaku
@@ -4320,7 +4321,6 @@ isoma
 isone
 isor
 isra
-isro
 istana
 isti
 istiadat
@@ -5057,6 +5057,7 @@ kenari
 kencing
 kencot
 kencur
+kendak
 kendal
 kendang
 kendel
@@ -5419,7 +5420,6 @@ krama
 kramas
 krambil
 kran
-krapyak
 kraton
 kresna
 krida
@@ -6751,6 +6751,7 @@ nampan
 nampani
 nampar
 nampil
+namping
 nampol
 namu
 namung
@@ -6872,7 +6873,6 @@ ndlogok
 ndlosor
 ndoro
 nduk
-ndulur
 nduwe
 ne
 neb
@@ -6881,6 +6881,7 @@ nebas
 nebe
 neda
 nedah
+nedan
 nedha
 nedhaa
 nedho
@@ -7172,6 +7173,7 @@ ngapai
 ngapain
 ngapak
 ngapal
+ngapalake
 ngapati
 ngapel
 ngapeli
@@ -9329,7 +9331,6 @@ rawi
 rawit
 rawon
 rawuh
-rawun
 raya
 rayap
 rayo
@@ -10909,7 +10910,6 @@ truk
 tu
 tua
 tuak
-tuba
 tubruk
 tubuh
 tugel
@@ -11107,7 +11107,6 @@ ukaran
 ukarane
 ukas
 uke
-ukek
 ukel
 ukem
 ukep
@@ -11431,6 +11430,7 @@ usap
 usar
 use
 usek
+usem
 user
 usi
 usia
@@ -11528,7 +11528,6 @@ uy
 uya
 uyah
 uye
-uyo
 uyuh
 uyuhmu
 uz
@@ -11565,7 +11564,6 @@ wajar
 wajib
 wajik
 wak
-waka
 wakil
 waktu
 waktune
@@ -11667,6 +11665,7 @@ wek
 weka
 wekasan
 wekdal
+weke
 weki
 weko
 wektu
