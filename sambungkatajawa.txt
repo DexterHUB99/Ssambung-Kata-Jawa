@@ -3087,6 +3087,7 @@ galen
 galeng
 galengan
 galer
+galeren
 gali
 galih
 galo
@@ -8940,6 +8941,7 @@ payung
 pe
 pea
 pean
+pecah
 pecel
 peci
 pedah
