@@ -6203,6 +6203,7 @@ minggu
 mingkem
 mini
 minta
+minten
 minter
 minum
 mio
@@ -7146,6 +7147,7 @@ nges
 ngesa
 ngesah
 ngesak
+ngesang
 ngesat
 ngeseng
 ngesok
