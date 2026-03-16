@@ -6988,6 +6988,7 @@ ngaten
 ngati
 ngatin
 ngatok
+ngatu
 ngatuk
 ngatur
 ngaturaken
@@ -9703,6 +9704,7 @@ sepak
 separo
 sepat
 sepatu
+sepeda
 sepet
 sepi
 sepiro
