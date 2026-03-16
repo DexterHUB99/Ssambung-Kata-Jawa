@@ -4420,7 +4420,6 @@ karang
 karat
 karawang
 karawitan
-karbit
 kare
 karek
 karem
@@ -7462,6 +7461,7 @@ nyirep
 nyo
 nyocot
 nyolong
+nyomot
 nyong
 nyuluh
 nyunggi
@@ -7661,6 +7661,7 @@ onori
 onta
 ontang
 ontel
+onten
 onthel
 onto
 ontong
@@ -8022,6 +8023,7 @@ pelita
 pelo
 peluk
 pemo
+pemuda
 pen
 pena
 penak
@@ -8616,7 +8618,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
