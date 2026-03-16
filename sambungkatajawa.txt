@@ -3163,6 +3163,7 @@ gemblong
 gemblung
 gembok
 gembong
+gembos
 gembrot
 gembung
 gemen
