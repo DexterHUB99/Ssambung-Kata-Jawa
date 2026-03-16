@@ -6978,6 +6978,7 @@ ngawang
 ngawas
 ngawe
 ngaweh
+ngawer
 ngawi
 ngawih
 ngawil
@@ -9336,6 +9337,7 @@ sadis
 sadulur
 sae
 saestu
+saga
 sage
 saged
 saget
