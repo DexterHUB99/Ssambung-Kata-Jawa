@@ -74,6 +74,7 @@ adipati
 adit
 ado
 adoh
+adohe
 adol
 adon
 adonan
@@ -224,6 +225,7 @@ aio
 air
 aira
 airan
+airi
 airo
 aisih
 aisin
@@ -1303,7 +1305,6 @@ balur
 bam
 bambu
 ban
-banak
 banana
 bancak
 banci
@@ -2206,7 +2207,6 @@ direng
 diri
 diru
 dirum
-dirumah
 disa
 disan
 disana
@@ -3653,6 +3653,7 @@ haii
 hajar
 hajat
 haji
+hajien
 hajimi
 hak
 haka
@@ -4187,6 +4188,7 @@ inceng
 incer
 inda
 indah
+indahe
 indak
 indang
 indek
@@ -6773,6 +6775,7 @@ nabur
 nada
 nadah
 nadahi
+nadhah
 nadi
 nadyan
 nae
@@ -8468,6 +8471,7 @@ oncom
 onda
 onde
 ondha
+ondhe
 ondo
 ondol
 oneng
@@ -9782,6 +9786,7 @@ ruko
 ruku
 rukuh
 rukun
+rukuna
 rula
 ruli
 rum
@@ -10130,6 +10135,7 @@ sego
 segoro
 seh
 sehat
+sei
 seje
 sejen
 sek
@@ -11360,6 +11366,7 @@ uma
 umaa
 umah
 umahe
+umai
 umak
 uman
 umar
@@ -11426,6 +11433,7 @@ unduh
 unduk
 undukan
 undur
+unduren
 une
 unek
 unem
@@ -11797,6 +11805,7 @@ wawa
 wawang
 wawasan
 wawe
+wawi
 wayah
 wayahe
 wayan
