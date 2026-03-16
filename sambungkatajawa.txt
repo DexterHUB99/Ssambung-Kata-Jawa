@@ -6846,6 +6846,7 @@ ne
 neb
 nebake
 nebas
+nebe
 neda
 nedah
 nedha
