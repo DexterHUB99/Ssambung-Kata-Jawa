@@ -51,6 +51,7 @@ adap
 adat
 ade
 adeg
+adegan
 adeh
 adek
 adeking
@@ -593,6 +594,7 @@ andang
 andani
 andap
 andar
+andara
 andaran
 andeg
 andel
@@ -2883,6 +2885,7 @@ gadai
 gadang
 gadha
 gadhah
+gadhing
 gading
 gado
 gadue
@@ -9644,7 +9647,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
