@@ -10321,6 +10321,7 @@ telaten
 tele
 telek
 telenan
+telepon
 teles
 teli
 telinga
