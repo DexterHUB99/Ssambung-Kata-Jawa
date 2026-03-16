@@ -2807,6 +2807,7 @@ enus
 enya
 enyak
 enyong
+eomong
 ep
 epa
 epah
