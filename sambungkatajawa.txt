@@ -553,6 +553,7 @@ anca
 ancak
 ancaman
 ancang
+ancar
 ancas
 ancase
 ancen
@@ -688,6 +689,7 @@ anjala
 anjani
 anjar
 anjaran
+anjas
 anjay
 anji
 anjian
@@ -10792,6 +10794,7 @@ usuk
 usul
 usula
 usulan
+usune
 usung
 usungi
 usuo
