@@ -378,6 +378,7 @@ alip
 alir
 aliran
 alis
+alisa
 alisan
 alit
 alka
@@ -916,7 +917,6 @@ asek
 asel
 aseli
 asem
-asen
 aseng
 asep
 aset
@@ -1390,6 +1390,7 @@ bik
 bika
 bikak
 biko
+biku
 bil
 bila
 bilah
@@ -1596,6 +1597,7 @@ cakung
 cal
 cala
 calak
+calo
 calung
 cama
 camat
@@ -2092,7 +2094,6 @@ dolu
 dom
 domba
 domblong
-domo
 dompet
 don
 dong
@@ -2296,6 +2297,7 @@ ekan
 ekane
 ekap
 ekar
+ekara
 ekas
 eke
 ekeh
@@ -2746,7 +2748,6 @@ ewangi
 ewe
 ewean
 eweane
-ewee
 eweh
 ewek
 ewer
@@ -2813,6 +2814,7 @@ gae
 gagah
 gagak
 gagal
+gagalak
 gagang
 gagap
 gagar
@@ -2912,6 +2914,7 @@ ganjaran
 ganjel
 ganjil
 gano
+gantang
 ganteng
 ganthi
 ganti
@@ -3172,6 +3175,7 @@ gigit
 gigu
 gih
 gila
+gilaa
 gilak
 gilane
 gilang
@@ -3657,6 +3661,7 @@ hudan
 hujan
 huk
 huka
+huki
 hukum
 hukuman
 hukume
@@ -3733,6 +3738,7 @@ iga
 igah
 igak
 igo
+igur
 igus
 ih
 iha
@@ -3755,6 +3761,7 @@ ihmu
 ihna
 iho
 ihra
+ihre
 ihsan
 ihta
 ihya
@@ -3950,6 +3957,7 @@ inguk
 ini
 inja
 injak
+injal
 injek
 inji
 injih
@@ -4406,6 +4414,7 @@ kadewa
 kadong
 kados
 kadose
+kaduhung
 kadung
 kadut
 kae
@@ -4429,6 +4438,7 @@ kajian
 kak
 kaka
 kakak
+kakaka
 kakang
 kakehan
 kakek
@@ -4703,6 +4713,7 @@ kekok
 kel
 kela
 kelabang
+kelah
 kelak
 kelalen
 kelam
@@ -4731,6 +4742,7 @@ keliling
 kelinci
 kelingan
 keliru
+kelok
 kelon
 kelonan
 kelor
@@ -4904,6 +4916,7 @@ ketapel
 ketar
 ketara
 ketat
+kete
 ketek
 ketel
 ketemu
@@ -5045,6 +5058,7 @@ kola
 kolah
 kolak
 kolam
+koleh
 kolek
 koli
 koloh
@@ -5377,6 +5391,7 @@ langsep
 langsing
 langu
 lani
+lanjur
 lanjut
 lansia
 lantai
@@ -5569,6 +5584,7 @@ limun
 lin
 lina
 lincah
+lincak
 lindes
 lindhu
 lindur
@@ -5916,6 +5932,7 @@ maning
 manis
 manja
 manjing
+manjur
 mantap
 manten
 mantep
@@ -6092,6 +6109,7 @@ mika
 miker
 miki
 mikir
+miko
 mikul
 mil
 mila
@@ -6179,7 +6197,6 @@ moli
 molok
 mom
 momong
-momot
 mon
 mona
 mondar
@@ -6372,6 +6389,7 @@ nal
 nala
 nalah
 nalak
+nalan
 nalang
 nalangi
 nalar
@@ -6717,7 +6735,6 @@ ngalum
 ngalur
 ngalus
 ngam
-ngama
 ngamal
 ngamar
 ngamba
@@ -6778,7 +6795,6 @@ nganjing
 nganjir
 nganjok
 nganjuk
-ngantang
 ngantar
 ngantel
 ngantem
@@ -6912,6 +6928,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngebaki
 ngebang
 ngebo
 ngebul
@@ -6966,7 +6983,6 @@ ngeloni
 ngelor
 ngelu
 ngeluh
-ngelus
 ngeman
 ngemas
 ngembang
@@ -7060,6 +7076,7 @@ ngetem
 ngeten
 ngeti
 ngetik
+ngeting
 ngetok
 ngeton
 ngetot
@@ -7102,7 +7119,6 @@ nggone
 nggoreng
 nggowo
 nggula
-nggulung
 ngguyu
 ngguyue
 ngibadah
@@ -7129,7 +7145,6 @@ ngika
 ngikat
 ngiki
 ngiku
-ngil
 ngila
 ngilang
 ngilekne
@@ -7138,6 +7153,7 @@ ngili
 ngilo
 ngilok
 ngilu
+ngima
 ngimam
 ngiman
 ngimbar
@@ -7149,6 +7165,7 @@ ngin
 ngina
 nginceng
 ngincer
+ngindang
 nginep
 nging
 ngingkang
@@ -7455,6 +7472,7 @@ nil
 nila
 nilai
 nilam
+nilan
 nilar
 nilas
 nile
@@ -7619,6 +7637,7 @@ nula
 nulang
 nuli
 nulis
+nulo
 nulung
 nulungi
 num
@@ -7769,6 +7788,7 @@ ojar
 ojek
 ojekan
 ojen
+ojil
 ojo
 ojok
 ojol
@@ -8363,6 +8383,7 @@ piker
 piki
 pikir
 piknik
+piko
 pikon
 pikuk
 pikul
@@ -8703,6 +8724,7 @@ ramai
 ramak
 ramal
 ramalan
+raman
 ramasalah
 rambak
 ramban
@@ -8867,6 +8889,7 @@ rekom
 rekoso
 rekot
 reksa
+reku
 rela
 relax
 reli
@@ -8874,6 +8897,7 @@ relo
 rem
 rema
 remah
+remahan
 remang
 remas
 remba
@@ -9134,7 +9158,6 @@ rumbi
 rumi
 rumit
 rumiyin
-rumo
 rumongso
 rumput
 rumu
@@ -9444,7 +9467,6 @@ sejen
 sek
 seka
 sekar
-sekasa
 sekawan
 seke
 sekek
@@ -9475,6 +9497,7 @@ selimut
 seling
 selir
 selo
+selon
 selot
 sem
 semak
@@ -9788,7 +9811,6 @@ sugeh
 sugeng
 sugih
 suh
-suhi
 sui
 suji
 sujud
@@ -10388,6 +10410,7 @@ turuk
 turun
 turut
 tus
+tusa
 tusi
 tusuk
 tut
@@ -10474,7 +10497,6 @@ ugama
 uget
 ugi
 ugo
-ugoh
 ugu
 ugung
 uh
@@ -11034,7 +11056,6 @@ wedhang
 wedhi
 wedhus
 wedi
-wedo
 wedok
 wedus
 wee
