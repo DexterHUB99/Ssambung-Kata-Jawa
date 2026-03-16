@@ -72,6 +72,7 @@ adoh
 adol
 adon
 adonan
+adop
 ador
 ados
 adu
@@ -772,6 +773,7 @@ anut
 anyam
 anyaman
 anyar
+anyaran
 anyeb
 anyep
 anyer
@@ -1204,6 +1206,7 @@ bakan
 bakar
 baki
 bakmi
+bako
 bakso
 baku
 bakul
@@ -2005,6 +2008,7 @@ didin
 didol
 didu
 diewe
+difa
 digawa
 digo
 dihan
@@ -3143,6 +3147,7 @@ genjot
 genna
 geno
 genta
+gentar
 genteng
 genter
 genti
@@ -3202,6 +3207,7 @@ getuk
 getun
 gewa
 geyo
+ghosting
 gi
 gidal
 gig
@@ -3761,6 +3767,7 @@ ico
 icu
 id
 ida
+idal
 idam
 idaman
 idan
@@ -3999,6 +4006,7 @@ ingka
 ingkang
 ingko
 ingkung
+ingo
 ingsun
 ingu
 inguk
@@ -4614,6 +4622,7 @@ kaplok
 kapok
 kapor
 kapuk
+kapun
 kapur
 kapus
 kar
@@ -5210,6 +5219,7 @@ krambil
 kran
 kraton
 kresna
+krida
 kripik
 krungu
 krupuk
@@ -5600,6 +5610,7 @@ let
 leto
 letong
 lewat
+leyeh
 li
 lia
 lian
@@ -6048,6 +6059,7 @@ masi
 masih
 masio
 masjid
+masne
 maso
 masu
 masuk
@@ -6206,6 +6218,7 @@ minggu
 mingkem
 mini
 minta
+minten
 minter
 minum
 mio
@@ -6630,6 +6643,7 @@ nedi
 neduh
 neg
 nega
+negan
 negara
 negari
 negas
@@ -7149,6 +7163,7 @@ nges
 ngesa
 ngesah
 ngesak
+ngesang
 ngesat
 ngeseng
 ngesok
@@ -7246,6 +7261,7 @@ ngima
 ngimam
 ngiman
 ngimbar
+ngimbas
 ngimbu
 ngimbuh
 ngimi
@@ -10048,7 +10064,6 @@ sus
 susa
 susah
 susan
-suse
 susi
 susila
 susu
@@ -11449,6 +11464,7 @@ yoli
 yolo
 yom
 yoman
+yome
 yomi
 yon
 yona
