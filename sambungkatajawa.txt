@@ -4369,7 +4369,6 @@ irig
 irigasi
 irih
 irik
-irim
 irin
 iring
 iringan
@@ -4762,7 +4761,6 @@ jus
 juta
 ka
 kabar
-kabare
 kabeh
 kabel
 kabul
@@ -6821,6 +6819,7 @@ murtad
 murub
 murung
 murup
+murupen
 mus
 musa
 muser
@@ -9466,7 +9465,6 @@ ramene
 rames
 rami
 ramo
-rampa
 rampas
 ramping
 rampok
