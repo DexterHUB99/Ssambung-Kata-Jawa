@@ -1632,6 +1632,7 @@ cantik
 canting
 cap
 capek
+capi
 caping
 capung
 cara
