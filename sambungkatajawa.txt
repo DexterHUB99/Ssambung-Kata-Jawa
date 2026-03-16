@@ -8742,6 +8742,7 @@ poe
 poho
 pohung
 poi
+poing
 pojok
 pojokan
 pok
@@ -10936,6 +10937,7 @@ umat
 umbah
 umbahan
 umbar
+umbas
 umbel
 umbi
 umbu
