@@ -1538,7 +1538,6 @@ caci
 cacig
 cacin
 cacing
-cacingen
 cadel
 cagak
 cah
@@ -2594,7 +2593,6 @@ esek
 esem
 eseme
 esemka
-esen
 eses
 eset
 esey
@@ -2989,6 +2987,7 @@ genderuwo
 gendheng
 gendhing
 gendhis
+gendi
 gendong
 gendruwo
 gendung
@@ -3241,7 +3240,6 @@ gumun
 gun
 guna
 gunae
-gunane
 gundah
 gundam
 gundhul
@@ -5857,7 +5855,6 @@ melok
 melu
 meluk
 mem
-mema
 memang
 memar
 membal
@@ -8555,7 +8552,6 @@ raut
 rawa
 rawal
 rawan
-rawang
 rawat
 rawe
 rawi
