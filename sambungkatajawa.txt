@@ -3600,6 +3600,7 @@ huda
 hudan
 hujan
 huk
+huka
 hukum
 hukuman
 hukume
@@ -8249,6 +8250,7 @@ pilem
 pili
 pilih
 pilihan
+pilir
 pilis
 pilit
 pilo
