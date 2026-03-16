@@ -356,6 +356,7 @@ akute
 al
 ala
 alah
+alai
 alak
 alal
 alam
@@ -6812,6 +6813,7 @@ naro
 narsis
 naru
 naruh
+narus
 nas
 nasa
 nasab
