@@ -1833,7 +1833,6 @@ dasi
 datu
 daun
 dawa
-dawah
 dawet
 dawir
 dawuh
@@ -1894,7 +1893,6 @@ deru
 des
 desa
 deso
-det
 dewa
 dewe
 dewi
@@ -1938,7 +1936,6 @@ dil
 dila
 dilah
 dilalah
-dilam
 dilan
 dilas
 dilat
@@ -2843,7 +2840,6 @@ gapi
 gapil
 gaplek
 gaplok
-gapopo
 gapuk
 gapura
 gar
@@ -3753,7 +3749,6 @@ ilon
 ilu
 ilui
 iluk
-ilwa
 ilyas
 im
 ima
@@ -3937,7 +3932,6 @@ is
 isa
 isaa
 isab
-isaha
 isai
 isak
 isam
@@ -4157,7 +4151,6 @@ jeran
 jerih
 jero
 jeruk
-jet
 jeti
 ji
 jidat
@@ -4245,7 +4238,6 @@ joss
 jotos
 jual
 jualan
-jubah
 jujug
 jujur
 jule
@@ -4720,7 +4712,6 @@ kerasa
 kerasan
 kerat
 keraton
-kerawuh
 kerbau
 kere
 kerek
@@ -5070,7 +5061,6 @@ kun
 kuna
 kunang
 kunci
-kuncup
 kundur
 kuneng
 kung
@@ -5204,7 +5194,6 @@ lamper
 lamping
 lampir
 lampu
-lampune
 lampung
 lamu
 lamun
@@ -5586,7 +5575,6 @@ luk
 luka
 luke
 luki
-lukis
 lukisan
 luku
 lulang
@@ -6963,7 +6951,6 @@ ngira
 ngiri
 ngirim
 ngirimi
-ngiring
 ngiris
 ngirit
 ngirup
@@ -7439,7 +7426,6 @@ nuri
 nuro
 nuru
 nurun
-nurung
 nurut
 nuruti
 nus
@@ -7579,7 +7565,6 @@ okera
 okeran
 okerek
 okeri
-oket
 okin
 okok
 okoka
@@ -7959,7 +7944,6 @@ papak
 papan
 papat
 papi
-papo
 papu
 par
 para
@@ -8585,6 +8569,7 @@ rawon
 rawuh
 raya
 rayap
+rayi
 rayo
 rayon
 rayu
@@ -8665,7 +8650,6 @@ reng
 renges
 renggang
 rengginang
-rengket
 renjang
 reno
 rentan
@@ -9774,7 +9758,6 @@ taun
 tawa
 tawaf
 tawan
-tawang
 tawar
 tawas
 tawi
@@ -10170,7 +10153,6 @@ udutan
 ue
 uem
 uen
-uf
 ug
 uga
 ugal
@@ -10729,7 +10711,6 @@ wejang
 wejangan
 wek
 wekasan
-wekdal
 weki
 weko
 wektu
@@ -10805,7 +10786,6 @@ wirangan
 wiraya
 wiri
 wiro
-wirya
 wis
 wisa
 wisan
