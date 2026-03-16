@@ -7265,6 +7265,7 @@ ngisor
 ngisu
 ngisuh
 ngisuk
+ngitem
 ngitil
 ngitung
 ngiwa
