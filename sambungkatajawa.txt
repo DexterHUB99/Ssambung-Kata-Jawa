@@ -514,6 +514,7 @@ ampek
 ampel
 ampela
 amper
+ampera
 amperan
 ampes
 ampi
@@ -674,6 +675,7 @@ angs
 angsa
 angsal
 angsalipun
+angsara
 angsle
 angso
 angsul
@@ -808,6 +810,7 @@ apel
 apem
 apes
 api
+apih
 apik
 apika
 apikan
@@ -1179,6 +1182,7 @@ bacak
 bacin
 bacot
 bacut
+bada
 badak
 bade
 badeg
@@ -1256,6 +1260,7 @@ bar
 barek
 bareng
 bariki
+barku
 baron
 barong
 barongan
@@ -1331,6 +1336,7 @@ bekal
 bekan
 bekas
 bekel
+bekne
 beko
 bel
 bela
@@ -2404,7 +2410,6 @@ elemen
 elen
 eleng
 eler
-eles
 elet
 eli
 elif
@@ -2735,7 +2740,6 @@ esin
 esir
 eso
 esoe
-esoi
 esok
 esol
 eson
@@ -3202,6 +3206,7 @@ gerot
 gerung
 gerus
 ges
+gesa
 gesang
 gesek
 geseng
@@ -3625,6 +3630,7 @@ hening
 heno
 heo
 hep
+hepa
 hepan
 hepi
 her
@@ -3762,6 +3768,7 @@ hut
 huta
 hutan
 hutang
+hutange
 huti
 hyang
 ib
@@ -4517,6 +4524,8 @@ kaka
 kakak
 kakaka
 kakang
+kakap
+kake
 kakehan
 kakek
 kaki
@@ -4773,6 +4782,7 @@ kecel
 kecelek
 kecewa
 kecoa
+kecot
 kecut
 kedah
 kedanan
@@ -5604,6 +5614,7 @@ lemu
 lemut
 len
 lena
+lendra
 leng
 lengen
 lenggah
@@ -6566,6 +6577,7 @@ nangisan
 nangka
 nangkene
 nangkep
+nangko
 nangkring
 nani
 nano
@@ -6647,6 +6659,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndlosor
 ndoro
 nduk
 nduwe
@@ -6687,6 +6700,7 @@ nel
 nela
 nelayan
 nelen
+neleng
 neler
 neli
 nelih
@@ -7051,6 +7065,7 @@ nge
 ngebaki
 ngebang
 ngebo
+ngebor
 ngebul
 ngebus
 ngece
@@ -8074,6 +8089,7 @@ ongkose
 ongol
 online
 ono
+onoa
 onoe
 onone
 onoo
@@ -8466,6 +8482,7 @@ pendopo
 pene
 pengen
 penggalihe
+pengin
 peni
 pening
 peniti
@@ -9006,6 +9023,7 @@ raut
 rawa
 rawal
 rawan
+rawang
 rawat
 rawe
 rawi
@@ -9188,6 +9206,7 @@ rinta
 rio
 rip
 ripa
+ripan
 ripi
 ripih
 rira
@@ -10209,6 +10228,7 @@ tandhuk
 tanduk
 tandur
 tanduran
+tandurane
 tangan
 tangeh
 tangga
@@ -10602,7 +10622,6 @@ turut
 tus
 tusa
 tusi
-tusu
 tusuk
 tut
 tuta
@@ -10706,6 +10725,7 @@ ujaran
 uji
 ujia
 ujian
+ujub
 ujuk
 ujul
 ujun
@@ -10732,6 +10752,7 @@ ukel
 ukem
 ukep
 uker
+ukere
 ukes
 uket
 uki
