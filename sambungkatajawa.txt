@@ -9106,6 +9106,7 @@ pulsa
 puluh
 pulung
 puma
+pumi
 pun
 puna
 punapa
@@ -9375,6 +9376,7 @@ rawang
 rawat
 rawe
 rawi
+rawih
 rawit
 rawon
 rawuh
@@ -9830,6 +9832,7 @@ saku
 sakun
 sakur
 sal
+sala
 salae
 salah
 salahe
