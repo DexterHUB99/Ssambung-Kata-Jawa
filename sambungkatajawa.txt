@@ -966,6 +966,7 @@ arus
 arut
 arwa
 arwah
+arwana
 arya
 as
 asa
@@ -2180,6 +2181,7 @@ dinas
 dinding
 dinggo
 dingin
+dingkik
 dingklik
 dini
 dino
