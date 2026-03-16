@@ -1070,7 +1070,6 @@ awuren
 ax
 ay
 aya
-ayag
 ayah
 ayak
 ayal
@@ -2108,7 +2107,6 @@ durian
 durjana
 durma
 durung
-dus
 duso
 dusun
 dut
@@ -4421,11 +4419,9 @@ kara
 karah
 karak
 karang
-karap
 karat
 karawang
 karawitan
-karbit
 kare
 karek
 karem
@@ -8206,6 +8202,7 @@ piyan
 piye
 po
 poa
+poal
 pocong
 pocung
 podho
@@ -8476,7 +8473,6 @@ ranggi
 rangka
 rangkat
 rangkul
-rangkum
 rangu
 rani
 ranjang
@@ -8628,7 +8624,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
@@ -10341,7 +10336,6 @@ unggul
 ungkal
 ungkap
 ungkapan
-ungkar
 ungkara
 ungkas
 ungkir
