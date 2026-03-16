@@ -3066,6 +3066,7 @@ garangan
 garap
 garapan
 garapen
+garapi
 gardu
 gare
 garem
