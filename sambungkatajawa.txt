@@ -974,6 +974,7 @@ asui
 asuk
 asul
 asum
+asumu
 asun
 asune
 asup
@@ -8997,6 +8998,7 @@ rembung
 remeh
 remek
 remen
+remene
 remeng
 remes
 remi
