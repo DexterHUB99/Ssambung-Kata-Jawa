@@ -870,6 +870,7 @@ arar
 arara
 aras
 arat
+ardi
 are
 areg
 areh
