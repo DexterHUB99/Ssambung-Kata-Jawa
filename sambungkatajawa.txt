@@ -6507,6 +6507,7 @@ ngalis
 ngalo
 ngalon
 ngalor
+ngalu
 ngalum
 ngalur
 ngalus
