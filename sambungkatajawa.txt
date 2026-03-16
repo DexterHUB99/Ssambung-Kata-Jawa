@@ -2734,6 +2734,7 @@ enel
 enem
 enen
 eneng
+enes
 engah
 engeh
 enggal
