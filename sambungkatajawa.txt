@@ -2808,7 +2808,6 @@ gale
 galeh
 galek
 galem
-galen
 galeng
 galengan
 galer
@@ -6329,7 +6328,6 @@ nanang
 nanas
 nandang
 nandhang
-nandhur
 nanduk
 nandur
 nanem
@@ -9366,6 +9364,7 @@ senajan
 senang
 senar
 sendal
+sendang
 sendawa
 sendhang
 sendi
@@ -11056,7 +11055,6 @@ yani
 yano
 yao
 yap
-yapi
 yaping
 yapo
 yar
