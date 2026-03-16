@@ -6807,6 +6807,7 @@ ngaboti
 ngaca
 ngacak
 ngacara
+ngace
 ngacem
 ngaceng
 ngacir
@@ -10134,6 +10135,7 @@ surai
 surakarta
 surasa
 surat
+surau
 sure
 surem
 suren
