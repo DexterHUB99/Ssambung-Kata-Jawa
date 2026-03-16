@@ -3445,6 +3445,7 @@ here
 heri
 hero
 hes
+hesa
 hese
 hesen
 hesi
@@ -5128,6 +5129,7 @@ lajeng
 laju
 lak
 laka
+lakan
 laki
 lakna
 lakon
