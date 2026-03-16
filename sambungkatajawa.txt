@@ -493,6 +493,7 @@ ame
 ameh
 amek
 amel
+amem
 amen
 ameng
 amer
@@ -3541,6 +3542,7 @@ gumun
 gun
 guna
 gunae
+gunawa
 gundah
 gundam
 gundhul
