@@ -1373,7 +1373,6 @@ bes
 besan
 besar
 besek
-besi
 besok
 besuk
 besuki
@@ -1472,6 +1471,7 @@ bokong
 bokonge
 bol
 bola
+bole
 boleh
 bolo
 bolong
@@ -1723,7 +1723,6 @@ cicir
 cicit
 ciduk
 cik
-cika
 cikal
 ciken
 ciki
@@ -2013,7 +2012,6 @@ didu
 diewe
 difa
 digawa
-digawe
 digo
 dihan
 diimboh
@@ -2614,7 +2612,6 @@ enyak
 enyong
 ep
 epa
-epah
 epak
 epal
 epam
@@ -2880,6 +2877,7 @@ gajaha
 gaje
 gajelas
 gaji
+gajia
 gajimu
 gajul
 gak
@@ -3046,6 +3044,7 @@ gayung
 ge
 gea
 geber
+geblak
 geblek
 geblog
 gebok
@@ -3105,7 +3104,6 @@ gembleng
 gemblong
 gemblung
 gembok
-gemboke
 gembong
 gembrot
 gembung
@@ -3396,9 +3394,7 @@ gumuh
 gumun
 gun
 guna
-gunaake
 gunae
-gunake
 gundah
 gundam
 gundhul
@@ -5770,7 +5766,6 @@ lomo
 lomot
 lompat
 lon
-loncang
 loncat
 lonceng
 londho
@@ -6995,6 +6990,7 @@ ngaten
 ngati
 ngatin
 ngatok
+ngatu
 ngatuk
 ngatur
 ngaturaken
@@ -7213,7 +7209,6 @@ nggae
 nggak
 nggali
 nggambar
-ngganti
 nggarap
 nggawa
 nggawe
@@ -7880,6 +7875,7 @@ obati
 obek
 obel
 obeng
+obet
 oblak
 oblong
 obok
@@ -7918,6 +7914,7 @@ ojar
 ojek
 ojekan
 ojen
+ojik
 ojil
 ojo
 ojok
@@ -8699,7 +8696,6 @@ powo
 poya
 poye
 poyo
-praja
 prajurit
 prakawis
 pranata
@@ -9272,6 +9268,7 @@ roti
 rotii
 roto
 rowang
+rowi
 rowo
 rowoe
 royal
@@ -9316,7 +9313,6 @@ rumput
 rumu
 rumus
 run
-runa
 runcing
 rundingan
 rung
@@ -9592,6 +9588,7 @@ sayak
 sayang
 sayo
 sayor
+sayuk
 sayur
 sayuran
 se
@@ -9710,6 +9707,7 @@ sepak
 separo
 sepat
 sepatu
+sepeda
 sepet
 sepi
 sepiro
@@ -10081,7 +10079,6 @@ sus
 susa
 susah
 susan
-suse
 susi
 susila
 susu
@@ -10543,7 +10540,6 @@ tulip
 tulis
 tulisan
 tulung
-tulungagung
 tulunge
 tulungi
 tulus
@@ -10794,7 +10790,6 @@ ulu
 uluk
 ulun
 ulung
-ulup
 ulur
 um
 uma
