@@ -5716,6 +5716,7 @@ leri
 les
 lesa
 lesehan
+lesi
 lestari
 lesu
 lesung
