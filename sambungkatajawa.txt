@@ -1140,6 +1140,7 @@ atun
 atur
 aturan
 aturen
+aturne
 atus
 atusan
 atut
@@ -3779,6 +3780,7 @@ haro
 harta
 hartane
 haru
+harue
 harui
 harum
 harume
@@ -8559,6 +8561,7 @@ onar
 oncek
 onco
 oncom
+oncome
 onda
 onde
 ondha
