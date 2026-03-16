@@ -3526,6 +3526,7 @@ harm
 harman
 haro
 harta
+hartane
 haru
 harui
 harum
@@ -6459,6 +6460,7 @@ nam
 nama
 namah
 namamu
+namane
 namba
 nambah
 nambai
