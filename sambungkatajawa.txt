@@ -2808,6 +2808,7 @@ gale
 galeh
 galek
 galem
+galen
 galeng
 galengan
 galer
@@ -3592,6 +3593,7 @@ hote
 hotel
 hotma
 howo
+hoya
 hp
 hu
 hub
@@ -4749,6 +4751,7 @@ kenyot
 keong
 kep
 kepa
+kepak
 kepala
 kepanggih
 keparat
@@ -6328,6 +6331,7 @@ nanang
 nanas
 nandang
 nandhang
+nandhur
 nanduk
 nandur
 nanem
@@ -9364,7 +9368,6 @@ senajan
 senang
 senar
 sendal
-sendang
 sendawa
 sendhang
 sendi
@@ -11055,6 +11058,7 @@ yani
 yano
 yao
 yap
+yapi
 yaping
 yapo
 yar
