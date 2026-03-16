@@ -1593,7 +1593,6 @@ cakung
 cal
 cala
 calak
-calo
 calung
 cama
 camat
@@ -3742,7 +3741,6 @@ ihmu
 ihna
 iho
 ihra
-ihre
 ihsan
 ihta
 ihya
@@ -4416,7 +4414,6 @@ kajian
 kak
 kaka
 kakak
-kakaka
 kakang
 kakehan
 kakek
@@ -6892,7 +6889,6 @@ ngayuk
 ngayun
 ngcak
 nge
-ngebaki
 ngebang
 ngebo
 ngebul
@@ -7088,6 +7084,7 @@ ngibadah
 ngibrit
 ngibu
 ngibul
+ngical
 ngicipi
 ngidam
 ngidek
@@ -7115,7 +7112,6 @@ ngili
 ngilo
 ngilok
 ngilu
-ngima
 ngimam
 ngiman
 ngimbar
@@ -7745,7 +7741,6 @@ ojar
 ojek
 ojekan
 ojen
-ojil
 ojo
 ojok
 ojol
@@ -8532,6 +8527,7 @@ pue
 puguh
 puh
 pui
+puing
 puja
 puju
 puk
@@ -8840,7 +8836,6 @@ rekom
 rekoso
 rekot
 reksa
-reku
 rela
 relax
 reli
@@ -9447,7 +9442,6 @@ selimut
 seling
 selir
 selo
-selon
 selot
 sem
 semak
