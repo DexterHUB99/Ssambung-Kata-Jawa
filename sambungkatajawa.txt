@@ -11652,6 +11652,7 @@ walisongo
 walit
 waluh
 waluyo
+wama
 wan
 wana
 wandu
@@ -11736,6 +11737,7 @@ wejang
 wejangan
 wek
 weka
+wekasa
 wekasan
 wekdal
 weke
