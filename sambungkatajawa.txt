@@ -621,6 +621,7 @@ anggok
 anggon
 anggoro
 anggrek
+anggu
 angguk
 anggur
 angguran
@@ -6923,6 +6924,7 @@ ngeri
 ngerit
 ngerok
 ngerokok
+ngerong
 ngeroso
 ngersa
 ngerteni
