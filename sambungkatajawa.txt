@@ -6796,6 +6796,7 @@ neker
 neko
 nel
 nela
+nelat
 nelayan
 nelen
 neleng
