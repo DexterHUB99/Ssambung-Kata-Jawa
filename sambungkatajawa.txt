@@ -175,7 +175,6 @@ ahom
 ahon
 ahop
 ahor
-ahos
 ahoy
 ahu
 ahud
@@ -732,7 +731,6 @@ anom
 anoman
 anon
 anop
-anor
 anot
 ansur
 ansuran
@@ -1407,7 +1405,6 @@ bidik
 bidun
 bidur
 bien
-bigan
 bigu
 bijak
 biji
@@ -5915,7 +5912,6 @@ madosi
 madu
 madul
 madura
-maduro
 madya
 mae
 maem
@@ -7913,6 +7909,7 @@ ojar
 ojek
 ojekan
 ojen
+ojik
 ojil
 ojo
 ojok
@@ -11074,7 +11071,6 @@ utekmu
 utel
 uten
 uter
-uthi
 uti
 utik
 uting
