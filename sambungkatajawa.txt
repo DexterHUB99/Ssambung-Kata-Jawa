@@ -675,7 +675,6 @@ anggur
 angguran
 angin
 angka
-angkana
 angkara
 angkasa
 angkat
@@ -855,7 +854,6 @@ aposi
 app
 apu
 apuh
-apun
 apung
 apuran
 apure
@@ -910,7 +908,6 @@ arim
 arin
 aring
 arip
-arir
 aris
 arisan
 arisna
@@ -3659,6 +3656,7 @@ hap
 hapa
 hape
 hapi
+hapunten
 hapus
 hapusi
 har
@@ -4270,6 +4268,7 @@ irug
 irum
 irung
 irunge
+irungmu
 irup
 irus
 irut
@@ -4657,7 +4656,6 @@ kadal
 kadang
 kademan
 kadewa
-kadi
 kadong
 kados
 kadose
@@ -6218,7 +6216,6 @@ mandang
 mandeg
 mandhek
 mandi
-mandraguna
 mandu
 manduk
 mane
@@ -7000,7 +6997,6 @@ nesi
 nesu
 nesune
 net
-netas
 nete
 neteh
 netek
@@ -7407,6 +7403,7 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
+ngengko
 ngeniko
 ngenjang
 ngeno
@@ -10626,7 +10623,6 @@ tapis
 tapuk
 tar
 tara
-taras
 tarek
 tari
 tarian
@@ -11325,7 +11321,6 @@ unjuk
 unjul
 unjung
 unki
-unma
 uno
 unta
 untah
