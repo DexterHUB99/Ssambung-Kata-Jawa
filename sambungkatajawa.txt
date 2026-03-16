@@ -610,6 +610,7 @@ andheng
 andhikane
 andhong
 andi
+andika
 andini
 andok
 andon
@@ -8311,6 +8312,7 @@ orer
 organisasi
 ori
 orie
+oring
 orok
 orong
 oros
