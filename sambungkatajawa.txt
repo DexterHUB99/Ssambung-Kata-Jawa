@@ -44,6 +44,7 @@ adala
 adam
 adan
 adang
+adap
 adat
 ade
 adeg
@@ -651,6 +652,7 @@ angkring
 angkringan
 angkuh
 angkut
+angkutan
 angl
 angler
 angling
@@ -694,7 +696,6 @@ anjar
 anjaran
 anjas
 anjay
-anjeg
 anji
 anjian
 anjing
@@ -923,6 +924,7 @@ asep
 aset
 asi
 asia
+asian
 asie
 asih
 asik
@@ -1115,6 +1117,7 @@ ayamne
 ayan
 ayanen
 ayang
+ayangku
 ayani
 ayap
 ayar
@@ -1325,6 +1328,7 @@ bem
 ben
 bena
 benang
+benci
 bende
 bendo
 bendung
@@ -4182,6 +4186,7 @@ jajah
 jajal
 jajan
 jak
+jaka
 jaket
 jaki
 jala
@@ -5978,6 +5983,7 @@ masa
 masak
 masal
 masam
+masane
 masang
 mase
 masi
@@ -6620,6 +6626,7 @@ nengdi
 nenge
 nengen
 neni
+nepa
 nepak
 nepi
 nepis
@@ -6924,6 +6931,7 @@ ngawur
 ngawut
 ngayah
 ngayal
+ngayomi
 ngayu
 ngayub
 ngayuh
@@ -7153,6 +7161,7 @@ ngilang
 ngilekne
 ngiler
 ngili
+ngilih
 ngilo
 ngilok
 ngilu
@@ -8634,7 +8643,6 @@ puser
 pusi
 pusing
 put
-puten
 putih
 puting
 putra
@@ -9357,6 +9365,7 @@ sangkuni
 sangon
 sangu
 sani
+sanja
 sanjang
 sano
 santai
@@ -10307,6 +10316,7 @@ tolo
 tolol
 tolola
 tolong
+toma
 tomat
 tomate
 tombak
