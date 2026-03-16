@@ -1617,6 +1617,7 @@ bom
 bon
 bona
 bonang
+bonek
 bong
 bongko
 bongkok
@@ -10450,6 +10451,7 @@ sepur
 sepura
 ser
 sera
+serabi
 serakah
 serami
 serang
