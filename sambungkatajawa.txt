@@ -1483,6 +1483,7 @@ bindeng
 bingung
 bini
 bintang
+binu
 bio
 bir
 bira
@@ -10927,6 +10928,7 @@ udharan
 udi
 udik
 udin
+uding
 udna
 udo
 udu
