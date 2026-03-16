@@ -3238,6 +3238,7 @@ geton
 getuk
 getun
 gewa
+gewe
 geyo
 ghosting
 gi
