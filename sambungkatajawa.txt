@@ -1402,6 +1402,7 @@ bijor
 bik
 bika
 bikak
+bikin
 biko
 biku
 bil
@@ -2527,6 +2528,7 @@ enem
 enen
 eneng
 engah
+engeh
 enggal
 enggan
 enggar
@@ -3674,6 +3676,7 @@ hotel
 hotma
 howo
 hoya
+hoyo
 hp
 hu
 hub
