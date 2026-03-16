@@ -2326,6 +2326,7 @@ ekes
 eket
 eki
 ekik
+ekil
 ekin
 ekis
 ekit
@@ -10286,6 +10287,7 @@ timbang
 timbangan
 timbange
 timbul
+timi
 timun
 timur
 tin
