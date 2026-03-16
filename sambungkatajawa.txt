@@ -1150,6 +1150,7 @@ awuren
 ax
 ay
 aya
+ayag
 ayah
 ayak
 ayal
