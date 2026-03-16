@@ -377,7 +377,6 @@ alasan
 alat
 alay
 ale
-aleb
 aleh
 alek
 alem
@@ -677,6 +676,7 @@ anggur
 angguran
 angin
 angka
+angkana
 angkara
 angkasa
 angkat
@@ -856,6 +856,7 @@ aposi
 app
 apu
 apuh
+apun
 apung
 apuran
 apure
@@ -910,6 +911,7 @@ arim
 arin
 aring
 arip
+arir
 aris
 arisan
 arisna
@@ -1727,6 +1729,7 @@ capi
 caping
 capung
 cara
+caraka
 carane
 care
 cari
@@ -3071,6 +3074,7 @@ ganjaran
 ganjel
 ganjil
 gano
+ganta
 gantang
 ganteng
 ganthi
@@ -3746,6 +3750,7 @@ helikopter
 helo
 hem
 hemat
+hemu
 hena
 hene
 heni
@@ -4659,6 +4664,7 @@ kadal
 kadang
 kademan
 kadewa
+kadi
 kadong
 kados
 kadose
@@ -5304,7 +5310,6 @@ kiwa
 kiye
 klambi
 klambine
-klaten
 klawu
 klebus
 klemer
@@ -5595,6 +5600,7 @@ labur
 lada
 ladak
 lading
+ladosan
 laen
 laga
 lagai
@@ -6220,6 +6226,7 @@ mandang
 mandeg
 mandhek
 mandi
+mandraguna
 mandu
 manduk
 mane
@@ -6896,7 +6903,6 @@ neb
 nebake
 nebas
 nebe
-neben
 neda
 nedah
 nedan
@@ -7003,6 +7009,7 @@ nesi
 nesu
 nesune
 net
+netas
 nete
 neteh
 netek
@@ -7052,7 +7059,6 @@ ngadul
 ngadus
 ngadusi
 ngae
-ngaei
 ngagem
 ngago
 ngagung
@@ -9946,6 +9952,7 @@ sata
 sate
 sati
 satitik
+satria
 satru
 satu
 satunggal
@@ -10630,6 +10637,7 @@ tapis
 tapuk
 tar
 tara
+taras
 tarek
 tari
 tarian
@@ -11329,6 +11337,7 @@ unjuk
 unjul
 unjung
 unki
+unma
 uno
 unta
 untah
