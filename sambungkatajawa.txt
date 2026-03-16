@@ -208,6 +208,7 @@ aiha
 aiho
 aii
 aika
+aiki
 aiko
 aiku
 ail
@@ -9285,6 +9286,7 @@ powa
 powo
 poya
 poye
+poyi
 poyo
 prajurit
 prakawis
@@ -9681,6 +9683,7 @@ remis
 remo
 remok
 rempah
+rempal
 rempeyek
 rempon
 remu
