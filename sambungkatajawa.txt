@@ -916,7 +916,6 @@ asek
 asel
 aseli
 asem
-asen
 aseng
 asep
 aset
@@ -1114,6 +1113,7 @@ ayamne
 ayan
 ayanen
 ayang
+ayangku
 ayani
 ayap
 ayar
@@ -1324,6 +1324,7 @@ bem
 ben
 bena
 benang
+benci
 bende
 bendo
 bendung
@@ -2092,7 +2093,6 @@ dolu
 dom
 domba
 domblong
-domo
 dompet
 don
 dong
@@ -2746,7 +2746,6 @@ ewangi
 ewe
 ewean
 eweane
-ewee
 eweh
 ewek
 ewer
@@ -4172,6 +4171,7 @@ jajah
 jajal
 jajan
 jak
+jaka
 jaket
 jaki
 jala
@@ -6179,7 +6179,6 @@ moli
 molok
 mom
 momong
-momot
 mon
 mona
 mondar
@@ -6717,7 +6716,6 @@ ngalum
 ngalur
 ngalus
 ngam
-ngama
 ngamal
 ngamar
 ngamba
@@ -6778,7 +6776,6 @@ nganjing
 nganjir
 nganjok
 nganjuk
-ngantang
 ngantar
 ngantel
 ngantem
@@ -6966,7 +6963,6 @@ ngeloni
 ngelor
 ngelu
 ngeluh
-ngelus
 ngeman
 ngemas
 ngembang
@@ -7102,7 +7098,6 @@ nggone
 nggoreng
 nggowo
 nggula
-nggulung
 ngguyu
 ngguyue
 ngibadah
@@ -7129,12 +7124,12 @@ ngika
 ngikat
 ngiki
 ngiku
-ngil
 ngila
 ngilang
 ngilekne
 ngiler
 ngili
+ngilih
 ngilo
 ngilok
 ngilu
@@ -9134,7 +9129,6 @@ rumbi
 rumi
 rumit
 rumiyin
-rumo
 rumongso
 rumput
 rumu
@@ -9444,7 +9438,6 @@ sejen
 sek
 seka
 sekar
-sekasa
 sekawan
 seke
 sekek
@@ -9788,7 +9781,6 @@ sugeh
 sugeng
 sugih
 suh
-suhi
 sui
 suji
 sujud
@@ -10474,7 +10466,6 @@ ugama
 uget
 ugi
 ugo
-ugoh
 ugu
 ugung
 uh
@@ -11034,7 +11025,6 @@ wedhang
 wedhi
 wedhus
 wedi
-wedo
 wedok
 wedus
 wee
