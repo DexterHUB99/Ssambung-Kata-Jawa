@@ -74,7 +74,6 @@ adipati
 adit
 ado
 adoh
-adohe
 adol
 adon
 adonan
@@ -225,7 +224,6 @@ aio
 air
 aira
 airan
-airi
 airo
 aisih
 aisin
@@ -612,7 +610,6 @@ anco
 ancok
 ancuk
 ancur
-ancure
 anda
 andai
 andal
@@ -812,6 +809,7 @@ anton
 antoni
 antoro
 antri
+antrian
 antuk
 antun
 antur
@@ -862,6 +860,7 @@ apih
 apik
 apika
 apikan
+apike
 apin
 apip
 apit
@@ -1306,6 +1305,7 @@ balur
 bam
 bambu
 ban
+banak
 banana
 bancak
 banci
@@ -2208,6 +2208,7 @@ direng
 diri
 diru
 dirum
+dirumah
 disa
 disan
 disana
@@ -2541,7 +2542,6 @@ eli
 elia
 elif
 elig
-elih
 elik
 elin
 eling
@@ -3625,7 +3625,6 @@ guwa
 guyah
 guyon
 guyonan
-guyone
 guys
 guyu
 guyub
@@ -3656,7 +3655,6 @@ haii
 hajar
 hajat
 haji
-hajien
 hajimi
 hak
 haka
@@ -3701,7 +3699,6 @@ hana
 hanacaraka
 hanan
 hancur
-hancuren
 hang
 hangat
 hangwo
@@ -3726,7 +3723,6 @@ haram
 harang
 harap
 harapan
-harapane
 hare
 haren
 harep
@@ -3745,7 +3741,6 @@ hartane
 haru
 harui
 harum
-harume
 harus
 haruse
 has
@@ -4176,7 +4171,6 @@ impian
 impil
 impit
 impor
-impun
 imuh
 imut
 in
@@ -4195,7 +4189,6 @@ inceng
 incer
 inda
 indah
-indahe
 indak
 indang
 indek
@@ -5320,6 +5313,7 @@ kikil
 kil
 kila
 kilan
+kilap
 kilas
 kilasan
 kilat
@@ -5872,7 +5866,6 @@ lelah
 lele
 leleh
 lelembut
-lelesen
 lelet
 leli
 lem
@@ -6783,7 +6776,6 @@ nabur
 nada
 nadah
 nadahi
-nadhah
 nadi
 nadyan
 nae
@@ -6991,7 +6983,6 @@ nduwe
 nduwur
 ne
 neb
-neba
 nebake
 nebas
 nebe
@@ -8480,7 +8471,6 @@ oncom
 onda
 onde
 ondha
-ondhe
 ondo
 ondol
 oneng
@@ -9382,7 +9372,6 @@ rancu
 randa
 randu
 randue
-randune
 rane
 rang
 rangda
@@ -9454,6 +9443,7 @@ raso
 rasu
 rasuk
 rasukan
+rasya
 rat
 rata
 ratai
@@ -9506,6 +9496,7 @@ rega
 regane
 reged
 reget
+regi
 regu
 reha
 rei
@@ -9796,7 +9787,6 @@ ruko
 ruku
 rukuh
 rukun
-rukuna
 rula
 ruli
 rum
@@ -10129,7 +10119,6 @@ sedaya
 sedeng
 sedereng
 sedha
-sedhela
 sedho
 sedi
 sedia
@@ -10146,7 +10135,6 @@ sego
 segoro
 seh
 sehat
-sei
 seje
 sejen
 sek
@@ -11377,7 +11365,6 @@ uma
 umaa
 umah
 umahe
-umai
 umak
 uman
 umar
@@ -11444,7 +11431,6 @@ unduh
 unduk
 undukan
 undur
-unduren
 une
 unek
 unem
@@ -11816,7 +11802,6 @@ wawa
 wawang
 wawasan
 wawe
-wawi
 wayah
 wayahe
 wayan
