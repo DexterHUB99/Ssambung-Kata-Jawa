@@ -1337,7 +1337,6 @@ begal
 begja
 bego
 beh
-beha
 behi
 bei
 beja
@@ -2115,6 +2114,7 @@ dipo
 dipu
 dipun
 dir
+diran
 diri
 dirum
 disa
@@ -4579,7 +4579,6 @@ kalahan
 kalai
 kalam
 kalang
-kalangkung
 kalap
 kalapa
 kalawan
@@ -4675,6 +4674,7 @@ kantor
 kanyatane
 kanyuwun
 kaos
+kap
 kapak
 kapal
 kapan
@@ -6375,6 +6375,7 @@ mongo
 moni
 montor
 monyet
+mop
 mopi
 mor
 mora
@@ -7044,7 +7045,6 @@ ngaru
 ngaruh
 ngaruk
 ngarung
-ngarus
 ngas
 ngasa
 ngasah
@@ -7234,7 +7234,6 @@ ngeo
 ngep
 ngepang
 ngepas
-ngepek
 ngepel
 ngepet
 ngepit
@@ -7248,6 +7247,7 @@ ngerandu
 ngerap
 ngerasani
 ngerek
+ngerenek
 ngeres
 ngeresi
 ngeret
@@ -8376,7 +8376,6 @@ palung
 pamahan
 pamali
 paman
-pamer
 pami
 pamil
 pamit
@@ -8747,6 +8746,7 @@ poe
 poho
 pohung
 poi
+poing
 pojok
 pojokan
 pok
@@ -10327,6 +10327,7 @@ tangan
 tangeh
 tangga
 tanggal
+tangguh
 tanggul
 tanggung
 tangi
@@ -10941,6 +10942,7 @@ umat
 umbah
 umbahan
 umbar
+umbas
 umbel
 umbi
 umbu
