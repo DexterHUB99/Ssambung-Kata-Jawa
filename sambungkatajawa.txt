@@ -520,6 +520,7 @@ ampok
 ampu
 ampuh
 ampun
+amput
 amri
 amrih
 amu
