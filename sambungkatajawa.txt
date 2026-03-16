@@ -1259,6 +1259,7 @@ bandeng
 bando
 bandrek
 bandung
+bane
 bangke
 bangkong
 bangsa
@@ -1339,6 +1340,7 @@ begal
 begja
 bego
 beh
+beha
 behi
 bei
 beja
@@ -2045,6 +2047,7 @@ digawa
 digo
 dihan
 diimboh
+dijak
 dijalan
 diji
 dik
@@ -2107,6 +2110,7 @@ dini
 dino
 dinoe
 dinten
+diora
 dipa
 dipan
 dipangan
@@ -2725,6 +2729,7 @@ erog
 eroh
 erok
 eron
+erong
 erop
 eror
 eros
@@ -2847,7 +2852,6 @@ eyang
 eye
 eyek
 eyo
-eyok
 eyos
 eyu
 eyup
@@ -3059,6 +3063,7 @@ gatel
 gateli
 gathel
 gathot
+gati
 gatok
 gatot
 gatuk
@@ -3433,6 +3438,7 @@ guling
 gulir
 gulu
 gulung
+gulungan
 gumati
 gumuh
 gumun
@@ -4005,6 +4011,7 @@ imen
 imi
 iming
 imit
+imla
 imo
 imoi
 impal
@@ -4503,7 +4510,6 @@ jujur
 jule
 juli
 juluk
-jum
 jumat
 jumblah
 jumeneng
@@ -4586,6 +4592,7 @@ kalahan
 kalai
 kalam
 kalang
+kalangkung
 kalap
 kalapa
 kalawan
@@ -4860,6 +4867,7 @@ kela
 kelabang
 kelah
 kelak
+kelakon
 kelalen
 kelam
 kelambe
@@ -5775,6 +5783,7 @@ lipit
 lipur
 lir
 lira
+lire
 liren
 liri
 lirih
@@ -6292,6 +6301,7 @@ milih
 milik
 milna
 milo
+milu
 mima
 mimi
 mimis
@@ -6999,6 +7009,7 @@ nganthi
 nganti
 ngantien
 ngantik
+ngantil
 ngantor
 ngantos
 ngantri
@@ -7052,6 +7063,7 @@ ngaru
 ngaruh
 ngaruk
 ngarung
+ngarus
 ngas
 ngasa
 ngasah
@@ -7241,6 +7253,7 @@ ngeo
 ngep
 ngepang
 ngepas
+ngepek
 ngepel
 ngepet
 ngepit
@@ -7963,6 +7976,7 @@ nyocot
 nyolong
 nyomot
 nyong
+nyuci
 nyuluh
 nyunggi
 nyungsep
@@ -8374,6 +8388,7 @@ palen
 paleng
 pali
 paling
+palir
 paliyan
 palo
 paloh
@@ -8383,6 +8398,7 @@ palung
 pamahan
 pamali
 paman
+pamer
 pami
 pamil
 pamit
@@ -8810,7 +8826,6 @@ pos
 pose
 posen
 posi
-posing
 pot
 potong
 powa
@@ -9651,7 +9666,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
@@ -10547,6 +10561,7 @@ timbang
 timbangan
 timbange
 timbul
+timbun
 timi
 timun
 timur
@@ -11707,4 +11722,5 @@ zakat
 zat
 ze
 ziarah
+zikir
 zina
