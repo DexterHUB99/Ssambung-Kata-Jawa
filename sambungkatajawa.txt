@@ -8669,6 +8669,7 @@ opoo
 opor
 opose
 oposi
+opowi
 opoyo
 or
 ora
@@ -11258,6 +11259,7 @@ tukul
 tul
 tula
 tulak
+tulan
 tulang
 tule
 tulen
