@@ -3347,6 +3347,7 @@ gondok
 gondol
 gondrong
 gong
+gongso
 goni
 gonjing
 gontor
@@ -8059,6 +8060,7 @@ okot
 okul
 okum
 okur
+okura
 okut
 okute
 ol
