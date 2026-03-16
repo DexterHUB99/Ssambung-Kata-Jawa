@@ -5738,6 +5738,7 @@ kuwo
 kuya
 kuyaka
 kuyo
+kwali
 kyai
 la
 lab
@@ -11865,6 +11866,7 @@ uyo
 uyuh
 uyuhmu
 uz
+via
 vila
 visa
 voli
