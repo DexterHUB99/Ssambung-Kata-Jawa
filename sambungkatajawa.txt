@@ -6047,6 +6047,7 @@ masi
 masih
 masio
 masjid
+masne
 maso
 masu
 masuk
@@ -7247,6 +7248,7 @@ ngima
 ngimam
 ngiman
 ngimbar
+ngimbas
 ngimbu
 ngimbuh
 ngimi
