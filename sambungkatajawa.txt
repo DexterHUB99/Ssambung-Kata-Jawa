@@ -8884,6 +8884,7 @@ pring
 prio
 pripun
 priwe
+pro
 pu
 puan
 puasa
