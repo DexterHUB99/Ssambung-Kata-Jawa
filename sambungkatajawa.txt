@@ -250,7 +250,6 @@ ajig
 ajih
 ajik
 ajim
-ajima
 ajin
 ajine
 ajing
@@ -676,6 +675,7 @@ anggur
 angguran
 angin
 angka
+angkana
 angkara
 angkasa
 angkat
@@ -855,6 +855,7 @@ aposi
 app
 apu
 apuh
+apun
 apung
 apuran
 apure
@@ -909,6 +910,7 @@ arim
 arin
 aring
 arip
+arir
 aris
 arisan
 arisna
@@ -4242,7 +4244,6 @@ irenge
 irengmu
 ires
 iri
-iria
 irian
 irie
 irig
@@ -4656,6 +4657,7 @@ kadal
 kadang
 kademan
 kadewa
+kadi
 kadong
 kados
 kadose
@@ -6216,6 +6218,7 @@ mandang
 mandeg
 mandhek
 mandi
+mandraguna
 mandu
 manduk
 mane
@@ -6886,7 +6889,6 @@ ndlosor
 ndoro
 nduk
 nduwe
-nduwur
 ne
 neb
 nebake
@@ -6998,6 +7000,7 @@ nesi
 nesu
 nesune
 net
+netas
 nete
 neteh
 netek
@@ -10623,6 +10626,7 @@ tapis
 tapuk
 tar
 tara
+taras
 tarek
 tari
 tarian
@@ -11321,6 +11325,7 @@ unjuk
 unjul
 unjung
 unki
+unma
 uno
 unta
 untah
