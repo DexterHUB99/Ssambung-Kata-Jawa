@@ -2082,6 +2082,7 @@ dikes
 diki
 dikir
 dikit
+diko
 dikon
 dikongkon
 dikontol
@@ -4894,6 +4895,7 @@ kecamatan
 kecap
 kecapi
 kece
+kecek
 kecel
 kecelek
 kecewa
@@ -8005,6 +8007,7 @@ nurah
 nure
 nuren
 nuri
+nurma
 nuro
 nuru
 nurun
