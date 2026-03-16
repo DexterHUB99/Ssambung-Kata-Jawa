@@ -203,6 +203,7 @@ aini
 aio
 air
 aira
+airan
 airo
 aisih
 aisin
@@ -7993,6 +7994,7 @@ pekok
 peksi
 pel
 pela
+pelakor
 pelan
 pele
 pelem
