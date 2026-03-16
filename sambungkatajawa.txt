@@ -4317,6 +4317,7 @@ jang
 jangan
 jangga
 janggut
+jangka
 jangkep
 jangkrik
 jani
@@ -10161,6 +10162,7 @@ surasa
 surat
 surau
 sure
+surek
 surem
 suren
 suri
