@@ -4637,6 +4637,7 @@ kasam
 kasang
 kasap
 kasar
+kasarasan
 kasat
 kasep
 kaset
@@ -7451,6 +7452,7 @@ ngunut
 ngup
 ngupah
 ngupai
+ngupakara
 ngupaya
 ngupel
 ngupi
