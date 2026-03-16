@@ -1201,7 +1201,6 @@ awor
 awu
 awuh
 awul
-awulo
 awur
 awuren
 ax
@@ -4369,6 +4368,7 @@ irig
 irigasi
 irih
 irik
+irim
 irin
 iring
 iringan
@@ -4676,7 +4676,6 @@ jinjing
 jinjit
 jino
 jinra
-jinta
 jinten
 jinwe
 jipang
@@ -9464,6 +9463,7 @@ ramene
 rames
 rami
 ramo
+rampa
 rampas
 ramping
 rampok
@@ -10630,7 +10630,6 @@ sue
 suen
 sugeh
 sugeng
-sugi
 sugih
 suh
 sui
@@ -11871,7 +11870,6 @@ wajib
 wajik
 wak
 wakil
-wakmu
 waktu
 waktune
 waku
