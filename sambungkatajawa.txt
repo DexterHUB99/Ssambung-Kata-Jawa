@@ -561,7 +561,6 @@ andai
 andal
 andalan
 andang
-andani
 andap
 andar
 andaran
@@ -3266,7 +3265,6 @@ gulak
 gulali
 gule
 gulek
-gulem
 guleman
 guleng
 guli
@@ -6237,7 +6235,6 @@ nah
 naha
 nahan
 nahar
-nahi
 nai
 naik
 naika
@@ -7273,7 +7270,6 @@ ngurus
 ngurusi
 ngurut
 ngus
-ngusa
 ngusak
 ngusap
 nguser
@@ -9971,7 +9967,6 @@ ter
 terak
 terang
 teras
-tere
 teri
 terima
 terlihat
@@ -10809,7 +10804,6 @@ wasno
 wasuh
 watak
 wati
-watir
 waton
 watone
 watu
