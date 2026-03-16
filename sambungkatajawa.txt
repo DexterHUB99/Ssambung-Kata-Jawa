@@ -110,6 +110,7 @@ ageng
 ager
 agi
 agih
+agin
 agor
 agu
 agung
@@ -853,9 +854,9 @@ aposi
 app
 apu
 apuh
-apun
 apung
 apuran
+apure
 apus
 apusa
 apuse
@@ -907,7 +908,6 @@ arim
 arin
 aring
 arip
-arir
 aris
 arisan
 arisna
@@ -2565,6 +2565,7 @@ emih
 emik
 emil
 emir
+emis
 emisi
 emo
 emod
@@ -4081,6 +4082,7 @@ imas
 imba
 imbaan
 imbah
+imbai
 imbal
 imbalan
 imbang
@@ -4145,6 +4147,7 @@ iner
 ines
 infaq
 ing
+inga
 ingah
 ingan
 ingat
@@ -4212,6 +4215,7 @@ ipna
 ipo
 ipoe
 ipone
+ipono
 ipra
 iprit
 ipuk
@@ -4239,6 +4243,7 @@ ires
 iri
 irian
 irie
+irig
 irigasi
 irih
 irik
@@ -4649,7 +4654,6 @@ kadal
 kadang
 kademan
 kadewa
-kadi
 kadong
 kados
 kadose
@@ -4959,6 +4963,7 @@ kediri
 keduhung
 kedul
 kedung
+kegowo
 keisi
 kejam
 kejer
@@ -6085,6 +6090,7 @@ lungguh
 lunging
 lungo
 lungsur
+luni
 lunjak
 luntur
 lunyu
@@ -6202,6 +6208,7 @@ manak
 manasi
 mancal
 mancing
+mandali
 mandan
 mandang
 mandeg
@@ -7138,6 +7145,7 @@ nganggo
 nganggok
 nganggur
 ngangkang
+ngangkat
 ngangluh
 ngangon
 ngangsal
@@ -7573,6 +7581,7 @@ ngira
 ngiri
 ngirim
 ngirimi
+ngirimna
 ngiring
 ngiris
 ngirit
@@ -9242,6 +9251,7 @@ rangda
 rangga
 ranggenah
 ranggi
+rangi
 rangka
 rangkat
 rangkul
@@ -10040,6 +10050,7 @@ sembuh
 sembur
 seme
 semen
+semene
 semo
 semok
 semot
