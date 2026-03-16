@@ -1322,6 +1322,7 @@ ban
 banak
 banana
 bancak
+bancet
 banci
 bandar
 bandeng
