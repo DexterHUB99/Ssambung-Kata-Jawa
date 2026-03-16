@@ -1221,6 +1221,7 @@ ban
 banana
 bancak
 banci
+bandar
 bandeng
 bando
 bandrek
