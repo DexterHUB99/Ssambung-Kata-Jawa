@@ -30,6 +30,7 @@ ac
 acak
 acan
 ace
+aceh
 aci
 acor
 acu
@@ -790,6 +791,7 @@ apika
 apikan
 apin
 apip
+apis
 apit
 apo
 apol
@@ -2634,6 +2636,7 @@ erti
 eru
 eruh
 eruk
+erum
 erun
 erung
 erup
@@ -2890,6 +2893,7 @@ ganjel
 ganjil
 gano
 ganteng
+gantengne
 ganthi
 ganti
 gantolan
@@ -3836,6 +3840,7 @@ imaan
 imai
 imam
 iman
+imane
 imar
 imas
 imba
@@ -3882,6 +3887,7 @@ inara
 inceng
 inda
 indah
+indahne
 indak
 indang
 indek
@@ -4177,6 +4183,7 @@ jangkrik
 jani
 janian
 janji
+jantan
 janti
 jantung
 jar
@@ -4210,7 +4217,9 @@ je
 jeding
 jeglong
 jeh
+jejeg
 jejel
+jejer
 jek
 jeke
 jelang
@@ -4237,6 +4246,7 @@ jera
 jeram
 jerami
 jeran
+jeremi
 jerih
 jero
 jeroan
@@ -5490,6 +5500,7 @@ libur
 licik
 licin
 lidah
+lidahne
 lider
 lie
 lih
@@ -6204,6 +6215,7 @@ mulan
 mulane
 mulang
 mulas
+mulat
 mule
 muleh
 mulek
@@ -6503,6 +6515,7 @@ neh
 nek
 neka
 nekad
+nekan
 nekani
 nekat
 neken
@@ -6668,7 +6681,9 @@ ngalum
 ngalur
 ngalus
 ngam
+ngamah
 ngamal
+ngamana
 ngamar
 ngamba
 ngambang
@@ -7024,6 +7039,7 @@ ngewu
 ngeyel
 ngg
 ngga
+nggabah
 nggae
 nggak
 nggali
@@ -7065,6 +7081,7 @@ ngie
 ngig
 ngih
 ngijab
+ngijak
 ngijing
 ngijol
 ngijoli
@@ -9059,6 +9076,7 @@ rum
 ruma
 rumah
 rumahe
+rumahne
 rumangsa
 rumangsane
 rumba
@@ -9340,6 +9358,7 @@ sayo
 sayor
 sayur
 sayuran
+sayurane
 se
 sea
 sebab
@@ -9585,6 +9604,7 @@ sirsak
 sirup
 sis
 sisa
+sisah
 sisan
 sisi
 sisih
@@ -9599,6 +9619,7 @@ siter
 sithik
 siti
 sitik
+sito
 sitok
 siwa
 siwak
@@ -9764,6 +9785,7 @@ sumuk
 sumur
 sun
 sunan
+sunar
 sunat
 sunda
 sundala
@@ -9969,6 +9991,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatan
 tatas
 tati
 tatik
@@ -10761,6 +10784,7 @@ usungi
 usuo
 usus
 ususa
+ususaha
 usut
 uswa
 ut
