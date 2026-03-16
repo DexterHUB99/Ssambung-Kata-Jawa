@@ -7918,6 +7918,7 @@ obek
 obel
 obeng
 obet
+obit
 oblak
 oblong
 obok
