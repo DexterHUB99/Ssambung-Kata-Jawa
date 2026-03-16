@@ -6054,6 +6054,7 @@ mata
 matam
 matamu
 matane
+mate
 matek
 mateng
 mateni
