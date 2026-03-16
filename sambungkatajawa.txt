@@ -9081,6 +9081,7 @@ sanggul
 sanggup
 sangit
 sangka
+sangkane
 sangking
 sangkuni
 sangon
