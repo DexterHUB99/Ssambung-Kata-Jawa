@@ -248,7 +248,6 @@ aka
 akad
 akah
 akak
-akaku
 akal
 akalan
 akale
@@ -903,7 +902,6 @@ asim
 asin
 asinan
 asing
-asip
 asli
 asline
 asma
@@ -1004,6 +1002,7 @@ atol
 atom
 atos
 atra
+atrap
 atri
 atu
 atuh
@@ -3732,6 +3731,7 @@ ilar
 ilas
 ilat
 ilate
+ilatmu
 iler
 ileran
 ilermu
@@ -6568,6 +6568,7 @@ ngan
 ngana
 nganah
 nganak
+nganan
 ngancani
 ngancing
 ngandang
@@ -6836,6 +6837,7 @@ ngerandu
 ngerasani
 ngerek
 ngeres
+ngeresi
 ngeret
 ngeri
 ngerit
@@ -7209,7 +7211,6 @@ ngusir
 ngusung
 ngusungi
 ngut
-nguta
 ngutang
 ngutek
 ngutik
@@ -8363,6 +8364,7 @@ pur
 pura
 puri
 purna
+purnama
 puro
 purun
 purwa
@@ -8529,6 +8531,7 @@ rapat
 rape
 rapet
 rapi
+rapia
 rapie
 rapih
 rapina
@@ -8544,6 +8547,7 @@ raro
 ras
 rasa
 rasah
+rasahe
 rasak
 rasakan
 rasake
@@ -8588,7 +8592,6 @@ rawon
 rawuh
 raya
 rayap
-rayi
 rayo
 rayon
 rayu
@@ -10622,6 +10625,7 @@ wader
 wadha
 wadoh
 wadon
+wadonan
 waduh
 waduk
 wadul
@@ -10783,6 +10787,7 @@ wie
 wifi
 wih
 wii
+wiira
 wijaya
 wiji
 wik
