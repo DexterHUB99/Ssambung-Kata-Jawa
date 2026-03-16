@@ -3347,7 +3347,6 @@ gondok
 gondol
 gondrong
 gong
-gongso
 goni
 gonjing
 gontor
@@ -4060,7 +4059,6 @@ ingkang
 ingko
 ingkung
 ingo
-ingong
 ingsun
 ingu
 inguk
@@ -6699,7 +6697,6 @@ nayo
 ncok
 ndadak
 ndak
-ndalem
 ndalu
 ndang
 ndas
@@ -8061,7 +8058,6 @@ okot
 okul
 okum
 okur
-okura
 okut
 okute
 ol
@@ -11560,7 +11556,6 @@ yana
 yang
 yani
 yano
-yanyo
 yao
 yap
 yapi
