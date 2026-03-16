@@ -560,6 +560,7 @@ andai
 andal
 andalan
 andang
+andani
 andap
 andar
 andaran
@@ -4682,7 +4683,6 @@ kempel
 kempis
 kempol
 kemproh
-kempul
 kemroh
 kemul
 kemulan
@@ -6798,7 +6798,6 @@ ngedani
 ngeden
 ngedeni
 ngedol
-ngeeh
 ngegame
 ngegas
 ngeh
@@ -9962,6 +9961,7 @@ ter
 terak
 terang
 teras
+tere
 teri
 terima
 terlihat
@@ -10679,7 +10679,6 @@ utir
 utira
 utma
 uto
-utoh
 utowo
 utri
 utu
