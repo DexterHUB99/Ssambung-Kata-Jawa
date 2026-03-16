@@ -9648,6 +9648,7 @@ sesupe
 setam
 setan
 setaun
+seti
 setrika
 setunggal
 sewa
