@@ -870,7 +870,6 @@ arar
 arara
 aras
 arat
-ardi
 are
 areg
 areh
@@ -3038,7 +3037,6 @@ gantungan
 ganyong
 gap
 gapa
-gapan
 gapapa
 gapi
 gapil
@@ -3895,7 +3893,6 @@ iha
 ihaa
 ihai
 ihan
-ihara
 ihe
 ihen
 ihha
@@ -4233,7 +4230,6 @@ iseng
 isep
 iser
 ises
-isha
 isi
 isian
 isien
@@ -10449,6 +10445,7 @@ tanggung
 tangi
 tangina
 tangkap
+tanglet
 tani
 tanjung
 tanpa
@@ -10717,7 +10714,6 @@ tokek
 token
 toko
 tokoh
-tola
 tolak
 tole
 toleh
@@ -11010,7 +11006,6 @@ ukuren
 ukuro
 ul
 ula
-ulaa
 ulah
 ulahan
 ulahmu
@@ -11262,6 +11257,7 @@ urup
 urus
 urusan
 urusane
+uruse
 urusen
 urusi
 urusno
@@ -11424,6 +11420,7 @@ wala
 walah
 walang
 wale
+walek
 wali
 walik
 walisongo
