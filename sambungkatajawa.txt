@@ -2808,6 +2808,7 @@ gale
 galeh
 galek
 galem
+galen
 galeng
 galengan
 galer
@@ -6328,6 +6329,7 @@ nanang
 nanas
 nandang
 nandhang
+nandhur
 nanduk
 nandur
 nanem
@@ -11054,6 +11056,7 @@ yani
 yano
 yao
 yap
+yapi
 yaping
 yapo
 yar
