@@ -4042,6 +4042,7 @@ ines
 infaq
 ing
 ingah
+ingan
 ingat
 ingatan
 ingati
