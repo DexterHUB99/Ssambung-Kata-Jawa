@@ -991,6 +991,7 @@ asup
 asupan
 asur
 asus
+asusi
 asut
 asuti
 asuw
@@ -1284,6 +1285,7 @@ bato
 batok
 batu
 batuk
+batune
 baturan
 bau
 bawa
@@ -3754,6 +3756,7 @@ hura
 hure
 huri
 hurip
+huripa
 huru
 huruf
 hurung
