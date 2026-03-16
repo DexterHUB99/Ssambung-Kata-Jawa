@@ -2945,6 +2945,7 @@ etok
 etol
 eton
 etos
+etose
 etot
 etu
 etub
