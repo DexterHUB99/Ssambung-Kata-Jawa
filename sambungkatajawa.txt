@@ -2990,6 +2990,7 @@ etus
 ev
 eva
 eval
+evin
 evo
 ew
 ewa
