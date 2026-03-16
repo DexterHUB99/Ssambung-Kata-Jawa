@@ -265,7 +265,6 @@ aju
 ajudan
 ajur
 ajura
-ajuran
 ak
 aka
 akad
@@ -662,7 +661,6 @@ anggene
 anggep
 angger
 anggere
-angget
 anggit
 anggo
 anggok
@@ -855,6 +853,7 @@ apu
 apuh
 apung
 apuran
+apure
 apus
 apusa
 apuse
@@ -4079,6 +4078,7 @@ imas
 imba
 imbaan
 imbah
+imbai
 imbal
 imbalan
 imbang
@@ -5057,7 +5057,6 @@ kenari
 kencing
 kencot
 kencur
-kendak
 kendal
 kendang
 kendel
@@ -6751,7 +6750,6 @@ nampan
 nampani
 nampar
 nampil
-namping
 nampol
 namu
 namung
@@ -6881,7 +6879,6 @@ nebas
 nebe
 neda
 nedah
-nedan
 nedha
 nedhaa
 nedho
@@ -7173,7 +7170,6 @@ ngapai
 ngapain
 ngapak
 ngapal
-ngapalake
 ngapati
 ngapel
 ngapeli
@@ -9239,6 +9235,7 @@ rangda
 rangga
 ranggenah
 ranggi
+rangi
 rangka
 rangkat
 rangkul
@@ -11430,7 +11427,6 @@ usap
 usar
 use
 usek
-usem
 user
 usi
 usia
@@ -11665,7 +11661,6 @@ wek
 weka
 wekasan
 wekdal
-weke
 weki
 weko
 wektu
