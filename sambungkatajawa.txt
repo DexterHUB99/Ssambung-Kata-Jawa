@@ -4284,6 +4284,7 @@ jura
 juragan
 juri
 juru
+jurus
 jus
 juta
 ka
@@ -4672,7 +4673,6 @@ kenanga
 kenapa
 kenari
 kencing
-kencot
 kencur
 kendal
 kendang
@@ -7394,6 +7394,7 @@ nongkrong
 noni
 nonjok
 nono
+nonom
 nonton
 nontone
 nop
@@ -9813,6 +9814,7 @@ tat
 tata
 tatag
 tatah
+tatai
 tatak
 tatakrama
 tatas
