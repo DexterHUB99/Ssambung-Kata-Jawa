@@ -3767,6 +3767,7 @@ harga
 hargai
 hari
 harian
+harien
 harimau
 harimu
 harjo
@@ -11233,6 +11234,7 @@ tunas
 tunggal
 tunggale
 tunggu
+tungguen
 tungkak
 tupi
 tur
