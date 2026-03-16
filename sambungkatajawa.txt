@@ -2690,6 +2690,7 @@ ewa
 ewak
 ewan
 ewang
+ewangi
 ewe
 ewean
 eweh
@@ -9486,6 +9487,7 @@ sitok
 siwa
 siwak
 siwur
+siya
 siyam
 siyang
 siyo
