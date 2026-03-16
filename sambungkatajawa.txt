@@ -4443,6 +4443,7 @@ jole
 jolen
 joli
 jom
+joma
 jombang
 jomblo
 jon
@@ -7317,6 +7318,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbangi
 ngimbar
 ngimbas
 ngimbu
