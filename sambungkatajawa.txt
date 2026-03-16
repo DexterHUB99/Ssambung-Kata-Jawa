@@ -1249,6 +1249,7 @@ banyu
 bapak
 bapakmu
 bar
+barek
 bareng
 bariki
 baron
