@@ -400,6 +400,7 @@ alunan
 alur
 alus
 aluse
+alwa
 alwan
 am
 ama
@@ -1832,6 +1833,7 @@ dasa
 dasar
 dasare
 dasi
+dat
 datu
 daun
 dawa
@@ -2693,6 +2695,7 @@ eyu
 eyup
 fafa
 faham
+faki
 fakir
 fakta
 famu
@@ -10882,6 +10885,7 @@ yaelah
 yah
 yaho
 yai
+yaiya
 yak
 yaka
 yakan
