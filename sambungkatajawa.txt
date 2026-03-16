@@ -250,6 +250,7 @@ ajig
 ajih
 ajik
 ajim
+ajima
 ajin
 ajine
 ajing
@@ -3656,7 +3657,6 @@ hap
 hapa
 hape
 hapi
-hapunten
 hapus
 hapusi
 har
@@ -4242,6 +4242,7 @@ irenge
 irengmu
 ires
 iri
+iria
 irian
 irie
 irig
@@ -6885,6 +6886,7 @@ ndlosor
 ndoro
 nduk
 nduwe
+nduwur
 ne
 neb
 nebake
@@ -7402,7 +7404,6 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
-ngengko
 ngeniko
 ngenjang
 ngeno
