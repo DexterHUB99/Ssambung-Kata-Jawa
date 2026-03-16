@@ -5,6 +5,7 @@ ab
 aba
 abab
 abad
+abadi
 abah
 abak
 abang
@@ -1943,6 +1944,7 @@ dilah
 dilalah
 dilam
 dilan
+dilarang
 dilas
 dilat
 dilati
