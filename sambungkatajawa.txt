@@ -250,6 +250,7 @@ ajig
 ajih
 ajik
 ajim
+ajima
 ajin
 ajine
 ajing
@@ -1419,6 +1420,7 @@ bengi
 bengkok
 beni
 benjol
+beno
 bentak
 benten
 bentrok
@@ -1557,6 +1559,7 @@ bongkok
 bongo
 bontot
 bop
+bopo
 bor
 boring
 boro
@@ -2818,7 +2821,6 @@ ese
 eseh
 esek
 esem
-eseman
 eseme
 esemka
 esen
@@ -3657,7 +3659,6 @@ hap
 hapa
 hape
 hapi
-hapunten
 hapus
 hapusi
 har
@@ -4019,7 +4020,6 @@ ikon
 ikoro
 ikrar
 iku
-ikua
 ikue
 ikui
 ikuku
@@ -4244,6 +4244,7 @@ irenge
 irengmu
 ires
 iri
+iria
 irian
 irie
 irig
@@ -4270,7 +4271,6 @@ irug
 irum
 irung
 irunge
-irungmu
 irup
 irus
 irut
@@ -4568,7 +4568,6 @@ jiret
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -5171,7 +5170,6 @@ keruh
 kerupuk
 kerutan
 kes
-kesa
 kesah
 kesak
 kesal
@@ -6890,6 +6888,7 @@ ndlosor
 ndoro
 nduk
 nduwe
+nduwur
 ne
 neb
 nebake
@@ -7407,7 +7406,6 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
-ngengko
 ngeniko
 ngenjang
 ngeno
@@ -7572,6 +7570,7 @@ ngincer
 ngindang
 nginep
 nging
+nginggil
 ngingkang
 ngini
 nginjak
@@ -10199,7 +10198,6 @@ simpenan
 simu
 sin
 sina
-sinare
 sinau
 sinden
 sindu
@@ -10920,6 +10918,7 @@ toro
 tos
 tosa
 tose
+tot
 tota
 totak
 toto
@@ -11872,7 +11871,6 @@ yano
 yanyo
 yao
 yap
-yapa
 yapi
 yaping
 yapo
