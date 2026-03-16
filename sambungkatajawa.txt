@@ -6377,6 +6377,7 @@ nasi
 nasia
 nasib
 nasikuning
+nasipecel
 nastar
 nasu
 nat
