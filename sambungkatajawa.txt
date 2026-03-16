@@ -42,6 +42,7 @@ acuh
 acung
 ad
 ada
+adab
 adah
 adai
 adal
@@ -1784,6 +1785,7 @@ celeng
 celengan
 celi
 celuk
+celup
 cemani
 cemen
 cempe
@@ -4696,6 +4698,7 @@ jus
 juta
 ka
 kabar
+kabare
 kabeh
 kabel
 kabul
@@ -5031,6 +5034,7 @@ kediri
 keduhung
 kedul
 kedung
+kedut
 kegowo
 keisi
 kejam
@@ -7374,6 +7378,7 @@ ngawal
 ngawali
 ngawang
 ngawas
+ngawasi
 ngawe
 ngaweh
 ngawer
@@ -7911,6 +7916,7 @@ nguntung
 ngunu
 ngunung
 ngunut
+ngunyem
 ngup
 ngupah
 ngupai
@@ -10179,6 +10185,7 @@ sembur
 seme
 semen
 semene
+semir
 semo
 semok
 semot
@@ -10883,6 +10890,7 @@ ter
 terak
 terang
 teras
+terasi
 tere
 teri
 terima
@@ -11643,6 +11651,7 @@ utawi
 utawo
 ute
 utek
+utekan
 uteke
 utekmu
 utel
