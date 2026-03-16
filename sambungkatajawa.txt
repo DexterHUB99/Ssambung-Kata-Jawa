@@ -523,6 +523,7 @@ ampok
 ampu
 ampuh
 ampun
+ampune
 amput
 amri
 amrih
@@ -2621,6 +2622,7 @@ epis
 epo
 epoh
 epok
+epon
 epor
 epos
 epot
@@ -7802,6 +7804,7 @@ obati
 obek
 obel
 obeng
+oblak
 oblong
 obok
 obong
