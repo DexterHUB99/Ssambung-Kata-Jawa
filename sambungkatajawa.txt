@@ -672,7 +672,6 @@ angs
 angsa
 angsal
 angsalipun
-angsara
 angsle
 angso
 angsul
@@ -805,7 +804,6 @@ apel
 apem
 apes
 api
-apih
 apik
 apika
 apikan
@@ -1329,7 +1327,6 @@ bekal
 bekan
 bekas
 bekel
-bekne
 beko
 bel
 bela
@@ -1376,6 +1373,7 @@ bes
 besan
 besar
 besek
+besi
 besok
 besuk
 besuki
@@ -1726,6 +1724,7 @@ cicir
 cicit
 ciduk
 cik
+cika
 cikal
 ciken
 ciki
@@ -1855,6 +1854,7 @@ dadi
 dados
 dadu
 daduk
+daga
 dagang
 dagelan
 daging
@@ -2015,6 +2015,7 @@ didu
 diewe
 difa
 digawa
+digawe
 digo
 dihan
 diimboh
@@ -2145,6 +2146,7 @@ dongol
 doni
 dono
 donya
+donyo
 dop
 dopo
 dor
@@ -2615,6 +2617,7 @@ enyak
 enyong
 ep
 epa
+epah
 epak
 epal
 epam
@@ -3107,6 +3110,7 @@ gembleng
 gemblong
 gemblung
 gembok
+gemboke
 gembong
 gembrot
 gembung
@@ -3397,7 +3401,9 @@ gumuh
 gumun
 gun
 guna
+gunaake
 gunae
+gunake
 gundah
 gundam
 gundhul
@@ -4509,7 +4515,6 @@ kaka
 kakak
 kakaka
 kakang
-kake
 kakehan
 kakek
 kaki
@@ -4549,6 +4554,7 @@ kalong
 kalor
 kalung
 kalut
+kaluweh
 kam
 kama
 kamak
@@ -5342,6 +5348,7 @@ kursi
 kursii
 kuru
 kurung
+kurungan
 kurus
 kus
 kusa
@@ -5595,7 +5602,6 @@ lemu
 lemut
 len
 lena
-lendra
 leng
 lengen
 lenggah
@@ -5771,6 +5777,7 @@ lomo
 lomot
 lompat
 lon
+loncang
 loncat
 lonceng
 londho
@@ -6637,7 +6644,6 @@ ndelok
 nderek
 ndeso
 ndlogok
-ndlosor
 ndoro
 nduk
 nduwe
@@ -7215,6 +7221,7 @@ nggae
 nggak
 nggali
 nggambar
+ngganti
 nggarap
 nggawa
 nggawe
@@ -7630,6 +7637,7 @@ ninggal
 ninggalake
 ninggali
 ningkat
+ningki
 ningning
 ningsih
 nini
@@ -8063,7 +8071,6 @@ ongkose
 ongol
 online
 ono
-onoa
 onoe
 onone
 onoo
@@ -8703,6 +8710,7 @@ powo
 poya
 poye
 poyo
+praja
 prajurit
 prakawis
 pranata
@@ -9080,6 +9088,7 @@ rena
 renang
 rencana
 rencang
+renda
 rendang
 rendem
 rendeng
@@ -9320,6 +9329,7 @@ rumput
 rumu
 rumus
 run
+runa
 runcing
 rundingan
 rung
@@ -10086,6 +10096,7 @@ sus
 susa
 susah
 susan
+suse
 susi
 susila
 susu
@@ -10198,7 +10209,6 @@ tandhuk
 tanduk
 tandur
 tanduran
-tandurane
 tangan
 tangeh
 tangga
@@ -10548,6 +10558,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulunge
 tulungi
 tulus
@@ -10695,7 +10706,6 @@ ujaran
 uji
 ujia
 ujian
-ujub
 ujuk
 ujul
 ujun
@@ -10799,6 +10809,7 @@ ulu
 uluk
 ulun
 ulung
+ulup
 ulur
 um
 uma
