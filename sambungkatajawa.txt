@@ -528,6 +528,7 @@ amus
 amut
 an
 ana
+anaa
 anae
 anag
 anah
@@ -2789,6 +2790,7 @@ gabut
 gaco
 gada
 gadah
+gadai
 gadang
 gadha
 gadhah
@@ -9497,6 +9499,7 @@ sepat
 sepatu
 sepet
 sepi
+sepo
 sepuh
 sepuluh
 sepur
@@ -11124,6 +11127,7 @@ wor
 woro
 wortel
 wos
+wose
 wosing
 wowi
 wowo
