@@ -1070,7 +1070,6 @@ awuren
 ax
 ay
 aya
-ayag
 ayah
 ayak
 ayal
@@ -2108,7 +2107,6 @@ durian
 durjana
 durma
 durung
-dus
 duso
 dusun
 dut
@@ -2639,6 +2637,7 @@ etika
 eting
 etis
 eto
+etod
 etoh
 etok
 etol
@@ -3147,6 +3146,7 @@ golonga
 golongan
 gombal
 gombalan
+gombang
 gondhok
 gondo
 gondok
@@ -4422,7 +4422,6 @@ karang
 karat
 karawang
 karawitan
-karbit
 kare
 karek
 karem
@@ -4595,6 +4594,7 @@ keluarga
 keluh
 kelut
 kem
+kema
 kemah
 kemaki
 kemalan
@@ -4773,6 +4773,7 @@ ketupat
 ketus
 ketut
 keur
+kewah
 kewan
 kewek
 kewer
@@ -7464,6 +7465,7 @@ nyirep
 nyo
 nyocot
 nyolong
+nyomot
 nyong
 nyuluh
 nyunggi
@@ -7663,6 +7665,7 @@ onori
 onta
 ontang
 ontel
+onten
 onthel
 onto
 ontong
@@ -8007,6 +8010,7 @@ peju
 pek
 peka
 pekan
+peken
 peking
 peko
 pekok
@@ -8024,6 +8028,7 @@ pelita
 pelo
 peluk
 pemo
+pemuda
 pen
 pena
 penak
@@ -8467,7 +8472,6 @@ ranggi
 rangka
 rangkat
 rangkul
-rangkum
 rangu
 rani
 ranjang
@@ -8619,7 +8623,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
@@ -9121,6 +9124,7 @@ sedereng
 sedha
 sedho
 sedi
+sedia
 sedih
 sedina
 seduh
@@ -10331,11 +10335,11 @@ unggul
 ungkal
 ungkap
 ungkapan
-ungkar
 ungkara
 ungkas
 ungkir
 ungkit
+ungkul
 ungkur
 ungu
 uni
