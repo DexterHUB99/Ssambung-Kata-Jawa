@@ -802,6 +802,7 @@ arahan
 arai
 arak
 aram
+arama
 arami
 aran
 arane
@@ -5910,6 +5911,7 @@ melok
 melu
 meluk
 mem
+memakai
 memang
 memar
 membal
