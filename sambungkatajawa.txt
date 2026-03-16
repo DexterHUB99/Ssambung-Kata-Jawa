@@ -1831,7 +1831,6 @@ dasi
 datu
 daun
 dawa
-dawah
 dawet
 dawir
 dawuh
@@ -1892,7 +1891,6 @@ deru
 des
 desa
 deso
-det
 dewa
 dewe
 dewi
@@ -3749,7 +3747,6 @@ ilon
 ilu
 ilui
 iluk
-ilwa
 ilyas
 im
 ima
@@ -4152,7 +4149,6 @@ jeran
 jerih
 jero
 jeruk
-jet
 jeti
 ji
 jidat
@@ -4240,7 +4236,6 @@ joss
 jotos
 jual
 jualan
-jubah
 jujug
 jujur
 jule
@@ -5197,7 +5192,6 @@ lamper
 lamping
 lampir
 lampu
-lampune
 lampung
 lamu
 lamun
@@ -7947,7 +7941,6 @@ papak
 papan
 papat
 papi
-papo
 papu
 par
 para
@@ -8218,6 +8211,7 @@ piyak
 piyambak
 piyan
 piye
+piyoh
 po
 poa
 poal
@@ -9760,7 +9754,6 @@ taun
 tawa
 tawaf
 tawan
-tawang
 tawar
 tawas
 tawi
@@ -10155,7 +10148,6 @@ udutan
 ue
 uem
 uen
-uf
 ug
 uga
 ugal
@@ -10219,6 +10211,7 @@ ukmo
 ukmu
 ukna
 uko
+ukok
 ukol
 ukon
 ukop
