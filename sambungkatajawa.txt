@@ -1,5 +1,4 @@
 aa
-aae
 aah
 aaha
 ab
@@ -783,7 +782,6 @@ anti
 antik
 anting
 anto
-antoi
 anton
 antoni
 antoro
@@ -939,7 +937,6 @@ arun
 arup
 arupa
 arus
-arut
 arwa
 arwah
 arya
@@ -1420,6 +1417,7 @@ beri
 berisik
 berkah
 bero
+berok
 berot
 beru
 bes
@@ -3612,7 +3610,6 @@ hamel
 hami
 hamil
 hamis
-hamo
 hampir
 hamu
 han
@@ -4473,6 +4470,7 @@ jenenge
 jeng
 jenggot
 jengkal
+jengkel
 jengne
 jeno
 jer
@@ -4526,7 +4524,6 @@ jir
 jira
 jiran
 jireh
-jiret
 jiri
 jirih
 jit
@@ -4759,7 +4756,6 @@ kantil
 kanto
 kantongan
 kantor
-kantun
 kanyatane
 kanyuwun
 kaos
@@ -5791,6 +5787,7 @@ leto
 letong
 lewat
 leyeh
+lha
 li
 lia
 lian
@@ -6908,7 +6905,6 @@ nenek
 nenen
 nenenen
 neng
-nengah
 nengdi
 nenge
 nengen
@@ -8388,6 +8384,7 @@ orong
 oros
 orosi
 orotan
+oruk
 os
 osah
 osaha
@@ -9235,6 +9232,7 @@ rasan
 rasane
 rasani
 rase
+rasek
 rasi
 rasih
 rasik
@@ -9500,7 +9498,6 @@ roha
 roho
 roi
 rok
-roka
 roke
 roket
 roki
