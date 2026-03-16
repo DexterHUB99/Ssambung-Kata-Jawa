@@ -175,6 +175,7 @@ ahom
 ahon
 ahop
 ahor
+ahos
 ahoy
 ahu
 ahud
@@ -707,6 +708,7 @@ anjay
 anjeg
 anji
 anjian
+anjimi
 anjing
 anjining
 anjir
@@ -731,6 +733,7 @@ anom
 anoman
 anon
 anop
+anor
 anot
 ansur
 ansuran
@@ -1405,6 +1408,7 @@ bidik
 bidun
 bidur
 bien
+bigan
 bigu
 bijak
 biji
@@ -1887,6 +1891,7 @@ damen
 dami
 dampak
 dampal
+dampit
 damput
 damu
 dan
@@ -5912,6 +5917,7 @@ madosi
 madu
 madul
 madura
+maduro
 madya
 mae
 maem
@@ -6419,6 +6425,7 @@ mut
 muta
 mutah
 mutan
+mute
 muten
 muter
 muti
@@ -6906,6 +6913,7 @@ ngantor
 ngantos
 ngantri
 ngantuk
+ngantuki
 ngantung
 nganu
 ngaos
@@ -7909,7 +7917,6 @@ ojar
 ojek
 ojekan
 ojen
-ojik
 ojil
 ojo
 ojok
@@ -9582,7 +9589,6 @@ sayak
 sayang
 sayo
 sayor
-sayuk
 sayur
 sayuran
 se
@@ -11072,6 +11078,7 @@ utekmu
 utel
 uten
 uter
+uthi
 uti
 utik
 uting
