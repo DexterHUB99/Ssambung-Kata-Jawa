@@ -250,7 +250,6 @@ ajig
 ajih
 ajik
 ajim
-ajima
 ajin
 ajine
 ajing
@@ -1558,7 +1557,6 @@ bongkok
 bongo
 bontot
 bop
-bopo
 bor
 boring
 boro
@@ -2820,6 +2818,7 @@ ese
 eseh
 esek
 esem
+eseman
 eseme
 esemka
 esen
@@ -3658,6 +3657,7 @@ hap
 hapa
 hape
 hapi
+hapunten
 hapus
 hapusi
 har
@@ -4243,7 +4243,6 @@ irenge
 irengmu
 ires
 iri
-iria
 irian
 irie
 irig
@@ -4270,6 +4269,7 @@ irug
 irum
 irung
 irunge
+irungmu
 irup
 irus
 irut
@@ -6887,7 +6887,6 @@ ndlosor
 ndoro
 nduk
 nduwe
-nduwur
 ne
 neb
 nebake
@@ -7405,6 +7404,7 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
+ngengko
 ngeniko
 ngenjang
 ngeno
