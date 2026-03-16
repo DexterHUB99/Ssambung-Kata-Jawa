@@ -603,6 +603,7 @@ andheng
 andhikane
 andhong
 andi
+andika
 andini
 andok
 andon
@@ -4915,6 +4916,7 @@ kemulan
 ken
 kena
 kenak
+kenang
 kenanga
 kenapa
 kenari
@@ -9944,6 +9946,7 @@ sisih
 sisik
 sisil
 sisir
+sisisik
 siso
 sisu
 siswo
@@ -11576,6 +11579,7 @@ yodi
 yoe
 yoga
 yogya
+yogyakarta
 yoh
 yohan
 yoi
