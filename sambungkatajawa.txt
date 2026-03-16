@@ -922,6 +922,7 @@ aru
 arud
 arue
 aruh
+aruk
 arul
 arum
 arun
@@ -5543,6 +5544,7 @@ lame
 lamen
 lami
 lamis
+lamon
 lamongan
 lampah
 lampar
