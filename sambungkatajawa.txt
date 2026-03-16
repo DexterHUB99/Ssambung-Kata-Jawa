@@ -1259,6 +1259,7 @@ bancak
 banci
 bandar
 bandeng
+bandit
 bando
 bandrek
 bandung
@@ -8569,6 +8570,7 @@ pedah
 pedang
 pede
 pedes
+pedhot
 pedot
 pee
 pegat
@@ -9284,6 +9286,7 @@ restu
 ret
 retak
 reti
+rewa
 rewang
 rewel
 rewo
