@@ -3101,6 +3101,7 @@ gemuk
 gen
 gena
 genah
+genahe
 genap
 gendak
 gendar
@@ -7493,6 +7494,7 @@ ngusap
 nguser
 ngusi
 ngusik
+ngusili
 ngusir
 ngusung
 ngusungi
@@ -8258,6 +8260,7 @@ panjaluk
 panjang
 panjenengan
 panji
+panta
 pantai
 pantang
 pantar
