@@ -5167,6 +5167,7 @@ ladak
 lading
 laen
 lagi
+lagian
 lagu
 lah
 laha
@@ -7358,6 +7359,7 @@ nom
 noman
 nombak
 nombok
+nomboki
 nombol
 nome
 nomer
@@ -10977,6 +10979,7 @@ yoiku
 yok
 yoka
 yoki
+yoko
 yokono
 yola
 yole
