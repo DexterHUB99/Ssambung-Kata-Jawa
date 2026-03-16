@@ -40,7 +40,6 @@ acuh
 acung
 ad
 ada
-adab
 adah
 adai
 adal
@@ -397,7 +396,6 @@ alis
 alisa
 alisan
 alit
-aliya
 alka
 allahuakbar
 alm
@@ -1463,7 +1461,6 @@ bilahi
 bilara
 bili
 bilih
-bilo
 bilu
 bima
 bimo
@@ -1692,7 +1689,6 @@ cap
 capek
 capi
 caping
-capu
 capung
 cara
 carane
@@ -2099,7 +2095,6 @@ dilut
 dim
 dima
 dimah
-dimakan
 diman
 dimana
 dimar
@@ -2138,7 +2133,6 @@ dir
 diran
 diri
 dirum
-dirumah
 disa
 disan
 disana
@@ -2161,7 +2155,6 @@ do
 doa
 dobleh
 dobol
-dodi
 dodo
 dodok
 dodol
@@ -2261,7 +2254,6 @@ dungo
 dungu
 dupa
 dupak
-dupel
 dupo
 dur
 dura
@@ -2406,7 +2398,6 @@ ekere
 ekes
 eket
 eki
-ekih
 ekik
 ekil
 ekin
@@ -2878,7 +2869,6 @@ eyang
 eye
 eyek
 eyo
-eyok
 eyos
 eyu
 eyup
@@ -3333,7 +3323,6 @@ giring
 giris
 giru
 gisa
-gisik
 gita
 gitar
 githok
@@ -3974,7 +3963,6 @@ ila
 ilaa
 ilag
 ilah
-ilaha
 ilahi
 ilai
 ilak
@@ -4393,7 +4381,6 @@ jarene
 jari
 jarik
 jaring
-jarum
 jas
 jasa
 jatah
@@ -4544,7 +4531,6 @@ jujur
 jule
 juli
 juluk
-jum
 jumat
 jumblah
 jumeneng
@@ -4880,7 +4866,6 @@ kecot
 kecut
 kedah
 kedanan
-kedang
 kedaton
 keder
 kediri
@@ -5162,7 +5147,6 @@ kilat
 kile
 kilen
 kili
-kilos
 kim
 kima
 kiman
@@ -6259,7 +6243,6 @@ melas
 melati
 melek
 melet
-meli
 melinjo
 melok
 melon
@@ -6435,7 +6418,6 @@ mongo
 moni
 montor
 monyet
-monyong
 mop
 mopi
 mor
@@ -6901,7 +6883,6 @@ ngaba
 ngabab
 ngabar
 ngabari
-ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -7245,7 +7226,6 @@ ngelon
 ngeloni
 ngelor
 ngelu
-ngeludah
 ngeluh
 ngeman
 ngemang
@@ -7967,7 +7947,6 @@ nup
 nur
 nura
 nurah
-nurani
 nure
 nuren
 nuri
@@ -8127,7 +8106,6 @@ okera
 okeran
 okerek
 okeri
-okero
 oket
 okin
 okok
@@ -8301,7 +8279,6 @@ oranye
 orapapa
 orapopo
 oras
-orasa
 orasah
 orasi
 oratau
@@ -8680,7 +8657,6 @@ peteng
 pethuk
 peti
 petik
-petir
 petruk
 pewa
 peye
@@ -8886,7 +8862,6 @@ pos
 pose
 posen
 posi
-posing
 pot
 potong
 powa
@@ -9273,7 +9248,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
@@ -9576,14 +9550,12 @@ sabit
 sablon
 sabok
 sabtu
-sabuh
 sabuk
 sabun
 sad
 sada
 sadar
 sade
-sadewa
 sadina
 sadis
 sadulur
@@ -9657,7 +9629,6 @@ salon
 salut
 sam
 sama
-samah
 samak
 saman
 samar
@@ -9670,7 +9641,6 @@ samben
 sambet
 sambi
 sambil
-sambo
 sambung
 sambut
 sami
@@ -9733,7 +9703,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
@@ -9742,7 +9711,6 @@ sapo
 sapu
 sapura
 saput
-saputra
 sar
 sara
 saran
@@ -9775,7 +9743,6 @@ sata
 sate
 sati
 satitik
-satria
 satru
 satu
 satunggal
@@ -9974,7 +9941,6 @@ sia
 sial
 siala
 sialan
-siamang
 siap
 siapa
 siapo
@@ -10400,7 +10366,6 @@ tambah
 tambak
 tambal
 tambang
-tambel
 tambi
 tameng
 tami
@@ -10965,7 +10930,6 @@ ukma
 ukmo
 ukmu
 ukna
-ukno
 uko
 ukok
 ukol
