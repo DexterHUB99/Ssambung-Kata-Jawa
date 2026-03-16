@@ -122,6 +122,7 @@ ahak
 ahal
 aham
 ahan
+ahap
 ahar
 ahas
 ahat
@@ -2631,6 +2632,7 @@ enyak
 enyong
 ep
 epa
+epah
 epak
 epal
 epam
@@ -5302,6 +5304,7 @@ kulan
 kulang
 kule
 kulem
+kulen
 kuli
 kulina
 kulit
