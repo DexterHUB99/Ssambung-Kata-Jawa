@@ -1122,6 +1122,7 @@ bacak
 bacin
 bacot
 bacut
+badak
 badeg
 badek
 badhe
@@ -4352,6 +4353,7 @@ kampung
 kampungan
 kampus
 kamu
+kamui
 kamulyan
 kamus
 kan
