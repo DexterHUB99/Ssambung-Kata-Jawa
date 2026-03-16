@@ -2192,6 +2192,7 @@ dugi
 dugo
 dugu
 duh
+duha
 duhur
 duit
 dujer
@@ -4661,6 +4662,7 @@ kapi
 kapik
 kaping
 kapiran
+kapisan
 kaplok
 kapok
 kapor
