@@ -75,6 +75,7 @@ adipati
 adit
 ado
 adoh
+adohe
 adol
 adon
 adonan
@@ -225,6 +226,7 @@ aio
 air
 aira
 airan
+airi
 airo
 aisih
 aisin
@@ -568,7 +570,6 @@ amu
 amuh
 amuk
 amukan
-amum
 amun
 amung
 amur
@@ -613,6 +614,7 @@ anco
 ancok
 ancuk
 ancur
+ancure
 anda
 andai
 andal
@@ -703,6 +705,7 @@ angkong
 angkot
 angkrik
 angkring
+angkringa
 angkringan
 angkuh
 angkut
@@ -906,6 +909,7 @@ arap
 arar
 arara
 aras
+arasen
 arat
 ardi
 are
@@ -930,6 +934,7 @@ arik
 aril
 arim
 arin
+arine
 aring
 arip
 arir
@@ -996,6 +1001,7 @@ asek
 asel
 aseli
 asem
+aseme
 aseng
 asep
 aset
@@ -2387,7 +2393,6 @@ ede
 edi
 edit
 edo
-edok
 edul
 edus
 eeh
@@ -2548,6 +2553,7 @@ eli
 elia
 elif
 elig
+elih
 elik
 elin
 eling
@@ -2791,6 +2797,7 @@ epik
 epil
 epin
 epip
+epir
 epis
 epo
 epoh
@@ -3146,6 +3153,7 @@ gaplok
 gapopo
 gapuk
 gapura
+gapyak
 gar
 gara
 garae
@@ -3631,6 +3639,7 @@ guwa
 guyah
 guyon
 guyonan
+guyone
 guys
 guyu
 guyub
@@ -3661,6 +3670,7 @@ haii
 hajar
 hajat
 haji
+hajien
 hajimi
 hak
 haka
@@ -3677,6 +3687,7 @@ halan
 halang
 halangan
 halangi
+hale
 halen
 hali
 halo
@@ -3684,6 +3695,7 @@ halus
 halusi
 ham
 hama
+hamae
 haman
 hamana
 hamba
@@ -3705,6 +3717,7 @@ hana
 hanacaraka
 hanan
 hancur
+hancuren
 hang
 hangat
 hangwo
@@ -3729,6 +3742,7 @@ haram
 harang
 harap
 harapan
+harapane
 hare
 haren
 harep
@@ -3747,6 +3761,7 @@ hartane
 haru
 harui
 harum
+harume
 harus
 haruse
 has
@@ -4131,6 +4146,7 @@ ilo
 iloe
 iloi
 ilok
+ilokan
 ilon
 ilu
 ilui
@@ -4177,6 +4193,7 @@ impian
 impil
 impit
 impor
+impun
 imuh
 imut
 in
@@ -4195,6 +4212,7 @@ inceng
 incer
 inda
 indah
+indahe
 indak
 indang
 indek
@@ -4332,7 +4350,6 @@ iru
 irub
 irue
 irug
-iruk
 irum
 irung
 irunge
@@ -5178,6 +5195,7 @@ kentu
 kentut
 kentutmu
 kenur
+kenyang
 kenyot
 keong
 kep
@@ -5250,6 +5268,7 @@ kesa
 kesah
 kesak
 kesal
+kesan
 kesandung
 kesasar
 kesat
@@ -5609,6 +5628,7 @@ kunti
 kuntul
 kunyuk
 kuo
+kuota
 kup
 kupa
 kupas
@@ -5873,6 +5893,7 @@ lelah
 lele
 leleh
 lelembut
+lelesen
 lelet
 leli
 lem
@@ -6453,6 +6474,7 @@ meki
 mekso
 mel
 mela
+melan
 melas
 melati
 melek
@@ -6783,6 +6805,7 @@ nabur
 nada
 nadah
 nadahi
+nadhah
 nadi
 nadyan
 nae
@@ -6922,6 +6945,7 @@ naran
 narasi
 narek
 nari
+narien
 narik
 narimo
 narkoba
@@ -6990,6 +7014,7 @@ nduwe
 nduwur
 ne
 neb
+neba
 nebake
 nebas
 nebe
@@ -7776,6 +7801,7 @@ ngoli
 ngolo
 ngoloh
 ngolok
+ngolong
 ngolor
 ngom
 ngomah
@@ -8252,6 +8278,7 @@ nyam
 nyaman
 nyambel
 nyambi
+nyambik
 nyampek
 nyamuk
 nyangu
@@ -8478,6 +8505,7 @@ oncom
 onda
 onde
 ondha
+ondhe
 ondo
 ondol
 oneng
@@ -8573,6 +8601,7 @@ organisasi
 ori
 orie
 oring
+orog
 orok
 orong
 oros
@@ -8934,7 +8963,6 @@ perih
 pero
 pes
 pesan
-pese
 pesen
 pesi
 pesing
@@ -9381,6 +9409,7 @@ rancu
 randa
 randu
 randue
+randune
 rane
 rang
 rangda
@@ -9797,6 +9826,7 @@ ruko
 ruku
 rukuh
 rukun
+rukuna
 rula
 ruli
 rum
@@ -10129,6 +10159,7 @@ sedaya
 sedeng
 sedereng
 sedha
+sedhela
 sedho
 sedi
 sedia
@@ -10145,6 +10176,7 @@ sego
 segoro
 seh
 sehat
+sei
 seje
 sejen
 sek
@@ -11375,6 +11407,7 @@ uma
 umaa
 umah
 umahe
+umai
 umak
 uman
 umar
@@ -11441,6 +11474,7 @@ unduh
 unduk
 undukan
 undur
+unduren
 une
 unek
 unem
@@ -11529,6 +11563,7 @@ upik
 upil
 uping
 upir
+upis
 upit
 upo
 upra
@@ -11812,6 +11847,7 @@ wawa
 wawang
 wawasan
 wawe
+wawi
 wayah
 wayahe
 wayan
