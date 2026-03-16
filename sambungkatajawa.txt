@@ -616,6 +616,7 @@ andok
 andon
 andong
 andu
+andui
 anduk
 andukan
 andum
@@ -3213,6 +3214,7 @@ genep
 generator
 geneyi
 geng
+genggem
 geni
 genit
 geniya
@@ -9176,6 +9178,7 @@ ratan
 ratau
 rati
 ratih
+rating
 ratna
 ratu
 ratus
