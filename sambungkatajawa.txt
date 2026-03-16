@@ -1096,6 +1096,7 @@ auten
 auto
 av
 ava
+aves
 avi
 aw
 awa
