@@ -561,6 +561,7 @@ andai
 andal
 andalan
 andang
+andani
 andap
 andar
 andaran
@@ -717,6 +718,7 @@ antare
 antareja
 antasena
 anteb
+anteg
 antek
 antem
 anteman
@@ -2033,7 +2035,6 @@ dluwang
 do
 doa
 dobol
-dodi
 dodo
 dodok
 dodol
@@ -2406,7 +2407,6 @@ empet
 empik
 emping
 empo
-empol
 emprit
 empu
 empuk
@@ -3172,6 +3172,7 @@ gogrok
 gojek
 gojlok
 gok
+goke
 gokil
 gol
 gola
@@ -3267,6 +3268,7 @@ gulak
 gulali
 gule
 gulek
+gulem
 guleman
 guleng
 guli
@@ -4196,6 +4198,7 @@ jerami
 jeran
 jerih
 jero
+jeroan
 jeruk
 jet
 jeti
@@ -4789,6 +4792,7 @@ kersana
 kersane
 kerta
 kertas
+kertos
 keruh
 kerupuk
 kerutan
@@ -6237,6 +6241,7 @@ nah
 naha
 nahan
 nahar
+nahi
 nai
 naik
 naika
@@ -7272,6 +7277,7 @@ ngurus
 ngurusi
 ngurut
 ngus
+ngusa
 ngusak
 ngusap
 nguser
@@ -9220,6 +9226,7 @@ satitik
 satru
 satu
 satunggal
+satur
 satus
 saung
 saur
@@ -9346,6 +9353,7 @@ sengit
 sengkir
 seni
 senin
+senjata
 senok
 senon
 sentosa
@@ -9385,7 +9393,6 @@ sesek
 sesok
 sesuk
 sesupe
-seta
 setam
 setan
 setrika
@@ -9970,6 +9977,7 @@ ter
 terak
 terang
 teras
+tere
 teri
 terima
 terlihat
@@ -10747,6 +10755,7 @@ waja
 wajah
 wajan
 wajar
+wajib
 wajik
 wak
 wakil
@@ -10807,6 +10816,7 @@ wasno
 wasuh
 watak
 wati
+watir
 waton
 watone
 watu
