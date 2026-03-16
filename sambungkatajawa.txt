@@ -1637,6 +1637,7 @@ bosan
 bosen
 boso
 bosok
+bot
 botak
 boten
 boti
@@ -6435,6 +6436,7 @@ mandali
 mandan
 mandang
 mandeg
+mandeng
 mandhek
 mandi
 mandraguna
