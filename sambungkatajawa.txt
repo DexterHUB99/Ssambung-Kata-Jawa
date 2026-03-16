@@ -396,6 +396,7 @@ alis
 alisa
 alisan
 alit
+aliya
 alka
 allahuakbar
 alm
@@ -1456,6 +1457,7 @@ bilahi
 bilara
 bili
 bilih
+bilo
 bilu
 bima
 bimo
@@ -2150,6 +2152,7 @@ do
 doa
 dobleh
 dobol
+dodi
 dodo
 dodok
 dodol
@@ -2249,6 +2252,7 @@ dungo
 dungu
 dupa
 dupak
+dupel
 dupo
 dur
 dura
@@ -2863,6 +2867,7 @@ eyang
 eye
 eyek
 eyo
+eyok
 eyos
 eyu
 eyup
@@ -3316,6 +3321,7 @@ giring
 giris
 giru
 gisa
+gisik
 gita
 gitar
 githok
@@ -3956,6 +3962,7 @@ ila
 ilaa
 ilag
 ilah
+ilaha
 ilahi
 ilai
 ilak
@@ -4523,6 +4530,7 @@ jujur
 jule
 juli
 juluk
+jum
 jumat
 jumblah
 jumeneng
@@ -5646,7 +5654,6 @@ le
 leak
 leba
 lebah
-lebet
 lebih
 lebu
 lecek
@@ -6233,6 +6240,7 @@ melas
 melati
 melek
 melet
+meli
 melinjo
 melok
 melon
@@ -6408,6 +6416,7 @@ mongo
 moni
 montor
 monyet
+monyong
 mop
 mopi
 mor
@@ -7111,7 +7120,6 @@ ngata
 ngatasi
 ngatau
 ngatel
-ngateli
 ngaten
 ngati
 ngatin
@@ -8846,6 +8854,7 @@ pos
 pose
 posen
 posi
+posing
 pot
 potong
 powa
@@ -9232,6 +9241,7 @@ rena
 renang
 rencana
 rencang
+rendah
 rendang
 rendem
 rendeng
@@ -9533,12 +9543,14 @@ sabit
 sablon
 sabok
 sabtu
+sabuh
 sabuk
 sabun
 sad
 sada
 sadar
 sade
+sadewa
 sadina
 sadis
 sadulur
@@ -9612,6 +9624,7 @@ salon
 salut
 sam
 sama
+samah
 samak
 saman
 samar
@@ -9624,6 +9637,7 @@ samben
 sambet
 sambi
 sambil
+sambo
 sambung
 sambut
 sami
@@ -9686,6 +9700,7 @@ sao
 saos
 sap
 sapa
+sape
 sapi
 sapih
 sapir
@@ -9694,6 +9709,7 @@ sapo
 sapu
 sapura
 saput
+saputra
 sar
 sara
 saran
@@ -9726,6 +9742,7 @@ sata
 sate
 sati
 satitik
+satria
 satru
 satu
 satunggal
@@ -9883,7 +9900,6 @@ sepuh
 sepuluh
 sepur
 sepura
-ser
 sera
 serakah
 serami
