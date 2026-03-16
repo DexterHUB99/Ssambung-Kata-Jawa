@@ -3628,6 +3628,7 @@ hilang
 himpun
 himpunan
 hina
+hinaan
 hinane
 hinggap
 hir
@@ -9353,6 +9354,7 @@ saki
 sakiki
 saking
 sakit
+sakitmu
 sakne
 sakno
 sakoe
