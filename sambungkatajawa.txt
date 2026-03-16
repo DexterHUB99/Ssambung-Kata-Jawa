@@ -7510,6 +7510,7 @@ ngersa
 ngerteni
 ngerti
 ngertos
+ngeruh
 ngeruk
 nges
 ngesa
@@ -8330,7 +8331,6 @@ okerek
 okeri
 oket
 okin
-okit
 okok
 okoka
 okoke
