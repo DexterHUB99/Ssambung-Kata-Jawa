@@ -311,6 +311,7 @@ akrab
 aksa
 aksaa
 aksama
+aksana
 aksara
 aksen
 aksi
@@ -915,7 +916,6 @@ asek
 asel
 aseli
 asem
-asen
 aseng
 asep
 aset
@@ -1791,6 +1791,7 @@ cumo
 cuna
 cunduk
 cungkring
+cupu
 cur
 curi
 curu
@@ -2090,7 +2091,6 @@ dolu
 dom
 domba
 domblong
-domo
 dompet
 don
 dong
@@ -3221,6 +3221,7 @@ godoh
 godok
 godong
 gogoh
+gogol
 gogrok
 gojek
 gojlok
@@ -3435,6 +3436,7 @@ hama
 haman
 hamana
 hamba
+hambaa
 hambamu
 hambar
 hambawa
@@ -6174,7 +6176,6 @@ moli
 molok
 mom
 momong
-momot
 mon
 mona
 mondar
@@ -6712,7 +6713,6 @@ ngalum
 ngalur
 ngalus
 ngam
-ngama
 ngamal
 ngamar
 ngamba
@@ -6820,6 +6820,7 @@ ngarap
 ngarasa
 ngare
 ngarek
+ngareni
 ngarep
 ngarepi
 ngaret
@@ -7120,7 +7121,6 @@ ngika
 ngikat
 ngiki
 ngiku
-ngil
 ngila
 ngilang
 ngilekne
@@ -7619,6 +7619,7 @@ numbal
 numbas
 numbuk
 numen
+numis
 numpah
 numpak
 numpaki
@@ -9433,7 +9434,6 @@ sejen
 sek
 seka
 sekar
-sekasa
 sekawan
 seke
 sekek
@@ -10462,7 +10462,6 @@ ugama
 uget
 ugi
 ugo
-ugoh
 ugu
 ugung
 uh
@@ -10691,6 +10690,7 @@ untal
 untalen
 untar
 untara
+untas
 untel
 unter
 untik
@@ -11021,7 +11021,6 @@ wedhang
 wedhi
 wedhus
 wedi
-wedo
 wedok
 wedus
 wee
