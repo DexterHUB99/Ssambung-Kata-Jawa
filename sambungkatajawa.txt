@@ -4653,6 +4653,7 @@ jawoh
 jawuh
 jaya
 je
+jeda
 jeding
 jeglong
 jeh
@@ -7313,6 +7314,7 @@ ngajok
 ngak
 ngaka
 ngakak
+ngakal
 ngakali
 ngakeh
 ngakir
