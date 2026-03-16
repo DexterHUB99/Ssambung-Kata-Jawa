@@ -250,6 +250,7 @@ ajig
 ajih
 ajik
 ajim
+ajima
 ajin
 ajine
 ajing
@@ -4241,6 +4242,7 @@ irenge
 irengmu
 ires
 iri
+iria
 irian
 irie
 irig
@@ -6884,6 +6886,7 @@ ndlosor
 ndoro
 nduk
 nduwe
+nduwur
 ne
 neb
 nebake
