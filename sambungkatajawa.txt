@@ -247,6 +247,7 @@ ajib
 ajig
 ajih
 ajik
+ajin
 ajine
 ajing
 ajining
@@ -7384,6 +7385,7 @@ ngesah
 ngesak
 ngesang
 ngesat
+ngesek
 ngeseng
 ngesok
 ngesor
