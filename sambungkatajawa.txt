@@ -2393,6 +2393,7 @@ eling
 elinga
 elingo
 elip
+elir
 elis
 elit
 elmu
@@ -5314,6 +5315,7 @@ kuse
 kusen
 kusi
 kusir
+kusna
 kusuma
 kut
 kuta
