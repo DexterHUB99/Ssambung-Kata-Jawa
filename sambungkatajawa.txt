@@ -9677,6 +9677,7 @@ sambat
 sambel
 sambelmu
 samben
+samber
 sambet
 sambi
 sambil
