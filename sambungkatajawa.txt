@@ -214,7 +214,6 @@ aiku
 ail
 aila
 aile
-ailen
 aili
 ailing
 ailo
@@ -9098,7 +9097,6 @@ pian
 piano
 piara
 piatu
-piawang
 picak
 picek
 pidak
@@ -10712,6 +10710,7 @@ sulung
 sulur
 sum
 suma
+sumampir
 suman
 sumbang
 sumbanga
