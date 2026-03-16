@@ -72,7 +72,6 @@ adoh
 adol
 adon
 adonan
-adop
 ador
 ados
 adu
@@ -2005,7 +2004,6 @@ didin
 didol
 didu
 diewe
-difa
 digawa
 digo
 dihan
@@ -3144,7 +3142,6 @@ genjot
 genna
 geno
 genta
-gentar
 genteng
 genter
 genti
@@ -4001,7 +3998,6 @@ ingka
 ingkang
 ingko
 ingkung
-ingo
 ingsun
 ingu
 inguk
@@ -5601,7 +5597,6 @@ let
 leto
 letong
 lewat
-leyeh
 li
 lia
 lian
@@ -6050,7 +6045,6 @@ masi
 masih
 masio
 masjid
-masne
 maso
 masu
 masuk
@@ -6209,7 +6203,6 @@ minggu
 mingkem
 mini
 minta
-minten
 minter
 minum
 mio
@@ -7153,7 +7146,6 @@ nges
 ngesa
 ngesah
 ngesak
-ngesang
 ngesat
 ngeseng
 ngesok
@@ -7251,7 +7243,6 @@ ngima
 ngimam
 ngiman
 ngimbar
-ngimbas
 ngimbu
 ngimbuh
 ngimi
@@ -9706,6 +9697,7 @@ seri
 serius
 serong
 seru
+serut
 ses
 sesak
 sesat
