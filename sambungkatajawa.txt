@@ -2451,6 +2451,7 @@ ej
 eja
 ejah
 eje
+ejek
 ejo
 ek
 eka
@@ -9722,6 +9723,7 @@ ronda
 rondo
 ronggeng
 ronggo
+rongo
 rongpuluh
 rongsokan
 roni
@@ -10627,6 +10629,7 @@ suwek
 suwen
 suweng
 suwi
+suwine
 suwir
 suwun
 suwung
