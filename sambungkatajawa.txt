@@ -10852,6 +10852,7 @@ tongkol
 tongseng
 tono
 tonton
+tontonan
 too
 top
 topa
@@ -11924,6 +11925,7 @@ yunani
 yune
 yung
 yuni
+yuno
 yur
 yura
 yuri
