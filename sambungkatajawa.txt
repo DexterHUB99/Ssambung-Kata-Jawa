@@ -612,6 +612,7 @@ anco
 ancok
 ancuk
 ancur
+ancure
 anda
 andai
 andal
@@ -6990,6 +6991,7 @@ nduwe
 nduwur
 ne
 neb
+neba
 nebake
 nebas
 nebe
