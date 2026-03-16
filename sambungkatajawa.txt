@@ -2725,7 +2725,6 @@ erog
 eroh
 erok
 eron
-erong
 erop
 eror
 eros
@@ -3433,7 +3432,6 @@ guling
 gulir
 gulu
 gulung
-gulungan
 gumati
 gumuh
 gumun
@@ -4504,6 +4502,7 @@ jujur
 jule
 juli
 juluk
+jum
 jumat
 jumblah
 jumeneng
@@ -8810,6 +8809,7 @@ pos
 pose
 posen
 posi
+posing
 pot
 potong
 powa
@@ -9650,6 +9650,7 @@ sao
 saos
 sap
 sapa
+sape
 sapi
 sapih
 sapir
