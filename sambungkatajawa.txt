@@ -4262,6 +4262,7 @@ isika
 isikan
 isil
 isin
+isinan
 isine
 ising
 isinna
@@ -7910,6 +7911,7 @@ noleh
 noli
 nolol
 nom
+noma
 noman
 nombak
 nombok
