@@ -6643,7 +6643,6 @@ moto
 motong
 motor
 mpun
-mriku
 mringis
 mripat
 mrono
@@ -6770,6 +6769,7 @@ nabur
 nada
 nadah
 nadahi
+nadhah
 nadi
 nadyan
 nae
@@ -6886,7 +6886,6 @@ nangkep
 nangko
 nangkring
 nani
-naning
 nano
 nantang
 nanti
@@ -8464,6 +8463,7 @@ oncom
 onda
 onde
 ondha
+ondhe
 ondo
 ondol
 oneng
@@ -9778,6 +9778,7 @@ ruko
 ruku
 rukuh
 rukun
+rukuna
 rula
 ruli
 rum
@@ -10126,6 +10127,7 @@ sego
 segoro
 seh
 sehat
+sei
 seje
 sejen
 sek
