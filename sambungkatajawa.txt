@@ -175,7 +175,6 @@ ahom
 ahon
 ahop
 ahor
-ahos
 ahoy
 ahu
 ahud
@@ -254,7 +253,6 @@ ajrih
 aju
 ajudan
 ajur
-ajura
 ak
 aka
 akad
@@ -674,6 +672,7 @@ angs
 angsa
 angsal
 angsalipun
+angsara
 angsle
 angso
 angsul
@@ -709,7 +708,6 @@ anjay
 anjeg
 anji
 anjian
-anjimi
 anjing
 anjining
 anjir
@@ -734,7 +732,6 @@ anom
 anoman
 anon
 anop
-anor
 anot
 ansur
 ansuran
@@ -808,6 +805,7 @@ apel
 apem
 apes
 api
+apih
 apik
 apika
 apikan
@@ -1331,6 +1329,7 @@ bekal
 bekan
 bekas
 bekel
+bekne
 beko
 bel
 bela
@@ -1409,7 +1408,6 @@ bidik
 bidun
 bidur
 bien
-bigan
 bigu
 bijak
 biji
@@ -1893,7 +1891,6 @@ damen
 dami
 dampak
 dampal
-dampit
 damput
 damu
 dan
@@ -2452,7 +2449,6 @@ ematane
 emba
 embah
 emban
-embar
 embat
 embe
 embel
@@ -4270,7 +4266,6 @@ jambi
 jambret
 jambu
 jambul
-jamin
 jampi
 jamput
 jamu
@@ -4514,6 +4509,7 @@ kaka
 kakak
 kakaka
 kakang
+kake
 kakehan
 kakek
 kaki
@@ -4835,7 +4831,6 @@ kem
 kema
 kemah
 kemaki
-kemal
 kemalan
 kemang
 kemangi
@@ -5455,7 +5450,6 @@ lamun
 lamuna
 lamunan
 lan
-lana
 lanang
 lanange
 lancang
@@ -5601,6 +5595,7 @@ lemu
 lemut
 len
 lena
+lendra
 leng
 lengen
 lenggah
@@ -5925,7 +5920,6 @@ madosi
 madu
 madul
 madura
-maduro
 madya
 mae
 maem
@@ -6433,7 +6427,6 @@ mut
 muta
 mutah
 mutan
-mute
 muten
 muter
 muti
@@ -6644,6 +6637,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndlosor
 ndoro
 nduk
 nduwe
@@ -6921,7 +6915,6 @@ ngantor
 ngantos
 ngantri
 ngantuk
-ngantuki
 ngantung
 nganu
 ngaos
@@ -8070,6 +8063,7 @@ ongkose
 ongol
 online
 ono
+onoa
 onoe
 onone
 onoo
@@ -9599,7 +9593,6 @@ saya
 sayah
 sayak
 sayang
-sayet
 sayo
 sayor
 sayuk
@@ -10205,6 +10198,7 @@ tandhuk
 tanduk
 tandur
 tanduran
+tandurane
 tangan
 tangeh
 tangga
@@ -10701,6 +10695,7 @@ ujaran
 uji
 ujia
 ujian
+ujub
 ujuk
 ujul
 ujun
@@ -11093,7 +11088,6 @@ utekmu
 utel
 uten
 uter
-uthi
 uti
 utik
 uting
