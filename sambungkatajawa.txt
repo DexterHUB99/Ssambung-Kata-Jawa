@@ -10235,6 +10235,7 @@ tela
 telan
 telas
 telat
+telaten
 tele
 telek
 telenan
