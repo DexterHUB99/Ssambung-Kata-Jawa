@@ -5097,6 +5097,7 @@ kuti
 kutilang
 kutu
 kutuk
+kutuku
 kuwa
 kuwalat
 kuwat
@@ -6422,6 +6423,7 @@ ngaba
 ngabab
 ngabar
 ngabari
+ngabehi
 ngabekti
 ngaben
 ngaboti
