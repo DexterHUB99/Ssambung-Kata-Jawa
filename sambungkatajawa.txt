@@ -650,7 +650,6 @@ angkring
 angkringan
 angkuh
 angkut
-angkutan
 angl
 angler
 angling
@@ -917,6 +916,7 @@ asek
 asel
 aseli
 asem
+asen
 aseng
 asep
 aset
@@ -1114,7 +1114,6 @@ ayamne
 ayan
 ayanen
 ayang
-ayangku
 ayani
 ayap
 ayar
@@ -1325,7 +1324,6 @@ bem
 ben
 bena
 benang
-benci
 bende
 bendo
 bendung
@@ -2094,6 +2092,7 @@ dolu
 dom
 domba
 domblong
+domo
 dompet
 don
 dong
@@ -2570,6 +2569,7 @@ enyak
 enyong
 ep
 epa
+epah
 epak
 epal
 epam
@@ -2747,6 +2747,7 @@ ewangi
 ewe
 ewean
 eweane
+ewee
 eweh
 ewek
 ewer
@@ -4172,7 +4173,6 @@ jajah
 jajal
 jajan
 jak
-jaka
 jaket
 jaki
 jala
@@ -5959,7 +5959,6 @@ masa
 masak
 masal
 masam
-masane
 masang
 mase
 masi
@@ -6181,6 +6180,7 @@ moli
 molok
 mom
 momong
+momot
 mon
 mona
 mondar
@@ -6600,7 +6600,6 @@ nengdi
 nenge
 nengen
 neni
-nepa
 nepak
 nepi
 nepis
@@ -6719,6 +6718,7 @@ ngalum
 ngalur
 ngalus
 ngam
+ngama
 ngamal
 ngamar
 ngamba
@@ -6779,6 +6779,7 @@ nganjing
 nganjir
 nganjok
 nganjuk
+ngantang
 ngantar
 ngantel
 ngantem
@@ -6905,7 +6906,6 @@ ngawur
 ngawut
 ngayah
 ngayal
-ngayomi
 ngayu
 ngayub
 ngayuh
@@ -6967,6 +6967,7 @@ ngeloni
 ngelor
 ngelu
 ngeluh
+ngelus
 ngeman
 ngemas
 ngembang
@@ -7102,6 +7103,7 @@ nggone
 nggoreng
 nggowo
 nggula
+nggulung
 ngguyu
 ngguyue
 ngibadah
@@ -7128,12 +7130,12 @@ ngika
 ngikat
 ngiki
 ngiku
+ngil
 ngila
 ngilang
 ngilekne
 ngiler
 ngili
-ngilih
 ngilo
 ngilok
 ngilu
@@ -9133,6 +9135,7 @@ rumbi
 rumi
 rumit
 rumiyin
+rumo
 rumongso
 rumput
 rumu
@@ -9442,6 +9445,7 @@ sejen
 sek
 seka
 sekar
+sekasa
 sekawan
 seke
 sekek
@@ -9785,6 +9789,7 @@ sugeh
 sugeng
 sugih
 suh
+suhi
 sui
 suji
 sujud
@@ -10470,6 +10475,7 @@ ugama
 uget
 ugi
 ugo
+ugoh
 ugu
 ugung
 uh
@@ -11029,6 +11035,7 @@ wedhang
 wedhi
 wedhus
 wedi
+wedo
 wedok
 wedus
 wee
