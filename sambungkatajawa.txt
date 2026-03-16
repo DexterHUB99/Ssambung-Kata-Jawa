@@ -3097,7 +3097,6 @@ garik
 garing
 garis
 garisan
-garit
 garong
 garpu
 garu
@@ -5180,6 +5179,7 @@ ketel
 ketemu
 keter
 kethek
+keti
 ketiban
 ketingal
 ketir
