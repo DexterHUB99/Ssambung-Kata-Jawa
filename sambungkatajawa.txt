@@ -1808,6 +1808,7 @@ dami
 dampak
 dampal
 damput
+damu
 dan
 dana
 danau
@@ -6401,6 +6402,7 @@ nel
 nela
 nelayan
 nelen
+neler
 neli
 nelih
 nelongso
@@ -6776,6 +6778,7 @@ ngelap
 ngelas
 ngelawak
 ngelawan
+ngele
 ngelebok
 ngeleh
 ngelek
@@ -7904,6 +7907,7 @@ pale
 palem
 palen
 paleng
+pali
 paling
 paliyan
 palo
