@@ -2971,6 +2971,7 @@ gebuki
 gedag
 gedang
 gede
+gedean
 gedeg
 gedek
 gedhang
