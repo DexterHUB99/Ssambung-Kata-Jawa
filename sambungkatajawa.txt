@@ -966,7 +966,6 @@ arus
 arut
 arwa
 arwah
-arwana
 arya
 as
 asa
@@ -2181,7 +2180,6 @@ dinas
 dinding
 dinggo
 dingin
-dingkik
 dingklik
 dini
 dino
@@ -4296,7 +4294,6 @@ irig
 irigasi
 irih
 irik
-irim
 irin
 iring
 iringan
@@ -6967,7 +6964,6 @@ neben
 neda
 nedah
 nedan
-nedar
 nedha
 nedhaa
 nedho
@@ -8605,6 +8601,7 @@ pacar
 pace
 pacik
 pacol
+pacuk
 pacul
 pada
 padahal
