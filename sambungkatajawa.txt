@@ -4564,6 +4564,7 @@ kalang
 kalap
 kalapa
 kalawan
+kalawi
 kale
 kalebu
 kaleh
@@ -7802,6 +7803,7 @@ nua
 nub
 nubi
 nubruk
+nuding
 nudu
 nuduh
 nuduhi
