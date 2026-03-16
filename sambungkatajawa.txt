@@ -1451,7 +1451,6 @@ bilahi
 bilara
 bili
 bilih
-bilo
 bilu
 bima
 bimo
@@ -2046,6 +2045,7 @@ digawa
 digo
 dihan
 diimboh
+dijak
 dijalan
 diji
 dik
@@ -2142,7 +2142,6 @@ do
 doa
 dobleh
 dobol
-dodi
 dodo
 dodok
 dodol
@@ -2727,6 +2726,7 @@ erog
 eroh
 erok
 eron
+erong
 erop
 eror
 eros
@@ -2849,7 +2849,6 @@ eyang
 eye
 eyek
 eyo
-eyok
 eyos
 eyu
 eyup
@@ -3301,7 +3300,6 @@ giring
 giris
 giru
 gisa
-gisik
 gita
 gitar
 githok
@@ -3436,6 +3434,7 @@ guling
 gulir
 gulu
 gulung
+gulungan
 gumati
 gumuh
 gumun
@@ -4506,7 +4505,6 @@ jujur
 jule
 juli
 juluk
-jum
 jumat
 jumblah
 jumeneng
@@ -5663,6 +5661,7 @@ lembut
 leme
 lemek
 lemes
+lemet
 lemot
 lempeng
 lemper
@@ -6385,7 +6384,6 @@ mongo
 moni
 montor
 monyet
-monyong
 mop
 mopi
 mor
@@ -8378,6 +8376,7 @@ palen
 paleng
 pali
 paling
+palir
 paliyan
 palo
 paloh
@@ -8814,7 +8813,6 @@ pos
 pose
 posen
 posi
-posing
 pot
 potong
 powa
@@ -9655,7 +9653,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
