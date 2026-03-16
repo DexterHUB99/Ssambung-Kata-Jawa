@@ -11783,6 +11783,7 @@ ust
 usta
 ustadz
 usu
+usui
 usuk
 usul
 usula
