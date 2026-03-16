@@ -2612,6 +2612,7 @@ emod
 emoh
 emohe
 emok
+emor
 emot
 empal
 empan
