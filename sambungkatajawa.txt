@@ -9235,6 +9235,7 @@ sea
 sebab
 sebah
 sebat
+sebul
 seda
 sedan
 sedang
@@ -10479,6 +10480,7 @@ ungkul
 ungkur
 ungu
 uni
+unja
 unjal
 unjang
 unjar
