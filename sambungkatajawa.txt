@@ -265,7 +265,6 @@ aju
 ajudan
 ajur
 ajura
-ajuran
 ak
 aka
 akad
@@ -661,7 +660,6 @@ anggene
 anggep
 angger
 anggere
-angget
 anggit
 anggo
 anggok
@@ -6739,7 +6737,6 @@ nampan
 nampani
 nampar
 nampil
-namping
 nampol
 namu
 namung
@@ -6860,6 +6857,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulur
 nduwe
 ne
 neb
