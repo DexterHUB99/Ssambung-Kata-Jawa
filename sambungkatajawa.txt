@@ -5606,6 +5606,7 @@ lonceng
 londho
 londok
 lone
+longan
 longgar
 longgo
 longgor
