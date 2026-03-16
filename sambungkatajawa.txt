@@ -2258,6 +2258,7 @@ eg
 ega
 egah
 egak
+egang
 egar
 ege
 egi
@@ -7893,6 +7894,7 @@ ogil
 ogoh
 ogol
 ogor
+ogrok
 oh
 ohh
 ohhh
@@ -8557,6 +8559,7 @@ pinggih
 pinggir
 pingsan
 pinja
+pino
 pinta
 pinten
 pinter
