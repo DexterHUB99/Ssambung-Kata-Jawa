@@ -1268,6 +1268,7 @@ bacak
 bacin
 bacot
 bacut
+bad
 bada
 badak
 bade
