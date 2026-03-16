@@ -1415,6 +1415,7 @@ bolos
 bolot
 bom
 bon
+bona
 bonang
 bong
 bongko
@@ -1773,6 +1774,7 @@ dah
 dahan
 dahar
 dahi
+dajaran
 dakar
 daki
 dakngerti
@@ -1831,7 +1833,6 @@ dasi
 datu
 daun
 dawa
-dawah
 dawet
 dawir
 dawuh
@@ -1892,7 +1893,6 @@ deru
 des
 desa
 deso
-det
 dewa
 dewe
 dewi
@@ -3749,7 +3749,6 @@ ilon
 ilu
 ilui
 iluk
-ilwa
 ilyas
 im
 ima
@@ -4152,7 +4151,6 @@ jeran
 jerih
 jero
 jeruk
-jet
 jeti
 ji
 jidat
@@ -4240,7 +4238,6 @@ joss
 jotos
 jual
 jualan
-jubah
 jujug
 jujur
 jule
@@ -5197,7 +5194,6 @@ lamper
 lamping
 lampir
 lampu
-lampune
 lampung
 lamu
 lamun
@@ -5597,6 +5593,7 @@ lumen
 lumpang
 lumping
 lumpuh
+lumpuk
 lumrah
 lumuh
 lun
@@ -7947,7 +7944,6 @@ papak
 papan
 papat
 papi
-papo
 papu
 par
 para
@@ -8218,6 +8214,7 @@ piyak
 piyambak
 piyan
 piye
+piyoh
 po
 poa
 poal
@@ -9760,7 +9757,6 @@ taun
 tawa
 tawaf
 tawan
-tawang
 tawar
 tawas
 tawi
@@ -10084,6 +10080,7 @@ tusi
 tusuk
 tut
 tuta
+tuti
 tutuk
 tutup
 tutur
@@ -10155,7 +10152,6 @@ udutan
 ue
 uem
 uen
-uf
 ug
 uga
 ugal
@@ -10219,6 +10215,7 @@ ukmo
 ukmu
 ukna
 uko
+ukok
 ukol
 ukon
 ukop
