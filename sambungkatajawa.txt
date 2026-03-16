@@ -1261,7 +1261,6 @@ baku
 bakul
 bal
 bala
-balai
 balak
 balek
 baleni
@@ -1298,7 +1297,6 @@ bantu
 bantul
 banyak
 banyu
-bapa
 bapak
 bapakmu
 bar
@@ -1886,7 +1884,6 @@ cuka
 cuki
 cukin
 cukur
-culai
 culik
 culu
 cum
@@ -3100,6 +3097,7 @@ garik
 garing
 garis
 garisan
+garit
 garong
 garpu
 garu
@@ -4897,7 +4895,6 @@ kaula
 kauman
 kawah
 kawak
-kawal
 kawan
 kawanen
 kawang
@@ -5183,7 +5180,6 @@ ketel
 ketemu
 keter
 kethek
-keti
 ketiban
 ketingal
 ketir
@@ -5812,7 +5808,6 @@ lesi
 lestari
 lesu
 lesung
-lesus
 let
 leto
 letong
@@ -6145,9 +6140,11 @@ mak
 maka
 makam
 makan
+makana
 makane
 make
 maki
+makna
 makruh
 maksud
 maku
@@ -7072,6 +7069,7 @@ ngama
 ngamal
 ngamar
 ngamba
+ngambai
 ngambang
 ngambar
 ngamben
