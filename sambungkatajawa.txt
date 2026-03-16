@@ -1594,6 +1594,7 @@ cakung
 cal
 cala
 calak
+calo
 calung
 cama
 camat
@@ -2804,6 +2805,7 @@ gae
 gagah
 gagak
 gagal
+gagalak
 gagang
 gagap
 gagar
@@ -3744,6 +3746,7 @@ ihmu
 ihna
 iho
 ihra
+ihre
 ihsan
 ihta
 ihya
@@ -4417,6 +4420,7 @@ kajian
 kak
 kaka
 kakak
+kakaka
 kakang
 kakehan
 kakek
@@ -6892,6 +6896,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngebaki
 ngebang
 ngebo
 ngebul
@@ -7115,6 +7120,7 @@ ngili
 ngilo
 ngilok
 ngilu
+ngima
 ngimam
 ngiman
 ngimbar
@@ -7126,6 +7132,7 @@ ngin
 ngina
 nginceng
 ngincer
+ngindang
 nginep
 nging
 ngingkang
@@ -7595,6 +7602,7 @@ nula
 nulang
 nuli
 nulis
+nulo
 nulung
 nulungi
 num
@@ -7744,6 +7752,7 @@ ojar
 ojek
 ojekan
 ojen
+ojil
 ojo
 ojok
 ojol
@@ -8336,6 +8345,7 @@ piker
 piki
 pikir
 piknik
+piko
 pikon
 pikuk
 pikul
@@ -8676,6 +8686,7 @@ ramai
 ramak
 ramal
 ramalan
+raman
 ramasalah
 rambak
 ramban
@@ -8840,6 +8851,7 @@ rekom
 rekoso
 rekot
 reksa
+reku
 rela
 relax
 reli
@@ -9446,6 +9458,7 @@ selimut
 seling
 selir
 selo
+selon
 selot
 sem
 semak
