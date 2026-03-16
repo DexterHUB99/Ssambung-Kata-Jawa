@@ -10449,6 +10449,7 @@ tanggung
 tangi
 tangina
 tangkap
+tanglet
 tani
 tanjung
 tanpa
@@ -11262,6 +11263,7 @@ urup
 urus
 urusan
 urusane
+uruse
 urusen
 urusi
 urusno
@@ -11424,6 +11426,7 @@ wala
 walah
 walang
 wale
+walek
 wali
 walik
 walisongo
