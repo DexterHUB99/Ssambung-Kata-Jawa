@@ -11164,6 +11164,7 @@ ungkap
 ungkapan
 ungkara
 ungkas
+ungkasan
 ungkel
 ungker
 ungkir
