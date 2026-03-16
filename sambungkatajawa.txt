@@ -855,7 +855,6 @@ apu
 apuh
 apung
 apuran
-apure
 apus
 apusa
 apuse
@@ -4080,7 +4079,6 @@ imas
 imba
 imbaan
 imbah
-imbai
 imbal
 imbalan
 imbang
@@ -4239,7 +4237,6 @@ ires
 iri
 irian
 irie
-irig
 irigasi
 irih
 irik
@@ -4959,7 +4956,6 @@ kediri
 keduhung
 kedul
 kedung
-kegowo
 keisi
 kejam
 kejer
@@ -9243,7 +9239,6 @@ rangda
 rangga
 ranggenah
 ranggi
-rangi
 rangka
 rangkat
 rangkul
