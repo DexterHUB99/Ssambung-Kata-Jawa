@@ -2488,6 +2488,7 @@ eje
 ejek
 eji
 ejo
+ejuh
 ek
 eka
 ekaan
@@ -4369,7 +4370,6 @@ irig
 irigasi
 irih
 irik
-irim
 irin
 iring
 iringan
@@ -4762,7 +4762,6 @@ jus
 juta
 ka
 kabar
-kabare
 kabeh
 kabel
 kabul
@@ -6821,6 +6820,7 @@ murtad
 murub
 murung
 murup
+murupen
 mus
 musa
 muser
@@ -7267,6 +7267,7 @@ ngalahi
 ngalam
 ngalami
 ngalamun
+ngalang
 ngalap
 ngalas
 ngale
@@ -9466,7 +9467,6 @@ ramene
 rames
 rami
 ramo
-rampa
 rampas
 ramping
 rampok
@@ -10879,7 +10879,6 @@ tanjung
 tanpa
 tansah
 tante
-tanya
 tao
 tap
 tapa
