@@ -9877,6 +9877,7 @@ selot
 sem
 semak
 semalam
+semana
 semar
 semarak
 semarang
