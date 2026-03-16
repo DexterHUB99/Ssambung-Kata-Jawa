@@ -3955,6 +3955,7 @@ in
 ina
 inah
 inak
+inako
 inal
 inam
 inama
@@ -5119,6 +5120,7 @@ koli
 koloh
 kolong
 kolot
+kolotmu
 kom
 koma
 kome
