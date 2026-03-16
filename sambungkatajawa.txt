@@ -3742,6 +3742,7 @@ ihmu
 ihna
 iho
 ihra
+ihre
 ihsan
 ihta
 ihya
@@ -6891,6 +6892,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngebaki
 ngebang
 ngebo
 ngebul
@@ -8838,6 +8840,7 @@ rekom
 rekoso
 rekot
 reksa
+reku
 rela
 relax
 reli
