@@ -29,6 +29,7 @@ abul
 acak
 acan
 ace
+aceh
 aci
 acor
 acu
@@ -788,6 +789,7 @@ apika
 apikan
 apin
 apip
+apis
 apit
 apo
 apol
@@ -946,7 +948,6 @@ astane
 asti
 astina
 asu
-asua
 asuasu
 asue
 asuh
@@ -1518,7 +1519,6 @@ bulo
 bulu
 bulus
 bum
-buma
 bumbu
 bumbune
 bumi
@@ -2490,7 +2490,6 @@ enggan
 enggar
 enggeh
 enggih
-enggil
 enggon
 engkang
 engkel
@@ -2632,6 +2631,7 @@ erti
 eru
 eruh
 eruk
+erum
 erun
 erung
 erup
@@ -2888,6 +2888,7 @@ ganjel
 ganjil
 gano
 ganteng
+gantengne
 ganthi
 ganti
 gantolan
@@ -3055,7 +3056,6 @@ gendheng
 gendhing
 gendhis
 gendi
-gendon
 gendong
 gendruwo
 gendung
@@ -3834,6 +3834,7 @@ imaan
 imai
 imam
 iman
+imane
 imar
 imas
 imba
@@ -3880,6 +3881,7 @@ inara
 inceng
 inda
 indah
+indahne
 indak
 indang
 indek
@@ -4058,7 +4060,6 @@ iso
 isoe
 isok
 isol
-isoma
 isone
 isor
 isra
@@ -4208,7 +4209,9 @@ je
 jeding
 jeglong
 jeh
+jejeg
 jejel
+jejer
 jek
 jeke
 jelang
@@ -4235,6 +4238,7 @@ jera
 jeram
 jerami
 jeran
+jeremi
 jerih
 jero
 jeroan
@@ -5488,6 +5492,7 @@ libur
 licik
 licin
 lidah
+lidahne
 lider
 lie
 lih
@@ -6501,6 +6506,7 @@ neh
 nek
 neka
 nekad
+nekan
 nekani
 nekat
 neken
@@ -6667,6 +6673,7 @@ ngalur
 ngalus
 ngam
 ngamal
+ngamana
 ngamar
 ngamba
 ngambang
@@ -6782,7 +6789,6 @@ ngarit
 ngaro
 ngarsa
 ngarti
-ngaru
 ngaruh
 ngaruk
 ngarung
@@ -6968,7 +6974,6 @@ ngepet
 ngepit
 ngepot
 nger
-ngerak
 ngerampok
 ngerandu
 ngerap
@@ -6988,7 +6993,6 @@ ngerti
 ngertos
 ngeruk
 nges
-ngesa
 ngesah
 ngesak
 ngesat
@@ -7063,6 +7067,7 @@ ngie
 ngig
 ngih
 ngijab
+ngijak
 ngijing
 ngijol
 ngijoli
@@ -8165,7 +8170,6 @@ patak
 patang
 patek
 paten
-pater
 pati
 patih
 patin
@@ -9057,6 +9061,7 @@ rum
 ruma
 rumah
 rumahe
+rumahne
 rumangsa
 rumangsane
 rumba
@@ -9337,6 +9342,7 @@ sayo
 sayor
 sayur
 sayuran
+sayurane
 se
 sea
 sebab
@@ -9582,6 +9588,7 @@ sirsak
 sirup
 sis
 sisa
+sisah
 sisan
 sisi
 sisih
@@ -9596,6 +9603,7 @@ siter
 sithik
 siti
 sitik
+sito
 sitok
 siwa
 siwak
@@ -9761,6 +9769,7 @@ sumuk
 sumur
 sun
 sunan
+sunar
 sunat
 sunda
 sundala
@@ -9966,6 +9975,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatan
 tatas
 tati
 tatik
@@ -10758,6 +10768,7 @@ usungi
 usuo
 usus
 ususa
+ususaha
 usut
 uswa
 ut
