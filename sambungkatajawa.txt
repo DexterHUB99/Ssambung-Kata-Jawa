@@ -356,6 +356,7 @@ akute
 al
 ala
 alah
+alai
 alak
 alal
 alam
@@ -1261,6 +1262,7 @@ baku
 bakul
 bal
 bala
+balai
 balak
 balek
 baleni
@@ -1297,6 +1299,7 @@ bantu
 bantul
 banyak
 banyu
+bapa
 bapak
 bapakmu
 bar
@@ -1884,6 +1887,7 @@ cuka
 cuki
 cukin
 cukur
+culai
 culik
 culu
 cum
@@ -4430,6 +4434,7 @@ jangan
 jangga
 janggut
 jangka
+jangkai
 jangkep
 jangkrik
 jani
@@ -4895,6 +4900,7 @@ kaula
 kauman
 kawah
 kawak
+kawal
 kawan
 kawanen
 kawang
@@ -5180,6 +5186,7 @@ ketel
 ketemu
 keter
 kethek
+keti
 ketiban
 ketingal
 ketir
@@ -5572,6 +5579,7 @@ ladak
 lading
 laen
 laga
+lagai
 lagi
 lagian
 lagu
@@ -5603,6 +5611,7 @@ laline
 lalio
 lam
 lama
+lamai
 laman
 lamane
 lamar
@@ -5808,6 +5817,7 @@ lesi
 lestari
 lesu
 lesung
+lesus
 let
 leto
 letong
@@ -6737,7 +6747,6 @@ nampan
 nampani
 nampar
 nampil
-namping
 nampol
 namu
 namung
@@ -6804,6 +6813,7 @@ naro
 narsis
 naru
 naruh
+narus
 nas
 nasa
 nasab
@@ -7806,6 +7816,7 @@ ngurusi
 ngurut
 ngus
 ngusa
+ngusaha
 ngusak
 ngusap
 nguser
@@ -8887,6 +8898,7 @@ pira
 piram
 pirang
 piranga
+pireng
 piring
 piro
 piruk
@@ -9703,6 +9715,7 @@ sabi
 sabit
 sablon
 sabok
+sabrang
 sabtu
 sabuk
 sabun
@@ -11054,6 +11067,7 @@ uhi
 uho
 ui
 uing
+uj
 uja
 ujak
 ujan
@@ -11683,6 +11697,7 @@ wewe
 weweling
 wewo
 wi
+wia
 wibawa
 wibu
 wicak
