@@ -8881,6 +8881,7 @@ panti
 pantun
 panuh
 panun
+panuntun
 panut
 panutan
 panuwun
@@ -9873,6 +9874,7 @@ rori
 roro
 ros
 rosa
+rose
 rosi
 roso
 rotan
@@ -10271,6 +10273,7 @@ seket
 seko
 sekolah
 sekti
+sektoh
 sekul
 sel
 sela
