@@ -1750,6 +1750,7 @@ cum
 cuma
 cumi
 cumo
+cuna
 cunduk
 cungkring
 cur
@@ -6179,6 +6180,7 @@ mutih
 muwa
 na
 naba
+naben
 nabi
 nabok
 nabrak
