@@ -613,6 +613,7 @@ ane
 aneh
 anek
 anem
+anen
 anena
 anene
 aneng
@@ -7979,6 +7980,7 @@ ok
 oka
 okae
 okai
+okak
 okal
 okam
 okan
