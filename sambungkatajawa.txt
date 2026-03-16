@@ -1483,6 +1483,7 @@ binara
 bindeng
 bingung
 bini
+bino
 bintang
 binu
 bio
