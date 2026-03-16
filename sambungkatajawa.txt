@@ -10713,6 +10713,7 @@ tokek
 token
 toko
 tokoh
+tola
 tolak
 tole
 toleh
@@ -11005,6 +11006,7 @@ ukuren
 ukuro
 ul
 ula
+ulaa
 ulah
 ulahan
 ulahmu
