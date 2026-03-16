@@ -1274,6 +1274,7 @@ bau
 bawa
 bawal
 bawe
+bawel
 bawok
 bawuk
 bay
@@ -4412,6 +4413,7 @@ jos
 josa
 joss
 jotos
+ju
 jual
 jualan
 jubah
