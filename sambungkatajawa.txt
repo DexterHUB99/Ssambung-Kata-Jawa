@@ -10757,6 +10757,7 @@ telat
 telaten
 tele
 telek
+telen
 telenan
 telepon
 teles
