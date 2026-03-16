@@ -250,6 +250,7 @@ ajig
 ajih
 ajik
 ajim
+ajima
 ajin
 ajine
 ajing
@@ -675,7 +676,6 @@ anggur
 angguran
 angin
 angka
-angkana
 angkara
 angkasa
 angkat
@@ -855,7 +855,6 @@ aposi
 app
 apu
 apuh
-apun
 apung
 apuran
 apure
@@ -910,7 +909,6 @@ arim
 arin
 aring
 arip
-arir
 aris
 arisan
 arisna
@@ -1560,6 +1558,7 @@ bongkok
 bongo
 bontot
 bop
+bopo
 bor
 boring
 boro
@@ -3070,7 +3069,6 @@ ganjaran
 ganjel
 ganjil
 gano
-ganta
 gantang
 ganteng
 ganthi
@@ -3746,7 +3744,6 @@ helikopter
 helo
 hem
 hemat
-hemu
 hena
 hene
 heni
@@ -4246,6 +4243,7 @@ irenge
 irengmu
 ires
 iri
+iria
 irian
 irie
 irig
@@ -4659,7 +4657,6 @@ kadal
 kadang
 kademan
 kadewa
-kadi
 kadong
 kados
 kadose
@@ -6220,7 +6217,6 @@ mandang
 mandeg
 mandhek
 mandi
-mandraguna
 mandu
 manduk
 mane
@@ -6891,6 +6887,7 @@ ndlosor
 ndoro
 nduk
 nduwe
+nduwur
 ne
 neb
 nebake
@@ -7002,7 +6999,6 @@ nesi
 nesu
 nesune
 net
-netas
 nete
 neteh
 netek
@@ -7573,6 +7569,7 @@ ngincer
 ngindang
 nginep
 nging
+nginggil
 ngingkang
 ngini
 nginjak
@@ -9944,7 +9941,6 @@ sata
 sate
 sati
 satitik
-satria
 satru
 satu
 satunggal
@@ -10629,7 +10625,6 @@ tapis
 tapuk
 tar
 tara
-taras
 tarek
 tari
 tarian
@@ -11328,7 +11323,6 @@ unjuk
 unjul
 unjung
 unki
-unma
 uno
 unta
 untah
