@@ -753,6 +753,7 @@ anoman
 anon
 anop
 anor
+anos
 anot
 ansur
 ansuran
@@ -2563,6 +2564,7 @@ emur
 emut
 en
 ena
+enag
 enah
 enak
 enake
@@ -6191,7 +6193,6 @@ marem
 mareng
 mari
 mariki
-marina
 marine
 maring
 marmut
@@ -6997,7 +6998,6 @@ ngalum
 ngalur
 ngalus
 ngam
-ngama
 ngamal
 ngamar
 ngamba
@@ -7752,7 +7752,6 @@ nguyuh
 nguyup
 ngwah
 ngwur
-nha
 ni
 nia
 nian
@@ -10026,7 +10025,6 @@ sila
 silah
 silai
 silam
-silan
 sile
 silet
 sili
@@ -10453,6 +10451,7 @@ tanggung
 tangi
 tangina
 tangkap
+tanglet
 tani
 tanjung
 tanpa
@@ -11266,6 +11265,7 @@ urup
 urus
 urusan
 urusane
+uruse
 urusen
 urusi
 urusno
@@ -11428,6 +11428,7 @@ wala
 walah
 walang
 wale
+walek
 wali
 walik
 walisongo
