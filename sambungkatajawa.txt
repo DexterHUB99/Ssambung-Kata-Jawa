@@ -479,7 +479,6 @@ amo
 amoe
 amoh
 amok
-amon
 among
 amor
 amoro
@@ -646,7 +645,6 @@ angler
 angling
 angon
 angop
-angos
 angot
 angs
 angsa
@@ -695,6 +693,7 @@ anjog
 anjok
 anjrit
 anjuk
+anjun
 anjung
 anjungan
 anjur
@@ -1304,6 +1303,7 @@ belu
 beluk
 belut
 bem
+beme
 ben
 bena
 benang
@@ -1707,6 +1707,7 @@ cobek
 coc
 coco
 cocok
+cocor
 cocot
 cocote
 cocotmu
@@ -1808,6 +1809,7 @@ dakngerti
 dakon
 dakwah
 dal
+dala
 dalah
 dalam
 dalan
@@ -2021,6 +2023,7 @@ dipun
 dir
 diri
 dirum
+dis
 disa
 disan
 disana
@@ -2041,6 +2044,7 @@ dluwang
 do
 doa
 dobol
+dodi
 dodo
 dodok
 dodol
@@ -2414,6 +2418,7 @@ empet
 empik
 emping
 empo
+empol
 emprit
 empu
 empuk
@@ -2869,6 +2874,7 @@ ganjaran
 ganjel
 ganjil
 gano
+ganong
 ganteng
 ganthi
 ganti
@@ -3564,6 +3570,7 @@ hoha
 hohi
 hoho
 hoi
+hoka
 hoki
 hoko
 hola
@@ -3837,6 +3844,7 @@ impian
 impil
 impit
 impor
+impun
 imuh
 imut
 in
@@ -5273,6 +5281,7 @@ lamuna
 lamunan
 lan
 lanang
+lanangan
 lanange
 lancang
 lancar
@@ -5313,6 +5322,7 @@ lapak
 lapan
 lapang
 lapanga
+lapangan
 lapar
 lape
 lapi
@@ -5969,6 +5979,7 @@ meong
 mepe
 mer
 merah
+merana
 merem
 meri
 merpati
@@ -6603,6 +6614,7 @@ ngalas
 ngale
 ngaleh
 ngalem
+ngaleng
 ngaler
 ngali
 ngalih
@@ -6798,6 +6810,7 @@ ngawur
 ngawut
 ngayah
 ngayal
+ngayomi
 ngayu
 ngayub
 ngayuh
@@ -6858,6 +6871,7 @@ ngeloni
 ngelor
 ngelu
 ngeluh
+ngelus
 ngeman
 ngemas
 ngembang
@@ -6989,6 +7003,7 @@ nggone
 nggoreng
 nggowo
 nggula
+ngguling
 ngguyu
 ngguyue
 ngibadah
@@ -7054,6 +7069,7 @@ ngiring
 ngiris
 ngirit
 ngirup
+ngirus
 ngis
 ngisak
 ngisan
@@ -7370,7 +7386,6 @@ ningkat
 ningning
 ningsih
 nini
-ninine
 nining
 ninja
 nino
@@ -8320,6 +8335,7 @@ pitek
 piten
 piter
 pitik
+pito
 piton
 pitrah
 pitu
@@ -8426,6 +8442,7 @@ pue
 puguh
 puh
 pui
+puing
 puja
 puk
 puka
@@ -8944,7 +8961,6 @@ roo
 rop
 rope
 ropi
-rora
 rore
 rori
 roro
@@ -9406,6 +9422,7 @@ sesek
 sesok
 sesuk
 sesupe
+seta
 setam
 setan
 setrika
@@ -9468,6 +9485,7 @@ sina
 sinau
 sinden
 sindu
+sindur
 sinen
 sing
 singa
@@ -9929,7 +9947,6 @@ telas
 telat
 tele
 telek
-telenan
 teles
 teli
 telinga
@@ -10954,7 +10971,6 @@ wisan
 wisata
 wisma
 wisnu
-wisu
 wisuh
 wit
 wita
