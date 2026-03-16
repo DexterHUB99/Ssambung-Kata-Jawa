@@ -6834,6 +6834,7 @@ ngerandu
 ngerasani
 ngerek
 ngeres
+ngeresi
 ngeret
 ngeri
 ngerit
@@ -7207,7 +7208,6 @@ ngusir
 ngusung
 ngusungi
 ngut
-nguta
 ngutang
 ngutek
 ngutik
@@ -8586,7 +8586,6 @@ rawon
 rawuh
 raya
 rayap
-rayi
 rayo
 rayon
 rayu
@@ -10620,6 +10619,7 @@ wader
 wadha
 wadoh
 wadon
+wadonan
 waduh
 waduk
 wadul
