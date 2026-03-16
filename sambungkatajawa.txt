@@ -9141,6 +9141,7 @@ pih
 pijak
 pijang
 pijat
+pijer
 pijet
 pijit
 pik
