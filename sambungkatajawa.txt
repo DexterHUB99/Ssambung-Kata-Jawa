@@ -621,7 +621,6 @@ anggok
 anggon
 anggoro
 anggrek
-anggu
 angguk
 anggur
 angguran
@@ -3415,7 +3414,6 @@ hap
 hapa
 hape
 hapi
-hapunten
 hapus
 hapusi
 har
@@ -4481,7 +4479,6 @@ kapiran
 kaplok
 kapok
 kapor
-kapriye
 kapuk
 kapur
 kapus
@@ -4580,7 +4577,6 @@ kawe
 kawen
 kawi
 kawih
-kawik
 kawin
 kawit
 kawitan
@@ -6419,7 +6415,6 @@ ndasmu
 ndawa
 ndawuh
 ndek
-ndelik
 ndelok
 nderek
 ndeso
@@ -6890,7 +6885,6 @@ ngendi
 ngendika
 ngendo
 ngendog
-ngendul
 ngene
 ngeneng
 ngenes
@@ -6929,7 +6923,6 @@ ngeri
 ngerit
 ngerok
 ngerokok
-ngerong
 ngeroso
 ngersa
 ngerteni
@@ -8269,7 +8262,6 @@ pina
 pinak
 pinang
 pinarak
-pinas
 pincang
 pincuk
 pindah
@@ -9933,6 +9925,7 @@ telas
 telat
 tele
 telek
+telenan
 teles
 teli
 telinga
@@ -10407,7 +10400,6 @@ ulas
 ulasan
 ulat
 ule
-ulean
 uleg
 ulek
 ulekan
