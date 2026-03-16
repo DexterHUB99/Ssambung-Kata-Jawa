@@ -697,7 +697,6 @@ anjar
 anjaran
 anjas
 anjay
-anjeg
 anji
 anjian
 anjing
@@ -2691,7 +2690,6 @@ esi
 esih
 esik
 esin
-esir
 eso
 esoe
 esok
@@ -3247,7 +3245,6 @@ goke
 gokil
 gol
 gola
-golak
 gole
 golek
 golekan
@@ -3530,7 +3527,6 @@ hate
 hati
 hatiku
 hatimu
-haturnuhun
 hawa
 hawai
 hawane
@@ -6600,7 +6596,6 @@ nelih
 nelongso
 nelu
 neluk
-nelur
 nem
 nemah
 nembak
@@ -7191,6 +7186,7 @@ nging
 ngingkang
 ngini
 nginjak
+nginjek
 nginjuk
 nginsing
 ngintik
@@ -8653,7 +8649,6 @@ puser
 pusi
 pusing
 put
-puten
 putih
 puting
 putra
@@ -9013,7 +9008,6 @@ rihan
 rik
 rika
 rikala
-rikan
 rikat
 riki
 rikma
