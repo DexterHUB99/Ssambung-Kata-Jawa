@@ -1131,6 +1131,7 @@ awah
 awak
 awakdewe
 awake
+awakedhewe
 awakku
 awakmu
 awaku
@@ -4077,7 +4078,6 @@ imas
 imba
 imbaan
 imbah
-imbai
 imbal
 imbalan
 imbang
@@ -4320,6 +4320,7 @@ isoma
 isone
 isor
 isra
+isro
 istana
 isti
 istiadat
@@ -5418,6 +5419,7 @@ krama
 kramas
 krambil
 kran
+krapyak
 kraton
 kresna
 krida
@@ -6870,6 +6872,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulur
 nduwe
 ne
 neb
@@ -9326,6 +9329,7 @@ rawi
 rawit
 rawon
 rawuh
+rawun
 raya
 rayap
 rayo
@@ -10905,6 +10909,7 @@ truk
 tu
 tua
 tuak
+tuba
 tubruk
 tubuh
 tugel
@@ -11522,6 +11527,7 @@ uy
 uya
 uyah
 uye
+uyo
 uyuh
 uyuhmu
 uz
@@ -11558,6 +11564,7 @@ wajar
 wajib
 wajik
 wak
+waka
 wakil
 waktu
 waktune
