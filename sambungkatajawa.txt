@@ -8585,7 +8585,6 @@ rawon
 rawuh
 raya
 rayap
-rayi
 rayo
 rayon
 rayu
@@ -10619,6 +10618,7 @@ wader
 wadha
 wadoh
 wadon
+wadonan
 waduh
 waduk
 wadul
