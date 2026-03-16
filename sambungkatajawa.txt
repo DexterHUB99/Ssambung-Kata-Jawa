@@ -2005,6 +2005,7 @@ didin
 didol
 didu
 diewe
+difa
 digawa
 digo
 dihan
@@ -3143,6 +3144,7 @@ genjot
 genna
 geno
 genta
+gentar
 genteng
 genter
 genti
@@ -3999,6 +4001,7 @@ ingka
 ingkang
 ingko
 ingkung
+ingo
 ingsun
 ingu
 inguk
