@@ -5646,6 +5646,7 @@ le
 leak
 leba
 lebah
+lebet
 lebih
 lebu
 lecek
@@ -9881,6 +9882,7 @@ sepuh
 sepuluh
 sepur
 sepura
+ser
 sera
 serakah
 serami
