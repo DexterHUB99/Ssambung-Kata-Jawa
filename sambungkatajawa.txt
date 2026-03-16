@@ -11050,6 +11050,7 @@ ular
 ulas
 ulasan
 ulat
+ulaya
 ule
 uleg
 ulek
@@ -11207,6 +11208,7 @@ up
 upa
 upacara
 upah
+upai
 upaku
 upam
 upama
