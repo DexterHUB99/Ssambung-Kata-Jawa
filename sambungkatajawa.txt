@@ -1221,6 +1221,7 @@ baskom
 baso
 basuki
 bata
+batak
 batal
 bathuk
 bati
@@ -1849,6 +1850,7 @@ dasa
 dasar
 dasare
 dasi
+data
 datu
 daun
 dawa
@@ -2457,6 +2459,7 @@ enel
 enem
 enen
 eneng
+engah
 enggal
 enggan
 enggar
@@ -10643,6 +10646,7 @@ ut
 uta
 utaa
 utah
+utak
 utama
 utamane
 utami
