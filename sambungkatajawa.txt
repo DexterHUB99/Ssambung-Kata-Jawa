@@ -1343,6 +1343,7 @@ bangsat
 bani
 banjir
 bantal
+banteng
 banter
 bantu
 bantul
