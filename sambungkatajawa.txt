@@ -782,6 +782,7 @@ anti
 antik
 anting
 anto
+antoi
 anton
 antoni
 antoro
@@ -3609,6 +3610,7 @@ hamel
 hami
 hamil
 hamis
+hamo
 hampir
 hamu
 han
@@ -4469,7 +4471,6 @@ jenenge
 jeng
 jenggot
 jengkal
-jengkel
 jengne
 jeno
 jer
@@ -4523,6 +4524,7 @@ jir
 jira
 jiran
 jireh
+jiret
 jiri
 jirih
 jit
@@ -4755,6 +4757,7 @@ kantil
 kanto
 kantongan
 kantor
+kantun
 kanyatane
 kanyuwun
 kaos
@@ -9494,6 +9497,7 @@ roha
 roho
 roi
 rok
+roka
 roke
 roket
 roki
