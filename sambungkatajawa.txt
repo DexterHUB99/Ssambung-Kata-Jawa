@@ -9621,6 +9621,7 @@ ratan
 ratau
 rati
 ratih
+ratina
 rating
 ratna
 ratu
