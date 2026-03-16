@@ -3097,6 +3097,7 @@ garik
 garing
 garis
 garisan
+garit
 garong
 garpu
 garu
