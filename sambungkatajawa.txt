@@ -4726,6 +4726,7 @@ kasap
 kasar
 kasarasan
 kasat
+kasem
 kasep
 kaset
 kasi
