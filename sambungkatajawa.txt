@@ -3041,6 +3041,7 @@ gembrot
 gembung
 gemen
 gemes
+gemeter
 gemi
 gemo
 gempa
@@ -6674,6 +6675,7 @@ ngalem
 ngaler
 ngali
 ngalih
+ngalir
 ngalis
 ngalo
 ngalon
