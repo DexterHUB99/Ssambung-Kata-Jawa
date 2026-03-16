@@ -670,7 +670,6 @@ anggit
 anggo
 anggok
 anggon
-anggone
 anggoro
 anggrek
 angguk
@@ -1021,6 +1020,7 @@ asuh
 asuhan
 asui
 asuk
+asuka
 asul
 asum
 asumu
@@ -1733,6 +1733,7 @@ care
 cari
 carik
 carita
+carok
 caruk
 cas
 casa
@@ -2420,6 +2421,7 @@ ej
 eja
 ejah
 eje
+ejen
 ejo
 ek
 eka
@@ -2590,6 +2592,7 @@ empet
 empik
 emping
 empit
+emplok
 empo
 emprit
 empu
@@ -2823,6 +2826,7 @@ ese
 eseh
 esek
 esem
+eseman
 eseme
 esemka
 esen
@@ -3661,6 +3665,7 @@ hap
 hapa
 hape
 hapi
+hapunten
 hapus
 hapusi
 har
@@ -3988,6 +3993,7 @@ ijin
 ijo
 ijok
 ijol
+ijoli
 ik
 ika
 ikaa
@@ -4022,6 +4028,7 @@ ikon
 ikoro
 ikrar
 iku
+ikua
 ikue
 ikui
 ikuku
@@ -4100,6 +4107,7 @@ imboh
 imbu
 imbuh
 imbuhan
+imbuhi
 imbung
 ime
 imen
@@ -4273,6 +4281,7 @@ irug
 irum
 irung
 irunge
+irungmu
 irup
 irus
 irut
@@ -4570,6 +4579,7 @@ jiret
 jiri
 jirih
 jit
+jita
 jitak
 jiwa
 jo
@@ -4800,7 +4810,6 @@ kanto
 kantongan
 kantor
 kantun
-kanut
 kanyatane
 kanyuwun
 kaos
@@ -5090,6 +5099,7 @@ kenetel
 kengken
 keni
 kening
+kenis
 kenjeran
 kenok
 kenon
@@ -5173,6 +5183,7 @@ keruh
 kerupuk
 kerutan
 kes
+kesa
 kesah
 kesak
 kesal
@@ -5335,6 +5346,7 @@ koene
 koh
 kok
 koka
+kokenak
 koki
 kokiso
 koko
@@ -7388,6 +7400,7 @@ ngempal
 ngemper
 ngempet
 ngempil
+ngemplok
 ngempot
 ngempu
 ngemut
@@ -7412,7 +7425,9 @@ ngeng
 ngengek
 ngenget
 ngenggeh
+ngenggih
 ngenggo
+ngengko
 ngeniko
 ngenjang
 ngeno
@@ -7574,7 +7589,6 @@ ngina
 nginang
 nginceng
 ngincer
-ngindak
 ngindang
 nginep
 nging
@@ -7747,6 +7761,7 @@ ngret
 ngrit
 ngrumat
 ngrusak
+ngrusuh
 nguber
 ngubur
 ngucap
@@ -9303,6 +9318,7 @@ rapuh
 rapung
 rapus
 rara
+raras
 rarawoh
 rari
 raro
@@ -9354,6 +9370,7 @@ rawan
 rawang
 rawat
 rawe
+rawedi
 rawi
 rawit
 rawon
@@ -9478,6 +9495,7 @@ resika
 resiko
 resing
 respati
+resti
 restu
 ret
 retak
@@ -10206,6 +10224,7 @@ simpenan
 simu
 sin
 sina
+sinare
 sinau
 sinden
 sindu
@@ -10224,6 +10243,7 @@ sinte
 sinten
 sinyal
 sio
+siomay
 sip
 sipa
 sipi
@@ -10511,7 +10531,6 @@ sutil
 sutra
 suw
 suwan
-suwara
 suwargi
 suwe
 suwek
@@ -11269,6 +11288,7 @@ umuk
 umul
 umum
 umume
+umun
 umur
 umure
 un
@@ -11783,6 +11803,7 @@ wirya
 wis
 wisa
 wisan
+wisanggeni
 wisata
 wisma
 wisnu
@@ -11880,6 +11901,7 @@ yano
 yanyo
 yao
 yap
+yapa
 yapi
 yaping
 yapo
