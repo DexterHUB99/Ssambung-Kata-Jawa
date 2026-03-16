@@ -478,12 +478,12 @@ amo
 amoe
 amoh
 amok
+amon
 among
 amor
 amoro
 amp
 ampa
-ampah
 ampal
 ampang
 ampar
@@ -698,7 +698,6 @@ ano
 anoa
 anoe
 anok
-anol
 anom
 anoman
 anon
@@ -1490,7 +1489,6 @@ buko
 buku
 bukur
 bul
-bulak
 bulan
 bulat
 bule
@@ -2176,6 +2174,7 @@ eg
 ega
 egah
 egak
+egan
 egar
 ege
 egi
@@ -2609,7 +2608,6 @@ erusi
 erut
 es
 esa
-esab
 esah
 esai
 esan
@@ -2781,6 +2779,7 @@ gal
 gala
 galah
 galak
+galan
 galang
 galangan
 galau
@@ -3439,6 +3438,7 @@ hate
 hati
 hatiku
 hatimu
+haturnuhun
 hawa
 hawai
 hawane
@@ -4551,6 +4551,7 @@ kawanen
 kawaruh
 kawasan
 kawat
+kawatir
 kawe
 kawen
 kawi
@@ -4619,7 +4620,6 @@ kelaran
 kelas
 kelawan
 kelebon
-kelebu
 kelek
 kelekmu
 kelem
@@ -6240,7 +6240,6 @@ naku
 nakula
 nal
 nala
-nalah
 nalak
 nalang
 nalangi
@@ -7109,7 +7108,6 @@ ngonoi
 ngonten
 ngontol
 ngop
-ngopah
 ngopak
 ngopeni
 ngopet
@@ -7199,6 +7197,7 @@ ngulur
 ngum
 nguma
 ngumah
+ngumani
 ngumbah
 ngumbahi
 ngumbel
@@ -7244,7 +7243,6 @@ ngurip
 nguripi
 nguru
 ngurui
-nguruk
 nguruki
 ngurung
 ngurus
@@ -8142,7 +8140,6 @@ pepaya
 pepe
 pepek
 pepes
-pepet
 per
 pera
 perak
@@ -8341,7 +8338,6 @@ ponorogo
 ponsel
 poo
 pop
-popi
 por
 pora
 poran
@@ -8349,7 +8345,6 @@ pore
 porek
 pores
 pori
-porik
 porno
 poro
 poron
@@ -8620,7 +8615,6 @@ rasane
 rasani
 rase
 rasi
-rasih
 rasik
 rasim
 rasing
@@ -9433,7 +9427,6 @@ sini
 sinom
 sinoman
 sinta
-sintah
 sinte
 sinten
 sinyal
@@ -10931,7 +10924,6 @@ woo
 wor
 woro
 wos
-wosing
 wowi
 wowo
 woyo
