@@ -568,7 +568,6 @@ amu
 amuh
 amuk
 amukan
-amum
 amun
 amung
 amur
@@ -2387,7 +2386,6 @@ ede
 edi
 edit
 edo
-edok
 edul
 edus
 eeh
@@ -3325,7 +3323,6 @@ genggem
 geni
 genit
 geniya
-genjik
 genjot
 genna
 geno
@@ -4333,7 +4330,6 @@ iru
 irub
 irue
 irug
-iruk
 irum
 irung
 irunge
@@ -5986,6 +5982,7 @@ linggih
 linggis
 lingkar
 lingkung
+lingkungan
 linglung
 lingsir
 lini
@@ -8327,6 +8324,7 @@ oge
 oger
 ogi
 ogil
+ogis
 ogoh
 ogol
 ogor
@@ -8935,7 +8933,6 @@ perih
 pero
 pes
 pesan
-pese
 pesen
 pesi
 pesing
