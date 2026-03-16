@@ -483,7 +483,6 @@ amor
 amoro
 amp
 ampa
-ampah
 ampal
 ampang
 ampar
@@ -698,7 +697,6 @@ ano
 anoa
 anoe
 anok
-anol
 anom
 anoman
 anon
@@ -1490,7 +1488,6 @@ buko
 buku
 bukur
 bul
-bulak
 bulan
 bulat
 bule
@@ -2780,6 +2777,7 @@ gal
 gala
 galah
 galak
+galan
 galang
 galangan
 galau
@@ -4618,7 +4616,6 @@ kelaran
 kelas
 kelawan
 kelebon
-kelebu
 kelek
 kelekmu
 kelem
@@ -6239,7 +6236,6 @@ naku
 nakula
 nal
 nala
-nalah
 nalak
 nalang
 nalangi
@@ -8139,7 +8135,6 @@ pepaya
 pepe
 pepek
 pepes
-pepet
 per
 pera
 perak
@@ -8345,7 +8340,6 @@ pore
 porek
 pores
 pori
-porik
 porno
 poro
 poron
@@ -8616,7 +8610,6 @@ rasane
 rasani
 rase
 rasi
-rasih
 rasik
 rasim
 rasing
@@ -9429,7 +9422,6 @@ sini
 sinom
 sinoman
 sinta
-sintah
 sinte
 sinten
 sinyal
