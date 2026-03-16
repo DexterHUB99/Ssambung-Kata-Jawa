@@ -1,5 +1,4 @@
 aa
-aae
 aah
 aaha
 ab
@@ -248,7 +247,6 @@ ajib
 ajig
 ajih
 ajik
-ajim
 ajin
 ajine
 ajing
@@ -784,7 +782,6 @@ anti
 antik
 anting
 anto
-antoi
 anton
 antoni
 antoro
@@ -940,7 +937,6 @@ arun
 arup
 arupa
 arus
-arut
 arwa
 arwah
 arya
@@ -1487,6 +1483,7 @@ bin
 bina
 binara
 bindeng
+bing
 bingung
 bini
 bino
@@ -1663,6 +1660,7 @@ ca
 cabe
 cabi
 caca
+cacad
 cacah
 cacahe
 cacak
@@ -3614,7 +3612,6 @@ hamel
 hami
 hamil
 hamis
-hamo
 hampir
 hamu
 han
@@ -3924,7 +3921,6 @@ ih
 iha
 ihaa
 ihai
-ihali
 ihan
 ihara
 ihe
@@ -4421,7 +4417,6 @@ jangkrik
 jani
 janian
 janji
-janri
 janti
 jantung
 jao
@@ -4531,7 +4526,6 @@ jir
 jira
 jiran
 jireh
-jiret
 jiri
 jirih
 jit
@@ -4764,7 +4758,6 @@ kantil
 kanto
 kantongan
 kantor
-kantun
 kanyatane
 kanyuwun
 kaos
@@ -5141,6 +5134,7 @@ kesasar
 kesat
 kese
 kesed
+kesek
 kesel
 keselek
 kesem
@@ -6914,7 +6908,6 @@ nenek
 nenen
 nenenen
 neng
-nengah
 nengdi
 nenge
 nengen
@@ -7678,6 +7671,7 @@ ngrit
 ngrumat
 ngrusak
 nguber
+ngubub
 ngubur
 ngucap
 ngucek
@@ -9268,7 +9262,6 @@ ratus
 rauh
 raul
 rauma
-raung
 raup
 rausah
 raut
@@ -9509,7 +9502,6 @@ roha
 roho
 roi
 rok
-roka
 roke
 roket
 roki
