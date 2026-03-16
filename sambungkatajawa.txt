@@ -3286,6 +3286,7 @@ ge
 gea
 geber
 geblak
+gebleg
 geblek
 geblog
 gebok
@@ -8009,6 +8010,7 @@ ngrepoti
 ngret
 ngrit
 ngrumat
+ngrumpi
 ngrusak
 ngubah
 nguber
