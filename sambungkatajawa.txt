@@ -4633,6 +4633,7 @@ kawitan
 kawok
 kawruh
 kawula
+kawulan
 kawung
 kawus
 kaya
@@ -7724,6 +7725,7 @@ ohhh
 oho
 ohya
 oj
+ojak
 ojam
 ojar
 ojek
