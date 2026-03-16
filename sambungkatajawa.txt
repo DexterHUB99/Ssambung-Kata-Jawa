@@ -767,6 +767,7 @@ anjurane
 ano
 anoa
 anoe
+anog
 anoi
 anok
 anol
@@ -783,7 +784,6 @@ antah
 antam
 antar
 antara
-antaran
 antarane
 antare
 antareja
@@ -816,7 +816,6 @@ anum
 anun
 anung
 anup
-anur
 anus
 anut
 anyam
@@ -1684,7 +1683,6 @@ busik
 busu
 busuk
 busung
-but
 buta
 butek
 buto
@@ -2010,7 +2008,6 @@ dani
 danu
 danur
 dap
-dapa
 dapur
 dapuran
 dar
@@ -2097,6 +2094,7 @@ deso
 det
 dewa
 dewe
+dewek
 dewi
 dhadha
 dhahar
@@ -2188,6 +2186,7 @@ dino
 dinoe
 dinten
 diora
+dip
 dipa
 dipan
 dipangan
@@ -2335,6 +2334,7 @@ durian
 durjana
 durma
 durung
+dusa
 duso
 dusun
 dut
@@ -2472,6 +2472,7 @@ ekem
 eken
 eker
 ekere
+ekeri
 ekes
 eket
 eki
@@ -2725,7 +2726,6 @@ enthen
 entheng
 enthok
 enthol
-enthuk
 entir
 entit
 entoh
@@ -2764,7 +2764,6 @@ epem
 epen
 epep
 eper
-epes
 epet
 epi
 epic
@@ -2967,7 +2966,6 @@ fani
 fasih
 fikir
 final
-firasat
 firman
 fix
 flora
@@ -3090,8 +3088,6 @@ ganco
 ganda
 gandai
 gandeng
-gandhi
-gandhol
 gandhul
 gandos
 gandrung
@@ -3291,7 +3287,6 @@ genderuwo
 gendheng
 gendhing
 gendhis
-gendhuk
 gendi
 gendon
 gendong
@@ -3344,7 +3339,6 @@ gergaji
 geri
 gerih
 gerik
-gerimis
 gering
 gerji
 germo
@@ -4273,6 +4267,7 @@ ipuk
 ipun
 ir
 ira
+irab
 irah
 iraha
 irahan
@@ -4826,7 +4821,6 @@ kancing
 kancut
 kanda
 kandang
-kandangan
 kandani
 kandas
 kandel
@@ -5064,6 +5058,7 @@ kelekmu
 kelem
 kelengkeng
 kelep
+keler
 keles
 kelet
 keli
@@ -5718,7 +5713,6 @@ lampar
 lamper
 lamping
 lampir
-lampiran
 lampu
 lampune
 lampung
@@ -5759,7 +5753,6 @@ lansia
 lantai
 lantak
 lantang
-lantar
 lantas
 lante
 lanti
@@ -5780,7 +5773,6 @@ lapi
 lapis
 lapisan
 lapo
-laptop
 lapuk
 lar
 lara
@@ -6310,7 +6302,6 @@ mangkat
 mangke
 mangkel
 mangkih
-mangko
 mangkok
 mangku
 mangsa
@@ -6563,7 +6554,6 @@ misu
 misuh
 mita
 mitoni
-miyosi
 mlaku
 mlarat
 mlebet
@@ -6574,7 +6564,6 @@ mmelu
 mmi
 mmika
 mmundur
-mmurah
 mo
 mobil
 mobilan
@@ -7473,7 +7462,6 @@ ngena
 ngenah
 ngenak
 ngencang
-ngencer
 ngencuk
 ngendah
 ngendang
@@ -7535,7 +7523,6 @@ ngersa
 ngerteni
 ngerti
 ngertos
-ngeruh
 ngeruk
 nges
 ngesa
@@ -7907,6 +7894,7 @@ ngup
 ngupah
 ngupai
 ngupakara
+ngupas
 ngupaya
 ngupel
 ngupi
@@ -8055,7 +8043,6 @@ nitih
 nitik
 nitip
 niwa
-njaba
 njagong
 njajal
 njaluk
@@ -8074,7 +8061,6 @@ nngawi
 nnginum
 nni
 nnipo
-nno
 nny
 no
 nobat
@@ -8292,7 +8278,6 @@ oceh
 ocehan
 ocok
 od
-odak
 odok
 odol
 og
@@ -8637,7 +8622,6 @@ pagar
 pager
 paget
 pagi
-pagiku
 pagus
 paguyupan
 paham
@@ -9297,7 +9281,6 @@ rajungan
 rajut
 rak
 raka
-rakan
 raket
 raki
 rakit
@@ -10242,7 +10225,6 @@ sesak
 sesat
 sesek
 sesok
-sesolah
 sesuk
 sesupe
 set
@@ -10732,7 +10714,6 @@ tanjung
 tanpa
 tansah
 tante
-tanya
 tao
 tap
 tapa
@@ -11269,7 +11250,6 @@ ukit
 ukka
 ukko
 ukma
-ukmi
 ukmo
 ukmu
 ukna
@@ -11373,7 +11353,6 @@ umpami
 umpan
 umpanan
 umpane
-umper
 umpet
 umpi
 umpil
@@ -11611,7 +11590,6 @@ usus
 ususa
 usut
 uswa
-uswe
 ut
 uta
 utaa
@@ -11648,7 +11626,6 @@ utik
 uting
 utir
 utira
-utiran
 utma
 uto
 utoh
@@ -11899,7 +11876,6 @@ wirang
 wirangan
 wiraya
 wiri
-wirna
 wiro
 wiru
 wirya
