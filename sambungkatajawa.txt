@@ -1937,7 +1937,6 @@ di
 dialah
 diancok
 diangsang
-diarani
 dibabi
 dibawa
 dibo
@@ -2809,7 +2808,6 @@ gale
 galeh
 galek
 galem
-galen
 galeng
 galengan
 galer
@@ -3594,7 +3592,6 @@ hote
 hotel
 hotma
 howo
-hoya
 hp
 hu
 hub
@@ -4752,7 +4749,6 @@ kenyot
 keong
 kep
 kepa
-kepak
 kepala
 kepanggih
 keparat
@@ -5980,6 +5976,7 @@ mepe
 mer
 merah
 merem
+mergo
 meri
 merpati
 mersani
@@ -6064,6 +6061,7 @@ mlumah
 mmantu
 mmi
 mmika
+mmundur
 mo
 mobil
 mobilan
@@ -6332,7 +6330,6 @@ nanang
 nanas
 nandang
 nandhang
-nandhur
 nanduk
 nandur
 nanem
@@ -7312,6 +7309,7 @@ ngusung
 ngusungi
 ngut
 ngutang
+ngutar
 ngutek
 ngutik
 ngutil
@@ -7563,6 +7561,7 @@ nutup
 nutupi
 nutur
 nuturi
+nuwek
 nuwun
 nuwunsewu
 ny
@@ -8441,6 +8440,7 @@ puguh
 puh
 pui
 puja
+puju
 puk
 puka
 puki
@@ -8538,7 +8538,6 @@ rahaya
 rahayu
 rahma
 rahmat
-rahmatan
 rahwana
 rai
 raib
@@ -8885,6 +8884,7 @@ riri
 ris
 risa
 risak
+risang
 risi
 risih
 riska
@@ -9082,6 +9082,7 @@ sadulur
 sae
 saestu
 sage
+saged
 saget
 sagu
 sah
@@ -9277,7 +9278,6 @@ sayang
 sayo
 sayor
 sayur
-sayuran
 se
 sea
 sebab
@@ -9371,6 +9371,7 @@ senajan
 senang
 senar
 sendal
+sendang
 sendawa
 sendhang
 sendi
@@ -10318,7 +10319,6 @@ uen
 uf
 ug
 uga
-ugah
 ugal
 ugama
 uget
@@ -11062,7 +11062,6 @@ yani
 yano
 yao
 yap
-yapi
 yaping
 yapo
 yar
