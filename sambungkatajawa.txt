@@ -6086,6 +6086,7 @@ melok
 melon
 melu
 meluk
+meluo
 mem
 memakai
 memang
@@ -10833,6 +10834,7 @@ upaku
 upam
 upama
 upan
+upane
 upang
 upas
 upaya
@@ -11375,6 +11377,7 @@ yoi
 yoiku
 yok
 yoka
+yokan
 yoki
 yoko
 yokono
