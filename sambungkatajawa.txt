@@ -6322,6 +6322,7 @@ muji
 muk
 muka
 mukak
+mukan
 muke
 muki
 muku
@@ -7962,6 +7963,7 @@ oloe
 oloh
 olok
 olokan
+olokmu
 olom
 olon
 olong
