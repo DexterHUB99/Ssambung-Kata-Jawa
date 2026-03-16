@@ -8021,6 +8021,7 @@ pelita
 pelo
 peluk
 pemo
+pemuda
 pen
 pena
 penak
@@ -8615,7 +8616,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
