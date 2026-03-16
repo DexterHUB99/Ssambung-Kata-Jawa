@@ -8434,6 +8434,7 @@ paget
 pagi
 pagus
 paguyupan
+paham
 pahat
 pahing
 pahit
