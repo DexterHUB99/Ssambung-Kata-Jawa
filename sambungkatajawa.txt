@@ -700,6 +700,7 @@ anok
 anom
 anoman
 anon
+anop
 anot
 ansur
 ansuran
@@ -850,7 +851,6 @@ aros
 arow
 arsa
 arsi
-arsila
 arta
 arti
 artii
@@ -1640,7 +1640,6 @@ cerewet
 ceri
 cerit
 cerita
-ces
 ceta
 ceto
 cewe
@@ -2658,6 +2657,7 @@ eti
 etig
 etik
 etika
+etil
 eting
 etis
 eto
@@ -3597,6 +3597,7 @@ huruf
 hurung
 hurup
 hus
+husa
 huse
 husen
 husna
@@ -4286,7 +4287,6 @@ jura
 juragan
 juri
 juru
-jurus
 jus
 juta
 ka
@@ -4675,6 +4675,7 @@ kenanga
 kenapa
 kenari
 kencing
+kencot
 kencur
 kendal
 kendang
@@ -5177,7 +5178,6 @@ lada
 ladak
 lading
 laen
-laga
 lagi
 lagian
 lagu
@@ -6183,6 +6183,7 @@ muti
 mutih
 muwa
 na
+naa
 naba
 naben
 nabi
@@ -6760,7 +6761,6 @@ ngayuh
 ngayuk
 ngayun
 nge
-ngebang
 ngebo
 ngebul
 ngebus
@@ -7398,7 +7398,6 @@ nongkrong
 noni
 nonjok
 nono
-nonom
 nonton
 nontone
 nop
@@ -8238,6 +8237,7 @@ pipipis
 pipis
 pir
 pira
+piram
 pirang
 piranga
 piring
@@ -9818,7 +9818,6 @@ tat
 tata
 tatag
 tatah
-tatai
 tatak
 tatakrama
 tatas
@@ -10421,6 +10420,7 @@ une
 unek
 unem
 unen
+unes
 unesa
 ung
 ungaran
@@ -10668,6 +10668,7 @@ vila
 visa
 voli
 wa
+waa
 waca
 wacana
 wadah
