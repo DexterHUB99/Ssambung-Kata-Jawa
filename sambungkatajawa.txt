@@ -7765,6 +7765,7 @@ nimen
 nimi
 nimo
 nimpal
+nimpali
 nimun
 nin
 nina
@@ -9044,6 +9045,7 @@ raman
 ramasalah
 rambak
 ramban
+rambanan
 rambas
 rambat
 rambatan
