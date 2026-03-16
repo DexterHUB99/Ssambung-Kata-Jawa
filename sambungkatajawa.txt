@@ -325,6 +325,7 @@ akoi
 akoing
 akok
 akol
+akom
 akon
 akoni
 akor
@@ -10930,6 +10931,7 @@ timur
 tin
 tina
 tindak
+tindas
 tindhak
 tinemu
 tingal
