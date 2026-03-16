@@ -3590,6 +3590,7 @@ hasri
 hasta
 hasut
 hasya
+hata
 hate
 hati
 hatiku
@@ -8635,6 +8636,7 @@ pipi
 pipik
 pipipis
 pipis
+pipo
 pir
 pira
 piram
