@@ -175,7 +175,6 @@ ahom
 ahon
 ahop
 ahor
-ahos
 ahoy
 ahu
 ahud
@@ -732,7 +731,6 @@ anom
 anoman
 anon
 anop
-anor
 anot
 ansur
 ansuran
@@ -1375,6 +1373,7 @@ bes
 besan
 besar
 besek
+besi
 besok
 besuk
 besuki
@@ -1407,7 +1406,6 @@ bidik
 bidun
 bidur
 bien
-bigan
 bigu
 bijak
 biji
@@ -1725,6 +1723,7 @@ cicir
 cicit
 ciduk
 cik
+cika
 cikal
 ciken
 ciki
@@ -2014,6 +2013,7 @@ didu
 diewe
 difa
 digawa
+digawe
 digo
 dihan
 diimboh
@@ -3394,6 +3394,7 @@ gumuh
 gumun
 gun
 guna
+gunaake
 gunae
 gundah
 gundam
@@ -5766,6 +5767,7 @@ lomo
 lomot
 lompat
 lon
+loncang
 loncat
 lonceng
 londho
@@ -7208,6 +7210,7 @@ nggae
 nggak
 nggali
 nggambar
+ngganti
 nggarap
 nggawa
 nggawe
@@ -8693,6 +8696,7 @@ powo
 poya
 poye
 poyo
+praja
 prajurit
 prakawis
 pranata
@@ -10073,6 +10077,7 @@ sus
 susa
 susah
 susan
+suse
 susi
 susila
 susu
@@ -11073,7 +11078,6 @@ utekmu
 utel
 uten
 uter
-uthi
 uti
 utik
 uting
