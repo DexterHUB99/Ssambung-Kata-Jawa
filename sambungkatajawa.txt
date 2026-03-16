@@ -3089,6 +3089,7 @@ ganco
 ganda
 gandai
 gandeng
+gandhi
 gandhol
 gandhul
 gandos
@@ -6572,6 +6573,7 @@ mmelu
 mmi
 mmika
 mmundur
+mmurah
 mo
 mobil
 mobilan
