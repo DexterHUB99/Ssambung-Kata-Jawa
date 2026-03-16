@@ -189,6 +189,7 @@ ai
 aia
 aian
 aie
+aiha
 aiho
 aii
 aika
@@ -4470,6 +4471,7 @@ kalah
 kalahan
 kalai
 kalam
+kalang
 kalap
 kalapa
 kalawan
