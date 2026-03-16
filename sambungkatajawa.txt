@@ -5793,6 +5793,7 @@ loka
 lokan
 lokasi
 loke
+loken
 loki
 loko
 lola
@@ -11589,6 +11590,7 @@ yoopo
 yor
 yora
 yori
+yoro
 yos
 yosa
 yosan
