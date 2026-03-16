@@ -568,6 +568,7 @@ amu
 amuh
 amuk
 amukan
+amum
 amun
 amung
 amur
@@ -2386,6 +2387,7 @@ ede
 edi
 edit
 edo
+edok
 edul
 edus
 eeh
@@ -4330,6 +4332,7 @@ iru
 irub
 irue
 irug
+iruk
 irum
 irung
 irunge
@@ -8931,6 +8934,7 @@ perih
 pero
 pes
 pesan
+pese
 pesen
 pesi
 pesing
