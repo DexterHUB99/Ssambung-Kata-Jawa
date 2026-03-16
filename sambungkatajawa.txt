@@ -1594,6 +1594,7 @@ cakung
 cal
 cala
 calak
+calo
 calung
 cama
 camat
@@ -2808,6 +2809,7 @@ gae
 gagah
 gagak
 gagal
+gagalak
 gagang
 gagap
 gagar
@@ -3650,6 +3652,7 @@ hudan
 hujan
 huk
 huka
+huki
 hukum
 hukuman
 hukume
@@ -3748,6 +3751,7 @@ ihmu
 ihna
 iho
 ihra
+ihre
 ihsan
 ihta
 ihya
@@ -4422,6 +4426,7 @@ kajian
 kak
 kaka
 kakak
+kakaka
 kakang
 kakehan
 kakek
@@ -4696,6 +4701,7 @@ kekok
 kel
 kela
 kelabang
+kelah
 kelak
 kelalen
 kelam
@@ -4724,6 +4730,7 @@ keliling
 kelinci
 kelingan
 keliru
+kelok
 kelon
 kelonan
 kelor
@@ -5562,6 +5569,7 @@ limun
 lin
 lina
 lincah
+lincak
 lindes
 lindhu
 lindur
@@ -6085,6 +6093,7 @@ mika
 miker
 miki
 mikir
+miko
 mikul
 mil
 mila
@@ -6816,7 +6825,6 @@ ngarap
 ngarasa
 ngare
 ngarek
-ngareni
 ngarep
 ngarepi
 ngaret
@@ -6902,6 +6910,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngebaki
 ngebang
 ngebo
 ngebul
@@ -7049,6 +7058,7 @@ ngetem
 ngeten
 ngeti
 ngetik
+ngeting
 ngetok
 ngeton
 ngetot
@@ -7125,6 +7135,7 @@ ngili
 ngilo
 ngilok
 ngilu
+ngima
 ngimam
 ngiman
 ngimbar
@@ -7136,6 +7147,7 @@ ngin
 ngina
 nginceng
 ngincer
+ngindang
 nginep
 nging
 ngingkang
@@ -7606,6 +7618,7 @@ nula
 nulang
 nuli
 nulis
+nulo
 nulung
 nulungi
 num
@@ -7755,6 +7768,7 @@ ojar
 ojek
 ojekan
 ojen
+ojil
 ojo
 ojok
 ojol
@@ -8349,6 +8363,7 @@ piker
 piki
 pikir
 piknik
+piko
 pikon
 pikuk
 pikul
@@ -8689,6 +8704,7 @@ ramai
 ramak
 ramal
 ramalan
+raman
 ramasalah
 rambak
 ramban
@@ -8853,6 +8869,7 @@ rekom
 rekoso
 rekot
 reksa
+reku
 rela
 relax
 reli
@@ -8860,6 +8877,7 @@ relo
 rem
 rema
 remah
+remahan
 remang
 remas
 remba
@@ -9459,6 +9477,7 @@ selimut
 seling
 selir
 selo
+selon
 selot
 sem
 semak
