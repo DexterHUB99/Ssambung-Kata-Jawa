@@ -534,6 +534,7 @@ anandong
 anane
 anang
 ananging
+ananjing
 ananti
 anar
 anas
@@ -1070,7 +1071,6 @@ awuren
 ax
 ay
 aya
-ayag
 ayah
 ayak
 ayal
@@ -1460,6 +1460,7 @@ budhe
 budhi
 budi
 budo
+bug
 bugil
 bugis
 buh
@@ -2108,7 +2109,6 @@ durian
 durjana
 durma
 durung
-dus
 duso
 dusun
 dut
@@ -3634,6 +3634,7 @@ ihi
 ihing
 ihka
 ihki
+ihko
 ihku
 ihla
 ihli
@@ -4070,9 +4071,9 @@ jambul
 jampi
 jamput
 jamu
-jamuan
 jamur
 jan
+janaka
 jancok
 jancuk
 jang
@@ -4193,7 +4194,6 @@ jitak
 jiwa
 jo
 jodho
-jodog
 jodoh
 joged
 jogja
@@ -4311,7 +4311,6 @@ kala
 kalah
 kalahan
 kalai
-kalajengking
 kalam
 kalap
 kalawan
@@ -4424,11 +4423,9 @@ kara
 karah
 karak
 karang
-karap
 karat
 karawang
 karawitan
-karbit
 kare
 karek
 karem
@@ -6285,7 +6282,6 @@ naro
 narsis
 naru
 naruh
-naruk
 nas
 nasa
 nasab
@@ -8080,6 +8076,7 @@ pete
 peteng
 pethuk
 peti
+petik
 petruk
 peye
 peyek
@@ -8087,7 +8084,6 @@ pi
 pia
 piagam
 piala
-pialang
 pian
 piano
 piara
@@ -8211,6 +8207,7 @@ piyan
 piye
 po
 poa
+poal
 pocong
 pocung
 podho
@@ -8481,7 +8478,6 @@ ranggi
 rangka
 rangkat
 rangkul
-rangkum
 rangu
 rani
 ranjang
@@ -8599,6 +8595,7 @@ rekot
 reksa
 rela
 relax
+reli
 relo
 rem
 rema
@@ -8633,7 +8630,6 @@ rena
 renang
 rencana
 rencang
-rendah
 rendang
 rendem
 rendeng
@@ -8905,6 +8901,7 @@ rutin
 ruwah
 ruwat
 ruwet
+ruyi
 rw
 sa
 saa
@@ -9848,6 +9845,7 @@ ternak
 terne
 terong
 terus
+tes
 tesi
 tet
 tete
@@ -9965,6 +9963,7 @@ tolol
 tolola
 tolong
 tomat
+tomate
 tombak
 tombok
 tomi
@@ -10346,7 +10345,6 @@ unggul
 ungkal
 ungkap
 ungkapan
-ungkar
 ungkara
 ungkas
 ungkir
@@ -10812,7 +10810,6 @@ woo
 wor
 woro
 wos
-wot
 wowi
 wowo
 woyo
