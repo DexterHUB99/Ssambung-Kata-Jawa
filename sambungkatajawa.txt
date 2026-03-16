@@ -1884,7 +1884,6 @@ cuka
 cuki
 cukin
 cukur
-culai
 culik
 culu
 cum
@@ -3098,6 +3097,7 @@ garik
 garing
 garis
 garisan
+garit
 garong
 garpu
 garu
@@ -4895,7 +4895,6 @@ kaula
 kauman
 kawah
 kawak
-kawal
 kawan
 kawanen
 kawang
@@ -5181,7 +5180,6 @@ ketel
 ketemu
 keter
 kethek
-keti
 ketiban
 ketingal
 ketir
@@ -6142,6 +6140,7 @@ mak
 maka
 makam
 makan
+makana
 makane
 make
 maki
