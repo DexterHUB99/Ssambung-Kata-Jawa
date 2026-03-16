@@ -3788,6 +3788,7 @@ haru
 harue
 harui
 harum
+haruman
 harume
 harus
 haruse
@@ -11828,6 +11829,7 @@ uy
 uya
 uyah
 uye
+uyo
 uyuh
 uyuhmu
 uz
