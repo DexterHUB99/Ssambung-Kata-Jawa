@@ -1645,6 +1645,7 @@ celengan
 celi
 celuk
 cemani
+cemen
 cempe
 cemplung
 cen
@@ -2745,6 +2746,7 @@ eyak
 eyam
 eyang
 eye
+eyek
 eyo
 eyos
 eyu
