@@ -2406,6 +2406,7 @@ eje
 ejo
 ek
 eka
+ekaan
 ekae
 ekah
 ekal
@@ -7469,6 +7470,7 @@ nggon
 nggone
 nggoreng
 nggowo
+nggresiki
 nggula
 ngguyu
 ngguyue
