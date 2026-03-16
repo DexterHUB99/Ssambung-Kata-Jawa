@@ -3773,6 +3773,7 @@ homa
 homi
 homo
 hon
+hona
 hono
 honta
 hoo
@@ -8574,6 +8575,7 @@ patak
 patang
 patek
 paten
+pateni
 pater
 pati
 patih
@@ -9092,6 +9094,7 @@ rampun
 rampung
 rampungan
 ramu
+ramuan
 ramutu
 ran
 rana
