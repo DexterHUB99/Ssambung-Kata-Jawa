@@ -44,6 +44,7 @@ ad
 ada
 adah
 adai
+adak
 adal
 adala
 adam
@@ -447,6 +448,7 @@ amah
 amai
 amak
 amal
+amala
 amalan
 amalane
 amam
@@ -566,7 +568,6 @@ amu
 amuh
 amuk
 amukan
-amum
 amun
 amung
 amur
@@ -2041,6 +2042,7 @@ dawir
 dawuh
 daya
 dayang
+dayo
 dayu
 de
 debok
@@ -2384,7 +2386,6 @@ ede
 edi
 edit
 edo
-edok
 edul
 edus
 eeh
@@ -2459,6 +2460,7 @@ eja
 ejah
 eje
 ejek
+eji
 ejo
 ek
 eka
@@ -4328,7 +4330,6 @@ iru
 irub
 irue
 irug
-iruk
 irum
 irung
 irunge
@@ -8930,7 +8931,6 @@ perih
 pero
 pes
 pesan
-pese
 pesen
 pesi
 pesing
@@ -9019,6 +9019,7 @@ pindang
 pindho
 pindo
 pindoe
+pinduk
 ping
 pinggih
 pinggir
@@ -9511,6 +9512,7 @@ reka
 rekam
 rekan
 rekasa
+rekat
 rekmo
 reko
 rekom
