@@ -31,7 +31,6 @@ ac
 aca
 acak
 acan
-acar
 ace
 aceh
 aci
@@ -830,7 +829,6 @@ apol
 apolo
 apos
 aposi
-apoy
 app
 apu
 apuh
@@ -11578,6 +11576,7 @@ yodi
 yoe
 yoga
 yogya
+yogyakarta
 yoh
 yohan
 yoi
