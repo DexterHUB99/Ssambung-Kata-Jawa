@@ -2593,6 +2593,7 @@ esek
 esem
 eseme
 esemka
+esen
 eses
 eset
 esey
@@ -5854,6 +5855,7 @@ melok
 melu
 meluk
 mem
+mema
 memang
 memar
 membal
