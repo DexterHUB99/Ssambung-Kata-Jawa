@@ -6710,6 +6710,7 @@ neros
 nerus
 nes
 nesa
+nesan
 nesi
 nesu
 nesune
@@ -8883,6 +8884,7 @@ rani
 ranjang
 ranjing
 rantai
+rantan
 rantang
 rantas
 rante
