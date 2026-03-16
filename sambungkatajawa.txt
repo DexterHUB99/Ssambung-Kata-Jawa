@@ -33,7 +33,6 @@ ac
 aca
 acak
 acan
-acar
 ace
 aceh
 aci
@@ -43,7 +42,6 @@ acuh
 acung
 ad
 ada
-adab
 adah
 adai
 adal
@@ -226,6 +224,7 @@ aio
 air
 aira
 airan
+airi
 airo
 aisih
 aisin
@@ -465,7 +464,6 @@ amar
 amarga
 amargi
 amargo
-amarta
 amas
 amat
 amati
@@ -1667,7 +1665,6 @@ bune
 bunga
 bungah
 bungahe
-bungkam
 bungkus
 buntel
 buntu
@@ -1788,7 +1785,6 @@ celeng
 celengan
 celi
 celuk
-celup
 cemani
 cemen
 cempe
@@ -3529,7 +3525,6 @@ griwa
 griya
 griyane
 grobak
-grobogan
 grogi
 grogoh
 grogot
@@ -3657,6 +3652,7 @@ haii
 hajar
 hajat
 haji
+hajien
 hajimi
 hak
 haka
@@ -4702,7 +4698,6 @@ jus
 juta
 ka
 kabar
-kabare
 kabeh
 kabel
 kabul
@@ -5038,7 +5033,6 @@ kediri
 keduhung
 kedul
 kedung
-kedut
 kegowo
 keisi
 kejam
@@ -6777,6 +6771,7 @@ nabur
 nada
 nadah
 nadahi
+nadhah
 nadi
 nadyan
 nae
@@ -7382,7 +7377,6 @@ ngawal
 ngawali
 ngawang
 ngawas
-ngawasi
 ngawe
 ngaweh
 ngawer
@@ -7920,7 +7914,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunyem
 ngup
 ngupah
 ngupai
@@ -8472,6 +8465,7 @@ oncom
 onda
 onde
 ondha
+ondhe
 ondo
 ondol
 oneng
@@ -9786,6 +9780,7 @@ ruko
 ruku
 rukuh
 rukun
+rukuna
 rula
 ruli
 rum
@@ -10134,6 +10129,7 @@ sego
 segoro
 seh
 sehat
+sei
 seje
 sejen
 sek
@@ -10189,7 +10185,6 @@ sembur
 seme
 semen
 semene
-semir
 semo
 semok
 semot
@@ -10894,7 +10889,6 @@ ter
 terak
 terang
 teras
-terasi
 tere
 teri
 terima
@@ -11080,7 +11074,6 @@ tugel
 tuh
 tuhan
 tuk
-tuka
 tukan
 tukang
 tukange
@@ -11367,6 +11360,7 @@ uma
 umaa
 umah
 umahe
+umai
 umak
 uman
 umar
@@ -11656,7 +11650,6 @@ utawi
 utawo
 ute
 utek
-utekan
 uteke
 utekmu
 utel
