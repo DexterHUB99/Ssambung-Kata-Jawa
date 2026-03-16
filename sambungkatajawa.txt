@@ -3095,6 +3095,7 @@ gase
 gasi
 gasik
 gasing
+gasingan
 gasir
 gass
 gatau
@@ -8538,6 +8539,7 @@ panggah
 panggeh
 panggih
 panggon
+pangkas
 pangkat
 pangku
 pangkur
