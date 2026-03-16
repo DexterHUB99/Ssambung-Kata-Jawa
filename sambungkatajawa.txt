@@ -6307,6 +6307,7 @@ medeni
 medhok
 meditasi
 mega
+megah
 meh
 meja
 mek
@@ -7101,6 +7102,7 @@ nganggur
 ngangkang
 ngangluh
 ngangon
+ngangsal
 ngangsu
 ngangsur
 ngangu
@@ -9950,6 +9952,7 @@ sekti
 sekul
 sel
 sela
+selah
 selak
 selam
 selamat
