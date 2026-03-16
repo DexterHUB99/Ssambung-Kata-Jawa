@@ -1132,6 +1132,7 @@ ayak
 ayal
 ayalan
 ayam
+ayaman
 ayamne
 ayan
 ayanen
@@ -4990,6 +4991,7 @@ kes
 kesah
 kesak
 kesal
+kesandung
 kesasar
 kesat
 kese
