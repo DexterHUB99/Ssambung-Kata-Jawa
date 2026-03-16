@@ -1182,6 +1182,7 @@ bacak
 bacin
 bacot
 bacut
+bada
 badak
 bade
 badeg
@@ -3629,6 +3630,7 @@ hening
 heno
 heo
 hep
+hepa
 hepan
 hepi
 her
@@ -10748,6 +10750,7 @@ ukel
 ukem
 ukep
 uker
+ukere
 ukes
 uket
 uki
