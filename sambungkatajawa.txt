@@ -5673,6 +5673,7 @@ lote
 lotek
 loti
 lotis
+lowa
 lowas
 lowe
 lowo
@@ -5947,6 +5948,7 @@ matur
 maturnuwun
 matursuwun
 mau
+mawa
 mawah
 mawar
 mawon
@@ -9196,6 +9198,7 @@ salahku
 salak
 salam
 saleh
+saleng
 sali
 salim
 salin
