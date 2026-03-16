@@ -5609,6 +5609,7 @@ lane
 langganan
 langgar
 langgeng
+langi
 langit
 langka
 langkah
