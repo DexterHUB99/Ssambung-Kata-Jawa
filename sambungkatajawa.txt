@@ -4337,6 +4337,7 @@ jawe
 jawi
 jawila
 jawir
+jawo
 jawoh
 jawuh
 jaya
@@ -9863,6 +9864,7 @@ simo
 simpang
 simpen
 simpenan
+simu
 sin
 sina
 sinau
