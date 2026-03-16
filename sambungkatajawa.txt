@@ -9313,6 +9313,7 @@ pose
 posen
 posi
 pot
+pota
 potong
 powa
 powo
