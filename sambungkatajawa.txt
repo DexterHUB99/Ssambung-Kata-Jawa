@@ -930,6 +930,7 @@ asap
 asar
 asas
 asat
+asay
 ase
 aseh
 asek
