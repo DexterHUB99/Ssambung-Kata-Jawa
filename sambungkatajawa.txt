@@ -4910,6 +4910,7 @@ kelam
 kelambe
 kelana
 kelangan
+kelap
 kelaparan
 kelar
 kelara
@@ -10840,6 +10841,7 @@ tuwuh
 tuyul
 tv
 ua
+uake
 uan
 uang
 ub
