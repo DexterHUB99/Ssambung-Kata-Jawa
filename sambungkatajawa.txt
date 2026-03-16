@@ -2039,6 +2039,7 @@ dluwang
 do
 doa
 dobol
+dodi
 dodo
 dodok
 dodol
@@ -2412,6 +2413,7 @@ empet
 empik
 emping
 empo
+empol
 emprit
 empu
 empuk
@@ -2867,6 +2869,7 @@ ganjaran
 ganjel
 ganjil
 gano
+ganong
 ganteng
 ganthi
 ganti
@@ -3562,6 +3565,7 @@ hoha
 hohi
 hoho
 hoi
+hoka
 hoki
 hoko
 hola
@@ -5271,6 +5275,7 @@ lamuna
 lamunan
 lan
 lanang
+lanangan
 lanange
 lancang
 lancar
@@ -5311,6 +5316,7 @@ lapak
 lapan
 lapang
 lapanga
+lapangan
 lapar
 lape
 lapi
@@ -6856,6 +6862,7 @@ ngeloni
 ngelor
 ngelu
 ngeluh
+ngelus
 ngeman
 ngemas
 ngembang
@@ -9402,6 +9409,7 @@ sesek
 sesok
 sesuk
 sesupe
+seta
 setam
 setan
 setrika
@@ -9464,6 +9472,7 @@ sina
 sinau
 sinden
 sindu
+sindur
 sinen
 sing
 singa
