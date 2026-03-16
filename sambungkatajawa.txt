@@ -1594,6 +1594,7 @@ cakung
 cal
 cala
 calak
+calo
 calung
 cama
 camat
@@ -1816,7 +1817,6 @@ dadu
 daduk
 dagang
 dagelan
-daging
 dagu
 dah
 dahan
@@ -1837,7 +1837,6 @@ dale
 dalem
 daleman
 daleme
-dali
 dalih
 dalu
 dam
@@ -1926,7 +1925,6 @@ demak
 demam
 deman
 demek
-demen
 demi
 demit
 demo
@@ -2063,7 +2061,6 @@ dita
 ditilep
 ditulung
 diwa
-dlogok
 dluwang
 do
 doa
@@ -2808,6 +2805,7 @@ gae
 gagah
 gagak
 gagal
+gagalak
 gagang
 gagap
 gagar
@@ -3748,6 +3746,7 @@ ihmu
 ihna
 iho
 ihra
+ihre
 ihsan
 ihta
 ihya
@@ -3998,7 +3997,6 @@ irana
 irang
 iras
 irat
-irawa
 iren
 ireng
 irenge
@@ -4422,6 +4420,7 @@ kajian
 kak
 kaka
 kakak
+kakaka
 kakang
 kakehan
 kakek
@@ -4582,7 +4581,6 @@ kasah
 kasak
 kasam
 kasang
-kasap
 kasar
 kasat
 kasep
@@ -5160,7 +5158,6 @@ kukuh
 kukul
 kukur
 kukus
-kukusan
 kul
 kula
 kulaan
@@ -5295,7 +5292,6 @@ lahan
 lahi
 lahir
 laiki
-lair
 lairan
 lajeng
 laju
@@ -5561,6 +5557,7 @@ limun
 lin
 lina
 lincah
+lincak
 lindes
 lindhu
 lindur
@@ -6900,6 +6897,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngebaki
 ngebang
 ngebo
 ngebul
@@ -7047,6 +7045,7 @@ ngetem
 ngeten
 ngeti
 ngetik
+ngeting
 ngetok
 ngeton
 ngetot
@@ -7123,6 +7122,7 @@ ngili
 ngilo
 ngilok
 ngilu
+ngima
 ngimam
 ngiman
 ngimbar
@@ -7134,6 +7134,7 @@ ngin
 ngina
 nginceng
 ngincer
+ngindang
 nginep
 nging
 ngingkang
@@ -7318,7 +7319,6 @@ nguki
 ngukir
 ngukur
 ngul
-ngula
 ngulah
 ngulai
 ngulang
@@ -7604,6 +7604,7 @@ nula
 nulang
 nuli
 nulis
+nulo
 nulung
 nulungi
 num
@@ -7753,6 +7754,7 @@ ojar
 ojek
 ojekan
 ojen
+ojil
 ojo
 ojok
 ojol
@@ -8111,7 +8113,6 @@ pan
 panah
 panai
 panas
-panca
 pancal
 pancen
 panci
@@ -8243,7 +8244,6 @@ pedang
 pede
 pedes
 pedot
-pee
 pegat
 pegel
 pegi
@@ -8347,6 +8347,7 @@ piker
 piki
 pikir
 piknik
+piko
 pikon
 pikuk
 pikul
@@ -8687,6 +8688,7 @@ ramai
 ramak
 ramal
 ramalan
+raman
 ramasalah
 rambak
 ramban
@@ -8851,6 +8853,7 @@ rekom
 rekoso
 rekot
 reksa
+reku
 rela
 relax
 reli
@@ -8858,6 +8861,7 @@ relo
 rem
 rema
 remah
+remahan
 remang
 remas
 remba
@@ -9457,6 +9461,7 @@ selimut
 seling
 selir
 selo
+selon
 selot
 sem
 semak
@@ -9741,7 +9746,6 @@ soto
 sowan
 soyo
 srawung
-sregep
 sri
 su
 sua
@@ -10777,7 +10781,6 @@ urusane
 urusen
 urusi
 urusno
-uruso
 urut
 urutan
 us
