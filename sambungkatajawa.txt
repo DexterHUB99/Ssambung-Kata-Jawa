@@ -3565,6 +3565,7 @@ hahi
 haho
 hai
 haie
+haii
 hajar
 hajat
 haji
@@ -9469,6 +9470,7 @@ rob
 roba
 robah
 roban
+robe
 robek
 robi
 roboh
@@ -11579,6 +11581,7 @@ weleh
 weli
 weling
 welo
+welut
 wen
 wene
 weneh
