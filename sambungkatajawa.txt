@@ -72,7 +72,6 @@ adoh
 adol
 adon
 adonan
-adop
 ador
 ados
 adu
@@ -773,7 +772,6 @@ anut
 anyam
 anyaman
 anyar
-anyaran
 anyeb
 anyep
 anyer
@@ -1206,7 +1204,6 @@ bakan
 bakar
 baki
 bakmi
-bako
 bakso
 baku
 bakul
@@ -1372,6 +1369,7 @@ bes
 besan
 besar
 besek
+besi
 besok
 besuk
 besuki
@@ -2008,7 +2006,6 @@ didin
 didol
 didu
 diewe
-difa
 digawa
 digo
 dihan
@@ -2258,7 +2255,6 @@ eg
 ega
 egah
 egak
-egang
 egar
 ege
 egi
@@ -3148,7 +3144,6 @@ genjot
 genna
 geno
 genta
-gentar
 genteng
 genter
 genti
@@ -3208,7 +3203,6 @@ getuk
 getun
 gewa
 geyo
-ghosting
 gi
 gidal
 gig
@@ -3390,6 +3384,7 @@ gumuh
 gumun
 gun
 guna
+gunaake
 gunae
 gundah
 gundam
@@ -3768,7 +3763,6 @@ ico
 icu
 id
 ida
-idal
 idam
 idaman
 idan
@@ -4007,7 +4001,6 @@ ingka
 ingkang
 ingko
 ingkung
-ingo
 ingsun
 ingu
 inguk
@@ -4623,7 +4616,6 @@ kaplok
 kapok
 kapor
 kapuk
-kapun
 kapur
 kapus
 kar
@@ -5220,7 +5212,6 @@ krambil
 kran
 kraton
 kresna
-krida
 kripik
 krungu
 krupuk
@@ -5611,7 +5602,6 @@ let
 leto
 letong
 lewat
-leyeh
 li
 lia
 lian
@@ -6060,7 +6050,6 @@ masi
 masih
 masio
 masjid
-masne
 maso
 masu
 masuk
@@ -6219,7 +6208,6 @@ minggu
 mingkem
 mini
 minta
-minten
 minter
 minum
 mio
@@ -6644,7 +6632,6 @@ nedi
 neduh
 neg
 nega
-negan
 negara
 negari
 negas
@@ -6720,7 +6707,6 @@ neraka
 nerang
 nerangake
 nerangi
-nerasi
 neri
 nerik
 nerima
@@ -7165,7 +7151,6 @@ nges
 ngesa
 ngesah
 ngesak
-ngesang
 ngesat
 ngeseng
 ngesok
@@ -7263,7 +7248,6 @@ ngima
 ngimam
 ngiman
 ngimbar
-ngimbas
 ngimbu
 ngimbuh
 ngimi
@@ -7895,7 +7879,6 @@ ogil
 ogoh
 ogol
 ogor
-ogrok
 oh
 ohh
 ohhh
@@ -8560,7 +8543,6 @@ pinggih
 pinggir
 pingsan
 pinja
-pino
 pinta
 pinten
 pinter
@@ -9181,7 +9163,6 @@ riso
 rit
 rita
 ritah
-rite
 riti
 riwa
 riwayat
@@ -10069,6 +10050,7 @@ sus
 susa
 susah
 susan
+suse
 susi
 susila
 susu
@@ -10348,7 +10330,6 @@ tete
 teteg
 teteh
 tetek
-tetelan
 tetep
 tetes
 teuing
@@ -11165,7 +11146,6 @@ wania
 wanine
 wanita
 wantah
-war
 wara
 warah
 warak
@@ -11471,7 +11451,6 @@ yoli
 yolo
 yom
 yoman
-yome
 yomi
 yon
 yona
