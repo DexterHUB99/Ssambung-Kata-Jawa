@@ -4318,6 +4318,7 @@ isu
 isui
 isuk
 isun
+iswa
 isya
 it
 ita
