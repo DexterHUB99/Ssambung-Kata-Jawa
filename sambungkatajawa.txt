@@ -6265,6 +6265,7 @@ musisi
 musoh
 mustahil
 mustaka
+musu
 musuh
 musuk
 mut
@@ -9101,6 +9102,7 @@ rupamu
 rupane
 rupi
 rupo
+rupomu
 rura
 ruri
 ruro
@@ -10555,6 +10557,7 @@ umpi
 umpil
 umpma
 umrah
+umri
 umu
 umuk
 umul
