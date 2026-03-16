@@ -1158,6 +1158,7 @@ aum
 auma
 auman
 aun
+auna
 aup
 aura
 aurip
@@ -9682,6 +9683,7 @@ regi
 regu
 reha
 rei
+reja
 rejeb
 rejo
 rek
@@ -10979,6 +10981,7 @@ tas
 tasa
 tasbih
 tase
+tasen
 tasi
 tasu
 tat
@@ -11576,6 +11579,7 @@ umaa
 umah
 umahe
 umai
+umaira
 umak
 uman
 umar
