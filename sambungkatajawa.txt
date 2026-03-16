@@ -2435,6 +2435,7 @@ ek
 eka
 ekaan
 ekae
+ekag
 ekah
 ekal
 ekali
@@ -2921,6 +2922,7 @@ ewih
 ewoh
 ewok
 ewong
+ewot
 ewu
 ewuh
 ex
@@ -7750,6 +7752,7 @@ ngosing
 ngosip
 ngosok
 ngosong
+ngosor
 ngotak
 ngoti
 ngotori
@@ -8800,6 +8803,7 @@ pele
 pelem
 peler
 peli
+peliku
 pelit
 pelita
 pelo
