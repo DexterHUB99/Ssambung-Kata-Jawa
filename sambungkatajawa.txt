@@ -390,6 +390,7 @@ aleh
 alek
 alem
 aleman
+aleme
 alengka
 alep
 aler
@@ -5753,6 +5754,7 @@ lalar
 lalat
 laler
 lali
+lalien
 laline
 lalio
 lam
@@ -7155,6 +7157,7 @@ nesa
 nesan
 nesi
 nesu
+nesuan
 nesune
 net
 netas
@@ -7668,6 +7671,7 @@ nggawa
 nggawe
 ngge
 nggeh
+nggen
 nggendong
 ngger
 nggi
