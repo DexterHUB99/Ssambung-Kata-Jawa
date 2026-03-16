@@ -697,10 +697,10 @@ ano
 anoa
 anoe
 anok
-anol
 anom
 anoman
 anon
+anop
 anot
 ansur
 ansuran
@@ -2659,6 +2659,7 @@ eti
 etig
 etik
 etika
+etil
 eting
 etis
 eto
@@ -3598,6 +3599,7 @@ huruf
 hurung
 hurup
 hus
+husa
 huse
 husen
 husna
@@ -4676,6 +4678,7 @@ kenanga
 kenapa
 kenari
 kencing
+kencot
 kencur
 kendal
 kendang
@@ -6184,6 +6187,7 @@ muti
 mutih
 muwa
 na
+naa
 naba
 naben
 nabi
@@ -6231,7 +6235,6 @@ naku
 nakula
 nal
 nala
-nalah
 nalak
 nalang
 nalangi
@@ -7607,6 +7610,7 @@ okal
 okam
 okan
 okar
+okari
 okaro
 okas
 okasa
@@ -8240,6 +8244,7 @@ pipipis
 pipis
 pir
 pira
+piram
 pirang
 piranga
 piring
@@ -8508,6 +8513,7 @@ rama
 ramadhan
 ramah
 ramai
+ramak
 ramal
 ramalan
 ramasalah
@@ -10423,6 +10429,7 @@ une
 unek
 unem
 unen
+unes
 unesa
 ung
 ungaran
@@ -10670,6 +10677,7 @@ vila
 visa
 voli
 wa
+waa
 waca
 wacana
 wadah
