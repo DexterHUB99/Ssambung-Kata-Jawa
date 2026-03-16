@@ -2153,6 +2153,7 @@ dipun
 dir
 diran
 diri
+diru
 dirum
 disa
 disan
