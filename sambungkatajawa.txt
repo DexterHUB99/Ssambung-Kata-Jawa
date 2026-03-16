@@ -196,6 +196,7 @@ aila
 aile
 aili
 ailing
+ailo
 aima
 aimi
 aimu
@@ -759,7 +760,6 @@ anyir
 aos
 ap
 apa
-apaan
 apae
 apah
 apak
@@ -2044,7 +2044,6 @@ diwa
 dluwang
 do
 doa
-dobleh
 dobol
 dodo
 dodok
@@ -3419,6 +3418,7 @@ hantam
 hantu
 hanung
 hanya
+hao
 hap
 hapa
 hape
@@ -3463,6 +3463,7 @@ hasrat
 hasri
 hasta
 hasut
+hasya
 hate
 hati
 hatiku
@@ -4117,7 +4118,6 @@ jai
 jail
 jait
 jaja
-jajah
 jajal
 jajan
 jak
@@ -4644,7 +4644,6 @@ keko
 kekok
 kel
 kela
-kelabang
 kelak
 kelalen
 kelam
@@ -5367,7 +5366,6 @@ latih
 latihan
 lato
 laut
-lautan
 laute
 lawa
 lawak
@@ -5608,6 +5606,7 @@ lonceng
 londho
 londok
 lone
+longan
 longgar
 longgo
 longgor
@@ -5985,9 +5984,11 @@ menyan
 menyang
 meong
 mepe
+mepet
 mer
 merah
 merem
+mergo
 meri
 merpati
 mersani
@@ -6053,7 +6054,6 @@ miri
 miring
 mirip
 miris
-miro
 mirsani
 mis
 misa
@@ -6073,6 +6073,7 @@ mlumah
 mmantu
 mmi
 mmika
+mmundur
 mo
 mobil
 mobilan
@@ -7322,6 +7323,7 @@ ngusung
 ngusungi
 ngut
 ngutang
+ngutar
 ngutek
 ngutik
 ngutil
@@ -7574,6 +7576,7 @@ nutup
 nutupi
 nutur
 nuturi
+nuwek
 nuwun
 nuwunsewu
 ny
@@ -8188,6 +8191,7 @@ penak
 pendek
 pendem
 pendopo
+pene
 pengen
 penggalihe
 peni
@@ -8452,6 +8456,7 @@ puguh
 puh
 pui
 puja
+puju
 puk
 puka
 puki
@@ -8896,6 +8901,7 @@ riri
 ris
 risa
 risak
+risang
 risi
 risih
 riska
@@ -9093,6 +9099,7 @@ sadulur
 sae
 saestu
 sage
+saged
 saget
 sagu
 sah
@@ -9382,6 +9389,7 @@ senajan
 senang
 senar
 sendal
+sendang
 sendawa
 sendhang
 sendi
@@ -9856,7 +9864,6 @@ tameng
 tami
 tampa
 tampah
-tampani
 tampar
 tampi
 tampol
@@ -10292,7 +10299,6 @@ ucul
 ud
 uda
 udah
-udahan
 udahlah
 udak
 udakara
@@ -10395,6 +10401,7 @@ ukna
 uko
 ukok
 ukol
+ukom
 ukon
 ukop
 ukra
