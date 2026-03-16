@@ -783,7 +783,6 @@ antah
 antam
 antar
 antara
-antaran
 antarane
 antare
 antareja
@@ -1918,6 +1917,7 @@ cukur
 culai
 culik
 culu
+culun
 cum
 cuma
 cumi
@@ -3080,7 +3080,6 @@ ganco
 ganda
 gandai
 gandeng
-gandhol
 gandhul
 gandos
 gandrung
@@ -5382,6 +5381,7 @@ koki
 kokiso
 koko
 kokop
+kokowi
 kol
 kola
 kolah
@@ -5703,7 +5703,6 @@ lampar
 lamper
 lamping
 lampir
-lampiran
 lampu
 lampune
 lampung
@@ -5744,7 +5743,6 @@ lansia
 lantai
 lantak
 lantang
-lantar
 lantas
 lante
 lanti
@@ -6546,7 +6544,6 @@ misu
 misuh
 mita
 mitoni
-miyosi
 mlaku
 mlarat
 mlebet
@@ -7143,6 +7140,7 @@ ngalah
 ngalahi
 ngalam
 ngalami
+ngalamun
 ngalap
 ngalas
 ngale
@@ -7454,7 +7452,6 @@ ngena
 ngenah
 ngenak
 ngencang
-ngencer
 ngencuk
 ngendah
 ngendang
@@ -7516,7 +7513,6 @@ ngersa
 ngerteni
 ngerti
 ngertos
-ngeruh
 ngeruk
 nges
 ngesa
@@ -8036,7 +8032,6 @@ nitih
 nitik
 nitip
 niwa
-njaba
 njagong
 njajal
 njaluk
@@ -8272,7 +8267,6 @@ oceh
 ocehan
 ocok
 od
-odak
 odok
 odol
 og
@@ -8339,6 +8333,7 @@ okerek
 okeri
 oket
 okin
+okit
 okok
 okoka
 okoke
@@ -9275,7 +9270,6 @@ rajungan
 rajut
 rak
 raka
-rakan
 raket
 raki
 rakit
@@ -9519,6 +9513,7 @@ rendeng
 rendi
 rene
 reng
+rengas
 renges
 renggang
 rengginang
@@ -10218,7 +10213,6 @@ sesak
 sesat
 sesek
 sesok
-sesolah
 sesuk
 sesupe
 set
@@ -11244,7 +11238,6 @@ ukit
 ukka
 ukko
 ukma
-ukmi
 ukmo
 ukmu
 ukna
@@ -11585,7 +11578,6 @@ usus
 ususa
 usut
 uswa
-uswe
 ut
 uta
 utaa
