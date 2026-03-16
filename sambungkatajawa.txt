@@ -2488,6 +2488,7 @@ enggan
 enggar
 enggeh
 enggih
+enggil
 enggon
 engkang
 engkel
@@ -6777,6 +6778,7 @@ ngarit
 ngaro
 ngarsa
 ngarti
+ngaru
 ngaruh
 ngaruk
 ngarung
