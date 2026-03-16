@@ -4415,6 +4415,7 @@ kajian
 kak
 kaka
 kakak
+kakaka
 kakang
 kakehan
 kakek
@@ -9441,6 +9442,7 @@ selimut
 seling
 selir
 selo
+selon
 selot
 sem
 semak
