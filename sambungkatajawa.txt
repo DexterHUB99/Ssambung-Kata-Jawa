@@ -2183,7 +2183,6 @@ do
 doa
 dobleh
 dobol
-dodik
 dodo
 dodok
 dodol
@@ -2316,7 +2315,6 @@ eboh
 ebol
 ebu
 eca
-ecah
 ecek
 ecer
 eco
@@ -2407,7 +2405,6 @@ eje
 ejo
 ek
 eka
-ekaan
 ekae
 ekah
 ekal
@@ -3549,6 +3546,7 @@ gusur
 gut
 guta
 guten
+guti
 guwa
 guyah
 guyon
@@ -7473,7 +7471,6 @@ nggon
 nggone
 nggoreng
 nggowo
-nggresiki
 nggula
 ngguyu
 ngguyue
@@ -9635,7 +9632,6 @@ rumu
 rumus
 run
 runa
-runawa
 runcing
 rundingan
 rung
@@ -9728,7 +9724,6 @@ sajen
 saji
 sajian
 sajim
-sajin
 sak
 saka
 sakar
