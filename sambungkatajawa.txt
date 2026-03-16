@@ -2585,6 +2585,7 @@ empet
 empik
 emping
 empit
+emplok
 empo
 emprit
 empu
@@ -3985,6 +3986,7 @@ ijin
 ijo
 ijok
 ijol
+ijoli
 ik
 ika
 ikaa
@@ -5305,6 +5307,7 @@ kiwa
 kiye
 klambi
 klambine
+klaten
 klawu
 klebus
 klemer
