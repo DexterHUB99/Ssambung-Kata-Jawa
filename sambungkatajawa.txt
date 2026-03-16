@@ -10051,6 +10051,7 @@ runi
 runtuh
 runtun
 runtut
+runyam
 ruo
 rup
 rupa
@@ -12079,6 +12080,7 @@ wea
 wean
 web
 webi
+wed
 weda
 wedan
 wedang
