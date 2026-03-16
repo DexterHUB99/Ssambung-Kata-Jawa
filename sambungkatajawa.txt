@@ -4348,6 +4348,7 @@ ismai
 ismi
 ismu
 isna
+isni
 iso
 isoe
 isok
