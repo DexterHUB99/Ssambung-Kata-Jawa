@@ -1353,6 +1353,7 @@ bangsa
 bangsat
 bani
 banjir
+banjur
 bantal
 banteng
 banter
