@@ -844,6 +844,7 @@ arah
 arahan
 arai
 arak
+arakan
 aram
 arama
 arami
@@ -8573,6 +8574,7 @@ pidana
 pidang
 pie
 pih
+pijak
 pijat
 pijet
 pijit
