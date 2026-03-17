@@ -8210,6 +8210,7 @@ ngrit
 ngrumat
 ngrumpi
 ngrusak
+nguang
 ngubah
 nguber
 ngubur
