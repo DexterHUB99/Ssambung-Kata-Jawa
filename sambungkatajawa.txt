@@ -8123,6 +8123,7 @@ nguri
 ngurik
 ngurip
 nguripi
+ngurit
 nguru
 ngurui
 nguruk
