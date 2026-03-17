@@ -4900,6 +4900,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -5794,6 +5795,7 @@ keli
 kelia
 kelik
 keliling
+kelimo
 kelinci
 kelingan
 kelir
@@ -8530,6 +8532,7 @@ ngencang
 ngencuk
 ngendah
 ngendak
+ngendalu
 ngendang
 ngendeng
 ngendep
@@ -10739,6 +10742,7 @@ rangka
 rangkat
 rangkul
 rangkum
+rangkung
 rangu
 rani
 ranjang
