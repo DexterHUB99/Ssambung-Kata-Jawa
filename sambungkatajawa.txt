@@ -1074,6 +1074,7 @@ arya
 as
 asa
 asah
+asahan
 asai
 asak
 asal
@@ -2649,6 +2650,7 @@ eb
 eba
 ebab
 ebak
+ebat
 ebe
 ebeg
 eben
@@ -4365,7 +4367,6 @@ homi
 homo
 hon
 hona
-hone
 hono
 honta
 hoo
@@ -4644,6 +4645,7 @@ imas
 imba
 imbaan
 imbah
+imbahan
 imbai
 imbal
 imbala
@@ -5755,7 +5757,6 @@ kempul
 kemroh
 kemul
 kemulan
-kemut
 ken
 kena
 kenak
@@ -7602,7 +7603,6 @@ nail
 naila
 najan
 najeng
-najin
 najis
 najuk
 nak
@@ -8091,6 +8091,7 @@ ngampar
 ngampas
 ngampel
 ngampet
+ngampih
 ngampil
 ngampir
 ngampleng
@@ -8291,6 +8292,7 @@ ngawini
 ngawir
 ngawis
 ngawit
+ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8376,6 +8378,7 @@ ngelor
 ngelu
 ngelucu
 ngeluh
+ngeluku
 ngelus
 ngeman
 ngemang
@@ -8604,6 +8607,7 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
+ngimpen
 ngimpi
 ngin
 ngina
@@ -10601,6 +10605,7 @@ rapung
 rapus
 rara
 rarawoh
+rare
 rari
 raro
 ras
@@ -10755,6 +10760,7 @@ remok
 rempah
 rempal
 rempeyek
+rempol
 rempon
 remu
 remuk
@@ -12270,6 +12276,7 @@ terne
 terong
 terus
 tes
+tese
 tesi
 tet
 tetangga
