@@ -1641,6 +1641,7 @@ bili
 bilih
 bilo
 bilu
+bilung
 bim
 bima
 bimo
@@ -2810,6 +2811,7 @@ emam
 eman
 emane
 emang
+emar
 emas
 emat
 ematane
@@ -3591,6 +3593,7 @@ gendi
 gendon
 gendong
 gendruwo
+gendul
 gendung
 gendut
 gene
@@ -6068,6 +6071,7 @@ kupa
 kupas
 kupat
 kupeng
+kuper
 kuping
 kupluk
 kupu
@@ -7701,6 +7705,7 @@ ngabekti
 ngaben
 ngaboti
 ngabu
+ngabung
 ngaca
 ngacak
 ngacang
@@ -8498,6 +8503,7 @@ ngosip
 ngosok
 ngosong
 ngosor
+ngot
 ngotak
 ngoti
 ngotori
@@ -9818,6 +9824,7 @@ pipi
 pipik
 pipipis
 pipis
+pipit
 pipo
 pir
 pira
