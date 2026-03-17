@@ -2433,7 +2433,6 @@ duwet
 duwit
 duwu
 duwur
-dwi
 ealah
 eb
 eba
@@ -4370,7 +4369,6 @@ inggil
 inggit
 ingi
 ingin
-ingising
 ingka
 ingkang
 ingko
@@ -4522,7 +4520,6 @@ ising
 isinna
 isis
 isiso
-isisti
 isit
 isita
 iska
@@ -4956,7 +4953,6 @@ kalisa
 kaliyan
 kalo
 kalok
-kalon
 kalong
 kalor
 kalung
@@ -6213,6 +6209,7 @@ liren
 liri
 lirih
 lirik
+liring
 liro
 liru
 lis
@@ -7178,7 +7175,6 @@ natal
 natalan
 natap
 nate
-nati
 natik
 nawa
 nawan
@@ -8143,7 +8139,6 @@ ngulak
 ngulang
 ngulangi
 ngulas
-ngulat
 nguleg
 ngulek
 ngulen
@@ -8626,6 +8621,7 @@ ojol
 ojolali
 ojolan
 ojonesu
+ojoo
 ok
 oka
 okae
@@ -11424,7 +11420,6 @@ totelu
 toto
 towo
 toya
-trah
 trenggalek
 tresna
 tresno
