@@ -6071,6 +6071,7 @@ kunta
 kuntet
 kunti
 kuntul
+kuntulmu
 kunyuk
 kuo
 kuota
