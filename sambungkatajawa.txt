@@ -8771,6 +8771,7 @@ nyiram
 nyirep
 nyo
 nyocot
+nyogok
 nyolong
 nyomot
 nyong
@@ -12009,6 +12010,7 @@ ulan
 ulang
 ulangan
 ulangi
+ulangtahun
 ulao
 ulap
 ular
