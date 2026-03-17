@@ -9692,7 +9692,6 @@ putus
 puwan
 puwen
 puwira
-puya
 puyeng
 puyo
 puyuh
@@ -10739,7 +10738,6 @@ sepet
 sepi
 sepiro
 sepo
-sepon
 sepuh
 sepuluh
 sepur
@@ -11438,7 +11436,6 @@ terne
 terong
 terus
 tes
-tesa
 tesi
 tet
 tete
