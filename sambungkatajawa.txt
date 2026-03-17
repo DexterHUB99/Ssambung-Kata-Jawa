@@ -4036,6 +4036,7 @@ hao
 hap
 hapa
 hape
+hapene
 hapi
 hapus
 hapusi
@@ -10648,6 +10649,7 @@ rop
 ropa
 rope
 ropi
+ropik
 ropoh
 rora
 rore
