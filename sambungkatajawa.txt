@@ -7442,6 +7442,7 @@ mutan
 mute
 muten
 muter
+muteri
 muti
 mutih
 muwa
@@ -11845,6 +11846,7 @@ taka
 takan
 takbir
 takbiran
+takdir
 taken
 taki
 takjil
