@@ -4116,6 +4116,7 @@ helia
 helikopter
 helo
 hem
+hema
 hemat
 hemo
 hemu
@@ -9632,6 +9633,7 @@ peliku
 pelit
 pelita
 pelo
+pelu
 peluk
 pema
 pemo
