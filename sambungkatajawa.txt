@@ -2735,6 +2735,7 @@ enal
 enam
 enan
 enang
+enas
 encer
 encik
 encok
