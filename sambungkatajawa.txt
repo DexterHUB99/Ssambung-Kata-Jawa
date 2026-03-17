@@ -651,6 +651,7 @@ andhong
 andi
 andika
 andini
+andiro
 andok
 andon
 andong
@@ -2666,6 +2667,7 @@ embuhe
 embun
 embunan
 embung
+embunku
 eme
 emeh
 emek
