@@ -516,6 +516,7 @@ ambune
 ambung
 ambunge
 ambungen
+amburadul
 ambyar
 ame
 ameh
@@ -664,6 +665,7 @@ andhaan
 andhana
 andhap
 andhe
+andheg
 andheng
 andhikane
 andhong
@@ -684,6 +686,7 @@ ane
 aneh
 anek
 anem
+aneman
 anen
 anena
 anene
@@ -697,7 +700,6 @@ angap
 angar
 angat
 ange
-angeh
 angel
 angen
 angep
@@ -1450,6 +1452,7 @@ baturan
 bau
 bawa
 bawal
+bawang
 bawe
 bawel
 bawok
@@ -1581,6 +1584,7 @@ bibi
 bibik
 bibir
 bibit
+bibo
 bibu
 bicu
 bid
@@ -2747,7 +2751,6 @@ elu
 elud
 eluh
 eluk
-elum
 elungan
 elur
 elus
@@ -3017,7 +3020,6 @@ eram
 eran
 erang
 erao
-erap
 eras
 erat
 ere
@@ -6254,7 +6256,6 @@ lekan
 lekas
 lekat
 lekoh
-lela
 lelabuhan
 lelah
 lele
@@ -6624,6 +6625,7 @@ mabur
 maca
 macak
 macan
+macapat
 macul
 mad
 mada
@@ -7253,7 +7255,6 @@ nai
 naik
 naika
 nail
-naila
 najan
 najeng
 najis
@@ -7368,7 +7369,6 @@ naon
 nap
 napa
 napak
-napan
 napane
 napas
 nape
@@ -7937,6 +7937,7 @@ ngebo
 ngebor
 ngebul
 ngebus
+ngecak
 ngece
 ngecek
 ngeces
@@ -8976,6 +8977,7 @@ okeri
 oket
 okin
 okit
+okita
 okok
 okoka
 okoke
@@ -9297,7 +9299,6 @@ pakdhe
 pake
 pakir
 pakle
-pakni
 pakon
 pakpuh
 paku
@@ -9947,7 +9948,6 @@ raib
 raie
 raika
 raiki
-raiko
 raiku
 raimu
 raimuasu
@@ -10198,7 +10198,6 @@ reksa
 reku
 rela
 relax
-rele
 reli
 relo
 relu
@@ -12732,6 +12731,7 @@ widana
 widara
 widep
 widi
+widok
 widya
 wie
 wifi
