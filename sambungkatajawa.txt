@@ -10938,7 +10938,6 @@ sab
 saba
 sabak
 saban
-sabang
 sabar
 sabe
 saben
@@ -11139,7 +11138,6 @@ sarang
 sarap
 sarapan
 sare
-sareh
 saren
 sareng
 sarep
