@@ -1422,6 +1422,7 @@ bala
 balai
 balak
 balap
+bale
 balek
 baleni
 bali
@@ -3630,6 +3631,7 @@ gek
 gel
 gela
 gelak
+gelam
 gelang
 gelange
 gelap
@@ -13418,6 +13420,7 @@ wulung
 wumi
 wun
 wuru
+wus
 wusa
 wuta
 wuwi
