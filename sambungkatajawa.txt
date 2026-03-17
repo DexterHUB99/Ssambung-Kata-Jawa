@@ -1738,7 +1738,6 @@ buang
 buat
 buaya
 bubar
-bubor
 bubrah
 bubu
 bubuk
@@ -5838,6 +5837,7 @@ kolek
 koli
 koloh
 kolong
+kolongan
 kolot
 kolotmu
 kom
@@ -10327,6 +10327,7 @@ remo
 remok
 rempah
 rempal
+rempes
 rempeyek
 rempon
 remu
