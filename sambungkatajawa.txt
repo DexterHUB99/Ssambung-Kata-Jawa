@@ -1700,7 +1700,6 @@ bodi
 bodo
 bodoh
 bodok
-bogem
 bohong
 bojo
 bojok
@@ -8372,7 +8371,6 @@ ngie
 ngig
 ngih
 ngijab
-ngijek
 ngijing
 ngijol
 ngijoli
@@ -12155,6 +12153,7 @@ tu
 tua
 tuak
 tuban
+tubi
 tubruk
 tubuh
 tugel
@@ -12881,7 +12880,6 @@ wajar
 wajib
 wajik
 wak
-waka
 waki
 wakil
 wakmu
@@ -13044,7 +13042,6 @@ wibawa
 wibu
 wicak
 wicaksana
-wicara
 widana
 widara
 widep
