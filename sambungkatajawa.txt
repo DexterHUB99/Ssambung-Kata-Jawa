@@ -6761,6 +6761,7 @@ mendung
 mendut
 mene
 meneh
+menehi
 meneng
 mengko
 meni
@@ -9851,7 +9852,6 @@ rasani
 rasaye
 rase
 rasek
-rasem
 rasi
 rasih
 rasik
@@ -10209,6 +10209,7 @@ rowi
 rowo
 rowoe
 royal
+royi
 royo
 rt
 ru
@@ -11672,7 +11673,6 @@ ubii
 ubun
 ubur
 uc
-uca
 ucak
 ucap
 ucapan
@@ -12593,6 +12593,7 @@ yesa
 yesi
 yet
 yi
+yitna
 yiwa
 yo
 yoa
