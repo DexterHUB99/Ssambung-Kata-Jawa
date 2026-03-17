@@ -4901,6 +4901,7 @@ iwakmu
 iwal
 iwan
 iwang
+iwangi
 iwas
 iwel
 iwir
