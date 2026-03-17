@@ -890,7 +890,6 @@ anung
 anup
 anus
 anut
-anxiety
 anyam
 anyaman
 anyang
@@ -1527,7 +1526,6 @@ been
 begal
 begja
 bego
-begok
 beh
 beha
 behi
@@ -2774,6 +2772,7 @@ eku
 ekuk
 ekun
 ekur
+ekus
 ekut
 el
 ela
@@ -3708,6 +3707,7 @@ gero
 gerobak
 geroh
 gerot
+geruh
 gerung
 gerus
 ges
@@ -7280,6 +7280,8 @@ moto
 motong
 motor
 mpun
+mrene
+mriki
 mriku
 mringis
 mripat
@@ -7405,7 +7407,6 @@ muwa
 muwun
 na
 naa
-nab
 naba
 nabah
 naben
@@ -9588,7 +9589,6 @@ paloh
 palsu
 palu
 palung
-palur
 pamah
 pamahan
 pamali
@@ -10219,6 +10219,7 @@ ragat
 ragelem
 ragi
 ragil
+ragisa
 ragu
 rah
 raha
@@ -11206,6 +11207,7 @@ selatan
 selawe
 sele
 selek
+selen
 selendang
 selep
 selet
@@ -12854,6 +12856,7 @@ utowo
 utri
 utu
 utuh
+utumu
 utus
 utusan
 utusane
