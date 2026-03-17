@@ -3676,6 +3676,7 @@ guleng
 guli
 guling
 gulir
+gulon
 gulu
 gulung
 gulungan
@@ -4507,7 +4508,6 @@ isinan
 isine
 ising
 isinna
-isio
 isis
 isiso
 isit
@@ -4795,6 +4795,7 @@ jolan
 jole
 jolen
 joli
+jolo
 jom
 joma
 jombang
