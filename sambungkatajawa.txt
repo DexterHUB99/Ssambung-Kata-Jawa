@@ -2449,6 +2449,7 @@ ede
 edi
 edit
 edo
+edok
 edu
 edul
 edus
