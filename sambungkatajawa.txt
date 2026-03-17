@@ -1697,6 +1697,7 @@ bobok
 bobrok
 bocah
 bocor
+bodat
 bodi
 bodo
 bodoh
@@ -3352,7 +3353,6 @@ gak
 gaka
 gaki
 gakiso
-gako
 gaktau
 gal
 gala
@@ -3475,6 +3475,7 @@ gardu
 gare
 garem
 gareng
+gares
 gari
 garian
 garik
@@ -4781,6 +4782,7 @@ isin
 isinan
 isine
 ising
+isini
 isinna
 isio
 isis
@@ -4917,6 +4919,7 @@ jam
 jama
 jamal
 jaman
+jamane
 jamber
 jambi
 jambret
@@ -6284,7 +6287,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanangan
 lanange
@@ -7783,7 +7785,6 @@ ngabab
 ngabang
 ngabar
 ngabari
-ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -9048,7 +9049,6 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
-nwa
 ny
 nya
 nyai
@@ -11454,6 +11454,7 @@ sob
 soba
 sobat
 sobek
+sobi
 soblok
 soboh
 sodara
