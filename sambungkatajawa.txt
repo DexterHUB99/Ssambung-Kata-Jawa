@@ -2233,6 +2233,7 @@ diku
 dil
 dila
 dilah
+dilakoni
 dilalah
 dilam
 dilan
@@ -2371,6 +2372,7 @@ dosen
 doso
 dowo
 du
+dubi
 dubur
 duda
 dudi
@@ -4229,6 +4231,7 @@ ikiwe
 iklas
 iklim
 iko
+ikoe
 ikoi
 ikon
 ikoro
@@ -4538,6 +4541,7 @@ isine
 ising
 isinna
 isis
+isisam
 isiso
 isit
 isita
@@ -6250,6 +6254,7 @@ lisi
 lisung
 lit
 lita
+liten
 liti
 liwat
 liwe
@@ -8315,6 +8320,7 @@ nilem
 nilemake
 nilep
 nili
+nilii
 nilo
 nim
 nima
@@ -10404,6 +10410,7 @@ sao
 saos
 sap
 sapa
+sapar
 sape
 sapi
 sapih
@@ -11027,6 +11034,7 @@ suta
 sute
 suti
 sutil
+suting
 sutra
 suw
 suwan
@@ -12368,6 +12376,7 @@ wisuh
 wit
 wita
 witan
+witen
 witir
 wito
 wiwi
