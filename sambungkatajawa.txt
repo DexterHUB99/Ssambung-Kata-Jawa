@@ -1074,6 +1074,7 @@ arya
 as
 asa
 asah
+asahan
 asai
 asak
 asal
@@ -1335,6 +1336,7 @@ ayem
 ayeme
 ayep
 ayi
+ayik
 ayim
 ayin
 aying
@@ -2763,6 +2765,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -4647,6 +4650,7 @@ imas
 imba
 imbaan
 imbah
+imbahan
 imbai
 imbal
 imbala
@@ -4820,6 +4824,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -4998,6 +5003,7 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
 jagar
@@ -5763,6 +5769,7 @@ ken
 kena
 kenak
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -8095,6 +8102,7 @@ ngampar
 ngampas
 ngampel
 ngampet
+ngampih
 ngampil
 ngampir
 ngampleng
@@ -8295,6 +8303,7 @@ ngawini
 ngawir
 ngawis
 ngawit
+ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8411,6 +8420,7 @@ ngenalin
 ngencang
 ngencuk
 ngendah
+ngendak
 ngendang
 ngendeng
 ngendep
@@ -8609,6 +8619,7 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
+ngimpen
 ngimpi
 ngin
 ngina
@@ -10073,6 +10084,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -10761,6 +10773,7 @@ remok
 rempah
 rempal
 rempeyek
+rempol
 rempon
 remu
 remuk
@@ -13168,6 +13181,7 @@ uyi
 uyo
 uyuh
 uyuhmu
+uyung
 uz
 vaksin
 via
