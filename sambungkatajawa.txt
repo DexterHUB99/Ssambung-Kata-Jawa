@@ -7763,6 +7763,7 @@ ngeresi
 ngeret
 ngeri
 ngerit
+ngerja
 ngerok
 ngerokok
 ngeroso
@@ -10694,6 +10695,7 @@ sitik
 sitok
 siwa
 siwak
+siwi
 siwur
 siya
 siyam
