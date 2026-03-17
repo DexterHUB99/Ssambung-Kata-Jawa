@@ -516,7 +516,6 @@ ambune
 ambung
 ambunge
 ambungen
-amburadul
 ambyar
 ame
 ameh
@@ -698,6 +697,7 @@ angap
 angar
 angat
 ange
+angeh
 angel
 angen
 angep
@@ -2238,7 +2238,6 @@ der
 dera
 derek
 dereng
-derep
 deres
 dermawan
 deru
@@ -6253,6 +6252,7 @@ lekan
 lekas
 lekat
 lekoh
+lela
 lelabuhan
 lelah
 lele
@@ -6545,7 +6545,6 @@ ludah
 ludruk
 lugas
 lugu
-lugue
 luh
 luhan
 luhur
@@ -6623,7 +6622,6 @@ mabur
 maca
 macak
 macan
-macapat
 macul
 mad
 mada
@@ -8004,7 +8002,6 @@ ngempek
 ngemper
 ngempet
 ngempil
-ngemplok
 ngempot
 ngempu
 ngemut
@@ -8841,7 +8838,6 @@ nyanyi
 nyapa
 nyaponi
 nyapu
-nyari
 nyaru
 nyasar
 nyatu
@@ -9139,7 +9135,6 @@ opon
 opone
 opoo
 opor
-opos
 opose
 oposi
 opowae
@@ -9837,7 +9832,6 @@ puju
 puk
 puka
 puki
-pukimak
 pukki
 pukul
 pul
@@ -9948,6 +9942,7 @@ raib
 raie
 raika
 raiki
+raiko
 raiku
 raimu
 raimuasu
@@ -10198,6 +10193,7 @@ reksa
 reku
 rela
 relax
+rele
 reli
 relo
 relu
@@ -10702,7 +10698,6 @@ samping
 sampir
 sampo
 sampok
-sampol
 sampul
 sampun
 sampur
@@ -12165,7 +12160,6 @@ ulu
 uluk
 ulun
 ulung
-ulup
 ulur
 um
 uma
