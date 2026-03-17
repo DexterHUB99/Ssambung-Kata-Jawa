@@ -8082,7 +8082,6 @@ nggumun
 ngguyu
 ngguyue
 ngibadah
-ngiber
 ngibrit
 ngibu
 ngibul
@@ -9095,6 +9094,7 @@ orok
 orong
 oros
 orosi
+orot
 orotan
 oruk
 os
