@@ -11506,6 +11506,7 @@ simak
 siman
 simbah
 simbok
+sime
 simi
 simo
 simpang
@@ -11982,6 +11983,7 @@ tap
 tapa
 tapak
 tapan
+tapas
 tape
 tapi
 tapih
