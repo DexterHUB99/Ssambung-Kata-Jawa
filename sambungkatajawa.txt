@@ -1755,6 +1755,7 @@ biyung
 blas
 blereng
 bo
+boba
 bobo
 bobok
 bobot
@@ -5631,6 +5632,7 @@ katah
 katak
 katang
 kate
+kateh
 katel
 kater
 kates
@@ -10161,6 +10163,7 @@ pere
 perek
 peri
 perih
+perlu
 permisi
 pero
 pes
@@ -12474,6 +12477,7 @@ timun
 timur
 tin
 tina
+tinan
 tindak
 tindas
 tindhak
