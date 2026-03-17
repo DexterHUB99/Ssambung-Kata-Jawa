@@ -1588,6 +1588,7 @@ bin
 bina
 binara
 bindeng
+bine
 bingung
 bini
 bino
