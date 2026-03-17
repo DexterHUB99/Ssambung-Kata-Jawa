@@ -4446,6 +4446,7 @@ homo
 hon
 hona
 hone
+honi
 hono
 honta
 hoo
@@ -7890,6 +7891,7 @@ nasi
 nasia
 nasib
 nasikuning
+nasine
 nasipecel
 nastar
 nastiti
@@ -12249,6 +12251,7 @@ tahta
 tahu
 tahubulat
 tahun
+tahune
 tai
 taii
 taik
