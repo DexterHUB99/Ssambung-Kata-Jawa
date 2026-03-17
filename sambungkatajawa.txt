@@ -1180,6 +1180,7 @@ atene
 atep
 ater
 ates
+atesan
 atet
 athi
 ati
@@ -6254,6 +6255,7 @@ lahai
 lahan
 lahi
 lahir
+lahya
 laik
 laika
 laiki
