@@ -557,7 +557,6 @@ amp
 ampa
 ampah
 ampal
-ampan
 ampang
 ampar
 amparan
@@ -910,7 +909,6 @@ apike
 apil
 apin
 apip
-apir
 apit
 apo
 apok
@@ -1018,7 +1016,6 @@ aruk
 arul
 arum
 arun
-aruna
 arup
 arupa
 arus
@@ -1098,6 +1095,7 @@ asuh
 asuhan
 asui
 asuk
+asuki
 asul
 asum
 asumu
@@ -2089,7 +2087,6 @@ dagin
 daging
 dagu
 dah
-dahak
 dahan
 dahar
 dahi
@@ -2229,7 +2226,6 @@ dera
 derek
 dereng
 deres
-dermawan
 deru
 des
 desa
@@ -2237,7 +2233,6 @@ deso
 det
 dewa
 dewe
-dewean
 dewek
 dewi
 dhadha
@@ -2653,7 +2648,6 @@ ekes
 eket
 eki
 ekib
-ekih
 ekik
 ekil
 ekin
@@ -2729,7 +2723,6 @@ eloi
 elok
 elom
 elon
-elong
 elor
 elos
 elu
@@ -2967,6 +2960,7 @@ epem
 epen
 epep
 eper
+epes
 epet
 epi
 epic
@@ -3298,7 +3292,6 @@ gamen
 gamer
 gami
 gamis
-gamma
 gamo
 gamoh
 gampang
@@ -3661,6 +3654,7 @@ giru
 gisa
 gita
 gitar
+gitari
 githok
 giwang
 giwangan
@@ -4023,7 +4017,6 @@ hawo
 haya
 hayang
 hayat
-hayati
 hayo
 hayolo
 hayoo
@@ -4190,6 +4183,7 @@ hun
 huna
 huni
 hup
+hupa
 hupi
 hur
 hura
@@ -4595,7 +4589,6 @@ iring
 iringan
 iringane
 iringi
-irip
 irirah
 iris
 irisan
@@ -6670,7 +6663,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -6856,7 +6848,6 @@ mel
 mela
 melan
 melas
-melasi
 melati
 melek
 meler
@@ -7548,7 +7539,6 @@ nes
 nesa
 nesan
 nesi
-nesok
 nesoni
 nesu
 nesuan
@@ -7690,7 +7680,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -9930,6 +9919,7 @@ rajak
 rajang
 rajar
 rajek
+rajelas
 rajin
 raju
 rajuk
@@ -10472,7 +10462,6 @@ rumbah
 rumbai
 rumbak
 rumbi
-rume
 rumi
 rumien
 rumit
@@ -10957,7 +10946,6 @@ sero
 serok
 serong
 seru
-seruk
 serut
 ses
 sesak
@@ -11339,6 +11327,7 @@ surut
 surya
 sus
 susa
+susaa
 susah
 susan
 susas
@@ -12140,7 +12129,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
@@ -12252,7 +12240,6 @@ untal
 untalen
 untar
 untara
-untaran
 untas
 untel
 unter
@@ -12435,6 +12422,7 @@ utangmu
 utar
 utara
 utaran
+utare
 utas
 utasan
 utata
