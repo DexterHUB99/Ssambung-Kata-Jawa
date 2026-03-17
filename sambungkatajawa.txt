@@ -262,6 +262,7 @@ aje
 ajeg
 ajek
 ajeng
+ajer
 aji
 ajib
 ajig
@@ -1224,6 +1225,7 @@ aweh
 awek
 awer
 awet
+awewe
 awi
 awik
 awis
@@ -2514,6 +2516,7 @@ ege
 egi
 egil
 ego
+egois
 egor
 egos
 egrang
@@ -7022,6 +7025,7 @@ mumpung
 mun
 muna
 munafik
+muncrat
 muncul
 mundak
 mundhut
@@ -7799,6 +7803,7 @@ ngeh
 ngehormati
 ngei
 ngejak
+ngejaluk
 ngejar
 ngejek
 ngek
@@ -9695,6 +9700,7 @@ putus
 puwan
 puwen
 puwira
+puya
 puyeng
 puyo
 puyuh
@@ -10741,6 +10747,7 @@ sepet
 sepi
 sepiro
 sepo
+sepon
 sepuh
 sepuluh
 sepur
@@ -11367,6 +11374,7 @@ telenan
 telepon
 teles
 teli
+telih
 telinga
 teliti
 telo
@@ -11440,6 +11448,7 @@ terne
 terong
 terus
 tes
+tesa
 tesi
 tet
 tete
