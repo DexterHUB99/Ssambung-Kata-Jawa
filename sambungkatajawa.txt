@@ -563,6 +563,7 @@ amo
 amoe
 amoh
 amok
+amol
 amon
 among
 amor
@@ -628,7 +629,6 @@ anakku
 anakmu
 anal
 anam
-anaman
 anan
 anana
 anandong
@@ -1418,7 +1418,6 @@ bam
 bambang
 bambu
 ban
-bana
 banak
 banana
 bancak
@@ -2007,7 +2006,6 @@ cicir
 cicit
 cidek
 ciduk
-ciji
 cik
 cikal
 ciken
@@ -2244,7 +2242,6 @@ daun
 dawa
 dawaan
 dawah
-dawe
 dawet
 dawir
 dawuh
@@ -3573,7 +3570,6 @@ geguritan
 geh
 gei
 gek
-geka
 gel
 gela
 gelak
@@ -6279,7 +6275,6 @@ lambung
 lame
 lamen
 lami
-lamine
 lamis
 lamon
 lamong
@@ -6777,6 +6772,7 @@ lupi
 lupis
 luput
 lur
+lura
 lurah
 lurik
 luru
@@ -7114,6 +7110,7 @@ mer
 merah
 merat
 merem
+merene
 mergo
 meri
 merpati
@@ -7895,6 +7892,7 @@ ngalir
 ngalis
 ngalo
 ngalon
+ngalong
 ngalor
 ngaloren
 ngalu
@@ -9006,6 +9004,7 @@ nulis
 nulo
 nulung
 nulungi
+nulur
 num
 numa
 numan
@@ -10689,7 +10688,6 @@ robe
 robek
 robi
 roboh
-robok
 roda
 rodo
 roe
@@ -10861,6 +10859,7 @@ rutin
 ruwah
 ruwat
 ruwet
+ruwi
 ruyi
 rw
 sa
