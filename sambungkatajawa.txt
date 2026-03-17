@@ -2352,6 +2352,7 @@ disisi
 disit
 disogok
 disu
+disuk
 dit
 dita
 ditampol
@@ -2518,6 +2519,7 @@ edanan
 edar
 edaran
 ede
+edek
 edi
 edit
 edo
@@ -2602,6 +2604,7 @@ ejar
 eje
 ejek
 eji
+ejik
 ejo
 eju
 ejuh
@@ -3093,6 +3096,7 @@ etig
 etik
 etika
 etil
+etin
 eting
 etis
 eto
@@ -3119,7 +3123,6 @@ evin
 evo
 ew
 ewa
-ewah
 ewak
 ewako
 ewan
@@ -4608,7 +4611,6 @@ iser
 ises
 isha
 isi
-isia
 isian
 isien
 isih
@@ -5441,7 +5443,6 @@ kendal
 kendang
 kendel
 kendhil
-kendho
 kendi
 kendil
 kenduri
@@ -10355,6 +10356,7 @@ ros
 rosa
 rose
 rosi
+rosma
 roso
 rotan
 roti
