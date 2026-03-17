@@ -4061,7 +4061,6 @@ hah
 haha
 hahaa
 hahaha
-hahak
 hahi
 haho
 hai
@@ -6832,6 +6831,7 @@ lumayan
 lumbung
 lumen
 lumer
+lumpak
 lumpang
 lumping
 lumpuh
@@ -9648,6 +9648,7 @@ padus
 padusan
 paes
 pagar
+pagawean
 pager
 paget
 pagi
@@ -11065,7 +11066,6 @@ saket
 saki
 sakiki
 saking
-sakir
 sakit
 sakitmu
 sakne
@@ -12160,6 +12160,7 @@ tete
 teteg
 teteh
 tetek
+tetekala
 tetelan
 tetep
 tetes
