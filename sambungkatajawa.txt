@@ -6677,6 +6677,7 @@ lebay
 lebet
 lebih
 lebu
+lebur
 lecek
 lecet
 lee
@@ -7128,6 +7129,7 @@ makanan
 makane
 make
 maki
+makiya
 makmur
 makna
 makol
@@ -12897,6 +12899,7 @@ uhi
 uho
 ui
 uing
+uira
 uj
 uja
 ujak
