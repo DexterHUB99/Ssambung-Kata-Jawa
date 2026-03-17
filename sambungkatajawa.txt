@@ -4103,7 +4103,6 @@ human
 humi
 humor
 hun
-huna
 huni
 hup
 hupi
@@ -4135,7 +4134,6 @@ ib
 iba
 ibadah
 ibak
-iban
 ibarat
 iber
 iblis
@@ -7272,7 +7270,6 @@ ndawa
 ndawuh
 ndek
 ndeleng
-ndelik
 ndelok
 nderek
 ndeso
@@ -8313,7 +8310,6 @@ ngusi
 ngusik
 ngusili
 ngusir
-ngusu
 ngusung
 ngusungi
 ngut
@@ -9467,7 +9463,6 @@ pitulas
 pitulung
 pitung
 pitutur
-piwul
 piwulang
 piya
 piyak
@@ -9833,7 +9828,6 @@ rasakno
 rasan
 rasane
 rasani
-rasaye
 rase
 rasek
 rasi
@@ -10471,7 +10465,6 @@ sapih
 sapir
 sapiro
 sapo
-saponi
 sapu
 sapura
 saput
@@ -12556,7 +12549,6 @@ yek
 yekan
 yekti
 yen
-yena
 yeng
 yeni
 yeno
