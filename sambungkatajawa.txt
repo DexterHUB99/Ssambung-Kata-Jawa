@@ -4019,7 +4019,6 @@ guten
 guti
 guwa
 guyah
-guyang
 guyon
 guyonan
 guyone
@@ -12733,6 +12732,7 @@ unter
 untik
 untir
 untiren
+untoh
 untu
 untuk
 untul
@@ -13080,6 +13080,7 @@ wasno
 wasuh
 wata
 watak
+wates
 wati
 watir
 waton
