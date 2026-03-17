@@ -2478,6 +2478,7 @@ dilat
 dilati
 dileh
 dilem
+dileng
 diler
 dilik
 dilindes
@@ -6038,6 +6039,7 @@ keter
 kethek
 keti
 ketiban
+ketik
 ketil
 ketingal
 ketir
