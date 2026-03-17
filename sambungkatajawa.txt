@@ -628,6 +628,7 @@ anakku
 anakmu
 anal
 anam
+anaman
 anan
 anana
 anandong
@@ -1417,6 +1418,7 @@ bam
 bambang
 bambu
 ban
+bana
 banak
 banana
 bancak
@@ -2005,6 +2007,7 @@ cicir
 cicit
 cidek
 ciduk
+ciji
 cik
 cikal
 ciken
@@ -2241,6 +2244,7 @@ daun
 dawa
 dawaan
 dawah
+dawe
 dawet
 dawir
 dawuh
@@ -3569,6 +3573,7 @@ geguritan
 geh
 gei
 gek
+geka
 gel
 gela
 gelak
@@ -6274,6 +6279,7 @@ lambung
 lame
 lamen
 lami
+lamine
 lamis
 lamon
 lamong
@@ -10210,7 +10216,6 @@ ragat
 ragelem
 ragi
 ragil
-ragisa
 ragu
 rah
 raha
@@ -10684,6 +10689,7 @@ robe
 robek
 robi
 roboh
+robok
 roda
 rodo
 roe
@@ -11197,7 +11203,6 @@ selatan
 selawe
 sele
 selek
-selen
 selendang
 selep
 selet
