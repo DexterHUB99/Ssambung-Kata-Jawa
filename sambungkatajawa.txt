@@ -1145,6 +1145,7 @@ atiku
 atil
 atimu
 atin
+atina
 atine
 atir
 atiri
@@ -1397,7 +1398,6 @@ bapakmu
 bar
 barek
 bareng
-bari
 bariki
 baris
 barito
@@ -1574,6 +1574,7 @@ bien
 biga
 bigan
 bigu
+bihun
 bijak
 biji
 bijor
@@ -1636,7 +1637,6 @@ bodi
 bodo
 bodoh
 bodok
-bohong
 bojo
 bok
 boke
@@ -3754,6 +3754,7 @@ gulungan
 gumam
 gumati
 gumuh
+gumuk
 gumun
 gun
 guna
@@ -3789,7 +3790,6 @@ guri
 gurih
 gurit
 gurita
-guritan
 guru
 guruh
 gus
@@ -3929,6 +3929,7 @@ harimu
 harjo
 harm
 harman
+harmi
 haro
 harta
 hartane
@@ -4864,7 +4865,6 @@ jiret
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -5536,6 +5536,7 @@ kesuh
 kesuk
 kesupen
 kesusu
+kesut
 ket
 keta
 ketam
@@ -5850,6 +5851,7 @@ kulen
 kuli
 kulina
 kulit
+kulite
 kulo
 kuloe
 kulon
@@ -6030,6 +6032,7 @@ lampar
 lamper
 lamping
 lampir
+lampiran
 lampu
 lampua
 lampune
@@ -6223,6 +6226,7 @@ lesus
 let
 leto
 letong
+lewak
 lewat
 leyeh
 lha
@@ -6341,7 +6345,6 @@ liwet
 liwo
 liya
 liyane
-liyep
 liyo
 lo
 loa
@@ -6914,6 +6917,7 @@ misu
 misuh
 mita
 mitoni
+miya
 mlaku
 mlarat
 mlebet
@@ -7254,6 +7258,7 @@ naning
 nano
 nantang
 nanti
+nanung
 nanya
 nao
 naon
@@ -7753,6 +7758,7 @@ ngasu
 ngasuh
 ngasuk
 ngasul
+ngasur
 ngata
 ngatasi
 ngatau
@@ -8110,6 +8116,7 @@ ngirup
 ngis
 ngisak
 ngisan
+ngisap
 ngiseng
 ngisep
 ngiser
@@ -8353,7 +8360,6 @@ ngupah
 ngupai
 ngupakara
 ngupas
-ngupati
 ngupaya
 ngupel
 ngupi
@@ -9288,6 +9294,7 @@ pasang
 pasar
 paser
 pasi
+pasih
 pasir
 pasrah
 pasu
@@ -9679,7 +9686,6 @@ pukki
 pukul
 pul
 pula
-pulan
 pulau
 pulen
 puli
@@ -9960,6 +9966,7 @@ ratus
 rauh
 raul
 rauma
+raumi
 raung
 raup
 rausah
@@ -10528,6 +10535,7 @@ sampul
 sampun
 sampur
 sampurna
+samu
 samudra
 samui
 samut
@@ -10834,6 +10842,7 @@ sewu
 sholat
 si
 sia
+siaa
 siah
 sial
 siala
@@ -11926,7 +11935,6 @@ ulah
 ulahan
 ulahmu
 ulai
-ulak
 ulakan
 ulal
 ulala
@@ -12612,6 +12620,7 @@ wui
 wujud
 wuku
 wulan
+wulangan
 wuli
 wulo
 wulu
