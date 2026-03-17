@@ -7284,6 +7284,7 @@ ngabekti
 ngaben
 ngaboti
 ngabu
+ngabut
 ngaca
 ngacak
 ngacara
@@ -7913,6 +7914,7 @@ nglamun
 nglangi
 nglangkah
 nglantur
+ngleh
 nglek
 ngliwet
 nglon
@@ -8367,6 +8369,7 @@ nui
 nuju
 nuk
 nuka
+nukan
 nuki
 nukil
 nuko
@@ -11363,6 +11366,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulunge
 tulungi
 tulus
