@@ -818,6 +818,7 @@ anjani
 anjar
 anjaran
 anjas
+anjasmara
 anjay
 anjeg
 anji
@@ -1074,6 +1075,7 @@ arya
 as
 asa
 asah
+asahan
 asai
 asak
 asal
@@ -1233,6 +1235,7 @@ atri
 atu
 atuh
 atuk
+atul
 atum
 atun
 atur
@@ -1503,6 +1506,7 @@ batang
 bathuk
 bati
 batik
+batin
 bato
 batok
 batu
@@ -2150,6 +2154,7 @@ cucuk
 cucur
 cudek
 cuek
+cuil
 cuk
 cuka
 cuki
@@ -2345,6 +2350,7 @@ deneng
 dengki
 dengkul
 deni
+deno
 depa
 depak
 der
@@ -2542,6 +2548,7 @@ domblong
 domi
 dompet
 don
+dona
 dong
 donga
 dongane
@@ -2686,6 +2693,7 @@ edu
 edul
 edus
 eeh
+eehe
 eenak
 ef
 eg
@@ -3199,6 +3207,7 @@ eroh
 erok
 eron
 erong
+eroo
 erop
 eror
 eros
@@ -3646,6 +3655,7 @@ geguritan
 geh
 gei
 gek
+geki
 gel
 gela
 gelak
@@ -3971,6 +3981,7 @@ grogot
 grombolan
 grontol
 grosir
+grujugan
 grujuk
 gu
 gubah
@@ -4647,6 +4658,7 @@ imas
 imba
 imbaan
 imbah
+imbahan
 imbai
 imbal
 imbala
@@ -5077,6 +5089,7 @@ jari
 jarik
 jaring
 jarum
+jarwa
 jas
 jasa
 jatah
@@ -6286,6 +6299,7 @@ kupa
 kupas
 kupat
 kupeng
+kupi
 kuping
 kupluk
 kupu
@@ -7786,6 +7800,7 @@ nawi
 nawon
 nawur
 naya
+nayara
 nayo
 nayoh
 ncok
@@ -8095,6 +8110,7 @@ ngampar
 ngampas
 ngampel
 ngampet
+ngampih
 ngampil
 ngampir
 ngampleng
@@ -8295,6 +8311,7 @@ ngawini
 ngawir
 ngawis
 ngawit
+ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8411,6 +8428,7 @@ ngenalin
 ngencang
 ngencuk
 ngendah
+ngendak
 ngendang
 ngendeng
 ngendep
@@ -8565,6 +8583,7 @@ ngibu
 ngibul
 ngical
 ngicipi
+ngicir
 ngidam
 ngidang
 ngidek
@@ -8609,6 +8628,7 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
+ngimpen
 ngimpi
 ngin
 ngina
@@ -8712,6 +8732,7 @@ ngobroli
 ngocak
 ngoceh
 ngocok
+ngodok
 ngoe
 ngogoh
 ngoh
@@ -9292,6 +9313,7 @@ nyawet
 nyawi
 nyawiji
 nyawit
+nyebur
 nyebut
 nyedhak
 nyedot
@@ -9890,6 +9912,7 @@ papat
 papi
 papo
 papu
+papua
 par
 para
 parah
@@ -10425,6 +10448,7 @@ rabi
 rabio
 rabisa
 rabit
+raboh
 rabu
 rabun
 racikan
@@ -10762,6 +10786,7 @@ remok
 rempah
 rempal
 rempeyek
+rempol
 rempon
 remu
 remuk
@@ -12576,6 +12601,7 @@ ubii
 ubun
 ubur
 uc
+uca
 ucak
 ucap
 ucapan
@@ -12661,6 +12687,7 @@ uji
 ujia
 ujian
 ujub
+ujug
 ujuk
 ujul
 ujun
@@ -12951,6 +12978,7 @@ upak
 upaku
 upam
 upama
+upami
 upan
 upane
 upang
