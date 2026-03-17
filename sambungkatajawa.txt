@@ -1829,6 +1829,7 @@ buy
 buyar
 buyut
 ca
+cabai
 cabak
 cabe
 cabi
@@ -12341,6 +12342,7 @@ undal
 undang
 undangan
 undar
+undeg
 undhakan
 undhi
 undi
