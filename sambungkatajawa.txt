@@ -1409,6 +1409,7 @@ bancak
 bancet
 banci
 bandar
+bandeling
 bandeng
 bandit
 bando
