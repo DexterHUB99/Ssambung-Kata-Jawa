@@ -3016,6 +3016,7 @@ esem
 eseme
 esemka
 esen
+eser
 eses
 eset
 esey
@@ -3589,6 +3590,7 @@ gincu
 ginem
 gingsir
 gini
+ginia
 ginjal
 gipang
 gir
