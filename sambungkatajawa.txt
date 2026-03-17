@@ -4213,6 +4213,7 @@ hancuren
 hang
 hangat
 hanget
+hangka
 hangwo
 hani
 haning
@@ -9321,6 +9322,7 @@ nulur
 num
 numa
 numan
+numana
 numbal
 numbas
 numbasi
@@ -12029,6 +12031,7 @@ sule
 suli
 suling
 sulo
+sulonte
 sultan
 suluh
 sulung
