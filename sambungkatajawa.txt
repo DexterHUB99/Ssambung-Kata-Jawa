@@ -1641,6 +1641,7 @@ bili
 bilih
 bilo
 bilu
+bilung
 bim
 bima
 bimo
@@ -1858,7 +1859,6 @@ cagak
 cagar
 cah
 cahaya
-cahyo
 cai
 caji
 cak
@@ -2811,6 +2811,7 @@ emam
 eman
 emane
 emang
+emar
 emas
 emat
 ematane
@@ -3592,6 +3593,7 @@ gendi
 gendon
 gendong
 gendruwo
+gendul
 gendung
 gendut
 gene
@@ -4553,7 +4555,6 @@ indra
 indu
 induk
 indukan
-induki
 indung
 indunge
 inem
@@ -4779,7 +4780,6 @@ it
 ita
 itaa
 itali
-itara
 ite
 item
 iteo
@@ -5090,7 +5090,6 @@ juta
 ka
 kaaba
 kabar
-kabare
 kabeh
 kabel
 kabul
@@ -6062,7 +6061,6 @@ kunir
 kunjur
 kuno
 kunta
-kuntet
 kunti
 kuntul
 kunyuk
@@ -6073,6 +6071,7 @@ kupa
 kupas
 kupat
 kupeng
+kuper
 kuping
 kupluk
 kupu
@@ -7117,7 +7116,6 @@ mita
 mitoni
 miya
 mlaku
-mlampah
 mlarat
 mlebet
 mlebu
@@ -7707,6 +7705,7 @@ ngabekti
 ngaben
 ngaboti
 ngabu
+ngabung
 ngaca
 ngacak
 ngacang
@@ -8096,7 +8095,6 @@ ngelih
 ngeling
 ngelingi
 ngelirik
-ngelitik
 ngelmu
 ngelok
 ngelon
@@ -8414,7 +8412,6 @@ ngoblok
 ngobok
 ngobong
 ngobor
-ngobral
 ngobrol
 ngobroli
 ngocak
@@ -8506,6 +8503,7 @@ ngosip
 ngosok
 ngosong
 ngosor
+ngot
 ngotak
 ngoti
 ngotori
@@ -8660,7 +8658,6 @@ ngusir
 ngusu
 ngusung
 ngusungi
-ngususi
 ngut
 nguta
 ngutang
@@ -9020,7 +9017,6 @@ obati
 obek
 obel
 obeng
-obes
 obet
 obit
 oblak
@@ -9828,6 +9824,7 @@ pipi
 pipik
 pipipis
 pipis
+pipit
 pipo
 pir
 pira
@@ -11558,7 +11555,6 @@ susan
 susas
 susi
 susila
-susok
 susu
 susuare
 susue
@@ -13005,6 +13001,7 @@ wonosobo
 wonten
 woo
 wor
+woran
 woro
 wortel
 wos
