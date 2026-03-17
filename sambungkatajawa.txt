@@ -2653,6 +2653,7 @@ ehip
 ehir
 ehis
 ehit
+ehiy
 eho
 ehob
 ehod
@@ -4749,6 +4750,7 @@ isma
 ismai
 isme
 ismi
+ismo
 ismu
 isna
 isni
