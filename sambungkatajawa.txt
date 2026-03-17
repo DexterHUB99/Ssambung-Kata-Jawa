@@ -759,7 +759,6 @@ angkutan
 angl
 angler
 angling
-anglung
 angon
 angop
 angos
@@ -1359,6 +1358,7 @@ bagos
 bagu
 bagus
 bah
+bahan
 bahasa
 bahli
 bahu
@@ -2476,7 +2476,6 @@ doso
 dot
 dowe
 dowo
-doyan
 du
 dubur
 ducok
@@ -8128,7 +8127,6 @@ ngentuk
 ngentut
 ngenut
 ngenyek
-ngenyot
 ngeo
 ngep
 ngepang
@@ -10225,6 +10223,7 @@ rasta
 rasu
 rasuk
 rasukan
+rasul
 rasya
 rat
 rata
