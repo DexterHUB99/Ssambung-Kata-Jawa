@@ -7570,6 +7570,7 @@ ngambu
 ngambul
 ngambung
 ngamel
+ngami
 ngamil
 ngamis
 ngamo
@@ -11793,6 +11794,7 @@ uhi
 uho
 ui
 uing
+uira
 uj
 uja
 ujak
