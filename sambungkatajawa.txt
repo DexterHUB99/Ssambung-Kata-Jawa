@@ -2169,6 +2169,7 @@ deni
 depa
 depak
 der
+dera
 derek
 dereng
 deres
@@ -5879,6 +5880,7 @@ lahai
 lahan
 lahi
 lahir
+laik
 laika
 laiki
 lair
