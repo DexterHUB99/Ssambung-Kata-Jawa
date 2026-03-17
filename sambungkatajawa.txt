@@ -1456,6 +1456,7 @@ bekas
 bekel
 bekne
 beko
+bekok
 bel
 bela
 belah
