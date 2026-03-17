@@ -2774,6 +2774,7 @@ engkok
 engkol
 engkong
 eni
+enih
 enik
 ening
 enir
@@ -5580,6 +5581,7 @@ kontrol
 konyol
 kop
 kopek
+kopen
 kopeng
 koper
 koperasi
