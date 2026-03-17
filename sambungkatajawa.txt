@@ -428,6 +428,7 @@ aliran
 alis
 alisa
 alisan
+alise
 alit
 alka
 allahuakbar
@@ -1307,6 +1308,7 @@ ba
 baa
 bab
 baba
+babah
 babai
 babak
 babar
@@ -1392,6 +1394,7 @@ bando
 bandrek
 bandung
 bane
+bangau
 bangke
 bangkong
 bangkot
@@ -1772,6 +1775,7 @@ bunga
 bungah
 bungahe
 bungkus
+bunglon
 buntel
 buntu
 buntung
@@ -2087,6 +2091,7 @@ dados
 dadu
 daduk
 dagang
+dagel
 dagelan
 dagin
 daging
@@ -2232,7 +2237,6 @@ der
 dera
 derek
 dereng
-derep
 deres
 dermawan
 deru
@@ -4830,6 +4834,7 @@ jarene
 jari
 jarik
 jaring
+jarum
 jas
 jasa
 jatah
@@ -5036,6 +5041,7 @@ kados
 kadose
 kaduhung
 kadung
+kadus
 kadut
 kae
 kaet
@@ -5338,6 +5344,7 @@ kayane
 kayangan
 kayu
 kayuh
+kayumanis
 ke
 keapa
 kebab
@@ -6536,7 +6543,6 @@ ludah
 ludruk
 lugas
 lugu
-lugue
 luh
 luhan
 luhur
@@ -6657,6 +6663,7 @@ makae
 makam
 makan
 makana
+makanan
 makane
 make
 maki
@@ -7547,6 +7554,7 @@ nerang
 nerangake
 nerangi
 nerangke
+nerap
 nerasi
 nereng
 neri
@@ -7992,7 +8000,6 @@ ngempek
 ngemper
 ngempet
 ngempil
-ngemplok
 ngempot
 ngempu
 ngemut
@@ -8141,6 +8148,7 @@ nggoreng
 nggowo
 nggresiki
 nggula
+ngguling
 nggulung
 nggumun
 ngguyu
@@ -8512,6 +8520,7 @@ ngusah
 ngusaha
 ngusak
 ngusap
+ngusel
 nguser
 ngusi
 ngusik
@@ -8715,6 +8724,7 @@ nresnani
 nri
 nrima
 nrimo
+nro
 nsu
 nu
 nua
@@ -8826,7 +8836,6 @@ nyanyi
 nyapa
 nyaponi
 nyapu
-nyari
 nyaru
 nyasar
 nyatu
@@ -8943,6 +8952,7 @@ okasa
 okasan
 oke
 okea
+okecak
 okee
 okeh
 okehe
@@ -9081,6 +9091,7 @@ onoo
 onore
 onori
 onta
+ontaa
 ontang
 ontel
 onten
@@ -9122,7 +9133,6 @@ opon
 opone
 opoo
 opor
-opos
 opose
 oposi
 opowae
@@ -10684,7 +10694,6 @@ samping
 sampir
 sampo
 sampok
-sampol
 sampul
 sampun
 sampur
@@ -10998,6 +11007,7 @@ setrika
 setunggal
 sewa
 sewelas
+sewer
 sewu
 sholat
 si
@@ -11875,6 +11885,7 @@ tum
 tuma
 tuman
 tumbal
+tumbar
 tumbas
 tumbu
 tumbuk
@@ -12145,7 +12156,6 @@ ulu
 uluk
 ulun
 ulung
-ulup
 ulur
 um
 uma
@@ -12824,6 +12834,7 @@ yaa
 yaampun
 yaapa
 yadi
+yae
 yaelah
 yah
 yaho
