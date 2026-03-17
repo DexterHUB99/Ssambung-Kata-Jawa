@@ -10045,6 +10045,7 @@ panggeh
 panggih
 panggil
 panggon
+panggung
 pangkas
 pangkat
 pangku
