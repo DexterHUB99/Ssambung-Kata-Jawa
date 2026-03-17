@@ -262,7 +262,6 @@ aje
 ajeg
 ajek
 ajeng
-ajer
 aji
 ajib
 ajig
@@ -1225,7 +1224,6 @@ aweh
 awek
 awer
 awet
-awewe
 awi
 awik
 awis
@@ -9296,6 +9294,7 @@ pedes
 pedhot
 pedot
 pee
+pega
 pegat
 pegel
 pegi
@@ -9694,7 +9693,6 @@ putus
 puwan
 puwen
 puwira
-puya
 puyeng
 puyo
 puyuh
@@ -10741,7 +10739,6 @@ sepet
 sepi
 sepiro
 sepo
-sepon
 sepuh
 sepuluh
 sepur
@@ -10764,6 +10761,7 @@ seret
 seri
 serius
 sero
+serok
 serong
 seru
 serut
@@ -11440,7 +11438,6 @@ terne
 terong
 terus
 tes
-tesa
 tesi
 tet
 tete
