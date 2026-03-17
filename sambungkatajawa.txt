@@ -3345,6 +3345,7 @@ fix
 flora
 fo
 fokus
+foto
 fulus
 fungsi
 ga
