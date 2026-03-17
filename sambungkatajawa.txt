@@ -9259,6 +9259,7 @@ njangan
 njaran
 njelehi
 njikuk
+njoget
 njungkel
 njupuk
 nki
@@ -10895,6 +10896,7 @@ rayon
 rayu
 re
 rea
+rean
 reang
 reba
 rebab
