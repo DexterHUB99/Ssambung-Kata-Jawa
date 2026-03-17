@@ -428,6 +428,7 @@ aliran
 alis
 alisa
 alisan
+alise
 alit
 alka
 allahuakbar
@@ -557,7 +558,6 @@ amp
 ampa
 ampah
 ampal
-ampan
 ampang
 ampar
 amparan
@@ -910,7 +910,6 @@ apike
 apil
 apin
 apip
-apir
 apit
 apo
 apok
@@ -1018,7 +1017,6 @@ aruk
 arul
 arum
 arun
-aruna
 arup
 arupa
 arus
@@ -1306,6 +1304,7 @@ ba
 baa
 bab
 baba
+babah
 babai
 babak
 babar
@@ -1770,6 +1769,7 @@ bunga
 bungah
 bungahe
 bungkus
+bunglon
 buntel
 buntu
 buntung
@@ -2085,12 +2085,12 @@ dados
 dadu
 daduk
 dagang
+dagel
 dagelan
 dagin
 daging
 dagu
 dah
-dahak
 dahan
 dahar
 dahi
@@ -2230,7 +2230,6 @@ dera
 derek
 dereng
 deres
-dermawan
 deru
 des
 desa
@@ -2238,7 +2237,6 @@ deso
 det
 dewa
 dewe
-dewean
 dewek
 dewi
 dhadha
@@ -2654,7 +2652,6 @@ ekes
 eket
 eki
 ekib
-ekih
 ekik
 ekil
 ekin
@@ -2730,7 +2727,6 @@ eloi
 elok
 elom
 elon
-elong
 elor
 elos
 elu
@@ -3300,7 +3296,6 @@ gamen
 gamer
 gami
 gamis
-gamma
 gamo
 gamoh
 gampang
@@ -4026,7 +4021,6 @@ hawo
 haya
 hayang
 hayat
-hayati
 hayo
 hayolo
 hayoo
@@ -4599,7 +4593,6 @@ iring
 iringan
 iringane
 iringi
-irip
 irirah
 iris
 irisan
@@ -5115,7 +5108,6 @@ kaman
 kamana
 kamar
 kamari
-kamben
 kambi
 kambil
 kambing
@@ -6675,7 +6667,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -6861,7 +6852,6 @@ mel
 mela
 melan
 melas
-melasi
 melati
 melek
 meler
@@ -7047,7 +7037,6 @@ mone
 mong
 monggo
 mongo
-mongso
 moni
 montor
 monyet
@@ -7554,7 +7543,6 @@ nes
 nesa
 nesan
 nesi
-nesok
 nesoni
 nesu
 nesuan
@@ -7696,7 +7684,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -8293,7 +8280,6 @@ ngolak
 ngole
 ngoleh
 ngolek
-ngoleki
 ngoles
 ngolet
 ngoli
@@ -10480,7 +10466,6 @@ rumbah
 rumbai
 rumbak
 rumbi
-rume
 rumi
 rumien
 rumit
@@ -10965,7 +10950,6 @@ sero
 serok
 serong
 seru
-seruk
 serut
 ses
 sesak
@@ -11455,7 +11439,6 @@ tamba
 tambah
 tambak
 tambal
-tamban
 tambang
 tambi
 tameng
@@ -12150,7 +12133,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
@@ -12262,7 +12244,6 @@ untal
 untalen
 untar
 untara
-untaran
 untas
 untel
 unter
@@ -12390,7 +12371,6 @@ usar
 use
 usek
 usem
-usen
 user
 usha
 usi
