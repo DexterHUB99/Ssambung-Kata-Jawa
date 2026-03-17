@@ -145,6 +145,7 @@ ahaw
 ahay
 ahe
 aheh
+ahej
 ahek
 ahel
 ahem
@@ -915,6 +916,7 @@ apuwo
 aqiqah
 ar
 ara
+araa
 arab
 araen
 arah
@@ -1483,6 +1485,7 @@ beleh
 belek
 beler
 beli
+beling
 belo
 belu
 beluk
@@ -1670,6 +1673,7 @@ boyo
 boyok
 bro
 bu
+bua
 buang
 buat
 buaya
@@ -4306,6 +4310,7 @@ imbaan
 imbah
 imbai
 imbal
+imbala
 imbalan
 imbang
 imbangi
@@ -4539,6 +4544,7 @@ isine
 ising
 isinna
 isis
+isisi
 isiso
 isit
 isita
@@ -5722,7 +5728,6 @@ krama
 kramas
 krambil
 kran
-krasan
 kraton
 kresna
 krida
@@ -7665,7 +7670,6 @@ ngaturno
 ngaub
 ngaup
 ngaur
-ngaut
 ngawa
 ngawag
 ngawah
@@ -10450,6 +10454,7 @@ sasen
 sasi
 sasih
 sasuh
+sasuk
 sat
 sata
 sate
@@ -10590,6 +10595,7 @@ semur
 semut
 sen
 senajan
+senak
 senang
 senar
 sendal
