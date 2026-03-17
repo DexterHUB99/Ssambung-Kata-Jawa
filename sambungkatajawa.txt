@@ -462,6 +462,7 @@ alisa
 alisan
 alise
 alit
+aliy
 alka
 allahuakbar
 alm
@@ -5502,6 +5503,7 @@ kalo
 kalok
 kalong
 kalor
+kaluhur
 kalung
 kalurahan
 kalut
@@ -10232,6 +10234,7 @@ pelu
 peluk
 pema
 pemo
+pemu
 pemuda
 pen
 pena
@@ -11683,6 +11686,7 @@ seger
 sego
 segoro
 seh
+seha
 sehat
 sei
 seiki
