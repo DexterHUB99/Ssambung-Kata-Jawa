@@ -1926,7 +1926,6 @@ cari
 carik
 carine
 carita
-carok
 caruk
 cas
 casa
@@ -4004,7 +4003,6 @@ haho
 hai
 haie
 haii
-haing
 hajar
 hajat
 haji
@@ -5874,7 +5872,6 @@ kis
 kisa
 kisan
 kisanak
-kise
 kisi
 kit
 kita
@@ -6286,6 +6283,7 @@ lamuna
 lamunan
 lan
 lana
+lanan
 lanang
 lanangan
 lanange
@@ -8824,7 +8822,6 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
@@ -9049,6 +9046,7 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
+nwa
 ny
 nya
 nyai
@@ -12358,7 +12356,6 @@ uji
 ujia
 ujian
 ujub
-ujug
 ujuk
 ujul
 ujun
