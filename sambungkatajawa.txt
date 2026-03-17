@@ -780,7 +780,6 @@ angsura
 angsuran
 angu
 anguk
-angun
 angur
 angus
 ani
@@ -1698,6 +1697,7 @@ bodoh
 bodok
 bohong
 bojo
+bojok
 bok
 boke
 bokek
@@ -1839,7 +1839,6 @@ busik
 busu
 busuk
 busung
-but
 buta
 butek
 buto
@@ -2357,6 +2356,7 @@ dilah
 dilalah
 dilam
 dilan
+dilap
 dilarang
 dilas
 dilat
@@ -2746,6 +2746,7 @@ ekon
 ekop
 ekor
 ekoran
+ekore
 ekos
 ekot
 eksi
@@ -2788,6 +2789,7 @@ elig
 elih
 elik
 elin
+eline
 eling
 elinga
 elingo
@@ -2841,6 +2843,7 @@ ember
 emboh
 embok
 embong
+embonge
 embuh
 embuhe
 embun
@@ -2951,6 +2954,7 @@ enes
 engah
 engeh
 enggal
+enggale
 enggan
 enggar
 enggeh
@@ -3545,6 +3549,7 @@ gel
 gela
 gelak
 gelang
+gelange
 gelap
 gelar
 gelas
@@ -3656,6 +3661,7 @@ gerah
 gerai
 gerak
 geram
+gerame
 gerang
 gerbang
 gerbong
@@ -4415,6 +4421,7 @@ ikaa
 ikai
 ikal
 ikan
+ikane
 ikar
 ikas
 ikat
@@ -6387,6 +6394,7 @@ lelah
 lele
 leleh
 lelembut
+lelene
 lelesen
 lelet
 leli
@@ -7635,6 +7643,7 @@ neh
 nek
 neka
 nekad
+nekane
 nekani
 nekat
 neken
@@ -8293,7 +8302,6 @@ ngg
 ngga
 nggadu
 nggae
-nggah
 nggak
 nggali
 nggambar
@@ -9993,6 +10001,7 @@ ponakan
 pondok
 pondoke
 poni
+ponjen
 pono
 ponorogo
 ponsel
@@ -10524,7 +10533,6 @@ ret
 retak
 reti
 rewa
-rewan
 rewang
 rewangan
 rewel
@@ -12728,6 +12736,7 @@ usungi
 usuo
 usus
 ususa
+ususe
 usut
 uswa
 ut
@@ -13218,7 +13227,6 @@ yole
 yoli
 yolo
 yom
-yoma
 yoman
 yome
 yomen
