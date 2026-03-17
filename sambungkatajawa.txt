@@ -9103,6 +9103,7 @@ nrima
 nrimo
 nro
 nsu
+nte
 nu
 nua
 nuak
