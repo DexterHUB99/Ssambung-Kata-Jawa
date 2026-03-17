@@ -2243,6 +2243,7 @@ dinah
 dinan
 dinar
 dinas
+dinasti
 dinding
 dinggo
 dingin
@@ -8199,6 +8200,7 @@ nikus
 nil
 nila
 nilai
+nilak
 nilam
 nilan
 nilar
