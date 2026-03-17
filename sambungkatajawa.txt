@@ -841,6 +841,7 @@ antuk
 antun
 antur
 anu
+anue
 anugerah
 anuk
 anum
@@ -2220,6 +2221,7 @@ didik
 didin
 didol
 didu
+didum
 diewe
 difa
 digawa
@@ -2305,7 +2307,6 @@ dipo
 dipu
 dipun
 dir
-dira
 diran
 direng
 diri
@@ -4016,6 +4017,7 @@ hikayat
 hikmah
 hilang
 himpun
+himpuna
 himpunan
 hina
 hinaan
@@ -5159,6 +5161,7 @@ kasian
 kasih
 kasihan
 kasil
+kasim
 kasir
 kasire
 kasmaran
@@ -5190,6 +5193,7 @@ katok
 katon
 katone
 katot
+katro
 katrok
 katu
 katuk
@@ -6278,7 +6282,6 @@ lis
 lisa
 lisah
 lisan
-lisaning
 lise
 lisi
 lisung
@@ -7493,6 +7496,7 @@ ngalahi
 ngalam
 ngalami
 ngalamun
+ngalan
 ngalang
 ngalangi
 ngalap
@@ -9950,7 +9954,6 @@ rembuk
 rembukan
 rembul
 rembulan
-rembun
 rembung
 remeh
 remek
@@ -10080,6 +10083,7 @@ rinja
 rino
 rinta
 rio
+riono
 rip
 ripa
 ripan
@@ -10252,7 +10256,6 @@ rungka
 rungkad
 rungkut
 rungo
-rungokke
 rungono
 rungsing
 rungu
@@ -10297,7 +10300,6 @@ saan
 saayang
 sab
 saba
-saban
 sabar
 sabe
 saben
@@ -10730,6 +10732,7 @@ sewu
 sholat
 si
 sia
+siah
 sial
 siala
 sialan
@@ -12114,7 +12117,6 @@ usir
 usiren
 uska
 usko
-usku
 usli
 usma
 uso
