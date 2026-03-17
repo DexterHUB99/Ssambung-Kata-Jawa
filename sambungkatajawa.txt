@@ -129,6 +129,7 @@ ageng
 ager
 agi
 agih
+agil
 agin
 agit
 ago
@@ -4509,6 +4510,7 @@ humor
 hun
 huna
 hunan
+hunen
 huni
 hup
 hupa
@@ -7143,6 +7145,7 @@ makane
 make
 maki
 makiya
+maklum
 makmur
 makna
 makol
