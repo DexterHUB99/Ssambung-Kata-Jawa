@@ -7716,6 +7716,7 @@ ngepot
 ngepus
 nger
 ngerak
+ngeram
 ngerami
 ngerampok
 ngerandu
@@ -8447,6 +8448,7 @@ nyala
 nyali
 nyam
 nyaman
+nyambe
 nyambel
 nyambi
 nyambik
