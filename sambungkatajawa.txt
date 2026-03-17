@@ -4963,6 +4963,7 @@ jurus
 jus
 juta
 ka
+kaaba
 kabar
 kabeh
 kabel
@@ -10010,6 +10011,7 @@ ratai
 ratan
 ratau
 rati
+ratib
 ratih
 ratina
 rating
