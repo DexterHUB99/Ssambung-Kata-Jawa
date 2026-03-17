@@ -8062,7 +8062,6 @@ nglangkah
 nglantur
 nglek
 ngliwet
-ngloh
 nglon
 nglor
 ngluput
@@ -10462,6 +10461,7 @@ sapih
 sapir
 sapiro
 sapo
+saponi
 sapu
 sapura
 saput
@@ -10498,7 +10498,6 @@ sasuh
 sasuk
 sat
 sata
-satai
 sate
 sati
 satitik
