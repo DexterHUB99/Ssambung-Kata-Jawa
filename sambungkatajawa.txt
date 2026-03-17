@@ -5358,6 +5358,7 @@ juru
 jurus
 jus
 juta
+jutaan
 ka
 kaaba
 kabar
@@ -10252,6 +10253,7 @@ pidana
 pidang
 pie
 pih
+pii
 pijak
 pijang
 pijar
