@@ -2450,7 +2450,6 @@ doli
 dolo
 dolu
 dom
-doma
 domba
 domblong
 domi
@@ -4861,7 +4860,6 @@ jamput
 jamu
 jamur
 jan
-jana
 janaka
 jancok
 jancuk
@@ -6028,7 +6026,6 @@ kumi
 kumo
 kumpul
 kumpula
-kumpulan
 kumu
 kumuh
 kumut
@@ -7397,7 +7394,6 @@ nampak
 nampan
 nampani
 nampar
-namper
 nampil
 namping
 nampol
@@ -7546,7 +7542,6 @@ nebang
 nebas
 nebe
 neben
-nebih
 neda
 nedah
 nedan
@@ -7842,7 +7837,6 @@ ngangah
 ngangam
 ngange
 ngangen
-ngangeni
 ngangge
 nganggep
 nganggo
@@ -9006,7 +9000,6 @@ obrol
 oceh
 ocehan
 ocok
-ocon
 od
 odok
 odol
@@ -9330,7 +9323,6 @@ osok
 osor
 osut
 ot
-otah
 otak
 otakmu
 otek
