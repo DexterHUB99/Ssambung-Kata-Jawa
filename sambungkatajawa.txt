@@ -1536,6 +1536,7 @@ bekel
 bekne
 beko
 bekok
+bekong
 bel
 bela
 belah
@@ -7949,6 +7950,7 @@ ngantuke
 ngantuki
 ngantung
 nganu
+nganune
 ngaos
 ngap
 ngapa
