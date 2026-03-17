@@ -3380,6 +3380,7 @@ gak
 gaka
 gaki
 gakiso
+gakono
 gaktau
 gal
 gala
@@ -7672,6 +7673,7 @@ nawari
 nawas
 nawe
 nawi
+nawo
 nawon
 nawur
 naya
