@@ -5714,6 +5714,7 @@ kemol
 kempel
 kempes
 kempis
+kempit
 kempol
 kemproh
 kempul
@@ -6097,6 +6098,7 @@ korban
 kore
 korea
 korek
+korem
 koren
 koreng
 koret
