@@ -924,6 +924,7 @@ anyong
 aos
 ap
 apa
+apaa
 apaan
 apae
 apah
@@ -3686,6 +3687,7 @@ geli
 gelis
 gelo
 geloe
+geloko
 gelombang
 geloo
 geloro
