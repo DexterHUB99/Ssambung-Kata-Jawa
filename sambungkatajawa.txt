@@ -3453,6 +3453,7 @@ gara
 garae
 garah
 garai
+garane
 garang
 garangan
 garap
@@ -8167,6 +8168,7 @@ ngeloni
 ngelor
 ngelu
 ngeluh
+ngelus
 ngeman
 ngemang
 ngemas
