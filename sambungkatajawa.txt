@@ -2716,6 +2716,7 @@ ehuk
 ehun
 ehur
 ehus
+ehut
 ehuy
 ej
 eja
@@ -5403,6 +5404,7 @@ kar
 kara
 karah
 karak
+karam
 karan
 karang
 karat
