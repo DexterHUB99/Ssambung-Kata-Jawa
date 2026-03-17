@@ -1585,6 +1585,7 @@ biro
 biru
 bis
 bisa
+bisaa
 bisi
 bisik
 bisiki
@@ -2803,6 +2804,7 @@ enjih
 enjing
 enjoy
 enka
+enki
 enko
 enlo
 eno
