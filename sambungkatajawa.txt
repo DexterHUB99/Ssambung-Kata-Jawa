@@ -1556,7 +1556,6 @@ beling
 belo
 belu
 beluk
-belum
 belut
 bem
 ben
@@ -1926,6 +1925,7 @@ cari
 carik
 carine
 carita
+carok
 caruk
 cas
 casa
@@ -4002,6 +4002,7 @@ haho
 hai
 haie
 haii
+haing
 hajar
 hajat
 haji
