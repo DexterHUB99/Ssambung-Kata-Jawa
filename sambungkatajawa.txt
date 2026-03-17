@@ -1624,7 +1624,6 @@ bilara
 bile
 bili
 bilih
-bilo
 bilu
 bima
 bimo
@@ -5285,7 +5284,6 @@ kasap
 kasar
 kasarasan
 kasat
-kase
 kasem
 kasep
 kaset
@@ -8079,7 +8077,6 @@ ngeo
 ngep
 ngepang
 ngepas
-ngepeh
 ngepek
 ngepel
 ngepet
@@ -10083,7 +10080,6 @@ rangi
 rangka
 rangkat
 rangkul
-rangkum
 rangu
 rani
 ranjang
