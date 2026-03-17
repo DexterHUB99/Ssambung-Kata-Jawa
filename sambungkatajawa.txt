@@ -8989,6 +8989,7 @@ ngrokok
 ngrumat
 ngrumpi
 ngrusak
+ngrusuhi
 nguang
 ngubah
 nguber
