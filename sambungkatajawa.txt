@@ -6847,6 +6847,7 @@ muatan
 mubal
 mubeng
 mucak
+mucuk
 mudal
 mudar
 mudeng
