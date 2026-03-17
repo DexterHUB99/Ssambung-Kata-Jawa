@@ -2955,6 +2955,7 @@ emur
 emut
 en
 ena
+enag
 enah
 enaj
 enak
@@ -9661,6 +9662,7 @@ pahing
 pahit
 paido
 paijo
+pain
 painem
 paing
 pait
