@@ -1922,6 +1922,7 @@ cabai
 cabak
 cabe
 cabi
+cabul
 caca
 cacah
 cacahe
@@ -8663,6 +8664,7 @@ ngiket
 ngiki
 ngiku
 ngikut
+ngil
 ngila
 ngilag
 ngilang
