@@ -2395,6 +2395,7 @@ doso
 dowo
 du
 dubur
+ducok
 duda
 dudi
 dudo
@@ -11930,6 +11931,7 @@ umaira
 umak
 uman
 umar
+umas
 umat
 umbah
 umbahan
