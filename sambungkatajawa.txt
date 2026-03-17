@@ -1857,7 +1857,6 @@ cagak
 cagar
 cah
 cahaya
-cahyo
 cai
 caji
 cak
@@ -2808,6 +2807,7 @@ emam
 eman
 emane
 emang
+emar
 emas
 emat
 ematane
@@ -3588,6 +3588,7 @@ gendi
 gendon
 gendong
 gendruwo
+gendul
 gendung
 gendut
 gene
@@ -5082,7 +5083,6 @@ juta
 ka
 kaaba
 kabar
-kabare
 kabeh
 kabel
 kabul
@@ -7696,6 +7696,7 @@ ngabekti
 ngaben
 ngaboti
 ngabu
+ngabung
 ngaca
 ngacak
 ngacang
@@ -8490,6 +8491,7 @@ ngosip
 ngosok
 ngosong
 ngosor
+ngot
 ngotak
 ngoti
 ngotori
@@ -8643,7 +8645,6 @@ ngusir
 ngusu
 ngusung
 ngusungi
-ngususi
 ngut
 nguta
 ngutang
