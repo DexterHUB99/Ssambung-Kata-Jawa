@@ -5693,6 +5693,7 @@ kawan
 kawanen
 kawang
 kawaruh
+kawas
 kawasan
 kawat
 kawe
@@ -10067,6 +10068,7 @@ paras
 pare
 paren
 pareng
+paret
 pari
 paring
 paringi
@@ -10421,6 +10423,7 @@ pojok
 pojokan
 pok
 poke
+poken
 poki
 poko
 pokoe
