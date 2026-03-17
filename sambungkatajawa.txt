@@ -545,6 +545,7 @@ ambii
 ambik
 ambil
 ambing
+ambo
 amboi
 ambrol
 ambruk
@@ -2582,6 +2583,7 @@ dluwang
 do
 doa
 dobleh
+dobo
 dobol
 dodi
 dodik
@@ -5418,6 +5420,7 @@ kadal
 kadan
 kadang
 kademan
+kader
 kades
 kadewa
 kadi
