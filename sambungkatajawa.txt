@@ -1797,6 +1797,7 @@ bubrah
 bubu
 bubuk
 bubur
+bubut
 buda
 budak
 budal
@@ -9307,6 +9308,7 @@ ocehan
 ocok
 ocol
 ocon
+ocop
 od
 odok
 odol
@@ -11941,6 +11943,7 @@ suwung
 suya
 suyo
 swara
+syal
 syukur
 ta
 taa
