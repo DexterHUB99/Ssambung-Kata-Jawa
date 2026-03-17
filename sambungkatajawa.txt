@@ -847,7 +847,6 @@ antri
 antrian
 antuk
 antun
-antup
 antur
 anu
 anua
@@ -2353,7 +2352,6 @@ disisi
 disit
 disogok
 disu
-disuk
 dit
 dita
 ditampol
@@ -2520,7 +2518,6 @@ edanan
 edar
 edaran
 ede
-edek
 edi
 edit
 edo
@@ -2605,7 +2602,6 @@ ejar
 eje
 ejek
 eji
-ejik
 ejo
 eju
 ejuh
@@ -3048,7 +3044,6 @@ esem
 eseme
 esemka
 esen
-esep
 eser
 eses
 eset
@@ -3098,7 +3093,6 @@ etig
 etik
 etika
 etil
-etin
 eting
 etis
 eto
@@ -3125,6 +3119,7 @@ evin
 evo
 ew
 ewa
+ewah
 ewak
 ewako
 ewan
@@ -4613,6 +4608,7 @@ iser
 ises
 isha
 isi
+isia
 isian
 isien
 isih
@@ -5022,7 +5018,6 @@ kajeng
 kaji
 kajian
 kajine
-kajun
 kak
 kaka
 kakaa
@@ -5446,6 +5441,7 @@ kendal
 kendang
 kendel
 kendhil
+kendho
 kendi
 kendil
 kenduri
@@ -6584,6 +6580,7 @@ madhang
 madi
 madiun
 madog
+madok
 mados
 madosi
 madu
@@ -6711,7 +6708,6 @@ mantep
 manthuk
 mantu
 mantuk
-mantul
 mantune
 manuk
 manuke
@@ -6722,7 +6718,6 @@ manungso
 manus
 manut
 maos
-map
 mapak
 mapan
 mapi
@@ -7985,7 +7980,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepruk
 ngepus
 nger
 ngerak
@@ -8999,7 +8993,6 @@ oneng
 onet
 onggok
 ongkang
-ongke
 ongkek
 ongkel
 ongko
@@ -10363,7 +10356,6 @@ ros
 rosa
 rose
 rosi
-rosma
 roso
 rotan
 roti
@@ -12669,6 +12661,7 @@ wito
 wiwi
 wiwit
 wiwitan
+wiye
 wo
 woe
 woh
