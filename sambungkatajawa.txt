@@ -628,7 +628,6 @@ anakku
 anakmu
 anal
 anam
-anaman
 anan
 anana
 anandong
@@ -1926,6 +1925,7 @@ cari
 carik
 carine
 carita
+carok
 caruk
 cas
 casa
@@ -2000,7 +2000,6 @@ cicir
 cicit
 cidek
 ciduk
-ciji
 cik
 cikal
 ciken
@@ -4003,6 +4002,7 @@ haho
 hai
 haie
 haii
+haing
 hajar
 hajat
 haji
@@ -8820,6 +8820,7 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
@@ -12351,6 +12352,7 @@ uji
 ujia
 ujian
 ujub
+ujug
 ujuk
 ujul
 ujun
