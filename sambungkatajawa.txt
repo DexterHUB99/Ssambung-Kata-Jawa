@@ -3576,7 +3576,6 @@ gendhuk
 gendi
 gendon
 gendong
-gendongan
 gendruwo
 gendung
 gendut
@@ -6226,6 +6225,7 @@ lantang
 lantas
 lante
 lanti
+lantik
 lanting
 lantip
 lantun
@@ -7525,7 +7525,6 @@ ndlogok
 ndlosor
 ndoro
 nduk
-ndulang
 nduwe
 nduwur
 ne
