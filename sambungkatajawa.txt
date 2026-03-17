@@ -1234,6 +1234,7 @@ atri
 atu
 atuh
 atuk
+atul
 atum
 atun
 atur
@@ -1504,6 +1505,7 @@ batang
 bathuk
 bati
 batik
+batin
 bato
 batok
 batu
@@ -2764,7 +2766,6 @@ ejah
 ejar
 eje
 ejek
-ejel
 eji
 ejih
 ejo
@@ -6289,6 +6290,7 @@ kupa
 kupas
 kupat
 kupeng
+kupi
 kuping
 kupluk
 kupu
@@ -7789,6 +7791,7 @@ nawi
 nawon
 nawur
 naya
+nayara
 nayo
 nayoh
 ncok
@@ -8571,6 +8574,7 @@ ngibu
 ngibul
 ngical
 ngicipi
+ngicir
 ngidam
 ngidang
 ngidek
@@ -10432,6 +10436,7 @@ rabi
 rabio
 rabisa
 rabit
+raboh
 rabu
 rabun
 racikan
