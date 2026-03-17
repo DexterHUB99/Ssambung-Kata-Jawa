@@ -5139,6 +5139,7 @@ jalo
 jalu
 jaluk
 jaluke
+jalur
 jam
 jama
 jamal
