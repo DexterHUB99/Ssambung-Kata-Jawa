@@ -521,6 +521,7 @@ amel
 amem
 amen
 ameng
+amep
 amer
 amerga
 ames
@@ -766,6 +767,7 @@ anif
 anig
 anih
 anik
+anim
 anin
 aning
 anis
@@ -1399,6 +1401,7 @@ bapakmu
 bar
 barek
 bareng
+bari
 bariki
 baris
 barito
@@ -1638,6 +1641,7 @@ bodi
 bodo
 bodoh
 bodok
+bohong
 bojo
 bok
 boke
@@ -2023,6 +2027,7 @@ cuka
 cuki
 cukil
 cukin
+cukup
 cukur
 culai
 culik
@@ -2247,6 +2252,7 @@ dijalan
 diji
 dik
 dika
+dikamar
 dikandani
 dikep
 dikes
@@ -2374,6 +2380,7 @@ dolu
 dom
 domba
 domblong
+domi
 dompet
 don
 dong
@@ -2867,6 +2874,7 @@ enki
 enko
 enli
 enlo
+enma
 eno
 enoh
 enok
@@ -3694,6 +3702,7 @@ gosoki
 gosong
 got
 gotong
+gotongroyong
 gowang
 gowange
 gowo
@@ -3794,6 +3803,7 @@ guri
 gurih
 gurit
 gurita
+guritan
 guru
 guruh
 gus
@@ -4869,6 +4879,7 @@ jiret
 jiri
 jirih
 jit
+jita
 jitak
 jiwa
 jo
@@ -5331,6 +5342,7 @@ kelambe
 kelana
 kelangan
 kelaparan
+kelapasawit
 kelar
 kelara
 kelaran
@@ -5361,7 +5373,6 @@ kelor
 keloro
 keluarga
 keluh
-kelum
 kelut
 kem
 kema
@@ -5766,6 +5777,7 @@ korban
 kore
 korea
 korek
+koren
 koreng
 koret
 kori
@@ -6350,6 +6362,7 @@ liwet
 liwo
 liya
 liyane
+liyep
 liyo
 lo
 loa
@@ -6413,6 +6426,7 @@ longgo
 longgor
 longor
 longsor
+loni
 lonjak
 lonjong
 lontar
@@ -8083,6 +8097,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbal
 ngimbangi
 ngimbar
 ngimbas
@@ -8358,6 +8373,7 @@ ngunggah
 ngungkuli
 nguning
 ngunjuk
+ngunjungi
 nguno
 ngunta
 nguntal
@@ -8370,6 +8386,7 @@ ngupah
 ngupai
 ngupakara
 ngupas
+ngupati
 ngupaya
 ngupel
 ngupi
@@ -9573,6 +9590,7 @@ pitik
 piton
 pitrah
 pitu
+pitulang
 pitulas
 pitulung
 pitung
@@ -9682,6 +9700,7 @@ pro
 pu
 puan
 puasa
+pucat
 pucuk
 pucung
 pue
@@ -9698,6 +9717,7 @@ pukki
 pukul
 pul
 pula
+pulan
 pulau
 pulen
 puli
@@ -9940,6 +9960,7 @@ ras
 rasa
 rasah
 rasahe
+rasai
 rasak
 rasakan
 rasake
@@ -9977,7 +9998,6 @@ ratui
 ratus
 rauh
 raul
-raum
 rauma
 raumi
 raung
@@ -10578,6 +10598,7 @@ sangkuni
 sangon
 sangu
 sani
+sanim
 sanja
 sanjang
 sano
@@ -10617,6 +10638,7 @@ sari
 sarimi
 saringan
 sarip
+saripun
 sarna
 saro
 sarong
@@ -11018,6 +11040,7 @@ solan
 solar
 solat
 sole
+solek
 soli
 solid
 solo
@@ -11498,6 +11521,7 @@ tepe
 tepi
 tepung
 ter
+tera
 terak
 terang
 teras
@@ -11950,6 +11974,7 @@ ulah
 ulahan
 ulahmu
 ulai
+ulak
 ulakan
 ulal
 ulala
