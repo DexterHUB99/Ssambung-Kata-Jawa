@@ -1407,6 +1407,7 @@ balung
 balungan
 balur
 bam
+bambang
 bambu
 ban
 banak
@@ -5434,6 +5435,7 @@ katup
 katur
 katut
 kaula
+kaulo
 kauman
 kawah
 kawak
