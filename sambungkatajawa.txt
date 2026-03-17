@@ -2172,6 +2172,7 @@ cungkring
 cupu
 cur
 curi
+curiga
 curu
 curug
 curut
@@ -11237,6 +11238,7 @@ sampean
 sampek
 sampen
 sampeyan
+sampi
 sampian
 samping
 sampir
