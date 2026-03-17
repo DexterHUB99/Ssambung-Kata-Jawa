@@ -1074,6 +1074,7 @@ arya
 as
 asa
 asah
+asahan
 asai
 asak
 asal
@@ -1233,6 +1234,7 @@ atri
 atu
 atuh
 atuk
+atul
 atum
 atun
 atur
@@ -1503,6 +1505,7 @@ batang
 bathuk
 bati
 batik
+batin
 bato
 batok
 batu
@@ -4647,6 +4650,7 @@ imas
 imba
 imbaan
 imbah
+imbahan
 imbai
 imbal
 imbala
@@ -7786,6 +7790,7 @@ nawi
 nawon
 nawur
 naya
+nayara
 nayo
 nayoh
 ncok
@@ -8095,6 +8100,7 @@ ngampar
 ngampas
 ngampel
 ngampet
+ngampih
 ngampil
 ngampir
 ngampleng
@@ -8295,6 +8301,7 @@ ngawini
 ngawir
 ngawis
 ngawit
+ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8411,6 +8418,7 @@ ngenalin
 ngencang
 ngencuk
 ngendah
+ngendak
 ngendang
 ngendeng
 ngendep
@@ -8565,6 +8573,7 @@ ngibu
 ngibul
 ngical
 ngicipi
+ngicir
 ngidam
 ngidang
 ngidek
@@ -8609,6 +8618,7 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
+ngimpen
 ngimpi
 ngin
 ngina
@@ -10425,6 +10435,7 @@ rabi
 rabio
 rabisa
 rabit
+raboh
 rabu
 rabun
 racikan
@@ -10761,6 +10772,7 @@ remok
 rempah
 rempal
 rempeyek
+rempol
 rempon
 remu
 remuk
