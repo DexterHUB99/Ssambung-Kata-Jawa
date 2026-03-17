@@ -322,6 +322,7 @@ akem
 aken
 akeng
 akeo
+akep
 aker
 akes
 aket
@@ -3322,6 +3323,7 @@ gamelan
 gamen
 gamer
 gami
+gaming
 gamis
 gamma
 gamo
