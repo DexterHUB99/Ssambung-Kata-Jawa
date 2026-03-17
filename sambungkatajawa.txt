@@ -134,7 +134,6 @@ ahada
 ahadi
 ahag
 ahah
-ahaj
 ahak
 ahal
 aham
@@ -251,7 +250,6 @@ aiya
 aiyo
 aj
 aja
-ajah
 ajai
 ajak
 ajal
@@ -668,7 +666,6 @@ andhana
 andhap
 andhe
 andheg
-andhegan
 andheng
 andhikane
 andhong
@@ -845,7 +842,6 @@ antemi
 anteng
 antep
 anter
-antes
 anti
 antik
 anting
@@ -1910,7 +1906,6 @@ celek
 celeng
 celengan
 celi
-celo
 celuk
 cemani
 cemen
@@ -2358,6 +2353,7 @@ dinten
 diora
 dip
 dipa
+dipah
 dipan
 dipangan
 diparingi
@@ -2427,6 +2423,7 @@ dompet
 don
 dong
 donga
+dongane
 dongeng
 dongi
 dongo
@@ -3674,7 +3671,6 @@ gir
 gira
 giran
 girang
-girap
 gire
 giri
 giring
@@ -5372,6 +5368,7 @@ kece
 kecek
 kecel
 kecelek
+kecemplung
 kecewa
 kecoa
 kecot
@@ -5385,6 +5382,7 @@ kedondong
 keduhung
 kedul
 kedung
+keendi
 kegowo
 keisi
 kejam
@@ -6399,6 +6397,7 @@ lintangen
 lintas
 lintasan
 lintu
+lintune
 lio
 lip
 lipa
@@ -6429,6 +6428,7 @@ lisan
 lisaning
 lise
 lisi
+lising
 lisung
 lit
 lita
@@ -6849,7 +6849,6 @@ mawa
 mawah
 mawang
 mawar
-mawis
 mawon
 maya
 mayak
@@ -7199,7 +7198,6 @@ murupen
 mus
 musa
 musan
-muse
 muser
 musi
 musibah
@@ -9563,6 +9561,7 @@ peran
 perang
 percaya
 pere
+perek
 peri
 perih
 permisi
@@ -9603,6 +9602,7 @@ pie
 pih
 pijak
 pijang
+pijar
 pijat
 pijer
 pijet
@@ -9717,6 +9717,7 @@ pitakon
 pitek
 piten
 piter
+pites
 pitik
 piting
 piton
@@ -9772,6 +9773,7 @@ poli
 polisi
 poll
 polo
+poloh
 pom
 poma
 pomi
@@ -10173,6 +10175,7 @@ rebahan
 rebana
 rebo
 rebung
+rebus
 rebut
 rebutan
 receh
@@ -10188,7 +10191,6 @@ reha
 rei
 reja
 rejeb
-rejeki
 rejo
 rek
 reka
@@ -10609,7 +10611,6 @@ sadya
 sae
 saeno
 saestu
-sag
 saga
 sage
 saged
@@ -11122,6 +11123,7 @@ siram
 siraman
 sire
 sirem
+siren
 sirep
 siri
 sirih
@@ -11528,6 +11530,7 @@ tanggul
 tanggung
 tangi
 tangina
+tangis
 tangkap
 tanglet
 tani
@@ -11663,7 +11666,6 @@ tenan
 tenanan
 tenane
 tenang
-tendang
 tene
 tenen
 teng
@@ -11931,6 +11933,7 @@ tunggale
 tunggu
 tungguen
 tungkak
+tupa
 tupe
 tupi
 tur
@@ -12557,6 +12560,7 @@ wadan
 wadara
 wader
 wadha
+wadhul
 wadoh
 wadon
 wadonan
