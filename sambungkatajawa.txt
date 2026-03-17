@@ -8471,6 +8471,7 @@ ngesak
 ngesang
 ngesat
 ngesek
+ngesem
 ngeseng
 ngesok
 ngesor
