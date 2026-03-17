@@ -1290,6 +1290,7 @@ badeg
 badek
 badhe
 badokan
+bae
 bagen
 bagi
 bagong
@@ -5408,6 +5409,7 @@ kesuk
 kesupen
 kesusu
 ket
+keta
 ketan
 ketapel
 ketar
