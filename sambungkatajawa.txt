@@ -351,7 +351,6 @@ akoing
 akok
 akol
 akom
-akomo
 akon
 akoni
 akor
@@ -838,7 +837,6 @@ anta
 antah
 antam
 antangi
-antap
 antar
 antara
 antarane
@@ -3023,7 +3021,6 @@ epor
 epos
 epot
 epoy
-eprak
 epu
 epuh
 epuk
@@ -8320,7 +8317,6 @@ nglangi
 nglangkah
 nglantur
 nglek
-nglilir
 ngliwet
 ngloh
 nglon
@@ -9112,13 +9108,11 @@ omong
 omongan
 omongane
 omonge
-omongo
 ompol
 ompong
 ompreng
 on
 onang
-onangan
 onar
 oncek
 onco
@@ -9438,7 +9432,6 @@ panta
 pantai
 pantang
 pantar
-pantas
 pantat
 pante
 pantes
@@ -9492,7 +9485,6 @@ pasah
 pasak
 pasal
 pasang
-pasangan
 pasar
 paser
 pasi
