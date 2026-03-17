@@ -33,6 +33,7 @@ abul
 ac
 aca
 acak
+acal
 acan
 ace
 aceh
@@ -1839,6 +1840,7 @@ cari
 carik
 carine
 carita
+caro
 caruk
 cas
 casa
@@ -4900,6 +4902,7 @@ jujur
 jule
 juli
 juluk
+julukan
 jumat
 jumblah
 jumeneng
@@ -7540,7 +7543,6 @@ ngalur
 ngalus
 ngam
 ngama
-ngamah
 ngamal
 ngamar
 ngamba
@@ -10821,7 +10823,6 @@ simpenan
 simu
 sin
 sina
-sinan
 sinau
 sinden
 sindu
@@ -12509,6 +12510,7 @@ womo
 won
 wong
 wonge
+wongi
 wongko
 woni
 wono
