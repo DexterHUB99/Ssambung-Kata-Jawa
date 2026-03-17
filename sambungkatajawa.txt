@@ -2998,7 +2998,6 @@ esek
 esem
 eseme
 esemka
-esemmu
 esen
 eses
 eset
@@ -11956,7 +11955,6 @@ untalen
 untar
 untara
 untas
-untek
 untel
 unter
 untik
