@@ -299,6 +299,7 @@ ajrih
 aju
 ajudan
 ajuk
+ajung
 ajur
 ajura
 ajuran
@@ -4823,6 +4824,7 @@ isan
 isao
 isap
 isar
+isat
 ise
 isek
 isel
@@ -11277,6 +11279,7 @@ sedih
 sedina
 seduh
 sedulur
+see
 sega
 segaa
 segar
