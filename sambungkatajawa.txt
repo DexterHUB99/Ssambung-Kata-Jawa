@@ -842,7 +842,6 @@ antuk
 antun
 antur
 anu
-anua
 anue
 anugerah
 anuk
@@ -2849,7 +2848,6 @@ enjoy
 enka
 enki
 enko
-enli
 enlo
 eno
 enoh
@@ -3002,7 +3000,6 @@ esah
 esai
 esak
 esan
-esar
 esay
 ese
 eseh
@@ -4175,7 +4172,6 @@ idi
 idia
 idih
 idin
-idku
 idma
 ido
 idu
@@ -7474,7 +7470,6 @@ ngado
 ngadoh
 ngadohi
 ngadok
-ngadol
 ngadon
 ngadu
 ngaduk
@@ -8874,7 +8869,6 @@ onda
 onde
 ondha
 ondhe
-ondho
 ondo
 ondol
 oneng
@@ -10028,7 +10022,6 @@ reo
 reog
 rep
 repa
-repan
 repat
 repi
 repit
