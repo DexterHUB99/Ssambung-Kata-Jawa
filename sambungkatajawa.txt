@@ -8093,6 +8093,7 @@ ngitem
 ngitil
 ngitung
 ngiwa
+ngiwak
 ngiwas
 ngiwasi
 ngiyuh
