@@ -2946,6 +2946,7 @@ elu
 elud
 eluh
 eluk
+elung
 elungan
 elur
 elus
@@ -7107,6 +7108,7 @@ mahir
 mai
 maido
 main
+maine
 majeng
 majo
 maju
@@ -7985,6 +7987,7 @@ nekad
 nekane
 nekani
 nekat
+neke
 neken
 nekeni
 neker
