@@ -2422,7 +2422,6 @@ dompet
 don
 dong
 donga
-dongane
 dongeng
 dongi
 dongo
@@ -5367,7 +5366,6 @@ kece
 kecek
 kecel
 kecelek
-kecemplung
 kecewa
 kecoa
 kecot
@@ -6395,7 +6393,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintune
 lio
 lip
 lipa
@@ -6426,7 +6423,6 @@ lisan
 lisaning
 lise
 lisi
-lising
 lisung
 lit
 lita
@@ -9559,7 +9555,6 @@ peran
 perang
 percaya
 pere
-perek
 peri
 perih
 permisi
@@ -9600,7 +9595,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -9715,7 +9709,6 @@ pitakon
 pitek
 piten
 piter
-pites
 pitik
 piting
 piton
@@ -9771,7 +9764,6 @@ poli
 polisi
 poll
 polo
-poloh
 pom
 poma
 pomi
@@ -10173,7 +10165,6 @@ rebahan
 rebana
 rebo
 rebung
-rebus
 rebut
 rebutan
 receh
@@ -11121,7 +11112,6 @@ siram
 siraman
 sire
 sirem
-siren
 sirep
 siri
 sirih
@@ -11528,7 +11518,6 @@ tanggul
 tanggung
 tangi
 tangina
-tangis
 tangkap
 tanglet
 tani
@@ -12557,7 +12546,6 @@ wadan
 wadara
 wader
 wadha
-wadhul
 wadoh
 wadon
 wadonan
