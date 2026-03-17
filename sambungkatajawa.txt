@@ -1534,6 +1534,7 @@ bes
 besan
 besar
 besek
+besi
 besok
 besuk
 besuki
@@ -2395,7 +2396,6 @@ doso
 dowo
 du
 dubur
-ducok
 duda
 dudi
 dudo
@@ -6105,6 +6105,7 @@ lati
 latih
 latihan
 lato
+latu
 laut
 lautan
 laute
@@ -7570,6 +7571,7 @@ ngambu
 ngambul
 ngambung
 ngamel
+ngami
 ngamil
 ngamis
 ngamo
@@ -7663,6 +7665,7 @@ ngapi
 ngaplo
 ngaplok
 ngapu
+ngapung
 ngapunten
 ngapur
 ngapura
@@ -9470,7 +9473,6 @@ pinggir
 pingsan
 pinja
 pino
-pinom
 pinsil
 pinta
 pinten
@@ -10798,6 +10800,7 @@ siah
 sial
 siala
 sialan
+siana
 siap
 siapa
 siapo
@@ -11729,7 +11732,6 @@ ucak
 ucap
 ucapan
 ucek
-ucel
 uceng
 uciha
 ucu
@@ -11795,6 +11797,7 @@ uhi
 uho
 ui
 uing
+uira
 uj
 uja
 ujak
@@ -11931,7 +11934,6 @@ umaira
 umak
 uman
 umar
-umas
 umat
 umbah
 umbahan
