@@ -4510,6 +4510,7 @@ iber
 iblis
 ibu
 ibuk
+ibune
 ic
 ica
 ical
@@ -6086,6 +6087,7 @@ kirim
 kiriman
 kiris
 kiruk
+kirung
 kis
 kisa
 kisan
