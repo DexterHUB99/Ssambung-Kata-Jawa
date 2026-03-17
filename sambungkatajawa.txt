@@ -1835,6 +1835,7 @@ botol
 bowo
 boyo
 boyok
+boyolali
 bro
 bu
 bua
@@ -3697,6 +3698,7 @@ geblog
 gebok
 gebug
 gebuki
+gebyar
 gedag
 gedang
 gede
