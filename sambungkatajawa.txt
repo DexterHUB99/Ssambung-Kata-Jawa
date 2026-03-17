@@ -521,7 +521,6 @@ amel
 amem
 amen
 ameng
-amep
 amer
 amerga
 ames
@@ -767,7 +766,6 @@ anif
 anig
 anih
 anik
-anim
 anin
 aning
 anis
@@ -901,7 +899,6 @@ apik
 apika
 apikan
 apike
-apil
 apin
 apip
 apit
@@ -1403,7 +1400,6 @@ bapakmu
 bar
 barek
 bareng
-bari
 bariki
 baris
 barito
@@ -1643,7 +1639,6 @@ bodi
 bodo
 bodoh
 bodok
-bohong
 bojo
 bok
 boke
@@ -2030,7 +2025,6 @@ cuka
 cuki
 cukil
 cukin
-cukup
 cukur
 culai
 culik
@@ -2255,7 +2249,6 @@ dijalan
 diji
 dik
 dika
-dikamar
 dikandani
 dikep
 dikes
@@ -2384,7 +2377,6 @@ dolu
 dom
 domba
 domblong
-domi
 dompet
 don
 dong
@@ -2878,7 +2870,6 @@ enki
 enko
 enli
 enlo
-enma
 eno
 enoh
 enok
@@ -3148,6 +3139,7 @@ eyos
 eyu
 eyup
 fafa
+fafi
 faham
 fakir
 fakta
@@ -3706,7 +3698,6 @@ gosoki
 gosong
 got
 gotong
-gotongroyong
 gowang
 gowange
 gowo
@@ -3807,7 +3798,6 @@ guri
 gurih
 gurit
 gurita
-guritan
 guru
 guruh
 gus
@@ -4756,6 +4746,7 @@ janaka
 jancok
 jancuk
 janda
+jane
 jang
 jangan
 jangga
@@ -4883,7 +4874,6 @@ jiret
 jiri
 jirih
 jit
-jita
 jitak
 jiwa
 jo
@@ -5058,6 +5048,7 @@ kalisa
 kaliyan
 kalo
 kalok
+kalom
 kalong
 kalor
 kalung
@@ -5346,7 +5337,6 @@ kelambe
 kelana
 kelangan
 kelaparan
-kelapasawit
 kelar
 kelara
 kelaran
@@ -5782,7 +5772,6 @@ korban
 kore
 korea
 korek
-koren
 koreng
 koret
 kori
@@ -6147,7 +6136,6 @@ lati
 latih
 latihan
 lato
-latu
 laut
 lautan
 laute
@@ -6368,7 +6356,6 @@ liwet
 liwo
 liya
 liyane
-liyep
 liyo
 lo
 loa
@@ -6432,7 +6419,6 @@ longgo
 longgor
 longor
 longsor
-loni
 lonjak
 lonjong
 lontar
@@ -6625,6 +6611,7 @@ males
 malesan
 mali
 malih
+malik
 malin
 maling
 malu
@@ -8107,7 +8094,6 @@ ngilu
 ngima
 ngimam
 ngiman
-ngimbal
 ngimbangi
 ngimbar
 ngimbas
@@ -8375,7 +8361,6 @@ nguncal
 ngunci
 ngundal
 ngundang
-ngundhuh
 ngunduh
 ngundur
 ngunem
@@ -8384,7 +8369,6 @@ ngunggah
 ngungkuli
 nguning
 ngunjuk
-ngunjungi
 nguno
 ngunta
 nguntal
@@ -8397,7 +8381,6 @@ ngupah
 ngupai
 ngupakara
 ngupas
-ngupati
 ngupaya
 ngupel
 ngupi
@@ -9602,7 +9585,6 @@ pitik
 piton
 pitrah
 pitu
-pitulang
 pitulas
 pitulung
 pitung
@@ -9712,7 +9694,6 @@ pro
 pu
 puan
 puasa
-pucat
 pucuk
 pucung
 pue
@@ -9729,7 +9710,6 @@ pukki
 pukul
 pul
 pula
-pulan
 pulau
 pulen
 puli
@@ -9973,7 +9953,6 @@ ras
 rasa
 rasah
 rasahe
-rasai
 rasak
 rasakan
 rasake
@@ -10612,7 +10591,6 @@ sangkuni
 sangon
 sangu
 sani
-sanim
 sanja
 sanjang
 sano
@@ -10652,7 +10630,6 @@ sari
 sarimi
 saringan
 sarip
-saripun
 sarna
 saro
 sarong
@@ -11055,7 +11032,6 @@ solan
 solar
 solat
 sole
-solek
 soli
 solid
 solo
@@ -11486,7 +11462,6 @@ tem
 tema
 teman
 temanggung
-tembaga
 tembak
 tembang
 tembari
@@ -11537,7 +11512,6 @@ tepe
 tepi
 tepung
 ter
-tera
 terak
 terang
 teras
@@ -11619,6 +11593,7 @@ tinju
 tinulis
 tip
 tipa
+tipak
 tipi
 tir
 tira
@@ -11990,7 +11965,6 @@ ulah
 ulahan
 ulahmu
 ulai
-ulak
 ulakan
 ulal
 ulala
@@ -12810,7 +12784,6 @@ yos
 yosa
 yosan
 yosi
-yota
 yotan
 yoto
 yowe
