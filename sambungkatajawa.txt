@@ -8561,6 +8561,7 @@ ngni
 ngobah
 ngobak
 ngobat
+ngober
 ngoblok
 ngobok
 ngobong
