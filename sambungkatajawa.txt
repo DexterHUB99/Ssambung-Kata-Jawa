@@ -5,6 +5,7 @@ aaha
 ab
 aba
 abab
+ababi
 abad
 abadi
 abah
@@ -700,6 +701,7 @@ angap
 angar
 angat
 ange
+angeh
 angel
 angen
 angep
@@ -2751,6 +2753,7 @@ elu
 elud
 eluh
 eluk
+elum
 elungan
 elur
 elus
@@ -3020,6 +3023,7 @@ eram
 eran
 erang
 erao
+erap
 eras
 erat
 ere
@@ -6256,6 +6260,7 @@ lekan
 lekas
 lekat
 lekoh
+lela
 lelabuhan
 lelah
 lele
@@ -7255,6 +7260,7 @@ nai
 naik
 naika
 nail
+naila
 najan
 najeng
 najis
@@ -7369,6 +7375,7 @@ naon
 nap
 napa
 napak
+napan
 napane
 napas
 nape
@@ -9299,6 +9306,7 @@ pakdhe
 pake
 pakir
 pakle
+pakni
 pakon
 pakpuh
 paku
@@ -9948,6 +9956,7 @@ raib
 raie
 raika
 raiki
+raiko
 raiku
 raimu
 raimuasu
@@ -10198,6 +10207,7 @@ reksa
 reku
 rela
 relax
+rele
 reli
 relo
 relu
