@@ -8359,6 +8359,7 @@ ngipas
 ngir
 ngira
 ngiri
+ngirik
 ngirim
 ngirimi
 ngirimna
