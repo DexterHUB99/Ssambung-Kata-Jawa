@@ -2025,6 +2025,7 @@ dadu
 daduk
 dagang
 dagelan
+dagin
 daging
 dagu
 dah
@@ -6576,6 +6577,7 @@ mater
 mati
 matin
 matio
+matne
 matu
 matur
 maturnuwun
