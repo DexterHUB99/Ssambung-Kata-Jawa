@@ -78,7 +78,6 @@ adiguna
 adigung
 adik
 adil
-adimu
 adin
 adipati
 adit
@@ -1041,7 +1040,6 @@ aruh
 aruk
 arul
 arum
-arumi
 arun
 aruna
 arup
@@ -1699,6 +1697,7 @@ bodi
 bodo
 bodoh
 bodok
+bogem
 bohong
 bojo
 bojok
