@@ -5260,6 +5260,7 @@ jet
 jeti
 ji
 jidat
+jig
 jiga
 jigong
 jijih
@@ -10723,6 +10724,7 @@ raiya
 raja
 rajab
 rajah
+rajai
 rajak
 rajang
 rajar
