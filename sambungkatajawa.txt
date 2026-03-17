@@ -4797,6 +4797,7 @@ ipa
 ipak
 ipan
 ipana
+ipano
 ipar
 ipat
 ipe
