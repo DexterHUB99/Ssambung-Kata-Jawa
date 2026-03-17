@@ -6883,6 +6883,7 @@ logi
 logok
 loh
 loha
+lohah
 lohan
 lohe
 loi
@@ -13152,6 +13153,7 @@ untung
 untunge
 untur
 unundang
+unung
 unus
 unya
 unyi
