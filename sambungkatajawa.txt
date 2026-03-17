@@ -1556,7 +1556,6 @@ beling
 belo
 belu
 beluk
-belum
 belut
 bem
 ben
@@ -3037,7 +3036,6 @@ enus
 enya
 enyak
 enyong
-eomah
 eomong
 ep
 epa
