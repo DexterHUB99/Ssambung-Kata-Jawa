@@ -759,6 +759,7 @@ angkutan
 angl
 angler
 angling
+anglung
 angon
 angop
 angos
@@ -6225,7 +6226,6 @@ lantang
 lantas
 lante
 lanti
-lantik
 lanting
 lantip
 lantun
@@ -8127,6 +8127,7 @@ ngentuk
 ngentut
 ngenut
 ngenyek
+ngenyot
 ngeo
 ngep
 ngepang
