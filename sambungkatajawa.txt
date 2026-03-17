@@ -3387,6 +3387,7 @@ fani
 fasih
 fikir
 final
+firasat
 firman
 fix
 flora
@@ -9427,6 +9428,7 @@ od
 odok
 odol
 odolan
+of
 og
 ogah
 ogahe
