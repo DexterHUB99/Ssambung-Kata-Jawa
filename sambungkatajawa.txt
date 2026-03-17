@@ -832,7 +832,6 @@ ansuran
 anta
 antah
 antam
-antangi
 antar
 antara
 antarane
@@ -1624,6 +1623,7 @@ bilara
 bile
 bili
 bilih
+bilo
 bilu
 bima
 bimo
@@ -2362,7 +2362,6 @@ dinten
 diora
 dip
 dipa
-dipah
 dipan
 dipangan
 diparingi
@@ -2432,7 +2431,6 @@ dompet
 don
 dong
 donga
-dongane
 dongeng
 dongi
 dongo
@@ -3705,7 +3703,6 @@ goboh
 gocek
 goceki
 godek
-godhok
 godhong
 godog
 godoh
@@ -4085,7 +4082,6 @@ helikopter
 helo
 hem
 hemat
-hemo
 hemu
 hena
 hene
@@ -5284,6 +5280,7 @@ kasap
 kasar
 kasarasan
 kasat
+kase
 kasem
 kasep
 kaset
@@ -5381,7 +5378,6 @@ kece
 kecek
 kecel
 kecelek
-kecemplung
 kecewa
 kecoa
 kecot
@@ -5395,7 +5391,6 @@ kedondong
 keduhung
 kedul
 kedung
-keendi
 kegowo
 keisi
 kejam
@@ -5772,7 +5767,6 @@ klewer
 klimis
 kliwon
 klo
-klontong
 klu
 klumah
 kntl
@@ -6177,7 +6171,6 @@ lani
 lanjur
 lanjut
 lansia
-lantah
 lantai
 lantak
 lantang
@@ -6412,7 +6405,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintune
 lio
 lip
 lipa
@@ -6443,7 +6435,6 @@ lisan
 lisaning
 lise
 lisi
-lising
 lisung
 lit
 lita
@@ -9583,7 +9574,6 @@ peran
 perang
 percaya
 pere
-perek
 peri
 perih
 permisi
@@ -9624,7 +9614,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -9739,7 +9728,6 @@ pitakon
 pitek
 piten
 piter
-pites
 pitik
 piting
 piton
@@ -9795,7 +9783,6 @@ poli
 polisi
 poll
 polo
-poloh
 pom
 poma
 pomi
@@ -10080,6 +10067,7 @@ rangi
 rangka
 rangkat
 rangkul
+rangkum
 rangu
 rani
 ranjang
@@ -10198,7 +10186,6 @@ rebahan
 rebana
 rebo
 rebung
-rebus
 rebut
 rebutan
 receh
@@ -11149,7 +11136,6 @@ siram
 siraman
 sire
 sirem
-siren
 sirep
 siri
 sirih
@@ -11556,7 +11542,6 @@ tanggul
 tanggung
 tangi
 tangina
-tangis
 tangkap
 tanglet
 tani
@@ -11960,7 +11945,6 @@ tunggale
 tunggu
 tungguen
 tungkak
-tupa
 tupe
 tupi
 tur
@@ -12588,7 +12572,6 @@ wadan
 wadara
 wader
 wadha
-wadhul
 wadoh
 wadon
 wadonan
@@ -12623,7 +12606,6 @@ walah
 walang
 wale
 wali
-walih
 walik
 walisongo
 walit
@@ -12930,7 +12912,6 @@ yasa
 yasi
 yasin
 yat
-yate
 yati
 yatna
 yaudah
