@@ -1074,7 +1074,6 @@ arya
 as
 asa
 asah
-asahan
 asai
 asak
 asal
@@ -2764,7 +2763,6 @@ ejah
 ejar
 eje
 ejek
-ejel
 eji
 ejih
 ejo
@@ -4649,7 +4647,6 @@ imas
 imba
 imbaan
 imbah
-imbahan
 imbai
 imbal
 imbala
@@ -8098,7 +8095,6 @@ ngampar
 ngampas
 ngampel
 ngampet
-ngampih
 ngampil
 ngampir
 ngampleng
@@ -8299,7 +8295,6 @@ ngawini
 ngawir
 ngawis
 ngawit
-ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8416,7 +8411,6 @@ ngenalin
 ngencang
 ngencuk
 ngendah
-ngendak
 ngendang
 ngendeng
 ngendep
@@ -8615,7 +8609,6 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
-ngimpen
 ngimpi
 ngin
 ngina
@@ -10768,7 +10761,6 @@ remok
 rempah
 rempal
 rempeyek
-rempol
 rempon
 remu
 remuk
