@@ -861,6 +861,7 @@ antemi
 anteng
 antep
 anter
+anterre
 antes
 anti
 antik
@@ -1926,6 +1927,7 @@ cari
 carik
 carine
 carita
+carok
 caruk
 cas
 casa
@@ -3352,7 +3354,6 @@ gak
 gaka
 gaki
 gakiso
-gako
 gaktau
 gal
 gala
@@ -4004,6 +4005,7 @@ haho
 hai
 haie
 haii
+haing
 hajar
 hajat
 haji
@@ -4531,7 +4533,6 @@ im
 ima
 imaan
 imai
-imaji
 imam
 imame
 iman
@@ -5874,6 +5875,7 @@ kis
 kisa
 kisan
 kisanak
+kise
 kisi
 kit
 kita
@@ -6285,7 +6287,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanangan
 lanange
@@ -7784,7 +7785,6 @@ ngabab
 ngabang
 ngabar
 ngabari
-ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -8825,6 +8825,7 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
@@ -9049,7 +9050,6 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
-nwa
 ny
 nya
 nyai
@@ -9883,6 +9883,7 @@ pile
 pileh
 pilek
 pilem
+piler
 pilet
 pili
 pilih
@@ -12156,7 +12157,6 @@ tota
 totak
 totelu
 toto
-towe
 towo
 toxic
 toya
@@ -12360,6 +12360,7 @@ uji
 ujia
 ujian
 ujub
+ujug
 ujuk
 ujul
 ujun
@@ -13114,7 +13115,6 @@ wita
 witan
 witir
 wito
-wiwa
 wiwi
 wiwit
 wiwitan
@@ -13232,7 +13232,6 @@ yaudah
 yawes
 yawis
 yaya
-yayi
 ye
 yek
 yekan
