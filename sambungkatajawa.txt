@@ -6718,6 +6718,7 @@ manungso
 manus
 manut
 maos
+map
 mapak
 mapan
 mapi
@@ -7980,6 +7981,7 @@ ngepel
 ngepet
 ngepit
 ngepot
+ngepruk
 ngepus
 nger
 ngerak
