@@ -7524,6 +7524,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulang
 nduwe
 nduwur
 ne
