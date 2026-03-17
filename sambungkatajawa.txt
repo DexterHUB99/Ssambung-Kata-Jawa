@@ -2587,6 +2587,7 @@ ekad
 ekae
 ekag
 ekah
+ekak
 ekal
 ekali
 ekam
@@ -10256,6 +10257,7 @@ ruh
 rui
 rujak
 rujuk
+rujukan
 ruk
 ruka
 ruki
