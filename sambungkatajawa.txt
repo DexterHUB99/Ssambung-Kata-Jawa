@@ -125,6 +125,7 @@ ager
 agi
 agih
 agin
+agit
 agor
 agu
 aguh
@@ -4946,7 +4947,6 @@ jail
 jait
 jaja
 jajah
-jajak
 jajal
 jajan
 jak
@@ -10289,6 +10289,7 @@ ragam
 ragangan
 ragat
 ragelem
+ragen
 ragi
 ragil
 ragisa
@@ -12552,6 +12553,7 @@ ulam
 ulama
 ulan
 ulang
+ulanga
 ulangan
 ulangi
 ulangtahun
@@ -12674,6 +12676,7 @@ unen
 unes
 unesa
 ung
+unga
 ungaran
 unggah
 unggal
