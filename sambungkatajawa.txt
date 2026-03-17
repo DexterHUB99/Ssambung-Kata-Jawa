@@ -1974,6 +1974,7 @@ cal
 cala
 calak
 calo
+calon
 calung
 cama
 camat
@@ -13874,6 +13875,7 @@ yuhan
 yui
 yuk
 yuka
+yukan
 yuki
 yuko
 yula
