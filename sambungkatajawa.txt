@@ -1968,6 +1968,7 @@ coplok
 copot
 cor
 corak
+core
 coret
 coro
 corone
