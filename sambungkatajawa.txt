@@ -1627,6 +1627,7 @@ bes
 besan
 besar
 besek
+beskap
 besok
 besuk
 besuki
@@ -8567,6 +8568,7 @@ ngih
 ngijab
 ngijek
 ngijing
+ngijir
 ngijol
 ngijoli
 ngik
