@@ -2955,6 +2955,7 @@ emur
 emut
 en
 ena
+enag
 enah
 enaj
 enak
@@ -3428,7 +3429,6 @@ galungan
 gam
 gama
 gaman
-gamane
 gambang
 gambar
 gambaran
@@ -6699,7 +6699,6 @@ loan
 lob
 loba
 lobang
-lobange
 lober
 lobi
 lobok
@@ -9663,6 +9662,7 @@ pahing
 pahit
 paido
 paijo
+pain
 painem
 paing
 pait
