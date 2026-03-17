@@ -4891,7 +4891,6 @@ jeding
 jeglong
 jeh
 jejel
-jejer
 jek
 jeke
 jelang
@@ -9003,7 +9002,6 @@ okak
 okal
 okam
 okan
-okana
 okar
 okari
 okaro
@@ -9203,7 +9201,6 @@ opowae
 opowi
 opoya
 opoyo
-oprak
 or
 ora
 oraa
@@ -11866,7 +11863,6 @@ toa
 tobat
 toe
 toga
-togel
 togog
 toh
 toha
