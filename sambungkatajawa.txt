@@ -38,6 +38,7 @@ ace
 aceh
 acem
 aci
+acok
 acor
 acu
 acuh
@@ -130,7 +131,6 @@ aha
 ahab
 ahad
 ahada
-ahade
 ahadi
 ahag
 ahah
@@ -2176,7 +2176,6 @@ deka
 dekar
 dekat
 deke
-deker
 dekil
 dekor
 del
@@ -2247,6 +2246,7 @@ didin
 didol
 didu
 didum
+diemut
 diewe
 difa
 digawa
@@ -4920,7 +4920,6 @@ jomo
 jon
 jona
 jonan
-jones
 jong
 jongkok
 joni
@@ -7903,7 +7902,6 @@ ngeler
 ngeles
 ngeli
 ngelih
-ngelindur
 ngeling
 ngelingi
 ngelirik
@@ -8103,7 +8101,6 @@ ngika
 ngikat
 ngiki
 ngiku
-ngikut
 ngila
 ngilag
 ngilang
@@ -8700,7 +8697,6 @@ nunggal
 nunggang
 nunggoni
 nunggu
-nungkak
 nuni
 nuning
 nunjuk
@@ -8996,7 +8992,6 @@ ongkang
 ongkek
 ongkel
 ongko
-ongkone
 ongkos
 ongkose
 ongol
@@ -9301,6 +9296,7 @@ pantun
 panuh
 panun
 panuntun
+panus
 panut
 panutan
 panuwun
@@ -10939,7 +10935,6 @@ sikat
 sikep
 siki
 sikil
-sikile
 siko
 siku
 sikut
@@ -11433,6 +11428,7 @@ tarik
 taro
 taru
 taruh
+taruhan
 tarung
 tas
 tasa
@@ -12163,7 +12159,6 @@ unjal
 unjang
 unjar
 unjuk
-unjuke
 unjul
 unjung
 unjut
@@ -12586,7 +12581,6 @@ werna
 werno
 wero
 weruh
-weruhe
 wes
 wesa
 wese
