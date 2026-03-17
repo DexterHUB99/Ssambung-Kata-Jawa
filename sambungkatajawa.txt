@@ -3180,6 +3180,7 @@ esab
 esah
 esai
 esak
+esal
 esan
 esar
 esay
@@ -5378,6 +5379,7 @@ kanyatane
 kanyuwun
 kaos
 kap
+kapa
 kapak
 kapal
 kapan
