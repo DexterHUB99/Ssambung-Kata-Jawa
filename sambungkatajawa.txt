@@ -1560,6 +1560,7 @@ bidik
 bidun
 bidur
 bien
+biga
 bigan
 bigu
 bijak
@@ -1887,6 +1888,7 @@ cerit
 cerita
 ces
 ceta
+cetho
 ceto
 cewe
 cewek
@@ -1935,7 +1937,6 @@ cis
 ciu
 ciut
 ciwa
-ciya
 ciyo
 ciyut
 clurut
@@ -3516,7 +3517,6 @@ geser
 gesi
 gesit
 get
-gete
 gething
 gethok
 gethuk
@@ -4468,7 +4468,6 @@ ipuk
 ipun
 ir
 ira
-iraa
 irab
 irah
 iraha
@@ -4753,7 +4752,6 @@ jelang
 jelas
 jelek
 jem
-jembar
 jembatan
 jember
 jembut
@@ -5110,7 +5108,6 @@ kare
 karek
 karem
 karen
-karena
 karep
 karepe
 karepem
@@ -5119,7 +5116,6 @@ karepo
 kares
 karet
 kari
-karim
 karimun
 karipa
 karipan
@@ -5623,7 +5619,6 @@ kliwon
 klo
 klu
 klumah
-kluyuran
 kntl
 ko
 kobel
@@ -6335,7 +6330,6 @@ lomi
 lomo
 lomot
 lompat
-lomu
 lon
 lona
 loncat
@@ -6819,7 +6813,6 @@ minal
 minangka
 minat
 minate
-mingat
 minggat
 minggir
 minggu
@@ -6851,7 +6844,6 @@ misu
 misuh
 mita
 mitoni
-miya
 mlaku
 mlarat
 mlebet
@@ -6998,7 +6990,6 @@ mung
 mungah
 munggah
 mungkin
-mungkur
 mungsuh
 muni
 munjul
@@ -7308,7 +7299,6 @@ negi
 negor
 negori
 neh
-nehi
 nek
 neka
 nekad
@@ -7410,7 +7400,6 @@ netep
 neter
 netes
 netra
-netrak
 newa
 ngaba
 ngabab
@@ -7571,7 +7560,6 @@ ngangkat
 ngangluh
 ngangon
 ngangsal
-ngangso
 ngangsu
 ngangsur
 ngangu
@@ -7676,7 +7664,6 @@ ngasin
 ngaso
 ngasoh
 ngasor
-ngasore
 ngasta
 ngasu
 ngasuh
@@ -7817,7 +7804,6 @@ ngen
 ngena
 ngenah
 ngenak
-ngenani
 ngencang
 ngencuk
 ngendah
@@ -8497,7 +8483,6 @@ nosa
 nosi
 not
 nota
-note
 noti
 noya
 nresna
@@ -8554,7 +8539,6 @@ numplak
 numplek
 numpuk
 numpul
-numrap
 nun
 nuna
 nung
@@ -9742,7 +9726,6 @@ rambu
 rambut
 rambutan
 rambute
-rambutmu
 rame
 ramen
 ramene
@@ -11890,7 +11873,6 @@ unam
 unan
 unang
 unap
-uncak
 uncal
 undagi
 undak
