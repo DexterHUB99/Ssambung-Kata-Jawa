@@ -4569,6 +4569,7 @@ ijek
 ijem
 ijen
 iji
+ijig
 ijik
 ijin
 ijo
@@ -10362,6 +10363,7 @@ ponakan
 pondok
 pondoke
 poni
+ponja
 ponjen
 pono
 ponorogo
