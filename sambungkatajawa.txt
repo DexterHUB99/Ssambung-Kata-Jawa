@@ -8311,6 +8311,7 @@ ngantemi
 nganteng
 nganteni
 nganter
+nganteri
 nganterke
 nganthi
 nganti
@@ -10602,6 +10603,7 @@ purek
 puri
 purna
 purnama
+purno
 puro
 purta
 purun
