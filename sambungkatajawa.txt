@@ -1617,6 +1617,7 @@ bole
 boleh
 bolo
 boloe
+bolog
 bolong
 bolos
 bolot
@@ -4864,6 +4865,7 @@ kahanan
 kail
 kaila
 kain
+kaine
 kaisa
 kaisar
 kajaba
