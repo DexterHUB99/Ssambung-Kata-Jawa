@@ -108,6 +108,7 @@ afa
 afan
 afe
 afi
+afif
 ag
 aga
 agah
@@ -11387,6 +11388,7 @@ sahabat
 saham
 sahur
 sai
+said
 saiki
 saiku
 saing
@@ -13831,6 +13833,7 @@ yat
 yate
 yati
 yatna
+yato
 yaudah
 yawes
 yawi
@@ -13947,6 +13950,7 @@ yuro
 yus
 yusa
 yusi
+yuso
 yuswa
 yut
 yuta
