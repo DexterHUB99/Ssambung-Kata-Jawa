@@ -2516,7 +2516,6 @@ donga
 dongane
 dongeng
 dongi
-dongkrak
 dongo
 dongok
 dongol
@@ -4951,7 +4950,6 @@ jail
 jait
 jaja
 jajah
-jajak
 jajal
 jajan
 jak
@@ -8329,7 +8327,6 @@ ngentong
 ngentu
 ngentuk
 ngentut
-ngenuk
 ngenut
 ngenyek
 ngeo
@@ -8664,7 +8661,6 @@ ngoplo
 ngopo
 ngopoe
 ngopoi
-ngopok
 ngopol
 ngopor
 ngopose
@@ -11693,6 +11689,7 @@ suko
 suku
 sukun
 sukur
+sukuran
 sul
 sula
 sulah
@@ -12736,6 +12733,7 @@ unter
 untik
 untir
 untiren
+untoh
 untu
 untuk
 untul
@@ -13083,6 +13081,7 @@ wasno
 wasuh
 wata
 watak
+wates
 wati
 watir
 waton
@@ -13091,6 +13090,7 @@ watu
 watuk
 wawa
 wawang
+wawas
 wawasan
 wawe
 wawi
