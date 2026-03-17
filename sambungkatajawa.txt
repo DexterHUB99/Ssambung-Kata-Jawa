@@ -1510,6 +1510,7 @@ bendo
 bendung
 bene
 bener
+bengek
 bengi
 bengkok
 beni
@@ -1572,7 +1573,6 @@ bien
 biga
 bigan
 bigu
-bihun
 bijak
 biji
 bijor
@@ -2618,6 +2618,7 @@ ekib
 ekik
 ekil
 ekin
+ekir
 ekis
 ekit
 eklas
@@ -2775,6 +2776,7 @@ emu
 emuh
 emuk
 emul
+emun
 emur
 emut
 en
@@ -4989,6 +4991,7 @@ kaka
 kakaa
 kakak
 kakaka
+kakanda
 kakang
 kakap
 kake
@@ -5285,6 +5288,7 @@ kedanan
 kedaton
 keder
 kediri
+kedondong
 keduhung
 kedul
 kedung
@@ -6213,7 +6217,6 @@ lesus
 let
 leto
 letong
-lewak
 lewat
 leyeh
 lha
@@ -7187,6 +7190,7 @@ nambai
 nambal
 nambang
 nambani
+nambel
 name
 nami
 namine
@@ -7368,6 +7372,7 @@ nekani
 nekat
 neken
 neker
+neki
 neko
 nel
 nela
@@ -7604,6 +7609,7 @@ ngandai
 ngandang
 ngandani
 ngandap
+ngandhap
 ngandi
 ngandok
 ngandong
@@ -7737,7 +7743,6 @@ ngasu
 ngasuh
 ngasuk
 ngasul
-ngasur
 ngata
 ngatasi
 ngatau
@@ -7927,6 +7932,7 @@ ngerem
 ngerenek
 ngeres
 ngeresi
+ngeresiki
 ngeret
 ngeri
 ngerit
@@ -8766,6 +8772,7 @@ oj
 ojak
 ojam
 ojar
+ojeg
 ojek
 ojekan
 ojen
@@ -9382,6 +9389,7 @@ perang
 percaya
 peri
 perih
+permisi
 pero
 pes
 pesan
@@ -9509,6 +9517,7 @@ piranga
 pireng
 piring
 piro
+pirsa
 piruk
 pis
 pisa
@@ -10081,6 +10090,7 @@ rere
 rerek
 rerema
 reresik
+reri
 res
 resa
 resah
@@ -10671,6 +10681,7 @@ seke
 sekek
 sekel
 seket
+sekewan
 seko
 sekolah
 sekti
@@ -10809,7 +10820,6 @@ sewu
 sholat
 si
 sia
-siaa
 siah
 sial
 siala
@@ -11804,6 +11814,7 @@ uget
 ugi
 ugo
 ugu
+ugul
 ugung
 uh
 uha
