@@ -1074,7 +1074,6 @@ arya
 as
 asa
 asah
-asahan
 asai
 asak
 asal
@@ -1678,6 +1677,7 @@ bikak
 bikin
 biko
 biku
+bikun
 bil
 bila
 bilah
@@ -2649,6 +2649,7 @@ eb
 eba
 ebab
 ebak
+ebat
 ebe
 ebeg
 eben
@@ -6926,6 +6927,7 @@ lusi
 lusuh
 lut
 luthung
+luti
 luwe
 luweh
 luwes
@@ -10751,7 +10753,6 @@ remok
 rempah
 rempal
 rempeyek
-rempol
 rempon
 remu
 remuk
@@ -12267,6 +12268,7 @@ terne
 terong
 terus
 tes
+tese
 tesi
 tet
 tetangga
