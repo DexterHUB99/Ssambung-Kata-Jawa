@@ -8336,6 +8336,7 @@ ngelon
 ngeloni
 ngelor
 ngelu
+ngelucu
 ngeluh
 ngelus
 ngeman
@@ -11397,6 +11398,7 @@ selet
 seli
 selimut
 seling
+selingkuh
 selir
 selo
 selon
