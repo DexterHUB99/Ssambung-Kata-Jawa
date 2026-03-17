@@ -8327,6 +8327,7 @@ ngelingi
 ngelirik
 ngelitik
 ngelmu
+ngelo
 ngelok
 ngelon
 ngeloni
@@ -9007,6 +9008,7 @@ nipu
 nipun
 nir
 nira
+nirek
 niri
 niro
 nirwana
@@ -11843,6 +11845,7 @@ sungguh
 sungi
 sungkan
 sungkem
+sungkeman
 sungkemi
 sungu
 suni
