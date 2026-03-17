@@ -8659,6 +8659,7 @@ nyanyi
 nyapa
 nyaponi
 nyapu
+nyaru
 nyasar
 nyatu
 nyawa
@@ -10140,6 +10141,7 @@ ris
 risa
 risak
 risang
+rise
 risi
 risih
 riska
