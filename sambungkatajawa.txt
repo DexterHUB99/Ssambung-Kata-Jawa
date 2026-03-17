@@ -628,6 +628,7 @@ anakku
 anakmu
 anal
 anam
+anaman
 anan
 anana
 anandong
@@ -1556,7 +1557,6 @@ beling
 belo
 belu
 beluk
-belum
 belut
 bem
 ben
@@ -2000,6 +2000,7 @@ cicir
 cicit
 cidek
 ciduk
+ciji
 cik
 cikal
 ciken
@@ -3037,7 +3038,6 @@ enus
 enya
 enyak
 enyong
-eomah
 eomong
 ep
 epa
@@ -8059,7 +8059,6 @@ ngasih
 ngasihi
 ngasil
 ngasin
-ngasing
 ngasir
 ngaso
 ngasoh
