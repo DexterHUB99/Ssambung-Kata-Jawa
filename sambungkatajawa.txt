@@ -125,7 +125,6 @@ ager
 agi
 agih
 agin
-agit
 agor
 agu
 aguh
@@ -10289,7 +10288,6 @@ ragam
 ragangan
 ragat
 ragelem
-ragen
 ragi
 ragil
 ragisa
@@ -12553,7 +12551,6 @@ ulam
 ulama
 ulan
 ulang
-ulanga
 ulangan
 ulangi
 ulangtahun
