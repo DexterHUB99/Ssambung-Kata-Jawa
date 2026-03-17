@@ -6413,6 +6413,7 @@ makane
 make
 maki
 makna
+makol
 makruh
 maksud
 maku
