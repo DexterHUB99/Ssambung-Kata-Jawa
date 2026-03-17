@@ -9240,6 +9240,7 @@ pareng
 pari
 paring
 paringi
+parip
 paris
 parit
 parkir
@@ -12618,6 +12619,7 @@ yamna
 yan
 yana
 yang
+yangko
 yani
 yano
 yanyo
