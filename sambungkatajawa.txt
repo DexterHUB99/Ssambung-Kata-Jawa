@@ -1926,6 +1926,7 @@ busik
 busu
 busuk
 busung
+but
 buta
 butek
 buti
@@ -4685,6 +4686,7 @@ ilas
 ilat
 ilate
 ilatmu
+ilatne
 iler
 ileran
 ilermu
