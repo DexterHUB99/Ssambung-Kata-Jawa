@@ -4955,6 +4955,7 @@ isa
 isaa
 isab
 isaha
+isahe
 isai
 isak
 isaku
@@ -9961,6 +9962,7 @@ pala
 palah
 palak
 palamu
+palane
 palang
 pale
 palem
