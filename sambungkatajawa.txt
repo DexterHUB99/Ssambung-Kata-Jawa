@@ -10414,6 +10414,7 @@ pole
 polek
 poles
 poli
+poling
 polisi
 poll
 polo
