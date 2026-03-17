@@ -4875,6 +4875,7 @@ kacu
 kacuk
 kacung
 kadal
+kadan
 kadang
 kademan
 kadewa
