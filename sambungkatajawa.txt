@@ -2855,6 +2855,7 @@ entutmu
 enu
 enul
 enum
+enun
 enus
 enya
 enyak
