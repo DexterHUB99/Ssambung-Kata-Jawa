@@ -459,6 +459,7 @@ alunan
 alur
 alus
 aluse
+aluwe
 alwan
 am
 ama
@@ -557,7 +558,6 @@ amp
 ampa
 ampah
 ampal
-ampan
 ampang
 ampar
 amparan
@@ -910,7 +910,6 @@ apike
 apil
 apin
 apip
-apir
 apit
 apo
 apok
@@ -1018,7 +1017,6 @@ aruk
 arul
 arum
 arun
-aruna
 arup
 arupa
 arus
@@ -1436,6 +1434,7 @@ batal
 bathuk
 bati
 batik
+batin
 bato
 batok
 batu
@@ -2090,7 +2089,6 @@ dagin
 daging
 dagu
 dah
-dahak
 dahan
 dahar
 dahi
@@ -2230,7 +2228,6 @@ dera
 derek
 dereng
 deres
-dermawan
 deru
 des
 desa
@@ -2238,7 +2235,6 @@ deso
 det
 dewa
 dewe
-dewean
 dewek
 dewi
 dhadha
@@ -2267,6 +2263,7 @@ diewe
 difa
 digawa
 digo
+digu
 dihan
 diimboh
 dija
@@ -2654,7 +2651,6 @@ ekes
 eket
 eki
 ekib
-ekih
 ekik
 ekil
 ekin
@@ -2730,7 +2726,6 @@ eloi
 elok
 elom
 elon
-elong
 elor
 elos
 elu
@@ -3300,7 +3295,6 @@ gamen
 gamer
 gami
 gamis
-gamma
 gamo
 gamoh
 gampang
@@ -4026,7 +4020,6 @@ hawo
 haya
 hayang
 hayat
-hayati
 hayo
 hayolo
 hayoo
@@ -4088,6 +4081,7 @@ hewe
 heya
 hi
 hias
+hiasan
 hidayah
 hidhup
 hidup
@@ -4599,7 +4593,6 @@ iring
 iringan
 iringane
 iringi
-irip
 irirah
 iris
 irisan
@@ -5115,7 +5108,6 @@ kaman
 kamana
 kamar
 kamari
-kamben
 kambi
 kambil
 kambing
@@ -6675,7 +6667,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -6861,7 +6852,6 @@ mel
 mela
 melan
 melas
-melasi
 melati
 melek
 meler
@@ -7045,10 +7035,8 @@ mondar
 mondok
 mone
 mong
-monga
 monggo
 mongo
-mongso
 moni
 montor
 monyet
@@ -7173,6 +7161,7 @@ mus
 musa
 musan
 muser
+mushola
 musi
 musibah
 musim
@@ -7360,6 +7349,7 @@ nar
 nara
 narah
 narai
+narak
 naran
 narasi
 narek
@@ -7555,7 +7545,6 @@ nes
 nesa
 nesan
 nesi
-nesok
 nesoni
 nesu
 nesuan
@@ -7641,6 +7630,7 @@ ngaka
 ngakak
 ngakal
 ngakali
+ngakar
 ngakeh
 ngakir
 ngakon
@@ -7697,7 +7687,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -7936,6 +7925,7 @@ ngejak
 ngejar
 ngejek
 ngek
+ngekek
 ngeko
 ngekok
 ngekos
@@ -8294,7 +8284,6 @@ ngolak
 ngole
 ngoleh
 ngolek
-ngoleki
 ngoles
 ngolet
 ngoli
@@ -8512,6 +8501,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngusur
 ngut
 nguta
 ngutang
@@ -8676,6 +8666,7 @@ nomere
 nomi
 non
 nona
+none
 nong
 nongeng
 nongki
@@ -10129,6 +10120,7 @@ rayon
 rayu
 re
 rea
+rean
 reang
 reba
 rebab
@@ -10481,7 +10473,6 @@ rumbah
 rumbai
 rumbak
 rumbi
-rume
 rumi
 rumien
 rumit
@@ -10966,7 +10957,6 @@ sero
 serok
 serong
 seru
-seruk
 serut
 ses
 sesak
@@ -11456,7 +11446,6 @@ tamba
 tambah
 tambak
 tambal
-tamban
 tambang
 tambi
 tameng
@@ -12151,7 +12140,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
@@ -12263,7 +12251,6 @@ untal
 untalen
 untar
 untara
-untaran
 untas
 untel
 unter
@@ -12391,7 +12378,6 @@ usar
 use
 usek
 usem
-usen
 user
 usha
 usi
