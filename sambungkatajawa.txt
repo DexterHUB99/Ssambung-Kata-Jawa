@@ -607,6 +607,7 @@ anai
 anak
 anakan
 anake
+anakku
 anakmu
 anal
 anam
@@ -847,6 +848,7 @@ antri
 antrian
 antuk
 antun
+antup
 antur
 anu
 anua
@@ -1783,6 +1785,7 @@ busuk
 busung
 buta
 butek
+buten
 buto
 butoh
 butuh
@@ -2352,6 +2355,7 @@ disisi
 disit
 disogok
 disu
+disuk
 dit
 dita
 ditampol
@@ -2518,6 +2522,7 @@ edanan
 edar
 edaran
 ede
+edek
 edi
 edit
 edo
@@ -2602,6 +2607,7 @@ ejar
 eje
 ejek
 eji
+ejik
 ejo
 eju
 ejuh
@@ -3044,6 +3050,7 @@ esem
 eseme
 esemka
 esen
+esep
 eser
 eses
 eset
@@ -3093,6 +3100,7 @@ etig
 etik
 etika
 etil
+etin
 eting
 etis
 eto
@@ -3660,6 +3668,7 @@ gojek
 gojlok
 gok
 goke
+goki
 gokil
 goks
 gol
@@ -4678,6 +4687,7 @@ itilan
 ito
 itoe
 itoi
+itoma
 itu
 ituli
 itung
@@ -5018,6 +5028,7 @@ kajeng
 kaji
 kajian
 kajine
+kajun
 kak
 kaka
 kakaa
@@ -5758,6 +5769,7 @@ kondhang
 kondi
 kondisi
 kondur
+kone
 koneng
 kongkon
 koni
@@ -6636,6 +6648,7 @@ males
 malesan
 mali
 malih
+malik
 malin
 maling
 malu
@@ -6708,6 +6721,7 @@ mantep
 manthuk
 mantu
 mantuk
+mantul
 mantune
 manuk
 manuke
@@ -6718,6 +6732,7 @@ manungso
 manus
 manut
 maos
+map
 mapak
 mapan
 mapi
@@ -7980,6 +7995,7 @@ ngepel
 ngepet
 ngepit
 ngepot
+ngepruk
 ngepus
 nger
 ngerak
@@ -8022,7 +8038,6 @@ ngesu
 ngesuk
 nget
 ngetan
-ngetane
 ngetem
 ngeten
 ngeti
@@ -8560,7 +8575,6 @@ niscaya
 nisi
 nising
 nista
-nisun
 nit
 nita
 niten
@@ -8995,6 +9009,7 @@ oneng
 onet
 onggok
 ongkang
+ongke
 ongkek
 ongkel
 ongko
@@ -9096,7 +9111,6 @@ orok
 orong
 oros
 orosi
-orot
 orotan
 oruk
 os
@@ -9371,6 +9385,7 @@ patin
 patis
 pato
 patok
+patot
 patub
 patuh
 patung
@@ -10360,6 +10375,7 @@ ros
 rosa
 rose
 rosi
+rosma
 roso
 rotan
 roti
@@ -11498,6 +11514,7 @@ telen
 telenan
 telepon
 teles
+televisi
 teli
 telinga
 teliti
@@ -12160,6 +12177,7 @@ ungkul
 ungkur
 ungu
 uni
+unia
 unine
 uning
 unja
