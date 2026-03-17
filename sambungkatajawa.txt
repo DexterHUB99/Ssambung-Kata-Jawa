@@ -322,7 +322,6 @@ akem
 aken
 akeng
 akeo
-akep
 aker
 akes
 aket
@@ -642,7 +641,6 @@ ancar
 ancas
 ancase
 ancen
-ancene
 ancer
 anci
 ancik
@@ -2363,6 +2361,7 @@ dinten
 diora
 dip
 dipa
+dipah
 dipan
 dipangan
 diparingi
@@ -2432,6 +2431,7 @@ dompet
 don
 dong
 donga
+dongane
 dongeng
 dongi
 dongo
@@ -3324,7 +3324,6 @@ gamelan
 gamen
 gamer
 gami
-gaming
 gamis
 gamma
 gamo
@@ -3705,6 +3704,7 @@ goboh
 gocek
 goceki
 godek
+godhok
 godhong
 godog
 godoh
@@ -4084,6 +4084,7 @@ helikopter
 helo
 hem
 hemat
+hemo
 hemu
 hena
 hene
@@ -5379,6 +5380,7 @@ kece
 kecek
 kecel
 kecelek
+kecemplung
 kecewa
 kecoa
 kecot
@@ -5392,6 +5394,7 @@ kedondong
 keduhung
 kedul
 kedung
+keendi
 kegowo
 keisi
 kejam
@@ -5826,7 +5829,6 @@ kondhang
 kondi
 kondisi
 kondur
-konek
 koneng
 kongkon
 koni
@@ -6173,6 +6175,7 @@ lani
 lanjur
 lanjut
 lansia
+lantah
 lantai
 lantak
 lantang
@@ -6394,7 +6397,6 @@ lindur
 linggih
 linggis
 lingkar
-lingkaran
 lingkung
 lingkungan
 linglung
@@ -6408,6 +6410,7 @@ lintangen
 lintas
 lintasan
 lintu
+lintune
 lio
 lip
 lipa
@@ -6438,6 +6441,7 @@ lisan
 lisaning
 lise
 lisi
+lising
 lisung
 lit
 lita
@@ -6884,7 +6888,6 @@ mburi
 me
 medal
 medeni
-medhal
 medhok
 meditasi
 mega
@@ -9578,6 +9581,7 @@ peran
 perang
 percaya
 pere
+perek
 peri
 perih
 permisi
@@ -9590,7 +9594,6 @@ pesing
 peso
 peta
 petak
-petan
 pete
 peteng
 pethuk
@@ -9619,6 +9622,7 @@ pie
 pih
 pijak
 pijang
+pijar
 pijat
 pijer
 pijet
@@ -9733,6 +9737,7 @@ pitakon
 pitek
 piten
 piter
+pites
 pitik
 piting
 piton
@@ -9743,7 +9748,6 @@ pitulas
 pitulung
 pitung
 pitutur
-piutang
 piwul
 piwulang
 piya
@@ -9789,6 +9793,7 @@ poli
 polisi
 poll
 polo
+poloh
 pom
 poma
 pomi
@@ -10191,6 +10196,7 @@ rebahan
 rebana
 rebo
 rebung
+rebus
 rebut
 rebutan
 receh
@@ -11141,6 +11147,7 @@ siram
 siraman
 sire
 sirem
+siren
 sirep
 siri
 sirih
@@ -11547,6 +11554,7 @@ tanggul
 tanggung
 tangi
 tangina
+tangis
 tangkap
 tanglet
 tani
@@ -11950,6 +11958,7 @@ tunggale
 tunggu
 tungguen
 tungkak
+tupa
 tupe
 tupi
 tur
@@ -12577,6 +12586,7 @@ wadan
 wadara
 wader
 wadha
+wadhul
 wadoh
 wadon
 wadonan
@@ -12611,6 +12621,7 @@ walah
 walang
 wale
 wali
+walih
 walik
 walisongo
 walit
@@ -12917,6 +12928,7 @@ yasa
 yasi
 yasin
 yat
+yate
 yati
 yatna
 yaudah
