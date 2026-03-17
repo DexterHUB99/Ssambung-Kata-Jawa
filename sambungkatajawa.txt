@@ -790,6 +790,7 @@ anjog
 anjok
 anjrit
 anjuk
+anjun
 anjung
 anjungan
 anjur
@@ -3221,6 +3222,7 @@ gama
 gaman
 gambang
 gambar
+gambara
 gambaran
 gambas
 gamber
@@ -10419,6 +10421,7 @@ salahe
 salahku
 salak
 salam
+salaman
 sale
 saleh
 saleng
@@ -10850,6 +10853,7 @@ sinte
 sinten
 sinyal
 sio
+siomay
 sip
 sipa
 sipi
