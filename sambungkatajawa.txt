@@ -2361,6 +2361,7 @@ dinten
 diora
 dip
 dipa
+dipah
 dipan
 dipangan
 diparingi
@@ -2430,6 +2431,7 @@ dompet
 don
 dong
 donga
+dongane
 dongeng
 dongi
 dongo
@@ -4081,6 +4083,7 @@ helikopter
 helo
 hem
 hemat
+hemo
 hemu
 hena
 hene
@@ -5376,6 +5379,7 @@ kece
 kecek
 kecel
 kecelek
+kecemplung
 kecewa
 kecoa
 kecot
@@ -5389,6 +5393,7 @@ kedondong
 keduhung
 kedul
 kedung
+keendi
 kegowo
 keisi
 kejam
@@ -6403,6 +6408,7 @@ lintangen
 lintas
 lintasan
 lintu
+lintune
 lio
 lip
 lipa
@@ -6433,6 +6439,7 @@ lisan
 lisaning
 lise
 lisi
+lising
 lisung
 lit
 lita
@@ -6879,7 +6886,6 @@ mburi
 me
 medal
 medeni
-medhal
 medhok
 meditasi
 mega
@@ -9573,6 +9579,7 @@ peran
 perang
 percaya
 pere
+perek
 peri
 perih
 permisi
@@ -9613,6 +9620,7 @@ pie
 pih
 pijak
 pijang
+pijar
 pijat
 pijer
 pijet
@@ -9727,6 +9735,7 @@ pitakon
 pitek
 piten
 piter
+pites
 pitik
 piting
 piton
@@ -9782,6 +9791,7 @@ poli
 polisi
 poll
 polo
+poloh
 pom
 poma
 pomi
@@ -10184,6 +10194,7 @@ rebahan
 rebana
 rebo
 rebung
+rebus
 rebut
 rebutan
 receh
@@ -11134,6 +11145,7 @@ siram
 siraman
 sire
 sirem
+siren
 sirep
 siri
 sirih
@@ -11540,6 +11552,7 @@ tanggul
 tanggung
 tangi
 tangina
+tangis
 tangkap
 tanglet
 tani
@@ -11943,6 +11956,7 @@ tunggale
 tunggu
 tungguen
 tungkak
+tupa
 tupe
 tupi
 tur
@@ -12570,6 +12584,7 @@ wadan
 wadara
 wader
 wadha
+wadhul
 wadoh
 wadon
 wadonan
