@@ -1592,6 +1592,7 @@ behi
 bei
 beja
 bejad
+bejak
 bejan
 bejek
 beji
@@ -11537,6 +11538,7 @@ sarungan
 sarwa
 sas
 sasa
+sasago
 sasak
 sasampean
 sasaran
