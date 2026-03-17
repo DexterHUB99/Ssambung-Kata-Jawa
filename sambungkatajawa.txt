@@ -516,6 +516,7 @@ ambune
 ambung
 ambunge
 ambungen
+amburadul
 ambyar
 ame
 ameh
@@ -664,6 +665,7 @@ andhaan
 andhana
 andhap
 andhe
+andheg
 andheng
 andhikane
 andhong
@@ -684,6 +686,7 @@ ane
 aneh
 anek
 anem
+aneman
 anen
 anena
 anene
@@ -1449,6 +1452,7 @@ baturan
 bau
 bawa
 bawal
+bawang
 bawe
 bawel
 bawok
@@ -1580,6 +1584,7 @@ bibi
 bibik
 bibir
 bibit
+bibo
 bibu
 bicu
 bid
@@ -2417,7 +2422,6 @@ dompet
 don
 dong
 donga
-dongane
 dongeng
 dongi
 dongo
@@ -5362,7 +5366,6 @@ kece
 kecek
 kecel
 kecelek
-kecemplung
 kecewa
 kecoa
 kecot
@@ -6390,7 +6393,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintune
 lio
 lip
 lipa
@@ -6421,7 +6423,6 @@ lisan
 lisaning
 lise
 lisi
-lising
 lisung
 lit
 lita
@@ -6624,6 +6625,7 @@ mabur
 maca
 macak
 macan
+macapat
 macul
 mad
 mada
@@ -7935,6 +7937,7 @@ ngebo
 ngebor
 ngebul
 ngebus
+ngecak
 ngece
 ngecek
 ngeces
@@ -8974,6 +8977,7 @@ okeri
 oket
 okin
 okit
+okita
 okok
 okoka
 okoke
@@ -9551,7 +9555,6 @@ peran
 perang
 percaya
 pere
-perek
 peri
 perih
 permisi
@@ -9592,7 +9595,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -9707,7 +9709,6 @@ pitakon
 pitek
 piten
 piter
-pites
 pitik
 piting
 piton
@@ -9763,7 +9764,6 @@ poli
 polisi
 poll
 polo
-poloh
 pom
 poma
 pomi
@@ -10165,7 +10165,6 @@ rebahan
 rebana
 rebo
 rebung
-rebus
 rebut
 rebutan
 receh
@@ -11113,7 +11112,6 @@ siram
 siraman
 sire
 sirem
-siren
 sirep
 siri
 sirih
@@ -12548,7 +12546,6 @@ wadan
 wadara
 wader
 wadha
-wadhul
 wadoh
 wadon
 wadonan
@@ -12734,6 +12731,7 @@ widana
 widara
 widep
 widi
+widok
 widya
 wie
 wifi
