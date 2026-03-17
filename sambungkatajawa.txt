@@ -125,6 +125,7 @@ agih
 agin
 agor
 agu
+agun
 agung
 agus
 aguy
@@ -555,7 +556,6 @@ amiri
 amis
 amise
 amit
-amiy
 amo
 amoe
 amoh
@@ -4429,6 +4429,7 @@ ilan
 ilang
 ilangan
 ilangen
+ilaono
 ilap
 ilar
 ilas
@@ -13029,6 +13030,7 @@ yas
 yasa
 yasi
 yasin
+yaso
 yat
 yate
 yati
