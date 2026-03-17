@@ -557,7 +557,6 @@ amp
 ampa
 ampah
 ampal
-ampan
 ampang
 ampar
 amparan
@@ -1580,6 +1579,7 @@ bidak
 bidan
 bidek
 bidik
+bidu
 bidun
 bidur
 bien
@@ -2232,7 +2232,6 @@ deso
 det
 dewa
 dewe
-dewean
 dewek
 dewi
 dhadha
@@ -4015,7 +4014,6 @@ hawo
 haya
 hayang
 hayat
-hayati
 hayo
 hayolo
 hayoo
@@ -5789,6 +5787,7 @@ kontal
 kontan
 konten
 kontol
+kontola
 kontolmu
 kontrol
 konyol
@@ -6659,7 +6658,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -7676,7 +7674,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -7960,6 +7957,7 @@ ngemoh
 ngemong
 ngemot
 ngempal
+ngempek
 ngemper
 ngempet
 ngempil
@@ -8001,6 +7999,7 @@ ngentong
 ngentu
 ngentuk
 ngentut
+ngenut
 ngenyek
 ngeo
 ngep
@@ -8110,6 +8109,7 @@ nggoreng
 nggowo
 nggresiki
 nggula
+nggulung
 nggumun
 ngguyu
 ngguyue
@@ -10952,6 +10952,7 @@ set
 setam
 setan
 setaun
+setengah
 seti
 setrika
 setunggal
@@ -12119,7 +12120,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
