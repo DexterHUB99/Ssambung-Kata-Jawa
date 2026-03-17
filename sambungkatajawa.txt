@@ -125,7 +125,6 @@ agih
 agin
 agor
 agu
-agun
 agung
 agus
 aguy
@@ -1675,6 +1674,7 @@ biu
 biyen
 biyung
 blas
+blereng
 bo
 bobo
 bobok
@@ -4429,7 +4429,6 @@ ilan
 ilang
 ilangan
 ilangen
-ilaono
 ilap
 ilar
 ilas
@@ -13030,7 +13029,6 @@ yas
 yasa
 yasi
 yasin
-yaso
 yat
 yate
 yati
