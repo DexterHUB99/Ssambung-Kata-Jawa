@@ -7382,6 +7382,7 @@ mongso
 moni
 montor
 monyet
+monyong
 mop
 mopi
 mor
@@ -7480,6 +7481,7 @@ mung
 mungah
 munggah
 mungkin
+mungkir
 mungsuh
 muni
 munjul
