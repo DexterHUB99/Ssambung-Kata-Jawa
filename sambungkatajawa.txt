@@ -1502,6 +1502,7 @@ bedah
 bedak
 bedes
 bedha
+bedi
 bedo
 bedok
 bedong
@@ -1641,7 +1642,6 @@ bili
 bilih
 bilo
 bilu
-bilung
 bim
 bima
 bimo
@@ -1859,6 +1859,7 @@ cagak
 cagar
 cah
 cahaya
+cahyo
 cai
 caji
 cak
@@ -2811,7 +2812,6 @@ emam
 eman
 emane
 emang
-emar
 emas
 emat
 ematane
@@ -3555,6 +3555,7 @@ gemati
 gembala
 gembel
 gembira
+gemblak
 gembleng
 gemblong
 gemblung
@@ -3593,7 +3594,6 @@ gendi
 gendon
 gendong
 gendruwo
-gendul
 gendung
 gendut
 gene
@@ -3959,7 +3959,6 @@ haho
 hai
 haie
 haii
-haina
 hajar
 hajat
 haji
@@ -4124,7 +4123,6 @@ hele
 heli
 helia
 helikopter
-helina
 helo
 hem
 hema
@@ -4557,6 +4555,7 @@ indra
 indu
 induk
 indukan
+induki
 indung
 indunge
 inem
@@ -4782,6 +4781,7 @@ it
 ita
 itaa
 itali
+itara
 ite
 item
 iteo
@@ -5092,6 +5092,7 @@ juta
 ka
 kaaba
 kabar
+kabare
 kabeh
 kabel
 kabul
@@ -6063,6 +6064,7 @@ kunir
 kunjur
 kuno
 kunta
+kuntet
 kunti
 kuntul
 kunyuk
@@ -6073,7 +6075,6 @@ kupa
 kupas
 kupat
 kupeng
-kuper
 kuping
 kupluk
 kupu
@@ -6217,7 +6218,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanange
 lancang
@@ -6809,7 +6809,6 @@ man
 mana
 manah
 manak
-manas
 manasi
 mancal
 mancing
@@ -7120,6 +7119,7 @@ mita
 mitoni
 miya
 mlaku
+mlampah
 mlarat
 mlebet
 mlebu
@@ -7334,7 +7334,6 @@ nadahi
 nadar
 nadhah
 nadi
-nadine
 nadyan
 nae
 naek
@@ -7593,7 +7592,6 @@ neh
 nek
 neka
 nekad
-nekan
 nekani
 nekat
 neken
@@ -7711,7 +7709,6 @@ ngabekti
 ngaben
 ngaboti
 ngabu
-ngabung
 ngaca
 ngacak
 ngacang
@@ -8101,6 +8098,7 @@ ngelih
 ngeling
 ngelingi
 ngelirik
+ngelitik
 ngelmu
 ngelok
 ngelon
@@ -8418,6 +8416,7 @@ ngoblok
 ngobok
 ngobong
 ngobor
+ngobral
 ngobrol
 ngobroli
 ngocak
@@ -8509,7 +8508,6 @@ ngosip
 ngosok
 ngosong
 ngosor
-ngot
 ngotak
 ngoti
 ngotori
@@ -8664,6 +8662,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngususi
 ngut
 nguta
 ngutang
@@ -9023,6 +9022,7 @@ obati
 obek
 obel
 obeng
+obes
 obet
 obit
 oblak
@@ -9830,7 +9830,6 @@ pipi
 pipik
 pipipis
 pipis
-pipit
 pipo
 pir
 pira
@@ -11561,6 +11560,7 @@ susan
 susas
 susi
 susila
+susok
 susu
 susuare
 susue
@@ -12016,6 +12016,7 @@ tontonan
 too
 top
 topa
+topan
 topeng
 topi
 topine
@@ -12465,7 +12466,6 @@ ungu
 uni
 unine
 uning
-unini
 unja
 unjal
 unjang
@@ -13008,7 +13008,6 @@ wonosobo
 wonten
 woo
 wor
-woran
 woro
 wortel
 wos
