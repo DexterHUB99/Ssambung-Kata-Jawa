@@ -5435,6 +5435,7 @@ kesupen
 kesusu
 ket
 keta
+ketam
 ketan
 ketapel
 ketar
