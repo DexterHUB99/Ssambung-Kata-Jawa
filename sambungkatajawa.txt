@@ -7147,6 +7147,7 @@ mayungi
 mbah
 mbak
 mbarep
+mbasan
 mben
 mbengi
 mbiyen
@@ -9241,6 +9242,7 @@ nyebut
 nyedhak
 nyedot
 nyekar
+nyekel
 nyeluk
 nyembah
 nyeni
