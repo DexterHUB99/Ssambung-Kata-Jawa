@@ -5306,6 +5306,7 @@ kandi
 kandut
 kane
 kang
+kangelan
 kangen
 kangge
 kanggeh
@@ -6981,6 +6982,7 @@ masuk
 masyarakat
 mat
 mata
+matahari
 matam
 matamu
 matan
@@ -7604,7 +7606,6 @@ nawon
 nawur
 naya
 nayo
-nayoh
 ncok
 ndadak
 ndak
@@ -9835,7 +9836,6 @@ piatu
 piawang
 picak
 picek
-pidah
 pidak
 pidana
 pidang
@@ -12158,7 +12158,6 @@ tu
 tua
 tuak
 tuban
-tubi
 tubruk
 tubuh
 tugel
@@ -12638,7 +12637,6 @@ upan
 upane
 upang
 upas
-upat
 upaya
 upe
 upel
