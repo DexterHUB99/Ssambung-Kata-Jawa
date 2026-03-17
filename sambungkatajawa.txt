@@ -4155,6 +4155,7 @@ ihaa
 ihai
 ihali
 ihan
+ihao
 ihara
 ihe
 ihen
@@ -7080,6 +7081,7 @@ nam
 nama
 namah
 namamu
+naman
 namane
 namba
 nambah
@@ -7107,6 +7109,7 @@ nanah
 nanai
 nanak
 nanam
+nanan
 nanang
 nanas
 nandang
