@@ -1933,6 +1933,7 @@ cis
 ciu
 ciut
 ciwa
+ciya
 ciyo
 ciyut
 clurut
@@ -3509,6 +3510,7 @@ geser
 gesi
 gesit
 get
+gete
 gething
 gethok
 gethuk
@@ -3857,7 +3859,6 @@ hansip
 hanta
 hantam
 hantu
-hantui
 hanung
 hanya
 hao
@@ -4010,7 +4011,6 @@ hinane
 hinggap
 hir
 hira
-hiran
 hire
 hiren
 hiri
@@ -4743,6 +4743,7 @@ jelang
 jelas
 jelek
 jem
+jembar
 jembatan
 jember
 jembut
@@ -5098,14 +5099,15 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
-karepem
 karepmu
 karepo
 kares
 karet
 kari
+karim
 karimun
 karipa
 karipan
@@ -5609,6 +5611,7 @@ kliwon
 klo
 klu
 klumah
+kluyuran
 kntl
 ko
 kobel
@@ -5732,7 +5735,6 @@ krama
 kramas
 krambil
 kran
-krasan
 kraton
 kresna
 krida
@@ -6676,7 +6678,6 @@ mayuh
 mayungi
 mbah
 mbak
-mbarep
 mben
 mbengi
 mbok
@@ -6802,6 +6803,7 @@ minal
 minangka
 minat
 minate
+mingat
 minggat
 minggir
 minggu
@@ -6833,6 +6835,7 @@ misu
 misuh
 mita
 mitoni
+miya
 mlaku
 mlarat
 mlebet
@@ -7288,6 +7291,7 @@ negi
 negor
 negori
 neh
+nehi
 nek
 neka
 nekad
@@ -7328,7 +7332,6 @@ nemi
 nemok
 nemokke
 nemoni
-nempal
 nempe
 nempel
 nempik
@@ -7549,6 +7552,7 @@ ngangkat
 ngangluh
 ngangon
 ngangsal
+ngangso
 ngangsu
 ngangsur
 ngangu
@@ -7677,7 +7681,6 @@ ngaturno
 ngaub
 ngaup
 ngaur
-ngaut
 ngawa
 ngawag
 ngawah
@@ -7793,6 +7796,7 @@ ngen
 ngena
 ngenah
 ngenak
+ngenani
 ngencang
 ngencuk
 ngendah
@@ -8470,6 +8474,7 @@ nosa
 nosi
 not
 nota
+note
 noti
 noya
 nresna
@@ -8526,6 +8531,7 @@ numplak
 numplek
 numpuk
 numpul
+numrap
 nun
 nuna
 nung
@@ -9823,7 +9829,6 @@ ratina
 rating
 ratna
 ratu
-ratui
 ratus
 rauh
 raul
@@ -9883,7 +9888,6 @@ rekam
 rekan
 rekasa
 rekat
-rekma
 rekmo
 reko
 rekom
@@ -11856,6 +11860,7 @@ unam
 unan
 unang
 unap
+uncak
 uncal
 undagi
 undak
