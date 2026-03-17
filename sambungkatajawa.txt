@@ -428,6 +428,7 @@ aliran
 alis
 alisa
 alisan
+alise
 alit
 alka
 allahuakbar
@@ -1303,6 +1304,7 @@ ba
 baa
 bab
 baba
+babah
 babai
 babak
 babar
@@ -1767,6 +1769,7 @@ bunga
 bungah
 bungahe
 bungkus
+bunglon
 buntel
 buntu
 buntung
@@ -2082,6 +2085,7 @@ dados
 dadu
 daduk
 dagang
+dagel
 dagelan
 dagin
 daging
@@ -5019,6 +5023,7 @@ kados
 kadose
 kaduhung
 kadung
+kadus
 kadut
 kae
 kaet
@@ -9053,6 +9058,7 @@ onoo
 onore
 onori
 onta
+ontaa
 ontang
 ontel
 onten
@@ -9548,7 +9554,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -12788,6 +12793,7 @@ yaa
 yaampun
 yaapa
 yadi
+yae
 yaelah
 yah
 yaho
