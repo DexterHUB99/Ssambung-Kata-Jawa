@@ -880,6 +880,7 @@ anta
 antah
 antam
 antang
+antangen
 antangi
 antap
 antar
@@ -5764,6 +5765,7 @@ kedah
 kedanan
 kedaton
 keder
+kedin
 kediri
 kedondong
 keduhung
@@ -6004,6 +6006,7 @@ kertos
 kerudung
 keruh
 kerupuk
+kerut
 kerutan
 kes
 kesa
