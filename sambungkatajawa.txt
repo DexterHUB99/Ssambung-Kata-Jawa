@@ -12607,6 +12607,7 @@ ulan
 ulang
 ulanga
 ulangan
+ulange
 ulangi
 ulangtahun
 ulao
