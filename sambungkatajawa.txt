@@ -1787,6 +1787,7 @@ bontot
 bop
 bopo
 bor
+borak
 boring
 boro
 borok
