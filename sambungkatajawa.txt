@@ -134,6 +134,7 @@ ahada
 ahadi
 ahag
 ahah
+ahaj
 ahak
 ahal
 aham
@@ -250,6 +251,7 @@ aiya
 aiyo
 aj
 aja
+ajah
 ajai
 ajak
 ajal
@@ -263,6 +265,7 @@ aje
 ajeg
 ajek
 ajeng
+ajep
 aji
 ajib
 ajig
@@ -466,6 +469,7 @@ ama
 amaa
 amah
 amai
+amaj
 amak
 amal
 amala
@@ -666,6 +670,7 @@ andhana
 andhap
 andhe
 andheg
+andhegan
 andheng
 andhikane
 andhong
@@ -842,6 +847,7 @@ antemi
 anteng
 antep
 anter
+antes
 anti
 antik
 anting
@@ -1906,6 +1912,7 @@ celek
 celeng
 celengan
 celi
+celo
 celuk
 cemani
 cemen
@@ -2242,6 +2249,7 @@ der
 dera
 derek
 dereng
+derep
 deres
 dermawan
 deru
@@ -2353,7 +2361,6 @@ dinten
 diora
 dip
 dipa
-dipah
 dipan
 dipangan
 diparingi
@@ -2423,7 +2430,6 @@ dompet
 don
 dong
 donga
-dongane
 dongeng
 dongi
 dongo
@@ -2967,6 +2973,7 @@ eomong
 ep
 epa
 epah
+epaj
 epak
 epal
 epam
@@ -3671,6 +3678,7 @@ gir
 gira
 giran
 girang
+girap
 gire
 giri
 giring
@@ -4073,7 +4081,6 @@ helikopter
 helo
 hem
 hemat
-hemo
 hemu
 hena
 hene
@@ -5369,7 +5376,6 @@ kece
 kecek
 kecel
 kecelek
-kecemplung
 kecewa
 kecoa
 kecot
@@ -5383,7 +5389,6 @@ kedondong
 keduhung
 kedul
 kedung
-keendi
 kegowo
 keisi
 kejam
@@ -6398,7 +6403,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintune
 lio
 lip
 lipa
@@ -6429,7 +6433,6 @@ lisan
 lisaning
 lise
 lisi
-lising
 lisung
 lit
 lita
@@ -6555,6 +6558,7 @@ ludah
 ludruk
 lugas
 lugu
+lugue
 luh
 luhan
 luhur
@@ -6838,6 +6842,7 @@ mateng
 mateni
 mater
 mati
+matih
 matin
 matio
 matne
@@ -6850,6 +6855,7 @@ mawa
 mawah
 mawang
 mawar
+mawis
 mawon
 maya
 mayak
@@ -7199,6 +7205,7 @@ murupen
 mus
 musa
 musan
+muse
 muser
 musi
 musibah
@@ -8014,6 +8021,7 @@ ngempek
 ngemper
 ngempet
 ngempil
+ngemplok
 ngempot
 ngempu
 ngemut
@@ -8850,6 +8858,7 @@ nyanyi
 nyapa
 nyaponi
 nyapu
+nyari
 nyaru
 nyasar
 nyatu
@@ -9148,6 +9157,7 @@ opon
 opone
 opoo
 opor
+opos
 opose
 oposi
 opowae
@@ -9562,7 +9572,6 @@ peran
 perang
 percaya
 pere
-perek
 peri
 perih
 permisi
@@ -9603,7 +9612,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -9718,7 +9726,6 @@ pitakon
 pitek
 piten
 piter
-pites
 pitik
 piting
 piton
@@ -9774,7 +9781,6 @@ poli
 polisi
 poll
 polo
-poloh
 pom
 poma
 pomi
@@ -9849,6 +9855,7 @@ puju
 puk
 puka
 puki
+pukimak
 pukki
 pukul
 pul
@@ -10176,7 +10183,6 @@ rebahan
 rebana
 rebo
 rebung
-rebus
 rebut
 rebutan
 receh
@@ -10192,6 +10198,7 @@ reha
 rei
 reja
 rejeb
+rejeki
 rejo
 rek
 reka
@@ -10612,6 +10619,7 @@ sadya
 sae
 saeno
 saestu
+sag
 saga
 sage
 saged
@@ -10714,6 +10722,7 @@ samping
 sampir
 sampo
 sampok
+sampol
 sampul
 sampun
 sampur
@@ -11124,7 +11133,6 @@ siram
 siraman
 sire
 sirem
-siren
 sirep
 siri
 sirih
@@ -11531,7 +11539,6 @@ tanggul
 tanggung
 tangi
 tangina
-tangis
 tangkap
 tanglet
 tani
@@ -11667,6 +11674,7 @@ tenan
 tenanan
 tenane
 tenang
+tendang
 tene
 tenen
 teng
@@ -11934,7 +11942,6 @@ tunggale
 tunggu
 tungguen
 tungkak
-tupa
 tupe
 tupi
 tur
@@ -12179,6 +12186,7 @@ ulu
 uluk
 ulun
 ulung
+ulup
 ulur
 um
 uma
@@ -12561,7 +12569,6 @@ wadan
 wadara
 wader
 wadha
-wadhul
 wadoh
 wadon
 wadonan
