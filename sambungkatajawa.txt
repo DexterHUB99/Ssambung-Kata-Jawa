@@ -2776,6 +2776,7 @@ emok
 emong
 emor
 emot
+emoy
 empal
 empan
 empang
