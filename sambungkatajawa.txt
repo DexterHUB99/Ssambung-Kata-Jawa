@@ -3626,6 +3626,7 @@ gong
 gongso
 goni
 gonjing
+gontok
 gontor
 gopal
 gopoh
