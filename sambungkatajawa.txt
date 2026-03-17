@@ -10181,6 +10181,7 @@ rasing
 rasis
 rasmo
 raso
+rasta
 rasu
 rasuk
 rasukan
@@ -12884,7 +12885,6 @@ wok
 woke
 woko
 wol
-wola
 wolak
 wolo
 wolu
@@ -13067,6 +13067,7 @@ yuan
 yuda
 yudha
 yudi
+yue
 yugo
 yuh
 yuhan
