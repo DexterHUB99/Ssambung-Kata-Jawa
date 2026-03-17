@@ -1145,6 +1145,7 @@ atiku
 atil
 atimu
 atin
+atina
 atine
 atir
 atiri
@@ -1573,6 +1574,7 @@ bien
 biga
 bigan
 bigu
+bihun
 bijak
 biji
 bijor
@@ -2448,7 +2450,6 @@ dung
 dunga
 dungo
 dungu
-dununge
 dupa
 dupak
 dupo
@@ -3753,6 +3754,7 @@ gulungan
 gumam
 gumati
 gumuh
+gumuk
 gumun
 gun
 guna
@@ -3927,6 +3929,7 @@ harimu
 harjo
 harm
 harman
+harmi
 haro
 harta
 hartane
@@ -4186,7 +4189,6 @@ ide
 idem
 idep
 ider
-idham
 idhu
 idi
 idia
@@ -5848,6 +5850,7 @@ kulen
 kuli
 kulina
 kulit
+kulite
 kulo
 kuloe
 kulon
@@ -6028,6 +6031,7 @@ lampar
 lamper
 lamping
 lampir
+lampiran
 lampu
 lampua
 lampune
@@ -6221,6 +6225,7 @@ lesus
 let
 leto
 letong
+lewak
 lewat
 leyeh
 lha
@@ -6911,6 +6916,7 @@ misu
 misuh
 mita
 mitoni
+miya
 mlaku
 mlarat
 mlebet
@@ -7396,7 +7402,6 @@ neluk
 nelur
 nem
 nemah
-nemahi
 neman
 nembah
 nembak
@@ -7750,6 +7755,7 @@ ngasu
 ngasuh
 ngasuk
 ngasul
+ngasur
 ngata
 ngatasi
 ngatau
@@ -7918,7 +7924,6 @@ ngentuk
 ngentut
 ngenyek
 ngeo
-ngeong
 ngep
 ngepang
 ngepas
@@ -8199,7 +8204,6 @@ ngomel
 ngomong
 ngomongo
 ngompol
-ngompor
 ngon
 ngonde
 ngone
@@ -10523,7 +10527,6 @@ sampo
 sampul
 sampun
 sampur
-sampura
 sampurna
 samudra
 samui
@@ -10831,6 +10834,7 @@ sewu
 sholat
 si
 sia
+siaa
 siah
 sial
 siala
@@ -11718,7 +11722,6 @@ tunggu
 tungguen
 tungkak
 tupe
-tupel
 tupi
 tur
 tura
