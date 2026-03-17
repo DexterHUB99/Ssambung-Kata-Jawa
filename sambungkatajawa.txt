@@ -847,7 +847,6 @@ antri
 antrian
 antuk
 antun
-antup
 antur
 anu
 anua
@@ -1784,7 +1783,6 @@ busuk
 busung
 buta
 butek
-buten
 buto
 butoh
 butuh
@@ -2165,6 +2163,7 @@ dayo
 dayu
 de
 debok
+deda
 dedak
 dede
 dedeg
@@ -2354,7 +2353,6 @@ disisi
 disit
 disogok
 disu
-disuk
 dit
 dita
 ditampol
@@ -2466,6 +2464,7 @@ dumane
 dumeh
 dumugi
 dun
+duna
 dung
 dunga
 dungo
@@ -2521,7 +2520,6 @@ edanan
 edar
 edaran
 ede
-edek
 edi
 edit
 edo
@@ -2606,7 +2604,6 @@ ejar
 eje
 ejek
 eji
-ejik
 ejo
 eju
 ejuh
@@ -3049,7 +3046,6 @@ esem
 eseme
 esemka
 esen
-esep
 eser
 eses
 eset
@@ -3099,7 +3095,6 @@ etig
 etik
 etika
 etil
-etin
 eting
 etis
 eto
@@ -4685,7 +4680,6 @@ itilan
 ito
 itoe
 itoi
-itoma
 itu
 ituli
 itung
@@ -5026,7 +5020,6 @@ kajeng
 kaji
 kajian
 kajine
-kajun
 kak
 kaka
 kakaa
@@ -5604,6 +5597,7 @@ ketua
 ketuk
 ketum
 ketumbar
+ketun
 ketup
 ketupat
 ketus
@@ -5767,7 +5761,6 @@ kondhang
 kondi
 kondisi
 kondur
-kone
 koneng
 kongkon
 koni
@@ -6718,7 +6711,6 @@ mantep
 manthuk
 mantu
 mantuk
-mantul
 mantune
 manuk
 manuke
@@ -6729,7 +6721,6 @@ manungso
 manus
 manut
 maos
-map
 mapak
 mapan
 mapi
@@ -7992,7 +7983,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepruk
 ngepus
 nger
 ngerak
@@ -8369,6 +8359,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulan
 ngulang
 ngulangi
 ngulas
@@ -9006,7 +8997,6 @@ oneng
 onet
 onggok
 ongkang
-ongke
 ongkek
 ongkel
 ongko
@@ -9682,6 +9672,7 @@ poli
 polisi
 poll
 polo
+polok
 pom
 poma
 pomi
@@ -10371,7 +10362,6 @@ ros
 rosa
 rose
 rosi
-rosma
 roso
 rotan
 roti
@@ -12172,7 +12162,6 @@ ungkul
 ungkur
 ungu
 uni
-unia
 unine
 uning
 unja
