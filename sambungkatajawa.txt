@@ -2352,6 +2352,7 @@ disisi
 disit
 disogok
 disu
+disuk
 dit
 dita
 ditampol
@@ -2518,6 +2519,7 @@ edanan
 edar
 edaran
 ede
+edek
 edi
 edit
 edo
