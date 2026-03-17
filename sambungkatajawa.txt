@@ -366,7 +366,6 @@ akom
 akomo
 akon
 akoni
-akoo
 akor
 akos
 akot
@@ -513,6 +512,7 @@ amati
 amay
 amaya
 amba
+ambai
 ambal
 ambalan
 ambar
@@ -819,7 +819,6 @@ anjani
 anjar
 anjaran
 anjas
-anjasmara
 anjay
 anjeg
 anji
@@ -1076,7 +1075,6 @@ arya
 as
 asa
 asah
-asahan
 asai
 asak
 asal
@@ -1236,7 +1234,6 @@ atri
 atu
 atuh
 atuk
-atul
 atum
 atun
 atur
@@ -1339,6 +1336,7 @@ ayem
 ayeme
 ayep
 ayi
+ayik
 ayim
 ayin
 aying
@@ -1447,7 +1445,6 @@ bambu
 ban
 banak
 banana
-bancaan
 bancak
 bancet
 banci
@@ -1508,7 +1505,6 @@ batang
 bathuk
 bati
 batik
-batin
 bato
 batok
 batu
@@ -2050,6 +2046,7 @@ cicir
 cicit
 cidek
 ciduk
+cihuy
 cik
 cikal
 ciken
@@ -2156,7 +2153,6 @@ cucuk
 cucur
 cudek
 cuek
-cuil
 cuk
 cuka
 cuki
@@ -2352,7 +2348,6 @@ deneng
 dengki
 dengkul
 deni
-deno
 depa
 depak
 der
@@ -2548,9 +2543,9 @@ doma
 domba
 domblong
 domi
+domo
 dompet
 don
-dona
 dong
 donga
 dongane
@@ -2649,6 +2644,7 @@ duso
 dusun
 dut
 duta
+duti
 duwe
 duwek
 duwet
@@ -2695,7 +2691,6 @@ edu
 edul
 edus
 eeh
-eehe
 eenak
 ef
 eg
@@ -2773,6 +2768,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -2890,7 +2886,6 @@ elok
 elom
 elon
 elong
-eloo
 elor
 elos
 elu
@@ -3210,7 +3205,6 @@ eroh
 erok
 eron
 erong
-eroo
 erop
 eror
 eros
@@ -3658,7 +3652,6 @@ geguritan
 geh
 gei
 gek
-geki
 gel
 gela
 gelak
@@ -3751,6 +3744,7 @@ geneyi
 geng
 genggem
 geni
+gening
 genit
 geniya
 genjot
@@ -3984,7 +3978,6 @@ grogot
 grombolan
 grontol
 grosir
-grujugan
 grujuk
 gu
 gubah
@@ -4641,6 +4634,7 @@ iloe
 iloi
 ilok
 ilokan
+ilomo
 ilon
 ilu
 ilui
@@ -4661,7 +4655,6 @@ imas
 imba
 imbaan
 imbah
-imbahan
 imbai
 imbal
 imbala
@@ -4835,6 +4828,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -5013,8 +5007,10 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
+jagan
 jagar
 jago
 jagong
@@ -5092,7 +5088,6 @@ jari
 jarik
 jaring
 jarum
-jarwa
 jas
 jasa
 jatah
@@ -5215,7 +5210,6 @@ joglo
 jogo
 jojor
 jok
-joke
 joki
 joko
 jokowi
@@ -5780,6 +5774,7 @@ ken
 kena
 kenak
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -6303,7 +6298,6 @@ kupa
 kupas
 kupat
 kupeng
-kupi
 kuping
 kupluk
 kupu
@@ -7651,6 +7645,7 @@ nalar
 nalare
 nale
 nali
+nalia
 nalih
 nalik
 nalika
@@ -7804,7 +7799,6 @@ nawi
 nawon
 nawur
 naya
-nayara
 nayo
 nayoh
 ncok
@@ -7813,7 +7807,6 @@ ndak
 ndalem
 ndalu
 ndang
-ndanga
 ndas
 ndase
 ndasmu
@@ -8115,7 +8108,6 @@ ngampar
 ngampas
 ngampel
 ngampet
-ngampih
 ngampil
 ngampir
 ngampleng
@@ -8316,7 +8308,6 @@ ngawini
 ngawir
 ngawis
 ngawit
-ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8433,7 +8424,6 @@ ngenalin
 ngencang
 ngencuk
 ngendah
-ngendak
 ngendang
 ngendeng
 ngendep
@@ -8588,7 +8578,6 @@ ngibu
 ngibul
 ngical
 ngicipi
-ngicir
 ngidam
 ngidang
 ngidek
@@ -8633,7 +8622,6 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
-ngimpen
 ngimpi
 ngin
 ngina
@@ -8737,7 +8725,6 @@ ngobroli
 ngocak
 ngoceh
 ngocok
-ngodok
 ngoe
 ngogoh
 ngoh
@@ -8947,6 +8934,7 @@ ngupil
 nguping
 ngupo
 ngur
+ngura
 ngurah
 ngurai
 ngurak
@@ -9261,6 +9249,7 @@ nunung
 nunut
 nuo
 nup
+nupi
 nur
 nura
 nurah
@@ -9318,13 +9307,11 @@ nyawet
 nyawi
 nyawiji
 nyawit
-nyebur
 nyebut
 nyedhak
 nyedot
 nyekar
 nyekel
-nyelok
 nyeluk
 nyembah
 nyeni
@@ -9382,6 +9369,7 @@ obral
 obrol
 oceh
 ocehan
+oci
 ocok
 ocol
 ocon
@@ -9636,7 +9624,6 @@ opok
 opoki
 opol
 opolo
-opomeneh
 opon
 opone
 opoo
@@ -9919,7 +9906,6 @@ papat
 papi
 papo
 papu
-papua
 par
 para
 parah
@@ -9981,6 +9967,7 @@ patub
 patuh
 patung
 patur
+paung
 paw
 pawa
 pawai
@@ -10103,6 +10090,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -10131,7 +10119,6 @@ pikang
 piker
 piki
 pikir
-pikiran
 pikirmu
 piknik
 piko
@@ -10183,6 +10170,7 @@ pindo
 pindoe
 pinduk
 ping
+pingan
 pinggih
 pinggir
 pingsan
@@ -10456,7 +10444,6 @@ rabi
 rabio
 rabisa
 rabit
-raboh
 rabu
 rabun
 racikan
@@ -10794,7 +10781,6 @@ remok
 rempah
 rempal
 rempeyek
-rempol
 rempon
 remu
 remuk
@@ -11343,7 +11329,6 @@ saponi
 sapu
 sapura
 saput
-saputra
 sar
 sara
 saran
@@ -12610,7 +12595,6 @@ ubii
 ubun
 ubur
 uc
-uca
 ucak
 ucap
 ucapan
@@ -12696,7 +12680,6 @@ uji
 ujia
 ujian
 ujub
-ujug
 ujuk
 ujul
 ujun
@@ -12875,6 +12858,7 @@ umum
 umume
 umur
 umure
+umurno
 un
 una
 unah
@@ -12987,7 +12971,6 @@ upak
 upaku
 upam
 upama
-upami
 upan
 upane
 upang
@@ -13207,6 +13190,7 @@ uyi
 uyo
 uyuh
 uyuhmu
+uyung
 uz
 vaksin
 via
