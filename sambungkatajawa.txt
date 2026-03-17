@@ -6699,6 +6699,7 @@ loan
 lob
 loba
 lobang
+lobange
 lober
 lobi
 lobok
