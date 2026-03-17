@@ -759,7 +759,6 @@ angkutan
 angl
 angler
 angling
-anglung
 angon
 angop
 angos
@@ -2477,7 +2476,6 @@ doso
 dot
 dowe
 dowo
-doyan
 du
 dubur
 ducok
@@ -8130,7 +8128,6 @@ ngentuk
 ngentut
 ngenut
 ngenyek
-ngenyot
 ngeo
 ngep
 ngepang
