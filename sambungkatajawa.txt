@@ -262,7 +262,6 @@ aje
 ajeg
 ajek
 ajeng
-ajer
 aji
 ajib
 ajig
@@ -1225,7 +1224,6 @@ aweh
 awek
 awer
 awet
-awewe
 awi
 awik
 awis
@@ -2516,7 +2514,6 @@ ege
 egi
 egil
 ego
-egois
 egor
 egos
 egrang
@@ -6618,6 +6615,7 @@ manggaa
 manggil
 manggis
 manggon
+mangi
 mangkane
 mangkat
 mangke
@@ -7024,7 +7022,6 @@ mumpung
 mun
 muna
 munafik
-muncrat
 muncul
 mundak
 mundhut
@@ -8659,6 +8656,7 @@ nyambik
 nyampek
 nyamuk
 nyangka
+nyangkul
 nyangu
 nyanyi
 nyapa
@@ -9298,6 +9296,7 @@ pedes
 pedhot
 pedot
 pee
+pega
 pegat
 pegel
 pegi
@@ -9696,7 +9695,6 @@ putus
 puwan
 puwen
 puwira
-puya
 puyeng
 puyo
 puyuh
@@ -10743,7 +10741,6 @@ sepet
 sepi
 sepiro
 sepo
-sepon
 sepuh
 sepuluh
 sepur
@@ -10766,6 +10763,7 @@ seret
 seri
 serius
 sero
+serok
 serong
 seru
 serut
@@ -11369,7 +11367,6 @@ telenan
 telepon
 teles
 teli
-telih
 telinga
 teliti
 telo
@@ -11443,7 +11440,6 @@ terne
 terong
 terus
 tes
-tesa
 tesi
 tet
 tete
