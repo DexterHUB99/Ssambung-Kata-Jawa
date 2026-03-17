@@ -1933,6 +1933,7 @@ cis
 ciu
 ciut
 ciwa
+ciya
 ciyo
 ciyut
 clurut
@@ -2299,7 +2300,6 @@ dir
 diran
 direng
 diri
-diro
 diru
 dirum
 dirumah
@@ -3510,6 +3510,7 @@ geser
 gesi
 gesit
 get
+gete
 gething
 gethok
 gethuk
@@ -4742,6 +4743,7 @@ jelang
 jelas
 jelek
 jem
+jembar
 jembatan
 jember
 jembut
@@ -5097,6 +5099,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepmu
@@ -5104,6 +5107,7 @@ karepo
 kares
 karet
 kari
+karim
 karimun
 karipa
 karipan
@@ -5607,6 +5611,7 @@ kliwon
 klo
 klu
 klumah
+kluyuran
 kntl
 ko
 kobel
@@ -6317,6 +6322,7 @@ lomi
 lomo
 lomot
 lompat
+lomu
 lon
 lona
 loncat
@@ -6798,6 +6804,7 @@ minal
 minangka
 minat
 minate
+mingat
 minggat
 minggir
 minggu
@@ -6829,6 +6836,7 @@ misu
 misuh
 mita
 mitoni
+miya
 mlaku
 mlarat
 mlebet
@@ -6975,6 +6983,7 @@ mung
 mungah
 munggah
 mungkin
+mungkur
 mungsuh
 muni
 munjul
@@ -7284,6 +7293,7 @@ negi
 negor
 negori
 neh
+nehi
 nek
 neka
 nekad
@@ -7384,6 +7394,7 @@ netep
 neter
 netes
 netra
+netrak
 newa
 ngaba
 ngabab
@@ -7544,6 +7555,7 @@ ngangkat
 ngangluh
 ngangon
 ngangsal
+ngangso
 ngangsu
 ngangsur
 ngangu
@@ -7787,6 +7799,7 @@ ngen
 ngena
 ngenah
 ngenak
+ngenani
 ngencang
 ngencuk
 ngendah
@@ -8464,6 +8477,7 @@ nosa
 nosi
 not
 nota
+note
 noti
 noya
 nresna
@@ -8520,6 +8534,7 @@ numplak
 numplek
 numpuk
 numpul
+numrap
 nun
 nuna
 nung
@@ -11848,6 +11863,7 @@ unam
 unan
 unang
 unap
+uncak
 uncal
 undagi
 undak
