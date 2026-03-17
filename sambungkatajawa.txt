@@ -5767,6 +5767,7 @@ krama
 kramas
 krambil
 kran
+krasa
 krasan
 kraton
 kresna
