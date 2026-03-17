@@ -1074,7 +1074,6 @@ arya
 as
 asa
 asah
-asahan
 asai
 asak
 asal
@@ -9881,6 +9880,7 @@ papa
 papah
 papak
 papan
+papar
 papat
 papi
 papo
@@ -10756,7 +10756,6 @@ remok
 rempah
 rempal
 rempeyek
-rempol
 rempon
 remu
 remuk
@@ -11546,6 +11545,7 @@ serep
 seres
 seret
 seri
+serit
 serius
 sero
 serok
