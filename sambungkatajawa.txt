@@ -1697,7 +1697,6 @@ bobok
 bobrok
 bocah
 bocor
-bodat
 bodi
 bodo
 bodoh
@@ -1927,6 +1926,7 @@ cari
 carik
 carine
 carita
+carok
 caruk
 cas
 casa
@@ -4004,6 +4004,7 @@ haho
 hai
 haie
 haii
+haing
 hajar
 hajat
 haji
@@ -4781,7 +4782,6 @@ isin
 isinan
 isine
 ising
-isini
 isinna
 isio
 isis
@@ -4918,7 +4918,6 @@ jam
 jama
 jamal
 jaman
-jamane
 jamber
 jambi
 jambret
@@ -5875,6 +5874,7 @@ kis
 kisa
 kisan
 kisanak
+kise
 kisi
 kit
 kita
@@ -8824,6 +8824,7 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
@@ -12357,6 +12358,7 @@ uji
 ujia
 ujian
 ujub
+ujug
 ujuk
 ujul
 ujun
