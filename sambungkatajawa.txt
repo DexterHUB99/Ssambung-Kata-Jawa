@@ -2245,7 +2245,6 @@ der
 dera
 derek
 dereng
-derep
 deres
 dermawan
 deru
@@ -6553,7 +6552,6 @@ ludah
 ludruk
 lugas
 lugu
-lugue
 luh
 luhan
 luhur
@@ -8015,7 +8013,6 @@ ngempek
 ngemper
 ngempet
 ngempil
-ngemplok
 ngempot
 ngempu
 ngemut
@@ -8852,7 +8849,6 @@ nyanyi
 nyapa
 nyaponi
 nyapu
-nyari
 nyaru
 nyasar
 nyatu
@@ -9151,7 +9147,6 @@ opon
 opone
 opoo
 opor
-opos
 opose
 oposi
 opowae
@@ -9849,7 +9844,6 @@ puju
 puk
 puka
 puki
-pukimak
 pukki
 pukul
 pul
@@ -10715,7 +10709,6 @@ samping
 sampir
 sampo
 sampok
-sampol
 sampul
 sampun
 sampur
@@ -12179,7 +12172,6 @@ ulu
 uluk
 ulun
 ulung
-ulup
 ulur
 um
 uma
