@@ -2955,6 +2955,7 @@ emur
 emut
 en
 ena
+enag
 enah
 enaj
 enak
