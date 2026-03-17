@@ -4626,6 +4626,7 @@ irama
 irana
 irang
 iras
+irasa
 irat
 irawa
 iren
@@ -5084,6 +5085,7 @@ kadung
 kadus
 kadut
 kae
+kaee
 kaet
 kafan
 kafir
