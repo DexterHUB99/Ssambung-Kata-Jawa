@@ -4453,6 +4453,7 @@ iring
 iringan
 iringane
 iringi
+irirah
 iris
 irisan
 irisen
@@ -9387,6 +9388,7 @@ polahmu
 polan
 polar
 pole
+polek
 poles
 poli
 polisi
