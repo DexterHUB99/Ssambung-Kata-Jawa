@@ -10277,6 +10277,7 @@ sao
 saos
 sap
 sapa
+sape
 sapi
 sapih
 sapir
