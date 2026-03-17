@@ -7664,6 +7664,7 @@ ngamil
 ngamis
 ngamo
 ngamok
+ngampar
 ngampel
 ngampet
 ngampil
@@ -9803,6 +9804,7 @@ pup
 pupu
 pupuh
 pupuk
+pupuli
 pupus
 puput
 pur
@@ -11084,6 +11086,7 @@ soba
 sobat
 sobek
 soblok
+soboh
 sodara
 sodok
 sodor
@@ -12633,6 +12636,7 @@ wetu
 wewe
 weweling
 wewo
+weyo
 wi
 wia
 wibawa
