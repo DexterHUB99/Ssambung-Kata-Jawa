@@ -1789,6 +1789,7 @@ buy
 buyar
 buyut
 ca
+cabak
 cabe
 cabi
 caca
