@@ -3251,6 +3251,7 @@ esu
 esue
 esuh
 esuk
+esuken
 esun
 et
 eta
@@ -6882,6 +6883,7 @@ lumping
 lumpuh
 lumpuk
 lumrah
+lumrahe
 lumuh
 lun
 luna
