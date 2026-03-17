@@ -83,6 +83,7 @@ adil
 adimu
 adin
 adipati
+adis
 adit
 ado
 adoh
@@ -11529,6 +11530,7 @@ seh
 sehat
 sei
 seiki
+seitil
 seje
 sejen
 sek
