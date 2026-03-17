@@ -428,6 +428,7 @@ aliran
 alis
 alisa
 alisan
+alise
 alit
 alka
 allahuakbar
@@ -1303,6 +1304,7 @@ ba
 baa
 bab
 baba
+babah
 babai
 babak
 babar
