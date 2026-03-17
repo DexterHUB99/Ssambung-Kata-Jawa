@@ -557,7 +557,6 @@ amp
 ampa
 ampah
 ampal
-ampan
 ampang
 ampar
 amparan
@@ -1017,7 +1016,6 @@ aruk
 arul
 arum
 arun
-aruna
 arup
 arupa
 arus
@@ -2233,7 +2231,6 @@ deso
 det
 dewa
 dewe
-dewean
 dewek
 dewi
 dhadha
@@ -2649,7 +2646,6 @@ ekes
 eket
 eki
 ekib
-ekih
 ekik
 ekil
 ekin
@@ -4017,7 +4013,6 @@ hawo
 haya
 hayang
 hayat
-hayati
 hayo
 hayolo
 hayoo
@@ -6661,7 +6656,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -7155,6 +7149,7 @@ mus
 musa
 musan
 muser
+mushola
 musi
 musibah
 musim
@@ -7678,7 +7673,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -12121,7 +12115,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
