@@ -4134,6 +4134,7 @@ ib
 iba
 ibadah
 ibak
+iban
 ibarat
 iber
 iblis
@@ -6846,7 +6847,6 @@ mis
 misa
 misah
 misake
-mise
 misi
 miskin
 misu
@@ -7270,6 +7270,7 @@ ndawa
 ndawuh
 ndek
 ndeleng
+ndelik
 ndelok
 nderek
 ndeso
@@ -8063,7 +8064,6 @@ nglangkah
 nglantur
 nglek
 ngliwet
-ngloh
 nglon
 nglor
 ngluput
@@ -8309,6 +8309,7 @@ ngusi
 ngusik
 ngusili
 ngusir
+ngusu
 ngusung
 ngusungi
 ngut
@@ -10463,6 +10464,7 @@ sapih
 sapir
 sapiro
 sapo
+saponi
 sapu
 sapura
 saput
@@ -10499,7 +10501,6 @@ sasuh
 sasuk
 sat
 sata
-satai
 sate
 sati
 satitik
