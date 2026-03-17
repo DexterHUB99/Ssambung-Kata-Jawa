@@ -790,7 +790,6 @@ anjog
 anjok
 anjrit
 anjuk
-anjun
 anjung
 anjungan
 anjur
@@ -2587,7 +2586,6 @@ ekad
 ekae
 ekag
 ekah
-ekak
 ekal
 ekali
 ekam
@@ -3223,7 +3221,6 @@ gama
 gaman
 gambang
 gambar
-gambara
 gambaran
 gambas
 gamber
@@ -9112,7 +9109,6 @@ pal
 pala
 palah
 palak
-palakan
 palamu
 palang
 pale
@@ -10257,7 +10253,6 @@ ruh
 rui
 rujak
 rujuk
-rujukan
 ruk
 ruka
 ruki
@@ -10423,7 +10418,6 @@ salahe
 salahku
 salak
 salam
-salaman
 sale
 saleh
 saleng
@@ -10855,7 +10849,6 @@ sinte
 sinten
 sinyal
 sio
-siomay
 sip
 sipa
 sipi
