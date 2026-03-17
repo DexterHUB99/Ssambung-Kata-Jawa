@@ -4448,6 +4448,7 @@ inii
 inja
 injak
 injal
+inje
 injek
 inji
 injih
@@ -5017,6 +5018,7 @@ kalia
 kalian
 kalih
 kalim
+kalima
 kalimat
 kaliren
 kalis
@@ -9760,6 +9762,7 @@ raisin
 raiso
 raiya
 raja
+rajab
 rajah
 rajak
 rajang
