@@ -2654,6 +2654,7 @@ eca
 ecah
 ecek
 ecer
+eceran
 eco
 ed
 eda
@@ -3854,6 +3855,7 @@ githok
 giwang
 giwangan
 gladhen
+glagah
 go
 gobak
 gobang
@@ -7356,6 +7358,7 @@ mojo
 mojokerto
 mok
 mokal
+moke
 mokong
 mol
 mola
@@ -13293,6 +13296,7 @@ weling
 welo
 welut
 wen
+wena
 wene
 weneh
 wengi
