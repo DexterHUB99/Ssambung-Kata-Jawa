@@ -12922,6 +12922,7 @@ uira
 uj
 uja
 ujak
+ujal
 ujan
 ujar
 ujaran
@@ -13307,6 +13308,7 @@ urunan
 urung
 urup
 urus
+urusa
 urusan
 urusane
 urusen
