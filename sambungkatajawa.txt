@@ -513,6 +513,7 @@ amati
 amay
 amaya
 amba
+ambai
 ambal
 ambalan
 ambar
@@ -1342,6 +1343,7 @@ ayem
 ayeme
 ayep
 ayi
+ayik
 ayim
 ayin
 aying
@@ -2053,6 +2055,7 @@ cicir
 cicit
 cidek
 ciduk
+cihuy
 cik
 cikal
 ciken
@@ -2206,6 +2209,7 @@ dadan
 dadang
 dadar
 dadi
+dadio
 dados
 dadu
 daduk
@@ -2551,6 +2555,7 @@ doma
 domba
 domblong
 domi
+domo
 dompet
 don
 dona
@@ -2652,6 +2657,7 @@ duso
 dusun
 dut
 duta
+duti
 duwe
 duwek
 duwet
@@ -2776,6 +2782,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -3195,6 +3202,7 @@ erep
 ereruh
 eres
 eret
+eretan
 eri
 eria
 erih
@@ -3754,6 +3762,7 @@ geneyi
 geng
 genggem
 geni
+gening
 genit
 geniya
 genjot
@@ -3824,6 +3833,7 @@ getok
 geton
 getuk
 getun
+geus
 gewa
 gewe
 gewo
@@ -4646,6 +4656,7 @@ iloe
 iloi
 ilok
 ilokan
+ilomo
 ilon
 ilu
 ilui
@@ -4840,6 +4851,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -5018,8 +5030,10 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
+jagan
 jagar
 jago
 jagong
@@ -5274,6 +5288,7 @@ jumo
 jumpa
 jun
 juna
+junah
 june
 juni
 jupuk
@@ -5787,6 +5802,7 @@ ken
 kena
 kenak
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -7658,6 +7674,7 @@ nalar
 nalare
 nale
 nali
+nalia
 nalih
 nalik
 nalika
@@ -8915,6 +8932,7 @@ ngumbah
 ngumbahi
 ngumbar
 ngumbel
+ngumber
 ngumpet
 ngumpul
 ngumpulake
@@ -8955,6 +8973,7 @@ ngupil
 nguping
 ngupo
 ngur
+ngura
 ngurah
 ngurai
 ngurak
@@ -9269,6 +9288,7 @@ nunung
 nunut
 nuo
 nup
+nupi
 nur
 nura
 nurah
@@ -9390,6 +9410,7 @@ obral
 obrol
 oceh
 ocehan
+oci
 ocok
 ocol
 ocon
@@ -9886,6 +9907,7 @@ panggeh
 panggih
 panggil
 panggon
+panggonan
 pangkas
 pangkat
 pangku
@@ -9990,6 +10012,7 @@ patub
 patuh
 patung
 patur
+paung
 paw
 pawa
 pawai
@@ -10112,6 +10135,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -10192,6 +10216,7 @@ pindo
 pindoe
 pinduk
 ping
+pingan
 pinggih
 pinggir
 pingsan
@@ -12891,6 +12916,7 @@ umume
 umun
 umur
 umure
+umurno
 un
 una
 unah
@@ -13224,6 +13250,7 @@ uyi
 uyo
 uyuh
 uyuhmu
+uyung
 uz
 vaksin
 via
