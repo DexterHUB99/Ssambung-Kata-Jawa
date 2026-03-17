@@ -2466,6 +2466,7 @@ dimah
 diman
 dimana
 dimar
+dimari
 dimas
 dimasuki
 dimek
@@ -7265,6 +7266,7 @@ meh
 meja
 mejancok
 mek
+meka
 mekali
 mekar
 meki
