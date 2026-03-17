@@ -459,6 +459,7 @@ alunan
 alur
 alus
 aluse
+aluwe
 alwan
 am
 ama
@@ -4180,7 +4181,6 @@ hun
 huna
 huni
 hup
-hupa
 hupi
 hur
 hura
@@ -7154,6 +7154,7 @@ mus
 musa
 musan
 muser
+mushola
 musi
 musibah
 musim
@@ -7915,6 +7916,7 @@ ngejak
 ngejar
 ngejek
 ngek
+ngekek
 ngeko
 ngekok
 ngekos
@@ -8490,6 +8492,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngusur
 ngut
 nguta
 ngutang
@@ -11323,7 +11326,6 @@ surut
 surya
 sus
 susa
-susaa
 susah
 susan
 susas
@@ -12418,7 +12420,6 @@ utangmu
 utar
 utara
 utaran
-utare
 utas
 utasan
 utata
