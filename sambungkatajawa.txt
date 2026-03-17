@@ -4330,6 +4330,7 @@ hei
 heia
 heii
 heka
+heko
 hela
 hele
 heli
@@ -8543,6 +8544,7 @@ ngeniko
 ngenja
 ngenjang
 ngeno
+ngenot
 ngenteni
 ngenti
 ngentik
