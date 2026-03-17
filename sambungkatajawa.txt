@@ -2244,7 +2244,6 @@ dilarang
 dilas
 dilat
 dilati
-dile
 dileh
 dilem
 diler
@@ -2988,7 +2987,6 @@ ese
 eseh
 esek
 esem
-esema
 eseme
 esemka
 esen
@@ -4321,7 +4319,6 @@ imbas
 imbat
 imbel
 imbi
-imbing
 imboh
 imbu
 imbuh
@@ -6743,7 +6740,6 @@ mepe
 mepet
 mer
 merah
-merak
 merat
 merem
 mergo
@@ -9821,7 +9817,6 @@ rating
 ratna
 ratu
 ratus
-ratusi
 rauh
 raul
 rauma
@@ -11624,7 +11619,6 @@ udani
 udar
 udara
 udari
-udas
 ude
 udeg
 udek
