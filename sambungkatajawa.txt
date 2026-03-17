@@ -1399,6 +1399,7 @@ bal
 bala
 balai
 balak
+balangen
 balap
 balek
 baleni
@@ -1927,6 +1928,7 @@ carita
 caruk
 cas
 casa
+caten
 catur
 cawan
 cawe
@@ -3616,6 +3618,7 @@ gen
 gena
 genah
 genahe
+genangan
 genap
 gencet
 gendak
@@ -7810,6 +7813,7 @@ ngadohi
 ngadok
 ngadol
 ngadon
+ngados
 ngadu
 ngaduk
 ngadul
@@ -7919,6 +7923,7 @@ ngandai
 ngandang
 ngandani
 ngandap
+ngandel
 ngandhap
 ngandi
 ngandika
@@ -8643,6 +8648,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulam
 ngulan
 ngulang
 ngulangi
@@ -9345,6 +9351,7 @@ opak
 opal
 opam
 opan
+opas
 opat
 opel
 open
@@ -9859,6 +9866,7 @@ pil
 pila
 pilah
 pilak
+pilakan
 pilakon
 pilang
 pilar
@@ -10901,6 +10909,7 @@ saking
 sakit
 sakitmu
 sakne
+sakniki
 sakno
 sakoe
 sakral
@@ -12677,6 +12686,7 @@ uring
 urip
 uripan
 uripe
+uripen
 uripku
 uripmu
 uris
