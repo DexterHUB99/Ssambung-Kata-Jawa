@@ -9834,7 +9834,6 @@ piatu
 piawang
 picak
 picek
-pidah
 pidak
 pidana
 pidang
@@ -12157,7 +12156,6 @@ tu
 tua
 tuak
 tuban
-tubi
 tubruk
 tubuh
 tugel
