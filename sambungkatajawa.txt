@@ -1295,7 +1295,6 @@ ayani
 ayap
 ayar
 ayas
-ayasa
 ayat
 ayay
 aye
@@ -10885,7 +10884,6 @@ sasuk
 sat
 sata
 satai
-satar
 sate
 sati
 satitik
@@ -12797,7 +12795,6 @@ weli
 weling
 welo
 welut
-wema
 wen
 wene
 weneh
