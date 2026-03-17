@@ -13028,6 +13028,7 @@ ulal
 ulala
 ulam
 ulama
+ulamo
 ulan
 ulang
 ulanga
