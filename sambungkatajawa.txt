@@ -12376,6 +12376,7 @@ umas
 umat
 umbah
 umbahan
+umbal
 umbang
 umbar
 umbara
