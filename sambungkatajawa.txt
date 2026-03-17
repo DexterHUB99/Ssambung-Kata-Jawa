@@ -145,6 +145,7 @@ ahaw
 ahay
 ahe
 aheh
+ahej
 ahek
 ahel
 ahem
@@ -915,6 +916,7 @@ apuwo
 aqiqah
 ar
 ara
+araa
 arab
 araen
 arah
@@ -1483,6 +1485,7 @@ beleh
 belek
 beler
 beli
+beling
 belo
 belu
 beluk
@@ -1929,7 +1932,6 @@ cis
 ciu
 ciut
 ciwa
-ciya
 ciyo
 ciyut
 clurut
@@ -3506,7 +3508,6 @@ geser
 gesi
 gesit
 get
-gete
 gething
 gethok
 gethuk
@@ -4308,6 +4309,7 @@ imbaan
 imbah
 imbai
 imbal
+imbala
 imbalan
 imbang
 imbangi
@@ -4541,6 +4543,7 @@ isine
 ising
 isinna
 isis
+isisi
 isiso
 isit
 isita
@@ -5601,7 +5604,6 @@ kliwon
 klo
 klu
 klumah
-kluyuran
 kntl
 ko
 kobel
@@ -6793,7 +6795,6 @@ minal
 minangka
 minat
 minate
-mingat
 minggat
 minggir
 minggu
@@ -6825,7 +6826,6 @@ misu
 misuh
 mita
 mitoni
-miya
 mlaku
 mlarat
 mlebet
@@ -7281,7 +7281,6 @@ negi
 negor
 negori
 neh
-nehi
 nek
 neka
 nekad
@@ -7542,7 +7541,6 @@ ngangkat
 ngangluh
 ngangon
 ngangsal
-ngangso
 ngangsu
 ngangsur
 ngangu
@@ -10455,6 +10453,7 @@ sasen
 sasi
 sasih
 sasuh
+sasuk
 sat
 sata
 sate
@@ -10595,6 +10594,7 @@ semur
 semut
 sen
 senajan
+senak
 senang
 senar
 sendal
@@ -11843,7 +11843,6 @@ unam
 unan
 unang
 unap
-uncak
 uncal
 undagi
 undak
