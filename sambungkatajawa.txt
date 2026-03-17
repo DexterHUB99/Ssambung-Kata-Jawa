@@ -3792,6 +3792,7 @@ gitari
 githok
 giwang
 giwangan
+gladhen
 go
 gobak
 gobang
@@ -6921,6 +6922,7 @@ manggaa
 manggil
 manggis
 manggon
+manggul
 mangi
 mangkane
 mangkat
