@@ -2955,6 +2955,7 @@ emur
 emut
 en
 ena
+enag
 enah
 enaj
 enak
@@ -5655,6 +5656,7 @@ keli
 kelia
 kelik
 keliling
+kelim
 kelinci
 kelingan
 kelir
@@ -9665,6 +9667,7 @@ pahing
 pahit
 paido
 paijo
+pain
 painem
 paing
 pait
