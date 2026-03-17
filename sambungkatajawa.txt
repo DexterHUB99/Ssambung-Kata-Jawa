@@ -9244,6 +9244,7 @@ nma
 nn
 nnaliko
 nnan
+nnapa
 nngawi
 nnggih
 nnginum
@@ -10814,6 +10815,7 @@ rasik
 rasim
 rasing
 rasis
+raski
 rasmo
 raso
 rasta
