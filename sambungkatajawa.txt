@@ -10442,6 +10442,7 @@ repi
 repit
 repmu
 repo
+repok
 repot
 rere
 rerek
@@ -12688,6 +12689,7 @@ ute
 utek
 uteke
 utekmu
+utekmui
 utel
 uten
 uter
