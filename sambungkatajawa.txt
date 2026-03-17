@@ -11148,6 +11148,7 @@ sosis
 sosmed
 sosok
 sotel
+soti
 soto
 sowan
 soyo
