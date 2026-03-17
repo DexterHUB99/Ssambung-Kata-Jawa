@@ -45,6 +45,7 @@ acuk
 acung
 ad
 ada
+adabi
 adah
 adai
 adak
@@ -592,6 +593,7 @@ amut
 an
 ana
 anaa
+anad
 anae
 anag
 anah
@@ -2433,7 +2435,6 @@ duwet
 duwit
 duwu
 duwur
-dwi
 ealah
 eb
 eba
@@ -2460,6 +2461,7 @@ edam
 edan
 edanan
 edar
+edaran
 ede
 edi
 edit
@@ -4370,7 +4372,6 @@ inggil
 inggit
 ingi
 ingin
-ingising
 ingka
 ingkang
 ingko
@@ -4522,7 +4523,6 @@ ising
 isinna
 isis
 isiso
-isisti
 isit
 isita
 iska
@@ -4956,7 +4956,6 @@ kalisa
 kaliyan
 kalo
 kalok
-kalon
 kalong
 kalor
 kalung
@@ -5972,6 +5971,7 @@ lantang
 lantas
 lante
 lanti
+lanting
 lantip
 lantun
 lantur
@@ -7179,7 +7179,6 @@ natal
 natalan
 natap
 nate
-nati
 natik
 nawa
 nawan
@@ -7547,6 +7546,7 @@ ngaplo
 ngaplok
 ngapu
 ngapunten
+ngapur
 ngapura
 ngapurancang
 ngapurane
@@ -8144,7 +8144,6 @@ ngulak
 ngulang
 ngulangi
 ngulas
-ngulat
 nguleg
 ngulek
 ngulen
@@ -8758,7 +8757,6 @@ onda
 onde
 ondha
 ondhe
-ondho
 ondo
 ondol
 oneng
@@ -9788,7 +9786,6 @@ rawo
 rawon
 rawu
 rawuh
-rawun
 rawung
 raya
 rayap
@@ -10625,7 +10622,6 @@ sia
 sial
 siala
 sialan
-siamang
 siap
 siapa
 siapo
@@ -11088,6 +11084,7 @@ tanah
 tandang
 tandas
 tandha
+tandhu
 tandhuk
 tanduk
 tandur
@@ -11429,7 +11426,6 @@ totelu
 toto
 towo
 toya
-trah
 trenggalek
 tresna
 tresno
@@ -11651,6 +11647,7 @@ uker
 ukere
 ukes
 uket
+ukha
 uki
 ukin
 uking
@@ -11849,7 +11846,6 @@ unki
 unma
 unni
 uno
-unra
 unta
 untah
 untal
@@ -11944,7 +11940,6 @@ uris
 urit
 uritan
 urka
-urli
 urma
 uro
 urra
@@ -12181,6 +12176,7 @@ wasir
 wasira
 wasno
 wasuh
+wata
 watak
 wati
 watir
@@ -12407,6 +12403,7 @@ yamaha
 yaman
 yamen
 yami
+yamna
 yan
 yana
 yang
