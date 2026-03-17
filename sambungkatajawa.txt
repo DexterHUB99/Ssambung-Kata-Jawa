@@ -3081,6 +3081,7 @@ eram
 erame
 eran
 erang
+erange
 erao
 erap
 eras
@@ -7707,6 +7708,7 @@ nerang
 nerangake
 nerangi
 nerangke
+nerangne
 nerap
 nerasi
 nereng
