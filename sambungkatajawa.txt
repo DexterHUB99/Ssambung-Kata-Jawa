@@ -556,6 +556,7 @@ amiri
 amis
 amise
 amit
+amiy
 amo
 amoe
 amoh
@@ -1887,6 +1888,7 @@ canggih
 canggung
 cangkem
 cangkeman
+cangkemu
 cangkir
 cangkul
 cantik
@@ -1913,6 +1915,7 @@ cawe
 cawet
 cawi
 cawik
+cawir
 cawis
 cawuk
 ce
@@ -3106,6 +3109,7 @@ erum
 erun
 erung
 erup
+erupa
 erupi
 erus
 erusi
@@ -4432,6 +4436,7 @@ ilak
 ilala
 ilali
 ilam
+ilama
 ilan
 ilang
 ilangan
@@ -4960,6 +4965,7 @@ jidat
 jiga
 jigong
 jijih
+jijihan
 jijik
 jika
 jikuk
@@ -7342,6 +7348,7 @@ nai
 naik
 naika
 nail
+naila
 najan
 najeng
 najis
@@ -8500,6 +8507,7 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
+ngran
 ngrasa
 ngrasakna
 ngrasani
@@ -8775,6 +8783,7 @@ nn
 nnaliko
 nnan
 nngawi
+nnggih
 nnginum
 nni
 nnipo
@@ -9086,6 +9095,7 @@ okeran
 okerek
 okeri
 oket
+okeyi
 okin
 okit
 okita
@@ -9929,6 +9939,7 @@ posa
 pose
 posen
 posi
+posor
 pot
 pota
 potong
@@ -12772,6 +12783,7 @@ warak
 waras
 wareg
 warek
+wareng
 warga
 wari
 waria
@@ -12925,6 +12937,7 @@ wingko
 winko
 wir
 wira
+wirama
 wirang
 wirangan
 wiraya
