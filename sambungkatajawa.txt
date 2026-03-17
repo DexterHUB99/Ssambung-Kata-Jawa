@@ -616,6 +616,7 @@ anang
 ananging
 ananjing
 ananti
+anap
 anar
 anas
 anat
@@ -1509,7 +1510,6 @@ bendo
 bendung
 bene
 bener
-bengek
 bengi
 bengkok
 beni
@@ -2617,7 +2617,6 @@ ekib
 ekik
 ekil
 ekin
-ekir
 ekis
 ekit
 eklas
@@ -2775,7 +2774,6 @@ emu
 emuh
 emuk
 emul
-emun
 emur
 emut
 en
@@ -3715,6 +3713,7 @@ gubeng
 gubernur
 gubris
 gubug
+gudag
 gudang
 gudangan
 gudeg
@@ -4989,7 +4988,6 @@ kaka
 kakaa
 kakak
 kakaka
-kakanda
 kakang
 kakap
 kake
@@ -5286,7 +5284,6 @@ kedanan
 kedaton
 keder
 kediri
-kedondong
 keduhung
 kedul
 kedung
@@ -6194,6 +6191,7 @@ lenggah
 lengkuas
 lengo
 lengser
+lentog
 lepas
 lepat
 lepe
@@ -6323,6 +6321,7 @@ lisi
 lisung
 lit
 lita
+litah
 liti
 liwat
 liwe
@@ -7186,7 +7185,6 @@ nambai
 nambal
 nambang
 nambani
-nambel
 name
 nami
 namine
@@ -7368,7 +7366,6 @@ nekani
 nekat
 neken
 neker
-neki
 neko
 nel
 nela
@@ -7927,7 +7924,6 @@ ngerem
 ngerenek
 ngeres
 ngeresi
-ngeresiki
 ngeret
 ngeri
 ngerit
@@ -8767,7 +8763,6 @@ oj
 ojak
 ojam
 ojar
-ojeg
 ojek
 ojekan
 ojen
@@ -9511,7 +9506,6 @@ piranga
 pireng
 piring
 piro
-pirsa
 piruk
 pis
 pisa
@@ -10084,7 +10078,6 @@ rere
 rerek
 rerema
 reresik
-reri
 res
 resa
 resah
