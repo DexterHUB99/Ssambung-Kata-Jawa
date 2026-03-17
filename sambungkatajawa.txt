@@ -1234,7 +1234,6 @@ atri
 atu
 atuh
 atuk
-atul
 atum
 atun
 atur
@@ -1505,7 +1504,6 @@ batang
 bathuk
 bati
 batik
-batin
 bato
 batok
 batu
@@ -1594,6 +1592,7 @@ beluk
 belum
 belut
 bem
+bema
 ben
 bena
 benang
@@ -2175,6 +2174,7 @@ cungkring
 cupu
 cur
 curi
+curiga
 curu
 curug
 curut
@@ -4369,6 +4369,7 @@ homi
 homo
 hon
 hona
+hone
 hono
 honta
 hoo
@@ -5759,6 +5760,7 @@ kempul
 kemroh
 kemul
 kemulan
+kemut
 ken
 kena
 kenak
@@ -7605,6 +7607,7 @@ nail
 naila
 najan
 najeng
+najin
 najis
 najuk
 nak
@@ -11243,6 +11246,7 @@ sampean
 sampek
 sampen
 sampeyan
+sampi
 sampian
 samping
 sampir
