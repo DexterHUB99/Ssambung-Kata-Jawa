@@ -1579,7 +1579,6 @@ bidak
 bidan
 bidek
 bidik
-bidu
 bidun
 bidur
 bien
@@ -4014,6 +4013,7 @@ hawo
 haya
 hayang
 hayat
+hayati
 hayo
 hayolo
 hayoo
@@ -7673,6 +7673,7 @@ ngamis
 ngamo
 ngamok
 ngampar
+ngampas
 ngampel
 ngampet
 ngampil
@@ -12115,6 +12116,7 @@ umbah
 umbahan
 umbang
 umbar
+umbara
 umbas
 umbel
 umbi
