@@ -6743,6 +6743,7 @@ lepat
 lepe
 lepi
 ler
+lera
 lere
 leren
 leres
