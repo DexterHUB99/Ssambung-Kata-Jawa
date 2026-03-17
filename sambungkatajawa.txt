@@ -126,6 +126,7 @@ agih
 agin
 agor
 agu
+aguh
 agun
 agung
 agus
@@ -5188,6 +5189,7 @@ kadal
 kadan
 kadang
 kademan
+kades
 kadewa
 kadi
 kadong
