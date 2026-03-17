@@ -3833,6 +3833,7 @@ getok
 geton
 getuk
 getun
+geus
 gewa
 gewe
 gewo
