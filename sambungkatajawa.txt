@@ -1074,7 +1074,6 @@ arya
 as
 asa
 asah
-asahan
 asai
 asak
 asal
@@ -1504,7 +1503,6 @@ batang
 bathuk
 bati
 batik
-batin
 bato
 batok
 batu
@@ -1593,6 +1591,7 @@ beluk
 belum
 belut
 bem
+bema
 ben
 bena
 benang
@@ -2174,6 +2173,7 @@ cungkring
 cupu
 cur
 curi
+curiga
 curu
 curug
 curut
@@ -4368,6 +4368,7 @@ homi
 homo
 hon
 hona
+hone
 hono
 honta
 hoo
@@ -4646,7 +4647,6 @@ imas
 imba
 imbaan
 imbah
-imbahan
 imbai
 imbal
 imbala
@@ -5758,6 +5758,7 @@ kempul
 kemroh
 kemul
 kemulan
+kemut
 ken
 kena
 kenak
@@ -7604,6 +7605,7 @@ nail
 naila
 najan
 najeng
+najin
 najis
 najuk
 nak
@@ -8092,7 +8094,6 @@ ngampar
 ngampas
 ngampel
 ngampet
-ngampih
 ngampil
 ngampir
 ngampleng
@@ -8293,7 +8294,6 @@ ngawini
 ngawir
 ngawis
 ngawit
-ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8410,7 +8410,6 @@ ngenalin
 ngencang
 ngencuk
 ngendah
-ngendak
 ngendang
 ngendeng
 ngendep
@@ -8609,7 +8608,6 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
-ngimpen
 ngimpi
 ngin
 ngina
@@ -10762,7 +10760,6 @@ remok
 rempah
 rempal
 rempeyek
-rempol
 rempon
 remu
 remuk
@@ -11242,6 +11239,7 @@ sampean
 sampek
 sampen
 sampeyan
+sampi
 sampian
 samping
 sampir
