@@ -2848,6 +2848,7 @@ enjoy
 enka
 enki
 enko
+enli
 enlo
 eno
 enoh
@@ -6113,7 +6114,6 @@ leak
 leba
 lebah
 lebak
-lebay
 lebet
 lebih
 lebu
@@ -6810,7 +6810,6 @@ mia
 micek
 mie
 mieayam
-miee
 migunani
 mii
 mijet
