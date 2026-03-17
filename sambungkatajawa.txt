@@ -3311,7 +3311,6 @@ gadai
 gadang
 gadha
 gadhah
-gadhe
 gadhing
 gading
 gado
@@ -7607,7 +7606,6 @@ nawon
 nawur
 naya
 nayo
-nayoh
 ncok
 ndadak
 ndak
@@ -9838,7 +9836,6 @@ piatu
 piawang
 picak
 picek
-pidah
 pidak
 pidana
 pidang
@@ -12161,7 +12158,6 @@ tu
 tua
 tuak
 tuban
-tubi
 tubruk
 tubuh
 tugel
@@ -12641,7 +12637,6 @@ upan
 upane
 upang
 upas
-upat
 upaya
 upe
 upel
