@@ -1699,7 +1699,6 @@ bodi
 bodo
 bodoh
 bodok
-bogem
 bohong
 bojo
 bojok
@@ -7917,6 +7916,7 @@ ngandai
 ngandang
 ngandani
 ngandap
+ngandel
 ngandhap
 ngandi
 ngandika
@@ -9343,6 +9343,7 @@ opak
 opal
 opam
 opan
+opas
 opat
 opel
 open
