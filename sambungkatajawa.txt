@@ -555,7 +555,6 @@ amiri
 amis
 amise
 amit
-amiy
 amo
 amoe
 amoh
@@ -2449,6 +2448,7 @@ doli
 dolo
 dolu
 dom
+doma
 domba
 domblong
 domi
@@ -6024,6 +6024,7 @@ kumi
 kumo
 kumpul
 kumpula
+kumpulan
 kumu
 kumuh
 kumut
@@ -8487,7 +8488,6 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
-ngran
 ngrasa
 ngrasakna
 ngrasani
