@@ -654,6 +654,7 @@ ancene
 ancer
 anci
 ancik
+ancika
 anco
 ancok
 ancu
@@ -1911,6 +1912,7 @@ cantik
 canting
 cap
 capek
+caper
 capi
 caping
 capung
@@ -7716,6 +7718,7 @@ nengah
 nengdi
 nenge
 nengen
+nengga
 neni
 nep
 nepa
@@ -7807,7 +7810,6 @@ ngadohi
 ngadok
 ngadol
 ngadon
-ngados
 ngadu
 ngaduk
 ngadul
@@ -7917,7 +7919,6 @@ ngandai
 ngandang
 ngandani
 ngandap
-ngandel
 ngandhap
 ngandi
 ngandika
@@ -8642,7 +8643,6 @@ ngula
 ngulah
 ngulai
 ngulak
-ngulam
 ngulan
 ngulang
 ngulangi
@@ -9345,7 +9345,6 @@ opak
 opal
 opam
 opan
-opas
 opat
 opel
 open
@@ -11195,6 +11194,7 @@ sembur
 seme
 semen
 semene
+semi
 semo
 semok
 semot
