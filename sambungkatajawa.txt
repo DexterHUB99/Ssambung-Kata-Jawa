@@ -4061,6 +4061,7 @@ hah
 haha
 hahaa
 hahaha
+hahak
 hahi
 haho
 hai
@@ -9647,7 +9648,6 @@ padus
 padusan
 paes
 pagar
-pagawean
 pager
 paget
 pagi
@@ -11065,6 +11065,7 @@ saket
 saki
 sakiki
 saking
+sakir
 sakit
 sakitmu
 sakne
@@ -12159,7 +12160,6 @@ tete
 teteg
 teteh
 tetek
-tetekala
 tetelan
 tetep
 tetes
