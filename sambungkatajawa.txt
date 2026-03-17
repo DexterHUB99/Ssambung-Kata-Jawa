@@ -1464,6 +1464,7 @@ basuki
 bata
 batak
 batal
+batang
 bathuk
 bati
 batik
