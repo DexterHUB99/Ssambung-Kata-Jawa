@@ -495,6 +495,7 @@ ambalan
 ambar
 ambarawa
 ambat
+ambegan
 ambek
 ambel
 amben
@@ -852,6 +853,7 @@ anu
 anua
 anue
 anugerah
+anuh
 anuk
 anum
 anun
@@ -3064,6 +3066,7 @@ estri
 estu
 esu
 esue
+esuh
 esuk
 esun
 et
@@ -8082,6 +8085,7 @@ nggumun
 ngguyu
 ngguyue
 ngibadah
+ngiber
 ngibrit
 ngibu
 ngibul
@@ -9094,7 +9098,6 @@ orok
 orong
 oros
 orosi
-orot
 orotan
 oruk
 os
