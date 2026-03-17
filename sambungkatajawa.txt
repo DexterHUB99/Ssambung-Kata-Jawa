@@ -4863,6 +4863,7 @@ jiret
 jiri
 jirih
 jit
+jita
 jitak
 jiwa
 jo
@@ -8351,6 +8352,7 @@ ngupah
 ngupai
 ngupakara
 ngupas
+ngupati
 ngupaya
 ngupel
 ngupi
