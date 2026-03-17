@@ -697,7 +697,6 @@ angap
 angar
 angat
 ange
-angeh
 angel
 angen
 angep
@@ -2418,6 +2417,7 @@ dompet
 don
 dong
 donga
+dongane
 dongeng
 dongi
 dongo
@@ -3016,7 +3016,6 @@ eram
 eran
 erang
 erao
-erap
 eras
 erat
 ere
@@ -5363,6 +5362,7 @@ kece
 kecek
 kecel
 kecelek
+kecemplung
 kecewa
 kecoa
 kecot
@@ -6253,7 +6253,6 @@ lekan
 lekas
 lekat
 lekoh
-lela
 lelabuhan
 lelah
 lele
@@ -6391,6 +6390,7 @@ lintangen
 lintas
 lintasan
 lintu
+lintune
 lio
 lip
 lipa
@@ -6421,6 +6421,7 @@ lisan
 lisaning
 lise
 lisi
+lising
 lisung
 lit
 lita
@@ -7252,7 +7253,6 @@ nai
 naik
 naika
 nail
-naila
 najan
 najeng
 najis
@@ -7367,7 +7367,6 @@ naon
 nap
 napa
 napak
-napan
 napane
 napas
 nape
@@ -9296,7 +9295,6 @@ pakdhe
 pake
 pakir
 pakle
-pakni
 pakon
 pakpuh
 paku
@@ -9553,6 +9551,7 @@ peran
 perang
 percaya
 pere
+perek
 peri
 perih
 permisi
@@ -9593,6 +9592,7 @@ pie
 pih
 pijak
 pijang
+pijar
 pijat
 pijer
 pijet
@@ -9707,6 +9707,7 @@ pitakon
 pitek
 piten
 piter
+pites
 pitik
 piting
 piton
@@ -9762,6 +9763,7 @@ poli
 polisi
 poll
 polo
+poloh
 pom
 poma
 pomi
@@ -9946,7 +9948,6 @@ raib
 raie
 raika
 raiki
-raiko
 raiku
 raimu
 raimuasu
@@ -10164,6 +10165,7 @@ rebahan
 rebana
 rebo
 rebung
+rebus
 rebut
 rebutan
 receh
@@ -10197,7 +10199,6 @@ reksa
 reku
 rela
 relax
-rele
 reli
 relo
 relu
@@ -11112,6 +11113,7 @@ siram
 siraman
 sire
 sirem
+siren
 sirep
 siri
 sirih
