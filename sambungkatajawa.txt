@@ -2232,6 +2232,7 @@ der
 dera
 derek
 dereng
+derep
 deres
 dermawan
 deru
@@ -2412,7 +2413,6 @@ dompet
 don
 dong
 donga
-dongane
 dongeng
 dongi
 dongo
@@ -5354,7 +5354,6 @@ kece
 kecek
 kecel
 kecelek
-kecemplung
 kecewa
 kecoa
 kecot
@@ -6382,7 +6381,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintune
 lio
 lip
 lipa
@@ -6413,7 +6411,6 @@ lisan
 lisaning
 lise
 lisi
-lising
 lisung
 lit
 lita
@@ -7994,6 +7991,7 @@ ngempek
 ngemper
 ngempet
 ngempil
+ngemplok
 ngempot
 ngempu
 ngemut
@@ -8827,6 +8825,7 @@ nyanyi
 nyapa
 nyaponi
 nyapu
+nyari
 nyaru
 nyasar
 nyatu
@@ -9122,6 +9121,7 @@ opon
 opone
 opoo
 opor
+opos
 opose
 oposi
 opowae
@@ -9536,7 +9536,6 @@ peran
 perang
 percaya
 pere
-perek
 peri
 perih
 permisi
@@ -9577,7 +9576,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -9747,7 +9745,6 @@ poli
 polisi
 poll
 polo
-poloh
 pom
 poma
 pomi
@@ -10686,6 +10683,7 @@ samping
 sampir
 sampo
 sampok
+sampol
 sampul
 sampun
 sampur
@@ -11095,7 +11093,6 @@ siram
 siraman
 sire
 sirem
-siren
 sirep
 siri
 sirih
@@ -12147,6 +12144,7 @@ ulu
 uluk
 ulun
 ulung
+ulup
 ulur
 um
 uma
