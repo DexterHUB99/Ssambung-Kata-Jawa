@@ -3909,6 +3909,7 @@ gugah
 gugat
 gugatan
 gugu
+guguga
 guguk
 gugup
 gugur
@@ -7622,6 +7623,7 @@ nawang
 nawani
 nawar
 nawari
+nawas
 nawe
 nawi
 nawon
@@ -11098,6 +11100,7 @@ sasa
 sasak
 sasampean
 sasaran
+sasek
 sasen
 sasi
 sasih
