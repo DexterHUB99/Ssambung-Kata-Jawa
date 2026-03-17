@@ -736,6 +736,7 @@ anen
 anena
 anene
 aneng
+anep
 aner
 anes
 anga
@@ -2261,6 +2262,7 @@ dakar
 daki
 dakngerti
 dakon
+daku
 dakwah
 dal
 dala
@@ -13487,6 +13489,7 @@ wasiat
 wasir
 wasira
 wasno
+waspada
 wasuh
 wata
 watak
