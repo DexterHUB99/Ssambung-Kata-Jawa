@@ -2604,6 +2604,7 @@ ejar
 eje
 ejek
 eji
+ejik
 ejo
 eju
 ejuh
@@ -3095,6 +3096,7 @@ etig
 etik
 etika
 etil
+etin
 eting
 etis
 eto
