@@ -4593,6 +4593,7 @@ imai
 imam
 imame
 iman
+imani
 imar
 imas
 imba
@@ -7260,6 +7261,7 @@ miring
 mirip
 miris
 miro
+mirsa
 mirsani
 mis
 misa
@@ -9073,6 +9075,7 @@ nue
 nugel
 nugraha
 nuh
+nuha
 nuhun
 nui
 nuju
