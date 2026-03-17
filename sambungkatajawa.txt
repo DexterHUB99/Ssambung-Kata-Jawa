@@ -2440,6 +2440,7 @@ do
 doa
 dobleh
 dobol
+dodi
 dodik
 dodo
 dodok
@@ -5808,6 +5809,7 @@ kipet
 kir
 kira
 kirab
+kirai
 kiran
 kirana
 kirane
@@ -12708,6 +12710,7 @@ utamane
 utami
 utan
 utang
+utangan
 utange
 utangi
 utangmu
