@@ -1579,6 +1579,7 @@ bidak
 bidan
 bidek
 bidik
+bidu
 bidun
 bidur
 bien
@@ -7672,7 +7673,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -12115,7 +12115,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
