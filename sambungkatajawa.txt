@@ -8632,6 +8632,7 @@ ngupel
 ngupi
 ngupil
 nguping
+ngupo
 ngur
 ngurah
 ngurak
