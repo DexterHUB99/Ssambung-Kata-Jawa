@@ -1812,6 +1812,7 @@ buntung
 buntut
 bunuh
 bur
+burek
 burik
 burok
 buron
@@ -1883,6 +1884,7 @@ candi
 candra
 canggah
 canggih
+canggung
 cangkem
 cangkeman
 cangkir
@@ -2450,6 +2452,7 @@ doli
 dolo
 dolu
 dom
+doma
 domba
 domblong
 domi
@@ -4114,6 +4117,7 @@ helia
 helikopter
 helo
 hem
+hema
 hemat
 hemo
 hemu
@@ -4860,6 +4864,7 @@ jamput
 jamu
 jamur
 jan
+jana
 janaka
 jancok
 jancuk
@@ -6026,6 +6031,7 @@ kumi
 kumo
 kumpul
 kumpula
+kumpulan
 kumu
 kumuh
 kumut
@@ -7394,6 +7400,7 @@ nampak
 nampan
 nampani
 nampar
+namper
 nampil
 namping
 nampol
@@ -7542,6 +7549,7 @@ nebang
 nebas
 nebe
 neben
+nebih
 neda
 nedah
 nedan
@@ -7837,6 +7845,7 @@ ngangah
 ngangam
 ngange
 ngangen
+ngangeni
 ngangge
 nganggep
 nganggo
@@ -8958,6 +8967,7 @@ nyenu
 nyikat
 nyilih
 nyimak
+nyinom
 nyiram
 nyirep
 nyo
@@ -9000,6 +9010,7 @@ obrol
 oceh
 ocehan
 ocok
+ocon
 od
 odok
 odol
@@ -9323,6 +9334,7 @@ osok
 osor
 osut
 ot
+otah
 otak
 otakmu
 otek
@@ -9623,6 +9635,7 @@ peliku
 pelit
 pelita
 pelo
+pelu
 peluk
 pema
 pemo
@@ -9956,6 +9969,7 @@ puka
 puki
 pukimak
 pukki
+puku
 pukul
 pul
 pula
@@ -12250,6 +12264,7 @@ ukul
 ukum
 ukung
 ukup
+ukupan
 ukur
 ukura
 ukuran
@@ -12313,6 +12328,7 @@ umahe
 umai
 umaira
 umak
+umami
 uman
 umar
 umas
