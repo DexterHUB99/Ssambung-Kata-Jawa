@@ -8287,6 +8287,7 @@ nganggo
 nganggok
 nganggu
 nganggur
+ngangi
 ngangk
 ngangkang
 ngangkat
@@ -10065,6 +10066,7 @@ panji
 panta
 pantai
 pantang
+pantangan
 pantar
 pantas
 pantat
@@ -10586,6 +10588,7 @@ puncak
 pundhak
 pundhut
 pundi
+punen
 pungkasan
 puni
 punika
