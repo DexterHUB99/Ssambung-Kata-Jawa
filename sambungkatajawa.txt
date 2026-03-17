@@ -4308,6 +4308,7 @@ imbaan
 imbah
 imbai
 imbal
+imbala
 imbalan
 imbang
 imbangi
@@ -10592,6 +10593,7 @@ semur
 semut
 sen
 senajan
+senak
 senang
 senar
 sendal
