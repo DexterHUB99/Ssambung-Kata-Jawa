@@ -8369,6 +8369,7 @@ ngen
 ngena
 ngenah
 ngenak
+ngenalin
 ngencang
 ngencuk
 ngendah
@@ -12260,6 +12261,7 @@ tilasan
 tile
 tilem
 tilep
+tilepan
 tili
 tim
 tima
