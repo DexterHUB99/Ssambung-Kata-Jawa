@@ -107,7 +107,6 @@ aga
 agah
 agak
 agal
-agam
 agama
 agami
 agar
@@ -1643,7 +1642,6 @@ bili
 bilih
 bilo
 bilu
-bilung
 bim
 bima
 bimo
@@ -2814,7 +2812,6 @@ emam
 eman
 emane
 emang
-emar
 emas
 emat
 ematane
@@ -3597,7 +3594,6 @@ gendi
 gendon
 gendong
 gendruwo
-gendul
 gendung
 gendut
 gene
@@ -3963,7 +3959,6 @@ haho
 hai
 haie
 haii
-haina
 hajar
 hajat
 haji
@@ -4128,7 +4123,6 @@ hele
 heli
 helia
 helikopter
-helina
 helo
 hem
 hema
@@ -6081,7 +6075,6 @@ kupa
 kupas
 kupat
 kupeng
-kuper
 kuping
 kupluk
 kupu
@@ -6225,7 +6218,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanange
 lancang
@@ -6817,7 +6809,6 @@ man
 mana
 manah
 manak
-manas
 manasi
 mancal
 mancing
@@ -7343,7 +7334,6 @@ nadahi
 nadar
 nadhah
 nadi
-nadine
 nadyan
 nae
 naek
@@ -7602,7 +7592,6 @@ neh
 nek
 neka
 nekad
-nekan
 nekani
 nekat
 neken
@@ -7720,7 +7709,6 @@ ngabekti
 ngaben
 ngaboti
 ngabu
-ngabung
 ngaca
 ngacak
 ngacang
@@ -8520,7 +8508,6 @@ ngosip
 ngosok
 ngosong
 ngosor
-ngot
 ngotak
 ngoti
 ngotori
@@ -9843,7 +9830,6 @@ pipi
 pipik
 pipipis
 pipis
-pipit
 pipo
 pir
 pira
@@ -9920,7 +9906,6 @@ pokok
 pokoke
 pokoknya
 pokone
-pokro
 pol
 pola
 polah
@@ -12481,7 +12466,6 @@ ungu
 uni
 unine
 uning
-unini
 unja
 unjal
 unjang
@@ -13024,7 +13008,6 @@ wonosobo
 wonten
 woo
 wor
-woran
 woro
 wortel
 wos
