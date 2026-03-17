@@ -2043,6 +2043,7 @@ conto
 contoh
 contohe
 copet
+copi
 coplok
 copot
 cor
@@ -6407,6 +6408,7 @@ limbah
 limbuk
 limbung
 limo
+limola
 limolas
 limpa
 limu
@@ -8954,7 +8956,6 @@ obok
 obong
 obor
 obot
-obrak
 obral
 obrol
 oceh
@@ -10081,7 +10082,6 @@ rambut
 rambutan
 rambute
 rambutem
-rambutmu
 rame
 ramean
 ramen
@@ -10183,7 +10183,6 @@ rasing
 rasis
 rasmo
 raso
-rasta
 rasu
 rasuk
 rasukan
@@ -12887,6 +12886,7 @@ wok
 woke
 woko
 wol
+wola
 wolak
 wolo
 wolu
@@ -13069,7 +13069,6 @@ yuan
 yuda
 yudha
 yudi
-yue
 yugo
 yuh
 yuhan
