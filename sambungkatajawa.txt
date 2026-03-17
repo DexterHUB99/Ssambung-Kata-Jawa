@@ -1557,6 +1557,7 @@ bendo
 bendung
 bene
 bener
+bengawan
 bengek
 bengi
 bengkok
@@ -1579,7 +1580,6 @@ bero
 berok
 berot
 beru
-berung
 bes
 besan
 besar
@@ -4761,6 +4761,7 @@ iso
 isoe
 isok
 isol
+isola
 isoma
 isone
 isoo
@@ -6594,6 +6595,7 @@ longan
 longgar
 longgo
 longgor
+longok
 longor
 longsor
 loni
@@ -8359,6 +8361,7 @@ ngipas
 ngir
 ngira
 ngiri
+ngirik
 ngirim
 ngirimi
 ngirimna
@@ -8633,6 +8636,7 @@ ngupel
 ngupi
 ngupil
 nguping
+ngupo
 ngur
 ngurah
 ngurak
@@ -9023,6 +9027,7 @@ oalah
 ob
 oba
 obah
+obahe
 obak
 obama
 obat
@@ -9768,6 +9773,7 @@ pikang
 piker
 piki
 pikir
+pikirmu
 piknik
 piko
 pikon
@@ -10442,6 +10448,7 @@ rep
 repa
 repan
 repat
+repek
 repi
 repit
 repmu
