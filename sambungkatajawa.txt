@@ -4124,6 +4124,7 @@ hele
 heli
 helia
 helikopter
+helina
 helo
 hem
 hema
@@ -6216,6 +6217,7 @@ lamuna
 lamunan
 lan
 lana
+lanan
 lanang
 lanange
 lancang
