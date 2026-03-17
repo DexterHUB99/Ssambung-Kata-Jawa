@@ -322,6 +322,7 @@ akem
 aken
 akeng
 akeo
+akep
 aker
 akes
 aket
@@ -377,6 +378,7 @@ akun
 akune
 akup
 akur
+akura
 akuran
 akure
 akus
@@ -641,6 +643,7 @@ ancar
 ancas
 ancase
 ancen
+ancene
 ancer
 anci
 ancik
@@ -833,7 +836,6 @@ anta
 antah
 antam
 antangi
-antap
 antar
 antara
 antarane
@@ -1380,6 +1382,7 @@ bal
 bala
 balai
 balak
+balap
 balek
 baleni
 bali
@@ -2423,6 +2426,7 @@ dola
 dolan
 dolanan
 dolen
+doli
 dolo
 dolu
 dom
@@ -3326,6 +3330,7 @@ gamelan
 gamen
 gamer
 gami
+gaming
 gamis
 gamma
 gamo
@@ -3510,6 +3515,7 @@ gelut
 gem
 gema
 gemah
+gemang
 gemar
 gemas
 gemati
@@ -4476,6 +4482,7 @@ impian
 impil
 impit
 impor
+impul
 impun
 imuh
 imut
@@ -5092,6 +5099,7 @@ kaka
 kakaa
 kakak
 kakaka
+kakala
 kakanda
 kakang
 kakap
@@ -5552,6 +5560,7 @@ kepak
 kepala
 kepanggih
 keparat
+kepek
 kepel
 kepenak
 kepepet
@@ -5832,6 +5841,7 @@ kondhang
 kondi
 kondisi
 kondur
+konek
 koneng
 kongkon
 koni
@@ -6400,6 +6410,7 @@ lindur
 linggih
 linggis
 lingkar
+lingkaran
 lingkung
 lingkungan
 linglung
@@ -6891,6 +6902,7 @@ mburi
 me
 medal
 medeni
+medhal
 medhok
 meditasi
 mega
@@ -8244,6 +8256,7 @@ ngindang
 nginep
 nging
 nginggil
+nginggo
 ngingkang
 ngini
 nginjak
@@ -8301,7 +8314,6 @@ nglangi
 nglangkah
 nglantur
 nglek
-nglilir
 ngliwet
 ngloh
 nglon
@@ -8888,6 +8900,7 @@ nyekar
 nyeluk
 nyembah
 nyeni
+nyenu
 nyikat
 nyilih
 nyimak
@@ -9096,7 +9109,6 @@ ompong
 ompreng
 on
 onang
-onangan
 onar
 oncek
 onco
@@ -9599,6 +9611,7 @@ pesing
 peso
 peta
 petak
+petan
 pete
 peteng
 pethuk
@@ -9753,6 +9766,7 @@ pitulas
 pitulung
 pitung
 pitutur
+piutang
 piwul
 piwulang
 piya
@@ -11501,6 +11515,7 @@ takan
 takbir
 takbiran
 taken
+taki
 takjil
 tako
 takon
@@ -11864,6 +11879,7 @@ tomi
 tomo
 tompel
 ton
+tona
 tonan
 tone
 tonggo
