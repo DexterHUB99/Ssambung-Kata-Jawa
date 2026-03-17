@@ -4744,6 +4744,7 @@ isinan
 isine
 ising
 isinna
+isio
 isis
 isisi
 isiso
