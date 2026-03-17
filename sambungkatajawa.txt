@@ -1182,6 +1182,7 @@ aura
 aurip
 aus
 ausa
+ausi
 aut
 auta
 autan
@@ -1312,6 +1313,7 @@ bahasa
 bahli
 bahu
 bai
+bairo
 baja
 bajai
 bajan
@@ -2369,7 +2371,6 @@ dosen
 doso
 dowo
 du
-dubi
 dubur
 duda
 dudi
@@ -4228,7 +4229,6 @@ ikiwe
 iklas
 iklim
 iko
-ikoe
 ikoi
 ikon
 ikoro
@@ -4538,7 +4538,6 @@ isine
 ising
 isinna
 isis
-isisam
 isiso
 isit
 isita
@@ -4919,6 +4918,7 @@ kagus
 kahanan
 kail
 kaila
+kaimas
 kain
 kaine
 kaisa
@@ -4929,6 +4929,7 @@ kajang
 kajeng
 kaji
 kajian
+kajine
 kak
 kaka
 kakaa
@@ -6249,7 +6250,6 @@ lisi
 lisung
 lit
 lita
-liten
 liti
 liwat
 liwe
@@ -10404,7 +10404,6 @@ sao
 saos
 sap
 sapa
-sapar
 sape
 sapi
 sapih
@@ -11000,6 +10999,7 @@ suri
 suro
 suroboyo
 suruh
+surung
 surup
 surut
 surya
@@ -11041,6 +11041,7 @@ suwine
 suwir
 suwun
 suwung
+suya
 suyo
 swara
 syukur
@@ -12179,6 +12180,7 @@ wama
 wan
 wana
 wanci
+wandi
 wandu
 wangan
 wangi
@@ -12329,6 +12331,7 @@ wijaya
 wiji
 wik
 wika
+wiki
 wiku
 wil
 wila
@@ -12365,7 +12368,6 @@ wisuh
 wit
 wita
 witan
-witen
 witir
 wito
 wiwi
