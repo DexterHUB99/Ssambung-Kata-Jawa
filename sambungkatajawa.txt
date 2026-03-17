@@ -8183,6 +8183,7 @@ ngedol
 ngeeh
 ngegame
 ngegas
+ngegawe
 ngeh
 ngehormati
 ngei
@@ -9826,6 +9827,7 @@ pensil
 pentil
 penting
 pentung
+penu
 penuh
 penyu
 peo
