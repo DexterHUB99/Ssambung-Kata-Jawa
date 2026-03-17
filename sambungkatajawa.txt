@@ -841,7 +841,6 @@ antuk
 antun
 antur
 anu
-anue
 anugerah
 anuk
 anum
@@ -12110,6 +12109,7 @@ usir
 usiren
 uska
 usko
+usku
 usli
 usma
 uso
