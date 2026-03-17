@@ -1182,7 +1182,6 @@ aura
 aurip
 aus
 ausa
-ausi
 aut
 auta
 autan
@@ -4927,7 +4926,6 @@ kajang
 kajeng
 kaji
 kajian
-kajine
 kak
 kaka
 kakaa
@@ -6830,6 +6828,7 @@ mmundur
 mo
 mobil
 mobilan
+moci
 moco
 modal
 modar
@@ -7664,6 +7663,7 @@ ngawal
 ngawali
 ngawang
 ngawas
+ngawasi
 ngawe
 ngaweh
 ngawer
@@ -10997,7 +10997,6 @@ suri
 suro
 suroboyo
 suruh
-surung
 surup
 surut
 surya
@@ -11039,7 +11038,6 @@ suwine
 suwir
 suwun
 suwung
-suya
 suyo
 swara
 syukur
@@ -12328,7 +12326,6 @@ wijaya
 wiji
 wik
 wika
-wiki
 wiku
 wil
 wila
