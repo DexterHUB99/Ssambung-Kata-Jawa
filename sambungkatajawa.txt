@@ -1180,6 +1180,7 @@ aura
 aurip
 aus
 ausa
+ausi
 aut
 auta
 autan
@@ -4915,6 +4916,7 @@ kajang
 kajeng
 kaji
 kajian
+kajine
 kak
 kaka
 kakaa
@@ -12299,6 +12301,7 @@ wijaya
 wiji
 wik
 wika
+wiki
 wiku
 wil
 wila
