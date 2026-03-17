@@ -99,6 +99,7 @@ aduk
 adus
 adzan
 ae
+aenak
 aeng
 afa
 afan
@@ -125,6 +126,7 @@ ager
 agi
 agih
 agin
+agit
 agor
 agu
 aguh
@@ -730,6 +732,7 @@ anggara
 anggaran
 angge
 anggeh
+anggen
 anggene
 anggep
 angger
@@ -2043,6 +2046,7 @@ cingkrang
 cingur
 cino
 cinta
+cip
 cipa
 cipo
 cire
@@ -2512,7 +2516,6 @@ donga
 dongane
 dongeng
 dongi
-dongkrak
 dongo
 dongok
 dongol
@@ -4947,7 +4950,6 @@ jail
 jait
 jaja
 jajah
-jajak
 jajal
 jajan
 jak
@@ -8325,7 +8327,6 @@ ngentong
 ngentu
 ngentuk
 ngentut
-ngenuk
 ngenut
 ngenyek
 ngeo
@@ -8660,7 +8661,6 @@ ngoplo
 ngopo
 ngopoe
 ngopoi
-ngopok
 ngopol
 ngopor
 ngopose
@@ -10290,8 +10290,10 @@ raen
 raga
 ragam
 ragangan
+ragas
 ragat
 ragelem
+ragen
 ragi
 ragil
 ragisa
@@ -10946,6 +10948,7 @@ ruyi
 rw
 sa
 saa
+saaken
 saan
 saayang
 sab
@@ -12555,6 +12558,7 @@ ulam
 ulama
 ulan
 ulang
+ulanga
 ulangan
 ulangi
 ulangtahun
@@ -12677,6 +12681,7 @@ unen
 unes
 unesa
 ung
+unga
 ungaran
 unggah
 unggal
