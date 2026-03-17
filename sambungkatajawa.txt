@@ -4965,6 +4965,7 @@ isone
 isoo
 isor
 isra
+isri
 istana
 isti
 istiadat
