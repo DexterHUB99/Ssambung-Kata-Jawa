@@ -5361,6 +5361,7 @@ kelor
 keloro
 keluarga
 keluh
+kelum
 kelut
 kem
 kema
@@ -9976,6 +9977,7 @@ ratui
 ratus
 rauh
 raul
+raum
 rauma
 raumi
 raung
