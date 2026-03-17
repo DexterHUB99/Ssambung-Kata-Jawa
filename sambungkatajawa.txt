@@ -7667,6 +7667,7 @@ netra
 newa
 ngaba
 ngabab
+ngabang
 ngabar
 ngabari
 ngabehi
@@ -11140,6 +11141,7 @@ siala
 sialan
 siap
 siapa
+siapan
 siapo
 siasu
 sibat
