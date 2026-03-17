@@ -3068,6 +3068,7 @@ erah
 erai
 erak
 eram
+erame
 eran
 erang
 erao
@@ -5656,6 +5657,7 @@ keras
 kerasa
 kerasan
 kerat
+kerata
 keraton
 kerawuh
 kerbau
