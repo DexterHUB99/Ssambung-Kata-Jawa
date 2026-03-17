@@ -628,6 +628,7 @@ anakku
 anakmu
 anal
 anam
+anaman
 anan
 anana
 anandong
@@ -2000,6 +2001,7 @@ cicir
 cicit
 cidek
 ciduk
+ciji
 cik
 cikal
 ciken
@@ -6263,6 +6265,7 @@ lambung
 lame
 lamen
 lami
+lamine
 lamis
 lamon
 lamong
@@ -6283,7 +6286,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanangan
 lanange
@@ -9046,7 +9048,6 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
-nwa
 ny
 nya
 nyai
