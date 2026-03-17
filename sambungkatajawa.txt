@@ -446,7 +446,6 @@ aloy
 alpa
 alpukat
 alu
-alue
 aluh
 aluk
 alukan
@@ -2299,6 +2298,7 @@ dipa
 dipan
 dipangan
 diparingi
+dipateni
 dipati
 dipiki
 dipo
@@ -2999,6 +2999,7 @@ esek
 esem
 eseme
 esemka
+esemmu
 esen
 eses
 eset
@@ -5422,7 +5423,6 @@ kepo
 kepriben
 kepriwe
 kepriye
-kepruk
 kepuh
 ker
 kera
@@ -8332,6 +8332,7 @@ niba
 nie
 nien
 niha
+nihi
 nii
 nik
 nika
@@ -11957,6 +11958,7 @@ untalen
 untar
 untara
 untas
+untek
 untel
 unter
 untik
@@ -12348,6 +12350,7 @@ weling
 welo
 welut
 wen
+wenang
 wene
 weneh
 wengi
