@@ -652,6 +652,7 @@ anae
 anag
 anah
 anai
+anaj
 anak
 anakan
 anake
@@ -7204,6 +7205,7 @@ mampus
 man
 mana
 manah
+manahan
 manak
 manas
 manasi
