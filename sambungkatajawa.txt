@@ -11955,7 +11955,6 @@ untalen
 untar
 untara
 untas
-untek
 untel
 unter
 untik
