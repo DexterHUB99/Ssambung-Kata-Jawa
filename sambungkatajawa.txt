@@ -7705,6 +7705,7 @@ ngasih
 ngasihi
 ngasil
 ngasin
+ngasir
 ngaso
 ngasoh
 ngasor
@@ -10094,6 +10095,7 @@ rilo
 rim
 rima
 riman
+rime
 rimo
 rimu
 rin
