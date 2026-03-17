@@ -628,6 +628,7 @@ anakku
 anakmu
 anal
 anam
+anaman
 anan
 anana
 anandong
@@ -861,7 +862,6 @@ antemi
 anteng
 antep
 anter
-anterre
 antes
 anti
 antik
@@ -1929,7 +1929,6 @@ cari
 carik
 carine
 carita
-carok
 caruk
 cas
 casa
@@ -2004,6 +2003,7 @@ cicir
 cicit
 cidek
 ciduk
+ciji
 cik
 cikal
 ciken
@@ -3567,6 +3567,7 @@ geguritan
 geh
 gei
 gek
+geka
 gel
 gela
 gelak
@@ -4010,7 +4011,6 @@ haho
 hai
 haie
 haii
-haing
 hajar
 hajat
 haji
@@ -5880,7 +5880,6 @@ kis
 kisa
 kisan
 kisanak
-kise
 kisi
 kit
 kita
@@ -6272,6 +6271,7 @@ lambung
 lame
 lamen
 lami
+lamine
 lamis
 lamon
 lamong
@@ -8831,7 +8831,6 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
@@ -9890,7 +9889,6 @@ pile
 pileh
 pilek
 pilem
-piler
 pilet
 pili
 pilih
@@ -10682,6 +10680,7 @@ robe
 robek
 robi
 roboh
+robok
 roda
 rodo
 roe
@@ -12369,7 +12368,6 @@ uji
 ujia
 ujian
 ujub
-ujug
 ujuk
 ujul
 ujun
