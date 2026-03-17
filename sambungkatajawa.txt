@@ -879,6 +879,7 @@ ansuran
 anta
 antah
 antam
+antang
 antangi
 antap
 antar
@@ -11361,6 +11362,7 @@ sabit
 sablon
 sabok
 sabrang
+sabruk
 sabtu
 sabuk
 sabun
