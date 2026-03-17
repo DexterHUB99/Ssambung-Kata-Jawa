@@ -1925,7 +1925,6 @@ cari
 carik
 carine
 carita
-carok
 caruk
 cas
 casa
@@ -4002,7 +4001,6 @@ haho
 hai
 haie
 haii
-haing
 hajar
 hajat
 haji
@@ -4780,6 +4778,7 @@ isin
 isinan
 isine
 ising
+isini
 isinna
 isio
 isis
@@ -8820,7 +8819,6 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
@@ -12352,7 +12350,6 @@ uji
 ujia
 ujian
 ujub
-ujug
 ujuk
 ujul
 ujun
