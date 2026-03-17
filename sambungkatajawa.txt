@@ -495,6 +495,7 @@ ambalan
 ambar
 ambarawa
 ambat
+ambegan
 ambek
 ambel
 amben
@@ -852,6 +853,7 @@ anu
 anua
 anue
 anugerah
+anuh
 anuk
 anum
 anun
@@ -2425,6 +2427,7 @@ dudu
 dudug
 duduh
 duduhi
+dudui
 duduk
 dudung
 duge
@@ -3065,6 +3068,7 @@ estri
 estu
 esu
 esue
+esuh
 esuk
 esun
 et
@@ -7502,6 +7506,8 @@ nerik
 nerima
 nerimo
 nerjang
+nerka
+nerkaa
 neros
 nerus
 nes
@@ -8084,6 +8090,7 @@ nggumun
 ngguyu
 ngguyue
 ngibadah
+ngiber
 ngibrit
 ngibu
 ngibul
@@ -9465,7 +9472,6 @@ perak
 peran
 perang
 percaya
-pere
 peri
 perih
 permisi
@@ -10899,7 +10905,6 @@ serut
 ses
 sesak
 sesat
-sese
 sesek
 sesi
 sesok
