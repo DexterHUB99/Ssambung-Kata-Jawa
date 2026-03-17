@@ -654,7 +654,6 @@ ancene
 ancer
 anci
 ancik
-ancika
 anco
 ancok
 ancu
@@ -1700,6 +1699,7 @@ bodi
 bodo
 bodoh
 bodok
+bogem
 bohong
 bojo
 bojok
