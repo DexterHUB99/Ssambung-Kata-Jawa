@@ -9621,6 +9621,7 @@ osar
 osara
 osas
 osek
+osel
 osem
 osen
 oseng
