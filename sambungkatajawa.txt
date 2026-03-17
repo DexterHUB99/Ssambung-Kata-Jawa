@@ -1966,6 +1966,7 @@ cokelat
 coki
 coklat
 cokot
+cokro
 col
 cole
 colek
@@ -9517,6 +9518,7 @@ piyoh
 po
 poa
 poal
+pocak
 pocong
 pocung
 podho
