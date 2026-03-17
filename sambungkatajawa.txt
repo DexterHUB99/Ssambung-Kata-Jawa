@@ -607,7 +607,6 @@ anai
 anak
 anakan
 anake
-anakku
 anakmu
 anal
 anam
@@ -848,7 +847,6 @@ antri
 antrian
 antuk
 antun
-antup
 antur
 anu
 anua
@@ -1735,6 +1733,7 @@ bukak
 bukan
 bukit
 buko
+bukok
 buku
 bukur
 bul
@@ -1785,7 +1784,6 @@ busuk
 busung
 buta
 butek
-buten
 buto
 butoh
 butuh
@@ -2356,7 +2354,6 @@ disisi
 disit
 disogok
 disu
-disuk
 dit
 dita
 ditampol
@@ -2523,7 +2520,6 @@ edanan
 edar
 edaran
 ede
-edek
 edi
 edit
 edo
@@ -2608,7 +2604,6 @@ ejar
 eje
 ejek
 eji
-ejik
 ejo
 eju
 ejuh
@@ -2781,6 +2776,7 @@ emok
 emong
 emor
 emot
+emoy
 empal
 empan
 empang
@@ -3051,7 +3047,6 @@ esem
 eseme
 esemka
 esen
-esep
 eser
 eses
 eset
@@ -3101,7 +3096,6 @@ etig
 etik
 etika
 etil
-etin
 eting
 etis
 eto
@@ -3657,7 +3651,6 @@ goboh
 gocek
 goceki
 godek
-godhok
 godhong
 godog
 godoh
@@ -3670,7 +3663,6 @@ gojek
 gojlok
 gok
 goke
-goki
 gokil
 goks
 gol
@@ -3953,7 +3945,6 @@ harapane
 hare
 haren
 harep
-harepmu
 harga
 hargai
 hari
@@ -4690,7 +4681,6 @@ itilan
 ito
 itoe
 itoi
-itoma
 itu
 ituli
 itung
@@ -4908,6 +4898,7 @@ jitak
 jiwa
 jo
 jodho
+jodo
 jodoh
 jodone
 joged
@@ -4948,7 +4939,6 @@ joro
 jorok
 jos
 josa
-josi
 joss
 jotos
 ju
@@ -5032,7 +5022,6 @@ kajeng
 kaji
 kajian
 kajine
-kajun
 kak
 kaka
 kakaa
@@ -5773,7 +5762,6 @@ kondhang
 kondi
 kondisi
 kondur
-kone
 koneng
 kongkon
 koni
@@ -5911,7 +5899,6 @@ kuman
 kumbah
 kumbahan
 kumbahen
-kumbahi
 kumbakarna
 kumbang
 kume
@@ -6653,7 +6640,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -6726,7 +6712,6 @@ mantep
 manthuk
 mantu
 mantuk
-mantul
 mantune
 manuk
 manuke
@@ -6737,7 +6722,6 @@ manungso
 manus
 manut
 maos
-map
 mapak
 mapan
 mapi
@@ -8000,7 +7984,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepruk
 ngepus
 nger
 ngerak
@@ -8317,6 +8300,7 @@ ngorit
 ngorok
 ngorong
 ngos
+ngosan
 ngosek
 ngoseng
 ngosing
@@ -8909,7 +8893,6 @@ okeran
 okerek
 okeri
 oket
-okeyo
 okin
 okit
 okok
@@ -9017,7 +9000,6 @@ oneng
 onet
 onggok
 ongkang
-ongke
 ongkek
 ongkel
 ongko
@@ -9394,7 +9376,6 @@ patin
 patis
 pato
 patok
-patot
 patub
 patuh
 patung
@@ -9488,6 +9469,7 @@ perak
 peran
 perang
 percaya
+pere
 peri
 perih
 permisi
@@ -9576,6 +9558,7 @@ pin
 pina
 pinah
 pinak
+pinal
 pinang
 pinarak
 pincang
@@ -9751,7 +9734,6 @@ pring
 prio
 pripun
 priwe
-priyayi
 pro
 pu
 puan
@@ -10385,7 +10367,6 @@ ros
 rosa
 rose
 rosi
-rosma
 roso
 rotan
 roti
@@ -10923,6 +10904,7 @@ serut
 ses
 sesak
 sesat
+sese
 sesek
 sesi
 sesok
@@ -11152,7 +11134,6 @@ sosiji
 sosis
 sosmed
 sosok
-sot
 sotel
 soto
 sowan
@@ -11354,6 +11335,7 @@ tabur
 tae
 taek
 tah
+taha
 tahajud
 tahan
 tahi
@@ -11525,7 +11507,6 @@ telen
 telenan
 telepon
 teles
-televisi
 teli
 telinga
 teliti
@@ -12188,7 +12169,6 @@ ungkul
 ungkur
 ungu
 uni
-unia
 unine
 uning
 unja
@@ -12796,6 +12776,7 @@ yasi
 yasin
 yat
 yati
+yatna
 yaudah
 yawes
 yawis
@@ -12812,7 +12793,6 @@ yeno
 yep
 yeping
 yer
-yera
 yere
 yero
 yes
