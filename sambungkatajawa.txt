@@ -841,6 +841,7 @@ antuk
 antun
 antur
 anu
+anue
 anugerah
 anuk
 anum
@@ -2305,7 +2306,6 @@ dipo
 dipu
 dipun
 dir
-dira
 diran
 direng
 diri
@@ -4016,6 +4016,7 @@ hikayat
 hikmah
 hilang
 himpun
+himpuna
 himpunan
 hina
 hinaan
@@ -5159,6 +5160,7 @@ kasian
 kasih
 kasihan
 kasil
+kasim
 kasir
 kasire
 kasmaran
@@ -5190,6 +5192,7 @@ katok
 katon
 katone
 katot
+katro
 katrok
 katu
 katuk
@@ -7492,6 +7495,7 @@ ngalahi
 ngalam
 ngalami
 ngalamun
+ngalan
 ngalang
 ngalangi
 ngalap
@@ -10726,6 +10730,7 @@ sewu
 sholat
 si
 sia
+siah
 sial
 siala
 sialan
@@ -12110,7 +12115,6 @@ usir
 usiren
 uska
 usko
-usku
 usli
 usma
 uso
