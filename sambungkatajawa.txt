@@ -6953,6 +6953,7 @@ mager
 magrib
 mah
 maha
+mahar
 mahir
 mai
 maido
