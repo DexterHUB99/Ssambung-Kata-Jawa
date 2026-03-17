@@ -7470,6 +7470,7 @@ minta
 minten
 minter
 minum
+minuman
 mio
 mir
 mira
