@@ -6840,6 +6840,7 @@ longgo
 longgor
 longok
 longor
+longore
 longsor
 loni
 lonjak
@@ -10273,6 +10274,7 @@ po
 poa
 poal
 pocak
+pocok
 pocong
 pocung
 podho
