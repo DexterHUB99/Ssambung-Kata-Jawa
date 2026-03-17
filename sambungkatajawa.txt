@@ -40,6 +40,7 @@ aci
 acor
 acu
 acuh
+acuk
 acung
 ad
 ada
@@ -10680,6 +10681,7 @@ sisil
 sisir
 siso
 sisu
+siswi
 siswo
 sit
 sita
