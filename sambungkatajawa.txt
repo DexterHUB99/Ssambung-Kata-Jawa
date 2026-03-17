@@ -3595,6 +3595,7 @@ gitar
 githok
 giwang
 giwangan
+glosor
 go
 gobak
 gobang
