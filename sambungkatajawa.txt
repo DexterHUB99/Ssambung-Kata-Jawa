@@ -2955,7 +2955,6 @@ emur
 emut
 en
 ena
-enag
 enah
 enaj
 enak
@@ -3193,6 +3192,7 @@ erup
 erupa
 erupi
 erus
+eruse
 erusi
 erut
 es
@@ -5463,6 +5463,7 @@ kari
 karim
 karimun
 karin
+karine
 karipa
 karipan
 karipen
@@ -5656,7 +5657,6 @@ keli
 kelia
 kelik
 keliling
-kelim
 kelinci
 kelingan
 kelir
@@ -9667,7 +9667,6 @@ pahing
 pahit
 paido
 paijo
-pain
 painem
 paing
 pait
@@ -13182,6 +13181,7 @@ weda
 wedan
 wedang
 wedangan
+wedange
 wede
 wedhang
 wedhi
