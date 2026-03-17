@@ -5225,6 +5225,7 @@ kalah
 kalahan
 kalai
 kalam
+kalan
 kalang
 kalangkung
 kalap
@@ -8587,6 +8588,7 @@ ngore
 ngorek
 ngoreki
 ngoreng
+ngoret
 ngorit
 ngorok
 ngorong
