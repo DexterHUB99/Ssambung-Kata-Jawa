@@ -3576,7 +3576,6 @@ gendhuk
 gendi
 gendon
 gendong
-gendongan
 gendruwo
 gendung
 gendut
@@ -6576,7 +6575,6 @@ lopa
 lope
 lopi
 lopis
-lopor
 lor
 lora
 lore
@@ -7526,7 +7524,6 @@ ndlogok
 ndlosor
 ndoro
 nduk
-ndulang
 nduwe
 nduwur
 ne
