@@ -2498,6 +2498,7 @@ ede
 edi
 edit
 edo
+edog
 edok
 edu
 edul
@@ -5591,6 +5592,7 @@ kinanti
 kinasih
 kincir
 kinclong
+kine
 kini
 kinjeng
 kintal
