@@ -1755,6 +1755,7 @@ biyung
 blas
 blereng
 bo
+boba
 bobo
 bobok
 bobot
