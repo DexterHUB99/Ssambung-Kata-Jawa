@@ -55,6 +55,7 @@ adam
 adan
 adang
 adap
+adari
 adat
 adate
 ade
@@ -1180,7 +1181,6 @@ aura
 aurip
 aus
 ausa
-ausi
 aut
 auta
 autan
@@ -4916,7 +4916,6 @@ kajang
 kajeng
 kaji
 kajian
-kajine
 kak
 kaka
 kakaa
@@ -10974,7 +10973,6 @@ suri
 suro
 suroboyo
 suruh
-surung
 surup
 surut
 surya
@@ -12124,6 +12122,7 @@ wahana
 wahi
 wahing
 wahyu
+wai
 waja
 wajah
 wajan
@@ -12302,7 +12301,6 @@ wijaya
 wiji
 wik
 wika
-wiki
 wiku
 wil
 wila
