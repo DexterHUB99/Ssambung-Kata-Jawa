@@ -262,7 +262,6 @@ aje
 ajeg
 ajek
 ajeng
-ajer
 aji
 ajib
 ajig
@@ -1225,7 +1224,6 @@ aweh
 awek
 awer
 awet
-awewe
 awi
 awik
 awis
@@ -2500,6 +2498,7 @@ ede
 edi
 edit
 edo
+edog
 edok
 edu
 edul
@@ -2516,7 +2515,6 @@ ege
 egi
 egil
 ego
-egois
 egor
 egos
 egrang
@@ -4685,7 +4683,6 @@ jagong
 jagung
 jahat
 jahil
-jahit
 jai
 jail
 jait
@@ -5595,6 +5592,7 @@ kinanti
 kinasih
 kincir
 kinclong
+kine
 kini
 kinjeng
 kintal
@@ -7026,7 +7024,6 @@ mumpung
 mun
 muna
 munafik
-muncrat
 muncul
 mundak
 mundhut
@@ -7804,7 +7801,6 @@ ngeh
 ngehormati
 ngei
 ngejak
-ngejaluk
 ngejar
 ngejek
 ngek
@@ -9506,7 +9502,6 @@ pisang
 pising
 pisna
 pisu
-pisua
 pisuh
 pisuhi
 pisut
@@ -9702,7 +9697,6 @@ putus
 puwan
 puwen
 puwira
-puya
 puyeng
 puyo
 puyuh
@@ -10749,7 +10743,6 @@ sepet
 sepi
 sepiro
 sepo
-sepon
 sepuh
 sepuluh
 sepur
@@ -11358,7 +11351,6 @@ teh
 teja
 tek
 teka
-tekad
 tekan
 teke
 teki
@@ -11377,7 +11369,6 @@ telenan
 telepon
 teles
 teli
-telih
 telinga
 teliti
 telo
@@ -11451,7 +11442,6 @@ terne
 terong
 terus
 tes
-tesa
 tesi
 tet
 tete
@@ -12319,6 +12309,7 @@ wajar
 wajib
 wajik
 wak
+waki
 wakil
 wakmu
 waktu
