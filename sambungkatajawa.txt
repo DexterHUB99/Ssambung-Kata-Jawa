@@ -20,6 +20,7 @@ abek
 aben
 aber
 abi
+abih
 abil
 abin
 abis
@@ -3380,7 +3381,6 @@ gak
 gaka
 gaki
 gakiso
-gakono
 gaktau
 gal
 gala
@@ -7673,7 +7673,6 @@ nawari
 nawas
 nawe
 nawi
-nawo
 nawon
 nawur
 naya
@@ -8235,7 +8234,6 @@ ngekel
 ngeko
 ngekok
 ngekos
-ngel
 ngela
 ngelag
 ngelak
@@ -11362,7 +11360,6 @@ ser
 sera
 serabi
 serakah
-seram
 serami
 serang
 serasih
@@ -12834,7 +12831,6 @@ usa
 usaa
 usah
 usaha
-usahan
 usahane
 usaho
 usai
