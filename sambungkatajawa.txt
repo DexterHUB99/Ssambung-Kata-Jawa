@@ -125,6 +125,7 @@ ager
 agi
 agih
 agin
+agit
 agor
 agu
 aguh
@@ -2043,6 +2044,7 @@ cingkrang
 cingur
 cino
 cinta
+cip
 cipa
 cipo
 cire
@@ -4946,7 +4948,6 @@ jail
 jait
 jaja
 jajah
-jajak
 jajal
 jajan
 jak
@@ -8324,7 +8325,6 @@ ngentong
 ngentu
 ngentuk
 ngentut
-ngenuk
 ngenut
 ngenyek
 ngeo
@@ -8659,7 +8659,6 @@ ngoplo
 ngopo
 ngopoe
 ngopoi
-ngopok
 ngopol
 ngopor
 ngopose
@@ -10289,8 +10288,10 @@ raen
 raga
 ragam
 ragangan
+ragas
 ragat
 ragelem
+ragen
 ragi
 ragil
 ragisa
@@ -12554,6 +12555,7 @@ ulam
 ulama
 ulan
 ulang
+ulanga
 ulangan
 ulangi
 ulangtahun
@@ -12676,6 +12678,7 @@ unen
 unes
 unesa
 ung
+unga
 ungaran
 unggah
 unggal
