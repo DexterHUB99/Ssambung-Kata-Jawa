@@ -557,7 +557,6 @@ amp
 ampa
 ampah
 ampal
-ampan
 ampang
 ampar
 amparan
@@ -910,7 +909,6 @@ apike
 apil
 apin
 apip
-apir
 apit
 apo
 apok
@@ -1018,7 +1016,6 @@ aruk
 arul
 arum
 arun
-aruna
 arup
 arupa
 arus
@@ -2089,7 +2086,6 @@ dagin
 daging
 dagu
 dah
-dahak
 dahan
 dahar
 dahi
@@ -2236,7 +2232,6 @@ deso
 det
 dewa
 dewe
-dewean
 dewek
 dewi
 dhadha
@@ -2652,7 +2647,6 @@ ekes
 eket
 eki
 ekib
-ekih
 ekik
 ekil
 ekin
@@ -2728,7 +2722,6 @@ eloi
 elok
 elom
 elon
-elong
 elor
 elos
 elu
@@ -3297,7 +3290,6 @@ gamen
 gamer
 gami
 gamis
-gamma
 gamo
 gamoh
 gampang
@@ -4022,7 +4014,6 @@ hawo
 haya
 hayang
 hayat
-hayati
 hayo
 hayolo
 hayoo
@@ -4189,6 +4180,7 @@ hun
 huna
 huni
 hup
+hupa
 hupi
 hur
 hura
@@ -6668,7 +6660,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -6854,7 +6845,6 @@ mel
 mela
 melan
 melas
-melasi
 melati
 melek
 meler
@@ -7687,7 +7677,6 @@ ngamis
 ngamo
 ngamok
 ngampar
-ngampas
 ngampel
 ngampet
 ngampil
@@ -10469,7 +10458,6 @@ rumbah
 rumbai
 rumbak
 rumbi
-rume
 rumi
 rumien
 rumit
@@ -12136,7 +12124,6 @@ umbah
 umbahan
 umbang
 umbar
-umbara
 umbas
 umbel
 umbi
@@ -12248,7 +12235,6 @@ untal
 untalen
 untar
 untara
-untaran
 untas
 untel
 unter
