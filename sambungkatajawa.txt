@@ -1184,6 +1184,7 @@ av
 ava
 aves
 avi
+avo
 aw
 awa
 awae
@@ -1862,6 +1863,7 @@ cep
 cepe
 cepet
 ceplok
+cerah
 cerak
 cere
 ceret
@@ -4174,6 +4176,7 @@ ijin
 ijo
 ijok
 ijol
+ijoli
 ik
 ika
 ikaa
@@ -4511,6 +4514,7 @@ isinan
 isine
 ising
 isinna
+isio
 isis
 isiso
 isit
@@ -4554,6 +4558,7 @@ isya
 it
 ita
 itaa
+itai
 itali
 ite
 item
@@ -5850,6 +5855,7 @@ labuh
 labur
 lada
 ladak
+ladi
 lading
 ladosan
 laen
@@ -6238,6 +6244,7 @@ loh
 loha
 lohan
 lohe
+lohi
 loi
 loji
 lok
@@ -9393,6 +9400,7 @@ polahmu
 polan
 polar
 pole
+poleh
 polek
 poles
 poli
