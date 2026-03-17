@@ -1398,6 +1398,7 @@ bal
 bala
 balai
 balak
+balangen
 balap
 balek
 baleni
@@ -1699,7 +1700,6 @@ bodi
 bodo
 bodoh
 bodok
-bogem
 bohong
 bojo
 bojok
@@ -1926,6 +1926,7 @@ carita
 caruk
 cas
 casa
+caten
 catur
 cawan
 cawe
@@ -7808,6 +7809,7 @@ ngadohi
 ngadok
 ngadol
 ngadon
+ngados
 ngadu
 ngaduk
 ngadul
@@ -7917,6 +7919,7 @@ ngandai
 ngandang
 ngandani
 ngandap
+ngandel
 ngandhap
 ngandi
 ngandika
@@ -8641,6 +8644,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulam
 ngulan
 ngulang
 ngulangi
@@ -9343,6 +9347,7 @@ opak
 opal
 opam
 opan
+opas
 opat
 opel
 open
@@ -10899,6 +10904,7 @@ saking
 sakit
 sakitmu
 sakne
+sakniki
 sakno
 sakoe
 sakral
@@ -12674,6 +12680,7 @@ uring
 urip
 uripan
 uripe
+uripen
 uripku
 uripmu
 uris
