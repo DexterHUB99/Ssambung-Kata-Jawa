@@ -2955,7 +2955,6 @@ emur
 emut
 en
 ena
-enag
 enah
 enaj
 enak
@@ -3421,6 +3420,7 @@ galer
 galeren
 gali
 galih
+galine
 galo
 galok
 galon
@@ -3429,6 +3429,7 @@ galungan
 gam
 gama
 gaman
+gamane
 gambang
 gambar
 gambaran
@@ -4122,6 +4123,7 @@ hancur
 hancuren
 hang
 hangat
+hanget
 hangwo
 hani
 haning
@@ -6699,6 +6701,7 @@ loan
 lob
 loba
 lobang
+lobange
 lober
 lobi
 lobok
@@ -9662,7 +9665,6 @@ pahing
 pahit
 paido
 paijo
-pain
 painem
 paing
 pait
@@ -9723,6 +9725,7 @@ panah
 panai
 panas
 panasan
+panase
 panca
 pancal
 pancen
