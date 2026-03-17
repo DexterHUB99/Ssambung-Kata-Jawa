@@ -2412,6 +2412,7 @@ dompet
 don
 dong
 donga
+dongane
 dongeng
 dongi
 dongo
@@ -5353,6 +5354,7 @@ kece
 kecek
 kecel
 kecelek
+kecemplung
 kecewa
 kecoa
 kecot
@@ -9532,6 +9534,7 @@ peran
 perang
 percaya
 pere
+perek
 peri
 perih
 permisi
@@ -9572,6 +9575,7 @@ pie
 pih
 pijak
 pijang
+pijar
 pijat
 pijer
 pijet
@@ -9741,6 +9745,7 @@ poli
 polisi
 poll
 polo
+poloh
 pom
 poma
 pomi
@@ -11088,6 +11093,7 @@ siram
 siraman
 sire
 sirem
+siren
 sirep
 siri
 sirih
