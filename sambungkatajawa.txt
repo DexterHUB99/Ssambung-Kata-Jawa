@@ -2436,6 +2436,7 @@ dino
 dinoe
 dinoen
 dinten
+diomah
 diora
 dip
 dipa
@@ -2516,7 +2517,6 @@ donga
 dongane
 dongeng
 dongi
-dongkrak
 dongo
 dongok
 dongol
@@ -4020,6 +4020,7 @@ guten
 guti
 guwa
 guyah
+guyang
 guyon
 guyonan
 guyone
@@ -4951,7 +4952,6 @@ jail
 jait
 jaja
 jajah
-jajak
 jajal
 jajan
 jak
@@ -8329,7 +8329,6 @@ ngentong
 ngentu
 ngentuk
 ngentut
-ngenuk
 ngenut
 ngenyek
 ngeo
@@ -8664,7 +8663,6 @@ ngoplo
 ngopo
 ngopoe
 ngopoi
-ngopok
 ngopol
 ngopor
 ngopose
