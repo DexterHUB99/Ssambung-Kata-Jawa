@@ -1074,7 +1074,6 @@ arya
 as
 asa
 asah
-asahan
 asai
 asak
 asal
@@ -1234,7 +1233,6 @@ atri
 atu
 atuh
 atuk
-atul
 atum
 atun
 atur
@@ -1505,7 +1503,6 @@ batang
 bathuk
 bati
 batik
-batin
 bato
 batok
 batu
@@ -2348,7 +2345,6 @@ deneng
 dengki
 dengkul
 deni
-deno
 depa
 depak
 der
@@ -2546,7 +2542,6 @@ domblong
 domi
 dompet
 don
-dona
 dong
 donga
 dongane
@@ -3651,7 +3646,6 @@ geguritan
 geh
 gei
 gek
-geki
 gel
 gela
 gelak
@@ -3977,7 +3971,6 @@ grogot
 grombolan
 grontol
 grosir
-grujugan
 grujuk
 gu
 gubah
@@ -4654,7 +4647,6 @@ imas
 imba
 imbaan
 imbah
-imbahan
 imbai
 imbal
 imbala
@@ -6294,7 +6286,6 @@ kupa
 kupas
 kupat
 kupeng
-kupi
 kuping
 kupluk
 kupu
@@ -7795,7 +7786,6 @@ nawi
 nawon
 nawur
 naya
-nayara
 nayo
 nayoh
 ncok
@@ -8105,7 +8095,6 @@ ngampar
 ngampas
 ngampel
 ngampet
-ngampih
 ngampil
 ngampir
 ngampleng
@@ -8306,7 +8295,6 @@ ngawini
 ngawir
 ngawis
 ngawit
-ngawitan
 ngawiti
 ngawo
 ngawor
@@ -8423,7 +8411,6 @@ ngenalin
 ngencang
 ngencuk
 ngendah
-ngendak
 ngendang
 ngendeng
 ngendep
@@ -8578,7 +8565,6 @@ ngibu
 ngibul
 ngical
 ngicipi
-ngicir
 ngidam
 ngidang
 ngidek
@@ -8623,7 +8609,6 @@ ngimbas
 ngimbu
 ngimbuh
 ngimi
-ngimpen
 ngimpi
 ngin
 ngina
@@ -8727,7 +8712,6 @@ ngobroli
 ngocak
 ngoceh
 ngocok
-ngodok
 ngoe
 ngogoh
 ngoh
@@ -9308,7 +9292,6 @@ nyawet
 nyawi
 nyawiji
 nyawit
-nyebur
 nyebut
 nyedhak
 nyedot
@@ -10442,7 +10425,6 @@ rabi
 rabio
 rabisa
 rabit
-raboh
 rabu
 rabun
 racikan
@@ -10457,6 +10439,7 @@ radio
 rae
 raen
 raga
+ragad
 ragam
 ragangan
 ragas
@@ -10779,7 +10762,6 @@ remok
 rempah
 rempal
 rempeyek
-rempol
 rempon
 remu
 remuk
