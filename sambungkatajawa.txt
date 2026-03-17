@@ -9875,7 +9875,6 @@ patub
 patuh
 patung
 patur
-patut
 paw
 pawa
 pawai
@@ -10742,6 +10741,7 @@ resika
 resiko
 resing
 respati
+resti
 restu
 ret
 retak
@@ -11398,6 +11398,7 @@ sembur
 seme
 semen
 semene
+semeru
 semi
 semo
 semok
