@@ -96,6 +96,7 @@ adu
 aduan
 aduh
 aduk
+adune
 adus
 adzan
 ae
@@ -3535,6 +3536,7 @@ garik
 garing
 garis
 garisan
+garise
 garit
 garong
 garpu
@@ -9017,6 +9019,7 @@ njangan
 njaran
 njelehi
 njikuk
+njungkel
 njupuk
 nki
 nko
@@ -10422,6 +10425,7 @@ ramak
 ramal
 ramalan
 raman
+ramane
 ramasalah
 rambak
 ramban
