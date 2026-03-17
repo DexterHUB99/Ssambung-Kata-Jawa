@@ -1747,6 +1747,7 @@ bubrah
 bubu
 bubuk
 bubur
+bucit
 buda
 budak
 budal
@@ -6774,6 +6775,7 @@ mamah
 mamak
 mamake
 mamas
+mamasuk
 mamat
 mambu
 mami
@@ -13138,6 +13140,7 @@ yune
 yung
 yuni
 yuno
+yuo
 yur
 yura
 yuri
