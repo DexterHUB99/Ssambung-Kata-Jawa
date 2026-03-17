@@ -3790,6 +3790,7 @@ gendenge
 gender
 gendero
 genderuwo
+genderwo
 gendheng
 gendhing
 gendhis
@@ -13205,6 +13206,7 @@ upat
 upawa
 upaya
 upe
+upek
 upel
 upen
 uper
