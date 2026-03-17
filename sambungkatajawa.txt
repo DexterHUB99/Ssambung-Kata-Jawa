@@ -1700,6 +1700,7 @@ bodi
 bodo
 bodoh
 bodok
+bogem
 bohong
 bojo
 bojok
@@ -4420,7 +4421,6 @@ ijab
 ijak
 ijazah
 ijek
-ijem
 ijen
 iji
 ijik
@@ -5940,7 +5940,6 @@ komodo
 komoh
 kompak
 kompas
-komplit
 kompor
 komputer
 kon
@@ -8371,6 +8370,7 @@ ngie
 ngig
 ngih
 ngijab
+ngijek
 ngijing
 ngijol
 ngijoli
@@ -10927,7 +10927,6 @@ salep
 sali
 salim
 salin
-saling
 salip
 salisa
 saliwat
@@ -12508,7 +12507,6 @@ umpet
 umpi
 umpil
 umpma
-umpo
 umrah
 umri
 umu
@@ -12878,6 +12876,7 @@ wajar
 wajib
 wajik
 wak
+waka
 waki
 wakil
 wakmu
@@ -13040,6 +13039,7 @@ wibawa
 wibu
 wicak
 wicaksana
+wicara
 widana
 widara
 widep
