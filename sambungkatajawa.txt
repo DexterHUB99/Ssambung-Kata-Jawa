@@ -10525,6 +10525,7 @@ ses
 sesak
 sesat
 sesek
+sesi
 sesok
 sesuk
 sesupe
@@ -10624,6 +10625,7 @@ sir
 sira
 sirah
 sirahe
+sirahmu
 siram
 siraman
 sire
