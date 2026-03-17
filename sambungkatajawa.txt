@@ -1735,7 +1735,6 @@ bukak
 bukan
 bukit
 buko
-bukok
 buku
 bukur
 bul
@@ -2780,7 +2779,6 @@ emok
 emong
 emor
 emot
-emoy
 empal
 empan
 empang
@@ -4903,7 +4901,6 @@ jitak
 jiwa
 jo
 jodho
-jodo
 jodoh
 jodone
 joged
@@ -8240,7 +8237,6 @@ ngojek
 ngok
 ngoke
 ngoko
-ngokok
 ngokop
 ngokor
 ngokos
@@ -8310,7 +8306,6 @@ ngorit
 ngorok
 ngorong
 ngos
-ngosan
 ngosek
 ngoseng
 ngosing
@@ -9479,7 +9474,6 @@ perak
 peran
 perang
 percaya
-pere
 peri
 perih
 permisi
@@ -9568,7 +9562,6 @@ pin
 pina
 pinah
 pinak
-pinal
 pinang
 pinarak
 pincang
@@ -10914,7 +10907,6 @@ serut
 ses
 sesak
 sesat
-sese
 sesek
 sesi
 sesok
@@ -11345,7 +11337,6 @@ tabur
 tae
 taek
 tah
-taha
 tahajud
 tahan
 tahi
@@ -12786,7 +12777,6 @@ yasi
 yasin
 yat
 yati
-yatna
 yaudah
 yawes
 yawis
