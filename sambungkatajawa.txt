@@ -11671,6 +11671,7 @@ ubii
 ubun
 ubur
 uc
+uca
 ucak
 ucap
 ucapan
