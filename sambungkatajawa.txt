@@ -322,7 +322,6 @@ akem
 aken
 akeng
 akeo
-akep
 aker
 akes
 aket
@@ -642,7 +641,6 @@ ancar
 ancas
 ancase
 ancen
-ancene
 ancer
 anci
 ancik
@@ -834,6 +832,7 @@ ansuran
 anta
 antah
 antam
+antangi
 antar
 antara
 antarane
@@ -1380,7 +1379,6 @@ bal
 bala
 balai
 balak
-balap
 balek
 baleni
 bali
@@ -2364,6 +2362,7 @@ dinten
 diora
 dip
 dipa
+dipah
 dipan
 dipangan
 diparingi
@@ -2433,6 +2432,7 @@ dompet
 don
 dong
 donga
+dongane
 dongeng
 dongi
 dongo
@@ -3325,7 +3325,6 @@ gamelan
 gamen
 gamer
 gami
-gaming
 gamis
 gamma
 gamo
@@ -3510,7 +3509,6 @@ gelut
 gem
 gema
 gemah
-gemang
 gemar
 gemas
 gemati
@@ -3707,6 +3705,7 @@ goboh
 gocek
 goceki
 godek
+godhok
 godhong
 godog
 godoh
@@ -4086,6 +4085,7 @@ helikopter
 helo
 hem
 hemat
+hemo
 hemu
 hena
 hene
@@ -4475,7 +4475,6 @@ impian
 impil
 impit
 impor
-impul
 impun
 imuh
 imut
@@ -5092,7 +5091,6 @@ kaka
 kakaa
 kakak
 kakaka
-kakala
 kakanda
 kakang
 kakap
@@ -5383,6 +5381,7 @@ kece
 kecek
 kecel
 kecelek
+kecemplung
 kecewa
 kecoa
 kecot
@@ -5396,6 +5395,7 @@ kedondong
 keduhung
 kedul
 kedung
+keendi
 kegowo
 keisi
 kejam
@@ -5551,7 +5551,6 @@ kepak
 kepala
 kepanggih
 keparat
-kepek
 kepel
 kepenak
 kepepet
@@ -5773,6 +5772,7 @@ klewer
 klimis
 kliwon
 klo
+klontong
 klu
 klumah
 kntl
@@ -5831,7 +5831,6 @@ kondhang
 kondi
 kondisi
 kondur
-konek
 koneng
 kongkon
 koni
@@ -6178,6 +6177,7 @@ lani
 lanjur
 lanjut
 lansia
+lantah
 lantai
 lantak
 lantang
@@ -6399,7 +6399,6 @@ lindur
 linggih
 linggis
 lingkar
-lingkaran
 lingkung
 lingkungan
 linglung
@@ -6413,6 +6412,7 @@ lintangen
 lintas
 lintasan
 lintu
+lintune
 lio
 lip
 lipa
@@ -6443,6 +6443,7 @@ lisan
 lisaning
 lise
 lisi
+lising
 lisung
 lit
 lita
@@ -6889,7 +6890,6 @@ mburi
 me
 medal
 medeni
-medhal
 medhok
 meditasi
 mega
@@ -8243,7 +8243,6 @@ ngindang
 nginep
 nging
 nginggil
-nginggo
 ngingkang
 ngini
 nginjak
@@ -8887,7 +8886,6 @@ nyekar
 nyeluk
 nyembah
 nyeni
-nyenu
 nyikat
 nyilih
 nyimak
@@ -9585,6 +9583,7 @@ peran
 perang
 percaya
 pere
+perek
 peri
 perih
 permisi
@@ -9597,7 +9596,6 @@ pesing
 peso
 peta
 petak
-petan
 pete
 peteng
 pethuk
@@ -9626,6 +9624,7 @@ pie
 pih
 pijak
 pijang
+pijar
 pijat
 pijer
 pijet
@@ -9740,6 +9739,7 @@ pitakon
 pitek
 piten
 piter
+pites
 pitik
 piting
 piton
@@ -9750,7 +9750,6 @@ pitulas
 pitulung
 pitung
 pitutur
-piutang
 piwul
 piwulang
 piya
@@ -9796,6 +9795,7 @@ poli
 polisi
 poll
 polo
+poloh
 pom
 poma
 pomi
@@ -10198,6 +10198,7 @@ rebahan
 rebana
 rebo
 rebung
+rebus
 rebut
 rebutan
 receh
@@ -11148,6 +11149,7 @@ siram
 siraman
 sire
 sirem
+siren
 sirep
 siri
 sirih
@@ -11496,7 +11498,6 @@ takan
 takbir
 takbiran
 taken
-taki
 takjil
 tako
 takon
@@ -11555,6 +11556,7 @@ tanggul
 tanggung
 tangi
 tangina
+tangis
 tangkap
 tanglet
 tani
@@ -11859,7 +11861,6 @@ tomi
 tomo
 tompel
 ton
-tona
 tonan
 tone
 tonggo
@@ -11959,6 +11960,7 @@ tunggale
 tunggu
 tungguen
 tungkak
+tupa
 tupe
 tupi
 tur
@@ -12586,6 +12588,7 @@ wadan
 wadara
 wader
 wadha
+wadhul
 wadoh
 wadon
 wadonan
@@ -12620,6 +12623,7 @@ walah
 walang
 wale
 wali
+walih
 walik
 walisongo
 walit
@@ -12831,6 +12835,7 @@ woh
 woi
 wok
 woke
+woko
 wol
 wolak
 wolo
@@ -12926,6 +12931,7 @@ yasa
 yasi
 yasin
 yat
+yate
 yati
 yatna
 yaudah
