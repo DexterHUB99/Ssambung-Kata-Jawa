@@ -9772,6 +9772,7 @@ piram
 pirane
 pirang
 piranga
+piranti
 pireng
 piring
 piro
@@ -10891,6 +10892,7 @@ sasaran
 sasen
 sasi
 sasih
+sasimi
 sasuh
 sasuk
 sat
