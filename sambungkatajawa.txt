@@ -1224,6 +1224,7 @@ atol
 atom
 atop
 atos
+atose
 atra
 atrama
 atrap
@@ -2889,6 +2890,7 @@ emak
 emal
 emam
 eman
+emanan
 emane
 emang
 emas
