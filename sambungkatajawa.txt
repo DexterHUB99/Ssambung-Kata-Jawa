@@ -3576,6 +3576,7 @@ gendhuk
 gendi
 gendon
 gendong
+gendongan
 gendruwo
 gendung
 gendut
@@ -7524,6 +7525,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulang
 nduwe
 nduwur
 ne
