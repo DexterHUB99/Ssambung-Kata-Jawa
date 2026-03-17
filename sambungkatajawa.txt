@@ -2927,6 +2927,7 @@ erti
 eru
 eruh
 eruk
+erum
 erun
 erung
 erup
@@ -9034,6 +9035,7 @@ parit
 parkir
 parno
 paro
+parot
 parti
 paru
 paruh
@@ -9857,6 +9859,7 @@ retak
 reti
 rewa
 rewang
+rewangan
 rewel
 rewo
 ri
