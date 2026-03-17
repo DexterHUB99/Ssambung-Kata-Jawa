@@ -5037,7 +5037,6 @@ karma
 karna
 karo
 karoan
-karom
 karpet
 karsa
 kartu
@@ -7283,7 +7282,6 @@ ngabehi
 ngabekti
 ngaben
 ngaboti
-ngabu
 ngaca
 ngacak
 ngacara
@@ -10278,7 +10276,6 @@ sao
 saos
 sap
 sapa
-sape
 sapi
 sapih
 sapir
