@@ -7743,6 +7743,7 @@ ngerandu
 ngerap
 ngerasani
 ngerek
+ngerem
 ngerenek
 ngeres
 ngeresi
