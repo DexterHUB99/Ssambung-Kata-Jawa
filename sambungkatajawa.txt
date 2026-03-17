@@ -899,6 +899,7 @@ apit
 apo
 apok
 apol
+apola
 apolo
 apos
 aposi
@@ -2307,6 +2308,7 @@ dipo
 dipu
 dipun
 dir
+dira
 diran
 direng
 diri
@@ -6282,6 +6284,7 @@ lis
 lisa
 lisah
 lisan
+lisaning
 lise
 lisi
 lisung
@@ -9954,6 +9957,7 @@ rembuk
 rembukan
 rembul
 rembulan
+rembun
 rembung
 remeh
 remek
@@ -10256,6 +10260,7 @@ rungka
 rungkad
 rungkut
 rungo
+rungokke
 rungono
 rungsing
 rungu
@@ -10300,6 +10305,7 @@ saan
 saayang
 sab
 saba
+saban
 sabar
 sabe
 saben
@@ -12117,6 +12123,7 @@ usir
 usiren
 uska
 usko
+usku
 usli
 usma
 uso
