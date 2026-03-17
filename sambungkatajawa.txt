@@ -3591,6 +3591,7 @@ genah
 genahe
 genap
 gendak
+gendakan
 gendar
 gendeng
 gendenge
@@ -5970,6 +5971,7 @@ kotak
 kotang
 kote
 kothak
+koti
 kotor
 kowe
 kowek
