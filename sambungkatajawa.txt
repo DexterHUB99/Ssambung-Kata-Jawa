@@ -8945,6 +8945,7 @@ ngrayu
 ngrebeki
 ngrep
 ngrepoti
+ngresiki
 ngret
 ngrit
 ngrokok
