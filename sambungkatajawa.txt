@@ -8222,6 +8222,7 @@ nilo
 nim
 nima
 nimah
+niman
 nimba
 nimbal
 nimbang
