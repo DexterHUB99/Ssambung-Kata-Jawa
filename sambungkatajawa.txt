@@ -459,7 +459,6 @@ alunan
 alur
 alus
 aluse
-aluwe
 alwan
 am
 ama
@@ -1580,6 +1579,7 @@ bidak
 bidan
 bidek
 bidik
+bidu
 bidun
 bidur
 bien
@@ -5787,6 +5787,7 @@ kontal
 kontan
 konten
 kontol
+kontola
 kontolmu
 kontrol
 konyol
@@ -6819,6 +6820,7 @@ mbak
 mbarep
 mben
 mbengi
+mbiyen
 mbok
 mboten
 mbuh
@@ -7150,7 +7152,6 @@ mus
 musa
 musan
 muser
-mushola
 musi
 musibah
 musim
@@ -7957,6 +7958,7 @@ ngemoh
 ngemong
 ngemot
 ngempal
+ngempek
 ngemper
 ngempet
 ngempil
@@ -7998,6 +8000,7 @@ ngentong
 ngentu
 ngentuk
 ngentut
+ngenut
 ngenyek
 ngeo
 ngep
@@ -8107,6 +8110,7 @@ nggoreng
 nggowo
 nggresiki
 nggula
+nggulung
 nggumun
 ngguyu
 ngguyue
@@ -10008,6 +10012,7 @@ raos
 rap
 rapa
 rapak
+rapake
 rapapa
 rapat
 rape
@@ -10949,6 +10954,7 @@ set
 setam
 setan
 setaun
+setengah
 seti
 setrika
 setunggal
