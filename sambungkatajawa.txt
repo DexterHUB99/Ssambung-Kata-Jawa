@@ -9519,6 +9519,7 @@ parkir
 parno
 paro
 parot
+partai
 parti
 paru
 paruh
