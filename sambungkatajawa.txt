@@ -1556,7 +1556,6 @@ beling
 belo
 belu
 beluk
-belum
 belut
 bem
 ben
@@ -3037,7 +3036,6 @@ enus
 enya
 enyak
 enyong
-eomah
 eomong
 ep
 epa
@@ -4780,6 +4778,7 @@ isin
 isinan
 isine
 ising
+isini
 isinna
 isio
 isis
@@ -8059,7 +8058,6 @@ ngasih
 ngasihi
 ngasil
 ngasin
-ngasing
 ngasir
 ngaso
 ngasoh
