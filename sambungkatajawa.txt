@@ -4980,6 +4980,7 @@ jirih
 jit
 jita
 jitak
+jitan
 jiwa
 jo
 jodho
