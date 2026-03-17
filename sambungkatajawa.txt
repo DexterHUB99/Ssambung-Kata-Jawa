@@ -1165,7 +1165,6 @@ auma
 auman
 aun
 auna
-aunan
 aup
 aura
 aurip
@@ -5494,6 +5493,7 @@ kirikan
 kirim
 kiriman
 kiris
+kirok
 kiruk
 kis
 kisa
@@ -6386,6 +6386,7 @@ mae
 maem
 maen
 mag
+magang
 mage
 magrib
 mah
@@ -7289,6 +7290,7 @@ ngabekti
 ngaben
 ngaboti
 ngabu
+ngabut
 ngaca
 ngacak
 ngacara
@@ -7754,6 +7756,7 @@ ngesot
 ngesu
 ngesuk
 nget
+ngetam
 ngetan
 ngetem
 ngeten
@@ -7918,6 +7921,7 @@ nglamun
 nglangi
 nglangkah
 nglantur
+ngleh
 nglek
 ngliwet
 nglon
@@ -8374,6 +8378,7 @@ nui
 nuju
 nuk
 nuka
+nukan
 nuki
 nukil
 nuko
@@ -10778,6 +10783,7 @@ suji
 sujud
 suk
 suka
+sukai
 sukak
 suke
 suker
@@ -11308,6 +11314,7 @@ tomi
 tomo
 tompel
 ton
+tona
 tonan
 tone
 tonggo
@@ -11371,6 +11378,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulunge
 tulungi
 tulus
@@ -11566,6 +11574,7 @@ ukiro
 ukit
 ukka
 ukko
+uklo
 ukma
 ukmo
 ukmu
@@ -11823,6 +11832,7 @@ ural
 uram
 uran
 urang
+uraono
 urap
 urapan
 uras
