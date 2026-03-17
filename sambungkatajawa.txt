@@ -3271,6 +3271,7 @@ eten
 etep
 eter
 etes
+etet
 eti
 etig
 etik
@@ -6953,7 +6954,6 @@ mager
 magrib
 mah
 maha
-mahar
 mahir
 mai
 maido
@@ -9181,6 +9181,7 @@ numen
 numis
 numpah
 numpak
+numpake
 numpaki
 numpang
 numplak
@@ -10819,7 +10820,6 @@ riko
 riku
 ril
 rila
-rile
 rilem
 rili
 rilis
@@ -11632,7 +11632,6 @@ sio
 siomay
 sip
 sipa
-sipat
 sipi
 sipit
 sipo
