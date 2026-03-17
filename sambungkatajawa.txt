@@ -1991,6 +1991,7 @@ ceh
 cek
 cekak
 cekap
+cekatan
 cekel
 cekot
 celek
