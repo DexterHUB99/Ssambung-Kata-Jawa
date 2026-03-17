@@ -1438,6 +1438,7 @@ bal
 bala
 balai
 balak
+balang
 balap
 bale
 balek
@@ -9353,6 +9354,7 @@ nyasar
 nyatu
 nyawa
 nyawang
+nyawangi
 nyawet
 nyawi
 nyawiji
