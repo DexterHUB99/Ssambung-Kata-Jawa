@@ -592,6 +592,7 @@ amut
 an
 ana
 anaa
+anad
 anae
 anag
 anah
@@ -2459,6 +2460,7 @@ edam
 edan
 edanan
 edar
+edaran
 ede
 edi
 edit
