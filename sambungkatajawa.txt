@@ -38,7 +38,6 @@ ace
 aceh
 acem
 aci
-acik
 acor
 acu
 acuh
@@ -4388,6 +4387,7 @@ indang
 indek
 indeng
 indhang
+indhik
 indik
 inding
 indomie
@@ -6762,6 +6762,7 @@ mendung
 mendut
 mene
 meneh
+menehi
 meneng
 mengko
 meni
@@ -8514,7 +8515,6 @@ nore
 nori
 nos
 nosa
-nose
 nosi
 not
 nota
@@ -9218,7 +9218,6 @@ pasar
 paser
 pasi
 pasir
-pasokan
 pasrah
 pasu
 pasuh
@@ -9588,7 +9587,6 @@ pro
 pu
 puan
 puasa
-pucak
 pucuk
 pucung
 pue
@@ -9855,7 +9853,6 @@ rasani
 rasaye
 rase
 rasek
-rasem
 rasi
 rasih
 rasik
@@ -10213,6 +10210,7 @@ rowi
 rowo
 rowoe
 royal
+royi
 royo
 rt
 ru
@@ -10962,7 +10960,6 @@ soyo
 sragen
 srawung
 sregep
-srengenge
 sri
 su
 sua
@@ -11677,7 +11674,6 @@ ubii
 ubun
 ubur
 uc
-uca
 ucak
 ucap
 ucapan
@@ -11799,6 +11795,7 @@ ukiro
 ukit
 ukka
 ukko
+ukla
 ukma
 ukmo
 ukmu
@@ -12598,6 +12595,7 @@ yesa
 yesi
 yet
 yi
+yitna
 yiwa
 yo
 yoa
