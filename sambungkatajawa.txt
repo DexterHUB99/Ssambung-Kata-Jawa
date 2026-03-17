@@ -9080,6 +9080,7 @@ ngumbar
 ngumbel
 ngumbi
 ngumpet
+ngumpil
 ngumpul
 ngumpulake
 ngun
@@ -12455,6 +12456,7 @@ tawi
 tawon
 tawur
 tawuran
+taya
 tayo
 tayub
 te
