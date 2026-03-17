@@ -833,6 +833,7 @@ anta
 antah
 antam
 antangi
+antap
 antar
 antara
 antarane
@@ -1356,7 +1357,6 @@ bai
 bairo
 baja
 bajai
-bajak
 bajan
 baji
 bajigur
@@ -1625,7 +1625,6 @@ bilara
 bile
 bili
 bilih
-bilo
 bilu
 bima
 bimo
@@ -3016,6 +3015,7 @@ epor
 epos
 epot
 epoy
+eprak
 epu
 epuh
 epuk
@@ -4223,7 +4223,6 @@ humi
 humor
 hun
 huna
-hunan
 huni
 hup
 hupa
@@ -5287,7 +5286,6 @@ kasap
 kasar
 kasarasan
 kasat
-kase
 kasem
 kasep
 kaset
@@ -8081,7 +8079,6 @@ ngeo
 ngep
 ngepang
 ngepas
-ngepeh
 ngepek
 ngepel
 ngepet
@@ -8305,6 +8302,7 @@ nglangi
 nglangkah
 nglantur
 nglek
+nglilir
 ngliwet
 ngloh
 nglon
@@ -8533,7 +8531,6 @@ ngupil
 nguping
 ngur
 ngurah
-ngurak
 ngurang
 ngurangan
 nguras
@@ -9095,11 +9092,13 @@ omong
 omongan
 omongane
 omonge
+omongo
 ompol
 ompong
 ompreng
 on
 onang
+onangan
 onar
 oncek
 onco
@@ -10086,7 +10085,6 @@ rangi
 rangka
 rangkat
 rangkul
-rangkum
 rangu
 rani
 ranjang
