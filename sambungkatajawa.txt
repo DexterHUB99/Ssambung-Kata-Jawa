@@ -2245,7 +2245,6 @@ didin
 didol
 didu
 didum
-diemut
 diewe
 difa
 digawa
@@ -4919,6 +4918,7 @@ jomo
 jon
 jona
 jonan
+jones
 jong
 jongkok
 joni
@@ -7901,6 +7901,7 @@ ngeler
 ngeles
 ngeli
 ngelih
+ngelindur
 ngeling
 ngelingi
 ngelirik
@@ -8696,6 +8697,7 @@ nunggal
 nunggang
 nunggoni
 nunggu
+nungkak
 nuni
 nuning
 nunjuk
@@ -10933,6 +10935,7 @@ sikat
 sikep
 siki
 sikil
+sikile
 siko
 siku
 sikut
@@ -11426,7 +11429,6 @@ tarik
 taro
 taru
 taruh
-taruhan
 tarung
 tas
 tasa
@@ -12579,6 +12581,7 @@ werna
 werno
 wero
 weruh
+weruhe
 wes
 wesa
 wese
