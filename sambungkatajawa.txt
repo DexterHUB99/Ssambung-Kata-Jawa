@@ -708,6 +708,7 @@ anggok
 anggon
 anggone
 anggoro
+anggota
 anggrek
 angguk
 anggur
@@ -2568,7 +2569,6 @@ ehuy
 ej
 eja
 ejah
-ejar
 eje
 ejek
 eji
@@ -6374,7 +6374,6 @@ lope
 lopi
 lopis
 lor
-lora
 lore
 lorek
 loreng
@@ -6489,7 +6488,6 @@ macan
 macul
 mad
 mada
-madam
 madan
 madang
 madas
@@ -11187,6 +11185,7 @@ tales
 tali
 talie
 taline
+talingan
 talo
 tam
 tama
