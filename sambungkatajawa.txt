@@ -9167,6 +9167,7 @@ nunjuk
 nuntun
 nunung
 nunut
+nuo
 nup
 nur
 nura
@@ -11285,6 +11286,7 @@ sawang
 sawe
 sawer
 sawet
+sawetara
 sawi
 sawiji
 sawijine
