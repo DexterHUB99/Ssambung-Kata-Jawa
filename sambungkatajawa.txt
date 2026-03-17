@@ -1093,6 +1093,7 @@ asel
 aseli
 asem
 aseme
+asen
 aseng
 asep
 aset
@@ -11421,6 +11422,7 @@ serasih
 serat
 sere
 sereh
+serek
 serem
 sereng
 serep
