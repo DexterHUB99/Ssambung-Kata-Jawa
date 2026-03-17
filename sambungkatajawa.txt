@@ -4260,6 +4260,7 @@ hilang
 himpun
 himpuna
 himpunan
+himpunna
 hina
 hinaan
 hinane
@@ -6886,6 +6887,7 @@ makanan
 makane
 make
 maki
+makmur
 makna
 makol
 makruh
