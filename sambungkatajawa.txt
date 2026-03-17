@@ -2053,6 +2053,7 @@ dahan
 dahar
 dahi
 dajaran
+dak
 dakar
 daki
 dakngerti
@@ -2218,6 +2219,7 @@ digawa
 digo
 dihan
 diimboh
+dija
 dijak
 dijalan
 diji
@@ -3447,6 +3449,7 @@ gene
 genea
 geneo
 genep
+genepan
 generator
 geneya
 geneyi
@@ -3857,6 +3860,7 @@ hansip
 hanta
 hantam
 hantu
+hantui
 hanung
 hanya
 hao
@@ -4009,6 +4013,7 @@ hinane
 hinggap
 hir
 hira
+hiran
 hire
 hiren
 hiri
@@ -5098,6 +5103,7 @@ karem
 karen
 karep
 karepe
+karepem
 karepmu
 karepo
 kares
@@ -5729,6 +5735,7 @@ krama
 kramas
 krambil
 kran
+krasan
 kraton
 kresna
 krida
@@ -6641,6 +6648,7 @@ mat
 mata
 matam
 matamu
+matan
 matane
 mate
 matek
@@ -6672,6 +6680,7 @@ mayuh
 mayungi
 mbah
 mbak
+mbarep
 mben
 mbengi
 mbok
@@ -7323,6 +7332,7 @@ nemi
 nemok
 nemokke
 nemoni
+nempal
 nempe
 nempel
 nempik
@@ -7671,6 +7681,7 @@ ngaturno
 ngaub
 ngaup
 ngaur
+ngaut
 ngawa
 ngawag
 ngawah
@@ -8064,6 +8075,7 @@ ngoke
 ngoko
 ngokop
 ngokor
+ngokos
 ngol
 ngolah
 ngolak
@@ -9337,6 +9349,7 @@ pile
 pileh
 pilek
 pilem
+pilet
 pili
 pilih
 pilihan
@@ -9816,6 +9829,7 @@ ratina
 rating
 ratna
 ratu
+ratui
 ratus
 rauh
 raul
@@ -9875,6 +9889,7 @@ rekam
 rekan
 rekasa
 rekat
+rekma
 rekmo
 reko
 rekom
