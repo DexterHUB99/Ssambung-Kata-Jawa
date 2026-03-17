@@ -555,6 +555,7 @@ amiri
 amis
 amise
 amit
+amiy
 amo
 amoe
 amoh
@@ -2448,7 +2449,6 @@ doli
 dolo
 dolu
 dom
-doma
 domba
 domblong
 domi
@@ -4858,7 +4858,6 @@ jamput
 jamu
 jamur
 jan
-jana
 janaka
 jancok
 jancuk
@@ -6025,7 +6024,6 @@ kumi
 kumo
 kumpul
 kumpula
-kumpulan
 kumu
 kumuh
 kumut
@@ -7394,7 +7392,6 @@ nampak
 nampan
 nampani
 nampar
-namper
 nampil
 namping
 nampol
@@ -8490,6 +8487,7 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
+ngran
 ngrasa
 ngrasakna
 ngrasani
@@ -9324,7 +9322,6 @@ osok
 osor
 osut
 ot
-otah
 otak
 otakmu
 otek
@@ -9916,6 +9913,7 @@ posa
 pose
 posen
 posi
+posor
 pot
 pota
 potong
@@ -12754,6 +12752,7 @@ warak
 waras
 wareg
 warek
+wareng
 warga
 wari
 waria
