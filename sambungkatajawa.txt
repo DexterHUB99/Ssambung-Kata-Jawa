@@ -851,6 +851,7 @@ anyaman
 anyar
 anyaran
 anyeb
+anyem
 anyep
 anyer
 anyes
@@ -7014,6 +7015,7 @@ nadyan
 nae
 naek
 nafas
+nafkah
 nag
 naga
 nagara
@@ -7322,6 +7324,7 @@ nerangake
 nerangi
 nerangke
 nerasi
+nereng
 neri
 nerik
 nerima
@@ -9007,6 +9010,7 @@ paloh
 palsu
 palu
 palung
+pamah
 pamahan
 pamali
 paman
@@ -10791,6 +10795,7 @@ sole
 soli
 solid
 solo
+solor
 solot
 som
 soma
