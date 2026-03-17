@@ -1011,6 +1011,7 @@ arip
 arir
 aris
 arisan
+arisma
 arisna
 arit
 arjuna
@@ -1449,6 +1450,7 @@ bapa
 bapak
 bapakmu
 bar
+barak
 barek
 bareng
 bari
@@ -1699,6 +1701,7 @@ bobok
 bobrok
 bocah
 bocor
+bodat
 bodi
 bodo
 bodoh
@@ -3478,6 +3481,7 @@ gardu
 gare
 garem
 gareng
+gares
 gari
 garian
 garik
@@ -4785,6 +4789,7 @@ isin
 isinan
 isine
 ising
+isini
 isinna
 isio
 isis
@@ -4921,6 +4926,7 @@ jam
 jama
 jamal
 jaman
+jamane
 jamber
 jambi
 jambret
@@ -7102,7 +7108,6 @@ mer
 merah
 merat
 merem
-merene
 mergo
 meri
 merpati
@@ -7781,6 +7786,7 @@ neten
 netep
 neter
 netes
+neti
 netra
 newa
 ngaba
@@ -10848,7 +10854,6 @@ rutin
 ruwah
 ruwat
 ruwet
-ruwi
 ruyi
 rw
 sa
@@ -11084,6 +11089,7 @@ sasen
 sasi
 sasih
 sasimi
+sastra
 sasuh
 sasuk
 sat
@@ -11460,6 +11466,7 @@ sob
 soba
 sobat
 sobek
+sobi
 soblok
 soboh
 sodara
@@ -11527,6 +11534,7 @@ sore
 sori
 soroh
 sos
+sosa
 sose
 sosi
 sosiji
