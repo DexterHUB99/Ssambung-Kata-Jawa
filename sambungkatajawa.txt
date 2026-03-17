@@ -125,6 +125,7 @@ agih
 agin
 agor
 agu
+agun
 agung
 agus
 aguy
@@ -2025,6 +2026,7 @@ cocotmu
 codan
 codet
 codot
+cogan
 cok
 coke
 cokelat
@@ -2448,7 +2450,6 @@ doli
 dolo
 dolu
 dom
-doma
 domba
 domblong
 domi
@@ -4430,6 +4431,7 @@ ilan
 ilang
 ilangan
 ilangen
+ilaono
 ilap
 ilar
 ilas
@@ -6024,7 +6026,6 @@ kumi
 kumo
 kumpul
 kumpula
-kumpulan
 kumu
 kumuh
 kumut
@@ -9322,7 +9323,6 @@ osok
 osor
 osut
 ot
-otah
 otak
 otakmu
 otek
@@ -13032,6 +13032,7 @@ yas
 yasa
 yasi
 yasin
+yaso
 yat
 yate
 yati
