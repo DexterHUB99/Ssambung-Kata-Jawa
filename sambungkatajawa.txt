@@ -10080,6 +10080,7 @@ riska
 riski
 risma
 riso
+rista
 rit
 rita
 ritah
@@ -11848,6 +11849,7 @@ ume
 umen
 umi
 umia
+uming
 ummi
 umo
 umpa
@@ -11878,6 +11880,7 @@ unah
 unak
 unake
 unam
+unama
 unan
 unang
 unap
