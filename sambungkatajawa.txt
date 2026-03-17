@@ -9861,6 +9861,7 @@ rep
 repa
 repat
 repi
+repit
 repmu
 repo
 repot
@@ -10993,6 +10994,7 @@ tai
 taii
 taik
 taine
+tajam
 tajin
 tajir
 tajuk
