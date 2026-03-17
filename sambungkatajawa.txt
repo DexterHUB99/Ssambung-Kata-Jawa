@@ -1929,6 +1929,7 @@ cis
 ciu
 ciut
 ciwa
+ciya
 ciyo
 ciyut
 clurut
@@ -6789,6 +6790,7 @@ minal
 minangka
 minat
 minate
+mingat
 minggat
 minggir
 minggu
@@ -8751,7 +8753,6 @@ olong
 oloo
 olop
 olor
-oloran
 olos
 olot
 om
@@ -12544,7 +12545,6 @@ yos
 yosa
 yosan
 yosi
-yota
 yotan
 yoto
 yowe
