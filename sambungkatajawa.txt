@@ -459,6 +459,7 @@ alunan
 alur
 alus
 aluse
+aluwe
 alwan
 am
 ama
@@ -7153,6 +7154,7 @@ mus
 musa
 musan
 muser
+mushola
 musi
 musibah
 musim
@@ -8489,6 +8491,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngusur
 ngut
 nguta
 ngutang
