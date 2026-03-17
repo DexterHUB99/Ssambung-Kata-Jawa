@@ -1573,6 +1573,7 @@ bien
 biga
 bigan
 bigu
+bihun
 bijak
 biji
 bijor
@@ -3752,6 +3753,7 @@ gulungan
 gumam
 gumati
 gumuh
+gumuk
 gumun
 gun
 guna
@@ -3926,6 +3928,7 @@ harimu
 harjo
 harm
 harman
+harmi
 haro
 harta
 hartane
@@ -5846,6 +5849,7 @@ kulen
 kuli
 kulina
 kulit
+kulite
 kulo
 kuloe
 kulon
@@ -6026,6 +6030,7 @@ lampar
 lamper
 lamping
 lampir
+lampiran
 lampu
 lampua
 lampune
@@ -6219,6 +6224,7 @@ lesus
 let
 leto
 letong
+lewak
 lewat
 leyeh
 lha
@@ -6909,6 +6915,7 @@ misu
 misuh
 mita
 mitoni
+miya
 mlaku
 mlarat
 mlebet
@@ -7747,6 +7754,7 @@ ngasu
 ngasuh
 ngasuk
 ngasul
+ngasur
 ngata
 ngatasi
 ngatau
@@ -10825,6 +10833,7 @@ sewu
 sholat
 si
 sia
+siaa
 siah
 sial
 siala
