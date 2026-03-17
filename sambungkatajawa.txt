@@ -2763,6 +2763,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -4820,6 +4821,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -10073,6 +10075,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
