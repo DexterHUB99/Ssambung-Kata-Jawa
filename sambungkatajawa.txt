@@ -4277,6 +4277,7 @@ heran
 herane
 here
 heri
+herna
 hero
 hes
 hesa
@@ -8855,6 +8856,7 @@ ngumpulake
 ngun
 nguna
 nguncal
+nguncali
 ngunci
 ngundal
 ngundang
