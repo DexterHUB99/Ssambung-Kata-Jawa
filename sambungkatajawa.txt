@@ -833,6 +833,7 @@ anta
 antah
 antam
 antangi
+antap
 antar
 antara
 antarane
@@ -1624,7 +1625,6 @@ bilara
 bile
 bili
 bilih
-bilo
 bilu
 bima
 bimo
@@ -5285,7 +5285,6 @@ kasap
 kasar
 kasarasan
 kasat
-kase
 kasem
 kasep
 kaset
@@ -8079,7 +8078,6 @@ ngeo
 ngep
 ngepang
 ngepas
-ngepeh
 ngepek
 ngepel
 ngepet
@@ -8303,6 +8301,7 @@ nglangi
 nglangkah
 nglantur
 nglek
+nglilir
 ngliwet
 ngloh
 nglon
@@ -10083,7 +10082,6 @@ rangi
 rangka
 rangkat
 rangkul
-rangkum
 rangu
 rani
 ranjang
