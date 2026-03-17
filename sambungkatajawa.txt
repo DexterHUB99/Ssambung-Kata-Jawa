@@ -1398,6 +1398,7 @@ bapakmu
 bar
 barek
 bareng
+bari
 bariki
 baris
 barito
@@ -1637,6 +1638,7 @@ bodi
 bodo
 bodoh
 bodok
+bohong
 bojo
 bok
 boke
@@ -2829,7 +2831,6 @@ enel
 enem
 enen
 eneng
-enengkol
 enes
 engah
 engeh
@@ -3791,6 +3792,7 @@ guri
 gurih
 gurit
 gurita
+guritan
 guru
 guruh
 gus
@@ -4866,6 +4868,7 @@ jiret
 jiri
 jirih
 jit
+jita
 jitak
 jiwa
 jo
@@ -6346,6 +6349,7 @@ liwet
 liwo
 liya
 liyane
+liyep
 liyo
 lo
 loa
@@ -6409,6 +6413,7 @@ longgo
 longgor
 longor
 longsor
+loni
 lonjak
 lonjong
 lontar
@@ -6502,7 +6507,6 @@ luni
 lunjak
 luntur
 lunyu
-lup
 lupa
 lupe
 lupi
@@ -7638,7 +7642,6 @@ ngang
 nganga
 ngangah
 ngangam
-ngange
 ngangen
 ngangge
 nganggep
@@ -8077,6 +8080,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbal
 ngimbangi
 ngimbar
 ngimbas
@@ -8364,6 +8368,7 @@ ngupah
 ngupai
 ngupakara
 ngupas
+ngupati
 ngupaya
 ngupel
 ngupi
@@ -9675,6 +9680,7 @@ pro
 pu
 puan
 puasa
+pucat
 pucuk
 pucung
 pue
@@ -9691,6 +9697,7 @@ pukki
 pukul
 pul
 pula
+pulan
 pulau
 pulen
 puli
@@ -9933,6 +9940,7 @@ ras
 rasa
 rasah
 rasahe
+rasai
 rasak
 rasakan
 rasake
@@ -11941,6 +11949,7 @@ ulah
 ulahan
 ulahmu
 ulai
+ulak
 ulakan
 ulal
 ulala
