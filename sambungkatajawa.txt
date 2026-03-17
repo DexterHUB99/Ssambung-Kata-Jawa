@@ -7465,6 +7465,7 @@ nembe
 nembel
 nembelas
 nembok
+nembu
 nembung
 neme
 nemek
@@ -9637,6 +9638,7 @@ pitek
 piten
 piter
 pitik
+piting
 piton
 pitrah
 pitu
