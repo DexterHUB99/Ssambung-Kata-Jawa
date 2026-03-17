@@ -1337,6 +1337,7 @@ ayem
 ayeme
 ayep
 ayi
+ayik
 ayim
 ayin
 aying
@@ -2767,6 +2768,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -4826,6 +4828,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -5004,6 +5007,7 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
 jagar
@@ -5769,6 +5773,7 @@ ken
 kena
 kenak
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -8935,6 +8940,7 @@ ngupil
 nguping
 ngupo
 ngur
+ngura
 ngurah
 ngurai
 ngurak
@@ -10088,6 +10094,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -13185,6 +13192,7 @@ uyi
 uyo
 uyuh
 uyuhmu
+uyung
 uz
 vaksin
 via
