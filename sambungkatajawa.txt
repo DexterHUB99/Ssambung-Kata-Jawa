@@ -935,7 +935,6 @@ apik
 apika
 apikan
 apike
-apiken
 apil
 apin
 apip
@@ -1054,7 +1053,6 @@ aruna
 arup
 arupa
 arus
-aruse
 arut
 arwa
 arwah
@@ -2247,7 +2245,6 @@ dasare
 dasi
 dasu
 data
-date
 datu
 daun
 dawa
@@ -3218,7 +3215,6 @@ etak
 etal
 etam
 etan
-etane
 etang
 etano
 etap
@@ -3498,7 +3494,6 @@ garapi
 gardu
 gare
 garem
-garen
 gareng
 gares
 gari
@@ -4125,7 +4120,6 @@ haren
 harep
 harga
 hargai
-hargane
 hari
 harian
 harien
@@ -4243,6 +4237,7 @@ hewe
 heya
 hi
 hias
+hiasan
 hidayah
 hidhup
 hidup
@@ -5083,7 +5078,6 @@ jin
 jina
 jinak
 jinaka
-jinem
 jingga
 jingkrak
 jingkrik
@@ -5992,6 +5986,7 @@ komplit
 kompor
 komputer
 kon
+konami
 konan
 konangan
 konco
@@ -7607,7 +7602,6 @@ nara
 narah
 narai
 naran
-naras
 narasi
 nare
 narek
@@ -10141,7 +10135,6 @@ pranata
 pratama
 prau
 prei
-presiden
 pria
 primbon
 pring
@@ -11433,6 +11426,7 @@ simak
 siman
 simbah
 simbok
+simi
 simo
 simpang
 simpen
