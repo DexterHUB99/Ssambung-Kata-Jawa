@@ -9612,6 +9612,7 @@ ramen
 ramene
 rames
 rami
+ramis
 ramo
 rampas
 ramping
@@ -11553,6 +11554,7 @@ ujak
 ujan
 ujar
 ujaran
+ujare
 uji
 ujia
 ujian
