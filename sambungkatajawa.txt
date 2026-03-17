@@ -5246,6 +5246,7 @@ jera
 jeram
 jerami
 jeran
+jereng
 jerih
 jero
 jeroan
@@ -13203,6 +13204,7 @@ untara
 untaran
 untas
 untel
+unten
 unter
 untik
 untir
