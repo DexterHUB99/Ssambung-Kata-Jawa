@@ -12129,6 +12129,7 @@ sujud
 suk
 suka
 sukak
+sukan
 suke
 suker
 suket
@@ -13573,6 +13574,7 @@ warung
 was
 wasa
 wasana
+wase
 wasi
 wasiat
 wasir
