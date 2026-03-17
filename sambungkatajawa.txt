@@ -628,7 +628,6 @@ anakku
 anakmu
 anal
 anam
-anaman
 anan
 anana
 anandong
@@ -2003,7 +2002,6 @@ cicir
 cicit
 cidek
 ciduk
-ciji
 cik
 cikal
 ciken
@@ -3567,7 +3565,6 @@ geguritan
 geh
 gei
 gek
-geka
 gel
 gela
 gelak
@@ -6271,7 +6268,6 @@ lambung
 lame
 lamen
 lami
-lamine
 lamis
 lamon
 lamong
@@ -7106,6 +7102,7 @@ mer
 merah
 merat
 merem
+merene
 mergo
 meri
 merpati
@@ -10680,7 +10677,6 @@ robe
 robek
 robi
 roboh
-robok
 roda
 rodo
 roe
@@ -10852,6 +10848,7 @@ rutin
 ruwah
 ruwat
 ruwet
+ruwi
 ruyi
 rw
 sa
