@@ -4370,6 +4370,7 @@ inggil
 inggit
 ingi
 ingin
+ingising
 ingka
 ingkang
 ingko
@@ -4521,6 +4522,7 @@ ising
 isinna
 isis
 isiso
+isisti
 isit
 isita
 iska
@@ -8141,6 +8143,7 @@ ngulak
 ngulang
 ngulangi
 ngulas
+ngulat
 nguleg
 ngulek
 ngulen
