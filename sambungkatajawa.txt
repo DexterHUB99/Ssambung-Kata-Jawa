@@ -1579,7 +1579,6 @@ bidak
 bidan
 bidek
 bidik
-bidu
 bidun
 bidur
 bien
@@ -5787,7 +5786,6 @@ kontal
 kontan
 konten
 kontol
-kontola
 kontolmu
 kontrol
 konyol
