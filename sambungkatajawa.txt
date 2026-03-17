@@ -107,7 +107,6 @@ aga
 agah
 agak
 agal
-agam
 agama
 agami
 agar
@@ -1643,7 +1642,6 @@ bili
 bilih
 bilo
 bilu
-bilung
 bim
 bima
 bimo
@@ -2188,6 +2186,7 @@ dancuk
 dandan
 dandang
 dang
+dangak
 dangdut
 dangkal
 dangu
@@ -2655,6 +2654,7 @@ ehip
 ehir
 ehis
 ehit
+ehiy
 eho
 ehob
 ehod
@@ -2814,7 +2814,6 @@ emam
 eman
 emane
 emang
-emar
 emas
 emat
 ematane
@@ -3563,6 +3562,7 @@ gembleng
 gemblong
 gemblung
 gembok
+gembol
 gembong
 gembos
 gembrot
@@ -3597,7 +3597,6 @@ gendi
 gendon
 gendong
 gendruwo
-gendul
 gendung
 gendut
 gene
@@ -3963,7 +3962,6 @@ haho
 hai
 haie
 haii
-haina
 hajar
 hajat
 haji
@@ -4128,7 +4126,6 @@ hele
 heli
 helia
 helikopter
-helina
 helo
 hem
 hema
@@ -4172,7 +4169,6 @@ hidup
 hihihi
 hijab
 hijau
-hijauan
 hiji
 hijrah
 hikayat
@@ -4756,6 +4752,7 @@ isma
 ismai
 isme
 ismi
+ismo
 ismu
 isna
 isni
@@ -4803,7 +4800,6 @@ itu
 ituli
 itung
 itungan
-itungen
 iut
 iv
 iw
@@ -6083,7 +6079,6 @@ kupa
 kupas
 kupat
 kupeng
-kuper
 kuping
 kupluk
 kupu
@@ -6227,7 +6222,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanange
 lancang
@@ -6819,7 +6813,6 @@ man
 mana
 manah
 manak
-manas
 manasi
 mancal
 mancing
@@ -7345,7 +7338,6 @@ nadahi
 nadar
 nadhah
 nadi
-nadine
 nadyan
 nae
 naek
@@ -7604,7 +7596,6 @@ neh
 nek
 neka
 nekad
-nekan
 nekani
 nekat
 neken
@@ -7722,7 +7713,6 @@ ngabekti
 ngaben
 ngaboti
 ngabu
-ngabung
 ngaca
 ngacak
 ngacang
@@ -8522,7 +8512,6 @@ ngosip
 ngosok
 ngosong
 ngosor
-ngot
 ngotak
 ngoti
 ngotori
@@ -9005,6 +8994,7 @@ nyeluk
 nyembah
 nyeni
 nyenu
+nyi
 nyikat
 nyilih
 nyimak
@@ -9845,7 +9835,6 @@ pipi
 pipik
 pipipis
 pipis
-pipit
 pipo
 pir
 pira
@@ -9922,7 +9911,6 @@ pokok
 pokoke
 pokoknya
 pokone
-pokro
 pol
 pola
 polah
@@ -9934,7 +9922,6 @@ pole
 polek
 poles
 poli
-polin
 polisi
 poll
 polo
@@ -10913,7 +10900,6 @@ sangar
 sangat
 sangga
 sanggah
-sanggahan
 sanggar
 sanggul
 sanggup
@@ -11517,6 +11503,7 @@ sumri
 sumringah
 sumuk
 sumur
+sumurup
 sun
 sunan
 sunat
@@ -11672,7 +11659,6 @@ tale
 talenan
 tales
 tali
-talia
 talie
 taline
 talo
@@ -12486,7 +12472,6 @@ ungu
 uni
 unine
 uning
-unini
 unja
 unjal
 unjang
@@ -13029,7 +13014,6 @@ wonosobo
 wonten
 woo
 wor
-woran
 woro
 wortel
 wos
