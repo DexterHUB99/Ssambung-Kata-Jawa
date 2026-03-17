@@ -841,6 +841,7 @@ antuk
 antun
 antur
 anu
+anue
 anugerah
 anuk
 anum
@@ -5189,6 +5190,7 @@ katok
 katon
 katone
 katot
+katro
 katrok
 katu
 katuk
@@ -7491,6 +7493,7 @@ ngalahi
 ngalam
 ngalami
 ngalamun
+ngalan
 ngalang
 ngalangi
 ngalap
@@ -12109,7 +12112,6 @@ usir
 usiren
 uska
 usko
-usku
 usli
 usma
 uso
