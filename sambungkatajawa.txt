@@ -33,7 +33,6 @@ abul
 ac
 aca
 acak
-acal
 acan
 ace
 aceh
@@ -7541,6 +7540,7 @@ ngalur
 ngalus
 ngam
 ngama
+ngamah
 ngamal
 ngamar
 ngamba
@@ -12508,7 +12508,6 @@ womo
 won
 wong
 wonge
-wongi
 wongko
 woni
 wono
