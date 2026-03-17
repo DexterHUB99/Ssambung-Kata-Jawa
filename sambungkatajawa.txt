@@ -1018,7 +1018,6 @@ arisan
 arisma
 arisna
 arit
-arjo
 arjuna
 arjuno
 arma
@@ -2129,6 +2128,7 @@ cukup
 cukur
 culai
 culik
+culo
 culu
 culun
 cum
@@ -4244,7 +4244,6 @@ hewe
 heya
 hi
 hias
-hiasan
 hidayah
 hidhup
 hidup
@@ -5994,7 +5993,6 @@ komplit
 kompor
 komputer
 kon
-konami
 konan
 konangan
 konco
@@ -6566,7 +6564,6 @@ limas
 limasan
 limat
 limbah
-limbar
 limbuk
 limbung
 limo
@@ -10885,6 +10882,7 @@ rungsing
 rungu
 runi
 runtuh
+runtuhan
 runtun
 runtut
 runyam
@@ -11438,7 +11436,6 @@ simak
 siman
 simbah
 simbok
-simi
 simo
 simpang
 simpen
