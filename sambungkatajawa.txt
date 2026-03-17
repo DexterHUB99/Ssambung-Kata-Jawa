@@ -1181,6 +1181,7 @@ aves
 avi
 aw
 awa
+awae
 awah
 awak
 awakdewe
@@ -7284,7 +7285,6 @@ ngabekti
 ngaben
 ngaboti
 ngabu
-ngabut
 ngaca
 ngacak
 ngacara
@@ -7914,7 +7914,6 @@ nglamun
 nglangi
 nglangkah
 nglantur
-ngleh
 nglek
 ngliwet
 nglon
@@ -8049,6 +8048,7 @@ nguber
 ngubur
 ngucap
 ngucek
+ngudan
 ngudang
 ngudek
 ngudel
@@ -8369,7 +8369,6 @@ nui
 nuju
 nuk
 nuka
-nukan
 nuki
 nukil
 nuko
@@ -11366,7 +11365,6 @@ tulip
 tulis
 tulisan
 tulung
-tulungagung
 tulunge
 tulungi
 tulus
