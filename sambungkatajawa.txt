@@ -4152,6 +4152,7 @@ harang
 harap
 harapan
 harapane
+harape
 hare
 haren
 harep
@@ -6065,6 +6066,7 @@ kontan
 konten
 kontol
 kontola
+kontole
 kontolmu
 kontrol
 konyol
@@ -9431,6 +9433,7 @@ ome
 omel
 omelan
 omen
+omha
 omi
 omo
 omong
