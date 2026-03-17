@@ -8549,6 +8549,7 @@ ngesat
 ngesek
 ngesem
 ngeseng
+ngeset
 ngesok
 ngesor
 ngesot
