@@ -861,6 +861,7 @@ antemi
 anteng
 antep
 anter
+anterre
 antes
 anti
 antik
@@ -1928,6 +1929,7 @@ cari
 carik
 carine
 carita
+carok
 caruk
 cas
 casa
@@ -4008,6 +4010,7 @@ haho
 hai
 haie
 haii
+haing
 hajar
 hajat
 haji
@@ -5877,6 +5880,7 @@ kis
 kisa
 kisan
 kisanak
+kise
 kisi
 kit
 kita
@@ -8827,6 +8831,7 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
@@ -9885,6 +9890,7 @@ pile
 pileh
 pilek
 pilem
+piler
 pilet
 pili
 pilih
@@ -12363,6 +12369,7 @@ uji
 ujia
 ujian
 ujub
+ujug
 ujuk
 ujul
 ujun
