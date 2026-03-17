@@ -1050,7 +1050,6 @@ asma
 asmanipun
 asmara
 asmaradana
-asna
 aso
 asoe
 asoi
@@ -1624,7 +1623,6 @@ bodo
 bodoh
 bodok
 bojo
-bok
 boke
 bokek
 boker
@@ -1935,6 +1933,7 @@ cis
 ciu
 ciut
 ciwa
+ciya
 ciyo
 ciyut
 clurut
@@ -2055,7 +2054,6 @@ dahan
 dahar
 dahi
 dajaran
-dak
 dakar
 daki
 dakngerti
@@ -2221,7 +2219,6 @@ digawa
 digo
 dihan
 diimboh
-dija
 dijak
 dijalan
 diji
@@ -3046,7 +3043,6 @@ eting
 etis
 eto
 etod
-etog
 etoh
 etok
 etol
@@ -3452,7 +3448,6 @@ gene
 genea
 geneo
 genep
-genepan
 generator
 geneya
 geneyi
@@ -3515,6 +3510,7 @@ geser
 gesi
 gesit
 get
+gete
 gething
 gethok
 gethuk
@@ -3863,7 +3859,6 @@ hansip
 hanta
 hantam
 hantu
-hantui
 hanung
 hanya
 hao
@@ -4016,7 +4011,6 @@ hinane
 hinggap
 hir
 hira
-hiran
 hire
 hiren
 hiri
@@ -4406,7 +4400,6 @@ ingin
 ingka
 ingkang
 ingko
-ingkrik
 ingkung
 ingo
 ingong
@@ -4466,6 +4459,7 @@ ipuk
 ipun
 ir
 ira
+iraa
 irab
 irah
 iraha
@@ -4750,6 +4744,7 @@ jelang
 jelas
 jelek
 jem
+jembar
 jembatan
 jember
 jembut
@@ -4843,7 +4838,6 @@ jolan
 jole
 jolen
 joli
-jolma
 jolo
 jom
 joma
@@ -5106,14 +5100,15 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
-karepem
 karepmu
 karepo
 kares
 karet
 kari
+karim
 karimun
 karipa
 karipan
@@ -5617,6 +5612,7 @@ kliwon
 klo
 klu
 klumah
+kluyuran
 kntl
 ko
 kobel
@@ -5740,7 +5736,6 @@ krama
 kramas
 krambil
 kran
-krasan
 kraton
 kresna
 krida
@@ -6328,6 +6323,7 @@ lomi
 lomo
 lomot
 lompat
+lomu
 lon
 lona
 loncat
@@ -6653,7 +6649,6 @@ mat
 mata
 matam
 matamu
-matan
 matane
 mate
 matek
@@ -6685,7 +6680,6 @@ mayuh
 mayungi
 mbah
 mbak
-mbarep
 mben
 mbengi
 mbok
@@ -6811,6 +6805,7 @@ minal
 minangka
 minat
 minate
+mingat
 minggat
 minggir
 minggu
@@ -6842,6 +6837,7 @@ misu
 misuh
 mita
 mitoni
+miya
 mlaku
 mlarat
 mlebet
@@ -6988,6 +6984,7 @@ mung
 mungah
 munggah
 mungkin
+mungkur
 mungsuh
 muni
 munjul
@@ -7297,6 +7294,7 @@ negi
 negor
 negori
 neh
+nehi
 nek
 neka
 nekad
@@ -7337,7 +7335,6 @@ nemi
 nemok
 nemokke
 nemoni
-nempal
 nempe
 nempel
 nempik
@@ -7398,6 +7395,7 @@ netep
 neter
 netes
 netra
+netrak
 newa
 ngaba
 ngabab
@@ -7558,6 +7556,7 @@ ngangkat
 ngangluh
 ngangon
 ngangsal
+ngangso
 ngangsu
 ngangsur
 ngangu
@@ -7662,6 +7661,7 @@ ngasin
 ngaso
 ngasoh
 ngasor
+ngasore
 ngasta
 ngasu
 ngasuh
@@ -7686,7 +7686,6 @@ ngaturno
 ngaub
 ngaup
 ngaur
-ngaut
 ngawa
 ngawag
 ngawah
@@ -7802,6 +7801,7 @@ ngen
 ngena
 ngenah
 ngenak
+ngenani
 ngencang
 ngencuk
 ngendah
@@ -7885,7 +7885,6 @@ ngetan
 ngetem
 ngeten
 ngeti
-ngetih
 ngetik
 ngeting
 ngetok
@@ -8081,7 +8080,6 @@ ngoke
 ngoko
 ngokop
 ngokor
-ngokos
 ngol
 ngolah
 ngolak
@@ -8481,6 +8479,7 @@ nosa
 nosi
 not
 nota
+note
 noti
 noya
 nresna
@@ -8537,6 +8536,7 @@ numplak
 numplek
 numpuk
 numpul
+numrap
 nun
 nuna
 nung
@@ -9355,7 +9355,6 @@ pile
 pileh
 pilek
 pilem
-pilet
 pili
 pilih
 pilihan
@@ -9724,6 +9723,7 @@ rambu
 rambut
 rambutan
 rambute
+rambutmu
 rame
 ramen
 ramene
@@ -9835,7 +9835,6 @@ ratina
 rating
 ratna
 ratu
-ratui
 ratus
 rauh
 raul
@@ -9895,7 +9894,6 @@ rekam
 rekan
 rekasa
 rekat
-rekma
 rekmo
 reko
 rekom
@@ -9964,7 +9962,6 @@ renjang
 reno
 rentan
 renteng
-rentetan
 renung
 reo
 reog
@@ -11187,7 +11184,6 @@ tanjung
 tanpa
 tansah
 tante
-tanya
 tao
 tap
 tapa
@@ -11870,6 +11866,7 @@ unam
 unan
 unang
 unap
+uncak
 uncal
 undagi
 undak
@@ -11917,7 +11914,6 @@ ungkul
 ungkur
 ungu
 uni
-unine
 uning
 unja
 unjal
