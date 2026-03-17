@@ -1929,7 +1929,6 @@ cis
 ciu
 ciut
 ciwa
-ciya
 ciyo
 ciyut
 clurut
@@ -3506,7 +3505,6 @@ geser
 gesi
 gesit
 get
-gete
 gething
 gethok
 gethuk
@@ -5386,6 +5384,7 @@ keparat
 kepel
 kepenak
 kepepet
+kepes
 kepet
 kepi
 kepie
@@ -6791,7 +6790,6 @@ minal
 minangka
 minat
 minate
-mingat
 minggat
 minggir
 minggu
@@ -7537,7 +7535,6 @@ ngangkat
 ngangluh
 ngangon
 ngangsal
-ngangso
 ngangsu
 ngangsur
 ngangu
