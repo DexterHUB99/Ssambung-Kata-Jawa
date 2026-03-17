@@ -7828,6 +7828,7 @@ nasa
 nasab
 nasaba
 nasai
+nasan
 nasar
 nase
 nasehat
@@ -12621,6 +12622,7 @@ tulus
 tum
 tuma
 tuman
+tumbak
 tumbal
 tumbar
 tumbas
