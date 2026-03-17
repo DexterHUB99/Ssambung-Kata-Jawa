@@ -888,6 +888,7 @@ anua
 anue
 anugerah
 anuh
+anui
 anuk
 anum
 anun
@@ -2516,7 +2517,6 @@ donga
 dongane
 dongeng
 dongi
-dongkrak
 dongo
 dongok
 dongol
@@ -4650,6 +4650,7 @@ indhang
 indhik
 indik
 inding
+indira
 indomie
 indra
 indu
@@ -4951,7 +4952,6 @@ jail
 jait
 jaja
 jajah
-jajak
 jajal
 jajan
 jak
@@ -5684,7 +5684,6 @@ kemulan
 ken
 kena
 kenak
-kenang
 kenanga
 kenapa
 kenari
@@ -6376,6 +6375,7 @@ langu
 lani
 lanjur
 lanjut
+lano
 lansia
 lantah
 lantai
@@ -8318,7 +8318,6 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
-ngengi
 ngeniko
 ngenjang
 ngeno
@@ -8331,7 +8330,6 @@ ngentong
 ngentu
 ngentuk
 ngentut
-ngenuk
 ngenut
 ngenyek
 ngeo
@@ -8666,7 +8664,6 @@ ngoplo
 ngopo
 ngopoe
 ngopoi
-ngopok
 ngopol
 ngopor
 ngopose
@@ -9450,6 +9447,7 @@ opa
 opah
 opak
 opal
+opala
 opam
 opan
 opat
@@ -11695,6 +11693,7 @@ suko
 suku
 sukun
 sukur
+sukuran
 sul
 sula
 sulah
@@ -12738,6 +12737,7 @@ unter
 untik
 untir
 untiren
+untoh
 untu
 untuk
 untul
@@ -13085,6 +13085,7 @@ wasno
 wasuh
 wata
 watak
+wates
 wati
 watir
 waton
@@ -13093,6 +13094,7 @@ watu
 watuk
 wawa
 wawang
+wawas
 wawasan
 wawe
 wawi
