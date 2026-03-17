@@ -4536,6 +4536,7 @@ isine
 ising
 isinna
 isis
+isisam
 isiso
 isit
 isita
@@ -10400,6 +10401,7 @@ sao
 saos
 sap
 sapa
+sapar
 sape
 sapi
 sapih
@@ -12360,6 +12362,7 @@ wisuh
 wit
 wita
 witan
+witen
 witir
 wito
 wiwi
