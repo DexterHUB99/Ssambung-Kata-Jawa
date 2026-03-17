@@ -38,6 +38,7 @@ ace
 aceh
 acem
 aci
+acik
 acor
 acu
 acuh
@@ -6761,7 +6762,6 @@ mendung
 mendut
 mene
 meneh
-menehi
 meneng
 mengko
 meni
@@ -9217,6 +9217,7 @@ pasar
 paser
 pasi
 pasir
+pasokan
 pasrah
 pasu
 pasuh
@@ -9852,6 +9853,7 @@ rasani
 rasaye
 rase
 rasek
+rasem
 rasi
 rasih
 rasik
@@ -10209,7 +10211,6 @@ rowi
 rowo
 rowoe
 royal
-royi
 royo
 rt
 ru
@@ -11673,6 +11674,7 @@ ubii
 ubun
 ubur
 uc
+uca
 ucak
 ucap
 ucapan
@@ -12593,7 +12595,6 @@ yesa
 yesi
 yet
 yi
-yitna
 yiwa
 yo
 yoa
