@@ -1624,6 +1624,7 @@ benten
 bentrok
 bentuk
 beo
+ber
 berak
 beras
 berek
