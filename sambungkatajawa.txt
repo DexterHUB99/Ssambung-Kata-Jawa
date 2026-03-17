@@ -720,6 +720,7 @@ angkana
 angkara
 angkasa
 angkat
+angkatan
 angkel
 angker
 angkle
