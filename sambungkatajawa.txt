@@ -2962,6 +2962,7 @@ emanan
 emane
 emang
 emas
+emasa
 emat
 ematane
 emba
