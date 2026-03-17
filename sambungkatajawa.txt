@@ -4061,6 +4061,7 @@ hah
 haha
 hahaa
 hahaha
+hahak
 hahi
 haho
 hai
@@ -11064,6 +11065,7 @@ saket
 saki
 sakiki
 saking
+sakir
 sakit
 sakitmu
 sakne
@@ -12158,7 +12160,6 @@ tete
 teteg
 teteh
 tetek
-tetekala
 tetelan
 tetep
 tetes
