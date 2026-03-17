@@ -842,6 +842,7 @@ antuk
 antun
 antur
 anu
+anua
 anue
 anugerah
 anuk
@@ -2848,6 +2849,7 @@ enjoy
 enka
 enki
 enko
+enli
 enlo
 eno
 enoh
@@ -5961,7 +5963,6 @@ lakna
 lakon
 lakoni
 laku
-lalang
 lalar
 lalat
 laler
@@ -6114,7 +6115,6 @@ leak
 leba
 lebah
 lebak
-lebay
 lebet
 lebih
 lebu
@@ -6811,7 +6811,6 @@ mia
 micek
 mie
 mieayam
-miee
 migunani
 mii
 mijet
@@ -8703,7 +8702,6 @@ ocok
 od
 odok
 odol
-odolan
 og
 ogah
 ogahe
@@ -8869,6 +8867,7 @@ onda
 onde
 ondha
 ondhe
+ondho
 ondo
 ondol
 oneng
