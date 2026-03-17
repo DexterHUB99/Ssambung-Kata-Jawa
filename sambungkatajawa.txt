@@ -2129,7 +2129,6 @@ cukup
 cukur
 culai
 culik
-culo
 culu
 culun
 cum
@@ -8219,7 +8218,6 @@ ngejak
 ngejar
 ngejek
 ngek
-ngekel
 ngeko
 ngekok
 ngekos
@@ -10887,7 +10885,6 @@ rungsing
 rungu
 runi
 runtuh
-runtuhan
 runtun
 runtut
 runyam
