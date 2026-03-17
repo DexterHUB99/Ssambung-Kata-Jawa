@@ -12679,6 +12679,7 @@ uring
 urip
 uripan
 uripe
+uripen
 uripku
 uripmu
 uris
