@@ -5641,6 +5641,7 @@ kelik
 keliling
 kelinci
 kelingan
+kelir
 keliru
 kelok
 kelolohan
@@ -9434,6 +9435,7 @@ oneng
 onet
 onggok
 ongkang
+ongkeh
 ongkek
 ongkel
 ongko
@@ -11333,6 +11335,7 @@ semangkok
 semar
 semarak
 semarang
+semat
 sembah
 sembahyang
 sembarang
