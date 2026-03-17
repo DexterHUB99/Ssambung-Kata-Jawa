@@ -2218,7 +2218,6 @@ digawa
 digo
 dihan
 diimboh
-dija
 dijak
 dijalan
 diji
@@ -2245,6 +2244,7 @@ dilarang
 dilas
 dilat
 dilati
+dile
 dileh
 dilem
 diler
@@ -2988,6 +2988,7 @@ ese
 eseh
 esek
 esem
+esema
 eseme
 esemka
 esen
@@ -3858,7 +3859,6 @@ hansip
 hanta
 hantam
 hantu
-hantui
 hanung
 hanya
 hao
@@ -4011,7 +4011,6 @@ hinane
 hinggap
 hir
 hira
-hiran
 hire
 hiren
 hiri
@@ -4322,6 +4321,7 @@ imbas
 imbat
 imbel
 imbi
+imbing
 imboh
 imbu
 imbuh
@@ -5101,7 +5101,6 @@ karem
 karen
 karep
 karepe
-karepem
 karepmu
 karepo
 kares
@@ -5733,7 +5732,6 @@ krama
 kramas
 krambil
 kran
-krasan
 kraton
 kresna
 krida
@@ -6646,7 +6644,6 @@ mat
 mata
 matam
 matamu
-matan
 matane
 mate
 matek
@@ -6678,7 +6675,6 @@ mayuh
 mayungi
 mbah
 mbak
-mbarep
 mben
 mbengi
 mbok
@@ -6747,6 +6743,7 @@ mepe
 mepet
 mer
 merah
+merak
 merat
 merem
 mergo
@@ -7330,7 +7327,6 @@ nemi
 nemok
 nemokke
 nemoni
-nempal
 nempe
 nempel
 nempik
@@ -7679,7 +7675,6 @@ ngaturno
 ngaub
 ngaup
 ngaur
-ngaut
 ngawa
 ngawag
 ngawah
@@ -8073,7 +8068,6 @@ ngoke
 ngoko
 ngokop
 ngokor
-ngokos
 ngol
 ngolah
 ngolak
@@ -9347,7 +9341,6 @@ pile
 pileh
 pilek
 pilem
-pilet
 pili
 pilih
 pilihan
@@ -9827,8 +9820,8 @@ ratina
 rating
 ratna
 ratu
-ratui
 ratus
+ratusi
 rauh
 raul
 rauma
@@ -9887,7 +9880,6 @@ rekam
 rekan
 rekasa
 rekat
-rekma
 rekmo
 reko
 rekom
@@ -11632,6 +11624,7 @@ udani
 udar
 udara
 udari
+udas
 ude
 udeg
 udek
