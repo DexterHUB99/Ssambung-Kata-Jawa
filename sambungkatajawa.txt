@@ -1295,6 +1295,7 @@ ayani
 ayap
 ayar
 ayas
+ayasa
 ayat
 ayay
 aye
@@ -1903,7 +1904,6 @@ cawet
 cawi
 cawik
 cawis
-cawuk
 ce
 ceblok
 cebok
@@ -3215,6 +3215,7 @@ eyan
 eyang
 eye
 eyek
+eyes
 eyo
 eyoh
 eyos
@@ -10885,6 +10886,7 @@ sasuk
 sat
 sata
 satai
+satar
 sate
 sati
 satitik
@@ -12796,6 +12798,7 @@ weli
 weling
 welo
 welut
+wema
 wen
 wene
 weneh
