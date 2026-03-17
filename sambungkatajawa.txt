@@ -125,6 +125,7 @@ agih
 agin
 agor
 agu
+agun
 agung
 agus
 aguy
@@ -555,7 +556,6 @@ amiri
 amis
 amise
 amit
-amiy
 amo
 amoe
 amoh
@@ -2026,6 +2026,7 @@ cocotmu
 codan
 codet
 codot
+cogan
 cok
 coke
 cokelat
@@ -4430,6 +4431,7 @@ ilan
 ilang
 ilangan
 ilangen
+ilaono
 ilap
 ilar
 ilas
@@ -8487,7 +8489,6 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
-ngran
 ngrasa
 ngrasakna
 ngrasani
@@ -9913,7 +9914,6 @@ posa
 pose
 posen
 posi
-posor
 pot
 pota
 potong
@@ -12752,7 +12752,6 @@ warak
 waras
 wareg
 warek
-wareng
 warga
 wari
 waria
@@ -13033,6 +13032,7 @@ yas
 yasa
 yasi
 yasin
+yaso
 yat
 yate
 yati
