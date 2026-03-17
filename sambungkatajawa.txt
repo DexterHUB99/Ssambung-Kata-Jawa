@@ -6771,6 +6771,7 @@ lupi
 lupis
 luput
 lur
+lura
 lurah
 lurik
 luru
@@ -7108,6 +7109,7 @@ mer
 merah
 merat
 merem
+merene
 mergo
 meri
 merpati
@@ -7889,6 +7891,7 @@ ngalir
 ngalis
 ngalo
 ngalon
+ngalong
 ngalor
 ngaloren
 ngalu
@@ -9000,6 +9003,7 @@ nulis
 nulo
 nulung
 nulungi
+nulur
 num
 numa
 numan
@@ -10210,7 +10214,6 @@ ragat
 ragelem
 ragi
 ragil
-ragisa
 ragu
 rah
 raha
@@ -10855,6 +10858,7 @@ rutin
 ruwah
 ruwat
 ruwet
+ruwi
 ruyi
 rw
 sa
@@ -11197,7 +11201,6 @@ selatan
 selawe
 sele
 selek
-selen
 selendang
 selep
 selet
