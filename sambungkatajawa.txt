@@ -516,6 +516,7 @@ ambune
 ambung
 ambunge
 ambungen
+amburadul
 ambyar
 ame
 ameh
@@ -664,6 +665,7 @@ andhaan
 andhana
 andhap
 andhe
+andheg
 andheng
 andhikane
 andhong
@@ -1449,6 +1451,7 @@ baturan
 bau
 bawa
 bawal
+bawang
 bawe
 bawel
 bawok
@@ -2417,7 +2420,6 @@ dompet
 don
 dong
 donga
-dongane
 dongeng
 dongi
 dongo
@@ -5362,7 +5364,6 @@ kece
 kecek
 kecel
 kecelek
-kecemplung
 kecewa
 kecoa
 kecot
@@ -6390,7 +6391,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintune
 lio
 lip
 lipa
@@ -6421,7 +6421,6 @@ lisan
 lisaning
 lise
 lisi
-lising
 lisung
 lit
 lita
@@ -6624,6 +6623,7 @@ mabur
 maca
 macak
 macan
+macapat
 macul
 mad
 mada
@@ -9551,7 +9551,6 @@ peran
 perang
 percaya
 pere
-perek
 peri
 perih
 permisi
@@ -9592,7 +9591,6 @@ pie
 pih
 pijak
 pijang
-pijar
 pijat
 pijer
 pijet
@@ -9762,7 +9760,6 @@ poli
 polisi
 poll
 polo
-poloh
 pom
 poma
 pomi
@@ -10164,7 +10161,6 @@ rebahan
 rebana
 rebo
 rebung
-rebus
 rebut
 rebutan
 receh
@@ -11112,7 +11108,6 @@ siram
 siraman
 sire
 sirem
-siren
 sirep
 siri
 sirih
