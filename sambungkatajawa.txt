@@ -654,7 +654,6 @@ ancene
 ancer
 anci
 ancik
-ancika
 anco
 ancok
 ancu
@@ -1700,6 +1699,7 @@ bodi
 bodo
 bodoh
 bodok
+bogem
 bohong
 bojo
 bojok
@@ -1912,7 +1912,6 @@ cantik
 canting
 cap
 capek
-caper
 capi
 caping
 capung
@@ -7718,7 +7717,6 @@ nengah
 nengdi
 nenge
 nengen
-nengga
 neni
 nep
 nepa
@@ -11194,7 +11192,6 @@ sembur
 seme
 semen
 semene
-semi
 semo
 semok
 semot
