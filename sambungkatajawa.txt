@@ -9127,6 +9127,7 @@ panir
 panis
 panjaluk
 panjang
+panjar
 panjenengan
 panji
 panta
