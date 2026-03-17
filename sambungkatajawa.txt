@@ -12750,6 +12750,8 @@ ujan
 ujar
 ujaran
 ujare
+ujarku
+ujarmu
 uji
 ujia
 ujian
