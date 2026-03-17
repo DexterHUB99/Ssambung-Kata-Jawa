@@ -459,7 +459,6 @@ alunan
 alur
 alus
 aluse
-aluwe
 alwan
 am
 ama
@@ -1096,6 +1095,7 @@ asuh
 asuhan
 asui
 asuk
+asuki
 asul
 asum
 asumu
@@ -2960,6 +2960,7 @@ epem
 epen
 epep
 eper
+epes
 epet
 epi
 epic
@@ -3653,6 +3654,7 @@ giru
 gisa
 gita
 gitar
+gitari
 githok
 giwang
 giwangan
@@ -4181,6 +4183,7 @@ hun
 huna
 huni
 hup
+hupa
 hupi
 hur
 hura
@@ -7154,7 +7157,6 @@ mus
 musa
 musan
 muser
-mushola
 musi
 musibah
 musim
@@ -7916,7 +7918,6 @@ ngejak
 ngejar
 ngejek
 ngek
-ngekek
 ngeko
 ngekok
 ngekos
@@ -8492,7 +8493,6 @@ ngusir
 ngusu
 ngusung
 ngusungi
-ngusur
 ngut
 nguta
 ngutang
@@ -9919,6 +9919,7 @@ rajak
 rajang
 rajar
 rajek
+rajelas
 rajin
 raju
 rajuk
@@ -11326,6 +11327,7 @@ surut
 surya
 sus
 susa
+susaa
 susah
 susan
 susas
@@ -12420,6 +12422,7 @@ utangmu
 utar
 utara
 utaran
+utare
 utas
 utasan
 utata
