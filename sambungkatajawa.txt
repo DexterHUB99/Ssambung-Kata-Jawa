@@ -1098,6 +1098,7 @@ arwana
 arya
 as
 asa
+asaf
 asah
 asahan
 asai
@@ -4758,6 +4759,7 @@ imboh
 imbu
 imbuh
 imbuhan
+imbuhna
 imbung
 ime
 imen
@@ -11016,6 +11018,7 @@ rengket
 renjang
 reno
 rentan
+rentang
 renteng
 rentetan
 renung
