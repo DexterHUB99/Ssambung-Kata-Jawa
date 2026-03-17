@@ -680,6 +680,7 @@ anda
 andai
 andal
 andalan
+andalane
 andang
 andani
 andap
@@ -8740,6 +8741,7 @@ ngluwehi
 ngluwih
 ngluwihi
 ngn
+ngngetan
 ngngewe
 ngnggo
 ngngombe
