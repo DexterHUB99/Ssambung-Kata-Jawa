@@ -5266,6 +5266,7 @@ kemene
 kemeng
 kemeruh
 kemi
+kemin
 kemiri
 kemis
 kemna
@@ -5580,6 +5581,7 @@ kolot
 kolotmu
 kom
 koma
+koman
 kome
 komen
 komi
