@@ -315,6 +315,7 @@ akan
 akang
 akap
 akar
+akara
 akas
 akasa
 akasi
@@ -12375,6 +12376,7 @@ tura
 turah
 turahe
 ture
+turen
 turi
 turu
 turuk
