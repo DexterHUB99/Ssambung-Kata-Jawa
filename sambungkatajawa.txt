@@ -428,7 +428,6 @@ aliran
 alis
 alisa
 alisan
-alise
 alit
 alka
 allahuakbar
@@ -460,6 +459,7 @@ alunan
 alur
 alus
 aluse
+aluwe
 alwan
 am
 ama
@@ -1304,7 +1304,6 @@ ba
 baa
 bab
 baba
-babah
 babai
 babak
 babar
@@ -1769,7 +1768,6 @@ bunga
 bungah
 bungahe
 bungkus
-bunglon
 buntel
 buntu
 buntung
@@ -2085,7 +2083,6 @@ dados
 dadu
 daduk
 dagang
-dagel
 dagelan
 dagin
 daging
@@ -2265,6 +2262,7 @@ diewe
 difa
 digawa
 digo
+digu
 dihan
 diimboh
 dija
@@ -4082,6 +4080,7 @@ hewe
 heya
 hi
 hias
+hiasan
 hidayah
 hidhup
 hidup
@@ -7161,6 +7160,7 @@ mus
 musa
 musan
 muser
+mushola
 musi
 musibah
 musim
@@ -7348,6 +7348,7 @@ nar
 nara
 narah
 narai
+narak
 naran
 narasi
 narek
@@ -7628,6 +7629,7 @@ ngaka
 ngakak
 ngakal
 ngakali
+ngakar
 ngakeh
 ngakir
 ngakon
@@ -7922,6 +7924,7 @@ ngejak
 ngejar
 ngejek
 ngek
+ngekek
 ngeko
 ngekok
 ngekos
@@ -8497,6 +8500,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngusur
 ngut
 nguta
 ngutang
@@ -8661,6 +8665,7 @@ nomere
 nomi
 non
 nona
+none
 nong
 nongeng
 nongki
@@ -10114,6 +10119,7 @@ rayon
 rayu
 re
 rea
+rean
 reang
 reba
 rebab
