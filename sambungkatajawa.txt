@@ -1731,7 +1731,6 @@ bodi
 bodo
 bodoh
 bodok
-bogel
 bogem
 bohong
 bojo
@@ -5326,7 +5325,6 @@ kala
 kalah
 kalahan
 kalai
-kalak
 kalakon
 kalam
 kalang
@@ -12384,7 +12382,6 @@ tone
 tonggo
 tongkol
 tongseng
-toni
 tono
 tonton
 tontonan
