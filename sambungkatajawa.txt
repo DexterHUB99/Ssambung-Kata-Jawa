@@ -2235,6 +2235,7 @@ dilat
 dilati
 dileh
 dilem
+diler
 dilindes
 dilit
 dilo
@@ -12383,6 +12384,7 @@ wumi
 wun
 wuru
 wusa
+wuta
 wuwi
 xenon
 xilofon
