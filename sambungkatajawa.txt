@@ -651,7 +651,6 @@ andhong
 andi
 andika
 andini
-andiro
 andok
 andon
 andong
@@ -2243,7 +2242,6 @@ dinah
 dinan
 dinar
 dinas
-dinasti
 dinding
 dinggo
 dingin
@@ -2668,7 +2666,6 @@ embuhe
 embun
 embunan
 embung
-embunku
 eme
 emeh
 emek
@@ -7716,7 +7713,6 @@ ngepot
 ngepus
 nger
 ngerak
-ngeram
 ngerami
 ngerampok
 ngerandu
@@ -8201,7 +8197,6 @@ nikus
 nil
 nila
 nilai
-nilak
 nilam
 nilan
 nilar
@@ -8448,7 +8443,6 @@ nyala
 nyali
 nyam
 nyaman
-nyambe
 nyambel
 nyambi
 nyambik
