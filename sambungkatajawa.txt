@@ -2536,6 +2536,7 @@ dongol
 doni
 dono
 donya
+donyo
 dop
 dopo
 dor
@@ -11603,6 +11604,7 @@ sirep
 siri
 sirih
 sirik
+sirine
 sirna
 siro
 sirop
