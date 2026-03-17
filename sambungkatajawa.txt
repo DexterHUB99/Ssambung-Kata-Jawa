@@ -769,6 +769,7 @@ angs
 angsa
 angsal
 angsalipun
+angsang
 angsara
 angsle
 angso
@@ -5984,6 +5985,7 @@ kraton
 kresna
 kretek
 krida
+krikil
 kripik
 krungu
 krupuk
