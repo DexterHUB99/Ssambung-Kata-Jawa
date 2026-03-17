@@ -7549,6 +7549,7 @@ ngaboti
 ngabu
 ngaca
 ngacak
+ngacang
 ngacara
 ngace
 ngacem
@@ -8588,6 +8589,7 @@ nitik
 nitip
 niwa
 njagong
+njait
 njajal
 njaluk
 njancok
