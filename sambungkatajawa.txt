@@ -2964,6 +2964,7 @@ enam
 enan
 enang
 enas
+encak
 encer
 encik
 encok
@@ -3329,6 +3330,7 @@ faham
 fakir
 fakta
 famu
+fana
 fani
 fasih
 fikir
