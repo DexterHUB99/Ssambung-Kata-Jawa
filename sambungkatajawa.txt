@@ -888,7 +888,6 @@ anua
 anue
 anugerah
 anuh
-anui
 anuk
 anum
 anun
@@ -4652,7 +4651,6 @@ indhang
 indhik
 indik
 inding
-indira
 indomie
 indra
 indu
@@ -6378,7 +6376,6 @@ langu
 lani
 lanjur
 lanjut
-lano
 lansia
 lantah
 lantai
@@ -9450,7 +9447,6 @@ opa
 opah
 opak
 opal
-opala
 opam
 opan
 opat
@@ -11696,7 +11692,6 @@ suko
 suku
 sukun
 sukur
-sukuran
 sul
 sula
 sulah
@@ -12741,7 +12736,6 @@ unter
 untik
 untir
 untiren
-untoh
 untu
 untuk
 untul
@@ -13089,7 +13083,6 @@ wasno
 wasuh
 wata
 watak
-wates
 wati
 watir
 waton
@@ -13098,7 +13091,6 @@ watu
 watuk
 wawa
 wawang
-wawas
 wawasan
 wawe
 wawi
