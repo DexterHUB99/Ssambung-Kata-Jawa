@@ -842,6 +842,7 @@ antuk
 antun
 antur
 anu
+anua
 anue
 anugerah
 anuk
@@ -2848,6 +2849,7 @@ enjoy
 enka
 enki
 enko
+enli
 enlo
 eno
 enoh
@@ -4172,6 +4174,7 @@ idi
 idia
 idih
 idin
+idku
 idma
 ido
 idu
@@ -5961,7 +5964,6 @@ lakna
 lakon
 lakoni
 laku
-lalang
 lalar
 lalat
 laler
@@ -6114,7 +6116,6 @@ leak
 leba
 lebah
 lebak
-lebay
 lebet
 lebih
 lebu
@@ -6811,7 +6812,6 @@ mia
 micek
 mie
 mieayam
-miee
 migunani
 mii
 mijet
@@ -7470,6 +7470,7 @@ ngado
 ngadoh
 ngadohi
 ngadok
+ngadol
 ngadon
 ngadu
 ngaduk
@@ -8703,7 +8704,6 @@ ocok
 od
 odok
 odol
-odolan
 og
 ogah
 ogahe
@@ -8869,6 +8869,7 @@ onda
 onde
 ondha
 ondhe
+ondho
 ondo
 ondol
 oneng
@@ -10022,6 +10023,7 @@ reo
 reog
 rep
 repa
+repan
 repat
 repi
 repit
@@ -11811,7 +11813,6 @@ ukmo
 ukmu
 ukna
 uko
-ukoh
 ukok
 ukol
 ukom
@@ -12148,7 +12149,6 @@ usku
 usli
 usma
 uso
-usra
 ust
 usta
 ustadz
