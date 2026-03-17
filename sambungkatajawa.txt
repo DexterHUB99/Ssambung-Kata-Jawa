@@ -957,6 +957,7 @@ apuse
 apusi
 aput
 apuwo
+apuy
 aqiqah
 ar
 ara
@@ -1290,6 +1291,7 @@ ayag
 ayah
 ayaj
 ayak
+ayake
 ayal
 ayalan
 ayam
@@ -2509,6 +2511,7 @@ dosa
 dosen
 doso
 dot
+dota
 dowe
 dowo
 du
@@ -3313,6 +3316,7 @@ gadai
 gadang
 gadha
 gadhah
+gadhe
 gadhing
 gading
 gado
@@ -6283,7 +6287,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanangan
 lanange
@@ -7609,6 +7612,7 @@ nawon
 nawur
 naya
 nayo
+nayoh
 ncok
 ndadak
 ndak
@@ -9046,7 +9050,6 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
-nwa
 ny
 nya
 nyai
@@ -9842,6 +9845,7 @@ piatu
 piawang
 picak
 picek
+pidah
 pidak
 pidana
 pidang
@@ -12165,6 +12169,7 @@ tu
 tua
 tuak
 tuban
+tubi
 tubruk
 tubuh
 tugel
@@ -12644,6 +12649,7 @@ upan
 upane
 upang
 upas
+upat
 upaya
 upe
 upel
