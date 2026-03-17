@@ -2436,7 +2436,6 @@ dino
 dinoe
 dinoen
 dinten
-diomah
 diora
 dip
 dipa
@@ -2517,6 +2516,7 @@ donga
 dongane
 dongeng
 dongi
+dongkrak
 dongo
 dongok
 dongol
@@ -4020,7 +4020,6 @@ guten
 guti
 guwa
 guyah
-guyang
 guyon
 guyonan
 guyone
@@ -4952,6 +4951,7 @@ jail
 jait
 jaja
 jajah
+jajak
 jajal
 jajan
 jak
@@ -5448,7 +5448,6 @@ karpet
 karsa
 kartu
 karuh
-karum
 karung
 karungan
 karya
@@ -8330,6 +8329,7 @@ ngentong
 ngentu
 ngentuk
 ngentut
+ngenuk
 ngenut
 ngenyek
 ngeo
@@ -8664,6 +8664,7 @@ ngoplo
 ngopo
 ngopoe
 ngopoi
+ngopok
 ngopol
 ngopor
 ngopose
@@ -12616,7 +12617,6 @@ umbara
 umbas
 umbel
 umbi
-umbia
 umbu
 umbul
 ume
