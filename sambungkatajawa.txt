@@ -378,6 +378,7 @@ akula
 akulo
 akum
 akumi
+akumu
 akun
 akune
 akup
@@ -3337,6 +3338,7 @@ gaje
 gajelas
 gaji
 gajia
+gajian
 gajimu
 gajul
 gak
