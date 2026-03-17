@@ -1181,7 +1181,6 @@ aves
 avi
 aw
 awa
-awae
 awah
 awak
 awakdewe
@@ -4932,7 +4931,6 @@ kame
 kamer
 kamera
 kami
-kamil
 kamir
 kamis
 kamit
@@ -5212,7 +5210,6 @@ kelinci
 kelingan
 keliru
 kelok
-kelolohan
 kelon
 kelonan
 kelor
@@ -5492,6 +5489,7 @@ kirikan
 kirim
 kiriman
 kiris
+kirok
 kiruk
 kis
 kisa
@@ -6384,6 +6382,7 @@ mae
 maem
 maen
 mag
+magang
 mage
 magrib
 mah
@@ -7287,6 +7286,7 @@ ngabekti
 ngaben
 ngaboti
 ngabu
+ngabut
 ngaca
 ngacak
 ngacara
@@ -7916,6 +7916,7 @@ nglamun
 nglangi
 nglangkah
 nglantur
+ngleh
 nglek
 ngliwet
 nglon
@@ -8050,7 +8051,6 @@ nguber
 ngubur
 ngucap
 ngucek
-ngudan
 ngudang
 ngudek
 ngudel
@@ -8365,13 +8365,13 @@ nuduhi
 nuduhke
 nue
 nugel
-nugraha
 nuh
 nuhun
 nui
 nuju
 nuk
 nuka
+nukan
 nuki
 nukil
 nuko
@@ -10776,6 +10776,7 @@ suji
 sujud
 suk
 suka
+sukai
 sukak
 suke
 suker
@@ -11296,7 +11297,6 @@ tolo
 tolol
 tolola
 tolong
-tolu
 toma
 tomat
 tomate
@@ -11306,6 +11306,7 @@ tomi
 tomo
 tompel
 ton
+tona
 tonan
 tone
 tonggo
@@ -11369,6 +11370,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulunge
 tulungi
 tulus
@@ -11564,6 +11566,7 @@ ukiro
 ukit
 ukka
 ukko
+uklo
 ukma
 ukmo
 ukmu
@@ -11821,6 +11824,7 @@ ural
 uram
 uran
 urang
+uraono
 urap
 urapan
 uras
