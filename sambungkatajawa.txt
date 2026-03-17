@@ -10132,7 +10132,6 @@ pranata
 pratama
 prau
 prei
-presiden
 pria
 primbon
 pring
@@ -10248,6 +10247,7 @@ raden
 radi
 radio
 rae
+raen
 raga
 ragam
 ragangan
