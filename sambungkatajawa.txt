@@ -9454,6 +9454,7 @@ poro
 poron
 porot
 pos
+posa
 pose
 posen
 posi
@@ -10102,6 +10103,7 @@ ru
 rua
 ruah
 ruam
+ruame
 ruang
 rubuh
 rue
