@@ -12180,6 +12180,7 @@ uba
 ubak
 uban
 ubanan
+ubane
 ubang
 ubek
 uber
