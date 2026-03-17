@@ -1050,6 +1050,7 @@ asma
 asmanipun
 asmara
 asmaradana
+asna
 aso
 asoe
 asoi
@@ -1623,6 +1624,7 @@ bodo
 bodoh
 bodok
 bojo
+bok
 boke
 bokek
 boker
@@ -2053,6 +2055,7 @@ dahan
 dahar
 dahi
 dajaran
+dak
 dakar
 daki
 dakngerti
@@ -2218,6 +2221,7 @@ digawa
 digo
 dihan
 diimboh
+dija
 dijak
 dijalan
 diji
@@ -2299,7 +2303,6 @@ dir
 diran
 direng
 diri
-diro
 diru
 dirum
 dirumah
@@ -3207,7 +3210,6 @@ gambiran
 gambleh
 gambreng
 gambuh
-gambung
 gambut
 gambyong
 game
@@ -3449,6 +3451,7 @@ gene
 genea
 geneo
 genep
+genepan
 generator
 geneya
 geneyi
@@ -3859,6 +3862,7 @@ hansip
 hanta
 hantam
 hantu
+hantui
 hanung
 hanya
 hao
@@ -4011,6 +4015,7 @@ hinane
 hinggap
 hir
 hira
+hiran
 hire
 hiren
 hiri
@@ -5100,6 +5105,7 @@ karem
 karen
 karep
 karepe
+karepem
 karepmu
 karepo
 kares
@@ -5731,6 +5737,7 @@ krama
 kramas
 krambil
 kran
+krasan
 kraton
 kresna
 krida
@@ -6519,7 +6526,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -6644,6 +6650,7 @@ mat
 mata
 matam
 matamu
+matan
 matane
 mate
 matek
@@ -6675,6 +6682,7 @@ mayuh
 mayungi
 mbah
 mbak
+mbarep
 mben
 mbengi
 mbok
@@ -7326,6 +7334,7 @@ nemi
 nemok
 nemokke
 nemoni
+nempal
 nempe
 nempel
 nempik
@@ -7674,6 +7683,7 @@ ngaturno
 ngaub
 ngaup
 ngaur
+ngaut
 ngawa
 ngawag
 ngawah
@@ -7872,6 +7882,7 @@ ngetan
 ngetem
 ngeten
 ngeti
+ngetih
 ngetik
 ngeting
 ngetok
@@ -8067,6 +8078,7 @@ ngoke
 ngoko
 ngokop
 ngokor
+ngokos
 ngol
 ngolah
 ngolak
@@ -9340,6 +9352,7 @@ pile
 pileh
 pilek
 pilem
+pilet
 pili
 pilih
 pilihan
@@ -9638,7 +9651,6 @@ ragil
 ragu
 rah
 raha
-rahan
 rahas
 rahasia
 rahaya
@@ -9820,6 +9832,7 @@ ratina
 rating
 ratna
 ratu
+ratui
 ratus
 rauh
 raul
@@ -9879,6 +9892,7 @@ rekam
 rekan
 rekasa
 rekat
+rekma
 rekmo
 reko
 rekom
@@ -11420,7 +11434,6 @@ titikan
 titip
 titis
 titit
-tito
 tiwas
 tiyang
 tni
