@@ -45,6 +45,7 @@ acuk
 acung
 ad
 ada
+adabi
 adah
 adai
 adak
@@ -592,6 +593,7 @@ amut
 an
 ana
 anaa
+anad
 anae
 anag
 anah
@@ -2433,7 +2435,6 @@ duwet
 duwit
 duwu
 duwur
-dwi
 ealah
 eb
 eba
@@ -2460,6 +2461,7 @@ edam
 edan
 edanan
 edar
+edaran
 ede
 edi
 edit
@@ -4370,7 +4372,6 @@ inggil
 inggit
 ingi
 ingin
-ingising
 ingka
 ingkang
 ingko
@@ -4522,7 +4523,6 @@ ising
 isinna
 isis
 isiso
-isisti
 isit
 isita
 iska
@@ -4956,7 +4956,6 @@ kalisa
 kaliyan
 kalo
 kalok
-kalon
 kalong
 kalor
 kalung
@@ -7179,7 +7178,6 @@ natal
 natalan
 natap
 nate
-nati
 natik
 nawa
 nawan
@@ -8144,7 +8142,6 @@ ngulak
 ngulang
 ngulangi
 ngulas
-ngulat
 nguleg
 ngulek
 ngulen
@@ -8758,7 +8755,6 @@ onda
 onde
 ondha
 ondhe
-ondho
 ondo
 ondol
 oneng
@@ -11427,7 +11423,6 @@ totelu
 toto
 towo
 toya
-trah
 trenggalek
 tresna
 tresno
