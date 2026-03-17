@@ -366,6 +366,7 @@ akom
 akomo
 akon
 akoni
+akoo
 akor
 akos
 akot
@@ -818,6 +819,7 @@ anjani
 anjar
 anjaran
 anjas
+anjasmara
 anjay
 anjeg
 anji
@@ -1337,7 +1339,6 @@ ayem
 ayeme
 ayep
 ayi
-ayik
 ayim
 ayin
 aying
@@ -2048,7 +2049,6 @@ cicir
 cicit
 cidek
 ciduk
-cihuy
 cik
 cikal
 ciken
@@ -2155,6 +2155,7 @@ cucuk
 cucur
 cudek
 cuek
+cuil
 cuk
 cuka
 cuki
@@ -2350,6 +2351,7 @@ deneng
 dengki
 dengkul
 deni
+deno
 depa
 depak
 der
@@ -2545,7 +2547,6 @@ doma
 domba
 domblong
 domi
-domo
 dompet
 don
 dona
@@ -2693,6 +2694,7 @@ edu
 edul
 edus
 eeh
+eehe
 eenak
 ef
 eg
@@ -2770,7 +2772,6 @@ ejah
 ejar
 eje
 ejek
-ejel
 eji
 ejih
 ejo
@@ -2888,6 +2889,7 @@ elok
 elom
 elon
 elong
+eloo
 elor
 elos
 elu
@@ -3207,6 +3209,7 @@ eroh
 erok
 eron
 erong
+eroo
 erop
 eror
 eros
@@ -3654,6 +3657,7 @@ geguritan
 geh
 gei
 gek
+geki
 gel
 gela
 gelak
@@ -4830,7 +4834,6 @@ iren
 ireng
 irenge
 irengmu
-irep
 ires
 iri
 iria
@@ -5009,7 +5012,6 @@ ja
 jab
 jabang
 jadi
-jadul
 jae
 jaga
 jagar
@@ -5089,6 +5091,7 @@ jari
 jarik
 jaring
 jarum
+jarwa
 jas
 jasa
 jatah
@@ -5775,7 +5778,6 @@ ken
 kena
 kenak
 kenanga
-kenangan
 kenapa
 kenari
 kencing
@@ -7647,7 +7649,6 @@ nalar
 nalare
 nale
 nali
-nalia
 nalih
 nalik
 nalika
@@ -8943,7 +8944,6 @@ ngupil
 nguping
 ngupo
 ngur
-ngura
 ngurah
 ngurai
 ngurak
@@ -9632,6 +9632,7 @@ opok
 opoki
 opol
 opolo
+opomeneh
 opon
 opone
 opoo
@@ -9914,6 +9915,7 @@ papat
 papi
 papo
 papu
+papua
 par
 para
 parah
@@ -10097,7 +10099,6 @@ pi
 pia
 piagam
 piala
-piama
 pian
 piano
 piara
@@ -10465,6 +10466,7 @@ radio
 rae
 raen
 raga
+ragad
 ragam
 ragangan
 ragas
@@ -11504,6 +11506,7 @@ semat
 sembah
 sembahyang
 sembarang
+sembarangan
 sembrono
 sembuh
 sembur
@@ -12601,6 +12604,7 @@ ubii
 ubun
 ubur
 uc
+uca
 ucak
 ucap
 ucapan
@@ -12686,6 +12690,7 @@ uji
 ujia
 ujian
 ujub
+ujug
 ujuk
 ujul
 ujun
@@ -12976,6 +12981,7 @@ upak
 upaku
 upam
 upama
+upami
 upan
 upane
 upang
@@ -13195,7 +13201,6 @@ uyi
 uyo
 uyuh
 uyuhmu
-uyung
 uz
 vaksin
 via
