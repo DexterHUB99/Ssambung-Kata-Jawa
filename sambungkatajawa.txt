@@ -2202,7 +2202,6 @@ dera
 derek
 dereng
 deres
-deri
 deru
 des
 desa
@@ -2449,6 +2448,7 @@ dung
 dunga
 dungo
 dungu
+dununge
 dupa
 dupak
 dupo
@@ -4186,6 +4186,7 @@ ide
 idem
 idep
 ider
+idham
 idhu
 idi
 idia
@@ -7395,6 +7396,7 @@ neluk
 nelur
 nem
 nemah
+nemahi
 neman
 nembah
 nembak
@@ -7916,6 +7918,7 @@ ngentuk
 ngentut
 ngenyek
 ngeo
+ngeong
 ngep
 ngepang
 ngepas
@@ -8196,6 +8199,7 @@ ngomel
 ngomong
 ngomongo
 ngompol
+ngompor
 ngon
 ngonde
 ngone
@@ -8902,7 +8906,6 @@ omel
 omelan
 omen
 omi
-oming
 omo
 omong
 omongan
@@ -10520,6 +10523,7 @@ sampo
 sampul
 sampun
 sampur
+sampura
 sampurna
 samudra
 samui
@@ -11714,6 +11718,7 @@ tunggu
 tungguen
 tungkak
 tupe
+tupel
 tupi
 tur
 tura
