@@ -2043,7 +2043,6 @@ conto
 contoh
 contohe
 copet
-copi
 coplok
 copot
 cor
@@ -4902,7 +4901,6 @@ jelang
 jelas
 jelek
 jem
-jembar
 jembatan
 jember
 jembut
@@ -6409,7 +6407,6 @@ limbah
 limbuk
 limbung
 limo
-limola
 limolas
 limpa
 limu
@@ -8600,6 +8597,7 @@ ngutar
 ngutek
 ngutik
 ngutil
+nguwe
 nguwi
 nguyah
 nguyon
@@ -8967,6 +8965,7 @@ od
 odok
 odol
 odolan
+of
 og
 ogah
 ogahe
@@ -12890,7 +12889,6 @@ wok
 woke
 woko
 wol
-wola
 wolak
 wolo
 wolu
