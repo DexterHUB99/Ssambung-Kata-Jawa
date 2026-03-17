@@ -10079,6 +10079,7 @@ ruma
 rumah
 rumahe
 ruman
+rumang
 rumangsa
 rumangsane
 rumba
