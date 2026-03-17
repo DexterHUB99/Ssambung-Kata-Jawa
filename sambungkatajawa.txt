@@ -2244,6 +2244,7 @@ dilarang
 dilas
 dilat
 dilati
+dile
 dileh
 dilem
 diler
@@ -3857,7 +3858,6 @@ hansip
 hanta
 hantam
 hantu
-hantui
 hanung
 hanya
 hao
@@ -4010,7 +4010,6 @@ hinane
 hinggap
 hir
 hira
-hiran
 hire
 hiren
 hiri
@@ -4321,6 +4320,7 @@ imbas
 imbat
 imbel
 imbi
+imbing
 imboh
 imbu
 imbuh
@@ -5731,7 +5731,6 @@ krama
 kramas
 krambil
 kran
-krasan
 kraton
 kresna
 krida
@@ -6675,7 +6674,6 @@ mayuh
 mayungi
 mbah
 mbak
-mbarep
 mben
 mbengi
 mbok
@@ -6744,6 +6742,7 @@ mepe
 mepet
 mer
 merah
+merak
 merat
 merem
 mergo
@@ -7327,7 +7326,6 @@ nemi
 nemok
 nemokke
 nemoni
-nempal
 nempe
 nempel
 nempik
@@ -7676,7 +7674,6 @@ ngaturno
 ngaub
 ngaup
 ngaur
-ngaut
 ngawa
 ngawag
 ngawah
@@ -9881,7 +9878,6 @@ rekam
 rekan
 rekasa
 rekat
-rekma
 rekmo
 reko
 rekom
@@ -11626,6 +11622,7 @@ udani
 udar
 udara
 udari
+udas
 ude
 udeg
 udek
