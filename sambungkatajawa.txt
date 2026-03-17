@@ -2027,6 +2027,7 @@ cik
 cikal
 ciken
 ciki
+ciku
 cikur
 cila
 cilacap
@@ -4548,6 +4549,7 @@ ilam
 ilama
 ilan
 ilang
+ilangake
 ilangan
 ilangen
 ilaono
@@ -5899,6 +5901,7 @@ kili
 kim
 kima
 kiman
+kime
 kimi
 kimpul
 kin
@@ -7767,6 +7770,7 @@ nelayan
 nelen
 neleng
 neler
+neles
 neli
 nelih
 neling
