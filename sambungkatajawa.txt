@@ -886,7 +886,6 @@ anugerah
 anuh
 anuk
 anum
-anumu
 anun
 anune
 anung
@@ -2130,6 +2129,7 @@ cukup
 cukur
 culai
 culik
+culo
 culu
 culun
 cum
@@ -6534,6 +6534,7 @@ libu
 libur
 licik
 licin
+lico
 licuh
 lidah
 lider
@@ -8219,6 +8220,7 @@ ngejak
 ngejar
 ngejek
 ngek
+ngekel
 ngeko
 ngekok
 ngekos
@@ -8852,6 +8854,7 @@ nika
 nikah
 nikahan
 nikahe
+nikel
 niki
 nikmat
 nikmate
@@ -10218,6 +10221,7 @@ puri
 purna
 purnama
 puro
+purta
 purun
 purwa
 pus
@@ -10886,6 +10890,7 @@ rungsing
 rungu
 runi
 runtuh
+runtuhan
 runtun
 runtut
 runyam
