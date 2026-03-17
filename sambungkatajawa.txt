@@ -3594,7 +3594,6 @@ genuk
 geo
 geol
 gepeng
-geplak
 gepok
 geprek
 gepuk
@@ -4892,6 +4891,7 @@ jeding
 jeglong
 jeh
 jejel
+jejer
 jek
 jeke
 jelang
@@ -8093,7 +8093,6 @@ ngentu
 ngentuk
 ngentut
 ngenut
-ngenwe
 ngenyek
 ngeo
 ngep
@@ -9004,6 +9003,7 @@ okak
 okal
 okam
 okan
+okana
 okar
 okari
 okaro
@@ -9203,6 +9203,7 @@ opowae
 opowi
 opoya
 opoyo
+oprak
 or
 ora
 oraa
@@ -11865,6 +11866,7 @@ toa
 tobat
 toe
 toga
+togel
 togog
 toh
 toha
