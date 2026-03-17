@@ -2358,6 +2358,7 @@ dedemit
 dedi
 dedik
 degan
+deja
 dek
 deka
 dekan
@@ -5246,6 +5247,7 @@ jera
 jeram
 jerami
 jeran
+jereng
 jerih
 jero
 jeroan
@@ -10302,6 +10304,7 @@ pidah
 pidak
 pidana
 pidang
+pidek
 pie
 pih
 pii
@@ -13203,6 +13206,7 @@ untara
 untaran
 untas
 untel
+unten
 unter
 untik
 untir
