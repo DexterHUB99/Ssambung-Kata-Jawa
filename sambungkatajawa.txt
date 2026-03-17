@@ -4312,6 +4312,7 @@ hub
 hubi
 hubung
 hubungan
+hubungane
 huda
 hudan
 hujan
@@ -7799,6 +7800,7 @@ nesu
 nesuan
 nesune
 net
+neta
 netas
 nete
 neteh
