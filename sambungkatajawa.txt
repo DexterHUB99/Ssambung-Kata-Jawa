@@ -1668,7 +1668,6 @@ biji
 bijor
 bik
 bika
-bikai
 bikak
 bikin
 biko
@@ -2655,7 +2654,6 @@ eca
 ecah
 ecek
 ecer
-eceran
 eco
 ed
 eda
@@ -3856,7 +3854,6 @@ githok
 giwang
 giwangan
 gladhen
-glagah
 go
 gobak
 gobang
@@ -4456,7 +4453,6 @@ idaman
 idan
 ide
 idem
-iden
 idep
 ider
 idhu
@@ -7360,7 +7356,6 @@ mojo
 mojokerto
 mok
 mokal
-moke
 mokong
 mol
 mola
@@ -12387,6 +12382,7 @@ tone
 tonggo
 tongkol
 tongseng
+toni
 tono
 tonton
 tontonan
@@ -12808,7 +12804,6 @@ unan
 unang
 unap
 uncal
-uncalen
 undagi
 undak
 undakan
@@ -13299,7 +13294,6 @@ weling
 welo
 welut
 wen
-wena
 wene
 weneh
 wengi
