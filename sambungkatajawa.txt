@@ -1060,7 +1060,6 @@ asai
 asak
 asal
 asala
-asalan
 asale
 asam
 asaman
@@ -1400,7 +1399,6 @@ bal
 bala
 balai
 balak
-balangen
 balap
 balek
 baleni
@@ -1435,7 +1433,6 @@ bangkong
 bangkot
 bangsa
 bangsat
-bangun
 bani
 banjir
 banjur
@@ -1703,6 +1700,7 @@ bodi
 bodo
 bodoh
 bodok
+bogem
 bohong
 bojo
 bojok
@@ -1720,7 +1718,6 @@ boleh
 bolo
 boloe
 bolog
-bolone
 bolong
 bolos
 bolot
@@ -1931,7 +1928,6 @@ carita
 caruk
 cas
 casa
-caten
 catur
 cawan
 cawe
@@ -3621,7 +3617,6 @@ gen
 gena
 genah
 genahe
-genangan
 genap
 gencet
 gendak
@@ -6242,7 +6237,6 @@ lalat
 laler
 lali
 lalien
-lalina
 laline
 lalio
 lam
@@ -7817,7 +7811,6 @@ ngadohi
 ngadok
 ngadol
 ngadon
-ngados
 ngadu
 ngaduk
 ngadul
@@ -7927,7 +7920,6 @@ ngandai
 ngandang
 ngandani
 ngandap
-ngandel
 ngandhap
 ngandi
 ngandika
@@ -8378,6 +8370,7 @@ ngie
 ngig
 ngih
 ngijab
+ngijek
 ngijing
 ngijol
 ngijoli
@@ -8652,7 +8645,6 @@ ngula
 ngulah
 ngulai
 ngulak
-ngulam
 ngulan
 ngulang
 ngulangi
@@ -9355,7 +9347,6 @@ opak
 opal
 opam
 opan
-opas
 opat
 opel
 open
@@ -9404,7 +9395,6 @@ orangapusi
 oranye
 orapapa
 orapopo
-orari
 oras
 orasah
 orasi
@@ -9871,7 +9861,6 @@ pil
 pila
 pilah
 pilak
-pilakan
 pilakon
 pilang
 pilar
@@ -9942,7 +9931,6 @@ pirang
 piranga
 piranti
 pireng
-pirin
 piring
 piro
 pirsa
@@ -10915,7 +10903,6 @@ saking
 sakit
 sakitmu
 sakne
-sakniki
 sakno
 sakoe
 sakral
@@ -11170,7 +11157,6 @@ sekul
 sel
 sela
 selah
-selai
 selak
 selam
 selamat
@@ -11234,7 +11220,6 @@ sendawa
 sendhang
 sendi
 sendok
-sene
 senen
 seneng
 seng
@@ -12081,7 +12066,6 @@ titid
 titik
 titikan
 titip
-titipan
 titis
 titit
 tiwas
@@ -12695,7 +12679,6 @@ uring
 urip
 uripan
 uripe
-uripen
 uripku
 uripmu
 uris
@@ -12774,7 +12757,6 @@ usulan
 usule
 usune
 usung
-usungan
 usungi
 usuo
 usus
@@ -12894,6 +12876,7 @@ wajar
 wajib
 wajik
 wak
+waka
 waki
 wakil
 wakmu
@@ -13056,6 +13039,7 @@ wibawa
 wibu
 wicak
 wicaksana
+wicara
 widana
 widara
 widep
