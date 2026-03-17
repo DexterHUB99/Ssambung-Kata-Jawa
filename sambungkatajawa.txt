@@ -2839,7 +2839,6 @@ ember
 emboh
 embok
 embong
-embonge
 embuh
 embuhe
 embun
@@ -3544,7 +3543,6 @@ gel
 gela
 gelak
 gelang
-gelange
 gelap
 gelar
 gelas
@@ -8293,6 +8291,7 @@ ngg
 ngga
 nggadu
 nggae
+nggah
 nggak
 nggali
 nggambar
