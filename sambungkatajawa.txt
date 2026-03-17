@@ -2739,6 +2739,7 @@ ekit
 eklas
 eklek
 eko
+ekob
 ekoh
 ekok
 ekol
@@ -5087,6 +5088,7 @@ jona
 jonan
 jong
 jongkok
+jongos
 joni
 jontor
 jor
