@@ -1224,7 +1224,6 @@ aweh
 awek
 awer
 awet
-awewe
 awi
 awik
 awis
@@ -9693,7 +9692,6 @@ putus
 puwan
 puwen
 puwira
-puya
 puyeng
 puyo
 puyuh
@@ -10740,7 +10738,6 @@ sepet
 sepi
 sepiro
 sepo
-sepon
 sepuh
 sepuluh
 sepur
@@ -10763,6 +10760,7 @@ seret
 seri
 serius
 sero
+serok
 serong
 seru
 serut
@@ -11439,7 +11437,6 @@ terne
 terong
 terus
 tes
-tesa
 tesi
 tet
 tete
