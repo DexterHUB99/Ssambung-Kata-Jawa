@@ -99,6 +99,7 @@ adzan
 ae
 aeng
 afa
+afan
 afe
 afi
 ag
@@ -8488,6 +8489,7 @@ ngudan
 ngudang
 ngudek
 ngudel
+ngudhal
 ngudi
 ngudik
 ngudo
