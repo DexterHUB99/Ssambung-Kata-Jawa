@@ -5081,6 +5081,7 @@ juta
 ka
 kaaba
 kabar
+kabare
 kabeh
 kabel
 kabul
@@ -7694,7 +7695,6 @@ ngabekti
 ngaben
 ngaboti
 ngabu
-ngabung
 ngaca
 ngacak
 ngacang
@@ -8489,7 +8489,6 @@ ngosip
 ngosok
 ngosong
 ngosor
-ngot
 ngotak
 ngoti
 ngotori
@@ -8643,6 +8642,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngususi
 ngut
 nguta
 ngutang
