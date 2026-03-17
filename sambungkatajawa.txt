@@ -2534,6 +2534,7 @@ dirumah
 disa
 disan
 disana
+disapa
 disek
 disel
 disi
@@ -10243,6 +10244,7 @@ pikiran
 pikirmu
 piknik
 piko
+pikok
 pikon
 pikuk
 pikul
