@@ -130,6 +130,7 @@ agi
 agih
 agin
 agit
+ago
 agor
 agu
 aguh
@@ -2670,6 +2671,7 @@ dung
 dunga
 dungo
 dungu
+duni
 dupa
 dupak
 dupo
@@ -10096,6 +10098,7 @@ pawang
 pawar
 pawon
 paya
+payae
 payah
 payu
 payung
