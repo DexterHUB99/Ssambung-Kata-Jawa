@@ -4780,7 +4780,6 @@ isin
 isinan
 isine
 ising
-isini
 isinna
 isio
 isis
@@ -6284,6 +6283,7 @@ lamuna
 lamunan
 lan
 lana
+lanan
 lanang
 lanangan
 lanange
@@ -9046,6 +9046,7 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
+nwa
 ny
 nya
 nyai
