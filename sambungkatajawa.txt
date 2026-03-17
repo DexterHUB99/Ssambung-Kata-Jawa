@@ -899,6 +899,7 @@ apik
 apika
 apikan
 apike
+apil
 apin
 apip
 apit
@@ -3139,7 +3140,6 @@ eyos
 eyu
 eyup
 fafa
-fafi
 faham
 fakir
 fakta
@@ -4746,7 +4746,6 @@ janaka
 jancok
 jancuk
 janda
-jane
 jang
 jangan
 jangga
@@ -5048,7 +5047,6 @@ kalisa
 kaliyan
 kalo
 kalok
-kalom
 kalong
 kalor
 kalung
@@ -6136,6 +6134,7 @@ lati
 latih
 latihan
 lato
+latu
 laut
 lautan
 laute
@@ -6611,7 +6610,6 @@ males
 malesan
 mali
 malih
-malik
 malin
 maling
 malu
@@ -9403,6 +9401,7 @@ pendopo
 pene
 pengen
 penggalihe
+penggorengan
 pengin
 peni
 pening
@@ -11593,7 +11592,6 @@ tinju
 tinulis
 tip
 tipa
-tipak
 tipi
 tir
 tira
