@@ -1335,6 +1335,7 @@ ayem
 ayeme
 ayep
 ayi
+ayik
 ayim
 ayin
 aying
@@ -2044,6 +2045,7 @@ cicir
 cicit
 cidek
 ciduk
+cihuy
 cik
 cikal
 ciken
@@ -2540,6 +2542,7 @@ doma
 domba
 domblong
 domi
+domo
 dompet
 don
 dong
@@ -2763,6 +2766,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -4820,6 +4824,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -4998,6 +5003,7 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
 jagar
@@ -5763,6 +5769,7 @@ ken
 kena
 kenak
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -7633,6 +7640,7 @@ nalar
 nalare
 nale
 nali
+nalia
 nalih
 nalik
 nalika
@@ -8921,6 +8929,7 @@ ngupil
 nguping
 ngupo
 ngur
+ngura
 ngurah
 ngurai
 ngurak
@@ -10073,6 +10082,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -10439,7 +10449,6 @@ radio
 rae
 raen
 raga
-ragad
 ragam
 ragangan
 ragas
@@ -11478,7 +11487,6 @@ semat
 sembah
 sembahyang
 sembarang
-sembarangan
 sembrono
 sembuh
 sembur
@@ -13170,6 +13178,7 @@ uyi
 uyo
 uyuh
 uyuhmu
+uyung
 uz
 vaksin
 via
