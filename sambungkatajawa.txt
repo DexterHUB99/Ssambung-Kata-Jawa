@@ -7800,6 +7800,7 @@ ngeleh
 ngelek
 ngelem
 ngeleng
+ngeler
 ngeles
 ngeli
 ngelih
