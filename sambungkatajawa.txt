@@ -53,6 +53,7 @@ adan
 adang
 adap
 adat
+adate
 ade
 adeg
 adegan
@@ -5127,6 +5128,7 @@ kayak
 kayane
 kayangan
 kayu
+kayuh
 ke
 keapa
 kebab
