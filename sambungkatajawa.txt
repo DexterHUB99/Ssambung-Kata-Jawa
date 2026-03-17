@@ -3630,6 +3630,7 @@ gelut
 gem
 gema
 gemah
+gemak
 gemang
 gemar
 gemas
