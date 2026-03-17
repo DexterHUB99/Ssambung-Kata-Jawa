@@ -1184,6 +1184,7 @@ av
 ava
 aves
 avi
+avo
 aw
 awa
 awae
@@ -1585,7 +1586,6 @@ biro
 biru
 bis
 bisa
-bisaa
 bisi
 bisik
 bisiki
@@ -1862,6 +1862,7 @@ cep
 cepe
 cepet
 ceplok
+cerah
 cerak
 cere
 ceret
@@ -1972,7 +1973,6 @@ corot
 cot
 cote
 cowek
-cowi
 cowo
 crita
 cu
@@ -2804,7 +2804,6 @@ enjih
 enjing
 enjoy
 enka
-enki
 enko
 enlo
 eno
@@ -3679,7 +3678,6 @@ guleng
 guli
 guling
 gulir
-gulon
 gulu
 gulung
 gulungan
@@ -4174,6 +4172,7 @@ ijin
 ijo
 ijok
 ijol
+ijoli
 ik
 ika
 ikaa
@@ -4511,6 +4510,7 @@ isinan
 isine
 ising
 isinna
+isio
 isis
 isiso
 isit
@@ -4554,6 +4554,7 @@ isya
 it
 ita
 itaa
+itai
 itali
 ite
 item
@@ -4798,7 +4799,6 @@ jolan
 jole
 jolen
 joli
-jolo
 jom
 joma
 jombang
@@ -5850,6 +5850,7 @@ labuh
 labur
 lada
 ladak
+ladi
 lading
 ladosan
 laen
@@ -6238,6 +6239,7 @@ loh
 loha
 lohan
 lohe
+lohi
 loi
 loji
 lok
@@ -10444,7 +10446,6 @@ seduh
 sedulur
 sega
 segaa
-segar
 segara
 segawon
 seger
