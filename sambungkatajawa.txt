@@ -1385,6 +1385,7 @@ badut
 bae
 bagen
 bagi
+bagian
 bagong
 bagos
 bagu
