@@ -2147,6 +2147,7 @@ dari
 darma
 darmi
 daro
+darus
 das
 dasa
 dasar
@@ -11094,6 +11095,7 @@ sobek
 soblok
 soboh
 sodara
+sodoh
 sodok
 sodor
 sogok
