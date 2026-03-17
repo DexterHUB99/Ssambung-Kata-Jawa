@@ -4829,6 +4829,7 @@ ipin
 iping
 ipit
 ipki
+ipko
 ipna
 ipo
 ipoe
@@ -10361,7 +10362,6 @@ ponakan
 pondok
 pondoke
 poni
-ponja
 ponjen
 pono
 ponorogo
