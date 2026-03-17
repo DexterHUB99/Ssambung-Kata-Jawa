@@ -4884,6 +4884,7 @@ isini
 isinna
 isio
 isis
+isisak
 isisi
 isiso
 isit
