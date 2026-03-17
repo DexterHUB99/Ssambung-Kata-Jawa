@@ -3576,6 +3576,7 @@ gendhuk
 gendi
 gendon
 gendong
+gendongan
 gendruwo
 gendung
 gendut
@@ -4397,7 +4398,6 @@ iklas
 iklim
 iko
 ikoi
-ikoli
 ikon
 ikoro
 ikrar
@@ -6226,7 +6226,6 @@ lantang
 lantas
 lante
 lanti
-lantik
 lanting
 lantip
 lantun
@@ -6577,6 +6576,7 @@ lopa
 lope
 lopi
 lopis
+lopor
 lor
 lora
 lore
@@ -7526,6 +7526,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulang
 nduwe
 nduwur
 ne
