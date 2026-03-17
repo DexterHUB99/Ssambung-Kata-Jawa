@@ -2744,6 +2744,7 @@ ekon
 ekop
 ekor
 ekoran
+ekore
 ekos
 ekot
 eksi
@@ -2839,6 +2840,7 @@ ember
 emboh
 embok
 embong
+embonge
 embuh
 embuhe
 embun
@@ -2949,6 +2951,7 @@ enes
 engah
 engeh
 enggal
+enggale
 enggan
 enggar
 enggeh
@@ -3543,6 +3546,7 @@ gel
 gela
 gelak
 gelang
+gelange
 gelap
 gelar
 gelas
@@ -3654,6 +3658,7 @@ gerah
 gerai
 gerak
 geram
+gerame
 gerang
 gerbang
 gerbong
@@ -6385,6 +6390,7 @@ lelah
 lele
 leleh
 lelembut
+lelene
 lelesen
 lelet
 leli
@@ -8291,7 +8297,6 @@ ngg
 ngga
 nggadu
 nggae
-nggah
 nggak
 nggali
 nggambar
@@ -13215,7 +13220,6 @@ yole
 yoli
 yolo
 yom
-yoma
 yoman
 yome
 yomen
