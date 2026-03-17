@@ -8372,6 +8372,7 @@ ngikat
 ngiket
 ngiki
 ngiku
+ngikut
 ngila
 ngilag
 ngilang
@@ -12369,6 +12370,7 @@ uking
 ukir
 ukira
 ukiran
+ukire
 ukiro
 ukit
 ukka
@@ -13149,6 +13151,7 @@ yaapa
 yadi
 yae
 yaelah
+yagusti
 yah
 yaho
 yai
