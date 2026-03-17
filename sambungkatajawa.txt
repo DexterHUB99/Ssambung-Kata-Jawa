@@ -3835,6 +3835,7 @@ genggem
 geni
 genit
 geniya
+genjor
 genjot
 genna
 geno
@@ -5544,6 +5545,7 @@ kamit
 kampak
 kampil
 kampret
+kampreti
 kampung
 kampungan
 kampus
@@ -10786,6 +10788,7 @@ ramalan
 raman
 ramane
 ramasalah
+ramayana
 rambak
 ramban
 rambanan
