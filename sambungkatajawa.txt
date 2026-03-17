@@ -7840,6 +7840,7 @@ ndeso
 ndlogok
 ndlosor
 ndoro
+ndugal
 nduk
 nduwe
 nduwur
@@ -8528,6 +8529,7 @@ ngesot
 ngesu
 ngesuk
 nget
+ngetam
 ngetan
 ngetane
 ngetem
