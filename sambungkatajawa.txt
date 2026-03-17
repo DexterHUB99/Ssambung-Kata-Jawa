@@ -642,6 +642,7 @@ ancar
 ancas
 ancase
 ancen
+ancene
 ancer
 anci
 ancik
@@ -5825,6 +5826,7 @@ kondhang
 kondi
 kondisi
 kondur
+konek
 koneng
 kongkon
 koni
