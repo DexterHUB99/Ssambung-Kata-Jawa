@@ -8062,6 +8062,7 @@ nglangkah
 nglantur
 nglek
 ngliwet
+ngloh
 nglon
 nglor
 ngluput
@@ -10497,6 +10498,7 @@ sasuh
 sasuk
 sat
 sata
+satai
 sate
 sati
 satitik
@@ -10610,7 +10612,6 @@ sem
 semak
 semalam
 semana
-semangkok
 semar
 semarak
 semarang
