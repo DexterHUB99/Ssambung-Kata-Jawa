@@ -1361,6 +1361,7 @@ bai
 bairo
 baja
 bajai
+bajak
 bajan
 baji
 bajigur
@@ -1630,6 +1631,7 @@ bilara
 bile
 bili
 bilih
+bilo
 bilu
 bima
 bimo
@@ -4230,6 +4232,7 @@ humi
 humor
 hun
 huna
+hunan
 huni
 hup
 hupa
@@ -5295,6 +5298,7 @@ kasap
 kasar
 kasarasan
 kasat
+kase
 kasem
 kasep
 kaset
@@ -5828,6 +5832,7 @@ komen
 komi
 komik
 komodo
+komoh
 kompak
 kompas
 kompor
@@ -8092,6 +8097,7 @@ ngeo
 ngep
 ngepang
 ngepas
+ngepeh
 ngepek
 ngepel
 ngepet
@@ -8544,6 +8550,7 @@ ngupil
 nguping
 ngur
 ngurah
+ngurak
 ngurang
 ngurangan
 nguras
@@ -9054,6 +9061,7 @@ oleh
 oleha
 olehan
 olehe
+oleholeh
 olek
 olem
 oleng
@@ -10099,6 +10107,7 @@ rangi
 rangka
 rangkat
 rangkul
+rangkum
 rangu
 rani
 ranjang
