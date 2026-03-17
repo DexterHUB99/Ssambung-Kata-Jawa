@@ -787,6 +787,7 @@ angos
 angot
 angs
 angsa
+angsae
 angsal
 angsalipun
 angsang
@@ -6076,6 +6077,7 @@ klo
 klontong
 klu
 klumah
+kluruk
 kntl
 ko
 kobel
