@@ -4134,7 +4134,6 @@ ib
 iba
 ibadah
 ibak
-iban
 ibarat
 iber
 iblis
@@ -8063,6 +8062,7 @@ nglangkah
 nglantur
 nglek
 ngliwet
+ngloh
 nglon
 nglor
 ngluput
@@ -8308,7 +8308,6 @@ ngusi
 ngusik
 ngusili
 ngusir
-ngusu
 ngusung
 ngusungi
 ngut
@@ -10463,7 +10462,6 @@ sapih
 sapir
 sapiro
 sapo
-saponi
 sapu
 sapura
 saput
@@ -10500,6 +10498,7 @@ sasuh
 sasuk
 sat
 sata
+satai
 sate
 sati
 satitik
