@@ -2955,7 +2955,6 @@ emur
 emut
 en
 ena
-enag
 enah
 enaj
 enak
@@ -3429,6 +3428,7 @@ galungan
 gam
 gama
 gaman
+gamane
 gambang
 gambar
 gambaran
@@ -9662,7 +9662,6 @@ pahing
 pahit
 paido
 paijo
-pain
 painem
 paing
 pait
