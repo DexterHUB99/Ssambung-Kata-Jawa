@@ -11470,6 +11470,7 @@ samui
 samut
 san
 sana
+sanae
 sanak
 sandal
 sandale
@@ -13754,6 +13755,7 @@ yae
 yaelah
 yagusti
 yah
+yaha
 yaho
 yai
 yak
