@@ -780,6 +780,7 @@ angsura
 angsuran
 angu
 anguk
+angun
 angur
 angus
 ani
@@ -1838,6 +1839,7 @@ busik
 busu
 busuk
 busung
+but
 buta
 butek
 buto
