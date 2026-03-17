@@ -556,7 +556,6 @@ amiri
 amis
 amise
 amit
-amiy
 amo
 amoe
 amoh
@@ -1813,6 +1812,7 @@ buntung
 buntut
 bunuh
 bur
+burek
 burik
 burok
 buron
@@ -1884,9 +1884,9 @@ candi
 candra
 canggah
 canggih
+canggung
 cangkem
 cangkeman
-cangkemu
 cangkir
 cangkul
 cantik
@@ -1913,7 +1913,6 @@ cawe
 cawet
 cawi
 cawik
-cawir
 cawis
 cawuk
 ce
@@ -2453,6 +2452,7 @@ doli
 dolo
 dolu
 dom
+doma
 domba
 domblong
 domi
@@ -2974,6 +2974,7 @@ entas
 ente
 entee
 entek
+entekno
 enteng
 entenge
 enteni
@@ -3105,7 +3106,6 @@ erum
 erun
 erung
 erup
-erupa
 erupi
 erus
 erusi
@@ -4118,6 +4118,7 @@ helia
 helikopter
 helo
 hem
+hema
 hemat
 hemo
 hemu
@@ -4431,7 +4432,6 @@ ilak
 ilala
 ilali
 ilam
-ilama
 ilan
 ilang
 ilangan
@@ -4865,6 +4865,7 @@ jamput
 jamu
 jamur
 jan
+jana
 janaka
 jancok
 jancuk
@@ -5418,6 +5419,7 @@ keapa
 kebab
 kebak
 kebas
+kebat
 kebaya
 kebo
 kebon
@@ -6031,6 +6033,7 @@ kumi
 kumo
 kumpul
 kumpula
+kumpulan
 kumu
 kumuh
 kumut
@@ -7339,7 +7342,6 @@ nai
 naik
 naika
 nail
-naila
 najan
 najeng
 najis
@@ -7400,6 +7402,7 @@ nampak
 nampan
 nampani
 nampar
+namper
 nampil
 namping
 nampol
@@ -7548,6 +7551,7 @@ nebang
 nebas
 nebe
 neben
+nebih
 neda
 nedah
 nedan
@@ -7843,6 +7847,7 @@ ngangah
 ngangam
 ngange
 ngangen
+ngangeni
 ngangge
 nganggep
 nganggo
@@ -8495,7 +8500,6 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
-ngran
 ngrasa
 ngrasakna
 ngrasani
@@ -8771,7 +8775,6 @@ nn
 nnaliko
 nnan
 nngawi
-nnggih
 nnginum
 nni
 nnipo
@@ -8966,6 +8969,7 @@ nyenu
 nyikat
 nyilih
 nyimak
+nyinom
 nyiram
 nyirep
 nyo
@@ -9008,6 +9012,7 @@ obrol
 oceh
 ocehan
 ocok
+ocon
 od
 odok
 odol
@@ -9081,7 +9086,6 @@ okeran
 okerek
 okeri
 oket
-okeyi
 okin
 okit
 okita
@@ -9332,6 +9336,7 @@ osok
 osor
 osut
 ot
+otah
 otak
 otakmu
 otek
@@ -9632,6 +9637,7 @@ peliku
 pelit
 pelita
 pelo
+pelu
 peluk
 pema
 pemo
@@ -9923,7 +9929,6 @@ posa
 pose
 posen
 posi
-posor
 pot
 pota
 potong
@@ -9966,6 +9971,7 @@ puka
 puki
 pukimak
 pukki
+puku
 pukul
 pul
 pula
@@ -10920,6 +10926,7 @@ saru
 saruh
 sarung
 sarungan
+sarwa
 sas
 sasa
 sasak
@@ -12260,6 +12267,7 @@ ukul
 ukum
 ukung
 ukup
+ukupan
 ukur
 ukura
 ukuran
@@ -12323,6 +12331,7 @@ umahe
 umai
 umaira
 umak
+umami
 uman
 umar
 umas
@@ -12505,6 +12514,7 @@ urai
 urak
 uraka
 urakan
+urakane
 ural
 uram
 uran
@@ -12762,7 +12772,6 @@ warak
 waras
 wareg
 warek
-wareng
 warga
 wari
 waria
@@ -12916,7 +12925,6 @@ wingko
 winko
 wir
 wira
-wirama
 wirang
 wirangan
 wiraya
