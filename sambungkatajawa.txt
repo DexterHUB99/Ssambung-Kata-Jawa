@@ -861,7 +861,6 @@ antemi
 anteng
 antep
 anter
-anterre
 antes
 anti
 antik
@@ -1698,6 +1697,7 @@ bobok
 bobrok
 bocah
 bocor
+bodat
 bodi
 bodo
 bodoh
@@ -1927,7 +1927,6 @@ cari
 carik
 carine
 carita
-carok
 caruk
 cas
 casa
@@ -3476,6 +3475,7 @@ gardu
 gare
 garem
 gareng
+gares
 gari
 garian
 garik
@@ -4005,7 +4005,6 @@ haho
 hai
 haie
 haii
-haing
 hajar
 hajat
 haji
@@ -4783,6 +4782,7 @@ isin
 isinan
 isine
 ising
+isini
 isinna
 isio
 isis
@@ -4919,6 +4919,7 @@ jam
 jama
 jamal
 jaman
+jamane
 jamber
 jambi
 jambret
@@ -5875,7 +5876,6 @@ kis
 kisa
 kisan
 kisanak
-kise
 kisi
 kit
 kita
@@ -8825,7 +8825,6 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
@@ -9883,7 +9882,6 @@ pile
 pileh
 pilek
 pilem
-piler
 pilet
 pili
 pilih
@@ -11456,6 +11454,7 @@ sob
 soba
 sobat
 sobek
+sobi
 soblok
 soboh
 sodara
@@ -12360,7 +12359,6 @@ uji
 ujia
 ujian
 ujub
-ujug
 ujuk
 ujul
 ujun
