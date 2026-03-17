@@ -9674,6 +9674,7 @@ pukki
 pukul
 pul
 pula
+pulan
 pulau
 pulen
 puli
@@ -11920,6 +11921,7 @@ ulah
 ulahan
 ulahmu
 ulai
+ulak
 ulakan
 ulal
 ulala
