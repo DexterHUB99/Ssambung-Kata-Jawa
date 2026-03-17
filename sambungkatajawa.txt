@@ -9412,6 +9412,7 @@ obral
 obrol
 oceh
 ocehan
+oci
 ocok
 ocol
 ocon
@@ -13060,6 +13061,7 @@ ura
 uraa
 uraan
 urab
+urae
 urah
 urai
 urak
