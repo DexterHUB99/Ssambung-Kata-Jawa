@@ -532,6 +532,7 @@ ambeng
 amber
 ambi
 ambigu
+ambii
 ambik
 ambil
 ambing
@@ -9400,6 +9401,7 @@ nyaru
 nyasar
 nyatu
 nyawa
+nyawah
 nyawang
 nyawangi
 nyawet
