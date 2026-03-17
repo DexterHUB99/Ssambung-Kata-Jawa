@@ -2616,7 +2616,6 @@ ekib
 ekik
 ekil
 ekin
-ekir
 ekis
 ekit
 eklas
@@ -4987,7 +4986,6 @@ kaka
 kakaa
 kakak
 kakaka
-kakanda
 kakang
 kakap
 kake
@@ -5284,7 +5282,6 @@ kedanan
 kedaton
 keder
 kediri
-kedondong
 keduhung
 kedul
 kedung
@@ -7923,7 +7920,6 @@ ngerem
 ngerenek
 ngeres
 ngeresi
-ngeresiki
 ngeret
 ngeri
 ngerit
@@ -9506,7 +9502,6 @@ piranga
 pireng
 piring
 piro
-pirsa
 piruk
 pis
 pisa
