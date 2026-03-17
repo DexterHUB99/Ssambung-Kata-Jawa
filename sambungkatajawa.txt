@@ -9175,6 +9175,7 @@ nyirep
 nyo
 nyocot
 nyogok
+nyolek
 nyolong
 nyomot
 nyong
@@ -12750,6 +12751,7 @@ upane
 upang
 upas
 upat
+upawa
 upaya
 upe
 upel
