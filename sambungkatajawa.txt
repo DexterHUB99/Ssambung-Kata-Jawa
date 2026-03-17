@@ -300,7 +300,6 @@ akan
 akang
 akap
 akar
-akara
 akas
 akasa
 akasi
@@ -4537,6 +4536,7 @@ isine
 ising
 isinna
 isis
+isisam
 isiso
 isit
 isita
@@ -6247,6 +6247,7 @@ lisi
 lisung
 lit
 lita
+liten
 liti
 liwat
 liwe
@@ -6829,7 +6830,6 @@ mmundur
 mo
 mobil
 mobilan
-moci
 moco
 modal
 modar
@@ -7664,7 +7664,6 @@ ngawal
 ngawali
 ngawang
 ngawas
-ngawasi
 ngawe
 ngaweh
 ngawer
@@ -10403,6 +10402,7 @@ sao
 saos
 sap
 sapa
+sapar
 sape
 sapi
 sapih
@@ -12363,6 +12363,7 @@ wisuh
 wit
 wita
 witan
+witen
 witir
 wito
 wiwi
