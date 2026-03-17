@@ -5372,6 +5372,7 @@ kanan
 kanca
 kancah
 kancaku
+kancane
 kancil
 kancing
 kancut
@@ -8191,6 +8192,7 @@ ngaten
 ngati
 ngatin
 ngatok
+ngatos
 ngatri
 ngatu
 ngatuk
