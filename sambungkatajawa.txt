@@ -33,6 +33,7 @@ abul
 ac
 aca
 acak
+acal
 acan
 ace
 aceh
@@ -1839,6 +1840,7 @@ cari
 carik
 carine
 carita
+caro
 caruk
 cas
 casa
@@ -7540,7 +7542,6 @@ ngalur
 ngalus
 ngam
 ngama
-ngamah
 ngamal
 ngamar
 ngamba
@@ -12508,6 +12509,7 @@ womo
 won
 wong
 wonge
+wongi
 wongko
 woni
 wono
