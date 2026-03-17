@@ -4141,6 +4141,7 @@ hota
 hote
 hotel
 hotma
+howa
 howo
 hoya
 hoyo
@@ -10632,6 +10633,7 @@ sampian
 samping
 sampir
 sampo
+sampok
 sampul
 sampun
 sampur
