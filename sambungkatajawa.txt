@@ -3160,7 +3160,6 @@ ese
 eseh
 esek
 esem
-esema
 eseme
 esemka
 esen
@@ -8464,7 +8463,6 @@ ngiwa
 ngiwak
 ngiwas
 ngiwasi
-ngiyub
 ngiyuh
 ngka
 ngki
