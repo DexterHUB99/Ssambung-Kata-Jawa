@@ -96,7 +96,6 @@ adu
 aduan
 aduh
 aduk
-adune
 adus
 adzan
 ae
@@ -3194,7 +3193,6 @@ erup
 erupa
 erupi
 erus
-eruse
 erusi
 erut
 es
@@ -3423,7 +3421,6 @@ galer
 galeren
 gali
 galih
-galine
 galo
 galok
 galon
@@ -3537,7 +3534,6 @@ garik
 garing
 garis
 garisan
-garise
 garit
 garong
 garpu
@@ -4127,7 +4123,6 @@ hancur
 hancuren
 hang
 hangat
-hanget
 hangwo
 hani
 haning
@@ -4155,7 +4150,6 @@ harang
 harap
 harapan
 harapane
-harape
 hare
 haren
 harep
@@ -4168,7 +4162,6 @@ harien
 harima
 harimau
 harimu
-harine
 harjo
 harm
 harman
@@ -5038,7 +5031,6 @@ jara
 jarak
 jaran
 jaranan
-jarane
 jarang
 jare
 jarene
@@ -5469,13 +5461,11 @@ kari
 karim
 karimun
 karin
-karine
 karipa
 karipan
 karipen
 karit
 karma
-karmane
 karna
 karo
 karoan
@@ -5714,6 +5704,7 @@ kemol
 kempel
 kempes
 kempis
+kempit
 kempol
 kemproh
 kempul
@@ -6072,7 +6063,6 @@ kontan
 konten
 kontol
 kontola
-kontole
 kontolmu
 kontrol
 konyol
@@ -6370,7 +6360,6 @@ lame
 lamen
 lami
 lamis
-lamise
 lamon
 lamong
 lamongan
@@ -6712,7 +6701,6 @@ loan
 lob
 loba
 lobang
-lobange
 lober
 lobi
 lobok
@@ -8752,7 +8740,6 @@ ngoyo
 ngrabi
 ngran
 ngrasa
-ngrasak
 ngrasakna
 ngrasani
 ngrawuh
@@ -9025,7 +9012,6 @@ njangan
 njaran
 njelehi
 njikuk
-njungkel
 njupuk
 nki
 nko
@@ -9443,7 +9429,6 @@ ome
 omel
 omelan
 omen
-omha
 omi
 omo
 omong
@@ -9453,7 +9438,6 @@ omonge
 omongo
 ompak
 ompol
-ompole
 ompong
 ompreng
 on
@@ -9741,7 +9725,6 @@ panah
 panai
 panas
 panasan
-panase
 panca
 pancal
 pancen
@@ -10226,7 +10209,6 @@ posi
 posor
 pot
 pota
-pote
 potong
 powa
 powo
@@ -10434,7 +10416,6 @@ ramak
 ramal
 ramalan
 raman
-ramane
 ramasalah
 rambak
 ramban
@@ -12954,7 +12935,6 @@ usiaa
 usie
 usih
 usik
-usike
 usil
 using
 usir
@@ -13198,7 +13178,6 @@ weda
 wedan
 wedang
 wedangan
-wedange
 wede
 wedhang
 wedhi
