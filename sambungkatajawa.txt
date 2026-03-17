@@ -5049,6 +5049,7 @@ karsa
 kartu
 karuh
 karung
+karungan
 karya
 kas
 kasa
