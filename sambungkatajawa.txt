@@ -7922,6 +7922,7 @@ ngerem
 ngerenek
 ngeres
 ngeresi
+ngeresiki
 ngeret
 ngeri
 ngerit
