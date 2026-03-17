@@ -2422,6 +2422,7 @@ dosa
 dosen
 doso
 dot
+dowe
 dowo
 du
 dubur
@@ -3473,6 +3474,7 @@ gemah
 gemar
 gemas
 gemati
+gembala
 gembel
 gembira
 gembleng
