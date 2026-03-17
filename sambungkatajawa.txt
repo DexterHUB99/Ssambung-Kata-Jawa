@@ -759,7 +759,6 @@ angkutan
 angl
 angler
 angling
-anglung
 angon
 angop
 angos
@@ -1359,7 +1358,6 @@ bagos
 bagu
 bagus
 bah
-bahan
 bahasa
 bahli
 bahu
@@ -2477,7 +2475,6 @@ doso
 dot
 dowe
 dowo
-doyan
 du
 dubur
 ducok
@@ -3579,6 +3576,7 @@ gendhuk
 gendi
 gendon
 gendong
+gendongan
 gendruwo
 gendung
 gendut
@@ -6578,6 +6576,7 @@ lopa
 lope
 lopi
 lopis
+lopor
 lor
 lora
 lore
@@ -7527,6 +7526,7 @@ ndlogok
 ndlosor
 ndoro
 nduk
+ndulang
 nduwe
 nduwur
 ne
@@ -7693,7 +7693,6 @@ ngaco
 ngacok
 ngacung
 ngada
-ngadan
 ngadang
 ngade
 ngadeg
@@ -8130,7 +8129,6 @@ ngentuk
 ngentut
 ngenut
 ngenyek
-ngenyot
 ngeo
 ngep
 ngepang
@@ -10227,7 +10225,6 @@ rasta
 rasu
 rasuk
 rasukan
-rasul
 rasya
 rat
 rata
