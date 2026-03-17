@@ -6222,6 +6222,7 @@ libu
 libur
 licik
 licin
+licuh
 lidah
 lider
 lie
