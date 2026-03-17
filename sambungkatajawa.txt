@@ -2436,6 +2436,7 @@ dino
 dinoe
 dinoen
 dinten
+diomah
 diora
 dip
 dipa
@@ -4019,6 +4020,7 @@ guten
 guti
 guwa
 guyah
+guyang
 guyon
 guyonan
 guyone
@@ -5446,6 +5448,7 @@ karpet
 karsa
 kartu
 karuh
+karum
 karung
 karungan
 karya
@@ -11689,7 +11692,6 @@ suko
 suku
 sukun
 sukur
-sukuran
 sul
 sula
 sulah
@@ -12614,6 +12616,7 @@ umbara
 umbas
 umbel
 umbi
+umbia
 umbu
 umbul
 ume
@@ -12733,7 +12736,6 @@ unter
 untik
 untir
 untiren
-untoh
 untu
 untuk
 untul
@@ -13081,7 +13083,6 @@ wasno
 wasuh
 wata
 watak
-wates
 wati
 watir
 waton
@@ -13090,7 +13091,6 @@ watu
 watuk
 wawa
 wawang
-wawas
 wawasan
 wawe
 wawi
