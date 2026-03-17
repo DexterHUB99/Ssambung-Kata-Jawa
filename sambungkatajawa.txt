@@ -3638,6 +3638,7 @@ goleki
 golekno
 goler
 golet
+goleti
 goli
 golo
 golong
