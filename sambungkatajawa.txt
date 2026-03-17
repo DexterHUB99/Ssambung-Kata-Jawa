@@ -654,6 +654,7 @@ ancene
 ancer
 anci
 ancik
+ancika
 anco
 ancok
 ancu
@@ -7807,7 +7808,6 @@ ngadohi
 ngadok
 ngadol
 ngadon
-ngados
 ngadu
 ngaduk
 ngadul
@@ -7917,7 +7917,6 @@ ngandai
 ngandang
 ngandani
 ngandap
-ngandel
 ngandhap
 ngandi
 ngandika
@@ -8642,7 +8641,6 @@ ngula
 ngulah
 ngulai
 ngulak
-ngulam
 ngulan
 ngulang
 ngulangi
@@ -9345,7 +9343,6 @@ opak
 opal
 opam
 opan
-opas
 opat
 opel
 open
