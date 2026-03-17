@@ -1534,7 +1534,6 @@ bes
 besan
 besar
 besek
-besi
 besok
 besuk
 besuki
@@ -6106,7 +6105,6 @@ lati
 latih
 latihan
 lato
-latu
 laut
 lautan
 laute
@@ -7572,7 +7570,6 @@ ngambu
 ngambul
 ngambung
 ngamel
-ngami
 ngamil
 ngamis
 ngamo
@@ -7666,7 +7663,6 @@ ngapi
 ngaplo
 ngaplok
 ngapu
-ngapung
 ngapunten
 ngapur
 ngapura
@@ -10802,7 +10798,6 @@ siah
 sial
 siala
 sialan
-siana
 siap
 siapa
 siapo
@@ -11453,6 +11448,7 @@ terus
 tes
 tesi
 tet
+tetangga
 tete
 teteg
 teteh
@@ -11800,7 +11796,6 @@ uhi
 uho
 ui
 uing
-uira
 uj
 uja
 ujak
