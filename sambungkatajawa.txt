@@ -3496,6 +3496,7 @@ gal
 gala
 galah
 galak
+galaka
 galang
 galangan
 galau
@@ -4645,6 +4646,7 @@ ikih
 ikil
 ikilo
 ikim
+ikine
 ikiwe
 iklas
 iklim
