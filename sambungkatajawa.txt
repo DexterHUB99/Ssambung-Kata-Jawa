@@ -957,6 +957,7 @@ apuse
 apusi
 aput
 apuwo
+apuy
 aqiqah
 ar
 ara
@@ -1290,6 +1291,7 @@ ayag
 ayah
 ayaj
 ayak
+ayake
 ayal
 ayalan
 ayam
@@ -2509,6 +2511,7 @@ dosa
 dosen
 doso
 dot
+dota
 dowe
 dowo
 du
@@ -3313,6 +3316,7 @@ gadai
 gadang
 gadha
 gadhah
+gadhe
 gadhing
 gading
 gado
@@ -3352,7 +3356,6 @@ gak
 gaka
 gaki
 gakiso
-gako
 gaktau
 gal
 gala
@@ -4531,7 +4534,6 @@ im
 ima
 imaan
 imai
-imaji
 imam
 imame
 iman
@@ -6285,7 +6287,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanangan
 lanange
@@ -7611,6 +7612,7 @@ nawon
 nawur
 naya
 nayo
+nayoh
 ncok
 ndadak
 ndak
@@ -7784,7 +7786,6 @@ ngabab
 ngabang
 ngabar
 ngabari
-ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -9049,7 +9050,6 @@ nuturi
 nuwek
 nuwun
 nuwunsewu
-nwa
 ny
 nya
 nyai
@@ -9845,6 +9845,7 @@ piatu
 piawang
 picak
 picek
+pidah
 pidak
 pidana
 pidang
@@ -11417,6 +11418,7 @@ sirsak
 sirup
 sis
 sisa
+sisah
 sisan
 sisi
 sisih
@@ -12168,6 +12170,7 @@ tu
 tua
 tuak
 tuban
+tubi
 tubruk
 tubuh
 tugel
@@ -12647,6 +12650,7 @@ upan
 upane
 upang
 upas
+upat
 upaya
 upe
 upel
@@ -13230,7 +13234,6 @@ yaudah
 yawes
 yawis
 yaya
-yayi
 ye
 yek
 yekan
@@ -13343,6 +13346,7 @@ yuswa
 yut
 yuta
 yuti
+yuwa
 yuya
 yuyu
 yuyun
