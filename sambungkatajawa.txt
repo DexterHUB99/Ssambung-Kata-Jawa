@@ -1667,6 +1667,7 @@ biru
 bis
 bisa
 bisaa
+bisane
 bisi
 bisik
 bisiki
@@ -2895,6 +2896,7 @@ emut
 en
 ena
 enah
+enaj
 enak
 enake
 enal
@@ -4859,6 +4861,7 @@ jago
 jagong
 jagung
 jahat
+jahe
 jahil
 jai
 jail
