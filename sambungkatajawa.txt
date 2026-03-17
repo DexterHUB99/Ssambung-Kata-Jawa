@@ -2436,6 +2436,7 @@ dino
 dinoe
 dinoen
 dinten
+diomah
 diora
 dip
 dipa
@@ -4019,6 +4020,7 @@ guten
 guti
 guwa
 guyah
+guyang
 guyon
 guyonan
 guyone
@@ -12732,7 +12734,6 @@ unter
 untik
 untir
 untiren
-untoh
 untu
 untuk
 untul
@@ -13080,7 +13081,6 @@ wasno
 wasuh
 wata
 watak
-wates
 wati
 watir
 waton
@@ -13089,7 +13089,6 @@ watu
 watuk
 wawa
 wawang
-wawas
 wawasan
 wawe
 wawi
