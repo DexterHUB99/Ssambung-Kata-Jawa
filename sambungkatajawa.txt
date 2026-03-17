@@ -1182,6 +1182,7 @@ aura
 aurip
 aus
 ausa
+ausi
 aut
 auta
 autan
@@ -4536,7 +4537,6 @@ isine
 ising
 isinna
 isis
-isisam
 isiso
 isit
 isita
@@ -4927,6 +4927,7 @@ kajang
 kajeng
 kaji
 kajian
+kajine
 kak
 kaka
 kakaa
@@ -10401,7 +10402,6 @@ sao
 saos
 sap
 sapa
-sapar
 sape
 sapi
 sapih
@@ -10997,6 +10997,7 @@ suri
 suro
 suroboyo
 suruh
+surung
 surup
 surut
 surya
@@ -11038,6 +11039,7 @@ suwine
 suwir
 suwun
 suwung
+suya
 suyo
 swara
 syukur
@@ -12326,6 +12328,7 @@ wijaya
 wiji
 wik
 wika
+wiki
 wiku
 wil
 wila
@@ -12362,7 +12365,6 @@ wisuh
 wit
 wita
 witan
-witen
 witir
 wito
 wiwi
