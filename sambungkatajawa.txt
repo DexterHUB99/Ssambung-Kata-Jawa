@@ -836,7 +836,6 @@ antik
 anting
 anto
 antoi
-antol
 anton
 antoni
 antoro
@@ -1803,7 +1802,6 @@ cagar
 cah
 cahaya
 cai
-caji
 cak
 cakar
 cakep
@@ -2347,7 +2345,6 @@ ditampol
 ditilep
 ditulung
 diwa
-diyu
 dlogok
 dluwang
 do
@@ -5364,7 +5361,6 @@ kelor
 keloro
 keluarga
 keluh
-kelum
 kelut
 kem
 kema
@@ -6783,7 +6779,6 @@ megah
 meh
 meja
 mek
-mekali
 mekar
 meki
 mekso
@@ -7655,7 +7650,6 @@ nganggo
 nganggok
 nganggu
 nganggur
-ngangk
 ngangkang
 ngangkat
 ngangluh
@@ -7919,7 +7913,6 @@ ngendi
 ngendika
 ngendo
 ngendog
-ngenduk
 ngene
 ngeneng
 ngenes
@@ -9526,7 +9519,6 @@ ping
 pinggih
 pinggir
 pingsan
-pini
 pinja
 pino
 pinom
@@ -9867,7 +9859,6 @@ rambu
 rambut
 rambutan
 rambute
-rambutem
 rame
 ramean
 ramen
@@ -9985,7 +9976,6 @@ ratui
 ratus
 rauh
 raul
-raum
 rauma
 raumi
 raung
@@ -12783,7 +12773,6 @@ yowe
 yowes
 yowis
 yoy
-yoya
 yoyo
 yu
 yua
