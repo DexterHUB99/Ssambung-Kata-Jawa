@@ -2595,6 +2595,7 @@ ekeri
 ekes
 eket
 eki
+ekib
 ekik
 ekil
 ekin
@@ -5514,6 +5515,7 @@ ketos
 ketua
 ketuk
 ketum
+ketumbar
 ketup
 ketupat
 ketus
@@ -7167,6 +7169,7 @@ nange
 nangendi
 nanggal
 nanggap
+nanggapa
 nanggung
 nangi
 nanging
