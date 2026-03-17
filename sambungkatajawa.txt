@@ -608,7 +608,6 @@ anai
 anak
 anakan
 anake
-anakku
 anakmu
 anal
 anam
@@ -2422,7 +2421,6 @@ dosa
 dosen
 doso
 dot
-dowe
 dowo
 du
 dubur
@@ -2734,7 +2732,6 @@ elut
 em
 ema
 emab
-emad
 emah
 email
 emak
@@ -3474,7 +3471,6 @@ gemah
 gemar
 gemas
 gemati
-gembala
 gembel
 gembira
 gembleng
@@ -12409,7 +12405,6 @@ utara
 utaran
 utas
 utasan
-utata
 utawa
 utawi
 utawo
