@@ -347,6 +347,7 @@ aket
 akhir
 akhirat
 aki
+akib
 akie
 akih
 akik
@@ -1526,6 +1527,7 @@ basi
 basin
 baskom
 baso
+basuh
 basuki
 bata
 batak
