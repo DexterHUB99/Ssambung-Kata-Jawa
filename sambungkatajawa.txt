@@ -2358,7 +2358,6 @@ dedemit
 dedi
 dedik
 degan
-deja
 dek
 deka
 dekan
@@ -3139,7 +3138,6 @@ enok
 enol
 enom
 enta
-entak
 entang
 entar
 entas
@@ -5248,7 +5246,6 @@ jera
 jeram
 jerami
 jeran
-jereng
 jerih
 jero
 jeroan
@@ -10305,7 +10302,6 @@ pidah
 pidak
 pidana
 pidang
-pidek
 pie
 pih
 pii
@@ -13032,6 +13028,7 @@ ulal
 ulala
 ulam
 ulama
+ulamo
 ulan
 ulang
 ulanga
@@ -13207,7 +13204,6 @@ untara
 untaran
 untas
 untel
-unten
 unter
 untik
 untir
