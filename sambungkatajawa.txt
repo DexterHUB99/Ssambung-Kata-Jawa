@@ -1074,6 +1074,7 @@ arya
 as
 asa
 asah
+asahan
 asai
 asak
 asal
@@ -1677,7 +1678,6 @@ bikak
 bikin
 biko
 biku
-bikun
 bil
 bila
 bilah
@@ -2649,7 +2649,6 @@ eb
 eba
 ebab
 ebak
-ebat
 ebe
 ebeg
 eben
@@ -6927,7 +6926,6 @@ lusi
 lusuh
 lut
 luthung
-luti
 luwe
 luweh
 luwes
