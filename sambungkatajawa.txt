@@ -4782,6 +4782,7 @@ imi
 iming
 imit
 imla
+imna
 imo
 imoi
 impal
@@ -5566,6 +5567,7 @@ kandas
 kandel
 kandha
 kandi
+kandungan
 kandut
 kane
 kang
