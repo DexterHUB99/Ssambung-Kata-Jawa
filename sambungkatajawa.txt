@@ -513,6 +513,7 @@ amati
 amay
 amaya
 amba
+ambai
 ambal
 ambalan
 ambar
@@ -1242,7 +1243,6 @@ atun
 atur
 aturan
 aturen
-aturi
 aturne
 atus
 atusan
@@ -1340,6 +1340,7 @@ ayem
 ayeme
 ayep
 ayi
+ayik
 ayim
 ayin
 aying
@@ -2051,6 +2052,7 @@ cicir
 cicit
 cidek
 ciduk
+cihuy
 cik
 cikal
 ciken
@@ -2204,6 +2206,7 @@ dadan
 dadang
 dadar
 dadi
+dadio
 dados
 dadu
 daduk
@@ -2549,6 +2552,7 @@ doma
 domba
 domblong
 domi
+domo
 dompet
 don
 dona
@@ -2650,6 +2654,7 @@ duso
 dusun
 dut
 duta
+duti
 duwe
 duwek
 duwet
@@ -2774,6 +2779,7 @@ ejah
 ejar
 eje
 ejek
+ejel
 eji
 ejih
 ejo
@@ -3193,6 +3199,7 @@ erep
 ereruh
 eres
 eret
+eretan
 eri
 eria
 erih
@@ -3752,6 +3759,7 @@ geneyi
 geng
 genggem
 geni
+gening
 genit
 geniya
 genjot
@@ -3905,7 +3913,6 @@ gogoh
 gogol
 gogrok
 gojek
-gojekan
 gojlok
 gok
 goke
@@ -4643,6 +4650,7 @@ iloe
 iloi
 ilok
 ilokan
+ilomo
 ilon
 ilu
 ilui
@@ -4837,6 +4845,7 @@ iren
 ireng
 irenge
 irengmu
+irep
 ires
 iri
 iria
@@ -5015,8 +5024,10 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
+jagan
 jagar
 jago
 jagong
@@ -5271,6 +5282,7 @@ jumo
 jumpa
 jun
 juna
+junah
 june
 juni
 jupuk
@@ -5292,7 +5304,6 @@ kabel
 kabul
 kabupaten
 kabur
-kabut
 kaca
 kacang
 kacau
@@ -5594,7 +5605,6 @@ katok
 katon
 katone
 katot
-katresnan
 katro
 katrok
 katu
@@ -5784,6 +5794,7 @@ ken
 kena
 kenak
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -7655,6 +7666,7 @@ nalar
 nalare
 nale
 nali
+nalia
 nalih
 nalik
 nalika
@@ -8951,6 +8963,7 @@ ngupil
 nguping
 ngupo
 ngur
+ngura
 ngurah
 ngurai
 ngurak
@@ -9265,6 +9278,7 @@ nunung
 nunut
 nuo
 nup
+nupi
 nur
 nura
 nurah
@@ -9386,6 +9400,7 @@ obral
 obrol
 oceh
 ocehan
+oci
 ocok
 ocol
 ocon
@@ -9986,6 +10001,7 @@ patub
 patuh
 patung
 patur
+paung
 paw
 pawa
 pawai
@@ -10108,6 +10124,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -10188,6 +10205,7 @@ pindo
 pindoe
 pinduk
 ping
+pingan
 pinggih
 pinggir
 pingsan
@@ -10489,7 +10507,6 @@ ragisa
 ragu
 rah
 raha
-raharja
 rahas
 rahasia
 rahaya
@@ -11447,7 +11464,6 @@ sedi
 sedia
 sedih
 sedina
-sedotan
 seduh
 sedulur
 see
@@ -12885,6 +12901,7 @@ umum
 umume
 umur
 umure
+umurno
 un
 una
 unah
@@ -13217,6 +13234,7 @@ uyi
 uyo
 uyuh
 uyuhmu
+uyung
 uz
 vaksin
 via
@@ -13389,7 +13407,6 @@ weling
 welo
 welut
 wen
-wena
 wene
 weneh
 wengi
