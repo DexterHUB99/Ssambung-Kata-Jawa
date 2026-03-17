@@ -848,10 +848,10 @@ anus
 anut
 anyam
 anyaman
-anyang
 anyar
 anyaran
 anyeb
+anyem
 anyep
 anyer
 anyes
@@ -2097,6 +2097,7 @@ dar
 dara
 darah
 darat
+dare
 dari
 darma
 darmi
@@ -2774,6 +2775,7 @@ endhog
 endhok
 endi
 endik
+endika
 endine
 endog
 endol
@@ -2808,6 +2810,7 @@ engkong
 eni
 enih
 enik
+enin
 ening
 enir
 enis
@@ -2853,6 +2856,7 @@ entutmu
 enu
 enul
 enum
+enun
 enus
 enya
 enyak
@@ -4018,6 +4022,7 @@ hoha
 hohi
 hoho
 hoi
+hoka
 hoki
 hoko
 hola
@@ -4151,6 +4156,7 @@ ihaa
 ihai
 ihali
 ihan
+ihao
 ihara
 ihe
 ihen
@@ -4538,6 +4544,7 @@ islami
 isli
 isma
 ismai
+isme
 ismi
 ismu
 isna
@@ -4548,6 +4555,7 @@ isok
 isol
 isoma
 isone
+isoo
 isor
 isra
 istana
@@ -4967,6 +4975,7 @@ kalung
 kalut
 kam
 kama
+kamah
 kamak
 kamal
 kaman
@@ -5221,6 +5230,7 @@ kek
 keka
 kekal
 keke
+kekek
 kekel
 kekep
 keker
@@ -7015,6 +7025,7 @@ nadyan
 nae
 naek
 nafas
+nafkah
 nag
 naga
 nagara
@@ -7074,6 +7085,7 @@ nam
 nama
 namah
 namamu
+naman
 namane
 namba
 nambah
@@ -7101,6 +7113,7 @@ nanah
 nanai
 nanak
 nanam
+nanan
 nanang
 nanas
 nandang
@@ -7225,6 +7238,7 @@ ne
 neb
 neba
 nebake
+nebang
 nebas
 nebe
 neben
@@ -7323,6 +7337,7 @@ nerangake
 nerangi
 nerangke
 nerasi
+nereng
 neri
 nerik
 nerima
@@ -8540,6 +8555,7 @@ nyamuk
 nyangu
 nyanyi
 nyapa
+nyaponi
 nyapu
 nyasar
 nyatu
@@ -9008,6 +9024,7 @@ paloh
 palsu
 palu
 palung
+pamah
 pamahan
 pamali
 paman
@@ -10792,6 +10809,7 @@ sole
 soli
 solid
 solo
+solor
 solot
 som
 soma
@@ -11094,6 +11112,7 @@ tampol
 tamu
 tan
 tanah
+tanan
 tandang
 tandas
 tandha
