@@ -2761,6 +2761,7 @@ donga
 dongane
 dongeng
 dongi
+dongkrak
 dongo
 dongok
 dongol
@@ -9146,6 +9147,7 @@ nggatekno
 nggateli
 nggawa
 nggawe
+nggaya
 ngge
 nggeh
 nggen
