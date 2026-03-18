@@ -3997,7 +3997,6 @@ gimen
 gimi
 gina
 gincu
-ginda
 ginem
 gingsir
 gini
@@ -5385,7 +5384,6 @@ jir
 jira
 jiran
 jireh
-jireng
 jiret
 jiri
 jirih
@@ -5415,7 +5413,6 @@ jolan
 jole
 jolen
 joli
-joling
 jolma
 jolo
 jom
@@ -8058,7 +8055,6 @@ nate
 natik
 natur
 nawa
-nawah
 nawan
 nawang
 nawani
