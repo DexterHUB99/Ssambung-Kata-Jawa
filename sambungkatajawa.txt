@@ -2303,6 +2303,7 @@ cun
 cuna
 cunduk
 cungkring
+cup
 cupu
 cur
 curi
