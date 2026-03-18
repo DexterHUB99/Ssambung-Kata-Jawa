@@ -578,6 +578,7 @@ ambrol
 ambruk
 ambu
 ambuk
+ambulan
 ambune
 ambung
 ambunge
@@ -5765,6 +5766,7 @@ kala
 kalah
 kalahan
 kalai
+kalajengking
 kalak
 kalakon
 kalam
