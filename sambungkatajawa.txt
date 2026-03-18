@@ -4770,6 +4770,7 @@ hutange
 huti
 hya
 hyang
+hyaning
 ib
 iba
 ibadah
@@ -14674,3 +14675,4 @@ ze
 ziarah
 zikir
 zina
+zona
