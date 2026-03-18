@@ -470,6 +470,7 @@ alay
 ale
 alea
 aleb
+aleg
 aleh
 alek
 alem
@@ -1893,7 +1894,6 @@ bina
 binara
 bindeng
 bine
-bingka
 bingki
 bingung
 bini
@@ -2328,7 +2328,6 @@ coba
 cobaan
 cobek
 coc
-cocak
 coco
 cocok
 cocot
@@ -3055,7 +3054,6 @@ ehey
 ehi
 ehid
 ehif
-ehij
 ehik
 ehil
 ehim
@@ -3175,6 +3173,7 @@ elap
 elar
 elas
 ele
+eleg
 eleh
 elek
 elekan
@@ -6724,7 +6723,6 @@ klewer
 klimis
 kliwon
 klo
-klom
 klontong
 klu
 klumah
@@ -8019,7 +8017,6 @@ men
 menawa
 menawi
 mencret
-mendhem
 mendoan
 mendung
 mendut
@@ -8103,6 +8100,7 @@ milu
 mima
 mimi
 mimis
+mimisa
 mimisan
 min
 mina
@@ -8864,6 +8862,7 @@ ngagak
 ngagel
 ngagem
 ngago
+ngagu
 ngagung
 ngah
 ngahad
@@ -9279,7 +9278,6 @@ ngelotok
 ngelu
 ngelucu
 ngeluh
-ngelui
 ngeluku
 ngelus
 ngema
@@ -9343,7 +9341,6 @@ ngenja
 ngenjang
 ngeno
 ngenot
-ngentai
 ngenteni
 ngenti
 ngentik
@@ -10162,6 +10159,7 @@ norak
 nore
 noreh
 nori
+norong
 nos
 nosa
 nose
@@ -11738,6 +11736,7 @@ ranggenah
 ranggi
 rangi
 rangka
+rangkasan
 rangkat
 rangkul
 rangkum
@@ -12834,7 +12833,6 @@ serep
 seres
 seret
 seri
-sering
 serius
 sero
 serok
@@ -13116,10 +13114,10 @@ sosiji
 sosis
 sosmed
 sosok
+sosokan
 sosol
 sosone
 sotel
-soten
 soti
 soto
 sowan
@@ -13490,6 +13488,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatan
 tatas
 tati
 tatik
@@ -14585,7 +14584,6 @@ uwes
 uwi
 uwis
 uwit
-uwo
 uwong
 uwu
 uwuh
