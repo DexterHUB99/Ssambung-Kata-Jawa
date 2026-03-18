@@ -7143,7 +7143,6 @@ leak
 leba
 lebah
 lebak
-lebaran
 lebay
 lebet
 lebih
@@ -7832,6 +7831,7 @@ mayuh
 mayungi
 mbah
 mbak
+mbal
 mbarep
 mbasan
 mben
