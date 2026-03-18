@@ -10755,6 +10755,7 @@ okul
 okum
 okur
 okura
+okuran
 okut
 okute
 ol
