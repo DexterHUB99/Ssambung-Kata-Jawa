@@ -2262,7 +2262,6 @@ cicit
 cicite
 cidak
 cidek
-cidra
 ciduk
 cihuy
 cik
@@ -2418,7 +2417,6 @@ cuti
 cuyu
 da
 dab
-dabag
 dabak
 dablek
 dada
@@ -2757,7 +2755,6 @@ diri
 diru
 dirum
 dirumah
-dirut
 dis
 disa
 disambi
@@ -5052,7 +5049,6 @@ ikine
 ikiwe
 iklas
 iklim
-iklima
 iko
 ikoi
 ikon
@@ -6711,7 +6707,6 @@ kola
 kolah
 kolak
 kolam
-kolan
 kole
 koleh
 kolek
@@ -7308,7 +7303,6 @@ leto
 letong
 lewak
 lewat
-lewih
 leyeh
 lha
 li
@@ -13335,7 +13329,6 @@ tampi
 tampol
 tamu
 tan
-tana
 tanah
 tanan
 tandang
