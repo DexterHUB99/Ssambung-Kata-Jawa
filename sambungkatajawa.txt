@@ -13693,6 +13693,7 @@ takaran
 takbir
 takbiran
 takdir
+take
 taken
 taki
 takjil
