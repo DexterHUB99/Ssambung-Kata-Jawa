@@ -2975,6 +2975,7 @@ ehek
 ehel
 ehem
 ehen
+ehep
 eher
 ehes
 ehet
@@ -6981,6 +6982,7 @@ lantah
 lantai
 lantak
 lantang
+lantaran
 lantas
 lante
 lanti
@@ -10627,6 +10629,7 @@ pancang
 pancen
 panci
 pancing
+pancingan
 pandak
 pandan
 pandang
