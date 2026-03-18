@@ -794,6 +794,7 @@ anggo
 anggok
 anggon
 anggone
+anggora
 anggoro
 anggrek
 angguk
@@ -7311,6 +7312,7 @@ macapat
 macul
 mad
 mada
+madak
 madam
 madan
 madang
