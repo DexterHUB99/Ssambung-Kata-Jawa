@@ -2218,6 +2218,7 @@ cicir
 cicit
 cidek
 ciduk
+cihuy
 cik
 cika
 cikal
@@ -11651,6 +11652,7 @@ remo
 remok
 rempah
 rempal
+rempek
 rempeyek
 rempol
 rempon
@@ -12234,6 +12236,7 @@ sapiro
 sapo
 saponi
 sapu
+sapun
 sapura
 saput
 saputra
