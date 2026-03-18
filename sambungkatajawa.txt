@@ -3602,7 +3602,6 @@ etep
 eter
 etes
 etet
-etew
 eti
 etig
 etik
@@ -6991,7 +6990,6 @@ lamen
 lami
 lamis
 lamise
-lamit
 lamon
 lamong
 lamongan
@@ -8453,6 +8451,7 @@ natah
 natal
 natalan
 natan
+natani
 natap
 nate
 nati
@@ -8509,6 +8508,7 @@ nebas
 nebe
 neben
 nebih
+nebus
 neda
 nedah
 nedan
@@ -9081,7 +9081,6 @@ ngejak
 ngejar
 ngejek
 ngek
-ngekek
 ngekel
 ngeko
 ngekok
@@ -9208,7 +9207,6 @@ ngepet
 ngepi
 ngepit
 ngepot
-ngepret
 ngepuk
 ngepus
 nger
@@ -10988,7 +10986,6 @@ pesen
 pesi
 pesing
 peso
-pet
 peta
 petak
 petan
@@ -14061,7 +14058,6 @@ ungkit
 ungkul
 ungkur
 ungu
-unhe
 uni
 unine
 uning
@@ -14381,6 +14377,7 @@ wader
 wadha
 wadhul
 wadi
+wadia
 wadoh
 wadon
 wadonan
