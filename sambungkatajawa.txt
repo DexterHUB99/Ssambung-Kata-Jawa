@@ -5874,7 +5874,6 @@ kali
 kalia
 kalian
 kalih
-kalihan
 kalim
 kalima
 kalimat
@@ -14274,6 +14273,7 @@ usama
 usan
 usap
 usar
+usara
 use
 usek
 usem
