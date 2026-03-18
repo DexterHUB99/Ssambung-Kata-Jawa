@@ -3176,7 +3176,6 @@ enen
 eneng
 enengkol
 enes
-enet
 engah
 engeh
 enggal
@@ -3456,7 +3455,6 @@ etog
 etoh
 etok
 etol
-etom
 eton
 etos
 etose
