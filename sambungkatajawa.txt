@@ -3414,6 +3414,7 @@ eneg
 eneh
 enej
 enek
+eneke
 enel
 enem
 enen
@@ -3917,6 +3918,7 @@ gamean
 gamel
 gamela
 gamelan
+gamelane
 gamen
 gamer
 gami
@@ -4277,6 +4279,7 @@ gesit
 get
 getan
 getar
+gete
 gething
 gethok
 gethuk
