@@ -1337,6 +1337,7 @@ atok
 atol
 atom
 atop
+ator
 atos
 atose
 atra
