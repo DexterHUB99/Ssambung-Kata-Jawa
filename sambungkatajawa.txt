@@ -145,7 +145,6 @@ agih
 agil
 agin
 agit
-agni
 ago
 agor
 agu
@@ -1062,7 +1061,6 @@ arah
 arahan
 arai
 arak
-araka
 arakan
 aram
 arama
@@ -1334,7 +1332,6 @@ atuk
 atul
 atum
 atun
-atup
 atur
 aturan
 aturen
@@ -1712,7 +1709,6 @@ belum
 belut
 bem
 bema
-bemo
 ben
 bena
 benang
@@ -1888,7 +1884,6 @@ boli
 bolo
 boloe
 bolog
-boloho
 bolong
 bolos
 bolot
@@ -2144,7 +2139,6 @@ cekap
 cekatan
 cekel
 cekot
-celatu
 celek
 celeng
 celengan
@@ -2187,7 +2181,6 @@ cibu
 cica
 cicak
 cici
-cicil
 cicir
 cicit
 cidek
@@ -2211,7 +2204,6 @@ cilung
 cim
 cime
 cimo
-cimut
 cin
 cina
 cincin
@@ -2310,7 +2302,6 @@ cuka
 cuki
 cukil
 cukin
-cuko
 cukup
 cukur
 culai
@@ -2513,7 +2504,6 @@ deneng
 dengki
 dengkul
 deni
-dening
 deno
 depa
 depak
@@ -2838,6 +2828,7 @@ duso
 dusun
 dut
 duta
+duwa
 duwe
 duwek
 duwet
@@ -3045,7 +3036,6 @@ elag
 elah
 elai
 elak
-elal
 elam
 elan
 elang
@@ -3554,7 +3544,6 @@ eweane
 eweh
 ewek
 ewer
-ewes
 ewi
 ewih
 ewoh
@@ -3585,6 +3574,7 @@ fafa
 faham
 fakir
 fakta
+fala
 famu
 fan
 fana
@@ -4944,7 +4934,6 @@ im
 ima
 imaan
 imai
-imala
 imam
 imame
 iman
@@ -5559,7 +5548,6 @@ jom
 joma
 jombang
 jomblo
-jomlo
 jomo
 jon
 jona
@@ -7192,7 +7180,6 @@ loding
 lodoh
 loe
 log
-loga
 logat
 logi
 logok
@@ -7864,7 +7851,6 @@ moli
 molin
 molok
 mom
-momi
 momong
 momot
 mon
@@ -7923,7 +7909,6 @@ mucuk
 mudal
 mudar
 mudeng
-mudha
 mudhun
 muga
 mugane
@@ -8103,6 +8088,7 @@ nakuti
 nal
 nala
 nalah
+nalai
 nalak
 nalam
 nalan
@@ -8841,7 +8827,6 @@ ngayub
 ngayuh
 ngayuk
 ngayun
-ngayung
 ngcak
 nge
 ngeanu
@@ -9241,7 +9226,6 @@ ngk
 ngka
 ngki
 ngko
-nglag
 nglakoni
 nglali
 nglamun
@@ -9816,7 +9800,6 @@ numa
 numan
 numana
 numbal
-numbar
 numbas
 numbasi
 numbuk
@@ -9850,7 +9833,6 @@ nup
 nur
 nura
 nurah
-nurani
 nure
 nuren
 nuri
@@ -9903,7 +9885,6 @@ nyari
 nyaru
 nyasar
 nyatu
-nyaur
 nyawa
 nyawah
 nyawang
@@ -9934,6 +9915,7 @@ nyinom
 nyiram
 nyirep
 nyo
+nyoba
 nyocot
 nyogok
 nyolek
@@ -10319,7 +10301,6 @@ osan
 osar
 osara
 osas
-osasa
 osek
 osel
 osem
@@ -10719,7 +10700,6 @@ perang
 percaya
 pere
 perek
-perempuan
 peri
 perih
 perlu
@@ -11255,6 +11235,7 @@ ramis
 ramo
 rampai
 rampas
+rampek
 ramping
 rampok
 rampun
@@ -11369,7 +11350,6 @@ rata
 ratai
 ratan
 ratau
-rate
 ratekan
 rati
 ratib
@@ -11470,10 +11450,8 @@ remahan
 remang
 remas
 remase
-remasi
 remba
 rembang
-rembat
 rembes
 rembet
 rembug
@@ -11499,7 +11477,6 @@ rempeyek
 rempol
 rempon
 remu
-remuh
 remuk
 ren
 rena
@@ -12341,7 +12318,6 @@ seruk
 serut
 ses
 sesak
-sesap
 sesat
 sese
 sesek
@@ -12353,7 +12329,6 @@ set
 setam
 setan
 setaun
-setel
 setengah
 seti
 setrika
@@ -12460,7 +12435,6 @@ sio
 siomay
 sip
 sipa
-sipat
 sipi
 sipit
 sipo
@@ -12624,7 +12598,6 @@ suami
 suamii
 suar
 suara
-suarane
 suaro
 suasu
 suba
@@ -12637,7 +12610,6 @@ sud
 suda
 sudah
 sude
-sudha
 sudi
 sudo
 sudukan
@@ -13553,7 +13525,6 @@ ukna
 uko
 ukoh
 ukok
-ukoke
 ukol
 ukom
 ukon
@@ -13564,7 +13535,6 @@ ukta
 uku
 ukud
 ukuk
-ukukir
 ukukur
 ukul
 ukum
@@ -13925,6 +13895,7 @@ usie
 usih
 usik
 usike
+usiki
 usil
 using
 usir
@@ -14375,7 +14346,6 @@ wusa
 wut
 wuta
 wutan
-wutuh
 wuwi
 xenon
 xilofon
@@ -14455,7 +14425,6 @@ yeng
 yeni
 yeno
 yep
-yepa
 yeping
 yer
 yere
