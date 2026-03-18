@@ -2919,7 +2919,6 @@ ehot
 ehoy
 ehu
 ehuh
-ehuj
 ehuk
 ehun
 ehur
@@ -8842,7 +8841,6 @@ ngemis
 ngemoh
 ngemong
 ngemot
-ngempak
 ngempal
 ngempek
 ngemper
@@ -11952,7 +11950,6 @@ saren
 sareng
 sarep
 sari
-saria
 sarimi
 saringan
 sarip
