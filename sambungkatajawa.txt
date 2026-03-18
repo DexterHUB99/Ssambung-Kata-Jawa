@@ -2293,6 +2293,7 @@ combro
 como
 comot
 condong
+congkak
 congok
 congor
 congore
@@ -2755,7 +2756,6 @@ dolan
 dolanan
 dolen
 doli
-doling
 dolo
 dolu
 dom
@@ -3292,7 +3292,6 @@ enggar
 enggeh
 enggih
 enggil
-enggo
 enggok
 enggon
 engkang
@@ -8935,6 +8934,7 @@ ngayuk
 ngayun
 ngayung
 ngcak
+ngcok
 nge
 ngea
 ngeanu
@@ -10049,6 +10049,7 @@ nyolek
 nyolong
 nyomot
 nyong
+nyonya
 nyuci
 nyuluh
 nyumbang
@@ -13000,6 +13001,7 @@ takwa
 tal
 tala
 talak
+talan
 talas
 tale
 talenan
@@ -14149,7 +14151,6 @@ utus
 utusa
 utusan
 utusane
-ututek
 ututer
 utya
 uud
@@ -14586,6 +14587,7 @@ yawes
 yawi
 yawis
 yaya
+yayi
 ye
 yek
 yekan
