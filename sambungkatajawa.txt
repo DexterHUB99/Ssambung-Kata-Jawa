@@ -13066,6 +13066,7 @@ selai
 selak
 selam
 selamat
+selame
 selamet
 selametan
 selar
