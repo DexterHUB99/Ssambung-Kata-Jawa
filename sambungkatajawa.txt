@@ -4294,6 +4294,7 @@ hake
 hakem
 haki
 hakim
+hako
 haku
 hakuwi
 hakwa
@@ -12893,6 +12894,7 @@ tinulis
 tip
 tipa
 tipak
+tipe
 tipi
 tir
 tira
