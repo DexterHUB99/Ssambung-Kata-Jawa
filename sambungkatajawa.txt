@@ -8457,6 +8457,7 @@ ngaber
 ngabet
 ngaboti
 ngabu
+ngabuk
 ngabul
 ngaca
 ngacak
