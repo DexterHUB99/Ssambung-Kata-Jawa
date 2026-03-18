@@ -389,6 +389,7 @@ akos
 akot
 akra
 akrab
+akraben
 aksa
 aksaa
 aksama
@@ -682,6 +683,7 @@ anap
 anar
 anarki
 anas
+anasi
 anat
 anaw
 anay
@@ -712,6 +714,7 @@ andal
 andalan
 andalane
 andang
+andangan
 andani
 andap
 andar
@@ -883,6 +886,7 @@ anjungan
 anjur
 anjuran
 anjurane
+ankur
 ano
 anoa
 anoe
@@ -1357,6 +1361,7 @@ aweh
 awek
 awer
 awet
+awha
 awi
 awik
 awin
@@ -1734,6 +1739,7 @@ bibir
 bibit
 bibo
 bibu
+bicik
 bicu
 bid
 bidak
@@ -1821,6 +1827,7 @@ bodoh
 bodok
 bogel
 bogem
+bogor
 bohong
 bojo
 bojok
@@ -1921,6 +1928,7 @@ bukit
 buko
 bukok
 buku
+bukuk
 bukur
 bul
 bulak
@@ -3227,6 +3235,7 @@ enul
 enum
 enun
 enus
+enwa
 enya
 enyak
 enyong
@@ -3440,6 +3449,7 @@ etub
 etuh
 etuk
 etum
+etun
 etung
 etus
 ev
@@ -3513,6 +3523,7 @@ gabes
 gabug
 gabuk
 gabung
+gabungan
 gabus
 gabut
 gaco
@@ -3914,6 +3925,7 @@ gera
 gerah
 gerai
 gerak
+gerake
 geram
 gerame
 gerang
@@ -3972,6 +3984,7 @@ gigal
 gigi
 gigih
 gigil
+gigim
 gigir
 gigit
 gigu
@@ -3997,7 +4010,6 @@ gimen
 gimi
 gina
 gincu
-ginda
 ginem
 gingsir
 gini
@@ -4576,6 +4588,7 @@ hukuman
 hukume
 hukumen
 hula
+hulah
 hulat
 hulu
 hum
@@ -4799,9 +4812,11 @@ ilik
 ililang
 ilin
 iling
+ilingana
 ilingen
 ilingo
 ilir
+ilire
 ilis
 ilmu
 ilmune
@@ -4849,6 +4864,7 @@ imbuhna
 imbung
 ime
 imen
+imha
 imi
 iming
 imit
@@ -4943,6 +4959,7 @@ injak
 injal
 inje
 injek
+injem
 inji
 injih
 injing
@@ -5099,7 +5116,6 @@ iska
 iski
 isla
 islah
-islahan
 islam
 islami
 isli
@@ -5386,7 +5402,6 @@ jir
 jira
 jiran
 jireh
-jireng
 jiret
 jiri
 jirih
@@ -5416,7 +5431,6 @@ jolan
 jole
 jolen
 joli
-joling
 jolma
 jolo
 jom
@@ -5449,6 +5463,7 @@ jualan
 juanda
 juang
 jubah
+juju
 jujug
 jujur
 jule
@@ -5542,6 +5557,7 @@ kakaa
 kakak
 kakaka
 kakala
+kakam
 kakanda
 kakang
 kakap
@@ -5852,6 +5868,7 @@ kebat
 kebaya
 kebo
 kebon
+kebul
 kecak
 kecamatan
 kecap
@@ -6049,6 +6066,7 @@ keparat
 kepek
 kepel
 kepenak
+kepenake
 kepepet
 kepes
 kepet
@@ -6691,6 +6709,7 @@ landung
 lane
 langganan
 langgar
+langgare
 langgeng
 langi
 langit
@@ -7270,6 +7289,7 @@ malam
 malan
 malang
 malas
+malati
 maleh
 malek
 malem
@@ -7514,6 +7534,7 @@ mene
 meneh
 menehi
 meneng
+mengaji
 mengko
 meni
 menika
@@ -7911,6 +7932,7 @@ nalar
 nalare
 nale
 nali
+nalia
 nalih
 nalik
 nalika
@@ -8059,7 +8081,6 @@ nate
 natik
 natur
 nawa
-nawah
 nawan
 nawang
 nawani
@@ -8688,6 +8709,7 @@ ngelok
 ngelon
 ngeloni
 ngelor
+ngelotok
 ngelu
 ngelucu
 ngeluh
@@ -9022,6 +9044,7 @@ ngluwehi
 ngluwih
 ngluwihi
 ngn
+ngnang
 ngngetan
 ngngewe
 ngnggo
@@ -9954,6 +9977,7 @@ opal
 opala
 opam
 opan
+opar
 opat
 opel
 open
@@ -9998,6 +10022,7 @@ orah
 orai
 oraiso
 orak
+orali
 orami
 oran
 orane
@@ -10171,6 +10196,7 @@ paleng
 pali
 palik
 paling
+palingan
 palir
 paliyan
 palo
@@ -10839,6 +10865,7 @@ rabit
 raboh
 rabu
 rabun
+racik
 racikan
 racon
 racun
@@ -10977,6 +11004,7 @@ randue
 randune
 rane
 rang
+ranga
 rangda
 rangga
 ranggenah
@@ -11668,6 +11696,7 @@ samber
 sambet
 sambi
 sambil
+sambilan
 sambung
 sambut
 sami
@@ -11911,7 +11940,6 @@ selek
 selen
 selendang
 selep
-selera
 selet
 seli
 selimut
@@ -12859,6 +12887,7 @@ titip
 titipan
 titis
 titit
+tititmu
 tito
 tiwas
 tiyang
