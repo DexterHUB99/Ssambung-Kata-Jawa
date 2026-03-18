@@ -7875,6 +7875,7 @@ namah
 namamu
 naman
 namane
+namar
 namba
 nambah
 nambai
@@ -10903,6 +10904,7 @@ rangu
 rani
 ranjang
 ranjing
+ransel
 rantai
 rantan
 rantang
