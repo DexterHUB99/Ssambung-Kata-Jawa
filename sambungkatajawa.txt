@@ -67,6 +67,7 @@ adal
 adala
 adam
 adan
+adane
 adang
 adap
 adat
@@ -451,6 +452,7 @@ alam
 alama
 alame
 alami
+alamo
 alan
 alang
 alangan
@@ -3168,6 +3170,7 @@ elinga
 elingo
 elip
 elir
+eliren
 elis
 elit
 elmu
@@ -3290,6 +3293,7 @@ enah
 enaj
 enak
 enake
+enako
 enal
 enam
 enan
@@ -3447,6 +3451,7 @@ epes
 epet
 epi
 epic
+epig
 epih
 epik
 epil
@@ -3508,6 +3513,7 @@ erika
 eril
 erim
 erin
+erina
 ering
 eris
 ero
@@ -4492,6 +4498,7 @@ hah
 haha
 hahaa
 hahaha
+hahai
 hahi
 haho
 hai
@@ -4839,6 +4846,7 @@ huna
 hunan
 hunen
 huni
+hunna
 hup
 hupa
 hupan
@@ -6790,6 +6798,7 @@ kuat
 kubangan
 kubur
 kuburan
+kucak
 kucing
 kucir
 kuciran
@@ -6923,6 +6932,7 @@ kuta
 kutah
 kutan
 kutang
+kutange
 kute
 kutek
 kutha
@@ -7223,6 +7233,7 @@ lenga
 lengah
 lengen
 lenggah
+lenggang
 lengkuas
 lengo
 lengser
@@ -7317,6 +7328,7 @@ lindes
 lindhu
 lindungi
 lindur
+linggang
 linggih
 linggis
 lingkar
@@ -7365,6 +7377,7 @@ lisa
 lisah
 lisan
 lisaning
+lisano
 lise
 lisi
 lising
@@ -7818,6 +7831,7 @@ matam
 matamu
 matan
 matane
+matara
 mate
 matek
 mateng
@@ -10971,6 +10985,7 @@ peline
 pelit
 pelita
 pelo
+pelog
 pelu
 peluk
 pema
@@ -11764,7 +11779,6 @@ rekan
 rekasa
 rekat
 reke
-reken
 reki
 rekma
 rekmo
@@ -14520,6 +14534,7 @@ warik
 waring
 waris
 warisan
+warkop
 warna
 warno
 waro
