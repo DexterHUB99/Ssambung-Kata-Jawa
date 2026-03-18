@@ -332,6 +332,7 @@ ajrih
 aju
 ajudan
 ajuk
+ajul
 ajung
 ajur
 ajura
@@ -1509,7 +1510,6 @@ ayo
 ayoe
 ayoh
 ayok
-ayom
 ayon
 ayu
 ayub
@@ -1940,6 +1940,7 @@ bobok
 bobot
 bobrok
 bocah
+bocil
 bocor
 bodat
 bodi
@@ -2272,7 +2273,6 @@ cewek
 cewok
 ci
 ciba
-ciblok
 cibu
 cica
 cicak
@@ -3209,7 +3209,6 @@ elig
 elih
 elik
 elin
-elina
 eline
 eling
 elinga
@@ -4457,7 +4456,6 @@ gugup
 gugur
 guguran
 gugus
-gujeng
 gul
 gula
 gulai
@@ -5034,6 +5032,7 @@ ihlo
 ihma
 ihmu
 ihna
+ihni
 iho
 ihra
 ihre
@@ -5701,7 +5700,6 @@ jempol
 jemput
 jemuran
 jenang
-jendela
 jeneng
 jenengan
 jenenge
@@ -7193,7 +7191,6 @@ lantah
 lantai
 lantak
 lantang
-lantar
 lantaran
 lantas
 lante
@@ -9599,6 +9596,7 @@ nginep
 nging
 nginggil
 nginggo
+ngingi
 ngingkang
 ngini
 nginjak
@@ -9628,6 +9626,7 @@ ngirit
 ngirup
 ngis
 ngisak
+ngisam
 ngisan
 ngisap
 ngiseng
@@ -9836,7 +9835,6 @@ ngrusak
 ngrusuhi
 nguang
 ngubah
-ngubeng
 nguber
 ngubur
 ngucap
@@ -10889,6 +10887,7 @@ pakar
 pakde
 pakdhe
 pake
+pakek
 pakem
 pakir
 pakle
@@ -11255,6 +11254,7 @@ pijor
 pik
 pika
 pikam
+pikan
 pikang
 piker
 piket
@@ -11337,6 +11337,7 @@ pinutur
 pio
 pipi
 pipik
+pipil
 pipipis
 pipis
 pipo
@@ -14103,7 +14104,6 @@ ukae
 ukai
 ukak
 ukal
-ukala
 ukam
 ukama
 ukaman
@@ -15089,7 +15089,6 @@ yes
 yesa
 yesi
 yet
-yeti
 yeye
 yi
 yitna
