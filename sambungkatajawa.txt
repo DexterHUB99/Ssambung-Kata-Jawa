@@ -2882,6 +2882,7 @@ dunga
 dungo
 dungu
 duni
+dunna
 dupa
 dupak
 dupo
@@ -3565,6 +3566,7 @@ esue
 esuh
 esuk
 esuken
+esul
 esun
 et
 eta
@@ -4842,6 +4844,7 @@ ibadah
 ibak
 iban
 ibarat
+ibarate
 iber
 iblis
 ibu
@@ -12868,6 +12871,7 @@ sosis
 sosmed
 sosok
 sosol
+sosone
 sotel
 soti
 soto
@@ -13628,6 +13632,7 @@ tunggu
 tungguen
 tungkak
 tuni
+tunjungan
 tupa
 tupe
 tupi
@@ -13748,6 +13753,7 @@ ugama
 ugan
 ugar
 uge
+ugel
 uger
 uget
 ugi
@@ -14149,7 +14155,6 @@ urih
 urik
 urine
 uring
-urini
 urio
 urip
 uripan
