@@ -2716,6 +2716,7 @@ diimboh
 dija
 dijak
 dijalan
+dijambak
 diji
 dik
 dika
@@ -3203,7 +3204,6 @@ ekop
 ekor
 ekoran
 ekore
-ekori
 ekos
 ekot
 eksi
@@ -8740,7 +8740,6 @@ nasi
 nasia
 nasib
 nasikuning
-nasiliwet
 nasine
 nasipecel
 nasta
@@ -13808,6 +13807,7 @@ telo
 telon
 telu
 teluk
+telung
 telur
 tem
 tema
@@ -14119,7 +14119,6 @@ tulip
 tulis
 tulisan
 tulung
-tulungagung
 tulunge
 tulungi
 tulus
