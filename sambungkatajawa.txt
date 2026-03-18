@@ -9387,6 +9387,7 @@ ngempil
 ngemplok
 ngempot
 ngempu
+ngemu
 ngemus
 ngemut
 ngen
