@@ -2316,7 +2316,6 @@ codet
 codot
 cogan
 cok
-cokat
 coke
 cokelat
 coki
@@ -2949,7 +2948,6 @@ ebu
 eca
 ecah
 ecek
-eceng
 ecer
 ecik
 eco
@@ -4396,7 +4394,6 @@ gugatan
 gugu
 guguga
 guguk
-gugung
 gugup
 gugur
 guguran
@@ -12932,7 +12929,6 @@ solar
 solat
 sole
 solek
-solet
 soli
 solid
 solo
