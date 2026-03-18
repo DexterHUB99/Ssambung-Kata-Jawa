@@ -852,7 +852,6 @@ angkuh
 angkut
 angkutan
 angl
-angla
 angler
 angling
 angon
@@ -867,7 +866,6 @@ angsal
 angsalipun
 angsang
 angsara
-angsir
 angsle
 angso
 angsul
@@ -1514,7 +1512,6 @@ babon
 babu
 babuk
 baca
-bacaan
 bacak
 bacin
 bacot
@@ -4022,7 +4019,6 @@ geleh
 gelek
 gelem
 geleman
-gelemmo
 gelengan
 geli
 gelis
@@ -5453,6 +5449,7 @@ ix
 iy
 iya
 iyaa
+iyalah
 iyan
 iyatah
 iye
@@ -6699,7 +6696,6 @@ kontolmu
 kontrol
 konyol
 kop
-kopak
 kopek
 kopen
 kopeng
@@ -7839,7 +7835,6 @@ mayuh
 mayungi
 mbah
 mbak
-mbal
 mbarep
 mbasan
 mben
@@ -9701,7 +9696,6 @@ ngulas
 nguleg
 ngulek
 ngulen
-nguleni
 nguler
 ngulet
 nguli
@@ -9930,7 +9924,6 @@ nisun
 nit
 nita
 niten
-niteni
 niti
 nitih
 nitik
@@ -11064,7 +11057,6 @@ pika
 pikam
 pikang
 piker
-piket
 piki
 pikir
 pikiran
@@ -12613,7 +12605,6 @@ sendi
 sendok
 senen
 seneng
-seneni
 seng
 sengit
 sengkir
@@ -13322,7 +13313,6 @@ taya
 tayo
 tayub
 te
-tebang
 tebih
 tebu
 tebus
