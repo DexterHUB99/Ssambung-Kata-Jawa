@@ -10880,6 +10880,7 @@ perahu
 perak
 peran
 perang
+perawat
 percaya
 pere
 perek
@@ -13111,6 +13112,7 @@ tangi
 tangina
 tangis
 tangkap
+tangkepan
 tangkis
 tanglet
 tani
