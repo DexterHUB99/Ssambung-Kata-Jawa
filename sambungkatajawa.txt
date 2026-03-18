@@ -5453,7 +5453,6 @@ ix
 iy
 iya
 iyaa
-iyalah
 iyan
 iyatah
 iye
@@ -5789,7 +5788,6 @@ kacung
 kadal
 kadan
 kadang
-kadem
 kademan
 kader
 kades
@@ -12306,7 +12304,6 @@ sambung
 sambut
 sami
 samir
-samit
 sampah
 sampai
 sampang
@@ -14276,6 +14273,7 @@ usama
 usan
 usap
 usar
+usara
 use
 usek
 usem
