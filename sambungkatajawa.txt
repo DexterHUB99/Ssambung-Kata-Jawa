@@ -7292,6 +7292,7 @@ magrib
 mah
 maha
 mahir
+mahoni
 mai
 maido
 main
@@ -9490,6 +9491,7 @@ nisan
 niscaya
 nisi
 nising
+nisna
 nista
 nisun
 nit
