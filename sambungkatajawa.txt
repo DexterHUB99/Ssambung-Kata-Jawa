@@ -584,6 +584,7 @@ ambii
 ambik
 ambil
 ambing
+ambles
 ambo
 amboi
 ambrol
@@ -2166,6 +2167,7 @@ capek
 caper
 capet
 capi
+capil
 caping
 capit
 capo
@@ -6539,6 +6541,7 @@ keti
 ketiban
 ketik
 ketil
+ketimbang
 ketingal
 ketir
 ketis
@@ -12747,6 +12750,7 @@ sesap
 sesat
 sese
 sesek
+seset
 sesi
 sesok
 sesuk
@@ -13760,6 +13764,7 @@ tumis
 tumit
 tumpah
 tumpak
+tumpaki
 tumpang
 tumpeh
 tumpeng
