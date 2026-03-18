@@ -3452,6 +3452,7 @@ etog
 etoh
 etok
 etol
+etom
 eton
 etos
 etose
@@ -7680,7 +7681,6 @@ misuhi
 mita
 mitik
 mitoni
-mitra
 miya
 mlaku
 mlampah
@@ -8322,7 +8322,6 @@ ngaber
 ngabet
 ngaboti
 ngabu
-ngabul
 ngaca
 ngacak
 ngacang
@@ -12395,7 +12394,6 @@ sugeh
 sugeng
 sugi
 sugih
-sugiyo
 suh
 sui
 suji
