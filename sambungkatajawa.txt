@@ -12682,6 +12682,7 @@ tangkap
 tangkis
 tanglet
 tani
+tanjakan
 tanjung
 tanpa
 tansah
@@ -14063,6 +14064,7 @@ wiwit
 wiwitan
 wiye
 wo
+woa
 woe
 woh
 woho
