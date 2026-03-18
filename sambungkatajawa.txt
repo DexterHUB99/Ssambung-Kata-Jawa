@@ -4595,7 +4595,6 @@ hara
 haraa
 harai
 haram
-haran
 harang
 harap
 harapan
@@ -6063,7 +6062,6 @@ karna
 karo
 karoan
 karoe
-karok
 karom
 karon
 karpet
@@ -13782,7 +13780,6 @@ tuyul
 tv
 ua
 uan
-uana
 uang
 ub
 uba
@@ -14736,7 +14733,6 @@ witi
 witir
 wito
 witra
-wiwa
 wiwi
 wiwit
 wiwitan
