@@ -3767,6 +3767,7 @@ eyu
 eyuk
 eyup
 ez
+fadi
 fafa
 faham
 fajar
@@ -8247,6 +8248,7 @@ modyar
 mogok
 moh
 mohi
+moho
 mojo
 mojokerto
 mok
@@ -12345,7 +12347,6 @@ rota
 rotan
 roti
 rotii
-rotina
 roto
 rowang
 rowi
@@ -13727,6 +13728,7 @@ ten
 tena
 tenaga
 tenan
+tenana
 tenanan
 tenane
 tenang
