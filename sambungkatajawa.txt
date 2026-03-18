@@ -38,7 +38,6 @@ ac
 aca
 acak
 acan
-acara
 ace
 aceh
 acem
@@ -1101,7 +1100,6 @@ arit
 arjo
 arjuna
 arjuno
-arka
 arma
 armai
 aro
@@ -1179,7 +1177,6 @@ asia
 asian
 asie
 asih
-asii
 asik
 asil
 asim
@@ -1904,7 +1901,6 @@ bua
 buang
 buat
 buaya
-bub
 bubar
 bubor
 bubrah
@@ -2072,7 +2068,6 @@ capek
 caper
 capi
 caping
-capit
 capung
 cara
 caraka
@@ -2841,7 +2836,6 @@ eeh
 eehe
 eenak
 ef
-efek
 eg
 ega
 egah
@@ -3122,7 +3116,6 @@ emping
 empit
 emplok
 empo
-empot
 emprit
 empu
 empuk
@@ -3708,7 +3701,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -3824,6 +3816,7 @@ gedung
 gee
 gega
 gegayuhan
+gegek
 gegel
 geger
 geget
@@ -4662,6 +4655,7 @@ hutan
 hutang
 hutange
 huti
+hya
 hyang
 ib
 iba
@@ -4747,6 +4741,7 @@ ihri
 ihsan
 ihta
 ihwa
+ihwi
 ihya
 ihyo
 ij
@@ -4761,7 +4756,6 @@ ijeni
 iji
 ijig
 ijik
-ijil
 ijin
 ijo
 ijok
@@ -5221,13 +5215,13 @@ iw
 iwak
 iwake
 iwakmu
+iwakna
 iwal
 iwan
 iwang
 iwangi
 iwas
 iwel
-iwen
 iwir
 ix
 iy
@@ -5612,7 +5606,6 @@ kakehan
 kakek
 kaki
 kakine
-kakir
 kaku
 kakung
 kakus
@@ -5849,7 +5842,6 @@ katan
 katang
 kate
 kateh
-katek
 katel
 kater
 kates
@@ -5903,7 +5895,6 @@ kayaa
 kayak
 kayane
 kayangan
-kayata
 kayok
 kayu
 kayuh
@@ -5917,7 +5908,6 @@ kebat
 kebaya
 kebo
 kebon
-kebone
 kebul
 kecak
 kecamatan
@@ -6668,7 +6658,6 @@ labuh
 labur
 lada
 ladak
-ladeni
 ladi
 lading
 ladosan
@@ -7106,7 +7095,6 @@ lohan
 lohe
 loi
 loji
-lojika
 lok
 loka
 lokan
@@ -7135,7 +7123,6 @@ lomot
 lompat
 lon
 lona
-loncang
 loncat
 lonceng
 londho
@@ -7226,7 +7213,6 @@ lumayan
 lumbung
 lumen
 lumer
-lumi
 lumpak
 lumpang
 lumping
@@ -8687,7 +8673,6 @@ ngaut
 ngawa
 ngawag
 ngawah
-ngawak
 ngawal
 ngawali
 ngawang
@@ -8723,7 +8708,6 @@ ngayuk
 ngayun
 ngcak
 nge
-ngeanu
 ngebaki
 ngebang
 ngebo
@@ -8735,7 +8719,6 @@ ngece
 ngecek
 ngeces
 ngecet
-ngecor
 ngedan
 ngedang
 ngedani
@@ -9103,7 +9086,6 @@ ngiwa
 ngiwak
 ngiwas
 ngiwasi
-ngiya
 ngiyuh
 ngka
 ngki
@@ -9265,7 +9247,6 @@ ngrepoti
 ngresiki
 ngret
 ngrit
-ngrok
 ngrokok
 ngrumat
 ngrumpi
@@ -9347,6 +9328,7 @@ ngung
 ngunggah
 ngungkap
 ngungkuli
+nguni
 nguning
 ngunjuk
 ngunjung
@@ -9469,7 +9451,6 @@ nima
 nimah
 niman
 nimba
-nimbak
 nimbal
 nimbang
 nimbangi
@@ -9534,6 +9515,7 @@ nitih
 nitik
 nitip
 niwa
+niwas
 niwi
 njagong
 njait
@@ -9558,7 +9540,6 @@ nnapa
 nngawi
 nnggih
 nnginum
-nngopo
 nni
 nnipo
 nny
@@ -9567,6 +9548,7 @@ nobat
 nogel
 noh
 nok
+noke
 noken
 noki
 nokoh
@@ -9724,7 +9706,6 @@ nutup
 nutupi
 nutur
 nuturi
-nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9828,7 +9809,6 @@ obot
 obrak
 obral
 obrol
-obrolan
 oceh
 ocehan
 oci
@@ -11002,7 +10982,6 @@ rahmat
 rahmatan
 rahwana
 rai
-raia
 raib
 raie
 raika
@@ -11046,7 +11025,6 @@ rakum
 rakus
 rakyat
 rala
-ralas
 ralet
 rali
 ram
@@ -11186,7 +11164,6 @@ rasim
 rasing
 rasis
 raski
-rasmi
 rasmo
 raso
 rasta
@@ -11691,7 +11668,6 @@ sabar
 sabe
 saben
 sabene
-sabet
 sabi
 sabit
 sablon
@@ -11705,7 +11681,6 @@ sad
 sada
 sadar
 sade
-sadel
 sadewa
 sadina
 sadis
@@ -11843,7 +11818,6 @@ san
 sana
 sanae
 sanak
-sanar
 sandal
 sandale
 sandang
@@ -12251,6 +12225,7 @@ sinan
 sinau
 sinden
 sindu
+sinem
 sinen
 sing
 singa
@@ -12578,7 +12553,6 @@ susa
 susaa
 susah
 susahe
-susai
 susan
 susas
 susi
@@ -12684,7 +12658,6 @@ tales
 tali
 talie
 taline
-talingan
 talo
 tam
 tama
@@ -12893,7 +12866,6 @@ tera
 terak
 terang
 teras
-terbang
 tere
 teri
 terima
@@ -14142,7 +14114,6 @@ wonosobo
 wonten
 woo
 wor
-wora
 woro
 wortel
 wos
