@@ -962,7 +962,6 @@ anuh
 anui
 anuk
 anum
-anumu
 anun
 anune
 anung
@@ -3650,7 +3649,6 @@ galak
 galaka
 galang
 galangan
-galar
 galau
 gale
 galeh
@@ -8884,7 +8882,6 @@ ngemas
 ngembang
 ngembun
 ngemen
-ngemes
 ngemi
 ngemil
 ngemis
@@ -9219,7 +9216,6 @@ ngluwehi
 ngluwih
 ngluwihi
 ngn
-ngna
 ngnang
 ngngetan
 ngngewe
@@ -9490,7 +9486,6 @@ ngurui
 nguruk
 nguruki
 ngurung
-ngurup
 ngurus
 ngurusi
 ngurut
@@ -10457,7 +10452,6 @@ panggil
 panggon
 panggonan
 panggung
-pangi
 pangkas
 pangkat
 pangku
@@ -10536,7 +10530,6 @@ pasa
 pasah
 pasak
 pasal
-pasan
 pasang
 pasangan
 pasar
@@ -12792,7 +12785,6 @@ tajuk
 tak
 taka
 takan
-takaran
 takbir
 takbiran
 takdir
@@ -14309,7 +14301,6 @@ wun
 wuru
 wus
 wusa
-wut
 wuta
 wutan
 wuwi
