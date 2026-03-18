@@ -739,6 +739,7 @@ ananti
 anap
 anar
 anarki
+anaro
 anas
 anasa
 anasi
@@ -1568,6 +1569,7 @@ baca
 bacaan
 bacak
 bacin
+bacok
 bacot
 bacut
 bad
@@ -2715,6 +2717,7 @@ dibawa
 dibo
 dida
 didak
+didalam
 dideso
 didi
 didik
@@ -2771,6 +2774,7 @@ dileh
 dilem
 dileng
 diler
+dili
 dilik
 dilindes
 dilit
@@ -5549,6 +5553,7 @@ isem
 isen
 iseng
 isep
+isepe
 iser
 ises
 isha
@@ -5601,6 +5606,7 @@ isoma
 isone
 isoo
 isor
+isoyo
 isra
 isri
 istana
@@ -6273,6 +6279,7 @@ karim
 karimun
 karin
 karine
+karip
 karipa
 karipan
 karipen
@@ -8618,6 +8625,7 @@ nadyan
 nae
 naek
 naem
+naen
 nafas
 nafkah
 nag
@@ -10324,7 +10332,6 @@ ningali
 ninggal
 ninggalake
 ninggali
-ningi
 ningkat
 ningning
 ningsih
@@ -10757,6 +10764,7 @@ okai
 okak
 okal
 okam
+okami
 okan
 okana
 okane
@@ -10768,6 +10776,7 @@ okaro
 okas
 okasa
 okasan
+okaya
 oke
 okea
 okecak
@@ -12422,6 +12431,7 @@ rimo
 rimu
 rin
 rina
+rinaa
 rinai
 rinak
 rinci
@@ -14850,6 +14860,7 @@ urit
 uritan
 urka
 urko
+urli
 urma
 urna
 urno
@@ -15011,6 +15022,7 @@ uwis
 uwit
 uwo
 uwong
+uwos
 uwu
 uwuh
 ux
