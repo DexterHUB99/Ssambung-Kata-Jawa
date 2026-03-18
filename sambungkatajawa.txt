@@ -100,6 +100,7 @@ adipati
 adis
 adit
 ado
+adog
 adoh
 adohe
 adol
@@ -1788,6 +1789,7 @@ belakang
 belan
 belang
 belanja
+bele
 beleh
 belek
 beler
@@ -2034,7 +2036,6 @@ bro
 brug
 bu
 bua
-buana
 buang
 buat
 buaya
@@ -3202,7 +3203,6 @@ ekop
 ekor
 ekoran
 ekore
-ekori
 ekos
 ekot
 eksi
@@ -4217,6 +4217,7 @@ gendi
 gendon
 gendong
 gendruwo
+gendul
 gendung
 gendut
 gene
@@ -5581,7 +5582,6 @@ ita
 itaa
 itai
 itali
-itami
 itara
 itawa
 ite
@@ -6200,6 +6200,7 @@ karam
 karan
 karang
 karangan
+karanganyar
 karat
 karawang
 karawitan
@@ -6891,7 +6892,6 @@ komplit
 kompor
 komputer
 kon
-kona
 konami
 konan
 konangan
@@ -6935,7 +6935,6 @@ kopok
 kopyor
 kor
 kora
-korak
 koran
 korban
 kore
@@ -7277,7 +7276,6 @@ langka
 langkah
 langkap
 langkung
-langsam
 langsep
 langsing
 langu
@@ -8295,6 +8293,7 @@ mlarat
 mlayu
 mlebet
 mlebu
+mlempem
 mlik
 mlipir
 mlumah
@@ -8739,7 +8738,6 @@ nasi
 nasia
 nasib
 nasikuning
-nasiliwet
 nasine
 nasipecel
 nasta
@@ -9460,7 +9458,6 @@ ngemi
 ngemil
 ngemis
 ngemoh
-ngemon
 ngemong
 ngemot
 ngempak
@@ -9730,6 +9727,7 @@ ngimboh
 ngimbu
 ngimbuh
 ngimi
+ngiming
 ngimpen
 ngimpi
 ngimpun
@@ -10005,7 +10003,6 @@ ngudi
 ngudik
 nguding
 ngudo
-ngudu
 ngudud
 ngudut
 ngugah
@@ -10024,6 +10021,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulam
 ngulan
 ngulang
 ngulangi
@@ -11427,7 +11425,6 @@ pijang
 pijar
 pijat
 pijek
-pijem
 pijer
 pijet
 pijit
@@ -14119,7 +14116,6 @@ tulip
 tulis
 tulisan
 tulung
-tulungagung
 tulunge
 tulungi
 tulus
