@@ -12929,6 +12929,7 @@ solar
 solat
 sole
 solek
+solet
 soli
 solid
 solo
