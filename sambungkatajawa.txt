@@ -917,6 +917,7 @@ anjian
 anjimi
 anjine
 anjing
+anjingi
 anjining
 anjir
 anjlog
@@ -976,7 +977,6 @@ anti
 antik
 anting
 anto
-antob
 antoi
 antol
 anton
@@ -1155,6 +1155,7 @@ arka
 arma
 armai
 aro
+aroe
 arogan
 aroh
 aroi
@@ -2164,6 +2165,7 @@ capek
 caper
 capet
 capi
+capil
 caping
 capit
 capo
@@ -3196,7 +3198,6 @@ elor
 elos
 elu
 elud
-elue
 eluh
 eluk
 elul
@@ -3261,6 +3262,7 @@ emo
 emod
 emoh
 emohe
+emohi
 emok
 emol
 emom
@@ -3530,7 +3532,6 @@ erod
 eroe
 erog
 eroh
-eroi
 erok
 eron
 erong
@@ -4468,7 +4469,6 @@ gurit
 gurita
 guritan
 guru
-gurue
 guruh
 gus
 gusa
@@ -4575,7 +4575,6 @@ hanacaraka
 hanan
 hancur
 hancuren
-hane
 hang
 hangat
 hanget
@@ -5762,6 +5761,7 @@ jore
 jori
 joro
 jorok
+jorwo
 jos
 josa
 joss
@@ -6177,6 +6177,7 @@ kawasan
 kawat
 kawe
 kawen
+kaweni
 kaweruh
 kawi
 kawih
@@ -6534,6 +6535,7 @@ keti
 ketiban
 ketik
 ketil
+ketimbang
 ketingal
 ketir
 ketis
@@ -8426,6 +8428,7 @@ nanak
 nanam
 nanan
 nanang
+nanari
 nanas
 nancep
 nandang
@@ -10209,6 +10212,7 @@ nyambel
 nyambi
 nyambik
 nyambu
+nyambung
 nyampek
 nyamuk
 nyana
@@ -10625,6 +10629,7 @@ oreo
 orep
 orer
 ores
+oret
 organisasi
 ori
 orie
@@ -11339,6 +11344,7 @@ porek
 pores
 pori
 porik
+porit
 porno
 poro
 poron
@@ -11819,6 +11825,7 @@ reksa
 reku
 rela
 relax
+relem
 reli
 relo
 relu
@@ -12537,6 +12544,7 @@ sawo
 saya
 sayah
 sayak
+sayan
 sayang
 sayet
 sayo
@@ -12735,6 +12743,7 @@ sesap
 sesat
 sese
 sesek
+seset
 sesi
 sesok
 sesuk
@@ -14206,7 +14215,6 @@ untir
 untiren
 untoh
 untu
-untue
 untuk
 untul
 untumu
