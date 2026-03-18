@@ -9425,6 +9425,7 @@ ngepus
 nger
 ngera
 ngerak
+ngeram
 ngerami
 ngerampok
 ngerandu
