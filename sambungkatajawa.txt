@@ -4860,6 +4860,7 @@ ihan
 ihao
 ihara
 ihe
+ihem
 ihen
 ihha
 ihhi
@@ -8275,6 +8276,7 @@ nanga
 nangan
 nangdi
 nange
+nangeh
 nangendi
 nangga
 nanggal
@@ -9173,6 +9175,7 @@ ngetok
 ngeton
 ngetot
 ngetung
+ngewa
 ngewangi
 ngewarnai
 ngewe
