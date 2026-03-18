@@ -10076,6 +10076,7 @@ ngrepoti
 ngresiki
 ngret
 ngribut
+ngrik
 ngrit
 ngrok
 ngrokok
