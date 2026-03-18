@@ -5,13 +5,11 @@ aaha
 ab
 aba
 abab
-ababi
 abad
 abadi
 abah
 abai
 abak
-aban
 abang
 abangi
 abas
@@ -628,7 +626,6 @@ amol
 amomo
 amon
 among
-amop
 amor
 amoro
 amot
@@ -644,7 +641,6 @@ amparan
 ampas
 ampat
 ampe
-ampean
 ampek
 ampel
 ampela
@@ -1470,6 +1466,7 @@ ayin
 aying
 ayip
 ayir
+ayit
 ayo
 ayoe
 ayoh
@@ -1564,7 +1561,6 @@ balap
 balas
 bale
 balek
-balen
 baleni
 bali
 balik
@@ -2108,7 +2104,6 @@ cam
 cama
 camat
 cambah
-cami
 campur
 can
 cancut
@@ -3372,6 +3367,7 @@ entu
 entuk
 entung
 entut
+entute
 entutmu
 enu
 enul
@@ -3829,7 +3825,6 @@ ganti
 gantian
 gantil
 gantolan
-gantos
 gantung
 gantungan
 ganwi
@@ -4551,7 +4546,6 @@ harimu
 harine
 harjo
 harm
-harma
 harman
 harmi
 harna
@@ -5504,6 +5498,7 @@ jarene
 jari
 jarik
 jaring
+jarit
 jarum
 jarwa
 jas
@@ -9544,7 +9539,6 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
-ngrai
 ngran
 ngrasa
 ngrasak
@@ -9670,7 +9664,6 @@ ngupil
 nguping
 ngupo
 ngur
-ngurab
 ngurah
 ngurai
 ngurak
@@ -10001,7 +9994,6 @@ nunggal
 nunggang
 nunggoni
 nunggu
-nungu
 nuni
 nuning
 nunjuk
@@ -10086,7 +10078,6 @@ nyelah
 nyelok
 nyeluk
 nyembah
-nyemplung
 nyeni
 nyenu
 nyepi
@@ -10892,6 +10883,7 @@ perahu
 perak
 peran
 perang
+perawat
 percaya
 pere
 perek
@@ -10901,7 +10893,6 @@ perih
 perlu
 permisi
 pero
-perot
 pes
 pesan
 pese
@@ -11917,7 +11908,6 @@ roo
 rop
 ropa
 ropak
-ropan
 rope
 ropi
 ropik
@@ -12260,6 +12250,7 @@ saos
 sap
 sapa
 sape
+sapeh
 sapi
 sapih
 sapir
@@ -12403,6 +12394,7 @@ sejuk
 sek
 seka
 sekar
+sekarang
 sekawan
 seke
 sekek
@@ -13125,6 +13117,7 @@ tangi
 tangina
 tangis
 tangkap
+tangkepan
 tangkis
 tanglet
 tani
@@ -13608,7 +13601,6 @@ ubarampe
 ube
 ubek
 uber
-ubet
 ubi
 ubii
 ubun
