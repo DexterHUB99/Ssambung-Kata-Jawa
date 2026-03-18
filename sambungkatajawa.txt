@@ -1490,6 +1490,7 @@ bajingan
 baju
 bajul
 bak
+baka
 bakal
 bakan
 bakar
@@ -7795,6 +7796,7 @@ mul
 mula
 mulai
 mulak
+mulakna
 mulan
 mulane
 mulang
@@ -8588,6 +8590,7 @@ ngasalan
 ngasang
 ngasap
 ngasar
+ngase
 ngasek
 ngasem
 ngasep
@@ -12894,6 +12897,7 @@ tinulis
 tip
 tipa
 tipak
+tipan
 tipe
 tipi
 tir
