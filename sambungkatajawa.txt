@@ -2471,6 +2471,7 @@ curu
 curug
 curut
 cus
+cusi
 cusu
 cuti
 cuyu
@@ -5734,6 +5735,7 @@ jangkai
 jangkar
 jangkep
 jangkrik
+jangkung
 jani
 janian
 janji
