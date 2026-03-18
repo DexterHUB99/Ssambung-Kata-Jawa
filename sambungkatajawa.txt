@@ -4012,6 +4012,7 @@ gebleg
 geblek
 geblog
 geblok
+gebluk
 gebok
 gebug
 gebuk
@@ -5707,6 +5708,7 @@ jili
 jilid
 jim
 jima
+jiman
 jimat
 jimbar
 jimpit
