@@ -3043,6 +3043,7 @@ eboh
 ebol
 ebor
 ebu
+ec
 eca
 ecah
 ecek
@@ -7157,6 +7158,7 @@ kur
 kura
 kuran
 kurang
+kurangajar
 kurawa
 kurban
 kure
@@ -12668,6 +12670,7 @@ sa
 saa
 saaken
 saan
+saapi
 saawa
 saayang
 sab
