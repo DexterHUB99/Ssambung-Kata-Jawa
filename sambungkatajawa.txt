@@ -1287,7 +1287,6 @@ asuti
 asuw
 asuwe
 asuy
-asuya
 aswatama
 at
 ata
@@ -4578,7 +4577,6 @@ hapus
 hapusi
 har
 hara
-haraa
 harai
 haram
 harang
@@ -5877,7 +5875,6 @@ kali
 kalia
 kalian
 kalih
-kalihan
 kalim
 kalima
 kalimat
