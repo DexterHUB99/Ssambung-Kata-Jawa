@@ -470,6 +470,7 @@ alay
 ale
 alea
 aleb
+aleg
 aleh
 alek
 alem
@@ -2136,7 +2137,6 @@ cahaya
 cahya
 cahyo
 cai
-caja
 caji
 cak
 cakak
@@ -3178,6 +3178,7 @@ elap
 elar
 elas
 ele
+eleg
 eleh
 elek
 elekan
@@ -8106,6 +8107,7 @@ milu
 mima
 mimi
 mimis
+mimisa
 mimisan
 min
 mina
@@ -8867,6 +8869,7 @@ ngagak
 ngagel
 ngagem
 ngago
+ngagu
 ngagung
 ngah
 ngahad
@@ -10164,6 +10167,7 @@ norak
 nore
 noreh
 nori
+norong
 nos
 nosa
 nose
@@ -11344,6 +11348,7 @@ pites
 piti
 pitik
 piting
+pito
 piton
 pitrah
 pitu
@@ -11740,6 +11745,7 @@ ranggenah
 ranggi
 rangi
 rangka
+rangkasan
 rangkat
 rangkul
 rangkum
@@ -13117,6 +13123,7 @@ sosiji
 sosis
 sosmed
 sosok
+sosokan
 sosol
 sosone
 sotel
@@ -13491,6 +13498,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatan
 tatas
 tati
 tatik
