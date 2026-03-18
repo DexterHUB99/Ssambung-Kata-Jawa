@@ -5914,6 +5914,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -9641,6 +9642,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngusus
 ngususi
 ngut
 nguta
@@ -12965,6 +12967,7 @@ taka
 takan
 takaran
 takbir
+takbira
 takbiran
 takdir
 taken
