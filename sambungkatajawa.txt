@@ -2034,7 +2034,6 @@ bro
 brug
 bu
 bua
-buana
 buang
 buat
 buaya
@@ -6880,6 +6879,7 @@ kome
 komen
 komi
 komik
+komna
 komodo
 komoh
 kompak
@@ -6888,7 +6888,6 @@ komplit
 kompor
 komputer
 kon
-kona
 konami
 konan
 konangan
@@ -6932,7 +6931,6 @@ kopok
 kopyor
 kor
 kora
-korak
 koran
 korban
 kore
@@ -7274,7 +7272,6 @@ langka
 langkah
 langkap
 langkung
-langsam
 langsep
 langsing
 langu
@@ -10000,7 +9997,6 @@ ngudi
 ngudik
 nguding
 ngudo
-ngudu
 ngudud
 ngudut
 ngugah
@@ -10925,6 +10921,7 @@ ores
 oret
 organisasi
 ori
+orian
 orie
 oring
 orit
@@ -11420,7 +11417,6 @@ pijang
 pijar
 pijat
 pijek
-pijem
 pijer
 pijet
 pijit
@@ -12157,6 +12153,7 @@ remasi
 remba
 rembak
 rembang
+rembangan
 rembat
 rembes
 rembet
@@ -12643,6 +12640,7 @@ sakar
 sakarep
 sakarepe
 sakarepmu
+sakdurunge
 sakel
 saken
 saket
