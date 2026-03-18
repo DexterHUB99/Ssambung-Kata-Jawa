@@ -2687,6 +2687,7 @@ duduhi
 dudui
 duduk
 dudung
+dugal
 duge
 dugi
 dugo
@@ -10937,7 +10938,6 @@ rangu
 rani
 ranjang
 ranjing
-rano
 ransel
 rantai
 rantan
@@ -13339,6 +13339,7 @@ unjar
 unjuk
 unjul
 unjung
+unjur
 unjut
 unki
 unma
