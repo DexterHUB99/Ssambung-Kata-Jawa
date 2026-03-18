@@ -7854,6 +7854,7 @@ mis
 misa
 misah
 misake
+misan
 mise
 misi
 mising
@@ -9088,6 +9089,7 @@ ngesek
 ngesem
 ngeseng
 ngeset
+ngesing
 ngesok
 ngesor
 ngesot
