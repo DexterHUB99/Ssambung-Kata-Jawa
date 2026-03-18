@@ -4660,6 +4660,7 @@ harima
 harimau
 harimu
 harine
+hario
 harjo
 harm
 harma
@@ -6336,6 +6337,7 @@ kelekmu
 kelem
 kelengkeng
 kelep
+kelepatan
 keler
 keles
 kelet
