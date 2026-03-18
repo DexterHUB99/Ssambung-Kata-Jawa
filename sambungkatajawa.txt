@@ -1253,7 +1253,6 @@ asin
 asinan
 asing
 asiran
-asit
 asli
 asline
 asma
@@ -2689,7 +2688,6 @@ dika
 dikam
 dikamar
 dikandani
-dikene
 dikep
 dikes
 diki
@@ -8960,7 +8958,6 @@ ngambruk
 ngambu
 ngambul
 ngambung
-ngame
 ngamel
 ngamil
 ngamis
@@ -12841,7 +12838,6 @@ sepura
 ser
 sera
 serabi
-seraga
 serakah
 serami
 serang
@@ -14056,7 +14052,6 @@ uing
 uira
 uj
 uja
-ujah
 ujak
 ujal
 ujan
