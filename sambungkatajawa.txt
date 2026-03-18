@@ -5757,7 +5757,6 @@ jore
 jori
 joro
 jorok
-jorwo
 jos
 josa
 joss
@@ -8422,7 +8421,6 @@ nanak
 nanam
 nanan
 nanang
-nanari
 nanas
 nancep
 nandang
@@ -12534,7 +12532,6 @@ sawo
 saya
 sayah
 sayak
-sayan
 sayang
 sayet
 sayo
