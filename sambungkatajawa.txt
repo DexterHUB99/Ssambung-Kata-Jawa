@@ -10093,6 +10093,7 @@ nir
 nira
 nirek
 niri
+niris
 niro
 nirwana
 nis
