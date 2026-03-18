@@ -424,6 +424,7 @@ aksi
 aksis
 aku
 akua
+akud
 akue
 akuh
 akui
@@ -1042,6 +1043,7 @@ apam
 apameneh
 apan
 apane
+apang
 apanya
 apapa
 apar
@@ -3205,7 +3207,6 @@ elig
 elih
 elik
 elin
-elina
 eline
 eling
 elinga
@@ -5696,7 +5697,6 @@ jempol
 jemput
 jemuran
 jenang
-jendela
 jeneng
 jenengan
 jenenge
@@ -8984,6 +8984,7 @@ ngampir
 ngampleng
 ngampun
 ngampung
+ngampuni
 ngamuk
 ngamur
 ngan
@@ -9828,7 +9829,6 @@ ngrusak
 ngrusuhi
 nguang
 ngubah
-ngubeng
 nguber
 ngubur
 ngucap
@@ -11668,6 +11668,7 @@ raisin
 raiso
 raiya
 raja
+rajaa
 rajab
 rajah
 rajai
@@ -14094,7 +14095,6 @@ ukae
 ukai
 ukak
 ukal
-ukala
 ukam
 ukama
 ukaman
