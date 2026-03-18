@@ -3402,6 +3402,7 @@ entut
 entute
 entutmu
 enu
+enuk
 enul
 enum
 enun
@@ -12164,6 +12165,7 @@ sabruk
 sabtu
 sabuk
 sabun
+sabut
 sad
 sada
 sadar
