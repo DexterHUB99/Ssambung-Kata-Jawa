@@ -2963,6 +2963,7 @@ ehe
 ehed
 eheg
 eheh
+ehej
 ehek
 ehel
 ehem
@@ -6166,6 +6167,7 @@ kelonan
 kelor
 keloro
 keluarga
+kelud
 keluh
 kelum
 kelurahan
