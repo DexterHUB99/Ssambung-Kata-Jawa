@@ -299,6 +299,7 @@ ajal
 ajam
 ajane
 ajang
+ajange
 ajar
 ajaran
 ajas
@@ -7741,6 +7742,7 @@ madam
 madan
 madang
 madas
+made
 madep
 madhang
 madi
@@ -7767,6 +7769,7 @@ magi
 magrib
 mah
 maha
+mahen
 mahi
 mahir
 mahoni
@@ -10114,6 +10117,7 @@ ningsih
 nini
 ninine
 nining
+ninio
 ninja
 nino
 nio
@@ -11303,7 +11307,6 @@ pikang
 piker
 piket
 piki
-pikik
 pikir
 pikiran
 pikirmu
@@ -14521,6 +14524,7 @@ uren
 ures
 uret
 urha
+urhe
 uri
 urian
 urih
@@ -14541,7 +14545,6 @@ urka
 urko
 urma
 urna
-urno
 uro
 urra
 urta
