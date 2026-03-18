@@ -2282,6 +2282,7 @@ dahak
 dahan
 dahar
 dahi
+dahu
 dajaran
 daju
 dak
@@ -13395,6 +13396,7 @@ uruso
 urusono
 urut
 urutan
+urya
 us
 usa
 usaa
@@ -13619,6 +13621,7 @@ warga
 wari
 waria
 warik
+waring
 waris
 warisan
 warna
