@@ -33,6 +33,7 @@ abrit
 abu
 abuh
 abul
+abuy
 ac
 aca
 acak
@@ -130,7 +131,6 @@ ageman
 agen
 ageng
 ager
-ages
 agi
 agih
 agil
@@ -1056,6 +1056,7 @@ aret
 arga
 ari
 aria
+ariana
 arif
 arih
 arik
@@ -1688,6 +1689,7 @@ besar
 besek
 beskap
 besok
+besro
 besuk
 besuki
 betah
@@ -2283,7 +2285,6 @@ dahak
 dahan
 dahar
 dahi
-dahu
 dajaran
 daju
 dak
@@ -2533,6 +2534,7 @@ dimi
 dimna
 dimo
 dimul
+dimun
 dimut
 din
 dina
@@ -3743,6 +3745,7 @@ gedhe
 gedhi
 gedhung
 gedor
+gedung
 gee
 gega
 gegel
@@ -4001,6 +4004,7 @@ godok
 godong
 gogoh
 gogol
+gogong
 gogrok
 gojek
 gojekan
@@ -4624,7 +4628,6 @@ iha
 ihaa
 ihai
 ihali
-ihami
 ihan
 ihao
 ihara
@@ -4733,6 +4736,7 @@ ilang
 ilangake
 ilangan
 ilangen
+ilangono
 ilaono
 ilap
 ilar
@@ -5775,6 +5779,7 @@ kawulan
 kawung
 kawus
 kaya
+kayaa
 kayak
 kayane
 kayangan
@@ -8249,6 +8254,7 @@ ngaka
 ngakak
 ngakal
 ngakali
+ngakar
 ngakeh
 ngakir
 ngakon
@@ -8475,6 +8481,7 @@ ngasuh
 ngasuk
 ngasul
 ngasur
+ngasus
 ngat
 ngata
 ngatasi
@@ -10901,6 +10908,7 @@ rapia
 rapie
 rapih
 rapina
+rapinter
 rapo
 rapopo
 rapu
@@ -12982,6 +12990,7 @@ uga
 ugah
 ugal
 ugama
+ugan
 ugar
 uger
 uget
@@ -13398,7 +13407,6 @@ uruso
 urusono
 urut
 urutan
-urya
 us
 usa
 usaa
@@ -13623,7 +13631,6 @@ warga
 wari
 waria
 warik
-waring
 waris
 warisan
 warna
@@ -13864,6 +13871,7 @@ wuru
 wus
 wusa
 wuta
+wutan
 wuwi
 xenon
 xilofon
