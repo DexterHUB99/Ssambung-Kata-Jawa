@@ -3487,7 +3487,6 @@ enuk
 enul
 enum
 enun
-enur
 enus
 enwa
 enya
