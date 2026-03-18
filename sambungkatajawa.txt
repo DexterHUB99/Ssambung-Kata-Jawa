@@ -668,6 +668,7 @@ ampuh
 ampuhe
 ampul
 ampun
+ampunan
 ampune
 ampunen
 ampus
@@ -1599,6 +1600,7 @@ bando
 bandrek
 bandung
 bane
+bang
 bangau
 bangke
 bangkong
@@ -2882,6 +2884,7 @@ dunga
 dungo
 dungu
 duni
+dunna
 dupa
 dupak
 dupo
@@ -3565,6 +3568,7 @@ esue
 esuh
 esuk
 esuken
+esul
 esun
 et
 eta
@@ -4247,6 +4251,7 @@ godok
 godong
 gogoh
 gogol
+gogolek
 gogong
 gogrok
 gojek
@@ -4308,6 +4313,7 @@ gosoki
 gosong
 got
 gothang
+goti
 gotong
 gotongroyong
 gowang
@@ -4842,6 +4848,7 @@ ibadah
 ibak
 iban
 ibarat
+ibarate
 iber
 iblis
 ibu
@@ -12870,6 +12877,7 @@ sosis
 sosmed
 sosok
 sosol
+sosone
 sotel
 soti
 soto
@@ -13630,6 +13638,7 @@ tunggu
 tungguen
 tungkak
 tuni
+tunjungan
 tupa
 tupe
 tupi
@@ -13750,6 +13759,7 @@ ugama
 ugan
 ugar
 uge
+ugel
 uger
 uget
 ugi
