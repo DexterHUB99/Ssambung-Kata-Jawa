@@ -10064,7 +10064,6 @@ nilem
 nilemake
 nilep
 nili
-nilna
 nilo
 nim
 nima
@@ -10954,6 +10953,7 @@ pamahan
 pamali
 paman
 pamer
+pamet
 pami
 pamil
 pamit
@@ -12531,6 +12531,7 @@ sam
 sama
 samak
 saman
+samangga
 samar
 sambal
 sambang
