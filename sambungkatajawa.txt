@@ -3588,7 +3588,6 @@ et
 eta
 etad
 etah
-etai
 etak
 etal
 etam
@@ -6780,6 +6779,7 @@ kuat
 kubangan
 kubur
 kuburan
+kucak
 kucing
 kucir
 kuciran
@@ -14635,7 +14635,6 @@ widya
 wie
 wifi
 wih
-wiha
 wii
 wiira
 wijaya
