@@ -9221,6 +9221,7 @@ nggoleti
 nggon
 nggone
 nggoreng
+nggotong
 nggowo
 nggresiki
 nggula
@@ -9285,6 +9286,7 @@ ngimbal
 ngimbangi
 ngimbar
 ngimbas
+ngimboh
 ngimbu
 ngimbuh
 ngimi
@@ -9492,6 +9494,7 @@ ngos
 ngosan
 ngosek
 ngoseng
+ngosi
 ngosing
 ngosip
 ngosoh
