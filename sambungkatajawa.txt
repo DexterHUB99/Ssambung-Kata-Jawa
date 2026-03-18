@@ -332,7 +332,6 @@ ajrih
 aju
 ajudan
 ajuk
-ajul
 ajung
 ajur
 ajura
@@ -1940,7 +1939,6 @@ bobok
 bobot
 bobrok
 bocah
-bocil
 bocor
 bodat
 bodi
@@ -3269,7 +3267,6 @@ embel
 emben
 ember
 embere
-emberne
 emboh
 embok
 embong
@@ -4472,7 +4469,6 @@ guling
 gulir
 gulon
 gulu
-gulula
 gulung
 gulungan
 gulur
@@ -4484,7 +4480,6 @@ gumun
 gun
 guna
 gunae
-gunake
 gunawa
 gundah
 gundam
@@ -5036,7 +5031,6 @@ ihlo
 ihma
 ihmu
 ihna
-ihni
 iho
 ihra
 ihre
@@ -5622,7 +5616,6 @@ jambu
 jambul
 jamin
 jampi
-jampiro
 jamput
 jamu
 jamur
@@ -7908,6 +7901,7 @@ mare
 marem
 maren
 mareng
+marga
 mari
 mariki
 marila
@@ -9602,7 +9596,6 @@ nginep
 nging
 nginggil
 nginggo
-ngingi
 ngingkang
 ngini
 nginjak
@@ -9632,7 +9625,6 @@ ngirit
 ngirup
 ngis
 ngisak
-ngisam
 ngisan
 ngisap
 ngiseng
@@ -10080,6 +10072,7 @@ ningkat
 ningning
 ningsih
 nini
+ninia
 ninine
 nining
 ninja
@@ -10099,7 +10092,6 @@ nir
 nira
 nirek
 niri
-niris
 niro
 nirwana
 nis
@@ -10894,7 +10886,6 @@ pakar
 pakde
 pakdhe
 pake
-pakek
 pakem
 pakir
 pakle
@@ -11262,7 +11253,6 @@ pijor
 pik
 pika
 pikam
-pikan
 pikang
 piker
 piket
@@ -11345,7 +11335,6 @@ pinutur
 pio
 pipi
 pipik
-pipil
 pipipis
 pipis
 pipo
@@ -15188,7 +15177,6 @@ yunani
 yune
 yung
 yuni
-yuning
 yuno
 yur
 yura
