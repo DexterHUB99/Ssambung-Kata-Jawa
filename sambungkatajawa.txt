@@ -666,7 +666,6 @@ ampes
 ampi
 ampih
 ampil
-amping
 ampir
 ampiri
 ampit
@@ -2596,7 +2595,6 @@ demi
 demit
 demo
 demok
-dempet
 dempul
 demung
 den
@@ -9693,7 +9691,6 @@ ngompor
 ngompori
 ngon
 ngonde
-ngondol
 ngone
 ngong
 ngongge
@@ -9873,7 +9870,6 @@ nguno
 ngunta
 nguntal
 ngunting
-nguntul
 nguntung
 ngunu
 ngunung
@@ -14298,7 +14294,6 @@ unten
 unter
 untik
 untir
-untiran
 untiren
 untoh
 untu
