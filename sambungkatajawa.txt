@@ -2229,6 +2229,7 @@ cingkrang
 cingur
 cino
 cinta
+cintaa
 cip
 cipa
 cipo
@@ -6571,6 +6572,7 @@ korek
 korem
 koren
 koreng
+korengan
 koret
 kori
 korok
