@@ -10422,6 +10422,7 @@ numa
 numan
 numana
 numani
+numbak
 numbal
 numbar
 numbas
