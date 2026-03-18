@@ -2222,6 +2222,7 @@ cobek
 coc
 coco
 cocok
+cocol
 cocot
 cocote
 cocotmu
@@ -3331,6 +3332,7 @@ epit
 epo
 epoh
 epok
+epol
 epon
 epor
 epos
@@ -6376,6 +6378,7 @@ kisi
 kit
 kita
 kitab
+kitae
 kitan
 kite
 kitela
@@ -6759,6 +6762,7 @@ laline
 lalio
 lam
 lama
+lamae
 lamai
 laman
 lamane
@@ -6789,6 +6793,7 @@ lampir
 lampiran
 lampu
 lampua
+lampue
 lampune
 lampung
 lamu
@@ -7074,6 +7079,7 @@ lingkungan
 linglung
 lingsir
 lini
+linjak
 lino
 linta
 lintah
@@ -9071,6 +9077,7 @@ ngijab
 ngijek
 ngijing
 ngijir
+ngijo
 ngijol
 ngijoli
 ngik
@@ -13418,6 +13425,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
