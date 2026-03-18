@@ -25,7 +25,6 @@ abi
 abih
 abil
 abin
-abir
 abis
 abo
 aboh
@@ -35,7 +34,6 @@ abrit
 abu
 abuh
 abul
-abun
 abuy
 ac
 aca
@@ -294,7 +292,6 @@ ajay
 aje
 ajeg
 ajek
-ajen
 ajeng
 ajep
 aji
@@ -393,7 +390,6 @@ akomo
 akon
 akoni
 akoo
-akop
 akor
 akos
 akot
@@ -917,7 +913,6 @@ anor
 anot
 ansur
 ansuran
-ansuri
 anta
 antah
 antam
@@ -1384,7 +1379,6 @@ awe
 aweh
 awek
 awer
-awes
 awet
 awha
 awi
@@ -1840,7 +1834,6 @@ bito
 bitu
 biu
 biyen
-biyu
 biyung
 blas
 blereng
@@ -2229,6 +2222,7 @@ cobek
 coc
 coco
 cocok
+cocol
 cocot
 cocote
 cocotmu
@@ -2311,7 +2305,6 @@ cumo
 cun
 cuna
 cunduk
-cung
 cungkring
 cup
 cupu
@@ -2655,7 +2648,6 @@ diru
 dirum
 dirumah
 disa
-disambi
 disan
 disana
 disapa
@@ -3339,6 +3331,7 @@ epit
 epo
 epoh
 epok
+epol
 epon
 epor
 epos
@@ -3490,7 +3483,6 @@ etes
 etet
 eti
 etig
-etih
 etik
 etika
 etil
@@ -4187,7 +4179,6 @@ gosoki
 gosong
 got
 gotong
-gotongan
 gotongroyong
 gowang
 gowange
@@ -5613,7 +5604,6 @@ kader
 kades
 kadewa
 kadi
-kadohan
 kadong
 kados
 kadose
@@ -5763,7 +5753,6 @@ kandani
 kandas
 kandel
 kandha
-kandhang
 kandi
 kandungan
 kandut
@@ -5795,7 +5784,6 @@ kap
 kapa
 kapak
 kapal
-kapalan
 kapan
 kapas
 kape
@@ -5822,7 +5810,6 @@ karam
 karan
 karang
 karangan
-karanganyar
 karat
 karawang
 karawitan
@@ -5910,7 +5897,6 @@ katek
 katel
 kater
 kates
-kateter
 kathah
 kathok
 kati
@@ -6097,7 +6083,6 @@ kembar
 kemben
 keme
 kemeja
-kemek
 kemem
 kemene
 kemeng
@@ -6391,6 +6376,7 @@ kisi
 kit
 kita
 kitab
+kitae
 kitan
 kite
 kitela
@@ -6804,6 +6790,7 @@ lampir
 lampiran
 lampu
 lampua
+lampue
 lampune
 lampung
 lamu
@@ -7089,6 +7076,7 @@ lingkungan
 linglung
 lingsir
 lini
+linjak
 lino
 linta
 lintah
@@ -7826,7 +7814,6 @@ molen
 molet
 moli
 molin
-moloh
 molok
 mom
 momong
@@ -8052,7 +8039,6 @@ naka
 nakal
 nakalan
 naker
-nakes
 naki
 nako
 nakoe
@@ -8952,7 +8938,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepuk
 ngepus
 nger
 ngera
@@ -9263,7 +9248,6 @@ ngolong
 ngolor
 ngom
 ngomah
-ngombak
 ngombe
 ngombek
 ngombi
@@ -9300,7 +9284,6 @@ ngopii
 ngopin
 ngopine
 ngopini
-ngoplak
 ngoplo
 ngopo
 ngopoe
@@ -9422,7 +9405,6 @@ ngumpul
 ngumpulake
 ngun
 nguna
-ngunake
 nguncal
 nguncali
 ngunci
@@ -9657,7 +9639,6 @@ nnipo
 nny
 no
 nobat
-nodol
 nogel
 noh
 nok
@@ -10368,7 +10349,6 @@ pakdhe
 pake
 pakem
 pakir
-pakis
 pakle
 pakon
 pakpuh
@@ -10633,7 +10613,6 @@ pengin
 peni
 pening
 peniti
-penjuru
 peno
 pensil
 pentil
@@ -12414,7 +12393,6 @@ sis
 sisa
 sisah
 sisan
-siser
 sisi
 sisih
 sisik
@@ -12423,7 +12401,6 @@ sisir
 siska
 siso
 sisu
-sisul
 siswi
 siswo
 sit
@@ -12555,7 +12532,6 @@ suasu
 suba
 subal
 subhanallah
-subi
 subuh
 subur
 suci
@@ -12740,7 +12716,6 @@ ta
 taa
 taat
 taato
-tab
 taba
 tabah
 tabak
@@ -13446,6 +13421,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
@@ -13483,7 +13459,6 @@ ukom
 ukon
 ukop
 ukra
-ukri
 ukro
 ukta
 uku
@@ -13642,7 +13617,6 @@ une
 unek
 unem
 unen
-uner
 unes
 unesa
 ung
@@ -13687,7 +13661,6 @@ unma
 unni
 uno
 unta
-untab
 untah
 untal
 untalen
@@ -13860,7 +13833,6 @@ usma
 usna
 uso
 usra
-usri
 ust
 usta
 ustadz
