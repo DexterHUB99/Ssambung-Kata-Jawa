@@ -1690,6 +1690,7 @@ beja
 bejad
 bejak
 bejan
+bejat
 bejek
 beji
 bejir
@@ -2565,6 +2566,7 @@ dhahar
 dhawuh
 dhika
 di
+diadusi
 diajeng
 dialah
 diamana
@@ -5912,7 +5914,6 @@ kare
 karek
 karem
 karen
-karena
 karep
 karepe
 karepem
@@ -6142,6 +6143,7 @@ kelik
 keliling
 kelimo
 kelinci
+kelindes
 kelingan
 kelip
 kelir
@@ -6793,6 +6795,7 @@ kutang
 kute
 kutek
 kutha
+kuthaa
 kuti
 kutilang
 kutu
@@ -8202,6 +8205,7 @@ namar
 namba
 nambah
 nambai
+nambak
 nambal
 nambang
 nambani
@@ -8919,6 +8923,7 @@ ngayun
 ngayung
 ngcak
 nge
+ngea
 ngeanu
 ngebaki
 ngebang
@@ -9098,6 +9103,7 @@ ngerit
 ngerja
 ngerok
 ngerokok
+ngerono
 ngeroso
 ngersa
 ngerteni
@@ -9131,6 +9137,7 @@ ngeti
 ngetih
 ngetik
 ngeting
+ngetna
 ngetok
 ngeton
 ngetot
@@ -9286,6 +9293,7 @@ ngirimi
 ngirimna
 ngiring
 ngiris
+ngirisi
 ngirit
 ngirup
 ngis
@@ -10150,6 +10158,7 @@ okerek
 okeri
 oket
 okewe
+okewi
 okeyi
 okin
 okit
@@ -12013,6 +12022,7 @@ sajadah
 sajak
 sajam
 sajen
+sajeng
 saji
 sajian
 sajim
