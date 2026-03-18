@@ -10564,6 +10564,7 @@ pola
 polah
 polahe
 polahmu
+polaman
 polan
 polar
 pole
@@ -11212,6 +11213,7 @@ ringkas
 ringkes
 ringkih
 rini
+rining
 rinja
 rino
 rinta
