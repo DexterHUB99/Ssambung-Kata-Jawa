@@ -1098,6 +1098,7 @@ arit
 arjo
 arjuna
 arjuno
+arka
 arma
 armai
 aro
@@ -2064,6 +2065,7 @@ capek
 caper
 capi
 caping
+capit
 capung
 cara
 caraka
@@ -3697,6 +3699,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -4747,6 +4750,7 @@ ijeni
 iji
 ijig
 ijik
+ijil
 ijin
 ijo
 ijok
@@ -5211,6 +5215,7 @@ iwang
 iwangi
 iwas
 iwel
+iwen
 iwir
 ix
 iy
@@ -5831,6 +5836,7 @@ katan
 katang
 kate
 kateh
+katek
 katel
 kater
 kates
@@ -5884,6 +5890,7 @@ kayaa
 kayak
 kayane
 kayangan
+kayata
 kayok
 kayu
 kayuh
@@ -7201,6 +7208,7 @@ lumayan
 lumbung
 lumen
 lumer
+lumi
 lumpak
 lumpang
 lumping
@@ -8660,6 +8668,7 @@ ngaut
 ngawa
 ngawag
 ngawah
+ngawak
 ngawal
 ngawali
 ngawang
@@ -8695,6 +8704,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngeanu
 ngebaki
 ngebang
 ngebo
@@ -8706,6 +8716,7 @@ ngece
 ngecek
 ngeces
 ngecet
+ngecor
 ngedan
 ngedang
 ngedani
@@ -9072,6 +9083,7 @@ ngiwa
 ngiwak
 ngiwas
 ngiwasi
+ngiya
 ngiyuh
 ngka
 ngki
@@ -9687,6 +9699,7 @@ nutup
 nutupi
 nutur
 nuturi
+nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9789,6 +9802,7 @@ obot
 obrak
 obral
 obrol
+obrolan
 oceh
 ocehan
 oci
@@ -10960,6 +10974,7 @@ rahmat
 rahmatan
 rahwana
 rai
+raia
 raib
 raie
 raika
@@ -11142,6 +11157,7 @@ rasim
 rasing
 rasis
 raski
+rasmi
 rasmo
 raso
 rasta
@@ -11795,6 +11811,7 @@ san
 sana
 sanae
 sanak
+sanar
 sandal
 sandale
 sandang
@@ -12634,6 +12651,7 @@ tales
 tali
 talie
 taline
+talingan
 talo
 tam
 tama
@@ -12682,7 +12700,6 @@ tangkap
 tangkis
 tanglet
 tani
-tanjakan
 tanjung
 tanpa
 tansah
@@ -14064,7 +14081,6 @@ wiwit
 wiwitan
 wiye
 wo
-woa
 woe
 woh
 woho
@@ -14090,6 +14106,7 @@ wonosobo
 wonten
 woo
 wor
+wora
 woro
 wortel
 wos
