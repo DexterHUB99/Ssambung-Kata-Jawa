@@ -977,7 +977,6 @@ anti
 antik
 anting
 anto
-antob
 antoi
 antol
 anton
@@ -2166,6 +2165,7 @@ capek
 caper
 capet
 capi
+capil
 caping
 capit
 capo
@@ -3198,7 +3198,6 @@ elor
 elos
 elu
 elud
-elue
 eluh
 eluk
 elul
@@ -3533,7 +3532,6 @@ erod
 eroe
 erog
 eroh
-eroi
 erok
 eron
 erong
@@ -4471,7 +4469,6 @@ gurit
 gurita
 guritan
 guru
-gurue
 guruh
 gus
 gusa
@@ -14216,7 +14213,6 @@ untir
 untiren
 untoh
 untu
-untue
 untuk
 untul
 untumu
