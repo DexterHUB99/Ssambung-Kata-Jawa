@@ -11083,6 +11083,7 @@ pantat
 pante
 pantes
 panti
+pantu
 pantun
 panuh
 panun
@@ -14574,6 +14575,7 @@ urat
 uratan
 ure
 urek
+urem
 uren
 ures
 uret
