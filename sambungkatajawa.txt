@@ -424,6 +424,7 @@ aksi
 aksis
 aku
 akua
+akud
 akue
 akuh
 akui
@@ -4716,7 +4717,6 @@ haturnuhun
 hawa
 hawai
 hawane
-hawani
 hawe
 hawi
 hawo
@@ -8983,6 +8983,7 @@ ngampir
 ngampleng
 ngampun
 ngampung
+ngampuni
 ngamuk
 ngamur
 ngan
@@ -9040,7 +9041,6 @@ nganjur
 nganjut
 nganta
 ngantar
-ngante
 ngantel
 ngantem
 ngantemi
@@ -10942,7 +10942,6 @@ pandang
 pandawa
 pande
 pandu
-pandung
 panem
 panen
 pang
@@ -11668,6 +11667,7 @@ raisin
 raiso
 raiya
 raja
+rajaa
 rajab
 rajah
 rajai
