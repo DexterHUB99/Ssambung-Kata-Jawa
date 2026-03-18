@@ -3690,6 +3690,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -6977,7 +6978,6 @@ lincah
 lincak
 lindes
 lindhu
-lindungi
 lindur
 linggih
 linggis
