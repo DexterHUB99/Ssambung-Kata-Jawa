@@ -1690,7 +1690,6 @@ beja
 bejad
 bejak
 bejan
-bejat
 bejek
 beji
 bejir
@@ -6142,7 +6141,6 @@ kelik
 keliling
 kelimo
 kelinci
-kelindes
 kelingan
 kelip
 kelir
@@ -6794,7 +6792,6 @@ kutang
 kute
 kutek
 kutha
-kuthaa
 kuti
 kutilang
 kutu
@@ -8204,7 +8201,6 @@ namar
 namba
 nambah
 nambai
-nambak
 nambal
 nambang
 nambani
@@ -8922,7 +8918,6 @@ ngayun
 ngayung
 ngcak
 nge
-ngea
 ngeanu
 ngebaki
 ngebang
@@ -9102,7 +9097,6 @@ ngerit
 ngerja
 ngerok
 ngerokok
-ngerono
 ngeroso
 ngersa
 ngerteni
