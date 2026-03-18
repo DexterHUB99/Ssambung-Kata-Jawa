@@ -405,7 +405,6 @@ aksen
 aksi
 aku
 akua
-akud
 akue
 akuh
 akui
@@ -1285,6 +1284,7 @@ atesan
 atet
 athi
 ati
+atie
 atih
 atik
 atika
@@ -1333,7 +1333,6 @@ atusan
 atut
 aub
 auh
-auhan
 aul
 aulah
 aum
@@ -1342,7 +1341,6 @@ auman
 aun
 auna
 aunan
-auni
 aup
 aura
 aurip
@@ -2206,6 +2204,7 @@ cinta
 cip
 cipa
 cipo
+cipta
 cire
 cireng
 ciro
@@ -2336,7 +2335,6 @@ dadi
 dados
 dadu
 daduk
-dadumu
 daerah
 dagang
 dagel
@@ -2849,6 +2847,7 @@ edan
 edanan
 edar
 edaran
+edas
 ede
 eder
 edi
@@ -3247,7 +3246,6 @@ enjoy
 enka
 enki
 enko
-enla
 enli
 enlo
 enma
@@ -5461,7 +5459,6 @@ jili
 jilid
 jim
 jima
-jiman
 jimat
 jimbar
 jimpit
@@ -11790,6 +11787,7 @@ sadaro
 sade
 sadel
 sadewa
+sadi
 sadina
 sadis
 sadulur
@@ -13933,7 +13931,6 @@ visa
 voli
 wa
 waa
-waalaikumsalam
 waca
 wacana
 wada
@@ -14092,7 +14089,6 @@ wekasa
 wekasan
 wekdal
 weke
-weker
 weki
 weko
 wektu
