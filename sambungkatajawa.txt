@@ -3853,7 +3853,6 @@ gala
 galah
 galak
 galaka
-galan
 galang
 galangan
 galar
@@ -6117,7 +6116,6 @@ kapak
 kapal
 kapalan
 kapan
-kaparing
 kapas
 kape
 kapen
@@ -10348,6 +10346,7 @@ nungu
 nuni
 nuning
 nunjuk
+nuno
 nuntun
 nunung
 nunut
@@ -10984,7 +10983,6 @@ palo
 paloh
 palsu
 palu
-paluh
 palung
 palur
 pamah
