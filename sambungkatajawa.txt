@@ -7198,6 +7198,7 @@ limbah
 limbar
 limbuk
 limbung
+limi
 limo
 limola
 limolas
@@ -8198,6 +8199,7 @@ nakalan
 naker
 nakes
 naki
+nakir
 nako
 nakoe
 nakoki
@@ -9698,6 +9700,7 @@ ngutik
 ngutil
 ngutus
 nguwa
+nguwak
 nguwi
 nguyah
 nguyon
