@@ -962,6 +962,7 @@ anuh
 anui
 anuk
 anum
+anumu
 anun
 anune
 anung
@@ -4079,7 +4080,6 @@ giman
 gimbal
 gimen
 gimi
-gimik
 gina
 gincu
 ginem
@@ -5500,7 +5500,6 @@ jireh
 jiret
 jiri
 jirih
-jirik
 jit
 jita
 jitak
@@ -9388,7 +9387,6 @@ ngujuk
 nguk
 nguki
 ngukir
-ngukul
 ngukur
 ngul
 ngula
@@ -9486,6 +9484,7 @@ ngurui
 nguruk
 nguruki
 ngurung
+ngurup
 ngurus
 ngurusi
 ngurut
@@ -10450,7 +10449,6 @@ panggeh
 panggih
 panggil
 panggon
-panggonan
 panggung
 pangkas
 pangkat
@@ -13808,7 +13806,6 @@ uru
 urua
 urub
 uruk
-urukan
 urun
 urunan
 urung
@@ -14299,6 +14296,7 @@ wun
 wuru
 wus
 wusa
+wut
 wuta
 wutan
 wuwi
