@@ -7324,6 +7324,7 @@ lina
 linang
 lincah
 lincak
+lincip
 lindes
 lindhu
 lindungi
