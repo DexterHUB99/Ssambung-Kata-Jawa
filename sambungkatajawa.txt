@@ -3386,7 +3386,6 @@ endeg
 endek
 endel
 endem
-endeng
 endep
 endhas
 endho
@@ -13458,6 +13457,7 @@ susum
 susumu
 susun
 susune
+susup
 susyu
 sut
 suta
