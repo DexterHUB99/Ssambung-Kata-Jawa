@@ -35,7 +35,6 @@ abrit
 abu
 abuh
 abul
-abun
 abuy
 ac
 aca
@@ -294,7 +293,6 @@ ajay
 aje
 ajeg
 ajek
-ajen
 ajeng
 ajep
 aji
@@ -393,7 +391,6 @@ akomo
 akon
 akoni
 akoo
-akop
 akor
 akos
 akot
@@ -409,6 +406,7 @@ aksen
 aksi
 aku
 akua
+akud
 akue
 akuh
 akui
@@ -480,7 +478,6 @@ alis
 alisa
 alisan
 alise
-alismu
 alit
 aliy
 aliya
@@ -919,7 +916,6 @@ anor
 anot
 ansur
 ansuran
-ansuri
 anta
 antah
 antam
@@ -1340,6 +1336,7 @@ atusan
 atut
 aub
 auh
+auhan
 aul
 aulah
 aum
@@ -1348,6 +1345,7 @@ auman
 aun
 auna
 aunan
+auni
 aup
 aura
 aurip
@@ -1386,7 +1384,6 @@ awe
 aweh
 awek
 awer
-awes
 awet
 awha
 awi
@@ -1593,6 +1590,7 @@ bariki
 baris
 barito
 barku
+barno
 baron
 barong
 barongan
@@ -1992,6 +1990,7 @@ bungah
 bungahe
 bungkus
 bunglon
+buni
 buntel
 buntu
 buntung
@@ -2177,6 +2176,7 @@ ciba
 cibu
 cica
 cicak
+cicek
 cici
 cicir
 cicit
@@ -2313,7 +2313,6 @@ cumo
 cun
 cuna
 cunduk
-cung
 cungkring
 cup
 cupu
@@ -2345,6 +2344,7 @@ dadi
 dados
 dadu
 daduk
+dadumu
 daerah
 dagang
 dagel
@@ -3258,6 +3258,7 @@ enjoy
 enka
 enki
 enko
+enla
 enli
 enlo
 enma
@@ -3493,7 +3494,6 @@ etes
 etet
 eti
 etig
-etih
 etik
 etika
 etil
@@ -3521,6 +3521,7 @@ etus
 ev
 eva
 eval
+evan
 evin
 evo
 ew
@@ -4190,7 +4191,6 @@ gosoki
 gosong
 got
 gotong
-gotongan
 gotongroyong
 gowang
 gowange
@@ -5475,6 +5475,7 @@ jili
 jilid
 jim
 jima
+jiman
 jimat
 jimbar
 jimpit
@@ -5642,6 +5643,7 @@ kaila
 kaimas
 kain
 kaine
+kaira
 kaisa
 kaisar
 kajaba
@@ -5768,7 +5770,6 @@ kandani
 kandas
 kandel
 kandha
-kandhang
 kandi
 kandungan
 kandut
@@ -5827,7 +5828,6 @@ karam
 karan
 karang
 karangan
-karanganyar
 karat
 karawang
 karawitan
@@ -5915,7 +5915,6 @@ katek
 katel
 kater
 kates
-kateter
 kathah
 kathok
 kati
@@ -6102,7 +6101,6 @@ kembar
 kemben
 keme
 kemeja
-kemek
 kemem
 kemene
 kemeng
@@ -6258,6 +6256,7 @@ kesal
 kesan
 kesandung
 kesane
+kesap
 kesasar
 kesat
 kese
@@ -7399,6 +7398,7 @@ majo
 maju
 mak
 maka
+makaan
 makae
 makam
 makan
@@ -7436,6 +7436,7 @@ malih
 malik
 malin
 maling
+malis
 malu
 malung
 mam
@@ -7545,7 +7546,6 @@ marine
 maring
 marini
 marino
-maris
 marmut
 martabak
 maru
@@ -7833,7 +7833,6 @@ molen
 molet
 moli
 molin
-moloh
 molok
 mom
 momong
@@ -8366,6 +8365,7 @@ nendang
 nene
 nenek
 nenen
+nenene
 nenenen
 neneng
 neng
@@ -8534,6 +8534,7 @@ ngalir
 ngalis
 ngaliyan
 ngalo
+ngalok
 ngalon
 ngalong
 ngalor
@@ -8560,6 +8561,7 @@ ngamber
 ngambi
 ngambil
 ngambing
+ngambol
 ngambruk
 ngambu
 ngambul
@@ -8781,6 +8783,7 @@ ngawe
 ngaweh
 ngawer
 ngawi
+ngawia
 ngawih
 ngawil
 ngawini
@@ -9172,6 +9175,7 @@ ngis
 ngisak
 ngisan
 ngisap
+ngisek
 ngiseng
 ngisep
 ngiser
@@ -9308,7 +9312,6 @@ ngopii
 ngopin
 ngopine
 ngopini
-ngoplak
 ngoplo
 ngopo
 ngopoe
@@ -9581,11 +9584,13 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
 nindak
 nindakake
+nine
 ning
 ninga
 ningali
@@ -10376,7 +10381,6 @@ pakdhe
 pake
 pakem
 pakir
-pakis
 pakle
 pakon
 pakpuh
@@ -12071,6 +12075,7 @@ satus
 saung
 saur
 saut
+sawa
 sawah
 sawak
 sawan
@@ -12423,7 +12428,6 @@ sis
 sisa
 sisah
 sisan
-siser
 sisi
 sisih
 sisik
@@ -12564,7 +12568,6 @@ suasu
 suba
 subal
 subhanallah
-subi
 subuh
 subur
 suci
@@ -12749,7 +12752,6 @@ ta
 taa
 taat
 taato
-tab
 taba
 tabah
 tabak
@@ -13422,6 +13424,7 @@ uing
 uira
 uj
 uja
+ujaa
 ujak
 ujal
 ujan
@@ -13492,7 +13495,6 @@ ukom
 ukon
 ukop
 ukra
-ukri
 ukro
 ukta
 uku
@@ -13651,7 +13653,6 @@ une
 unek
 unem
 unen
-uner
 unes
 unesa
 ung
@@ -13696,7 +13697,6 @@ unma
 unni
 uno
 unta
-untab
 untah
 untal
 untalen
@@ -13869,7 +13869,6 @@ usma
 usna
 uso
 usra
-usri
 ust
 usta
 ustadz
@@ -13936,6 +13935,7 @@ uto
 utoh
 utowo
 utri
+utta
 utu
 utuh
 utumu
@@ -13975,6 +13975,7 @@ visa
 voli
 wa
 waa
+waalaikumsalam
 waca
 wacana
 wada
@@ -14044,6 +14045,7 @@ wangun
 wani
 wania
 wanine
+waning
 wanita
 wantah
 war
@@ -14073,6 +14075,7 @@ was
 wasa
 wasana
 wase
+wasem
 wasi
 wasiat
 wasir
@@ -14133,6 +14136,7 @@ wekasa
 wekasan
 wekdal
 weke
+weker
 weki
 weko
 wektu
