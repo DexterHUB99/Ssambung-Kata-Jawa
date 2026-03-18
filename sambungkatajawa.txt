@@ -8905,6 +8905,7 @@ ngalem
 ngaler
 ngali
 ngalih
+ngaliho
 ngalir
 ngalis
 ngaliyan
@@ -13110,6 +13111,7 @@ sosok
 sosol
 sosone
 sotel
+soten
 soti
 soto
 sowan
