@@ -2226,6 +2226,7 @@ caruk
 cas
 casa
 casi
+casu
 catur
 cawan
 cawang
@@ -4223,6 +4224,7 @@ genine
 gening
 genit
 geniya
+genjer
 genjor
 genjot
 genna
@@ -6350,6 +6352,7 @@ kebak
 kebas
 kebat
 kebaya
+kebekan
 kebo
 kebon
 kebone
@@ -10708,6 +10711,7 @@ olit
 olo
 oloe
 oloh
+oloi
 olok
 olokan
 olokmu
@@ -11834,6 +11838,7 @@ rajek
 rajelas
 rajiman
 rajin
+rajok
 raju
 rajuk
 rajungan
@@ -12572,6 +12577,7 @@ saga
 sage
 saged
 saget
+sagi
 sago
 sagon
 sagu
@@ -12768,6 +12774,7 @@ sar
 sara
 saran
 sarang
+sarangan
 sarap
 sarapa
 sarapan
@@ -13674,6 +13681,7 @@ tapis
 tapuk
 tar
 tara
+tarakan
 taras
 tarek
 tari
@@ -14395,6 +14403,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
