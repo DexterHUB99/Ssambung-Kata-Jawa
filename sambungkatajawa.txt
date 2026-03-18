@@ -1274,6 +1274,7 @@ atek
 atel
 atem
 atema
+atemi
 aten
 atena
 atene
@@ -1978,7 +1979,6 @@ buna
 bundas
 bunder
 bune
-bung
 bunga
 bungah
 bungahe
@@ -2223,7 +2223,6 @@ cobek
 coc
 coco
 cocok
-cocol
 cocot
 cocote
 cocotmu
@@ -3137,7 +3136,6 @@ emor
 emot
 emoy
 empal
-empale
 empan
 empang
 empedu
@@ -3334,7 +3332,6 @@ epit
 epo
 epoh
 epok
-epol
 epon
 epor
 epos
@@ -4449,7 +4446,6 @@ harmi
 harna
 haro
 harta
-hartae
 hartane
 haru
 harue
@@ -6381,7 +6377,6 @@ kisi
 kit
 kita
 kitab
-kitae
 kitan
 kite
 kitela
@@ -6630,7 +6625,6 @@ kumuh
 kumut
 kun
 kuna
-kunai
 kunang
 kunci
 kuncup
@@ -6766,7 +6760,6 @@ laline
 lalio
 lam
 lama
-lamae
 lamai
 laman
 lamane
@@ -6797,7 +6790,6 @@ lampir
 lampiran
 lampu
 lampua
-lampue
 lampune
 lampung
 lamu
@@ -6867,7 +6859,6 @@ lapo
 lapuk
 lar
 lara
-larae
 laran
 larang
 laras
@@ -6921,7 +6912,6 @@ layar
 layu
 le
 leak
-leb
 leba
 lebah
 lebak
@@ -7085,7 +7075,6 @@ lingkungan
 linglung
 lingsir
 lini
-linjak
 lino
 linta
 lintah
@@ -7444,7 +7433,6 @@ mampu
 mampus
 man
 mana
-manae
 manah
 manahan
 manak
@@ -8015,7 +8003,6 @@ nadar
 nadhah
 nadi
 nadia
-nadie
 nadyan
 nae
 naek
@@ -9085,7 +9072,6 @@ ngijab
 ngijek
 ngijing
 ngijir
-ngijo
 ngijol
 ngijoli
 ngik
@@ -10699,6 +10685,7 @@ pijam
 pijang
 pijar
 pijat
+pijek
 pijer
 pijet
 pijit
@@ -13433,7 +13420,6 @@ ukar
 ukara
 ukaran
 ukarane
-ukari
 ukas
 uke
 ukek
@@ -13663,6 +13649,7 @@ unjal
 unjang
 unjar
 unjuk
+unjukan
 unjul
 unjung
 unjur
@@ -14476,7 +14463,6 @@ yuyun
 zaitun
 zakat
 zaman
-zamrud
 zat
 ze
 ziarah
