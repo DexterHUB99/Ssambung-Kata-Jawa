@@ -896,6 +896,7 @@ ano
 anoa
 anoe
 anog
+anoh
 anoi
 anok
 anol
@@ -1927,7 +1928,6 @@ budi
 budo
 bue
 bug
-bugas
 bugil
 bugis
 buh
@@ -2537,6 +2537,7 @@ dijalan
 diji
 dik
 dika
+dikam
 dikamar
 dikandani
 dikep
@@ -3591,6 +3592,7 @@ gagrak
 gagu
 gaguna
 gah
+gaha
 gaib
 gairah
 gaja
@@ -6024,6 +6026,7 @@ keloro
 keluarga
 keluh
 kelum
+kelurahan
 kelut
 keluwen
 kem
@@ -6215,6 +6218,7 @@ keset
 kesetanan
 kesi
 kesirep
+kesit
 kesna
 kesuh
 kesuk
@@ -6287,6 +6291,7 @@ kilat
 kile
 kilen
 kili
+kilir
 kim
 kima
 kiman
@@ -7476,6 +7481,7 @@ maren
 mareng
 mari
 mariki
+marila
 marina
 marine
 maring
@@ -9483,6 +9489,7 @@ niman
 nimba
 nimbak
 nimbal
+nimbali
 nimbang
 nimbangi
 nimbul
@@ -14343,6 +14350,7 @@ yuda
 yudha
 yudi
 yue
+yuga
 yugo
 yuh
 yuhan
