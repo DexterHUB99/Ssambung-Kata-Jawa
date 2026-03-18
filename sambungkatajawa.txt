@@ -5777,6 +5777,7 @@ kalisa
 kaliyan
 kalo
 kalok
+kalon
 kalong
 kalor
 kaluhur
@@ -14655,6 +14656,7 @@ yuno
 yur
 yura
 yuri
+yurika
 yuro
 yus
 yusa
