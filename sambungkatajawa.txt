@@ -543,7 +543,6 @@ amargi
 amargo
 amas
 amat
-amata
 amati
 amay
 amaya
@@ -3168,7 +3167,6 @@ empit
 emplok
 empo
 empot
-empoyo
 emprit
 empu
 empuk
@@ -4767,7 +4765,6 @@ ido
 idu
 iduladha
 idumu
-idune
 ieu
 if
 ig
@@ -5324,7 +5321,6 @@ jadul
 jae
 jaga
 jagad
-jagal
 jagar
 jago
 jagong
@@ -5756,7 +5752,6 @@ kamis
 kamit
 kampak
 kampil
-kamping
 kampret
 kampreti
 kampung
@@ -6163,7 +6158,6 @@ kenee
 keneh
 kenek
 kenen
-keneng
 kenese
 kenetel
 keng
@@ -6920,6 +6914,7 @@ lasan
 lase
 lasi
 laskar
+lat
 latah
 latar
 late
@@ -7566,6 +7561,7 @@ marine
 maring
 marini
 marino
+maris
 marmut
 martabak
 maru
@@ -8463,6 +8459,7 @@ ngaber
 ngabet
 ngaboti
 ngabu
+ngabuk
 ngabul
 ngaca
 ngacak
@@ -8882,6 +8879,7 @@ ngelawak
 ngelawan
 ngele
 ngelebok
+ngeleg
 ngeleh
 ngelek
 ngelem
@@ -9230,7 +9228,6 @@ ngiya
 ngiyuh
 ngk
 ngka
-ngkan
 ngki
 ngko
 nglakoni
@@ -9551,7 +9548,6 @@ ngutik
 ngutil
 ngutus
 nguwa
-nguwe
 nguwi
 nguyah
 nguyon
@@ -12119,7 +12115,6 @@ satus
 saung
 saur
 saut
-sawa
 sawah
 sawak
 sawan
