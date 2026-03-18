@@ -2079,6 +2079,7 @@ cantik
 canting
 cap
 capai
+cape
 capek
 caper
 capi
@@ -8111,6 +8112,7 @@ nangan
 nangdi
 nange
 nangendi
+nangga
 nanggal
 nanggap
 nanggapa
@@ -9063,6 +9065,7 @@ ngijol
 ngijoli
 ngik
 ngika
+ngikan
 ngikat
 ngiket
 ngiki
@@ -11264,6 +11267,7 @@ rata
 ratai
 ratan
 ratau
+ratekan
 rati
 ratib
 ratih
