@@ -2933,6 +2933,7 @@ dungo
 dungu
 duni
 dunna
+dup
 dupa
 dupak
 dupo
