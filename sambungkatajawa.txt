@@ -3220,6 +3220,7 @@ elengen
 elengo
 elep
 eler
+eles
 elet
 eli
 elia
@@ -3487,6 +3488,7 @@ enuk
 enul
 enum
 enun
+enur
 enus
 enwa
 enya
@@ -3969,6 +3971,7 @@ gapi
 gapil
 gapit
 gaplek
+gapleki
 gaplok
 gapopo
 gapuk
@@ -6768,6 +6771,7 @@ kiten
 kiti
 kiwa
 kiye
+klakson
 klambi
 klambine
 klaten
@@ -7877,6 +7881,7 @@ mandali
 mandan
 mandang
 mandeg
+mandel
 mandeng
 mandhek
 mandi
@@ -8086,6 +8091,7 @@ memen
 men
 menawa
 menawi
+mencolot
 mencret
 mendhem
 mendoan
@@ -9095,6 +9101,7 @@ ngangsal
 ngangsu
 ngangsur
 ngangu
+nganguk
 ngangur
 ngani
 nganjing
@@ -14215,6 +14222,7 @@ ukaa
 ukae
 ukai
 ukak
+ukaka
 ukal
 ukam
 ukama
