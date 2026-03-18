@@ -11328,6 +11328,7 @@ posa
 pose
 posen
 posi
+posok
 posor
 pot
 pota
