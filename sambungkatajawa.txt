@@ -10148,6 +10148,7 @@ njancok
 njangan
 njaran
 njelehi
+njero
 njikuk
 njoget
 njungkel
@@ -13985,6 +13986,7 @@ tusuk
 tut
 tuta
 tuti
+tuto
 tutuk
 tutup
 tutupi
