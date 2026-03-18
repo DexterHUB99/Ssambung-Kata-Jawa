@@ -962,6 +962,7 @@ anuh
 anui
 anuk
 anum
+anumu
 anun
 anune
 anung
@@ -9386,7 +9387,6 @@ ngujuk
 nguk
 nguki
 ngukir
-ngukul
 ngukur
 ngul
 ngula
