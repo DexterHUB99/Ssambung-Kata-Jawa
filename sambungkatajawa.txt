@@ -3565,6 +3565,7 @@ esue
 esuh
 esuk
 esuken
+esul
 esun
 et
 eta
@@ -4842,6 +4843,7 @@ ibadah
 ibak
 iban
 ibarat
+ibarate
 iber
 iblis
 ibu
@@ -13748,6 +13750,7 @@ ugama
 ugan
 ugar
 uge
+ugel
 uger
 uget
 ugi
