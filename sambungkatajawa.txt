@@ -1057,6 +1057,7 @@ arara
 aras
 arasen
 arat
+arbei
 ardi
 are
 areg
@@ -4607,6 +4608,7 @@ hunen
 huni
 hup
 hupa
+hupan
 hupi
 hur
 hura
@@ -4642,6 +4644,7 @@ iber
 iblis
 ibu
 ibuk
+ibuku
 ibune
 ic
 ica
@@ -6872,6 +6875,7 @@ lena
 lendra
 leng
 lenga
+lengah
 lengen
 lenggah
 lengkuas
@@ -10826,6 +10830,7 @@ punten
 punya
 pup
 pupa
+pupi
 pupu
 pupuh
 pupuk
@@ -13904,6 +13909,7 @@ welo
 welut
 wen
 wena
+wenan
 wene
 weneh
 wengi
