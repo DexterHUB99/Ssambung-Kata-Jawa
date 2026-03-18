@@ -3166,7 +3166,6 @@ empit
 emplok
 empo
 empot
-empoyo
 emprit
 empu
 empuk
@@ -8087,6 +8086,7 @@ nakuti
 nal
 nala
 nalah
+nalai
 nalak
 nalam
 nalan
@@ -9913,6 +9913,7 @@ nyinom
 nyiram
 nyirep
 nyo
+nyoba
 nyocot
 nyogok
 nyolek
@@ -11232,6 +11233,7 @@ ramis
 ramo
 rampai
 rampas
+rampek
 ramping
 rampok
 rampun
