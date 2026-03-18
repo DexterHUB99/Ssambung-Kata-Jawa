@@ -10047,6 +10047,7 @@ nyolek
 nyolong
 nyomot
 nyong
+nyonya
 nyuci
 nyuluh
 nyumbang
@@ -12998,6 +12999,7 @@ takwa
 tal
 tala
 talak
+talan
 talas
 tale
 talenan
@@ -14583,6 +14585,7 @@ yawes
 yawi
 yawis
 yaya
+yayi
 ye
 yek
 yekan
