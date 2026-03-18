@@ -2136,7 +2136,6 @@ cahaya
 cahya
 cahyo
 cai
-caja
 caji
 cak
 cakak
@@ -3644,7 +3643,6 @@ etah
 etak
 etal
 etam
-etama
 etan
 etana
 etane
@@ -9275,7 +9273,6 @@ ngelim
 ngelindur
 ngeling
 ngelingi
-ngelipet
 ngelirik
 ngelitik
 ngelmu
@@ -14042,6 +14039,7 @@ uing
 uira
 uj
 uja
+ujah
 ujak
 ujal
 ujan
