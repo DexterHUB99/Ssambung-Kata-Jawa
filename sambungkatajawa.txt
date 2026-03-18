@@ -1407,6 +1407,7 @@ atusan
 atut
 aub
 auh
+auha
 aul
 aulah
 aum
@@ -3386,6 +3387,7 @@ endeg
 endek
 endel
 endem
+endeng
 endep
 endhas
 endho
@@ -3961,7 +3963,6 @@ gantos
 gantung
 gantungan
 ganwi
-ganyo
 ganyong
 gap
 gapa
@@ -5340,7 +5341,6 @@ injuk
 insan
 insana
 insyaallah
-internet
 inti
 intii
 intil
@@ -7997,7 +7997,6 @@ masyarakat
 mat
 mata
 matahari
-matak
 matam
 matamu
 matan
@@ -8732,6 +8731,7 @@ ndelik
 ndelok
 nderek
 ndeso
+ndherek
 ndlogok
 ndlosor
 ndoro
@@ -10231,7 +10231,6 @@ nnginum
 nngopo
 nni
 nnipo
-nnumpak
 nny
 no
 nobat
@@ -12233,6 +12232,7 @@ ringin
 ringkas
 ringkes
 ringkesan
+ringki
 ringkih
 rini
 rining
@@ -13461,7 +13461,6 @@ susum
 susumu
 susun
 susune
-susup
 susyu
 sut
 suta
