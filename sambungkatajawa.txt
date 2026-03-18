@@ -477,7 +477,6 @@ alis
 alisa
 alisan
 alise
-alismu
 alit
 aliy
 aliya
@@ -4130,7 +4129,6 @@ gojlok
 gok
 goka
 goke
-goki
 gokil
 goks
 gol
@@ -7534,7 +7532,6 @@ marine
 maring
 marini
 marino
-maris
 marmut
 martabak
 maru
@@ -9379,6 +9376,7 @@ ngujuk
 nguk
 nguki
 ngukir
+ngukul
 ngukur
 ngul
 ngula
@@ -12728,7 +12726,6 @@ suya
 suyo
 swara
 syal
-syu
 syukur
 ta
 taa
