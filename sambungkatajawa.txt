@@ -2460,6 +2460,7 @@ dedek
 dedemit
 dedi
 dedik
+defug
 degan
 deja
 dek
@@ -13450,6 +13451,7 @@ ugal
 ugama
 ugan
 ugar
+uge
 uger
 uget
 ugi
