@@ -8189,6 +8189,7 @@ nar
 nara
 narah
 narai
+narak
 naran
 naras
 narasi
@@ -9022,6 +9023,7 @@ ngeti
 ngetih
 ngetik
 ngeting
+ngeto
 ngetok
 ngeton
 ngetot
