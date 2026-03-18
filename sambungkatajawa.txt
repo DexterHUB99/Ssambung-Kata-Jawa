@@ -990,7 +990,6 @@ apin
 apine
 apip
 apir
-apis
 apit
 apo
 apok
@@ -2281,6 +2280,7 @@ dahak
 dahan
 dahar
 dahi
+dahu
 dajaran
 daju
 dak
@@ -2471,7 +2471,6 @@ difa
 digawa
 digo
 diguna
-diham
 dihan
 diimboh
 dija
@@ -9136,7 +9135,6 @@ ngundur
 ngunem
 ngung
 ngunggah
-ngungkap
 ngungkuli
 nguning
 ngunjuk
@@ -13393,6 +13391,7 @@ uruso
 urusono
 urut
 urutan
+urya
 us
 usa
 usaa
@@ -13617,6 +13616,7 @@ warga
 wari
 waria
 warik
+waring
 waris
 warisan
 warna
@@ -13837,7 +13837,6 @@ wowi
 wowo
 woyo
 wu
-wuda
 wudel
 wudhu
 wuh
@@ -13972,7 +13971,6 @@ yoman
 yome
 yomen
 yomi
-yomo
 yomu
 yon
 yona
