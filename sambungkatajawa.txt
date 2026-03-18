@@ -588,7 +588,6 @@ ambar
 ambarawa
 ambas
 ambat
-ambeg
 ambegan
 ambek
 ambel
@@ -9581,7 +9580,6 @@ ngerteni
 ngerti
 ngertos
 ngeruh
-ngerui
 ngeruk
 nges
 ngesa
@@ -10351,7 +10349,6 @@ nona
 none
 nong
 nongeng
-nongi
 nongki
 nongkrong
 noni
@@ -10434,7 +10431,6 @@ numa
 numan
 numana
 numani
-numbak
 numbal
 numbar
 numbas
@@ -14546,7 +14542,6 @@ undak
 undakan
 undal
 undang
-undanga
 undangan
 undar
 undeg
