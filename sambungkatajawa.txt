@@ -25,6 +25,7 @@ abi
 abih
 abil
 abin
+abir
 abis
 abo
 aboh
@@ -1834,6 +1835,7 @@ bito
 bitu
 biu
 biyen
+biyu
 biyung
 blas
 blereng
@@ -2648,6 +2650,7 @@ diru
 dirum
 dirumah
 disa
+disambi
 disan
 disana
 disapa
@@ -5604,6 +5607,7 @@ kader
 kades
 kadewa
 kadi
+kadohan
 kadong
 kados
 kadose
@@ -5784,6 +5788,7 @@ kap
 kapa
 kapak
 kapal
+kapalan
 kapan
 kapas
 kape
@@ -8935,6 +8940,7 @@ ngepel
 ngepet
 ngepit
 ngepot
+ngepuk
 ngepus
 nger
 ngera
@@ -9245,6 +9251,7 @@ ngolong
 ngolor
 ngom
 ngomah
+ngombak
 ngombe
 ngombek
 ngombi
@@ -9402,6 +9409,7 @@ ngumpul
 ngumpulake
 ngun
 nguna
+ngunake
 nguncal
 nguncali
 ngunci
@@ -9636,6 +9644,7 @@ nnipo
 nny
 no
 nobat
+nodol
 nogel
 noh
 nok
@@ -10610,6 +10619,7 @@ pengin
 peni
 pening
 peniti
+penjuru
 peno
 pensil
 pentil
@@ -12398,6 +12408,7 @@ sisir
 siska
 siso
 sisu
+sisul
 siswi
 siswo
 sit
