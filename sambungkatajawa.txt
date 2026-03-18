@@ -5945,6 +5945,7 @@ kasut
 kat
 kata
 katah
+katai
 katak
 katam
 katan
