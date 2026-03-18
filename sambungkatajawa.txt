@@ -3099,6 +3099,7 @@ ehat
 ehaw
 ehay
 ehe
+eheb
 ehed
 eheg
 eheh
@@ -11411,6 +11412,7 @@ pesen
 pesi
 pesing
 peso
+pesta
 pet
 peta
 petak
