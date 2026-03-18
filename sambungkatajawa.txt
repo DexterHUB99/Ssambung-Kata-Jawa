@@ -666,6 +666,7 @@ ampes
 ampi
 ampih
 ampil
+amping
 ampir
 ampiri
 ampit
@@ -14294,6 +14295,7 @@ unten
 unter
 untik
 untir
+untiran
 untiren
 untoh
 untu
