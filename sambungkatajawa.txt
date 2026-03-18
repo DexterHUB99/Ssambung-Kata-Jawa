@@ -554,6 +554,7 @@ amalan
 amalane
 amam
 amama
+amaman
 amambil
 amamin
 aman
@@ -3320,6 +3321,7 @@ empan
 empang
 empedu
 empek
+empel
 empela
 empeng
 emper
@@ -5579,7 +5581,6 @@ iyuh
 iyuk
 iyung
 iyuran
-iyut
 iz
 ja
 jab
@@ -7714,7 +7715,6 @@ lurung
 lurus
 lus
 lusa
-luse
 lusi
 lusuh
 lut
@@ -8770,7 +8770,6 @@ nelur
 nem
 nemah
 neman
-nemba
 nembah
 nembak
 nembaki
@@ -9134,6 +9133,7 @@ ngar
 ngara
 ngarah
 ngarai
+ngarak
 ngaran
 ngarang
 ngarani
@@ -10893,7 +10893,6 @@ pada
 padah
 padahal
 padam
-padan
 padang
 padaran
 padas
@@ -11313,7 +11312,6 @@ pikang
 piker
 piket
 piki
-pikik
 pikir
 pikiran
 pikirmu
@@ -12218,6 +12216,7 @@ riski
 risma
 risna
 riso
+risri
 rista
 rit
 rita
@@ -12539,7 +12538,6 @@ salahku
 salak
 salam
 salaman
-salat
 sale
 saleh
 saleng
@@ -12659,6 +12657,7 @@ sape
 sapeh
 sapi
 sapih
+sapii
 sapir
 sapiro
 sapo
@@ -13391,6 +13390,7 @@ susaa
 susah
 susahe
 susai
+susaki
 susan
 susas
 susi
@@ -14001,6 +14001,7 @@ tungguen
 tungkak
 tuni
 tunjungan
+tup
 tupa
 tupe
 tupi
@@ -14553,7 +14554,6 @@ urka
 urko
 urma
 urna
-urno
 uro
 urra
 urta
