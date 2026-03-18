@@ -3602,7 +3602,6 @@ etep
 eter
 etes
 etet
-etew
 eti
 etig
 etik
@@ -8452,6 +8451,7 @@ natah
 natal
 natalan
 natan
+natani
 natap
 nate
 nati
@@ -8508,6 +8508,7 @@ nebas
 nebe
 neben
 nebih
+nebus
 neda
 nedah
 nedan
@@ -9080,7 +9081,6 @@ ngejak
 ngejar
 ngejek
 ngek
-ngekek
 ngekel
 ngeko
 ngekok
@@ -10986,7 +10986,6 @@ pesen
 pesi
 pesing
 peso
-pet
 peta
 petak
 petan
