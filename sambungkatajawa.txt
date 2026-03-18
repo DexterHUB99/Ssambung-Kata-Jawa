@@ -4550,6 +4550,7 @@ halangi
 hale
 halen
 hali
+halilintar
 halo
 halus
 halusi
@@ -11216,6 +11217,7 @@ pinter
 pintu
 pinuh
 pinuk
+pinunjul
 pinus
 pinutur
 pio
