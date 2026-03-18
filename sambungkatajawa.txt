@@ -376,6 +376,7 @@ akhirat
 aki
 akib
 akie
+akif
 akih
 akik
 akil
@@ -2936,6 +2937,7 @@ eca
 ecah
 ecek
 ecer
+ecik
 eco
 ed
 eda
@@ -4774,6 +4776,7 @@ hot
 hota
 hote
 hotel
+hoti
 hotma
 hoto
 howa
@@ -7341,6 +7344,7 @@ liwer
 liwet
 liwo
 liya
+liyan
 liyane
 liyep
 liyo
@@ -8447,7 +8451,6 @@ natah
 natal
 natalan
 natan
-natani
 natap
 nate
 nati
@@ -9541,6 +9544,7 @@ ngomong
 ngomongo
 ngompol
 ngompor
+ngompori
 ngon
 ngonde
 ngone
@@ -13197,6 +13201,7 @@ tanduk
 tandur
 tanduran
 tandurane
+tandure
 tane
 tangan
 tangeh
@@ -14665,6 +14670,7 @@ wonten
 woo
 wor
 wora
+workout
 woro
 wortel
 wos
