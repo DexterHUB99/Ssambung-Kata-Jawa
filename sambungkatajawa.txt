@@ -2264,6 +2264,7 @@ cocok
 cocot
 cocote
 cocotmu
+cod
 codan
 codet
 codot
@@ -10763,6 +10764,7 @@ pena
 penak
 pendek
 pendem
+pendhet
 pendopo
 pene
 pengen
