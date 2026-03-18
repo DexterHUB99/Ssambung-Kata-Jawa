@@ -1287,7 +1287,6 @@ asuti
 asuw
 asuwe
 asuy
-asuya
 aswatama
 at
 ata
@@ -5454,6 +5453,7 @@ ix
 iy
 iya
 iyaa
+iyalah
 iyan
 iyatah
 iye
@@ -5562,6 +5562,7 @@ jari
 jarik
 jaring
 jarit
+jaro
 jarum
 jarwa
 jas
@@ -5789,6 +5790,7 @@ kacung
 kadal
 kadan
 kadang
+kadem
 kademan
 kader
 kades
@@ -5875,7 +5877,6 @@ kali
 kalia
 kalian
 kalih
-kalihan
 kalim
 kalima
 kalimat
@@ -9115,6 +9116,7 @@ ngela
 ngelag
 ngelak
 ngelakoni
+ngelam
 ngelantur
 ngelap
 ngelas
@@ -12306,6 +12308,7 @@ sambung
 sambut
 sami
 samir
+samit
 sampah
 sampai
 sampang
@@ -13113,6 +13116,7 @@ susuk
 susukamu
 susul
 susulan
+susum
 susumu
 susun
 susune
