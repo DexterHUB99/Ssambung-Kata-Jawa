@@ -2435,8 +2435,10 @@ dede
 dedeg
 dedek
 dedemit
+deden
 dedi
 dedik
+dedok
 degan
 deja
 dek
@@ -3642,6 +3644,7 @@ galeren
 gali
 galih
 galine
+galio
 galo
 galok
 galon
@@ -4415,6 +4418,7 @@ harape
 hare
 haren
 harep
+harepane
 harga
 hargai
 hargane
@@ -5345,6 +5349,7 @@ jangkai
 jangkar
 jangkep
 jangkrik
+jangkring
 jani
 janian
 janji
@@ -6953,6 +6958,7 @@ lendra
 leng
 lenga
 lengah
+lengeh
 lengen
 lenggah
 lengkuas
@@ -7341,6 +7347,7 @@ mae
 maem
 maen
 mag
+maga
 magan
 magang
 mage
@@ -8019,7 +8026,6 @@ naker
 naki
 nako
 nakoe
-nakoki
 nakon
 nakoni
 naksir
@@ -8435,6 +8441,7 @@ ngae
 ngaei
 ngaga
 ngagak
+ngagas
 ngagel
 ngagem
 ngago
@@ -10150,7 +10157,6 @@ opor
 opos
 opose
 oposi
-opota
 opowae
 opowi
 opoya
@@ -10743,6 +10749,7 @@ pinutur
 pio
 pipi
 pipik
+pipin
 pipipis
 pipis
 pipo
@@ -13463,6 +13470,7 @@ ulangi
 ulangtahun
 ulao
 ulap
+ulapa
 ular
 ulas
 ulasan
@@ -14074,6 +14082,7 @@ welut
 wen
 wena
 wenan
+wenang
 wene
 weneh
 wengi
