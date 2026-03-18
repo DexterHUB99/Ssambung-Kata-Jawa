@@ -11103,7 +11103,6 @@ pocung
 podang
 podho
 poe
-pohi
 poho
 pohung
 poi
@@ -14627,7 +14626,6 @@ yali
 yalo
 yam
 yama
-yamaa
 yamaha
 yaman
 yamen
