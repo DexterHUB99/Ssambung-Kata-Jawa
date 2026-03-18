@@ -10693,6 +10693,7 @@ pikon
 pikuk
 pikul
 pikun
+pikur
 pil
 pila
 pilah
@@ -13813,6 +13814,7 @@ usko
 usku
 usli
 usma
+usna
 uso
 usra
 ust
