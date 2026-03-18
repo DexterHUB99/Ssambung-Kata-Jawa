@@ -1355,6 +1355,7 @@ awalane
 awali
 awam
 awan
+awane
 awang
 awas
 awe
@@ -2535,6 +2536,7 @@ dilah
 dilalah
 dilam
 dilan
+dilanggar
 dilap
 dilarang
 dilas
@@ -5154,6 +5156,7 @@ isu
 isue
 isui
 isuk
+isuki
 isun
 iswa
 isya
@@ -9706,6 +9709,7 @@ nyomot
 nyong
 nyuci
 nyuluh
+nyumbang
 nyunggi
 nyungsep
 nyuruh
