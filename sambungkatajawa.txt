@@ -3136,6 +3136,7 @@ elu
 elud
 eluh
 eluk
+elul
 elung
 elungan
 elur
@@ -5977,6 +5978,7 @@ kasi
 kasian
 kasih
 kasihan
+kasihe
 kasil
 kasim
 kasir
@@ -11857,6 +11859,7 @@ rono
 roo
 rop
 ropa
+ropak
 rope
 ropi
 ropik
