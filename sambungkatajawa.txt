@@ -1003,6 +1003,7 @@ antri
 antrian
 antuk
 antun
+antup
 antur
 anu
 anua
@@ -2031,6 +2032,7 @@ bro
 brug
 bu
 bua
+buana
 buang
 buat
 buaya
@@ -2868,6 +2870,7 @@ dolo
 dolu
 dom
 doma
+doman
 domba
 domblong
 domi
@@ -2990,7 +2993,6 @@ duwe
 duwek
 duwet
 duwit
-duwo
 duwu
 duwur
 duyo
@@ -6423,7 +6425,6 @@ kelaran
 kelas
 kelawan
 kele
-keleb
 kelebon
 kelebu
 kelek
@@ -6874,6 +6875,7 @@ komplit
 kompor
 komputer
 kon
+kona
 konami
 konan
 konangan
@@ -8440,7 +8442,6 @@ munek
 mung
 mungah
 munggah
-munggaho
 mungkin
 mungkir
 mungsuh
@@ -9634,7 +9635,6 @@ nggone
 nggoreng
 nggotong
 nggowo
-nggowoe
 nggresiki
 nggugus
 nggula
@@ -9811,7 +9811,6 @@ ngobah
 ngobak
 ngobat
 ngobati
-ngobel
 ngober
 ngoblok
 ngobok
@@ -9979,6 +9978,7 @@ ngudi
 ngudik
 nguding
 ngudo
+ngudu
 ngudud
 ngudut
 ngugah
@@ -10697,7 +10697,6 @@ oleh
 oleha
 olehan
 olehe
-olehem
 oleholeh
 olek
 olem
@@ -11394,6 +11393,7 @@ pijang
 pijar
 pijat
 pijek
+pijem
 pijer
 pijet
 pijit
@@ -12643,7 +12643,6 @@ salaman
 salat
 sale
 saleh
-salem
 saleng
 salep
 sali
