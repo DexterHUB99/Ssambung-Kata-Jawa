@@ -2246,6 +2246,7 @@ cowo
 crita
 cu
 cublak
+cubo
 cucak
 cuci
 cucu
@@ -9354,6 +9355,7 @@ ngutar
 ngutek
 ngutik
 ngutil
+nguwa
 nguwi
 nguyah
 nguyon
@@ -11662,6 +11664,7 @@ sajim
 sajin
 sak
 saka
+sakal
 sakar
 sakarep
 sakarepe
