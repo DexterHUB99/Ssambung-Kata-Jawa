@@ -2813,6 +2813,7 @@ edanan
 edar
 edaran
 ede
+eder
 edi
 edin
 edit
@@ -14030,6 +14031,7 @@ wisuh
 wit
 wita
 witan
+witi
 witir
 wito
 wiwi
