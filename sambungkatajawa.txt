@@ -1704,6 +1704,7 @@ beco
 beda
 bedah
 bedak
+bedeg
 bedes
 bedha
 bedi
@@ -2316,6 +2317,7 @@ codet
 codot
 cogan
 cok
+cokat
 coke
 cokelat
 coki
@@ -2948,6 +2950,7 @@ ebu
 eca
 ecah
 ecek
+eceng
 ecer
 ecik
 eco
@@ -4394,6 +4397,7 @@ gugatan
 gugu
 guguga
 guguk
+gugung
 gugup
 gugur
 guguran
@@ -4595,7 +4599,6 @@ hara
 haraa
 harai
 haram
-haran
 harang
 harap
 harapan
@@ -6063,7 +6066,6 @@ karna
 karo
 karoan
 karoe
-karok
 karom
 karon
 karpet
@@ -10900,6 +10902,7 @@ parut
 pas
 pasa
 pasah
+pasai
 pasak
 pasal
 pasan
@@ -12931,9 +12934,11 @@ solar
 solat
 sole
 solek
+solet
 soli
 solid
 solo
+soloe
 solor
 solot
 som
@@ -13782,7 +13787,6 @@ tuyul
 tv
 ua
 uan
-uana
 uang
 ub
 uba
