@@ -587,6 +587,7 @@ ambar
 ambarawa
 ambas
 ambat
+ambeg
 ambegan
 ambek
 ambel
@@ -2036,7 +2037,6 @@ bro
 brug
 bu
 bua
-buana
 buang
 buat
 buaya
@@ -5584,7 +5584,6 @@ ita
 itaa
 itai
 itali
-itami
 itara
 itawa
 ite
@@ -6896,7 +6895,6 @@ komplit
 kompor
 komputer
 kon
-kona
 konami
 konan
 konangan
@@ -6940,7 +6938,6 @@ kopok
 kopyor
 kor
 kora
-korak
 koran
 korban
 kore
@@ -7282,7 +7279,6 @@ langka
 langkah
 langkap
 langkung
-langsam
 langsep
 langsing
 langu
@@ -8495,7 +8491,6 @@ murun
 murung
 murup
 murupen
-murus
 mus
 musa
 musan
@@ -9466,7 +9461,6 @@ ngemi
 ngemil
 ngemis
 ngemoh
-ngemon
 ngemong
 ngemot
 ngempak
@@ -10012,7 +10006,6 @@ ngudi
 ngudik
 nguding
 ngudo
-ngudu
 ngudud
 ngudut
 ngugah
@@ -11435,7 +11428,6 @@ pijang
 pijar
 pijat
 pijek
-pijem
 pijer
 pijet
 pijit
@@ -12916,7 +12908,6 @@ sea
 seba
 sebab
 sebah
-sebal
 sebat
 sebel
 sebul
