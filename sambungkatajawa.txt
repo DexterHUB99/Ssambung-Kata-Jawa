@@ -523,7 +523,6 @@ alumni
 alun
 alunan
 alur
-alure
 alus
 aluse
 alwan
@@ -850,7 +849,6 @@ angl
 angler
 angling
 angon
-angone
 angop
 angos
 angot
@@ -2008,7 +2006,6 @@ buku
 bukuk
 bukur
 bul
-bula
 bulak
 bulan
 bulat
@@ -6119,7 +6116,6 @@ kebul
 kebun
 kecak
 kecamatan
-kecanthol
 kecap
 kecapi
 kece
@@ -7137,7 +7133,6 @@ lempeng
 lemper
 lempung
 lemu
-lemune
 lemut
 len
 lena
@@ -7982,6 +7977,7 @@ moh
 mojo
 mojokerto
 mok
+moka
 mokal
 moke
 mokong
@@ -8909,6 +8905,7 @@ ngasep
 ngasi
 ngasih
 ngasihi
+ngasik
 ngasil
 ngasin
 ngasing
@@ -10291,7 +10288,6 @@ oler
 oles
 oli
 olih
-olihe
 olik
 olin
 oling
@@ -13306,6 +13302,7 @@ tera
 terak
 terang
 teras
+terasi
 terbang
 tere
 teri
@@ -13879,7 +13876,6 @@ umbar
 umbara
 umbas
 umbel
-umbele
 umbi
 umbia
 umbu
