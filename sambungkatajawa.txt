@@ -144,6 +144,7 @@ agih
 agil
 agin
 agit
+agni
 ago
 agor
 agu
@@ -1060,6 +1061,7 @@ arah
 arahan
 arai
 arak
+araka
 arakan
 aram
 arama
@@ -1708,6 +1710,7 @@ belum
 belut
 bem
 bema
+bemo
 ben
 bena
 benang
@@ -1883,6 +1886,7 @@ boli
 bolo
 boloe
 bolog
+boloho
 bolong
 bolos
 bolot
@@ -2138,6 +2142,7 @@ cekap
 cekatan
 cekel
 cekot
+celatu
 celek
 celeng
 celengan
@@ -2203,6 +2208,7 @@ cilung
 cim
 cime
 cimo
+cimut
 cin
 cina
 cincin
@@ -2301,6 +2307,7 @@ cuka
 cuki
 cukil
 cukin
+cuko
 cukup
 cukur
 culai
@@ -3032,6 +3039,7 @@ elag
 elah
 elai
 elak
+elal
 elam
 elan
 elang
@@ -3540,6 +3548,7 @@ eweane
 eweh
 ewek
 ewer
+ewes
 ewi
 ewih
 ewoh
@@ -7171,6 +7180,7 @@ loding
 lodoh
 loe
 log
+loga
 logat
 logi
 logok
@@ -9683,7 +9693,6 @@ nobat
 nodol
 nogel
 noh
-noha
 nok
 noke
 noken
@@ -9821,6 +9830,7 @@ nup
 nur
 nura
 nurah
+nurani
 nure
 nuren
 nuri
@@ -9873,6 +9883,7 @@ nyari
 nyaru
 nyasar
 nyatu
+nyaur
 nyawa
 nyawah
 nyawang
@@ -10288,6 +10299,7 @@ osan
 osar
 osara
 osas
+osasa
 osek
 osel
 osem
@@ -11335,6 +11347,7 @@ rata
 ratai
 ratan
 ratau
+rate
 ratekan
 rati
 ratib
@@ -11435,6 +11448,7 @@ remahan
 remang
 remas
 remase
+remasi
 remba
 rembang
 rembes
@@ -12301,6 +12315,7 @@ seruk
 serut
 ses
 sesak
+sesap
 sesat
 sese
 sesek
@@ -12312,6 +12327,7 @@ set
 setam
 setan
 setaun
+setel
 setengah
 seti
 setrika
@@ -13508,6 +13524,7 @@ ukna
 uko
 ukoh
 ukok
+ukoke
 ukol
 ukom
 ukon
@@ -14327,6 +14344,7 @@ wusa
 wut
 wuta
 wutan
+wutuh
 wuwi
 xenon
 xilofon
