@@ -1670,6 +1670,7 @@ bebek
 beber
 bebo
 becak
+becek
 becik
 beco
 beda
@@ -3738,6 +3739,7 @@ galengan
 galer
 galeren
 gali
+galian
 galih
 galine
 galo
