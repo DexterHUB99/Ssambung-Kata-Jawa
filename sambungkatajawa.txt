@@ -25,6 +25,7 @@ abi
 abih
 abil
 abin
+abir
 abis
 abo
 aboh
@@ -10608,6 +10609,7 @@ pengin
 peni
 pening
 peniti
+penjuru
 peno
 pensil
 pentil
