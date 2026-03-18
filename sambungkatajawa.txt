@@ -12955,6 +12955,7 @@ taka
 takan
 takaran
 takbir
+takbira
 takbiran
 takdir
 taken
