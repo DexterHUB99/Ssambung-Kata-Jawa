@@ -1287,7 +1287,6 @@ asuti
 asuw
 asuwe
 asuy
-asuya
 aswatama
 at
 ata
@@ -4578,7 +4577,6 @@ hapus
 hapusi
 har
 hara
-haraa
 harai
 haram
 harang
@@ -4894,7 +4892,6 @@ idal
 idam
 idaman
 idan
-idar
 ide
 idea
 idem
@@ -5878,7 +5875,6 @@ kali
 kalia
 kalian
 kalih
-kalihan
 kalim
 kalima
 kalimat
@@ -7525,7 +7521,6 @@ lumer
 lumi
 lumpak
 lumpang
-lumpat
 lumping
 lumpuh
 lumpuk
