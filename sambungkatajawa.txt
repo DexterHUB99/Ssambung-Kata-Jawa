@@ -14110,6 +14110,7 @@ ulat
 ulaya
 ule
 uleg
+ulega
 ulek
 ulekan
 ulem
