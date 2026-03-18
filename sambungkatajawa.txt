@@ -1226,6 +1226,7 @@ asalan
 asale
 asam
 asaman
+asamne
 asan
 asap
 asar
@@ -1470,7 +1471,6 @@ awul
 awulo
 awur
 awuren
-awus
 ax
 ay
 aya
@@ -1570,7 +1570,6 @@ bagya
 bah
 bahan
 bahasa
-bahaya
 bahli
 bahu
 bai
@@ -3046,6 +3045,7 @@ egos
 egrang
 egrek
 egu
+egus
 eh
 eha
 ehab
@@ -5300,7 +5300,6 @@ inggil
 inggit
 ingi
 ingin
-ingising
 ingka
 ingkang
 ingko
@@ -5735,6 +5734,7 @@ jengkel
 jengne
 jeni
 jeno
+jentik
 jepit
 jer
 jera
@@ -6586,6 +6586,7 @@ kertos
 kerudung
 keruh
 keruhan
+kerung
 kerupuk
 kerut
 kerutan
@@ -6665,7 +6666,6 @@ kewan
 keweden
 kewek
 kewer
-kewoh
 keyong
 ki
 kiai
@@ -8255,6 +8255,7 @@ molet
 moli
 molin
 molok
+molon
 mom
 momi
 momong
@@ -8872,6 +8873,7 @@ netur
 newa
 ngaba
 ngabab
+ngabal
 ngabang
 ngabar
 ngabari
@@ -9537,7 +9539,6 @@ ngganti
 nggantung
 nggara
 nggarap
-nggarit
 nggatekno
 nggateli
 nggawa
@@ -11789,6 +11790,7 @@ raman
 ramane
 ramasalah
 ramayana
+rambah
 rambak
 ramban
 rambanan
@@ -14240,7 +14242,6 @@ ukta
 uku
 ukud
 ukuk
-ukuke
 ukukir
 ukukur
 ukul
@@ -14699,6 +14700,7 @@ uting
 utir
 utira
 utiran
+utli
 utma
 uto
 utoh
@@ -15227,6 +15229,7 @@ yoro
 yos
 yosa
 yosan
+yose
 yosi
 yota
 yotan
