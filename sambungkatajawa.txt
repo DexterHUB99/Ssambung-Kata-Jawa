@@ -12848,6 +12848,7 @@ serep
 seres
 seret
 seri
+serik
 sering
 serius
 sero
@@ -13638,6 +13639,7 @@ terus
 tes
 tese
 tesi
+tesu
 tet
 tetak
 tetangga
