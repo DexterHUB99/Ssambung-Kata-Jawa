@@ -1997,6 +1997,7 @@ buh
 bui
 bujang
 bujangan
+buji
 bujo
 bujuk
 buk
@@ -4297,7 +4298,6 @@ gosokan
 gosoki
 gosong
 got
-gothang
 gotong
 gotongroyong
 gowang
@@ -7524,7 +7524,6 @@ maca
 macak
 macan
 macapat
-macit
 macul
 mad
 mada
@@ -13780,6 +13779,7 @@ ukas
 uke
 ukek
 ukel
+ukeli
 ukem
 uken
 ukep
