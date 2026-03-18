@@ -898,6 +898,7 @@ anjimi
 anjing
 anjining
 anjir
+anjlog
 anjlok
 anjlokake
 anjng
@@ -9510,6 +9511,7 @@ ngucap
 ngucek
 ngudan
 ngudang
+ngudar
 ngudek
 ngudel
 ngudhal
