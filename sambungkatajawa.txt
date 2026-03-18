@@ -4233,6 +4233,7 @@ geser
 gesi
 gesit
 get
+getan
 getar
 gething
 gethok
