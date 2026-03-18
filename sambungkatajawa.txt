@@ -2968,6 +2968,7 @@ duwit
 duwu
 duwur
 duyo
+duyu
 ealah
 eb
 eba
@@ -9756,6 +9757,7 @@ ngombor
 ngome
 ngomel
 ngomong
+ngomonge
 ngomongo
 ngompol
 ngompor
