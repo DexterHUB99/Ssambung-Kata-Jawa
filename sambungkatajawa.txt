@@ -367,6 +367,7 @@ akbar
 ake
 akeh
 akehan
+akehane
 akehe
 akek
 akel
@@ -3460,6 +3461,7 @@ enli
 enlo
 enma
 eno
+enog
 enoh
 enok
 enol
