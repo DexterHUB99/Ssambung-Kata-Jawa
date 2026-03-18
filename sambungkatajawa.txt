@@ -2436,6 +2436,7 @@ dedemit
 deden
 dedi
 dedik
+dedok
 degan
 deja
 dek
@@ -14065,6 +14066,7 @@ welut
 wen
 wena
 wenan
+wenang
 wene
 weneh
 wengi
