@@ -1332,7 +1332,6 @@ atusan
 atut
 aub
 auh
-auhan
 aul
 aulah
 aum
@@ -2204,6 +2203,7 @@ cinta
 cip
 cipa
 cipo
+cipta
 cire
 cireng
 ciro
@@ -3244,7 +3244,6 @@ enjoy
 enka
 enki
 enko
-enla
 enli
 enlo
 enma
@@ -5458,7 +5457,6 @@ jili
 jilid
 jim
 jima
-jiman
 jimat
 jimbar
 jimpit
@@ -13930,7 +13928,6 @@ visa
 voli
 wa
 waa
-waalaikumsalam
 waca
 wacana
 wada
@@ -14089,7 +14086,6 @@ wekasa
 wekasan
 wekdal
 weke
-weker
 weki
 weko
 wektu
