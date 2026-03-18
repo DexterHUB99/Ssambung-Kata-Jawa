@@ -2226,7 +2226,6 @@ caruk
 cas
 casa
 casi
-casu
 catur
 cawan
 cawang
@@ -4224,7 +4223,6 @@ genine
 gening
 genit
 geniya
-genjer
 genjor
 genjot
 genna
@@ -11077,7 +11075,6 @@ pamrih
 pan
 pana
 panah
-panahan
 panai
 panas
 panasan
@@ -12578,7 +12575,6 @@ saga
 sage
 saged
 saget
-sagi
 sago
 sagon
 sagu
@@ -13682,7 +13678,6 @@ tapis
 tapuk
 tar
 tara
-tarakan
 taras
 tarek
 tari
