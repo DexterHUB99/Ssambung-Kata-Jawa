@@ -2315,6 +2315,7 @@ cicak
 cicek
 cici
 cicil
+cicin
 cicir
 cicit
 cicite
@@ -11528,6 +11529,7 @@ pinak
 pinal
 pinang
 pinarak
+pinata
 pincang
 pincuk
 pindah
@@ -11596,6 +11598,7 @@ pit
 pita
 pitak
 pitakon
+pitam
 pitek
 piten
 piter
