@@ -844,7 +844,6 @@ anif
 anig
 anih
 anik
-aniki
 anil
 anim
 anin
@@ -3836,7 +3835,6 @@ gemeter
 gemi
 gemo
 gempa
-gempal
 gempar
 gempol
 gemu
@@ -5695,6 +5693,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -5925,7 +5924,9 @@ kelon
 kelonan
 kelor
 keloro
+kelot
 keluarga
+kelud
 keluh
 kelum
 kelut
@@ -6235,6 +6236,7 @@ kisa
 kisan
 kisanak
 kisi
+kisuh
 kit
 kita
 kitab
@@ -7456,6 +7458,7 @@ mek
 meka
 mekali
 mekar
+mekaten
 meki
 mekso
 mel
@@ -8856,6 +8859,7 @@ ngguyue
 ngguyur
 ngibadah
 ngiber
+ngibing
 ngibrit
 ngibu
 ngibul
@@ -9211,7 +9215,6 @@ ngungkap
 ngungkuli
 nguning
 ngunjuk
-ngunjung
 ngunjungi
 nguno
 ngunta
@@ -9696,6 +9699,7 @@ og
 ogah
 ogahe
 ogak
+ogan
 oge
 ogek
 oger
@@ -11082,7 +11086,6 @@ rebus
 rebut
 rebutan
 receh
-redha
 redi
 rega
 regane
@@ -12763,6 +12766,7 @@ timbali
 timbang
 timbangan
 timbange
+timbuk
 timbul
 timbun
 time
@@ -13047,6 +13051,7 @@ udelku
 udelmu
 uden
 udeng
+uder
 udha
 udharan
 udi
@@ -13327,6 +13332,7 @@ ung
 unga
 ungaran
 unggah
+unggahan
 unggal
 unggar
 unggaran
