@@ -9325,6 +9325,7 @@ ngempil
 ngemplok
 ngempot
 ngempu
+ngemus
 ngemut
 ngen
 ngena
@@ -10939,7 +10940,6 @@ pandang
 pandawa
 pande
 pandu
-pandung
 panem
 panen
 pang
