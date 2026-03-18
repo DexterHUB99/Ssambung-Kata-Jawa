@@ -2456,6 +2456,7 @@ da
 dab
 dabak
 dablek
+dabu
 dada
 dadag
 dadah
@@ -3370,6 +3371,7 @@ enal
 enam
 enan
 enang
+enap
 enas
 encak
 encer
@@ -3965,6 +3967,7 @@ gantos
 gantung
 gantungan
 ganwi
+ganyo
 ganyong
 gap
 gapa
@@ -5343,6 +5346,7 @@ injuk
 insan
 insana
 insyaallah
+internet
 inti
 intii
 intil
@@ -8000,6 +8004,7 @@ masyarakat
 mat
 mata
 matahari
+matak
 matam
 matamu
 matan
@@ -10234,6 +10239,7 @@ nnginum
 nngopo
 nni
 nnipo
+nnumpak
 nny
 no
 nobat
@@ -13465,6 +13471,7 @@ susum
 susumu
 susun
 susune
+susup
 susyu
 sut
 suta
@@ -13734,6 +13741,7 @@ temen
 temenan
 temokake
 temon
+tempal
 tempat
 tempe
 tempek
@@ -14185,6 +14193,7 @@ ugal
 ugama
 ugan
 ugar
+ugas
 uge
 ugel
 uger
@@ -14759,6 +14768,7 @@ utusan
 utusane
 ututek
 ututer
+ututuh
 utya
 uud
 uv
