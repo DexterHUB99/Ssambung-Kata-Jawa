@@ -3176,6 +3176,7 @@ enen
 eneng
 enengkol
 enes
+enet
 engah
 engeh
 enggal
@@ -3455,6 +3456,7 @@ etog
 etoh
 etok
 etol
+etom
 eton
 etos
 etose
@@ -6956,6 +6958,7 @@ liko
 liku
 lila
 lilas
+lile
 lileh
 lili
 lilin
@@ -11016,7 +11019,6 @@ ramayana
 rambak
 ramban
 rambanan
-rambang
 rambas
 rambat
 rambatan
@@ -11700,7 +11702,6 @@ sakarepmu
 sakel
 saken
 saket
-sakhi
 saki
 sakiki
 saking
