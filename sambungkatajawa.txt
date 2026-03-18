@@ -147,7 +147,6 @@ agin
 agit
 agni
 ago
-agok
 agor
 agu
 aguh
@@ -497,6 +496,7 @@ alok
 alom
 alomo
 alon
+alonan
 alor
 alos
 alot
@@ -543,6 +543,7 @@ amara
 amarga
 amargi
 amargo
+amarta
 amas
 amat
 amati
@@ -1580,6 +1581,7 @@ bangsat
 bani
 banjir
 banjur
+banta
 bantal
 banteng
 banter
@@ -2472,7 +2474,6 @@ dedek
 dedemit
 dedi
 dedik
-defug
 degan
 deja
 dek
@@ -3259,7 +3260,6 @@ enggar
 enggeh
 enggih
 enggil
-enggok
 enggon
 engkang
 engkel
@@ -3574,7 +3574,6 @@ ewuh
 ex
 ey
 eya
-eyag
 eyak
 eyam
 eyan
@@ -3861,6 +3860,7 @@ gaweopo
 gawir
 gawok
 gayam
+gayang
 gayem
 gayeng
 gayu
@@ -3953,7 +3953,6 @@ gembong
 gembos
 gembrot
 gembung
-gemelan
 gemen
 gemes
 gemeter
@@ -5785,7 +5784,6 @@ kampungan
 kampus
 kamu
 kamui
-kamuk
 kamula
 kamulyan
 kamung
@@ -7044,7 +7042,6 @@ lentog
 lepas
 lepat
 lepe
-leper
 lepi
 ler
 lera
@@ -11397,7 +11394,6 @@ ratan
 ratau
 rate
 ratekan
-raten
 rati
 ratib
 ratih
@@ -13498,7 +13494,6 @@ ugal
 ugama
 ugan
 ugar
-uge
 uger
 uget
 ugi
