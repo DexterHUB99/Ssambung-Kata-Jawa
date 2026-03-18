@@ -3205,7 +3205,6 @@ elig
 elih
 elik
 elin
-elina
 eline
 eling
 elinga
@@ -5696,7 +5695,6 @@ jempol
 jemput
 jemuran
 jenang
-jendela
 jeneng
 jenengan
 jenenge
@@ -9041,6 +9039,7 @@ nganjur
 nganjut
 nganta
 ngantar
+ngante
 ngantel
 ngantem
 ngantemi
@@ -10942,6 +10941,7 @@ pandang
 pandawa
 pande
 pandu
+pandung
 panem
 panen
 pang
@@ -14093,7 +14093,6 @@ ukae
 ukai
 ukak
 ukal
-ukala
 ukam
 ukama
 ukaman
