@@ -2611,7 +2611,6 @@ diewe
 difa
 digawa
 digo
-digowo
 diguna
 diham
 dihan
@@ -11104,7 +11103,6 @@ pocung
 podang
 podho
 poe
-pohi
 poho
 pohung
 poi
@@ -14628,7 +14626,6 @@ yali
 yalo
 yam
 yama
-yamaa
 yamaha
 yaman
 yamen
