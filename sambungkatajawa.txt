@@ -307,7 +307,6 @@ ajek
 ajeng
 ajep
 aji
-ajian
 ajib
 ajig
 ajih
@@ -1288,7 +1287,6 @@ asuti
 asuw
 asuwe
 asuy
-asuya
 aswatama
 at
 ata
@@ -4490,6 +4488,7 @@ hah
 haha
 hahaa
 hahaha
+hahai
 hahi
 haho
 hai
@@ -4579,7 +4578,6 @@ hapus
 hapusi
 har
 hara
-haraa
 harai
 haram
 harang
@@ -4895,7 +4893,6 @@ idal
 idam
 idaman
 idan
-idar
 ide
 idea
 idem
@@ -5879,7 +5876,6 @@ kali
 kalia
 kalian
 kalih
-kalihan
 kalim
 kalima
 kalimat
@@ -6784,6 +6780,7 @@ kuat
 kubangan
 kubur
 kuburan
+kucak
 kucing
 kucir
 kuciran
@@ -7526,7 +7523,6 @@ lumer
 lumi
 lumpak
 lumpang
-lumpat
 lumping
 lumpuh
 lumpuk
@@ -8042,7 +8038,6 @@ mlayu
 mlebet
 mlebu
 mlik
-mlipir
 mlumah
 mmandi
 mmantu
@@ -11835,7 +11830,6 @@ rengket
 reni
 renjang
 reno
-renta
 rentan
 rentang
 renteng
@@ -13438,7 +13432,6 @@ tere
 teri
 terima
 terlihat
-terna
 ternak
 terne
 terong
