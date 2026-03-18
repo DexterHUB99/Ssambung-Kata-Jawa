@@ -5687,6 +5687,7 @@ kalai
 kalak
 kalakon
 kalam
+kalan
 kalang
 kalangkung
 kalap
@@ -7842,6 +7843,7 @@ moli
 molin
 molok
 mom
+momi
 momong
 momot
 mon
@@ -9683,6 +9685,7 @@ nobat
 nodol
 nogel
 noh
+noha
 nok
 noke
 noken
@@ -10652,6 +10655,7 @@ pena
 penak
 pendek
 pendem
+pendhet
 pendopo
 pene
 pengen
