@@ -1004,6 +1004,7 @@ apat
 ape
 apeg
 apeh
+apej
 apek
 apel
 apem
@@ -3514,6 +3515,7 @@ ewako
 ewan
 ewang
 ewangi
+ewas
 ewe
 ewean
 eweane
@@ -12030,6 +12032,7 @@ satus
 saung
 saur
 saut
+sawa
 sawah
 sawak
 sawan
