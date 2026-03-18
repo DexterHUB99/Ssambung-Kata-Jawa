@@ -12669,6 +12669,7 @@ sa
 saa
 saaken
 saan
+saapi
 saawa
 saayang
 sab
