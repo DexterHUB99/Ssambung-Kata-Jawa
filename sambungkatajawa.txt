@@ -7690,7 +7690,6 @@ mai
 maido
 main
 maine
-majar
 majeng
 maji
 majo
@@ -8512,7 +8511,6 @@ nar
 nara
 narah
 narai
-narak
 naran
 naras
 narasi
@@ -9424,6 +9422,7 @@ nggih
 nggilani
 nggiling
 nggo
+nggoe
 nggolek
 nggoleki
 nggoleti
@@ -10465,7 +10464,6 @@ olehe
 oleholeh
 olek
 olem
-olen
 oleng
 oler
 oles
@@ -11208,7 +11206,6 @@ pinah
 pinak
 pinal
 pinang
-pinangka
 pinarak
 pincang
 pincuk
@@ -13087,6 +13084,7 @@ sugi
 sugih
 sugiyo
 suh
+suhen
 sui
 suji
 sujud
@@ -15067,6 +15065,7 @@ yuwa
 yuya
 yuyu
 yuyun
+zahra
 zaitun
 zakat
 zaman
