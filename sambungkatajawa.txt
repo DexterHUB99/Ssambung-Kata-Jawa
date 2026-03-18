@@ -273,6 +273,7 @@ air
 aira
 airan
 aire
+airen
 airi
 airo
 aisih
@@ -2659,6 +2660,7 @@ dinan
 dinar
 dinas
 dinding
+dingapunten
 dinggo
 dingin
 dingklik
@@ -13028,6 +13030,7 @@ taro
 taru
 taruh
 taruhan
+taruk
 tarung
 tas
 tasa
