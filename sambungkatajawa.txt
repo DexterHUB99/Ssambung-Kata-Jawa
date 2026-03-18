@@ -10713,6 +10713,7 @@ paloh
 palsu
 palu
 palung
+palur
 pamah
 pamahan
 pamali
