@@ -6422,6 +6422,7 @@ kelaran
 kelas
 kelawan
 kele
+keleb
 kelebon
 kelebu
 kelek
@@ -8438,6 +8439,7 @@ munek
 mung
 mungah
 munggah
+munggaho
 mungkin
 mungkir
 mungsuh
@@ -10692,6 +10694,7 @@ oleh
 oleha
 olehan
 olehe
+olehem
 oleholeh
 olek
 olem
