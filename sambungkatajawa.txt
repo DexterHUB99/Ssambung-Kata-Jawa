@@ -5343,6 +5343,7 @@ jangkai
 jangkar
 jangkep
 jangkrik
+jangkring
 jani
 janian
 janji
