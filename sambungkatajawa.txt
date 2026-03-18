@@ -1850,6 +1850,7 @@ biawak
 biaya
 bib
 biba
+bibet
 bibi
 bibik
 bibin
@@ -5357,6 +5358,7 @@ ipone
 ipono
 ipra
 iprit
+ipta
 ipuk
 ipun
 ir
@@ -11432,7 +11434,6 @@ pitur
 pitutur
 pituturan
 piutang
-piwak
 piwul
 piwulang
 piya
@@ -13507,6 +13508,7 @@ tampi
 tampol
 tamu
 tan
+tana
 tanah
 tanan
 tandang
