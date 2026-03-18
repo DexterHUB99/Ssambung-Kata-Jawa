@@ -537,6 +537,7 @@ ambal
 ambalan
 ambar
 ambarawa
+ambas
 ambat
 ambegan
 ambek
