@@ -40,7 +40,6 @@ ac
 aca
 acak
 acan
-acap
 acara
 ace
 aceh
@@ -144,6 +143,7 @@ agih
 agil
 agin
 agit
+agni
 ago
 agor
 agu
@@ -446,7 +446,6 @@ alas
 alasa
 alasan
 alat
-alaw
 alay
 ale
 alea
@@ -1022,7 +1021,6 @@ apikan
 apike
 apiken
 apil
-apimu
 apin
 apine
 apip
@@ -1706,6 +1704,7 @@ belum
 belut
 bem
 bema
+bemo
 ben
 bena
 benang
@@ -9862,6 +9861,7 @@ nyari
 nyaru
 nyasar
 nyatu
+nyaur
 nyawa
 nyawah
 nyawang
