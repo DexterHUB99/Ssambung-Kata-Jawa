@@ -3945,6 +3945,7 @@ garapan
 garapen
 garapi
 garasi
+garbis
 gardu
 gare
 garem
@@ -10105,6 +10106,7 @@ nomere
 nomi
 non
 nona
+none
 nong
 nongeng
 nongki
