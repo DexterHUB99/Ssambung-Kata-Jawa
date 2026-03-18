@@ -2755,6 +2755,7 @@ diri
 diru
 dirum
 dirumah
+dirut
 dis
 disa
 disambi
@@ -5049,6 +5050,7 @@ ikine
 ikiwe
 iklas
 iklim
+iklima
 iko
 ikoi
 ikon
@@ -6707,6 +6709,7 @@ kola
 kolah
 kolak
 kolam
+kolan
 kole
 koleh
 kolek
