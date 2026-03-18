@@ -1777,6 +1777,7 @@ bel
 bela
 belah
 belajar
+belakang
 belan
 belang
 belanja
@@ -7270,6 +7271,7 @@ lapi
 lapis
 lapisan
 lapo
+laporan
 lapuk
 lar
 lara
@@ -11447,6 +11449,7 @@ pipik
 pipil
 pipipis
 pipis
+pipit
 pipo
 pir
 pira
