@@ -14425,6 +14425,7 @@ waris
 warisan
 warna
 warno
+waro
 warok
 warsa
 warta
