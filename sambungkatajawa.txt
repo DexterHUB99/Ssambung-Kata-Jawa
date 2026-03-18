@@ -10367,6 +10367,7 @@ pamit
 pamitan
 pamrih
 pan
+pana
 panah
 panai
 panas
