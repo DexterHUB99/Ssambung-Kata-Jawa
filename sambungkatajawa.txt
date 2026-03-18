@@ -2799,7 +2799,6 @@ dir
 dira
 diran
 direng
-direwangi
 diri
 diru
 dirum
@@ -4456,7 +4455,6 @@ gotongroyong
 gowang
 gowange
 gowo
-gowoe
 goyah
 goyang
 gragal
@@ -6129,7 +6127,6 @@ kangen
 kangge
 kanggeh
 kanggo
-kanggone
 kangi
 kangkung
 kangmas
@@ -13358,7 +13355,6 @@ sugi
 sugih
 sugiyo
 suh
-suha
 suhen
 sui
 suji
@@ -14388,6 +14384,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
@@ -14616,7 +14613,6 @@ uraan
 urab
 urae
 urah
-urahe
 urai
 urak
 uraka
