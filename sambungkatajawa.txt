@@ -2337,6 +2337,7 @@ cukin
 cuko
 cukup
 cukur
+cul
 culai
 culik
 culo
@@ -3942,6 +3943,7 @@ gel
 gela
 gelak
 gelam
+gelan
 gelang
 gelange
 gelap
@@ -4757,6 +4759,7 @@ hupan
 hupi
 hur
 hura
+huran
 hure
 huri
 hurip
@@ -6021,6 +6024,7 @@ katut
 kaula
 kaulo
 kauman
+kauripan
 kawah
 kawak
 kawal
@@ -11063,6 +11067,7 @@ polar
 pole
 poleh
 polek
+polem
 poles
 poli
 poling
@@ -12951,6 +12956,7 @@ tabungan
 tabur
 tae
 taek
+tag
 tah
 taha
 tahajud
@@ -12992,7 +12998,6 @@ takwa
 tal
 tala
 talak
-talan
 talas
 tale
 talenan
