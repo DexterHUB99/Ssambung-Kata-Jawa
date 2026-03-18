@@ -6418,6 +6418,7 @@ keong
 kep
 kepa
 kepak
+kepal
 kepala
 kepanggih
 keparat
@@ -10642,6 +10643,7 @@ organisasi
 ori
 orie
 oring
+orit
 orog
 orok
 orong
@@ -10821,7 +10823,6 @@ panca
 pancal
 pancang
 pancen
-pancene
 panci
 pancing
 pancingan
