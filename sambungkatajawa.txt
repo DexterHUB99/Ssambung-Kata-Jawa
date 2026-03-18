@@ -3250,6 +3250,7 @@ endap
 endas
 endase
 endasmu
+endeg
 endek
 endel
 endem
@@ -5148,6 +5149,7 @@ ipea
 ipek
 ipel
 ipen
+iper
 ipes
 ipi
 ipik
