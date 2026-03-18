@@ -307,7 +307,6 @@ ajib
 ajig
 ajih
 ajik
-ajil
 ajim
 ajima
 ajin
@@ -415,7 +414,6 @@ aksi
 aku
 akua
 akue
-akuf
 akuh
 akui
 akuk
@@ -1337,7 +1335,6 @@ atok
 atol
 atom
 atop
-ator
 atos
 atose
 atra
@@ -2296,7 +2293,6 @@ combro
 como
 comot
 condong
-congkak
 congok
 congor
 congore
@@ -8940,7 +8936,6 @@ ngayuk
 ngayun
 ngayung
 ngcak
-ngcok
 nge
 ngea
 ngeanu
@@ -9184,6 +9179,7 @@ nggah
 nggak
 nggali
 nggambar
+ngganti
 nggantung
 nggara
 nggarap
@@ -10055,7 +10051,6 @@ nyolek
 nyolong
 nyomot
 nyong
-nyonya
 nyuci
 nyuluh
 nyumbang
@@ -11196,7 +11191,6 @@ pundhut
 pundi
 punen
 pungkasan
-pungkur
 puni
 punika
 punjul
@@ -12012,7 +12006,6 @@ sabuk
 sabun
 sad
 sada
-sadap
 sadar
 sadaro
 sade
@@ -13009,7 +13002,6 @@ takwa
 tal
 tala
 talak
-talan
 talas
 tale
 talenan
@@ -13975,6 +13967,7 @@ upir
 upis
 upit
 upload
+upning
 upo
 upra
 upupah
@@ -14596,7 +14589,6 @@ yawes
 yawi
 yawis
 yaya
-yayi
 ye
 yek
 yekan
