@@ -4579,6 +4579,7 @@ hota
 hote
 hotel
 hotma
+hoto
 howa
 howo
 hoya
@@ -5956,6 +5957,7 @@ kelara
 kelaran
 kelas
 kelawan
+kele
 kelebon
 kelebu
 kelek
