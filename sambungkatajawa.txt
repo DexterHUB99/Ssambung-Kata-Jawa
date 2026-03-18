@@ -3231,7 +3231,6 @@ epal
 epam
 epan
 epang
-epap
 epar
 epas
 epat
@@ -3365,6 +3364,7 @@ esey
 esi
 esih
 esik
+esil
 esim
 esin
 esir
@@ -8332,7 +8332,6 @@ ngalor
 ngaloren
 ngalu
 ngalum
-ngalungi
 ngalur
 ngalus
 ngam
@@ -10266,7 +10265,6 @@ pasare
 paser
 pasi
 pasih
-pasing
 pasir
 pasrah
 pasu
@@ -10944,7 +10942,6 @@ rangu
 rani
 ranjang
 ranjing
-rano
 ransel
 rantai
 rantan
@@ -11636,7 +11633,6 @@ sampi
 sampian
 samping
 sampir
-sampit
 sampo
 sampok
 sampol
@@ -11732,6 +11728,7 @@ sarwa
 sas
 sasa
 sasago
+sasah
 sasak
 sasampean
 sasaran
@@ -13447,7 +13444,6 @@ urek
 uren
 ures
 uret
-urha
 uri
 urih
 urik
