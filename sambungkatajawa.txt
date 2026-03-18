@@ -463,6 +463,7 @@ alem
 alema
 aleman
 aleme
+alen
 alengka
 alep
 aler
@@ -5326,6 +5327,7 @@ isu
 isue
 isui
 isuk
+isukan
 isuki
 isun
 iswa
@@ -5545,6 +5547,7 @@ ji
 jidat
 jig
 jiga
+jigan
 jigong
 jijih
 jijihan
