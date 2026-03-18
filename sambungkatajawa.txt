@@ -3550,6 +3550,7 @@ esek
 esem
 eseme
 esemka
+esemmu
 esen
 eser
 eses
@@ -11874,6 +11875,7 @@ riko
 riku
 ril
 rila
+rileks
 rilem
 rili
 rilis
