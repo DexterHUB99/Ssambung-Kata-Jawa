@@ -3874,7 +3874,6 @@ geneyi
 geng
 genggem
 geni
-gening
 genit
 geniya
 genjor
@@ -5692,6 +5691,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -5922,6 +5922,7 @@ kelon
 kelonan
 kelor
 keloro
+kelot
 keluarga
 keluh
 kelum
@@ -6232,6 +6233,7 @@ kisa
 kisan
 kisanak
 kisi
+kisuh
 kit
 kita
 kitab
@@ -7453,6 +7455,7 @@ mek
 meka
 mekali
 mekar
+mekaten
 meki
 mekso
 mel
@@ -12757,6 +12760,7 @@ timbali
 timbang
 timbangan
 timbange
+timbuk
 timbul
 timbun
 time
