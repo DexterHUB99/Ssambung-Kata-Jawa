@@ -3029,6 +3029,7 @@ ebit
 ebo
 eboh
 ebol
+ebor
 ebu
 eca
 ecah
@@ -9377,6 +9378,7 @@ ngayal
 ngayem
 ngayi
 ngayomi
+ngayon
 ngayu
 ngayub
 ngayuh
