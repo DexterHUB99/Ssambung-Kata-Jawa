@@ -1811,6 +1811,7 @@ bi
 biak
 biang
 biasa
+biasane
 biawak
 biaya
 bib
