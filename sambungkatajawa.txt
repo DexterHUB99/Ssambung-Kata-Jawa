@@ -470,6 +470,7 @@ alay
 ale
 alea
 aleb
+aleg
 aleh
 alek
 alem
@@ -515,6 +516,7 @@ alok
 alom
 alomo
 alon
+alop
 alor
 alos
 alot
@@ -934,6 +936,7 @@ anjog
 anjok
 anjrit
 anjuk
+anjun
 anjung
 anjungan
 anjur
@@ -1250,7 +1253,6 @@ asin
 asinan
 asing
 asiran
-asit
 asli
 asline
 asma
@@ -2686,7 +2688,6 @@ dika
 dikam
 dikamar
 dikandani
-dikene
 dikep
 dikes
 diki
@@ -2818,6 +2819,7 @@ dodok
 dodol
 dodolan
 dodot
+dog
 dogi
 doh
 dok
@@ -3179,6 +3181,7 @@ elap
 elar
 elas
 ele
+eleg
 eleh
 elek
 elekan
@@ -5499,7 +5502,6 @@ itaa
 itai
 itali
 itara
-itawa
 ite
 item
 iteo
@@ -8111,6 +8113,7 @@ milu
 mima
 mimi
 mimis
+mimisa
 mimisan
 min
 mina
@@ -8872,6 +8875,7 @@ ngagak
 ngagel
 ngagem
 ngago
+ngagu
 ngagung
 ngah
 ngahad
@@ -8954,7 +8958,6 @@ ngambruk
 ngambu
 ngambul
 ngambung
-ngame
 ngamel
 ngamil
 ngamis
@@ -9483,7 +9486,6 @@ nggen
 nggena
 nggendong
 ngger
-nggeret
 nggi
 nggih
 nggilani
@@ -9810,7 +9812,6 @@ ngrok
 ngrokok
 ngrumat
 ngrumpi
-ngrungu
 ngrusak
 ngrusuhi
 nguang
@@ -10174,6 +10175,7 @@ norak
 nore
 noreh
 nori
+norong
 nos
 nosa
 nose
@@ -11354,6 +11356,7 @@ pites
 piti
 pitik
 piting
+pito
 piton
 pitrah
 pitu
@@ -11750,6 +11753,7 @@ ranggenah
 ranggi
 rangi
 rangka
+rangkasan
 rangkat
 rangkul
 rangkum
@@ -11858,6 +11862,7 @@ raung
 raup
 rausah
 raut
+rautan
 rawa
 rawah
 rawal
@@ -12833,7 +12838,6 @@ sepura
 ser
 sera
 serabi
-seraga
 serakah
 serami
 serang
@@ -13131,6 +13135,7 @@ sosiji
 sosis
 sosmed
 sosok
+sosokan
 sosol
 sosone
 sotel
@@ -13505,6 +13510,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatan
 tatas
 tati
 tatik
@@ -14046,7 +14052,6 @@ uing
 uira
 uj
 uja
-ujah
 ujak
 ujal
 ujan
