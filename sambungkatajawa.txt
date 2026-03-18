@@ -2733,7 +2733,6 @@ dur
 dura
 duren
 duri
-duria
 durian
 durjana
 durma
@@ -3762,7 +3761,6 @@ gedor
 gedung
 gee
 gega
-gegayuhan
 gegel
 geger
 geget
@@ -8311,7 +8309,6 @@ ngali
 ngalih
 ngalir
 ngalis
-ngaliyan
 ngalo
 ngalon
 ngalong
@@ -9814,7 +9811,6 @@ ombak
 ombe
 ombea
 omben
-omber
 ombi
 ombian
 ombo
@@ -13969,7 +13965,6 @@ yani
 yano
 yanyo
 yao
-yaora
 yap
 yapi
 yaping
