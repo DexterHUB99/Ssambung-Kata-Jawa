@@ -3440,6 +3440,7 @@ etik
 etika
 etil
 eting
+etir
 etis
 eto
 etod
@@ -7945,6 +7946,7 @@ nal
 nala
 nalah
 nalak
+nalam
 nalan
 nalang
 nalangi
