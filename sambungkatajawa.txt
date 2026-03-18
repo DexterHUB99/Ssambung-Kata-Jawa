@@ -1434,6 +1434,7 @@ ayunan
 ayune
 ayup
 ayur
+ayut
 az
 ba
 baa
@@ -2641,6 +2642,7 @@ dlogok
 dluwang
 do
 doa
+doba
 dobleh
 dobo
 dobol
@@ -3452,7 +3454,6 @@ etog
 etoh
 etok
 etol
-etom
 eton
 etos
 etose
@@ -6195,6 +6196,7 @@ ketat
 kete
 ketek
 ketel
+ketela
 ketemu
 keter
 kethek
@@ -7681,6 +7683,7 @@ misuhi
 mita
 mitik
 mitoni
+mitra
 miya
 mlaku
 mlampah
@@ -8322,6 +8325,7 @@ ngaber
 ngabet
 ngaboti
 ngabu
+ngabul
 ngaca
 ngacak
 ngacang
@@ -8556,6 +8560,7 @@ ngapung
 ngapunten
 ngapur
 ngapura
+ngapuran
 ngapurancang
 ngapurane
 ngapuro
@@ -12394,6 +12399,7 @@ sugeh
 sugeng
 sugi
 sugih
+sugiyo
 suh
 sui
 suji
