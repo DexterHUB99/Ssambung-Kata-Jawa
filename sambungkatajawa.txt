@@ -2611,7 +2611,6 @@ diewe
 difa
 digawa
 digo
-digowo
 diguna
 diham
 dihan
@@ -9658,7 +9657,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunya
 ngup
 ngupah
 ngupai
@@ -11105,7 +11103,6 @@ pocung
 podang
 podho
 poe
-pohi
 poho
 pohung
 poi
@@ -13292,6 +13289,7 @@ tera
 terak
 terang
 teras
+terasi
 terbang
 tere
 teri
@@ -14629,7 +14627,6 @@ yali
 yalo
 yam
 yama
-yamaa
 yamaha
 yaman
 yamen
