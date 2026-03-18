@@ -10014,6 +10014,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulam
 ngulan
 ngulang
 ngulangi
@@ -12637,7 +12638,6 @@ sakar
 sakarep
 sakarepe
 sakarepmu
-sakdurunge
 sakel
 saken
 saket
