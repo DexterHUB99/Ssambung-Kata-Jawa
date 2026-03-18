@@ -555,6 +555,7 @@ amanah
 amanat
 amandel
 amang
+amap
 amar
 amara
 amarga
