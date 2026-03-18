@@ -933,6 +933,7 @@ antun
 antur
 anu
 anua
+anuan
 anue
 anugerah
 anuh
@@ -1068,7 +1069,6 @@ aria
 ariana
 arif
 arih
-arii
 arik
 aril
 arim
@@ -3232,7 +3232,6 @@ epal
 epam
 epan
 epang
-epap
 epar
 epas
 epat
@@ -5181,6 +5180,7 @@ jabang
 jadi
 jae
 jaga
+jagad
 jagar
 jago
 jagong
@@ -6149,7 +6149,6 @@ ketum
 ketumbar
 ketup
 ketupat
-keturunan
 ketus
 ketut
 keur
@@ -6287,7 +6286,6 @@ kola
 kolah
 kolak
 kolam
-kole
 koleh
 kolek
 koli
@@ -6734,6 +6732,7 @@ lasak
 lasan
 lase
 lasi
+laskar
 latah
 latar
 late
@@ -7265,7 +7264,6 @@ mama
 mamah
 mamak
 mamake
-maman
 mamas
 mamat
 mambu
@@ -8236,6 +8234,7 @@ ngabari
 ngabehi
 ngabekti
 ngaben
+ngaber
 ngabet
 ngaboti
 ngabu
@@ -8337,7 +8336,6 @@ ngalor
 ngaloren
 ngalu
 ngalum
-ngalungi
 ngalur
 ngalus
 ngam
@@ -9760,7 +9758,6 @@ okeran
 okerek
 okeri
 oket
-okewe
 okeyi
 okin
 okit
@@ -10233,7 +10230,6 @@ papi
 papo
 papu
 papua
-papuk
 par
 para
 parah
@@ -10274,7 +10270,6 @@ pasare
 paser
 pasi
 pasih
-pasing
 pasir
 pasrah
 pasu
@@ -10748,7 +10743,6 @@ punjul
 punten
 punya
 pup
-pupa
 pupu
 pupuh
 pupuk
@@ -10953,7 +10947,6 @@ rangu
 rani
 ranjang
 ranjing
-rano
 ransel
 rantai
 rantan
@@ -11173,6 +11166,7 @@ renggang
 rengginang
 renggo
 rengket
+reni
 renjang
 reno
 rentan
@@ -11645,7 +11639,6 @@ sampi
 sampian
 samping
 sampir
-sampit
 sampo
 sampok
 sampol
@@ -13129,7 +13122,6 @@ ukaran
 ukarane
 ukas
 uke
-ukek
 ukel
 ukem
 uken
@@ -13458,7 +13450,6 @@ urek
 uren
 ures
 uret
-urha
 uri
 urih
 urik
