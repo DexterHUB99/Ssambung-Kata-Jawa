@@ -1522,6 +1522,7 @@ balai
 balak
 balang
 balap
+balas
 bale
 balek
 baleni
@@ -1812,7 +1813,6 @@ binu
 bio
 bir
 bira
-biri
 biro
 biru
 bis
@@ -2436,10 +2436,8 @@ dede
 dedeg
 dedek
 dedemit
-deden
 dedi
 dedik
-dedok
 degan
 deja
 dek
@@ -3645,7 +3643,6 @@ galeren
 gali
 galih
 galine
-galio
 galo
 galok
 galon
@@ -4419,7 +4416,6 @@ harape
 hare
 haren
 harep
-harepane
 harga
 hargai
 hargane
@@ -5350,7 +5346,6 @@ jangkai
 jangkar
 jangkep
 jangkrik
-jangkring
 jani
 janian
 janji
@@ -5446,6 +5441,7 @@ jika
 jikuk
 jil
 jila
+jilan
 jilat
 jilbab
 jile
@@ -5919,7 +5915,6 @@ kawas
 kawasan
 kawat
 kawe
-kawelas
 kawen
 kaweruh
 kawi
@@ -6960,7 +6955,6 @@ lendra
 leng
 lenga
 lengah
-lengeh
 lengen
 lenggah
 lengkuas
@@ -7299,6 +7293,7 @@ lurah
 lurik
 luru
 luruh
+lurui
 lurung
 lurus
 lus
@@ -7349,7 +7344,6 @@ mae
 maem
 maen
 mag
-maga
 magan
 magang
 mage
@@ -7364,6 +7358,7 @@ maido
 main
 maine
 majeng
+maji
 majo
 maju
 mak
@@ -7572,6 +7567,7 @@ mawon
 maya
 mayak
 mayan
+mayang
 mayat
 mayi
 mayit
@@ -8028,6 +8024,7 @@ naker
 naki
 nako
 nakoe
+nakoki
 nakon
 nakoni
 naksir
@@ -8443,7 +8440,6 @@ ngae
 ngaei
 ngaga
 ngagak
-ngagas
 ngagel
 ngagem
 ngago
@@ -8532,6 +8528,7 @@ ngamil
 ngamis
 ngamo
 ngamok
+ngamp
 ngampak
 ngampar
 ngampas
@@ -9160,7 +9157,6 @@ ngk
 ngka
 ngki
 ngko
-nglaga
 nglakoni
 nglali
 nglamun
@@ -9315,7 +9311,6 @@ ngrayu
 ngrebeki
 ngrep
 ngrepoti
-ngresik
 ngresiki
 ngret
 ngrit
@@ -10161,6 +10156,7 @@ opor
 opos
 opose
 oposi
+opota
 opowae
 opowi
 opoya
@@ -10753,7 +10749,6 @@ pinutur
 pio
 pipi
 pipik
-pipin
 pipipis
 pipis
 pipo
@@ -11766,6 +11761,7 @@ sabun
 sad
 sada
 sadar
+sadaro
 sade
 sadel
 sadewa
@@ -13474,7 +13470,6 @@ ulangi
 ulangtahun
 ulao
 ulap
-ulapa
 ular
 ulas
 ulasan
@@ -14086,7 +14081,6 @@ welut
 wen
 wena
 wenan
-wenang
 wene
 weneh
 wengi
