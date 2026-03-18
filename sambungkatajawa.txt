@@ -10195,6 +10195,7 @@ nukuni
 nul
 nula
 nuladha
+nulak
 nulang
 nuli
 nulis
