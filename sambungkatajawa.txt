@@ -4018,6 +4018,7 @@ geleh
 gelek
 gelem
 geleman
+gelengan
 geli
 gelis
 gelo
@@ -7108,6 +7109,7 @@ lata
 latah
 latar
 late
+laten
 lathi
 lati
 latih
