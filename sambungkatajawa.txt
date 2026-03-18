@@ -954,6 +954,7 @@ anyem
 anyep
 anyer
 anyes
+anyi
 anying
 anyir
 anyong
@@ -7181,6 +7182,7 @@ mae
 maem
 maen
 mag
+magan
 magang
 mage
 mager
@@ -7987,6 +7989,7 @@ nasan
 nasar
 nase
 nasehat
+nasehati
 nasi
 nasia
 nasib
@@ -11009,6 +11012,7 @@ rawi
 rawih
 rawit
 rawo
+rawoh
 rawon
 rawu
 rawuh
