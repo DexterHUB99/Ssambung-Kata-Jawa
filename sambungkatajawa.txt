@@ -2557,7 +2557,6 @@ dekan
 dekar
 dekat
 deke
-dekek
 dekil
 deko
 dekor
@@ -7691,6 +7690,7 @@ mai
 maido
 main
 maine
+majar
 majeng
 maji
 majo
@@ -8401,6 +8401,7 @@ nalangi
 nalar
 nalare
 nale
+nalem
 nali
 nalia
 nalih
@@ -8512,6 +8513,7 @@ nar
 nara
 narah
 narai
+narak
 naran
 naras
 narasi
@@ -9423,7 +9425,6 @@ nggih
 nggilani
 nggiling
 nggo
-nggoe
 nggolek
 nggoleki
 nggoleti
@@ -10465,6 +10466,7 @@ olehe
 oleholeh
 olek
 olem
+olen
 oleng
 oler
 oles
@@ -11207,6 +11209,7 @@ pinah
 pinak
 pinal
 pinang
+pinangka
 pinarak
 pincang
 pincuk
@@ -12979,7 +12982,6 @@ sokar
 sokasik
 soke
 soket
-soki
 sokin
 soklat
 soko
@@ -13086,7 +13088,6 @@ sugi
 sugih
 sugiyo
 suh
-suhen
 sui
 suji
 sujud
@@ -15067,7 +15068,6 @@ yuwa
 yuya
 yuyu
 yuyun
-zahra
 zaitun
 zakat
 zaman
