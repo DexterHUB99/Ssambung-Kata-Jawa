@@ -1289,6 +1289,7 @@ atai
 atak
 atakno
 atam
+ataman
 atan
 atana
 atang
@@ -2596,6 +2597,7 @@ diadusi
 diajeng
 dialah
 diamana
+diana
 diancok
 diangsang
 dianu
@@ -3764,6 +3766,7 @@ galeng
 galengan
 galer
 galeren
+galeri
 gali
 galian
 galih
@@ -7619,6 +7622,7 @@ mamah
 mamak
 mamake
 maman
+mamana
 mamas
 mamat
 mambu
@@ -9012,6 +9016,7 @@ ngayuk
 ngayun
 ngayung
 ngcak
+ngcok
 nge
 ngea
 ngeanu
@@ -10978,6 +10983,7 @@ pidana
 pidang
 pidek
 pie
+pigun
 pih
 pii
 pijak
@@ -11348,6 +11354,7 @@ rabio
 rabisa
 rabit
 raboh
+rabot
 rabu
 rabun
 racik
@@ -11632,6 +11639,7 @@ rawuh
 rawung
 raya
 rayap
+rayi
 rayo
 rayon
 rayu
@@ -14133,6 +14141,7 @@ urih
 urik
 urine
 uring
+urio
 urip
 uripan
 uripe
