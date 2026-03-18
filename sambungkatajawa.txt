@@ -367,7 +367,6 @@ akbar
 ake
 akeh
 akehan
-akehane
 akehe
 akek
 akel
@@ -2224,7 +2223,6 @@ casa
 casi
 catur
 cawan
-cawang
 cawe
 cawet
 cawi
@@ -3415,7 +3413,6 @@ eneg
 eneh
 enej
 enek
-eneke
 enel
 enem
 enen
@@ -3461,7 +3458,6 @@ enli
 enlo
 enma
 eno
-enog
 enoh
 enok
 enol
@@ -3920,7 +3916,6 @@ gamean
 gamel
 gamela
 gamelan
-gamelane
 gamen
 gamer
 gami
@@ -4281,7 +4276,6 @@ gesit
 get
 getan
 getar
-gete
 gething
 gethok
 gethuk
@@ -5577,7 +5571,6 @@ itue
 ituli
 itung
 itungan
-itungen
 iut
 iuta
 iv
@@ -9887,7 +9880,6 @@ ngoreng
 ngori
 ngorit
 ngorok
-ngoroke
 ngorong
 ngos
 ngosan
@@ -10094,7 +10086,6 @@ ngut
 nguta
 ngutang
 ngutar
-ngutarake
 ngutek
 ngutik
 ngutil
@@ -13801,7 +13792,6 @@ tera
 terak
 terang
 teras
-terasi
 terbang
 tere
 teri
