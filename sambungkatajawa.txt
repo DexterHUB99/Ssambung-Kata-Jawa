@@ -14,6 +14,7 @@ abak
 aban
 abang
 abangi
+abani
 abas
 abasa
 abaya
@@ -7982,6 +7983,7 @@ moh
 mojo
 mojokerto
 mok
+moka
 mokal
 moke
 mokong
@@ -8909,6 +8911,7 @@ ngasep
 ngasi
 ngasih
 ngasihi
+ngasik
 ngasil
 ngasin
 ngasing
@@ -10365,7 +10368,6 @@ ondhe
 ondho
 ondo
 ondol
-ondole
 oneng
 onet
 ongeh
@@ -10482,6 +10484,7 @@ orer
 ores
 organisasi
 ori
+oria
 orie
 oring
 orog
@@ -13307,6 +13310,7 @@ tera
 terak
 terang
 teras
+terasi
 terbang
 tere
 teri
