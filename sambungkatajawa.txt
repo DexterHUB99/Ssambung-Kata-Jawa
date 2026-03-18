@@ -8726,6 +8726,7 @@ ngampak
 ngampar
 ngampas
 ngampel
+ngamper
 ngampet
 ngampih
 ngampil
@@ -9166,7 +9167,6 @@ ngesak
 ngesang
 ngesat
 ngesek
-ngeselin
 ngesem
 ngeseng
 ngeset
@@ -10191,6 +10191,7 @@ okam
 okan
 okana
 okar
+okare
 okari
 okaro
 okas
