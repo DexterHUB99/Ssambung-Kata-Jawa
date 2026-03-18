@@ -7523,7 +7523,6 @@ maca
 macak
 macan
 macapat
-macit
 macul
 mad
 mada
@@ -7877,7 +7876,6 @@ meru
 mesake
 mese
 mesem
-mesi
 mesin
 meski
 meso
@@ -10272,7 +10270,6 @@ okita
 okok
 okoka
 okoke
-okokok
 okol
 okon
 okone
