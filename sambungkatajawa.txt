@@ -578,7 +578,6 @@ ambrol
 ambruk
 ambu
 ambuk
-ambulan
 ambune
 ambung
 ambunge
@@ -3137,7 +3136,6 @@ elu
 elud
 eluh
 eluk
-elul
 elung
 elungan
 elur
@@ -5766,7 +5764,6 @@ kala
 kalah
 kalahan
 kalai
-kalajengking
 kalak
 kalakon
 kalam
@@ -5980,7 +5977,6 @@ kasi
 kasian
 kasih
 kasihan
-kasihe
 kasil
 kasim
 kasir
@@ -11861,7 +11857,6 @@ rono
 roo
 rop
 ropa
-ropak
 rope
 ropi
 ropik
