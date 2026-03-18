@@ -3207,7 +3207,6 @@ elig
 elih
 elik
 elin
-elina
 eline
 eling
 elinga
@@ -4455,7 +4454,6 @@ gugup
 gugur
 guguran
 gugus
-gujeng
 gul
 gula
 gulai
@@ -5699,7 +5697,6 @@ jempol
 jemput
 jemuran
 jenang
-jendela
 jeneng
 jenengan
 jenenge
@@ -7191,7 +7188,6 @@ lantah
 lantai
 lantak
 lantang
-lantar
 lantaran
 lantas
 lante
@@ -9597,6 +9593,7 @@ nginep
 nging
 nginggil
 nginggo
+ngingi
 ngingkang
 ngini
 nginjak
@@ -9834,7 +9831,6 @@ ngrusak
 ngrusuhi
 nguang
 ngubah
-ngubeng
 nguber
 ngubur
 ngucap
@@ -14101,7 +14097,6 @@ ukae
 ukai
 ukak
 ukal
-ukala
 ukam
 ukama
 ukaman
@@ -15087,7 +15082,6 @@ yes
 yesa
 yesi
 yet
-yeti
 yeye
 yi
 yitna
