@@ -3588,6 +3588,7 @@ et
 eta
 etad
 etah
+etai
 etak
 etal
 etam
@@ -5974,6 +5975,7 @@ kanting
 kanto
 kantongan
 kantor
+kantora
 kantun
 kanut
 kanyatane
@@ -6779,7 +6781,6 @@ kuat
 kubangan
 kubur
 kuburan
-kucak
 kucing
 kucir
 kuciran
@@ -14635,6 +14636,7 @@ widya
 wie
 wifi
 wih
+wiha
 wii
 wiira
 wijaya
