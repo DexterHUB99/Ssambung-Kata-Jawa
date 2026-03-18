@@ -3205,7 +3205,6 @@ elig
 elih
 elik
 elin
-elina
 eline
 eling
 elinga
@@ -4717,6 +4716,7 @@ haturnuhun
 hawa
 hawai
 hawane
+hawani
 hawe
 hawi
 hawo
@@ -5696,7 +5696,6 @@ jempol
 jemput
 jemuran
 jenang
-jendela
 jeneng
 jenengan
 jenenge
@@ -7188,7 +7187,6 @@ lantah
 lantai
 lantak
 lantang
-lantar
 lantaran
 lantas
 lante
@@ -9042,6 +9040,7 @@ nganjur
 nganjut
 nganta
 ngantar
+ngante
 ngantel
 ngantem
 ngantemi
@@ -9829,7 +9828,6 @@ ngrusak
 ngrusuhi
 nguang
 ngubah
-ngubeng
 nguber
 ngubur
 ngucap
@@ -10944,6 +10942,7 @@ pandang
 pandawa
 pande
 pandu
+pandung
 panem
 panen
 pang
@@ -14095,7 +14094,6 @@ ukae
 ukai
 ukak
 ukal
-ukala
 ukam
 ukama
 ukaman
