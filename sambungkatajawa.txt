@@ -7785,6 +7785,7 @@ makana
 makanan
 makane
 makanne
+makarya
 make
 maki
 makiya
@@ -11915,6 +11916,7 @@ ratna
 raton
 ratu
 ratui
+ratur
 ratus
 rauh
 raul
@@ -14661,6 +14663,7 @@ uting
 utir
 utira
 utiran
+utla
 utma
 uto
 utoh
@@ -14816,6 +14819,7 @@ wasira
 wasno
 waspada
 wasuh
+wat
 wata
 watak
 watek
