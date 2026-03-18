@@ -3231,6 +3231,7 @@ epal
 epam
 epan
 epang
+epap
 epar
 epas
 epat
@@ -8332,6 +8333,7 @@ ngalor
 ngaloren
 ngalu
 ngalum
+ngalungi
 ngalur
 ngalus
 ngam
@@ -10226,6 +10228,7 @@ papi
 papo
 papu
 papua
+papuk
 par
 para
 parah
@@ -10266,6 +10269,7 @@ pasare
 paser
 pasi
 pasih
+pasing
 pasir
 pasrah
 pasu
@@ -10943,6 +10947,7 @@ rangu
 rani
 ranjang
 ranjing
+rano
 ransel
 rantai
 rantan
@@ -11634,6 +11639,7 @@ sampi
 sampian
 samping
 sampir
+sampit
 sampo
 sampok
 sampol
@@ -13445,6 +13451,7 @@ urek
 uren
 ures
 uret
+urha
 uri
 urih
 urik
