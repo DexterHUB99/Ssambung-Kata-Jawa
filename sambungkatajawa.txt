@@ -2800,6 +2800,7 @@ dot
 dota
 dowe
 dowo
+doyo
 du
 dubur
 ducok
@@ -5243,6 +5244,7 @@ irub
 irue
 irug
 irui
+iruk
 irum
 irung
 irunge
