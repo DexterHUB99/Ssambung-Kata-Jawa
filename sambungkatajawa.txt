@@ -844,9 +844,7 @@ anie
 anif
 anig
 anih
-anii
 anik
-aniki
 anil
 anim
 anin
@@ -3841,7 +3839,6 @@ gemeter
 gemi
 gemo
 gempa
-gempal
 gempar
 gempol
 gemu
@@ -4853,7 +4850,6 @@ imna
 imo
 imoi
 impal
-impek
 impen
 impi
 impian
@@ -8876,7 +8872,6 @@ ngibul
 ngical
 ngicipi
 ngicir
-ngidal
 ngidam
 ngidang
 ngidek
@@ -8992,7 +8987,6 @@ ngka
 ngki
 ngko
 nglakoni
-nglali
 nglamun
 nglangi
 nglangkah
@@ -9227,7 +9221,6 @@ ngungkap
 ngungkuli
 nguning
 ngunjuk
-ngunjung
 ngunjungi
 nguno
 ngunta
@@ -9939,6 +9932,7 @@ opal
 opala
 opam
 opan
+opar
 opat
 opel
 open
@@ -10823,6 +10817,7 @@ rabit
 raboh
 rabu
 rabun
+racik
 racikan
 racon
 racun
@@ -11106,7 +11101,6 @@ rebus
 rebut
 rebutan
 receh
-redha
 redi
 rega
 regane
