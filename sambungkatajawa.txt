@@ -4997,6 +4997,7 @@ ika
 ikaa
 ikai
 ikal
+ikala
 ikan
 ikane
 ikar
@@ -11069,6 +11070,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piara
@@ -14949,6 +14951,7 @@ yue
 yuga
 yugo
 yuh
+yuha
 yuhan
 yui
 yuk
