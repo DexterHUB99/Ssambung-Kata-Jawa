@@ -3443,7 +3443,6 @@ epes
 epet
 epi
 epic
-epig
 epih
 epik
 epil
@@ -4489,7 +4488,6 @@ hah
 haha
 hahaa
 hahaha
-hahai
 hahi
 haho
 hai
@@ -6785,7 +6783,6 @@ kuat
 kubangan
 kubur
 kuburan
-kucak
 kucing
 kucir
 kuciran
