@@ -9525,6 +9525,7 @@ ngudud
 ngudut
 ngugah
 ngugu
+ngugur
 nguja
 nguji
 ngujuk
@@ -14669,6 +14670,7 @@ yui
 yuk
 yuka
 yukan
+yuke
 yuki
 yuko
 yula
