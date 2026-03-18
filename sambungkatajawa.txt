@@ -4622,7 +4622,6 @@ hambur
 hambura
 hame
 hamel
-hamen
 hami
 hamil
 hamis
@@ -7785,6 +7784,7 @@ makana
 makanan
 makane
 makanne
+makarya
 make
 maki
 makiya
@@ -8653,7 +8653,6 @@ nati
 natik
 natur
 nawa
-nawah
 nawan
 nawang
 nawani
@@ -9141,7 +9140,6 @@ ngarik
 ngaring
 ngarit
 ngaro
-ngarot
 ngarsa
 ngarta
 ngarti
@@ -10032,7 +10030,6 @@ nguyah
 nguyon
 nguyu
 nguyuh
-nguyung
 nguyup
 nguyur
 ngwah
@@ -11316,7 +11313,6 @@ pilak
 pilakon
 pilang
 pilar
-pilas
 pilat
 pile
 pileh
@@ -12295,7 +12291,6 @@ rosho
 rosi
 roso
 rosyi
-rota
 rotan
 roti
 rotii
@@ -14661,6 +14656,7 @@ uting
 utir
 utira
 utiran
+utla
 utma
 uto
 utoh
@@ -14816,6 +14812,7 @@ wasira
 wasno
 waspada
 wasuh
+wat
 wata
 watak
 watek
@@ -15050,7 +15047,6 @@ wusa
 wut
 wuta
 wutan
-wuto
 wutuh
 wuwi
 xenon
