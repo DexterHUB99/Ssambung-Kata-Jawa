@@ -3188,6 +3188,7 @@ endung
 ene
 eneg
 eneh
+enej
 enek
 enel
 enem
