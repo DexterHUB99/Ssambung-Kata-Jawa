@@ -9326,6 +9326,7 @@ ngung
 ngunggah
 ngungkap
 ngungkuli
+nguni
 nguning
 ngunjuk
 ngunjung
@@ -9512,6 +9513,7 @@ nitih
 nitik
 nitip
 niwa
+niwas
 niwi
 njagong
 njait
