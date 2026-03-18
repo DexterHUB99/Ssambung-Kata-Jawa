@@ -6196,6 +6196,7 @@ katot
 katresnan
 katro
 katrok
+katruk
 katu
 katuk
 katul
