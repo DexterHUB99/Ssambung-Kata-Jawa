@@ -1893,7 +1893,6 @@ bina
 binara
 bindeng
 bine
-bingka
 bingki
 bingung
 bini
@@ -3054,7 +3053,6 @@ ehey
 ehi
 ehid
 ehif
-ehij
 ehik
 ehil
 ehim
@@ -13113,7 +13111,6 @@ sosok
 sosol
 sosone
 sotel
-soten
 soti
 soto
 sowan
@@ -14579,7 +14576,6 @@ uwes
 uwi
 uwis
 uwit
-uwo
 uwong
 uwu
 uwuh
