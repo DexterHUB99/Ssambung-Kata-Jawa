@@ -1757,6 +1757,7 @@ beres
 beri
 berisik
 berkah
+berkat
 bero
 berok
 berot
@@ -6403,6 +6404,7 @@ ketut
 keur
 kewah
 kewan
+keweden
 kewek
 kewer
 keyong
