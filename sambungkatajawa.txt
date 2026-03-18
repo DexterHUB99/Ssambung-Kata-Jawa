@@ -2616,7 +2616,6 @@ diewe
 difa
 digawa
 digo
-digowo
 diguna
 diham
 dihan
@@ -5287,7 +5286,6 @@ isam
 isan
 isao
 isap
-isapan
 isar
 isat
 ise
@@ -6813,6 +6811,7 @@ kunti
 kuntul
 kuntulmu
 kunyuk
+kunyuke
 kuo
 kuota
 kup
@@ -9670,7 +9669,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunya
 ngup
 ngupah
 ngupai
@@ -10368,6 +10366,7 @@ ondhe
 ondho
 ondo
 ondol
+ondole
 oneng
 onet
 ongeh
@@ -10993,7 +10992,6 @@ pilakon
 pilang
 pilar
 pilat
-pilawang
 pile
 pileh
 pilek
@@ -11120,7 +11118,6 @@ pocung
 podang
 podho
 poe
-pohi
 poho
 pohung
 poi
@@ -11200,7 +11197,6 @@ posor
 pot
 pota
 pote
-potlot
 potong
 pow
 powa
@@ -13277,6 +13273,7 @@ tempek
 tempel
 tempelen
 tempik
+tempiling
 tempur
 tempura
 temu
@@ -13756,6 +13753,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
@@ -14275,6 +14273,7 @@ uyel
 uyi
 uyo
 uyuh
+uyuhe
 uyuhmu
 uz
 vaksin
@@ -14650,7 +14649,6 @@ yali
 yalo
 yam
 yama
-yamaa
 yamaha
 yaman
 yamen
