@@ -1276,7 +1276,6 @@ atek
 atel
 atem
 atema
-atemi
 aten
 atena
 atene
@@ -3401,7 +3400,6 @@ eror
 eros
 erosi
 erot
-eroti
 erta
 erti
 eru
@@ -8281,7 +8279,6 @@ nedi
 neduh
 neg
 nega
-negal
 negan
 negara
 negari
@@ -10702,7 +10699,6 @@ pijam
 pijang
 pijar
 pijat
-pijek
 pijer
 pijet
 pijit
@@ -13668,7 +13664,6 @@ unjal
 unjang
 unjar
 unjuk
-unjukan
 unjul
 unjung
 unjur
