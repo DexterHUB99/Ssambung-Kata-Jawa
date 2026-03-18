@@ -5493,6 +5493,7 @@ islami
 isli
 isma
 ismai
+ismaya
 isme
 ismi
 ismo
