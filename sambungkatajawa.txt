@@ -1466,7 +1466,6 @@ ayin
 aying
 ayip
 ayir
-ayit
 ayo
 ayoe
 ayoh
@@ -3367,7 +3366,6 @@ entu
 entuk
 entung
 entut
-entute
 entutmu
 enu
 enul
@@ -10882,7 +10880,6 @@ perahu
 perak
 peran
 perang
-perawat
 percaya
 pere
 perek
@@ -12249,7 +12246,6 @@ saos
 sap
 sapa
 sape
-sapeh
 sapi
 sapih
 sapir
@@ -12393,7 +12389,6 @@ sejuk
 sek
 seka
 sekar
-sekarang
 sekawan
 seke
 sekek
@@ -13116,7 +13111,6 @@ tangi
 tangina
 tangis
 tangkap
-tangkepan
 tangkis
 tanglet
 tani
