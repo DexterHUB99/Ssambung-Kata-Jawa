@@ -998,6 +998,7 @@ apa
 apaa
 apaan
 apae
+apag
 apah
 apak
 apal
@@ -5832,6 +5833,7 @@ kanthi
 kanthil
 kanti
 kantil
+kanting
 kanto
 kantongan
 kantor
