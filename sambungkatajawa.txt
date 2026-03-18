@@ -5560,6 +5560,7 @@ jalan
 jalang
 jalar
 jalaran
+jale
 jali
 jalo
 jalu
