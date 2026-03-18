@@ -543,7 +543,6 @@ amargi
 amargo
 amas
 amat
-amata
 amati
 amay
 amaya
@@ -3167,7 +3166,6 @@ empit
 emplok
 empo
 empot
-empoyo
 emprit
 empu
 empuk
@@ -3575,6 +3573,7 @@ fafa
 faham
 fakir
 fakta
+fala
 famu
 fan
 fana
@@ -4765,7 +4764,6 @@ ido
 idu
 iduladha
 idumu
-idune
 ieu
 if
 ig
@@ -8089,6 +8087,7 @@ nakuti
 nal
 nala
 nalah
+nalai
 nalak
 nalam
 nalan
@@ -9915,6 +9914,7 @@ nyinom
 nyiram
 nyirep
 nyo
+nyoba
 nyocot
 nyogok
 nyolek
@@ -11234,6 +11234,7 @@ ramis
 ramo
 rampai
 rampas
+rampek
 ramping
 rampok
 rampun
@@ -13893,6 +13894,7 @@ usie
 usih
 usik
 usike
+usiki
 usil
 using
 usir
