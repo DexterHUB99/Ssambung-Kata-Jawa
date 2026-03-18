@@ -100,7 +100,6 @@ adipati
 adis
 adit
 ado
-adog
 adoh
 adohe
 adol
@@ -1789,7 +1788,6 @@ belakang
 belan
 belang
 belanja
-bele
 beleh
 belek
 beler
@@ -2036,6 +2034,7 @@ bro
 brug
 bu
 bua
+buana
 buang
 buat
 buaya
@@ -5581,6 +5580,7 @@ ita
 itaa
 itai
 itali
+itami
 itara
 itawa
 ite
@@ -6889,6 +6889,7 @@ komplit
 kompor
 komputer
 kon
+kona
 konami
 konan
 konangan
@@ -6932,6 +6933,7 @@ kopok
 kopyor
 kor
 kora
+korak
 koran
 korban
 kore
@@ -7273,6 +7275,7 @@ langka
 langkah
 langkap
 langkung
+langsam
 langsep
 langsing
 langu
@@ -8290,7 +8293,6 @@ mlarat
 mlayu
 mlebet
 mlebu
-mlempem
 mlik
 mlipir
 mlumah
@@ -9999,6 +10001,7 @@ ngudi
 ngudik
 nguding
 ngudo
+ngudu
 ngudud
 ngudut
 ngugah
@@ -10017,7 +10020,6 @@ ngula
 ngulah
 ngulai
 ngulak
-ngulam
 ngulan
 ngulang
 ngulangi
@@ -11419,6 +11421,7 @@ pijang
 pijar
 pijat
 pijek
+pijem
 pijer
 pijet
 pijit
