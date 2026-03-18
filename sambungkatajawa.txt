@@ -2504,6 +2504,7 @@ dhahar
 dhawuh
 dhika
 di
+diajeng
 dialah
 diamana
 diancok
@@ -7746,6 +7747,7 @@ mlampah
 mlarat
 mlebet
 mlebu
+mlik
 mlumah
 mmantu
 mmelu
