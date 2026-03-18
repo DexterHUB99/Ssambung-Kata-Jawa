@@ -1812,6 +1812,7 @@ binu
 bio
 bir
 bira
+biri
 biro
 biru
 bis
@@ -5918,6 +5919,7 @@ kawas
 kawasan
 kawat
 kawe
+kawelas
 kawen
 kaweruh
 kawi
