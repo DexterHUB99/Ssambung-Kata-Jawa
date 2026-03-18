@@ -3141,6 +3141,7 @@ elom
 elon
 elong
 eloo
+elop
 elor
 elos
 elu
@@ -10395,6 +10396,7 @@ opin
 opine
 opini
 opit
+opitan
 opo
 opoan
 opoe
@@ -11676,6 +11678,7 @@ renaa
 renang
 rencana
 rencang
+renda
 rendang
 rendem
 rendeng
