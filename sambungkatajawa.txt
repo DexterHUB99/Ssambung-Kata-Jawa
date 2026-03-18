@@ -4227,6 +4227,7 @@ guneman
 guneme
 gung
 gunggungan
+guni
 gunjing
 gunting
 guntur
@@ -11443,6 +11444,7 @@ risih
 riska
 riski
 risma
+risna
 riso
 rista
 rit
