@@ -33,7 +33,6 @@ abrit
 abu
 abuh
 abul
-abuy
 ac
 aca
 acak
@@ -1689,7 +1688,6 @@ besar
 besek
 beskap
 besok
-besro
 besuk
 besuki
 betah
@@ -3745,7 +3743,6 @@ gedhe
 gedhi
 gedhung
 gedor
-gedung
 gee
 gega
 gegel
@@ -4736,7 +4733,6 @@ ilang
 ilangake
 ilangan
 ilangen
-ilangono
 ilaono
 ilap
 ilar
@@ -8253,7 +8249,6 @@ ngaka
 ngakak
 ngakal
 ngakali
-ngakar
 ngakeh
 ngakir
 ngakon
@@ -8480,7 +8475,6 @@ ngasuh
 ngasuk
 ngasul
 ngasur
-ngasus
 ngat
 ngata
 ngatasi
@@ -10907,7 +10901,6 @@ rapia
 rapie
 rapih
 rapina
-rapinter
 rapo
 rapopo
 rapu
@@ -12989,7 +12982,6 @@ uga
 ugah
 ugal
 ugama
-ugan
 ugar
 uger
 uget
@@ -13872,7 +13864,6 @@ wuru
 wus
 wusa
 wuta
-wutan
 wuwi
 xenon
 xilofon
