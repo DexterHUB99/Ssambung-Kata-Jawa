@@ -5676,6 +5676,7 @@ karuh
 karum
 karung
 karungan
+karup
 karya
 kas
 kasa
@@ -9728,6 +9729,7 @@ oler
 oles
 oli
 olih
+olik
 olin
 oling
 olit
