@@ -4622,6 +4622,7 @@ hambur
 hambura
 hame
 hamel
+hamen
 hami
 hamil
 hamis
@@ -10029,6 +10030,7 @@ nguyah
 nguyon
 nguyu
 nguyuh
+nguyung
 nguyup
 nguyur
 ngwah
@@ -11312,6 +11314,7 @@ pilak
 pilakon
 pilang
 pilar
+pilas
 pilat
 pile
 pileh
