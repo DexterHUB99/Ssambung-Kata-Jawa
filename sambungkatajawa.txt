@@ -5579,7 +5579,6 @@ iyuh
 iyuk
 iyung
 iyuran
-iyut
 iz
 ja
 jab
@@ -7714,7 +7713,6 @@ lurung
 lurus
 lus
 lusa
-luse
 lusi
 lusuh
 lut
@@ -8770,7 +8768,6 @@ nelur
 nem
 nemah
 neman
-nemba
 nembah
 nembak
 nembaki
@@ -10893,7 +10890,6 @@ pada
 padah
 padahal
 padam
-padan
 padang
 padaran
 padas
@@ -11313,7 +11309,6 @@ pikang
 piker
 piket
 piki
-pikik
 pikir
 pikiran
 pikirmu
@@ -14552,7 +14547,6 @@ urka
 urko
 urma
 urna
-urno
 uro
 urra
 urta
