@@ -2471,6 +2471,7 @@ dedek
 dedemit
 dedi
 dedik
+defug
 degan
 deja
 dek
@@ -3257,6 +3258,7 @@ enggar
 enggeh
 enggih
 enggil
+enggok
 enggon
 engkang
 engkel
@@ -3571,6 +3573,7 @@ ewuh
 ex
 ey
 eya
+eyag
 eyak
 eyam
 eyan
@@ -5780,6 +5783,7 @@ kampungan
 kampus
 kamu
 kamui
+kamuk
 kamula
 kamulyan
 kamung
@@ -13490,6 +13494,7 @@ ugal
 ugama
 ugan
 ugar
+uge
 uger
 uget
 ugi
