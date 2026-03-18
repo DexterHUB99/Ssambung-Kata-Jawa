@@ -3487,7 +3487,6 @@ enuk
 enul
 enum
 enun
-enur
 enus
 enwa
 enya
@@ -7878,7 +7877,6 @@ mandali
 mandan
 mandang
 mandeg
-mandel
 mandeng
 mandhek
 mandi
@@ -8088,7 +8086,6 @@ memen
 men
 menawa
 menawi
-mencolot
 mencret
 mendhem
 mendoan
@@ -14218,7 +14215,6 @@ ukaa
 ukae
 ukai
 ukak
-ukaka
 ukal
 ukam
 ukama
@@ -14578,6 +14574,7 @@ urat
 uratan
 ure
 urek
+urem
 uren
 ures
 uret
