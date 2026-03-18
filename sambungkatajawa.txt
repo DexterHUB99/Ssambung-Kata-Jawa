@@ -1287,6 +1287,7 @@ asuti
 asuw
 asuwe
 asuy
+asuya
 aswatama
 at
 ata
@@ -5874,10 +5875,10 @@ kali
 kalia
 kalian
 kalih
+kalihan
 kalim
 kalima
 kalimat
-kalin
 kaline
 kaliren
 kalis
@@ -8036,7 +8037,6 @@ mlebet
 mlebu
 mlik
 mlumah
-mmandi
 mmantu
 mmelu
 mmi
@@ -11188,7 +11188,6 @@ piting
 piton
 pitrah
 pitu
-pituh
 pitulang
 pitulas
 pitulung
@@ -14276,7 +14275,6 @@ usama
 usan
 usap
 usar
-usara
 use
 usek
 usem
@@ -14318,7 +14316,6 @@ usune
 usung
 usungi
 usuo
-usura
 usus
 ususa
 ususe
