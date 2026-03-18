@@ -3172,6 +3172,7 @@ elap
 elar
 elas
 ele
+eleg
 eleh
 elek
 elekan
