@@ -4120,6 +4120,7 @@ guguga
 guguk
 gugup
 gugur
+guguran
 gugus
 gul
 gula
@@ -7786,6 +7787,7 @@ muwa
 muwun
 na
 naa
+nab
 naba
 nabah
 naben
