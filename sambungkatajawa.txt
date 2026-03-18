@@ -563,6 +563,7 @@ ambii
 ambik
 ambil
 ambing
+amblas
 ambo
 amboi
 ambrol
