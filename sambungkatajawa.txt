@@ -2282,7 +2282,6 @@ dahak
 dahan
 dahar
 dahi
-dahu
 dajaran
 daju
 dak
@@ -8473,6 +8472,7 @@ ngasuh
 ngasuk
 ngasul
 ngasur
+ngasus
 ngat
 ngata
 ngatasi
@@ -10899,6 +10899,7 @@ rapia
 rapie
 rapih
 rapina
+rapinter
 rapo
 rapopo
 rapu
@@ -13396,7 +13397,6 @@ uruso
 urusono
 urut
 urutan
-urya
 us
 usa
 usaa
@@ -13621,7 +13621,6 @@ warga
 wari
 waria
 warik
-waring
 waris
 warisan
 warna
