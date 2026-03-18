@@ -8311,6 +8311,7 @@ ngali
 ngalih
 ngalir
 ngalis
+ngaliyan
 ngalo
 ngalon
 ngalong
@@ -13968,6 +13969,7 @@ yani
 yano
 yanyo
 yao
+yaora
 yap
 yapi
 yaping
