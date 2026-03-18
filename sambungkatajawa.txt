@@ -601,6 +601,7 @@ amon
 among
 amor
 amoro
+amot
 amoy
 amp
 ampa
@@ -2733,6 +2734,7 @@ dur
 dura
 duren
 duri
+duria
 durian
 durjana
 durma
@@ -3761,6 +3763,7 @@ gedor
 gedung
 gee
 gega
+gegayuhan
 gegel
 geger
 geget
@@ -7962,6 +7965,7 @@ napane
 napas
 nape
 napi
+napir
 napis
 napo
 napsu
@@ -8310,6 +8314,7 @@ ngali
 ngalih
 ngalir
 ngalis
+ngaliyan
 ngalo
 ngalon
 ngalong
@@ -9797,6 +9802,7 @@ olong
 oloo
 olop
 olor
+oloran
 olos
 olot
 om
@@ -9812,6 +9818,7 @@ ombak
 ombe
 ombea
 omben
+omber
 ombi
 ombian
 ombo
@@ -13966,6 +13973,7 @@ yani
 yano
 yanyo
 yao
+yaora
 yap
 yapi
 yaping
