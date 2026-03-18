@@ -2063,6 +2063,7 @@ capek
 caper
 capi
 caping
+capit
 capung
 cara
 caraka
@@ -3692,6 +3693,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -5878,6 +5880,7 @@ kayaa
 kayak
 kayane
 kayangan
+kayata
 kayok
 kayu
 kayuh
@@ -9775,6 +9778,7 @@ obot
 obrak
 obral
 obrol
+obrolan
 oceh
 ocehan
 oci
@@ -14070,6 +14074,7 @@ wonosobo
 wonten
 woo
 wor
+wora
 woro
 wortel
 wos
