@@ -2143,6 +2143,7 @@ caper
 capi
 caping
 capit
+capo
 capung
 cara
 caraka
@@ -7879,7 +7880,6 @@ meru
 mesake
 mese
 mesem
-mesi
 mesin
 meski
 meso
@@ -10274,7 +10274,6 @@ okita
 okok
 okoka
 okoke
-okokok
 okol
 okon
 okone
