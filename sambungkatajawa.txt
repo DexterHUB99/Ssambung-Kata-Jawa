@@ -4030,6 +4030,7 @@ gigim
 gigir
 gigit
 gigu
+gigung
 gih
 gila
 gilaa
@@ -9130,6 +9131,7 @@ ngiwas
 ngiwasi
 ngiya
 ngiyuh
+ngk
 ngka
 ngki
 ngko
