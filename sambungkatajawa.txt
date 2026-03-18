@@ -2340,6 +2340,7 @@ cilok
 cilu
 cilung
 cim
+cima
 cime
 cimo
 cimut
