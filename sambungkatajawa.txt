@@ -2616,7 +2616,6 @@ diewe
 difa
 digawa
 digo
-digowo
 diguna
 diham
 dihan
@@ -5287,7 +5286,6 @@ isam
 isan
 isao
 isap
-isapan
 isar
 isat
 ise
@@ -9670,7 +9668,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunya
 ngup
 ngupah
 ngupai
@@ -11119,7 +11116,6 @@ pocung
 podang
 podho
 poe
-pohi
 poho
 pohung
 poi
@@ -11199,7 +11195,6 @@ posor
 pot
 pota
 pote
-potlot
 potong
 pow
 powa
@@ -14649,7 +14644,6 @@ yali
 yalo
 yam
 yama
-yamaa
 yamaha
 yaman
 yamen
