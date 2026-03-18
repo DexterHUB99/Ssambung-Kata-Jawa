@@ -4426,6 +4426,7 @@ hambar
 hambawa
 hambok
 hambur
+hambura
 hame
 hamel
 hami
@@ -9402,6 +9403,7 @@ ngosek
 ngoseng
 ngosing
 ngosip
+ngosoh
 ngosok
 ngosong
 ngosor
