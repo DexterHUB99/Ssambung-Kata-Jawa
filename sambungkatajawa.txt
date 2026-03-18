@@ -371,6 +371,7 @@ akir
 akire
 akis
 akit
+akiwa
 ako
 akoe
 akoh
@@ -681,7 +682,6 @@ anap
 anar
 anarki
 anas
-anasi
 anat
 anaw
 anay
@@ -845,7 +845,9 @@ anie
 anif
 anig
 anih
+anii
 anik
+aniki
 anil
 anim
 anin
@@ -1138,6 +1140,7 @@ asai
 asak
 asal
 asala
+asalan
 asale
 asam
 asaman
@@ -1354,7 +1357,6 @@ aweh
 awek
 awer
 awet
-awha
 awi
 awik
 awin
@@ -1819,7 +1821,6 @@ bodoh
 bodok
 bogel
 bogem
-bogor
 bohong
 bojo
 bojok
@@ -2458,6 +2459,7 @@ dermawan
 deru
 des
 desa
+desi
 deso
 det
 deto
@@ -2776,6 +2778,7 @@ ebes
 ebew
 ebi
 ebit
+ebo
 eboh
 ebol
 ebu
@@ -3842,6 +3845,7 @@ gemeter
 gemi
 gemo
 gempa
+gempal
 gempar
 gempol
 gemu
@@ -4853,6 +4857,7 @@ imna
 imo
 imoi
 impal
+impek
 impen
 impi
 impian
@@ -5437,9 +5442,9 @@ jotos
 ju
 jual
 jualan
+juanda
 juang
 jubah
-juju
 jujug
 jujur
 jule
@@ -5533,7 +5538,6 @@ kakaa
 kakak
 kakaka
 kakala
-kakam
 kakanda
 kakang
 kakap
@@ -7505,7 +7509,6 @@ mene
 meneh
 menehi
 meneng
-mengaji
 mengko
 meni
 menika
@@ -8550,6 +8553,7 @@ ngasu
 ngasuh
 ngasuk
 ngasul
+ngasuni
 ngasur
 ngasus
 ngat
@@ -8878,6 +8882,7 @@ ngibul
 ngical
 ngicipi
 ngicir
+ngidal
 ngidam
 ngidang
 ngidek
@@ -8993,6 +8998,7 @@ ngka
 ngki
 ngko
 nglakoni
+nglali
 nglamun
 nglangi
 nglangkah
@@ -9052,6 +9058,7 @@ ngoleki
 ngoles
 ngolet
 ngoli
+ngolik
 ngolo
 ngoloh
 ngolok
@@ -9190,6 +9197,7 @@ ngulek
 ngulen
 ngulet
 nguli
+ngulih
 ngulik
 ngulit
 ngulo
@@ -9227,6 +9235,7 @@ ngungkap
 ngungkuli
 nguning
 ngunjuk
+ngunjung
 ngunjungi
 nguno
 ngunta
@@ -9938,7 +9947,6 @@ opal
 opala
 opam
 opan
-opar
 opat
 opel
 open
@@ -10823,7 +10831,6 @@ rabit
 raboh
 rabu
 rabun
-racik
 racikan
 racon
 racun
@@ -11107,6 +11114,7 @@ rebus
 rebut
 rebutan
 receh
+redha
 redi
 rega
 regane
