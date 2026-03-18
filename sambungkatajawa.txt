@@ -2490,6 +2490,7 @@ deni
 deno
 depa
 depak
+depot
 der
 dera
 derek
@@ -5455,7 +5456,6 @@ jili
 jilid
 jim
 jima
-jiman
 jimat
 jimbar
 jimpit
@@ -13927,7 +13927,6 @@ visa
 voli
 wa
 waa
-waalaikumsalam
 waca
 wacana
 wada
@@ -14086,7 +14085,6 @@ wekasa
 wekasan
 wekdal
 weke
-weker
 weki
 weko
 wektu
