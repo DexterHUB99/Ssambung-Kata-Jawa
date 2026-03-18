@@ -299,7 +299,6 @@ ajal
 ajam
 ajane
 ajang
-ajange
 ajar
 ajaran
 ajas
@@ -5579,6 +5578,7 @@ iyuh
 iyuk
 iyung
 iyuran
+iyut
 iz
 ja
 jab
@@ -7713,6 +7713,7 @@ lurung
 lurus
 lus
 lusa
+luse
 lusi
 lusuh
 lut
@@ -7742,7 +7743,6 @@ madam
 madan
 madang
 madas
-made
 madep
 madhang
 madi
@@ -7769,7 +7769,6 @@ magi
 magrib
 mah
 maha
-mahen
 mahi
 mahir
 mahoni
@@ -8155,7 +8154,6 @@ minal
 minangka
 minat
 minate
-minder
 minggat
 minggir
 minggu
@@ -8768,6 +8766,7 @@ nelur
 nem
 nemah
 neman
+nemba
 nembah
 nembak
 nembaki
@@ -10118,7 +10117,6 @@ ningsih
 nini
 ninine
 nining
-ninio
 ninja
 nino
 nio
@@ -10783,7 +10781,6 @@ oran
 orane
 orang
 orangapusi
-orangutan
 oranye
 orapapa
 orapopo
@@ -10890,6 +10887,7 @@ pada
 padah
 padahal
 padam
+padan
 padang
 padaran
 padas
@@ -11309,6 +11307,7 @@ pikang
 piker
 piket
 piki
+pikik
 pikir
 pikiran
 pikirmu
@@ -14526,7 +14525,6 @@ uren
 ures
 uret
 urha
-urhe
 uri
 urian
 urih
@@ -14547,6 +14545,7 @@ urka
 urko
 urma
 urna
+urno
 uro
 urra
 urta
