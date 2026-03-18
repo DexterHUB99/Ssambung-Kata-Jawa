@@ -4081,6 +4081,7 @@ ges
 gesa
 gesang
 gesek
+gesekan
 geseng
 geser
 gesi
