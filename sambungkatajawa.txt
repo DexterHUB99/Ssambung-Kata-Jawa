@@ -3690,7 +3690,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
