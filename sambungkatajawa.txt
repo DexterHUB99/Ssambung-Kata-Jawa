@@ -1842,6 +1842,7 @@ bibu
 bicik
 bicu
 bid
+bida
 bidak
 bidan
 bidek
@@ -4916,6 +4917,7 @@ iblis
 ibu
 ibuk
 ibuku
+ibumu
 ibune
 ibung
 ic
