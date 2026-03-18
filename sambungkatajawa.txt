@@ -5,6 +5,7 @@ aaha
 ab
 aba
 abab
+ababi
 abad
 abadi
 abah
@@ -626,6 +627,7 @@ amol
 amomo
 amon
 among
+amop
 amor
 amoro
 amot
@@ -641,6 +643,7 @@ amparan
 ampas
 ampat
 ampe
+ampean
 ampek
 ampel
 ampela
@@ -2103,6 +2106,7 @@ cam
 cama
 camat
 cambah
+cami
 campur
 can
 cancut
@@ -3823,6 +3827,7 @@ ganti
 gantian
 gantil
 gantolan
+gantos
 gantung
 gantungan
 ganwi
@@ -4544,6 +4549,7 @@ harimu
 harine
 harjo
 harm
+harma
 harman
 harmi
 harna
@@ -9536,6 +9542,7 @@ ngoyak
 ngoyaki
 ngoyo
 ngrabi
+ngrai
 ngran
 ngrasa
 ngrasak
@@ -9991,6 +9998,7 @@ nunggal
 nunggang
 nunggoni
 nunggu
+nungu
 nuni
 nuning
 nunjuk
@@ -10075,6 +10083,7 @@ nyelah
 nyelok
 nyeluk
 nyembah
+nyemplung
 nyeni
 nyenu
 nyepi
@@ -10880,7 +10889,6 @@ perahu
 perak
 peran
 perang
-perawat
 percaya
 pere
 perek
@@ -11905,6 +11913,7 @@ roo
 rop
 ropa
 ropak
+ropan
 rope
 ropi
 ropik
