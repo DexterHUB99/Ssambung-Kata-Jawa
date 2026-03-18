@@ -861,6 +861,7 @@ angguk
 anggur
 angguran
 angin
+angit
 angka
 angkana
 angkara
@@ -8013,6 +8014,7 @@ mandel
 mandeng
 mandhek
 mandi
+mandiri
 mandraguna
 mandu
 manduk
@@ -12017,6 +12019,7 @@ rala
 ralas
 ralet
 rali
+raline
 ram
 rama
 ramaa
