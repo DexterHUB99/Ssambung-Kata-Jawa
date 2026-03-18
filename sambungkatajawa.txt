@@ -5449,7 +5449,6 @@ ix
 iy
 iya
 iyaa
-iyalah
 iyan
 iyatah
 iye
@@ -5785,7 +5784,6 @@ kacung
 kadal
 kadan
 kadang
-kadem
 kademan
 kader
 kades
