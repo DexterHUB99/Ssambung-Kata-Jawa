@@ -9478,6 +9478,7 @@ ngulas
 nguleg
 ngulek
 ngulen
+nguler
 ngulet
 nguli
 ngulih
