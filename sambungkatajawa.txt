@@ -1701,7 +1701,6 @@ batur
 baturan
 bau
 bawa
-bawah
 bawal
 bawang
 bawe
@@ -12567,6 +12566,7 @@ salam
 salaman
 salat
 sale
+saleb
 saleh
 saleng
 salep
