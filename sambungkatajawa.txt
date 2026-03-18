@@ -9242,6 +9242,7 @@ ngeles
 ngeli
 ngelih
 ngelim
+ngelindur
 ngeling
 ngelingi
 ngelirik
@@ -12292,6 +12293,7 @@ ruti
 rutin
 ruwah
 ruwat
+ruwe
 ruwet
 ruwi
 ruyi
@@ -13088,6 +13090,7 @@ soyo
 sragen
 srawung
 sregep
+srengenge
 sri
 srikaya
 su
