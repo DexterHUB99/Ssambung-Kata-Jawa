@@ -144,6 +144,7 @@ agih
 agil
 agin
 agit
+agni
 ago
 agor
 agu
@@ -1707,6 +1708,7 @@ belum
 belut
 bem
 bema
+bemo
 ben
 bena
 benang
@@ -1882,6 +1884,7 @@ boli
 bolo
 boloe
 bolog
+boloho
 bolong
 bolos
 bolot
@@ -2202,6 +2205,7 @@ cilung
 cim
 cime
 cimo
+cimut
 cin
 cina
 cincin
@@ -8189,7 +8193,6 @@ nar
 nara
 narah
 narai
-narak
 naran
 naras
 narasi
@@ -9023,7 +9026,6 @@ ngeti
 ngetih
 ngetik
 ngeting
-ngeto
 ngetok
 ngeton
 ngetot
@@ -9817,6 +9819,7 @@ nup
 nur
 nura
 nurah
+nurani
 nure
 nuren
 nuri
@@ -9869,6 +9872,7 @@ nyari
 nyaru
 nyasar
 nyatu
+nyaur
 nyawa
 nyawah
 nyawang
@@ -11331,6 +11335,7 @@ rata
 ratai
 ratan
 ratau
+rate
 ratekan
 rati
 ratib
@@ -11431,6 +11436,7 @@ remahan
 remang
 remas
 remase
+remasi
 remba
 rembang
 rembes
@@ -12308,6 +12314,7 @@ set
 setam
 setan
 setaun
+setel
 setengah
 seti
 setrika
