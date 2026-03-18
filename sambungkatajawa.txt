@@ -5356,6 +5356,7 @@ isao
 isap
 isapa
 isar
+isas
 isat
 ise
 isek
