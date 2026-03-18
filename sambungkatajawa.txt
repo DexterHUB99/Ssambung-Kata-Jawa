@@ -3692,7 +3692,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -5219,6 +5218,7 @@ iyo
 iyoh
 iyoi
 iyom
+iyoo
 iyota
 iyu
 iyub
@@ -9684,6 +9684,7 @@ nyaman
 nyambel
 nyambi
 nyambik
+nyambu
 nyampek
 nyamuk
 nyangka
@@ -9771,7 +9772,6 @@ obot
 obrak
 obral
 obrol
-obrolan
 oceh
 ocehan
 oci
@@ -14067,7 +14067,6 @@ wonosobo
 wonten
 woo
 wor
-wora
 woro
 wortel
 wos
