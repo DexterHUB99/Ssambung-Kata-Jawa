@@ -405,7 +405,6 @@ aksen
 aksi
 aku
 akua
-akud
 akue
 akuh
 akui
@@ -1334,7 +1333,6 @@ atusan
 atut
 aub
 auh
-auhan
 aul
 aulah
 aum
@@ -1343,7 +1341,6 @@ auman
 aun
 auna
 aunan
-auni
 aup
 aura
 aurip
@@ -1588,7 +1585,6 @@ bariki
 baris
 barito
 barku
-barno
 baron
 barong
 barongan
@@ -1982,6 +1978,7 @@ buna
 bundas
 bunder
 bune
+bung
 bunga
 bungah
 bungahe
@@ -2172,7 +2169,6 @@ ciba
 cibu
 cica
 cicak
-cicek
 cici
 cicir
 cicit
@@ -2227,6 +2223,7 @@ cobek
 coc
 coco
 cocok
+cocol
 cocot
 cocote
 cocotmu
@@ -2340,7 +2337,6 @@ dadi
 dados
 dadu
 daduk
-dadumu
 daerah
 dagang
 dagel
@@ -3141,6 +3137,7 @@ emor
 emot
 emoy
 empal
+empale
 empan
 empang
 empedu
@@ -3253,7 +3250,6 @@ enjoy
 enka
 enki
 enko
-enla
 enli
 enlo
 enma
@@ -3338,6 +3334,7 @@ epit
 epo
 epoh
 epok
+epol
 epon
 epor
 epos
@@ -3516,7 +3513,6 @@ etus
 ev
 eva
 eval
-evan
 evin
 evo
 ew
@@ -4453,6 +4449,7 @@ harmi
 harna
 haro
 harta
+hartae
 hartane
 haru
 harue
@@ -5470,7 +5467,6 @@ jili
 jilid
 jim
 jima
-jiman
 jimat
 jimbar
 jimpit
@@ -5637,7 +5633,6 @@ kaila
 kaimas
 kain
 kaine
-kaira
 kaisa
 kaisar
 kajaba
@@ -6386,6 +6381,7 @@ kisi
 kit
 kita
 kitab
+kitae
 kitan
 kite
 kitela
@@ -6634,6 +6630,7 @@ kumuh
 kumut
 kun
 kuna
+kunai
 kunang
 kunci
 kuncup
@@ -6769,6 +6766,7 @@ laline
 lalio
 lam
 lama
+lamae
 lamai
 laman
 lamane
@@ -6799,6 +6797,7 @@ lampir
 lampiran
 lampu
 lampua
+lampue
 lampune
 lampung
 lamu
@@ -6868,6 +6867,7 @@ lapo
 lapuk
 lar
 lara
+larae
 laran
 larang
 laras
@@ -6921,6 +6921,7 @@ layar
 layu
 le
 leak
+leb
 leba
 lebah
 lebak
@@ -7084,6 +7085,7 @@ lingkungan
 linglung
 lingsir
 lini
+linjak
 lino
 linta
 lintah
@@ -7425,7 +7427,6 @@ malih
 malik
 malin
 maling
-malis
 malu
 malung
 mam
@@ -8013,6 +8014,7 @@ nadar
 nadhah
 nadi
 nadia
+nadie
 nadyan
 nae
 naek
@@ -8353,7 +8355,6 @@ nendang
 nene
 nenek
 nenen
-nenene
 nenenen
 neneng
 neng
@@ -9083,6 +9084,7 @@ ngijab
 ngijek
 ngijing
 ngijir
+ngijo
 ngijol
 ngijoli
 ngik
@@ -9158,7 +9160,6 @@ ngis
 ngisak
 ngisan
 ngisap
-ngisek
 ngiseng
 ngisep
 ngiser
@@ -9565,13 +9566,11 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
 nindak
 nindakake
-nine
 ning
 ninga
 ningali
@@ -12053,7 +12052,6 @@ satus
 saung
 saur
 saut
-sawa
 sawah
 sawak
 sawan
@@ -13434,6 +13432,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
@@ -13911,7 +13910,6 @@ uto
 utoh
 utowo
 utri
-utta
 utu
 utuh
 utumu
@@ -13951,7 +13949,6 @@ visa
 voli
 wa
 waa
-waalaikumsalam
 waca
 wacana
 wada
@@ -14021,7 +14018,6 @@ wangun
 wani
 wania
 wanine
-waning
 wanita
 wantah
 war
@@ -14111,7 +14107,6 @@ wekasa
 wekasan
 wekdal
 weke
-weker
 weki
 weko
 wektu
@@ -14480,6 +14475,7 @@ yuyun
 zaitun
 zakat
 zaman
+zamrud
 zat
 ze
 ziarah
