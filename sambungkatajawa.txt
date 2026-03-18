@@ -6721,6 +6721,7 @@ kirik
 kirikan
 kirim
 kiriman
+kirip
 kiris
 kiruk
 kirung
@@ -12936,6 +12937,7 @@ seti
 setrika
 setunggal
 sewa
+sewek
 sewelas
 sewer
 sewot
