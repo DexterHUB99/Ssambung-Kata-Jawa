@@ -2064,7 +2064,6 @@ capek
 caper
 capi
 caping
-capit
 capung
 cara
 caraka
@@ -2825,6 +2824,7 @@ edit
 edo
 edog
 edok
+edon
 edu
 edul
 edus
@@ -3697,7 +3697,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -4748,7 +4747,6 @@ ijeni
 iji
 ijig
 ijik
-ijil
 ijin
 ijo
 ijok
@@ -5213,7 +5211,6 @@ iwang
 iwangi
 iwas
 iwel
-iwen
 iwir
 ix
 iy
@@ -5830,10 +5827,10 @@ kata
 katah
 katak
 katam
+katan
 katang
 kate
 kateh
-katek
 katel
 kater
 kates
@@ -5887,7 +5884,6 @@ kayaa
 kayak
 kayane
 kayangan
-kayata
 kayok
 kayu
 kayuh
@@ -6122,6 +6118,7 @@ kepuh
 ker
 kera
 kerah
+kerajaan
 kerak
 keram
 kerama
@@ -7204,7 +7201,6 @@ lumayan
 lumbung
 lumen
 lumer
-lumi
 lumpak
 lumpang
 lumping
@@ -7549,6 +7545,7 @@ melati
 melek
 meler
 melet
+meli
 melinjo
 melok
 melon
@@ -8663,7 +8660,6 @@ ngaut
 ngawa
 ngawag
 ngawah
-ngawak
 ngawal
 ngawali
 ngawang
@@ -8710,7 +8706,6 @@ ngece
 ngecek
 ngeces
 ngecet
-ngecor
 ngedan
 ngedang
 ngedani
@@ -9168,6 +9163,7 @@ ngong
 ngongge
 ngongkang
 ngongko
+ngoni
 ngono
 ngonoa
 ngonoe
@@ -9691,7 +9687,6 @@ nutup
 nutupi
 nutur
 nuturi
-nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9794,7 +9789,6 @@ obot
 obrak
 obral
 obrol
-obrolan
 oceh
 ocehan
 oci
@@ -10966,7 +10960,6 @@ rahmat
 rahmatan
 rahwana
 rai
-raia
 raib
 raie
 raika
@@ -11028,6 +11021,7 @@ ramayana
 rambak
 ramban
 rambanan
+rambang
 rambas
 rambat
 rambatan
@@ -11148,7 +11142,6 @@ rasim
 rasing
 rasis
 raski
-rasmi
 rasmo
 raso
 rasta
@@ -11712,6 +11705,7 @@ sakarepmu
 sakel
 saken
 saket
+sakhi
 saki
 sakiki
 saking
@@ -11801,7 +11795,6 @@ san
 sana
 sanae
 sanak
-sanar
 sandal
 sandale
 sandang
@@ -12641,7 +12634,6 @@ tales
 tali
 talie
 taline
-talingan
 talo
 tam
 tama
@@ -14096,7 +14088,6 @@ wonosobo
 wonten
 woo
 wor
-wora
 woro
 wortel
 wos
