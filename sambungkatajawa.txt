@@ -3964,6 +3964,7 @@ gantos
 gantung
 gantungan
 ganwi
+ganyo
 ganyong
 gap
 gapa
@@ -5342,6 +5343,7 @@ injuk
 insan
 insana
 insyaallah
+internet
 inti
 intii
 intil
@@ -7998,6 +8000,7 @@ masyarakat
 mat
 mata
 matahari
+matak
 matam
 matamu
 matan
@@ -10232,6 +10235,7 @@ nnginum
 nngopo
 nni
 nnipo
+nnumpak
 nny
 no
 nobat
@@ -13462,6 +13466,7 @@ susum
 susumu
 susun
 susune
+susup
 susyu
 sut
 suta
@@ -14182,6 +14187,7 @@ ugal
 ugama
 ugan
 ugar
+ugas
 uge
 ugel
 uger
@@ -14756,6 +14762,7 @@ utusan
 utusane
 ututek
 ututer
+ututuh
 utya
 uud
 uv
