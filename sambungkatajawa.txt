@@ -1771,6 +1771,7 @@ bekne
 beko
 bekok
 bekong
+beku
 bel
 bela
 belah
@@ -11083,6 +11084,7 @@ pantat
 pante
 pantes
 panti
+pantu
 pantun
 panuh
 panun
@@ -14574,6 +14576,7 @@ urat
 uratan
 ure
 urek
+urem
 uren
 ures
 uret
