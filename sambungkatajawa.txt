@@ -307,6 +307,7 @@ ajek
 ajeng
 ajep
 aji
+ajian
 ajib
 ajig
 ajih
@@ -1287,6 +1288,7 @@ asuti
 asuw
 asuwe
 asuy
+asuya
 aswatama
 at
 ata
@@ -1665,6 +1667,7 @@ batok
 batu
 batuk
 batune
+batur
 baturan
 bau
 bawa
@@ -4578,6 +4581,7 @@ hapus
 hapusi
 har
 hara
+haraa
 harai
 haram
 harang
@@ -4893,6 +4897,7 @@ idal
 idam
 idaman
 idan
+idar
 ide
 idea
 idem
@@ -5879,6 +5884,7 @@ kali
 kalia
 kalian
 kalih
+kalihan
 kalim
 kalima
 kalimat
@@ -7525,6 +7531,7 @@ lumer
 lumi
 lumpak
 lumpang
+lumpat
 lumping
 lumpuh
 lumpuk
@@ -8040,6 +8047,7 @@ mlayu
 mlebet
 mlebu
 mlik
+mlipir
 mlumah
 mmandi
 mmantu
@@ -8199,7 +8207,6 @@ munek
 mung
 mungah
 munggah
-munggur
 mungkin
 mungkir
 mungsuh
@@ -11835,6 +11842,7 @@ rengket
 reni
 renjang
 reno
+renta
 rentan
 rentang
 renteng
@@ -13439,6 +13447,7 @@ tere
 teri
 terima
 terlihat
+terna
 ternak
 terne
 terong
