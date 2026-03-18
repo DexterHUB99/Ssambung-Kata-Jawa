@@ -2862,6 +2862,7 @@ dlogok
 dluwang
 do
 doa
+doang
 doba
 dobi
 dobleh
@@ -6423,6 +6424,7 @@ kecot
 kecut
 kedah
 kedai
+kedak
 kedanan
 kedaton
 keder
@@ -7524,6 +7526,7 @@ licuh
 lidah
 lider
 lie
+lien
 lih
 liha
 lihat
