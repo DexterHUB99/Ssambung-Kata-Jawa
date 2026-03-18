@@ -10880,6 +10880,7 @@ perahu
 perak
 peran
 perang
+perawat
 percaya
 pere
 perek
@@ -12389,6 +12390,7 @@ sejuk
 sek
 seka
 sekar
+sekarang
 sekawan
 seke
 sekek
@@ -13111,6 +13113,7 @@ tangi
 tangina
 tangis
 tangkap
+tangkepan
 tangkis
 tanglet
 tani
