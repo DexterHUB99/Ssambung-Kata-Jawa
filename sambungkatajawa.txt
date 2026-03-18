@@ -7747,7 +7747,6 @@ mamas
 mamat
 mambu
 mami
-mampet
 mampir
 mampu
 mampus
@@ -11256,7 +11255,6 @@ pisa
 pisab
 pisah
 pisahan
-pisak
 pisan
 pisane
 pisang
@@ -13081,6 +13079,7 @@ sugi
 sugih
 sugiyo
 suh
+suhen
 sui
 suji
 sujud
