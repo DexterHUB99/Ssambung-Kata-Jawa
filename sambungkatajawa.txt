@@ -10984,6 +10984,7 @@ palo
 paloh
 palsu
 palu
+paluh
 palung
 palur
 pamah
