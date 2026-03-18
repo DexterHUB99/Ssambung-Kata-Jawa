@@ -3043,7 +3043,6 @@ eboh
 ebol
 ebor
 ebu
-ec
 eca
 ecah
 ecek
@@ -7158,7 +7157,6 @@ kur
 kura
 kuran
 kurang
-kurangajar
 kurawa
 kurban
 kure
@@ -11480,6 +11478,7 @@ petak
 petan
 petani
 pete
+petel
 peteng
 pethuk
 peti
@@ -12670,7 +12669,6 @@ sa
 saa
 saaken
 saan
-saapi
 saawa
 saayang
 sab
