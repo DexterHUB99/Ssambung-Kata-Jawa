@@ -5749,6 +5749,7 @@ kalih
 kalim
 kalima
 kalimat
+kaline
 kaliren
 kalis
 kalisa
@@ -13758,6 +13759,7 @@ undang
 undangan
 undar
 undeg
+undhak
 undhakan
 undhi
 undi
