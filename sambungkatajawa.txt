@@ -9078,6 +9078,7 @@ ngerami
 ngerampok
 ngerandu
 ngerap
+ngeras
 ngerasa
 ngerasani
 ngere
@@ -12821,6 +12822,7 @@ sungkeman
 sungkemi
 sungu
 suni
+sunja
 sunnah
 suntik
 suntuk
