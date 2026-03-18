@@ -2064,6 +2064,7 @@ capek
 caper
 capi
 caping
+capit
 capung
 cara
 caraka
@@ -3176,7 +3177,6 @@ enen
 eneng
 enengkol
 enes
-enet
 engah
 engeh
 enggal
@@ -3456,7 +3456,6 @@ etog
 etoh
 etok
 etol
-etom
 eton
 etos
 etose
@@ -3698,6 +3697,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -4748,6 +4748,7 @@ ijeni
 iji
 ijig
 ijik
+ijil
 ijin
 ijo
 ijok
@@ -5831,6 +5832,7 @@ katam
 katang
 kate
 kateh
+katek
 katel
 kater
 kates
@@ -5884,6 +5886,7 @@ kayaa
 kayak
 kayane
 kayangan
+kayata
 kayok
 kayu
 kayuh
@@ -6904,7 +6907,6 @@ lengkuas
 lengo
 lengser
 lentog
-leot
 lepas
 lepat
 lepe
@@ -6959,7 +6961,6 @@ liko
 liku
 lila
 lilas
-lile
 lileh
 lili
 lilin
@@ -7202,6 +7203,7 @@ lumayan
 lumbung
 lumen
 lumer
+lumi
 lumpak
 lumpang
 lumping
@@ -8660,6 +8662,7 @@ ngaut
 ngawa
 ngawag
 ngawah
+ngawak
 ngawal
 ngawali
 ngawang
@@ -8706,6 +8709,7 @@ ngece
 ngecek
 ngeces
 ngecet
+ngecor
 ngedan
 ngedang
 ngedani
@@ -9686,6 +9690,7 @@ nutup
 nutupi
 nutur
 nuturi
+nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9788,6 +9793,7 @@ obot
 obrak
 obral
 obrol
+obrolan
 oceh
 ocehan
 oci
@@ -12631,6 +12637,7 @@ tales
 tali
 talie
 taline
+talingan
 talo
 tam
 tama
@@ -14085,6 +14092,7 @@ wonosobo
 wonten
 woo
 wor
+wora
 woro
 wortel
 wos
