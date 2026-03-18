@@ -682,6 +682,7 @@ anap
 anar
 anarki
 anas
+anasi
 anat
 anaw
 anay
@@ -883,6 +884,7 @@ anjungan
 anjur
 anjuran
 anjurane
+ankur
 ano
 anoa
 anoe
@@ -1357,6 +1359,7 @@ aweh
 awek
 awer
 awet
+awha
 awi
 awik
 awin
@@ -1821,6 +1824,7 @@ bodoh
 bodok
 bogel
 bogem
+bogor
 bohong
 bojo
 bojok
@@ -3440,6 +3444,7 @@ etub
 etuh
 etuk
 etum
+etun
 etung
 etus
 ev
@@ -4798,6 +4803,7 @@ ilik
 ililang
 ilin
 iling
+ilingana
 ilingen
 ilingo
 ilir
@@ -5445,6 +5451,7 @@ jualan
 juanda
 juang
 jubah
+juju
 jujug
 jujur
 jule
@@ -5538,6 +5545,7 @@ kakaa
 kakak
 kakaka
 kakala
+kakam
 kakanda
 kakang
 kakap
@@ -6960,7 +6968,6 @@ lipan
 lipas
 lipase
 lipat
-lipe
 lipen
 lipet
 lipi
@@ -7266,6 +7273,7 @@ malam
 malan
 malang
 malas
+malati
 maleh
 malek
 malem
@@ -7510,6 +7518,7 @@ mene
 meneh
 menehi
 meneng
+mengaji
 mengko
 meni
 menika
@@ -8335,7 +8344,6 @@ ngal
 ngala
 ngalah
 ngalahi
-ngalak
 ngalam
 ngalami
 ngalamun
@@ -9949,6 +9957,7 @@ opal
 opala
 opam
 opan
+opar
 opat
 opel
 open
@@ -10095,7 +10104,6 @@ pacar
 pace
 pacik
 pacol
-pacor
 pacul
 pada
 padah
@@ -10834,6 +10842,7 @@ rabit
 raboh
 rabu
 rabun
+racik
 racikan
 racon
 racun
@@ -10972,6 +10981,7 @@ randue
 randune
 rane
 rang
+ranga
 rangda
 rangga
 ranggenah
@@ -11663,6 +11673,7 @@ samber
 sambet
 sambi
 sambil
+sambilan
 sambung
 sambut
 sami
@@ -12821,7 +12832,6 @@ tinju
 tinulis
 tip
 tipa
-tipak
 tipi
 tir
 tira
