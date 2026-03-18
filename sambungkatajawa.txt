@@ -2996,7 +2996,6 @@ duwe
 duwek
 duwet
 duwit
-duwo
 duwu
 duwur
 duyo
@@ -6436,7 +6435,6 @@ kelaran
 kelas
 kelawan
 kele
-keleb
 kelebon
 kelebu
 kelek
@@ -8455,7 +8453,6 @@ munek
 mung
 mungah
 munggah
-munggaho
 mungkin
 mungkir
 mungsuh
@@ -9651,7 +9648,6 @@ nggone
 nggoreng
 nggotong
 nggowo
-nggowoe
 nggresiki
 nggugus
 nggula
@@ -9828,7 +9824,6 @@ ngobah
 ngobak
 ngobat
 ngobati
-ngobel
 ngober
 ngoblok
 ngobok
@@ -10716,7 +10711,6 @@ oleh
 oleha
 olehan
 olehe
-olehem
 oleholeh
 olek
 olem
@@ -12668,7 +12662,6 @@ salaman
 salat
 sale
 saleh
-salem
 saleng
 salep
 sali
@@ -13912,7 +13905,6 @@ tilas
 tilasan
 tile
 tilem
-tileme
 tilep
 tilepan
 tili
