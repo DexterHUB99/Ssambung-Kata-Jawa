@@ -1476,6 +1476,7 @@ awuh
 awul
 awulo
 awur
+awuran
 awuren
 ax
 ay
@@ -2026,6 +2027,7 @@ boyo
 boyok
 boyolali
 bro
+brug
 bu
 bua
 buang
@@ -2797,7 +2799,6 @@ dir
 dira
 diran
 direng
-direwangi
 diri
 diru
 dirum
@@ -4454,7 +4455,6 @@ gotongroyong
 gowang
 gowange
 gowo
-gowoe
 goyah
 goyang
 gragal
@@ -6127,7 +6127,6 @@ kangen
 kangge
 kanggeh
 kanggo
-kanggone
 kangi
 kangkung
 kangmas
@@ -8061,6 +8060,7 @@ mayi
 mayit
 mayu
 mayuh
+mayun
 mayungi
 mbah
 mbak
@@ -10974,6 +10974,7 @@ padaran
 padas
 padasan
 padha
+padhang
 padil
 pados
 padu
@@ -14146,6 +14147,7 @@ ubang
 ubarampe
 ube
 ubek
+ubekan
 uber
 ubet
 ubi
@@ -14610,7 +14612,6 @@ uraan
 urab
 urae
 urah
-urahe
 urai
 urak
 uraka
