@@ -1152,6 +1152,7 @@ areng
 arep
 arepan
 arepe
+arer
 ares
 aret
 arga
