@@ -933,6 +933,7 @@ antun
 antur
 anu
 anua
+anuan
 anue
 anugerah
 anuh
@@ -6730,6 +6731,7 @@ lasak
 lasan
 lase
 lasi
+laskar
 latah
 latar
 late
@@ -11162,6 +11164,7 @@ renggang
 rengginang
 renggo
 rengket
+reni
 renjang
 reno
 rentan
