@@ -1636,7 +1636,6 @@ bangau
 bangke
 bangkong
 bangkot
-bango
 bangsa
 bangsat
 bani
@@ -7829,7 +7828,6 @@ mamana
 mamas
 mamat
 mambu
-mamek
 mami
 mampet
 mampir
@@ -10514,7 +10512,6 @@ ojen
 ojik
 ojil
 ojo
-ojoe
 ojok
 ojol
 ojolali
@@ -11435,7 +11432,6 @@ pitur
 pitutur
 pituturan
 piutang
-piwak
 piwul
 piwulang
 piya
