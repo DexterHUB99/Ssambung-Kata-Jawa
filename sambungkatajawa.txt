@@ -1731,6 +1731,7 @@ bebas
 bebe
 bebek
 beber
+bebi
 bebo
 becak
 becek
@@ -4378,6 +4379,7 @@ goboh
 gocek
 goceki
 godek
+godho
 godhok
 godhong
 godog
@@ -6028,6 +6030,7 @@ kalang
 kalangkung
 kalap
 kalapa
+kalas
 kalasan
 kalawan
 kalawi
@@ -8102,6 +8105,7 @@ melas
 melasi
 melati
 melek
+melem
 meler
 melet
 meli
@@ -9801,6 +9805,7 @@ ngni
 ngobah
 ngobak
 ngobat
+ngobati
 ngober
 ngoblok
 ngobok
