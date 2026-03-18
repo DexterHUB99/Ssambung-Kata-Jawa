@@ -1052,6 +1052,7 @@ arami
 aran
 arane
 arang
+arangan
 araning
 arap
 arar
@@ -1098,7 +1099,6 @@ arit
 arjo
 arjuna
 arjuno
-arka
 arma
 armai
 aro
@@ -1114,6 +1114,7 @@ arsa
 arsi
 arsila
 arta
+artai
 arti
 artii
 artine
@@ -2038,6 +2039,7 @@ calak
 calo
 calon
 calung
+cam
 cama
 camat
 cambah
@@ -2065,7 +2067,6 @@ capek
 caper
 capi
 caping
-capit
 capung
 cara
 caraka
@@ -3699,7 +3700,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -4750,7 +4750,6 @@ ijeni
 iji
 ijig
 ijik
-ijil
 ijin
 ijo
 ijok
@@ -5186,6 +5185,7 @@ isya
 it
 ita
 itaa
+itai
 itali
 itara
 ite
@@ -5215,7 +5215,6 @@ iwang
 iwangi
 iwas
 iwel
-iwen
 iwir
 ix
 iy
@@ -5600,7 +5599,6 @@ kakehan
 kakek
 kaki
 kakine
-kakir
 kaku
 kakung
 kakus
@@ -5837,7 +5835,6 @@ katan
 katang
 kate
 kateh
-katek
 katel
 kater
 kates
@@ -5891,7 +5888,6 @@ kayaa
 kayak
 kayane
 kayangan
-kayata
 kayok
 kayu
 kayuh
@@ -7209,7 +7205,6 @@ lumayan
 lumbung
 lumen
 lumer
-lumi
 lumpak
 lumpang
 lumping
@@ -7300,6 +7295,7 @@ magrib
 mah
 maha
 mahir
+mahoni
 mai
 maido
 main
@@ -8669,7 +8665,6 @@ ngaut
 ngawa
 ngawag
 ngawah
-ngawak
 ngawal
 ngawali
 ngawang
@@ -8705,7 +8700,6 @@ ngayuk
 ngayun
 ngcak
 nge
-ngeanu
 ngebaki
 ngebang
 ngebo
@@ -8717,7 +8711,6 @@ ngece
 ngecek
 ngeces
 ngecet
-ngecor
 ngedan
 ngedang
 ngedani
@@ -9084,7 +9077,6 @@ ngiwa
 ngiwak
 ngiwas
 ngiwasi
-ngiya
 ngiyuh
 ngka
 ngki
@@ -9502,6 +9494,7 @@ nisan
 niscaya
 nisi
 nising
+nisna
 nista
 nisun
 nit
@@ -9700,7 +9693,6 @@ nutup
 nutupi
 nutur
 nuturi
-nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9803,7 +9795,6 @@ obot
 obrak
 obral
 obrol
-obrolan
 oceh
 ocehan
 oci
@@ -10413,6 +10404,7 @@ pasrah
 pasti
 pasu
 pasuh
+pasuk
 pasuruan
 pat
 patah
@@ -10975,7 +10967,6 @@ rahmat
 rahmatan
 rahwana
 rai
-raia
 raib
 raie
 raika
@@ -11158,7 +11149,6 @@ rasim
 rasing
 rasis
 raski
-rasmi
 rasmo
 raso
 rasta
@@ -11812,7 +11802,6 @@ san
 sana
 sanae
 sanak
-sanar
 sandal
 sandale
 sandang
@@ -12652,7 +12641,6 @@ tales
 tali
 talie
 taline
-talingan
 talo
 tam
 tama
@@ -12701,6 +12689,7 @@ tangkap
 tangkis
 tanglet
 tani
+tanjakan
 tanjung
 tanpa
 tansah
@@ -14082,6 +14071,7 @@ wiwit
 wiwitan
 wiye
 wo
+woa
 woe
 woh
 woho
@@ -14107,7 +14097,6 @@ wonosobo
 wonten
 woo
 wor
-wora
 woro
 wortel
 wos
