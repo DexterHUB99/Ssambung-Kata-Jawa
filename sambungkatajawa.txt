@@ -371,7 +371,6 @@ akir
 akire
 akis
 akit
-akiwa
 ako
 akoe
 akoh
@@ -845,9 +844,7 @@ anie
 anif
 anig
 anih
-anii
 anik
-aniki
 anil
 anim
 anin
@@ -3417,6 +3414,7 @@ etes
 etet
 eti
 etig
+etih
 etik
 etika
 etil
@@ -3842,7 +3840,6 @@ gemeter
 gemi
 gemo
 gempa
-gempal
 gempar
 gempol
 gemu
@@ -4169,6 +4166,7 @@ gulung
 gulungan
 gulur
 gumam
+gumathok
 gumati
 gumuh
 gumuk
@@ -4854,7 +4852,6 @@ imna
 imo
 imoi
 impal
-impek
 impen
 impi
 impian
@@ -5704,6 +5701,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -5934,7 +5932,9 @@ kelon
 kelonan
 kelor
 keloro
+kelot
 keluarga
+kelud
 keluh
 kelum
 kelut
@@ -6245,6 +6245,7 @@ kisa
 kisan
 kisanak
 kisi
+kisuh
 kit
 kita
 kitab
@@ -7468,6 +7469,7 @@ mek
 meka
 mekali
 mekar
+mekaten
 meki
 mekso
 mel
@@ -7981,6 +7983,7 @@ nangkring
 nango
 nani
 naning
+nanja
 nano
 nantang
 nantangi
@@ -8732,6 +8735,7 @@ ngenggo
 ngeniko
 ngenja
 ngenjang
+ngenjing
 ngeno
 ngenot
 ngenteni
@@ -8871,13 +8875,13 @@ ngguyue
 ngguyur
 ngibadah
 ngiber
+ngibing
 ngibrit
 ngibu
 ngibul
 ngical
 ngicipi
 ngicir
-ngidal
 ngidam
 ngidang
 ngidek
@@ -8993,7 +8997,6 @@ ngka
 ngki
 ngko
 nglakoni
-nglali
 nglamun
 nglangi
 nglangkah
@@ -9053,7 +9056,6 @@ ngoleki
 ngoles
 ngolet
 ngoli
-ngolik
 ngolo
 ngoloh
 ngolok
@@ -9229,7 +9231,6 @@ ngungkap
 ngungkuli
 nguning
 ngunjuk
-ngunjung
 ngunjungi
 nguno
 ngunta
@@ -9714,6 +9715,7 @@ og
 ogah
 ogahe
 ogak
+ogan
 oge
 ogek
 oger
@@ -10175,6 +10177,7 @@ pamit
 pamitan
 pamrih
 pan
+pana
 panah
 panai
 panas
@@ -10219,6 +10222,7 @@ panglima
 pangling
 pani
 panik
+panim
 paningal
 panir
 panis
@@ -10483,6 +10487,7 @@ piker
 piki
 pikir
 pikiran
+pikiren
 pikirmu
 piknik
 piko
@@ -11108,7 +11113,6 @@ rebus
 rebut
 rebutan
 receh
-redha
 redi
 rega
 regane
@@ -12791,6 +12795,7 @@ timbali
 timbang
 timbangan
 timbange
+timbuk
 timbul
 timbun
 time
@@ -13077,6 +13082,7 @@ udelku
 udelmu
 uden
 udeng
+uder
 udha
 udharan
 udi
@@ -13358,6 +13364,7 @@ ung
 unga
 ungaran
 unggah
+unggahan
 unggal
 unggar
 unggaran
