@@ -3602,6 +3602,7 @@ etep
 eter
 etes
 etet
+etew
 eti
 etig
 etik
@@ -8451,7 +8452,6 @@ natah
 natal
 natalan
 natan
-natani
 natap
 nate
 nati
