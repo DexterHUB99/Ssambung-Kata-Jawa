@@ -2936,7 +2936,6 @@ eca
 ecah
 ecek
 ecer
-ecik
 eco
 ed
 eda
@@ -4775,7 +4774,6 @@ hot
 hota
 hote
 hotel
-hoti
 hotma
 hoto
 howa
@@ -7343,7 +7341,6 @@ liwer
 liwet
 liwo
 liya
-liyan
 liyane
 liyep
 liyo
@@ -9543,7 +9540,6 @@ ngomong
 ngomongo
 ngompol
 ngompor
-ngompori
 ngon
 ngonde
 ngone
@@ -14668,7 +14664,6 @@ wonten
 woo
 wor
 wora
-workout
 woro
 wortel
 wos
