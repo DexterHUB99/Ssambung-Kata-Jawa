@@ -6229,6 +6229,7 @@ katone
 katos
 katot
 katresnan
+katresnanan
 katro
 katrok
 katruk
@@ -9287,6 +9288,7 @@ ngelakoni
 ngelam
 ngelantur
 ngelap
+ngelar
 ngelas
 ngelawak
 ngelawan
@@ -14263,6 +14265,7 @@ umbar
 umbara
 umbas
 umbel
+umbelan
 umbele
 umbi
 umbia
