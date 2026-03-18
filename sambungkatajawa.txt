@@ -598,7 +598,6 @@ amoh
 amoi
 amok
 amol
-amomo
 amon
 among
 amor
@@ -845,6 +844,7 @@ anif
 anig
 anih
 anik
+aniki
 anil
 anim
 anin
@@ -1070,7 +1070,6 @@ aria
 ariana
 arif
 arih
-arii
 arik
 aril
 arim
@@ -3235,7 +3234,6 @@ epal
 epam
 epan
 epang
-epap
 epar
 epas
 epat
@@ -3759,7 +3757,6 @@ geblog
 geblok
 gebok
 gebug
-gebuk
 gebuki
 gebyar
 gedag
@@ -3839,6 +3836,7 @@ gemeter
 gemi
 gemo
 gempa
+gempal
 gempar
 gempol
 gemu
@@ -4232,7 +4230,6 @@ guyup
 guyur
 ha
 haa
-haan
 habib
 habibi
 habis
@@ -4850,6 +4847,7 @@ imna
 imo
 imoi
 impal
+impek
 impen
 impi
 impian
@@ -5468,7 +5466,6 @@ kabar
 kabare
 kabeh
 kabel
-kabi
 kabul
 kabupaten
 kabur
@@ -6157,7 +6154,6 @@ ketum
 ketumbar
 ketup
 ketupat
-keturunan
 ketus
 ketut
 keur
@@ -6295,7 +6291,6 @@ kola
 kolah
 kolak
 kolam
-kole
 koleh
 kolek
 koli
@@ -7274,7 +7269,6 @@ mama
 mamah
 mamak
 mamake
-maman
 mamas
 mamat
 mambu
@@ -7641,7 +7635,6 @@ mojo
 mojokerto
 mok
 mokal
-moke
 mokong
 mol
 mola
@@ -7701,7 +7694,6 @@ mriku
 mringis
 mripat
 mrono
-mruk
 mu
 mual
 muara
@@ -8349,7 +8341,6 @@ ngalor
 ngaloren
 ngalu
 ngalum
-ngalungi
 ngalur
 ngalus
 ngam
@@ -8872,6 +8863,7 @@ ngibul
 ngical
 ngicipi
 ngicir
+ngidal
 ngidam
 ngidang
 ngidek
@@ -8987,6 +8979,7 @@ ngka
 ngki
 ngko
 nglakoni
+nglali
 nglamun
 nglangi
 nglangkah
@@ -9221,6 +9214,7 @@ ngungkap
 ngungkuli
 nguning
 ngunjuk
+ngunjung
 ngunjungi
 nguno
 ngunta
@@ -9772,7 +9766,6 @@ okeran
 okerek
 okeri
 oket
-okewe
 okeyi
 okin
 okit
@@ -10246,7 +10239,6 @@ papi
 papo
 papu
 papua
-papuk
 par
 para
 parah
@@ -10287,10 +10279,8 @@ pasare
 paser
 pasi
 pasih
-pasing
 pasir
 pasrah
-pasti
 pasu
 pasuh
 pasuruan
@@ -10427,7 +10417,6 @@ peso
 peta
 petak
 petan
-petani
 pete
 peteng
 pethuk
@@ -10763,7 +10752,6 @@ punjul
 punten
 punya
 pup
-pupa
 pupu
 pupuh
 pupuk
@@ -10968,7 +10956,6 @@ rangu
 rani
 ranjang
 ranjing
-rano
 ransel
 rantai
 rantan
@@ -11002,7 +10989,6 @@ rapuh
 rapung
 rapus
 rara
-rarang
 rarawoh
 rare
 rari
@@ -11099,6 +11085,7 @@ rebus
 rebut
 rebutan
 receh
+redha
 redi
 rega
 regane
@@ -11662,7 +11649,6 @@ sampi
 sampian
 samping
 sampir
-sampit
 sampo
 sampok
 sampol
@@ -12037,7 +12023,6 @@ sigap
 sigar
 sigrak
 sih
-siha
 sii
 siji
 sik
@@ -12974,7 +12959,6 @@ tumut
 tun
 tuna
 tunas
-tune
 tunggal
 tunggale
 tunggu
@@ -13148,7 +13132,6 @@ ukaran
 ukarane
 ukas
 uke
-ukek
 ukel
 ukem
 uken
@@ -13391,7 +13374,6 @@ untar
 untara
 untaran
 untas
-unte
 untel
 unten
 unter
@@ -13478,7 +13460,6 @@ urek
 uren
 ures
 uret
-urha
 uri
 urih
 urik
@@ -13916,7 +13897,6 @@ wisan
 wisata
 wisma
 wisnu
-wiso
 wisu
 wisuh
 wit
