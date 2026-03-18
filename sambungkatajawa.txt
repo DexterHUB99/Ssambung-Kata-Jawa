@@ -3012,6 +3012,7 @@ ehet
 ehey
 ehi
 ehid
+ehif
 ehik
 ehil
 ehim
@@ -4046,6 +4047,7 @@ gembong
 gembos
 gembrot
 gembung
+geme
 gemelan
 gemen
 gemes
