@@ -537,6 +537,7 @@ ambal
 ambalan
 ambar
 ambarawa
+ambas
 ambat
 ambegan
 ambek
@@ -2234,6 +2235,7 @@ cucut
 cudek
 cuek
 cuil
+cuja
 cuk
 cuka
 cuki
@@ -2687,6 +2689,7 @@ duduhi
 dudui
 duduk
 dudung
+dugal
 duge
 dugi
 dugo
@@ -3228,7 +3231,6 @@ epal
 epam
 epan
 epang
-epap
 epar
 epas
 epat
@@ -6678,6 +6680,7 @@ lanjur
 lanjut
 lano
 lansia
+lanta
 lantah
 lantai
 lantak
@@ -10261,7 +10264,6 @@ pasare
 paser
 pasi
 pasih
-pasing
 pasir
 pasrah
 pasu
@@ -10939,7 +10941,6 @@ rangu
 rani
 ranjang
 ranjing
-rano
 ransel
 rantai
 rantan
@@ -11631,7 +11632,6 @@ sampi
 sampian
 samping
 sampir
-sampit
 sampo
 sampok
 sampol
@@ -13342,6 +13342,7 @@ unjar
 unjuk
 unjul
 unjung
+unjur
 unjut
 unki
 unma
