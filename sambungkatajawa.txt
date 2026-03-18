@@ -40,7 +40,6 @@ ac
 aca
 acak
 acan
-acap
 acara
 ace
 aceh
@@ -144,6 +143,7 @@ agih
 agil
 agin
 agit
+agni
 ago
 agor
 agu
@@ -446,7 +446,6 @@ alas
 alasa
 alasan
 alat
-alaw
 alay
 ale
 alea
@@ -1022,7 +1021,6 @@ apikan
 apike
 apiken
 apil
-apimu
 apin
 apine
 apip
@@ -1434,7 +1432,6 @@ ayay
 aye
 ayem
 ayeme
-ayen
 ayep
 ayey
 ayi
@@ -1707,6 +1704,7 @@ belum
 belut
 bem
 bema
+bemo
 ben
 bena
 benang
@@ -1882,6 +1880,7 @@ boli
 bolo
 boloe
 bolog
+boloho
 bolong
 bolos
 bolot
@@ -6645,7 +6644,6 @@ kumuh
 kumut
 kun
 kuna
-kunai
 kunang
 kunci
 kuncup
@@ -8780,7 +8778,6 @@ ngawal
 ngawali
 ngawang
 ngawas
-ngawasi
 ngawe
 ngaweh
 ngawer
@@ -9865,6 +9862,7 @@ nyari
 nyaru
 nyasar
 nyatu
+nyaur
 nyawa
 nyawah
 nyawang
@@ -11327,6 +11325,7 @@ rata
 ratai
 ratan
 ratau
+rate
 ratekan
 rati
 ratib
@@ -11427,6 +11426,7 @@ remahan
 remang
 remas
 remase
+remasi
 remba
 rembang
 rembes
@@ -12304,6 +12304,7 @@ set
 setam
 setan
 setaun
+setel
 setengah
 seti
 setrika
