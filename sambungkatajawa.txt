@@ -2687,6 +2687,7 @@ domi
 dompet
 don
 dona
+done
 dong
 donga
 dongane
