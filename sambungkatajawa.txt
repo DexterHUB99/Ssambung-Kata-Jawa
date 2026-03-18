@@ -1927,6 +1927,7 @@ budi
 budo
 bue
 bug
+bugas
 bugil
 bugis
 buh
@@ -2510,6 +2511,7 @@ diarani
 diare
 diarep
 dibabi
+dibang
 dibawa
 dibo
 dida
@@ -2687,13 +2689,11 @@ domi
 dompet
 don
 dona
-done
 dong
 donga
 dongane
 dongeng
 dongi
-dongkrak
 dongo
 dongok
 dongol
