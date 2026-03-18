@@ -2617,7 +2617,6 @@ diewe
 difa
 digawa
 digo
-digowo
 diguna
 diham
 dihan
@@ -3642,7 +3641,6 @@ ex
 ey
 eya
 eyag
-eyah
 eyak
 eyam
 eyan
@@ -4179,7 +4177,6 @@ gili
 gilik
 giling
 gilingan
-gilir
 giliran
 gilo
 gim
@@ -5291,7 +5288,6 @@ isam
 isan
 isao
 isap
-isapan
 isar
 isat
 ise
@@ -6337,7 +6333,6 @@ kepi
 kepie
 kepik
 kepincut
-kepisan
 kepiting
 kepiye
 keplak
@@ -7065,6 +7060,7 @@ lase
 lasi
 laskar
 lat
+lata
 latah
 latar
 late
@@ -7982,7 +7978,6 @@ mmi
 mmika
 mmundur
 mo
-mob
 mobi
 mobil
 mobilan
@@ -9234,7 +9229,6 @@ ngewangi
 ngewarnai
 ngewe
 ngewedang
-ngeweh
 ngewei
 ngewek
 ngewelingi
@@ -9684,7 +9678,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunya
 ngup
 ngupah
 ngupai
@@ -10371,7 +10364,6 @@ on
 onang
 onangan
 onar
-oncat
 oncek
 onco
 oncom
@@ -10833,7 +10825,6 @@ pawan
 pawang
 pawar
 pawon
-pawuh
 paya
 payae
 payah
@@ -11010,7 +11001,6 @@ pilakon
 pilang
 pilar
 pilat
-pilawang
 pile
 pileh
 pilek
@@ -11137,7 +11127,6 @@ pocung
 podang
 podho
 poe
-pohi
 poho
 pohung
 poi
@@ -11217,7 +11206,6 @@ posor
 pot
 pota
 pote
-potlot
 potong
 pow
 powa
@@ -11370,6 +11358,7 @@ ragelem
 ragen
 ragi
 ragil
+ragin
 ragisa
 ragu
 rah
@@ -11761,7 +11750,6 @@ repan
 repat
 repek
 repi
-repis
 repit
 repmu
 repo
@@ -14218,7 +14206,6 @@ usungi
 usuo
 usus
 ususa
-ususah
 ususe
 usut
 uswa
@@ -14675,7 +14662,6 @@ yali
 yalo
 yam
 yama
-yamaa
 yamaha
 yaman
 yamen
