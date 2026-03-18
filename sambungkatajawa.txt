@@ -1287,6 +1287,7 @@ asuti
 asuw
 asuwe
 asuy
+asuya
 aswatama
 at
 ata
@@ -5874,6 +5875,7 @@ kali
 kalia
 kalian
 kalih
+kalihan
 kalim
 kalima
 kalimat
@@ -14273,7 +14275,6 @@ usama
 usan
 usap
 usar
-usara
 use
 usek
 usem
@@ -14315,7 +14316,6 @@ usune
 usung
 usungi
 usuo
-usura
 usus
 ususa
 ususe
