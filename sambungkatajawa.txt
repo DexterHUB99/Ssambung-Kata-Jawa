@@ -415,6 +415,7 @@ aksana
 aksara
 aksen
 aksi
+aksis
 aku
 akua
 akue
