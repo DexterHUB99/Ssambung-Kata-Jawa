@@ -4775,6 +4775,7 @@ hure
 huri
 hurip
 huripa
+hurmat
 huru
 huruf
 hurung
@@ -4849,6 +4850,7 @@ igah
 igak
 igal
 igo
+iguh
 igur
 igus
 ih
