@@ -896,7 +896,6 @@ ano
 anoa
 anoe
 anog
-anoh
 anoi
 anok
 anol
@@ -2537,7 +2536,6 @@ dijalan
 diji
 dik
 dika
-dikam
 dikamar
 dikandani
 dikep
@@ -6216,7 +6214,6 @@ keset
 kesetanan
 kesi
 kesirep
-kesit
 kesna
 kesuh
 kesuk
@@ -14345,7 +14342,6 @@ yuda
 yudha
 yudi
 yue
-yuga
 yugo
 yuh
 yuhan
