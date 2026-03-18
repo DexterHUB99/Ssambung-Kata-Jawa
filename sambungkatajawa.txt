@@ -598,6 +598,7 @@ amoh
 amoi
 amok
 amol
+amomo
 amon
 among
 amor
@@ -1069,6 +1070,7 @@ aria
 ariana
 arif
 arih
+arii
 arik
 aril
 arim
@@ -3232,6 +3234,7 @@ epal
 epam
 epan
 epang
+epap
 epar
 epas
 epat
@@ -3755,6 +3758,7 @@ geblog
 geblok
 gebok
 gebug
+gebuk
 gebuki
 gebyar
 gedag
@@ -5922,7 +5926,6 @@ kelon
 kelonan
 kelor
 keloro
-kelot
 keluarga
 keluh
 kelum
@@ -6151,6 +6154,7 @@ ketum
 ketumbar
 ketup
 ketupat
+keturunan
 ketus
 ketut
 keur
@@ -6289,6 +6293,7 @@ kola
 kolah
 kolak
 kolam
+kole
 koleh
 kolek
 koli
@@ -7267,6 +7272,7 @@ mama
 mamah
 mamak
 mamake
+maman
 mamas
 mamat
 mambu
@@ -8340,6 +8346,7 @@ ngalor
 ngaloren
 ngalu
 ngalum
+ngalungi
 ngalur
 ngalus
 ngam
@@ -9762,6 +9769,7 @@ okeran
 okerek
 okeri
 oket
+okewe
 okeyi
 okin
 okit
@@ -10234,6 +10242,7 @@ papi
 papo
 papu
 papua
+papuk
 par
 para
 parah
@@ -10274,8 +10283,10 @@ pasare
 paser
 pasi
 pasih
+pasing
 pasir
 pasrah
+pasti
 pasu
 pasuh
 pasuruan
@@ -10412,6 +10423,7 @@ peso
 peta
 petak
 petan
+petani
 pete
 peteng
 pethuk
@@ -10747,6 +10759,7 @@ punjul
 punten
 punya
 pup
+pupa
 pupu
 pupuh
 pupuk
@@ -10951,6 +10964,7 @@ rangu
 rani
 ranjang
 ranjing
+rano
 ransel
 rantai
 rantan
@@ -11643,6 +11657,7 @@ sampi
 sampian
 samping
 sampir
+sampit
 sampo
 sampok
 sampol
@@ -12760,7 +12775,6 @@ timbali
 timbang
 timbangan
 timbange
-timbuk
 timbul
 timbun
 time
@@ -12954,6 +12968,7 @@ tumut
 tun
 tuna
 tunas
+tune
 tunggal
 tunggale
 tunggu
@@ -13127,6 +13142,7 @@ ukaran
 ukarane
 ukas
 uke
+ukek
 ukel
 ukem
 uken
@@ -13455,6 +13471,7 @@ urek
 uren
 ures
 uret
+urha
 uri
 urih
 urik
