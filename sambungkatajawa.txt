@@ -235,6 +235,7 @@ ahud
 ahuh
 ahuk
 ahul
+ahum
 ahun
 ahur
 ahus
@@ -13403,6 +13404,7 @@ tonggo
 tongkol
 tongseng
 toni
+tonjok
 tono
 tonton
 tontonan
