@@ -25,7 +25,6 @@ abi
 abih
 abil
 abin
-abir
 abis
 abo
 aboh
@@ -801,7 +800,6 @@ anggon
 anggone
 anggora
 anggoro
-anggota
 anggrek
 angguk
 anggur
@@ -1836,7 +1834,6 @@ bito
 bitu
 biu
 biyen
-biyu
 biyung
 blas
 blereng
@@ -1981,6 +1978,7 @@ buna
 bundas
 bunder
 bune
+bung
 bunga
 bungah
 bungahe
@@ -2225,6 +2223,7 @@ cobek
 coc
 coco
 cocok
+cocol
 cocot
 cocote
 cocotmu
@@ -2651,7 +2650,6 @@ diru
 dirum
 dirumah
 disa
-disambi
 disan
 disana
 disapa
@@ -3335,6 +3333,7 @@ epit
 epo
 epoh
 epok
+epol
 epon
 epor
 epos
@@ -4449,6 +4448,7 @@ harmi
 harna
 haro
 harta
+hartae
 hartane
 haru
 harue
@@ -5608,7 +5608,6 @@ kader
 kades
 kadewa
 kadi
-kadohan
 kadong
 kados
 kadose
@@ -5789,7 +5788,6 @@ kap
 kapa
 kapak
 kapal
-kapalan
 kapan
 kapas
 kape
@@ -6382,6 +6380,7 @@ kisi
 kit
 kita
 kitab
+kitae
 kitan
 kite
 kitela
@@ -6630,6 +6629,7 @@ kumuh
 kumut
 kun
 kuna
+kunai
 kunang
 kunci
 kuncup
@@ -6765,6 +6765,7 @@ laline
 lalio
 lam
 lama
+lamae
 lamai
 laman
 lamane
@@ -6795,6 +6796,7 @@ lampir
 lampiran
 lampu
 lampua
+lampue
 lampune
 lampung
 lamu
@@ -6864,6 +6866,7 @@ lapo
 lapuk
 lar
 lara
+larae
 laran
 larang
 laras
@@ -6917,6 +6920,7 @@ layar
 layu
 le
 leak
+leb
 leba
 lebah
 lebak
@@ -7080,6 +7084,7 @@ lingkungan
 linglung
 lingsir
 lini
+linjak
 lino
 linta
 lintah
@@ -8008,6 +8013,7 @@ nadar
 nadhah
 nadi
 nadia
+nadie
 nadyan
 nae
 naek
@@ -8042,7 +8048,6 @@ naka
 nakal
 nakalan
 naker
-nakes
 naki
 nako
 nakoe
@@ -8942,7 +8947,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepuk
 ngepus
 nger
 ngera
@@ -9079,6 +9083,7 @@ ngijab
 ngijek
 ngijing
 ngijir
+ngijo
 ngijol
 ngijoli
 ngik
@@ -9253,7 +9258,6 @@ ngolong
 ngolor
 ngom
 ngomah
-ngombak
 ngombe
 ngombek
 ngombi
@@ -9411,7 +9415,6 @@ ngumpul
 ngumpulake
 ngun
 nguna
-ngunake
 nguncal
 nguncali
 ngunci
@@ -9646,7 +9649,6 @@ nnipo
 nny
 no
 nobat
-nodol
 nogel
 noh
 nok
@@ -10621,7 +10623,6 @@ pengin
 peni
 pening
 peniti
-penjuru
 peno
 pensil
 pentil
@@ -11790,7 +11791,6 @@ sabi
 sabit
 sablon
 sabok
-sabon
 sabrang
 sabruk
 sabtu
@@ -12411,7 +12411,6 @@ sisir
 siska
 siso
 sisu
-sisul
 siswi
 siswo
 sit
@@ -13432,6 +13431,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
@@ -14474,6 +14474,7 @@ yuyun
 zaitun
 zakat
 zaman
+zamrud
 zat
 ze
 ziarah
