@@ -477,6 +477,7 @@ alis
 alisa
 alisan
 alise
+alismu
 alit
 aliy
 aliya
@@ -962,7 +963,6 @@ anuh
 anui
 anuk
 anum
-anumu
 anun
 anune
 anung
@@ -1384,6 +1384,7 @@ awe
 aweh
 awek
 awer
+awes
 awet
 awha
 awi
@@ -4135,6 +4136,7 @@ gojlok
 gok
 goka
 goke
+goki
 gokil
 goks
 gol
@@ -4430,6 +4432,7 @@ har
 hara
 harai
 haram
+haran
 harang
 harap
 harapan
@@ -5976,6 +5979,7 @@ kebo
 kebon
 kebone
 kebul
+kebun
 kecak
 kecamatan
 kecap
@@ -7538,6 +7542,7 @@ marine
 maring
 marini
 marino
+maris
 marmut
 martabak
 maru
@@ -9484,7 +9489,6 @@ ngurui
 nguruk
 nguruki
 ngurung
-ngurup
 ngurus
 ngurusi
 ngurut
@@ -12304,6 +12308,7 @@ siah
 siaku
 sial
 siala
+sialah
 sialan
 siamang
 sian
@@ -12740,6 +12745,7 @@ suya
 suyo
 swara
 syal
+syu
 syukur
 ta
 taa
@@ -14296,7 +14302,6 @@ wun
 wuru
 wus
 wusa
-wut
 wuta
 wutan
 wuwi
