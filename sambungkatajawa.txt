@@ -9524,6 +9524,7 @@ ngesak
 ngesang
 ngesat
 ngesek
+ngeselin
 ngesem
 ngeseng
 ngeset
