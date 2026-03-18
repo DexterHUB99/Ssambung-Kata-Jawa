@@ -339,7 +339,6 @@ ajung
 ajur
 ajura
 ajuran
-ajus
 ak
 aka
 akad
@@ -1004,6 +1003,7 @@ antri
 antrian
 antuk
 antun
+antup
 antur
 anu
 anua
@@ -2227,7 +2227,6 @@ caruk
 cas
 casa
 casi
-casu
 catur
 cawan
 cawang
@@ -2272,7 +2271,6 @@ cemplung
 cen
 cendol
 cengel
-cengengesan
 cengkeh
 cenil
 centil
@@ -2871,6 +2869,7 @@ dolo
 dolu
 dom
 doma
+doman
 domba
 domblong
 domi
@@ -3668,7 +3667,6 @@ esey
 esi
 esih
 esik
-esika
 esil
 esim
 esin
@@ -4227,7 +4225,6 @@ genine
 gening
 genit
 geniya
-genjer
 genjor
 genjot
 genna
@@ -5968,7 +5965,6 @@ kademan
 kader
 kades
 kadewa
-kadhange
 kadi
 kadohan
 kadong
@@ -6229,7 +6225,6 @@ karsa
 kartini
 kartu
 karuh
-karuhan
 karum
 karun
 karung
@@ -6357,7 +6352,6 @@ kebak
 kebas
 kebat
 kebaya
-kebekan
 kebo
 kebon
 kebone
@@ -8366,7 +8360,6 @@ motor
 mpun
 mrene
 mriki
-mriko
 mriku
 mringis
 mripat
@@ -8524,7 +8517,6 @@ nadia
 nadyan
 nae
 naek
-naem
 nafas
 nafkah
 nag
@@ -9008,7 +9000,6 @@ ngain
 ngaja
 ngajah
 ngajak
-ngajang
 ngajar
 ngajari
 ngajeng
@@ -10719,7 +10710,6 @@ olit
 olo
 oloe
 oloh
-oloi
 olok
 olokan
 olokmu
@@ -11085,7 +11075,6 @@ pamrih
 pan
 pana
 panah
-panahan
 panai
 panas
 panasan
@@ -11788,7 +11777,6 @@ rada
 radak
 radar
 raden
-radha
 radi
 radio
 rae
@@ -11848,7 +11836,6 @@ rajek
 rajelas
 rajiman
 rajin
-rajok
 raju
 rajuk
 rajungan
@@ -11933,7 +11920,6 @@ rane
 rang
 ranga
 rangda
-range
 rangga
 ranggenah
 ranggi
@@ -12588,7 +12574,6 @@ saga
 sage
 saged
 saget
-sagi
 sago
 sagon
 sagu
@@ -12785,7 +12770,6 @@ sar
 sara
 saran
 sarang
-sarangan
 sarap
 sarapa
 sarapan
@@ -13692,7 +13676,6 @@ tapis
 tapuk
 tar
 tara
-tarakan
 taras
 tarek
 tari
@@ -14414,7 +14397,6 @@ ulih
 ulik
 ulo
 uloe
-ulomo
 ulomu
 ulu
 uluk
