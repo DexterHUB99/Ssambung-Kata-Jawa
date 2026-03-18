@@ -1250,6 +1250,7 @@ asin
 asinan
 asing
 asiran
+asit
 asli
 asline
 asma
@@ -2136,7 +2137,6 @@ cahaya
 cahya
 cahyo
 cai
-caja
 caji
 cak
 cakak
@@ -2686,6 +2686,7 @@ dika
 dikam
 dikamar
 dikandani
+dikene
 dikep
 dikes
 diki
@@ -3644,7 +3645,6 @@ etah
 etak
 etal
 etam
-etama
 etan
 etana
 etane
@@ -5658,7 +5658,6 @@ jati
 jatuh
 jauh
 jawa
-jawab
 jawaban
 jawah
 jawe
@@ -8954,6 +8953,7 @@ ngambruk
 ngambu
 ngambul
 ngambung
+ngame
 ngamel
 ngamil
 ngamis
@@ -9276,7 +9276,6 @@ ngelim
 ngelindur
 ngeling
 ngelingi
-ngelipet
 ngelirik
 ngelitik
 ngelmu
@@ -12831,6 +12830,7 @@ sepura
 ser
 sera
 serabi
+seraga
 serakah
 serami
 serang
@@ -14043,6 +14043,7 @@ uing
 uira
 uj
 uja
+ujah
 ujak
 ujal
 ujan
