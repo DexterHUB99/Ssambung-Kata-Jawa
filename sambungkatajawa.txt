@@ -616,7 +616,6 @@ amin
 aming
 amini
 amir
-amira
 amiri
 amis
 amise
@@ -5113,6 +5112,7 @@ impit
 impor
 impul
 impun
+imro
 imuh
 imut
 in
@@ -5913,7 +5913,6 @@ kamung
 kamus
 kan
 kana
-kanada
 kanah
 kanak
 kanan
@@ -8805,6 +8804,7 @@ ngampleng
 ngampun
 ngampung
 ngamuk
+ngamur
 ngan
 ngana
 nganah
@@ -11153,6 +11153,7 @@ pitulung
 pitung
 pitur
 pitutur
+pituturan
 piutang
 piwul
 piwulang
@@ -11719,7 +11720,6 @@ rela
 relax
 reli
 relo
-relot
 relu
 rem
 rema
@@ -12006,7 +12006,6 @@ rose
 rosho
 rosi
 roso
-rot
 rotan
 roti
 rotii
