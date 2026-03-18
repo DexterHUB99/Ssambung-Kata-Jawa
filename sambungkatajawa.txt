@@ -11363,6 +11363,7 @@ rindu
 rindui
 rine
 ring
+ringa
 ringan
 ringin
 ringkas
