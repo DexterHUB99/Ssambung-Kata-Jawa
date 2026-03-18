@@ -5334,6 +5334,7 @@ isam
 isan
 isao
 isap
+isapa
 isar
 isat
 ise
