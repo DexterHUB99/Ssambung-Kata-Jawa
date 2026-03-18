@@ -100,7 +100,6 @@ adipati
 adis
 adit
 ado
-adog
 adoh
 adohe
 adol
@@ -6880,6 +6879,7 @@ kome
 komen
 komi
 komik
+komna
 komodo
 komoh
 kompak
@@ -10015,7 +10015,6 @@ ngula
 ngulah
 ngulai
 ngulak
-ngulam
 ngulan
 ngulang
 ngulangi
@@ -10922,6 +10921,7 @@ ores
 oret
 organisasi
 ori
+orian
 orie
 oring
 orit
@@ -12153,6 +12153,7 @@ remasi
 remba
 rembak
 rembang
+rembangan
 rembat
 rembes
 rembet
@@ -12639,6 +12640,7 @@ sakar
 sakarep
 sakarepe
 sakarepmu
+sakdurunge
 sakel
 saken
 saket
