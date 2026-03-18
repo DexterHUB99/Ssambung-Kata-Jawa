@@ -1448,7 +1448,6 @@ awah
 awak
 awakdewe
 awake
-awakedhewe
 awakku
 awakmu
 awaku
@@ -1785,7 +1784,6 @@ bekne
 beko
 bekok
 bekong
-bekti
 bel
 bela
 belah
@@ -2702,7 +2700,6 @@ dibawa
 dibo
 dida
 didak
-dideso
 didi
 didik
 didin
@@ -4507,7 +4504,6 @@ grontol
 grosir
 grujugan
 grujuk
-grumbul
 gu
 gubah
 gubeng
@@ -4546,7 +4542,6 @@ guli
 guling
 gulir
 gulon
-gulonan
 gulu
 gulula
 gulung
@@ -6117,6 +6112,7 @@ kami
 kamil
 kamir
 kamis
+kamisan
 kamit
 kamot
 kampak
@@ -10013,7 +10009,6 @@ nguber
 ngubur
 ngucap
 ngucek
-ngucir
 ngucuk
 ngudan
 ngudang
@@ -10326,7 +10321,6 @@ nnggih
 nnginum
 nngopo
 nni
-nnimbang
 nnipo
 nnumpak
 nny
@@ -11507,7 +11501,6 @@ piluh
 pilum
 pilus
 pimen
-pimi
 pin
 pina
 pinah
@@ -14740,7 +14733,6 @@ uripan
 uripe
 uripku
 uripmu
-uripne
 uris
 urit
 uritan
