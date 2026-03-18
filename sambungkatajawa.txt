@@ -1111,7 +1111,6 @@ aram
 arama
 arami
 aran
-arana
 arane
 arang
 arangan
@@ -1825,6 +1824,7 @@ besar
 besek
 besi
 beskap
+beso
 besok
 besro
 besu
@@ -2637,7 +2637,6 @@ desa
 desi
 deso
 det
-deta
 deto
 dewa
 dewe
@@ -3117,7 +3116,6 @@ ekae
 ekag
 ekah
 ekal
-ekala
 ekali
 ekam
 ekan
@@ -3705,7 +3703,6 @@ etus
 ev
 eva
 eval
-evan
 evin
 evo
 ew
@@ -5543,7 +5540,6 @@ iwake
 iwakmu
 iwakna
 iwal
-iwala
 iwan
 iwang
 iwangi
@@ -7913,7 +7909,6 @@ mare
 marem
 maren
 mareng
-marga
 mari
 mariki
 marila
@@ -9368,7 +9363,6 @@ ngendog
 ngendong
 ngenduk
 ngene
-ngenek
 ngeneng
 ngenes
 ngeng
@@ -10088,7 +10082,6 @@ ningkat
 ningning
 ningsih
 nini
-ninia
 ninine
 nining
 ninja
@@ -12926,7 +12919,6 @@ setunggal
 sewa
 sewelas
 sewer
-sewo
 sewot
 sewu
 sholat
@@ -14451,6 +14443,7 @@ upis
 upit
 upload
 upning
+upno
 upo
 upra
 upupah
