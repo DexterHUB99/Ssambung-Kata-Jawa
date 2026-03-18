@@ -4813,6 +4813,7 @@ imi
 iming
 imit
 imla
+immu
 imna
 imo
 imoi
@@ -7350,6 +7351,7 @@ masio
 masjid
 masne
 maso
+masta
 masu
 masuk
 masyarakat
@@ -7561,6 +7563,7 @@ misah
 misake
 mise
 misi
+mising
 miskin
 misu
 misuh
