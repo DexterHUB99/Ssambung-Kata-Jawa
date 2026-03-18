@@ -2420,6 +2420,7 @@ demit
 demo
 demok
 dempul
+demung
 den
 dena
 dendeng
