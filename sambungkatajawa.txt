@@ -4336,6 +4336,7 @@ gondo
 gondok
 gondol
 gondolan
+gondolmu
 gondrong
 gong
 gongso
