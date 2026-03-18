@@ -3953,6 +3953,7 @@ gembong
 gembos
 gembrot
 gembung
+gemelan
 gemen
 gemes
 gemeter
@@ -7043,6 +7044,7 @@ lentog
 lepas
 lepat
 lepe
+leper
 lepi
 ler
 lera
