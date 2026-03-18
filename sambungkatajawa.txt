@@ -3211,6 +3211,7 @@ emem
 emen
 emer
 emes
+emev
 emi
 emih
 emik
@@ -7970,6 +7971,7 @@ miyang
 mlaku
 mlampah
 mlarat
+mlayu
 mlebet
 mlebu
 mlik
@@ -14016,6 +14018,7 @@ unki
 unma
 unni
 uno
+unri
 unta
 untah
 untal
