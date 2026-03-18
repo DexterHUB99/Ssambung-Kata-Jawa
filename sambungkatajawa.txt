@@ -2924,6 +2924,7 @@ egi
 egil
 ego
 egois
+egok
 egor
 egos
 egrang
@@ -4772,6 +4773,7 @@ ibu
 ibuk
 ibuku
 ibune
+ibung
 ic
 ica
 ical
@@ -10604,6 +10606,7 @@ papa
 papah
 papak
 papan
+papasan
 papat
 papi
 papo
