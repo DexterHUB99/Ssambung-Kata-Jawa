@@ -25,6 +25,7 @@ abi
 abih
 abil
 abin
+abir
 abis
 abo
 aboh
@@ -800,6 +801,7 @@ anggon
 anggone
 anggora
 anggoro
+anggota
 anggrek
 angguk
 anggur
@@ -1274,7 +1276,6 @@ atek
 atel
 atem
 atema
-atemi
 aten
 atena
 atene
@@ -1835,6 +1836,7 @@ bito
 bitu
 biu
 biyen
+biyu
 biyung
 blas
 blereng
@@ -2649,6 +2651,7 @@ diru
 dirum
 dirumah
 disa
+disambi
 disan
 disana
 disapa
@@ -5605,6 +5608,7 @@ kader
 kades
 kadewa
 kadi
+kadohan
 kadong
 kados
 kadose
@@ -5670,6 +5674,7 @@ kalang
 kalangkung
 kalap
 kalapa
+kalasan
 kalawan
 kalawi
 kale
@@ -5785,6 +5790,7 @@ kap
 kapa
 kapak
 kapal
+kapalan
 kapan
 kapas
 kape
@@ -8037,6 +8043,7 @@ naka
 nakal
 nakalan
 naker
+nakes
 naki
 nako
 nakoe
@@ -8936,6 +8943,7 @@ ngepel
 ngepet
 ngepit
 ngepot
+ngepuk
 ngepus
 nger
 ngera
@@ -9246,6 +9254,7 @@ ngolong
 ngolor
 ngom
 ngomah
+ngombak
 ngombe
 ngombek
 ngombi
@@ -9403,6 +9412,7 @@ ngumpul
 ngumpulake
 ngun
 nguna
+ngunake
 nguncal
 nguncali
 ngunci
@@ -9637,6 +9647,7 @@ nnipo
 nny
 no
 nobat
+nodol
 nogel
 noh
 nok
@@ -10611,6 +10622,7 @@ pengin
 peni
 pening
 peniti
+penjuru
 peno
 pensil
 pentil
@@ -10685,7 +10697,6 @@ pijam
 pijang
 pijar
 pijat
-pijek
 pijer
 pijet
 pijit
@@ -11780,6 +11791,7 @@ sabi
 sabit
 sablon
 sabok
+sabon
 sabrang
 sabruk
 sabtu
@@ -12400,6 +12412,7 @@ sisir
 siska
 siso
 sisu
+sisul
 siswi
 siswo
 sit
@@ -13649,7 +13662,6 @@ unjal
 unjang
 unjar
 unjuk
-unjukan
 unjul
 unjung
 unjur
