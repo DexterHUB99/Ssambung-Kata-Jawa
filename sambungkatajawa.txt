@@ -442,7 +442,6 @@ alasan
 alat
 alay
 ale
-alea
 aleb
 aleh
 alek
@@ -1100,6 +1099,7 @@ arit
 arjo
 arjuna
 arjuno
+arka
 arma
 armai
 aro
@@ -1177,6 +1177,7 @@ asia
 asian
 asie
 asih
+asii
 asik
 asil
 asim
@@ -1901,6 +1902,7 @@ bua
 buang
 buat
 buaya
+bub
 bubar
 bubor
 bubrah
@@ -2068,6 +2070,7 @@ capek
 caper
 capi
 caping
+capit
 capung
 cara
 caraka
@@ -3116,6 +3119,7 @@ emping
 empit
 emplok
 empo
+empot
 emprit
 empu
 empuk
@@ -3701,6 +3705,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -3752,7 +3757,6 @@ gasik
 gasing
 gasingan
 gasir
-gaso
 gass
 gata
 gatah
@@ -4228,7 +4232,6 @@ guneman
 guneme
 gung
 gunggungan
-guni
 gunjing
 gunting
 guntur
@@ -4753,6 +4756,7 @@ ijeni
 iji
 ijig
 ijik
+ijil
 ijin
 ijo
 ijok
@@ -5218,6 +5222,7 @@ iwang
 iwangi
 iwas
 iwel
+iwen
 iwir
 ix
 iy
@@ -5602,6 +5607,7 @@ kakehan
 kakek
 kaki
 kakine
+kakir
 kaku
 kakung
 kakus
@@ -5838,6 +5844,7 @@ katan
 katang
 kate
 kateh
+katek
 katel
 kater
 kates
@@ -5891,6 +5898,7 @@ kayaa
 kayak
 kayane
 kayangan
+kayata
 kayok
 kayu
 kayuh
@@ -6048,7 +6056,6 @@ kemut
 ken
 kena
 kenak
-kenang
 kenanga
 kenapa
 kenari
@@ -6654,6 +6661,7 @@ labuh
 labur
 lada
 ladak
+ladeni
 ladi
 lading
 ladosan
@@ -7091,6 +7099,7 @@ lohan
 lohe
 loi
 loji
+lojika
 lok
 loka
 lokan
@@ -7119,6 +7128,7 @@ lomot
 lompat
 lon
 lona
+loncang
 loncat
 lonceng
 londho
@@ -7209,6 +7219,7 @@ lumayan
 lumbung
 lumen
 lumer
+lumi
 lumpak
 lumpang
 lumping
@@ -8669,6 +8680,7 @@ ngaut
 ngawa
 ngawag
 ngawah
+ngawak
 ngawal
 ngawali
 ngawang
@@ -8704,6 +8716,7 @@ ngayuk
 ngayun
 ngcak
 nge
+ngeanu
 ngebaki
 ngebang
 ngebo
@@ -8715,6 +8728,7 @@ ngece
 ngecek
 ngeces
 ngecet
+ngecor
 ngedan
 ngedang
 ngedani
@@ -8821,7 +8835,6 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
-ngeni
 ngeniko
 ngenja
 ngenjang
@@ -9082,6 +9095,7 @@ ngiwa
 ngiwak
 ngiwas
 ngiwasi
+ngiya
 ngiyuh
 ngka
 ngki
@@ -9510,7 +9524,6 @@ nitih
 nitik
 nitip
 niwa
-niwi
 njagong
 njait
 njajal
@@ -9699,6 +9712,7 @@ nutup
 nutupi
 nutur
 nuturi
+nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9778,7 +9792,6 @@ oba
 obah
 obahe
 obak
-obake
 obama
 obar
 obat
@@ -9802,6 +9815,7 @@ obot
 obrak
 obral
 obrol
+obrolan
 oceh
 ocehan
 oci
@@ -10868,7 +10882,6 @@ puluh
 pulung
 puma
 pumi
-pumu
 pun
 puna
 punapa
@@ -10975,6 +10988,7 @@ rahmat
 rahmatan
 rahwana
 rai
+raia
 raib
 raie
 raika
@@ -11018,6 +11032,7 @@ rakum
 rakus
 rakyat
 rala
+ralas
 ralet
 rali
 ram
@@ -11157,6 +11172,7 @@ rasim
 rasing
 rasis
 raski
+rasmi
 rasmo
 raso
 rasta
@@ -11445,7 +11461,6 @@ risih
 riska
 riski
 risma
-risna
 riso
 rista
 rit
@@ -11674,6 +11689,7 @@ sad
 sada
 sadar
 sade
+sadel
 sadewa
 sadina
 sadis
@@ -11811,6 +11827,7 @@ san
 sana
 sanae
 sanak
+sanar
 sandal
 sandale
 sandang
@@ -12545,6 +12562,7 @@ susa
 susaa
 susah
 susahe
+susai
 susan
 susas
 susi
@@ -12650,6 +12668,7 @@ tales
 tali
 talie
 taline
+talingan
 talo
 tam
 tama
@@ -14106,6 +14125,7 @@ wonosobo
 wonten
 woo
 wor
+wora
 woro
 wortel
 wos
