@@ -287,6 +287,7 @@ ajane
 ajang
 ajar
 ajaran
+ajas
 ajay
 aje
 ajeg
@@ -8071,6 +8072,7 @@ nambal
 nambang
 nambani
 nambel
+nambi
 name
 nami
 namine
