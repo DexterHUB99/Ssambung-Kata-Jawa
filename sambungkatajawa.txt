@@ -25,7 +25,6 @@ abi
 abih
 abil
 abin
-abir
 abis
 abo
 aboh
@@ -406,6 +405,7 @@ aksen
 aksi
 aku
 akua
+akud
 akue
 akuh
 akui
@@ -1334,6 +1334,7 @@ atusan
 atut
 aub
 auh
+auhan
 aul
 aulah
 aum
@@ -1342,6 +1343,7 @@ auman
 aun
 auna
 aunan
+auni
 aup
 aura
 aurip
@@ -1835,7 +1837,6 @@ bito
 bitu
 biu
 biyen
-biyu
 biyung
 blas
 blereng
@@ -2170,6 +2171,7 @@ ciba
 cibu
 cica
 cicak
+cicek
 cici
 cicir
 cicit
@@ -2337,6 +2339,7 @@ dadi
 dados
 dadu
 daduk
+dadumu
 daerah
 dagang
 dagel
@@ -3248,6 +3251,7 @@ enjoy
 enka
 enki
 enko
+enla
 enli
 enlo
 enma
@@ -3510,6 +3514,7 @@ etus
 ev
 eva
 eval
+evan
 evin
 evo
 ew
@@ -5462,6 +5467,7 @@ jili
 jilid
 jim
 jima
+jiman
 jimat
 jimbar
 jimpit
@@ -5604,7 +5610,6 @@ kader
 kades
 kadewa
 kadi
-kadohan
 kadong
 kados
 kadose
@@ -5629,6 +5634,7 @@ kaila
 kaimas
 kain
 kaine
+kaira
 kaisa
 kaisar
 kajaba
@@ -5785,7 +5791,6 @@ kap
 kapa
 kapak
 kapal
-kapalan
 kapan
 kapas
 kape
@@ -8344,6 +8349,7 @@ nendang
 nene
 nenek
 nenen
+nenene
 nenenen
 neneng
 neng
@@ -8937,7 +8943,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepuk
 ngepus
 nger
 ngera
@@ -9149,6 +9154,7 @@ ngis
 ngisak
 ngisan
 ngisap
+ngisek
 ngiseng
 ngisep
 ngiser
@@ -9248,7 +9254,6 @@ ngolong
 ngolor
 ngom
 ngomah
-ngombak
 ngombe
 ngombek
 ngombi
@@ -9556,11 +9561,13 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
 nindak
 nindakake
+nine
 ning
 ninga
 ningali
@@ -9640,7 +9647,6 @@ nnipo
 nny
 no
 nobat
-nodol
 nogel
 noh
 nok
@@ -10615,7 +10621,6 @@ pengin
 peni
 pening
 peniti
-penjuru
 peno
 pensil
 pentil
@@ -12044,6 +12049,7 @@ satus
 saung
 saur
 saut
+sawa
 sawah
 sawak
 sawan
@@ -12404,7 +12410,6 @@ sisir
 siska
 siso
 sisu
-sisul
 siswi
 siswo
 sit
@@ -13902,6 +13907,7 @@ uto
 utoh
 utowo
 utri
+utta
 utu
 utuh
 utumu
@@ -13941,6 +13947,7 @@ visa
 voli
 wa
 waa
+waalaikumsalam
 waca
 wacana
 wada
@@ -14010,6 +14017,7 @@ wangun
 wani
 wania
 wanine
+waning
 wanita
 wantah
 war
@@ -14099,6 +14107,7 @@ wekasa
 wekasan
 wekdal
 weke
+weker
 weki
 weko
 wektu
