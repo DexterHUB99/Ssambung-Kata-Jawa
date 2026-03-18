@@ -877,7 +877,6 @@ angkrik
 angkring
 angkringa
 angkringan
-angkruk
 angkuh
 angkut
 angkutan
@@ -2771,6 +2770,7 @@ dileh
 dilem
 dileng
 diler
+dili
 dilik
 dilindes
 dilit
@@ -5549,6 +5549,7 @@ isem
 isen
 iseng
 isep
+isepe
 iser
 ises
 isha
@@ -6653,7 +6654,6 @@ kepiye
 keplak
 keplek
 kepo
-kepoan
 kepriben
 kepriwe
 kepriye
@@ -8613,7 +8613,6 @@ nadar
 nadhah
 nadi
 nadia
-nadine
 nadyan
 nae
 naek
@@ -8892,7 +8891,6 @@ neda
 nedah
 nedan
 nedang
-nedas
 nedha
 nedhaa
 nedho
@@ -9775,7 +9773,6 @@ ngidul
 ngidung
 ngie
 ngig
-ngigil
 ngih
 ngijab
 ngijek
@@ -10026,7 +10023,6 @@ ngorit
 ngorok
 ngoroke
 ngorong
-ngoros
 ngos
 ngosak
 ngosan
@@ -12370,7 +12366,6 @@ resti
 restu
 ret
 retak
-retan
 reti
 rewa
 rewang
@@ -12513,7 +12508,6 @@ rom
 roma
 romah
 roman
-romani
 romawi
 rombak
 rombeng
@@ -13112,7 +13106,6 @@ sem
 semak
 semalam
 semana
-semangka
 semangkok
 semar
 semarak
