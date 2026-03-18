@@ -6116,6 +6116,7 @@ kapak
 kapal
 kapalan
 kapan
+kaparing
 kapas
 kape
 kapen
