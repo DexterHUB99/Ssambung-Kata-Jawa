@@ -721,6 +721,7 @@ andai
 andal
 andalan
 andalane
+andane
 andang
 andangan
 andani
