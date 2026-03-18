@@ -739,7 +739,6 @@ ananti
 anap
 anar
 anarki
-anaro
 anas
 anasa
 anasi
@@ -878,6 +877,7 @@ angkrik
 angkring
 angkringa
 angkringan
+angkruk
 angkuh
 angkut
 angkutan
@@ -2715,7 +2715,6 @@ dibawa
 dibo
 dida
 didak
-didalam
 dideso
 didi
 didik
@@ -2772,7 +2771,6 @@ dileh
 dilem
 dileng
 diler
-dili
 dilik
 dilindes
 dilit
@@ -5551,7 +5549,6 @@ isem
 isen
 iseng
 isep
-isepe
 iser
 ises
 isha
@@ -5604,7 +5601,6 @@ isoma
 isone
 isoo
 isor
-isoyo
 isra
 isri
 istana
@@ -6277,7 +6273,6 @@ karim
 karimun
 karin
 karine
-karip
 karipa
 karipan
 karipen
@@ -6658,6 +6653,7 @@ kepiye
 keplak
 keplek
 kepo
+kepoan
 kepriben
 kepriwe
 kepriye
@@ -8617,6 +8613,7 @@ nadar
 nadhah
 nadi
 nadia
+nadine
 nadyan
 nae
 naek
@@ -8895,6 +8892,7 @@ neda
 nedah
 nedan
 nedang
+nedas
 nedha
 nedhaa
 nedho
@@ -9113,6 +9111,7 @@ ngajeni
 ngaji
 ngajia
 ngajine
+ngajir
 ngajok
 ngajur
 ngak
@@ -9777,6 +9776,7 @@ ngidul
 ngidung
 ngie
 ngig
+ngigil
 ngih
 ngijab
 ngijek
@@ -9793,6 +9793,7 @@ ngiket
 ngiki
 ngiku
 ngikut
+ngikuti
 ngil
 ngila
 ngilag
@@ -10027,6 +10028,7 @@ ngorit
 ngorok
 ngoroke
 ngorong
+ngoros
 ngos
 ngosak
 ngosan
@@ -10041,6 +10043,7 @@ ngosong
 ngosor
 ngotak
 ngoti
+ngotor
 ngotori
 ngotot
 ngowah
@@ -10764,7 +10767,6 @@ okaro
 okas
 okasa
 okasan
-okaya
 oke
 okea
 okecak
@@ -12371,6 +12373,7 @@ resti
 restu
 ret
 retak
+retan
 reti
 rewa
 rewang
@@ -12513,6 +12516,7 @@ rom
 roma
 romah
 roman
+romani
 romawi
 rombak
 rombeng
@@ -13111,6 +13115,7 @@ sem
 semak
 semalam
 semana
+semangka
 semangkok
 semar
 semarak
@@ -13174,6 +13179,7 @@ sepatu
 sepeda
 sepet
 sepi
+sepiring
 sepiro
 sepo
 sepuh
