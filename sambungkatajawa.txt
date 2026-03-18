@@ -668,6 +668,7 @@ ampuh
 ampuhe
 ampul
 ampun
+ampunan
 ampune
 ampunen
 ampus
@@ -1599,6 +1600,7 @@ bando
 bandrek
 bandung
 bane
+bang
 bangau
 bangke
 bangkong
@@ -1793,7 +1795,6 @@ besro
 besu
 besuk
 besuki
-beta
 betah
 betai
 bete
@@ -2236,6 +2237,7 @@ cici
 cicil
 cicir
 cicit
+cidak
 cidek
 ciduk
 cihuy
@@ -2728,6 +2730,7 @@ diri
 diru
 dirum
 dirumah
+dis
 disa
 disambi
 disan
@@ -2883,6 +2886,7 @@ dunga
 dungo
 dungu
 duni
+dunna
 dupa
 dupak
 dupo
@@ -3566,6 +3570,7 @@ esue
 esuh
 esuk
 esuken
+esul
 esun
 et
 eta
@@ -4248,6 +4253,7 @@ godok
 godong
 gogoh
 gogol
+gogolek
 gogong
 gogrok
 gojek
@@ -4309,6 +4315,7 @@ gosoki
 gosong
 got
 gothang
+goti
 gotong
 gotongroyong
 gowang
@@ -4793,6 +4800,7 @@ hukume
 hukumen
 hula
 hulah
+hulai
 hulat
 hulu
 hum
@@ -4843,6 +4851,7 @@ ibadah
 ibak
 iban
 ibarat
+ibarate
 iber
 iblis
 ibu
@@ -5407,6 +5416,7 @@ iut
 iv
 iw
 iwak
+iwakan
 iwake
 iwakmu
 iwakna
@@ -5901,7 +5911,6 @@ kamung
 kamus
 kan
 kana
-kanada
 kanah
 kanak
 kanan
@@ -9954,6 +9963,7 @@ noni
 nonjok
 nono
 nonom
+nontok
 nonton
 nontone
 nop
@@ -12872,6 +12882,7 @@ sosis
 sosmed
 sosok
 sosol
+sosone
 sotel
 soti
 soto
@@ -13632,6 +13643,7 @@ tunggu
 tungguen
 tungkak
 tuni
+tunjungan
 tupa
 tupe
 tupi
@@ -13752,6 +13764,7 @@ ugama
 ugan
 ugar
 uge
+ugel
 uger
 uget
 ugi
@@ -14427,7 +14440,6 @@ waris
 warisan
 warna
 warno
-waro
 warok
 warsa
 warta
@@ -14571,6 +14583,7 @@ wiki
 wiku
 wil
 wila
+wilah
 wilan
 wilangan
 wili
