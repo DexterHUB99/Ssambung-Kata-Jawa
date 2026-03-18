@@ -5572,6 +5572,7 @@ itue
 ituli
 itung
 itungan
+itungen
 iut
 iuta
 iv
@@ -9881,6 +9882,7 @@ ngoreng
 ngori
 ngorit
 ngorok
+ngoroke
 ngorong
 ngos
 ngosan
@@ -13794,6 +13796,7 @@ tera
 terak
 terang
 teras
+terasi
 terbang
 tere
 teri
