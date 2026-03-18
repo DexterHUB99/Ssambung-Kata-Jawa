@@ -33,6 +33,7 @@ abrit
 abu
 abuh
 abul
+abuy
 ac
 aca
 acak
@@ -1056,6 +1057,7 @@ aret
 arga
 ari
 aria
+ariana
 arif
 arih
 arik
@@ -1688,6 +1690,7 @@ besar
 besek
 beskap
 besok
+besro
 besuk
 besuki
 betah
@@ -2533,6 +2536,7 @@ dimi
 dimna
 dimo
 dimul
+dimun
 dimut
 din
 dina
@@ -3743,6 +3747,7 @@ gedhe
 gedhi
 gedhung
 gedor
+gedung
 gee
 gega
 gegel
@@ -4001,6 +4006,7 @@ godok
 godong
 gogoh
 gogol
+gogong
 gogrok
 gojek
 gojekan
@@ -4721,7 +4727,6 @@ ila
 ilaa
 ilag
 ilah
-ilahan
 ilahi
 ilai
 ilak
@@ -4734,6 +4739,7 @@ ilang
 ilangake
 ilangan
 ilangen
+ilangono
 ilaono
 ilap
 ilar
@@ -5776,6 +5782,7 @@ kawulan
 kawung
 kawus
 kaya
+kayaa
 kayak
 kayane
 kayangan
@@ -6296,7 +6303,6 @@ kontolmu
 kontrol
 konyol
 kop
-kopak
 kopek
 kopen
 kopeng
@@ -8251,6 +8257,7 @@ ngaka
 ngakak
 ngakal
 ngakali
+ngakar
 ngakeh
 ngakir
 ngakon
@@ -8477,6 +8484,7 @@ ngasuh
 ngasuk
 ngasul
 ngasur
+ngasus
 ngat
 ngata
 ngatasi
@@ -9482,7 +9490,6 @@ nunggal
 nunggang
 nunggoni
 nunggu
-nunggui
 nuni
 nuning
 nunjuk
@@ -9578,7 +9585,6 @@ nyomot
 nyong
 nyuci
 nyuluh
-nyumbang
 nyunggi
 nyungsep
 nyuruh
@@ -10563,7 +10569,6 @@ poll
 polo
 poloh
 polok
-polot
 pom
 poma
 pomi
@@ -10906,6 +10911,7 @@ rapia
 rapie
 rapih
 rapina
+rapinter
 rapo
 rapopo
 rapu
@@ -12824,7 +12830,6 @@ tukan
 tukang
 tukange
 tukaran
-tuke
 tuki
 tuku
 tukul
@@ -12988,6 +12993,7 @@ uga
 ugah
 ugal
 ugama
+ugan
 ugar
 uger
 uget
@@ -13870,6 +13876,7 @@ wuru
 wus
 wusa
 wuta
+wutan
 wuwi
 xenon
 xilofon
