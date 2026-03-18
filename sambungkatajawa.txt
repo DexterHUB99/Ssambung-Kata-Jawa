@@ -299,7 +299,6 @@ ajal
 ajam
 ajane
 ajang
-ajange
 ajar
 ajaran
 ajas
@@ -7742,7 +7741,6 @@ madam
 madan
 madang
 madas
-made
 madep
 madhang
 madi
