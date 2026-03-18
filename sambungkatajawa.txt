@@ -6381,6 +6381,7 @@ kewer
 keyong
 ki
 kiai
+kibar
 kicep
 kidal
 kidang
@@ -12142,6 +12143,7 @@ sara
 saran
 sarang
 sarap
+sarapa
 sarapan
 sare
 sarek
