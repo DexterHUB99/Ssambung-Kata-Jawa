@@ -4721,6 +4721,7 @@ ila
 ilaa
 ilag
 ilah
+ilahan
 ilahi
 ilai
 ilak
@@ -6295,6 +6296,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopak
 kopek
 kopen
 kopeng
