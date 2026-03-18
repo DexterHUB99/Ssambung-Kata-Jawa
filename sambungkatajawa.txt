@@ -3692,6 +3692,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -9770,6 +9771,7 @@ obot
 obrak
 obral
 obrol
+obrolan
 oceh
 ocehan
 oci
@@ -14065,6 +14067,7 @@ wonosobo
 wonten
 woo
 wor
+wora
 woro
 wortel
 wos
