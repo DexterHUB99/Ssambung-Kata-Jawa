@@ -3218,6 +3218,7 @@ emod
 emoh
 emohe
 emok
+emol
 emom
 emong
 emor
@@ -8130,6 +8131,7 @@ murai
 mure
 muri
 murid
+muring
 murka
 murtad
 murub
