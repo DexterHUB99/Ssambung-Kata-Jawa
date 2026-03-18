@@ -7198,7 +7198,6 @@ limbah
 limbar
 limbuk
 limbung
-limi
 limo
 limola
 limolas
@@ -8199,7 +8198,6 @@ nakalan
 naker
 nakes
 naki
-nakir
 nako
 nakoe
 nakoki
@@ -8842,7 +8840,6 @@ ngarang
 ngarani
 ngarap
 ngarasa
-ngarat
 ngare
 ngarek
 ngareni
@@ -9701,7 +9698,6 @@ ngutik
 ngutil
 ngutus
 nguwa
-nguwak
 nguwi
 nguyah
 nguyon
@@ -11534,6 +11530,7 @@ ratih
 ratina
 rating
 ratna
+raton
 ratu
 ratui
 ratus
@@ -12506,6 +12503,7 @@ seru
 seruk
 serut
 ses
+sesajen
 sesak
 sesap
 sesat
@@ -14494,6 +14492,7 @@ witan
 witi
 witir
 wito
+witra
 wiwi
 wiwit
 wiwitan
