@@ -2112,6 +2112,7 @@ cantik
 canting
 cap
 capai
+capan
 cape
 capek
 caper
@@ -11401,6 +11402,7 @@ rapung
 rapus
 rara
 rarang
+raras
 rarawoh
 rare
 rari
@@ -12159,6 +12161,7 @@ sarang
 sarap
 sarapa
 sarapan
+saras
 sare
 sarek
 saren
