@@ -9134,6 +9134,7 @@ ngundur
 ngunem
 ngung
 ngunggah
+ngungkap
 ngungkuli
 nguning
 ngunjuk
@@ -13834,6 +13835,7 @@ wowi
 wowo
 woyo
 wu
+wuda
 wudel
 wudhu
 wuh
