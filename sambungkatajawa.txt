@@ -4622,6 +4622,7 @@ hambur
 hambura
 hame
 hamel
+hamen
 hami
 hamil
 hamis
@@ -8652,6 +8653,7 @@ nati
 natik
 natur
 nawa
+nawah
 nawan
 nawang
 nawani
@@ -9139,6 +9141,7 @@ ngarik
 ngaring
 ngarit
 ngaro
+ngarot
 ngarsa
 ngarta
 ngarti
@@ -10029,6 +10032,7 @@ nguyah
 nguyon
 nguyu
 nguyuh
+nguyung
 nguyup
 nguyur
 ngwah
@@ -11312,6 +11316,7 @@ pilak
 pilakon
 pilang
 pilar
+pilas
 pilat
 pile
 pileh
@@ -12290,6 +12295,7 @@ rosho
 rosi
 roso
 rosyi
+rota
 rotan
 roti
 rotii
@@ -14655,7 +14661,6 @@ uting
 utir
 utira
 utiran
-utla
 utma
 uto
 utoh
