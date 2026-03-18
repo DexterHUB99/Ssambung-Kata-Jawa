@@ -8322,6 +8322,7 @@ ngaber
 ngabet
 ngaboti
 ngabu
+ngabul
 ngaca
 ngacak
 ngacang
