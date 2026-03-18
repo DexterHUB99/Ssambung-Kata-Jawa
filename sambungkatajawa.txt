@@ -4266,6 +4266,7 @@ geniya
 genjer
 genjor
 genjot
+genjur
 genna
 geno
 genta
@@ -12608,6 +12609,7 @@ rungono
 rungsing
 rungu
 runi
+runo
 runtuh
 runtuhan
 runtun
