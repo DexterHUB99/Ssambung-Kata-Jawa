@@ -2226,6 +2226,7 @@ caruk
 cas
 casa
 casi
+casu
 catur
 cawan
 cawang
@@ -3665,6 +3666,7 @@ esey
 esi
 esih
 esik
+esika
 esil
 esim
 esin
@@ -4223,6 +4225,7 @@ genine
 gening
 genit
 geniya
+genjer
 genjor
 genjot
 genna
@@ -5963,6 +5966,7 @@ kademan
 kader
 kades
 kadewa
+kadhange
 kadi
 kadohan
 kadong
@@ -6223,6 +6227,7 @@ karsa
 kartini
 kartu
 karuh
+karuhan
 karum
 karun
 karung
@@ -11075,6 +11080,7 @@ pamrih
 pan
 pana
 panah
+panahan
 panai
 panas
 panasan
@@ -12575,6 +12581,7 @@ saga
 sage
 saged
 saget
+sagi
 sago
 sagon
 sagu
@@ -13678,6 +13685,7 @@ tapis
 tapuk
 tar
 tara
+tarakan
 taras
 tarek
 tari
