@@ -299,6 +299,7 @@ ajal
 ajam
 ajane
 ajang
+ajange
 ajar
 ajaran
 ajas
@@ -7741,6 +7742,7 @@ madam
 madan
 madang
 madas
+made
 madep
 madhang
 madi
@@ -10114,6 +10116,7 @@ ningsih
 nini
 ninine
 nining
+ninio
 ninja
 nino
 nio
@@ -14540,7 +14543,6 @@ urka
 urko
 urma
 urna
-urno
 uro
 urra
 urta
