@@ -1684,6 +1684,7 @@ belek
 beler
 beli
 beling
+bella
 belo
 belu
 beluk
@@ -7415,6 +7416,7 @@ manas
 manasi
 mancal
 mancing
+mancung
 mandali
 mandan
 mandang
