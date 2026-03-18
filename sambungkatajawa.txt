@@ -339,6 +339,7 @@ ajung
 ajur
 ajura
 ajuran
+ajus
 ak
 aka
 akad
@@ -779,6 +780,7 @@ andha
 andhaan
 andhana
 andhap
+andharan
 andhe
 andheg
 andhegan
@@ -2032,7 +2034,6 @@ bro
 brug
 bu
 bua
-buana
 buang
 buat
 buaya
@@ -2228,6 +2229,7 @@ caruk
 cas
 casa
 casi
+casu
 catur
 cawan
 cawang
@@ -2272,6 +2274,7 @@ cemplung
 cen
 cendol
 cengel
+cengengesan
 cengkeh
 cenil
 centil
@@ -3514,6 +3517,7 @@ enus
 enwa
 enya
 enyak
+enyo
 enyong
 eomah
 eomong
@@ -3668,6 +3672,7 @@ esey
 esi
 esih
 esik
+esika
 esil
 esim
 esin
@@ -4226,6 +4231,7 @@ genine
 gening
 genit
 geniya
+genjer
 genjor
 genjot
 genna
@@ -5491,6 +5497,7 @@ isat
 ise
 isek
 isel
+isem
 isen
 iseng
 isep
@@ -5966,6 +5973,7 @@ kademan
 kader
 kades
 kadewa
+kadhange
 kadi
 kadohan
 kadong
@@ -6226,6 +6234,7 @@ karsa
 kartini
 kartu
 karuh
+karuhan
 karum
 karun
 karung
@@ -6353,6 +6362,7 @@ kebak
 kebas
 kebat
 kebaya
+kebekan
 kebo
 kebon
 kebone
@@ -6875,7 +6885,6 @@ komplit
 kompor
 komputer
 kon
-kona
 konami
 konan
 konangan
@@ -6919,7 +6928,6 @@ kopok
 kopyor
 kor
 kora
-korak
 koran
 korban
 kore
@@ -7261,7 +7269,6 @@ langka
 langkah
 langkap
 langkung
-langsam
 langsep
 langsing
 langu
@@ -7868,6 +7875,7 @@ makol
 makruh
 maksa
 maksud
+maksude
 maku
 mal
 mala
@@ -8364,6 +8372,7 @@ motor
 mpun
 mrene
 mriki
+mriko
 mriku
 mringis
 mripat
@@ -8521,6 +8530,7 @@ nadia
 nadyan
 nae
 naek
+naem
 nafas
 nafkah
 nag
@@ -9004,6 +9014,7 @@ ngain
 ngaja
 ngajah
 ngajak
+ngajang
 ngajar
 ngajari
 ngajeng
@@ -9980,7 +9991,6 @@ ngudi
 ngudik
 nguding
 ngudo
-ngudu
 ngudud
 ngudut
 ngugah
@@ -10632,7 +10642,9 @@ okal
 okam
 okan
 okana
+okane
 okar
+okara
 okare
 okari
 okaro
@@ -10715,6 +10727,7 @@ olit
 olo
 oloe
 oloh
+oloi
 olok
 olokan
 olokmu
@@ -11080,6 +11093,7 @@ pamrih
 pan
 pana
 panah
+panahan
 panai
 panas
 panasan
@@ -11395,7 +11409,6 @@ pijang
 pijar
 pijat
 pijek
-pijem
 pijer
 pijet
 pijit
@@ -11783,6 +11796,7 @@ rada
 radak
 radar
 raden
+radha
 radi
 radio
 rae
@@ -11842,6 +11856,7 @@ rajek
 rajelas
 rajiman
 rajin
+rajok
 raju
 rajuk
 rajungan
@@ -11926,6 +11941,7 @@ rane
 rang
 ranga
 rangda
+range
 rangga
 ranggenah
 ranggi
@@ -12580,6 +12596,7 @@ saga
 sage
 saged
 saget
+sagi
 sago
 sagon
 sagu
@@ -12776,6 +12793,7 @@ sar
 sara
 saran
 sarang
+sarangan
 sarap
 sarapa
 sarapan
@@ -13682,6 +13700,7 @@ tapis
 tapuk
 tar
 tara
+tarakan
 taras
 tarek
 tari
@@ -13709,6 +13728,7 @@ tatak
 tatakrama
 tatan
 tatas
+tate
 tati
 tatik
 tato
@@ -14403,6 +14423,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
