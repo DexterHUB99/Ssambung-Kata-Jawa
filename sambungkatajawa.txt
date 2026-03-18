@@ -439,6 +439,7 @@ akur
 akura
 akuran
 akure
+akuren
 akus
 akut
 akute
@@ -7407,6 +7408,7 @@ lintasan
 lintu
 lintuk
 lintune
+linung
 lio
 lip
 lipa
