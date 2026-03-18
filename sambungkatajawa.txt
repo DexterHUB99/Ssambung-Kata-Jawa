@@ -1289,7 +1289,6 @@ atai
 atak
 atakno
 atam
-ataman
 atan
 atana
 atang
@@ -2486,7 +2485,6 @@ darma
 darmi
 daro
 daru
-darung
 darus
 das
 dasa
@@ -2598,7 +2596,6 @@ diadusi
 diajeng
 dialah
 diamana
-diana
 diancok
 diangsang
 dianu
@@ -2835,7 +2832,6 @@ duduhi
 dudui
 duduk
 dudung
-dudut
 dugal
 duge
 dugi
@@ -3563,6 +3559,7 @@ esue
 esuh
 esuk
 esuken
+esul
 esun
 et
 eta
@@ -3768,7 +3765,6 @@ galeng
 galengan
 galer
 galeren
-galeri
 gali
 galian
 galih
@@ -4840,6 +4836,7 @@ ibadah
 ibak
 iban
 ibarat
+ibarate
 iber
 iblis
 ibu
@@ -7280,7 +7277,6 @@ lintangen
 lintas
 lintasan
 lintu
-lintuk
 lintune
 lio
 lip
@@ -7625,7 +7621,6 @@ mamah
 mamak
 mamake
 maman
-mamana
 mamas
 mamat
 mambu
@@ -8427,7 +8422,6 @@ nata
 natah
 natal
 natalan
-natan
 natap
 nate
 nati
@@ -9020,7 +9014,6 @@ ngayuk
 ngayun
 ngayung
 ngcak
-ngcok
 nge
 ngea
 ngeanu
@@ -10987,7 +10980,6 @@ pidana
 pidang
 pidek
 pie
-pigun
 pih
 pii
 pijak
@@ -11358,7 +11350,6 @@ rabio
 rabisa
 rabit
 raboh
-rabot
 rabu
 rabun
 racik
@@ -11643,7 +11634,6 @@ rawuh
 rawung
 raya
 rayap
-rayi
 rayo
 rayon
 rayu
@@ -14145,7 +14135,6 @@ urih
 urik
 urine
 uring
-urio
 urip
 uripan
 uripe
