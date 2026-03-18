@@ -2636,6 +2636,7 @@ ditampol
 ditilep
 ditulung
 diwa
+diwak
 diwe
 diyu
 dlogok
@@ -12127,6 +12128,7 @@ si
 sia
 siaa
 siah
+siaku
 sial
 siala
 sialan
