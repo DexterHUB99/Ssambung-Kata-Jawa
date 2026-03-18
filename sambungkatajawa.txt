@@ -781,6 +781,7 @@ andung
 andus
 ane
 aneh
+anehwe
 anek
 anem
 aneman
@@ -1424,6 +1425,7 @@ awik
 awin
 awis
 awit
+awla
 awo
 awoh
 awok
@@ -2486,6 +2488,7 @@ darma
 darmi
 daro
 daru
+darung
 darus
 das
 dasa
@@ -2834,6 +2837,7 @@ duduhi
 dudui
 duduk
 dudung
+dudut
 dugal
 duge
 dugi
@@ -3561,7 +3565,6 @@ esue
 esuh
 esuk
 esuken
-esul
 esun
 et
 eta
@@ -4839,7 +4842,6 @@ ibadah
 ibak
 iban
 ibarat
-ibarate
 iber
 iblis
 ibu
@@ -8427,6 +8429,7 @@ nata
 natah
 natal
 natalan
+natan
 natap
 nate
 nati
@@ -9701,6 +9704,7 @@ ngunung
 ngunut
 ngup
 ngupah
+ngupahi
 ngupai
 ngupakara
 ngupas
@@ -13527,6 +13531,7 @@ too
 top
 topa
 topan
+topang
 topeng
 topi
 topine
@@ -13743,7 +13748,6 @@ ugama
 ugan
 ugar
 uge
-ugel
 uger
 uget
 ugi
