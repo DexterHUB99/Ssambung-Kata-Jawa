@@ -1004,7 +1004,6 @@ apat
 ape
 apeg
 apeh
-apej
 apek
 apel
 apem
@@ -3515,7 +3514,6 @@ ewako
 ewan
 ewang
 ewangi
-ewas
 ewe
 ewean
 eweane
@@ -5748,6 +5746,7 @@ kandani
 kandas
 kandel
 kandha
+kandhang
 kandi
 kandungan
 kandut
@@ -5892,6 +5891,7 @@ katek
 katel
 kater
 kates
+kateter
 kathah
 kathok
 kati
@@ -8031,6 +8031,7 @@ naka
 nakal
 nakalan
 naker
+nakes
 naki
 nako
 nakoe
@@ -12032,7 +12033,6 @@ satus
 saung
 saur
 saut
-sawa
 sawah
 sawak
 sawan
@@ -12524,6 +12524,7 @@ suasu
 suba
 subal
 subhanallah
+subi
 subuh
 subur
 suci
@@ -13608,6 +13609,7 @@ une
 unek
 unem
 unen
+uner
 unes
 unesa
 ung
