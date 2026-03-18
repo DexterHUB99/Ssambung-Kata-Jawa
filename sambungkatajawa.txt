@@ -2728,6 +2728,7 @@ dodok
 dodol
 dodolan
 dodot
+dogi
 doh
 dok
 dokak
@@ -7394,6 +7395,7 @@ luput
 lur
 lura
 lurah
+luri
 lurik
 luru
 luruh
