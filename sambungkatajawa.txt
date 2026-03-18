@@ -100,6 +100,7 @@ adipati
 adis
 adit
 ado
+adog
 adoh
 adohe
 adol
@@ -1788,6 +1789,7 @@ belakang
 belan
 belang
 belanja
+bele
 beleh
 belek
 beler
@@ -4216,6 +4218,7 @@ gendi
 gendon
 gendong
 gendruwo
+gendul
 gendung
 gendut
 gene
@@ -6198,6 +6201,7 @@ karam
 karan
 karang
 karangan
+karanganyar
 karat
 karawang
 karawitan
@@ -8290,6 +8294,7 @@ mlarat
 mlayu
 mlebet
 mlebu
+mlempem
 mlik
 mlipir
 mlumah
@@ -9724,6 +9729,7 @@ ngimboh
 ngimbu
 ngimbuh
 ngimi
+ngiming
 ngimpen
 ngimpi
 ngimpun
@@ -10017,6 +10023,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulam
 ngulan
 ngulang
 ngulangi
