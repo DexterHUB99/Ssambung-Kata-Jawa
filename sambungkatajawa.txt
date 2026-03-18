@@ -12094,6 +12094,7 @@ rangka
 rangkat
 rangkul
 rangkum
+rangkuman
 rangkung
 rangu
 rani
@@ -13905,6 +13906,7 @@ tawan
 tawang
 tawar
 tawas
+tawe
 tawi
 tawon
 tawur
