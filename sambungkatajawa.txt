@@ -1227,6 +1227,7 @@ asel
 aseli
 asem
 aseme
+asemen
 asen
 aseng
 asep
@@ -3370,6 +3371,7 @@ enem
 enen
 eneng
 enengkol
+ener
 enes
 engah
 engeh
