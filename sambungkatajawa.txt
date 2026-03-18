@@ -1035,7 +1035,6 @@ apag
 apah
 apak
 apal
-apala
 apalan
 apam
 apameneh
@@ -1552,7 +1551,6 @@ bae
 bagen
 bagi
 bagian
-bagog
 bagong
 bagos
 bagu
@@ -9279,6 +9277,7 @@ ngelotok
 ngelu
 ngelucu
 ngeluh
+ngelui
 ngeluku
 ngelus
 ngema
