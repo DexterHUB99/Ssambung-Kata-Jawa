@@ -5230,6 +5230,7 @@ ja
 jab
 jabang
 jadi
+jadul
 jae
 jaga
 jagad
