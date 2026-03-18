@@ -99,6 +99,7 @@ adop
 ador
 ados
 adu
+adua
 aduan
 aduh
 aduk
@@ -5495,6 +5496,7 @@ juta
 jutaan
 ka
 kaaba
+kaarem
 kabar
 kabare
 kabeh
@@ -12557,6 +12559,7 @@ taki
 takjil
 tako
 takon
+takoni
 taku
 takung
 takut
