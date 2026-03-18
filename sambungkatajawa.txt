@@ -4378,7 +4378,6 @@ goboh
 gocek
 goceki
 godek
-godho
 godhok
 godhong
 godog
@@ -6029,7 +6028,6 @@ kalang
 kalangkung
 kalap
 kalapa
-kalas
 kalasan
 kalawan
 kalawi
@@ -8103,7 +8101,6 @@ melas
 melasi
 melati
 melek
-melem
 meler
 melet
 meli
@@ -9803,7 +9800,6 @@ ngni
 ngobah
 ngobak
 ngobat
-ngobati
 ngober
 ngoblok
 ngobok
@@ -10705,6 +10701,7 @@ olit
 olo
 oloe
 oloh
+oloi
 olok
 olokan
 olokmu
@@ -11831,6 +11828,7 @@ rajek
 rajelas
 rajiman
 rajin
+rajok
 raju
 rajuk
 rajungan
@@ -12765,6 +12763,7 @@ sar
 sara
 saran
 sarang
+sarangan
 sarap
 sarapa
 sarapan
@@ -14392,6 +14391,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
