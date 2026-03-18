@@ -5905,6 +5905,7 @@ kecoa
 kecot
 kecut
 kedah
+kedai
 kedanan
 kedaton
 keder
