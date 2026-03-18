@@ -10064,6 +10064,7 @@ nilem
 nilemake
 nilep
 nili
+nilna
 nilo
 nim
 nima
@@ -12530,7 +12531,6 @@ sam
 sama
 samak
 saman
-samangga
 samar
 sambal
 sambang
