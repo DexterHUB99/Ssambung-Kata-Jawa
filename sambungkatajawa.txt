@@ -35,7 +35,6 @@ abrit
 abu
 abuh
 abul
-abun
 abuy
 ac
 aca
@@ -294,7 +293,6 @@ ajay
 aje
 ajeg
 ajek
-ajen
 ajeng
 ajep
 aji
@@ -393,7 +391,6 @@ akomo
 akon
 akoni
 akoo
-akop
 akor
 akos
 akot
@@ -918,7 +915,6 @@ anor
 anot
 ansur
 ansuran
-ansuri
 anta
 antah
 antam
@@ -1280,6 +1276,7 @@ atek
 atel
 atem
 atema
+atemi
 aten
 atena
 atene
@@ -1385,7 +1382,6 @@ awe
 aweh
 awek
 awer
-awes
 awet
 awha
 awi
@@ -2312,7 +2308,6 @@ cumo
 cun
 cuna
 cunduk
-cung
 cungkring
 cup
 cupu
@@ -3406,6 +3401,7 @@ eror
 eros
 erosi
 erot
+eroti
 erta
 erti
 eru
@@ -3492,7 +3488,6 @@ etes
 etet
 eti
 etig
-etih
 etik
 etika
 etil
@@ -4189,7 +4184,6 @@ gosoki
 gosong
 got
 gotong
-gotongan
 gotongroyong
 gowang
 gowange
@@ -5767,7 +5761,6 @@ kandani
 kandas
 kandel
 kandha
-kandhang
 kandi
 kandungan
 kandut
@@ -5826,7 +5819,6 @@ karam
 karan
 karang
 karangan
-karanganyar
 karat
 karawang
 karawitan
@@ -5914,7 +5906,6 @@ katek
 katel
 kater
 kates
-kateter
 kathah
 kathok
 kati
@@ -6101,7 +6092,6 @@ kembar
 kemben
 keme
 kemeja
-kemek
 kemem
 kemene
 kemeng
@@ -7831,7 +7821,6 @@ molen
 molet
 moli
 molin
-moloh
 molok
 mom
 momong
@@ -8292,6 +8281,7 @@ nedi
 neduh
 neg
 nega
+negal
 negan
 negara
 negari
@@ -9306,7 +9296,6 @@ ngopii
 ngopin
 ngopine
 ngopini
-ngoplak
 ngoplo
 ngopo
 ngopoe
@@ -10374,7 +10363,6 @@ pakdhe
 pake
 pakem
 pakir
-pakis
 pakle
 pakon
 pakpuh
@@ -10714,6 +10702,7 @@ pijam
 pijang
 pijar
 pijat
+pijek
 pijer
 pijet
 pijit
@@ -12421,7 +12410,6 @@ sis
 sisa
 sisah
 sisan
-siser
 sisi
 sisih
 sisik
@@ -12562,7 +12550,6 @@ suasu
 suba
 subal
 subhanallah
-subi
 subuh
 subur
 suci
@@ -12747,7 +12734,6 @@ ta
 taa
 taat
 taato
-tab
 taba
 tabah
 tabak
@@ -13490,7 +13476,6 @@ ukom
 ukon
 ukop
 ukra
-ukri
 ukro
 ukta
 uku
@@ -13649,7 +13634,6 @@ une
 unek
 unem
 unen
-uner
 unes
 unesa
 ung
@@ -13684,6 +13668,7 @@ unjal
 unjang
 unjar
 unjuk
+unjukan
 unjul
 unjung
 unjur
@@ -13694,7 +13679,6 @@ unma
 unni
 uno
 unta
-untab
 untah
 untal
 untalen
@@ -13867,7 +13851,6 @@ usma
 usna
 uso
 usra
-usri
 ust
 usta
 ustadz
