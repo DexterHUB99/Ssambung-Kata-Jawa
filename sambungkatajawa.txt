@@ -2222,7 +2222,6 @@ cobek
 coc
 coco
 cocok
-cocol
 cocot
 cocote
 cocotmu
@@ -2382,6 +2381,7 @@ damen
 dami
 dampak
 dampal
+damping
 dampit
 damput
 damu
@@ -3331,7 +3331,6 @@ epit
 epo
 epoh
 epok
-epol
 epon
 epor
 epos
@@ -4400,6 +4399,7 @@ hangka
 hangwo
 hani
 haning
+hanki
 hano
 hansip
 hanta
@@ -6376,7 +6376,6 @@ kisi
 kit
 kita
 kitab
-kitae
 kitan
 kite
 kitela
@@ -6790,7 +6789,6 @@ lampir
 lampiran
 lampu
 lampua
-lampue
 lampune
 lampung
 lamu
@@ -7076,7 +7074,6 @@ lingkungan
 linglung
 lingsir
 lini
-linjak
 lino
 linta
 lintah
@@ -13421,7 +13418,6 @@ ukar
 ukara
 ukaran
 ukarane
-ukari
 ukas
 uke
 ukek
@@ -14436,6 +14432,7 @@ yuli
 yulo
 yuma
 yumi
+yumo
 yumu
 yun
 yuna
