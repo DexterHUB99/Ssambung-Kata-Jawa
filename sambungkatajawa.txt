@@ -12792,6 +12792,7 @@ tajuk
 tak
 taka
 takan
+takaran
 takbir
 takbiran
 takdir
