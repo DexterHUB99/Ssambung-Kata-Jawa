@@ -3767,6 +3767,7 @@ eyu
 eyuk
 eyup
 ez
+fadi
 fafa
 faham
 fajar
@@ -7595,6 +7596,7 @@ lomba
 lombo
 lombok
 lomboke
+lome
 lomi
 lomo
 lomot
@@ -8247,6 +8249,7 @@ modyar
 mogok
 moh
 mohi
+moho
 mojo
 mojokerto
 mok
@@ -9547,7 +9550,6 @@ nggah
 nggak
 nggali
 nggambar
-ngganggu
 ngganti
 nggantung
 nggara
@@ -12346,7 +12348,6 @@ rota
 rotan
 roti
 rotii
-rotina
 roto
 rowang
 rowi
@@ -13728,6 +13729,7 @@ ten
 tena
 tenaga
 tenan
+tenana
 tenanan
 tenane
 tenang
