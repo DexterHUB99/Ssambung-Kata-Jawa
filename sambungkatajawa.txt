@@ -460,6 +460,7 @@ alai
 alak
 alal
 alala
+alali
 alam
 alama
 alame
@@ -6860,6 +6861,7 @@ kis
 kisa
 kisan
 kisanak
+kise
 kisi
 kit
 kita
