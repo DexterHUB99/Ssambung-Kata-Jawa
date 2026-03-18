@@ -1476,6 +1476,7 @@ awuh
 awul
 awulo
 awur
+awuran
 awuren
 ax
 ay
@@ -2026,6 +2027,7 @@ boyo
 boyok
 boyolali
 bro
+brug
 bu
 bua
 buang
@@ -2797,7 +2799,6 @@ dir
 dira
 diran
 direng
-direwangi
 diri
 diru
 dirum
@@ -4454,7 +4455,6 @@ gotongroyong
 gowang
 gowange
 gowo
-gowoe
 goyah
 goyang
 gragal
@@ -6127,7 +6127,6 @@ kangen
 kangge
 kanggeh
 kanggo
-kanggone
 kangi
 kangkung
 kangmas
@@ -8061,6 +8060,7 @@ mayi
 mayit
 mayu
 mayuh
+mayun
 mayungi
 mbah
 mbak
@@ -10698,6 +10698,7 @@ olit
 olo
 oloe
 oloh
+oloi
 olok
 olokan
 olokmu
@@ -10974,6 +10975,7 @@ padaran
 padas
 padasan
 padha
+padhang
 padil
 pados
 padu
@@ -11823,6 +11825,7 @@ rajek
 rajelas
 rajiman
 rajin
+rajok
 raju
 rajuk
 rajungan
@@ -12757,6 +12760,7 @@ sar
 sara
 saran
 sarang
+sarangan
 sarap
 sarapa
 sarapan
@@ -13354,7 +13358,6 @@ sugi
 sugih
 sugiyo
 suh
-suha
 suhen
 sui
 suji
@@ -14147,6 +14150,7 @@ ubang
 ubarampe
 ube
 ubek
+ubekan
 uber
 ubet
 ubi
@@ -14383,6 +14387,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
@@ -14611,7 +14616,6 @@ uraan
 urab
 urae
 urah
-urahe
 urai
 urak
 uraka
@@ -14741,7 +14745,6 @@ usus
 ususa
 ususe
 usut
-usuten
 uswa
 ut
 uta
