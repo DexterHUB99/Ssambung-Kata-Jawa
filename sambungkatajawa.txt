@@ -5914,7 +5914,6 @@ kare
 karek
 karem
 karen
-karena
 karep
 karepe
 karepem
@@ -9642,7 +9641,6 @@ ngusir
 ngusu
 ngusung
 ngusungi
-ngusus
 ngususi
 ngut
 nguta
@@ -9851,6 +9849,7 @@ noreh
 nori
 nos
 nosa
+nose
 nosi
 not
 nota
@@ -12967,7 +12966,6 @@ taka
 takan
 takaran
 takbir
-takbira
 takbiran
 takdir
 taken
