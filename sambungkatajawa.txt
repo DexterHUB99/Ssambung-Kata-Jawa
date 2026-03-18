@@ -16,6 +16,7 @@ abas
 abasa
 abaya
 abdi
+abe
 abek
 abel
 aben
@@ -4218,6 +4219,7 @@ haki
 hakim
 haku
 hakuwi
+hakwa
 hal
 hala
 halah
