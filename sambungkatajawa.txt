@@ -6919,6 +6919,7 @@ kopok
 kopyor
 kor
 kora
+korak
 koran
 korban
 kore
