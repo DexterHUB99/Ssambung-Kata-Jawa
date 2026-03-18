@@ -1448,7 +1448,6 @@ awah
 awak
 awakdewe
 awake
-awakedhewe
 awakku
 awakmu
 awaku
@@ -1706,6 +1705,7 @@ bathuk
 bati
 batik
 batin
+batir
 bato
 batok
 batu
@@ -1893,6 +1893,7 @@ bidu
 bidun
 bidur
 bien
+big
 biga
 bigan
 bigu
@@ -7425,6 +7426,7 @@ leman
 lemari
 lemas
 lembah
+lembar
 lembek
 lembur
 lembut
@@ -10317,7 +10319,6 @@ nnggih
 nnginum
 nngopo
 nni
-nnimbang
 nnipo
 nnumpak
 nny
@@ -11498,7 +11499,6 @@ piluh
 pilum
 pilus
 pimen
-pimi
 pin
 pina
 pinah
@@ -14731,7 +14731,6 @@ uripan
 uripe
 uripku
 uripmu
-uripne
 uris
 urit
 uritan
