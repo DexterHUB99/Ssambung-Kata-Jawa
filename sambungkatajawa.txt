@@ -460,6 +460,7 @@ alai
 alak
 alal
 alala
+alali
 alam
 alama
 alame
@@ -876,7 +877,6 @@ angkrik
 angkring
 angkringa
 angkringan
-angkruk
 angkuh
 angkut
 angkutan
@@ -6649,7 +6649,6 @@ kepiye
 keplak
 keplek
 kepo
-kepoan
 kepriben
 kepriwe
 kepriye
@@ -6862,6 +6861,7 @@ kis
 kisa
 kisan
 kisanak
+kise
 kisi
 kit
 kita
@@ -8886,7 +8886,6 @@ neda
 nedah
 nedan
 nedang
-nedas
 nedha
 nedhaa
 nedho
@@ -9619,6 +9618,7 @@ ngepuk
 ngepus
 nger
 ngera
+ngeragat
 ngerak
 ngeram
 ngerami
@@ -12360,7 +12360,6 @@ resti
 restu
 ret
 retak
-retan
 reti
 rewa
 rewang
