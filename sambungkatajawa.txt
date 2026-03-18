@@ -990,6 +990,7 @@ apin
 apine
 apip
 apir
+apis
 apit
 apo
 apok
@@ -9134,6 +9135,7 @@ ngundur
 ngunem
 ngung
 ngunggah
+ngungkap
 ngungkuli
 nguning
 ngunjuk
@@ -13834,6 +13836,7 @@ wowi
 wowo
 woyo
 wu
+wuda
 wudel
 wudhu
 wuh
