@@ -442,6 +442,7 @@ alasan
 alat
 alay
 ale
+alea
 aleb
 aleh
 alek
@@ -1052,6 +1053,7 @@ arami
 aran
 arane
 arang
+arangan
 araning
 arap
 arar
@@ -1098,7 +1100,6 @@ arit
 arjo
 arjuna
 arjuno
-arka
 arma
 armai
 aro
@@ -1114,6 +1115,7 @@ arsa
 arsi
 arsila
 arta
+artai
 arti
 artii
 artine
@@ -1175,7 +1177,6 @@ asia
 asian
 asie
 asih
-asii
 asik
 asil
 asim
@@ -2067,7 +2068,6 @@ capek
 caper
 capi
 caping
-capit
 capung
 cara
 caraka
@@ -3701,7 +3701,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -4752,7 +4751,6 @@ ijeni
 iji
 ijig
 ijik
-ijil
 ijin
 ijo
 ijok
@@ -5188,6 +5186,7 @@ isya
 it
 ita
 itaa
+itai
 itali
 itara
 ite
@@ -5217,7 +5216,6 @@ iwang
 iwangi
 iwas
 iwel
-iwen
 iwir
 ix
 iy
@@ -5602,7 +5600,6 @@ kakehan
 kakek
 kaki
 kakine
-kakir
 kaku
 kakung
 kakus
@@ -5839,7 +5836,6 @@ katan
 katang
 kate
 kateh
-katek
 katel
 kater
 kates
@@ -5893,7 +5889,6 @@ kayaa
 kayak
 kayane
 kayangan
-kayata
 kayok
 kayu
 kayuh
@@ -6656,7 +6651,6 @@ labuh
 labur
 lada
 ladak
-ladeni
 ladi
 lading
 ladosan
@@ -7094,7 +7088,6 @@ lohan
 lohe
 loi
 loji
-lojika
 lok
 loka
 lokan
@@ -7213,7 +7206,6 @@ lumayan
 lumbung
 lumen
 lumer
-lumi
 lumpak
 lumpang
 lumping
@@ -8674,7 +8666,6 @@ ngaut
 ngawa
 ngawag
 ngawah
-ngawak
 ngawal
 ngawali
 ngawang
@@ -8710,7 +8701,6 @@ ngayuk
 ngayun
 ngcak
 nge
-ngeanu
 ngebaki
 ngebang
 ngebo
@@ -8722,7 +8712,6 @@ ngece
 ngecek
 ngeces
 ngecet
-ngecor
 ngedan
 ngedang
 ngedani
@@ -8829,6 +8818,7 @@ ngengek
 ngenget
 ngenggeh
 ngenggo
+ngeni
 ngeniko
 ngenja
 ngenjang
@@ -9089,7 +9079,6 @@ ngiwa
 ngiwak
 ngiwas
 ngiwasi
-ngiya
 ngiyuh
 ngka
 ngki
@@ -9518,6 +9507,7 @@ nitih
 nitik
 nitip
 niwa
+niwi
 njagong
 njait
 njajal
@@ -9706,7 +9696,6 @@ nutup
 nutupi
 nutur
 nuturi
-nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9809,7 +9798,6 @@ obot
 obrak
 obral
 obrol
-obrolan
 oceh
 ocehan
 oci
@@ -10876,6 +10864,7 @@ puluh
 pulung
 puma
 pumi
+pumu
 pun
 puna
 punapa
@@ -10982,7 +10971,6 @@ rahmat
 rahmatan
 rahwana
 rai
-raia
 raib
 raie
 raika
@@ -11165,7 +11153,6 @@ rasim
 rasing
 rasis
 raski
-rasmi
 rasmo
 raso
 rasta
@@ -11819,7 +11806,6 @@ san
 sana
 sanae
 sanak
-sanar
 sandal
 sandale
 sandang
@@ -12659,7 +12645,6 @@ tales
 tali
 talie
 taline
-talingan
 talo
 tam
 tama
@@ -14116,7 +14101,6 @@ wonosobo
 wonten
 woo
 wor
-wora
 woro
 wortel
 wos
