@@ -1606,6 +1606,7 @@ bani
 banjir
 banjur
 bantal
+bante
 banteng
 banter
 bantu
@@ -7880,6 +7881,7 @@ meru
 mesake
 mese
 mesem
+mesi
 mesin
 meski
 meso
@@ -10274,6 +10276,7 @@ okita
 okok
 okoka
 okoke
+okokok
 okol
 okon
 okone
@@ -11966,6 +11969,7 @@ roro
 ros
 rosa
 rose
+rosho
 rosi
 roso
 rotan
