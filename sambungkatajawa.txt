@@ -9625,6 +9625,7 @@ ngirit
 ngirup
 ngis
 ngisak
+ngisam
 ngisan
 ngisap
 ngiseng
