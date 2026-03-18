@@ -34,6 +34,7 @@ abrit
 abu
 abuh
 abul
+abun
 abuy
 ac
 aca
@@ -292,6 +293,7 @@ ajay
 aje
 ajeg
 ajek
+ajen
 ajeng
 ajep
 aji
@@ -390,6 +392,7 @@ akomo
 akon
 akoni
 akoo
+akop
 akor
 akos
 akot
@@ -1378,6 +1381,7 @@ awe
 aweh
 awek
 awer
+awes
 awet
 awha
 awi
@@ -3478,6 +3482,7 @@ etes
 etet
 eti
 etig
+etih
 etik
 etika
 etil
@@ -4173,6 +4178,7 @@ gosoki
 gosong
 got
 gotong
+gotongan
 gotongroyong
 gowang
 gowange
@@ -5747,6 +5753,7 @@ kandani
 kandas
 kandel
 kandha
+kandhang
 kandi
 kandungan
 kandut
@@ -5804,6 +5811,7 @@ karam
 karan
 karang
 karangan
+karanganyar
 karat
 karawang
 karawitan
@@ -5891,6 +5899,7 @@ katek
 katel
 kater
 kates
+kateter
 kathah
 kathok
 kati
@@ -8030,6 +8039,7 @@ naka
 nakal
 nakalan
 naker
+nakes
 naki
 nako
 nakoe
@@ -9275,6 +9285,7 @@ ngopii
 ngopin
 ngopine
 ngopini
+ngoplak
 ngoplo
 ngopo
 ngopoe
@@ -10340,6 +10351,7 @@ pakdhe
 pake
 pakem
 pakir
+pakis
 pakle
 pakon
 pakpuh
@@ -12522,6 +12534,7 @@ suasu
 suba
 subal
 subhanallah
+subi
 subuh
 subur
 suci
@@ -12706,6 +12719,7 @@ ta
 taa
 taat
 taato
+tab
 taba
 tabah
 tabak
@@ -13606,6 +13620,7 @@ une
 unek
 unem
 unen
+uner
 unes
 unesa
 ung
