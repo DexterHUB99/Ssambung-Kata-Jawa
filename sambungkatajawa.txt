@@ -5778,6 +5778,7 @@ kape
 kapen
 kapi
 kapik
+kapin
 kaping
 kapiran
 kapisan
@@ -11140,6 +11141,7 @@ ramean
 ramen
 ramene
 rames
+ramesan
 rami
 ramis
 ramo
