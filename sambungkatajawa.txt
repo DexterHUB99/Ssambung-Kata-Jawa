@@ -1111,6 +1111,7 @@ aram
 arama
 arami
 aran
+arana
 arane
 arang
 arangan
@@ -2636,6 +2637,7 @@ desa
 desi
 deso
 det
+deta
 deto
 dewa
 dewe
@@ -3115,6 +3117,7 @@ ekae
 ekag
 ekah
 ekal
+ekala
 ekali
 ekam
 ekan
@@ -7908,6 +7911,7 @@ mare
 marem
 maren
 mareng
+marga
 mari
 mariki
 marila
@@ -9362,6 +9366,7 @@ ngendog
 ngendong
 ngenduk
 ngene
+ngenek
 ngeneng
 ngenes
 ngeng
@@ -10081,6 +10086,7 @@ ningkat
 ningning
 ningsih
 nini
+ninia
 ninine
 nining
 ninja
