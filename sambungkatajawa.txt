@@ -8325,6 +8325,7 @@ muring
 murka
 murtad
 murub
+murun
 murung
 murup
 murupen
@@ -9767,6 +9768,7 @@ ngrasani
 ngrawuh
 ngrayu
 ngrebeki
+ngreng
 ngrep
 ngrepoti
 ngresiki
