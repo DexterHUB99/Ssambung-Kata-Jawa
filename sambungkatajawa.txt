@@ -1289,6 +1289,7 @@ atai
 atak
 atakno
 atam
+ataman
 atan
 atana
 atang
@@ -1606,7 +1607,6 @@ bani
 banjir
 banjur
 bantal
-bante
 banteng
 banter
 bantu
@@ -2144,7 +2144,6 @@ caper
 capi
 caping
 capit
-capo
 capung
 cara
 caraka
@@ -2596,6 +2595,7 @@ diadusi
 diajeng
 dialah
 diamana
+diana
 diancok
 diangsang
 dianu
@@ -3764,6 +3764,7 @@ galeng
 galengan
 galer
 galeren
+galeri
 gali
 galian
 galih
@@ -4772,7 +4773,6 @@ hubi
 hubung
 hubungan
 hubungane
-hubunge
 huda
 hudan
 hujan
@@ -7619,6 +7619,7 @@ mamah
 mamak
 mamake
 maman
+mamana
 mamas
 mamat
 mambu
@@ -7994,7 +7995,6 @@ mobilan
 moco
 modal
 modar
-modaro
 modus
 modyar
 mogok
@@ -10978,6 +10978,7 @@ pidana
 pidang
 pidek
 pie
+pigun
 pih
 pii
 pijak
@@ -11348,6 +11349,7 @@ rabio
 rabisa
 rabit
 raboh
+rabot
 rabu
 rabun
 racik
@@ -11632,6 +11634,7 @@ rawuh
 rawung
 raya
 rayap
+rayi
 rayo
 rayon
 rayu
@@ -11969,7 +11972,6 @@ roro
 ros
 rosa
 rose
-rosho
 rosi
 roso
 rotan
