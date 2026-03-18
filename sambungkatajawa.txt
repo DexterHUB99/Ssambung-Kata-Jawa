@@ -2320,6 +2320,7 @@ dahu
 dajaran
 daju
 dak
+daka
 dakar
 daki
 dakngerti
@@ -4554,6 +4555,7 @@ hon
 hona
 hone
 honi
+honka
 hono
 honta
 hoo
@@ -4942,6 +4944,7 @@ ingati
 inget
 inggah
 inggal
+inggar
 inggi
 inggih
 inggil
