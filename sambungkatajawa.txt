@@ -1068,7 +1068,6 @@ aran
 arane
 arang
 arangan
-arani
 araning
 arap
 arar
@@ -8190,7 +8189,6 @@ nar
 nara
 narah
 narai
-narak
 naran
 naras
 narasi
@@ -8584,7 +8582,6 @@ ngampet
 ngampih
 ngampil
 ngampir
-ngampiri
 ngampleng
 ngampun
 ngampung
@@ -9025,7 +9022,6 @@ ngeti
 ngetih
 ngetik
 ngeting
-ngeto
 ngetok
 ngeton
 ngetot
@@ -13954,7 +13950,6 @@ utoh
 utowo
 utri
 utu
-utua
 utuh
 utumu
 utus
