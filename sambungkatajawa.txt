@@ -6115,6 +6115,7 @@ kamer
 kamera
 kami
 kamil
+kamin
 kamir
 kamis
 kamit
@@ -8484,6 +8485,7 @@ mungkin
 mungkir
 mungsuh
 muni
+munjuk
 munjul
 munjung
 muntab
