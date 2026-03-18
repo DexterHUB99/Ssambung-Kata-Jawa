@@ -11555,6 +11555,7 @@ rekam
 rekan
 rekasa
 rekat
+reke
 reki
 rekma
 rekmo
@@ -11878,6 +11879,7 @@ rujak
 rujuk
 ruk
 ruka
+ruke
 ruki
 ruko
 ruku
