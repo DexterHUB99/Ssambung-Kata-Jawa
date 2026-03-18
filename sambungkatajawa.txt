@@ -25,7 +25,6 @@ abi
 abih
 abil
 abin
-abir
 abis
 abo
 aboh
@@ -1835,7 +1834,6 @@ bito
 bitu
 biu
 biyen
-biyu
 biyung
 blas
 blereng
@@ -2383,6 +2381,7 @@ damen
 dami
 dampak
 dampal
+damping
 dampit
 damput
 damu
@@ -4400,6 +4399,7 @@ hangka
 hangwo
 hani
 haning
+hanki
 hano
 hansip
 hanta
@@ -5604,7 +5604,6 @@ kader
 kades
 kadewa
 kadi
-kadohan
 kadong
 kados
 kadose
@@ -5785,7 +5784,6 @@ kap
 kapa
 kapak
 kapal
-kapalan
 kapan
 kapas
 kape
@@ -8937,7 +8935,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepuk
 ngepus
 nger
 ngera
@@ -9248,7 +9245,6 @@ ngolong
 ngolor
 ngom
 ngomah
-ngombak
 ngombe
 ngombek
 ngombi
@@ -9640,7 +9636,6 @@ nnipo
 nny
 no
 nobat
-nodol
 nogel
 noh
 nok
@@ -10615,7 +10610,6 @@ pengin
 peni
 pening
 peniti
-penjuru
 peno
 pensil
 pentil
