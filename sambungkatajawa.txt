@@ -12934,6 +12934,7 @@ sap
 sapa
 sape
 sapeh
+sapen
 sapi
 sapih
 sapii
