@@ -6789,7 +6789,6 @@ kutang
 kute
 kutek
 kutha
-kuthaa
 kuti
 kutilang
 kutu
@@ -8199,7 +8198,6 @@ namar
 namba
 nambah
 nambai
-nambak
 nambal
 nambang
 nambani
