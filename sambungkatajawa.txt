@@ -307,6 +307,7 @@ ajib
 ajig
 ajih
 ajik
+ajil
 ajim
 ajima
 ajin
@@ -414,6 +415,7 @@ aksi
 aku
 akua
 akue
+akuf
 akuh
 akui
 akuk
@@ -2293,6 +2295,7 @@ combro
 como
 comot
 condong
+congkak
 congok
 congor
 congore
@@ -8936,6 +8939,7 @@ ngayuk
 ngayun
 ngayung
 ngcak
+ngcok
 nge
 ngea
 ngeanu
@@ -10050,6 +10054,7 @@ nyolek
 nyolong
 nyomot
 nyong
+nyonya
 nyuci
 nyuluh
 nyumbang
@@ -13001,6 +13006,7 @@ takwa
 tal
 tala
 talak
+talan
 talas
 tale
 talenan
@@ -14587,6 +14593,7 @@ yawes
 yawi
 yawis
 yaya
+yayi
 ye
 yek
 yekan
