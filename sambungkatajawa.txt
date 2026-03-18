@@ -915,6 +915,7 @@ anjeg
 anji
 anjian
 anjimi
+anjine
 anjing
 anjining
 anjir
@@ -13658,6 +13659,7 @@ toro
 tos
 tosa
 tose
+tosu
 tot
 tota
 totak
