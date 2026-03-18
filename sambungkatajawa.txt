@@ -1690,6 +1690,7 @@ beja
 bejad
 bejak
 bejan
+bejat
 bejek
 beji
 bejir
@@ -2905,7 +2906,6 @@ edar
 edaran
 edas
 ede
-eden
 eder
 edi
 edin
@@ -4077,7 +4077,6 @@ gero
 gerobak
 geroh
 gerot
-gertak
 geruh
 gerung
 gerus
@@ -6140,6 +6139,7 @@ kelik
 keliling
 kelimo
 kelinci
+kelindes
 kelingan
 kelip
 kelir
@@ -6791,6 +6791,7 @@ kutang
 kute
 kutek
 kutha
+kuthaa
 kuti
 kutilang
 kutu
@@ -8200,6 +8201,7 @@ namar
 namba
 nambah
 nambai
+nambak
 nambal
 nambang
 nambani
@@ -8917,6 +8919,7 @@ ngayun
 ngayung
 ngcak
 nge
+ngea
 ngeanu
 ngebaki
 ngebang
@@ -9080,7 +9083,6 @@ ngerami
 ngerampok
 ngerandu
 ngerap
-ngeras
 ngerasa
 ngerasani
 ngere
@@ -9096,6 +9098,7 @@ ngerit
 ngerja
 ngerok
 ngerokok
+ngerono
 ngeroso
 ngersa
 ngerteni
@@ -12824,7 +12827,6 @@ sungkeman
 sungkemi
 sungu
 suni
-sunja
 sunnah
 suntik
 suntuk
@@ -13522,7 +13524,6 @@ udahan
 udahlah
 udak
 udakara
-udam
 udan
 udanan
 udane
