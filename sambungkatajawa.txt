@@ -1892,7 +1892,6 @@ bidu
 bidun
 bidur
 bien
-big
 biga
 bigan
 bigu
@@ -11497,6 +11496,7 @@ piluh
 pilum
 pilus
 pimen
+pimi
 pin
 pina
 pinah
@@ -14729,6 +14729,7 @@ uripan
 uripe
 uripku
 uripmu
+uripne
 uris
 urit
 uritan
