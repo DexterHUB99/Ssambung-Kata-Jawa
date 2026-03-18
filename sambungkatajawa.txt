@@ -1771,6 +1771,7 @@ bekne
 beko
 bekok
 bekong
+beku
 bel
 bela
 belah
@@ -3487,7 +3488,6 @@ enuk
 enul
 enum
 enun
-enur
 enus
 enwa
 enya
@@ -3970,7 +3970,6 @@ gapi
 gapil
 gapit
 gaplek
-gapleki
 gaplok
 gapopo
 gapuk
@@ -6770,7 +6769,6 @@ kiten
 kiti
 kiwa
 kiye
-klakson
 klambi
 klambine
 klaten
@@ -7880,7 +7878,6 @@ mandali
 mandan
 mandang
 mandeg
-mandel
 mandeng
 mandhek
 mandi
@@ -8090,7 +8087,6 @@ memen
 men
 menawa
 menawi
-mencolot
 mencret
 mendhem
 mendoan
@@ -11088,6 +11084,7 @@ pantat
 pante
 pantes
 panti
+pantu
 pantun
 panuh
 panun
@@ -14220,7 +14217,6 @@ ukaa
 ukae
 ukai
 ukak
-ukaka
 ukal
 ukam
 ukama
@@ -14580,6 +14576,7 @@ urat
 uratan
 ure
 urek
+urem
 uren
 ures
 uret
