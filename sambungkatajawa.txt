@@ -3452,6 +3452,7 @@ etog
 etoh
 etok
 etol
+etom
 eton
 etos
 etose
@@ -7680,7 +7681,6 @@ misuhi
 mita
 mitik
 mitoni
-mitra
 miya
 mlaku
 mlampah
