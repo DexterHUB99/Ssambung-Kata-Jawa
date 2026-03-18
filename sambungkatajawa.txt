@@ -100,6 +100,7 @@ adipati
 adis
 adit
 ado
+adog
 adoh
 adohe
 adol
@@ -1788,6 +1789,7 @@ belakang
 belan
 belang
 belanja
+bele
 beleh
 belek
 beler
@@ -8289,6 +8291,7 @@ mlarat
 mlayu
 mlebet
 mlebu
+mlempem
 mlik
 mlipir
 mlumah
@@ -9722,6 +9725,7 @@ ngimboh
 ngimbu
 ngimbuh
 ngimi
+ngiming
 ngimpen
 ngimpi
 ngimpun
@@ -10015,6 +10019,7 @@ ngula
 ngulah
 ngulai
 ngulak
+ngulam
 ngulan
 ngulang
 ngulangi
