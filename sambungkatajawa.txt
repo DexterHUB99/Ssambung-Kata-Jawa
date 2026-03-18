@@ -332,7 +332,6 @@ ajrih
 aju
 ajudan
 ajuk
-ajul
 ajung
 ajur
 ajura
@@ -1940,7 +1939,6 @@ bobok
 bobot
 bobrok
 bocah
-bocil
 bocor
 bodat
 bodi
@@ -5033,7 +5031,6 @@ ihlo
 ihma
 ihmu
 ihna
-ihni
 iho
 ihra
 ihre
@@ -5619,7 +5616,6 @@ jambu
 jambul
 jamin
 jampi
-jampiro
 jamput
 jamu
 jamur
@@ -9599,7 +9595,6 @@ nginep
 nging
 nginggil
 nginggo
-ngingi
 ngingkang
 ngini
 nginjak
@@ -9629,7 +9624,6 @@ ngirit
 ngirup
 ngis
 ngisak
-ngisam
 ngisan
 ngisap
 ngiseng
@@ -10096,7 +10090,6 @@ nir
 nira
 nirek
 niri
-niris
 niro
 nirwana
 nis
@@ -10891,7 +10884,6 @@ pakar
 pakde
 pakdhe
 pake
-pakek
 pakem
 pakir
 pakle
@@ -11259,7 +11251,6 @@ pijor
 pik
 pika
 pikam
-pikan
 pikang
 piker
 piket
@@ -11342,7 +11333,6 @@ pinutur
 pio
 pipi
 pipik
-pipil
 pipipis
 pipis
 pipo
