@@ -26,6 +26,7 @@ abih
 abil
 abin
 abis
+abo
 aboh
 abon
 abot
@@ -54,6 +55,7 @@ ada
 adab
 adabi
 adada
+adadil
 adah
 adai
 adak
@@ -2433,10 +2435,8 @@ dede
 dedeg
 dedek
 dedemit
-deden
 dedi
 dedik
-dedok
 degan
 deja
 dek
@@ -2921,6 +2921,7 @@ ehot
 ehoy
 ehu
 ehuh
+ehuj
 ehuk
 ehun
 ehur
@@ -3641,7 +3642,6 @@ galeren
 gali
 galih
 galine
-galio
 galo
 galok
 galon
@@ -5344,7 +5344,6 @@ jangkai
 jangkar
 jangkep
 jangkrik
-jangkring
 jani
 janian
 janji
@@ -7341,7 +7340,6 @@ mae
 maem
 maen
 mag
-maga
 magan
 magang
 mage
@@ -8435,7 +8433,6 @@ ngae
 ngaei
 ngaga
 ngagak
-ngagas
 ngagel
 ngagem
 ngago
@@ -8847,6 +8844,7 @@ ngemis
 ngemoh
 ngemong
 ngemot
+ngempak
 ngempal
 ngempek
 ngemper
@@ -9126,6 +9124,7 @@ ngiseng
 ngisep
 ngiser
 ngisi
+ngisik
 ngisin
 ngising
 ngisini
@@ -11071,6 +11070,7 @@ rajab
 rajah
 rajai
 rajak
+rajan
 rajang
 rajar
 rajek
@@ -11956,6 +11956,7 @@ saren
 sareng
 sarep
 sari
+saria
 sarimi
 saringan
 sarip
@@ -14070,7 +14071,6 @@ welut
 wen
 wena
 wenan
-wenang
 wene
 weneh
 wengi
