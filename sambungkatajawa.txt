@@ -692,6 +692,7 @@ anap
 anar
 anarki
 anas
+anasa
 anasi
 anat
 anaw
@@ -1276,6 +1277,7 @@ atek
 atel
 atem
 atema
+atemi
 aten
 atena
 atene
@@ -3400,6 +3402,7 @@ eror
 eros
 erosi
 erot
+eroti
 erta
 erti
 eru
@@ -3560,6 +3563,7 @@ faham
 fakir
 fakta
 famu
+fan
 fana
 fani
 fasih
@@ -7532,7 +7536,6 @@ marine
 maring
 marini
 marino
-maris
 marmut
 martabak
 maru
@@ -7780,6 +7783,7 @@ mitik
 mitoni
 mitra
 miya
+miyang
 mlaku
 mlampah
 mlarat
@@ -8280,6 +8284,7 @@ nedi
 neduh
 neg
 nega
+negal
 negan
 negara
 negari
@@ -9862,6 +9867,7 @@ nyembah
 nyeni
 nyenu
 nyepi
+nyerep
 nyi
 nyikat
 nyilih
@@ -10700,6 +10706,7 @@ pijam
 pijang
 pijar
 pijat
+pijek
 pijer
 pijet
 pijit
@@ -13665,6 +13672,7 @@ unjal
 unjang
 unjar
 unjuk
+unjukan
 unjul
 unjung
 unjur
