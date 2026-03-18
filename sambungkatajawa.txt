@@ -1068,6 +1068,7 @@ aria
 ariana
 arif
 arih
+arii
 arik
 aril
 arim
@@ -3365,6 +3366,7 @@ esey
 esi
 esih
 esik
+esil
 esim
 esin
 esir
@@ -9003,6 +9005,7 @@ ngoblok
 ngobok
 ngobong
 ngobor
+ngobos
 ngobral
 ngobrol
 ngobroli
@@ -11738,6 +11741,7 @@ sarwa
 sas
 sasa
 sasago
+sasah
 sasak
 sasampean
 sasaran
@@ -13125,6 +13129,7 @@ ukaran
 ukarane
 ukas
 uke
+ukek
 ukel
 ukem
 uken
