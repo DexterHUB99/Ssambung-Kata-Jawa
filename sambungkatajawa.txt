@@ -1704,7 +1704,6 @@ beco
 beda
 bedah
 bedak
-bedeg
 bedes
 bedha
 bedi
@@ -12937,7 +12936,6 @@ solet
 soli
 solid
 solo
-soloe
 solor
 solot
 som
