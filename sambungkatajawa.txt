@@ -984,6 +984,7 @@ apike
 apiken
 apil
 apin
+apine
 apip
 apir
 apit
@@ -3967,6 +3968,7 @@ gitari
 githok
 giwang
 giwangan
+giyat
 gladhen
 go
 gobak
@@ -6994,6 +6996,7 @@ loo
 lop
 lopa
 lope
+loper
 lopi
 lopis
 lor
