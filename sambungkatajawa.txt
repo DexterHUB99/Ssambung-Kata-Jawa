@@ -67,7 +67,6 @@ adal
 adala
 adam
 adan
-adane
 adang
 adap
 adat
@@ -3165,7 +3164,6 @@ elinga
 elingo
 elip
 elir
-eliren
 elis
 elit
 elmu
@@ -3445,7 +3443,6 @@ epes
 epet
 epi
 epic
-epig
 epih
 epik
 epil
@@ -4491,7 +4488,6 @@ hah
 haha
 hahaa
 hahaha
-hahai
 hahi
 haho
 hai
@@ -6787,7 +6783,6 @@ kuat
 kubangan
 kubur
 kuburan
-kucak
 kucing
 kucir
 kuciran
@@ -8204,6 +8199,7 @@ munek
 mung
 mungah
 munggah
+munggur
 mungkin
 mungkir
 mungsuh
