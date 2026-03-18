@@ -2034,6 +2034,7 @@ bro
 brug
 bu
 bua
+buana
 buang
 buat
 buaya
@@ -6887,6 +6888,7 @@ komplit
 kompor
 komputer
 kon
+kona
 konami
 konan
 konangan
@@ -6930,6 +6932,7 @@ kopok
 kopyor
 kor
 kora
+korak
 koran
 korban
 kore
@@ -7271,6 +7274,7 @@ langka
 langkah
 langkap
 langkung
+langsam
 langsep
 langsing
 langu
@@ -9996,6 +10000,7 @@ ngudi
 ngudik
 nguding
 ngudo
+ngudu
 ngudud
 ngudut
 ngugah
@@ -11415,6 +11420,7 @@ pijang
 pijar
 pijat
 pijek
+pijem
 pijer
 pijet
 pijit
