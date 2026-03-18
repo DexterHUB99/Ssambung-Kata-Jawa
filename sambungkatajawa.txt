@@ -990,6 +990,7 @@ apin
 apine
 apip
 apir
+apis
 apit
 apo
 apok
@@ -2054,6 +2055,7 @@ cebok
 cecak
 cece
 cecek
+ceceng
 cecok
 cedak
 cedek
@@ -2280,7 +2282,6 @@ dahak
 dahan
 dahar
 dahi
-dahu
 dajaran
 daju
 dak
@@ -2471,6 +2472,7 @@ difa
 digawa
 digo
 diguna
+diham
 dihan
 diimboh
 dija
@@ -7360,6 +7362,7 @@ matur
 maturnuwun
 matursuwun
 mau
+maune
 mawa
 mawah
 mawang
@@ -9135,6 +9138,7 @@ ngundur
 ngunem
 ngung
 ngunggah
+ngungkap
 ngungkuli
 nguning
 ngunjuk
@@ -13391,7 +13395,6 @@ uruso
 urusono
 urut
 urutan
-urya
 us
 usa
 usaa
@@ -13616,7 +13619,6 @@ warga
 wari
 waria
 warik
-waring
 waris
 warisan
 warna
@@ -13837,6 +13839,7 @@ wowi
 wowo
 woyo
 wu
+wuda
 wudel
 wudhu
 wuh
@@ -13971,6 +13974,7 @@ yoman
 yome
 yomen
 yomi
+yomo
 yomu
 yon
 yona
