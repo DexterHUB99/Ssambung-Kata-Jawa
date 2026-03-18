@@ -1003,6 +1003,7 @@ antri
 antrian
 antuk
 antun
+antup
 antur
 anu
 anua
@@ -2031,6 +2032,7 @@ bro
 brug
 bu
 bua
+buana
 buang
 buat
 buaya
@@ -2868,6 +2870,7 @@ dolo
 dolu
 dom
 doma
+doman
 domba
 domblong
 domi
@@ -6422,7 +6425,6 @@ kelaran
 kelas
 kelawan
 kele
-keleb
 kelebon
 kelebu
 kelek
@@ -8439,7 +8441,6 @@ munek
 mung
 mungah
 munggah
-munggaho
 mungkin
 mungkir
 mungsuh
@@ -10694,7 +10695,6 @@ oleh
 oleha
 olehan
 olehe
-olehem
 oleholeh
 olek
 olem
@@ -11391,6 +11391,7 @@ pijang
 pijar
 pijat
 pijek
+pijem
 pijer
 pijet
 pijit
@@ -12640,7 +12641,6 @@ salaman
 salat
 sale
 saleh
-salem
 saleng
 salep
 sali
