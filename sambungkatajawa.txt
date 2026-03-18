@@ -6694,6 +6694,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopak
 kopek
 kopen
 kopeng
@@ -7143,7 +7144,6 @@ leak
 leba
 lebah
 lebak
-lebaran
 lebay
 lebet
 lebih
@@ -7832,6 +7832,7 @@ mayuh
 mayungi
 mbah
 mbak
+mbal
 mbarep
 mbasan
 mben
@@ -13308,6 +13309,7 @@ taya
 tayo
 tayub
 te
+tebang
 tebih
 tebu
 tebus
