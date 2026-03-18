@@ -12561,6 +12561,7 @@ sembrono
 sembuh
 sembur
 seme
+semedi
 semen
 semene
 semeru
@@ -14148,6 +14149,7 @@ upel
 upen
 uper
 upes
+upha
 upi
 upih
 upik
