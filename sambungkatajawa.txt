@@ -2161,7 +2161,6 @@ capan
 cape
 capek
 caper
-capet
 capi
 caping
 capit
@@ -5025,7 +5024,6 @@ iki
 ikian
 ikie
 ikih
-ikii
 ikil
 ikilo
 ikim
@@ -5362,7 +5360,6 @@ isao
 isap
 isapa
 isar
-isas
 isat
 ise
 isek
@@ -5756,6 +5753,7 @@ jore
 jori
 joro
 jorok
+jorwo
 jos
 josa
 joss
@@ -8420,6 +8418,7 @@ nanak
 nanam
 nanan
 nanang
+nanari
 nanas
 nancep
 nandang
