@@ -25,6 +25,7 @@ abi
 abih
 abil
 abin
+abir
 abis
 abo
 aboh
@@ -3330,7 +3331,6 @@ epit
 epo
 epoh
 epok
-epol
 epon
 epor
 epos
@@ -5783,6 +5783,7 @@ kap
 kapa
 kapak
 kapal
+kapalan
 kapan
 kapas
 kape
@@ -7073,7 +7074,6 @@ lingkungan
 linglung
 lingsir
 lini
-linjak
 lino
 linta
 lintah
@@ -9245,6 +9245,7 @@ ngolong
 ngolor
 ngom
 ngomah
+ngombak
 ngombe
 ngombek
 ngombi
@@ -9636,6 +9637,7 @@ nnipo
 nny
 no
 nobat
+nodol
 nogel
 noh
 nok
@@ -10610,6 +10612,7 @@ pengin
 peni
 pening
 peniti
+penjuru
 peno
 pensil
 pentil
