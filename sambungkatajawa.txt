@@ -637,6 +637,7 @@ amput
 amri
 amrih
 amu
+amud
 amuh
 amuk
 amukan
