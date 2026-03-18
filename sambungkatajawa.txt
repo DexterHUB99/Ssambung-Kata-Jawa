@@ -5040,6 +5040,7 @@ iba
 ibadah
 ibak
 iban
+ibana
 ibarat
 ibarate
 iber
@@ -7622,6 +7623,7 @@ lit
 lita
 litah
 liti
+liwa
 liwat
 liwe
 liwer
