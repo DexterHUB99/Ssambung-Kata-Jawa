@@ -359,7 +359,6 @@ akay
 akbar
 ake
 akeh
-akehan
 akehe
 akek
 akel
@@ -1512,6 +1511,7 @@ babon
 babu
 babuk
 baca
+bacaan
 bacak
 bacin
 bacot
@@ -4019,6 +4019,7 @@ geleh
 gelek
 gelem
 geleman
+gelemmo
 gelengan
 geli
 gelis
@@ -6695,6 +6696,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopak
 kopek
 kopen
 kopeng
@@ -7144,7 +7146,6 @@ leak
 leba
 lebah
 lebak
-lebaran
 lebay
 lebet
 lebih
@@ -7194,7 +7195,6 @@ lempeng
 lemper
 lempung
 lemu
-lemud
 lemune
 lemut
 len
@@ -7834,6 +7834,7 @@ mayuh
 mayungi
 mbah
 mbak
+mbal
 mbarep
 mbasan
 mben
@@ -9694,6 +9695,7 @@ ngulas
 nguleg
 ngulek
 ngulen
+nguleni
 nguler
 ngulet
 nguli
@@ -9922,6 +9924,7 @@ nisun
 nit
 nita
 niten
+niteni
 niti
 nitih
 nitik
@@ -12207,7 +12210,6 @@ saham
 sahur
 sai
 said
-saii
 saiki
 saiku
 saing
@@ -13311,6 +13313,7 @@ taya
 tayo
 tayub
 te
+tebang
 tebih
 tebu
 tebus
