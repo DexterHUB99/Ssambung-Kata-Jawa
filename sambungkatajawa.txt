@@ -4739,6 +4739,7 @@ ihri
 ihsan
 ihta
 ihwa
+ihwi
 ihya
 ihyo
 ij
@@ -9542,6 +9543,7 @@ nobat
 nogel
 noh
 nok
+noke
 noken
 noki
 nokoh
