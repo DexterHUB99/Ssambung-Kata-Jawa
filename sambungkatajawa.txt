@@ -1216,6 +1216,7 @@ asing
 asli
 asline
 asma
+asman
 asmane
 asmanipun
 asmara
@@ -8738,6 +8739,7 @@ nganterke
 nganthi
 nganti
 ngantien
+ngantih
 ngantik
 ngantil
 ngantor
