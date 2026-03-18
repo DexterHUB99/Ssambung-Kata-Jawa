@@ -1535,7 +1535,6 @@ bade
 badeg
 badek
 badhe
-badi
 badokan
 badut
 bae
@@ -3408,6 +3407,7 @@ ente
 entee
 entek
 entekno
+entene
 enteng
 entenge
 enteni
@@ -6419,7 +6419,6 @@ keong
 kep
 kepa
 kepak
-kepal
 kepala
 kepanggih
 keparat
@@ -8421,6 +8420,7 @@ namo
 nampa
 nampak
 nampan
+nampane
 nampani
 nampar
 namper
@@ -9401,6 +9401,7 @@ nggen
 nggena
 nggendong
 ngger
+nggeret
 nggi
 nggih
 nggilani
@@ -10644,7 +10645,6 @@ organisasi
 ori
 orie
 oring
-orit
 orog
 orok
 orong
@@ -10824,6 +10824,7 @@ panca
 pancal
 pancang
 pancen
+pancene
 panci
 pancing
 pancingan
@@ -11938,6 +11939,7 @@ resep
 resi
 resik
 resika
+resikan
 resiko
 resing
 respati
@@ -13479,6 +13481,7 @@ tempur
 tempura
 temu
 temulawak
+temune
 ten
 tena
 tenaga
@@ -14899,6 +14902,7 @@ yaring
 yaro
 yas
 yasa
+yasare
 yasi
 yasin
 yaso
