@@ -981,7 +981,6 @@ ansuran
 anta
 antah
 antam
-antan
 antang
 antangen
 antangi
@@ -2680,7 +2679,6 @@ dereng
 derep
 deres
 deri
-derma
 dermawan
 deru
 des
@@ -7750,7 +7748,6 @@ lonjak
 lonjong
 lontar
 lonte
-lontee
 lonthe
 lontong
 loo
@@ -7931,7 +7928,6 @@ mai
 maido
 main
 maine
-mait
 majeng
 maji
 majo
@@ -8745,7 +8741,6 @@ nangan
 nangdi
 nange
 nangeh
-nangen
 nangendi
 nangga
 nanggal
@@ -9089,7 +9084,6 @@ ngadok
 ngadol
 ngadon
 ngadu
-ngaduh
 ngaduk
 ngadul
 ngadus
@@ -11970,7 +11964,6 @@ raie
 raika
 raiki
 raiku
-raimo
 raimu
 raimuasu
 raimui
