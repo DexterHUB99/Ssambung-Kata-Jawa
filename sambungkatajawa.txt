@@ -3542,6 +3542,7 @@ esuken
 esun
 et
 eta
+etad
 etah
 etak
 etal
@@ -3822,6 +3823,7 @@ gantil
 gantolan
 gantung
 gantungan
+ganwi
 ganyong
 gap
 gapa
