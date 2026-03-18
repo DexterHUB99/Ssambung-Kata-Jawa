@@ -1111,7 +1111,6 @@ aram
 arama
 arami
 aran
-arana
 arane
 arang
 arangan
@@ -1319,7 +1318,6 @@ atah
 atai
 atak
 atakno
-atalem
 atam
 ataman
 atan
@@ -2327,7 +2325,6 @@ cire
 cireng
 ciro
 cis
-cita
 ciu
 ciut
 ciwa
@@ -2640,7 +2637,6 @@ desa
 desi
 deso
 det
-deta
 deto
 dewa
 dewe
@@ -3120,7 +3116,6 @@ ekae
 ekag
 ekah
 ekal
-ekala
 ekali
 ekam
 ekan
@@ -3708,7 +3703,6 @@ etus
 ev
 eva
 eval
-evan
 evin
 evo
 ew
@@ -5546,7 +5540,6 @@ iwake
 iwakmu
 iwakna
 iwal
-iwala
 iwan
 iwang
 iwangi
@@ -5927,7 +5920,6 @@ kafir
 kagak
 kagem
 kaget
-kagum
 kagungan
 kagus
 kahanan
@@ -7169,7 +7161,6 @@ lamuna
 lamunan
 lan
 lana
-lanan
 lanang
 lanangan
 lanange
@@ -7771,7 +7762,6 @@ main
 maine
 majeng
 maji
-majing
 majo
 maju
 mak
@@ -7920,7 +7910,6 @@ mare
 marem
 maren
 mareng
-marga
 mari
 mariki
 marila
@@ -8072,6 +8061,7 @@ menit
 menowo
 mentah
 mentas
+mentil
 mentol
 mentolo
 menyan
@@ -8634,6 +8624,7 @@ nasib
 nasikuning
 nasine
 nasipecel
+nasta
 nastar
 nastiti
 nasu
@@ -8840,7 +8831,6 @@ netek
 netel
 neten
 netep
-netepi
 neter
 netes
 neti
@@ -9376,7 +9366,6 @@ ngendog
 ngendong
 ngenduk
 ngene
-ngenek
 ngeneng
 ngenes
 ngeng
@@ -10096,7 +10085,6 @@ ningkat
 ningning
 ningsih
 nini
-ninia
 ninine
 nining
 ninja
@@ -10490,7 +10478,6 @@ ohhh
 oho
 ohya
 oj
-ojah
 ojak
 ojam
 ojar
@@ -12935,7 +12922,6 @@ setunggal
 sewa
 sewelas
 sewer
-sewo
 sewot
 sewu
 sholat
