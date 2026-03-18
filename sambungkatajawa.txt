@@ -1434,6 +1434,7 @@ ayunan
 ayune
 ayup
 ayur
+ayut
 az
 ba
 baa
@@ -2063,7 +2064,6 @@ capek
 caper
 capi
 caping
-capit
 capung
 cara
 caraka
@@ -3694,7 +3694,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -4745,7 +4744,6 @@ ijeni
 iji
 ijig
 ijik
-ijil
 ijin
 ijo
 ijok
@@ -5829,7 +5827,6 @@ katam
 katang
 kate
 kateh
-katek
 katel
 kater
 kates
@@ -5883,7 +5880,6 @@ kayaa
 kayak
 kayane
 kayangan
-kayata
 kayok
 kayu
 kayuh
@@ -7685,6 +7681,7 @@ misuhi
 mita
 mitik
 mitoni
+mitra
 miya
 mlaku
 mlampah
@@ -8326,6 +8323,7 @@ ngaber
 ngabet
 ngaboti
 ngabu
+ngabul
 ngaca
 ngacak
 ngacang
@@ -8654,7 +8652,6 @@ ngaut
 ngawa
 ngawag
 ngawah
-ngawak
 ngawal
 ngawali
 ngawang
@@ -9681,7 +9678,6 @@ nutup
 nutupi
 nutur
 nuturi
-nuwei
 nuwek
 nuwun
 nuwunsewu
@@ -9784,7 +9780,6 @@ obot
 obrak
 obral
 obrol
-obrolan
 oceh
 ocehan
 oci
@@ -12401,6 +12396,7 @@ sugeh
 sugeng
 sugi
 sugih
+sugiyo
 suh
 sui
 suji
@@ -14080,7 +14076,6 @@ wonosobo
 wonten
 woo
 wor
-wora
 woro
 wortel
 wos
