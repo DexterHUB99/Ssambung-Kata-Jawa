@@ -67,7 +67,6 @@ adal
 adala
 adam
 adan
-adane
 adang
 adap
 adat
@@ -308,6 +307,7 @@ ajek
 ajeng
 ajep
 aji
+ajian
 ajib
 ajig
 ajih
@@ -451,7 +451,6 @@ alam
 alama
 alame
 alami
-alamo
 alan
 alang
 alangan
@@ -1289,6 +1288,7 @@ asuti
 asuw
 asuwe
 asuy
+asuya
 aswatama
 at
 ata
@@ -1667,6 +1667,7 @@ batok
 batu
 batuk
 batune
+batur
 baturan
 bau
 bawa
@@ -1952,6 +1953,7 @@ bong
 bongko
 bongkok
 bongo
+bono
 bontot
 bop
 bopo
@@ -3166,7 +3168,6 @@ elinga
 elingo
 elip
 elir
-eliren
 elis
 elit
 elmu
@@ -3289,7 +3290,6 @@ enah
 enaj
 enak
 enake
-enako
 enal
 enam
 enan
@@ -3447,7 +3447,6 @@ epes
 epet
 epi
 epic
-epig
 epih
 epik
 epil
@@ -3509,7 +3508,6 @@ erika
 eril
 erim
 erin
-erina
 ering
 eris
 ero
@@ -4494,7 +4492,6 @@ hah
 haha
 hahaa
 hahaha
-hahai
 hahi
 haho
 hai
@@ -4585,6 +4582,7 @@ hapus
 hapusi
 har
 hara
+haraa
 harai
 haram
 harang
@@ -4841,7 +4839,6 @@ huna
 hunan
 hunen
 huni
-hunna
 hup
 hupa
 hupan
@@ -4901,6 +4898,7 @@ idal
 idam
 idaman
 idan
+idar
 ide
 idea
 idem
@@ -5887,6 +5885,7 @@ kali
 kalia
 kalian
 kalih
+kalihan
 kalim
 kalima
 kalimat
@@ -6791,7 +6790,6 @@ kuat
 kubangan
 kubur
 kuburan
-kucak
 kucing
 kucir
 kuciran
@@ -7225,7 +7223,6 @@ lenga
 lengah
 lengen
 lenggah
-lenggang
 lengkuas
 lengo
 lengser
@@ -7535,6 +7532,7 @@ lumer
 lumi
 lumpak
 lumpang
+lumpat
 lumping
 lumpuh
 lumpuk
@@ -7820,7 +7818,6 @@ matam
 matamu
 matan
 matane
-matara
 mate
 matek
 mateng
@@ -8051,6 +8048,7 @@ mlayu
 mlebet
 mlebu
 mlik
+mlipir
 mlumah
 mmandi
 mmantu
@@ -11845,6 +11843,7 @@ rengket
 reni
 renjang
 reno
+renta
 rentan
 rentang
 renteng
@@ -11932,6 +11931,7 @@ rimo
 rimu
 rin
 rina
+rinai
 rinak
 rinci
 rindhik
@@ -13449,6 +13449,7 @@ tere
 teri
 terima
 terlihat
+terna
 ternak
 terne
 terong
@@ -14518,7 +14519,6 @@ warik
 waring
 waris
 warisan
-warkop
 warna
 warno
 waro
