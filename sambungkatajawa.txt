@@ -12637,6 +12637,7 @@ sakar
 sakarep
 sakarepe
 sakarepmu
+sakdurunge
 sakel
 saken
 saket
