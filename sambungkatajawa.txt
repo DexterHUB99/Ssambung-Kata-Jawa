@@ -10155,7 +10155,6 @@ norak
 nore
 noreh
 nori
-norong
 nos
 nosa
 nose
@@ -13112,6 +13111,7 @@ sosok
 sosol
 sosone
 sotel
+soten
 soti
 soto
 sowan
@@ -14577,6 +14577,7 @@ uwes
 uwi
 uwis
 uwit
+uwo
 uwong
 uwu
 uwuh
