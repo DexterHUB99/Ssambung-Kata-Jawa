@@ -10071,7 +10071,6 @@ ningkat
 ningning
 ningsih
 nini
-ninia
 ninine
 nining
 ninja
@@ -12514,6 +12513,7 @@ sambutan
 sami
 samir
 samit
+samon
 sampah
 sampai
 sampang
