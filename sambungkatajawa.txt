@@ -3650,6 +3650,7 @@ galak
 galaka
 galang
 galangan
+galar
 galau
 gale
 galeh
@@ -8883,6 +8884,7 @@ ngemas
 ngembang
 ngembun
 ngemen
+ngemes
 ngemi
 ngemil
 ngemis
