@@ -3490,6 +3490,7 @@ eyang
 eyange
 eye
 eyek
+eyi
 eyo
 eyoh
 eyos
@@ -4011,7 +4012,6 @@ gimen
 gimi
 gina
 gincu
-ginda
 ginem
 gingsir
 gini
@@ -5053,6 +5053,7 @@ irisan
 irisen
 irit
 iroh
+irol
 iron
 irong
 iros
@@ -5404,7 +5405,6 @@ jir
 jira
 jiran
 jireh
-jireng
 jiret
 jiri
 jirih
@@ -5434,7 +5434,6 @@ jolan
 jole
 jolen
 joli
-joling
 jolma
 jolo
 jom
@@ -7927,6 +7926,7 @@ nakoni
 naksir
 naku
 nakula
+nakuti
 nal
 nala
 nalah
@@ -8087,7 +8087,6 @@ nate
 natik
 natur
 nawa
-nawah
 nawan
 nawang
 nawani
