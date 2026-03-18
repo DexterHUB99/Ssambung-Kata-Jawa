@@ -1893,6 +1893,7 @@ bina
 binara
 bindeng
 bine
+bingka
 bingki
 bingung
 bini
@@ -3053,6 +3054,7 @@ ehey
 ehi
 ehid
 ehif
+ehij
 ehik
 ehil
 ehim
@@ -3172,7 +3174,6 @@ elap
 elar
 elas
 ele
-eleg
 eleh
 elek
 elekan
@@ -8860,7 +8861,6 @@ ngagak
 ngagel
 ngagem
 ngago
-ngagu
 ngagung
 ngah
 ngahad
@@ -10157,7 +10157,6 @@ norak
 nore
 noreh
 nori
-norong
 nos
 nosa
 nose
@@ -11734,7 +11733,6 @@ ranggenah
 ranggi
 rangi
 rangka
-rangkasan
 rangkat
 rangkul
 rangkum
@@ -13115,6 +13113,7 @@ sosok
 sosol
 sosone
 sotel
+soten
 soti
 soto
 sowan
@@ -14580,6 +14579,7 @@ uwes
 uwi
 uwis
 uwit
+uwo
 uwong
 uwu
 uwuh
