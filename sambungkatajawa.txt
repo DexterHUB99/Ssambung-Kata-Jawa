@@ -7747,7 +7747,6 @@ mamas
 mamat
 mambu
 mami
-mampet
 mampir
 mampu
 mampus
@@ -13080,6 +13079,7 @@ sugi
 sugih
 sugiyo
 suh
+suhen
 sui
 suji
 sujud
