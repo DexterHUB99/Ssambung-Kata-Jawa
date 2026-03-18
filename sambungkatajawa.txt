@@ -2338,6 +2338,7 @@ dandan
 dandang
 dang
 dangak
+dangapunten
 dangdut
 dangkal
 dangu
@@ -8510,6 +8511,7 @@ ngasur
 ngasus
 ngat
 ngata
+ngatar
 ngatasi
 ngatau
 ngate
