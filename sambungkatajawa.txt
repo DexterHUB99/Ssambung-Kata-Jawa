@@ -4488,7 +4488,6 @@ hah
 haha
 hahaa
 hahaha
-hahai
 hahi
 haho
 hai
@@ -4568,6 +4567,7 @@ hantu
 hantui
 hanung
 hanya
+hanyo
 hao
 hap
 hapa
@@ -5455,6 +5455,7 @@ ix
 iy
 iya
 iyaa
+iyalah
 iyan
 iyatah
 iye
@@ -5563,6 +5564,7 @@ jari
 jarik
 jaring
 jarit
+jaro
 jarum
 jarwa
 jas
@@ -5790,6 +5792,7 @@ kacung
 kadal
 kadan
 kadang
+kadem
 kademan
 kader
 kades
@@ -6780,7 +6783,6 @@ kuat
 kubangan
 kubur
 kuburan
-kucak
 kucing
 kucir
 kuciran
@@ -8505,6 +8507,7 @@ nayoh
 ncok
 ndadak
 ndak
+ndalan
 ndalem
 ndalu
 ndang
@@ -9118,6 +9121,7 @@ ngela
 ngelag
 ngelak
 ngelakoni
+ngelam
 ngelantur
 ngelap
 ngelas
@@ -12310,6 +12314,7 @@ sambung
 sambut
 sami
 samir
+samit
 sampah
 sampai
 sampang
@@ -13117,6 +13122,7 @@ susuk
 susukamu
 susul
 susulan
+susum
 susumu
 susun
 susune
