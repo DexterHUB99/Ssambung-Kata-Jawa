@@ -1212,6 +1212,7 @@ asing
 asli
 asline
 asma
+asmane
 asmanipun
 asmara
 asmaradana
@@ -13912,6 +13913,7 @@ urha
 uri
 urih
 urik
+urine
 uring
 urip
 uripan
