@@ -578,6 +578,7 @@ ambrol
 ambruk
 ambu
 ambuk
+ambulan
 ambune
 ambung
 ambunge
@@ -842,7 +843,6 @@ angler
 angling
 angon
 angop
-angor
 angos
 angot
 angs
@@ -3137,6 +3137,7 @@ elu
 elud
 eluh
 eluk
+elul
 elung
 elungan
 elur
@@ -5765,6 +5766,7 @@ kala
 kalah
 kalahan
 kalai
+kalajengking
 kalak
 kalakon
 kalam
@@ -5978,6 +5980,7 @@ kasi
 kasian
 kasih
 kasihan
+kasihe
 kasil
 kasim
 kasir
@@ -6995,7 +6998,6 @@ lari
 larik
 laring
 laris
-larna
 laron
 laru
 larung
@@ -9022,6 +9024,7 @@ ngeman
 ngemang
 ngemas
 ngembang
+ngember
 ngembun
 ngemen
 ngemes
@@ -11859,6 +11862,7 @@ rono
 roo
 rop
 ropa
+ropak
 rope
 ropi
 ropik
