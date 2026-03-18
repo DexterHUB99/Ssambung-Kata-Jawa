@@ -2469,7 +2469,6 @@ dagang
 dagangan
 dagel
 dagelan
-dagi
 dagin
 daging
 dagu
@@ -3854,7 +3853,6 @@ gala
 galah
 galak
 galaka
-galan
 galang
 galangan
 galar
@@ -6118,7 +6116,6 @@ kapak
 kapal
 kapalan
 kapan
-kaparing
 kapas
 kape
 kapen
@@ -10986,7 +10983,6 @@ palo
 paloh
 palsu
 palu
-paluh
 palung
 palur
 pamah
