@@ -598,7 +598,6 @@ amoh
 amoi
 amok
 amol
-amomo
 amon
 among
 amor
@@ -1070,7 +1069,6 @@ aria
 ariana
 arif
 arih
-arii
 arik
 aril
 arim
@@ -3235,7 +3233,6 @@ epal
 epam
 epan
 epang
-epap
 epar
 epas
 epat
@@ -3759,7 +3756,6 @@ geblog
 geblok
 gebok
 gebug
-gebuk
 gebuki
 gebyar
 gedag
@@ -4232,7 +4228,6 @@ guyup
 guyur
 ha
 haa
-haan
 habib
 habibi
 habis
@@ -5698,6 +5693,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -5928,7 +5924,9 @@ kelon
 kelonan
 kelor
 keloro
+kelot
 keluarga
+kelud
 keluh
 kelum
 kelut
@@ -6156,7 +6154,6 @@ ketum
 ketumbar
 ketup
 ketupat
-keturunan
 ketus
 ketut
 keur
@@ -6239,6 +6236,7 @@ kisa
 kisan
 kisanak
 kisi
+kisuh
 kit
 kita
 kitab
@@ -6294,7 +6292,6 @@ kola
 kolah
 kolak
 kolam
-kole
 koleh
 kolek
 koli
@@ -7273,7 +7270,6 @@ mama
 mamah
 mamak
 mamake
-maman
 mamas
 mamat
 mambu
@@ -7462,6 +7458,7 @@ mek
 meka
 mekali
 mekar
+mekaten
 meki
 mekso
 mel
@@ -7640,7 +7637,6 @@ mojo
 mojokerto
 mok
 mokal
-moke
 mokong
 mol
 mola
@@ -8347,7 +8343,6 @@ ngalor
 ngaloren
 ngalu
 ngalum
-ngalungi
 ngalur
 ngalus
 ngam
@@ -8864,6 +8859,7 @@ ngguyue
 ngguyur
 ngibadah
 ngiber
+ngibing
 ngibrit
 ngibu
 ngibul
@@ -9770,7 +9766,6 @@ okeran
 okerek
 okeri
 oket
-okewe
 okeyi
 okin
 okit
@@ -10244,7 +10239,6 @@ papi
 papo
 papu
 papua
-papuk
 par
 para
 parah
@@ -10285,10 +10279,8 @@ pasare
 paser
 pasi
 pasih
-pasing
 pasir
 pasrah
-pasti
 pasu
 pasuh
 pasuruan
@@ -10425,7 +10417,6 @@ peso
 peta
 petak
 petan
-petani
 pete
 peteng
 pethuk
@@ -10761,7 +10752,6 @@ punjul
 punten
 punya
 pup
-pupa
 pupu
 pupuh
 pupuk
@@ -10966,7 +10956,6 @@ rangu
 rani
 ranjang
 ranjing
-rano
 ransel
 rantai
 rantan
@@ -11659,7 +11648,6 @@ sampi
 sampian
 samping
 sampir
-sampit
 sampo
 sampok
 sampol
@@ -12034,7 +12022,6 @@ sigap
 sigar
 sigrak
 sih
-siha
 sii
 siji
 sik
@@ -12778,6 +12765,7 @@ timbali
 timbang
 timbangan
 timbange
+timbuk
 timbul
 timbun
 time
@@ -12971,7 +12959,6 @@ tumut
 tun
 tuna
 tunas
-tune
 tunggal
 tunggale
 tunggu
@@ -13063,6 +13050,7 @@ udelku
 udelmu
 uden
 udeng
+uder
 udha
 udharan
 udi
@@ -13145,7 +13133,6 @@ ukaran
 ukarane
 ukas
 uke
-ukek
 ukel
 ukem
 uken
@@ -13344,6 +13331,7 @@ ung
 unga
 ungaran
 unggah
+unggahan
 unggal
 unggar
 unggaran
@@ -13474,7 +13462,6 @@ urek
 uren
 ures
 uret
-urha
 uri
 urih
 urik
