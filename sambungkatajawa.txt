@@ -3386,6 +3386,7 @@ endeg
 endek
 endel
 endem
+endeng
 endep
 endhas
 endho
@@ -3961,7 +3962,6 @@ gantos
 gantung
 gantungan
 ganwi
-ganyo
 ganyong
 gap
 gapa
@@ -7996,7 +7996,6 @@ masyarakat
 mat
 mata
 matahari
-matak
 matam
 matamu
 matan
@@ -8731,6 +8730,7 @@ ndelik
 ndelok
 nderek
 ndeso
+ndherek
 ndlogok
 ndlosor
 ndoro
@@ -13459,7 +13459,6 @@ susum
 susumu
 susun
 susune
-susup
 susyu
 sut
 suta
