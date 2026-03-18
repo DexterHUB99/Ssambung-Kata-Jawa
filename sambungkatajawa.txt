@@ -114,7 +114,6 @@ adzan
 ae
 aenak
 aeng
-af
 afa
 afan
 afe
@@ -145,6 +144,7 @@ agih
 agil
 agin
 agit
+agni
 ago
 agor
 agu
@@ -1061,6 +1061,7 @@ arah
 arahan
 arai
 arak
+araka
 arakan
 aram
 arama
@@ -1332,6 +1333,7 @@ atuk
 atul
 atum
 atun
+atup
 atur
 aturan
 aturen
@@ -1709,6 +1711,7 @@ belum
 belut
 bem
 bema
+bemo
 ben
 bena
 benang
@@ -1884,6 +1887,7 @@ boli
 bolo
 boloe
 bolog
+boloho
 bolong
 bolos
 bolot
@@ -2139,6 +2143,7 @@ cekap
 cekatan
 cekel
 cekot
+celatu
 celek
 celeng
 celengan
@@ -2181,6 +2186,7 @@ cibu
 cica
 cicak
 cici
+cicil
 cicir
 cicit
 cidek
@@ -2204,6 +2210,7 @@ cilung
 cim
 cime
 cimo
+cimut
 cin
 cina
 cincin
@@ -2302,6 +2309,7 @@ cuka
 cuki
 cukil
 cukin
+cuko
 cukup
 cukur
 culai
@@ -2503,6 +2511,7 @@ deneng
 dengki
 dengkul
 deni
+dening
 deno
 depa
 depak
@@ -2690,7 +2699,6 @@ dluwang
 do
 doa
 doba
-dobi
 dobleh
 dobo
 dobol
@@ -3034,6 +3042,7 @@ elag
 elah
 elai
 elak
+elal
 elam
 elan
 elang
@@ -3542,6 +3551,7 @@ eweane
 eweh
 ewek
 ewer
+ewes
 ewi
 ewih
 ewoh
@@ -4931,6 +4941,7 @@ im
 ima
 imaan
 imai
+imala
 imam
 imame
 iman
@@ -5545,6 +5556,7 @@ jom
 joma
 jombang
 jomblo
+jomlo
 jomo
 jon
 jona
@@ -6282,7 +6294,6 @@ kesna
 kesuh
 kesuk
 kesupen
-kesurupan
 kesusu
 kesut
 ket
@@ -6460,7 +6471,6 @@ kolam
 kole
 koleh
 kolek
-kolen
 koli
 koloh
 kolong
@@ -7176,6 +7186,7 @@ loding
 lodoh
 loe
 log
+loga
 logat
 logi
 logok
@@ -7847,6 +7858,7 @@ moli
 molin
 molok
 mom
+momi
 momong
 momot
 mon
@@ -9828,6 +9840,7 @@ nup
 nur
 nura
 nurah
+nurani
 nure
 nuren
 nuri
@@ -9880,6 +9893,7 @@ nyari
 nyaru
 nyasar
 nyatu
+nyaur
 nyawa
 nyawah
 nyawang
@@ -10295,6 +10309,7 @@ osan
 osar
 osara
 osas
+osasa
 osek
 osel
 osem
@@ -11069,7 +11084,6 @@ purno
 puro
 purta
 purun
-purut
 purwa
 purwo
 pus
@@ -11343,6 +11357,7 @@ rata
 ratai
 ratan
 ratau
+rate
 ratekan
 rati
 ratib
@@ -11443,8 +11458,10 @@ remahan
 remang
 remas
 remase
+remasi
 remba
 rembang
+rembat
 rembes
 rembet
 rembug
@@ -11470,6 +11487,7 @@ rempeyek
 rempol
 rempon
 remu
+remuh
 remuk
 ren
 rena
@@ -12053,7 +12071,6 @@ sarang
 sarap
 sarapan
 sare
-sarek
 saren
 sareng
 sarep
@@ -12311,6 +12328,7 @@ seruk
 serut
 ses
 sesak
+sesap
 sesat
 sese
 sesek
@@ -12322,6 +12340,7 @@ set
 setam
 setan
 setaun
+setel
 setengah
 seti
 setrika
@@ -12428,6 +12447,7 @@ sio
 siomay
 sip
 sipa
+sipat
 sipi
 sipit
 sipo
@@ -13518,6 +13538,7 @@ ukna
 uko
 ukoh
 ukok
+ukoke
 ukol
 ukom
 ukon
@@ -13528,6 +13549,7 @@ ukta
 uku
 ukud
 ukuk
+ukukir
 ukukur
 ukul
 ukum
@@ -14338,6 +14360,7 @@ wusa
 wut
 wuta
 wutan
+wutuh
 wuwi
 xenon
 xilofon
