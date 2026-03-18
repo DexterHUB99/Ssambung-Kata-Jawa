@@ -25,7 +25,6 @@ abi
 abih
 abil
 abin
-abir
 abis
 abo
 aboh
@@ -35,7 +34,6 @@ abrit
 abu
 abuh
 abul
-abun
 abuy
 ac
 aca
@@ -294,7 +292,6 @@ ajay
 aje
 ajeg
 ajek
-ajen
 ajeng
 ajep
 aji
@@ -393,7 +390,6 @@ akomo
 akon
 akoni
 akoo
-akop
 akor
 akos
 akot
@@ -804,7 +800,6 @@ anggon
 anggone
 anggora
 anggoro
-anggota
 anggrek
 angguk
 anggur
@@ -918,7 +913,6 @@ anor
 anot
 ansur
 ansuran
-ansuri
 anta
 antah
 antam
@@ -1385,7 +1379,6 @@ awe
 aweh
 awek
 awer
-awes
 awet
 awha
 awi
@@ -1841,7 +1834,6 @@ bito
 bitu
 biu
 biyen
-biyu
 biyung
 blas
 blereng
@@ -1986,6 +1978,7 @@ buna
 bundas
 bunder
 bune
+bung
 bunga
 bungah
 bungahe
@@ -2230,6 +2223,7 @@ cobek
 coc
 coco
 cocok
+cocol
 cocot
 cocote
 cocotmu
@@ -2312,7 +2306,6 @@ cumo
 cun
 cuna
 cunduk
-cung
 cungkring
 cup
 cupu
@@ -2657,7 +2650,6 @@ diru
 dirum
 dirumah
 disa
-disambi
 disan
 disana
 disapa
@@ -3145,6 +3137,7 @@ emor
 emot
 emoy
 empal
+empale
 empan
 empang
 empedu
@@ -3341,6 +3334,7 @@ epit
 epo
 epoh
 epok
+epol
 epon
 epor
 epos
@@ -3492,7 +3486,6 @@ etes
 etet
 eti
 etig
-etih
 etik
 etika
 etil
@@ -4189,7 +4182,6 @@ gosoki
 gosong
 got
 gotong
-gotongan
 gotongroyong
 gowang
 gowange
@@ -4457,6 +4449,7 @@ harmi
 harna
 haro
 harta
+hartae
 hartane
 haru
 harue
@@ -5616,7 +5609,6 @@ kader
 kades
 kadewa
 kadi
-kadohan
 kadong
 kados
 kadose
@@ -5682,7 +5674,6 @@ kalang
 kalangkung
 kalap
 kalapa
-kalasan
 kalawan
 kalawi
 kale
@@ -5767,7 +5758,6 @@ kandani
 kandas
 kandel
 kandha
-kandhang
 kandi
 kandungan
 kandut
@@ -5799,7 +5789,6 @@ kap
 kapa
 kapak
 kapal
-kapalan
 kapan
 kapas
 kape
@@ -5826,7 +5815,6 @@ karam
 karan
 karang
 karangan
-karanganyar
 karat
 karawang
 karawitan
@@ -5914,7 +5902,6 @@ katek
 katel
 kater
 kates
-kateter
 kathah
 kathok
 kati
@@ -6101,7 +6088,6 @@ kembar
 kemben
 keme
 kemeja
-kemek
 kemem
 kemene
 kemeng
@@ -6395,6 +6381,7 @@ kisi
 kit
 kita
 kitab
+kitae
 kitan
 kite
 kitela
@@ -6643,6 +6630,7 @@ kumuh
 kumut
 kun
 kuna
+kunai
 kunang
 kunci
 kuncup
@@ -6778,6 +6766,7 @@ laline
 lalio
 lam
 lama
+lamae
 lamai
 laman
 lamane
@@ -6808,6 +6797,7 @@ lampir
 lampiran
 lampu
 lampua
+lampue
 lampune
 lampung
 lamu
@@ -6877,6 +6867,7 @@ lapo
 lapuk
 lar
 lara
+larae
 laran
 larang
 laras
@@ -6930,6 +6921,7 @@ layar
 layu
 le
 leak
+leb
 leba
 lebah
 lebak
@@ -7093,6 +7085,7 @@ lingkungan
 linglung
 lingsir
 lini
+linjak
 lino
 linta
 lintah
@@ -7451,6 +7444,7 @@ mampu
 mampus
 man
 mana
+manae
 manah
 manahan
 manak
@@ -7830,7 +7824,6 @@ molen
 molet
 moli
 molin
-moloh
 molok
 mom
 momong
@@ -8022,6 +8015,7 @@ nadar
 nadhah
 nadi
 nadia
+nadie
 nadyan
 nae
 naek
@@ -8056,7 +8050,6 @@ naka
 nakal
 nakalan
 naker
-nakes
 naki
 nako
 nakoe
@@ -8956,7 +8949,6 @@ ngepel
 ngepet
 ngepit
 ngepot
-ngepuk
 ngepus
 nger
 ngera
@@ -9093,6 +9085,7 @@ ngijab
 ngijek
 ngijing
 ngijir
+ngijo
 ngijol
 ngijoli
 ngik
@@ -9267,7 +9260,6 @@ ngolong
 ngolor
 ngom
 ngomah
-ngombak
 ngombe
 ngombek
 ngombi
@@ -9304,7 +9296,6 @@ ngopii
 ngopin
 ngopine
 ngopini
-ngoplak
 ngoplo
 ngopo
 ngopoe
@@ -9426,7 +9417,6 @@ ngumpul
 ngumpulake
 ngun
 nguna
-ngunake
 nguncal
 nguncali
 ngunci
@@ -9661,7 +9651,6 @@ nnipo
 nny
 no
 nobat
-nodol
 nogel
 noh
 nok
@@ -10372,7 +10361,6 @@ pakdhe
 pake
 pakem
 pakir
-pakis
 pakle
 pakon
 pakpuh
@@ -10637,7 +10625,6 @@ pengin
 peni
 pening
 peniti
-penjuru
 peno
 pensil
 pentil
@@ -11806,7 +11793,6 @@ sabi
 sabit
 sablon
 sabok
-sabon
 sabrang
 sabruk
 sabtu
@@ -12419,7 +12405,6 @@ sis
 sisa
 sisah
 sisan
-siser
 sisi
 sisih
 sisik
@@ -12428,7 +12413,6 @@ sisir
 siska
 siso
 sisu
-sisul
 siswi
 siswo
 sit
@@ -12560,7 +12544,6 @@ suasu
 suba
 subal
 subhanallah
-subi
 subuh
 subur
 suci
@@ -12745,7 +12728,6 @@ ta
 taa
 taat
 taato
-tab
 taba
 tabah
 tabak
@@ -13451,6 +13433,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
@@ -13488,7 +13471,6 @@ ukom
 ukon
 ukop
 ukra
-ukri
 ukro
 ukta
 uku
@@ -13647,7 +13629,6 @@ une
 unek
 unem
 unen
-uner
 unes
 unesa
 ung
@@ -13692,7 +13673,6 @@ unma
 unni
 uno
 unta
-untab
 untah
 untal
 untalen
@@ -13865,7 +13845,6 @@ usma
 usna
 uso
 usra
-usri
 ust
 usta
 ustadz
@@ -14497,6 +14476,7 @@ yuyun
 zaitun
 zakat
 zaman
+zamrud
 zat
 ze
 ziarah
