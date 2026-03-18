@@ -753,6 +753,7 @@ angah
 angan
 angap
 angar
+angaran
 angat
 ange
 angel
@@ -5862,6 +5863,7 @@ keliling
 kelimo
 kelinci
 kelingan
+kelip
 kelir
 keliru
 kelok
