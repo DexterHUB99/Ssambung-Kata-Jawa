@@ -520,7 +520,6 @@ almari
 alo
 aloe
 aloh
-aloha
 aloi
 alok
 alom
@@ -588,6 +587,7 @@ ambar
 ambarawa
 ambas
 ambat
+ambeg
 ambegan
 ambek
 ambel
@@ -2037,7 +2037,6 @@ bro
 brug
 bu
 bua
-buana
 buang
 buat
 buaya
@@ -5585,7 +5584,6 @@ ita
 itaa
 itai
 itali
-itami
 itara
 itawa
 ite
@@ -5704,7 +5702,6 @@ jampiro
 jamput
 jamu
 jamur
-jamuran
 jan
 jana
 janaka
@@ -6898,7 +6895,6 @@ komplit
 kompor
 komputer
 kon
-kona
 konami
 konan
 konangan
@@ -6942,7 +6938,6 @@ kopok
 kopyor
 kor
 kora
-korak
 koran
 korban
 kore
@@ -7284,7 +7279,6 @@ langka
 langkah
 langkap
 langkung
-langsam
 langsep
 langsing
 langu
@@ -8497,7 +8491,6 @@ murun
 murung
 murup
 murupen
-murus
 mus
 musa
 musan
@@ -9468,7 +9461,6 @@ ngemi
 ngemil
 ngemis
 ngemoh
-ngemon
 ngemong
 ngemot
 ngempak
@@ -10014,7 +10006,6 @@ ngudi
 ngudik
 nguding
 ngudo
-ngudu
 ngudud
 ngudut
 ngugah
@@ -10431,6 +10422,7 @@ numa
 numan
 numana
 numani
+numbak
 numbal
 numbar
 numbas
@@ -11437,7 +11429,6 @@ pijang
 pijar
 pijat
 pijek
-pijem
 pijer
 pijet
 pijit
@@ -12918,7 +12909,6 @@ sea
 seba
 sebab
 sebah
-sebal
 sebat
 sebel
 sebul
@@ -14542,6 +14532,7 @@ undak
 undakan
 undal
 undang
+undanga
 undangan
 undar
 undeg
