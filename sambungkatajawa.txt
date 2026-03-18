@@ -2337,6 +2337,7 @@ cukin
 cuko
 cukup
 cukur
+cul
 culai
 culik
 culo
@@ -6022,6 +6023,7 @@ katut
 kaula
 kaulo
 kauman
+kauripan
 kawah
 kawak
 kawal
