@@ -470,6 +470,7 @@ alay
 ale
 alea
 aleb
+aleg
 aleh
 alek
 alem
@@ -3175,6 +3176,7 @@ elap
 elar
 elas
 ele
+eleg
 eleh
 elek
 elekan
@@ -8862,6 +8864,7 @@ ngagak
 ngagel
 ngagem
 ngago
+ngagu
 ngagung
 ngah
 ngahad
@@ -10158,6 +10161,7 @@ norak
 nore
 noreh
 nori
+norong
 nos
 nosa
 nose
@@ -11734,6 +11738,7 @@ ranggenah
 ranggi
 rangi
 rangka
+rangkasan
 rangkat
 rangkul
 rangkum
