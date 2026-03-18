@@ -2063,6 +2063,7 @@ capek
 caper
 capi
 caping
+capit
 capung
 cara
 caraka
@@ -2150,7 +2151,6 @@ cicit
 cidek
 ciduk
 cik
-cika
 cikal
 ciken
 ciki
@@ -3693,6 +3693,7 @@ gapapa
 gape
 gapi
 gapil
+gapit
 gaplek
 gaplok
 gapopo
@@ -4580,7 +4581,6 @@ hota
 hote
 hotel
 hotma
-hoto
 howa
 howo
 hoya
@@ -4743,6 +4743,7 @@ ijeni
 iji
 ijig
 ijik
+ijil
 ijin
 ijo
 ijok
@@ -5220,7 +5221,6 @@ iyo
 iyoh
 iyoi
 iyom
-iyoo
 iyota
 iyu
 iyub
@@ -5879,6 +5879,7 @@ kayaa
 kayak
 kayane
 kayangan
+kayata
 kayok
 kayu
 kayuh
@@ -5907,7 +5908,6 @@ kecoa
 kecot
 kecut
 kedah
-kedai
 kedanan
 kedaton
 keder
@@ -5958,7 +5958,6 @@ kelara
 kelaran
 kelas
 kelawan
-kele
 kelebon
 kelebu
 kelek
@@ -8427,7 +8426,6 @@ ngam
 ngama
 ngamah
 ngamal
-ngaman
 ngamar
 ngamati
 ngamba
@@ -9689,7 +9687,6 @@ nyaman
 nyambel
 nyambi
 nyambik
-nyambu
 nyampek
 nyamuk
 nyangka
@@ -9777,6 +9774,7 @@ obot
 obrak
 obral
 obrol
+obrolan
 oceh
 ocehan
 oci
@@ -14072,6 +14070,7 @@ wonosobo
 wonten
 woo
 wor
+wora
 woro
 wortel
 wos
