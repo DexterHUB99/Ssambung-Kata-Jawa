@@ -34,7 +34,6 @@ abrit
 abu
 abuh
 abul
-abun
 abuy
 ac
 aca
@@ -293,7 +292,6 @@ ajay
 aje
 ajeg
 ajek
-ajen
 ajeng
 ajep
 aji
@@ -392,7 +390,6 @@ akomo
 akon
 akoni
 akoo
-akop
 akor
 akos
 akot
@@ -408,6 +405,7 @@ aksen
 aksi
 aku
 akua
+akud
 akue
 akuh
 akui
@@ -916,7 +914,6 @@ anor
 anot
 ansur
 ansuran
-ansuri
 anta
 antah
 antam
@@ -1336,6 +1333,7 @@ atusan
 atut
 aub
 auh
+auhan
 aul
 aulah
 aum
@@ -1344,6 +1342,7 @@ auman
 aun
 auna
 aunan
+auni
 aup
 aura
 aurip
@@ -1382,7 +1381,6 @@ awe
 aweh
 awek
 awer
-awes
 awet
 awha
 awi
@@ -2307,7 +2305,6 @@ cumo
 cun
 cuna
 cunduk
-cung
 cungkring
 cup
 cupu
@@ -2339,6 +2336,7 @@ dadi
 dados
 dadu
 daduk
+dadumu
 daerah
 dagang
 dagel
@@ -3249,6 +3247,7 @@ enjoy
 enka
 enki
 enko
+enla
 enli
 enlo
 enma
@@ -3484,7 +3483,6 @@ etes
 etet
 eti
 etig
-etih
 etik
 etika
 etil
@@ -4180,7 +4178,6 @@ gosoki
 gosong
 got
 gotong
-gotongan
 gotongroyong
 gowang
 gowange
@@ -5464,6 +5461,7 @@ jili
 jilid
 jim
 jima
+jiman
 jimat
 jimbar
 jimpit
@@ -5755,7 +5753,6 @@ kandani
 kandas
 kandel
 kandha
-kandhang
 kandi
 kandungan
 kandut
@@ -5813,7 +5810,6 @@ karam
 karan
 karang
 karangan
-karanganyar
 karat
 karawang
 karawitan
@@ -5901,7 +5897,6 @@ katek
 katel
 kater
 kates
-kateter
 kathah
 kathok
 kati
@@ -6088,7 +6083,6 @@ kembar
 kemben
 keme
 kemeja
-kemek
 kemem
 kemene
 kemeng
@@ -7817,7 +7811,6 @@ molen
 molet
 moli
 molin
-moloh
 molok
 mom
 momong
@@ -8043,7 +8036,6 @@ naka
 nakal
 nakalan
 naker
-nakes
 naki
 nako
 nakoe
@@ -9154,6 +9146,7 @@ ngis
 ngisak
 ngisan
 ngisap
+ngisek
 ngiseng
 ngisep
 ngiser
@@ -9289,7 +9282,6 @@ ngopii
 ngopin
 ngopine
 ngopini
-ngoplak
 ngoplo
 ngopo
 ngopoe
@@ -10355,7 +10347,6 @@ pakdhe
 pake
 pakem
 pakir
-pakis
 pakle
 pakon
 pakpuh
@@ -12399,7 +12390,6 @@ sis
 sisa
 sisah
 sisan
-siser
 sisi
 sisih
 sisik
@@ -12539,7 +12529,6 @@ suasu
 suba
 subal
 subhanallah
-subi
 subuh
 subur
 suci
@@ -12724,7 +12713,6 @@ ta
 taa
 taat
 taato
-tab
 taba
 tabah
 tabak
@@ -13467,7 +13455,6 @@ ukom
 ukon
 ukop
 ukra
-ukri
 ukro
 ukta
 uku
@@ -13626,7 +13613,6 @@ une
 unek
 unem
 unen
-uner
 unes
 unesa
 ung
@@ -13671,7 +13657,6 @@ unma
 unni
 uno
 unta
-untab
 untah
 untal
 untalen
@@ -13844,7 +13829,6 @@ usma
 usna
 uso
 usra
-usri
 ust
 usta
 ustadz
@@ -13911,6 +13895,7 @@ uto
 utoh
 utowo
 utri
+utta
 utu
 utuh
 utumu
@@ -13950,6 +13935,7 @@ visa
 voli
 wa
 waa
+waalaikumsalam
 waca
 wacana
 wada
@@ -14108,6 +14094,7 @@ wekasa
 wekasan
 wekdal
 weke
+weker
 weki
 weko
 wektu
