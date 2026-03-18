@@ -9628,6 +9628,7 @@ ngeret
 ngeri
 ngerit
 ngerja
+ngero
 ngerok
 ngerokok
 ngerono
