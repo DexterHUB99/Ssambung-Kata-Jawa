@@ -5500,6 +5500,7 @@ itilan
 ito
 itoe
 itoi
+itowo
 itu
 itue
 ituli
@@ -12452,6 +12453,7 @@ sambil
 sambilan
 sambung
 sambut
+sambutan
 sami
 samir
 samit
