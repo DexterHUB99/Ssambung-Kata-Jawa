@@ -1731,7 +1731,6 @@ bebas
 bebe
 bebek
 beber
-bebi
 bebo
 becak
 becek
@@ -2674,7 +2673,6 @@ diadusi
 diajeng
 dialah
 diamana
-diamput
 diana
 diancok
 diangsang
@@ -4223,6 +4221,7 @@ genine
 gening
 genit
 geniya
+genjer
 genjor
 genjot
 genna
@@ -4380,7 +4379,6 @@ goboh
 gocek
 goceki
 godek
-godho
 godhok
 godhong
 godog
@@ -6031,7 +6029,6 @@ kalang
 kalangkung
 kalap
 kalapa
-kalas
 kalasan
 kalawan
 kalawi
@@ -6350,6 +6347,7 @@ kebak
 kebas
 kebat
 kebaya
+kebekan
 kebo
 kebon
 kebone
@@ -8105,7 +8103,6 @@ melas
 melasi
 melati
 melek
-melem
 meler
 melet
 meli
@@ -9805,7 +9802,6 @@ ngni
 ngobah
 ngobak
 ngobat
-ngobati
 ngober
 ngoblok
 ngobok
@@ -10707,6 +10703,7 @@ olit
 olo
 oloe
 oloh
+oloi
 olok
 olokan
 olokmu
@@ -11833,6 +11830,7 @@ rajek
 rajelas
 rajiman
 rajin
+rajok
 raju
 rajuk
 rajungan
@@ -12571,6 +12569,7 @@ saga
 sage
 saged
 saget
+sagi
 sago
 sagon
 sagu
@@ -12767,6 +12766,7 @@ sar
 sara
 saran
 sarang
+sarangan
 sarap
 sarapa
 sarapan
@@ -13673,6 +13673,7 @@ tapis
 tapuk
 tar
 tara
+tarakan
 taras
 tarek
 tari
@@ -14394,6 +14395,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
