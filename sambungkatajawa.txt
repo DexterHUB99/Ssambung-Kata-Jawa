@@ -1470,7 +1470,6 @@ ayin
 aying
 ayip
 ayir
-ayit
 ayo
 ayoe
 ayoh
@@ -1778,7 +1777,6 @@ bes
 besan
 besar
 besek
-besi
 beskap
 besok
 besro
@@ -3218,7 +3216,6 @@ emod
 emoh
 emohe
 emok
-emol
 emom
 emong
 emor
@@ -3375,7 +3372,6 @@ entu
 entuk
 entung
 entut
-entute
 entutmu
 enu
 enul
@@ -5508,7 +5504,6 @@ jarene
 jari
 jarik
 jaring
-jarit
 jarum
 jarwa
 jas
@@ -7133,7 +7128,6 @@ lempeng
 lemper
 lempung
 lemu
-lemune
 lemut
 len
 lena
@@ -8132,7 +8126,6 @@ murai
 mure
 muri
 murid
-muring
 murka
 murtad
 murub
@@ -10899,7 +10892,6 @@ perahu
 perak
 peran
 perang
-perawat
 percaya
 pere
 perek
@@ -12268,7 +12260,6 @@ saos
 sap
 sapa
 sape
-sapeh
 sapi
 sapih
 sapir
@@ -12412,7 +12403,6 @@ sejuk
 sek
 seka
 sekar
-sekarang
 sekawan
 seke
 sekek
@@ -13135,7 +13125,6 @@ tangi
 tangina
 tangis
 tangkap
-tangkepan
 tangkis
 tanglet
 tani
@@ -13216,7 +13205,6 @@ teja
 tek
 teka
 tekan
-tekane
 teke
 teki
 teko
@@ -13874,7 +13862,6 @@ umbar
 umbara
 umbas
 umbel
-umbele
 umbi
 umbia
 umbu
