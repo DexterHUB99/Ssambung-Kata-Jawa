@@ -1511,7 +1511,6 @@ babon
 babu
 babuk
 baca
-bacaan
 bacak
 bacin
 bacot
@@ -6695,7 +6694,6 @@ kontolmu
 kontrol
 konyol
 kop
-kopak
 kopek
 kopen
 kopeng
@@ -7145,6 +7143,7 @@ leak
 leba
 lebah
 lebak
+lebaran
 lebay
 lebet
 lebih
@@ -7194,6 +7193,7 @@ lempeng
 lemper
 lempung
 lemu
+lemud
 lemune
 lemut
 len
@@ -7833,7 +7833,6 @@ mayuh
 mayungi
 mbah
 mbak
-mbal
 mbarep
 mbasan
 mben
@@ -13310,7 +13309,6 @@ taya
 tayo
 tayub
 te
-tebang
 tebih
 tebu
 tebus
