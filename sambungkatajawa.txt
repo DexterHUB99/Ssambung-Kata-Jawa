@@ -4165,6 +4165,7 @@ gulung
 gulungan
 gulur
 gumam
+gumathok
 gumati
 gumuh
 gumuk
@@ -5699,6 +5700,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -5929,7 +5931,9 @@ kelon
 kelonan
 kelor
 keloro
+kelot
 keluarga
+kelud
 keluh
 kelum
 kelut
@@ -6240,6 +6244,7 @@ kisa
 kisan
 kisanak
 kisi
+kisuh
 kit
 kita
 kitab
@@ -7463,6 +7468,7 @@ mek
 meka
 mekali
 mekar
+mekaten
 meki
 mekso
 mel
@@ -7976,6 +7982,7 @@ nangkring
 nango
 nani
 naning
+nanja
 nano
 nantang
 nantangi
@@ -8866,6 +8873,7 @@ ngguyue
 ngguyur
 ngibadah
 ngiber
+ngibing
 ngibrit
 ngibu
 ngibul
@@ -9705,6 +9713,7 @@ og
 ogah
 ogahe
 ogak
+ogan
 oge
 ogek
 oger
@@ -9932,7 +9941,6 @@ opal
 opala
 opam
 opan
-opar
 opat
 opel
 open
@@ -10167,6 +10175,7 @@ pamit
 pamitan
 pamrih
 pan
+pana
 panah
 panai
 panas
@@ -10475,6 +10484,7 @@ piker
 piki
 pikir
 pikiran
+pikiren
 pikirmu
 piknik
 piko
@@ -10817,7 +10827,6 @@ rabit
 raboh
 rabu
 rabun
-racik
 racikan
 racon
 racun
@@ -12783,6 +12792,7 @@ timbali
 timbang
 timbangan
 timbange
+timbuk
 timbul
 timbun
 time
@@ -13069,6 +13079,7 @@ udelku
 udelmu
 uden
 udeng
+uder
 udha
 udharan
 udi
@@ -13350,6 +13361,7 @@ ung
 unga
 ungaran
 unggah
+unggahan
 unggal
 unggar
 unggaran
