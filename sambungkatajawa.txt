@@ -975,6 +975,7 @@ apapa
 apar
 apas
 apase
+apasi
 apat
 ape
 apeg
@@ -4889,6 +4890,7 @@ ingin
 ingka
 ingkang
 ingko
+ingkol
 ingkrik
 ingkung
 ingo
@@ -5735,6 +5737,7 @@ kat
 kata
 katah
 katak
+katam
 katang
 kate
 kateh
