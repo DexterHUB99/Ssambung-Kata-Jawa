@@ -54,7 +54,6 @@ ada
 adab
 adabi
 adada
-adadil
 adah
 adai
 adak
@@ -2434,6 +2433,7 @@ dede
 dedeg
 dedek
 dedemit
+deden
 dedi
 dedik
 degan
@@ -2920,7 +2920,6 @@ ehot
 ehoy
 ehu
 ehuh
-ehuj
 ehuk
 ehun
 ehur
@@ -8843,7 +8842,6 @@ ngemis
 ngemoh
 ngemong
 ngemot
-ngempak
 ngempal
 ngempek
 ngemper
@@ -9123,7 +9121,6 @@ ngiseng
 ngisep
 ngiser
 ngisi
-ngisik
 ngisin
 ngising
 ngisini
@@ -11954,7 +11951,6 @@ saren
 sareng
 sarep
 sari
-saria
 sarimi
 saringan
 sarip
