@@ -12759,6 +12759,7 @@ timbali
 timbang
 timbangan
 timbange
+timbuk
 timbul
 timbun
 time
