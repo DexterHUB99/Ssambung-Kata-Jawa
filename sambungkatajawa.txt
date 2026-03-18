@@ -1226,6 +1226,7 @@ asalan
 asale
 asam
 asaman
+asamne
 asan
 asap
 asar
@@ -1470,7 +1471,6 @@ awul
 awulo
 awur
 awuren
-awus
 ax
 ay
 aya
@@ -1570,7 +1570,6 @@ bagya
 bah
 bahan
 bahasa
-bahaya
 bahli
 bahu
 bai
@@ -5300,7 +5299,6 @@ inggil
 inggit
 ingi
 ingin
-ingising
 ingka
 ingkang
 ingko
@@ -9536,7 +9534,6 @@ ngganti
 nggantung
 nggara
 nggarap
-nggarit
 nggatekno
 nggateli
 nggawa
@@ -14239,7 +14236,6 @@ ukta
 uku
 ukud
 ukuk
-ukuke
 ukukir
 ukukur
 ukul
@@ -15226,6 +15222,7 @@ yoro
 yos
 yosa
 yosan
+yose
 yosi
 yota
 yotan
