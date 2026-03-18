@@ -1762,6 +1762,7 @@ besek
 beskap
 besok
 besro
+besu
 besuk
 besuki
 betah
@@ -9917,6 +9918,7 @@ nutur
 nuturi
 nuwei
 nuwek
+nuwuh
 nuwun
 nuwunsewu
 nuya
