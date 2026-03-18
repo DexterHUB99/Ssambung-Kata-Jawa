@@ -13459,6 +13459,7 @@ ulangi
 ulangtahun
 ulao
 ulap
+ulapa
 ular
 ulas
 ulasan
