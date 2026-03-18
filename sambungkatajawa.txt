@@ -367,7 +367,6 @@ akbar
 ake
 akeh
 akehan
-akehane
 akehe
 akek
 akel
@@ -783,7 +782,6 @@ andhe
 andheg
 andhegan
 andheng
-andhep
 andhikane
 andhong
 andi
@@ -2225,7 +2223,6 @@ casa
 casi
 catur
 cawan
-cawang
 cawe
 cawet
 cawi
@@ -3416,7 +3413,6 @@ eneg
 eneh
 enej
 enek
-eneke
 enel
 enem
 enen
@@ -3462,7 +3458,6 @@ enli
 enlo
 enma
 eno
-enog
 enoh
 enok
 enol
@@ -3921,7 +3916,6 @@ gamean
 gamel
 gamela
 gamelan
-gamelane
 gamen
 gamer
 gami
@@ -4282,7 +4276,6 @@ gesit
 get
 getan
 getar
-gete
 gething
 gethok
 gethuk
@@ -4462,7 +4455,6 @@ grana
 greges
 greget
 gresik
-grigi
 griwa
 griya
 griyane
@@ -5579,7 +5571,6 @@ itue
 ituli
 itung
 itungan
-itungen
 iut
 iuta
 iv
@@ -6082,7 +6073,6 @@ kamil
 kamir
 kamis
 kamit
-kamot
 kampak
 kampil
 kampret
@@ -7192,7 +7182,6 @@ lamba
 lambai
 lamban
 lambang
-lambar
 lambe
 lambea
 lambemu
@@ -8057,6 +8046,7 @@ mayi
 mayit
 mayu
 mayuh
+mayun
 mayungi
 mbah
 mbak
@@ -9891,10 +9881,8 @@ ngoreng
 ngori
 ngorit
 ngorok
-ngoroke
 ngorong
 ngos
-ngosak
 ngosan
 ngosek
 ngoseng
@@ -10099,7 +10087,6 @@ ngut
 nguta
 ngutang
 ngutar
-ngutarake
 ngutek
 ngutik
 ngutil
@@ -10524,7 +10511,6 @@ oba
 obah
 obahe
 obahing
-obahno
 obak
 obake
 obama
@@ -13571,7 +13557,6 @@ takjil
 tako
 takon
 takoni
-takono
 taku
 takung
 takut
@@ -13808,7 +13793,6 @@ tera
 terak
 terang
 teras
-terasi
 terbang
 tere
 teri
@@ -14037,7 +14021,6 @@ tukang
 tukange
 tukaran
 tuki
-tukokno
 tuku
 tukul
 tul
