@@ -1606,6 +1606,7 @@ bani
 banjir
 banjur
 bantal
+bante
 banteng
 banter
 bantu
@@ -2143,6 +2144,7 @@ caper
 capi
 caping
 capit
+capo
 capung
 cara
 caraka
@@ -3762,7 +3764,6 @@ galeng
 galengan
 galer
 galeren
-galeri
 gali
 galian
 galih
@@ -4771,6 +4772,7 @@ hubi
 hubung
 hubungan
 hubungane
+hubunge
 huda
 hudan
 hujan
@@ -7617,7 +7619,6 @@ mamah
 mamak
 mamake
 maman
-mamana
 mamas
 mamat
 mambu
@@ -7993,6 +7994,7 @@ mobilan
 moco
 modal
 modar
+modaro
 modus
 modyar
 mogok
@@ -10976,7 +10978,6 @@ pidana
 pidang
 pidek
 pie
-pigun
 pih
 pii
 pijak
@@ -11347,7 +11348,6 @@ rabio
 rabisa
 rabit
 raboh
-rabot
 rabu
 rabun
 racik
@@ -11969,6 +11969,7 @@ roro
 ros
 rosa
 rose
+rosho
 rosi
 roso
 rotan
