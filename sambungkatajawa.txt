@@ -477,7 +477,6 @@ alis
 alisa
 alisan
 alise
-alismu
 alit
 aliy
 aliya
@@ -1384,7 +1383,6 @@ awe
 aweh
 awek
 awer
-awes
 awet
 awha
 awi
@@ -4081,6 +4079,7 @@ giman
 gimbal
 gimen
 gimi
+gimik
 gina
 gincu
 ginem
@@ -4136,7 +4135,6 @@ gojlok
 gok
 goka
 goke
-goki
 gokil
 goks
 gol
@@ -4432,7 +4430,6 @@ har
 hara
 harai
 haram
-haran
 harang
 harap
 harapan
@@ -7541,7 +7538,6 @@ marine
 maring
 marini
 marino
-maris
 marmut
 martabak
 maru
@@ -9391,6 +9387,7 @@ ngujuk
 nguk
 nguki
 ngukir
+ngukul
 ngukur
 ngul
 ngula
@@ -12743,7 +12740,6 @@ suya
 suyo
 swara
 syal
-syu
 syukur
 ta
 taa
