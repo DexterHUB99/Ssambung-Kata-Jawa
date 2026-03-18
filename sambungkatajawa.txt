@@ -100,7 +100,6 @@ adipati
 adis
 adit
 ado
-adog
 adoh
 adohe
 adol
@@ -1789,7 +1788,6 @@ belakang
 belan
 belang
 belanja
-bele
 beleh
 belek
 beler
@@ -3203,6 +3201,7 @@ ekop
 ekor
 ekoran
 ekore
+ekori
 ekos
 ekot
 eksi
@@ -4217,7 +4216,6 @@ gendi
 gendon
 gendong
 gendruwo
-gendul
 gendung
 gendut
 gene
@@ -8292,7 +8290,6 @@ mlarat
 mlayu
 mlebet
 mlebu
-mlempem
 mlik
 mlipir
 mlumah
@@ -8737,6 +8734,7 @@ nasi
 nasia
 nasib
 nasikuning
+nasiliwet
 nasine
 nasipecel
 nasta
@@ -9726,7 +9724,6 @@ ngimboh
 ngimbu
 ngimbuh
 ngimi
-ngiming
 ngimpen
 ngimpi
 ngimpun
@@ -10020,7 +10017,6 @@ ngula
 ngulah
 ngulai
 ngulak
-ngulam
 ngulan
 ngulang
 ngulangi
@@ -14115,6 +14111,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulunge
 tulungi
 tulus
