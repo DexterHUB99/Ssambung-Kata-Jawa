@@ -7842,7 +7842,6 @@ moli
 molin
 molok
 mom
-momi
 momong
 momot
 mon
@@ -9684,7 +9683,6 @@ nobat
 nodol
 nogel
 noh
-noha
 nok
 noke
 noken
