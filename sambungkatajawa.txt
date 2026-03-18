@@ -9575,6 +9575,7 @@ nyomot
 nyong
 nyuci
 nyuluh
+nyumbang
 nyunggi
 nyungsep
 nyuruh
@@ -10559,6 +10560,7 @@ poll
 polo
 poloh
 polok
+polot
 pom
 poma
 pomi
@@ -12819,6 +12821,7 @@ tukan
 tukang
 tukange
 tukaran
+tuke
 tuki
 tuku
 tukul
