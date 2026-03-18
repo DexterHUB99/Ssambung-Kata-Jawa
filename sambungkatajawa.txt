@@ -4378,7 +4378,6 @@ goboh
 gocek
 goceki
 godek
-godho
 godhok
 godhong
 godog
@@ -10702,6 +10701,7 @@ olit
 olo
 oloe
 oloh
+oloi
 olok
 olokan
 olokmu
@@ -11828,6 +11828,7 @@ rajek
 rajelas
 rajiman
 rajin
+rajok
 raju
 rajuk
 rajungan
@@ -12762,6 +12763,7 @@ sar
 sara
 saran
 sarang
+sarangan
 sarap
 sarapa
 sarapan
@@ -14389,6 +14391,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 ulomu
 ulu
 uluk
