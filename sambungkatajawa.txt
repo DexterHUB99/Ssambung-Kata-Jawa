@@ -12295,6 +12295,7 @@ ruro
 rus
 rusa
 rusak
+rusake
 rusaken
 rusi
 ruso
