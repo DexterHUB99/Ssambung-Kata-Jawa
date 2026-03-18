@@ -1606,7 +1606,6 @@ bani
 banjir
 banjur
 bantal
-bante
 banteng
 banter
 bantu
@@ -2144,7 +2143,6 @@ caper
 capi
 caping
 capit
-capo
 capung
 cara
 caraka
@@ -11967,7 +11965,6 @@ roro
 ros
 rosa
 rose
-rosho
 rosi
 roso
 rotan
