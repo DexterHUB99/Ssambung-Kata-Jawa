@@ -584,7 +584,6 @@ ambii
 ambik
 ambil
 ambing
-ambles
 ambo
 amboi
 ambrol
@@ -2167,7 +2166,6 @@ capek
 caper
 capet
 capi
-capil
 caping
 capit
 capo
@@ -3407,7 +3405,6 @@ ente
 entee
 entek
 entekno
-entene
 enteng
 entenge
 enteni
@@ -4768,7 +4765,6 @@ himpunna
 hina
 hinaan
 hinane
-hinga
 hinggap
 hir
 hira
@@ -6419,6 +6415,7 @@ keong
 kep
 kepa
 kepak
+kepal
 kepala
 kepanggih
 keparat
@@ -6543,7 +6540,6 @@ keti
 ketiban
 ketik
 ketil
-ketimbang
 ketingal
 ketir
 ketis
@@ -8420,7 +8416,6 @@ namo
 nampa
 nampak
 nampan
-nampane
 nampani
 nampar
 namper
@@ -10644,6 +10639,7 @@ organisasi
 ori
 orie
 oring
+orit
 orog
 orok
 orong
@@ -10823,7 +10819,6 @@ panca
 pancal
 pancang
 pancen
-pancene
 panci
 pancing
 pancingan
@@ -11938,7 +11933,6 @@ resep
 resi
 resik
 resika
-resikan
 resiko
 resing
 respati
@@ -12755,7 +12749,6 @@ sesap
 sesat
 sese
 sesek
-seset
 sesi
 sesok
 sesuk
@@ -13480,7 +13473,6 @@ tempur
 tempura
 temu
 temulawak
-temune
 ten
 tena
 tenaga
@@ -13770,7 +13762,6 @@ tumis
 tumit
 tumpah
 tumpak
-tumpaki
 tumpang
 tumpeh
 tumpeng
