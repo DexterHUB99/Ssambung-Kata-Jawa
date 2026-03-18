@@ -1704,7 +1704,6 @@ beco
 beda
 bedah
 bedak
-bedeg
 bedes
 bedha
 bedi
@@ -2317,7 +2316,6 @@ codet
 codot
 cogan
 cok
-cokat
 coke
 cokelat
 coki
@@ -2950,7 +2948,6 @@ ebu
 eca
 ecah
 ecek
-eceng
 ecer
 ecik
 eco
@@ -4397,7 +4394,6 @@ gugatan
 gugu
 guguga
 guguk
-gugung
 gugup
 gugur
 guguran
@@ -5024,6 +5020,7 @@ iki
 ikian
 ikie
 ikih
+ikii
 ikil
 ikilo
 ikim
@@ -5360,6 +5357,7 @@ isao
 isap
 isapa
 isar
+isas
 isat
 ise
 isek
@@ -5511,7 +5509,6 @@ jagung
 jahat
 jahe
 jahil
-jahit
 jai
 jail
 jait
@@ -6140,7 +6137,6 @@ katil
 katok
 katon
 katone
-katos
 katot
 katresnan
 katro
@@ -10906,7 +10902,6 @@ parut
 pas
 pasa
 pasah
-pasai
 pasak
 pasal
 pasan
@@ -11091,7 +11086,6 @@ picak
 picek
 pidah
 pidak
-pidan
 pidana
 pidang
 pidek
@@ -12469,7 +12463,6 @@ saripun
 sarna
 saro
 sarong
-sarono
 saru
 saruh
 sarui
@@ -12940,11 +12933,9 @@ solar
 solat
 sole
 solek
-solet
 soli
 solid
 solo
-soloe
 solor
 solot
 som
