@@ -6728,7 +6728,6 @@ klewer
 klimis
 kliwon
 klo
-klom
 klontong
 klu
 klumah
@@ -7852,7 +7851,6 @@ mangut
 mani
 manih
 maning
-manir
 manis
 manja
 manjing
@@ -8024,7 +8022,6 @@ men
 menawa
 menawi
 mencret
-mendhem
 mendoan
 mendung
 mendut
@@ -9285,7 +9282,6 @@ ngelotok
 ngelu
 ngelucu
 ngeluh
-ngelui
 ngeluku
 ngelus
 ngema
@@ -9349,7 +9345,6 @@ ngenja
 ngenjang
 ngeno
 ngenot
-ngentai
 ngenteni
 ngenti
 ngentik
@@ -12840,7 +12835,6 @@ serep
 seres
 seret
 seri
-sering
 serius
 sero
 serok
