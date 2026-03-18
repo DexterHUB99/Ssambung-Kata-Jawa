@@ -6238,6 +6238,7 @@ kembang
 kembange
 kembar
 kemben
+kembuh
 keme
 kemeja
 kemem
@@ -6811,6 +6812,7 @@ kunti
 kuntul
 kuntulmu
 kunyuk
+kunyuke
 kuo
 kuota
 kup
@@ -10365,6 +10367,7 @@ ondhe
 ondho
 ondo
 ondol
+ondole
 oneng
 onet
 ongeh
@@ -13271,6 +13274,7 @@ tempek
 tempel
 tempelen
 tempik
+tempiling
 tempur
 tempura
 temu
@@ -13750,6 +13754,7 @@ ukar
 ukara
 ukaran
 ukarane
+ukari
 ukas
 uke
 ukek
@@ -14269,6 +14274,7 @@ uyel
 uyi
 uyo
 uyuh
+uyuhe
 uyuhmu
 uz
 vaksin
