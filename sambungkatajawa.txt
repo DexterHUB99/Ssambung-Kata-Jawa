@@ -442,6 +442,7 @@ alasan
 alat
 alay
 ale
+alea
 aleb
 aleh
 alek
