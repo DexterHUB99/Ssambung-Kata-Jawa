@@ -1701,6 +1701,7 @@ batur
 baturan
 bau
 bawa
+bawah
 bawal
 bawang
 bawe
@@ -12566,7 +12567,6 @@ salam
 salaman
 salat
 sale
-saleb
 saleh
 saleng
 salep
@@ -13094,6 +13094,7 @@ sinte
 sinten
 sinuwun
 sinyal
+sinyo
 sio
 siomay
 sip
