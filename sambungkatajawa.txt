@@ -13602,6 +13602,7 @@ sumuk
 sumur
 sumurup
 sun
+suna
 sunan
 sunat
 sunda
@@ -14476,6 +14477,7 @@ ukaran
 ukarane
 ukari
 ukas
+ukasan
 uke
 ukek
 ukel
