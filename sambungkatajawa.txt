@@ -7722,6 +7722,7 @@ magan
 magang
 mage
 mager
+magi
 magrib
 mah
 maha
@@ -14778,6 +14779,7 @@ wenan
 wenang
 wene
 weneh
+wenehi
 wengi
 weni
 weo
