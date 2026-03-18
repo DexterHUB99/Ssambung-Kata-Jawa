@@ -5453,7 +5453,6 @@ ix
 iy
 iya
 iyaa
-iyalah
 iyan
 iyatah
 iye
@@ -5562,7 +5561,6 @@ jari
 jarik
 jaring
 jarit
-jaro
 jarum
 jarwa
 jas
@@ -5790,7 +5788,6 @@ kacung
 kadal
 kadan
 kadang
-kadem
 kademan
 kader
 kades
@@ -5877,6 +5874,7 @@ kali
 kalia
 kalian
 kalih
+kalihan
 kalim
 kalima
 kalimat
@@ -12307,7 +12305,6 @@ sambung
 sambut
 sami
 samir
-samit
 sampah
 sampai
 sampang
