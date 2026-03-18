@@ -4010,6 +4010,7 @@ gimen
 gimi
 gina
 gincu
+ginda
 ginem
 gingsir
 gini
@@ -5116,6 +5117,7 @@ iska
 iski
 isla
 islah
+islahan
 islam
 islami
 isli
@@ -5402,6 +5404,7 @@ jir
 jira
 jiran
 jireh
+jireng
 jiret
 jiri
 jirih
@@ -5431,6 +5434,7 @@ jolan
 jole
 jolen
 joli
+joling
 jolma
 jolo
 jom
@@ -8081,6 +8085,7 @@ nate
 natik
 natur
 nawa
+nawah
 nawan
 nawang
 nawani
@@ -11940,6 +11945,7 @@ selek
 selen
 selendang
 selep
+selera
 selet
 seli
 selimut
