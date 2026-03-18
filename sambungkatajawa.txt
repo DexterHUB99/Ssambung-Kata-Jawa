@@ -543,6 +543,7 @@ amargi
 amargo
 amas
 amat
+amata
 amati
 amay
 amaya
@@ -3167,6 +3168,7 @@ empit
 emplok
 empo
 empot
+empoyo
 emprit
 empu
 empuk
@@ -4765,6 +4767,7 @@ ido
 idu
 iduladha
 idumu
+idune
 ieu
 if
 ig
@@ -5752,6 +5755,7 @@ kamis
 kamit
 kampak
 kampil
+kamping
 kampret
 kampreti
 kampung
@@ -8457,7 +8461,6 @@ ngaber
 ngabet
 ngaboti
 ngabu
-ngabuk
 ngabul
 ngaca
 ngacak
@@ -8877,7 +8880,6 @@ ngelawak
 ngelawan
 ngele
 ngelebok
-ngeleg
 ngeleh
 ngelek
 ngelem
@@ -9226,6 +9228,7 @@ ngiya
 ngiyuh
 ngk
 ngka
+ngkan
 ngki
 ngko
 nglakoni
@@ -12113,6 +12116,7 @@ satus
 saung
 saur
 saut
+sawa
 sawah
 sawak
 sawan
