@@ -372,6 +372,7 @@ akir
 akire
 akis
 akit
+akita
 akiwa
 ako
 akoe
@@ -3690,7 +3691,6 @@ gapapa
 gape
 gapi
 gapil
-gapit
 gaplek
 gaplok
 gapopo
@@ -6978,6 +6978,7 @@ lincah
 lincak
 lindes
 lindhu
+lindungi
 lindur
 linggih
 linggis
