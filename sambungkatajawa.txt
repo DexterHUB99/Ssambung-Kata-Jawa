@@ -8588,6 +8588,7 @@ matang
 matara
 mate
 matek
+maten
 mateng
 mateni
 mater
@@ -10984,6 +10985,7 @@ nna
 nnaliko
 nnan
 nnapa
+nnen
 nngawi
 nnggawe
 nnggih
