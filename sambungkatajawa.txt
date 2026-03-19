@@ -10195,6 +10195,7 @@ ngipasi
 ngir
 ngira
 ngireng
+ngirep
 ngiri
 ngirik
 ngirim
