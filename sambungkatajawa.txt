@@ -2027,6 +2027,7 @@ bokong
 bokonge
 bol
 bola
+bolah
 bole
 boleh
 boli
@@ -5756,10 +5757,10 @@ iyuran
 iyut
 iz
 ja
-jaa
 jab
 jabang
 jabar
+jacok
 jadi
 jadul
 jae
@@ -9601,6 +9602,7 @@ ngekok
 ngekos
 ngel
 ngela
+ngeladeni
 ngelag
 ngelak
 ngelakoni
@@ -12884,7 +12886,6 @@ sadulur
 sadus
 sadya
 sae
-saee
 saeno
 saestu
 sag
@@ -14653,6 +14654,7 @@ ukarane
 ukari
 ukarna
 ukas
+ukasa
 ukasan
 uke
 ukek
@@ -15216,6 +15218,7 @@ vaksin
 via
 vila
 visa
+visi
 voli
 wa
 waa
@@ -15409,7 +15412,6 @@ weni
 weo
 wer
 wera
-were
 werna
 werno
 wero
