@@ -9815,6 +9815,7 @@ ngantuki
 ngantung
 nganu
 nganune
+nganwi
 ngaos
 ngap
 ngapa
@@ -10861,6 +10862,7 @@ nguyup
 nguyur
 ngwah
 ngwur
+ngyat
 ngyuh
 nha
 ni
