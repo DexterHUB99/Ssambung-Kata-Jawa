@@ -7920,6 +7920,7 @@ lengkuas
 lengo
 lengser
 lentog
+lentong
 lepas
 lepat
 lepe
@@ -10338,6 +10339,7 @@ ngili
 ngilih
 ngilingne
 ngilir
+ngilis
 ngilo
 ngilok
 ngilon
