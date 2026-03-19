@@ -2027,7 +2027,6 @@ bokong
 bokonge
 bol
 bola
-bolah
 bole
 boleh
 boli
@@ -8225,7 +8224,6 @@ matam
 matamu
 matan
 matane
-matang
 matara
 mate
 matek
@@ -8248,7 +8246,6 @@ mawah
 mawang
 mawar
 mawas
-mawe
 mawis
 mawon
 maya
@@ -9158,6 +9155,7 @@ ngabal
 ngabang
 ngabar
 ngabari
+ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -14661,7 +14659,6 @@ ukarane
 ukari
 ukarna
 ukas
-ukasa
 ukasan
 uke
 ukek
