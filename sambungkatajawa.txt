@@ -7910,6 +7910,7 @@ lose
 losi
 loso
 lot
+lota
 lote
 lotek
 loti
