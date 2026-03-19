@@ -5849,6 +5849,7 @@ iyu
 iyub
 iyuh
 iyuk
+iyul
 iyung
 iyuran
 iyut
@@ -6591,7 +6592,6 @@ kawit
 kawitan
 kawok
 kawruh
-kawul
 kawula
 kawulan
 kawung
@@ -6778,6 +6778,7 @@ kemutan
 ken
 kena
 kenak
+kenan
 kenang
 kenanga
 kenapa
@@ -13393,7 +13394,6 @@ sawijining
 sawise
 sawit
 sawo
-sawoh
 saya
 sayah
 sayak
