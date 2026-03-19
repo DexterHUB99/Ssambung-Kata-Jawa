@@ -799,6 +799,7 @@ andha
 andhaan
 andhana
 andhap
+andhapan
 andharan
 andhe
 andheg
@@ -2677,6 +2678,7 @@ deko
 dekor
 del
 dela
+delah
 dele
 deleh
 deleng
@@ -2982,6 +2984,7 @@ dowe
 dowo
 doyan
 doyo
+doyong
 du
 dubur
 ducok
@@ -3969,6 +3972,7 @@ gairah
 gaja
 gajah
 gajaha
+gajahan
 gaje
 gajelas
 gaji
@@ -4292,6 +4296,7 @@ gemo
 gempa
 gempal
 gempar
+gempil
 gempol
 gemu
 gemuk
@@ -6999,6 +7004,7 @@ klontong
 klu
 klumah
 kluruk
+kluwih
 kntl
 ko
 kobel
@@ -9327,6 +9333,7 @@ ngampas
 ngampel
 ngamper
 ngampet
+ngampi
 ngampih
 ngampil
 ngampir
@@ -9544,6 +9551,7 @@ ngawali
 ngawan
 ngawang
 ngawas
+ngawasan
 ngawasi
 ngawe
 ngaweh
@@ -11570,6 +11578,7 @@ pegat
 pegel
 pegi
 pei
+peing
 pejah
 peju
 pek
@@ -12376,6 +12385,7 @@ rawan
 rawang
 rawani
 rawao
+rawas
 rawat
 rawe
 raweh
@@ -13012,7 +13022,6 @@ samak
 saman
 samangga
 samar
-samawa
 sambal
 sambang
 sambat
@@ -13313,6 +13322,7 @@ selot
 sem
 semak
 semalam
+semampir
 semana
 semangka
 semangkok
@@ -13460,6 +13470,7 @@ siasu
 sibat
 sida
 sidang
+sidha
 sidoarjo
 sie
 sien
@@ -13884,6 +13895,7 @@ susum
 susumu
 susun
 susune
+susuni
 susup
 susyu
 sut
