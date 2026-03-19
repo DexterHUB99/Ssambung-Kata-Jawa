@@ -402,6 +402,7 @@ akhir
 akhirat
 aki
 akib
+akid
 akie
 akif
 akih
@@ -2125,7 +2126,6 @@ bowo
 boyo
 boyok
 boyolali
-brambang
 bro
 brug
 bu
@@ -4817,6 +4817,7 @@ guyone
 guys
 guyu
 guyub
+guyue
 guyup
 guyur
 ha
@@ -5579,7 +5580,6 @@ ingkang
 ingko
 ingkol
 ingkrik
-ingku
 ingkung
 ingo
 ingong
@@ -5636,6 +5636,7 @@ iping
 ipit
 ipki
 ipko
+ipla
 ipna
 ipo
 ipoe
@@ -5816,7 +5817,6 @@ itali
 itami
 itara
 itawa
-itayo
 ite
 item
 iteo
@@ -6803,7 +6803,6 @@ kemutan
 ken
 kena
 kenak
-kenan
 kenang
 kenanga
 kenapa
@@ -7095,6 +7094,7 @@ kirim
 kiriman
 kirip
 kiris
+kirna
 kiruk
 kirung
 kis
@@ -7245,7 +7245,6 @@ korem
 koren
 koreng
 korengan
-koreo
 koret
 kori
 korok
@@ -10316,7 +10315,6 @@ ngombi
 ngombor
 ngome
 ngomel
-ngomi
 ngomong
 ngomonge
 ngomongo
@@ -12042,7 +12040,6 @@ pisak
 pisan
 pisane
 pisang
-pisi
 pising
 pisna
 pisu
@@ -14081,7 +14078,6 @@ supados
 supan
 supaya
 supe
-supel
 supen
 supi
 supo
@@ -14173,7 +14169,6 @@ tabah
 tabak
 tabi
 tabib
-tabik
 tabir
 tabok
 tabuh
