@@ -7350,6 +7350,7 @@ kunir
 kunjur
 kuno
 kunta
+kunten
 kuntet
 kunti
 kuntul
