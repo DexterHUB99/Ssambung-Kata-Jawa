@@ -2934,6 +2934,7 @@ dingapunten
 dinggo
 dingin
 dingklik
+dingkluk
 dini
 dino
 dinoe
@@ -10667,7 +10668,6 @@ nian
 niba
 nie
 nien
-nigan
 niha
 nihi
 nii
@@ -12584,6 +12584,7 @@ rapuh
 rapung
 rapus
 rara
+raram
 rarampung
 rarang
 raras
@@ -13479,6 +13480,7 @@ sata
 satai
 sate
 sati
+satir
 satitik
 satria
 satru
@@ -15900,7 +15902,6 @@ woho
 woi
 wok
 woke
-woki
 woko
 wol
 wola
