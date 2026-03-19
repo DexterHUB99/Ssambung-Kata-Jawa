@@ -9734,6 +9734,7 @@ ngapi
 ngaplo
 ngaplok
 ngapu
+ngapuk
 ngapung
 ngapunten
 ngapur
