@@ -1294,7 +1294,6 @@ arwa
 arwah
 arwana
 arya
-aryani
 as
 asa
 asaan
@@ -1717,7 +1716,6 @@ balai
 balak
 balan
 balang
-balangan
 balap
 balas
 bale
@@ -4274,7 +4272,6 @@ gari
 garian
 garik
 garing
-garip
 garis
 garisan
 garise
@@ -9924,6 +9921,7 @@ ngeloh
 ngelok
 ngelon
 ngeloni
+ngelonte
 ngelor
 ngelotok
 ngelu
@@ -11580,7 +11578,6 @@ oyok
 oyot
 oz
 pa
-paala
 paalu
 pacar
 pace
@@ -12633,6 +12630,7 @@ rapung
 rapus
 rara
 raram
+rarambut
 rarampung
 rarang
 raras
