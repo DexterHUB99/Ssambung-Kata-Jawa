@@ -3956,6 +3956,7 @@ eseme
 esemka
 esemmu
 esen
+esep
 eser
 eses
 eset
@@ -6171,6 +6172,7 @@ jembar
 jembatan
 jember
 jembut
+jembuten
 jempol
 jemput
 jemuran
@@ -6816,6 +6818,7 @@ kecelek
 kecemplung
 kecewa
 kecoa
+kecolok
 kecot
 kecut
 kedah
