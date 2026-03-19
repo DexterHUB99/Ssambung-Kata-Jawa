@@ -1555,6 +1555,7 @@ ayap
 ayar
 ayas
 ayat
+ayaw
 ayay
 aye
 ayem
@@ -15175,6 +15176,7 @@ urya
 us
 usa
 usaa
+usada
 usah
 usaha
 usahane
