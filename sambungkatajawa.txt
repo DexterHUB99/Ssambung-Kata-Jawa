@@ -1580,6 +1580,7 @@ ayal
 ayalan
 ayam
 ayaman
+ayamgoreng
 ayamne
 ayan
 ayana
@@ -6722,7 +6723,6 @@ kejam
 kejawi
 kejedot
 kejer
-kejut
 kek
 keka
 kekal
@@ -8440,6 +8440,7 @@ masne
 maso
 masta
 masu
+masuh
 masuk
 masyarakat
 mat
