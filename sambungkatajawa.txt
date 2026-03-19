@@ -7194,6 +7194,7 @@ kintel
 kintir
 kios
 kipas
+kipasan
 kipet
 kir
 kira
