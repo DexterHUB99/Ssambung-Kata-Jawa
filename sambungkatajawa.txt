@@ -6962,6 +6962,7 @@ kole
 koleh
 kolek
 kolen
+kolet
 koli
 koloh
 kolong
@@ -12110,6 +12111,7 @@ rames
 ramesan
 rami
 ramis
+ramla
 ramo
 rampai
 rampas
@@ -14291,6 +14293,7 @@ trah
 trenggalek
 tresna
 tresno
+trima
 truk
 tu
 tua
