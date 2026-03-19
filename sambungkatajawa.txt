@@ -3216,6 +3216,7 @@ ejet
 eji
 ejih
 ejo
+ejol
 eju
 ejuh
 ek
@@ -6089,6 +6090,7 @@ kacok
 kacu
 kacuk
 kacung
+kadah
 kadal
 kadan
 kadang
