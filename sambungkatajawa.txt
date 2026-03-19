@@ -9969,6 +9969,7 @@ ngesok
 ngesor
 ngesot
 ngesu
+ngesuhi
 ngesuk
 nget
 ngetam
