@@ -192,7 +192,6 @@ ahav
 ahaw
 ahay
 ahe
-ahed
 aheh
 ahej
 ahek
@@ -3130,7 +3129,6 @@ durjana
 durma
 duro
 durung
-dus
 dusa
 dusi
 duso
@@ -3492,7 +3490,6 @@ emen
 emer
 emes
 emev
-emew
 emi
 emih
 emik
@@ -4402,7 +4399,6 @@ gencet
 gendak
 gendakan
 gendar
-gendel
 gendeng
 gendenge
 gender
@@ -5813,6 +5809,7 @@ itali
 itami
 itara
 itawa
+itayo
 ite
 item
 iteo
@@ -8369,7 +8366,6 @@ masa
 masah
 masak
 masal
-masala
 masam
 masane
 masang
@@ -14163,6 +14159,7 @@ tabah
 tabak
 tabi
 tabib
+tabik
 tabir
 tabok
 tabuh
