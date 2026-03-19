@@ -2183,6 +2183,7 @@ buma
 bumbu
 bumbune
 bumi
+bumiku
 bun
 buna
 bundas
@@ -5849,7 +5850,6 @@ iyu
 iyub
 iyuh
 iyuk
-iyul
 iyung
 iyuran
 iyut
@@ -6007,7 +6007,6 @@ jenang
 jeneng
 jenengan
 jenenge
-jenengmu
 jeng
 jenggot
 jengkal
@@ -6593,6 +6592,7 @@ kawit
 kawitan
 kawok
 kawruh
+kawul
 kawula
 kawulan
 kawung
@@ -6779,7 +6779,6 @@ kemutan
 ken
 kena
 kenak
-kenan
 kenang
 kenanga
 kenapa
@@ -10243,6 +10242,7 @@ ngodong
 ngoe
 ngogoh
 ngoh
+ngojak
 ngojek
 ngok
 ngoke
@@ -13395,6 +13395,7 @@ sawijining
 sawise
 sawit
 sawo
+sawoh
 saya
 sayah
 sayak
@@ -13646,7 +13647,6 @@ sian
 siap
 siapa
 siapan
-siapno
 siapo
 siasu
 sibat
@@ -14300,7 +14300,6 @@ tawon
 tawur
 tawuran
 taya
-tayi
 tayo
 tayub
 te
@@ -15351,6 +15350,7 @@ usma
 usna
 uso
 usra
+usrek
 ust
 usta
 ustadz
@@ -15968,7 +15968,6 @@ yosi
 yota
 yotan
 yoto
-yotoh
 yotro
 yowe
 yowes
