@@ -7147,6 +7147,7 @@ kim
 kima
 kiman
 kime
+kimen
 kimi
 kimpul
 kin
@@ -10302,6 +10303,7 @@ nginjak
 nginjuk
 ngino
 nginsing
+ngintah
 ngintel
 ngintik
 ngintil
