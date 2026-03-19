@@ -1115,6 +1115,7 @@ anyaran
 anyeb
 anyem
 anyep
+anyepe
 anyer
 anyes
 anyi
@@ -5867,7 +5868,6 @@ isani
 isao
 isap
 isapa
-isapan
 isar
 isas
 isat
@@ -7472,7 +7472,6 @@ krida
 kridha
 krikil
 kripik
-kroya
 krucil
 krungu
 krupuk
@@ -8514,6 +8513,7 @@ mangut
 mani
 mania
 manih
+manik
 maning
 manir
 manis
@@ -9158,6 +9158,7 @@ nak
 naka
 nakal
 nakalan
+nakale
 naker
 nakes
 naki
@@ -14329,7 +14330,6 @@ suci
 sud
 suda
 sudah
-sudahi
 sude
 sudha
 sudi
