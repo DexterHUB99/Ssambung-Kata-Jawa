@@ -672,6 +672,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -13932,6 +13933,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
