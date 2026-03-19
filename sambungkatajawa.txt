@@ -1254,6 +1254,7 @@ artos
 aru
 arud
 arue
+arugan
 aruh
 aruk
 arul
