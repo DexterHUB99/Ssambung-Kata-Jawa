@@ -3104,6 +3104,7 @@ eboh
 ebol
 ebor
 ebu
+ebun
 ec
 eca
 ecah
@@ -3127,6 +3128,7 @@ edas
 ede
 eden
 eder
+edes
 edi
 edin
 edit
@@ -9609,6 +9611,7 @@ ngeanu
 ngebaki
 ngebang
 ngebas
+ngebet
 ngebo
 ngebor
 ngebul
@@ -14750,6 +14753,7 @@ ukka
 ukki
 ukko
 ukla
+ukli
 ukma
 ukmi
 ukmo
