@@ -6094,7 +6094,6 @@ kake
 kakehan
 kakek
 kaki
-kakil
 kakine
 kakir
 kaku
@@ -9235,6 +9234,7 @@ nganak
 nganam
 nganan
 ngancani
+ngancil
 ngancing
 ngandai
 ngandang
@@ -10955,7 +10955,6 @@ ongkang
 ongkeh
 ongkek
 ongkel
-ongklak
 ongko
 ongkol
 ongkos
@@ -12888,7 +12887,6 @@ sampea
 sampean
 sampek
 sampen
-samper
 sampeya
 sampeyan
 sampi
