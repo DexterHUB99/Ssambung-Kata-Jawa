@@ -2207,6 +2207,7 @@ buk
 buka
 bukak
 bukan
+buki
 bukit
 buko
 bukok
