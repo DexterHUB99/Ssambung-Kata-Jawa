@@ -8572,6 +8572,7 @@ minggir
 minggu
 mingkem
 mini
+minjem
 minta
 minten
 minter
