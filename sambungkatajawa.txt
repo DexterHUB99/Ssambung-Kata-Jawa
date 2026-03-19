@@ -3352,6 +3352,7 @@ eman
 emanan
 emane
 emang
+emar
 emas
 emasa
 emat
@@ -6304,6 +6305,7 @@ kare
 karek
 karem
 karen
+karena
 kareng
 karep
 karepe
