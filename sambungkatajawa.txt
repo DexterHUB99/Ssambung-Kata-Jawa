@@ -2824,6 +2824,7 @@ dipangan
 diparengi
 diparingi
 dipati
+dipek
 dipiki
 dipo
 dipu
@@ -8651,6 +8652,7 @@ naik
 naika
 nail
 naila
+naira
 najan
 najeng
 najin
