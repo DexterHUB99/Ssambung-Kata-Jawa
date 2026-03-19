@@ -11520,6 +11520,7 @@ pakek
 pakem
 pakir
 pakle
+paklik
 pakon
 pakpuh
 paku
