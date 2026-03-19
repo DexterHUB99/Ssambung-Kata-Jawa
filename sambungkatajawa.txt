@@ -29,7 +29,6 @@ abil
 abin
 abir
 abis
-abit
 abo
 aboh
 abon
@@ -739,7 +738,6 @@ anandong
 anane
 anang
 ananging
-ananing
 ananjing
 ananti
 anap
@@ -3896,7 +3894,6 @@ flora
 fo
 fokus
 foto
-frustasi
 fulus
 fungsi
 ga
@@ -5788,6 +5785,7 @@ jama
 jamal
 jaman
 jamane
+jamban
 jambe
 jamber
 jambi
@@ -6400,6 +6398,7 @@ kasus
 kasut
 kat
 kata
+katae
 katah
 katai
 katak
@@ -12843,7 +12842,6 @@ sadi
 sadina
 sadis
 sadulur
-sadus
 sadya
 sae
 saeno
@@ -14342,7 +14340,6 @@ towo
 toxic
 toya
 trah
-trancam
 trenggalek
 tresna
 tresno
@@ -15457,7 +15454,6 @@ wiwa
 wiwi
 wiwit
 wiwitan
-wiwiwi
 wiwo
 wiye
 wo
