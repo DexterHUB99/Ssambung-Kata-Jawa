@@ -1615,6 +1615,7 @@ ayen
 ayep
 ayey
 ayi
+ayih
 ayik
 ayim
 ayin
@@ -10714,6 +10715,7 @@ ngususi
 ngut
 nguta
 ngutang
+ngutangan
 ngutar
 ngutarake
 ngutek
@@ -12629,6 +12631,7 @@ rangi
 rangka
 rangkat
 rangkul
+rangkulan
 rangkum
 rangkuman
 rangkung
