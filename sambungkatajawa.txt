@@ -2111,7 +2111,6 @@ bodi
 bodo
 bodoh
 bodok
-boga
 bogel
 bogem
 bogo
@@ -8367,7 +8366,6 @@ makan
 makana
 makanan
 makane
-makani
 makanne
 make
 maki
@@ -9975,6 +9973,7 @@ ngedeni
 ngedol
 ngee
 ngeeh
+ngega
 ngegak
 ngegame
 ngegas
