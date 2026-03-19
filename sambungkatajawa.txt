@@ -3894,6 +3894,7 @@ flora
 fo
 fokus
 foto
+frustasi
 fulus
 fungsi
 ga
@@ -5154,7 +5155,6 @@ ido
 idri
 idu
 iduladha
-idulfitri
 idumu
 ieu
 if
@@ -8867,7 +8867,6 @@ naras
 narasi
 nare
 narek
-narendra
 nari
 narien
 narik
@@ -14338,6 +14337,7 @@ towo
 toxic
 toya
 trah
+trancam
 trenggalek
 tresna
 tresno
@@ -15452,6 +15452,7 @@ wiwa
 wiwi
 wiwit
 wiwitan
+wiwiwi
 wiwo
 wiye
 wo
