@@ -2886,6 +2886,7 @@ ditampol
 diten
 ditilep
 ditulung
+ditup
 ditutup
 diwa
 diwak
