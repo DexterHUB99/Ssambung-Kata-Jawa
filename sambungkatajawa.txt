@@ -2183,7 +2183,6 @@ buma
 bumbu
 bumbune
 bumi
-bumiku
 bun
 buna
 bundas
@@ -3934,7 +3933,6 @@ eweh
 ewek
 ewer
 ewes
-ewet
 ewew
 ewi
 ewih
@@ -5233,7 +5231,6 @@ ica
 ical
 ican
 icip
-icir
 ico
 icu
 id
@@ -6594,7 +6591,6 @@ kawit
 kawitan
 kawok
 kawruh
-kawul
 kawula
 kawulan
 kawung
@@ -6836,7 +6832,6 @@ kepa
 kepak
 kepal
 kepala
-kepan
 kepanggih
 keparat
 kepek
@@ -6905,7 +6900,6 @@ kerohan
 kerok
 kerokan
 keron
-keroncong
 kerono
 keroso
 kersa
@@ -10247,7 +10241,6 @@ ngodong
 ngoe
 ngogoh
 ngoh
-ngojak
 ngojek
 ngok
 ngoke
@@ -13401,7 +13394,6 @@ sawijining
 sawise
 sawit
 sawo
-sawoh
 saya
 sayah
 sayak
@@ -15356,7 +15348,6 @@ usma
 usna
 uso
 usra
-usrek
 ust
 usta
 ustadz
@@ -15734,7 +15725,6 @@ wira
 wirama
 wirang
 wirangan
-wirasa
 wiraya
 wiri
 wiring
