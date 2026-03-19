@@ -1541,6 +1541,7 @@ awong
 awor
 awu
 awuh
+awui
 awul
 awulo
 awur
@@ -8377,6 +8378,7 @@ matih
 matin
 matio
 matne
+matoh
 matu
 matur
 maturnuwun
@@ -11105,6 +11107,7 @@ okeri
 oket
 okewe
 okewi
+okeya
 okeyi
 okin
 okit
@@ -13674,6 +13677,7 @@ silaka
 silam
 silan
 sile
+silen
 silet
 sili
 silih
@@ -14406,6 +14410,7 @@ terbang
 tere
 teren
 teri
+terik
 terima
 terlihat
 terna
@@ -14721,7 +14726,6 @@ tutuk
 tutup
 tutupi
 tutur
-tuturan
 tuturane
 tuturi
 tuwa
@@ -15102,7 +15106,6 @@ unes
 unesa
 ung
 unga
-ungar
 ungaran
 unggah
 unggal
