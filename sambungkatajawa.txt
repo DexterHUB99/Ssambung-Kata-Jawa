@@ -11881,6 +11881,7 @@ pit
 pita
 pitak
 pitakon
+pitakonan
 pitam
 pitek
 piten
@@ -12347,6 +12348,7 @@ rapuh
 rapung
 rapus
 rara
+rarampung
 rarang
 raras
 rarawoh
