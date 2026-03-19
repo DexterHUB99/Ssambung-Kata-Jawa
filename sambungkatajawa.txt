@@ -2027,6 +2027,7 @@ bokong
 bokonge
 bol
 bola
+bolah
 bole
 boleh
 boli
@@ -5756,7 +5757,6 @@ iyuran
 iyut
 iz
 ja
-jaa
 jab
 jabang
 jabar
@@ -12886,7 +12886,6 @@ sadulur
 sadus
 sadya
 sae
-saee
 saeno
 saestu
 sag
@@ -14655,6 +14654,7 @@ ukarane
 ukari
 ukarna
 ukas
+ukasa
 ukasan
 uke
 ukek
@@ -15412,7 +15412,6 @@ weni
 weo
 wer
 wera
-were
 werna
 werno
 wero
