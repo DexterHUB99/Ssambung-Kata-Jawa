@@ -1449,7 +1449,6 @@ atri
 atu
 atua
 atuh
-atui
 atuk
 atul
 atum
@@ -1516,6 +1515,7 @@ awe
 aweh
 awek
 awer
+awes
 awet
 awewe
 awha
@@ -2779,7 +2779,6 @@ diamana
 diamput
 diana
 diancok
-diane
 diangsang
 dianu
 diarani
@@ -6896,9 +6895,11 @@ kesasar
 kesat
 kese
 kesed
+kesek
 kesel
 keselek
 kesem
+kesemek
 kesep
 keser
 keset
@@ -8167,6 +8168,7 @@ malesan
 mali
 malih
 malik
+malika
 malin
 maling
 malu
@@ -10436,7 +10438,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunuwi
 ngup
 ngupah
 ngupahi
@@ -10985,12 +10986,14 @@ oger
 ogi
 ogih
 ogil
+ogira
 ogis
 ogoh
 ogol
 ogor
 ogot
 ogrok
+ogula
 oh
 ohh
 ohhh
@@ -11357,6 +11360,7 @@ otek
 otik
 otol
 otom
+otoma
 otoman
 otomot
 otot
@@ -11911,7 +11915,6 @@ pio
 pipi
 pipik
 pipil
-pipin
 pipipis
 pipis
 pipit
@@ -14073,7 +14076,6 @@ tahan
 tahi
 tahlil
 tahlilan
-taho
 tahta
 tahu
 tahubulat
@@ -14787,6 +14789,7 @@ uja
 ujah
 ujak
 ujal
+ujam
 ujan
 ujar
 ujaran
@@ -15835,7 +15838,6 @@ yeno
 yep
 yepa
 yeping
-yepo
 yer
 yere
 yero
@@ -15900,7 +15902,6 @@ yosi
 yota
 yotan
 yoto
-yotro
 yowe
 yowes
 yowis
