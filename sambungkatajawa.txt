@@ -672,6 +672,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -1294,7 +1295,6 @@ arwa
 arwah
 arwana
 arya
-aryani
 as
 asa
 asaan
@@ -11578,7 +11578,6 @@ oyok
 oyot
 oz
 pa
-paala
 paalu
 pacar
 pace
@@ -13934,6 +13933,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
