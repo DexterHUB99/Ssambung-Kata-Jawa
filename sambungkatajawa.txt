@@ -98,6 +98,7 @@ adiguna
 adigung
 adik
 adil
+adila
 adimu
 adin
 adine
@@ -400,7 +401,6 @@ akib
 akie
 akif
 akih
-akii
 akik
 akil
 akila
@@ -560,7 +560,6 @@ alum
 alumni
 alun
 alunan
-alune
 alur
 alure
 alus
@@ -3139,7 +3138,6 @@ edah
 edam
 edan
 edanan
-edane
 edankowe
 edantenan
 edar
@@ -3596,6 +3594,7 @@ enko
 enli
 enlo
 enma
+enno
 eno
 enog
 enoh
@@ -3624,7 +3623,6 @@ entir
 entit
 entoh
 entok
-entoke
 entoko
 entong
 entu
@@ -5393,7 +5391,6 @@ iloi
 ilok
 ilokan
 ilon
-iloo
 ilu
 ilui
 iluk
@@ -5759,7 +5756,6 @@ ites
 itik
 itil
 itilan
-itile
 ito
 itoe
 itoi
@@ -7154,7 +7150,6 @@ kopyor
 kor
 kora
 korak
-koral
 koran
 korban
 kore
@@ -7507,6 +7502,7 @@ langsep
 langsing
 langu
 lani
+lanjak
 lanjur
 lanjut
 lano
@@ -9578,7 +9574,6 @@ ngasuh
 ngasuhi
 ngasuk
 ngasul
-ngasune
 ngasuni
 ngasur
 ngasus
@@ -11018,7 +11013,6 @@ okela
 okeli
 okem
 okema
-okene
 okeno
 okeo
 oker
@@ -12677,7 +12671,6 @@ rihi
 riing
 rik
 rika
-rikai
 rikala
 rikan
 rikat
@@ -13412,6 +13405,7 @@ semak
 semalam
 semampir
 semana
+semangat
 semangka
 semangkok
 semar
