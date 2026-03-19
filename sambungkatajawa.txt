@@ -8322,6 +8322,7 @@ mimisan
 min
 mina
 minal
+minan
 minangka
 minat
 minate
