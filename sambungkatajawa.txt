@@ -9807,6 +9807,7 @@ ngaten
 ngati
 ngatin
 ngatok
+ngatol
 ngatos
 ngatri
 ngatu
