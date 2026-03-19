@@ -4997,6 +4997,7 @@ hapa
 hape
 hapene
 hapi
+hapunten
 hapus
 hapusi
 har
@@ -6725,6 +6726,7 @@ ke
 keapa
 kebab
 kebak
+kebang
 kebangetan
 kebas
 kebat
@@ -14330,6 +14332,7 @@ suyo
 swara
 syal
 syukur
+syukuran
 ta
 taa
 taat
@@ -15281,7 +15284,6 @@ umen
 umi
 umia
 uming
-umma
 ummi
 umo
 umpa
