@@ -5730,6 +5730,7 @@ ipoe
 ipone
 ipono
 ipra
+ipri
 iprit
 ipuk
 ipun
@@ -12734,6 +12735,7 @@ rasek
 rasen
 raser
 rasi
+rasia
 rasih
 rasik
 rasim
