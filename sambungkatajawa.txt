@@ -3585,6 +3585,7 @@ epak
 epal
 epam
 epan
+epana
 epang
 epap
 epar
@@ -12972,6 +12973,7 @@ sanes
 sang
 sangar
 sangat
+sanget
 sangga
 sanggah
 sanggar
