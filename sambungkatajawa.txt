@@ -6,6 +6,7 @@ ab
 aba
 abab
 ababi
+ababmu
 abad
 abadi
 abah
@@ -11904,6 +11905,7 @@ piyak
 piyambak
 piyan
 piye
+piyen
 piyoh
 plok
 po
