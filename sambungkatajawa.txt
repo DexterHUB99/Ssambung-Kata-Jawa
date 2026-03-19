@@ -194,6 +194,7 @@ ahaw
 ahay
 ahe
 ahed
+aheg
 aheh
 ahej
 ahek
@@ -2129,7 +2130,6 @@ bop
 bopo
 bor
 borak
-bori
 boring
 boro
 borok
@@ -3902,6 +3902,7 @@ esil
 esim
 esin
 esir
+esmambo
 eso
 esoe
 esoh
@@ -5631,6 +5632,7 @@ ingki
 ingko
 ingkol
 ingkrik
+ingku
 ingkung
 ingo
 ingong
@@ -5842,7 +5844,6 @@ isoma
 isone
 isoo
 isor
-isowa
 isra
 isri
 istana
@@ -7196,6 +7197,7 @@ klom
 klontong
 klu
 klumah
+klumpuk
 kluruk
 kluwih
 kntl
@@ -9722,7 +9724,6 @@ ngaret
 ngari
 ngarik
 ngaring
-ngaris
 ngarit
 ngaro
 ngarot
@@ -15035,7 +15036,6 @@ ujaran
 ujare
 ujarku
 ujarmu
-ujawa
 uji
 ujia
 ujian
@@ -15636,7 +15636,6 @@ ux
 uy
 uya
 uyah
-uyawa
 uye
 uyel
 uyi
