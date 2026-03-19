@@ -3200,6 +3200,7 @@ duso
 dusun
 dut
 duta
+dutu
 duwa
 duwe
 duwek
@@ -13809,7 +13810,6 @@ semen
 semene
 semeru
 semi
-semit
 semo
 semok
 semot
@@ -13922,6 +13922,7 @@ sewer
 sewo
 sewot
 sewu
+shalat
 sholat
 si
 sia
