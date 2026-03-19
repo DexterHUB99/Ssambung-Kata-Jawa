@@ -6094,6 +6094,7 @@ kake
 kakehan
 kakek
 kaki
+kakil
 kakine
 kakir
 kaku
@@ -10954,6 +10955,7 @@ ongkang
 ongkeh
 ongkek
 ongkel
+ongklak
 ongko
 ongkol
 ongkos
