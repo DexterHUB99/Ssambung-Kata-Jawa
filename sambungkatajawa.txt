@@ -14330,6 +14330,7 @@ suyo
 swara
 syal
 syukur
+syukuran
 ta
 taa
 taat
@@ -15241,7 +15242,6 @@ uloo
 ulu
 uluk
 ulula
-ululang
 ulun
 ulung
 ulup
