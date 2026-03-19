@@ -2140,6 +2140,7 @@ buang
 buat
 buaya
 bub
+buba
 bubar
 bubor
 bubrah
@@ -4581,6 +4582,7 @@ gir
 gira
 giran
 girang
+girange
 girap
 gire
 giri
