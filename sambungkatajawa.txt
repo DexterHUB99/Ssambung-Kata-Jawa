@@ -7829,6 +7829,7 @@ lindes
 lindhu
 lindungi
 lindur
+lingas
 linggang
 linggih
 linggis
