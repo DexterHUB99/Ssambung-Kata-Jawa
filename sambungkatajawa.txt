@@ -401,7 +401,6 @@ akil
 akila
 akim
 akin
-akine
 aking
 akip
 akir
@@ -800,6 +799,7 @@ andha
 andhaan
 andhana
 andhap
+andhapan
 andharan
 andhe
 andheg
@@ -1280,6 +1280,7 @@ aseli
 asem
 aseme
 asemen
+asemi
 asen
 aseng
 asep
@@ -2330,7 +2331,6 @@ cendol
 cengel
 cengengesan
 cengkeh
-cengkok
 cenil
 centil
 centong
@@ -2345,6 +2345,7 @@ cerewet
 ceri
 cerit
 cerita
+cermin
 ces
 ceta
 cetho
@@ -2679,6 +2680,7 @@ deko
 dekor
 del
 dela
+delah
 dele
 deleh
 deleng
@@ -2984,6 +2986,7 @@ dowe
 dowo
 doyan
 doyo
+doyong
 du
 dubur
 ducok
@@ -3971,6 +3974,7 @@ gairah
 gaja
 gajah
 gajaha
+gajahan
 gaje
 gajelas
 gaji
@@ -4294,6 +4298,7 @@ gemo
 gempa
 gempal
 gempar
+gempil
 gempol
 gemu
 gemuk
@@ -7001,6 +7006,7 @@ klontong
 klu
 klumah
 kluruk
+kluwih
 kntl
 ko
 kobel
@@ -7145,6 +7151,7 @@ kramas
 krambil
 kran
 krasa
+krasak
 krasan
 kraton
 kresna
@@ -9329,6 +9336,7 @@ ngampas
 ngampel
 ngamper
 ngampet
+ngampi
 ngampih
 ngampil
 ngampir
@@ -9546,6 +9554,7 @@ ngawali
 ngawan
 ngawang
 ngawas
+ngawasan
 ngawasi
 ngawe
 ngaweh
@@ -9975,7 +9984,6 @@ nginang
 nginap
 nginceng
 ngincer
-ngindah
 ngindak
 ngindang
 nginep
@@ -10406,7 +10414,6 @@ nguwa
 nguwak
 nguwi
 nguyah
-nguyang
 nguyon
 nguyu
 nguyuh
@@ -11574,6 +11581,7 @@ pegat
 pegel
 pegi
 pei
+peing
 pejah
 peju
 pek
@@ -12328,7 +12336,6 @@ rasaye
 rase
 rasek
 rasen
-raser
 rasi
 rasih
 rasik
@@ -12381,6 +12388,7 @@ rawan
 rawang
 rawani
 rawao
+rawas
 rawat
 rawe
 raweh
@@ -13017,7 +13025,6 @@ samak
 saman
 samangga
 samar
-samawa
 sambal
 sambang
 sambat
@@ -13156,7 +13163,6 @@ sarono
 saru
 saruh
 sarui
-sarun
 sarung
 sarungan
 saruya
@@ -13319,6 +13325,7 @@ selot
 sem
 semak
 semalam
+semampir
 semana
 semangka
 semangkok
@@ -13466,6 +13473,7 @@ siasu
 sibat
 sida
 sidang
+sidha
 sidoarjo
 sie
 sien
@@ -13890,6 +13898,7 @@ susum
 susumu
 susun
 susune
+susuni
 susup
 susyu
 sut
