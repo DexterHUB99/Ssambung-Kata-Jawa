@@ -1294,6 +1294,7 @@ arwa
 arwah
 arwana
 arya
+aryani
 as
 asa
 asaan
@@ -1716,6 +1717,7 @@ balai
 balak
 balan
 balang
+balangan
 balap
 balas
 bale
@@ -11577,6 +11579,7 @@ oyok
 oyot
 oz
 pa
+paala
 paalu
 pacar
 pace
