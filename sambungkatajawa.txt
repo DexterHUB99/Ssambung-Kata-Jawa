@@ -29,7 +29,6 @@ abil
 abin
 abir
 abis
-abit
 abo
 aboh
 abon
@@ -504,7 +503,6 @@ alie
 alien
 alif
 alih
-alihan
 alik
 alim
 alima
@@ -740,7 +738,6 @@ anandong
 anane
 anang
 ananging
-ananing
 ananjing
 ananti
 anap
@@ -3897,7 +3894,6 @@ flora
 fo
 fokus
 foto
-frustasi
 fulus
 fungsi
 ga
@@ -6040,7 +6036,6 @@ jun
 juna
 june
 jungkat
-jungkir
 juni
 junub
 jupuk
@@ -12847,7 +12842,6 @@ sadi
 sadina
 sadis
 sadulur
-sadus
 sadya
 sae
 saeno
@@ -14346,7 +14340,6 @@ towo
 toxic
 toya
 trah
-trancam
 trenggalek
 tresna
 tresno
@@ -14734,7 +14727,6 @@ umahe
 umai
 umaira
 umak
-umal
 umami
 uman
 umar
@@ -15462,7 +15454,6 @@ wiwa
 wiwi
 wiwit
 wiwitan
-wiwiwi
 wiwo
 wiye
 wo
