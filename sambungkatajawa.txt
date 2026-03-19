@@ -2202,7 +2202,6 @@ bugil
 bugis
 buh
 bui
-bujan
 bujang
 bujangan
 bujo
@@ -6919,6 +6918,7 @@ kencot
 kencur
 kendak
 kendal
+kendala
 kendali
 kendang
 kendel
@@ -7131,7 +7131,6 @@ kewan
 keweden
 kewek
 kewer
-kewes
 keyong
 ki
 kiai
@@ -10271,7 +10270,6 @@ ngik
 ngika
 ngikan
 ngikat
-ngiker
 ngiket
 ngiki
 ngiku
@@ -10445,7 +10443,6 @@ ngoe
 ngogoh
 ngoh
 ngojek
-ngojok
 ngok
 ngoke
 ngoko
@@ -11941,7 +11938,6 @@ pawon
 paya
 payae
 payah
-payau
 payu
 payung
 pe
