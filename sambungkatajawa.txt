@@ -192,7 +192,6 @@ ahav
 ahaw
 ahay
 ahe
-ahed
 aheh
 ahej
 ahek
@@ -1974,6 +1973,7 @@ bidan
 bidek
 bidik
 bidu
+biduk
 bidun
 bidur
 bien
@@ -2252,6 +2252,7 @@ caci
 cacig
 cacin
 cacing
+cadangan
 cadel
 cadik
 cagak
@@ -2597,6 +2598,7 @@ dadu
 daduk
 daerah
 dafa
+dafi
 dagang
 dagangan
 dagel
@@ -3127,7 +3129,6 @@ durjana
 durma
 duro
 durung
-dus
 dusa
 dusi
 duso
@@ -3251,6 +3252,7 @@ ehep
 eher
 ehes
 ehet
+ehew
 ehey
 ehi
 ehid
@@ -3488,7 +3490,6 @@ emen
 emer
 emes
 emev
-emew
 emi
 emih
 emik
@@ -4113,6 +4114,7 @@ gambir
 gambiran
 gambleh
 gambreng
+gambret
 gambuh
 gambung
 gambut
@@ -4397,7 +4399,6 @@ gencet
 gendak
 gendakan
 gendar
-gendel
 gendeng
 gendenge
 gender
@@ -7662,6 +7663,7 @@ lawan
 lawang
 lawas
 lawe
+laweh
 lawer
 lawet
 lawi
@@ -8309,6 +8311,7 @@ manja
 manjing
 manjur
 mantap
+mantel
 manten
 mantep
 manthuk
@@ -8585,6 +8588,7 @@ minangka
 minat
 minate
 minder
+mingat
 minggat
 minggir
 minggu
@@ -9343,6 +9347,7 @@ ngaboti
 ngabu
 ngabuk
 ngabul
+ngabung
 ngaca
 ngacak
 ngacang
@@ -10646,6 +10651,7 @@ nimi
 nimo
 nimpal
 nimpali
+nimu
 nimun
 nin
 nina
@@ -11877,6 +11883,7 @@ piagam
 piala
 piama
 pian
+pianak
 piano
 piara
 piatu
@@ -13324,6 +13331,7 @@ sao
 saos
 sap
 sapa
+sapai
 sape
 sapeh
 sapen
@@ -13887,6 +13895,7 @@ sona
 sone
 song
 songket
+songkok
 songo
 songong
 soni
@@ -14558,6 +14567,7 @@ tit
 tita
 titah
 titai
+titak
 titan
 titen
 titeni
@@ -15897,6 +15907,7 @@ yanyo
 yao
 yaora
 yap
+yapan
 yapi
 yaping
 yapo
@@ -15933,6 +15944,7 @@ yeni
 yeno
 yep
 yepa
+yepi
 yeping
 yepo
 yer
