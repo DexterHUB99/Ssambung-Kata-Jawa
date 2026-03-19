@@ -968,6 +968,7 @@ anjaran
 anjas
 anjasmara
 anjay
+anjaya
 anjeg
 anji
 anjian
@@ -5632,6 +5633,7 @@ irana
 irang
 iras
 irasa
+irasan
 irat
 irawa
 iren
