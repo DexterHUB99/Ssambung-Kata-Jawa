@@ -1510,6 +1510,7 @@ awan
 awane
 awang
 awas
+away
 awe
 aweh
 awek
@@ -5169,6 +5170,7 @@ hus
 husa
 huse
 husen
+husi
 husna
 husne
 husuk
@@ -6833,6 +6835,7 @@ keram
 kerama
 keramas
 keran
+kerana
 kerang
 keranjingan
 kerap
