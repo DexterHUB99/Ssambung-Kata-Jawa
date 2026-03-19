@@ -3516,6 +3516,7 @@ endahe
 endang
 endangan
 endange
+endangi
 endap
 endas
 endase
@@ -6116,6 +6117,7 @@ jurus
 jus
 juta
 jutaan
+jutane
 ka
 kaaba
 kaarem
