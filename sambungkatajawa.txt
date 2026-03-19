@@ -9049,6 +9049,7 @@ mut
 muta
 mutah
 mutan
+mutar
 mute
 muten
 muter
