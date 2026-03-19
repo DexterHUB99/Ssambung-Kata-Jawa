@@ -29,7 +29,6 @@ abi
 abih
 abil
 abin
-abing
 abir
 abis
 abit
@@ -1450,7 +1449,6 @@ atri
 atu
 atua
 atuh
-atui
 atuk
 atul
 atum
@@ -2781,7 +2779,6 @@ diamana
 diamput
 diana
 diancok
-diane
 diangsang
 dianu
 diarani
@@ -3288,6 +3285,7 @@ ekara
 ekas
 ekat
 eke
+eked
 ekeh
 ekej
 ekek
@@ -5494,7 +5492,6 @@ indang
 indek
 inden
 indeng
-inder
 indhang
 indhik
 indik
@@ -10442,7 +10439,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunuwi
 ngup
 ngupah
 ngupahi
@@ -11719,6 +11715,7 @@ pelu
 peluk
 pema
 pemali
+pemi
 pemo
 pemu
 pemuda
@@ -11920,7 +11917,6 @@ pio
 pipi
 pipik
 pipil
-pipin
 pipipis
 pipis
 pipit
@@ -14082,7 +14078,6 @@ tahan
 tahi
 tahlil
 tahlilan
-taho
 tahta
 tahu
 tahubulat
@@ -15845,7 +15840,6 @@ yeno
 yep
 yepa
 yeping
-yepo
 yer
 yere
 yero
@@ -15910,7 +15904,6 @@ yosi
 yota
 yotan
 yoto
-yotro
 yowe
 yowes
 yowis
