@@ -192,6 +192,7 @@ ahav
 ahaw
 ahay
 ahe
+ahed
 aheh
 ahej
 ahek
@@ -2251,7 +2252,6 @@ caci
 cacig
 cacin
 cacing
-cadangan
 cadel
 cadik
 cagak
@@ -2597,7 +2597,6 @@ dadu
 daduk
 daerah
 dafa
-dafi
 dagang
 dagangan
 dagel
@@ -3128,6 +3127,7 @@ durjana
 durma
 duro
 durung
+dus
 dusa
 dusi
 duso
@@ -3251,7 +3251,6 @@ ehep
 eher
 ehes
 ehet
-ehew
 ehey
 ehi
 ehid
@@ -3489,6 +3488,7 @@ emen
 emer
 emes
 emev
+emew
 emi
 emih
 emik
@@ -4113,7 +4113,6 @@ gambir
 gambiran
 gambleh
 gambreng
-gambret
 gambuh
 gambung
 gambut
@@ -7662,7 +7661,6 @@ lawan
 lawang
 lawas
 lawe
-laweh
 lawer
 lawet
 lawi
@@ -8586,7 +8584,6 @@ minangka
 minat
 minate
 minder
-mingat
 minggat
 minggir
 minggu
@@ -9345,7 +9342,6 @@ ngaboti
 ngabu
 ngabuk
 ngabul
-ngabung
 ngaca
 ngacak
 ngacang
@@ -10649,7 +10645,6 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
@@ -11881,7 +11876,6 @@ piagam
 piala
 piama
 pian
-pianak
 piano
 piara
 piatu
@@ -13329,7 +13323,6 @@ sao
 saos
 sap
 sapa
-sapai
 sape
 sapeh
 sapen
@@ -13893,7 +13886,6 @@ sona
 sone
 song
 songket
-songkok
 songo
 songong
 soni
@@ -15904,7 +15896,6 @@ yanyo
 yao
 yaora
 yap
-yapan
 yapi
 yaping
 yapo
@@ -15941,7 +15932,6 @@ yeni
 yeno
 yep
 yepa
-yepi
 yeping
 yepo
 yer
