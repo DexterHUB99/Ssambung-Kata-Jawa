@@ -5603,6 +5603,7 @@ injal
 inje
 injek
 injem
+injen
 inji
 injih
 injilo
@@ -15927,6 +15928,7 @@ yake
 yaki
 yakin
 yaku
+yakue
 yala
 yale
 yali
