@@ -521,7 +521,6 @@ alif
 alih
 alihan
 alik
-alika
 alim
 alima
 alin
@@ -2184,6 +2183,7 @@ buma
 bumbu
 bumbune
 bumi
+bumiku
 bun
 buna
 bundas
@@ -5850,7 +5850,6 @@ iyu
 iyub
 iyuh
 iyuk
-iyul
 iyung
 iyuran
 iyut
@@ -6008,7 +6007,6 @@ jenang
 jeneng
 jenengan
 jenenge
-jenengmu
 jeng
 jenggot
 jengkal
@@ -6594,6 +6592,7 @@ kawit
 kawitan
 kawok
 kawruh
+kawul
 kawula
 kawulan
 kawung
@@ -6780,7 +6779,6 @@ kemutan
 ken
 kena
 kenak
-kenan
 kenang
 kenanga
 kenapa
@@ -6904,6 +6902,7 @@ kerohan
 kerok
 kerokan
 keron
+keroncong
 kerono
 keroso
 kersa
@@ -10244,6 +10243,7 @@ ngodong
 ngoe
 ngogoh
 ngoh
+ngojak
 ngojek
 ngok
 ngoke
@@ -13396,6 +13396,7 @@ sawijining
 sawise
 sawit
 sawo
+sawoh
 saya
 sayah
 sayak
@@ -13647,7 +13648,6 @@ sian
 siap
 siapa
 siapan
-siapno
 siapo
 siasu
 sibat
@@ -14301,7 +14301,6 @@ tawon
 tawur
 tawuran
 taya
-tayi
 tayo
 tayub
 te
@@ -14477,7 +14476,6 @@ timah
 timan
 timang
 timba
-timbak
 timbal
 timbali
 timbang
@@ -15353,6 +15351,7 @@ usma
 usna
 uso
 usra
+usrek
 ust
 usta
 ustadz
@@ -15730,6 +15729,7 @@ wira
 wirama
 wirang
 wirangan
+wirasa
 wiraya
 wiri
 wiring
@@ -15970,7 +15970,6 @@ yosi
 yota
 yotan
 yoto
-yotoh
 yotro
 yowe
 yowes
