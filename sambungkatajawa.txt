@@ -7585,6 +7585,7 @@ leme
 lemek
 lemes
 lemet
+lemi
 lemot
 lempeng
 lemper
@@ -8032,6 +8033,7 @@ main
 maine
 majeng
 maji
+majing
 majo
 maju
 mak
@@ -8112,6 +8114,7 @@ mandeng
 mandhek
 mandi
 mandiri
+mandol
 mandraguna
 mandu
 manduk
@@ -10824,7 +10827,6 @@ obati
 obek
 obel
 obeng
-ober
 obes
 obet
 obit
@@ -12079,6 +12081,7 @@ rabu
 rabun
 racik
 racikan
+racok
 racon
 racun
 rada
@@ -12923,7 +12926,6 @@ saiku
 saing
 sair
 sairan
-saisa
 saja
 sajadah
 sajak
@@ -13403,7 +13405,6 @@ sesap
 sesat
 sese
 sesek
-seseng
 seset
 sesi
 sesok
@@ -15455,7 +15456,6 @@ wibu
 wicak
 wicaksana
 wicara
-widan
 widana
 widara
 widep
