@@ -1515,6 +1515,7 @@ awe
 aweh
 awek
 awer
+awes
 awet
 awewe
 awha
@@ -8165,6 +8166,7 @@ malesan
 mali
 malih
 malik
+malika
 malin
 maling
 malu
@@ -11354,6 +11356,7 @@ otek
 otik
 otol
 otom
+otoma
 otoman
 otomot
 otot
@@ -14069,7 +14072,6 @@ tahan
 tahi
 tahlil
 tahlilan
-taho
 tahta
 tahu
 tahubulat
@@ -14783,6 +14785,7 @@ uja
 ujah
 ujak
 ujal
+ujam
 ujan
 ujar
 ujaran
