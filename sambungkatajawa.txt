@@ -14809,6 +14809,7 @@ tese
 tesi
 tesu
 tet
+teta
 tetak
 tetangga
 tete
