@@ -1023,6 +1023,7 @@ anol
 anom
 anoman
 anon
+anone
 anop
 anor
 anos
@@ -5534,7 +5535,6 @@ imala
 imam
 imame
 iman
-imane
 imani
 imar
 imas
@@ -9808,6 +9808,7 @@ ngaten
 ngati
 ngatin
 ngatok
+ngatol
 ngatos
 ngatri
 ngatu
