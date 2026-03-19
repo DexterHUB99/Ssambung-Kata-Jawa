@@ -7449,6 +7449,7 @@ ladosan
 laen
 laga
 lagai
+lagek
 lagi
 lagian
 lagu
@@ -10188,6 +10189,7 @@ nglangkah
 nglani
 nglantur
 nglek
+nglewer
 nglilir
 nglindur
 ngliwet
