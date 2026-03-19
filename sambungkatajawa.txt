@@ -6028,6 +6028,7 @@ jawaban
 jawah
 jawe
 jawi
+jawil
 jawila
 jawir
 jawo
@@ -13454,6 +13455,7 @@ sasak
 sasampean
 sasaran
 sasare
+sasarengan
 sasek
 sasen
 sasi
@@ -14235,6 +14237,7 @@ taburi
 tae
 taek
 tag
+taga
 tah
 taha
 tahajud
