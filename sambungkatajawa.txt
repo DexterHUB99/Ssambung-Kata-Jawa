@@ -6601,6 +6601,7 @@ kawin
 kawit
 kawitan
 kawok
+kawos
 kawruh
 kawula
 kawulan
@@ -8494,6 +8495,7 @@ mengko
 meni
 menika
 menikah
+meninggal
 menit
 menowo
 mentah
@@ -9029,6 +9031,7 @@ nangka
 nangkap
 nangkene
 nangkep
+nangki
 nangkis
 nangko
 nangkring
