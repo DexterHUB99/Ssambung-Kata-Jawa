@@ -13084,6 +13084,7 @@ run
 runa
 runawa
 runcing
+runding
 rundingan
 rung
 rungi
@@ -14268,6 +14269,7 @@ talenan
 tales
 tali
 talie
+talien
 taline
 talingan
 talita
