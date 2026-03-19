@@ -2129,6 +2129,7 @@ bop
 bopo
 bor
 borak
+bori
 boring
 boro
 borok
@@ -7741,7 +7742,6 @@ lawer
 lawet
 lawi
 lawih
-lawon
 lawu
 lawuh
 layah
