@@ -2183,7 +2183,6 @@ buma
 bumbu
 bumbune
 bumi
-bumiku
 bun
 buna
 bundas
@@ -6592,7 +6591,6 @@ kawit
 kawitan
 kawok
 kawruh
-kawul
 kawula
 kawulan
 kawung
@@ -9182,6 +9180,7 @@ neka
 nekad
 nekane
 nekani
+nekar
 nekat
 neke
 neken
@@ -10242,7 +10241,6 @@ ngodong
 ngoe
 ngogoh
 ngoh
-ngojak
 ngojek
 ngok
 ngoke
@@ -12014,6 +12012,7 @@ pites
 piti
 pitik
 piting
+pitok
 piton
 pitrah
 pitu
@@ -13395,7 +13394,6 @@ sawijining
 sawise
 sawit
 sawo
-sawoh
 saya
 sayah
 sayak
@@ -15350,7 +15348,6 @@ usma
 usna
 uso
 usra
-usrek
 ust
 usta
 ustadz
@@ -15728,7 +15725,6 @@ wira
 wirama
 wirang
 wirangan
-wirasa
 wiraya
 wiri
 wiring
