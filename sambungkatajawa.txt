@@ -932,7 +932,6 @@ anin
 aning
 anis
 anisa
-anisha
 anit
 anja
 anjai
@@ -6094,6 +6093,7 @@ kake
 kakehan
 kakek
 kaki
+kakil
 kakine
 kakir
 kaku
@@ -9234,7 +9234,6 @@ nganak
 nganam
 nganan
 ngancani
-ngancil
 ngancing
 ngandai
 ngandang
@@ -10955,6 +10954,7 @@ ongkang
 ongkeh
 ongkek
 ongkel
+ongklak
 ongko
 ongkol
 ongkos
@@ -12229,7 +12229,6 @@ rawal
 rawan
 rawang
 rawani
-rawao
 rawat
 rawe
 raweh
@@ -14982,7 +14981,6 @@ usura
 usus
 ususa
 ususe
-ususus
 usut
 usuten
 uswa
