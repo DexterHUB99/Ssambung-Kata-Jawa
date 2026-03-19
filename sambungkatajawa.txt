@@ -4119,6 +4119,7 @@ gamber
 gambir
 gambiran
 gambleh
+gamblong
 gambreng
 gambret
 gambuh
@@ -11259,6 +11260,7 @@ omongan
 omongane
 omonge
 omongo
+omoo
 ompak
 ompol
 ompole
