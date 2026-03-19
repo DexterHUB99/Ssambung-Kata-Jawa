@@ -947,7 +947,6 @@ anig
 anih
 anii
 anik
-anika
 aniki
 anil
 anim
@@ -3669,6 +3668,7 @@ epap
 epar
 epas
 epat
+epaw
 epe
 epeh
 epek
@@ -5574,6 +5574,7 @@ ipel
 ipen
 iper
 ipes
+iphi
 ipi
 ipik
 ipil
@@ -5700,7 +5701,6 @@ ising
 isini
 isinna
 isio
-isip
 isis
 isisa
 isisak
@@ -6945,6 +6945,7 @@ ketum
 ketumbar
 ketup
 ketupat
+keturon
 keturunan
 ketus
 ketut
@@ -8061,7 +8062,6 @@ luwih
 luwung
 ma
 maaf
-mab
 mabar
 mabi
 mabuk
@@ -10906,6 +10906,7 @@ nyocot
 nyogok
 nyolek
 nyolong
+nyoman
 nyomot
 nyong
 nyuci
@@ -11207,7 +11208,6 @@ onto
 ontong
 oo
 ooh
-ooha
 oon
 op
 opa
@@ -12394,6 +12394,7 @@ rapake
 rapapa
 rapat
 rape
+rapel
 rapet
 rapi
 rapia
@@ -13171,6 +13172,7 @@ sampol
 sampul
 sampun
 sampur
+sampura
 sampurna
 samu
 samudra
@@ -13558,6 +13560,7 @@ sewa
 sewek
 sewelas
 sewer
+sewo
 sewot
 sewu
 sholat
