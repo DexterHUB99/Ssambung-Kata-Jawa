@@ -2934,7 +2934,6 @@ dingapunten
 dinggo
 dingin
 dingklik
-dingkluk
 dini
 dino
 dinoe
@@ -4786,7 +4785,6 @@ gun
 guna
 gunae
 gunake
-gunane
 gunawa
 gundah
 gundam
@@ -9046,7 +9044,6 @@ nambani
 nambel
 nambeli
 nambi
-nambuh
 name
 namen
 nami
@@ -10393,6 +10390,7 @@ ngonoe
 ngonoi
 ngonten
 ngontol
+ngontrol
 ngop
 ngopah
 ngopak
@@ -11804,6 +11802,7 @@ pati
 patih
 patimah
 patin
+patino
 patis
 pato
 patok
@@ -12588,7 +12587,6 @@ rapuh
 rapung
 rapus
 rara
-raram
 rarampung
 rarang
 raras
@@ -13484,7 +13482,6 @@ sata
 satai
 sate
 sati
-satir
 satitik
 satria
 satru
