@@ -13929,6 +13929,7 @@ setaun
 setel
 setengah
 seti
+setor
 setrika
 setunggal
 sewa
