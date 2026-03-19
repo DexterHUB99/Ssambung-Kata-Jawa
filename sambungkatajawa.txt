@@ -1255,7 +1255,6 @@ artos
 aru
 arud
 arue
-arugan
 aruh
 aruk
 arul
@@ -8356,6 +8355,7 @@ mase
 masi
 masih
 masin
+masinis
 masio
 masjid
 masne
@@ -13103,7 +13103,6 @@ sadi
 sadina
 sadis
 sadulur
-sadurunge
 sadus
 sadya
 sae
@@ -14640,6 +14639,7 @@ truk
 tu
 tua
 tuak
+tuba
 tuban
 tubi
 tubruk
