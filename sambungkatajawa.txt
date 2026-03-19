@@ -1436,6 +1436,7 @@ atatas
 atati
 ataw
 atawa
+atay
 ate
 ateh
 atek
@@ -10239,6 +10240,7 @@ ngguyu
 ngguyue
 ngguyur
 ngibadah
+ngibar
 ngiber
 ngibing
 ngibrit
@@ -12069,6 +12071,7 @@ pethuk
 peti
 petik
 petruk
+petung
 pewa
 pewe
 peye
