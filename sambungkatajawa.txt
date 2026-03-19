@@ -8250,6 +8250,7 @@ maca
 macak
 macan
 macapat
+macet
 macit
 macul
 mad
@@ -15918,6 +15919,7 @@ wes
 wesa
 wese
 wesi
+wesing
 weso
 wet
 weta
