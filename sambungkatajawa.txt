@@ -3707,6 +3707,7 @@ enem
 enen
 eneng
 enengkol
+enep
 ener
 enes
 engah
@@ -10549,6 +10550,7 @@ ngoleki
 ngoles
 ngolet
 ngoli
+ngolih
 ngolik
 ngolo
 ngoloh
