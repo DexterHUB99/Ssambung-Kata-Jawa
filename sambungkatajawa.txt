@@ -5534,7 +5534,6 @@ imala
 imam
 imame
 iman
-imane
 imani
 imar
 imas
@@ -10883,7 +10882,6 @@ nodol
 nogel
 noh
 nok
-noka
 noke
 noken
 noki
