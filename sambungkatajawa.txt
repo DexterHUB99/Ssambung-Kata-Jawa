@@ -1785,7 +1785,6 @@ banjir
 banjur
 bantal
 bante
-banteg
 banteng
 banter
 bantu
@@ -5969,7 +5968,6 @@ iw
 iwak
 iwakan
 iwake
-iwaki
 iwakku
 iwakmu
 iwakna
