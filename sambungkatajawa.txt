@@ -396,7 +396,6 @@ akaw
 akay
 akbar
 ake
-akea
 akeh
 akehan
 akehane
@@ -13085,6 +13084,7 @@ repit
 repmu
 repo
 repok
+repon
 repot
 republik
 rere
