@@ -7658,6 +7658,7 @@ lawan
 lawang
 lawas
 lawe
+laweh
 lawer
 lawet
 lawi
@@ -11873,6 +11874,7 @@ piagam
 piala
 piama
 pian
+pianak
 piano
 piara
 piatu
@@ -13320,6 +13322,7 @@ sao
 saos
 sap
 sapa
+sapai
 sape
 sapeh
 sapen
@@ -13883,6 +13886,7 @@ sona
 sone
 song
 songket
+songkok
 songo
 songong
 soni
