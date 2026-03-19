@@ -1785,6 +1785,7 @@ banjir
 banjur
 bantal
 bante
+banteg
 banteng
 banter
 bantu
