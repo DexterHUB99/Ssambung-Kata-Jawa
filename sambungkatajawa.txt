@@ -2202,6 +2202,7 @@ bugil
 bugis
 buh
 bui
+bujan
 bujang
 bujangan
 bujo
@@ -10442,6 +10443,7 @@ ngoe
 ngogoh
 ngoh
 ngojek
+ngojok
 ngok
 ngoke
 ngoko
