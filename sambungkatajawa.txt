@@ -9414,6 +9414,7 @@ ngangon
 ngangsal
 ngangso
 ngangsu
+ngangsul
 ngangsur
 ngangu
 nganguk
