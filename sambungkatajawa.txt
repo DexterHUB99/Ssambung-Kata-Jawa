@@ -8240,6 +8240,7 @@ magrib
 mah
 maha
 mahal
+mahar
 mahen
 mahi
 mahir
@@ -8512,6 +8513,7 @@ me
 medal
 medeni
 medhal
+medhale
 medhok
 meditasi
 mega
