@@ -10241,6 +10241,7 @@ ngindak
 ngindang
 nginep
 nging
+nginget
 nginggil
 nginggo
 ngingi
