@@ -4588,7 +4588,6 @@ gogolek
 gogong
 gogrok
 gojek
-gojeka
 gojekan
 gojlok
 gok
@@ -8069,7 +8068,6 @@ lunga
 lungguh
 lunging
 lungkrah
-lunglai
 lungo
 lungsur
 luni
@@ -8379,6 +8377,7 @@ matih
 matin
 matio
 matne
+matoh
 matu
 matur
 maturnuwun
@@ -14408,6 +14407,7 @@ terbang
 tere
 teren
 teri
+terik
 terima
 terlihat
 terna
