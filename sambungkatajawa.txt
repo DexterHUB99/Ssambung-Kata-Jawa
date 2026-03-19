@@ -6647,6 +6647,7 @@ kawat
 kawe
 kawen
 kaweni
+kawer
 kaweruh
 kawi
 kawih
@@ -14142,6 +14143,7 @@ supados
 supan
 supaya
 supe
+supel
 supen
 supi
 supo
