@@ -5849,6 +5849,7 @@ iyu
 iyub
 iyuh
 iyuk
+iyul
 iyung
 iyuran
 iyut
@@ -6006,6 +6007,7 @@ jenang
 jeneng
 jenengan
 jenenge
+jenengmu
 jeng
 jenggot
 jengkal
@@ -6777,6 +6779,7 @@ kemutan
 ken
 kena
 kenak
+kenan
 kenang
 kenanga
 kenapa
@@ -13643,6 +13646,7 @@ sian
 siap
 siapa
 siapan
+siapno
 siapo
 siasu
 sibat
@@ -14296,6 +14300,7 @@ tawon
 tawur
 tawuran
 taya
+tayi
 tayo
 tayub
 te
@@ -15963,6 +15968,7 @@ yosi
 yota
 yotan
 yoto
+yotoh
 yotro
 yowe
 yowes
