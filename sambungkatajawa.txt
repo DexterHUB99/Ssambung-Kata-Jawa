@@ -194,6 +194,7 @@ ahaw
 ahay
 ahe
 ahed
+aheg
 aheh
 ahej
 ahek
@@ -3901,6 +3902,7 @@ esil
 esim
 esin
 esir
+esmambo
 eso
 esoe
 esoh
@@ -5630,6 +5632,7 @@ ingki
 ingko
 ingkol
 ingkrik
+ingku
 ingkung
 ingo
 ingong
@@ -13927,7 +13930,6 @@ sisih
 sisik
 sisil
 sisir
-sisiran
 siska
 siso
 sisu
