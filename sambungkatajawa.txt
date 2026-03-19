@@ -2904,7 +2904,6 @@ dipu
 dipun
 dir
 dira
-diramah
 diran
 direng
 direwangi
@@ -10898,6 +10897,7 @@ nyocot
 nyogok
 nyolek
 nyolong
+nyoman
 nyomot
 nyong
 nyuci
@@ -12385,6 +12385,7 @@ rapake
 rapapa
 rapat
 rape
+rapel
 rapet
 rapi
 rapia
@@ -13162,6 +13163,7 @@ sampol
 sampul
 sampun
 sampur
+sampura
 sampurna
 samu
 samudra
@@ -15334,7 +15336,6 @@ utowo
 utra
 utri
 utu
-utua
 utuh
 utumu
 utus
