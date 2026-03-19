@@ -29,6 +29,7 @@ abi
 abih
 abil
 abin
+abing
 abir
 abis
 abit
