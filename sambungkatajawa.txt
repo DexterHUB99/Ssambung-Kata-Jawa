@@ -29,7 +29,6 @@ abi
 abih
 abil
 abin
-abing
 abir
 abis
 abit
@@ -1268,7 +1267,6 @@ arya
 as
 asa
 asaan
-asad
 asaf
 asah
 asahan
@@ -1451,7 +1449,6 @@ atri
 atu
 atua
 atuh
-atui
 atuk
 atul
 atum
@@ -1589,7 +1586,6 @@ ayoe
 ayoh
 ayok
 ayon
-ayone
 ayu
 ayub
 ayuh
@@ -2013,7 +2009,6 @@ bisane
 bisi
 bisik
 bisiki
-bismillah
 biso
 bisu
 bisulan
@@ -2479,7 +2474,6 @@ colong
 com
 combi
 combro
-comi
 como
 comot
 condong
@@ -2640,6 +2634,7 @@ dancok
 dancuk
 dandan
 dandang
+dandhanggula
 dang
 dangak
 dangapunten
@@ -2785,7 +2780,6 @@ diamana
 diamput
 diana
 diancok
-diane
 diangsang
 dianu
 diarani
@@ -3292,6 +3286,7 @@ ekara
 ekas
 ekat
 eke
+eked
 ekeh
 ekej
 ekek
@@ -5120,6 +5115,7 @@ hoti
 hotma
 hoto
 howa
+howi
 howo
 hoya
 hoyi
@@ -5498,7 +5494,6 @@ indang
 indek
 inden
 indeng
-inder
 indhang
 indhik
 indik
@@ -5991,6 +5986,7 @@ jengne
 jeni
 jeno
 jentik
+jepara
 jepit
 jer
 jera
@@ -6161,6 +6157,7 @@ kabeh
 kabek
 kabel
 kabi
+kabuh
 kabul
 kabupaten
 kabur
@@ -10031,6 +10028,7 @@ ngigil
 ngih
 ngijab
 ngijek
+ngijik
 ngijin
 ngijing
 ngijir
@@ -10446,7 +10444,6 @@ nguntung
 ngunu
 ngunung
 ngunut
-ngunuwi
 ngup
 ngupah
 ngupahi
@@ -11723,12 +11720,14 @@ pelu
 peluk
 pema
 pemali
+pemi
 pemo
 pemu
 pemuda
 pen
 pena
 penak
+penari
 pendek
 pendem
 pendhet
@@ -11924,7 +11923,6 @@ pio
 pipi
 pipik
 pipil
-pipin
 pipipis
 pipis
 pipit
@@ -12717,6 +12715,7 @@ rih
 riha
 rihan
 rihi
+rii
 riing
 rik
 rika
@@ -14086,7 +14085,6 @@ tahan
 tahi
 tahlil
 tahlilan
-taho
 tahta
 tahu
 tahubulat
@@ -15849,7 +15847,6 @@ yeno
 yep
 yepa
 yeping
-yepo
 yer
 yere
 yero
@@ -15914,7 +15911,6 @@ yosi
 yota
 yotan
 yoto
-yotro
 yowe
 yowes
 yowis
