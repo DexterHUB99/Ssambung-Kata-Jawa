@@ -9700,6 +9700,7 @@ ngamber
 ngambi
 ngambil
 ngambing
+ngambir
 ngambruk
 ngambu
 ngambul
@@ -10083,6 +10084,7 @@ ngeman
 ngemang
 ngemas
 ngembang
+ngembat
 ngember
 ngembun
 ngembung
