@@ -316,6 +316,7 @@ aje
 ajeg
 ajek
 ajem
+ajen
 ajeng
 ajep
 aji
@@ -2628,6 +2629,7 @@ dap
 dapi
 dapur
 dapuran
+dapure
 dar
 dara
 darah
@@ -5558,6 +5560,7 @@ ipun
 ir
 ira
 irab
+irae
 irah
 iraha
 irahan
