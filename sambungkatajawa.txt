@@ -800,6 +800,7 @@ andha
 andhaan
 andhana
 andhap
+andhapan
 andharan
 andhe
 andheg
@@ -1280,6 +1281,7 @@ aseli
 asem
 aseme
 asemen
+asemi
 asen
 aseng
 asep
@@ -2345,6 +2347,7 @@ cerewet
 ceri
 cerit
 cerita
+cermin
 ces
 ceta
 cetho
@@ -2681,6 +2684,7 @@ deko
 dekor
 del
 dela
+delah
 dele
 deleh
 deleng
@@ -2987,6 +2991,7 @@ dowe
 dowo
 doyan
 doyo
+doyong
 du
 dubur
 ducok
@@ -3294,6 +3299,7 @@ eksi
 ektika
 eku
 ekuk
+ekul
 ekun
 ekur
 ekus
@@ -3974,6 +3980,7 @@ gairah
 gaja
 gajah
 gajaha
+gajahan
 gaje
 gajelas
 gaji
@@ -4297,6 +4304,7 @@ gemo
 gempa
 gempal
 gempar
+gempil
 gempol
 gemu
 gemuk
@@ -6066,6 +6074,7 @@ jumat
 jumblah
 jumeneng
 jumi
+jumla
 jumo
 jumpa
 jun
@@ -6372,6 +6381,7 @@ karine
 karipa
 karipan
 karipen
+karis
 karit
 karma
 karmane
@@ -7005,6 +7015,7 @@ klontong
 klu
 klumah
 kluruk
+kluwih
 kntl
 ko
 kobel
@@ -7149,6 +7160,7 @@ kramas
 krambil
 kran
 krasa
+krasak
 krasan
 kraton
 kresna
@@ -8190,6 +8202,7 @@ manus
 manut
 manyu
 maos
+mapah
 mapak
 mapan
 mapi
@@ -8417,6 +8430,7 @@ miker
 miki
 mikir
 miko
+miku
 mikul
 mil
 mila
@@ -9333,6 +9347,7 @@ ngampas
 ngampel
 ngamper
 ngampet
+ngampi
 ngampih
 ngampil
 ngampir
@@ -9550,6 +9565,7 @@ ngawali
 ngawan
 ngawang
 ngawas
+ngawasan
 ngawasi
 ngawe
 ngaweh
@@ -9592,7 +9608,6 @@ ngeanu
 ngebaki
 ngebang
 ngebas
-ngebet
 ngebo
 ngebor
 ngebul
@@ -11579,6 +11594,7 @@ pegat
 pegel
 pegi
 pei
+peing
 pejah
 peju
 pek
@@ -12041,6 +12057,7 @@ punen
 pungkasan
 puni
 punika
+puning
 punjul
 punten
 punya
@@ -12386,6 +12403,7 @@ rawan
 rawang
 rawani
 rawao
+rawas
 rawat
 rawe
 raweh
@@ -12457,6 +12475,7 @@ rela
 relax
 relem
 reli
+relita
 relo
 relok
 relu
@@ -12767,6 +12786,7 @@ rotii
 rotina
 roto
 rowang
+rowe
 rowi
 rowo
 rowoe
@@ -13326,6 +13346,7 @@ selot
 sem
 semak
 semalam
+semampir
 semana
 semangka
 semangkok
@@ -13473,6 +13494,7 @@ siasu
 sibat
 sida
 sidang
+sidha
 sidoarjo
 sie
 sien
@@ -13897,6 +13919,7 @@ susum
 susumu
 susun
 susune
+susuni
 susup
 susyu
 sut
@@ -14585,6 +14608,7 @@ uda
 udah
 udahan
 udahlah
+udai
 udak
 udakara
 udam
@@ -14725,7 +14749,6 @@ ukka
 ukki
 ukko
 ukla
-ukli
 ukma
 ukmi
 ukmo
@@ -14818,6 +14841,7 @@ um
 uma
 umaa
 umah
+umaha
 umahe
 umai
 umaira
@@ -15404,6 +15428,7 @@ we
 wea
 wean
 web
+weber
 webi
 wed
 weda
