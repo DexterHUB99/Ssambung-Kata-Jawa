@@ -130,7 +130,6 @@ afan
 afe
 afi
 afif
-afir
 afu
 ag
 aga
@@ -5891,7 +5890,6 @@ jawo
 jawoh
 jawuh
 jaya
-jaye
 je
 jeblos
 jeda
@@ -8073,7 +8071,6 @@ maku
 mal
 mala
 malah
-malai
 malak
 malam
 malan
@@ -10689,7 +10686,6 @@ numbas
 numbasi
 numbuk
 numen
-numi
 numis
 numpah
 numpak
@@ -12590,6 +12586,7 @@ rien
 rih
 riha
 rihan
+rihi
 riing
 rik
 rika
@@ -15088,7 +15085,6 @@ urta
 uru
 urua
 urub
-urui
 uruk
 urukan
 urun
