@@ -3499,6 +3499,7 @@ emot
 emoy
 empal
 empan
+empane
 empang
 empedu
 empek
