@@ -10667,7 +10667,6 @@ nian
 niba
 nie
 nien
-nigan
 niha
 nihi
 nii
@@ -15900,7 +15899,6 @@ woho
 woi
 wok
 woke
-woki
 woko
 wol
 wola
