@@ -355,6 +355,7 @@ aju
 ajudan
 ajuk
 ajul
+ajun
 ajung
 ajur
 ajura
@@ -1082,6 +1083,7 @@ anumu
 anun
 anune
 anung
+anuo
 anup
 anur
 anuran
@@ -5949,6 +5951,7 @@ jait
 jaiz
 jaja
 jajah
+jajak
 jajal
 jajan
 jajar
