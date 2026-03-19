@@ -1387,6 +1387,7 @@ atas
 atasan
 atasi
 atat
+atata
 atatap
 atatas
 atati
@@ -8128,6 +8129,7 @@ maksa
 maksud
 maksude
 maku
+makul
 mal
 mala
 malah
