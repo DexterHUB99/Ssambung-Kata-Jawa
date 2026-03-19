@@ -3187,6 +3187,7 @@ ejah
 ejar
 eje
 ejek
+ejet
 eji
 ejih
 ejo
@@ -3211,6 +3212,7 @@ ekas
 ekat
 eke
 ekeh
+ekej
 ekek
 ekel
 ekem
