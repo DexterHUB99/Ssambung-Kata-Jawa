@@ -1176,6 +1176,7 @@ ara
 araa
 arab
 arabe
+arae
 araen
 arah
 arahan
@@ -2319,6 +2320,7 @@ cangkir
 cangkul
 cantik
 canting
+cantol
 cap
 capai
 capan
