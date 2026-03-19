@@ -5759,6 +5759,7 @@ ja
 jab
 jabang
 jabar
+jacok
 jadi
 jadul
 jae
