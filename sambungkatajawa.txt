@@ -2575,6 +2575,7 @@ dalu
 dam
 dama
 damai
+daman
 damar
 damba
 dame
@@ -3396,6 +3397,7 @@ embus
 eme
 emeh
 emek
+emel
 emem
 emen
 emer
@@ -5631,6 +5633,7 @@ isini
 isinna
 isio
 isis
+isisa
 isisak
 isisi
 isiso
@@ -6770,6 +6773,7 @@ kero
 keroh
 kerohan
 kerok
+kerokan
 keron
 kerono
 keroso
@@ -7537,6 +7541,7 @@ leka
 lekan
 lekas
 lekat
+leke
 lekoh
 lekok
 lela
@@ -9191,6 +9196,7 @@ ngagak
 ngagel
 ngagem
 ngago
+ngagok
 ngagung
 ngah
 ngahad
@@ -10260,6 +10266,7 @@ ngumpet
 ngumpil
 ngumpul
 ngumpulake
+ngumun
 ngun
 nguna
 ngunake
@@ -12288,6 +12295,7 @@ rasmo
 raso
 rasta
 rasu
+rasuan
 rasuk
 rasukan
 rasul
