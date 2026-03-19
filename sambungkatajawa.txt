@@ -3419,6 +3419,7 @@ empit
 empiti
 emplok
 empo
+empol
 empot
 emprit
 empu
@@ -9145,6 +9146,7 @@ ngadohi
 ngadok
 ngadol
 ngadon
+ngados
 ngadu
 ngaduk
 ngadul
@@ -11769,6 +11771,7 @@ pitutur
 pituturan
 piutang
 piwak
+piwe
 piwul
 piwulang
 piya
