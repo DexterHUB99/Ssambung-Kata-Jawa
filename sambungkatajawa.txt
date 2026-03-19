@@ -587,6 +587,7 @@ amati
 amay
 amaya
 amba
+ambai
 ambal
 ambalan
 ambar
@@ -1702,6 +1703,7 @@ barong
 barongan
 baru
 baruk
+barung
 bas
 basa
 basah
@@ -3936,6 +3938,7 @@ gaktau
 gal
 gala
 galah
+galai
 galak
 galaka
 galan
@@ -12316,6 +12319,7 @@ relax
 relem
 reli
 relo
+relok
 relu
 rem
 rema
