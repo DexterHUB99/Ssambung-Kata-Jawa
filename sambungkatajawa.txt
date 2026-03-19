@@ -8813,6 +8813,7 @@ najan
 najeng
 najin
 najis
+najise
 najuk
 nak
 naka
@@ -15122,6 +15123,7 @@ urat
 uratan
 ure
 urek
+urem
 uren
 ures
 uret
