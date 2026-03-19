@@ -5154,6 +5154,7 @@ ido
 idri
 idu
 iduladha
+idulfitri
 idumu
 ieu
 if
@@ -14336,7 +14337,6 @@ towo
 toxic
 toya
 trah
-trancam
 trenggalek
 tresna
 tresno
@@ -15451,7 +15451,6 @@ wiwa
 wiwi
 wiwit
 wiwitan
-wiwiwi
 wiwo
 wiye
 wo
