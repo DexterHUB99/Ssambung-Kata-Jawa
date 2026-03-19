@@ -1789,6 +1789,7 @@ bantu
 bantul
 banyak
 banyu
+bao
 bapa
 bapak
 bapakmu
@@ -2111,6 +2112,7 @@ bodi
 bodo
 bodoh
 bodok
+boga
 bogel
 bogem
 bogo
@@ -8366,6 +8368,7 @@ makan
 makana
 makanan
 makane
+makani
 makanne
 make
 maki
@@ -9978,6 +9981,7 @@ ngegak
 ngegame
 ngegas
 ngegawe
+ngegeh
 ngeh
 ngehormati
 ngei
