@@ -2027,7 +2027,6 @@ bokong
 bokonge
 bol
 bola
-bolah
 bole
 boleh
 boli
@@ -5569,6 +5568,7 @@ iringan
 iringane
 iringi
 irip
+irira
 irirah
 iris
 irisan
@@ -8223,7 +8223,6 @@ matam
 matamu
 matan
 matane
-matang
 matara
 mate
 matek
@@ -14657,7 +14656,6 @@ ukarane
 ukari
 ukarna
 ukas
-ukasa
 ukasan
 uke
 ukek
