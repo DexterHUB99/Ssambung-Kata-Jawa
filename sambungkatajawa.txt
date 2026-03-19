@@ -1428,6 +1428,7 @@ atrama
 atrap
 atri
 atu
+atua
 atuh
 atuk
 atul
@@ -1738,6 +1739,7 @@ bata
 batak
 batal
 batang
+bathi
 bathuk
 bati
 batik
@@ -2387,6 +2389,7 @@ cimut
 cin
 cina
 cincin
+cinde
 cine
 cing
 cingkrang
@@ -3811,6 +3814,7 @@ eter
 etes
 etet
 etew
+ethok
 eti
 etig
 etik
@@ -4069,7 +4073,6 @@ ganjar
 ganjaran
 ganjel
 ganjil
-ganjur
 gano
 ganong
 ganta
@@ -7769,6 +7772,7 @@ liwet
 liwi
 liwo
 liya
+liyak
 liyan
 liyane
 liyep
@@ -9595,7 +9599,6 @@ ngedek
 ngeden
 ngedeni
 ngedol
-ngee
 ngeeh
 ngegak
 ngegame
