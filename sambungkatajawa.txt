@@ -559,6 +559,7 @@ alum
 alumni
 alun
 alunan
+alune
 alur
 alure
 alus
@@ -969,7 +970,6 @@ anjine
 anjing
 anjingi
 anjining
-anjino
 anjir
 anjlog
 anjlok
@@ -1402,7 +1402,6 @@ atena
 atene
 atep
 ater
-aterma
 ates
 atesan
 atet
@@ -3620,6 +3619,7 @@ entir
 entit
 entoh
 entok
+entoke
 entoko
 entong
 entu
@@ -9568,6 +9568,7 @@ ngasuh
 ngasuhi
 ngasuk
 ngasul
+ngasune
 ngasuni
 ngasur
 ngasus
@@ -10005,7 +10006,6 @@ ngila
 ngilag
 ngilam
 ngilang
-ngilangi
 ngilat
 ngilekne
 ngiler
@@ -11007,6 +11007,7 @@ okela
 okeli
 okem
 okema
+okene
 okeno
 okeo
 oker
@@ -12665,6 +12666,7 @@ rihi
 riing
 rik
 rika
+rikai
 rikala
 rikan
 rikat
