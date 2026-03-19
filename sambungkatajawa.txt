@@ -5372,7 +5372,6 @@ ikoo
 ikoro
 ikrar
 iku
-ikua
 ikue
 ikui
 ikuku
@@ -11221,7 +11220,6 @@ ompak
 ompol
 ompole
 ompong
-ompongne
 ompreng
 omta
 on
