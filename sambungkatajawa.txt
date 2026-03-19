@@ -3658,6 +3658,7 @@ engel
 enggal
 enggale
 enggan
+enggane
 enggar
 enggeh
 enggih
@@ -3927,6 +3928,7 @@ esun
 et
 eta
 etad
+etag
 etah
 etak
 etal
@@ -5179,6 +5181,7 @@ hobi
 hoe
 hoh
 hoha
+hohe
 hohi
 hoho
 hoi
@@ -7588,6 +7591,7 @@ lakna
 lakon
 lakoni
 laku
+lalagu
 lalak
 lalang
 lalar
@@ -9932,6 +9936,7 @@ ngeloh
 ngelok
 ngelon
 ngeloni
+ngelonte
 ngelor
 ngelotok
 ngelu
@@ -12642,6 +12647,7 @@ rapung
 rapus
 rara
 raram
+rarambut
 rarampung
 rarang
 raras
@@ -14944,6 +14950,7 @@ uban
 ubanan
 ubane
 ubang
+ubar
 ubarampe
 ube
 ubek
