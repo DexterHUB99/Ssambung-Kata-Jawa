@@ -559,7 +559,6 @@ alum
 alumni
 alun
 alunan
-alune
 alur
 alure
 alus
@@ -3619,7 +3618,6 @@ entir
 entit
 entoh
 entok
-entoke
 entoko
 entong
 entu
@@ -6094,6 +6092,7 @@ jujur
 jule
 juli
 juluk
+julukna
 jumat
 jumblah
 jumeneng
@@ -6174,6 +6173,7 @@ kagem
 kaget
 kagungan
 kagus
+kahan
 kahanan
 kail
 kaila
@@ -9233,6 +9233,7 @@ ngabal
 ngabang
 ngabar
 ngabari
+ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -10939,7 +10940,6 @@ ogah
 ogahe
 ogak
 ogal
-ogan
 oge
 ogek
 oger
@@ -12664,7 +12664,6 @@ rihi
 riing
 rik
 rika
-rikai
 rikala
 rikan
 rikat
@@ -14977,7 +14976,6 @@ undanga
 undangan
 undar
 undeg
-undha
 undhak
 undhakan
 undhi
