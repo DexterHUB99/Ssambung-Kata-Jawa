@@ -2110,7 +2110,6 @@ bodi
 bodo
 bodoh
 bodok
-boga
 bogel
 bogem
 bogo
@@ -8365,7 +8364,6 @@ makan
 makana
 makanan
 makane
-makani
 makanne
 make
 maki
@@ -15499,6 +15497,7 @@ ungkur
 ungu
 unhe
 uni
+unila
 unine
 uning
 unja
