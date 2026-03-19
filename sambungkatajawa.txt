@@ -575,6 +575,7 @@ alue
 aluh
 aluk
 alukan
+aluku
 alul
 alum
 alumni
@@ -8421,6 +8422,7 @@ mancung
 mandali
 mandan
 mandang
+mandar
 mandeg
 mandel
 mandeng
@@ -12748,6 +12750,7 @@ rapina
 rapinter
 rapla
 rapo
+rapoo
 rapopo
 rapu
 rapuh
