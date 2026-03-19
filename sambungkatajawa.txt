@@ -815,6 +815,7 @@ andum
 andung
 andus
 ane
+anee
 aneh
 anehi
 anehwe
@@ -9761,6 +9762,7 @@ ngetik
 ngeting
 ngetna
 ngetok
+ngetokne
 ngeton
 ngetot
 ngetun
