@@ -11520,6 +11520,7 @@ pelog
 pelu
 peluk
 pema
+pemali
 pemo
 pemu
 pemuda
