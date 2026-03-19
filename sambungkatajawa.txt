@@ -3290,6 +3290,7 @@ ejek
 ejet
 eji
 ejih
+ejik
 ejo
 ejol
 eju
@@ -10576,6 +10577,7 @@ nguyup
 nguyur
 ngwah
 ngwur
+ngyuh
 nha
 ni
 nia
