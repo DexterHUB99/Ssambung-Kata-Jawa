@@ -5981,6 +5981,7 @@ iwaki
 iwakku
 iwakmu
 iwakna
+iwakne
 iwal
 iwan
 iwang
@@ -11615,6 +11616,7 @@ oraa
 orabisa
 orae
 orah
+orahan
 orai
 oraiso
 orak
