@@ -672,6 +672,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -9921,7 +9922,6 @@ ngeloh
 ngelok
 ngelon
 ngeloni
-ngelonte
 ngelor
 ngelotok
 ngelu
@@ -13933,6 +13933,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
