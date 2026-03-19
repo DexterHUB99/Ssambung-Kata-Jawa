@@ -1294,6 +1294,7 @@ arwa
 arwah
 arwana
 arya
+aryani
 as
 asa
 asaan
@@ -1648,6 +1649,7 @@ babar
 babat
 babe
 babi
+babik
 babon
 babu
 babuk
@@ -1716,6 +1718,7 @@ balai
 balak
 balan
 balang
+balangan
 balap
 balas
 bale
@@ -2130,6 +2133,7 @@ bop
 bopo
 bor
 borak
+bori
 boring
 boro
 borok
@@ -3248,6 +3252,7 @@ egak
 egang
 egar
 ege
+egel
 eger
 egi
 egil
@@ -3653,7 +3658,6 @@ engel
 enggal
 enggale
 enggan
-enggane
 enggar
 enggeh
 enggih
@@ -3923,7 +3927,6 @@ esun
 et
 eta
 etad
-etag
 etah
 etak
 etal
@@ -4274,6 +4277,7 @@ gari
 garian
 garik
 garing
+garip
 garis
 garisan
 garise
@@ -4774,6 +4778,7 @@ gugup
 gugur
 guguran
 gugus
+gujeng
 gul
 gula
 gulai
@@ -5174,7 +5179,6 @@ hobi
 hoe
 hoh
 hoha
-hohe
 hohi
 hoho
 hoi
@@ -5722,6 +5726,7 @@ irasa
 irasan
 irat
 irawa
+irawe
 iren
 ireng
 irenge
@@ -5847,6 +5852,7 @@ isoma
 isone
 isoo
 isor
+isowa
 isra
 isri
 istana
@@ -6689,6 +6695,7 @@ kawus
 kaya
 kayaa
 kayak
+kayam
 kayane
 kayangan
 kayata
@@ -7581,7 +7588,6 @@ lakna
 lakon
 lakoni
 laku
-lalagu
 lalak
 lalang
 lalar
@@ -9730,6 +9736,7 @@ ngaret
 ngari
 ngarik
 ngaring
+ngaris
 ngarit
 ngaro
 ngarot
@@ -9925,7 +9932,6 @@ ngeloh
 ngelok
 ngelon
 ngeloni
-ngelonte
 ngelor
 ngelotok
 ngelu
@@ -11582,6 +11588,7 @@ oyok
 oyot
 oz
 pa
+paala
 paalu
 pacar
 pace
@@ -11964,6 +11971,7 @@ perek
 perempuan
 peri
 perih
+perkasa
 perlu
 permisi
 pero
@@ -12634,7 +12642,6 @@ rapung
 rapus
 rara
 raram
-rarambut
 rarampung
 rarang
 raras
@@ -12921,6 +12928,7 @@ rih
 riha
 rihan
 rihi
+rii
 riing
 rik
 rika
@@ -13544,6 +13552,7 @@ saur
 sauri
 saut
 sawa
+sawae
 sawah
 sawak
 sawal
@@ -13847,6 +13856,7 @@ sila
 silah
 silai
 silaka
+silake
 silam
 silan
 sile
@@ -14294,6 +14304,7 @@ tabak
 tabi
 tabib
 tabir
+tablo
 tabok
 tabuh
 tabung
@@ -14933,7 +14944,6 @@ uban
 ubanan
 ubane
 ubang
-ubar
 ubarampe
 ube
 ubek
@@ -15045,6 +15055,7 @@ ujaran
 ujare
 ujarku
 ujarmu
+ujawa
 uji
 ujia
 ujian
@@ -15592,6 +15603,7 @@ utawi
 utawo
 ute
 utek
+utekan
 uteke
 utekmu
 utekmui
@@ -15645,6 +15657,7 @@ ux
 uy
 uya
 uyah
+uyawa
 uye
 uyel
 uyi
