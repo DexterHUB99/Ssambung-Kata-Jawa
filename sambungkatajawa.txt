@@ -15424,6 +15424,7 @@ usma
 usna
 uso
 usra
+usrek
 ust
 usta
 ustadz
