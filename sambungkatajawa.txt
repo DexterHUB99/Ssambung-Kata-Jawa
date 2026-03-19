@@ -3604,6 +3604,7 @@ endik
 endika
 endine
 endog
+endoge
 endol
 endong
 endorse
