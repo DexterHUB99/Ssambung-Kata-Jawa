@@ -875,6 +875,7 @@ angan
 angap
 angar
 angaran
+angas
 angat
 ange
 angel
@@ -3529,6 +3530,7 @@ embok
 embong
 embonge
 embuh
+embuhan
 embuhe
 embun
 embunan
