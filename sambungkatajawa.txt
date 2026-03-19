@@ -1739,6 +1739,7 @@ bata
 batak
 batal
 batang
+bathi
 bathuk
 bati
 batik
