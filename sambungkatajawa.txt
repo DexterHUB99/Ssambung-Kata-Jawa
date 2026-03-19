@@ -3275,6 +3275,7 @@ ehod
 ehoh
 ehok
 ehol
+ehom
 ehon
 ehop
 ehor
@@ -15048,6 +15049,7 @@ ulo
 uloe
 ulomo
 ulomu
+uloo
 ulu
 uluk
 ulula
