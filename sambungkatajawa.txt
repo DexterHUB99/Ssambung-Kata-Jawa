@@ -310,6 +310,7 @@ ajai
 ajak
 ajal
 ajam
+ajan
 ajane
 ajang
 ajange
@@ -6975,6 +6976,7 @@ ketoke
 keton
 ketoprak
 ketos
+ketoto
 ketua
 ketuk
 ketum
