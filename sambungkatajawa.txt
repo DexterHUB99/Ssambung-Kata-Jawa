@@ -1023,7 +1023,6 @@ anol
 anom
 anoman
 anon
-anone
 anop
 anor
 anos
@@ -2458,6 +2457,7 @@ ciken
 ciki
 ciku
 cikur
+cil
 cila
 cilacap
 cilaka
@@ -5535,6 +5535,7 @@ imala
 imam
 imame
 iman
+imane
 imani
 imar
 imas
@@ -6474,7 +6475,6 @@ kancil
 kancing
 kancut
 kanda
-kandane
 kandang
 kandani
 kandas
@@ -9809,7 +9809,6 @@ ngaten
 ngati
 ngatin
 ngatok
-ngatol
 ngatos
 ngatri
 ngatu
@@ -10885,6 +10884,7 @@ nodol
 nogel
 noh
 nok
+noka
 noke
 noken
 noki
