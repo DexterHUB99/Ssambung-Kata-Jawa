@@ -7501,6 +7501,7 @@ langsep
 langsing
 langu
 lani
+lanjak
 lanjur
 lanjut
 lano
