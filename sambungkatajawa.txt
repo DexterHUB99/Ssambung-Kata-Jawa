@@ -2027,7 +2027,6 @@ bokong
 bokonge
 bol
 bola
-bolah
 bole
 boleh
 boli
@@ -2587,6 +2586,7 @@ damen
 dami
 dampak
 dampal
+dampeng
 damping
 dampit
 damput
@@ -5569,6 +5569,7 @@ iringan
 iringane
 iringi
 irip
+irira
 irirah
 iris
 irisan
@@ -8223,7 +8224,6 @@ matam
 matamu
 matan
 matane
-matang
 matara
 mate
 matek
@@ -8246,7 +8246,6 @@ mawah
 mawang
 mawar
 mawas
-mawe
 mawis
 mawon
 maya
@@ -12198,6 +12197,7 @@ ramene
 rames
 ramesan
 rami
+ramii
 ramis
 ramla
 ramo
@@ -14658,7 +14658,6 @@ ukarane
 ukari
 ukarna
 ukas
-ukasa
 ukasan
 uke
 ukek
