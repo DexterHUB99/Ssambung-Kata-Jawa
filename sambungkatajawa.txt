@@ -10025,6 +10025,7 @@ ngeleg
 ngeleh
 ngelek
 ngelem
+ngelembur
 ngeleng
 ngeler
 ngeles
