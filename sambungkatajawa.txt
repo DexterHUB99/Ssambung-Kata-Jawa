@@ -672,7 +672,6 @@ amia
 amie
 amih
 amik
-amiko
 amil
 amim
 amin
@@ -3654,6 +3653,7 @@ engel
 enggal
 enggale
 enggan
+enggane
 enggar
 enggeh
 enggih
@@ -4371,7 +4371,6 @@ geh
 gei
 gek
 geki
-geku
 gel
 gela
 gelak
@@ -4955,7 +4954,6 @@ hancuren
 hane
 hang
 hangat
-hange
 hanget
 hangka
 hangwo
@@ -9924,6 +9922,7 @@ ngeloh
 ngelok
 ngelon
 ngeloni
+ngelonte
 ngelor
 ngelotok
 ngelu
@@ -12632,6 +12631,7 @@ rapung
 rapus
 rara
 raram
+rarambut
 rarampung
 rarang
 raras
@@ -13935,7 +13935,6 @@ sisih
 sisik
 sisil
 sisir
-sisiran
 siska
 siso
 sisu
