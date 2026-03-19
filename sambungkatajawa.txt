@@ -4588,7 +4588,6 @@ gogolek
 gogong
 gogrok
 gojek
-gojeka
 gojekan
 gojlok
 gok
@@ -8069,7 +8068,6 @@ lunga
 lungguh
 lunging
 lungkrah
-lunglai
 lungo
 lungsur
 luni
@@ -14723,6 +14721,7 @@ tutuk
 tutup
 tutupi
 tutur
+tuturan
 tuturane
 tuturi
 tuwa
@@ -15103,6 +15102,7 @@ unes
 unesa
 ung
 unga
+ungar
 ungaran
 unggah
 unggal
