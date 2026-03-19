@@ -2545,6 +2545,7 @@ dadakan
 dadali
 dadam
 dadan
+dadane
 dadang
 dadar
 dadi
@@ -11273,6 +11274,7 @@ osut
 ot
 otah
 otak
+otake
 otakmu
 otek
 otik
