@@ -5372,6 +5372,7 @@ ikoo
 ikoro
 ikrar
 iku
+ikua
 ikue
 ikui
 ikuku
