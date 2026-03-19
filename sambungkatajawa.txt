@@ -5825,6 +5825,7 @@ isak
 isaku
 isam
 isan
+isani
 isao
 isap
 isapa
@@ -13811,6 +13812,7 @@ semen
 semene
 semeru
 semi
+semit
 semo
 semok
 semot
