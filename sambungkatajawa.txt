@@ -3249,7 +3249,6 @@ ehep
 eher
 ehes
 ehet
-ehew
 ehey
 ehi
 ehid
@@ -4111,7 +4110,6 @@ gambir
 gambiran
 gambleh
 gambreng
-gambret
 gambuh
 gambung
 gambut
@@ -7660,7 +7658,6 @@ lawan
 lawang
 lawas
 lawe
-laweh
 lawer
 lawet
 lawi
@@ -10645,7 +10642,6 @@ nimi
 nimo
 nimpal
 nimpali
-nimu
 nimun
 nin
 nina
@@ -11877,7 +11873,6 @@ piagam
 piala
 piama
 pian
-pianak
 piano
 piara
 piatu
@@ -13325,7 +13320,6 @@ sao
 saos
 sap
 sapa
-sapai
 sape
 sapeh
 sapen
@@ -13889,7 +13883,6 @@ sona
 sone
 song
 songket
-songkok
 songo
 songong
 soni
@@ -15900,7 +15893,6 @@ yanyo
 yao
 yaora
 yap
-yapan
 yapi
 yaping
 yapo
@@ -15937,7 +15929,6 @@ yeni
 yeno
 yep
 yepa
-yepi
 yeping
 yepo
 yer
