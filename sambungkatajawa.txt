@@ -14077,6 +14077,7 @@ soket
 soki
 sokin
 soklat
+sokle
 soko
 sokor
 sol
