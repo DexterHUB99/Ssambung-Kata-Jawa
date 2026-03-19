@@ -5322,6 +5322,7 @@ idku
 idma
 ido
 idri
+idro
 idu
 iduladha
 idulfitri
