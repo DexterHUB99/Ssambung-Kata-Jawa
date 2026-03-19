@@ -2129,7 +2129,6 @@ bop
 bopo
 bor
 borak
-bori
 boring
 boro
 borok
@@ -5842,7 +5841,6 @@ isoma
 isone
 isoo
 isor
-isowa
 isra
 isri
 istana
@@ -9722,7 +9720,6 @@ ngaret
 ngari
 ngarik
 ngaring
-ngaris
 ngarit
 ngaro
 ngarot
