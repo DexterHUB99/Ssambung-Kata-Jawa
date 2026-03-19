@@ -5542,6 +5542,7 @@ irip
 irirah
 iris
 irisan
+irisane
 irisen
 irit
 iroh
