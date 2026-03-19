@@ -6283,6 +6283,7 @@ karanganyar
 karat
 karawang
 karawitan
+karbit
 kare
 karek
 karem
@@ -9735,6 +9736,7 @@ ngetna
 ngetok
 ngeton
 ngetot
+ngetun
 ngetung
 ngewa
 ngewangi
