@@ -168,6 +168,7 @@ agni
 ago
 agok
 agor
+agos
 agu
 aguh
 agun
@@ -1326,7 +1327,6 @@ asar
 asas
 asasa
 asat
-asaw
 asay
 ase
 aseh
@@ -1426,7 +1426,6 @@ atan
 atana
 atang
 atap
-atape
 atar
 atara
 atas
@@ -4727,7 +4726,6 @@ gondhol
 gondo
 gondok
 gondol
-gondola
 gondolan
 gondolmu
 gondrong
@@ -10758,6 +10756,7 @@ ngusu
 ngusung
 ngusungi
 ngususi
+ngusut
 ngut
 nguta
 ngutang
@@ -14738,7 +14737,6 @@ teten
 tetep
 tetes
 teuing
-teyeng
 tha
 thole
 ti
@@ -15439,7 +15437,6 @@ ungkapan
 ungkara
 ungkas
 ungkasan
-ungkeb
 ungkel
 ungker
 ungkir
@@ -16169,7 +16166,6 @@ yakan
 yake
 yaki
 yakin
-yako
 yaku
 yakue
 yala
