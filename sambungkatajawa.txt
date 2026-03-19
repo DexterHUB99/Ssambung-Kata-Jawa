@@ -7585,6 +7585,7 @@ leme
 lemek
 lemes
 lemet
+lemi
 lemot
 lempeng
 lemper
@@ -8112,6 +8113,7 @@ mandeng
 mandhek
 mandi
 mandiri
+mandol
 mandraguna
 mandu
 manduk
@@ -12922,7 +12924,6 @@ saiku
 saing
 sair
 sairan
-saisa
 saja
 sajadah
 sajak
@@ -15453,7 +15454,6 @@ wibu
 wicak
 wicaksana
 wicara
-widan
 widana
 widara
 widep
