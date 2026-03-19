@@ -3468,6 +3468,7 @@ emam
 eman
 emanan
 emane
+emanen
 emang
 emar
 emas
@@ -15539,6 +15540,7 @@ uud
 uv
 uw
 uwa
+uwane
 uwe
 uwes
 uwi
