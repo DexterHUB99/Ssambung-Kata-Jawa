@@ -8081,6 +8081,7 @@ lobange
 lober
 lobi
 lobok
+locak
 lodeh
 lodhang
 lodhok
@@ -9079,6 +9080,7 @@ nahan
 nahar
 nahas
 nahi
+nahkoda
 nai
 naik
 naika
@@ -10871,6 +10873,7 @@ nining
 ninio
 ninja
 nino
+ninung
 nio
 nip
 nipa
@@ -12916,6 +12919,7 @@ rembangan
 rembat
 rembes
 rembet
+rembi
 rembug
 rembuk
 rembukan
@@ -13306,6 +13310,7 @@ rupo
 rupomu
 rupone
 rura
+rure
 ruri
 ruro
 rus
