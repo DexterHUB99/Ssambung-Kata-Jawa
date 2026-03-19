@@ -615,6 +615,7 @@ ambigu
 ambii
 ambik
 ambil
+ambilno
 ambing
 ambles
 ambo
@@ -15847,6 +15848,7 @@ yusi
 yuso
 yusri
 yuswa
+yuswo
 yut
 yuta
 yuti
