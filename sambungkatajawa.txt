@@ -672,6 +672,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -1294,7 +1295,6 @@ arwa
 arwah
 arwana
 arya
-aryani
 as
 asa
 asaan
@@ -1717,7 +1717,6 @@ balai
 balak
 balan
 balang
-balangan
 balap
 balas
 bale
@@ -4274,7 +4273,6 @@ gari
 garian
 garik
 garing
-garip
 garis
 garisan
 garise
@@ -4373,6 +4371,7 @@ geh
 gei
 gek
 geki
+geku
 gel
 gela
 gelak
@@ -4956,6 +4955,7 @@ hancuren
 hane
 hang
 hangat
+hange
 hanget
 hangka
 hangwo
@@ -11580,7 +11580,6 @@ oyok
 oyot
 oz
 pa
-paala
 paalu
 pacar
 pace
@@ -13936,6 +13935,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
@@ -14292,7 +14292,6 @@ tabak
 tabi
 tabib
 tabir
-tablo
 tabok
 tabuh
 tabung
