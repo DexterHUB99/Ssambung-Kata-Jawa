@@ -4073,6 +4073,7 @@ ganjar
 ganjaran
 ganjel
 ganjil
+ganjur
 gano
 ganong
 ganta
@@ -9599,6 +9600,7 @@ ngedek
 ngeden
 ngedeni
 ngedol
+ngee
 ngeeh
 ngegak
 ngegame
