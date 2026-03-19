@@ -3601,6 +3601,7 @@ enthen
 entheng
 enthok
 enthol
+enthong
 entir
 entit
 entoh
