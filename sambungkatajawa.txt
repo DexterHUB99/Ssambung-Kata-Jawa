@@ -521,7 +521,6 @@ alif
 alih
 alihan
 alik
-alika
 alim
 alima
 alin
@@ -5850,7 +5849,6 @@ iyu
 iyub
 iyuh
 iyuk
-iyul
 iyung
 iyuran
 iyut
@@ -6008,7 +6006,6 @@ jenang
 jeneng
 jenengan
 jenenge
-jenengmu
 jeng
 jenggot
 jengkal
@@ -6780,7 +6777,6 @@ kemutan
 ken
 kena
 kenak
-kenan
 kenang
 kenanga
 kenapa
@@ -9184,6 +9180,7 @@ neka
 nekad
 nekane
 nekani
+nekar
 nekat
 neke
 neken
@@ -12015,6 +12012,7 @@ pites
 piti
 pitik
 piting
+pitok
 piton
 pitrah
 pitu
@@ -13647,7 +13645,6 @@ sian
 siap
 siapa
 siapan
-siapno
 siapo
 siasu
 sibat
@@ -14301,7 +14298,6 @@ tawon
 tawur
 tawuran
 taya
-tayi
 tayo
 tayub
 te
@@ -14477,7 +14473,6 @@ timah
 timan
 timang
 timba
-timbak
 timbal
 timbali
 timbang
@@ -15970,7 +15965,6 @@ yosi
 yota
 yotan
 yoto
-yotoh
 yotro
 yowe
 yowes
