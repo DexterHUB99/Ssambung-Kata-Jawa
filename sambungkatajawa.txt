@@ -9979,6 +9979,7 @@ ngeanu
 ngebaki
 ngebang
 ngebas
+ngebet
 ngebo
 ngebor
 ngebul
@@ -13041,6 +13042,7 @@ rentang
 renteng
 rentetan
 renung
+renyah
 reo
 reog
 rep
