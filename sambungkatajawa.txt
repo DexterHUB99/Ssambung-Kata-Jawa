@@ -3782,6 +3782,7 @@ entoh
 entok
 entoke
 entoko
+entol
 entong
 entu
 entuk
