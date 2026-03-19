@@ -14176,6 +14176,7 @@ telenan
 telepon
 teles
 teli
+telih
 telinga
 teliti
 telo
