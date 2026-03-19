@@ -2920,6 +2920,7 @@ dimar
 dimari
 dimas
 dimasuki
+dime
 dimek
 dimi
 dimna
@@ -8601,6 +8602,7 @@ mes
 mesake
 mese
 mesem
+meses
 mesin
 meski
 meso
@@ -9033,6 +9035,7 @@ naliku
 nalina
 nalo
 nalu
+nalung
 nalur
 naluri
 nam
