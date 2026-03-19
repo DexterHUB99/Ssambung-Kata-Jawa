@@ -7471,7 +7471,6 @@ krida
 kridha
 krikil
 kripik
-kroya
 krucil
 krungu
 krupuk
@@ -9157,6 +9156,7 @@ nak
 naka
 nakal
 nakalan
+nakale
 naker
 nakes
 naki
