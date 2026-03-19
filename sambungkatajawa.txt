@@ -672,7 +672,6 @@ amia
 amie
 amih
 amik
-amiko
 amil
 amim
 amin
@@ -1202,6 +1201,7 @@ araning
 arap
 arar
 arara
+ararang
 aras
 arasen
 arat
@@ -3426,7 +3426,6 @@ elang
 elap
 elar
 elas
-elat
 ele
 eleh
 elek
@@ -3660,6 +3659,7 @@ engel
 enggal
 enggale
 enggan
+enggane
 enggar
 enggeh
 enggih
@@ -3929,6 +3929,7 @@ esun
 et
 eta
 etad
+etag
 etah
 etak
 etal
@@ -4378,7 +4379,6 @@ geh
 gei
 gek
 geki
-geku
 gel
 gela
 gelak
@@ -4963,7 +4963,6 @@ hancuren
 hane
 hang
 hangat
-hange
 hanget
 hangka
 hangwo
@@ -5183,6 +5182,7 @@ hobi
 hoe
 hoh
 hoha
+hohe
 hohi
 hoho
 hoi
@@ -7592,7 +7592,9 @@ lakna
 lakon
 lakoni
 laku
+lalagu
 lalak
+lalali
 lalang
 lalar
 lalat
@@ -9936,6 +9938,7 @@ ngeloh
 ngelok
 ngelon
 ngeloni
+ngelonte
 ngelor
 ngelotok
 ngelu
@@ -10852,7 +10855,6 @@ nmi
 nn
 nna
 nnaliko
-nnama
 nnan
 nnapa
 nngawi
@@ -12647,6 +12649,7 @@ rapung
 rapus
 rara
 raram
+rarambut
 rarampung
 rarang
 raras
@@ -13953,7 +13956,6 @@ sisih
 sisik
 sisil
 sisir
-sisiran
 siska
 siso
 sisu
@@ -14950,6 +14952,7 @@ uban
 ubanan
 ubane
 ubang
+ubar
 ubarampe
 ube
 ubek
