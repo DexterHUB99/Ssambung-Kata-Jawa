@@ -3861,6 +3861,7 @@ famu
 fan
 fana
 fani
+fase
 fasih
 fikir
 film
@@ -12444,6 +12445,7 @@ respati
 resti
 restu
 ret
+reta
 retak
 retan
 reti
