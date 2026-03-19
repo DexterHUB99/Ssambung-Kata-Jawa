@@ -3104,7 +3104,6 @@ eboh
 ebol
 ebor
 ebu
-ebun
 ec
 eca
 ecah
@@ -3128,7 +3127,6 @@ edas
 ede
 eden
 eder
-edes
 edi
 edin
 edit
@@ -6652,6 +6650,7 @@ kemalan
 keman
 kemang
 kemangi
+kemar
 kemaren
 kemari
 kemarin
@@ -7807,6 +7806,7 @@ loa
 loan
 lob
 loba
+loban
 lobang
 lobange
 lober
@@ -9611,7 +9611,6 @@ ngeanu
 ngebaki
 ngebang
 ngebas
-ngebet
 ngebo
 ngebor
 ngebul
@@ -14753,7 +14752,6 @@ ukka
 ukki
 ukko
 ukla
-ukli
 ukma
 ukmi
 ukmo
