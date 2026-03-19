@@ -3216,6 +3216,7 @@ edanan
 edane
 edankowe
 edantenan
+edanwa
 edar
 edaran
 edas
@@ -13529,6 +13530,7 @@ saung
 saur
 sauri
 saut
+sawa
 sawah
 sawak
 sawal
