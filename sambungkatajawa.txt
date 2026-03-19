@@ -4588,7 +4588,6 @@ gogolek
 gogong
 gogrok
 gojek
-gojeka
 gojekan
 gojlok
 gok
@@ -14407,6 +14406,7 @@ terbang
 tere
 teren
 teri
+terik
 terima
 terlihat
 terna
