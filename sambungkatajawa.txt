@@ -5759,6 +5759,7 @@ ja
 jab
 jabang
 jabar
+jacok
 jadi
 jadul
 jae
@@ -9600,6 +9601,7 @@ ngekok
 ngekos
 ngel
 ngela
+ngeladeni
 ngelag
 ngelak
 ngelakoni
@@ -15214,6 +15216,7 @@ vaksin
 via
 vila
 visa
+visi
 voli
 wa
 waa
