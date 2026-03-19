@@ -1294,6 +1294,7 @@ arwa
 arwah
 arwana
 arya
+aryani
 as
 asa
 asaan
@@ -1648,7 +1649,6 @@ babar
 babat
 babe
 babi
-babik
 babon
 babu
 babuk
@@ -2131,7 +2131,6 @@ bop
 bopo
 bor
 borak
-bori
 boring
 boro
 borok
@@ -5846,7 +5845,6 @@ isoma
 isone
 isoo
 isor
-isowa
 isra
 isri
 istana
@@ -9729,7 +9727,6 @@ ngaret
 ngari
 ngarik
 ngaring
-ngaris
 ngarit
 ngaro
 ngarot
@@ -11581,6 +11578,7 @@ oyok
 oyot
 oz
 pa
+paala
 paalu
 pacar
 pace
@@ -11963,7 +11961,6 @@ perek
 perempuan
 peri
 perih
-perkasa
 perlu
 permisi
 pero
@@ -12920,7 +12917,6 @@ rih
 riha
 rihan
 rihi
-rii
 riing
 rik
 rika
@@ -15044,7 +15040,6 @@ ujaran
 ujare
 ujarku
 ujarmu
-ujawa
 uji
 ujia
 ujian
@@ -15645,7 +15640,6 @@ ux
 uy
 uya
 uyah
-uyawa
 uye
 uyel
 uyi
