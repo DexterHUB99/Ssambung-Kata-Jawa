@@ -149,6 +149,7 @@ ager
 ages
 agi
 agih
+agik
 agil
 agin
 agit
