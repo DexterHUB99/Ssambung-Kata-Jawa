@@ -2937,6 +2937,7 @@ disel
 disi
 disik
 disini
+disiram
 disisi
 disit
 diso
@@ -3749,6 +3750,7 @@ erem
 eren
 ereng
 erep
+erer
 ereruh
 eres
 eret
