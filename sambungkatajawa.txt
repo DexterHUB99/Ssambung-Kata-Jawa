@@ -5572,6 +5572,7 @@ ipel
 ipen
 iper
 ipes
+iphi
 ipi
 ipik
 ipil
@@ -10898,6 +10899,7 @@ nyocot
 nyogok
 nyolek
 nyolong
+nyoman
 nyomot
 nyong
 nyuci
@@ -12385,6 +12387,7 @@ rapake
 rapapa
 rapat
 rape
+rapel
 rapet
 rapi
 rapia
@@ -13162,6 +13165,7 @@ sampol
 sampul
 sampun
 sampur
+sampura
 sampurna
 samu
 samudra
