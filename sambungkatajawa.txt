@@ -3670,6 +3670,7 @@ entas
 ente
 entee
 entek
+entekan
 entekno
 enteng
 entenge
