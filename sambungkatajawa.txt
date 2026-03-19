@@ -1294,7 +1294,6 @@ arwa
 arwah
 arwana
 arya
-aryani
 as
 asa
 asaan
@@ -1717,7 +1716,6 @@ balai
 balak
 balan
 balang
-balangan
 balap
 balas
 bale
@@ -3655,6 +3653,7 @@ engel
 enggal
 enggale
 enggan
+enggane
 enggar
 enggeh
 enggih
@@ -3924,6 +3923,7 @@ esun
 et
 eta
 etad
+etag
 etah
 etak
 etal
@@ -4274,7 +4274,6 @@ gari
 garian
 garik
 garing
-garip
 garis
 garisan
 garise
@@ -5175,6 +5174,7 @@ hobi
 hoe
 hoh
 hoha
+hohe
 hohi
 hoho
 hoi
@@ -7581,6 +7581,7 @@ lakna
 lakon
 lakoni
 laku
+lalagu
 lalak
 lalang
 lalar
@@ -9924,6 +9925,7 @@ ngeloh
 ngelok
 ngelon
 ngeloni
+ngelonte
 ngelor
 ngelotok
 ngelu
@@ -11580,7 +11582,6 @@ oyok
 oyot
 oz
 pa
-paala
 paalu
 pacar
 pace
@@ -12633,6 +12634,7 @@ rapung
 rapus
 rara
 raram
+rarambut
 rarampung
 rarang
 raras
@@ -14292,7 +14294,6 @@ tabak
 tabi
 tabib
 tabir
-tablo
 tabok
 tabuh
 tabung
@@ -14932,6 +14933,7 @@ uban
 ubanan
 ubane
 ubang
+ubar
 ubarampe
 ube
 ubek
@@ -15590,7 +15592,6 @@ utawi
 utawo
 ute
 utek
-utekan
 uteke
 utekmu
 utekmui
