@@ -2762,6 +2762,7 @@ dikon
 dikongkon
 dikontol
 diku
+dikum
 dil
 dila
 dilah
@@ -5060,7 +5061,6 @@ hus
 husa
 huse
 husen
-husi
 husna
 husne
 husuk
@@ -7875,7 +7875,6 @@ lura
 lurah
 luri
 lurik
-luring
 luru
 luruh
 lurui
@@ -9237,7 +9236,6 @@ nganak
 nganam
 nganan
 ngancani
-ngancil
 ngancing
 ngandai
 ngandang
@@ -11236,6 +11234,7 @@ palu
 paluh
 palung
 palur
+pama
 pamah
 pamahan
 pamali
