@@ -11555,6 +11555,7 @@ ori
 orian
 orie
 oring
+oris
 orit
 orog
 orok
