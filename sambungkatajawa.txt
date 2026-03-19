@@ -1449,6 +1449,7 @@ atri
 atu
 atua
 atuh
+atui
 atuk
 atul
 atum
@@ -2779,6 +2780,7 @@ diamana
 diamput
 diana
 diancok
+diane
 diangsang
 dianu
 diarani
@@ -5491,6 +5493,7 @@ indang
 indek
 inden
 indeng
+inder
 indhang
 indhik
 indik
@@ -10438,6 +10441,7 @@ nguntung
 ngunu
 ngunung
 ngunut
+ngunuwi
 ngup
 ngupah
 ngupahi
@@ -11915,6 +11919,7 @@ pio
 pipi
 pipik
 pipil
+pipin
 pipipis
 pipis
 pipit
@@ -14076,6 +14081,7 @@ tahan
 tahi
 tahlil
 tahlilan
+taho
 tahta
 tahu
 tahubulat
@@ -15838,6 +15844,7 @@ yeno
 yep
 yepa
 yeping
+yepo
 yer
 yere
 yero
@@ -15902,6 +15909,7 @@ yosi
 yota
 yotan
 yoto
+yotro
 yowe
 yowes
 yowis
