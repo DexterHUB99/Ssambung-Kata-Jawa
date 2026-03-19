@@ -2094,6 +2094,7 @@ bito
 bitu
 biu
 biwa
+biya
 biyen
 biyu
 biyung
@@ -9368,6 +9369,7 @@ ndelok
 nderek
 ndeso
 ndherek
+ndhuk
 ndlogok
 ndlosor
 ndoro
