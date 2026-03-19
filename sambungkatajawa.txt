@@ -1254,7 +1254,6 @@ artos
 aru
 arud
 arue
-arugan
 aruh
 aruk
 arul
@@ -13102,7 +13101,6 @@ sadi
 sadina
 sadis
 sadulur
-sadurunge
 sadus
 sadya
 sae
