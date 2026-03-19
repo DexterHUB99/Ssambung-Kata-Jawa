@@ -10935,6 +10935,7 @@ nunggal
 nunggang
 nunggoni
 nunggu
+nungkak
 nungu
 nuni
 nuning
@@ -11142,6 +11143,7 @@ ojik
 ojil
 ojo
 ojoe
+ojoen
 ojok
 ojol
 ojolali
