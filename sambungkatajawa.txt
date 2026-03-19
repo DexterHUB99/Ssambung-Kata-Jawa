@@ -3119,6 +3119,7 @@ ebe
 ebeg
 ebek
 eben
+eber
 ebes
 ebew
 ebi
@@ -5572,7 +5573,6 @@ ipel
 ipen
 iper
 ipes
-iphi
 ipi
 ipik
 ipil
@@ -6052,6 +6052,7 @@ jodho
 jodo
 jodoh
 jodone
+jogan
 joged
 jogja
 joglo
@@ -6942,7 +6943,6 @@ ketum
 ketumbar
 ketup
 ketupat
-keturon
 keturunan
 ketus
 ketut
@@ -8640,6 +8640,7 @@ mos
 mosa
 mose
 mosen
+moses
 mosi
 mosing
 mosoh
@@ -9006,6 +9007,7 @@ narine
 narkoba
 narma
 naro
+narsa
 narsis
 naru
 naruh
@@ -9311,6 +9313,7 @@ ngagem
 ngago
 ngagok
 ngagung
+ngagur
 ngah
 ngahad
 ngail
@@ -10900,7 +10903,6 @@ nyocot
 nyogok
 nyolek
 nyolong
-nyoman
 nyomot
 nyong
 nyuci
@@ -12388,7 +12390,6 @@ rapake
 rapapa
 rapat
 rape
-rapel
 rapet
 rapi
 rapia
@@ -13166,7 +13167,6 @@ sampol
 sampul
 sampun
 sampur
-sampura
 sampurna
 samu
 samudra
