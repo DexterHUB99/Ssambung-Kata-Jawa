@@ -1047,6 +1047,7 @@ ansur
 ansuran
 anta
 antah
+antaka
 antam
 antang
 antangen
@@ -8843,6 +8844,7 @@ miri
 miring
 mirip
 miris
+mirna
 miro
 mirsa
 mirsani
