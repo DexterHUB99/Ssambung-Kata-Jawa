@@ -2027,6 +2027,7 @@ bokong
 bokonge
 bol
 bola
+bolah
 bole
 boleh
 boli
@@ -14655,6 +14656,7 @@ ukarane
 ukari
 ukarna
 ukas
+ukasa
 ukasan
 uke
 ukek
