@@ -672,6 +672,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -1648,7 +1649,6 @@ babar
 babat
 babe
 babi
-babik
 babon
 babu
 babuk
@@ -2131,7 +2131,6 @@ bop
 bopo
 bor
 borak
-bori
 boring
 boro
 borok
@@ -5846,7 +5845,6 @@ isoma
 isone
 isoo
 isor
-isowa
 isra
 isri
 istana
@@ -9729,7 +9727,6 @@ ngaret
 ngari
 ngarik
 ngaring
-ngaris
 ngarit
 ngaro
 ngarot
@@ -11963,7 +11960,6 @@ perek
 perempuan
 peri
 perih
-perkasa
 perlu
 permisi
 pero
@@ -13937,6 +13933,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
@@ -15043,7 +15040,6 @@ ujaran
 ujare
 ujarku
 ujarmu
-ujawa
 uji
 ujia
 ujian
@@ -15644,7 +15640,6 @@ ux
 uy
 uya
 uyah
-uyawa
 uye
 uyel
 uyi
