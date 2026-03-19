@@ -10937,6 +10937,7 @@ ogah
 ogahe
 ogak
 ogal
+ogan
 oge
 ogek
 oger
@@ -12661,6 +12662,7 @@ rihi
 riing
 rik
 rika
+rikai
 rikala
 rikan
 rikat
@@ -14973,6 +14975,7 @@ undanga
 undangan
 undar
 undeg
+undha
 undhak
 undhakan
 undhi
