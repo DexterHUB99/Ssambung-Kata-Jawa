@@ -2202,6 +2202,7 @@ bugil
 bugis
 buh
 bui
+bujan
 bujang
 bujangan
 bujo
@@ -2996,7 +2997,6 @@ diran
 direng
 direwangi
 diri
-diro
 diru
 dirum
 dirumah
@@ -6935,7 +6935,6 @@ kenen
 kenese
 kenetel
 keng
-kenggo
 kengken
 keni
 kenil
@@ -9082,7 +9081,6 @@ nakalan
 naker
 nakes
 naki
-nakik
 nako
 nakoe
 nakoki
@@ -13674,7 +13672,6 @@ sebut
 seda
 sedan
 sedang
-sedasa
 sedaya
 sedeng
 sedereng
