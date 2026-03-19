@@ -1108,6 +1108,7 @@ apak
 apal
 apala
 apalan
+apale
 apalen
 apam
 apameneh
@@ -1170,6 +1171,7 @@ ar
 ara
 araa
 arab
+arabe
 araen
 arah
 arahan
@@ -1827,6 +1829,7 @@ bebek
 beber
 bebi
 bebo
+bebrayan
 becak
 becek
 becik
