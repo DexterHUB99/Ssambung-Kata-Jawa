@@ -2129,6 +2129,7 @@ bop
 bopo
 bor
 borak
+bori
 boring
 boro
 borok
@@ -5841,6 +5842,7 @@ isoma
 isone
 isoo
 isor
+isowa
 isra
 isri
 istana
@@ -7741,7 +7743,6 @@ lawer
 lawet
 lawi
 lawih
-lawon
 lawu
 lawuh
 layah
@@ -9721,6 +9722,7 @@ ngaret
 ngari
 ngarik
 ngaring
+ngaris
 ngarit
 ngaro
 ngarot
@@ -13927,7 +13929,6 @@ sisih
 sisik
 sisil
 sisir
-sisiran
 siska
 siso
 sisu
@@ -15034,6 +15035,7 @@ ujaran
 ujare
 ujarku
 ujarmu
+ujawa
 uji
 ujia
 ujian
@@ -15634,6 +15636,7 @@ ux
 uy
 uya
 uyah
+uyawa
 uye
 uyel
 uyi
