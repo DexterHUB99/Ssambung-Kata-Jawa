@@ -1580,7 +1580,6 @@ ayal
 ayalan
 ayam
 ayaman
-ayamgoreng
 ayamne
 ayan
 ayana
@@ -6723,6 +6722,7 @@ kejam
 kejawi
 kejedot
 kejer
+kejut
 kek
 keka
 kekal
@@ -7032,7 +7032,6 @@ ketel
 ketela
 ketemu
 keter
-ketes
 kethek
 kethok
 keti
@@ -8441,7 +8440,6 @@ masne
 maso
 masta
 masu
-masuh
 masuk
 masyarakat
 mat
@@ -9486,7 +9484,6 @@ ngaka
 ngakak
 ngakal
 ngakali
-ngakang
 ngakar
 ngakeh
 ngakir
@@ -10076,6 +10073,7 @@ ngetot
 ngetun
 ngetung
 ngewa
+ngewang
 ngewangi
 ngewarnai
 ngewe
@@ -13431,7 +13429,6 @@ sapo
 saponi
 sapu
 sapun
-sapune
 sapura
 saput
 saputra
