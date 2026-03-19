@@ -7037,6 +7037,7 @@ kertos
 kerudung
 keruh
 keruhan
+keruk
 kerung
 kerupuk
 kerut
