@@ -1436,6 +1436,7 @@ atatas
 atati
 ataw
 atawa
+atay
 ate
 ateh
 atek
@@ -3319,6 +3320,7 @@ ehet
 ehew
 ehey
 ehi
+ehib
 ehid
 ehif
 ehij
@@ -6791,7 +6793,6 @@ kek
 keka
 kekal
 kekampung
-kekar
 keke
 kekek
 kekel
@@ -10240,6 +10241,7 @@ ngguyu
 ngguyue
 ngguyur
 ngibadah
+ngibar
 ngiber
 ngibing
 ngibrit
@@ -12070,6 +12072,7 @@ pethuk
 peti
 petik
 petruk
+petung
 pewa
 pewe
 peye
