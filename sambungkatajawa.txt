@@ -2934,7 +2934,6 @@ dingapunten
 dinggo
 dingin
 dingklik
-dingkluk
 dini
 dino
 dinoe
@@ -4786,7 +4785,6 @@ gun
 guna
 gunae
 gunake
-gunane
 gunawa
 gundah
 gundam
@@ -7654,6 +7652,7 @@ lanti
 lanting
 lantip
 lantun
+lantunan
 lantur
 lanyah
 laos
@@ -9045,7 +9044,6 @@ nambani
 nambel
 nambeli
 nambi
-nambuh
 name
 namen
 nami
@@ -10670,6 +10668,7 @@ nian
 niba
 nie
 nien
+nigan
 niha
 nihi
 nii
@@ -12586,7 +12585,6 @@ rapuh
 rapung
 rapus
 rara
-raram
 rarampung
 rarang
 raras
@@ -13482,7 +13480,6 @@ sata
 satai
 sate
 sati
-satir
 satitik
 satria
 satru
@@ -15904,6 +15901,7 @@ woho
 woi
 wok
 woke
+woki
 woko
 wol
 wola
