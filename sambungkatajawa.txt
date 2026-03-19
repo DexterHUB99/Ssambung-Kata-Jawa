@@ -2633,6 +2633,7 @@ dayang
 dayo
 dayu
 de
+debit
 debok
 dedak
 dede
@@ -8678,6 +8679,7 @@ nada
 nadah
 nadahi
 nadar
+nadha
 nadhah
 nadi
 nadia
@@ -13717,6 +13719,7 @@ sun
 suna
 sunan
 sunat
+sunatan
 sunda
 sundal
 sundala
