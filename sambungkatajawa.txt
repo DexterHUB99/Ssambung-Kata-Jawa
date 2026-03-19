@@ -87,7 +87,6 @@ adegan
 adeh
 adek
 adeking
-adel
 adem
 aden
 adena
@@ -1635,7 +1634,6 @@ ayoa
 ayoe
 ayoh
 ayok
-ayom
 ayon
 ayone
 ayu
@@ -2394,7 +2392,6 @@ cawik
 cawir
 cawis
 cawuk
-cayi
 ce
 ceblok
 cebok
@@ -4983,7 +4980,6 @@ hambawa
 hambok
 hambur
 hambura
-hamburan
 hame
 hamel
 hamen
@@ -13929,7 +13925,6 @@ setaun
 setel
 setengah
 seti
-setor
 setrika
 setunggal
 sewa
