@@ -2110,7 +2110,6 @@ bodi
 bodo
 bodoh
 bodok
-boga
 bogel
 bogem
 bogo
@@ -8366,7 +8365,6 @@ makan
 makana
 makanan
 makane
-makani
 makanne
 make
 maki
@@ -15329,6 +15327,7 @@ ulala
 ulam
 ulama
 ulan
+ulana
 ulang
 ulanga
 ulangan
