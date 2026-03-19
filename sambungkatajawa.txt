@@ -9871,6 +9871,7 @@ ngatu
 ngatuk
 ngatur
 ngaturaken
+ngature
 ngaturi
 ngaturno
 ngaub
@@ -13807,6 +13808,7 @@ semen
 semene
 semeru
 semi
+semit
 semo
 semok
 semot
