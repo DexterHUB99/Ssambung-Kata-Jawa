@@ -5890,7 +5890,6 @@ jawo
 jawoh
 jawuh
 jaya
-jaye
 je
 jeblos
 jeda
@@ -8072,7 +8071,6 @@ maku
 mal
 mala
 malah
-malai
 malak
 malam
 malan
@@ -12588,6 +12586,7 @@ rien
 rih
 riha
 rihan
+rihi
 riing
 rik
 rika
@@ -15086,7 +15085,6 @@ urta
 uru
 urua
 urub
-urui
 uruk
 urukan
 urun
