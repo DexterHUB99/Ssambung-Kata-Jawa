@@ -6398,6 +6398,7 @@ kasus
 kasut
 kat
 kata
+katae
 katah
 katai
 katak
