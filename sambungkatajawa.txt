@@ -10161,6 +10161,7 @@ ngosing
 ngosip
 ngosoh
 ngosok
+ngosoki
 ngosong
 ngosor
 ngotak
