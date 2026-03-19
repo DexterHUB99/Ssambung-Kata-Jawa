@@ -194,7 +194,6 @@ ahaw
 ahay
 ahe
 ahed
-aheg
 aheh
 ahej
 ahek
@@ -672,6 +671,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -3902,7 +3902,6 @@ esil
 esim
 esin
 esir
-esmambo
 eso
 esoe
 esoh
@@ -5632,7 +5631,6 @@ ingki
 ingko
 ingkol
 ingkrik
-ingku
 ingkung
 ingo
 ingong
@@ -6341,7 +6339,6 @@ kakanda
 kakang
 kakap
 kakas
-kakat
 kake
 kakehan
 kakek
@@ -7198,7 +7195,6 @@ klom
 klontong
 klu
 klumah
-klumpuk
 kluruk
 kluwih
 kntl
@@ -13932,6 +13928,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
