@@ -9910,6 +9910,7 @@ ngatau
 ngate
 ngatel
 ngateli
+ngatemi
 ngaten
 ngati
 ngatin
