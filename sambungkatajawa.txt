@@ -825,7 +825,6 @@ andheg
 andhegan
 andheng
 andhep
-andhi
 andhikane
 andhong
 andi
@@ -2137,6 +2136,7 @@ buat
 buaya
 bub
 bubar
+bubaran
 bubor
 bubrah
 bubu
@@ -2841,7 +2841,6 @@ diguna
 diham
 dihan
 diimboh
-diisi
 dija
 dijak
 dijalan
@@ -4120,6 +4119,7 @@ gamber
 gambir
 gambiran
 gambleh
+gamblong
 gambreng
 gambret
 gambuh
@@ -7248,7 +7248,6 @@ korem
 koren
 koreng
 korengan
-koreo
 koret
 kori
 korok
@@ -11261,6 +11260,7 @@ omongan
 omongane
 omonge
 omongo
+omoo
 ompak
 ompol
 ompole
@@ -12334,7 +12334,6 @@ raen
 raga
 ragad
 ragam
-ragane
 ragangan
 ragas
 ragat
@@ -13950,6 +13949,7 @@ soti
 soto
 sowan
 soyo
+soyoo
 sragen
 srawung
 sregep
