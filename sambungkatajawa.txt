@@ -1451,6 +1451,7 @@ atek
 atel
 atem
 atema
+ateman
 atemi
 aten
 atena
