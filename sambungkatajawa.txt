@@ -10897,6 +10897,7 @@ nyocot
 nyogok
 nyolek
 nyolong
+nyoman
 nyomot
 nyong
 nyuci
@@ -13161,6 +13162,7 @@ sampol
 sampul
 sampun
 sampur
+sampura
 sampurna
 samu
 samudra
@@ -15333,7 +15335,6 @@ utowo
 utra
 utri
 utu
-utua
 utuh
 utumu
 utus
