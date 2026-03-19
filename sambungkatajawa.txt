@@ -1072,6 +1072,7 @@ anune
 anung
 anup
 anur
+anuran
 anus
 anut
 anyam
@@ -1254,7 +1255,6 @@ artos
 aru
 arud
 arue
-arugan
 aruh
 aruk
 arul
@@ -13102,7 +13102,6 @@ sadi
 sadina
 sadis
 sadulur
-sadurunge
 sadus
 sadya
 sae
