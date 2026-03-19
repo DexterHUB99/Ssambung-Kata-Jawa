@@ -3276,6 +3276,7 @@ edaran
 edas
 ede
 eden
+edep
 eder
 edi
 edin
@@ -13097,6 +13098,7 @@ reti
 rewa
 rewang
 rewangan
+rewe
 rewel
 rewo
 reya
