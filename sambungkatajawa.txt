@@ -29,6 +29,7 @@ abil
 abin
 abir
 abis
+abit
 abo
 aboh
 abon
@@ -504,6 +505,7 @@ alie
 alien
 alif
 alih
+alihan
 alik
 alim
 alima
@@ -739,6 +741,7 @@ anandong
 anane
 anang
 ananging
+ananing
 ananjing
 ananti
 anap
@@ -1991,6 +1994,7 @@ blereng
 blewah
 bo
 boba
+bobi
 bobo
 bobok
 bobot
@@ -2886,7 +2890,6 @@ ditampol
 diten
 ditilep
 ditulung
-ditup
 ditutup
 diwa
 diwak
@@ -3896,6 +3899,7 @@ flora
 fo
 fokus
 foto
+frustasi
 fulus
 fungsi
 ga
@@ -6039,6 +6043,7 @@ jun
 juna
 june
 jungkat
+jungkir
 juni
 junub
 jupuk
@@ -7779,7 +7784,6 @@ loke
 loken
 loki
 loko
-loku
 lola
 lole
 loli
@@ -9152,6 +9156,7 @@ ngaco
 ngacok
 ngacung
 ngada
+ngadai
 ngadan
 ngadang
 ngade
@@ -10817,6 +10822,7 @@ og
 ogah
 ogahe
 ogak
+ogal
 oge
 ogek
 oger
@@ -11065,6 +11071,7 @@ opar
 opat
 opel
 open
+opene
 openi
 oper
 opera
@@ -11232,6 +11239,7 @@ padasan
 padha
 padhang
 padil
+padon
 pados
 padu
 paduka
@@ -12847,6 +12855,7 @@ sadi
 sadina
 sadis
 sadulur
+sadus
 sadya
 sae
 saeno
@@ -12912,7 +12921,6 @@ saku
 sakun
 sakur
 sakura
-sakut
 sal
 sala
 salae
@@ -13225,6 +13233,7 @@ selar
 selas
 selasa
 selatan
+selawas
 selawe
 sele
 seleh
@@ -13818,6 +13827,7 @@ susup
 susyu
 sut
 suta
+sutan
 sute
 suti
 sutil
@@ -14346,6 +14356,7 @@ towo
 toxic
 toya
 trah
+trancam
 trenggalek
 tresna
 tresno
@@ -14733,6 +14744,7 @@ umahe
 umai
 umaira
 umak
+umal
 umami
 uman
 umar
@@ -15460,6 +15472,7 @@ wiwa
 wiwi
 wiwit
 wiwitan
+wiwiwi
 wiwo
 wiye
 wo
