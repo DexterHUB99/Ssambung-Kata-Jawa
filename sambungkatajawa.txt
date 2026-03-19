@@ -1343,6 +1343,7 @@ asem
 aseme
 asemen
 asemi
+asemne
 asen
 aseng
 asep
