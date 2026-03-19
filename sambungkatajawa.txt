@@ -45,7 +45,6 @@ abul
 abuy
 ac
 aca
-acab
 acak
 acan
 acap
@@ -1437,7 +1436,6 @@ atatas
 atati
 ataw
 atawa
-atay
 ate
 ateh
 atek
@@ -3321,7 +3319,6 @@ ehet
 ehew
 ehey
 ehi
-ehib
 ehid
 ehif
 ehij
@@ -6585,7 +6582,6 @@ kareng
 karep
 karepe
 karepem
-karepku
 karepmu
 karepo
 kares
@@ -10245,7 +10241,6 @@ ngguyu
 ngguyue
 ngguyur
 ngibadah
-ngibar
 ngiber
 ngibing
 ngibrit
@@ -12076,7 +12071,6 @@ pethuk
 peti
 petik
 petruk
-petung
 pewa
 pewe
 peye
@@ -16162,6 +16156,7 @@ yakan
 yake
 yaki
 yakin
+yako
 yaku
 yakue
 yala
