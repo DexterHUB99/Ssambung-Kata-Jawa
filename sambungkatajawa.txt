@@ -969,6 +969,7 @@ anjine
 anjing
 anjingi
 anjining
+anjino
 anjir
 anjlog
 anjlok
@@ -1401,6 +1402,7 @@ atena
 atene
 atep
 ater
+aterma
 ates
 atesan
 atet
@@ -6092,7 +6094,6 @@ jujur
 jule
 juli
 juluk
-julukna
 jumat
 jumblah
 jumeneng
@@ -6173,7 +6174,6 @@ kagem
 kaget
 kagungan
 kagus
-kahan
 kahanan
 kail
 kaila
@@ -9233,7 +9233,6 @@ ngabal
 ngabang
 ngabar
 ngabari
-ngabdi
 ngabehi
 ngabekti
 ngaben
@@ -10006,6 +10005,7 @@ ngila
 ngilag
 ngilam
 ngilang
+ngilangi
 ngilat
 ngilekne
 ngiler
@@ -10940,6 +10940,7 @@ ogah
 ogahe
 ogak
 ogal
+ogan
 oge
 ogek
 oger
@@ -14976,6 +14977,7 @@ undanga
 undangan
 undar
 undeg
+undha
 undhak
 undhakan
 undhi
