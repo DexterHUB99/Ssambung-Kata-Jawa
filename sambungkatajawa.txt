@@ -9235,7 +9235,6 @@ nganak
 nganam
 nganan
 ngancani
-ngancil
 ngancing
 ngandai
 ngandang
@@ -11234,6 +11233,7 @@ palu
 paluh
 palung
 palur
+pama
 pamah
 pamahan
 pamali
