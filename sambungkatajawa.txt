@@ -1902,6 +1902,7 @@ bela
 belah
 belajar
 belakang
+belalang
 belan
 belang
 belanja
@@ -3456,6 +3457,7 @@ elif
 elig
 elih
 elik
+elim
 elin
 eline
 eling
