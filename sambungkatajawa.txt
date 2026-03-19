@@ -11690,6 +11690,7 @@ pakem
 pakir
 pakle
 paklik
+pakmu
 pakon
 pakpuh
 paku
