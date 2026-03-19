@@ -1624,6 +1624,7 @@ ayone
 ayu
 ayub
 ayuh
+ayuha
 ayuj
 ayuk
 ayum
@@ -3216,6 +3217,7 @@ edanan
 edane
 edankowe
 edantenan
+edanwa
 edar
 edaran
 edas
@@ -7739,7 +7741,6 @@ lawer
 lawet
 lawi
 lawih
-lawon
 lawu
 lawuh
 layah
@@ -8974,6 +8975,7 @@ nadhah
 nadi
 nadia
 nadine
+nado
 nadyan
 nae
 naek
@@ -10241,6 +10243,7 @@ ngindak
 ngindang
 nginep
 nging
+nginget
 nginggil
 nginggo
 ngingi
@@ -13528,6 +13531,7 @@ saung
 saur
 sauri
 saut
+sawa
 sawah
 sawak
 sawal
@@ -13950,6 +13954,7 @@ slametan
 slawi
 sleman
 slendang
+slimut
 sliramu
 so
 soale
@@ -14954,6 +14959,7 @@ udang
 udangan
 udange
 udani
+udanwa
 udar
 udara
 udari
@@ -15527,6 +15533,7 @@ usta
 ustadz
 ustadzah
 usu
+usua
 usui
 usuk
 usul
@@ -15947,6 +15954,7 @@ woko
 wol
 wola
 wolak
+wole
 wolo
 wolu
 womo
