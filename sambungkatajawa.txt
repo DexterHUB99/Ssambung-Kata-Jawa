@@ -5863,6 +5863,7 @@ ismu
 isna
 isni
 iso
+isoan
 isoe
 isok
 isoke
