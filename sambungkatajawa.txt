@@ -672,6 +672,7 @@ amia
 amie
 amih
 amik
+amiko
 amil
 amim
 amin
@@ -3425,6 +3426,7 @@ elang
 elap
 elar
 elas
+elat
 ele
 eleh
 elek
@@ -4376,6 +4378,7 @@ geh
 gei
 gek
 geki
+geku
 gel
 gela
 gelak
@@ -4960,6 +4963,7 @@ hancuren
 hane
 hang
 hangat
+hange
 hanget
 hangka
 hangwo
@@ -10848,6 +10852,7 @@ nmi
 nn
 nna
 nnaliko
+nnama
 nnan
 nnapa
 nngawi
@@ -13948,6 +13953,7 @@ sisih
 sisik
 sisil
 sisir
+sisiran
 siska
 siso
 sisu
