@@ -5756,6 +5756,7 @@ iz
 ja
 jab
 jabang
+jabar
 jadi
 jadul
 jae
@@ -9126,6 +9127,7 @@ nesuan
 nesune
 net
 neta
+netal
 netan
 netas
 nete
