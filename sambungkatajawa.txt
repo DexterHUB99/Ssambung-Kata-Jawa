@@ -15952,6 +15952,7 @@ woko
 wol
 wola
 wolak
+wole
 wolo
 wolu
 womo
