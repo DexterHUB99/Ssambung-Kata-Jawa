@@ -672,7 +672,6 @@ amia
 amie
 amih
 amik
-amiko
 amil
 amim
 amin
@@ -1295,6 +1294,7 @@ arwa
 arwah
 arwana
 arya
+aryani
 as
 asa
 asaan
@@ -1649,6 +1649,7 @@ babar
 babat
 babe
 babi
+babik
 babon
 babu
 babuk
@@ -1717,6 +1718,7 @@ balai
 balak
 balan
 balang
+balangan
 balap
 balas
 bale
@@ -2131,6 +2133,7 @@ bop
 bopo
 bor
 borak
+bori
 boring
 boro
 borok
@@ -3249,6 +3252,7 @@ egak
 egang
 egar
 ege
+egel
 eger
 egi
 egil
@@ -4273,6 +4277,7 @@ gari
 garian
 garik
 garing
+garip
 garis
 garisan
 garise
@@ -4371,7 +4376,6 @@ geh
 gei
 gek
 geki
-geku
 gel
 gela
 gelak
@@ -4774,6 +4778,7 @@ gugup
 gugur
 guguran
 gugus
+gujeng
 gul
 gula
 gulai
@@ -4955,7 +4960,6 @@ hancuren
 hane
 hang
 hangat
-hange
 hanget
 hangka
 hangwo
@@ -5722,6 +5726,7 @@ irasa
 irasan
 irat
 irawa
+irawe
 iren
 ireng
 irenge
@@ -5847,6 +5852,7 @@ isoma
 isone
 isoo
 isor
+isowa
 isra
 isri
 istana
@@ -6689,6 +6695,7 @@ kawus
 kaya
 kayaa
 kayak
+kayam
 kayane
 kayangan
 kayata
@@ -9729,6 +9736,7 @@ ngaret
 ngari
 ngarik
 ngaring
+ngaris
 ngarit
 ngaro
 ngarot
@@ -11580,6 +11588,7 @@ oyok
 oyot
 oz
 pa
+paala
 paalu
 pacar
 pace
@@ -11962,6 +11971,7 @@ perek
 perempuan
 peri
 perih
+perkasa
 perlu
 permisi
 pero
@@ -12918,6 +12928,7 @@ rih
 riha
 rihan
 rihi
+rii
 riing
 rik
 rika
@@ -13541,6 +13552,7 @@ saur
 sauri
 saut
 sawa
+sawae
 sawah
 sawak
 sawal
@@ -13844,6 +13856,7 @@ sila
 silah
 silai
 silaka
+silake
 silam
 silan
 sile
@@ -13935,7 +13948,6 @@ sisih
 sisik
 sisil
 sisir
-sisiran
 siska
 siso
 sisu
@@ -15042,6 +15054,7 @@ ujaran
 ujare
 ujarku
 ujarmu
+ujawa
 uji
 ujia
 ujian
@@ -15642,6 +15655,7 @@ ux
 uy
 uya
 uyah
+uyawa
 uye
 uyel
 uyi
