@@ -3374,6 +3374,7 @@ ektika
 eku
 ekuk
 ekul
+ekum
 ekun
 ekur
 ekus
@@ -14235,6 +14236,7 @@ tako
 takon
 takoni
 takono
+taksi
 taksih
 taku
 takung
@@ -15319,6 +15321,7 @@ urakan
 urakane
 ural
 uram
+urama
 uran
 urang
 urap
