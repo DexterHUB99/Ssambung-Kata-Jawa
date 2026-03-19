@@ -9448,6 +9448,7 @@ nekeni
 neker
 neki
 neko
+nekor
 nel
 nela
 nelah
@@ -16313,6 +16314,7 @@ yaman
 yamen
 yami
 yamna
+yamu
 yan
 yana
 yang
