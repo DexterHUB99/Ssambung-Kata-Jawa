@@ -5573,6 +5573,7 @@ ipel
 ipen
 iper
 ipes
+iphi
 ipi
 ipik
 ipil
@@ -6943,6 +6944,7 @@ ketum
 ketumbar
 ketup
 ketupat
+keturon
 keturunan
 ketus
 ketut
@@ -10903,6 +10905,7 @@ nyocot
 nyogok
 nyolek
 nyolong
+nyoman
 nyomot
 nyong
 nyuci
@@ -12390,6 +12393,7 @@ rapake
 rapapa
 rapat
 rape
+rapel
 rapet
 rapi
 rapia
@@ -13167,6 +13171,7 @@ sampol
 sampul
 sampun
 sampur
+sampura
 sampurna
 samu
 samudra
@@ -13554,6 +13559,7 @@ sewa
 sewek
 sewelas
 sewer
+sewo
 sewot
 sewu
 sholat
