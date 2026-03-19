@@ -587,6 +587,7 @@ amati
 amay
 amaya
 amba
+ambai
 ambal
 ambalan
 ambar
@@ -5062,7 +5063,6 @@ hus
 husa
 huse
 husen
-husi
 husna
 husne
 husuk
@@ -7489,7 +7489,6 @@ lelabuhan
 lelah
 lele
 leleh
-lelele
 lelembut
 lelene
 lelesen
@@ -7881,7 +7880,6 @@ lura
 lurah
 luri
 lurik
-luring
 luru
 luruh
 lurui
@@ -9070,7 +9068,6 @@ neti
 netra
 netur
 newa
-newek
 ngaba
 ngabab
 ngabal
@@ -9244,7 +9241,6 @@ nganak
 nganam
 nganan
 ngancani
-ngancil
 ngancing
 ngandai
 ngandang
@@ -11571,7 +11567,6 @@ pidana
 pidang
 pidek
 pie
-pigi
 pigun
 pih
 pii
@@ -12316,6 +12311,7 @@ relax
 relem
 reli
 relo
+relok
 relu
 rem
 rema
@@ -12974,7 +12970,6 @@ sapen
 sapi
 sapih
 sapii
-sapinten
 sapir
 sapiro
 sapo
@@ -14467,7 +14462,6 @@ uen
 uf
 ug
 uga
-ugaa
 ugah
 ugahan
 ugal
