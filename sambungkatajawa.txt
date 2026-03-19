@@ -2095,6 +2095,7 @@ biso
 bisu
 bisulan
 bita
+biti
 biting
 bito
 bitu
