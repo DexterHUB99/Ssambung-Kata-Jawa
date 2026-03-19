@@ -1006,7 +1006,6 @@ antep
 anter
 antes
 anti
-antii
 antik
 anting
 anto
@@ -2763,7 +2762,6 @@ dikon
 dikongkon
 dikontol
 diku
-dikum
 dil
 dila
 dilah
@@ -5062,6 +5060,7 @@ hus
 husa
 huse
 husen
+husi
 husna
 husne
 husuk
@@ -5111,7 +5110,6 @@ idemu
 idep
 idepmu
 ider
-idhep
 idhu
 idi
 idia
@@ -6234,7 +6232,6 @@ kanting
 kanto
 kantongan
 kantor
-kantos
 kantun
 kanut
 kanyatane
@@ -7067,7 +7064,6 @@ kraton
 kresna
 kretek
 krida
-kridha
 krikil
 kripik
 krungu
@@ -7488,6 +7484,7 @@ lelabuhan
 lelah
 lele
 leleh
+lelele
 lelembut
 lelene
 lelesen
@@ -7879,6 +7876,7 @@ lura
 lurah
 luri
 lurik
+luring
 luru
 luruh
 lurui
@@ -9067,6 +9065,7 @@ neti
 netra
 netur
 newa
+newek
 ngaba
 ngabab
 ngabal
@@ -9240,6 +9239,7 @@ nganak
 nganam
 nganan
 ngancani
+ngancil
 ngancing
 ngandai
 ngandang
@@ -10437,7 +10437,6 @@ nnggawe
 nnggih
 nnginum
 nngopo
-nngunjuk
 nni
 nnimbang
 nnipo
@@ -11239,7 +11238,6 @@ palu
 paluh
 palung
 palur
-pama
 pamah
 pamahan
 pamali
@@ -11566,6 +11564,7 @@ pidana
 pidang
 pidek
 pie
+pigi
 pigun
 pih
 pii
@@ -12968,6 +12967,7 @@ sapen
 sapi
 sapih
 sapii
+sapinten
 sapir
 sapiro
 sapo
@@ -14460,6 +14460,7 @@ uen
 uf
 ug
 uga
+ugaa
 ugah
 ugahan
 ugal
@@ -14524,7 +14525,6 @@ ukara
 ukaran
 ukarane
 ukari
-ukarna
 ukas
 ukasan
 uke
