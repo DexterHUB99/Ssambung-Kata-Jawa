@@ -6227,6 +6227,7 @@ kabek
 kabel
 kabi
 kabot
+kabotan
 kabul
 kabupaten
 kabur
@@ -7554,6 +7555,7 @@ lambang
 lambar
 lambe
 lambea
+lambee
 lambemu
 lambene
 lambung
