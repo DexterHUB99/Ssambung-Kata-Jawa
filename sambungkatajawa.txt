@@ -2712,6 +2712,7 @@ dasi
 dasu
 data
 date
+dati
 datu
 daun
 dawa
