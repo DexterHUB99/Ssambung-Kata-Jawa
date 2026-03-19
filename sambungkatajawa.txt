@@ -10512,6 +10512,7 @@ ngundur
 ngunem
 ngung
 ngunggah
+ngungi
 ngungkap
 ngungkuli
 nguni
