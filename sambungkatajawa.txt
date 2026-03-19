@@ -3970,6 +3970,7 @@ gairah
 gaja
 gajah
 gajaha
+gajahan
 gaje
 gajelas
 gaji
@@ -13461,6 +13462,7 @@ siasu
 sibat
 sida
 sidang
+sidha
 sidoarjo
 sie
 sien
