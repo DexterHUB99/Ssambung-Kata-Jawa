@@ -2418,6 +2418,7 @@ cempe
 cemplung
 cen
 cendol
+cenek
 cengel
 cengengesan
 cengkeh
