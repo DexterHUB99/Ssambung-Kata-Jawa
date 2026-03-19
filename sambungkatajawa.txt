@@ -7872,6 +7872,7 @@ limat
 limbah
 limbar
 limbuk
+limbukan
 limbung
 limo
 limola
