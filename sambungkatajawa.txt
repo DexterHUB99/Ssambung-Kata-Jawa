@@ -313,7 +313,6 @@ ajay
 aje
 ajeg
 ajek
-ajem
 ajeng
 ajep
 aji
@@ -3398,7 +3397,6 @@ embus
 eme
 emeh
 emek
-emel
 emem
 emen
 emer
@@ -4149,7 +4147,6 @@ gatah
 gatau
 gatel
 gateli
-gatet
 gathel
 gathot
 gati
@@ -5143,6 +5140,7 @@ ico
 icu
 id
 ida
+idahe
 idal
 idam
 idaman
@@ -6133,7 +6131,6 @@ kajeng
 kaji
 kajian
 kajine
-kajut
 kak
 kaka
 kakaa
@@ -6421,6 +6418,7 @@ katai
 katak
 katam
 katan
+katane
 katang
 kate
 kateh
@@ -8518,7 +8516,6 @@ monggo
 mongo
 mongso
 moni
-monitor
 montor
 monyet
 monyong
@@ -9571,7 +9568,6 @@ ngecor
 ngedan
 ngedang
 ngedani
-ngedar
 ngedek
 ngeden
 ngedeni
@@ -9990,7 +9986,6 @@ ngisi
 ngisik
 ngisin
 ngising
-ngisingan
 ngisini
 ngisis
 ngisisng
@@ -11402,6 +11397,7 @@ panir
 panis
 panjaluk
 panjang
+panjange
 panjar
 panjenengan
 panji
@@ -12123,6 +12119,7 @@ rajah
 rajai
 rajak
 rajan
+rajane
 rajang
 rajar
 rajek
@@ -12301,7 +12298,6 @@ rasmo
 raso
 rasta
 rasu
-rasuan
 rasuk
 rasukan
 rasul
@@ -14685,7 +14681,6 @@ ukom
 ukon
 ukop
 ukra
-ukri
 ukro
 ukta
 uku
