@@ -1541,7 +1541,6 @@ awong
 awor
 awu
 awuh
-awui
 awul
 awulo
 awur
@@ -8378,7 +8377,6 @@ matih
 matin
 matio
 matne
-matoh
 matu
 matur
 maturnuwun
@@ -14408,7 +14406,6 @@ terbang
 tere
 teren
 teri
-terik
 terima
 terlihat
 terna
@@ -14724,6 +14721,7 @@ tutuk
 tutup
 tutupi
 tutur
+tuturan
 tuturane
 tuturi
 tuwa
@@ -15104,6 +15102,7 @@ unes
 unesa
 ung
 unga
+ungar
 ungaran
 unggah
 unggal
