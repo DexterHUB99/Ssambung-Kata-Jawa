@@ -5572,6 +5572,7 @@ ipel
 ipen
 iper
 ipes
+iphi
 ipi
 ipik
 ipil
@@ -8638,7 +8639,6 @@ mos
 mosa
 mose
 mosen
-moses
 mosi
 mosing
 mosoh
@@ -9005,7 +9005,6 @@ narine
 narkoba
 narma
 naro
-narsa
 narsis
 naru
 naruh
@@ -10900,6 +10899,7 @@ nyocot
 nyogok
 nyolek
 nyolong
+nyoman
 nyomot
 nyong
 nyuci
@@ -12387,6 +12387,7 @@ rapake
 rapapa
 rapat
 rape
+rapel
 rapet
 rapi
 rapia
@@ -13164,6 +13165,7 @@ sampol
 sampul
 sampun
 sampur
+sampura
 sampurna
 samu
 samudra
