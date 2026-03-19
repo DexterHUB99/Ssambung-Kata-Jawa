@@ -973,6 +973,7 @@ anil
 anim
 anin
 aning
+anir
 anis
 anisa
 anisha
@@ -1023,6 +1024,7 @@ anol
 anom
 anoman
 anon
+anone
 anop
 anor
 anos
@@ -2857,7 +2859,6 @@ dibawa
 dibo
 dida
 didak
-didamel
 dideso
 didi
 didik
@@ -6474,6 +6475,7 @@ kancil
 kancing
 kancut
 kanda
+kandane
 kandang
 kandani
 kandas
@@ -9808,6 +9810,7 @@ ngaten
 ngati
 ngatin
 ngatok
+ngatol
 ngatos
 ngatri
 ngatu
@@ -10281,7 +10284,6 @@ ngingi
 ngingkang
 ngini
 nginjak
-nginjek
 nginjuk
 ngino
 nginsing
