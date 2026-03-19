@@ -268,7 +268,6 @@ ail
 aila
 ailan
 aile
-ailem
 ailen
 aili
 ailing
@@ -799,6 +798,7 @@ andha
 andhaan
 andhana
 andhap
+andhapan
 andharan
 andhe
 andheg
@@ -2982,6 +2982,7 @@ dowe
 dowo
 doyan
 doyo
+doyong
 du
 dubur
 ducok
@@ -3969,6 +3970,7 @@ gairah
 gaja
 gajah
 gajaha
+gajahan
 gaje
 gajelas
 gaji
@@ -4292,6 +4294,7 @@ gemo
 gempa
 gempal
 gempar
+gempil
 gempol
 gemu
 gemuk
@@ -6742,7 +6745,6 @@ kepet
 kepi
 kepie
 kepik
-kepilih
 kepincut
 kepiting
 kepiye
@@ -6999,6 +7001,7 @@ klontong
 klu
 klumah
 kluruk
+kluwih
 kntl
 ko
 kobel
@@ -7736,7 +7739,6 @@ lipan
 lipas
 lipase
 lipat
-lipate
 lipe
 lipen
 lipet
@@ -9326,6 +9328,7 @@ ngampas
 ngampel
 ngamper
 ngampet
+ngampi
 ngampih
 ngampil
 ngampir
@@ -11569,6 +11572,7 @@ pegat
 pegel
 pegi
 pei
+peing
 pejah
 peju
 pek
@@ -12326,7 +12330,6 @@ rasi
 rasih
 rasik
 rasim
-rasin
 rasing
 rasis
 raski
@@ -12374,6 +12377,7 @@ rawan
 rawang
 rawani
 rawao
+rawas
 rawat
 rawe
 raweh
@@ -13310,6 +13314,7 @@ selot
 sem
 semak
 semalam
+semampir
 semana
 semangka
 semangkok
@@ -13457,6 +13462,7 @@ siasu
 sibat
 sida
 sidang
+sidha
 sidoarjo
 sie
 sien
