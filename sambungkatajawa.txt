@@ -6591,6 +6591,7 @@ kawit
 kawitan
 kawok
 kawruh
+kawul
 kawula
 kawulan
 kawung
@@ -13392,6 +13393,7 @@ sawijining
 sawise
 sawit
 sawo
+sawoh
 saya
 sayah
 sayak
