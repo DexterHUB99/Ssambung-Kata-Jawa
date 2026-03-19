@@ -798,6 +798,7 @@ andha
 andhaan
 andhana
 andhap
+andhapan
 andharan
 andhe
 andheg
@@ -2981,6 +2982,7 @@ dowe
 dowo
 doyan
 doyo
+doyong
 du
 dubur
 ducok
@@ -4291,6 +4293,7 @@ gemo
 gempa
 gempal
 gempar
+gempil
 gempol
 gemu
 gemuk
@@ -6997,6 +7000,7 @@ klontong
 klu
 klumah
 kluruk
+kluwih
 kntl
 ko
 kobel
@@ -11566,6 +11570,7 @@ pegat
 pegel
 pegi
 pei
+peing
 pejah
 peju
 pek
@@ -12370,6 +12375,7 @@ rawan
 rawang
 rawani
 rawao
+rawas
 rawat
 rawe
 raweh
@@ -13306,6 +13312,7 @@ selot
 sem
 semak
 semalam
+semampir
 semana
 semangka
 semangkok
