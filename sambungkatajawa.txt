@@ -29,6 +29,7 @@ abil
 abin
 abir
 abis
+abit
 abo
 aboh
 abon
@@ -3894,6 +3895,7 @@ flora
 fo
 fokus
 foto
+frustasi
 fulus
 fungsi
 ga
@@ -5785,7 +5787,6 @@ jama
 jamal
 jaman
 jamane
-jamban
 jambe
 jamber
 jambi
@@ -14339,6 +14340,7 @@ towo
 toxic
 toya
 trah
+trancam
 trenggalek
 tresna
 tresno
@@ -15453,6 +15455,7 @@ wiwa
 wiwi
 wiwit
 wiwitan
+wiwiwi
 wiwo
 wiye
 wo
