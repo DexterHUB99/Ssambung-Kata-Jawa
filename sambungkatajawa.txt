@@ -798,7 +798,6 @@ andha
 andhaan
 andhana
 andhap
-andhapan
 andharan
 andhe
 andheg
@@ -4074,6 +4073,7 @@ ganjar
 ganjaran
 ganjel
 ganjil
+ganjur
 gano
 ganong
 ganta
@@ -6997,7 +6997,6 @@ klontong
 klu
 klumah
 kluruk
-kluwih
 kntl
 ko
 kobel
@@ -9601,6 +9600,7 @@ ngedek
 ngeden
 ngedeni
 ngedol
+ngee
 ngeeh
 ngegak
 ngegame
@@ -12370,7 +12370,6 @@ rawan
 rawang
 rawani
 rawao
-rawas
 rawat
 rawe
 raweh
@@ -13307,7 +13306,6 @@ selot
 sem
 semak
 semalam
-semampir
 semana
 semangka
 semangkok
@@ -15699,6 +15697,7 @@ yocak
 yodi
 yoe
 yoga
+yogo
 yogya
 yogyakarta
 yoh
