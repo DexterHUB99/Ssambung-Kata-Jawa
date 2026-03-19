@@ -2077,6 +2077,7 @@ biting
 bito
 bitu
 biu
+biwa
 biyen
 biyu
 biyung
@@ -13855,6 +13856,7 @@ sesap
 sesat
 sese
 sesek
+seser
 seset
 sesi
 sesok
