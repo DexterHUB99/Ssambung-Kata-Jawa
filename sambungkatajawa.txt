@@ -11003,6 +11003,7 @@ nose
 nosi
 not
 nota
+note
 noti
 noya
 noyan
@@ -13810,7 +13811,6 @@ semen
 semene
 semeru
 semi
-semit
 semo
 semok
 semot
