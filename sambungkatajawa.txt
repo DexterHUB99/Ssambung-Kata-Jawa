@@ -5264,6 +5264,7 @@ ica
 ical
 ican
 icip
+icir
 ico
 icu
 id
