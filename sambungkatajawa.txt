@@ -12048,6 +12048,7 @@ pateni
 pater
 pati
 patih
+patil
 patimah
 patin
 patis
@@ -14898,6 +14899,7 @@ tibo
 tigan
 tik
 tika
+tikan
 tikar
 tiki
 tiktok
