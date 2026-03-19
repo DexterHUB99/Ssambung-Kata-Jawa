@@ -3573,6 +3573,7 @@ enaken
 enako
 enal
 enam
+ename
 enan
 enang
 enap
@@ -4867,6 +4868,7 @@ haii
 hajar
 hajat
 haji
+hajie
 hajien
 hajimi
 hak
