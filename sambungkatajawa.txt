@@ -7390,7 +7390,6 @@ kwali
 kwe
 kyai
 la
-laapa
 lab
 laba
 labas
@@ -9392,7 +9391,6 @@ ngambil
 ngambing
 ngambruk
 ngambu
-ngambuh
 ngambul
 ngambung
 ngame
