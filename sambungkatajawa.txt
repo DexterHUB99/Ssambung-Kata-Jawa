@@ -10223,6 +10223,7 @@ ngidal
 ngidam
 ngidang
 ngidek
+ngiden
 ngider
 ngidu
 ngidui
