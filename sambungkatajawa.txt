@@ -6250,6 +6250,7 @@ kalok
 kalon
 kalong
 kalor
+kalori
 kaluhur
 kalung
 kalurahan
@@ -7005,6 +7006,7 @@ kisa
 kisan
 kisanak
 kise
+kisen
 kisi
 kit
 kita
