@@ -7820,6 +7820,7 @@ lebur
 lecek
 lecet
 lee
+leg
 lega
 legawa
 legi
