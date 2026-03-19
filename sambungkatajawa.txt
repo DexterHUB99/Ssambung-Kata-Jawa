@@ -10529,7 +10529,6 @@ ngucap
 ngucek
 ngucir
 ngucuk
-ngudal
 ngudan
 ngudang
 ngudar
