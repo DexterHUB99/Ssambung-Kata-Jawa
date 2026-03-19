@@ -5550,6 +5550,7 @@ ilaono
 ilap
 ilar
 ilas
+ilasa
 ilat
 ilate
 ilatmu
@@ -10041,6 +10042,7 @@ ngelar
 ngelas
 ngelawak
 ngelawan
+ngelayap
 ngele
 ngelebok
 ngeleg
