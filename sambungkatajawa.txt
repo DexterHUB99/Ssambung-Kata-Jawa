@@ -8377,7 +8377,6 @@ matih
 matin
 matio
 matne
-matoh
 matu
 matur
 maturnuwun
@@ -14407,7 +14406,6 @@ terbang
 tere
 teren
 teri
-terik
 terima
 terlihat
 terna
@@ -14723,6 +14721,7 @@ tutuk
 tutup
 tutupi
 tutur
+tuturan
 tuturane
 tuturi
 tuwa
