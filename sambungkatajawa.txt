@@ -9601,6 +9601,7 @@ ngekok
 ngekos
 ngel
 ngela
+ngeladeni
 ngelag
 ngelak
 ngelakoni
@@ -15215,6 +15216,7 @@ vaksin
 via
 vila
 visa
+visi
 voli
 wa
 waa
