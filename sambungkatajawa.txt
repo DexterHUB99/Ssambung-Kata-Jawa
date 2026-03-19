@@ -7551,6 +7551,7 @@ kurna
 kuro
 kursi
 kursii
+kursine
 kuru
 kurung
 kurus
@@ -13805,7 +13806,6 @@ semen
 semene
 semeru
 semi
-semit
 semo
 semok
 semot
