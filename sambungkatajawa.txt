@@ -3563,6 +3563,7 @@ embunan
 embung
 embus
 eme
+emeg
 emeh
 emek
 emel
@@ -6534,6 +6535,7 @@ kangelan
 kangen
 kangge
 kanggeh
+kanggih
 kanggo
 kanggone
 kangi
