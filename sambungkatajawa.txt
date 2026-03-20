@@ -12054,6 +12054,7 @@ pal
 pala
 palah
 palak
+palalo
 palamu
 palane
 palang
@@ -12064,6 +12065,7 @@ paleng
 pali
 palik
 paling
+palinga
 palingan
 palip
 palir
