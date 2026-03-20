@@ -15018,6 +15018,7 @@ tampar
 tampi
 tampol
 tamu
+tamui
 tan
 tana
 tanah
