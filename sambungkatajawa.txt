@@ -10049,6 +10049,7 @@ ngakeh
 ngaki
 ngakir
 ngakon
+ngakoni
 ngaktau
 ngaku
 ngal
@@ -11291,6 +11292,7 @@ ngusir
 ngusu
 ngusung
 ngusungi
+ngusur
 ngususi
 ngusut
 ngut
