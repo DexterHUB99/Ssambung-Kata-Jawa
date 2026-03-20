@@ -8940,6 +8940,7 @@ memen
 memetu
 men
 mena
+menak
 menawa
 menawi
 mencolot
@@ -14686,6 +14687,7 @@ sosa
 sose
 sosi
 sosiji
+sosing
 sosis
 sosmed
 sosok
