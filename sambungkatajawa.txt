@@ -16072,6 +16072,7 @@ upak
 upaku
 upam
 upama
+upamane
 upami
 upan
 upane
@@ -16129,6 +16130,7 @@ uras
 urasa
 urat
 uratan
+urawi
 ure
 urek
 urem
