@@ -8650,6 +8650,7 @@ makana
 makanan
 makane
 makanne
+makat
 make
 maki
 makiya
@@ -15177,6 +15178,7 @@ teh
 teja
 tek
 teka
+tekad
 tekan
 tekane
 teke
