@@ -2924,6 +2924,7 @@ demi
 demit
 demo
 demok
+demokrasi
 dempul
 demu
 demung
@@ -3411,6 +3412,7 @@ egil
 ego
 egois
 egok
+egon
 egor
 egos
 egrang
