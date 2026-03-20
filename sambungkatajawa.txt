@@ -2532,6 +2532,7 @@ celi
 celo
 celuk
 cemani
+cemara
 cemen
 cemeng
 cempe
@@ -10169,6 +10170,7 @@ nganteni
 nganter
 nganteri
 nganterke
+ngantes
 nganthi
 nganti
 ngantien
