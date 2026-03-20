@@ -10940,6 +10940,7 @@ ngosok
 ngosoki
 ngosong
 ngosor
+ngot
 ngotak
 ngoti
 ngotor
@@ -13830,6 +13831,7 @@ sadar
 sadaro
 sade
 sadel
+sadereng
 sadewa
 sadi
 sadina
@@ -15326,6 +15328,7 @@ tinemu
 tingal
 tinggal
 tingkah
+tingkahe
 tingkat
 tini
 tinju
