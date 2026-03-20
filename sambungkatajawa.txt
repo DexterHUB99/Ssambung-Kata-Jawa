@@ -5493,6 +5493,7 @@ idemu
 idep
 idepmu
 ider
+idha
 idhep
 idhu
 idi
