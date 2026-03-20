@@ -2521,6 +2521,7 @@ cicite
 cicu
 cidak
 cidek
+cidra
 ciduk
 cihuy
 cik
@@ -2954,7 +2955,6 @@ digo
 diguna
 diham
 dihan
-dihari
 diimboh
 diisi
 dija
@@ -6511,7 +6511,6 @@ kakam
 kakanda
 kakang
 kakap
-kakar
 kakas
 kakat
 kake
@@ -8113,6 +8112,7 @@ lim
 lima
 limaa
 limae
+limai
 limalas
 liman
 limang
