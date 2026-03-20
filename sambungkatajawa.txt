@@ -6225,6 +6225,7 @@ iz
 ja
 jaa
 jab
+jaba
 jabang
 jabar
 jacok
