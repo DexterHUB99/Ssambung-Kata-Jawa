@@ -577,7 +577,6 @@ alpukat
 alu
 alue
 aluh
-alui
 aluk
 alukan
 aluku
@@ -731,7 +730,6 @@ ampes
 ampi
 ampih
 ampil
-amping
 ampir
 ampiri
 ampit
@@ -1071,6 +1069,7 @@ antemi
 anteng
 antep
 anter
+anterno
 antes
 anti
 antii
@@ -1344,7 +1343,6 @@ asasa
 asat
 asay
 ase
-aseg
 aseh
 asek
 asel
@@ -1370,6 +1368,7 @@ asim
 asin
 asinan
 asing
+asir
 asiran
 asis
 asit
@@ -1413,7 +1412,6 @@ asui
 asuk
 asuki
 asul
-asula
 asum
 asumu
 asun
@@ -1704,7 +1702,6 @@ badok
 badokan
 badut
 bae
-bage
 bagen
 bagi
 bagian
@@ -1834,7 +1831,6 @@ basin
 basing
 baskom
 baso
-basoka
 basuh
 basuki
 bata
@@ -2998,6 +2994,7 @@ dimun
 dimut
 din
 dina
+dinae
 dinah
 dinan
 dinar
@@ -3227,6 +3224,7 @@ durjana
 durma
 duro
 durung
+durunge
 dus
 dusa
 dusi
@@ -4877,11 +4875,11 @@ guleman
 guleng
 guli
 guling
+gulingan
 gulir
 gulon
 gulonan
 gulu
-gulue
 gulula
 gulung
 gulungan
@@ -5914,7 +5912,6 @@ ising
 isini
 isinna
 isio
-isir
 isis
 isisa
 isisak
@@ -6774,6 +6771,7 @@ katut
 kaula
 kaulo
 kauman
+kaung
 kauripan
 kawah
 kawak
@@ -8989,7 +8987,6 @@ mruk
 mu
 mual
 muara
-muasu
 muatan
 mubah
 mubal
@@ -9516,7 +9513,6 @@ nemek
 nemen
 nemi
 nemok
-nemoki
 nemokke
 nemoni
 nempal
@@ -9658,7 +9654,6 @@ ngae
 ngaei
 ngaga
 ngagak
-ngage
 ngagel
 ngagem
 ngago
@@ -10162,7 +10157,6 @@ ngena
 ngenah
 ngenak
 ngenalin
-ngenang
 ngenca
 ngencak
 ngencang
@@ -10181,7 +10175,6 @@ ngendog
 ngendong
 ngenduk
 ngene
-ngenen
 ngeneng
 ngenes
 ngeng
@@ -10384,7 +10377,6 @@ ngidang
 ngidek
 ngiden
 ngider
-ngidi
 ngidu
 ngidui
 ngidul
@@ -10505,7 +10497,6 @@ ngisin
 ngising
 ngisingan
 ngisini
-ngisir
 ngisis
 ngisisng
 ngiso
@@ -10910,7 +10901,6 @@ nguyung
 nguyup
 nguyur
 ngwah
-ngwor
 ngwur
 ngyat
 ngyuh
@@ -11808,6 +11798,7 @@ oyot
 oz
 pa
 paala
+paalah
 paalu
 pabak
 pacar
@@ -11840,7 +11831,6 @@ padung
 padus
 padusan
 paes
-paga
 pagar
 pagawean
 pager
@@ -12711,7 +12701,6 @@ rai
 raia
 raib
 raie
-raii
 raika
 raiki
 raiku
@@ -12896,7 +12885,6 @@ rari
 raro
 ras
 rasa
-rasae
 rasah
 rasahe
 rasai
@@ -13354,7 +13342,6 @@ rosho
 rosi
 roso
 rosyi
-rot
 rota
 rotan
 roti
@@ -13600,7 +13587,6 @@ sakura
 sakut
 sal
 sala
-salad
 salae
 salah
 salahe
@@ -13793,7 +13779,6 @@ sasampean
 sasaran
 sasare
 sasarengan
-sase
 sasek
 sasen
 sasi
@@ -13841,6 +13826,7 @@ sawijine
 sawijining
 sawise
 sawit
+sawite
 sawo
 saya
 sayah
@@ -14065,7 +14051,6 @@ sesap
 sesat
 sese
 sesek
-sesempak
 seser
 seset
 sesi
@@ -14564,6 +14549,7 @@ sute
 suti
 sutil
 sutra
+sutri
 suw
 suwan
 suwara
@@ -15408,7 +15394,6 @@ uking
 ukir
 ukira
 ukiran
-ukirane
 ukire
 ukiro
 ukit
