@@ -4112,6 +4112,7 @@ etar
 etara
 etas
 etawa
+etawi
 ete
 eteh
 etek
@@ -9527,6 +9528,7 @@ nangga
 nanggal
 nanggap
 nanggapa
+nangges
 nanggung
 nangi
 nanging
