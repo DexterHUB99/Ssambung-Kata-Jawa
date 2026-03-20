@@ -7059,6 +7059,7 @@ kelak
 kelakon
 kelalen
 kelam
+kelaman
 kelambe
 kelan
 kelana
@@ -13798,6 +13799,7 @@ ruwe
 ruwet
 ruwi
 ruwo
+ruya
 ruyi
 rw
 sa
