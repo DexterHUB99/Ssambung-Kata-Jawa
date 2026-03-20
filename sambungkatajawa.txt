@@ -11899,6 +11899,7 @@ olehem
 oleholeh
 olek
 olem
+olen
 oleng
 oler
 oles
@@ -12459,6 +12460,7 @@ paser
 pasi
 pasih
 pasing
+pasio
 pasir
 pasokan
 pasrah
