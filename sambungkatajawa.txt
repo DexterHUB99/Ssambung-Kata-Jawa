@@ -6832,6 +6832,7 @@ kamus
 kan
 kana
 kanada
+kanae
 kanah
 kanak
 kanan
