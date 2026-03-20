@@ -652,6 +652,7 @@ ambane
 ambar
 ambarawa
 ambas
+ambasing
 ambat
 ambeg
 ambegan
@@ -873,6 +874,7 @@ andhong
 andi
 andika
 andini
+andio
 andok
 andon
 andong
@@ -1259,6 +1261,7 @@ ararang
 aras
 arasen
 arat
+aray
 arba
 arbei
 arben
@@ -10022,6 +10025,7 @@ nganjuk
 nganjur
 nganjut
 nganta
+ngantan
 ngantar
 ngante
 ngantel
@@ -10426,6 +10430,7 @@ nger
 ngera
 ngeragat
 ngerah
+ngeraja
 ngerak
 ngeram
 ngerami
@@ -11703,6 +11708,7 @@ okos
 okot
 okul
 okum
+okuman
 okup
 okur
 okura
@@ -14031,7 +14037,6 @@ sasae
 sasago
 sasah
 sasak
-sasal
 sasampean
 sasaran
 sasare
