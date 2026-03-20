@@ -237,6 +237,7 @@ ahlak
 ahli
 ahlian
 ahlie
+ahlien
 ahlii
 ahlina
 ahline
@@ -1957,6 +1958,7 @@ bekal
 bekan
 bekas
 bekel
+bekem
 bekne
 beko
 bekok
@@ -5055,7 +5057,6 @@ haii
 hajar
 hajat
 haji
-hajian
 hajie
 hajien
 hajimi
@@ -9389,6 +9390,7 @@ nambel
 nambeli
 nambi
 nambuh
+nambur
 name
 namen
 nami
@@ -11642,7 +11644,6 @@ oket
 okewe
 okewi
 okeya
-okeye
 okeyi
 okin
 okit
@@ -12056,6 +12057,7 @@ pal
 pala
 palah
 palak
+palalo
 palamu
 palane
 palang
@@ -12066,6 +12068,7 @@ paleng
 pali
 palik
 paling
+palinga
 palingan
 palip
 palir
@@ -15586,6 +15589,7 @@ ukae
 ukai
 ukak
 ukaka
+ukaki
 ukal
 ukam
 ukama
@@ -16744,6 +16748,7 @@ yuh
 yuha
 yuhan
 yui
+yuing
 yuk
 yuka
 yukan
