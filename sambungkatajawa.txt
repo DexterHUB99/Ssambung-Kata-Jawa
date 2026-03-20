@@ -1216,6 +1216,7 @@ apip
 apir
 apis
 apit
+aplikasi
 apo
 apoh
 apok
@@ -16072,6 +16073,7 @@ upahi
 upai
 upak
 upaku
+upal
 upam
 upama
 upamane
