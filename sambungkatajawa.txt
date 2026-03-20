@@ -968,7 +968,6 @@ angrek
 angs
 angsa
 angsae
-angsah
 angsal
 angsalipun
 angsang
@@ -1153,6 +1152,7 @@ apaan
 apae
 apag
 apah
+apai
 apak
 apal
 apala
@@ -3444,6 +3444,7 @@ ejo
 ejol
 eju
 ejuh
+ejuk
 ek
 eka
 ekaan
@@ -4095,6 +4096,7 @@ etum
 etun
 etung
 etus
+etut
 ev
 eva
 eval
@@ -6448,6 +6450,7 @@ kabupaten
 kabur
 kabut
 kaca
+kacak
 kacang
 kacau
 kacek
@@ -7802,6 +7805,7 @@ lalar
 lalat
 laler
 lali
+lalie
 lalien
 laline
 lalio
@@ -9086,6 +9090,7 @@ mubah
 mubal
 mubeng
 mucak
+mucok
 mucuk
 mudal
 mudar
@@ -10418,6 +10423,7 @@ ngeya
 ngeyel
 ngg
 ngga
+nggaa
 nggadu
 nggae
 nggah
@@ -12112,6 +12118,7 @@ panuwun
 panyuwun
 papa
 papah
+papai
 papak
 papan
 papasan
@@ -14569,6 +14576,7 @@ sulur
 sum
 suma
 suman
+sumangga
 sumbang
 sumbanga
 sumbangan
