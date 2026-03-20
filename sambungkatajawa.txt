@@ -805,7 +805,6 @@ anakmu
 anal
 anam
 anama
-anaman
 anan
 anana
 ananas
@@ -2293,6 +2292,7 @@ budhe
 budhi
 budi
 budo
+budug
 bue
 bug
 bugar
@@ -3506,7 +3506,6 @@ ekad
 ekae
 ekag
 ekah
-ekai
 ekal
 ekali
 ekam
@@ -5752,7 +5751,6 @@ ilokan
 ilon
 iloo
 ilu
-ilue
 ilui
 iluk
 iluni
@@ -5795,6 +5793,7 @@ imen
 imha
 imi
 iming
+imis
 imit
 imla
 immu
@@ -5805,6 +5804,7 @@ imoi
 impal
 impek
 impen
+impes
 impi
 impian
 impil
@@ -6223,7 +6223,6 @@ jaga
 jagad
 jagar
 jago
-jagoan
 jagong
 jagung
 jahat
@@ -6555,7 +6554,6 @@ kabeh
 kabek
 kabel
 kabi
-kabit
 kabot
 kabotan
 kabul
@@ -9070,6 +9068,7 @@ minangka
 minat
 minate
 minder
+mine
 mingat
 minggat
 minggir
@@ -9617,7 +9616,6 @@ nasar
 nase
 nasehat
 nasehati
-nasek
 nasi
 nasia
 nasib
@@ -9750,6 +9748,7 @@ neles
 neli
 nelih
 neling
+neliti
 nelongso
 nelu
 neluk
@@ -11980,7 +11979,6 @@ opoko
 opol
 opoleh
 opolo
-opom
 opomeneh
 opon
 opone
