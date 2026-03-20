@@ -4597,6 +4597,7 @@ genjur
 genna
 geno
 genta
+gentang
 gentar
 genteng
 genter
