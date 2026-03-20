@@ -805,7 +805,6 @@ anakmu
 anal
 anam
 anama
-anaman
 anan
 anana
 ananas
@@ -3405,6 +3404,7 @@ ege
 egel
 eger
 egi
+egik
 egil
 ego
 egois
@@ -3506,7 +3506,6 @@ ekad
 ekae
 ekag
 ekah
-ekai
 ekal
 ekali
 ekam
@@ -5752,7 +5751,6 @@ ilokan
 ilon
 iloo
 ilu
-ilue
 ilui
 iluk
 iluni
@@ -6223,7 +6221,6 @@ jaga
 jagad
 jagar
 jago
-jagoan
 jagong
 jagung
 jahat
@@ -7182,6 +7179,7 @@ kenak
 kenan
 kenang
 kenanga
+kenangan
 kenapa
 kenari
 kencing
@@ -9616,7 +9614,6 @@ nasar
 nase
 nasehat
 nasehati
-nasek
 nasi
 nasia
 nasib
@@ -11979,7 +11976,6 @@ opoko
 opol
 opoleh
 opolo
-opom
 opomeneh
 opon
 opone
