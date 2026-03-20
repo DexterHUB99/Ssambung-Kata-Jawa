@@ -1307,6 +1307,7 @@ aria
 ariana
 arie
 arif
+arig
 arih
 arii
 arik
@@ -2592,6 +2593,7 @@ cidek
 cidra
 ciduk
 cihuy
+ciji
 cik
 cika
 cikal
@@ -16993,6 +16995,7 @@ yocak
 yodi
 yoe
 yoga
+yogane
 yogo
 yogya
 yogyakarta
