@@ -3127,6 +3127,7 @@ disambi
 disan
 disana
 disapa
+disar
 disek
 disel
 disi
