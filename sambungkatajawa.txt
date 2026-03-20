@@ -2045,6 +2045,7 @@ bengek
 bengi
 bengkok
 bengok
+bengong
 beni
 benjol
 beno
@@ -2404,6 +2405,7 @@ buyut
 ca
 cabai
 cabak
+caban
 cabe
 cabi
 cabul
@@ -2501,7 +2503,6 @@ casu
 catur
 cawan
 cawang
-cawani
 cawe
 cawet
 cawi
@@ -2687,6 +2688,7 @@ como
 comot
 cona
 condong
+congkak
 congklak
 congok
 congor
@@ -3718,6 +3720,7 @@ emben
 ember
 embere
 emberne
+embing
 emboh
 embok
 embong
@@ -10611,6 +10614,7 @@ ngeram
 ngerami
 ngerampok
 ngerandu
+ngerang
 ngerap
 ngeras
 ngerasa
@@ -16010,7 +16014,6 @@ ulangi
 ulangtahun
 ulao
 ulap
-ulapan
 ular
 ulare
 ulas
