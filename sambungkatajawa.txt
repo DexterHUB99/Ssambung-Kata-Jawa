@@ -2959,6 +2959,7 @@ diajeng
 diala
 dialah
 diamana
+diambil
 diamput
 diana
 diancok
@@ -3560,7 +3561,6 @@ elak
 elal
 elam
 elan
-elana
 elang
 elap
 elar
@@ -4114,7 +4114,6 @@ etig
 etik
 etika
 etil
-etin
 eting
 etir
 etis
@@ -8644,7 +8643,6 @@ malik
 malika
 malin
 maling
-malku
 malu
 malung
 mam
@@ -9681,7 +9679,6 @@ nekan
 nekane
 nekani
 nekar
-nekara
 nekat
 neke
 neken
@@ -10038,7 +10035,6 @@ ngangu
 nganguk
 ngangur
 ngani
-nganiko
 nganjing
 nganjir
 nganjok
@@ -10162,7 +10158,6 @@ ngasing
 ngasir
 ngaso
 ngasoh
-ngasok
 ngasor
 ngasta
 ngasu
@@ -11915,7 +11910,6 @@ opok
 opoki
 opoko
 opol
-opoleh
 opolo
 opomeneh
 opon
@@ -15545,7 +15539,6 @@ ubarampe
 ube
 ubek
 ubekan
-ubel
 uben
 uber
 ubet
@@ -16794,6 +16787,7 @@ yole
 yoli
 yolo
 yom
+yoma
 yoman
 yome
 yomen
