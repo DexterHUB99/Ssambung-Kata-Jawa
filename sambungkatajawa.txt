@@ -5879,6 +5879,7 @@ indhang
 indhik
 indik
 inding
+indir
 indira
 indomie
 indra
@@ -11635,6 +11636,7 @@ nyana
 nyangka
 nyangkul
 nyangu
+nyani
 nyanyi
 nyapa
 nyaponi
