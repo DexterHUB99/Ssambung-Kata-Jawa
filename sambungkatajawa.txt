@@ -2125,6 +2125,7 @@ biju
 bik
 bika
 bikak
+bike
 bikin
 biko
 biku
@@ -3003,6 +3004,7 @@ dibawa
 dibo
 dida
 didak
+didar
 dideso
 didi
 didik
@@ -3305,7 +3307,6 @@ dumal
 duman
 dumane
 dumeh
-dumo
 dumugi
 dun
 dung
@@ -5870,7 +5871,6 @@ indira
 indomie
 indra
 indu
-indui
 induk
 indukan
 induki
@@ -7903,7 +7903,6 @@ la
 lab
 laba
 labas
-labe
 labet
 labi
 labrak
@@ -13548,7 +13547,6 @@ rewel
 rewo
 reya
 reyo
-rezeki
 ri
 ria
 rian
@@ -14188,6 +14186,7 @@ sasah
 sasak
 sasal
 sasampean
+sasap
 sasaran
 sasare
 sasarengan
@@ -14197,6 +14196,7 @@ sasen
 sasi
 sasih
 sasimi
+sasir
 saste
 sastra
 sasu
@@ -16584,7 +16584,6 @@ wedang
 wedangan
 wedange
 wede
-weden
 wedhang
 wedhi
 wedhus
@@ -16887,7 +16886,6 @@ yawi
 yawis
 yawo
 yaya
-yayi
 ye
 yek
 yekan
