@@ -600,6 +600,7 @@ alure
 alus
 alusan
 aluse
+alwa
 alwan
 am
 ama
@@ -14062,6 +14063,7 @@ segar
 segara
 segawon
 seger
+segi
 sego
 segoro
 seh
