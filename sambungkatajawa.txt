@@ -4499,6 +4499,7 @@ gawa
 gawae
 gawai
 gawan
+gawane
 gawang
 gawangan
 gawe
@@ -7783,6 +7784,7 @@ kupat
 kupeng
 kupi
 kuping
+kupinge
 kupluk
 kupu
 kur
@@ -10151,6 +10153,7 @@ ngarus
 ngas
 ngasa
 ngasah
+ngasahan
 ngasahi
 ngasai
 ngasak
