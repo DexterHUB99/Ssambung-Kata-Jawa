@@ -893,6 +893,7 @@ andhikane
 andhong
 andi
 andika
+andiko
 andini
 andio
 andok
@@ -14591,6 +14592,7 @@ ses
 sesajen
 sesak
 sesap
+sesarengan
 sesat
 sese
 sesek
