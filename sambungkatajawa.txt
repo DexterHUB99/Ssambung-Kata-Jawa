@@ -12286,6 +12286,7 @@ pancuran
 pandak
 pandan
 pandang
+pandangan
 pandawa
 pande
 pandir
@@ -13721,6 +13722,7 @@ roro
 ros
 rosa
 rose
+rosem
 rosho
 rosi
 roso
