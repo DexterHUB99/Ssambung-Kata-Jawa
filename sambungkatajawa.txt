@@ -10174,6 +10174,7 @@ ngcok
 nge
 ngea
 ngeanu
+ngebak
 ngebaki
 ngebang
 ngebas
