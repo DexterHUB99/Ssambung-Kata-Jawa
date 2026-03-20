@@ -2659,7 +2659,6 @@ comi
 como
 comot
 condong
-congklak
 congok
 congor
 congore
@@ -2941,7 +2940,6 @@ dening
 deno
 depa
 depak
-depe
 depo
 depot
 der
@@ -4307,7 +4305,6 @@ gajelas
 gaji
 gajia
 gajian
-gajihe
 gajimu
 gajul
 gak
@@ -10370,7 +10367,6 @@ ngelag
 ngelak
 ngelakoni
 ngelam
-ngelambe
 ngelantur
 ngelap
 ngelar
