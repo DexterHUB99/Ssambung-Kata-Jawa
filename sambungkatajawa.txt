@@ -4250,7 +4250,6 @@ ewes
 ewew
 ewi
 ewih
-ewis
 ewoh
 ewok
 ewong
@@ -8421,7 +8420,6 @@ lintuk
 lintune
 linung
 lio
-liono
 lip
 lipa
 lipan
@@ -17181,6 +17179,7 @@ yung
 yuni
 yuning
 yuno
+yuo
 yur
 yura
 yuri
