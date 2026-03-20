@@ -2969,6 +2969,7 @@ desa
 desi
 deso
 det
+detik
 deto
 dewa
 dewe
@@ -9308,6 +9309,7 @@ mulia
 mulih
 muliho
 mulik
+muluhan
 mulung
 mulus
 mulya
