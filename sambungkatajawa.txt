@@ -805,6 +805,7 @@ anakmu
 anal
 anam
 anama
+anaman
 anan
 anana
 ananas
@@ -5750,6 +5751,7 @@ ilokan
 ilon
 iloo
 ilu
+ilue
 ilui
 iluk
 iluni
@@ -6220,6 +6222,7 @@ jaga
 jagad
 jagar
 jago
+jagoan
 jagong
 jagung
 jahat
@@ -9612,6 +9615,7 @@ nasar
 nase
 nasehat
 nasehati
+nasek
 nasi
 nasia
 nasib
