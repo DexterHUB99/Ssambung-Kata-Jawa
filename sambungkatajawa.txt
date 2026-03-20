@@ -968,7 +968,6 @@ angrek
 angs
 angsa
 angsae
-angsah
 angsal
 angsalipun
 angsang
@@ -1153,6 +1152,7 @@ apaan
 apae
 apag
 apah
+apai
 apak
 apal
 apala
@@ -3444,6 +3444,7 @@ ejo
 ejol
 eju
 ejuh
+ejuk
 ek
 eka
 ekaan
@@ -4095,6 +4096,7 @@ etum
 etun
 etung
 etus
+etut
 ev
 eva
 eval
@@ -5069,6 +5071,7 @@ hamaa
 hamae
 haman
 hamana
+hamane
 hamba
 hambaa
 hambamu
@@ -6246,6 +6249,7 @@ jeki
 jelang
 jelas
 jelek
+jelema
 jem
 jema
 jembar
@@ -6448,6 +6452,7 @@ kabupaten
 kabur
 kabut
 kaca
+kacak
 kacang
 kacau
 kacek
@@ -7802,6 +7807,7 @@ lalar
 lalat
 laler
 lali
+lalie
 lalien
 laline
 lalio
@@ -8789,6 +8795,7 @@ melan
 melas
 melasi
 melati
+meleh
 melek
 melem
 meler
@@ -8871,7 +8878,6 @@ mesum
 met
 meta
 meteng
-metok
 metu
 metuan
 mewek
@@ -9087,6 +9093,7 @@ mubah
 mubal
 mubeng
 mucak
+mucok
 mucuk
 mudal
 mudar
@@ -9368,6 +9375,7 @@ nanan
 nanang
 nanari
 nanas
+nanase
 nancep
 nandang
 nandhang
@@ -10419,6 +10427,7 @@ ngeya
 ngeyel
 ngg
 ngga
+nggaa
 nggadu
 nggae
 nggah
@@ -10637,6 +10646,7 @@ nglangi
 nglangkah
 nglani
 nglantur
+ngleg
 nglek
 nglewer
 nglilir
@@ -10833,6 +10843,7 @@ ngucap
 ngucek
 ngucir
 ngucuk
+ngudag
 ngudan
 ngudang
 ngudar
@@ -12113,6 +12124,7 @@ panuwun
 panyuwun
 papa
 papah
+papai
 papak
 papan
 papasan
@@ -12571,7 +12583,6 @@ pokok
 pokoke
 pokoknya
 pokone
-pokowe
 pokro
 pokwe
 pol
@@ -14571,6 +14582,7 @@ sulur
 sum
 suma
 suman
+sumangga
 sumbang
 sumbanga
 sumbangan
@@ -15383,6 +15395,7 @@ ubarampe
 ube
 ubek
 ubekan
+uben
 uber
 ubet
 ubi
@@ -16481,6 +16494,7 @@ wulu
 wulung
 wumi
 wun
+wungu
 wuru
 wus
 wusa
