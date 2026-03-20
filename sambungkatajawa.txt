@@ -6824,6 +6824,7 @@ kasor
 kasoran
 kasos
 kasot
+kasti
 kasu
 kasuh
 kasuk
