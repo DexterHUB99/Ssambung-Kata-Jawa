@@ -2336,6 +2336,7 @@ cahya
 cahyo
 cai
 caji
+cajin
 cak
 cakak
 cakar
@@ -6188,6 +6189,7 @@ jempol
 jemput
 jemuran
 jenang
+jendela
 jeneng
 jenengan
 jenenge
@@ -6895,6 +6897,7 @@ kelebu
 kelek
 kelekmu
 kelem
+kelen
 kelengkeng
 kelep
 kelepatan
@@ -8196,6 +8199,7 @@ lomi
 lomo
 lomot
 lompat
+lomu
 lon
 lona
 loncang
@@ -9674,6 +9678,7 @@ ngakal
 ngakali
 ngakar
 ngakeh
+ngaki
 ngakir
 ngakon
 ngaktau
@@ -11886,6 +11891,7 @@ paluh
 palum
 palung
 palur
+pam
 pama
 pamah
 pamahan
@@ -13471,6 +13477,7 @@ sabak
 saban
 sabar
 sabe
+sabel
 saben
 sabene
 sabet
@@ -13525,6 +13532,7 @@ said
 saii
 saiki
 saiku
+saila
 saing
 sair
 sairan
