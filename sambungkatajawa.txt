@@ -682,6 +682,7 @@ amburadul
 ambyar
 ame
 ameh
+amej
 amek
 amel
 amem
@@ -1696,6 +1697,7 @@ ayuj
 ayuk
 ayuli
 ayum
+ayumu
 ayun
 ayunan
 ayune
