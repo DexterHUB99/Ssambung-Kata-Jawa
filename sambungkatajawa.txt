@@ -702,6 +702,7 @@ ami
 amia
 amie
 amih
+amij
 amik
 amil
 amim
@@ -9344,6 +9345,7 @@ nabur
 nada
 nadah
 nadahi
+nadai
 nadar
 nadha
 nadhah
