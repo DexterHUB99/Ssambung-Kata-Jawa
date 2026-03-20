@@ -8267,6 +8267,7 @@ lesu
 lesung
 lesus
 let
+letan
 letha
 leto
 letong
