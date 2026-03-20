@@ -2574,6 +2574,7 @@ cicir
 cicit
 cicite
 cicu
+cicuk
 cidak
 cidek
 cidra
@@ -10674,6 +10675,7 @@ ngguyu
 ngguyue
 ngguyur
 ngibadah
+ngibal
 ngibar
 ngiber
 ngibing
@@ -15935,6 +15937,7 @@ ulula
 ululang
 ulun
 ulung
+ulunga
 ulup
 ulur
 um
