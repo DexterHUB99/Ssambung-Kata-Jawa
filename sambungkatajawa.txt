@@ -5950,6 +5950,7 @@ isia
 isian
 isien
 isih
+isii
 isiis
 isik
 isika
@@ -6462,6 +6463,7 @@ kadohan
 kadong
 kados
 kadose
+kadu
 kaduh
 kaduhung
 kadung
@@ -13106,6 +13108,7 @@ reha
 rei
 reja
 rejeb
+rejek
 rejeki
 rejik
 rejo
