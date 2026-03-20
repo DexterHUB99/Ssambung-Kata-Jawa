@@ -15363,7 +15363,6 @@ terne
 terong
 terus
 tes
-tesa
 tese
 tesi
 tesu
@@ -16732,7 +16731,6 @@ wio
 wir
 wira
 wirama
-wiran
 wirang
 wirangan
 wiraya
