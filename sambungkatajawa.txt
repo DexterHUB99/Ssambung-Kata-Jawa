@@ -1810,6 +1810,7 @@ bale
 balek
 balen
 baleni
+bales
 bali
 balik
 balok
@@ -10234,6 +10235,7 @@ ngawer
 ngawet
 ngawi
 ngawih
+ngawii
 ngawil
 ngawini
 ngawir
@@ -10340,6 +10342,7 @@ ngeler
 ngeles
 ngeli
 ngelih
+ngelihat
 ngelim
 ngelindur
 ngeling
@@ -12065,6 +12068,7 @@ oyag
 oyak
 oyi
 oyok
+oyokan
 oyot
 oz
 pa
@@ -12207,6 +12211,7 @@ pandan
 pandang
 pandawa
 pande
+pandir
 pandu
 panduan
 pandung
