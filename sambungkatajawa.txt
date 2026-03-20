@@ -2125,6 +2125,7 @@ biju
 bik
 bika
 bikak
+bike
 bikin
 biko
 biku
@@ -16881,7 +16882,6 @@ yawi
 yawis
 yawo
 yaya
-yayi
 ye
 yek
 yekan
