@@ -1766,7 +1766,6 @@ bajak
 bajan
 baji
 bajigur
-bajin
 bajing
 bajinga
 bajingan
@@ -5012,7 +5011,6 @@ gurah
 gurami
 guran
 gure
-guren
 guri
 gurih
 gurit
