@@ -4668,6 +4668,7 @@ gi
 gidal
 gig
 giga
+gigah
 gigal
 gigi
 gigih
