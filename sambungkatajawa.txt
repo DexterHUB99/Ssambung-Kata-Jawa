@@ -1345,6 +1345,7 @@ asam
 asaman
 asamne
 asan
+asane
 asap
 asar
 asas
@@ -8256,6 +8257,7 @@ lonjong
 lono
 lontar
 lonte
+lontee
 lonthe
 lontong
 loo
