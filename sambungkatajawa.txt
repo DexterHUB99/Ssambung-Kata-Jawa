@@ -2125,7 +2125,6 @@ biju
 bik
 bika
 bikak
-bike
 bikin
 biko
 biku
@@ -2642,7 +2641,6 @@ cocok
 cocot
 cocote
 cocotmu
-cocu
 cod
 codan
 codet
@@ -3005,7 +3003,6 @@ dibawa
 dibo
 dida
 didak
-didar
 dideso
 didi
 didik
@@ -3308,6 +3305,7 @@ dumal
 duman
 dumane
 dumeh
+dumo
 dumugi
 dun
 dung
@@ -3427,7 +3425,6 @@ egi
 egik
 egil
 ego
-egoh
 egois
 egok
 egon
@@ -5873,6 +5870,7 @@ indira
 indomie
 indra
 indu
+indui
 induk
 indukan
 induki
@@ -7420,6 +7418,7 @@ ketoprak
 ketos
 ketoto
 ketua
+ketuban
 ketuk
 ketum
 ketumbar
@@ -7905,6 +7904,7 @@ la
 lab
 laba
 labas
+labe
 labet
 labi
 labrak
@@ -12226,7 +12226,6 @@ pakdhe
 pake
 pakek
 pakem
-paki
 pakil
 pakir
 pakle
@@ -13550,6 +13549,7 @@ rewel
 rewo
 reya
 reyo
+rezeki
 ri
 ria
 rian
@@ -14189,7 +14189,6 @@ sasah
 sasak
 sasal
 sasampean
-sasap
 sasaran
 sasare
 sasarengan
@@ -14199,7 +14198,6 @@ sasen
 sasi
 sasih
 sasimi
-sasir
 saste
 sastra
 sasu
@@ -16587,6 +16585,7 @@ wedang
 wedangan
 wedange
 wede
+weden
 wedhang
 wedhi
 wedhus
@@ -16889,6 +16888,7 @@ yawi
 yawis
 yawo
 yaya
+yayi
 ye
 yek
 yekan
