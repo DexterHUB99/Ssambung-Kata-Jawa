@@ -2404,6 +2404,7 @@ buyut
 ca
 cabai
 cabak
+caban
 cabe
 cabi
 cabul
@@ -2501,7 +2502,6 @@ casu
 catur
 cawan
 cawang
-cawani
 cawe
 cawet
 cawi
@@ -3718,6 +3718,7 @@ emben
 ember
 embere
 emberne
+embing
 emboh
 embok
 embong
@@ -10611,6 +10612,7 @@ ngeram
 ngerami
 ngerampok
 ngerandu
+ngerang
 ngerap
 ngeras
 ngerasa
@@ -16010,7 +16012,6 @@ ulangi
 ulangtahun
 ulao
 ulap
-ulapan
 ular
 ulare
 ulas
