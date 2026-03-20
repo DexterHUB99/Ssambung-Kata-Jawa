@@ -10343,6 +10343,7 @@ ngaturi
 ngaturno
 ngatus
 ngaub
+ngaum
 ngaup
 ngaur
 ngaut
