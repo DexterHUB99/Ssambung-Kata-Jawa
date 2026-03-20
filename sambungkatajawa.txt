@@ -2764,6 +2764,7 @@ cupu
 cur
 curi
 curiga
+curii
 curu
 curug
 curut
