@@ -481,6 +481,7 @@ akumi
 akumu
 akun
 akune
+akuo
 akup
 akur
 akura
@@ -541,6 +542,7 @@ alien
 alif
 alih
 alihan
+alij
 alik
 alim
 alima
@@ -2769,6 +2771,7 @@ danur
 dap
 dapa
 dapi
+dapu
 dapur
 dapuran
 dapure
@@ -3967,6 +3970,7 @@ esak
 esal
 esaman
 esan
+esane
 esar
 esat
 esay
@@ -4126,6 +4130,7 @@ fakir
 fakta
 fala
 fale
+fali
 famu
 fan
 fana
@@ -5633,6 +5638,7 @@ imala
 imam
 imame
 iman
+imana
 imani
 imar
 imas
@@ -6010,6 +6016,7 @@ itu
 itue
 ituli
 itung
+itunga
 itungan
 itungen
 iut
@@ -7242,6 +7249,7 @@ kicep
 kidal
 kidang
 kidul
+kidule
 kidung
 kie
 kijang
@@ -11342,6 +11350,7 @@ nyimak
 nyinom
 nyiram
 nyirep
+nyiso
 nyo
 nyoba
 nyocot
@@ -13389,6 +13398,7 @@ roti
 rotii
 rotina
 roto
+rowa
 rowang
 rowe
 rowi
@@ -14328,6 +14338,7 @@ sola
 solah
 solan
 solar
+solare
 solat
 sole
 solek
