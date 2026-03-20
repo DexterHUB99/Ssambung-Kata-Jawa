@@ -1242,6 +1242,7 @@ araen
 arag
 arah
 arahan
+arahno
 arai
 arak
 araka
@@ -5909,6 +5910,7 @@ ipo
 ipoe
 ipone
 ipono
+ipoo
 ipra
 ipri
 iprit
@@ -5916,6 +5918,7 @@ ipuk
 ipun
 ir
 ira
+iraa
 irab
 irae
 iraga
@@ -11335,6 +11338,7 @@ nontone
 nop
 nopang
 nopi
+nopii
 nopo
 nor
 nora
@@ -16517,6 +16521,7 @@ wii
 wiira
 wijaya
 wiji
+wijii
 wik
 wika
 wikan
