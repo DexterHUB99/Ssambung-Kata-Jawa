@@ -2955,7 +2955,6 @@ digo
 diguna
 diham
 dihan
-dihari
 diimboh
 diisi
 dija
@@ -6512,7 +6511,6 @@ kakam
 kakanda
 kakang
 kakap
-kakar
 kakas
 kakat
 kake
@@ -8987,6 +8985,7 @@ moco
 modal
 modar
 modaro
+modo
 modus
 modyar
 mogok
@@ -9703,6 +9702,7 @@ ngabuk
 ngabul
 ngabung
 ngaca
+ngacai
 ngacak
 ngacang
 ngacara
@@ -10626,6 +10626,7 @@ nglek
 nglewer
 nglilir
 nglindur
+nglipur
 ngliwet
 ngloh
 nglon
