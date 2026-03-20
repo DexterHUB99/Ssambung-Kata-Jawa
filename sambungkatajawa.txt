@@ -1661,7 +1661,6 @@ awor
 awu
 awuh
 awui
-awuk
 awul
 awulo
 awur
@@ -2046,7 +2045,6 @@ bengek
 bengi
 bengkok
 bengok
-bengong
 beni
 benjol
 beno
@@ -2406,7 +2404,6 @@ buyut
 ca
 cabai
 cabak
-caban
 cabe
 cabi
 cabul
@@ -2504,6 +2501,7 @@ casu
 catur
 cawan
 cawang
+cawani
 cawe
 cawet
 cawi
@@ -2689,7 +2687,6 @@ como
 comot
 cona
 condong
-congkak
 congklak
 congok
 congor
@@ -3721,7 +3718,6 @@ emben
 ember
 embere
 emberne
-embing
 emboh
 embok
 embong
@@ -7052,6 +7048,7 @@ kawin
 kawit
 kawitan
 kawok
+kawol
 kawos
 kawruh
 kawula
@@ -7170,6 +7167,7 @@ kelepatan
 keler
 kelereng
 keles
+kelesu
 kelet
 keli
 kelia
@@ -7382,7 +7380,6 @@ kerokan
 keron
 kerono
 keroso
-kerot
 kersa
 kersana
 kersane
@@ -10616,7 +10613,6 @@ ngeram
 ngerami
 ngerampok
 ngerandu
-ngerang
 ngerap
 ngeras
 ngerasa
@@ -11232,6 +11228,7 @@ ngupah
 ngupahi
 ngupai
 ngupakara
+ngupal
 ngupas
 ngupati
 ngupaya
@@ -11239,6 +11236,7 @@ ngupel
 ngupi
 ngupil
 nguping
+ngupis
 ngupo
 ngur
 ngurab
@@ -12824,7 +12822,6 @@ piranga
 piranti
 pirek
 pireng
-pirin
 piring
 piro
 pirsa
@@ -13553,6 +13550,7 @@ remok
 rempah
 rempal
 rempek
+rempela
 rempeyek
 rempol
 rempon
@@ -13738,6 +13736,7 @@ ritah
 ritan
 rite
 riti
+ritna
 riwa
 riwayat
 riwe
@@ -15861,7 +15860,6 @@ ugal
 ugama
 ugan
 ugar
-ugara
 ugas
 uge
 ugel
@@ -16018,6 +16016,7 @@ ulangi
 ulangtahun
 ulao
 ulap
+ulapan
 ular
 ulare
 ulas
@@ -16666,6 +16665,7 @@ watu
 watuk
 wawa
 wawang
+wawanit
 wawas
 wawasan
 wawe
