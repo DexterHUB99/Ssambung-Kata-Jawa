@@ -873,6 +873,7 @@ andhong
 andi
 andika
 andini
+andio
 andok
 andon
 andong
@@ -1259,6 +1260,7 @@ ararang
 aras
 arasen
 arat
+aray
 arba
 arbei
 arben
@@ -10022,6 +10024,7 @@ nganjuk
 nganjur
 nganjut
 nganta
+ngantan
 ngantar
 ngante
 ngantel
@@ -11703,6 +11706,7 @@ okos
 okot
 okul
 okum
+okuman
 okup
 okur
 okura
