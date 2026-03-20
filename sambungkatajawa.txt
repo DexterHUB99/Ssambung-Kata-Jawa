@@ -4280,6 +4280,7 @@ gagar
 gagas
 gagasan
 gage
+gagean
 gagrak
 gagu
 gaguna
@@ -8317,6 +8318,7 @@ lipur
 lir
 lira
 lire
+lirek
 liren
 liri
 lirih
@@ -10040,6 +10042,7 @@ ngandi
 ngandika
 ngandok
 ngandong
+ngandu
 nganduk
 ngandung
 ngandut
@@ -13068,6 +13071,7 @@ rakit
 rakka
 raksasa
 raku
+rakui
 rakum
 rakus
 rakuse
