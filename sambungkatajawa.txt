@@ -6189,6 +6189,7 @@ jempol
 jemput
 jemuran
 jenang
+jendela
 jeneng
 jenengan
 jenenge
@@ -11888,6 +11889,7 @@ paluh
 palum
 palung
 palur
+pam
 pama
 pamah
 pamahan
