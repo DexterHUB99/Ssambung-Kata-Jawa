@@ -1152,7 +1152,6 @@ apaan
 apae
 apag
 apah
-apai
 apak
 apal
 apala
@@ -6447,7 +6446,6 @@ kabupaten
 kabur
 kabut
 kaca
-kacak
 kacang
 kacau
 kacek
