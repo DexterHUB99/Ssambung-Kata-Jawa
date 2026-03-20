@@ -12240,6 +12240,7 @@ panir
 panis
 panjaluk
 panjang
+panjangan
 panjar
 panjenengan
 panji
@@ -13787,6 +13788,7 @@ sabene
 sabet
 sabi
 sabii
+sabilah
 sabit
 sablon
 sabok
