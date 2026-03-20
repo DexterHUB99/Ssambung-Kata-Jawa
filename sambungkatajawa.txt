@@ -15,6 +15,7 @@ abak
 aban
 abang
 abangi
+abar
 abas
 abasa
 abat
@@ -1362,6 +1363,7 @@ asa
 asaan
 asad
 asaf
+asag
 asah
 asahan
 asai
@@ -4701,6 +4703,7 @@ gereng
 geret
 gergaji
 geri
+gerie
 gerih
 gerik
 gering
@@ -4855,6 +4858,7 @@ golek
 golekan
 goleki
 golekno
+goleko
 goler
 golet
 goleti
@@ -4911,6 +4915,7 @@ gowo
 gowoe
 goyah
 goyang
+grab
 gragal
 graji
 gram
@@ -7140,6 +7145,7 @@ kenak
 kenan
 kenang
 kenanga
+kenap
 kenapa
 kenari
 kencing
@@ -8212,6 +8218,7 @@ lima
 limaa
 limae
 limai
+limak
 limalas
 liman
 limang
@@ -8759,6 +8766,7 @@ marai
 marak
 marang
 marani
+mardika
 mare
 marem
 maren
@@ -9801,6 +9809,7 @@ netes
 neti
 netra
 netur
+neuron
 newa
 ngaba
 ngabab
@@ -12325,6 +12334,7 @@ pato
 patok
 patub
 patuh
+patun
 patung
 patur
 patus
@@ -14285,6 +14295,7 @@ senon
 sentosa
 senuk
 seo
+sep
 sepak
 separo
 sepat
@@ -14814,6 +14825,7 @@ susahe
 susai
 susaki
 susan
+susana
 susas
 susi
 susia
@@ -15067,6 +15079,7 @@ tawi
 tawon
 tawur
 tawuran
+taxi
 taya
 tayo
 tayub
@@ -15511,6 +15524,7 @@ tutuk
 tutup
 tutupi
 tutur
+tuturan
 tuturane
 tuturi
 tuwa
