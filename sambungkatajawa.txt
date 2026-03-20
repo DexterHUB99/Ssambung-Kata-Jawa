@@ -1419,6 +1419,7 @@ asim
 asin
 asinan
 asing
+asip
 asir
 asiran
 asis
@@ -5267,6 +5268,7 @@ haruse
 has
 hasa
 hasan
+hasana
 hase
 hasem
 hasi
