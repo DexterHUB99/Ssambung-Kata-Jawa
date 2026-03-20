@@ -42,6 +42,7 @@ abot
 abrit
 abu
 abuh
+abuk
 abul
 abus
 abuy
@@ -321,6 +322,7 @@ aiwak
 aiwe
 aiwi
 aiya
+aiyi
 aiyo
 aj
 aja
@@ -1673,6 +1675,7 @@ ayal
 ayalan
 ayam
 ayaman
+ayamku
 ayamne
 ayan
 ayana
@@ -2125,7 +2128,6 @@ biju
 bik
 bika
 bikak
-bike
 bikin
 biko
 biku
@@ -2352,7 +2354,6 @@ bung
 bunga
 bungah
 bungahe
-bunge
 bungkus
 bunglon
 buntel
@@ -2643,7 +2644,6 @@ cocok
 cocot
 cocote
 cocotmu
-cocu
 cod
 codan
 codet
@@ -3006,7 +3006,6 @@ dibawa
 dibo
 dida
 didak
-didar
 dideso
 didi
 didik
@@ -3241,7 +3240,6 @@ doro
 dorong
 dos
 dosa
-dosaa
 dosen
 doso
 dot
@@ -3430,7 +3428,6 @@ egi
 egik
 egil
 ego
-egoh
 egois
 egok
 egon
@@ -5118,7 +5115,6 @@ guyur
 ha
 haa
 haan
-haana
 habib
 habibi
 habis
@@ -5895,7 +5891,6 @@ ingan
 ingat
 ingatan
 ingati
-ingen
 inget
 inggah
 inggal
@@ -8621,6 +8616,7 @@ maca
 macak
 macan
 macapat
+macem
 macet
 macit
 macul
@@ -9441,6 +9437,7 @@ nafas
 nafkah
 nag
 naga
+nagaa
 nagara
 nagasari
 nage
@@ -9749,7 +9746,6 @@ nedi
 neduh
 neg
 nega
-negah
 negal
 negan
 negara
@@ -10168,6 +10164,7 @@ ngantup
 nganu
 nganune
 nganwi
+nganying
 ngaos
 ngap
 ngapa
@@ -12235,7 +12232,6 @@ pakdhe
 pake
 pakek
 pakem
-paki
 pakil
 pakir
 pakle
@@ -14199,7 +14195,6 @@ sasah
 sasak
 sasal
 sasampean
-sasap
 sasaran
 sasare
 sasarengan
@@ -14209,7 +14204,6 @@ sasen
 sasi
 sasih
 sasimi
-sasir
 saste
 sastra
 sasu
