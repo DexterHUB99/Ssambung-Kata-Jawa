@@ -935,6 +935,7 @@ angguran
 angin
 angit
 angka
+angkai
 angkana
 angkara
 angkasa
