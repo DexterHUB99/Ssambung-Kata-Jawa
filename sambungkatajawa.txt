@@ -867,6 +867,7 @@ andap
 andar
 andara
 andaran
+andas
 andeg
 andel
 ander
