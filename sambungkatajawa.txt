@@ -682,6 +682,7 @@ amburadul
 ambyar
 ame
 ameh
+amej
 amek
 amel
 amem
@@ -1696,6 +1697,7 @@ ayuj
 ayuk
 ayuli
 ayum
+ayumu
 ayun
 ayunan
 ayune
@@ -1764,7 +1766,6 @@ bajak
 bajan
 baji
 bajigur
-bajin
 bajing
 bajinga
 bajingan
@@ -5009,7 +5010,6 @@ gurah
 gurami
 guran
 gure
-guren
 guri
 gurih
 gurit
@@ -8115,6 +8115,7 @@ lenggang
 lengkuas
 lengo
 lengser
+leni
 lentog
 lentong
 lepas
@@ -8178,6 +8179,7 @@ lileh
 lilet
 lili
 lilin
+lilintah
 lilipan
 lilir
 lilit
@@ -9090,6 +9092,7 @@ molah
 molan
 molane
 molas
+molase
 mole
 moleh
 molek
@@ -14225,6 +14228,7 @@ sen
 sena
 senajan
 senak
+senam
 senang
 senar
 sendak
