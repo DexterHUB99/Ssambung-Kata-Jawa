@@ -6640,6 +6640,7 @@ kagok
 kagungan
 kagus
 kahanan
+kahananing
 kail
 kaila
 kaimas
@@ -10787,7 +10788,6 @@ ngincer
 ngindah
 ngindak
 ngindang
-ngine
 nginep
 nging
 nginget
