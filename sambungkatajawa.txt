@@ -9455,6 +9455,7 @@ nasehati
 nasi
 nasia
 nasib
+nasii
 nasikuning
 nasine
 nasipecel
@@ -9947,6 +9948,7 @@ ngantuk
 ngantuke
 ngantuki
 ngantung
+ngantup
 nganu
 nganune
 nganwi
