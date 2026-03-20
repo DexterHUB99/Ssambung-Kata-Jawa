@@ -3215,6 +3215,7 @@ dolu
 dom
 doma
 doman
+domas
 domba
 domblong
 domi
