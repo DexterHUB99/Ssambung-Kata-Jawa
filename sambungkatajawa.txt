@@ -11705,6 +11705,7 @@ okos
 okot
 okul
 okum
+okuman
 okup
 okur
 okura
