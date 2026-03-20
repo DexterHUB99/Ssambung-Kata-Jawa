@@ -12892,6 +12892,7 @@ rari
 raro
 ras
 rasa
+rasae
 rasah
 rasahe
 rasai
@@ -14058,6 +14059,7 @@ sesap
 sesat
 sese
 sesek
+sesempak
 seser
 seset
 sesi
