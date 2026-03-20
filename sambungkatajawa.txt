@@ -4071,6 +4071,7 @@ erusi
 erut
 es
 esa
+esaa
 esab
 esah
 esai
@@ -4126,6 +4127,7 @@ esun
 et
 eta
 etad
+etae
 etag
 etah
 etak
@@ -6065,6 +6067,7 @@ is
 isa
 isaa
 isab
+isae
 isaha
 isahe
 isai
@@ -14416,7 +14419,6 @@ sena
 senajan
 senak
 senam
-senan
 senang
 senar
 sendak
