@@ -1361,6 +1361,7 @@ asa
 asaan
 asad
 asaf
+asag
 asah
 asahan
 asai
@@ -4910,6 +4911,7 @@ gowo
 gowoe
 goyah
 goyang
+grab
 gragal
 graji
 gram
@@ -8211,6 +8213,7 @@ lima
 limaa
 limae
 limai
+limak
 limalas
 liman
 limang
@@ -9800,6 +9803,7 @@ netes
 neti
 netra
 netur
+neuron
 newa
 ngaba
 ngabab
@@ -12324,6 +12328,7 @@ pato
 patok
 patub
 patuh
+patun
 patung
 patur
 patus
@@ -14283,6 +14288,7 @@ senon
 sentosa
 senuk
 seo
+sep
 sepak
 separo
 sepat
@@ -15065,6 +15071,7 @@ tawi
 tawon
 tawur
 tawuran
+taxi
 taya
 tayo
 tayub
@@ -15509,6 +15516,7 @@ tutuk
 tutup
 tutupi
 tutur
+tuturan
 tuturane
 tuturi
 tuwa
