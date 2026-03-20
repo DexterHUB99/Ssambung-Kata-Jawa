@@ -6177,6 +6177,7 @@ istiadat
 istigfar
 istighfar
 istilah
+istilahe
 istimewa
 istirahat
 istri
