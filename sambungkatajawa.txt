@@ -2031,7 +2031,6 @@ bendo
 bendung
 bene
 bener
-beneri
 bengawan
 bengek
 bengi
@@ -2126,6 +2125,7 @@ biju
 bik
 bika
 bikak
+bike
 bikin
 biko
 biku
@@ -3004,6 +3004,7 @@ dibawa
 dibo
 dida
 didak
+didar
 dideso
 didi
 didik
@@ -10003,7 +10004,6 @@ ngaler
 ngali
 ngalih
 ngaliho
-ngaling
 ngalir
 ngalis
 ngaliyan
@@ -14186,6 +14186,7 @@ sasah
 sasak
 sasal
 sasampean
+sasap
 sasaran
 sasare
 sasarengan
