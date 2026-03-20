@@ -892,6 +892,7 @@ angas
 angat
 ange
 angel
+angela
 angelan
 angen
 angep
@@ -1721,6 +1722,7 @@ bagya
 bah
 bahan
 bahasa
+bahaya
 bahli
 bahu
 bai
@@ -5101,6 +5103,7 @@ haria
 harian
 harie
 harien
+hariku
 harima
 harimau
 harimu
@@ -9197,6 +9200,7 @@ naka
 nakal
 nakalan
 nakale
+nakan
 naker
 nakes
 naki
@@ -12959,6 +12963,7 @@ ratih
 ratina
 rating
 ratna
+ratoh
 raton
 ratu
 ratui
