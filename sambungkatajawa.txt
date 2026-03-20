@@ -6065,7 +6065,6 @@ is
 isa
 isaa
 isab
-isae
 isaha
 isahe
 isai
@@ -14417,6 +14416,7 @@ sena
 senajan
 senak
 senam
+senan
 senang
 senar
 sendak
