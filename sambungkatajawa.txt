@@ -3529,6 +3529,7 @@ ehuy
 eilang
 ej
 eja
+ejac
 ejah
 ejar
 eje
@@ -4740,6 +4741,7 @@ genggem
 geni
 genine
 gening
+genio
 genit
 geniya
 genjer
@@ -6491,6 +6493,7 @@ jina
 jinak
 jinaka
 jinem
+jineman
 jingga
 jingkrak
 jingkrik
@@ -9994,6 +9997,7 @@ ngadok
 ngadol
 ngadon
 ngados
+ngadosi
 ngadu
 ngaduk
 ngadul
@@ -10342,6 +10346,7 @@ ngaturi
 ngaturno
 ngatus
 ngaub
+ngaum
 ngaup
 ngaur
 ngaut
@@ -10700,6 +10705,7 @@ nggah
 nggak
 nggali
 nggambar
+nggandul
 ngganggu
 ngganti
 nggantung
@@ -11956,6 +11962,7 @@ olom
 olon
 olone
 olong
+olono
 oloo
 olop
 olor
