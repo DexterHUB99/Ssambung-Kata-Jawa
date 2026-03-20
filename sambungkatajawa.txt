@@ -6462,6 +6462,7 @@ kadohan
 kadong
 kados
 kadose
+kadu
 kaduh
 kaduhung
 kadung
@@ -13106,6 +13107,7 @@ reha
 rei
 reja
 rejeb
+rejek
 rejeki
 rejik
 rejo
