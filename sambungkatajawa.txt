@@ -8650,6 +8650,7 @@ makana
 makanan
 makane
 makanne
+makat
 make
 maki
 makiya
@@ -9993,6 +9994,7 @@ ngama
 ngamah
 ngamal
 ngaman
+ngamani
 ngamar
 ngamati
 ngamba
@@ -10594,6 +10596,7 @@ ngewoh
 ngewu
 ngeya
 ngeyel
+ngeyot
 ngg
 ngga
 nggaa
@@ -15175,6 +15178,7 @@ teh
 teja
 tek
 teka
+tekad
 tekan
 tekane
 teke
