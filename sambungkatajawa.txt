@@ -4401,6 +4401,7 @@ gatel
 gateli
 gatet
 gathel
+gathok
 gathot
 gati
 gatok
@@ -12750,6 +12751,7 @@ rajai
 rajak
 rajam
 rajan
+rajane
 rajang
 rajar
 rajek
