@@ -15,6 +15,7 @@ abak
 aban
 abang
 abangi
+abar
 abas
 abasa
 abat
@@ -1362,6 +1363,7 @@ asa
 asaan
 asad
 asaf
+asag
 asah
 asahan
 asai
@@ -4037,7 +4039,6 @@ esar
 esat
 esay
 escendol
-esdawet
 ese
 eseh
 esek
@@ -4191,7 +4192,6 @@ fafa
 faham
 fajar
 fakir
-fakis
 fakor
 fakta
 fala
@@ -4703,6 +4703,7 @@ gereng
 geret
 gergaji
 geri
+gerie
 gerih
 gerik
 gering
@@ -4857,6 +4858,7 @@ golek
 golekan
 goleki
 golekno
+goleko
 goler
 golet
 goleti
@@ -4913,6 +4915,7 @@ gowo
 gowoe
 goyah
 goyang
+grab
 gragal
 graji
 gram
@@ -5621,7 +5624,6 @@ ikai
 ikal
 ikala
 ikan
-ikana
 ikane
 ikar
 ikas
@@ -7143,6 +7145,7 @@ kenak
 kenan
 kenang
 kenanga
+kenap
 kenapa
 kenari
 kencing
@@ -7471,6 +7474,7 @@ kiye
 klakson
 klambi
 klambine
+klapa
 klaten
 klawu
 klebus
@@ -8215,6 +8219,7 @@ lima
 limaa
 limae
 limai
+limak
 limalas
 liman
 limang
@@ -8762,6 +8767,7 @@ marai
 marak
 marang
 marani
+mardika
 mare
 marem
 maren
@@ -9804,6 +9810,7 @@ netes
 neti
 netra
 netur
+neuron
 newa
 ngaba
 ngabab
@@ -10192,7 +10199,6 @@ ngaturaken
 ngature
 ngaturi
 ngaturno
-ngatus
 ngaub
 ngaup
 ngaur
@@ -11919,6 +11925,7 @@ opore
 opos
 opose
 oposi
+opot
 opota
 opowae
 opowi
@@ -12329,6 +12336,7 @@ pato
 patok
 patub
 patuh
+patun
 patung
 patur
 patus
@@ -14289,6 +14297,7 @@ senon
 sentosa
 senuk
 seo
+sep
 sepak
 separo
 sepat
@@ -14818,6 +14827,7 @@ susahe
 susai
 susaki
 susan
+susana
 susas
 susi
 susia
@@ -15071,6 +15081,7 @@ tawi
 tawon
 tawur
 tawuran
+taxi
 taya
 tayo
 tayub
@@ -15515,6 +15526,7 @@ tutuk
 tutup
 tutupi
 tutur
+tuturan
 tuturane
 tuturi
 tuwa
@@ -16332,7 +16344,6 @@ wala
 walah
 walak
 walang
-walas
 wale
 wali
 walih
@@ -16827,7 +16838,6 @@ yua
 yuan
 yuda
 yudha
-yudhistira
 yudi
 yue
 yuem
