@@ -1152,7 +1152,6 @@ apaan
 apae
 apag
 apah
-apai
 apak
 apal
 apala
@@ -4095,7 +4094,6 @@ etum
 etun
 etung
 etus
-etut
 ev
 eva
 eval
@@ -5105,6 +5103,7 @@ hangwo
 hani
 haning
 hanki
+hanko
 hano
 hansip
 hanta
@@ -6448,7 +6447,6 @@ kabupaten
 kabur
 kabut
 kaca
-kacak
 kacang
 kacau
 kacek
@@ -8668,6 +8666,7 @@ mare
 marem
 maren
 mareng
+marga
 mari
 mariki
 marila
@@ -9086,7 +9085,6 @@ mubah
 mubal
 mubeng
 mucak
-mucok
 mucuk
 mudal
 mudar
@@ -9899,6 +9897,7 @@ ngang
 nganga
 ngangah
 ngangam
+ngangaran
 ngange
 ngangen
 ngangeni
@@ -10418,7 +10417,6 @@ ngeya
 ngeyel
 ngg
 ngga
-nggaa
 nggadu
 nggae
 nggah
@@ -12113,7 +12111,6 @@ panuwun
 panyuwun
 papa
 papah
-papai
 papak
 papan
 papasan
@@ -14571,7 +14568,6 @@ sulur
 sum
 suma
 suman
-sumangga
 sumbang
 sumbanga
 sumbangan
