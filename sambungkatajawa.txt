@@ -6735,6 +6735,7 @@ kapan
 kaparing
 kapas
 kape
+kapek
 kapen
 kapi
 kapik
@@ -12144,6 +12145,7 @@ pandang
 pandawa
 pande
 pandu
+panduan
 pandung
 panem
 panen
