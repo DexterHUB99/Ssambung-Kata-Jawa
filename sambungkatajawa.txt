@@ -15888,6 +15888,7 @@ ulangtahun
 ulao
 ulap
 ular
+ulare
 ulas
 ulasan
 ulat
