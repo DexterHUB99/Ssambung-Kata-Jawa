@@ -746,6 +746,7 @@ ampean
 ampek
 ampel
 ampela
+ampelan
 amper
 ampera
 amperan
@@ -7806,6 +7807,7 @@ kurung
 kurus
 kus
 kusa
+kusan
 kuse
 kusen
 kusi
