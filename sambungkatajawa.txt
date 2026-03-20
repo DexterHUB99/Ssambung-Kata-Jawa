@@ -8999,6 +8999,7 @@ met
 meta
 meteng
 metok
+metro
 metu
 metuan
 mewek
@@ -10266,6 +10267,7 @@ ngayak
 ngayal
 ngayem
 ngayi
+ngayo
 ngayom
 ngayomi
 ngayon
