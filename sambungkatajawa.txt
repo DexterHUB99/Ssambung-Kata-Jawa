@@ -6027,6 +6027,7 @@ isor
 isowa
 isra
 isri
+ista
 istana
 isti
 istiadat
@@ -7060,6 +7061,7 @@ kemiri
 kemis
 kemna
 kemol
+kemon
 kempel
 kempes
 kempis
@@ -11869,6 +11871,7 @@ ori
 orian
 orie
 orii
+orine
 oring
 oris
 orit
