@@ -5789,6 +5789,7 @@ ilang
 ilangake
 ilangan
 ilangen
+ilangi
 ilangono
 ilaono
 ilap
@@ -9102,6 +9103,7 @@ merah
 merak
 merat
 merek
+mereka
 merem
 merene
 mergo
