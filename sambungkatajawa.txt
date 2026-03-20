@@ -16010,6 +16010,7 @@ ulangi
 ulangtahun
 ulao
 ulap
+ulapan
 ular
 ulare
 ulas
