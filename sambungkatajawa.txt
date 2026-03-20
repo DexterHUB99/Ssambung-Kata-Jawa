@@ -796,6 +796,7 @@ anai
 anaii
 anaj
 anak
+anaka
 anakan
 anakane
 anake
@@ -4248,6 +4249,7 @@ gabuk
 gabung
 gabungan
 gabus
+gabusan
 gabut
 gaco
 gacoan
@@ -6930,6 +6932,7 @@ kathah
 kathok
 kati
 katil
+katis
 katok
 katon
 katone
