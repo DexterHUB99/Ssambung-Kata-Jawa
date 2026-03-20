@@ -3929,6 +3929,7 @@ entut
 entute
 entutmu
 enu
+enuh
 enuk
 enul
 enum
@@ -12869,6 +12870,7 @@ polahmu
 polaman
 polan
 polar
+polas
 pole
 poleh
 polek
