@@ -2659,7 +2659,6 @@ comi
 como
 comot
 condong
-congklak
 congok
 congor
 congore
@@ -2925,6 +2924,7 @@ demi
 demit
 demo
 demok
+demokrasi
 dempul
 demu
 demung
@@ -2940,7 +2940,6 @@ dening
 deno
 depa
 depak
-depe
 depo
 depot
 der
@@ -3413,6 +3412,7 @@ egil
 ego
 egois
 egok
+egon
 egor
 egos
 egrang
@@ -4304,7 +4304,6 @@ gajelas
 gaji
 gajia
 gajian
-gajihe
 gajimu
 gajul
 gak
@@ -11327,6 +11326,7 @@ niti
 nitih
 nitik
 nitip
+nitis
 niwa
 niwas
 niwe
@@ -13335,6 +13335,7 @@ rebab
 rebah
 rebahan
 rebana
+rebat
 rebo
 rebok
 rebung
