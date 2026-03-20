@@ -7881,6 +7881,7 @@ kupa
 kupas
 kupat
 kupeng
+kuper
 kupi
 kuping
 kupinge
@@ -11872,6 +11873,7 @@ okehe
 okei
 okel
 okela
+okele
 okeli
 okem
 okema
