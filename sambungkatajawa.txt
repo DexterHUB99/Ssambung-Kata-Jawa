@@ -682,7 +682,6 @@ amburadul
 ambyar
 ame
 ameh
-amej
 amek
 amel
 amem
@@ -1697,7 +1696,6 @@ ayuj
 ayuk
 ayuli
 ayum
-ayumu
 ayun
 ayunan
 ayune
@@ -1766,6 +1764,7 @@ bajak
 bajan
 baji
 bajigur
+bajin
 bajing
 bajinga
 bajingan
@@ -5010,6 +5009,7 @@ gurah
 gurami
 guran
 gure
+guren
 guri
 gurih
 gurit
@@ -9090,7 +9090,6 @@ molah
 molan
 molane
 molas
-molase
 mole
 moleh
 molek
