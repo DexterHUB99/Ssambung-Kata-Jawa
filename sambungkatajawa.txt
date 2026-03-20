@@ -1754,6 +1754,7 @@ baju
 bajul
 bak
 baka
+bakaa
 bakal
 bakan
 bakar
@@ -9329,6 +9330,7 @@ nanah
 nanai
 nanak
 nanam
+nanama
 nanan
 nanang
 nanari
@@ -10703,6 +10705,7 @@ ngop
 ngopah
 ngopak
 ngopel
+ngopeng
 ngopeni
 ngoper
 ngopet
