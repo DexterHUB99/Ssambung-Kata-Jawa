@@ -796,6 +796,7 @@ anai
 anaii
 anaj
 anak
+anaka
 anakan
 anakane
 anake
@@ -804,7 +805,6 @@ anakmu
 anal
 anam
 anama
-anaman
 anan
 anana
 ananas
@@ -4249,6 +4249,7 @@ gabuk
 gabung
 gabungan
 gabus
+gabusan
 gabut
 gaco
 gacoan
@@ -5749,7 +5750,6 @@ ilokan
 ilon
 iloo
 ilu
-ilue
 ilui
 iluk
 iluni
@@ -6220,7 +6220,6 @@ jaga
 jagad
 jagar
 jago
-jagoan
 jagong
 jagung
 jahat
@@ -6933,6 +6932,7 @@ kathah
 kathok
 kati
 katil
+katis
 katok
 katon
 katone
@@ -11667,6 +11667,7 @@ oc
 oceh
 ocehan
 oci
+ocik
 ocok
 ocol
 ocoli
@@ -15335,6 +15336,7 @@ timah
 timan
 timang
 timba
+timbak
 timbal
 timbali
 timbang
