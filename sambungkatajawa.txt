@@ -2955,6 +2955,7 @@ digo
 diguna
 diham
 dihan
+dihari
 diimboh
 diisi
 dija
@@ -6511,6 +6512,7 @@ kakam
 kakanda
 kakang
 kakap
+kakar
 kakas
 kakat
 kake
