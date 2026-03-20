@@ -1770,6 +1770,7 @@ bahasa
 bahaya
 bahli
 bahu
+bahwa
 bai
 bairo
 baja
@@ -5516,6 +5517,7 @@ iblis
 ibu
 ibue
 ibuk
+ibukem
 ibuku
 ibumu
 ibune
