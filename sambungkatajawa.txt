@@ -237,7 +237,6 @@ ahlak
 ahli
 ahlian
 ahlie
-ahlien
 ahlii
 ahlina
 ahline
@@ -1432,6 +1431,7 @@ asti
 astina
 asu
 asua
+asuan
 asuasu
 asue
 asuh
@@ -1889,6 +1889,7 @@ batune
 batur
 baturan
 bau
+baud
 bawa
 bawah
 bawal
@@ -1958,7 +1959,6 @@ bekal
 bekan
 bekas
 bekel
-bekem
 bekne
 beko
 bekok
@@ -4168,7 +4168,6 @@ fafa
 faham
 fajar
 fakir
-fakor
 fakta
 fala
 fale
@@ -7290,7 +7289,6 @@ ketel
 ketela
 ketemu
 keter
-keteter
 kethek
 kethok
 keti
@@ -9394,7 +9392,6 @@ nambel
 nambeli
 nambi
 nambuh
-nambur
 name
 namen
 nami
@@ -12062,7 +12059,6 @@ pal
 pala
 palah
 palak
-palalo
 palamu
 palane
 palang
@@ -12073,7 +12069,6 @@ paleng
 pali
 palik
 paling
-palinga
 palingan
 palip
 palir
@@ -13680,7 +13675,6 @@ ruyi
 rw
 sa
 saa
-saake
 saaken
 saan
 saapi
@@ -15595,7 +15589,6 @@ ukae
 ukai
 ukak
 ukaka
-ukaki
 ukal
 ukam
 ukama
@@ -15659,7 +15652,6 @@ uku
 ukud
 ukuk
 ukukir
-ukukuk
 ukukur
 ukul
 ukum
@@ -16755,7 +16747,6 @@ yuh
 yuha
 yuhan
 yui
-yuing
 yuk
 yuka
 yukan
