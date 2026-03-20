@@ -2521,6 +2521,7 @@ ceceng
 cecok
 cedak
 cedek
+cedok
 ceget
 ceh
 cek
@@ -5319,6 +5320,7 @@ hasi
 hasil
 hasile
 hasilo
+hasing
 hasna
 haso
 hasrat
@@ -16191,7 +16193,6 @@ unjur
 unjut
 unka
 unki
-unli
 unma
 unni
 uno
