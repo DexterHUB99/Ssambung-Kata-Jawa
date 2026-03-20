@@ -1342,7 +1342,6 @@ asasa
 asat
 asay
 ase
-aseg
 aseh
 asek
 asel
@@ -9507,7 +9506,6 @@ nemek
 nemen
 nemi
 nemok
-nemoki
 nemokke
 nemoni
 nempal
@@ -9649,7 +9647,6 @@ ngae
 ngaei
 ngaga
 ngagak
-ngage
 ngagel
 ngagem
 ngago
@@ -11826,7 +11823,6 @@ padung
 padus
 padusan
 paes
-paga
 pagar
 pagawean
 pager
@@ -14050,6 +14046,7 @@ seser
 seset
 sesi
 sesok
+sesu
 sesuk
 sesupe
 set
@@ -14354,6 +14351,7 @@ su
 sua
 suami
 suamii
+suan
 suar
 suara
 suarane
