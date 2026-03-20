@@ -868,6 +868,7 @@ andus
 ane
 anee
 aneh
+anehe
 anehi
 anehwe
 anek
@@ -1071,6 +1072,7 @@ antemi
 anteng
 antep
 anter
+anterno
 antes
 anti
 antii
@@ -1370,6 +1372,7 @@ asim
 asin
 asinan
 asing
+asir
 asiran
 asis
 asit
@@ -2998,6 +3001,7 @@ dimun
 dimut
 din
 dina
+dinae
 dinah
 dinan
 dinar
@@ -3227,6 +3231,7 @@ durjana
 durma
 duro
 durung
+durunge
 dus
 dusa
 dusi
@@ -4877,6 +4882,7 @@ guleman
 guleng
 guli
 guling
+gulingan
 gulir
 gulon
 gulonan
@@ -6774,6 +6780,7 @@ katut
 kaula
 kaulo
 kauman
+kaung
 kauripan
 kawah
 kawak
@@ -11808,6 +11815,7 @@ oyot
 oz
 pa
 paala
+paalah
 paalu
 pabak
 pacar
@@ -13841,6 +13849,7 @@ sawijine
 sawijining
 sawise
 sawit
+sawite
 sawo
 saya
 sayah
@@ -14564,6 +14573,7 @@ sute
 suti
 sutil
 sutra
+sutri
 suw
 suwan
 suwara
@@ -16176,6 +16186,7 @@ weo
 wer
 wera
 were
+weri
 werkudara
 werna
 werno
