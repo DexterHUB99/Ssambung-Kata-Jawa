@@ -2521,7 +2521,6 @@ ceceng
 cecok
 cedak
 cedek
-cedok
 ceget
 ceh
 cek
@@ -5320,7 +5319,6 @@ hasi
 hasil
 hasile
 hasilo
-hasing
 hasna
 haso
 hasrat
@@ -9993,6 +9991,7 @@ ngadok
 ngadol
 ngadon
 ngados
+ngadosi
 ngadu
 ngaduk
 ngadul
@@ -11954,6 +11953,7 @@ olom
 olon
 olone
 olong
+olono
 oloo
 olop
 olor
