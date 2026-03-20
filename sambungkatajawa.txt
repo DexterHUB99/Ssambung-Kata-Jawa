@@ -11239,6 +11239,7 @@ nma
 nmi
 nn
 nna
+nnaga
 nnaliko
 nnan
 nnapa
