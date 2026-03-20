@@ -3970,6 +3970,7 @@ esak
 esal
 esaman
 esan
+esane
 esar
 esat
 esay
@@ -4129,6 +4130,7 @@ fakir
 fakta
 fala
 fale
+fali
 famu
 fan
 fana
@@ -13396,6 +13398,7 @@ roti
 rotii
 rotina
 roto
+rowa
 rowang
 rowe
 rowi
