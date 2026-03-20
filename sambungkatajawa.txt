@@ -4118,6 +4118,7 @@ etap
 etar
 etara
 etas
+etat
 etawa
 etawi
 ete
