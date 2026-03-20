@@ -4277,6 +4277,7 @@ gamber
 gambir
 gambiran
 gambleh
+gamblong
 gambreng
 gambret
 gambuh
@@ -6461,7 +6462,6 @@ kadohan
 kadong
 kados
 kadose
-kadu
 kaduh
 kaduhung
 kadung
@@ -13104,7 +13104,6 @@ reha
 rei
 reja
 rejeb
-rejek
 rejeki
 rejik
 rejo
