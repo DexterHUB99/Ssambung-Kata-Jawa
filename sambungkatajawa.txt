@@ -10122,6 +10122,7 @@ ngasang
 ngasap
 ngasar
 ngase
+ngaseh
 ngasek
 ngasem
 ngasep
@@ -11446,6 +11447,7 @@ nusa
 nusan
 nusi
 nusul
+nusun
 nut
 nuten
 nuthuk
