@@ -616,6 +616,7 @@ amama
 amaman
 amambil
 amamin
+amamur
 aman
 amana
 amanah
@@ -8847,6 +8848,7 @@ mian
 micek
 midak
 midhanget
+midhangeti
 mie
 mieayam
 miee
