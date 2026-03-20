@@ -6578,6 +6578,7 @@ kalem
 kalen
 kaleng
 kaler
+kales
 kali
 kalia
 kalian
@@ -6995,6 +6996,7 @@ kelek
 kelekmu
 kelem
 kelen
+kelengan
 kelengkeng
 kelep
 kelepatan
