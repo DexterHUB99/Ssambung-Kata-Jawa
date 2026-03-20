@@ -133,6 +133,7 @@ adzan
 ae
 aenak
 aeng
+aengi
 af
 afa
 afah
@@ -4712,6 +4713,7 @@ gih
 gila
 gilaa
 gilae
+gilai
 gilak
 gilane
 gilang
@@ -8406,6 +8408,7 @@ luntur
 lunyu
 lup
 lupa
+lupae
 lupe
 lupi
 lupis
