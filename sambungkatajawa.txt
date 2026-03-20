@@ -3560,7 +3560,6 @@ elak
 elal
 elam
 elan
-elana
 elang
 elap
 elar
@@ -4114,7 +4113,6 @@ etig
 etik
 etika
 etil
-etin
 eting
 etir
 etis
@@ -8644,7 +8642,6 @@ malik
 malika
 malin
 maling
-malku
 malu
 malung
 mam
@@ -15541,7 +15538,6 @@ ubarampe
 ube
 ubek
 ubekan
-ubel
 uben
 uber
 ubet
