@@ -7053,7 +7053,6 @@ kawin
 kawit
 kawitan
 kawok
-kawol
 kawos
 kawruh
 kawula
@@ -7172,7 +7171,6 @@ kelepatan
 keler
 kelereng
 keles
-kelesu
 kelet
 keli
 kelia
@@ -11117,7 +11115,6 @@ ngrokok
 ngrumat
 ngrumpi
 ngrungu
-ngrus
 ngrusak
 ngrusuhi
 ngrut
@@ -11236,7 +11233,6 @@ ngupah
 ngupahi
 ngupai
 ngupakara
-ngupal
 ngupas
 ngupati
 ngupaya
@@ -11244,7 +11240,6 @@ ngupel
 ngupi
 ngupil
 nguping
-ngupis
 ngupo
 ngur
 ngurab
@@ -13559,7 +13554,6 @@ remok
 rempah
 rempal
 rempek
-rempela
 rempeyek
 rempol
 rempon
@@ -13745,7 +13739,6 @@ ritah
 ritan
 rite
 riti
-ritna
 riwa
 riwayat
 riwe
@@ -16323,7 +16316,6 @@ uras
 urasa
 urat
 uratan
-urawa
 urawi
 ure
 urek
