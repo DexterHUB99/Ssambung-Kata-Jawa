@@ -42,6 +42,7 @@ abot
 abrit
 abu
 abuh
+abuk
 abul
 abus
 abuy
@@ -321,6 +322,7 @@ aiwak
 aiwe
 aiwi
 aiya
+aiyi
 aiyo
 aj
 aja
@@ -1673,6 +1675,7 @@ ayal
 ayalan
 ayam
 ayaman
+ayamku
 ayamne
 ayan
 ayana
@@ -8621,6 +8624,7 @@ maca
 macak
 macan
 macapat
+macem
 macet
 macit
 macul
@@ -9441,6 +9445,7 @@ nafas
 nafkah
 nag
 naga
+nagaa
 nagara
 nagasari
 nage
@@ -10168,6 +10173,7 @@ ngantup
 nganu
 nganune
 nganwi
+nganying
 ngaos
 ngap
 ngapa
