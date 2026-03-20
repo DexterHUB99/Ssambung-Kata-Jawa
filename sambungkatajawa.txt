@@ -5457,6 +5457,7 @@ ibarate
 iber
 iblis
 ibu
+ibue
 ibuk
 ibuku
 ibumu
@@ -8840,6 +8841,7 @@ memelas
 memen
 memetu
 men
+mena
 menawa
 menawi
 mencolot
