@@ -4280,6 +4280,7 @@ gagar
 gagas
 gagasan
 gage
+gagean
 gagrak
 gagu
 gaguna
@@ -6132,6 +6133,7 @@ ita
 itaa
 itai
 itali
+itama
 itami
 itara
 itawa
@@ -8317,6 +8319,7 @@ lipur
 lir
 lira
 lire
+lirek
 liren
 liri
 lirih
@@ -9338,7 +9341,6 @@ musim
 musing
 musisi
 musoh
-musola
 mustahil
 mustaka
 musu
@@ -10041,6 +10043,7 @@ ngandi
 ngandika
 ngandok
 ngandong
+ngandu
 nganduk
 ngandung
 ngandut
@@ -13069,6 +13072,7 @@ rakit
 rakka
 raksasa
 raku
+rakui
 rakum
 rakus
 rakuse
