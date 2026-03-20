@@ -5103,6 +5103,7 @@ hangwo
 hani
 haning
 hanki
+hanko
 hano
 hansip
 hanta
