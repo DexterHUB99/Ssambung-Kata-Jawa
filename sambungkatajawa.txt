@@ -375,6 +375,7 @@ ak
 aka
 akad
 akade
+akag
 akah
 akak
 akaksi
@@ -1734,6 +1735,7 @@ bagi
 bagian
 bagog
 bagong
+bagor
 bagos
 bagu
 bagus
@@ -5820,6 +5822,7 @@ insyaallah
 internet
 inti
 intii
+intik
 intil
 intine
 intinya
@@ -9986,6 +9989,7 @@ ngapain
 ngapak
 ngapal
 ngapalake
+ngapang
 ngapati
 ngapel
 ngapeli
