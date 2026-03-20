@@ -2521,6 +2521,7 @@ ceceng
 cecok
 cedak
 cedek
+cedok
 ceget
 ceh
 cek
@@ -5321,6 +5322,7 @@ hasi
 hasil
 hasile
 hasilo
+hasing
 hasna
 haso
 hasrat
@@ -8859,7 +8861,6 @@ manten
 mantep
 manthuk
 mantu
-mantua
 mantuk
 mantul
 mantun
@@ -11671,6 +11672,7 @@ nyabut
 nyai
 nyala
 nyali
+nyalin
 nyam
 nyaman
 nyambel
