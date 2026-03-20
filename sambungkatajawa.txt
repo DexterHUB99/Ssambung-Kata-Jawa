@@ -1342,6 +1342,7 @@ asasa
 asat
 asay
 ase
+aseg
 aseh
 asek
 asel
@@ -1410,6 +1411,7 @@ asui
 asuk
 asuki
 asul
+asula
 asum
 asumu
 asun
@@ -1700,6 +1702,7 @@ badok
 badokan
 badut
 bae
+bage
 bagen
 bagi
 bagian
@@ -4875,6 +4878,7 @@ gulir
 gulon
 gulonan
 gulu
+gulue
 gulula
 gulung
 gulungan
@@ -8311,7 +8315,6 @@ luna
 lunar
 lung
 lunga
-lungae
 lungguh
 lunging
 lungkrah
@@ -8981,6 +8984,7 @@ mruk
 mu
 mual
 muara
+muasu
 muatan
 mubah
 mubal
@@ -9507,6 +9511,7 @@ nemek
 nemen
 nemi
 nemok
+nemoki
 nemokke
 nemoni
 nempal
@@ -9648,6 +9653,7 @@ ngae
 ngaei
 ngaga
 ngagak
+ngage
 ngagel
 ngagem
 ngago
@@ -10151,6 +10157,7 @@ ngena
 ngenah
 ngenak
 ngenalin
+ngenang
 ngenca
 ngencak
 ngencang
@@ -10895,6 +10902,7 @@ nguyung
 nguyup
 nguyur
 ngwah
+ngwor
 ngwur
 ngyat
 ngyuh
@@ -11824,6 +11832,7 @@ padung
 padus
 padusan
 paes
+paga
 pagar
 pagawean
 pager
@@ -14047,7 +14056,6 @@ seser
 seset
 sesi
 sesok
-sesu
 sesuk
 sesupe
 set
@@ -14352,7 +14360,6 @@ su
 sua
 suami
 suamii
-suan
 suar
 suara
 suarane
@@ -15384,6 +15391,7 @@ uking
 ukir
 ukira
 ukiran
+ukirane
 ukire
 ukiro
 ukit
