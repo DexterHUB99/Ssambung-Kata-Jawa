@@ -4961,6 +4961,7 @@ gulung
 gulungan
 gulur
 gumam
+gumantung
 gumarang
 gumathi
 gumati
@@ -7035,6 +7036,7 @@ kelingan
 kelip
 kelir
 keliru
+keloh
 kelok
 kelolohan
 kelon
