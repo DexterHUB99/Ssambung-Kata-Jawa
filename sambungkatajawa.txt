@@ -6640,7 +6640,6 @@ kagok
 kagungan
 kagus
 kahanan
-kahananing
 kail
 kaila
 kaimas
@@ -8410,7 +8409,6 @@ loba
 loban
 lobang
 lobange
-loben
 lober
 lobi
 lobok
