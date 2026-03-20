@@ -7247,6 +7247,7 @@ kicep
 kidal
 kidang
 kidul
+kidule
 kidung
 kie
 kijang
@@ -14333,6 +14334,7 @@ sola
 solah
 solan
 solar
+solare
 solat
 sole
 solek
