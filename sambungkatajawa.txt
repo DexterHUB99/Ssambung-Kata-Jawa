@@ -1361,7 +1361,6 @@ asa
 asaan
 asad
 asaf
-asag
 asah
 asahan
 asai
@@ -8212,7 +8211,6 @@ lima
 limaa
 limae
 limai
-limak
 limalas
 liman
 limang
@@ -12326,7 +12324,6 @@ pato
 patok
 patub
 patuh
-patun
 patung
 patur
 patus
@@ -14286,7 +14283,6 @@ senon
 sentosa
 senuk
 seo
-sep
 sepak
 separo
 sepat
@@ -15069,7 +15065,6 @@ tawi
 tawon
 tawur
 tawuran
-taxi
 taya
 tayo
 tayub
@@ -15514,7 +15509,6 @@ tutuk
 tutup
 tutupi
 tutur
-tuturan
 tuturane
 tuturi
 tuwa
