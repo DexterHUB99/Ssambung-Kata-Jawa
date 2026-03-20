@@ -542,6 +542,7 @@ alien
 alif
 alih
 alihan
+alij
 alik
 alim
 alima
