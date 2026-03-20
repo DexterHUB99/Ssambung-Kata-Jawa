@@ -3305,6 +3305,7 @@ dumal
 duman
 dumane
 dumeh
+dumo
 dumugi
 dun
 dung
@@ -7901,6 +7902,7 @@ la
 lab
 laba
 labas
+labe
 labet
 labi
 labrak
@@ -13545,6 +13547,7 @@ rewel
 rewo
 reya
 reyo
+rezeki
 ri
 ria
 rian
@@ -16882,6 +16885,7 @@ yawi
 yawis
 yawo
 yaya
+yayi
 ye
 yek
 yekan
