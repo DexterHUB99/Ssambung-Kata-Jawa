@@ -2125,6 +2125,7 @@ biju
 bik
 bika
 bikak
+bike
 bikin
 biko
 biku
@@ -2641,6 +2642,7 @@ cocok
 cocot
 cocote
 cocotmu
+cocu
 cod
 codan
 codet
@@ -3003,6 +3005,7 @@ dibawa
 dibo
 dida
 didak
+didar
 dideso
 didi
 didik
@@ -3425,6 +3428,7 @@ egi
 egik
 egil
 ego
+egoh
 egois
 egok
 egon
@@ -5888,6 +5892,7 @@ ingan
 ingat
 ingatan
 ingati
+ingen
 inget
 inggah
 inggal
@@ -9741,6 +9746,7 @@ nedi
 neduh
 neg
 nega
+negah
 negal
 negan
 negara
@@ -10159,7 +10165,6 @@ ngantup
 nganu
 nganune
 nganwi
-nganying
 ngaos
 ngap
 ngapa
@@ -12227,6 +12232,7 @@ pakdhe
 pake
 pakek
 pakem
+paki
 pakil
 pakir
 pakle
@@ -14190,6 +14196,7 @@ sasah
 sasak
 sasal
 sasampean
+sasap
 sasaran
 sasare
 sasarengan
@@ -14199,6 +14206,7 @@ sasen
 sasi
 sasih
 sasimi
+sasir
 saste
 sastra
 sasu
