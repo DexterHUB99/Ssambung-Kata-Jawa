@@ -555,7 +555,6 @@ alian
 alie
 alien
 alif
-alig
 alih
 alihan
 alij
@@ -2989,6 +2988,7 @@ dhawuh
 dhika
 di
 diadusi
+diajari
 diajeng
 diala
 dialah
@@ -6641,6 +6641,7 @@ kagok
 kagungan
 kagus
 kahanan
+kahananing
 kail
 kaila
 kaimas
@@ -8410,6 +8411,7 @@ loba
 loban
 lobang
 lobange
+loben
 lober
 lobi
 lobok
@@ -12084,7 +12086,6 @@ oratau
 oraurus
 orausah
 ore
-oree
 oreg
 orek
 orem
@@ -13963,7 +13964,6 @@ sah
 saha
 sahabat
 saham
-sahid
 sahor
 sahur
 sai
@@ -15012,6 +15012,7 @@ suting
 sutra
 sutri
 suw
+suwa
 suwan
 suwara
 suwargi
