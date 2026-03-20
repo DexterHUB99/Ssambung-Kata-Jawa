@@ -2659,6 +2659,7 @@ comi
 como
 comot
 condong
+congklak
 congok
 congor
 congore
@@ -2939,6 +2940,7 @@ dening
 deno
 depa
 depak
+depe
 depo
 depot
 der
