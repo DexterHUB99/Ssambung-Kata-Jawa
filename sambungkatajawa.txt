@@ -16917,6 +16917,7 @@ yang
 yangko
 yani
 yano
+yante
 yanyo
 yao
 yaora
