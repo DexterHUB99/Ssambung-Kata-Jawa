@@ -10465,6 +10465,7 @@ ngenget
 ngenggeh
 ngenggo
 ngengi
+ngengkol
 ngeni
 ngeniko
 ngenja
