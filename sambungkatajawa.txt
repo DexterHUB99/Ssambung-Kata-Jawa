@@ -4723,7 +4723,6 @@ get
 getan
 getar
 gete
-geter
 gething
 gethok
 gethuk
@@ -5200,7 +5199,6 @@ harimau
 harimu
 harine
 hario
-hariyo
 harjo
 harm
 harma
@@ -7208,7 +7206,6 @@ kepleset
 kepo
 kepoan
 kepompong
-keprabon
 kepriben
 kepriwe
 kepriye
@@ -14041,7 +14038,6 @@ sasae
 sasago
 sasah
 sasak
-sasal
 sasampean
 sasaran
 sasare
@@ -14829,7 +14825,6 @@ sutan
 sute
 suti
 sutil
-suting
 sutra
 sutri
 suw
