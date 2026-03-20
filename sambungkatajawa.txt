@@ -643,6 +643,7 @@ amba
 ambai
 ambal
 ambalan
+ambane
 ambar
 ambarawa
 ambas
