@@ -15270,6 +15270,7 @@ tan
 tana
 tanah
 tanan
+tancap
 tandang
 tandas
 tandha
