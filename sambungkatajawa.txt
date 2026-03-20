@@ -3640,6 +3640,7 @@ elang
 elap
 elar
 elas
+elat
 ele
 eleh
 elek
