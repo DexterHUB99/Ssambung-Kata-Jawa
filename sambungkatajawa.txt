@@ -1152,7 +1152,6 @@ apaan
 apae
 apag
 apah
-apai
 apak
 apal
 apala
@@ -6447,7 +6446,6 @@ kabupaten
 kabur
 kabut
 kaca
-kacak
 kacang
 kacau
 kacek
@@ -9085,7 +9083,6 @@ mubah
 mubal
 mubeng
 mucak
-mucok
 mucuk
 mudal
 mudar
@@ -10417,7 +10414,6 @@ ngeya
 ngeyel
 ngg
 ngga
-nggaa
 nggadu
 nggae
 nggah
@@ -14569,7 +14565,6 @@ sulur
 sum
 suma
 suman
-sumangga
 sumbang
 sumbanga
 sumbangan
