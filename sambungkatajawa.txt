@@ -102,6 +102,7 @@ adi
 adigang
 adiguna
 adigung
+adih
 adik
 adil
 adila
