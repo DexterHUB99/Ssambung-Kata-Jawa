@@ -296,6 +296,7 @@ aimi
 aimo
 aimu
 aina
+aine
 aing
 aini
 ainja
@@ -4562,6 +4563,7 @@ gem
 gema
 gemah
 gemak
+geman
 gemang
 gemar
 gemas
