@@ -13822,6 +13822,7 @@ salama
 salaman
 salas
 salat
+saldo
 sale
 saleh
 salem
