@@ -4249,6 +4249,7 @@ gabuk
 gabung
 gabungan
 gabus
+gabusan
 gabut
 gaco
 gacoan
@@ -6931,6 +6932,7 @@ kathah
 kathok
 kati
 katil
+katis
 katok
 katon
 katone
