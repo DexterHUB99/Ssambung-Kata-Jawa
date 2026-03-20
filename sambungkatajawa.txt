@@ -4460,6 +4460,7 @@ gedag
 gedang
 gede
 gedean
+gedee
 gedeg
 gedek
 geden
@@ -5073,6 +5074,7 @@ hancuren
 hane
 hang
 hangat
+hange
 hanget
 hangka
 hangwo
@@ -14056,6 +14058,7 @@ senen
 seneng
 seneni
 seng
+senggang
 sengit
 sengkir
 seni
