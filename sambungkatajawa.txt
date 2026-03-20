@@ -2125,6 +2125,7 @@ biju
 bik
 bika
 bikak
+bike
 bikin
 biko
 biku
@@ -13544,7 +13545,6 @@ rewel
 rewo
 reya
 reyo
-rezeki
 ri
 ria
 rian
@@ -16882,7 +16882,6 @@ yawi
 yawis
 yawo
 yaya
-yayi
 ye
 yek
 yekan
