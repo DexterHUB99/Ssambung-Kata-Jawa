@@ -10586,6 +10586,7 @@ ngerti
 ngertos
 ngeruh
 ngerui
+ngerujak
 ngeruk
 nges
 ngesa
