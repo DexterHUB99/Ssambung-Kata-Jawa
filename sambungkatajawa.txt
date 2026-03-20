@@ -5136,6 +5136,7 @@ hani
 haning
 hanki
 hanko
+hanna
 hano
 hansip
 hanta
@@ -6157,6 +6158,7 @@ jago
 jagong
 jagung
 jahat
+jahatlo
 jahe
 jahil
 jahit
