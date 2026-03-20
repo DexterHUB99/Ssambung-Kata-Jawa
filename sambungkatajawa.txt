@@ -2521,6 +2521,7 @@ cicite
 cicu
 cidak
 cidek
+cidra
 ciduk
 cihuy
 cik
