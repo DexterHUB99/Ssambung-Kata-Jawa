@@ -375,6 +375,7 @@ ak
 aka
 akad
 akade
+akag
 akah
 akak
 akaksi
@@ -1681,6 +1682,7 @@ ayu
 ayub
 ayuh
 ayuha
+ayui
 ayuj
 ayuk
 ayuli
@@ -1734,6 +1736,7 @@ bagi
 bagian
 bagog
 bagong
+bagor
 bagos
 bagu
 bagus
@@ -5821,6 +5824,7 @@ insyaallah
 internet
 inti
 intii
+intik
 intil
 intine
 intinya
@@ -5946,6 +5950,7 @@ isak
 isaku
 isam
 isan
+isana
 isani
 isao
 isap
@@ -9987,6 +9992,7 @@ ngapain
 ngapak
 ngapal
 ngapalake
+ngapang
 ngapati
 ngapel
 ngapeli
@@ -10555,6 +10561,7 @@ ngimbal
 ngimbangi
 ngimbar
 ngimbas
+ngimbi
 ngimboh
 ngimbu
 ngimbuh
@@ -11000,7 +11007,6 @@ ngusaha
 ngusahake
 ngusak
 ngusap
-ngusar
 ngusel
 nguser
 ngusi
@@ -14298,6 +14304,7 @@ sili
 silih
 silir
 silit
+silite
 silitmu
 silo
 sim
