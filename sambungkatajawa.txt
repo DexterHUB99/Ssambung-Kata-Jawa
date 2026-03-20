@@ -1431,6 +1431,7 @@ asti
 astina
 asu
 asua
+asuan
 asuasu
 asue
 asuh
@@ -13694,7 +13695,6 @@ sabi
 sabii
 sabit
 sablon
-sabo
 sabok
 sabon
 sabrang
