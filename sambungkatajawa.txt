@@ -1360,6 +1360,7 @@ asa
 asaan
 asad
 asaf
+asag
 asah
 asahan
 asai
@@ -5916,7 +5917,6 @@ ipuk
 ipun
 ir
 ira
-iraa
 irab
 irae
 iraga
@@ -8209,6 +8209,7 @@ lima
 limaa
 limae
 limai
+limak
 limalas
 liman
 limang
@@ -12321,6 +12322,7 @@ pato
 patok
 patub
 patuh
+patun
 patung
 patur
 patus
@@ -14280,6 +14282,7 @@ senon
 sentosa
 senuk
 seo
+sep
 sepak
 separo
 sepat
@@ -16518,7 +16521,6 @@ wii
 wiira
 wijaya
 wiji
-wijii
 wik
 wika
 wikan
