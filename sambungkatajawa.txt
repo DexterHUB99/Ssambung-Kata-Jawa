@@ -10053,6 +10053,7 @@ ngajang
 ngajar
 ngajari
 ngajeng
+ngajengan
 ngajeni
 ngaji
 ngajia
