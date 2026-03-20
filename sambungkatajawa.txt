@@ -4381,6 +4381,7 @@ galian
 galih
 galila
 galine
+galing
 galo
 galok
 galon
