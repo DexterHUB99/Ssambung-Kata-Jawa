@@ -2521,7 +2521,6 @@ ceceng
 cecok
 cedak
 cedek
-cedok
 ceget
 ceh
 cek
@@ -3529,6 +3528,7 @@ ehuy
 eilang
 ej
 eja
+ejac
 ejah
 ejar
 eje
@@ -4740,6 +4740,7 @@ genggem
 geni
 genine
 gening
+genio
 genit
 geniya
 genjer
@@ -5320,7 +5321,6 @@ hasi
 hasil
 hasile
 hasilo
-hasing
 hasna
 haso
 hasrat
@@ -6491,6 +6491,7 @@ jina
 jinak
 jinaka
 jinem
+jineman
 jingga
 jingkrak
 jingkrik
@@ -8858,6 +8859,7 @@ manten
 mantep
 manthuk
 mantu
+mantua
 mantuk
 mantul
 mantun
@@ -9993,6 +9995,7 @@ ngadok
 ngadol
 ngadon
 ngados
+ngadosi
 ngadu
 ngaduk
 ngadul
@@ -10341,6 +10344,7 @@ ngaturi
 ngaturno
 ngatus
 ngaub
+ngaum
 ngaup
 ngaur
 ngaut
@@ -10699,6 +10703,7 @@ nggah
 nggak
 nggali
 nggambar
+nggandul
 ngganggu
 ngganti
 nggantung
@@ -11666,7 +11671,6 @@ nyabut
 nyai
 nyala
 nyali
-nyalin
 nyam
 nyaman
 nyambel
@@ -11955,6 +11959,7 @@ olom
 olon
 olone
 olong
+olono
 oloo
 olop
 olor
