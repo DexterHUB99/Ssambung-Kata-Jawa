@@ -3561,7 +3561,6 @@ elak
 elal
 elam
 elan
-elana
 elang
 elap
 elar
@@ -4115,7 +4114,6 @@ etig
 etik
 etika
 etil
-etin
 eting
 etir
 etis
@@ -4189,6 +4187,7 @@ eyu
 eyuk
 eyup
 ez
+facu
 fadi
 fafa
 faham
@@ -8645,7 +8644,6 @@ malik
 malika
 malin
 maling
-malku
 malu
 malung
 mam
@@ -9682,7 +9680,6 @@ nekan
 nekane
 nekani
 nekar
-nekara
 nekat
 neke
 neken
@@ -10039,7 +10036,6 @@ ngangu
 nganguk
 ngangur
 ngani
-nganiko
 nganjing
 nganjir
 nganjok
@@ -10163,7 +10159,6 @@ ngasing
 ngasir
 ngaso
 ngasoh
-ngasok
 ngasor
 ngasta
 ngasu
@@ -10218,7 +10213,6 @@ ngawasi
 ngawe
 ngaweh
 ngawer
-ngawet
 ngawi
 ngawih
 ngawil
@@ -11484,6 +11478,7 @@ nusun
 nut
 nuten
 nuthuk
+nuti
 nutuk
 nutup
 nutupi
@@ -11917,7 +11912,6 @@ opok
 opoki
 opoko
 opol
-opoleh
 opolo
 opomeneh
 opon
@@ -15467,7 +15461,6 @@ tumbar
 tumbas
 tumbu
 tumbuk
-tume
 tumen
 tumi
 tumindak
@@ -15548,7 +15541,6 @@ ubarampe
 ube
 ubek
 ubekan
-ubel
 uben
 uber
 ubet
