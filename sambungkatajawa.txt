@@ -796,6 +796,7 @@ anai
 anaii
 anaj
 anak
+anaka
 anakan
 anakane
 anake
@@ -4248,6 +4249,7 @@ gabuk
 gabung
 gabungan
 gabus
+gabusan
 gabut
 gaco
 gacoan
@@ -5748,7 +5750,6 @@ ilokan
 ilon
 iloo
 ilu
-ilue
 ilui
 iluk
 iluni
@@ -6931,6 +6932,7 @@ kathah
 kathok
 kati
 katil
+katis
 katok
 katon
 katone
@@ -11665,6 +11667,7 @@ oc
 oceh
 ocehan
 oci
+ocik
 ocok
 ocol
 ocoli
