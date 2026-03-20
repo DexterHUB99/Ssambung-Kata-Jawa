@@ -1957,6 +1957,7 @@ bekal
 bekan
 bekas
 bekel
+bekem
 bekne
 beko
 bekok
@@ -12054,6 +12055,7 @@ pal
 pala
 palah
 palak
+palalo
 palamu
 palane
 palang
@@ -12064,6 +12066,7 @@ paleng
 pali
 palik
 paling
+palinga
 palingan
 palip
 palir
@@ -15584,6 +15587,7 @@ ukae
 ukai
 ukak
 ukaka
+ukaki
 ukal
 ukam
 ukama
