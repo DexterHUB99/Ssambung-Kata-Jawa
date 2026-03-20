@@ -3528,7 +3528,6 @@ ejuh
 ejuk
 ek
 eka
-ekaa
 ekaan
 ekad
 ekae
@@ -4072,7 +4071,6 @@ erusi
 erut
 es
 esa
-esaa
 esab
 esah
 esai
@@ -4128,7 +4126,6 @@ esun
 et
 eta
 etad
-etae
 etag
 etah
 etak
@@ -6069,7 +6066,6 @@ is
 isa
 isaa
 isab
-isae
 isaha
 isahe
 isai
@@ -14169,7 +14165,6 @@ sapo
 saponi
 sapu
 sapun
-sapur
 sapura
 saput
 saputra
@@ -15368,6 +15363,7 @@ terne
 terong
 terus
 tes
+tesa
 tese
 tesi
 tesu
@@ -16540,7 +16536,6 @@ wania
 wanine
 wanita
 wantah
-wanwa
 war
 wara
 warah
