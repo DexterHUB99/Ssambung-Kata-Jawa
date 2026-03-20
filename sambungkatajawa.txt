@@ -1837,6 +1837,7 @@ bante
 banteg
 banteng
 banter
+bantingo
 bantu
 bantul
 banyak
@@ -16284,6 +16285,7 @@ wana
 wanci
 wandi
 wandu
+wang
 wangan
 wangi
 wangsul
