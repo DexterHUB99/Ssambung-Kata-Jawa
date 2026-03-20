@@ -7881,7 +7881,6 @@ kupa
 kupas
 kupat
 kupeng
-kuper
 kupi
 kuping
 kupinge
