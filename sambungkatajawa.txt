@@ -5907,6 +5907,7 @@ ir
 ira
 irab
 irae
+iraga
 irah
 iraha
 irahan
@@ -15791,6 +15792,7 @@ uman
 umar
 umas
 umat
+umati
 umbah
 umbahan
 umbal
