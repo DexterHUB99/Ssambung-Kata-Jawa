@@ -14289,6 +14289,7 @@ seneng
 seneni
 seng
 senggang
+senggol
 sengit
 sengkir
 seni
@@ -16696,6 +16697,7 @@ yaki
 yakin
 yaku
 yakue
+yakulo
 yala
 yale
 yali
