@@ -10192,6 +10192,7 @@ ngaturaken
 ngature
 ngaturi
 ngaturno
+ngatus
 ngaub
 ngaup
 ngaur
