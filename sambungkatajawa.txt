@@ -4723,7 +4723,6 @@ get
 getan
 getar
 gete
-geter
 gething
 gethok
 gethuk
@@ -14039,7 +14038,6 @@ sasae
 sasago
 sasah
 sasak
-sasal
 sasampean
 sasaran
 sasare
@@ -14827,7 +14825,6 @@ sutan
 sute
 suti
 sutil
-suting
 sutra
 sutri
 suw
