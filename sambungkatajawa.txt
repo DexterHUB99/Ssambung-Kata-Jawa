@@ -2125,7 +2125,6 @@ biju
 bik
 bika
 bikak
-bike
 bikin
 biko
 biku
@@ -3004,7 +3003,6 @@ dibawa
 dibo
 dida
 didak
-didar
 dideso
 didi
 didik
@@ -13546,6 +13544,7 @@ rewel
 rewo
 reya
 reyo
+rezeki
 ri
 ria
 rian
@@ -14185,7 +14184,6 @@ sasah
 sasak
 sasal
 sasampean
-sasap
 sasaran
 sasare
 sasarengan
@@ -16884,6 +16882,7 @@ yawi
 yawis
 yawo
 yaya
+yayi
 ye
 yek
 yekan
