@@ -6438,6 +6438,7 @@ juluk
 jum
 jumat
 jumblah
+jumbo
 jumeneng
 jumi
 jumla
@@ -11747,6 +11748,7 @@ ompole
 ompong
 ompreng
 omta
+omte
 on
 onang
 onangan
