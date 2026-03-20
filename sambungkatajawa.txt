@@ -2659,6 +2659,7 @@ comi
 como
 comot
 condong
+congklak
 congok
 congor
 congore
@@ -2940,6 +2941,7 @@ dening
 deno
 depa
 depak
+depe
 depo
 depot
 der
@@ -4118,7 +4120,6 @@ etap
 etar
 etara
 etas
-etat
 etawa
 etawi
 ete
@@ -4305,6 +4306,7 @@ gajelas
 gaji
 gajia
 gajian
+gajihe
 gajimu
 gajul
 gak
@@ -4463,7 +4465,6 @@ garapi
 garas
 garasi
 garbis
-garda
 gardu
 gare
 garem
@@ -9490,7 +9491,6 @@ namar
 namari
 namba
 nambah
-nambahi
 nambai
 nambak
 nambal
@@ -10025,7 +10025,6 @@ ngamo
 ngamok
 ngamp
 ngampak
-ngampang
 ngampar
 ngampas
 ngampel
@@ -10367,6 +10366,7 @@ ngelag
 ngelak
 ngelakoni
 ngelam
+ngelambe
 ngelantur
 ngelap
 ngelar
@@ -11746,7 +11746,6 @@ ojonesu
 ojoo
 ok
 oka
-okaa
 okae
 okai
 okak
