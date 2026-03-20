@@ -3528,6 +3528,7 @@ ehuy
 eilang
 ej
 eja
+ejac
 ejah
 ejar
 eje
@@ -6490,6 +6491,7 @@ jina
 jinak
 jinaka
 jinem
+jineman
 jingga
 jingkrak
 jingkrik
