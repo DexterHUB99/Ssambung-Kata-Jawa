@@ -2368,6 +2368,7 @@ bunuh
 bup
 bur
 burek
+burhan
 buri
 burik
 burok
