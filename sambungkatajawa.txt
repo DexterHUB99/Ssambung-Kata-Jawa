@@ -4250,6 +4250,7 @@ ewes
 ewew
 ewi
 ewih
+ewis
 ewoh
 ewok
 ewong
