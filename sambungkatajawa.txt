@@ -375,6 +375,7 @@ ak
 aka
 akad
 akade
+akag
 akah
 akak
 akaksi
@@ -1734,6 +1735,7 @@ bagi
 bagian
 bagog
 bagong
+bagor
 bagos
 bagu
 bagus
@@ -4434,7 +4436,6 @@ gata
 gatah
 gatau
 gatel
-gatelen
 gateli
 gatet
 gathel
@@ -5821,6 +5822,7 @@ insyaallah
 internet
 inti
 intii
+intik
 intil
 intine
 intinya
@@ -5946,6 +5948,7 @@ isak
 isaku
 isam
 isan
+isana
 isani
 isao
 isap
@@ -9987,6 +9990,7 @@ ngapain
 ngapak
 ngapal
 ngapalake
+ngapang
 ngapati
 ngapel
 ngapeli
