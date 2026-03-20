@@ -5610,6 +5610,7 @@ ihma
 ihmu
 ihna
 ihni
+ihno
 iho
 ihra
 ihre
@@ -11352,6 +11353,7 @@ nobat
 nodol
 nogel
 noh
+noha
 nok
 noka
 noke
