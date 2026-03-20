@@ -1097,6 +1097,7 @@ anter
 anterno
 antes
 anti
+antih
 antii
 antik
 anting
@@ -6286,6 +6287,7 @@ jejer
 jek
 jeke
 jeki
+jela
 jelang
 jelas
 jelek
@@ -15965,6 +15967,7 @@ uping
 upir
 upis
 upit
+upla
 upload
 upning
 upno
