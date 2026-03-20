@@ -3991,6 +3991,7 @@ esil
 esim
 esin
 esir
+esit
 esmambo
 eso
 esoe
@@ -14879,6 +14880,7 @@ temon
 tempal
 tempat
 tempe
+tempee
 tempek
 tempeken
 tempekmu
