@@ -3404,6 +3404,7 @@ ege
 egel
 eger
 egi
+egik
 egil
 ego
 egois
@@ -5792,7 +5793,6 @@ imen
 imha
 imi
 iming
-imis
 imit
 imla
 immu
@@ -9745,7 +9745,6 @@ neles
 neli
 nelih
 neling
-neliti
 nelongso
 nelu
 neluk
