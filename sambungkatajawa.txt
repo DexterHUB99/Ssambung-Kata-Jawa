@@ -2031,6 +2031,7 @@ bendo
 bendung
 bene
 bener
+beneri
 bengawan
 bengek
 bengi
@@ -3305,7 +3306,6 @@ dumal
 duman
 dumane
 dumeh
-dumo
 dumugi
 dun
 dung
@@ -5870,7 +5870,6 @@ indira
 indomie
 indra
 indu
-indui
 induk
 indukan
 induki
@@ -7418,7 +7417,6 @@ ketoprak
 ketos
 ketoto
 ketua
-ketuban
 ketuk
 ketum
 ketumbar
@@ -7904,7 +7902,6 @@ la
 lab
 laba
 labas
-labe
 labet
 labi
 labrak
@@ -10006,6 +10003,7 @@ ngaler
 ngali
 ngalih
 ngaliho
+ngaling
 ngalir
 ngalis
 ngaliyan
@@ -13549,7 +13547,6 @@ rewel
 rewo
 reya
 reyo
-rezeki
 ri
 ria
 rian
@@ -16585,7 +16582,6 @@ wedang
 wedangan
 wedange
 wede
-weden
 wedhang
 wedhi
 wedhus
@@ -16888,7 +16884,6 @@ yawi
 yawis
 yawo
 yaya
-yayi
 ye
 yek
 yekan
