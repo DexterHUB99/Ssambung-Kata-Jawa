@@ -2501,6 +2501,7 @@ casu
 catur
 cawan
 cawang
+cawani
 cawe
 cawet
 cawi
@@ -10610,7 +10611,6 @@ ngeram
 ngerami
 ngerampok
 ngerandu
-ngerang
 ngerap
 ngeras
 ngerasa
