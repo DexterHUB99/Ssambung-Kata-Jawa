@@ -6463,6 +6463,7 @@ kadohan
 kadong
 kados
 kadose
+kadu
 kaduh
 kaduhung
 kadung
@@ -7485,6 +7486,7 @@ koperasi
 kopet
 kopi
 kopiah
+kopii
 kopine
 koplak
 koplo
@@ -13107,6 +13109,7 @@ reha
 rei
 reja
 rejeb
+rejek
 rejeki
 rejik
 rejo
