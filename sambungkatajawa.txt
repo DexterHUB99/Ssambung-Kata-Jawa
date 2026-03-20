@@ -2544,6 +2544,7 @@ cepak
 cepe
 cepet
 ceplok
+cera
 cerak
 cere
 ceret
