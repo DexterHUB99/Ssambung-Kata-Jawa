@@ -7998,6 +7998,7 @@ lalar
 lalat
 laler
 lali
+lalian
 lalie
 lalien
 laline
@@ -12847,6 +12848,7 @@ pituh
 pitulang
 pitulas
 pitulung
+pitulungan
 pitung
 pitur
 pitutur
