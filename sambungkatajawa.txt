@@ -418,6 +418,7 @@ aket
 akhir
 akhirat
 aki
+akia
 akib
 akid
 akie
@@ -784,6 +785,7 @@ anakku
 anakmu
 anal
 anam
+anama
 anan
 anana
 ananas
@@ -15580,6 +15582,7 @@ uli
 ulie
 ulih
 ulik
+ulikan
 ulo
 uloe
 ulomo
