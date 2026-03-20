@@ -1668,6 +1668,7 @@ ayap
 ayar
 ayas
 ayat
+ayata
 ayaw
 ayay
 aye
@@ -16860,6 +16861,7 @@ yuta
 yuti
 yuwa
 yuya
+yuyi
 yuyu
 yuyun
 zahra
