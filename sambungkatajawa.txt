@@ -1324,6 +1324,7 @@ arjo
 arjuna
 arjuno
 arka
+arkaa
 arma
 armai
 aro
@@ -2968,6 +2969,7 @@ desa
 desi
 deso
 det
+detik
 deto
 dewa
 dewe
@@ -9307,6 +9309,7 @@ mulia
 mulih
 muliho
 mulik
+muluhan
 mulung
 mulus
 mulya
@@ -9350,6 +9353,7 @@ murai
 murang
 mure
 muri
+muria
 murid
 muring
 murka
