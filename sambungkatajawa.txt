@@ -9561,6 +9561,7 @@ negara
 negari
 negas
 nege
+negek
 negeri
 neges
 negesi
@@ -11184,6 +11185,7 @@ nobat
 nodol
 nogel
 noh
+noha
 nok
 noka
 noke
