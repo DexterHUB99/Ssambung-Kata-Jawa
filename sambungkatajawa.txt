@@ -8,6 +8,7 @@ abang
 abi
 abil
 abimanyu
+abis
 ablek
 aboh
 abrit
@@ -3995,6 +3996,7 @@ uke
 ukel
 ukep
 uki
+ukin
 ukir
 ukiran
 ukko
