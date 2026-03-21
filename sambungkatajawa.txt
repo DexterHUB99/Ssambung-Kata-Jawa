@@ -658,6 +658,7 @@ ganjil
 ganteng
 gaplek
 gapuk
+gapura
 garai
 garap
 garem
