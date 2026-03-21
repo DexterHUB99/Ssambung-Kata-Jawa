@@ -336,6 +336,7 @@ bai
 bali
 balok
 bambang
+bandeng
 banyu
 bau
 bebek
@@ -471,6 +472,7 @@ ehe
 eheh
 ehek
 ehem
+ehes
 ehey
 ehi
 eho
@@ -478,6 +480,7 @@ ehop
 eka
 ekar
 eke
+ekeh
 eker
 eket
 eki
@@ -691,6 +694,7 @@ gering
 gesek
 geseng
 geser
+geto
 gi
 gig
 gigi
@@ -1646,6 +1650,7 @@ ngepi
 ngerak
 ngerem
 ngertos
+ngewang
 ngewe
 nggawe
 nggayuh
@@ -1755,6 +1760,7 @@ nombok
 nomer
 non
 nona
+nongkrong
 nono
 nonton
 nopi
@@ -2104,6 +2110,7 @@ rokaat
 romah
 rombeng
 rombongan
+romo
 rompi
 rondo
 roro
@@ -2155,6 +2162,7 @@ samper
 sampo
 sampun
 sandang
+sandanga
 sanes
 santai
 santun
@@ -2501,6 +2509,7 @@ uru
 uruk
 urung
 urus
+urusa
 urusan
 urut
 usa
