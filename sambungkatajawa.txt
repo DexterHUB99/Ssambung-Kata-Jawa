@@ -11,6 +11,7 @@ adegan
 adek
 adem
 adi
+adil
 adoh
 adol
 ados
@@ -153,8 +154,10 @@ anco
 ancok
 anda
 andai
+andalan
 andang
 andhap
+andhong
 andi
 andok
 andong
@@ -420,6 +423,7 @@ dari
 dasi
 delman
 demek
+demit
 dengkul
 dereng
 dewe
@@ -443,6 +447,7 @@ dudo
 duha
 duit
 dukun
+dula
 dumeh
 dupa
 duren
@@ -1170,6 +1175,7 @@ kijang
 kiki
 kikil
 kil
+kili
 kima
 kin
 kinasih
@@ -1260,6 +1266,7 @@ kuping
 kura
 kurang
 kurma
+kursi
 kuru
 kurus
 kutang
@@ -1285,6 +1292,7 @@ lamunan
 lanang
 landung
 langu
+lantas
 laos
 lapang
 lapis
@@ -1406,6 +1414,7 @@ makan
 maksa
 malu
 mama
+mamake
 mambu
 mandi
 mane
@@ -1454,6 +1463,7 @@ misu
 misuh
 modar
 modo
+mogok
 moh
 moleh
 mom
@@ -2283,6 +2293,7 @@ timun
 tin
 tira
 tiru
+tisu
 tit
 titi
 titid
