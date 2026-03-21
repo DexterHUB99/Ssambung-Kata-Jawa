@@ -997,6 +997,7 @@ etol
 etos
 etus
 ewae
+ewak
 ewang
 ewe
 ewi
@@ -1667,6 +1668,7 @@ itung
 iut
 iuta
 iwak
+iwake
 iwan
 iwang
 iwas
@@ -3562,6 +3564,7 @@ roro
 rosa
 rosi
 roso
+rotan
 roti
 roto
 rowo
