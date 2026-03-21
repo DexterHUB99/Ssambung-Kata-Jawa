@@ -302,6 +302,7 @@ apa
 apae
 apak
 apane
+apar
 ape
 apeh
 apek
@@ -1641,6 +1642,7 @@ kekel
 keker
 kel
 kela
+kelap
 kelebu
 kelek
 kelingan
@@ -2414,6 +2416,7 @@ ngelom
 ngelu
 ngem
 ngemi
+ngemper
 ngen
 ngendi
 ngendika
@@ -3219,6 +3222,7 @@ seda
 sedaya
 sedeng
 sego
+sehat
 sei
 seje
 sekar
@@ -3606,6 +3610,7 @@ ular
 ulas
 ulat
 ule
+ulek
 ulem
 uler
 ulet
