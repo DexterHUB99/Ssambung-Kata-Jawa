@@ -131,6 +131,7 @@ anduk
 andung
 andus
 ane
+aneh
 angelan
 anget
 angger
@@ -146,6 +147,7 @@ anjas
 anjay
 anjing
 anjinge
+anjir
 anjuk
 anjur
 ano
@@ -293,6 +295,7 @@ cecak
 cica
 cici
 cila
+cino
 cinta
 cintaa
 ciu
@@ -307,6 +310,7 @@ curut
 dadi
 dama
 damel
+dancok
 dandang
 dapur
 dari
@@ -324,6 +328,7 @@ dolan
 duha
 duit
 dupa
+durung
 duso
 dusun
 ealah
@@ -573,6 +578,7 @@ hawai
 haya
 hayo
 hayu
+hayuk
 he
 heboh
 heh
@@ -703,6 +709,7 @@ iri
 iria
 irim
 iris
+iroh
 irung
 irup
 irus
@@ -826,6 +833,7 @@ kenapa
 kentang
 kentu
 kentut
+kenyang
 kere
 kereta
 keri
@@ -889,6 +897,7 @@ kowe
 ku
 kua
 kuda
+kudu
 kui
 kuka
 kuku
@@ -1267,6 +1276,7 @@ odol
 og
 ogah
 ogi
+oh
 ohh
 ohhh
 oho
@@ -1350,10 +1360,12 @@ panjenengan
 pante
 panti
 papa
+pari
 parkir
 pasar
 payung
 pedang
+pekok
 peliku
 pelo
 penak
@@ -1375,6 +1387,7 @@ pintu
 pipi
 pipis
 pipit
+pirang
 piro
 pisah
 pisang
