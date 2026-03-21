@@ -706,6 +706,7 @@ endhog
 endi
 endio
 endog
+endol
 eneg
 eneh
 enek
@@ -1950,6 +1951,7 @@ mripat
 mu
 mual
 mubah
+mubeng
 mugi
 muh
 muji
@@ -2231,6 +2233,7 @@ ngoyak
 ngoyo
 ngrumat
 ngrumpi
+ngubur
 ngudani
 ngudud
 nguji
@@ -3301,6 +3304,7 @@ urat
 uri
 urik
 uring
+urio
 urip
 uripe
 uru
