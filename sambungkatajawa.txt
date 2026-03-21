@@ -421,6 +421,7 @@ asuh
 asui
 asula
 asun
+asus
 at
 ata
 atah
@@ -1997,6 +1998,7 @@ kudet
 kudu
 kue
 kui
+kuk
 kuka
 kuku
 kukur
@@ -3536,6 +3538,7 @@ sa
 sabang
 sabar
 saben
+sabtu
 sabuk
 sabus
 sadurung
