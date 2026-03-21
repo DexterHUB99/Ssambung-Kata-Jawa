@@ -665,6 +665,7 @@ elia
 elik
 elim
 eling
+elis
 elo
 eloh
 elok
@@ -839,6 +840,7 @@ galih
 gambang
 gambar
 gambas
+gambuh
 gambyong
 gamelan
 gampar
@@ -3487,6 +3489,7 @@ wirang
 wiro
 wisuh
 wit
+wo
 woi
 wong
 wonogiri
