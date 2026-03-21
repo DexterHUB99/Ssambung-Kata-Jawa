@@ -96,6 +96,7 @@ ajore
 ajur
 ak
 aka
+akad
 akak
 akal
 akan
@@ -1582,6 +1583,7 @@ joran
 jorok
 jos
 ju
+jual
 jujur
 ka
 kabeh
@@ -2915,6 +2917,7 @@ pasa
 pasar
 pasir
 patuh
+payah
 payu
 payung
 pe
@@ -3186,6 +3189,7 @@ rita
 riya
 riyo
 ro
+roban
 roboh
 rodo
 roe
