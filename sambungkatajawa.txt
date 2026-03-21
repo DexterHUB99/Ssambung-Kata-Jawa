@@ -4274,6 +4274,7 @@ etut
 ev
 eva
 eval
+evan
 evin
 evo
 ew
@@ -6189,6 +6190,7 @@ isaha
 isahe
 isai
 isak
+isako
 isaku
 isam
 isan
@@ -9670,6 +9672,7 @@ nako
 nakoe
 nakoi
 nakoki
+nakoko
 nakon
 nakoni
 naksir
@@ -10032,6 +10035,7 @@ nengdi
 nenge
 nengen
 nengga
+nengi
 neni
 nep
 nepa
