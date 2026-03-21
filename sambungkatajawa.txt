@@ -64,6 +64,7 @@ ajek
 aji
 ajine
 ajir
+ajore
 aka
 akal
 akan
@@ -115,6 +116,7 @@ ambi
 ambil
 amboi
 ambu
+ambung
 ambyar
 ameh
 ami
@@ -531,6 +533,7 @@ enong
 entar
 ente
 entek
+enteng
 enthog
 enthuk
 entok
@@ -546,6 +549,7 @@ epo
 epon
 epuk
 era
+eram
 erang
 ere
 eri
@@ -619,6 +623,7 @@ gaplek
 gapuk
 garai
 garap
+garem
 gareng
 gari
 garing
@@ -1132,6 +1137,7 @@ kereta
 keri
 keris
 kerjo
+kero
 kerohan
 kerono
 keroso
@@ -1168,6 +1174,7 @@ kita
 kitab
 kiwa
 klambi
+kleru
 ko
 kocok
 kodok
@@ -1202,6 +1209,7 @@ kos
 kosan
 kosong
 kota
+kotang
 kowe
 krikil
 ku
@@ -1333,6 +1341,7 @@ lombo
 lombok
 lomo
 lompat
+loncat
 longgar
 longor
 lontar
@@ -1385,6 +1394,7 @@ mama
 mambu
 mandi
 mane
+mang
 mangan
 manis
 manjing
@@ -1695,6 +1705,7 @@ non
 nona
 nono
 nonton
+nopi
 nopo
 nor
 nora
@@ -1764,6 +1775,7 @@ okut
 olab
 olah
 oleh
+oleng
 oli
 olih
 olo
@@ -2347,6 +2359,7 @@ ulih
 ulik
 ulo
 ulu
+ulun
 um
 uma
 umah
