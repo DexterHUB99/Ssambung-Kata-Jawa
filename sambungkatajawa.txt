@@ -9852,6 +9852,7 @@ nasia
 nasib
 nasii
 nasikuning
+nasiliwet
 nasine
 nasipecel
 nasta
@@ -10907,7 +10908,6 @@ ngguwak
 ngguyu
 ngguyue
 ngguyur
-ngham
 ngibadah
 ngibal
 ngibar
