@@ -552,6 +552,7 @@ dahi
 dalam
 dalem
 dalih
+dalo
 dam
 dama
 damai
@@ -778,6 +779,7 @@ enu
 enyong
 epa
 epah
+epan
 epang
 epas
 epek
@@ -1107,6 +1109,7 @@ hantu
 hap
 hape
 hapus
+har
 hara
 haram
 harap
@@ -2168,6 +2171,7 @@ narasi
 nari
 narik
 naruh
+nas
 nasa
 nasar
 nasi
