@@ -61,6 +61,7 @@ aki
 akia
 akih
 ako
+akon
 akrab
 aksara
 aku
@@ -166,6 +167,7 @@ anyep
 anyir
 ap
 apa
+apeh
 apem
 apes
 api
@@ -238,8 +240,10 @@ awal
 awan
 awang
 awas
+awu
 ax
 ay
+ayah
 ayam
 ayang
 ayem
@@ -334,6 +338,7 @@ ehi
 eka
 ekar
 eki
+ekin
 eko
 ekor
 ekos
@@ -484,6 +489,7 @@ go
 goblok
 godog
 godong
+gok
 gol
 golek
 goleko
@@ -511,6 +517,7 @@ guna
 gundik
 gundul
 guni
+guoblok
 gur
 guri
 guru
@@ -777,9 +784,11 @@ kamu
 kan
 kancut
 kandel
+kanggo
 kanjeng
 kanjut
 kantil
+kaos
 kapal
 karep
 karepe
@@ -852,6 +861,7 @@ kitab
 kiwa
 klambi
 ko
+kocok
 kodok
 koe
 kok
@@ -883,6 +893,7 @@ kui
 kuka
 kuku
 kula
+kulak
 kulan
 kuli
 kulo
@@ -1037,6 +1048,7 @@ misah
 misuh
 modar
 modo
+moh
 moleh
 mom
 momumet
@@ -1116,6 +1128,7 @@ ngangsu
 nganjuk
 ngantemi
 ngantuk
+nganu
 ngapak
 ngaplo
 ngapunten
@@ -1237,6 +1250,7 @@ nunung
 nuo
 nur
 nurut
+nusa
 nutup
 nuwun
 nyantai
@@ -1250,7 +1264,9 @@ obat
 obor
 ocol
 odol
+og
 ogah
+ogi
 ohh
 ohhh
 oho
@@ -1291,6 +1307,7 @@ ongko
 ono
 onta
 ontel
+onto
 ontong
 oo
 op
@@ -1445,6 +1462,7 @@ riko
 rilis
 rima
 rindu
+ripan
 riri
 ris
 risa
@@ -1484,6 +1502,7 @@ sahur
 sai
 sak
 sakit
+saku
 salahe
 salam
 salim
@@ -1502,7 +1521,9 @@ sareh
 sari
 saru
 sasa
+sasi
 sastra
+sawahe
 sawai
 sayang
 sayur
@@ -1528,6 +1549,8 @@ sinau
 sing
 sinten
 sip
+siro
+sisi
 siwa
 so
 sol
@@ -1664,6 +1687,7 @@ ukir
 ukiran
 ukko
 ukni
+uku
 ukum
 ukur
 ukuran
@@ -1673,8 +1697,10 @@ ulai
 ulam
 ulama
 ulang
+ulangan
 ulapan
 ular
+ulas
 ulat
 ulem
 uli
@@ -1780,6 +1806,7 @@ wisuh
 wit
 wonten
 woro
+wowo
 xenon
 ya
 yadi
