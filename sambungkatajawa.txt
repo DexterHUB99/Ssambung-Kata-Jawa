@@ -390,6 +390,7 @@ atur
 atus
 auh
 aul
+auman
 aura
 aus
 autan
@@ -558,6 +559,7 @@ dapur
 dara
 dari
 darma
+dasar
 dasi
 dawuh
 dawuhe
@@ -863,6 +865,7 @@ gambyong
 game
 gamel
 gamelan
+gampang
 gampar
 gampil
 gancet
@@ -2421,6 +2424,7 @@ non
 nona
 nong
 nongkrong
+nonjok
 nono
 nonton
 nop
@@ -2992,6 +2996,7 @@ sas
 sasa
 sasi
 sastra
+satu
 sawahe
 sawai
 sawi
@@ -3392,6 +3397,7 @@ umi
 umo
 umpama
 umpamane
+umpan
 umpet
 umu
 umuk
