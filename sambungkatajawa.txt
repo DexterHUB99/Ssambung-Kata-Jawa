@@ -107,6 +107,7 @@ alat
 alay
 ale
 alek
+alhamdulillah
 ali
 alim
 alip
@@ -731,9 +732,11 @@ gemah
 gemati
 gembel
 gemblung
+gembok
 gempa
 gen
 gendeng
+gendong
 geng
 geni
 genteng
@@ -756,6 +759,7 @@ gigil
 gila
 gilang
 giling
+gilir
 gilo
 gimi
 gincu
@@ -1057,6 +1061,7 @@ ir
 ira
 irah
 irama
+irang
 iras
 irasan
 irat
