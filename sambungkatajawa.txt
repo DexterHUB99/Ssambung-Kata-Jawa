@@ -278,6 +278,7 @@ angin
 angka
 angklung
 angkruk
+angon
 angrek
 angsa
 angsal
@@ -1711,6 +1712,7 @@ joke
 joki
 joko
 jokowi
+jol
 jombang
 jong
 jontor
