@@ -521,6 +521,7 @@ buti
 cabe
 cacar
 cacing
+cah
 cakap
 candi
 cantik
@@ -594,6 +595,7 @@ delman
 demek
 demit
 dengkul
+depak
 dere
 dereng
 deri
@@ -1029,6 +1031,7 @@ go
 goblok
 gobloki
 gocekan
+godek
 godhong
 godog
 godong
@@ -1718,6 +1721,7 @@ kodok
 koe
 koen
 kok
+koki
 koko
 kokop
 kol
@@ -1727,6 +1731,7 @@ kolong
 kolot
 kom
 koma
+komari
 komodo
 kompas
 kompor
@@ -2033,6 +2038,7 @@ maling
 malu
 mam
 mama
+mamak
 mamake
 mambu
 man
