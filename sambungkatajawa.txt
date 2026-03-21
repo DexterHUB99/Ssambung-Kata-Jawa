@@ -331,6 +331,7 @@ az
 bab
 babat
 babi
+babuk
 bagong
 bai
 bali
@@ -438,6 +439,7 @@ diemut
 dikit
 diluk
 dimas
+dina
 dingin
 dino
 dipun
@@ -466,6 +468,7 @@ edan
 edanwa
 edi
 edon
+ego
 eha
 ehe
 eheh
@@ -1157,6 +1160,7 @@ kelor
 kelum
 kembang
 kemeng
+kemon
 kemproh
 kemul
 kenapa
