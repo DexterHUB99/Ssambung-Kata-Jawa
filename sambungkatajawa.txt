@@ -609,6 +609,7 @@ dalo
 dam
 dama
 damai
+damar
 damel
 dan
 danau
@@ -1444,6 +1445,7 @@ intil
 intine
 intip
 inul
+ip
 ipa
 ipan
 ipar
@@ -1453,6 +1455,7 @@ iper
 ipi
 ipik
 ipin
+ipki
 ipo
 ipuk
 ipun
@@ -2879,6 +2882,7 @@ orasah
 ore
 orek
 oren
+orewa
 ori
 orok
 oros
@@ -3195,6 +3199,7 @@ ribute
 ridho
 rie
 rih
+rii
 rik
 rika
 rikma
@@ -3473,6 +3478,7 @@ sumuk
 sumur
 sun
 sunar
+sunat
 sunda
 sungkan
 sungkem
