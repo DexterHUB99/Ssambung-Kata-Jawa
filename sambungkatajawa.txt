@@ -879,7 +879,6 @@ andaran
 andas
 andeg
 andel
-andem
 ander
 anderan
 andha
@@ -3583,7 +3582,6 @@ ekad
 ekae
 ekag
 ekah
-ekai
 ekak
 ekal
 ekali
@@ -8992,7 +8990,6 @@ marus
 mas
 masa
 masah
-masai
 masak
 masal
 masala
@@ -10979,7 +10976,6 @@ ngiseni
 ngisep
 ngiser
 ngisi
-ngisih
 ngisik
 ngisin
 ngising
@@ -11401,7 +11397,6 @@ ngutus
 nguwa
 nguwak
 nguwi
-nguya
 nguyah
 nguyang
 nguyon
@@ -14743,7 +14738,6 @@ siasu
 sibat
 sida
 sidang
-sidat
 sidha
 sidoarjo
 sie
@@ -15966,7 +15960,6 @@ udelku
 udelmu
 uden
 udeng
-udera
 udha
 udharan
 udi
