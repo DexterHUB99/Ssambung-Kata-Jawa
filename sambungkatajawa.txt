@@ -687,7 +687,6 @@ gali
 galih
 gambang
 gambar
-gambas
 gamelan
 gampar
 gampil
@@ -1056,6 +1055,7 @@ insyaallah
 intine
 intip
 inul
+ip
 ipa
 ipan
 ipar
@@ -1128,6 +1128,7 @@ iwan
 iwang
 iwenan
 ix
+iy
 iya
 iyan
 iyo
@@ -1996,7 +1997,6 @@ ob
 obah
 obak
 obat
-obeng
 obong
 obor
 obral
@@ -2341,6 +2341,7 @@ romi
 romo
 rompi
 rondo
+rono
 roro
 rosa
 rosi
@@ -2394,6 +2395,7 @@ sampah
 sampai
 sampean
 samper
+samping
 sampo
 sampun
 sandang
@@ -2648,7 +2650,6 @@ uan
 uang
 uban
 ubang
-ubel
 ubi
 ubii
 ubuna
