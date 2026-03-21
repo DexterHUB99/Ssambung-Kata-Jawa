@@ -319,6 +319,7 @@ awan
 awang
 awas
 aweh
+awet
 awi
 awu
 ax
@@ -1236,6 +1237,7 @@ kios
 kipas
 kir
 kira
+kire
 kirek
 kiri
 kirik
@@ -1250,6 +1252,7 @@ kocok
 kodok
 koe
 kok
+koki
 koko
 kol
 kolam
@@ -1561,6 +1564,7 @@ nabi
 nada
 nafas
 nagih
+nahi
 naik
 najis
 nak
@@ -2636,6 +2640,7 @@ widari
 wih
 wijaya
 wiko
+wilis
 windu
 wir
 wirang
