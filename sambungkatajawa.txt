@@ -700,6 +700,7 @@ gila
 gilang
 giling
 gilo
+gimbal
 gimi
 gini
 girang
@@ -2015,6 +2016,7 @@ pundi
 punten
 pupuk
 pura
+purun
 putih
 putri
 putus
