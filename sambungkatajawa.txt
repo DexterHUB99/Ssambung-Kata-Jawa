@@ -467,6 +467,7 @@ bener
 berak
 besan
 besi
+besok
 bi
 biasa
 bibi
@@ -1039,6 +1040,7 @@ gondok
 gondol
 gondrong
 gong
+goni
 gor
 goreng
 gori
@@ -1569,6 +1571,7 @@ karena
 karep
 karepe
 karepmu
+karet
 kari
 karma
 karo
@@ -3046,6 +3049,7 @@ romo
 rompi
 ronda
 rondo
+ronggeng
 roni
 roro
 rosa
@@ -3571,6 +3575,7 @@ unama
 undak
 undang
 undangan
+undi
 undian
 unduh
 unduk
