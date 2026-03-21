@@ -9,10 +9,12 @@ ada
 adai
 adegan
 adek
+adem
 adi
 adoh
 adol
 ados
+adu
 aduh
 adus
 ae
@@ -226,6 +228,7 @@ ara
 arah
 arai
 arak
+arane
 arang
 aras
 are
@@ -496,6 +499,7 @@ em
 ema
 emak
 eman
+emane
 emang
 emas
 emba
@@ -508,6 +512,7 @@ embok
 embuh
 embung
 emi
+emik
 emil
 emo
 emoh
@@ -581,6 +586,7 @@ etil
 etis
 etos
 etus
+ewang
 ewe
 ewis
 ewoh
@@ -643,6 +649,7 @@ geblek
 gedang
 gedangan
 gede
+gedhi
 gegayuhan
 geger
 geh
@@ -746,6 +753,7 @@ hah
 haha
 hahaha
 hai
+hajar
 haji
 hak
 haku
@@ -1080,6 +1088,7 @@ kana
 kancut
 kandang
 kandel
+kandungan
 kang
 kanggo
 kangkung
@@ -1530,6 +1539,7 @@ nene
 nenek
 nenen
 neng
+nengdi
 nentang
 nepi
 neraka
@@ -1554,6 +1564,7 @@ ngalem
 ngaler
 ngali
 ngalor
+ngamar
 ngampleng
 nganggo
 nganggur
@@ -1979,6 +1990,7 @@ rako
 rakus
 rama
 ramai
+rambu
 rambut
 rame
 rampung
@@ -2058,6 +2070,7 @@ roso
 roti
 rowo
 rua
+ruang
 ruka
 ruko
 ruku
@@ -2520,6 +2533,7 @@ xenon
 xilofon
 ya
 yadi
+yah
 yai
 yak
 yali
