@@ -4210,6 +4210,7 @@ wee
 wen
 wes
 wesi
+weso
 weta
 wetan
 weton
