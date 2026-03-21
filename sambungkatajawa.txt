@@ -1725,6 +1725,7 @@ kenyang
 keong
 kepel
 kepet
+kepiting
 kepiye
 kepo
 kepol
@@ -1965,6 +1966,7 @@ latih
 laut
 lawak
 lawas
+lawu
 le
 leak
 lebah
@@ -2301,6 +2303,7 @@ nafas
 naga
 nagih
 nah
+nai
 naik
 najis
 nak
@@ -3011,6 +3014,7 @@ pitutur
 piyambak
 piye
 po
+pocong
 podho
 poe
 pojok
@@ -3057,6 +3061,7 @@ pura
 purut
 pusa
 putih
+puting
 putri
 putus
 puyeng
