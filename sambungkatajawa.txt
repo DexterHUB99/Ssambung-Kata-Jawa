@@ -2815,6 +2815,7 @@ rambut
 rame
 rampung
 ramu
+ramutu
 rana
 randa
 randu
@@ -3358,6 +3359,7 @@ ujung
 uk
 uka
 ukaa
+ukae
 ukai
 ukak
 ukan
