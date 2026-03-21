@@ -403,6 +403,7 @@ atise
 atma
 ato
 atok
+atom
 atos
 atu
 atuh
@@ -1606,6 +1607,7 @@ karet
 kari
 karma
 karo
+karung
 kasar
 kasep
 kaset
@@ -2195,6 +2197,7 @@ muleh
 mulih
 mumbul
 mumet
+muna
 mundak
 mundur
 mung
@@ -2561,6 +2564,7 @@ nina
 nindak
 ning
 ninggal
+ningsih
 nini
 nipis
 nipu
@@ -2800,6 +2804,7 @@ pait
 pakir
 pako
 pal
+pala
 paling
 palu
 panas
