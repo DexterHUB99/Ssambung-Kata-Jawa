@@ -1888,6 +1888,7 @@ kom
 koma
 komari
 komodo
+kompak
 kompas
 kompor
 kon
@@ -2215,6 +2216,7 @@ mae
 mager
 mah
 mahal
+mai
 main
 maju
 maka
