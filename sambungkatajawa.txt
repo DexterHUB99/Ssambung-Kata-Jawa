@@ -603,6 +603,7 @@ cagak
 cah
 cakap
 cakot
+cakul
 candi
 cantik
 cape
@@ -2482,6 +2483,7 @@ naga
 nagi
 nagih
 nah
+naha
 nai
 naik
 najis
@@ -4027,6 +4029,7 @@ ukli
 ukni
 uko
 ukro
+ukta
 uku
 ukum
 ukur
