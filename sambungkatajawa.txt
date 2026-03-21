@@ -921,6 +921,7 @@ godog
 godong
 gogoh
 gojek
+gojekan
 gok
 gokil
 gol
@@ -1296,6 +1297,7 @@ item
 itik
 itil
 itilan
+itilen
 itu
 itue
 ituli
@@ -3032,6 +3034,7 @@ teras
 terong
 tete
 tetek
+tibak
 tibo
 tikus
 tilam
