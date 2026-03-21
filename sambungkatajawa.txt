@@ -385,6 +385,7 @@ cabe
 cacing
 cakap
 candi
+cantik
 cecak
 celeng
 cica
@@ -474,6 +475,7 @@ ehi
 eho
 ehop
 eka
+ekah
 ekar
 eke
 eker
@@ -902,6 +904,7 @@ ijak
 ijen
 ijin
 ijo
+ijol
 ik
 ika
 ikal
@@ -911,6 +914,7 @@ ikat
 ikhlas
 iki
 ikil
+iklas
 iklim
 iko
 iku
@@ -1637,6 +1641,7 @@ ngemi
 ngen
 ngendi
 ngendika
+ngene
 ngeng
 ngenta
 ngepel
@@ -1657,6 +1662,7 @@ ngidul
 ngih
 ngikut
 ngil
+ngilang
 ngilu
 ngimbar
 nginthil
