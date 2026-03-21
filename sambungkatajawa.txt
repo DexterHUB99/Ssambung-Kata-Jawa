@@ -878,6 +878,7 @@ andaran
 andas
 andeg
 andel
+andem
 ander
 anderan
 andha
@@ -8986,6 +8987,7 @@ marus
 mas
 masa
 masah
+masai
 masak
 masal
 masala
