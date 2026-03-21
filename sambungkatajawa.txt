@@ -467,6 +467,7 @@ awe
 aweh
 awis
 awit
+awo
 awu
 awur
 ax
@@ -1031,6 +1032,7 @@ gana
 gancet
 ganden
 gandeng
+gandheng
 gandrung
 gandul
 gang
@@ -1302,6 +1304,7 @@ haru
 harum
 harus
 has
+hasa
 hasem
 hasi
 hasil
@@ -1847,6 +1850,7 @@ kepol
 kepriye
 ker
 kera
+keramas
 keran
 kerana
 kerang
