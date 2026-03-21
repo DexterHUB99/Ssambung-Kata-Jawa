@@ -112,6 +112,7 @@ amal
 aman
 amar
 amarga
+amat
 amba
 ambar
 ambek
@@ -425,6 +426,7 @@ delman
 demek
 demit
 dengkul
+dere
 dereng
 dewe
 didik
@@ -460,6 +462,7 @@ edah
 edan
 edanwa
 edi
+edon
 eha
 ehe
 eheh
@@ -490,6 +493,7 @@ el
 elah
 elam
 elang
+ele
 eleh
 elek
 eli
@@ -1715,6 +1719,7 @@ nisa
 nisan
 nita
 niteni
+niti
 nitih
 nitip
 niwas
@@ -2028,11 +2033,13 @@ raya
 reang
 rebo
 rebung
+rebus
 reka
 remang
 remas
 remeh
 remes
+remok
 rencang
 rendang
 rendeng
@@ -2205,6 +2212,7 @@ suki
 sukma
 suku
 sukun
+sulam
 sulap
 suli
 suling
@@ -2381,6 +2389,7 @@ ul
 ula
 ulah
 ulai
+ulakan
 ulam
 ulama
 ulang
@@ -2481,6 +2490,7 @@ usul
 usung
 usus
 ususus
+usut
 uta
 utah
 utak
