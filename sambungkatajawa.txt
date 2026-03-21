@@ -438,6 +438,7 @@ autan
 awa
 awah
 awak
+awakmu
 awal
 awan
 awang
@@ -534,6 +535,7 @@ borok
 bosok
 botol
 boyo
+bu
 bua
 buang
 buat
@@ -1243,6 +1245,7 @@ hasi
 hasil
 hasrat
 hasta
+hasut
 hati
 hawa
 hawai
@@ -2193,6 +2196,7 @@ mana
 manak
 mandi
 mane
+maneh
 mang
 mangan
 manggon
@@ -2697,6 +2701,7 @@ ngurusi
 ngurut
 ngusir
 ngutang
+nguyuh
 ni
 nia
 nihi
@@ -3352,6 +3357,7 @@ ruwat
 ruwet
 sa
 sabang
+sabar
 saben
 sabuk
 sabus
@@ -3421,6 +3427,7 @@ sego
 sehat
 sei
 seje
+sek
 sekar
 sekarang
 sekop
