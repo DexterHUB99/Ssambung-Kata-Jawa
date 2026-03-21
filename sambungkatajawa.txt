@@ -620,6 +620,7 @@ dukun
 dula
 dulang
 dumeh
+dungo
 dungu
 dupa
 duren
@@ -2686,6 +2687,7 @@ pacul
 pada
 padae
 padang
+pados
 padu
 pagar
 pagi
@@ -2914,6 +2916,7 @@ remeng
 remes
 remi
 remok
+rempeyek
 remuk
 rencang
 rendang
@@ -3065,6 +3068,7 @@ sanes
 santai
 santen
 santun
+sapa
 sapi
 sapu
 sarang
