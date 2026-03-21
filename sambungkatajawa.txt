@@ -562,6 +562,7 @@ ekek
 eker
 eket
 eki
+ekif
 ekin
 eko
 ekol
@@ -1767,6 +1768,7 @@ muntah
 munyuk
 mur
 murah
+mus
 musa
 musi
 na
@@ -2601,6 +2603,7 @@ sirah
 siram
 siraman
 siro
+sis
 sisa
 sisi
 sisir
@@ -2787,6 +2790,7 @@ tuna
 tuntun
 turi
 turu
+turuk
 tutup
 tutur
 tuwa
