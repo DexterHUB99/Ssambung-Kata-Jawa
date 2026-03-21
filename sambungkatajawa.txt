@@ -500,6 +500,7 @@ cacing
 cakap
 candi
 cantik
+care
 cawet
 cawik
 cecak
@@ -1127,6 +1128,7 @@ hewa
 heyo
 hi
 hias
+hidayah
 hidhup
 hidup
 hijau
@@ -3559,6 +3561,7 @@ yah
 yaha
 yai
 yak
+yakin
 yali
 yamaha
 yaman
@@ -3586,6 +3589,7 @@ yohan
 yoi
 yok
 yolo
+yom
 yoman
 yonan
 yono
