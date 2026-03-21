@@ -14690,6 +14690,7 @@ selir
 selo
 seloka
 selon
+selop
 selot
 sem
 semak
