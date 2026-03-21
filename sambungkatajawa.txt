@@ -12389,6 +12389,7 @@ paes
 paga
 pagar
 pagawean
+pagelang
 pager
 paget
 pagi
