@@ -11222,6 +11222,7 @@ ngone
 ngong
 ngonge
 ngongge
+ngonggo
 ngongkang
 ngongko
 ngoni
@@ -11913,6 +11914,7 @@ nyangu
 nyani
 nyanyi
 nyapa
+nyapi
 nyaponi
 nyapu
 nyari
