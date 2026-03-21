@@ -2878,6 +2878,7 @@ rawa
 rawit
 rawuh
 raya
+rayap
 re
 reang
 rebo
@@ -2977,6 +2978,7 @@ royal
 rua
 ruam
 ruang
+rugi
 rujak
 ruka
 ruko
@@ -3274,6 +3276,7 @@ ten
 tenan
 teng
 tepa
+tera
 terang
 teras
 terong
@@ -3321,6 +3324,7 @@ tolong
 tomat
 tompel
 ton
+tona
 tongkol
 tono
 top
