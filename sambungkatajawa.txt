@@ -163,6 +163,7 @@ ambu
 ambung
 ambyar
 ameh
+amen
 amer
 ami
 amie
@@ -1169,6 +1170,7 @@ hoe
 hoh
 hoho
 hoi
+hoka
 hoki
 hola
 holo
@@ -2011,6 +2013,7 @@ mie
 mika
 mikir
 mikul
+milah
 milih
 mima
 mimi
@@ -2147,6 +2150,7 @@ naruh
 nasa
 nasar
 nasi
+nasib
 nata
 nate
 ndang
