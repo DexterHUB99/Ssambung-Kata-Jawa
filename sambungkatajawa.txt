@@ -1680,6 +1680,7 @@ jigong
 jijik
 jika
 jilat
+jilid
 jimat
 jimbar
 jin
@@ -3138,6 +3139,7 @@ pani
 panik
 panjang
 panjenengan
+panri
 pantat
 pante
 panti
@@ -3646,6 +3648,7 @@ sing
 singa
 singo
 sini
+sinom
 sinten
 sip
 sir
@@ -3801,6 +3804,7 @@ tap
 tapi
 tapir
 tara
+tarang
 tari
 taro
 tas
