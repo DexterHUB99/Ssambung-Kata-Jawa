@@ -10269,6 +10269,7 @@ nganak
 nganam
 nganan
 ngancani
+ngancer
 ngancing
 ngandai
 ngandang
@@ -14595,6 +14596,7 @@ sek
 seka
 sekar
 sekarang
+sekat
 sekawan
 seke
 sekek
