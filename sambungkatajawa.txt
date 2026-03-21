@@ -376,6 +376,7 @@ ati
 atik
 atine
 atise
+atma
 ato
 atok
 atos
@@ -539,6 +540,7 @@ dalem
 dalih
 dam
 dama
+damai
 damel
 dan
 danau
@@ -2197,6 +2199,7 @@ ngawor
 ngawur
 ngayuh
 nge
+ngebas
 ngeden
 ngefek
 ngeh
@@ -2791,6 +2794,7 @@ rencang
 rendang
 rendeng
 rendi
+reng
 renggo
 renta
 repot
