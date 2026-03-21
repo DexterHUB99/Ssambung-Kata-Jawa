@@ -1120,6 +1120,7 @@ hiji
 hikmah
 hilang
 himpun
+hina
 hinggap
 hira
 hiri
@@ -2032,6 +2033,7 @@ musi
 musuh
 na
 nabi
+nabrak
 nada
 nae
 nafas
@@ -2514,6 +2516,7 @@ oon
 op
 opa
 opah
+opak
 opel
 open
 opet
@@ -2977,6 +2980,7 @@ sinau
 sindur
 sing
 singa
+singo
 sini
 sinten
 sip
@@ -3189,6 +3193,7 @@ top
 topi
 tot
 toto
+towo
 toya
 tu
 tua
