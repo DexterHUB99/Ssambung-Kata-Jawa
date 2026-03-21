@@ -619,6 +619,7 @@ celek
 celeng
 celengan
 cica
+cicak
 cici
 cila
 cilaka
@@ -768,6 +769,7 @@ eg
 ege
 eh
 eha
+ehak
 ehe
 eheh
 ehek
@@ -994,6 +996,7 @@ ewohe
 ex
 eyang
 eye
+fantasi
 fase
 fix
 ga
@@ -1734,6 +1737,7 @@ kakehan
 kakek
 kaki
 kaku
+kal
 kalak
 kale
 kaleh
