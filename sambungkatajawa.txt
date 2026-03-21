@@ -179,6 +179,7 @@ andung
 andus
 ane
 aneh
+anep
 angat
 angelan
 anget
@@ -820,6 +821,7 @@ hai
 haing
 hajar
 haji
+hajio
 hak
 haku
 hala
@@ -1668,6 +1670,7 @@ negeri
 nelen
 neles
 nem
+nembak
 nembe
 nembung
 nempel
@@ -1724,6 +1727,7 @@ ngaplo
 ngapunten
 ngapuro
 ngapusi
+ngarak
 ngarang
 ngare
 ngareng
@@ -2249,6 +2253,7 @@ ro
 roboh
 rok
 rokaat
+rokok
 romah
 rombeng
 rombongan
@@ -2754,6 +2759,7 @@ wareng
 watak
 wayah
 wayang
+wedan
 wedang
 wedhus
 wedi
