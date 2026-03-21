@@ -1728,6 +1728,7 @@ aye
 ayem
 ayeme
 ayen
+ayena
 ayep
 ayey
 ayi
@@ -2052,7 +2053,6 @@ beleh
 belek
 beler
 beli
-belimbing
 beling
 bella
 belo
@@ -2363,6 +2363,7 @@ bujangan
 bujo
 bujuk
 bujukan
+bujur
 buk
 buka
 bukak
@@ -5213,7 +5214,6 @@ gusa
 gusah
 gusar
 gusel
-gusha
 gusi
 guso
 gusti
@@ -6842,6 +6842,7 @@ kalangan
 kalangkung
 kalap
 kalapa
+kalar
 kalas
 kalasan
 kalawan
@@ -10692,7 +10693,6 @@ ngema
 ngeman
 ngemang
 ngemas
-ngemati
 ngembang
 ngembat
 ngember
@@ -13891,6 +13891,7 @@ ridho
 rie
 riem
 rien
+rigen
 rih
 riha
 rihan
@@ -16151,6 +16152,7 @@ uget
 ugi
 ugik
 uging
+ugir
 ugo
 ugu
 ugul
