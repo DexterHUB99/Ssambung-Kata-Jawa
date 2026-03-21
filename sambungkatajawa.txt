@@ -1181,6 +1181,7 @@ ike
 ikhlas
 iki
 ikil
+ikio
 iklas
 iklim
 iko
@@ -1957,6 +1958,7 @@ muka
 mukul
 mul
 mula
+mulae
 mule
 muleh
 mulih
@@ -2357,6 +2359,7 @@ obah
 obak
 obat
 obeng
+obit
 obong
 obor
 obos
@@ -2426,6 +2429,7 @@ omong
 omongan
 ompol
 ompong
+ompreng
 on
 onar
 onde
@@ -2546,6 +2550,7 @@ perak
 pere
 peso
 pete
+pewe
 pi
 pia
 pian
@@ -3061,6 +3066,7 @@ teras
 terong
 tete
 tetek
+tetelan
 tibak
 tibo
 tikung
@@ -3114,6 +3120,7 @@ tuk
 tukang
 tuku
 tukul
+tulang
 tuli
 tulung
 tulus
