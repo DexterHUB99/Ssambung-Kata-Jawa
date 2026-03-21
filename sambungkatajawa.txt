@@ -2011,6 +2011,7 @@ kuwat
 kuwe
 kuyuk
 la
+laba
 laban
 labu
 lacut
@@ -2325,6 +2326,7 @@ mika
 mikir
 miku
 mikul
+mila
 milah
 milih
 milu
@@ -3877,6 +3879,7 @@ udut
 uem
 uen
 ugah
+ugal
 uh
 uha
 uhe
