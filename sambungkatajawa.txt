@@ -1728,6 +1728,7 @@ aye
 ayem
 ayeme
 ayen
+ayena
 ayep
 ayey
 ayi
@@ -3270,7 +3271,6 @@ doh
 dok
 dokak
 dokar
-doki
 doko
 dokon
 dokter
@@ -6840,6 +6840,7 @@ kalangan
 kalangkung
 kalap
 kalapa
+kalar
 kalas
 kalasan
 kalawan
@@ -8351,7 +8352,6 @@ lekan
 lekas
 lekat
 leke
-leki
 lekoh
 lekok
 lela
