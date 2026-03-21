@@ -3888,6 +3888,7 @@ ename
 enan
 enang
 enap
+enar
 enas
 encak
 encer
