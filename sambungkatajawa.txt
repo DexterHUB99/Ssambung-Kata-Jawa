@@ -103,6 +103,7 @@ akia
 akih
 akik
 aking
+akiran
 ako
 akoh
 akol
@@ -933,6 +934,7 @@ gelang
 gelem
 geler
 geli
+gelis
 gelo
 gem
 gemah
@@ -2366,6 +2368,7 @@ ngomel
 ngomong
 ngompol
 ngondur
+ngono
 ngonten
 ngontol
 ngop
