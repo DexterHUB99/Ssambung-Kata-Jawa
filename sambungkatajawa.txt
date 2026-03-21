@@ -693,6 +693,7 @@ darma
 das
 dasar
 dasi
+daun
 dawuh
 dawuhe
 deda
@@ -2137,6 +2138,7 @@ langsam
 langsing
 langu
 lanjut
+lantai
 lantar
 lantas
 lanting
@@ -3592,6 +3594,7 @@ rum
 rumah
 rumangsane
 rumit
+rumongso
 rumput
 rumu
 run
@@ -4324,6 +4327,7 @@ wajan
 wajik
 waktu
 walah
+walang
 wangen
 wangsul
 wanita
