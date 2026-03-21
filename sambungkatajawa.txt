@@ -3716,6 +3716,7 @@ tel
 tela
 telek
 telenan
+telinga
 telo
 telu
 telur
