@@ -11291,6 +11291,7 @@ ngulet
 nguli
 ngulih
 ngulik
+nguling
 ngulit
 ngulo
 ngulon
@@ -12814,6 +12815,7 @@ peyek
 pi
 pia
 piagam
+pial
 piala
 pialang
 piama
