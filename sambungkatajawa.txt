@@ -1080,6 +1080,7 @@ garuk
 garut
 garwa
 gas
+gasa
 gasak
 gasik
 gata
@@ -2970,6 +2971,7 @@ nusa
 nutup
 nutur
 nuwun
+nyai
 nyantai
 nyanyi
 nyawa
@@ -3231,6 +3233,7 @@ pian
 picara
 picek
 pie
+pijit
 pikir
 piku
 pikul
@@ -3545,6 +3548,7 @@ rum
 rumah
 rumangsane
 rumit
+rumput
 rumu
 run
 rung
@@ -3900,6 +3904,7 @@ tilem
 tilep
 tim
 timah
+timan
 timang
 timba
 timbul
@@ -4128,6 +4133,7 @@ unduk
 undur
 unek
 ung
+ungan
 unggah
 unggaran
 unggas
