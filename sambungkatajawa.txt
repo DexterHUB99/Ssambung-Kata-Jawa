@@ -41,6 +41,7 @@ ahh
 ahi
 ahil
 ahir
+ahiran
 ahit
 ahli
 ahlii
@@ -148,6 +149,7 @@ anake
 anam
 anan
 anane
+anang
 anap
 anas
 anat
@@ -208,6 +210,7 @@ anteng
 antep
 anto
 anton
+antri
 antuk
 anu
 anua
@@ -506,6 +509,7 @@ eli
 elia
 eling
 elo
+eloh
 elok
 elon
 elor
@@ -774,6 +778,7 @@ hah
 haha
 hahaha
 hai
+haing
 hajar
 haji
 hak
@@ -1464,6 +1469,7 @@ matio
 mau
 mawon
 mboke
+medeni
 megah
 meja
 meme
@@ -1481,6 +1487,7 @@ minta
 minum
 mio
 mirsani
+mis
 misah
 misu
 misuh
@@ -1601,6 +1608,7 @@ ngaler
 ngali
 ngalor
 ngamar
+ngambi
 ngampleng
 nganggo
 nganggur
@@ -1617,6 +1625,7 @@ ngaplo
 ngapunten
 ngapuro
 ngapusi
+ngare
 ngarep
 ngarepe
 ngaret
@@ -1851,6 +1860,7 @@ omah
 oman
 ombak
 ombe
+ome
 ommo
 omo
 omong
@@ -1955,6 +1965,7 @@ pikir
 pikun
 pilak
 pilang
+pilek
 pilus
 pinarak
 pindah
@@ -2070,6 +2081,7 @@ remang
 remas
 remeh
 remes
+remi
 remok
 rencang
 rendang
@@ -2155,6 +2167,7 @@ sama
 sambi
 sambit
 sambung
+sami
 sampah
 sampai
 sampean
@@ -2202,6 +2215,7 @@ siapa
 siji
 sikat
 siku
+sikut
 sila
 silet
 silit
@@ -2253,6 +2267,7 @@ suling
 sum
 sumerep
 sumpah
+sumringah
 sumur
 sun
 sunar
@@ -2546,6 +2561,7 @@ uti
 utuh
 utumu
 utus
+utusan
 uwe
 uwes
 uwi
