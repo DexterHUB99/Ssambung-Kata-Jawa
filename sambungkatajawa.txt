@@ -656,6 +656,7 @@ dadang
 dadar
 dadi
 dadu
+daging
 dagu
 dah
 dahar
@@ -3529,6 +3530,7 @@ royal
 rua
 ruam
 ruang
+rubuh
 rugi
 rui
 rujak
@@ -3701,6 +3703,7 @@ siti
 sitok
 siwa
 so
+soca
 sogok
 sok
 sokor
