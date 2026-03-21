@@ -1765,6 +1765,7 @@ kan
 kana
 kanan
 kanca
+kancil
 kancut
 kandang
 kandel
@@ -3463,6 +3464,7 @@ riku
 rilis
 rim
 rima
+rimang
 rimo
 rin
 rina
