@@ -214,6 +214,7 @@ asik
 asin
 asing
 asli
+asline
 asma
 aso
 asoy
@@ -241,6 +242,7 @@ atuh
 atuk
 atum
 atus
+aul
 awa
 awak
 awal
@@ -334,6 +336,7 @@ diso
 dodi
 dokar
 dolan
+dosa
 duha
 duit
 dupa
@@ -463,6 +466,8 @@ gambar
 gampar
 gampil
 ganden
+gandeng
+gandrung
 gandul
 gang
 gange
@@ -928,6 +933,7 @@ kota
 kowe
 ku
 kua
+kuat
 kuda
 kudu
 kui
@@ -944,6 +950,7 @@ kumpul
 kun
 kunci
 kuning
+kuno
 kuntul
 kuo
 kupas
@@ -1065,6 +1072,7 @@ malu
 mama
 mandi
 mane
+mangan
 manjing
 mantep
 manuk
@@ -1139,6 +1147,7 @@ namung
 nana
 nanang
 nanas
+nandur
 nang
 nangdi
 nangis
@@ -1376,6 +1385,7 @@ opa
 opel
 open
 opo
+opone
 opor
 or
 ora
@@ -1622,6 +1632,7 @@ sing
 sinten
 sip
 siro
+sisa
 sisi
 siwa
 so
@@ -1786,6 +1797,7 @@ ular
 ulas
 ulat
 ulem
+uler
 uli
 ulih
 ulo
