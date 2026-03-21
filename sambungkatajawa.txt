@@ -1224,6 +1224,7 @@ ilangan
 ilap
 ilat
 iler
+ilermu
 ili
 ilih
 iling
@@ -1855,6 +1856,7 @@ luntur
 lupa
 luput
 lurah
+lus
 lusa
 lusi
 luwe
@@ -2167,6 +2169,7 @@ ngarit
 ngaruh
 ngasek
 ngasi
+ngasih
 ngasing
 ngaso
 ngasu
@@ -2243,6 +2246,7 @@ ngisi
 ngisin
 ngising
 ngisor
+ngisui
 ngitung
 ngko
 nglonte
@@ -2723,6 +2727,7 @@ randa
 randu
 rang
 rangga
+rani
 ranti
 rao
 raono
@@ -3140,6 +3145,7 @@ timun
 timur
 tin
 tindak
+tip
 tira
 tiru
 tisu
@@ -3514,6 +3520,7 @@ yogya
 yohan
 yoi
 yok
+yolo
 yoman
 yonan
 yono
