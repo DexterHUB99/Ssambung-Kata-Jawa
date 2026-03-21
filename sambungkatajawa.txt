@@ -136,6 +136,7 @@ aneh
 angelan
 anget
 angger
+anggon
 anggur
 angka
 angklung
@@ -264,6 +265,7 @@ bali
 balok
 bambang
 banyu
+bebek
 bejat
 belang
 bener
@@ -422,6 +424,7 @@ eru
 esih
 esil
 esok
+estu
 esuk
 eta
 etah
@@ -444,6 +447,7 @@ gae
 gagah
 gagak
 gah
+gajah
 gaje
 gak
 gal
@@ -778,6 +782,7 @@ jok
 joko
 jokowi
 jombang
+joran
 jorok
 jos
 jujur
@@ -853,6 +858,7 @@ kere
 kereta
 keri
 keris
+kerjo
 kerohan
 kerono
 keroso
@@ -1017,6 +1023,7 @@ lopi
 lor
 lori
 loro
+lorong
 los
 loyo
 luber
@@ -1268,6 +1275,7 @@ noleh
 nomer
 non
 nona
+nono
 nonton
 nopo
 nora
@@ -1389,6 +1397,7 @@ panti
 papa
 pari
 parkir
+pasa
 pasar
 payung
 pedang
@@ -1545,6 +1554,7 @@ sahur
 sai
 sak
 sakit
+sakti
 saku
 salahe
 salam
@@ -1839,6 +1849,7 @@ ux
 uyah
 uyawa
 wadon
+wadul
 wajan
 waktu
 wareng
