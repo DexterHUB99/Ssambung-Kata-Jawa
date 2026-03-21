@@ -474,6 +474,7 @@ bongo
 bor
 borok
 bosok
+botol
 boyo
 bua
 buang
@@ -1121,6 +1122,7 @@ hayo
 hayu
 hayuk
 he
+hea
 hebat
 heboh
 heh
@@ -1169,6 +1171,7 @@ hoki
 hola
 holo
 homo
+hona
 hono
 hoo
 hooh
@@ -1208,6 +1211,7 @@ icip
 id
 ida
 ide
+idep
 idih
 idu
 idue
@@ -1625,6 +1629,7 @@ kipas
 kir
 kira
 kirang
+kirap
 kirek
 kiri
 kirik
@@ -2123,6 +2128,7 @@ nangka
 nangkring
 nani
 nanya
+naon
 nap
 napa
 napas
@@ -3029,6 +3035,7 @@ semok
 sempak
 sempurna
 seng
+sepi
 seri
 seru
 sesek
