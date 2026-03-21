@@ -165,6 +165,7 @@ alit
 alo
 alok
 alot
+alu
 alum
 alun
 alur
@@ -172,6 +173,7 @@ alus
 am
 ama
 amal
+amam
 aman
 amar
 amarga
@@ -2041,6 +2043,7 @@ landak
 landung
 langgar
 langgeng
+langit
 langka
 langkah
 langsam
@@ -2742,6 +2745,7 @@ ngrumat
 ngrumpi
 ngubeng
 ngubur
+ngudal
 ngudani
 ngudek
 ngudud
@@ -3603,6 +3607,7 @@ su
 sua
 suami
 suara
+suasu
 subur
 sudah
 sudi
