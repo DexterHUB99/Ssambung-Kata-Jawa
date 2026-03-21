@@ -534,6 +534,7 @@ cobek
 cocok
 cocot
 cocote
+codot
 cok
 cokel
 coklat
@@ -2280,6 +2281,7 @@ ngaret
 ngari
 ngarit
 ngaruh
+ngasah
 ngasek
 ngasi
 ngasih
@@ -2909,6 +2911,7 @@ remeng
 remes
 remi
 remok
+remuk
 rencang
 rendang
 rendeng
