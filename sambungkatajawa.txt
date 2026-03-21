@@ -1143,6 +1143,7 @@ ijen
 iji
 ijin
 ijo
+ijoe
 ijol
 ik
 ika
@@ -1409,6 +1410,7 @@ karo
 kasar
 kasep
 kaset
+kasu
 kasur
 kata
 katak
@@ -1479,6 +1481,7 @@ kerono
 keroso
 kersa
 kertas
+kesah
 keset
 ketan
 ketek
@@ -2030,6 +2033,7 @@ ngace
 ngaceng
 ngada
 ngadem
+ngadep
 ngado
 ngadu
 ngaduk
@@ -2624,6 +2628,7 @@ rangga
 ranti
 rao
 raono
+raos
 rapa
 rapi
 rapina
@@ -2909,6 +2914,7 @@ suli
 suling
 sulung
 sum
+sumbang
 sumerep
 sumpah
 sumringah
