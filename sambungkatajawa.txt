@@ -424,6 +424,7 @@ dama
 damel
 danau
 dancok
+dancuk
 dandang
 dani
 dapur
@@ -1137,6 +1138,7 @@ kanthi
 kantil
 kaos
 kapal
+kapas
 karep
 karepe
 karepmu
@@ -2377,6 +2379,7 @@ titit
 tiwas
 tiyang
 to
+toh
 tok
 tole
 tolol
