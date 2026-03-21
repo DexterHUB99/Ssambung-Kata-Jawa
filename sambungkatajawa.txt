@@ -5796,6 +5796,7 @@ iko
 ikoi
 ikon
 ikoo
+ikori
 ikoro
 ikrar
 iku
@@ -7149,6 +7150,7 @@ kebon
 kebone
 kebul
 kebun
+kecah
 kecak
 kecamatan
 kecanthol
