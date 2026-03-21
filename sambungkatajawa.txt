@@ -1162,6 +1162,7 @@ hisan
 hitam
 hitung
 hiu
+hm
 ho
 hoe
 hoh
@@ -2263,6 +2264,7 @@ ngelem
 ngeli
 ngeling
 ngelom
+ngelu
 ngem
 ngemi
 ngen
@@ -2324,6 +2326,7 @@ ngisui
 ngitung
 ngko
 nglonte
+nglor
 ngobah
 ngocok
 ngojek
@@ -3651,5 +3654,6 @@ yumi
 yura
 yus
 yusa
+yusra
 yuyu
 zaman
