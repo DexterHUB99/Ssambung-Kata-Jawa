@@ -434,6 +434,7 @@ banci
 bandeng
 banyu
 bathuk
+batuk
 bau
 bebek
 becak
@@ -856,6 +857,7 @@ gambar
 gambas
 gambuh
 gambyong
+game
 gamel
 gamelan
 gampar
@@ -1293,6 +1295,7 @@ ing
 inggih
 inggit
 ingkang
+ingkung
 ingsun
 ini
 inie
@@ -1799,6 +1802,7 @@ lidah
 lika
 liku
 lili
+lilimbah
 lilin
 lilir
 lilit
