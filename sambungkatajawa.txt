@@ -3455,6 +3455,7 @@ ecok
 ed
 eda
 edah
+edak
 edam
 edan
 edanan
@@ -15633,6 +15634,7 @@ tenun
 tep
 tepa
 tepak
+tepan
 tepe
 tepi
 tepung
