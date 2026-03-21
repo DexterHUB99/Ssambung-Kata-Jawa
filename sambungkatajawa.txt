@@ -281,6 +281,7 @@ asep
 aset
 asi
 asia
+asih
 asik
 asin
 asing
@@ -505,6 +506,7 @@ ehey
 ehi
 eho
 ehop
+ehu
 eka
 ekah
 ekar
@@ -668,6 +670,7 @@ galang
 galengan
 gali
 galih
+gambang
 gambar
 gamelan
 gampar
@@ -729,6 +732,7 @@ geni
 genteng
 gentong
 ger
+gera
 gerak
 gering
 gese
@@ -904,6 +908,7 @@ ho
 hoe
 hoh
 hoi
+hoki
 holo
 homo
 hono
@@ -1642,6 +1647,7 @@ namung
 nana
 nanang
 nanas
+nandang
 nandur
 nanem
 nang
@@ -1814,6 +1820,7 @@ ngopi
 ngopo
 ngopoe
 ngopok
+ngori
 ngorok
 ngowah
 ngowoh
@@ -2083,6 +2090,7 @@ pentil
 penyu
 pepek
 pepes
+perak
 peso
 pi
 pia
@@ -2508,6 +2516,7 @@ tilam
 tilem
 tilep
 timah
+timbul
 timi
 timun
 tin
@@ -2613,6 +2622,7 @@ ul
 ula
 ulah
 ulai
+ulak
 ulakan
 ulam
 ulama
@@ -2742,6 +2752,7 @@ ute
 utek
 uti
 utik
+uto
 utu
 utuh
 utumu
