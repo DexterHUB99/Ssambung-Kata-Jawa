@@ -73,6 +73,7 @@ ahlii
 aho
 ahok
 ahon
+ahoy
 ahu
 ahuk
 ahun
@@ -991,6 +992,7 @@ gala
 galak
 galang
 galangan
+galau
 galeh
 galengan
 galer
@@ -2677,6 +2679,7 @@ ngidu
 ngidul
 ngih
 ngijin
+ngik
 ngikut
 ngil
 ngilang
