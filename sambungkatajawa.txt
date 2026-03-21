@@ -585,6 +585,7 @@ coro
 cuci
 cucu
 cuma
+cumi
 curut
 da
 dada
@@ -1673,6 +1674,7 @@ kedah
 kediri
 kegowo
 kekar
+keke
 kekek
 kekel
 keker
@@ -1888,6 +1890,7 @@ kuro
 kurowo
 kursi
 kuru
+kurung
 kurus
 kutang
 kutu
@@ -2270,6 +2273,7 @@ musa
 musi
 musim
 musuh
+muti
 na
 nabi
 nabrak
