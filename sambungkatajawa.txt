@@ -1436,6 +1436,7 @@ kandang
 kandel
 kandungan
 kang
+kangen
 kanggo
 kangkung
 kangmas
@@ -3178,6 +3179,7 @@ ubii
 ubun
 ubuna
 ucul
+uda
 udah
 udam
 udan
@@ -3331,6 +3333,7 @@ uring
 urio
 urip
 uripe
+uripmu
 uru
 uruk
 urun
