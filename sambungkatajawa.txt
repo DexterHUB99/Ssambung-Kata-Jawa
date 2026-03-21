@@ -508,6 +508,7 @@ ekot
 eksi
 ektika
 eku
+ekuh
 ekun
 ekur
 el
@@ -1429,6 +1430,7 @@ lompat
 loncat
 longgar
 longor
+lonjong
 lontar
 lonte
 lontong
