@@ -1288,6 +1288,7 @@ hantu
 hanung
 hanya
 hap
+hapa
 hape
 hapus
 har
@@ -1660,6 +1661,7 @@ janji
 jaran
 jare
 jarik
+jasa
 jawa
 jawir
 je
@@ -1870,6 +1872,7 @@ kersa
 kertas
 kesah
 keset
+kesi
 kesusu
 ketan
 ketek
@@ -4251,6 +4254,7 @@ wijaya
 wiji
 wiko
 wilangan
+wino
 wir
 wirang
 wiro
