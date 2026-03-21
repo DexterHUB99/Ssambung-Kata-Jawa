@@ -487,6 +487,7 @@ bagong
 bah
 bai
 bajigur
+balap
 bali
 balok
 bambang
@@ -3157,6 +3158,7 @@ pisang
 pisek
 pit
 pita
+pitak
 pitek
 piten
 pitik
@@ -3412,6 +3414,7 @@ rua
 ruam
 ruang
 rugi
+rui
 rujak
 ruka
 ruko
@@ -3936,6 +3939,7 @@ ulik
 ulo
 ulomo
 ulu
+ulukan
 ulun
 ulung
 ulur
@@ -3985,6 +3989,7 @@ ungker
 ungu
 uni
 uninga
+unjang
 unjuk
 uno
 unta
@@ -4208,6 +4213,7 @@ yoto
 yowes
 yoya
 yoyo
+yua
 yuda
 yudhistira
 yuk
