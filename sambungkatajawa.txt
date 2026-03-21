@@ -697,6 +697,7 @@ genteng
 ger
 gerak
 gering
+gese
 gesek
 geseng
 geser
@@ -1046,6 +1047,7 @@ iut
 iuta
 iwak
 iwan
+iwang
 ix
 iya
 iyo
@@ -1168,6 +1170,7 @@ kemul
 kenapa
 kendi
 kene
+keni
 kentang
 kentu
 kentut
@@ -1248,6 +1251,7 @@ kontolmu
 kontrol
 konyol
 kopi
+kopok
 kora
 koran
 korban
@@ -1482,6 +1486,7 @@ memek
 meni
 merem
 mesin
+meteng
 mi
 mika
 mikir
@@ -1893,6 +1898,7 @@ op
 opa
 opel
 open
+opet
 opo
 opoi
 opone
@@ -2021,6 +2027,7 @@ pore
 pori
 porna
 pos
+posi
 pot
 poti
 potongan
@@ -2126,6 +2133,7 @@ risa
 rise
 risi
 risih
+riyo
 ro
 rok
 rokaat
@@ -2214,6 +2222,7 @@ selawe
 selet
 sembah
 sempak
+seng
 sesek
 sesok
 sholat
@@ -2360,6 +2369,7 @@ timah
 timi
 timun
 tin
+tindak
 tira
 tiru
 tisu
@@ -2484,6 +2494,7 @@ umpama
 umpamane
 umu
 umuk
+umum
 umur
 un
 una
