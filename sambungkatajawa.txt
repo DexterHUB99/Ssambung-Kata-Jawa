@@ -6425,6 +6425,7 @@ janian
 janji
 janoko
 janri
+jantan
 janti
 jantung
 jao
@@ -14427,6 +14428,7 @@ sasi
 sasih
 sasimi
 sasir
+saso
 saste
 sastra
 sasu
