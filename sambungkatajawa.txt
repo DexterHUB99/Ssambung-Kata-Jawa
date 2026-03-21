@@ -1169,6 +1169,7 @@ hami
 hamil
 hampir
 hamu
+han
 hana
 hanacaraka
 hancur
@@ -1195,6 +1196,7 @@ haru
 harum
 harus
 has
+hasi
 hasil
 hasrat
 hasta
@@ -1238,6 +1240,7 @@ hiji
 hikmah
 hilang
 himpun
+himpunan
 hina
 hinggap
 hira
@@ -2905,6 +2908,7 @@ pie
 pikir
 pikun
 pil
+pilah
 pilak
 pilang
 pilar
