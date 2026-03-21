@@ -29,6 +29,7 @@ aeng
 aengi
 af
 afi
+agil
 agit
 agung
 agus
@@ -369,6 +370,7 @@ asli
 asline
 asma
 asmae
+asmara
 aso
 asoy
 asri
@@ -687,6 +689,7 @@ eke
 ekeh
 ekek
 ekel
+ekem
 eker
 eket
 eki
@@ -926,6 +929,7 @@ gandrung
 gandul
 gang
 gange
+ganggu
 ganja
 ganjil
 ganteng
@@ -1694,6 +1698,7 @@ kijing
 kiki
 kikil
 kil
+kila
 kili
 kima
 kin
@@ -2206,6 +2211,7 @@ nak
 nakal
 nakali
 nakoni
+nalar
 nali
 nalika
 naliko
@@ -3095,6 +3101,7 @@ rujak
 ruka
 ruko
 ruku
+rukuh
 rukun
 rum
 rumah
@@ -3833,6 +3840,7 @@ yoto
 yowes
 yoya
 yoyo
+yuda
 yudhistira
 yuk
 yuka
