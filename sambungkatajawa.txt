@@ -452,6 +452,7 @@ bejat
 beko
 belang
 beli
+belo
 ben
 bendo
 bener
@@ -1816,6 +1817,7 @@ lawak
 lawas
 le
 lebah
+lee
 legi
 lekoh
 lelah
@@ -2321,6 +2323,7 @@ ngerak
 ngerem
 ngertos
 ngetan
+ngetok
 ngewang
 ngewe
 ngga
@@ -2367,6 +2370,7 @@ ngko
 nglonte
 nglor
 ngobah
+ngobat
 ngocok
 ngojek
 ngok
@@ -2947,6 +2951,7 @@ ripan
 riri
 ris
 risa
+risak
 rise
 risi
 risih
