@@ -1873,6 +1873,7 @@ lilimbah
 lilin
 lilir
 lilit
+lilo
 lim
 lima
 limbah
@@ -1956,6 +1957,7 @@ lulu
 luluh
 luma
 lumajang
+luman
 lumer
 lumpang
 lumpuh
@@ -3473,6 +3475,7 @@ ukum
 ukur
 ukura
 ukuran
+ukurane
 ukure
 ul
 ula
