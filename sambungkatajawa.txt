@@ -37,6 +37,7 @@ aeng
 aengi
 af
 afi
+afif
 agem
 agil
 agit
@@ -335,6 +336,7 @@ ap
 apa
 apae
 apak
+apal
 apane
 apar
 ape
@@ -1774,9 +1776,11 @@ kanthi
 kantil
 kantor
 kaos
+kapak
 kapal
 karang
 karat
+karbit
 karena
 karep
 karepe
@@ -3872,6 +3876,7 @@ tik
 tika
 tikung
 tikus
+tila
 tilam
 tilem
 tilep
