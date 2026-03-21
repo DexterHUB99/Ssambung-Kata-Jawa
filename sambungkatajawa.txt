@@ -1435,6 +1435,7 @@ ipun
 ir
 ira
 irah
+irak
 irama
 irang
 iras
@@ -1620,6 +1621,7 @@ kantor
 kaos
 kapal
 karang
+karat
 karena
 karep
 karepe
@@ -1794,6 +1796,7 @@ kontol
 kontolmu
 kontrol
 konyol
+kop
 kopet
 kopi
 koplak
@@ -2493,6 +2496,7 @@ nginthil
 ngintil
 ngintip
 ngira
+ngirai
 ngiras
 ngirim
 ngiring
@@ -3390,6 +3394,7 @@ surat
 suri
 suro
 suruh
+surup
 surya
 sus
 susah
