@@ -161,6 +161,7 @@ agawe
 age
 ageh
 agek
+agel
 agem
 ageman
 agen
@@ -878,7 +879,6 @@ andaran
 andas
 andeg
 andel
-andem
 ander
 anderan
 andha
@@ -996,6 +996,7 @@ angl
 angla
 angler
 angling
+anglo
 angon
 angone
 angop
@@ -3163,6 +3164,7 @@ dip
 dipa
 dipah
 dipan
+dipang
 dipangan
 diparengi
 diparingi
@@ -7322,6 +7324,7 @@ kencot
 kencur
 kendak
 kendal
+kendala
 kendali
 kendang
 kendangan
@@ -8987,7 +8990,6 @@ marus
 mas
 masa
 masah
-masai
 masak
 masal
 masala
@@ -10038,6 +10040,7 @@ ngabekti
 ngaben
 ngaber
 ngabet
+ngabeti
 ngaboti
 ngabu
 ngabuk
@@ -10737,6 +10740,7 @@ ngesek
 ngeselin
 ngesem
 ngeseng
+ngeses
 ngeset
 ngesing
 ngesok
@@ -10972,7 +10976,6 @@ ngiseni
 ngisep
 ngiser
 ngisi
-ngisih
 ngisik
 ngisin
 ngising
@@ -13369,6 +13372,7 @@ rami
 ramii
 ramis
 ramla
+ramli
 ramo
 rampai
 rampas
@@ -14734,7 +14738,6 @@ siasu
 sibat
 sida
 sidang
-sidat
 sidha
 sidoarjo
 sie
@@ -14899,6 +14902,7 @@ sob
 soba
 soban
 sobat
+sobe
 sobek
 sober
 sobi
@@ -15956,7 +15960,6 @@ udelku
 udelmu
 uden
 udeng
-udera
 udha
 udharan
 udi
