@@ -294,6 +294,7 @@ apes
 api
 apik
 apit
+aplikasi
 apo
 aposi
 apu
@@ -3064,6 +3065,7 @@ susuk
 susuku
 susul
 susumu
+sutil
 sutri
 suw
 suwe
@@ -3321,6 +3323,7 @@ umi
 umo
 umpama
 umpamane
+umpet
 umu
 umuk
 umum
