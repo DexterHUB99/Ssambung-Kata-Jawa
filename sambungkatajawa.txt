@@ -449,6 +449,7 @@ didu
 diemut
 dikit
 diluk
+dimana
 dimas
 dina
 dingin
@@ -1541,6 +1542,7 @@ mogok
 moh
 moleh
 mom
+momong
 momumet
 moro
 mos
@@ -2628,6 +2630,7 @@ uyawa
 uyuh
 wadol
 wadon
+waduk
 wadul
 wajan
 wajik
