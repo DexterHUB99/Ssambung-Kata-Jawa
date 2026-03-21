@@ -4273,6 +4273,7 @@ etut
 ev
 eva
 eval
+evan
 evin
 evo
 ew
