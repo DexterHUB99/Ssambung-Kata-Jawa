@@ -1283,6 +1283,7 @@ inie
 injak
 insan
 insyaallah
+inti
 intil
 intine
 intip
@@ -1978,6 +1979,7 @@ misa
 misah
 misu
 misuh
+mo
 moco
 modar
 modaro
@@ -2548,6 +2550,7 @@ ori
 orok
 oros
 os
+osah
 osak
 osam
 osas
