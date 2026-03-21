@@ -1118,6 +1118,7 @@ guntur
 gunung
 guoblok
 gur
+gurami
 guri
 gurih
 guru
@@ -1690,6 +1691,7 @@ kerang
 keraos
 kerap
 kere
+keren
 kereta
 keri
 keris
@@ -2707,6 +2709,7 @@ okur
 okut
 olab
 olah
+olak
 ole
 oleh
 oleng
