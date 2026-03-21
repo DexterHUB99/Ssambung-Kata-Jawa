@@ -3162,7 +3162,6 @@ dip
 dipa
 dipah
 dipan
-dipang
 dipangan
 diparengi
 diparingi
@@ -7322,7 +7321,6 @@ kencot
 kencur
 kendak
 kendal
-kendala
 kendali
 kendang
 kendangan
@@ -10737,7 +10735,6 @@ ngesek
 ngeselin
 ngesem
 ngeseng
-ngeses
 ngeset
 ngesing
 ngesok
@@ -10973,6 +10970,7 @@ ngiseni
 ngisep
 ngiser
 ngisi
+ngisih
 ngisik
 ngisin
 ngising
@@ -13369,7 +13367,6 @@ rami
 ramii
 ramis
 ramla
-ramli
 ramo
 rampai
 rampas
@@ -14735,6 +14732,7 @@ siasu
 sibat
 sida
 sidang
+sidat
 sidha
 sidoarjo
 sie
@@ -14899,7 +14897,6 @@ sob
 soba
 soban
 sobat
-sobe
 sobek
 sober
 sobi
