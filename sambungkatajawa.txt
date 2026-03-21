@@ -345,6 +345,7 @@ cocote
 cok
 col
 coli
+congor
 cuci
 cucu
 curut
@@ -359,6 +360,7 @@ dancok
 dandang
 dani
 dapur
+dara
 dari
 demek
 dengkul
@@ -686,6 +688,7 @@ hiu
 ho
 hoh
 hoi
+holo
 homo
 hooh
 hora
@@ -775,6 +778,7 @@ induk
 inem
 inggih
 inggit
+ingkang
 ini
 injak
 insyaallah
@@ -826,6 +830,7 @@ iso
 isoe
 isok
 isoma
+istri
 isu
 isuk
 isya
@@ -1141,6 +1146,7 @@ lumpang
 lumpuh
 lumrah
 lunga
+luntur
 lupa
 luput
 lurah
@@ -1165,6 +1171,7 @@ mambu
 mandi
 mane
 mangan
+manis
 manjing
 mantep
 manuk
@@ -1445,6 +1452,7 @@ nyebur
 nyonya
 nyuwi
 oalah
+ob
 obah
 obak
 obat
@@ -1633,6 +1641,7 @@ ragat
 rai
 raimu
 raine
+raiso
 rajungan
 rako
 rakus
@@ -1779,6 +1788,7 @@ sinau
 sing
 sinten
 sip
+sira
 siro
 sisa
 sisi
@@ -1826,6 +1836,7 @@ sus
 susilo
 susu
 susuk
+susul
 sutri
 suw
 suwe
@@ -1859,6 +1870,7 @@ tawa
 tebu
 tel
 tela
+telo
 telu
 teman
 tembok
