@@ -984,6 +984,7 @@ guru
 gus
 gusi
 gusur
+guwae
 guyah
 guyon
 guyu
@@ -3046,6 +3047,7 @@ tete
 tetek
 tibak
 tibo
+tikung
 tikus
 tilam
 tilem
@@ -3095,6 +3097,7 @@ tuhan
 tuk
 tukang
 tuku
+tukul
 tuli
 tulung
 tulus
@@ -3425,6 +3428,7 @@ yoi
 yok
 yoman
 yonan
+yono
 yoopo
 yoto
 yowes
