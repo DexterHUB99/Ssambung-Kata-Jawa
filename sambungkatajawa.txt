@@ -1636,6 +1636,7 @@ kin
 kinasih
 kini
 kinjeng
+kintir
 kios
 kipas
 kir
@@ -1903,6 +1904,7 @@ lori
 loro
 lorong
 los
+losa
 lote
 lowo
 loyo
@@ -3108,11 +3110,13 @@ siti
 sitok
 siwa
 so
+sogok
 sok
 sokor
 sol
 solar
 sole
+soli
 solo
 somat
 sombong
