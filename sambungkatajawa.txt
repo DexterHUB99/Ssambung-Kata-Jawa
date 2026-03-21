@@ -5370,6 +5370,7 @@ harimau
 harimu
 harine
 hario
+hariono
 hariyo
 harjo
 harm
@@ -6782,6 +6783,7 @@ kaisar
 kajaba
 kajan
 kajang
+kajawi
 kajeng
 kaji
 kajian
@@ -8866,7 +8868,6 @@ makana
 makanan
 makane
 makanne
-makao
 makat
 make
 maki
