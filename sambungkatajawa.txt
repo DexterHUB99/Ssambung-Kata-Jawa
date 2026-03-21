@@ -210,6 +210,7 @@ as
 asa
 asai
 asal
+asam
 asar
 asek
 asem
@@ -251,6 +252,7 @@ atu
 atuh
 atuk
 atum
+atur
 atus
 aul
 awa
@@ -571,6 +573,7 @@ guni
 guoblok
 gur
 guri
+gurih
 guru
 gus
 gusi
@@ -581,6 +584,7 @@ ha
 haa
 habis
 hadeh
+hadiah
 hae
 hah
 haha
@@ -768,6 +772,7 @@ iri
 iria
 irim
 iris
+irit
 iroh
 irung
 irup
@@ -852,6 +857,7 @@ kalung
 kambing
 kami
 kamis
+kampak
 kampret
 kamu
 kan
@@ -1305,6 +1311,7 @@ ngorok
 ngowah
 ngowoh
 ngoyak
+ngrumat
 ngudud
 ngukur
 ngulang
@@ -1324,6 +1331,7 @@ nia
 nikah
 niki
 niku
+nila
 nilai
 nilep
 nili
@@ -1515,6 +1523,7 @@ pisah
 pisan
 pisang
 pisek
+pita
 pitik
 pitutur
 piye
@@ -1654,6 +1663,7 @@ salam
 salim
 sama
 sambi
+sambit
 sambung
 sampah
 sampai
@@ -1713,6 +1723,7 @@ sop
 sopan
 sopi
 sopir
+sopo
 sore
 sri
 sua
@@ -1800,6 +1811,7 @@ tok
 tole
 tolol
 tolong
+tomat
 tompel
 tongkol
 tono
@@ -1986,6 +1998,7 @@ wewe
 wicak
 wicara
 wijaya
+wiko
 wir
 wirang
 wiro
@@ -2005,6 +2018,7 @@ yana
 yang
 yaping
 yati
+yawes
 yaya
 yen
 yo
