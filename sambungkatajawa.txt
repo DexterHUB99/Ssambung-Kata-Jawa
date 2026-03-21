@@ -1106,6 +1106,7 @@ hani
 hano
 hantam
 hantu
+hanung
 hap
 hape
 hapus
@@ -3170,6 +3171,7 @@ suki
 sukma
 suku
 sukun
+sukur
 sulak
 sulam
 sulap
@@ -3236,6 +3238,7 @@ tali
 talingan
 tam
 taman
+tambah
 tambal
 tambir
 tampar
