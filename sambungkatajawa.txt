@@ -41,6 +41,7 @@ ahlii
 aho
 ahon
 ahu
+ai
 aia
 aie
 aika
@@ -118,6 +119,7 @@ amoh
 among
 amoro
 ampar
+ampas
 ampir
 ampun
 amrih
@@ -221,6 +223,7 @@ asai
 asal
 asam
 asar
+asas
 asek
 asem
 asep
@@ -264,6 +267,7 @@ atum
 atur
 atus
 aul
+aura
 awa
 awak
 awal
@@ -2082,6 +2086,7 @@ wowo
 xenon
 ya
 yadi
+yai
 yak
 yali
 yamaha
