@@ -284,6 +284,7 @@ antem
 anteng
 antep
 anter
+anti
 anting
 anto
 anton
@@ -455,6 +456,7 @@ bab
 babat
 babi
 babik
+bacok
 bae
 bagong
 bah
@@ -587,6 +589,7 @@ dada
 dadang
 dadar
 dadi
+dagu
 dahar
 dahi
 dalam
@@ -1893,6 +1896,7 @@ labu
 lacut
 lagi
 lah
+lahan
 lahe
 lakon
 laku
@@ -1922,6 +1926,7 @@ langkah
 langsam
 langsing
 langu
+lanjut
 lantar
 lantas
 laos
@@ -2253,6 +2258,7 @@ muntah
 munyuk
 mur
 murah
+murung
 mus
 musa
 musi
