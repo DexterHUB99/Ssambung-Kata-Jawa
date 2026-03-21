@@ -5,6 +5,7 @@ abai
 abang
 abi
 abu
+acung
 ada
 adai
 adegan
@@ -55,7 +56,6 @@ aing
 aini
 air
 aira
-aiwa
 aiya
 aja
 ajag
@@ -65,10 +65,12 @@ aji
 ajine
 ajir
 aka
+akad
 akal
 akan
 akar
 akas
+ake
 akeh
 akhir
 aki
@@ -116,6 +118,7 @@ amboi
 ambu
 ambyar
 ameh
+amet
 ami
 amii
 amik
@@ -130,6 +133,7 @@ ampas
 ampir
 ampun
 amrih
+amuk
 amul
 an
 ana
@@ -148,6 +152,7 @@ anco
 ancok
 anda
 andai
+andal
 andang
 andhap
 andi
@@ -179,7 +184,6 @@ anis
 aniy
 anjas
 anjay
-anjaya
 anjing
 anjinge
 anjir
@@ -189,6 +193,7 @@ anjuran
 ano
 anom
 anoman
+antar
 antara
 antek
 antem
@@ -222,6 +227,7 @@ ara
 arah
 arai
 arak
+aran
 arang
 aras
 are
@@ -320,8 +326,8 @@ bagong
 bali
 balok
 bambang
+bang
 banyu
-bau
 bebek
 bejat
 belang
@@ -329,7 +335,6 @@ bener
 berak
 bi
 biasa
-bibi
 bila
 bin
 bingo
@@ -356,7 +361,6 @@ bujo
 buk
 bukan
 buku
-bula
 bumbu
 bumu
 buncis
@@ -381,7 +385,6 @@ cipa
 ciu
 cobek
 cocok
-cocot
 cocote
 cok
 col
@@ -417,7 +420,6 @@ dikit
 diluk
 dimas
 dingin
-dino
 dipun
 diri
 diso
@@ -441,6 +443,7 @@ edah
 edan
 edanwa
 edi
+eh
 eha
 ehe
 eheh
@@ -467,6 +470,7 @@ eku
 ekun
 ekur
 el
+ela
 elah
 elam
 elang
@@ -486,7 +490,6 @@ emak
 eman
 emang
 emas
-emba
 embah
 embel
 ember
@@ -541,13 +544,13 @@ erang
 ere
 eri
 erik
-ering
 erip
 ero
 eroh
 erong
 eru
 eruh
+esa
 esai
 ese
 esi
@@ -567,6 +570,7 @@ etil
 etis
 etos
 etus
+ewan
 ewe
 ewis
 ewoh
@@ -652,7 +656,6 @@ gig
 gigi
 gigil
 gila
-gilang
 giling
 gilo
 gimi
@@ -681,6 +684,7 @@ goreng
 gori
 goro
 gorok
+gorong
 gosok
 gosong
 got
@@ -761,6 +765,7 @@ has
 hasil
 hasrat
 hasta
+hata
 hati
 hawa
 hawai
@@ -825,7 +830,6 @@ hus
 hutan
 hutang
 huti
-iba
 ibadah
 ibu
 ibuk
@@ -902,6 +906,7 @@ indang
 indra
 indu
 induk
+indung
 inem
 infaq
 inggih
@@ -990,7 +995,6 @@ jaka
 jamal
 jamu
 jancok
-janda
 jare
 jawa
 jawir
@@ -1004,7 +1008,6 @@ jika
 jilat
 jimat
 jin
-jinak
 jingga
 jipuk
 jiwa
@@ -1021,6 +1024,7 @@ jos
 jujur
 kabeh
 kacuk
+kacung
 kadal
 kae
 kaisar
@@ -1047,6 +1051,7 @@ kamis
 kampak
 kampret
 kamu
+kamus
 kan
 kana
 kancut
@@ -1066,6 +1071,7 @@ karepmu
 kari
 karma
 karo
+kartu
 kasar
 kasep
 kaset
@@ -1102,7 +1108,6 @@ kentang
 kentu
 kentut
 kenyang
-keong
 kepiye
 kepo
 kepol
@@ -1122,7 +1127,6 @@ ketek
 ketik
 ketok
 ki
-kiai
 kidal
 kidul
 kidung
@@ -1175,6 +1179,7 @@ kontolmu
 kontrol
 konyol
 kopi
+koplak
 kora
 koran
 korban
@@ -1182,6 +1187,7 @@ kos
 kosan
 kosong
 kota
+kotor
 kowe
 krikil
 ku
@@ -1258,7 +1264,6 @@ lemper
 lemu
 lengkuas
 leper
-leren
 leres
 leri
 lesehan
@@ -1345,6 +1350,7 @@ luweh
 luwih
 maaf
 mabur
+madam
 madang
 madhang
 madu
@@ -1358,6 +1364,7 @@ maksa
 malu
 mama
 mambu
+mana
 mandi
 mane
 mangan
@@ -1514,7 +1521,6 @@ nganggo
 nganggur
 ngangsu
 nganjuk
-ngantem
 ngantemi
 ngantuk
 nganu
@@ -1570,12 +1576,11 @@ ngil
 ngilu
 ngimbar
 nginthil
-ngintil
-ngintip
 ngiras
 ngiris
 ngiseng
 ngisep
+ngisi
 ngisin
 ngising
 ngisor
@@ -1617,8 +1622,6 @@ nguntal
 ngunu
 nguping
 nguras
-ngurusi
-ngurut
 ngutang
 ni
 nia
@@ -1668,7 +1671,6 @@ norak
 nori
 nos
 nosi
-note
 nu
 nua
 nui
@@ -1680,7 +1682,6 @@ numpang
 nunggang
 nunggu
 nunung
-nunut
 nuo
 nur
 nurut
@@ -1817,7 +1818,6 @@ payu
 payung
 pe
 pedang
-pedot
 pek
 pekok
 pelan
@@ -1846,7 +1846,6 @@ pinarak
 pindah
 pindang
 ping
-pinten
 pintu
 pipi
 pipis
@@ -1860,7 +1859,6 @@ pisang
 pisek
 pit
 pita
-pitek
 pitik
 pitutur
 piye
@@ -1899,7 +1897,6 @@ pundi
 punten
 pupuk
 pura
-putih
 putri
 putus
 puyeng
@@ -1981,7 +1978,6 @@ risi
 risih
 ro
 rok
-rokaat
 romah
 rombeng
 rombongan
@@ -1993,6 +1989,7 @@ roso
 roti
 rowo
 rua
+rui
 ruka
 ruko
 ruku
@@ -2030,6 +2027,7 @@ sambit
 sambung
 sampah
 sampai
+sampe
 sampean
 sampo
 sampun
@@ -2084,6 +2082,7 @@ sira
 siro
 sisa
 sisi
+sisik
 siti
 siwa
 so
@@ -2102,6 +2101,7 @@ sore
 sosis
 sowan
 sri
+su
 sua
 subur
 sudi
@@ -2165,7 +2165,6 @@ tansah
 tapi
 tapir
 tara
-tari
 taro
 tata
 tatak
@@ -2221,7 +2220,6 @@ tu
 tua
 tuak
 tuhan
-tukang
 tuku
 tuli
 tuma
@@ -2297,7 +2295,6 @@ uler
 ulet
 uli
 ulih
-ulik
 ulo
 ulu
 um
@@ -2318,7 +2315,6 @@ un
 una
 unak
 unama
-undang
 undangan
 undian
 unduk
@@ -2392,8 +2388,6 @@ utang
 utara
 utawa
 utawi
-utawo
-ute
 utek
 uti
 utuh
@@ -2416,7 +2410,6 @@ wajan
 wajik
 waktu
 wareng
-watak
 wayah
 wayang
 wedang
