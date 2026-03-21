@@ -1775,7 +1775,6 @@ babagan
 babah
 babai
 babak
-babako
 babar
 babat
 babe
@@ -2055,7 +2054,6 @@ beleh
 belek
 beler
 beli
-belimbing
 beling
 bella
 belo
@@ -5218,7 +5216,6 @@ gusa
 gusah
 gusar
 gusel
-gusha
 gusi
 guso
 gusti
@@ -6648,6 +6645,7 @@ joglo
 jogo
 jojor
 jok
+joka
 joke
 joki
 joko
@@ -9975,7 +9973,6 @@ nedha
 nedhaa
 nedho
 nedi
-nedon
 neduh
 neg
 nega
@@ -10699,7 +10696,6 @@ ngema
 ngeman
 ngemang
 ngemas
-ngemati
 ngembang
 ngembat
 ngember
@@ -11335,7 +11331,6 @@ ngucap
 ngucek
 ngucir
 ngucuk
-ngudae
 ngudag
 ngudan
 ngudang
@@ -14110,7 +14105,6 @@ rua
 ruah
 ruam
 ruame
-ruan
 ruang
 rubuh
 rue
