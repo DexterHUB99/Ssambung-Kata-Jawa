@@ -82,6 +82,7 @@ ajae
 ajag
 ajal
 ajek
+ajeng
 aji
 ajine
 ajir
@@ -818,6 +819,7 @@ erang
 erap
 erat
 ere
+eren
 eri
 erik
 ering
@@ -976,6 +978,7 @@ gembok
 gembol
 gembong
 gempa
+gemuk
 gen
 genah
 genangan
@@ -3341,6 +3344,7 @@ tara
 tari
 taro
 tase
+tasi
 tata
 tatak
 tatu
@@ -3681,6 +3685,7 @@ ute
 utek
 utekmu
 utel
+uter
 uti
 utik
 uto
