@@ -127,6 +127,7 @@ akol
 akon
 akor
 akrab
+aksa
 aksara
 aku
 akua
@@ -2833,6 +2834,7 @@ numbas
 numbuk
 numpak
 numpang
+numplek
 nung
 nunggang
 nunggu
