@@ -770,6 +770,7 @@ ese
 esi
 esih
 esil
+esoe
 esok
 estu
 esu
@@ -887,6 +888,7 @@ gembira
 gemblung
 gembok
 gembol
+gembong
 gempa
 gen
 gendar
