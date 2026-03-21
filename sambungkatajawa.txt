@@ -592,6 +592,7 @@ buti
 cabe
 cacar
 cacing
+cagak
 cah
 cakap
 cakot
@@ -1328,6 +1329,7 @@ helo
 hem
 hemat
 heni
+hep
 her
 hera
 heran
@@ -3117,6 +3119,7 @@ panas
 panci
 pandang
 pandawa
+pang
 pani
 panik
 panjang
@@ -3381,6 +3384,7 @@ remok
 rempeyek
 rempon
 remuk
+rena
 rencang
 rendang
 rendeng
@@ -4179,6 +4183,7 @@ uwis
 uwong
 uwu
 ux
+uya
 uyah
 uyawa
 uyo
