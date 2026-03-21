@@ -4646,6 +4646,7 @@ geden
 gedhang
 gedhe
 gedhi
+gedhong
 gedhung
 gedor
 gedung
