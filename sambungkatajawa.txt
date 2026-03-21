@@ -466,6 +466,7 @@ didu
 diemut
 dikit
 diluk
+dimana
 dimas
 dingin
 dino
@@ -536,6 +537,7 @@ eleh
 elek
 eli
 elia
+elik
 eling
 elo
 eloh
@@ -640,6 +642,7 @@ eti
 etika
 etil
 etis
+etol
 etos
 etus
 ewang
@@ -988,6 +991,7 @@ ilae
 ilah
 ilan
 ilang
+ilap
 ilat
 iler
 ili
@@ -1100,6 +1104,7 @@ iuta
 iwak
 iwan
 iwang
+iwenan
 ix
 iya
 iyan
@@ -1365,6 +1370,7 @@ kuo
 kupas
 kupi
 kuping
+kur
 kura
 kurang
 kurma
@@ -1409,7 +1415,9 @@ latah
 laut
 lawak
 lawas
+lekoh
 lele
+lelet
 lem
 lemah
 lemes
@@ -1596,6 +1604,7 @@ modus
 mogok
 moh
 mok
+mole
 moleh
 mom
 momumet
@@ -1642,6 +1651,7 @@ naliko
 nama
 nami
 nampa
+nampan
 nampar
 namung
 nana
@@ -1668,6 +1678,7 @@ nasar
 nasi
 nata
 nate
+ndang
 ndas
 nderek
 nedha
@@ -2219,6 +2230,7 @@ reang
 rebo
 rebung
 rebus
+reget
 reka
 remang
 remas
@@ -2517,6 +2529,7 @@ tilem
 tilep
 timah
 timbul
+timbun
 timi
 timun
 tin
