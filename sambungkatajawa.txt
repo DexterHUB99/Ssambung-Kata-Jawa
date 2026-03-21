@@ -321,6 +321,7 @@ bali
 balok
 bambang
 banyu
+bau
 bebek
 bejat
 belang
@@ -416,6 +417,7 @@ dikit
 diluk
 dimas
 dingin
+dino
 dipun
 diri
 diso
@@ -484,6 +486,7 @@ emak
 eman
 emang
 emas
+emba
 embah
 embel
 ember
@@ -649,6 +652,7 @@ gig
 gigi
 gigil
 gila
+gilang
 giling
 gilo
 gimi
@@ -821,6 +825,7 @@ hus
 hutan
 hutang
 huti
+iba
 ibadah
 ibu
 ibuk
@@ -1117,6 +1122,7 @@ ketek
 ketik
 ketok
 ki
+kiai
 kidal
 kidul
 kidung
@@ -1252,6 +1258,7 @@ lemper
 lemu
 lengkuas
 leper
+leren
 leres
 leri
 lesehan
@@ -1563,6 +1570,7 @@ ngil
 ngilu
 ngimbar
 nginthil
+ngintil
 ngintip
 ngiras
 ngiris
@@ -1660,6 +1668,7 @@ norak
 nori
 nos
 nosi
+note
 nu
 nua
 nui
@@ -1851,6 +1860,7 @@ pisang
 pisek
 pit
 pita
+pitek
 pitik
 pitutur
 piye
@@ -1889,6 +1899,7 @@ pundi
 punten
 pupuk
 pura
+putih
 putri
 putus
 puyeng
