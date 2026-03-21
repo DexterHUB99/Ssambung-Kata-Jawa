@@ -10,6 +10,7 @@ abu
 ad
 ada
 adai
+ade
 adegan
 adek
 adem
@@ -356,6 +357,7 @@ asma
 asmae
 aso
 asoy
+asri
 asta
 astaga
 astagfirullah
@@ -2110,6 +2112,7 @@ naik
 najis
 nak
 nakal
+nakali
 nakoni
 nali
 nalika
@@ -2219,6 +2222,7 @@ ngalem
 ngaler
 ngali
 ngalor
+ngaman
 ngamar
 ngambar
 ngambi
@@ -2369,6 +2373,7 @@ ngopi
 ngopo
 ngopoe
 ngopok
+ngor
 ngori
 ngorok
 ngos
@@ -3498,6 +3503,7 @@ urakan
 uran
 urang
 urap
+urapan
 urat
 uri
 urik
