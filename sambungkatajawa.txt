@@ -7326,7 +7326,6 @@ kemas
 kemasan
 kemayu
 kembali
-kembalian
 kembang
 kembange
 kembar
@@ -10422,7 +10421,6 @@ ngarap
 ngarasa
 ngare
 ngarek
-ngareng
 ngareni
 ngarep
 ngarepan
@@ -11285,7 +11283,6 @@ ngrok
 ngrokok
 ngrumat
 ngrumpi
-ngrungokke
 ngrungu
 ngrus
 ngrusak
@@ -17070,7 +17067,6 @@ wio
 wir
 wira
 wirama
-wiran
 wirang
 wirangan
 wiraya
