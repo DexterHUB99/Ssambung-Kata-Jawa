@@ -62,6 +62,7 @@ akhir
 aki
 akia
 akih
+aking
 ako
 akon
 akrab
@@ -242,6 +243,7 @@ atise
 ato
 atok
 atos
+atu
 atuh
 atuk
 atum
@@ -286,6 +288,7 @@ bisa
 bisik
 bisiki
 bisu
+bodoh
 bolo
 bongo
 bor
@@ -294,10 +297,12 @@ bua
 bubu
 bubut
 bude
+budi
 bujo
 buk
 bukan
 buku
+bumbu
 bumu
 buncis
 bunga
@@ -493,11 +498,13 @@ ge
 gedang
 gedangan
 gegayuhan
+geger
 geh
 gela
 gelem
 geli
 gelo
+gemah
 gembel
 gemblung
 gempa
@@ -507,6 +514,7 @@ geni
 genteng
 ger
 gering
+gesek
 gi
 gigil
 gila
@@ -1086,6 +1094,7 @@ makan
 maksa
 malu
 mama
+mambu
 mandi
 mane
 mangan
@@ -1430,6 +1439,7 @@ owah
 ox
 oyot
 padang
+padu
 pagar
 pagi
 pahing
@@ -1783,6 +1793,7 @@ uang
 ubii
 ubuna
 ucul
+udah
 udan
 udang
 udek
@@ -1791,6 +1802,7 @@ udin
 udo
 udud
 uduk
+udut
 uem
 uen
 ugah
@@ -1854,6 +1866,7 @@ undangan
 undian
 unduk
 unggas
+ungkap
 ungkara
 ungu
 uni
