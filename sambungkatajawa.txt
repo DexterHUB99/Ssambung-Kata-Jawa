@@ -2197,6 +2197,7 @@ bintang
 bintit
 binu
 bio
+bipo
 bir
 bira
 biri
