@@ -1581,6 +1581,7 @@ ke
 kebab
 kebang
 kedah
+kediri
 kegowo
 kekek
 kekel
@@ -3228,6 +3229,7 @@ sumuk
 sumur
 sun
 sunar
+sunda
 sungkem
 sunyi
 sup
@@ -3655,6 +3657,7 @@ wadon
 wadul
 wae
 wahana
+wai
 wajan
 wajik
 waktu
