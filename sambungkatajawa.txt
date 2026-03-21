@@ -3294,6 +3294,7 @@ reget
 rejo
 rek
 reka
+reko
 rem
 remah
 remang
