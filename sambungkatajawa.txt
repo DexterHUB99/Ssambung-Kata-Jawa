@@ -485,6 +485,7 @@ berak
 besan
 besi
 besok
+besuk
 bi
 biasa
 bibi
@@ -722,6 +723,7 @@ eku
 ekun
 ekur
 el
+ela
 elae
 elah
 elam
@@ -1465,6 +1467,7 @@ isi
 isia
 isih
 isin
+ising
 isis
 islam
 islo
@@ -1658,6 +1661,7 @@ kela
 kelap
 kelebu
 kelek
+kelimis
 kelingan
 kelon
 kelor
@@ -1926,6 +1930,7 @@ lele
 lelet
 lem
 lemah
+lembah
 lemes
 lemot
 lemper
@@ -2529,6 +2534,7 @@ ngopo
 ngopoe
 ngopok
 ngor
+ngora
 ngori
 ngorok
 ngos
@@ -2569,6 +2575,7 @@ ngutang
 ni
 nia
 nihi
+nik
 nika
 nikah
 niki
