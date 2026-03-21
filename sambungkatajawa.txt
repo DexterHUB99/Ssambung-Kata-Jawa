@@ -366,6 +366,7 @@ bosok
 bua
 buang
 buat
+bubar
 bubu
 bubut
 bude
@@ -452,6 +453,7 @@ dosa
 duda
 dudo
 dudu
+duduk
 duha
 duit
 dukun
@@ -850,6 +852,7 @@ hikmah
 hilang
 himpun
 hira
+hire
 hiri
 hisa
 hitam
@@ -1179,6 +1182,7 @@ kepo
 kepol
 kerana
 kere
+kerek
 kereta
 keri
 keris
@@ -1294,6 +1298,7 @@ kuping
 kura
 kurang
 kurma
+kuro
 kursi
 kuru
 kurus
@@ -1784,6 +1789,7 @@ norak
 nori
 nos
 nosi
+nota
 note
 nu
 nua
