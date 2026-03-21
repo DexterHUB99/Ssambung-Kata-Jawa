@@ -572,6 +572,7 @@ didik
 didu
 diemut
 dikit
+dila
 diluk
 dim
 dimana
@@ -736,6 +737,7 @@ engko
 engkol
 eni
 enis
+enjih
 enjing
 enjoy
 eno
@@ -1739,6 +1741,7 @@ langkah
 langsam
 langsing
 langu
+lantar
 lantas
 laos
 lapang
@@ -1754,6 +1757,7 @@ laut
 lawak
 lawas
 le
+lebah
 lekoh
 lelah
 lele
@@ -2296,6 +2300,7 @@ ngondur
 ngonten
 ngontol
 ngop
+ngopeni
 ngoper
 ngopi
 ngopo
