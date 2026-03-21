@@ -1797,6 +1797,7 @@ kur
 kura
 kurang
 kurma
+kuro
 kurowo
 kursi
 kuru
@@ -3368,6 +3369,7 @@ terong
 tete
 tetek
 tetelan
+tiba
 tibak
 tibo
 tikung
