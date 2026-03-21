@@ -2212,6 +2212,7 @@ limbah
 limo
 limolas
 lina
+linang
 linggis
 lingkaran
 lingkungan
@@ -2713,6 +2714,7 @@ ngasehi
 ngasek
 ngasi
 ngasih
+ngasil
 ngasing
 ngaso
 ngasu
@@ -3058,6 +3060,7 @@ okin
 okok
 okoka
 okol
+okon
 okor
 okot
 okur
@@ -3366,6 +3369,7 @@ pura
 purun
 purut
 pusa
+pusaka
 pusing
 putih
 puting
@@ -3835,6 +3839,7 @@ surya
 sus
 susah
 suseng
+susi
 susilo
 susu
 susuk
