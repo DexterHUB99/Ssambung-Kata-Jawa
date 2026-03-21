@@ -7,6 +7,7 @@ abang
 abi
 abil
 ablek
+aboh
 abrit
 abu
 acu
@@ -140,6 +141,7 @@ alama
 alang
 alangan
 alas
+alasan
 alat
 alay
 ale
@@ -2512,6 +2514,7 @@ ngawur
 ngayuh
 nge
 ngebas
+ngece
 ngeden
 ngefek
 ngeh
@@ -3684,6 +3687,7 @@ tulung
 tulus
 tuma
 tuman
+tumbal
 tumbas
 tumi
 tumindak
