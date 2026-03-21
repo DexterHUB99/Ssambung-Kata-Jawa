@@ -651,6 +651,7 @@ dani
 dap
 dapur
 dara
+daren
 dari
 darma
 das
@@ -3178,6 +3179,7 @@ ponakan
 pondok
 poni
 ponorogo
+poo
 popa
 por
 pora
