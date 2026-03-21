@@ -146,6 +146,7 @@ amat
 amba
 ambar
 ambek
+amben
 ambi
 ambil
 amboi
@@ -587,6 +588,7 @@ ed
 edah
 edan
 edanwa
+edar
 edi
 edon
 ef
@@ -2159,6 +2161,7 @@ nginep
 nginthil
 ngintil
 ngintip
+ngira
 ngiras
 ngirim
 ngiring
@@ -2169,6 +2172,7 @@ ngisi
 ngisin
 ngising
 ngisor
+ngitung
 ngko
 nglonte
 ngocok
