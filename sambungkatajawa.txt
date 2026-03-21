@@ -636,6 +636,7 @@ dama
 damai
 damar
 damel
+damput
 dan
 danau
 dancok
