@@ -5671,6 +5671,7 @@ idan
 idar
 ide
 idea
+ideko
 idem
 idemu
 idep
@@ -11620,6 +11621,7 @@ nol
 nolak
 nolan
 noleh
+nolek
 noli
 nolol
 nom
