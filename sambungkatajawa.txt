@@ -475,6 +475,7 @@ banyu
 bathuk
 batuk
 bau
+bayi
 bebe
 bebek
 becak
@@ -940,6 +941,7 @@ galang
 galangan
 galeh
 galengan
+galer
 gali
 galih
 gaman
@@ -2518,6 +2520,7 @@ ngewang
 ngewe
 ngga
 nggak
+nggambar
 nggatel
 nggateli
 nggawe
@@ -3211,6 +3214,7 @@ rogoh
 rok
 rokaat
 rokok
+rolas
 rolo
 rom
 romah
@@ -3578,6 +3582,7 @@ timun
 timur
 tin
 tindak
+tinggal
 tip
 tira
 tiris
