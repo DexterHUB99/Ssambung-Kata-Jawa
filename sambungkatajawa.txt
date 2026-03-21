@@ -417,6 +417,7 @@ babi
 bae
 bagong
 bai
+bajigur
 bali
 balok
 bambang
@@ -746,6 +747,7 @@ epi
 epik
 epo
 epok
+epol
 epon
 epuk
 er
@@ -915,6 +917,7 @@ geter
 geto
 getuk
 gi
+gidal
 gig
 gigi
 gigil
@@ -1722,6 +1725,7 @@ leres
 leri
 lesehan
 lesu
+lesung
 lewih
 leyeh
 lho
@@ -2131,6 +2135,7 @@ ngari
 ngarit
 ngaruh
 ngasek
+ngasi
 ngasing
 ngaso
 ngasu
