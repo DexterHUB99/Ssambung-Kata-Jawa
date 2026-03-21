@@ -6645,7 +6645,6 @@ joglo
 jogo
 jojor
 jok
-joka
 joke
 joki
 joko
@@ -8487,7 +8486,6 @@ lima
 limaa
 limae
 limai
-limak
 limalas
 liman
 limang
@@ -10323,7 +10321,6 @@ nganam
 nganan
 ngancani
 ngancer
-ngancil
 ngancing
 ngandai
 ngandang
@@ -10635,7 +10632,6 @@ ngejak
 ngejar
 ngejek
 ngek
-ngekang
 ngekek
 ngekel
 ngeko
