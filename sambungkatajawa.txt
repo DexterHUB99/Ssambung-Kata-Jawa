@@ -1163,6 +1163,7 @@ hitam
 hitung
 hiu
 hm
+hmm
 ho
 hoe
 hoh
@@ -1213,6 +1214,7 @@ id
 ida
 ide
 idep
+ider
 idih
 idu
 idue
