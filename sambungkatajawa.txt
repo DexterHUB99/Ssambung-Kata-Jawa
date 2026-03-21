@@ -996,6 +996,7 @@ ham
 hama
 hamba
 hambar
+hambur
 hame
 hami
 hamil
@@ -1798,6 +1799,7 @@ maka
 makan
 maksa
 malaikat
+maling
 malu
 mama
 mamake
@@ -1838,6 +1840,7 @@ matursuwun
 mau
 mawon
 maya
+mben
 mboke
 me
 medeni
@@ -3270,6 +3273,7 @@ utawo
 ute
 utek
 utekmu
+utel
 uti
 utik
 uto
