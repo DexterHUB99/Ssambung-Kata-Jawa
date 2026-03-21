@@ -821,6 +821,7 @@ gang
 gange
 ganjil
 ganteng
+ganti
 gaplek
 gapuk
 garai
