@@ -1114,6 +1114,7 @@ ger
 gera
 gerak
 gerang
+geri
 gering
 gese
 gesek
@@ -2810,6 +2811,7 @@ nik
 nika
 nikah
 niki
+nikmat
 niko
 niku
 nila
@@ -3764,6 +3766,7 @@ tasi
 tata
 tatak
 tatu
+taun
 tawa
 tebu
 teko
@@ -3800,6 +3803,7 @@ tiba
 tibak
 tibo
 tik
+tika
 tikung
 tikus
 tilam
