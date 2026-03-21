@@ -6237,6 +6237,7 @@ isoo
 isor
 isowa
 isra
+isre
 isri
 isro
 ista
@@ -8749,6 +8750,7 @@ ma
 maaf
 mabar
 mabi
+mabu
 mabuk
 mabur
 maca
