@@ -101,6 +101,7 @@ ambu
 ambyar
 ameh
 ami
+amii
 amik
 amil
 amin
@@ -283,6 +284,7 @@ belang
 bener
 berak
 bi
+biasa
 bin
 bis
 bisa
@@ -338,6 +340,7 @@ dari
 demek
 dengkul
 didik
+diemut
 diluk
 dimas
 dingin
@@ -754,6 +757,7 @@ iras
 irasan
 irat
 irawe
+iren
 ireng
 irenge
 iri
@@ -803,6 +807,7 @@ jawir
 je
 jejer
 jelek
+jeneng
 jero
 jijik
 jika
@@ -832,6 +837,7 @@ kaka
 kakat
 kakehan
 kakek
+kaki
 kaku
 kale
 kalem
@@ -1160,6 +1166,7 @@ mur
 murah
 musa
 musi
+na
 nabi
 nada
 nafas
@@ -1209,6 +1216,7 @@ neri
 nesu
 ngaceng
 ngada
+ngadem
 ngae
 ngajar
 ngajeng
@@ -1253,6 +1261,7 @@ ngerem
 ngertos
 ngewe
 nggawe
+nggayuh
 nggeh
 nggih
 ngguyu
@@ -1351,6 +1360,7 @@ nuku
 nulis
 nulung
 numpak
+nunggu
 nunung
 nuo
 nur
@@ -1702,6 +1712,7 @@ sue
 sugeng
 sui
 suk
+suka
 sukma
 sukun
 sulap
@@ -1799,6 +1810,7 @@ tuwa
 ua
 uan
 uang
+ubi
 ubii
 ubuna
 ucul
