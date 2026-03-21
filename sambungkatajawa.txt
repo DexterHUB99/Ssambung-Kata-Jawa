@@ -2188,6 +2188,7 @@ binu
 bio
 bir
 bira
+biri
 biro
 biru
 bis
