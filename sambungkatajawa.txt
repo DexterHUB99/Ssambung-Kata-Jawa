@@ -6,6 +6,7 @@ abai
 abang
 abi
 abil
+abimanyu
 ablek
 aboh
 abrit
@@ -536,6 +537,7 @@ bisiki
 bismillah
 biso
 bisu
+bobi
 bocah
 bodoh
 bojo
@@ -948,6 +950,7 @@ etik
 etika
 etil
 etis
+eto
 etol
 etos
 etus
@@ -1773,6 +1776,7 @@ keko
 kel
 kela
 kelap
+kelas
 kelebu
 kelek
 kelimis
@@ -2162,6 +2166,7 @@ lolos
 lom
 loma
 loman
+lomba
 lombo
 lombok
 lomo
@@ -2877,6 +2882,7 @@ nyawa
 nyebur
 nyenul
 nyepi
+nyong
 nyonya
 nyuwi
 oalah
@@ -4105,6 +4111,7 @@ wajan
 wajik
 waktu
 walah
+wangen
 wangsul
 wanita
 warek
