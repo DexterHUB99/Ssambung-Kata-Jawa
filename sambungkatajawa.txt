@@ -537,6 +537,7 @@ dada
 dadang
 dadar
 dadi
+dahar
 dahi
 dalam
 dalem
@@ -2149,6 +2150,7 @@ neraka
 nere
 neri
 nes
+nesa
 nesu
 nete
 neteh
@@ -2754,6 +2756,7 @@ raden
 rae
 ragat
 rai
+raib
 raimu
 raine
 raiso
@@ -2880,6 +2883,7 @@ roe
 rok
 rokaat
 rokok
+rom
 romah
 rombeng
 rombongan
