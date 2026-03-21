@@ -1851,6 +1851,7 @@ matek
 mateng
 mati
 matio
+matur
 matursuwun
 mau
 mawon
@@ -2335,6 +2336,7 @@ odolan
 og
 ogah
 ogi
+ogoh
 oh
 ohh
 ohhh
