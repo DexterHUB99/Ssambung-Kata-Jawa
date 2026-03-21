@@ -2577,6 +2577,7 @@ ngadal
 ngadem
 ngadep
 ngado
+ngadon
 ngadu
 ngaduk
 ngae
@@ -3024,6 +3025,7 @@ ompong
 ompreng
 on
 onar
+oncom
 onde
 ondo
 ondol
@@ -4205,6 +4207,7 @@ walah
 wangen
 wangsul
 wanita
+waras
 warek
 wareng
 warung
