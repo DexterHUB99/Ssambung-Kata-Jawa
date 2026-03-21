@@ -5,6 +5,7 @@ abah
 abai
 abang
 abi
+ablek
 abrit
 abu
 ad
@@ -1764,6 +1765,7 @@ kua
 kuat
 kucing
 kuda
+kudet
 kudu
 kue
 kui
@@ -2285,6 +2287,7 @@ ngado
 ngadu
 ngaduk
 ngae
+ngagem
 ngah
 ngajar
 ngajeng
