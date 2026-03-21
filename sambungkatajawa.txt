@@ -176,6 +176,7 @@ amik
 amil
 amin
 amis
+amit
 amoh
 among
 amoro
@@ -1594,6 +1595,7 @@ kebang
 kedah
 kediri
 kegowo
+kekar
 kekek
 kekel
 keker
@@ -1820,6 +1822,7 @@ lambene
 lami
 lamit
 lamon
+lamongan
 lampit
 lampu
 lamunan
@@ -2692,6 +2695,7 @@ orak
 oran
 orang
 orapapa
+orapopo
 orasah
 ore
 orek
@@ -3021,6 +3025,7 @@ ro
 roboh
 rodo
 roe
+rogoh
 rok
 rokaat
 rokok
@@ -3445,6 +3450,7 @@ ubi
 ubii
 ubun
 ubuna
+ucap
 ucul
 uda
 udah
