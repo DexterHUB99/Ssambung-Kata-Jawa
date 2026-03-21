@@ -981,6 +981,7 @@ gundik
 gundul
 gung
 guni
+gunting
 gunung
 guoblok
 gur
@@ -1107,6 +1108,7 @@ hola
 holo
 homo
 hono
+hoo
 hooh
 hor
 hora
@@ -2726,6 +2728,7 @@ ria
 riang
 ribet
 ribut
+ridho
 rie
 rih
 rik
