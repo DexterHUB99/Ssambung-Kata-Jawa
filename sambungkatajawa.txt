@@ -1127,6 +1127,7 @@ getuk
 gi
 gidal
 gig
+giga
 gigi
 gigil
 gila
@@ -2554,6 +2555,7 @@ ngace
 ngaceng
 ngacung
 ngada
+ngadal
 ngadem
 ngadep
 ngado
@@ -3492,6 +3494,7 @@ sabus
 sadurung
 sae
 saestu
+saget
 saha
 sahur
 sai
@@ -3903,6 +3906,7 @@ ucap
 ucul
 uda
 udah
+udak
 udam
 udan
 udang
