@@ -607,6 +607,7 @@ ehop
 ehu
 ek
 eka
+ekae
 ekah
 ekar
 eke
@@ -638,6 +639,7 @@ elek
 eli
 elia
 elik
+elim
 eling
 elo
 eloh
@@ -1449,6 +1451,7 @@ kemah
 kembang
 kemeng
 kemi
+kempes
 kemproh
 kemul
 kena
@@ -1650,6 +1653,7 @@ lampu
 lamunan
 lanang
 landung
+langkah
 langsam
 langu
 lantas
@@ -1857,6 +1861,7 @@ me
 medeni
 megah
 meja
+melas
 melek
 meme
 memek
