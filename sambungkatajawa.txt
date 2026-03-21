@@ -1245,6 +1245,7 @@ hal
 hala
 halah
 halal
+halan
 hali
 halo
 halus
@@ -2937,6 +2938,7 @@ ojok
 ok
 oka
 okae
+okal
 okan
 okar
 oke
@@ -3668,6 +3670,7 @@ sunar
 sunat
 sunda
 sundel
+sungai
 sungkan
 sungkem
 sunyi
