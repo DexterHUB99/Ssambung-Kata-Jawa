@@ -718,6 +718,7 @@ emut
 en
 ena
 enak
+enang
 enar
 enat
 endah
@@ -979,6 +980,7 @@ gol
 golek
 goleko
 golet
+golo
 golong
 gombal
 gondok
@@ -2795,6 +2797,7 @@ raso
 rasu
 ratu
 raup
+rausah
 rawa
 rawit
 rawuh
