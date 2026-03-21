@@ -875,6 +875,7 @@ eram
 erang
 erap
 erat
+erata
 ere
 erem
 eren
@@ -1234,6 +1235,7 @@ haru
 harum
 harus
 has
+hasem
 hasi
 hasil
 hasrat
@@ -1552,6 +1554,7 @@ iwak
 iwan
 iwang
 iwas
+iwel
 iwenan
 ix
 iya
@@ -2477,6 +2480,7 @@ ngambi
 ngamem
 ngampiri
 ngampleng
+ngana
 nganggo
 nganggu
 nganggur
@@ -3149,6 +3153,7 @@ rakus
 rama
 ramah
 ramai
+rambak
 rambu
 rambut
 rame
@@ -3242,6 +3247,7 @@ rih
 rii
 rik
 rika
+riki
 rikma
 riko
 riku
