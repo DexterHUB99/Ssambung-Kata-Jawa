@@ -454,6 +454,7 @@ embah
 embel
 ember
 embere
+emboh
 embuh
 embung
 emi
@@ -505,6 +506,7 @@ erong
 eru
 esai
 ese
+esi
 esih
 esil
 esok
@@ -513,6 +515,7 @@ esuk
 eta
 etah
 etan
+ete
 eti
 etika
 etil
@@ -786,6 +789,7 @@ ij
 ija
 ijab
 ijak
+ijen
 ijin
 ijo
 ik
@@ -962,6 +966,7 @@ kalian
 kaliyan
 kalung
 kamal
+kamar
 kambing
 kami
 kamis
@@ -1304,6 +1309,7 @@ moleh
 mom
 momumet
 moro
+motor
 mriki
 mubah
 muji
@@ -1346,6 +1352,7 @@ nana
 nanang
 nanas
 nandur
+nanem
 nang
 nangdi
 nanging
@@ -1795,11 +1802,13 @@ ratu
 raup
 rawa
 rawuh
+raya
 rebo
 reka
 remang
 remas
 remeh
+remes
 rencang
 rendang
 repot
@@ -1982,6 +1991,7 @@ suweng
 suwi
 suwun
 tabuh
+taekmu
 tah
 tahi
 tahu
@@ -2274,6 +2284,7 @@ yana
 yang
 yani
 yano
+yapa
 yaping
 yati
 yawes
