@@ -364,6 +364,7 @@ banyu
 bau
 bebek
 bejat
+beko
 belang
 bener
 berak
@@ -1972,6 +1973,7 @@ obak
 obat
 obong
 obor
+obral
 ocol
 odol
 odolan
