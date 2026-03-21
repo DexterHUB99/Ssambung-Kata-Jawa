@@ -21,6 +21,7 @@ agung
 aha
 ahad
 ahada
+ahah
 ahan
 ahap
 ahas
@@ -188,6 +189,7 @@ apo
 aposi
 apus
 ara
+arah
 arai
 arak
 arang
@@ -290,6 +292,7 @@ bis
 bisa
 bisik
 bisiki
+bismillah
 bisu
 bodoh
 bolo
@@ -325,6 +328,7 @@ cobek
 cocok
 cocote
 cok
+col
 coli
 cuci
 cucu
@@ -948,8 +952,10 @@ kolot
 kom
 koma
 komodo
+kompas
 kompor
 kon
+konangan
 konco
 kondangan
 kondur
@@ -1050,6 +1056,7 @@ lintang
 lintas
 lio
 lipan
+lirih
 lisah
 lisi
 lo
@@ -1188,6 +1195,7 @@ nanas
 nandur
 nang
 nangdi
+nanging
 nangis
 nangkring
 nani
@@ -1650,6 +1658,7 @@ sambung
 sampah
 sampai
 sampean
+sampo
 sampun
 santai
 santun
@@ -1694,6 +1703,7 @@ sisa
 sisi
 siwa
 so
+sokor
 sol
 solar
 sole
@@ -1898,6 +1908,7 @@ untal
 untir
 untu
 untuk
+untune
 untung
 untur
 upa
@@ -1936,6 +1947,7 @@ usu
 usul
 usus
 ususus
+uta
 utah
 utak
 utan
@@ -1961,6 +1973,7 @@ wajan
 waktu
 wareng
 wayah
+wayang
 wedang
 wedhus
 wedi
