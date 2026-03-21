@@ -969,6 +969,7 @@ kuntul
 kuo
 kupas
 kupi
+kura
 kurang
 kurma
 kuru
@@ -1003,6 +1004,7 @@ lawas
 lele
 lem
 lemah
+lemes
 lemper
 lemu
 lengkuas
@@ -1246,6 +1248,7 @@ ngikut
 ngil
 ngilu
 ngimbar
+nginthil
 ngiras
 ngiris
 ngisin
@@ -1279,6 +1282,7 @@ ngulup
 ngumbah
 ngumpet
 ngumpul
+nguntal
 ngunu
 nguping
 nguras
@@ -1337,9 +1341,11 @@ nur
 nurut
 nusa
 nutup
+nutur
 nuwun
 nyantai
 nyanyi
+nyebur
 nyonya
 nyuwi
 oalah
@@ -1349,6 +1355,7 @@ obat
 obor
 ocol
 odol
+odolan
 og
 ogah
 ogi
@@ -1428,6 +1435,7 @@ pagi
 pahing
 pahit
 pait
+pakir
 pal
 palu
 panas
@@ -1571,6 +1579,7 @@ ro
 rok
 romah
 rombeng
+rombongan
 rompi
 rondo
 roro
@@ -1722,6 +1731,7 @@ tawa
 tel
 tela
 telu
+teman
 tembok
 tempe
 tempik
@@ -1789,6 +1799,7 @@ uha
 uhe
 uhi
 uho
+ujian
 ujung
 uk
 uka
@@ -1886,6 +1897,7 @@ usii
 usik
 usil
 usir
+ustadz
 usu
 usul
 usus
@@ -1918,6 +1930,7 @@ wedhus
 wedi
 wedok
 wes
+wesi
 wetan
 weton
 wewe
