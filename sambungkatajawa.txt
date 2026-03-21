@@ -1728,6 +1728,7 @@ aye
 ayem
 ayeme
 ayen
+ayena
 ayep
 ayey
 ayi
@@ -6840,6 +6841,7 @@ kalangan
 kalangkung
 kalap
 kalapa
+kalar
 kalas
 kalasan
 kalawan
@@ -13888,6 +13890,7 @@ ridho
 rie
 riem
 rien
+rigen
 rih
 riha
 rihan
@@ -16148,6 +16151,7 @@ uget
 ugi
 ugik
 uging
+ugir
 ugo
 ugu
 ugul
