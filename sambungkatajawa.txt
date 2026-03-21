@@ -89,6 +89,7 @@ akia
 akih
 aking
 ako
+akoh
 akol
 akon
 akrab
@@ -1508,6 +1509,7 @@ lapis
 lapo
 lara
 lari
+lasa
 lata
 latah
 laut
@@ -1697,6 +1699,7 @@ mika
 mikir
 mima
 mimi
+min
 minggat
 mingkem
 minta
@@ -1831,6 +1834,7 @@ nesu
 nete
 netek
 ngacak
+ngace
 ngaceng
 ngada
 ngadem
