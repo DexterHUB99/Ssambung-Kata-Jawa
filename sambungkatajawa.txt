@@ -592,6 +592,7 @@ dadi
 dagu
 dahar
 dahi
+daki
 dalam
 dalem
 dalih
@@ -1685,6 +1686,7 @@ kelor
 kelot
 kelum
 kemah
+kemang
 kembang
 kemeng
 kemi
@@ -1803,6 +1805,7 @@ kondangan
 kondisi
 kondur
 konek
+koneng
 kono
 kontal
 kontol
@@ -3891,6 +3894,7 @@ wih
 wijaya
 wiji
 wiko
+wilangan
 wir
 wirang
 wiro
