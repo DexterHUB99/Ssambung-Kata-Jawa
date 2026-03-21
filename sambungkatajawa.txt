@@ -459,6 +459,7 @@ bebek
 becak
 bedo
 bee
+bejan
 bejat
 beko
 belang
@@ -529,6 +530,7 @@ cantik
 care
 cawet
 cawik
+cawis
 cecak
 cega
 celeng
@@ -977,6 +979,7 @@ geli
 gelis
 gelo
 gem
+gema
 gemah
 gemati
 gembel
@@ -2922,6 +2925,7 @@ racun
 raden
 rae
 ragat
+ragi
 rai
 raib
 raimu
