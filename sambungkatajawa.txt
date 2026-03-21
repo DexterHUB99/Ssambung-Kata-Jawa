@@ -10646,6 +10646,7 @@ ngeling
 ngelingi
 ngelirik
 ngelitik
+ngeliwati
 ngelmu
 ngelo
 ngeloh
@@ -17011,6 +17012,7 @@ weso
 wet
 weta
 wetan
+wete
 weteng
 weton
 wetu
