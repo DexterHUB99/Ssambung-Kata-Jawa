@@ -3313,6 +3313,7 @@ duh
 duha
 duhur
 duit
+duja
 dujer
 duk
 duka
@@ -6319,6 +6320,7 @@ jagar
 jago
 jagong
 jagung
+jahana
 jahat
 jahatlo
 jahe
@@ -10795,7 +10797,6 @@ nggula
 ngguling
 nggulung
 nggumun
-ngguwak
 ngguyu
 ngguyue
 ngguyur
@@ -10830,7 +10831,6 @@ ngijek
 ngijin
 ngijing
 ngijir
-ngijo
 ngijol
 ngijoli
 ngik
@@ -14826,7 +14826,6 @@ situasi
 siwa
 siwak
 siwi
-siwo
 siwur
 siya
 siyam
