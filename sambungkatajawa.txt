@@ -199,6 +199,7 @@ angan
 angat
 angelan
 angen
+anger
 anget
 anggar
 anggaran
@@ -1886,6 +1887,7 @@ ngalor
 ngamar
 ngambar
 ngambi
+ngamem
 ngampleng
 nganggo
 nganggur
@@ -1954,6 +1956,7 @@ nggeh
 nggih
 nggolek
 ngguyu
+ngicil
 ngidam
 ngidu
 ngidul
