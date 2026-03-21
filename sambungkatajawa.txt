@@ -95,6 +95,7 @@ aio
 air
 aira
 aiwa
+aiwak
 aiya
 aja
 ajae
@@ -604,6 +605,7 @@ cacar
 cacing
 cagak
 cah
+caka
 cakap
 cakot
 cakul
@@ -3569,6 +3571,7 @@ saben
 sabtu
 sabuk
 sabus
+sabut
 sadurung
 sae
 saestu
