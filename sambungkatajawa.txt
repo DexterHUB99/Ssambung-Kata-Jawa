@@ -128,6 +128,7 @@ alat
 alay
 ale
 alek
+alem
 alhamdulillah
 ali
 alih
@@ -945,6 +946,7 @@ gincu
 gini
 girang
 giring
+gisa
 gitar
 go
 goblok
