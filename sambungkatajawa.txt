@@ -111,6 +111,7 @@ akia
 akih
 akik
 aking
+akir
 akiran
 ako
 akoh
@@ -1597,6 +1598,7 @@ kakehan
 kakek
 kaki
 kaku
+kalak
 kale
 kaleh
 kalem
@@ -1758,6 +1760,7 @@ kiki
 kikil
 kil
 kila
+kilat
 kili
 kima
 kin
@@ -1949,6 +1952,7 @@ lari
 lasa
 lata
 latah
+latih
 laut
 lawak
 lawas
@@ -2694,6 +2698,7 @@ nulo
 nulung
 numan
 numbas
+numbuk
 numpak
 numpang
 nung
@@ -2857,6 +2862,7 @@ osel
 osem
 oseng
 osok
+osora
 ot
 otak
 otot
@@ -3424,6 +3430,7 @@ sumur
 sun
 sunar
 sunda
+sungkan
 sungkem
 sunyi
 sup
@@ -3884,6 +3891,7 @@ walah
 wangsul
 wanita
 wareng
+warung
 watak
 watu
 wayah
