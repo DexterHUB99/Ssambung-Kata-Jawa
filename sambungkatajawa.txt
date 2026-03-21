@@ -284,6 +284,7 @@ ap
 apa
 apae
 apak
+apane
 ape
 apeh
 apek
@@ -1345,6 +1346,7 @@ iso
 isoe
 isok
 isoma
+istana
 istilah
 istimewa
 istri
@@ -2647,6 +2649,7 @@ pilang
 pilek
 pilu
 pilus
+pin
 pinarak
 pincuk
 pindah
