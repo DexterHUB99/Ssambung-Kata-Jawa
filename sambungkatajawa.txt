@@ -215,6 +215,7 @@ antri
 antuk
 anu
 anua
+anuh
 anup
 anur
 anus
@@ -285,6 +286,7 @@ asue
 asui
 asula
 ata
+atah
 atai
 atak
 atap
@@ -399,6 +401,7 @@ cica
 cici
 cila
 cilaka
+cilung
 cino
 cinta
 cintaa
@@ -663,6 +666,7 @@ garing
 garpu
 garuk
 garut
+garwa
 gas
 gatel
 gateli
@@ -703,6 +707,7 @@ gesek
 geseng
 geser
 geto
+getuk
 gi
 gig
 gigi
@@ -1245,6 +1250,7 @@ kon
 konangan
 konco
 kondangan
+kondisi
 kondur
 konek
 kono
@@ -1708,6 +1714,7 @@ ngok
 ngokop
 ngolah
 ngoles
+ngolong
 ngombe
 ngomong
 ngompol
@@ -2369,6 +2376,7 @@ tenan
 terang
 terong
 tete
+tetek
 tibo
 tikus
 tilam
@@ -2510,6 +2518,7 @@ un
 una
 unak
 unama
+undak
 undang
 undangan
 undian
@@ -2636,6 +2645,7 @@ wirang
 wiro
 wisuh
 wit
+woi
 wong
 wonten
 woro
