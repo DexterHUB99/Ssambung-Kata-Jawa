@@ -524,6 +524,7 @@ bumu
 buncis
 bunga
 buri
+busa
 but
 butek
 buti
@@ -899,6 +900,7 @@ gadungan
 gae
 gagah
 gagak
+gagu
 gah
 gajah
 gaje
@@ -1095,6 +1097,7 @@ guli
 guling
 gulu
 gulung
+gumam
 gumuk
 gumun
 guna
@@ -2093,6 +2096,7 @@ matane
 mate
 matek
 mateng
+mateni
 mati
 matio
 matur
@@ -2267,6 +2271,7 @@ narik
 naruh
 nas
 nasa
+nasab
 nasar
 nasi
 nasib
