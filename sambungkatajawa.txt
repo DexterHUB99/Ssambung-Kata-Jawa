@@ -1686,6 +1686,7 @@ kabeh
 kabel
 kacuk
 kadal
+kados
 kae
 kaisar
 kaji
@@ -2062,6 +2063,7 @@ langu
 lanjut
 lantar
 lantas
+lanting
 laos
 lapang
 lapis
@@ -3046,6 +3048,7 @@ osek
 osel
 osem
 oseng
+osing
 osok
 osora
 ot
