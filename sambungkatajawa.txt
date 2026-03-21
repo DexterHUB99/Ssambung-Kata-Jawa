@@ -88,6 +88,7 @@ aika
 aiko
 ail
 aila
+aima
 aina
 aing
 aini
@@ -869,6 +870,7 @@ emil
 emo
 emoh
 empal
+empan
 empang
 empedu
 empek
@@ -2311,6 +2313,7 @@ madu
 madukara
 madura
 mae
+magan
 mager
 mah
 maha
@@ -2641,6 +2644,7 @@ ngalem
 ngaler
 ngali
 ngalor
+ngamal
 ngaman
 ngamar
 ngambar
