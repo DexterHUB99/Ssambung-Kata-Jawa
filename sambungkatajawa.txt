@@ -227,6 +227,7 @@ anco
 ancok
 anda
 andai
+andal
 andalan
 andang
 andasmo
@@ -571,6 +572,7 @@ cah
 cakap
 candi
 cantik
+cape
 care
 cawet
 cawik
@@ -1509,6 +1511,7 @@ ireng
 irenge
 iri
 iria
+irian
 irim
 iring
 iris
@@ -2017,6 +2020,7 @@ latah
 latih
 laut
 lawak
+lawang
 lawas
 lawu
 layak
@@ -2467,6 +2471,7 @@ nesu
 nete
 neteh
 netek
+netra
 ngaben
 ngacak
 ngace
@@ -2678,6 +2683,7 @@ ngoyak
 ngoyo
 ngrumat
 ngrumpi
+ngubeng
 ngubur
 ngudani
 ngudek
@@ -2741,6 +2747,7 @@ nipis
 nipon
 nipu
 nira
+niro
 nis
 nisa
 nisan
@@ -3033,6 +3040,7 @@ peliku
 pelimu
 pelo
 pen
+pena
 penak
 pendek
 pening
