@@ -1208,6 +1208,7 @@ hal
 hala
 halah
 halal
+hali
 halo
 halus
 ham
@@ -1976,6 +1977,7 @@ lagi
 lah
 lahan
 lahe
+laju
 lakon
 laku
 lalat
