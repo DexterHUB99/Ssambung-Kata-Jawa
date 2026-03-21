@@ -1026,6 +1026,7 @@ gajah
 gaje
 gaji
 gak
+gakusah
 gal
 gala
 galak
@@ -1842,6 +1843,7 @@ kebab
 kebang
 kedah
 kediri
+kedondong
 kegowo
 kekar
 keke
@@ -2728,6 +2730,7 @@ ngeh
 ngejek
 ngela
 ngelap
+ngelawan
 ngeleh
 ngelem
 ngeli
