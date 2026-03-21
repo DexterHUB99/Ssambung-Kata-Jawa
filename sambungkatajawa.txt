@@ -3162,7 +3162,6 @@ dip
 dipa
 dipah
 dipan
-dipang
 dipangan
 diparengi
 diparingi
@@ -10736,7 +10735,6 @@ ngesek
 ngeselin
 ngesem
 ngeseng
-ngeses
 ngeset
 ngesing
 ngesok
@@ -13368,7 +13366,6 @@ rami
 ramii
 ramis
 ramla
-ramli
 ramo
 rampai
 rampas
@@ -14300,6 +14297,7 @@ sandale
 sandang
 sandangan
 sandhang
+sandhangan
 sandung
 sane
 sanes
