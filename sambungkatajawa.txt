@@ -371,6 +371,7 @@ babat
 babi
 bagong
 bai
+baku
 bali
 balok
 bambang
@@ -2218,6 +2219,7 @@ pinarak
 pindah
 pindang
 ping
+pingsan
 pinten
 pintu
 pinuk
@@ -2547,6 +2549,7 @@ suami
 subur
 sudi
 sue
+sugeh
 sugeng
 sugih
 sui
@@ -2922,6 +2925,7 @@ wajan
 wajik
 waktu
 walah
+wami
 wangsul
 wareng
 watak
@@ -2933,6 +2937,7 @@ wedang
 wedhus
 wedi
 wedok
+werno
 wes
 wesi
 wetan
