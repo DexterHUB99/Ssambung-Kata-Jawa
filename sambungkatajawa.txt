@@ -583,6 +583,7 @@ duit
 duku
 dukun
 dula
+dulang
 dumeh
 dungu
 dupa
@@ -843,6 +844,7 @@ gange
 ganjil
 ganteng
 ganti
+gantung
 gaplek
 gapuk
 garai
@@ -866,6 +868,7 @@ gawean
 gawene
 gaweo
 gawok
+gayeng
 gayuh
 ge
 geblek
@@ -979,6 +982,7 @@ gule
 guli
 guling
 gulu
+gulung
 gumuk
 gumun
 guna
@@ -1075,6 +1079,7 @@ heh
 hehe
 hei
 hela
+heli
 helo
 hem
 hemat
@@ -1718,6 +1723,7 @@ lemes
 lemper
 lemu
 lengkuas
+lengo
 leper
 lere
 leren
@@ -1757,6 +1763,7 @@ lintang
 lintas
 lio
 lipan
+lipat
 lipi
 lira
 lirih
@@ -1999,6 +2006,7 @@ nah
 naik
 najis
 nak
+nakal
 nakoni
 nali
 nalika
