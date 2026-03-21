@@ -864,6 +864,7 @@ hiu
 ho
 hoe
 hoh
+hoho
 hoi
 holo
 homo
@@ -873,6 +874,7 @@ hora
 hore
 hormat
 hot
+hoto
 howo
 hp
 hu
@@ -1389,6 +1391,7 @@ lobang
 lodeh
 loe
 logat
+logok
 loh
 lohan
 loken
@@ -2144,6 +2147,7 @@ roti
 rowo
 rua
 ruang
+rujak
 ruka
 ruko
 ruku
@@ -2225,6 +2229,7 @@ siapa
 sida
 siji
 sikat
+sikil
 siku
 sila
 silet
@@ -2483,6 +2488,7 @@ umi
 umo
 umpama
 umpamane
+umpan
 umu
 umuk
 umur
@@ -2609,6 +2615,7 @@ widari
 wih
 wijaya
 wiko
+windu
 wir
 wirang
 wiro
