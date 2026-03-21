@@ -687,6 +687,7 @@ enat
 endah
 endang
 endas
+endem
 endhog
 endi
 endio
@@ -986,6 +987,7 @@ hahaha
 hai
 haing
 hajar
+hajat
 haji
 hajio
 hak
@@ -2376,6 +2378,7 @@ oman
 ombak
 ombe
 ombo
+omboh
 ome
 omi
 ommo
@@ -2433,6 +2436,7 @@ osak
 osam
 osas
 osek
+osel
 osem
 oseng
 osok
@@ -3070,6 +3074,7 @@ tuman
 tumbas
 tumi
 tumindak
+tumpeng
 tuna
 tuntun
 turi
