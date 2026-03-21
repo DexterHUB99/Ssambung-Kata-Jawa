@@ -2086,6 +2086,7 @@ nali
 nalika
 naliko
 nama
+nambal
 nami
 namo
 nampa
@@ -2205,6 +2206,7 @@ ngap
 ngapa
 ngapae
 ngapak
+ngapel
 ngaplo
 ngapu
 ngapunten
@@ -3165,6 +3167,7 @@ tangan
 tanggal
 tani
 tansah
+tante
 tao
 tapi
 tapir
