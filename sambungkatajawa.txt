@@ -13074,6 +13074,7 @@ pisak
 pisan
 pisane
 pisang
+pisih
 pisin
 pising
 pisna
@@ -14394,6 +14395,7 @@ sambutan
 sami
 samir
 samit
+samp
 sampah
 sampai
 sampang
