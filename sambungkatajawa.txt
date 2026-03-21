@@ -10736,6 +10736,7 @@ ngesek
 ngeselin
 ngesem
 ngeseng
+ngeses
 ngeset
 ngesing
 ngesok
