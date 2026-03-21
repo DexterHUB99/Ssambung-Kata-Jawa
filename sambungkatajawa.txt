@@ -8386,7 +8386,6 @@ liaran
 libas
 libu
 libur
-licak
 licik
 licin
 lico
@@ -12025,7 +12024,6 @@ okita
 okok
 okoka
 okoke
-okoki
 okol
 okon
 okone
@@ -17314,7 +17312,6 @@ yuya
 yuyi
 yuyu
 yuyun
-zabur
 zahra
 zaitun
 zakat
