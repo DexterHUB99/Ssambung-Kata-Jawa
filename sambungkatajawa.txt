@@ -1885,6 +1885,7 @@ kokop
 kol
 kolak
 kolam
+kole
 kolong
 kolot
 kom
@@ -2038,6 +2039,7 @@ laos
 lapang
 lapis
 lapo
+lapuk
 lara
 laras
 lari
@@ -2257,6 +2259,7 @@ manukku
 mapan
 mara
 marah
+marai
 maras
 mariem
 mas
@@ -3359,6 +3362,7 @@ roe
 rogoh
 rok
 rokaat
+roko
 rokok
 rolas
 rolo
