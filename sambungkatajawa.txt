@@ -1887,6 +1887,7 @@ lahe
 lakon
 laku
 lalat
+laler
 lali
 lam
 lama
@@ -2260,6 +2261,7 @@ najis
 nak
 nakal
 nakali
+nakon
 nakoni
 nalar
 nali
@@ -3108,6 +3110,7 @@ ria
 riang
 ribet
 ribut
+ribute
 ridho
 rie
 rih
