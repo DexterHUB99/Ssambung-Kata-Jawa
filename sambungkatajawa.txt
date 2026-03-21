@@ -3890,6 +3890,7 @@ enang
 enap
 enar
 enas
+enat
 encak
 encer
 encik
