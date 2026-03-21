@@ -2366,6 +2366,7 @@ nelen
 neles
 nem
 nembak
+nembang
 nembe
 nembung
 nemen
@@ -2510,6 +2511,7 @@ ngewe
 ngga
 nggak
 nggatel
+nggateli
 nggawe
 nggayuh
 nggeh
