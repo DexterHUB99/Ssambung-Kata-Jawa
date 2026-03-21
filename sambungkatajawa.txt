@@ -252,6 +252,7 @@ anyir
 anyong
 ap
 apa
+apak
 ape
 apeh
 apek
@@ -3045,6 +3046,7 @@ wayah
 wayang
 wedan
 wedang
+wedhang
 wedhus
 wedi
 wedok
