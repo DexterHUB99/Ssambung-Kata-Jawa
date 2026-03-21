@@ -161,6 +161,7 @@ anda
 andai
 andalan
 andang
+andasmo
 andhap
 andhong
 andi
@@ -350,6 +351,7 @@ berak
 bi
 biasa
 bibi
+bihun
 bila
 bin
 bingo
@@ -854,6 +856,7 @@ himpun
 hira
 hiri
 hisa
+hisan
 hitam
 hitung
 hiu
@@ -1414,6 +1417,7 @@ luk
 lulu
 luluh
 luma
+lumer
 lumpang
 lumpuh
 lumrah
@@ -1472,6 +1476,7 @@ mboke
 medeni
 megah
 meja
+melek
 meme
 memek
 meni
@@ -1493,6 +1498,7 @@ misu
 misuh
 modar
 modo
+modus
 mogok
 moh
 moleh
@@ -1557,6 +1563,7 @@ nangis
 nangkring
 nani
 napa
+napo
 narasi
 nari
 nasa
@@ -1769,6 +1776,7 @@ nombok
 nomer
 non
 nona
+nong
 nongkrong
 nono
 nonton
@@ -1953,6 +1961,7 @@ penak
 pendek
 peniti
 pentil
+penyu
 pepek
 pepes
 peso
@@ -2079,6 +2088,7 @@ rebus
 reka
 remang
 remas
+reme
 remeh
 remes
 remi
@@ -2248,6 +2258,7 @@ sosis
 sowan
 sri
 sua
+suami
 subur
 sudi
 sue
