@@ -11059,6 +11059,7 @@ ngompol
 ngompor
 ngompori
 ngon
+ngona
 ngonde
 ngone
 ngong
