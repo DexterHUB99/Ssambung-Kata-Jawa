@@ -1287,6 +1287,7 @@ ibuk
 ibune
 ica
 icip
+icu
 id
 ida
 ide
@@ -3057,6 +3058,7 @@ rero
 resah
 rese
 resik
+resiko
 rete
 rewang
 rewel
