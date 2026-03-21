@@ -914,6 +914,7 @@ godong
 gogoh
 gojek
 gok
+gokil
 gol
 golek
 goleko
@@ -1677,6 +1678,7 @@ lesehan
 lesu
 lewih
 leyeh
+lho
 lia
 liane
 liar
@@ -2634,6 +2636,7 @@ rasu
 ratu
 raup
 rawa
+rawit
 rawuh
 raya
 re
@@ -2666,6 +2669,7 @@ resah
 rese
 resik
 rete
+rewang
 rewel
 ri
 ria
