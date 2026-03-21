@@ -71,6 +71,7 @@ ahu
 ahuk
 ai
 aia
+aian
 aie
 aika
 aiko
@@ -2494,6 +2495,7 @@ ngeling
 ngelom
 ngelu
 ngem
+ngembeh
 ngemi
 ngemper
 ngen
@@ -3043,6 +3045,7 @@ puasa
 puki
 pukul
 pula
+pulau
 puli
 pulo
 puma
@@ -3979,6 +3982,7 @@ yani
 yano
 yapa
 yaping
+yapo
 yasin
 yati
 yawes
