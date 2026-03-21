@@ -1760,6 +1760,7 @@ kaleng
 kali
 kalian
 kalih
+kalimat
 kaliyan
 kalok
 kalong
@@ -2957,6 +2958,7 @@ note
 nu
 nua
 nuduh
+nuhun
 nui
 nuju
 nuku
