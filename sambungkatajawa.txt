@@ -880,6 +880,7 @@ andar
 andara
 andaran
 andas
+andasmu
 andeg
 andel
 andem
