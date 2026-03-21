@@ -1927,6 +1927,7 @@ lelet
 lem
 lemah
 lemes
+lemot
 lemper
 lemu
 lengkuas
@@ -2212,6 +2213,7 @@ mukul
 mul
 mula
 mulae
+mulai
 mule
 muleh
 mulih
@@ -2665,6 +2667,7 @@ nyanyi
 nyawa
 nyebur
 nyenul
+nyepi
 nyonya
 nyuwi
 oalah
@@ -2867,6 +2870,7 @@ pek
 pekok
 pel
 pelan
+peler
 peli
 peliku
 pelimu
@@ -2896,6 +2900,7 @@ pikun
 pil
 pilak
 pilang
+pilar
 pilek
 pilu
 pilus
@@ -3010,6 +3015,7 @@ rame
 rampung
 ramu
 ramutu
+ran
 rana
 randa
 randu
@@ -3637,6 +3643,7 @@ ulat
 ule
 ulek
 ulem
+ulen
 uler
 ulet
 uli
