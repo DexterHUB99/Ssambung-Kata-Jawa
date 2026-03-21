@@ -532,6 +532,7 @@ duku
 dukun
 dula
 dumeh
+dungu
 dupa
 duren
 duria
@@ -714,6 +715,7 @@ etis
 etol
 etos
 etus
+ewae
 ewang
 ewe
 ewis
@@ -1649,6 +1651,7 @@ lumpang
 lumpuh
 lumrah
 lunga
+lungo
 luntur
 lupa
 luput
@@ -2349,6 +2352,7 @@ pitek
 piten
 pitik
 pitutur
+piyambak
 piye
 po
 podho
@@ -2472,6 +2476,7 @@ rendang
 rendeng
 rendi
 renggo
+renta
 repot
 rere
 resah
