@@ -508,6 +508,7 @@ besok
 besuk
 bi
 biasa
+biawak
 bibi
 bihun
 bik
@@ -1360,6 +1361,7 @@ ider
 idih
 idu
 idue
+ieu
 if
 igo
 ih
@@ -2018,6 +2020,7 @@ le
 leak
 lebah
 lee
+lega
 legi
 lekoh
 lelah
@@ -3671,6 +3674,7 @@ tilep
 tim
 timah
 timang
+timba
 timbul
 timbun
 timi
@@ -3679,6 +3683,7 @@ timur
 tin
 tindak
 tinggal
+tinju
 tip
 tira
 tiris
