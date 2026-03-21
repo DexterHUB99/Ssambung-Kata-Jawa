@@ -657,6 +657,7 @@ ehek
 ehem
 ehen
 ehes
+ehew
 ehey
 ehi
 eho
@@ -1051,6 +1052,7 @@ gugur
 gul
 gula
 gulai
+gulali
 gule
 guli
 guling
@@ -1326,6 +1328,7 @@ iming
 imo
 impah
 impen
+impi
 impor
 imuh
 imut
@@ -2065,6 +2068,7 @@ micek
 mie
 mika
 mikir
+miku
 mikul
 milah
 milih
@@ -3594,6 +3598,7 @@ uripe
 uripmu
 uru
 uruk
+urukan
 urun
 urung
 urus
@@ -3697,6 +3702,7 @@ wicara
 widari
 wih
 wijaya
+wiji
 wiko
 wir
 wirang
