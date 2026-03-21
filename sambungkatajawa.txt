@@ -1018,6 +1018,7 @@ geser
 gete
 geter
 geto
+getok
 getuk
 gi
 gidal
@@ -1753,6 +1754,7 @@ kondisi
 kondur
 konek
 kono
+kontal
 kontol
 kontolmu
 kontrol
@@ -2408,6 +2410,7 @@ ngepot
 ngerak
 ngerem
 ngertos
+ngesot
 ngetan
 ngetok
 ngewang
@@ -2803,6 +2806,7 @@ parkir
 pas
 pasa
 pasar
+pasir
 payu
 payung
 pe
