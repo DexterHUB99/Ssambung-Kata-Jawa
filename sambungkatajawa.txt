@@ -13195,6 +13195,7 @@ poll
 polo
 poloh
 polok
+polri
 pom
 poma
 pomi
@@ -15492,6 +15493,7 @@ tambal
 tamban
 tambang
 tambi
+tambir
 tambuh
 tame
 tameng
