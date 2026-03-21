@@ -1917,6 +1917,7 @@ koki
 koko
 kokop
 kol
+kola
 kolak
 kolam
 kole
@@ -2591,6 +2592,7 @@ ngambil
 ngamem
 ngampiri
 ngampleng
+ngamuk
 ngana
 nganggo
 nganggu
@@ -3768,6 +3770,7 @@ tapir
 tara
 tari
 taro
+tas
 tase
 tasi
 tata
@@ -4065,6 +4068,7 @@ untumu
 untune
 untung
 untur
+unus
 upa
 upah
 upang
