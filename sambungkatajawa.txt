@@ -849,7 +849,6 @@ anaw
 anay
 anca
 ancak
-ancam
 ancaman
 ancane
 ancang
@@ -1729,7 +1728,6 @@ aye
 ayem
 ayeme
 ayen
-ayena
 ayep
 ayey
 ayi
@@ -1775,6 +1773,7 @@ babagan
 babah
 babai
 babak
+babako
 babar
 babat
 babe
@@ -2054,6 +2053,7 @@ beleh
 belek
 beler
 beli
+belimbing
 beling
 bella
 belo
@@ -2080,7 +2080,6 @@ bengkok
 bengok
 bengong
 beni
-bening
 benjol
 beno
 bentak
@@ -2365,7 +2364,6 @@ bujangan
 bujo
 bujuk
 bujukan
-bujur
 buk
 buka
 bukak
@@ -5216,6 +5214,7 @@ gusa
 gusah
 gusar
 gusel
+gusha
 gusi
 guso
 gusti
@@ -6844,7 +6843,6 @@ kalangan
 kalangkung
 kalap
 kalapa
-kalar
 kalas
 kalasan
 kalawan
@@ -9972,6 +9970,7 @@ nedha
 nedhaa
 nedho
 nedi
+nedon
 neduh
 neg
 nega
@@ -10695,6 +10694,7 @@ ngema
 ngeman
 ngemang
 ngemas
+ngemati
 ngembang
 ngembat
 ngember
@@ -13893,7 +13893,6 @@ ridho
 rie
 riem
 rien
-rigen
 rih
 riha
 rihan
@@ -14104,6 +14103,7 @@ rua
 ruah
 ruam
 ruame
+ruan
 ruang
 rubuh
 rue
@@ -16154,7 +16154,6 @@ uget
 ugi
 ugik
 uging
-ugir
 ugo
 ugu
 ugul
