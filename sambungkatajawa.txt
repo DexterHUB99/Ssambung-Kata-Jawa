@@ -768,6 +768,7 @@ enthuk
 entok
 entong
 entuk
+entung
 enu
 enyong
 epa
@@ -819,6 +820,7 @@ eta
 etah
 etan
 ete
+etel
 eter
 etes
 eti
@@ -1462,6 +1464,7 @@ jontor
 joran
 jorok
 jos
+ju
 jujur
 ka
 kabeh
@@ -1481,6 +1484,7 @@ kaku
 kale
 kaleh
 kalem
+kaleng
 kali
 kalian
 kaliyan
@@ -2298,6 +2302,7 @@ ngertos
 ngetan
 ngewang
 ngewe
+ngga
 nggak
 nggatel
 nggawe
@@ -3104,6 +3109,7 @@ sol
 solar
 sole
 solo
+somat
 sombong
 sono
 sontoloyo
