@@ -5903,6 +5903,7 @@ imna
 imo
 imoe
 imoi
+impah
 impal
 impek
 impen
@@ -12765,6 +12766,7 @@ pi
 pia
 piagam
 piala
+pialang
 piama
 pian
 pianak
