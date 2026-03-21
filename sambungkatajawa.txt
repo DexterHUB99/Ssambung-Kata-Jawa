@@ -1460,6 +1460,7 @@ karo
 kasar
 kasep
 kaset
+kasih
 kasu
 kasur
 kata
