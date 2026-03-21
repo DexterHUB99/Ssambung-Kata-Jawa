@@ -596,6 +596,7 @@ dokar
 dol
 dolan
 dolanan
+dor
 dosa
 duda
 dudo
@@ -802,6 +803,7 @@ esa
 esai
 esak
 ese
+esem
 esi
 esih
 esil
@@ -2250,6 +2252,7 @@ ngeh
 ngejek
 ngela
 ngelap
+ngeleh
 ngelem
 ngeli
 ngeling
