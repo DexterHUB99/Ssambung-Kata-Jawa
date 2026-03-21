@@ -119,6 +119,7 @@ alot
 alum
 alun
 alur
+alus
 amal
 aman
 amar
@@ -2306,9 +2307,11 @@ risa
 rise
 risi
 risih
+riya
 riyo
 ro
 roboh
+roe
 rok
 rokaat
 rokok
@@ -2883,6 +2886,7 @@ yawis
 yaya
 yen
 yo
+yoan
 yoga
 yogo
 yogya
