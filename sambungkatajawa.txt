@@ -1191,6 +1191,7 @@ gunting
 guntur
 gunung
 guoblok
+gupak
 gur
 gurami
 guri
@@ -1804,6 +1805,7 @@ kepiting
 kepiye
 kepo
 kepol
+kepriye
 ker
 kera
 keran
@@ -2997,6 +2999,7 @@ oren
 orewa
 ori
 orok
+orong
 oros
 os
 osah
