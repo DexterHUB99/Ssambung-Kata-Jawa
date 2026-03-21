@@ -790,6 +790,7 @@ ga
 gabah
 gabus
 gabut
+gadah
 gading
 gadungan
 gae
@@ -2952,6 +2953,7 @@ suseng
 susilo
 susu
 susuk
+susuku
 susul
 susumu
 sutri
