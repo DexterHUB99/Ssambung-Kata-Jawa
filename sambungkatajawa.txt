@@ -1728,6 +1728,7 @@ aye
 ayem
 ayeme
 ayen
+ayena
 ayep
 ayey
 ayi
@@ -3270,7 +3271,6 @@ doh
 dok
 dokak
 dokar
-doki
 doko
 dokon
 dokter
