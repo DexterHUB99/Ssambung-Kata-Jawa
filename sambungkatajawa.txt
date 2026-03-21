@@ -389,6 +389,7 @@ atah
 atai
 atak
 atap
+atari
 atas
 ate
 atek
@@ -445,8 +446,10 @@ az
 bab
 babat
 babi
+babik
 bae
 bagong
+bah
 bai
 bajigur
 bali
@@ -1028,6 +1031,7 @@ gigi
 gigil
 gila
 gilang
+gilani
 giling
 gilir
 gilo
@@ -1867,6 +1871,7 @@ lan
 lanang
 landak
 landung
+langgar
 langgeng
 langka
 langkah
@@ -2338,6 +2343,7 @@ ngamem
 ngampiri
 ngampleng
 nganggo
+nganggu
 nganggur
 ngangkang
 ngangsu
@@ -3327,6 +3333,7 @@ surat
 suri
 suro
 suruh
+surya
 sus
 susah
 suseng
