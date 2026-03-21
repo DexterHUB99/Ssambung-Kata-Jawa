@@ -339,6 +339,7 @@ dolan
 dosa
 duha
 duit
+dukun
 dupa
 durung
 duso
@@ -514,6 +515,7 @@ go
 goblok
 godog
 godong
+gogoh
 gok
 gol
 golek
@@ -584,6 +586,7 @@ hape
 hapus
 hara
 haram
+harap
 hare
 harga
 hari
@@ -622,6 +625,7 @@ hiji
 hikmah
 hilang
 hira
+hiri
 hisa
 hitam
 hitung
@@ -807,6 +811,7 @@ kaisar
 kaji
 kak
 kaka
+kakat
 kakehan
 kakek
 kaku
@@ -828,6 +833,7 @@ kandel
 kanggo
 kanjeng
 kanjut
+kanthi
 kantil
 kaos
 kapal
@@ -948,6 +954,7 @@ kuman
 kumbah
 kumpul
 kun
+kunang
 kunci
 kuning
 kuno
@@ -1161,6 +1168,7 @@ nasi
 nate
 nderek
 nedha
+nedho
 negeri
 nelen
 neles
@@ -1457,6 +1465,7 @@ pisang
 pisek
 pitik
 pitutur
+piye
 po
 pokone
 pola
@@ -1581,6 +1590,7 @@ sae
 sahur
 sai
 sak
+saka
 sakit
 sakti
 saku
@@ -1617,6 +1627,7 @@ sekarang
 sekop
 selawe
 selet
+sempak
 sesok
 sholat
 si
@@ -1818,6 +1829,7 @@ un
 unak
 unama
 undangan
+undian
 unduk
 unggas
 ungkara
@@ -1831,6 +1843,7 @@ untir
 untu
 untuk
 untung
+untur
 upa
 upah
 upaya
@@ -1900,6 +1913,7 @@ wewe
 wicak
 wicara
 wijaya
+wir
 wirang
 wisuh
 wit
