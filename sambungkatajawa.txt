@@ -912,6 +912,7 @@ hora
 hore
 hormat
 hot
+hotel
 howo
 hp
 hu
@@ -1690,6 +1691,7 @@ neri
 nes
 nesu
 nete
+netek
 ngacak
 ngaceng
 ngada
@@ -1950,10 +1952,12 @@ ojok
 ok
 oka
 okan
+okar
 oke
 okeh
 okei
 okem
+oker
 okin
 okok
 okoka
@@ -2142,6 +2146,7 @@ posi
 pot
 poti
 potongan
+puan
 puasa
 puki
 pukul
@@ -2170,6 +2175,7 @@ raiso
 raja
 rajin
 rajungan
+rajut
 rak
 rako
 rakus
@@ -2278,6 +2284,7 @@ rumit
 rumu
 rung
 rungkad
+runi
 rup
 rupo
 rus
@@ -2417,6 +2424,7 @@ sum
 sumerep
 sumpah
 sumringah
+sumuk
 sumur
 sun
 sunar
@@ -2598,6 +2606,7 @@ uko
 uku
 ukum
 ukur
+ukura
 ukuran
 ukure
 ul
@@ -2699,6 +2708,7 @@ urusan
 urut
 us
 usa
+usaa
 usah
 usaha
 usai
