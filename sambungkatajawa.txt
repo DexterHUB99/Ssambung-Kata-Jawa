@@ -164,6 +164,7 @@ aman
 amar
 amarga
 amat
+amay
 amba
 ambar
 ambek
@@ -483,6 +484,7 @@ bejan
 bejat
 beko
 belang
+beler
 beli
 belo
 ben
@@ -2009,6 +2011,7 @@ limo
 limolas
 lina
 linggis
+lingkaran
 lingkungan
 linglung
 lingsir
@@ -3041,6 +3044,7 @@ punten
 pupuk
 pura
 purut
+pusa
 putih
 putri
 putus
@@ -3105,6 +3109,7 @@ rasi
 rasis
 raso
 rasu
+rasuk
 ratu
 raup
 rausah
@@ -3289,6 +3294,7 @@ samperi
 sampo
 sampun
 sana
+sandal
 sandang
 sandanga
 sanes
