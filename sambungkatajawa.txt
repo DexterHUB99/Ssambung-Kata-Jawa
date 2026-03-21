@@ -622,6 +622,7 @@ eker
 eket
 eki
 ekif
+ekih
 ekin
 eko
 ekol
@@ -1543,6 +1544,7 @@ kobong
 kocok
 kodok
 koe
+koen
 kok
 koko
 kokop
@@ -3142,6 +3144,7 @@ uhi
 uho
 ui
 uja
+ujar
 uji
 ujian
 ujung
