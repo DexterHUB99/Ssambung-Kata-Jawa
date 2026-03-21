@@ -135,6 +135,7 @@ andung
 andus
 ane
 aneh
+angat
 angelan
 anget
 angger
@@ -155,6 +156,7 @@ anjinge
 anjir
 anjuk
 anjur
+anjuran
 ano
 anom
 anoman
@@ -172,6 +174,7 @@ anus
 anyar
 anyep
 anyir
+anyong
 ap
 apa
 apeh
@@ -229,6 +232,7 @@ atai
 atak
 atap
 atas
+ate
 atek
 atem
 ati
@@ -369,6 +373,7 @@ el
 elah
 elam
 elang
+eleh
 elek
 elia
 eling
@@ -633,6 +638,7 @@ hiu
 ho
 hoh
 hoi
+homo
 hooh
 hora
 hore
@@ -871,6 +877,7 @@ kemeng
 kemproh
 kemul
 kenapa
+kene
 kentang
 kentu
 kentut
@@ -1311,6 +1318,7 @@ nona
 nono
 nonton
 nopo
+nor
 nora
 norak
 nori
@@ -1551,6 +1559,7 @@ riko
 rilis
 rima
 rindu
+rio
 ripan
 riri
 ris
@@ -1713,6 +1722,7 @@ tawa
 tel
 tela
 telu
+tembok
 tempe
 tempik
 temu
@@ -1755,6 +1765,7 @@ tumindak
 tuntun
 turi
 turu
+tutup
 tuwa
 ua
 uan
