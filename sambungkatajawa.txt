@@ -1623,7 +1623,6 @@ auman
 aun
 auna
 aunan
-aunta
 aup
 aura
 aurip
@@ -3494,7 +3493,6 @@ ef
 efaf
 efal
 efek
-efi
 eg
 ega
 egah
@@ -5372,6 +5370,7 @@ harimau
 harimu
 harine
 hario
+hariono
 hariyo
 harjo
 harm
@@ -16206,7 +16205,6 @@ ukita
 ukka
 ukki
 ukko
-ukku
 ukla
 ukma
 ukmi
@@ -17407,7 +17405,6 @@ yuswo
 yut
 yuta
 yuti
-yuto
 yuwa
 yuya
 yuyi
