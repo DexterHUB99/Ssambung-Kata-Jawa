@@ -506,6 +506,7 @@ bi
 biasa
 bibi
 bihun
+bik
 bila
 bin
 bindeng
@@ -583,6 +584,7 @@ cinta
 cintaa
 cipa
 ciu
+co
 cobek
 cocok
 cocot
@@ -1378,6 +1380,7 @@ ikas
 ikat
 ikatan
 ike
+iket
 ikhlas
 iki
 ikil
@@ -1995,6 +1998,7 @@ laut
 lawak
 lawas
 lawu
+layak
 le
 leak
 lebah
@@ -2174,6 +2178,7 @@ mamak
 mamake
 mambu
 man
+mana
 manak
 mandi
 mane
@@ -3083,6 +3088,7 @@ pondok
 poni
 ponorogo
 popa
+por
 pora
 pore
 pori
@@ -4005,6 +4011,7 @@ wee
 wen
 wes
 wesi
+weta
 wetan
 weton
 wewe
