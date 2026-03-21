@@ -888,6 +888,7 @@ gal
 gala
 galak
 galang
+galeh
 galengan
 gali
 galih
@@ -1542,6 +1543,7 @@ kamis
 kampak
 kampret
 kamu
+kamus
 kan
 kana
 kanan
@@ -2745,6 +2747,7 @@ pal
 paling
 palu
 panas
+pandang
 pandawa
 pani
 panik
@@ -3149,6 +3152,7 @@ sedeng
 sego
 sei
 seje
+sekar
 sekarang
 sekop
 selawe
@@ -3635,6 +3639,7 @@ usah
 usaha
 usai
 usap
+usaran
 use
 usek
 usi
