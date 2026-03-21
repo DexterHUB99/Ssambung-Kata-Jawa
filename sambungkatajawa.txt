@@ -1174,6 +1174,7 @@ gilani
 giling
 gilir
 gilo
+gim
 gimi
 gincu
 gincung
@@ -1915,6 +1916,7 @@ ketek
 ketik
 ketok
 keton
+ketupat
 kewan
 ki
 kiai
@@ -4054,6 +4056,7 @@ uho
 ui
 uing
 uja
+ujak
 ujan
 ujar
 uji
