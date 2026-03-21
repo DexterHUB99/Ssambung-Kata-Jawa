@@ -10421,6 +10421,7 @@ ngarap
 ngarasa
 ngare
 ngarek
+ngareng
 ngareni
 ngarep
 ngarepan
