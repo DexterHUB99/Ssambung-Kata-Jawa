@@ -236,6 +236,7 @@ atas
 ate
 atek
 atem
+atene
 ati
 atik
 atine
@@ -339,6 +340,7 @@ dengkul
 didik
 diluk
 dimas
+dingin
 dipun
 diri
 diso
@@ -723,6 +725,7 @@ iming
 impah
 imut
 ina
+inak
 inang
 indah
 indra
@@ -737,6 +740,7 @@ intine
 inul
 ipa
 ipan
+ipar
 ipe
 ipi
 ipin
@@ -1075,6 +1079,7 @@ luk
 lulu
 luluh
 luma
+lumpang
 lumrah
 lupa
 luput
@@ -1114,6 +1119,7 @@ mateng
 mati
 matio
 mau
+mawon
 mboke
 memek
 meni
@@ -1260,6 +1266,7 @@ ngimbar
 nginthil
 ngiras
 ngiris
+ngisep
 ngisin
 ngising
 ngisor
@@ -1487,12 +1494,14 @@ pipit
 pirang
 piro
 pisah
+pisan
 pisang
 pisek
 pitik
 pitutur
 piye
 po
+pojok
 pokone
 pola
 polah
@@ -1927,11 +1936,13 @@ utuh
 utumu
 utus
 uwes
+uwi
 uwong
 uwu
 ux
 uyah
 uyawa
+uyuh
 wadon
 wadul
 wajan
@@ -1952,6 +1963,7 @@ wicara
 wijaya
 wir
 wirang
+wiro
 wisuh
 wit
 wonten
