@@ -2396,6 +2396,7 @@ bumbune
 bumi
 bun
 buna
+buncis
 bundas
 bunder
 bune
@@ -9055,6 +9056,7 @@ marai
 marak
 marang
 marani
+maras
 mare
 marem
 maren
