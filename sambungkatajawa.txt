@@ -881,6 +881,7 @@ erik
 ering
 erip
 ero
+eroc
 eroe
 eroh
 erong
@@ -984,6 +985,7 @@ ganti
 gantung
 gape
 gaplek
+gapleki
 gapuk
 garai
 garap
@@ -1314,6 +1316,7 @@ hu
 huda
 hujan
 hukum
+hula
 hulu
 human
 humor
@@ -1355,6 +1358,7 @@ ihka
 ihre
 ihri
 ihsan
+ihwe
 ihya
 ij
 ija
@@ -1907,6 +1911,7 @@ kumbang
 kumpul
 kumuh
 kun
+kuna
 kunang
 kunci
 kundur
@@ -2029,6 +2034,7 @@ lidah
 lihat
 lika
 liku
+lila
 lili
 lilimbah
 lilin
@@ -2660,6 +2666,7 @@ ngumbah
 ngumi
 ngumpet
 ngumpul
+ngundang
 ngunduh
 nguning
 nguntal
@@ -2850,6 +2857,7 @@ omah
 oman
 ombak
 ombe
+ombi
 ombo
 omboh
 ome
