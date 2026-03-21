@@ -1493,6 +1493,7 @@ kel
 kela
 kelebu
 kelek
+kelingan
 kelon
 kelor
 kelot
@@ -2127,6 +2128,7 @@ ngamar
 ngambar
 ngambi
 ngamem
+ngampiri
 ngampleng
 nganggo
 nganggur
@@ -2683,6 +2685,7 @@ rabi
 rabu
 rabun
 racun
+raden
 rae
 ragat
 rai
@@ -2843,6 +2846,7 @@ rusak
 ruska
 rusuh
 rutin
+ruwat
 ruwet
 sa
 sabang
@@ -3070,6 +3074,7 @@ tangan
 tanggal
 tani
 tansah
+tao
 tapi
 tapir
 tara
