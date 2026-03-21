@@ -1061,6 +1061,7 @@ ganjil
 ganteng
 ganti
 gantung
+gap
 gapapa
 gape
 gaplek
@@ -3311,6 +3312,7 @@ porna
 pos
 posi
 pot
+pota
 poti
 potongan
 puan
