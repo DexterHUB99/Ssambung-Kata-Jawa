@@ -545,6 +545,7 @@ cawik
 cawis
 cecak
 cega
+celek
 celeng
 celengan
 cica
@@ -1367,6 +1368,8 @@ ima
 imam
 iman
 imas
+imbah
+imbalan
 imbas
 imbuh
 imbuhan
@@ -1417,6 +1420,7 @@ ipi
 ipik
 ipin
 ipo
+ipuk
 ipun
 ir
 ira
@@ -1536,6 +1540,7 @@ jo
 jodoh
 jogo
 jok
+joke
 joki
 joko
 jokowi
