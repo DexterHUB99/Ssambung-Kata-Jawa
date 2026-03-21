@@ -85,6 +85,7 @@ akrab
 aksara
 aku
 akua
+akue
 akui
 akun
 akur
@@ -527,6 +528,7 @@ emo
 emoh
 empal
 empang
+empik
 emping
 empuk
 emut
@@ -534,6 +536,7 @@ en
 enak
 enar
 enat
+endah
 endang
 endhog
 endi
@@ -543,6 +546,7 @@ enggeh
 engkang
 engko
 engkol
+eni
 enjing
 enong
 entar
@@ -711,6 +715,7 @@ golek
 goleko
 golong
 gombal
+gondok
 gondrong
 gong
 gor
@@ -900,6 +905,7 @@ ik
 ika
 ikal
 ikan
+ikas
 ikat
 ikhlas
 iki
@@ -1041,6 +1047,7 @@ jawir
 je
 jejer
 jelek
+jempol
 jeneng
 jero
 jidat
@@ -1131,6 +1138,7 @@ kawohan
 kayu
 kedah
 kegowo
+kekek
 kekel
 kel
 kelebu
@@ -1355,6 +1363,7 @@ lob
 loba
 lobang
 lodeh
+loe
 logat
 loh
 lohan
@@ -1802,6 +1811,7 @@ okem
 okin
 okok
 okoka
+okol
 okor
 okur
 okut
