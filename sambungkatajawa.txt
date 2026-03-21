@@ -611,6 +611,7 @@ embong
 embuh
 embung
 eme
+emer
 emi
 emik
 emil
@@ -759,6 +760,7 @@ garuk
 garut
 garwa
 gas
+gasak
 gasik
 gatel
 gateli
@@ -1754,6 +1756,7 @@ motor
 mriki
 mripat
 mu
+mual
 mubah
 muji
 muk
@@ -1924,6 +1927,7 @@ ngelem
 ngeli
 ngeling
 ngelom
+ngem
 ngemi
 ngen
 ngendi
@@ -2238,6 +2242,7 @@ oyok
 oyot
 pa
 pacul
+padae
 padang
 padu
 pagar
