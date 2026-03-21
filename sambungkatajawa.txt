@@ -1818,6 +1818,7 @@ bakaa
 bakal
 bakan
 bakar
+bake
 baki
 bakmi
 bako
@@ -14012,6 +14013,7 @@ rusak
 rusake
 rusaken
 rusi
+ruska
 rusli
 ruso
 rusuh
