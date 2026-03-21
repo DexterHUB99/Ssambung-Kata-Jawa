@@ -773,6 +773,7 @@ ele
 eleh
 elek
 elem
+eleng
 eles
 eli
 elia
@@ -847,6 +848,7 @@ engkang
 engko
 engkol
 eni
+enik
 enis
 enjih
 enjing
@@ -937,6 +939,7 @@ etus
 ewae
 ewang
 ewe
+ewi
 ewis
 ewoh
 ewohe
@@ -1017,6 +1020,7 @@ garwa
 gas
 gasak
 gasik
+gata
 gatau
 gatel
 gateli
@@ -1777,6 +1781,7 @@ keong
 kepala
 kepel
 kepet
+kepik
 kepiting
 kepiye
 kepo
@@ -2504,6 +2509,7 @@ ngaman
 ngamar
 ngambar
 ngambi
+ngambil
 ngamem
 ngampiri
 ngampleng
@@ -3721,6 +3727,7 @@ tole
 tolol
 tolong
 tomat
+tomi
 tompel
 ton
 tona
@@ -3825,6 +3832,7 @@ uki
 ukir
 ukiran
 ukko
+ukli
 ukni
 uko
 ukro
@@ -4117,6 +4125,7 @@ yoan
 yoga
 yogo
 yogya
+yoh
 yohan
 yoi
 yok
