@@ -496,6 +496,7 @@ cacing
 cakap
 candi
 cantik
+cawet
 cawik
 cecak
 cega
@@ -911,6 +912,7 @@ gembol
 gembong
 gempa
 gen
+genah
 genangan
 gendar
 gendeng
@@ -1333,6 +1335,7 @@ iso
 isoe
 isok
 isoma
+istilah
 istimewa
 istri
 isu
@@ -2840,6 +2843,7 @@ romo
 rompi
 ronda
 rondo
+roni
 roro
 rosa
 rosi
