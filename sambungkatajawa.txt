@@ -5781,6 +5781,7 @@ ijig
 ijik
 ijil
 ijin
+ijir
 ijo
 ijok
 ijol
@@ -10908,7 +10909,6 @@ ngguwak
 ngguyu
 ngguyue
 ngguyur
-ngham
 ngibadah
 ngibal
 ngibar
