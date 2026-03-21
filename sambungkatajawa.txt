@@ -826,6 +826,7 @@ esa
 esai
 esak
 ese
+esek
 esem
 esi
 esih
@@ -1684,6 +1685,7 @@ klambi
 kleru
 ko
 kobong
+kocak
 kocok
 kodok
 koe
@@ -1713,6 +1715,7 @@ kontol
 kontolmu
 kontrol
 konyol
+kopet
 kopi
 koplak
 koplo
@@ -1720,6 +1723,7 @@ kopok
 kora
 koran
 korban
+korek
 kos
 kosan
 kosong
@@ -1913,6 +1917,7 @@ loh
 lohan
 lokan
 loken
+loko
 lola
 loli
 lolo
@@ -2214,6 +2219,7 @@ nedho
 nedi
 negeri
 nekat
+neko
 nelen
 neles
 nem
