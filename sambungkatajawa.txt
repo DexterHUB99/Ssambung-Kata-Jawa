@@ -120,6 +120,7 @@ akun
 akuo
 akur
 akut
+al
 ala
 alah
 alam
@@ -1456,6 +1457,7 @@ jinak
 jingga
 jinten
 jipuk
+jit
 jiwa
 jo
 jodoh
@@ -1493,6 +1495,7 @@ kalem
 kaleng
 kali
 kalian
+kalih
 kaliyan
 kalok
 kalong
@@ -1786,6 +1789,7 @@ lamunan
 lan
 lanang
 landung
+langgeng
 langka
 langkah
 langsam
