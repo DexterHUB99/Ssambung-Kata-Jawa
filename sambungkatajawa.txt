@@ -234,6 +234,7 @@ apa
 ape
 apeh
 apek
+apeking
 apem
 apes
 api
@@ -608,6 +609,7 @@ epuk
 era
 eram
 erang
+erap
 ere
 eri
 erik
@@ -724,6 +726,7 @@ gendeng
 geng
 geni
 genteng
+gentong
 ger
 gerak
 gering
@@ -742,6 +745,7 @@ gilang
 giling
 gilo
 gimi
+gincu
 gini
 girang
 giring
@@ -1230,6 +1234,7 @@ keong
 kepiye
 kepo
 kepol
+ker
 kerana
 keraos
 kerap
@@ -1428,6 +1433,7 @@ limolas
 lina
 lingkungan
 linglung
+lingsir
 lini
 linta
 lintah
@@ -1479,6 +1485,7 @@ lorong
 los
 loyo
 lu
+luang
 luber
 lucu
 ludah
@@ -1760,6 +1767,7 @@ nggawe
 nggayuh
 nggeh
 nggih
+nggolek
 ngguyu
 ngidam
 ngidu
@@ -2316,6 +2324,7 @@ sasi
 sastra
 sawahe
 sawai
+sawi
 sawit
 sayang
 sayur
@@ -2575,6 +2584,7 @@ ukara
 uke
 ukel
 ukep
+uki
 ukir
 ukiran
 ukko
