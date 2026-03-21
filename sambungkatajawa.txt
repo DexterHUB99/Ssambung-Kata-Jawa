@@ -142,6 +142,7 @@ angkruk
 angrek
 angsa
 ani
+anis
 aniy
 anjas
 anjay
@@ -242,6 +243,7 @@ awal
 awan
 awang
 awas
+aweh
 awu
 ax
 ay
@@ -486,6 +488,7 @@ gi
 gigil
 gila
 giling
+gilo
 gimi
 girang
 giring
@@ -511,6 +514,7 @@ gosong
 got
 gotong
 gowo
+gudang
 gudeg
 gugah
 gula
@@ -518,6 +522,7 @@ gulai
 gule
 guling
 gulu
+gumun
 guna
 gundik
 gundul
@@ -545,6 +550,7 @@ hak
 haku
 hala
 halah
+halal
 halo
 hama
 hamba
@@ -602,6 +608,7 @@ hitam
 hitung
 hiu
 ho
+hoh
 hoi
 hooh
 hora
@@ -764,6 +771,7 @@ jo
 jogo
 jok
 joko
+jokowi
 jombang
 jorok
 jos
@@ -948,6 +956,7 @@ lawak
 lawas
 lele
 lem
+lemah
 lemper
 lemu
 lengkuas
@@ -982,6 +991,7 @@ lobang
 logat
 loh
 lohan
+loken
 lolo
 lololo
 lolos
@@ -1094,6 +1104,7 @@ nalika
 naliko
 nama
 nampa
+nampar
 namung
 nana
 nanang
@@ -1142,6 +1153,7 @@ ngapak
 ngaplo
 ngapunten
 ngarep
+ngaret
 ngarit
 ngasek
 ngasing
@@ -1241,6 +1253,7 @@ nol
 noleh
 nomer
 non
+nona
 nonton
 nopo
 nora
@@ -1468,6 +1481,7 @@ rese
 resik
 ria
 riang
+ribet
 rih
 rika
 rikma
@@ -1527,6 +1541,7 @@ sampai
 sampean
 sampun
 santai
+santun
 sapi
 sapu
 sarang
@@ -1593,6 +1608,7 @@ sumerep
 sumpah
 sumur
 sunyi
+sup
 supi
 surat
 sus
@@ -1602,6 +1618,7 @@ sutri
 suw
 suwe
 suwek
+suweng
 suwi
 suwun
 tabuh
@@ -1649,6 +1666,7 @@ tiwas
 tiyang
 to
 tok
+tole
 tolol
 tolong
 tompel
