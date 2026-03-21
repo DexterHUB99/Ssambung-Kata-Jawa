@@ -475,6 +475,7 @@ ehi
 eho
 ehop
 eka
+ekah
 ekar
 eke
 eker
@@ -903,6 +904,7 @@ ijak
 ijen
 ijin
 ijo
+ijol
 ik
 ika
 ikal
