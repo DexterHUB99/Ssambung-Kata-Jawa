@@ -18,6 +18,7 @@ ae
 aeng
 aengi
 agung
+ah
 aha
 ahad
 ahada
@@ -337,6 +338,7 @@ cucu
 curut
 dadar
 dadi
+dahi
 dama
 damel
 dancok
@@ -447,10 +449,12 @@ era
 erang
 ere
 eri
+erik
 erip
 ero
 eroh
 eru
+ese
 esih
 esil
 esok
@@ -580,6 +584,7 @@ gusi
 gusur
 guyah
 guyon
+guyu
 ha
 haa
 habis
@@ -968,6 +973,7 @@ kondur
 konek
 kono
 kontol
+kontrol
 kopi
 koran
 kos
@@ -1114,6 +1120,7 @@ madhang
 madura
 mahal
 main
+maju
 makan
 maksa
 malu
@@ -1779,6 +1786,7 @@ tara
 taro
 tatak
 tawa
+tebu
 tel
 tela
 telu
@@ -1815,6 +1823,7 @@ tomat
 tompel
 tongkol
 tono
+top
 toto
 tua
 tuhan
@@ -1926,6 +1935,7 @@ untur
 upa
 upah
 upaya
+upel
 upi
 upil
 ura
@@ -1957,6 +1967,7 @@ usir
 ustadz
 usu
 usul
+usung
 usus
 ususus
 uta
