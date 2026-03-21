@@ -614,6 +614,7 @@ dusun
 duwe
 duwek
 ealah
+eco
 ed
 edah
 edan
@@ -669,6 +670,7 @@ elae
 elah
 elam
 elang
+elas
 ele
 eleh
 elek
@@ -2889,6 +2891,7 @@ riya
 riyo
 ro
 roboh
+rodo
 roe
 rok
 rokaat
@@ -3077,6 +3080,7 @@ sri
 su
 sua
 suami
+suara
 subur
 sudi
 sue
@@ -3467,6 +3471,7 @@ usaa
 usah
 usaha
 usai
+usap
 use
 usek
 usi
