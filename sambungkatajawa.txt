@@ -177,6 +177,7 @@ ani
 aniani
 anik
 anis
+anisa
 aniy
 anjas
 anjay
@@ -350,6 +351,7 @@ borok
 bosok
 bua
 buang
+buat
 bubu
 bubut
 bude
@@ -589,6 +591,7 @@ gaje
 gaji
 gak
 gal
+gala
 galak
 galang
 galengan
@@ -647,9 +650,11 @@ gendeng
 geni
 genteng
 ger
+gerak
 gering
 gesek
 geseng
+geser
 gi
 gig
 gigi
@@ -804,6 +809,7 @@ hitam
 hitung
 hiu
 ho
+hoe
 hoh
 hoi
 holo
@@ -1198,6 +1204,7 @@ kue
 kui
 kuka
 kuku
+kukur
 kula
 kulak
 kulan
@@ -1229,6 +1236,7 @@ kuwat
 kuwe
 kuyuk
 la
+labu
 lagi
 lakon
 laku
@@ -1375,6 +1383,7 @@ manuk
 mara
 marah
 maras
+mariem
 mas
 masa
 masak
@@ -1561,6 +1570,7 @@ ngeng
 ngenta
 ngepel
 ngepet
+ngepi
 ngerak
 ngerem
 ngertos
@@ -1604,6 +1614,7 @@ ngoper
 ngopi
 ngopo
 ngopoe
+ngopok
 ngorok
 ngowah
 ngowoh
@@ -1823,6 +1834,7 @@ panti
 papa
 pari
 parkir
+pas
 pasa
 pasar
 payu
@@ -1980,6 +1992,7 @@ rikma
 riko
 rilis
 rima
+rina
 rindu
 rini
 rio
