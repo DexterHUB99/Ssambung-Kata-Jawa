@@ -601,6 +601,7 @@ dewe
 dewek
 di
 didik
+dido
 didu
 diemut
 dikit
@@ -820,6 +821,7 @@ erang
 erap
 erat
 ere
+erem
 eren
 eri
 erik
@@ -2144,6 +2146,7 @@ mu
 mual
 mubah
 mubeng
+mudeng
 mugi
 muh
 muji
@@ -2709,6 +2712,7 @@ oraiso
 orak
 oran
 orang
+oraono
 orapapa
 orapopo
 orasah
@@ -3354,6 +3358,7 @@ tatu
 tawa
 tebu
 teko
+tekor
 tel
 tela
 telek
@@ -3732,6 +3737,7 @@ wedang
 wedhang
 wedhus
 wedi
+wedo
 wedok
 wee
 wen
