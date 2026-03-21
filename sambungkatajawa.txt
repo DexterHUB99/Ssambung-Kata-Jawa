@@ -623,6 +623,7 @@ cokel
 coklat
 col
 coli
+combro
 congor
 coro
 cuci
@@ -698,6 +699,7 @@ dino
 dipan
 dipun
 diri
+disawah
 diso
 dodi
 dodol
@@ -2262,6 +2264,7 @@ maka
 makam
 makan
 maksa
+makul
 malaikat
 maling
 malu
@@ -3574,6 +3577,7 @@ sial
 siap
 siapa
 sida
+sidang
 siji
 sikat
 sikil
