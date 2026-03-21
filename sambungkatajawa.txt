@@ -14782,6 +14782,7 @@ sepi
 sepiring
 sepiro
 sepo
+sepon
 sepuh
 sepuluh
 sepur
@@ -15556,6 +15557,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatami
 tatan
 tatas
 tate
