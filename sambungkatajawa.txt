@@ -518,6 +518,7 @@ bindeng
 bingo
 bini
 bintul
+bir
 bis
 bisa
 bisik
@@ -689,6 +690,7 @@ duku
 dukun
 dula
 dulang
+dulen
 dumeh
 dungo
 dungu
@@ -997,6 +999,7 @@ gape
 gaplek
 gapleki
 gapuk
+gara
 garai
 garap
 garem
@@ -1529,6 +1532,7 @@ iseng
 isep
 isi
 isia
+isien
 isih
 isin
 ising
