@@ -221,6 +221,7 @@ andhong
 andi
 andok
 andong
+andongan
 andu
 anduk
 andung
@@ -1831,6 +1832,7 @@ kuwat
 kuwe
 kuyuk
 la
+laban
 labu
 lacut
 lagi
