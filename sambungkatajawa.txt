@@ -372,6 +372,7 @@ asik
 asin
 asinan
 asing
+asis
 asli
 asline
 asma
@@ -714,6 +715,7 @@ ekin
 eko
 ekok
 ekol
+ekop
 ekor
 ekos
 ekot
@@ -2580,6 +2582,7 @@ nguras
 ngurip
 ngurusi
 ngurut
+ngusir
 ngutang
 ni
 nia
@@ -3284,6 +3287,7 @@ sempak
 sempurna
 seng
 sepi
+serat
 seri
 seru
 sesek
