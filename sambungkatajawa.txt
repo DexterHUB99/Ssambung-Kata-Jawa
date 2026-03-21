@@ -121,6 +121,7 @@ alum
 alun
 alur
 alus
+am
 amal
 aman
 amar
@@ -304,6 +305,7 @@ asu
 asue
 asui
 asula
+at
 ata
 atah
 atai
@@ -1213,6 +1215,7 @@ kanthi
 kantil
 kaos
 kapal
+karena
 karep
 karepe
 karepmu
@@ -1554,6 +1557,7 @@ madang
 madhang
 madu
 madura
+mae
 mah
 mahal
 main
@@ -2519,6 +2523,7 @@ suwen
 suweng
 suwi
 suwun
+ta
 tabuh
 tae
 taekmu
