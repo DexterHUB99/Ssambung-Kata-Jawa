@@ -451,6 +451,7 @@ dolan
 dosa
 duda
 dudo
+dudu
 duha
 duit
 dukun
@@ -469,6 +470,7 @@ edanwa
 edi
 edon
 ego
+eh
 eha
 ehe
 eheh
@@ -2283,6 +2285,7 @@ susilo
 susu
 susuk
 susul
+sutra
 sutri
 suw
 suwe
