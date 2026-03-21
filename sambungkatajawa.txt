@@ -3013,6 +3013,7 @@ nyepi
 nyong
 nyonya
 nyuwi
+nyuwun
 oalah
 ob
 obah
@@ -3324,6 +3325,7 @@ polahe
 polahmu
 polaman
 polan
+poli
 polisi
 polo
 polri
@@ -3423,6 +3425,7 @@ rao
 raono
 raos
 rapa
+rape
 rapi
 rapina
 rapopo
@@ -3899,6 +3902,7 @@ tatu
 taun
 tawa
 tebu
+tegak
 teko
 tekor
 tel
