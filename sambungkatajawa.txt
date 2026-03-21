@@ -1082,6 +1082,7 @@ garis
 garong
 garpu
 garuda
+garuga
 garuk
 garut
 garwa
@@ -2334,6 +2335,7 @@ malu
 mam
 mama
 mamak
+mamakan
 mamake
 mambu
 man
@@ -3339,6 +3341,7 @@ puma
 puncak
 pundi
 punten
+punya
 pupuk
 pura
 purun
