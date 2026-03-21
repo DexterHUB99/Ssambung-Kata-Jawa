@@ -2526,6 +2526,7 @@ ngijin
 ngikut
 ngil
 ngilang
+ngiler
 ngilu
 ngimbar
 ngimpi
@@ -3235,6 +3236,7 @@ rumit
 rumu
 rung
 rungkad
+rungu
 runi
 runtuh
 rup
@@ -3420,6 +3422,7 @@ sukur
 sulak
 sulam
 sulap
+sulapan
 sule
 suli
 suling
