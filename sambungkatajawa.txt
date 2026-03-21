@@ -513,6 +513,7 @@ bisa
 bisik
 bisiki
 bismillah
+biso
 bisu
 bocah
 bodoh
@@ -797,6 +798,7 @@ emoh
 empal
 empang
 empedu
+empek
 empik
 emping
 empuk
@@ -1536,6 +1538,7 @@ iuta
 iwak
 iwan
 iwang
+iwas
 iwenan
 ix
 iya
@@ -1603,6 +1606,7 @@ jual
 jujur
 ka
 kabeh
+kabel
 kacuk
 kadal
 kae
@@ -2050,6 +2054,7 @@ lirih
 liro
 lis
 lisah
+lisan
 lisi
 lit
 litah
@@ -2465,6 +2470,7 @@ ngantem
 ngantemi
 ngantuk
 nganu
+ngaos
 ngap
 ngapa
 ngapae
@@ -2534,6 +2540,7 @@ ngepi
 ngepot
 ngerak
 ngerem
+ngerepoti
 ngerti
 ngertos
 ngesot
@@ -3451,6 +3458,7 @@ sopir
 sopo
 sora
 sore
+soroh
 sosis
 sowan
 sri
