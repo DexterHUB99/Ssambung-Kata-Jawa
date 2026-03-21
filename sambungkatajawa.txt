@@ -774,6 +774,7 @@ endol
 eneg
 eneh
 enek
+eneng
 enggal
 enggeh
 engkang
@@ -924,6 +925,7 @@ ganjil
 ganteng
 ganti
 gantung
+gape
 gaplek
 gapuk
 garai
@@ -1141,6 +1143,7 @@ hano
 hantam
 hantu
 hanung
+hanya
 hap
 hape
 hapus
@@ -2174,6 +2177,7 @@ murah
 mus
 musa
 musi
+musim
 musuh
 na
 nabi
@@ -2448,6 +2452,7 @@ ngombe
 ngomel
 ngomong
 ngompol
+ngonde
 ngondur
 ngono
 ngonten
