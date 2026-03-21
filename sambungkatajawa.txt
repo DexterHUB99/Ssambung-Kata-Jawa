@@ -624,6 +624,7 @@ ehe
 eheh
 ehek
 ehem
+ehen
 ehes
 ehey
 ehi
@@ -1258,6 +1259,7 @@ imi
 iming
 imo
 impah
+impen
 impor
 imuh
 imut
@@ -2826,6 +2828,7 @@ rilis
 rim
 rima
 rimo
+rin
 rina
 rindu
 ring
