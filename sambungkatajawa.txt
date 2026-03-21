@@ -55,6 +55,7 @@ aing
 aini
 air
 aira
+aiwa
 aiya
 aja
 ajag
@@ -178,6 +179,7 @@ anis
 aniy
 anjas
 anjay
+anjaya
 anjing
 anjinge
 anjir
@@ -376,6 +378,7 @@ cipa
 ciu
 cobek
 cocok
+cocot
 cocote
 cok
 col
@@ -979,6 +982,7 @@ jaka
 jamal
 jamu
 jancok
+janda
 jare
 jawa
 jawir
@@ -992,6 +996,7 @@ jika
 jilat
 jimat
 jin
+jinak
 jingga
 jipuk
 jiwa
@@ -1089,6 +1094,7 @@ kentang
 kentu
 kentut
 kenyang
+keong
 kepiye
 kepo
 kepol
@@ -1553,6 +1559,7 @@ ngil
 ngilu
 ngimbar
 nginthil
+ngintip
 ngiras
 ngiris
 ngiseng
@@ -1598,6 +1605,7 @@ nguntal
 ngunu
 nguping
 nguras
+ngurut
 ngutang
 ni
 nia
@@ -1794,6 +1802,7 @@ payu
 payung
 pe
 pedang
+pedot
 pek
 pekok
 pelan
@@ -1822,6 +1831,7 @@ pinarak
 pindah
 pindang
 ping
+pinten
 pintu
 pipi
 pipis
@@ -1954,6 +1964,7 @@ risi
 risih
 ro
 rok
+rokaat
 romah
 rombeng
 rombongan
@@ -2382,6 +2393,7 @@ wajan
 wajik
 waktu
 wareng
+watak
 wayah
 wayang
 wedang
