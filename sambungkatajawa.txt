@@ -133,6 +133,7 @@ ancok
 anda
 andai
 andang
+andhap
 andok
 andong
 andu
@@ -349,6 +350,7 @@ dama
 damel
 dancok
 dandang
+dani
 dapur
 dari
 demek
@@ -369,6 +371,7 @@ duha
 duit
 dukun
 dupa
+duren
 durung
 duso
 dusun
@@ -497,12 +500,14 @@ gali
 gambar
 gampar
 gampil
+gancet
 ganden
 gandeng
 gandrung
 gandul
 gang
 gange
+ganjil
 gaplek
 gapuk
 garap
@@ -682,7 +687,9 @@ howo
 hp
 hu
 hujan
+hukum
 hulu
+human
 huni
 hurip
 huru
@@ -1128,6 +1135,7 @@ maaf
 mabur
 madang
 madhang
+madu
 madura
 mahal
 main
@@ -1258,6 +1266,7 @@ ngakak
 ngalah
 ngalem
 ngalor
+ngampleng
 nganggur
 ngangsu
 nganjuk
@@ -1454,6 +1463,7 @@ omah
 ombak
 ombe
 ommo
+omong
 omongan
 ompol
 ompong
@@ -1540,6 +1550,7 @@ pintu
 pipi
 pipis
 pipit
+pira
 pirang
 piro
 pisah
@@ -1719,6 +1730,7 @@ sekop
 selawe
 selet
 sempak
+sesek
 sesok
 sholat
 si
@@ -1750,6 +1762,7 @@ sopi
 sopir
 sopo
 sore
+sowan
 sri
 sua
 subur
@@ -1862,6 +1875,7 @@ tuwa
 ua
 uan
 uang
+uban
 ubi
 ubii
 ubuna
