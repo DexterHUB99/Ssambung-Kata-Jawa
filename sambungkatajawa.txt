@@ -587,6 +587,7 @@ buku
 bula
 bulan
 bulat
+bulik
 bumbu
 bumu
 buna
@@ -3434,6 +3435,7 @@ rem
 remah
 remang
 remas
+rembulan
 reme
 remeh
 remeng
