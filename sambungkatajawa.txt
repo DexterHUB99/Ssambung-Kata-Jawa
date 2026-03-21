@@ -657,6 +657,7 @@ ikhlas
 iki
 ikil
 iklim
+iko
 iku
 ikut
 il
@@ -842,6 +843,7 @@ kentang
 kentu
 kentut
 kenyang
+kepiye
 kere
 kereta
 keri
@@ -951,6 +953,7 @@ langu
 laos
 lapo
 lara
+lari
 latah
 lawak
 lawas
@@ -1031,6 +1034,7 @@ madhang
 madura
 mahal
 main
+makan
 maksa
 malu
 mama
@@ -1096,6 +1100,7 @@ nabi
 nada
 nafas
 nagih
+naik
 najis
 nak
 nakoni
@@ -1119,6 +1124,7 @@ nari
 nasa
 nasar
 nasi
+nate
 nderek
 nedha
 negeri
@@ -1133,6 +1139,7 @@ nenen
 nentang
 nepi
 neraka
+neri
 nesu
 ngaceng
 ngada
@@ -1215,6 +1222,7 @@ ngukur
 ngulang
 ngulek
 nguli
+ngulik
 ngulup
 ngumbah
 ngumpet
@@ -1650,6 +1658,7 @@ tempik
 temu
 tenan
 terang
+terong
 tete
 tibo
 tikus
@@ -1680,6 +1689,7 @@ tuma
 tuman
 tumbas
 tumindak
+tuntun
 turi
 turu
 tuwa
@@ -1830,6 +1840,7 @@ wes
 wetan
 weton
 wewe
+wicak
 wicara
 wijaya
 wirang
@@ -1850,6 +1861,7 @@ yang
 yaping
 yati
 yaya
+yen
 yo
 yoga
 yogo
