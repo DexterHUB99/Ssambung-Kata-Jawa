@@ -667,6 +667,7 @@ elang
 ele
 eleh
 elek
+elem
 eli
 elia
 elik
@@ -845,6 +846,7 @@ galang
 galengan
 gali
 galih
+gaman
 gambang
 gambar
 gambas
@@ -1217,6 +1219,7 @@ ikal
 ikan
 ikas
 ikat
+ikatan
 ike
 ikhlas
 iki
@@ -1251,6 +1254,7 @@ iloe
 ilok
 ilon
 ilu
+ilyas
 im
 ima
 imam
@@ -1877,6 +1881,7 @@ lumpang
 lumpuh
 lumrah
 lunga
+lungguh
 lungo
 luntur
 lupa
@@ -3161,6 +3166,7 @@ temen
 temi
 tempe
 tempek
+tempel
 tempik
 temu
 ten
