@@ -1651,6 +1651,7 @@ lamon
 lampit
 lampu
 lamunan
+lan
 lanang
 landung
 langkah
@@ -2318,6 +2319,7 @@ nyantai
 nyanyi
 nyawa
 nyebur
+nyenul
 nyonya
 nyuwi
 oalah
@@ -3294,6 +3296,7 @@ utan
 utang
 utangan
 utara
+utas
 utawa
 utawi
 utawo
