@@ -24,6 +24,7 @@ adol
 ados
 adu
 aduh
+aduk
 adus
 ae
 aeng
@@ -640,6 +641,7 @@ dokar
 dol
 dolan
 dolanan
+domba
 dor
 dosa
 duda
@@ -967,6 +969,7 @@ gasik
 gatau
 gatel
 gateli
+gaul
 gawe
 gawean
 gawene
@@ -2482,6 +2485,7 @@ ngiras
 ngirim
 ngiring
 ngiris
+ngisa
 ngiseng
 ngisep
 ngisi
@@ -2839,6 +2843,7 @@ panti
 papa
 papah
 para
+parah
 pareng
 pari
 paring
@@ -3480,6 +3485,7 @@ tin
 tindak
 tip
 tira
+tiris
 tiru
 tisu
 tit
