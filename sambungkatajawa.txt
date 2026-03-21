@@ -225,6 +225,7 @@ anyong
 ap
 apa
 apeh
+apek
 apem
 apes
 api
@@ -1051,6 +1052,7 @@ iwang
 ix
 iya
 iyo
+iyuh
 iz
 jai
 jaka
@@ -1290,6 +1292,7 @@ kuning
 kuno
 kunti
 kuntul
+kunyuk
 kuo
 kupas
 kupi
@@ -1631,6 +1634,7 @@ ngantem
 ngantemi
 ngantuk
 nganu
+ngap
 ngapa
 ngapak
 ngaplo
@@ -1988,6 +1992,7 @@ pindang
 ping
 pinten
 pintu
+pinuk
 pipi
 pipis
 pipit
@@ -2145,6 +2150,7 @@ rompi
 rondo
 roro
 rosa
+rosi
 roso
 roti
 rowo
@@ -2223,6 +2229,7 @@ selet
 sembah
 sempak
 seng
+seru
 sesek
 sesok
 sholat
@@ -2241,6 +2248,7 @@ silit
 silo
 simbah
 sinau
+sindur
 sing
 sinten
 sip
@@ -2248,6 +2256,7 @@ sira
 siro
 sisa
 sisi
+sisir
 siti
 siwa
 so
@@ -2448,6 +2457,7 @@ ukan
 ukar
 ukara
 uke
+ukep
 ukir
 ukiran
 ukko
@@ -2549,6 +2559,7 @@ urus
 urusa
 urusan
 urut
+us
 usa
 usah
 usaha
@@ -2560,6 +2571,7 @@ usii
 usik
 usil
 usir
+uso
 ustadz
 usu
 usul
@@ -2624,6 +2636,7 @@ wirang
 wiro
 wisuh
 wit
+wong
 wonten
 woro
 wowo
