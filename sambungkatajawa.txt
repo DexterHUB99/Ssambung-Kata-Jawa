@@ -1012,6 +1012,7 @@ gundul
 gung
 guni
 gunting
+guntur
 gunung
 guoblok
 gur
@@ -1020,6 +1021,7 @@ gurih
 guru
 gus
 gusi
+gusti
 gusur
 guwae
 guyah
@@ -1533,6 +1535,7 @@ kentu
 kentut
 kenyang
 keong
+kepel
 kepet
 kepiye
 kepo
@@ -2815,6 +2818,7 @@ riku
 rilis
 rim
 rima
+rimo
 rina
 rindu
 ring
@@ -3180,6 +3184,7 @@ to
 toa
 toe
 tok
+tokek
 tolak
 tole
 tolol
