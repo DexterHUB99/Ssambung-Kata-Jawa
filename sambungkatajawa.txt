@@ -194,7 +194,6 @@ amii
 amik
 amil
 amin
-amir
 amis
 amit
 amoh
@@ -274,7 +273,6 @@ anik
 anis
 anisa
 aniy
-anjar
 anjas
 anjay
 anjaya
@@ -403,7 +401,6 @@ astaga
 astagfirullah
 asu
 asue
-asuh
 asui
 asula
 asun
@@ -670,7 +667,6 @@ didu
 diemut
 dikit
 dila
-dilok
 diluk
 dim
 dimana
@@ -1219,7 +1215,6 @@ hal
 hala
 halah
 halal
-hali
 halo
 halus
 ham
@@ -1992,7 +1987,6 @@ lagi
 lah
 lahan
 lahe
-laju
 lakon
 laku
 lalat
@@ -2000,7 +1994,6 @@ laler
 lali
 lam
 lama
-lamaran
 lambe
 lambemu
 lambene
@@ -2789,7 +2782,6 @@ noh
 nok
 nol
 noleh
-nolek
 nom
 nombok
 nomer
@@ -3005,7 +2997,6 @@ pacul
 pada
 padae
 padang
-padhang
 pados
 padu
 pagar
@@ -3067,7 +3058,6 @@ pen
 pena
 penak
 pendek
-pendhet
 pening
 peniti
 pensil
@@ -3175,7 +3165,6 @@ pupuk
 pura
 purut
 pusa
-pusing
 putih
 puting
 putri
@@ -3244,7 +3233,6 @@ rasis
 raso
 rasu
 rasuk
-rati
 ratu
 raup
 rausah
@@ -3889,7 +3877,6 @@ uli
 ulih
 ulik
 ulo
-ulomo
 ulu
 ulun
 ulung
@@ -4053,7 +4040,6 @@ uwu
 ux
 uyah
 uyawa
-uyo
 uyuh
 wa
 wadol
