@@ -5370,7 +5370,6 @@ harimau
 harimu
 harine
 hario
-hariono
 hariyo
 harjo
 harm
@@ -8867,6 +8866,7 @@ makana
 makanan
 makane
 makanne
+makao
 makat
 make
 maki
