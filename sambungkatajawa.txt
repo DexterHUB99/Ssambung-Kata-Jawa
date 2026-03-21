@@ -62,6 +62,7 @@ ail
 aila
 aing
 aini
+aio
 air
 aira
 aiwa
@@ -395,6 +396,7 @@ becak
 bejat
 belang
 beli
+bendo
 bener
 berak
 besi
@@ -579,6 +581,7 @@ eku
 ekun
 ekur
 el
+elae
 elah
 elam
 elang
@@ -717,6 +720,7 @@ ewis
 ewoh
 ewohe
 ex
+eyang
 eye
 fase
 ga
@@ -1316,6 +1320,7 @@ kawan
 kawen
 kawin
 kawohan
+kawula
 kayu
 kebab
 kedah
@@ -1352,6 +1357,7 @@ kepiye
 kepo
 kepol
 ker
+keran
 kerana
 kerang
 keraos
@@ -1888,6 +1894,7 @@ ngaler
 ngali
 ngalor
 ngamar
+ngambar
 ngambi
 ngampleng
 nganggo
@@ -1908,6 +1915,7 @@ ngapu
 ngapunten
 ngapuro
 ngapusi
+ngarai
 ngarak
 ngarang
 ngare
@@ -2022,6 +2030,7 @@ ngulek
 nguli
 ngulik
 ngulo
+ngulon
 ngulup
 ngumbah
 ngumpet
