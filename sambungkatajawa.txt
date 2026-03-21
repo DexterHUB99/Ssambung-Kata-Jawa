@@ -264,6 +264,7 @@ anjuran
 ano
 anom
 anoman
+anop
 antar
 antara
 antek
@@ -445,6 +446,7 @@ banyu
 bathuk
 batuk
 bau
+bebe
 bebek
 becak
 bedo
@@ -458,6 +460,7 @@ ben
 bendo
 bener
 berak
+besan
 besi
 bi
 biasa
@@ -1107,6 +1110,7 @@ hami
 hamil
 hampir
 hamu
+hana
 hanacaraka
 hancur
 hani
@@ -1900,6 +1904,7 @@ loe
 logat
 loh
 lohan
+lokan
 loken
 lola
 loli
@@ -2684,6 +2689,7 @@ otot
 ow
 owah
 ox
+oyak
 oyok
 oyot
 pa
@@ -2888,6 +2894,7 @@ rapa
 rapi
 rapina
 rapopo
+rapuh
 rara
 ras
 rasa
