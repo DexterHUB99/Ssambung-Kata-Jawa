@@ -937,6 +937,7 @@ gal
 gala
 galak
 galang
+galangan
 galeh
 galengan
 gali
@@ -1144,6 +1145,7 @@ gur
 gurami
 guri
 gurih
+gurita
 guru
 gus
 gusi
@@ -1961,6 +1963,7 @@ laut
 lawak
 lawas
 le
+leak
 lebah
 lee
 legi
@@ -2320,6 +2323,7 @@ nana
 nanang
 nanas
 nandang
+nandangi
 nandhur
 nandur
 nanem
@@ -2505,6 +2509,7 @@ ngepi
 ngepot
 ngerak
 ngerem
+ngerti
 ngertos
 ngesot
 ngetan
@@ -3058,6 +3063,7 @@ racun
 raden
 rae
 ragat
+ragelem
 ragi
 rahmat
 rai
