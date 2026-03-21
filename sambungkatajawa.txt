@@ -97,7 +97,6 @@ adem
 aden
 adena
 adep
-ader
 ades
 adhang
 adhem
@@ -1654,6 +1653,7 @@ awakmu
 awaku
 awal
 awalane
+awale
 awali
 awam
 awamu
@@ -3048,7 +3048,6 @@ dhadha
 dhahar
 dhawuh
 dhika
-dhugi
 di
 diadusi
 diajeng
@@ -5373,6 +5372,7 @@ harimau
 harimu
 harine
 hario
+hariono
 hariyo
 harjo
 harm
@@ -5907,7 +5907,6 @@ ilua
 ilue
 ilui
 iluk
-iluna
 iluni
 ilwa
 ilyas
@@ -6786,6 +6785,7 @@ kaisar
 kajaba
 kajan
 kajang
+kajawi
 kajeng
 kaji
 kajian
@@ -9286,6 +9286,7 @@ milah
 milan
 mili
 milih
+milihno
 milik
 milna
 milo
@@ -10123,6 +10124,7 @@ ngabu
 ngabuk
 ngabul
 ngabung
+ngabur
 ngaca
 ngacai
 ngacak
@@ -11540,6 +11542,7 @@ nilas
 nile
 nilem
 nilemake
+nilen
 nilep
 nili
 nilo
