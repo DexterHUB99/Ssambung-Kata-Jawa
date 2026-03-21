@@ -1908,6 +1908,7 @@ kursi
 kuru
 kurung
 kurus
+kusir
 kutang
 kutu
 kutuk
@@ -2614,6 +2615,7 @@ ngrumat
 ngrumpi
 ngubur
 ngudani
+ngudek
 ngudud
 nguji
 ngukur
@@ -2895,6 +2897,7 @@ ow
 owah
 ox
 oyak
+oyi
 oyok
 oyot
 pa
