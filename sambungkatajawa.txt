@@ -1077,6 +1077,7 @@ gimi
 gincu
 gincung
 gini
+ginjal
 girang
 giring
 gisa
@@ -1635,6 +1636,7 @@ kami
 kamis
 kampak
 kampret
+kampung
 kamu
 kamus
 kan
@@ -2223,6 +2225,7 @@ miku
 mikul
 milah
 milih
+milu
 mima
 mimi
 min
@@ -2978,6 +2981,7 @@ pelo
 pen
 penak
 pendek
+pening
 peniti
 pensil
 pentil
@@ -3220,6 +3224,7 @@ rin
 rina
 rindu
 ring
+ringkas
 rini
 rino
 rio
@@ -3488,6 +3493,7 @@ sun
 sunar
 sunat
 sunda
+sundel
 sungkan
 sungkem
 sunyi
@@ -3867,6 +3873,7 @@ urio
 urip
 uripe
 uripmu
+urit
 uritan
 uru
 uruk
