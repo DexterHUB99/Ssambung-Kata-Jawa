@@ -11397,6 +11397,7 @@ ngumbahi
 ngumbar
 ngumbel
 ngumbi
+ngumet
 ngumpak
 ngumpan
 ngumpat
@@ -16996,6 +16997,7 @@ wedhang
 wedhi
 wedhus
 wedi
+weding
 wedo
 wedok
 wedus
