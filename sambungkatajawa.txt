@@ -152,6 +152,7 @@ amben
 ambi
 ambil
 amboi
+ambruk
 ambu
 ambung
 ambyar
@@ -483,6 +484,7 @@ cacing
 cakap
 candi
 cantik
+cawik
 cecak
 celeng
 celengan
