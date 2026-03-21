@@ -1653,7 +1653,6 @@ awakmu
 awaku
 awal
 awalane
-awale
 awali
 awam
 awamu
@@ -5078,6 +5077,7 @@ gragal
 graji
 gram
 grana
+grapyak
 greges
 greget
 gresik
@@ -5371,7 +5371,6 @@ harimau
 harimu
 harine
 hario
-hariono
 hariyo
 harjo
 harm
@@ -6784,7 +6783,6 @@ kaisar
 kajaba
 kajan
 kajang
-kajawi
 kajeng
 kaji
 kajian
@@ -8869,6 +8867,7 @@ makana
 makanan
 makane
 makanne
+makao
 makat
 make
 maki
@@ -9284,7 +9283,6 @@ milah
 milan
 mili
 milih
-milihno
 milik
 milna
 milo
@@ -10947,6 +10945,7 @@ ngidul
 ngidung
 ngie
 ngig
+ngigi
 ngigil
 ngih
 ngijab
