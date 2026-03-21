@@ -187,6 +187,7 @@ ampun
 amrih
 amu
 amul
+amung
 an
 ana
 anak
@@ -1980,6 +1981,7 @@ maksa
 malaikat
 maling
 malu
+mam
 mama
 mamake
 mambu
