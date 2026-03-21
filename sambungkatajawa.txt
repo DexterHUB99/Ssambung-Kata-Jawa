@@ -794,6 +794,7 @@ ete
 eter
 etes
 eti
+etik
 etika
 etil
 etis
@@ -1522,6 +1523,7 @@ kepiye
 kepo
 kepol
 ker
+kera
 keran
 kerana
 kerang
@@ -2050,6 +2052,7 @@ nanggap
 nanggung
 nanging
 nangis
+nangka
 nangkring
 nani
 nanya
@@ -2239,6 +2242,7 @@ ngisor
 ngitung
 ngko
 nglonte
+ngobah
 ngocok
 ngojek
 ngok
@@ -2750,6 +2754,7 @@ remang
 remas
 reme
 remeh
+remeng
 remes
 remi
 remok
@@ -3043,6 +3048,7 @@ suwen
 suweng
 suwi
 suwun
+syukuran
 ta
 tabuh
 tae
