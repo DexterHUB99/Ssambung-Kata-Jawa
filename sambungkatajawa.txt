@@ -5374,6 +5374,7 @@ hasile
 hasilo
 hasing
 hasna
+hasni
 haso
 hasrat
 hasratne
