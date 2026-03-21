@@ -1329,6 +1329,7 @@ is
 isa
 isak
 isan
+isap
 ise
 isek
 iseng
@@ -2059,6 +2060,7 @@ nalika
 naliko
 nama
 nami
+namo
 nampa
 nampan
 nampar
@@ -2358,6 +2360,7 @@ nini
 nipis
 nipu
 nira
+nis
 nisa
 nisan
 nita
@@ -2554,6 +2557,7 @@ oros
 os
 osah
 osak
+osaka
 osam
 osas
 osek
