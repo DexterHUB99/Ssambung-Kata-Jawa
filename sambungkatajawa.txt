@@ -265,6 +265,7 @@ ano
 anom
 anoman
 anop
+antam
 antar
 antara
 antek
@@ -313,6 +314,7 @@ ar
 ara
 arab
 arah
+arahan
 arai
 arak
 aram
@@ -628,6 +630,7 @@ dumeh
 dungo
 dungu
 dupa
+dupak
 duren
 duria
 duro
@@ -895,9 +898,11 @@ gambyong
 game
 gamel
 gamelan
+gamoh
 gampang
 gampar
 gampil
+gana
 gancet
 ganden
 gandeng
@@ -936,6 +941,7 @@ gaweo
 gawok
 gayeng
 gayuh
+gayung
 ge
 geblek
 gedang
@@ -1476,6 +1482,7 @@ jijik
 jika
 jilat
 jimat
+jimbar
 jin
 jinak
 jingga
@@ -2816,6 +2823,7 @@ pita
 pitek
 piten
 pitik
+pitu
 pitutur
 piyambak
 piye
@@ -3443,6 +3451,7 @@ udek
 udel
 udin
 udo
+udu
 udud
 uduk
 udut
@@ -3709,6 +3718,7 @@ wirang
 wiro
 wisuh
 wit
+wiwi
 wo
 woi
 wong
