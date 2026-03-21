@@ -202,6 +202,7 @@ aren
 areng
 arep
 ari
+aring
 arip
 aris
 arti
@@ -298,6 +299,7 @@ bisiki
 bismillah
 bisu
 bodoh
+bojo
 bolo
 bongo
 bor
@@ -510,6 +512,7 @@ gateli
 gawe
 gayuh
 ge
+geblek
 gedang
 gedangan
 gegayuhan
@@ -574,6 +577,7 @@ guna
 gundik
 gundul
 guni
+gunung
 guoblok
 gur
 guri
@@ -1075,6 +1079,7 @@ lo
 lob
 loba
 lobang
+lodeh
 logat
 loh
 lohan
@@ -1106,6 +1111,7 @@ luluh
 luma
 lumpang
 lumrah
+lunga
 lupa
 luput
 lurah
@@ -1364,6 +1370,7 @@ noh
 nok
 nol
 noleh
+nombok
 nomer
 non
 nona
@@ -1383,6 +1390,7 @@ nuku
 nulis
 nulung
 numpak
+numpang
 nunggu
 nunung
 nuo
@@ -1473,6 +1481,7 @@ osek
 osem
 oseng
 osok
+ot
 otak
 otot
 owah
@@ -1810,6 +1819,7 @@ timun
 tin
 tira
 tiru
+tit
 titis
 titit
 tiwas
@@ -1824,6 +1834,7 @@ tompel
 tongkol
 tono
 top
+tot
 toto
 tua
 tuhan
@@ -2024,6 +2035,7 @@ yadi
 yak
 yali
 yamaha
+yaman
 yan
 yana
 yang
