@@ -879,6 +879,7 @@ andaran
 andas
 andeg
 andel
+andem
 ander
 anderan
 andha
@@ -1197,6 +1198,7 @@ apae
 apag
 apah
 apai
+apaj
 apak
 apal
 apala
@@ -3582,6 +3584,7 @@ ekad
 ekae
 ekag
 ekah
+ekai
 ekak
 ekal
 ekali
@@ -3661,7 +3664,6 @@ elas
 elat
 ele
 eleh
-elej
 elek
 elekan
 eleke
@@ -8991,6 +8993,7 @@ marus
 mas
 masa
 masah
+masai
 masak
 masal
 masala
@@ -10977,6 +10980,7 @@ ngiseni
 ngisep
 ngiser
 ngisi
+ngisih
 ngisik
 ngisin
 ngising
@@ -11239,7 +11243,6 @@ ngugah
 ngugu
 ngugur
 nguja
-ngujak
 nguji
 ngujuk
 ngujung
@@ -11399,6 +11402,7 @@ ngutus
 nguwa
 nguwak
 nguwi
+nguya
 nguyah
 nguyang
 nguyon
@@ -14740,6 +14744,7 @@ siasu
 sibat
 sida
 sidang
+sidat
 sidha
 sidoarjo
 sie
@@ -15962,6 +15967,7 @@ udelku
 udelmu
 uden
 udeng
+udera
 udha
 udharan
 udi
