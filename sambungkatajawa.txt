@@ -1863,6 +1863,7 @@ kinjeng
 kintir
 kios
 kipas
+kipes
 kir
 kira
 kirang
