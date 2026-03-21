@@ -3162,7 +3162,6 @@ dip
 dipa
 dipah
 dipan
-dipang
 dipangan
 diparengi
 diparingi
@@ -10736,7 +10735,6 @@ ngesek
 ngeselin
 ngesem
 ngeseng
-ngeses
 ngeset
 ngesing
 ngesok
@@ -14299,6 +14297,7 @@ sandale
 sandang
 sandangan
 sandhang
+sandhangan
 sandung
 sane
 sanes
