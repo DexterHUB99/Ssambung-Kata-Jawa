@@ -1774,6 +1774,7 @@ kilat
 kili
 kima
 kin
+kina
 kinasih
 kini
 kinjeng
@@ -2301,6 +2302,7 @@ nada
 nae
 nafas
 naga
+nagi
 nagih
 nah
 nai
@@ -2665,7 +2667,9 @@ ning
 ninggal
 ningsih
 nini
+nining
 nipis
+nipon
 nipu
 nira
 nis
@@ -3643,6 +3647,7 @@ tuman
 tumbas
 tumi
 tumindak
+tumpah
 tumpeh
 tumpeng
 tumplek
