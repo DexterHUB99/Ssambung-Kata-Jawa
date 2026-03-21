@@ -230,6 +230,7 @@ angkruk
 angrek
 angsa
 angsal
+angsi
 ani
 aniani
 anik
@@ -418,6 +419,7 @@ bai
 bali
 balok
 bambang
+banci
 bandeng
 banyu
 bathuk
@@ -1008,6 +1010,7 @@ haji
 hajio
 hak
 haku
+hal
 hala
 halah
 halal
@@ -1056,6 +1059,7 @@ hayo
 hayu
 hayuk
 he
+hebat
 heboh
 heh
 hehe
@@ -1307,6 +1311,7 @@ itik
 itil
 itilan
 itilen
+ito
 itu
 itue
 ituli
@@ -1619,6 +1624,7 @@ kum
 kuma
 kuman
 kumbah
+kumbang
 kumpul
 kumuh
 kun
@@ -1927,6 +1933,7 @@ mom
 momumet
 mon
 mondok
+monggo
 moret
 moro
 mos
@@ -2940,6 +2947,7 @@ suki
 sukma
 suku
 sukun
+sulak
 sulam
 sulap
 sule
