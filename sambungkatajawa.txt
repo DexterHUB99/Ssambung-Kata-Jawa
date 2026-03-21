@@ -20,6 +20,7 @@ adem
 adi
 adik
 adil
+adit
 adoh
 adol
 ados
@@ -1525,6 +1526,7 @@ ito
 itu
 itue
 ituli
+itulo
 itung
 iut
 iuta
@@ -3147,6 +3149,7 @@ raup
 rausah
 rawa
 rawit
+rawon
 rawuh
 raya
 rayap
@@ -3447,6 +3450,7 @@ sua
 suami
 suara
 subur
+sudah
 sudi
 sue
 sugeng
@@ -3524,6 +3528,7 @@ tahu
 tai
 taik
 tajir
+tak
 take
 taki
 takjil
@@ -3653,6 +3658,7 @@ tuku
 tukul
 tulang
 tuli
+tulis
 tulung
 tulus
 tuma
@@ -3943,6 +3949,7 @@ waktu
 walah
 wangsul
 wanita
+warek
 wareng
 warung
 watak
