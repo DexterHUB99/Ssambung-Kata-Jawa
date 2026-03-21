@@ -508,6 +508,7 @@ bibi
 bihun
 bila
 bin
+bindeng
 bingo
 bini
 bintul
@@ -3067,6 +3068,7 @@ polaman
 polisi
 polo
 polri
+pomi
 pon
 ponakan
 pondok
@@ -3910,6 +3912,7 @@ usap
 usaran
 use
 usek
+usha
 usi
 usia
 usii
@@ -4047,6 +4050,7 @@ yawis
 yaya
 yek
 yen
+yere
 yeye
 yo
 yoan
