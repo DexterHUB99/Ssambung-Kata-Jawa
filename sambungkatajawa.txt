@@ -1353,6 +1353,7 @@ human
 humor
 huni
 hura
+huri
 hurip
 huru
 hurung
@@ -2672,6 +2673,7 @@ ngobat
 ngocok
 ngojek
 ngok
+ngoker
 ngoko
 ngokop
 ngolah
@@ -3463,6 +3465,7 @@ sawahe
 sawai
 sawi
 sawit
+saya
 sayang
 sayur
 seda
