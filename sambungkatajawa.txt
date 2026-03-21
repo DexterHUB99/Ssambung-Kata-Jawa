@@ -1749,7 +1749,6 @@ ayon
 ayone
 ayu
 ayub
-ayue
 ayuh
 ayuha
 ayui
@@ -3464,7 +3463,6 @@ eci
 ecik
 eco
 ecok
-ecu
 ed
 eda
 edah
@@ -3517,7 +3515,6 @@ ego
 egoh
 egois
 egok
-egol
 egon
 egor
 egos
@@ -8046,7 +8043,6 @@ kursii
 kursine
 kuru
 kurung
-kurungan
 kurus
 kus
 kusa
@@ -13067,7 +13063,6 @@ pisak
 pisan
 pisane
 pisang
-pisin
 pising
 pisna
 pisu
@@ -16028,7 +16023,6 @@ tuta
 tuti
 tuto
 tutuk
-tutumpah
 tutup
 tutupi
 tutur
