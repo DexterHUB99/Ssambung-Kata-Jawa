@@ -535,6 +535,7 @@ bunga
 bunuh
 buri
 busa
+busuk
 but
 butek
 buti
@@ -1163,6 +1164,7 @@ hala
 halah
 halal
 halo
+halus
 ham
 hama
 hamba
@@ -1537,6 +1539,7 @@ jelek
 jembatan
 jembut
 jempol
+jemur
 jeneng
 jer
 jero
@@ -1949,6 +1952,7 @@ lemes
 lemot
 lemper
 lemu
+lenggah
 lengkuas
 lengo
 leper
@@ -3462,6 +3466,7 @@ tani
 tansah
 tante
 tao
+tap
 tapi
 tapir
 tara
@@ -3772,6 +3777,7 @@ uru
 uruk
 urukan
 urun
+urunan
 urung
 urus
 urusa
