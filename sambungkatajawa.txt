@@ -687,6 +687,7 @@ gali
 galih
 gambang
 gambar
+gambas
 gamelan
 gampar
 gampil
@@ -1995,6 +1996,7 @@ ob
 obah
 obak
 obat
+obeng
 obong
 obor
 obral
@@ -2646,6 +2648,7 @@ uan
 uang
 uban
 ubang
+ubel
 ubi
 ubii
 ubuna
