@@ -590,6 +590,7 @@ cacar
 cacing
 cah
 cakap
+cakot
 candi
 cantik
 cape
@@ -1044,6 +1045,7 @@ garem
 gareng
 gari
 garing
+garis
 garong
 garpu
 garuda
@@ -1642,6 +1644,7 @@ jancok
 jancuk
 janda
 jangkrik
+janji
 jaran
 jare
 jarik
@@ -2309,6 +2312,7 @@ masih
 masuk
 mat
 mata
+matamu
 matane
 mate
 matek
@@ -2712,6 +2716,7 @@ nginep
 nginthil
 ngintil
 ngintip
+ngipa
 ngira
 ngirai
 ngiras
@@ -3088,6 +3093,7 @@ pahing
 pahit
 paing
 pait
+pajak
 pak
 pakir
 pako
@@ -4178,6 +4184,7 @@ wanita
 warek
 wareng
 warung
+waso
 watak
 watu
 wayah
