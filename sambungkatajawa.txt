@@ -190,6 +190,7 @@ among
 amoro
 ampar
 ampas
+ampela
 ampir
 ampiri
 ampun
@@ -532,6 +533,7 @@ bulan
 bulat
 bumbu
 bumu
+buna
 buncis
 bunga
 bunuh
@@ -2216,6 +2218,7 @@ mok
 mole
 moleh
 molen
+molok
 mom
 momumet
 mon
@@ -2364,6 +2367,7 @@ neng
 nengdi
 nentang
 nepi
+nera
 neraka
 nere
 neri
@@ -3029,6 +3033,7 @@ raden
 rae
 ragat
 ragi
+rahmat
 rai
 raib
 raimu
