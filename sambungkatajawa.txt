@@ -307,6 +307,7 @@ auh
 aul
 aura
 aus
+aut
 autan
 awa
 awak
@@ -1369,6 +1370,7 @@ lilin
 lilir
 lim
 lima
+limas
 limbah
 limo
 limolas
