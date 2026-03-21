@@ -10421,7 +10421,6 @@ ngarap
 ngarasa
 ngare
 ngarek
-ngareng
 ngareni
 ngarep
 ngarepan
@@ -11284,7 +11283,6 @@ ngrok
 ngrokok
 ngrumat
 ngrumpi
-ngrungokke
 ngrungu
 ngrus
 ngrusak
