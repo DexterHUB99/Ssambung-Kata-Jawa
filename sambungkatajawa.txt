@@ -109,6 +109,7 @@ ajur
 ak
 aka
 akad
+akah
 akak
 akal
 akan
@@ -712,6 +713,7 @@ diso
 dodi
 dodol
 dokar
+doko
 dol
 dolan
 dolanan
@@ -3427,6 +3429,7 @@ rin
 rina
 rindu
 ring
+ringa
 ringkas
 rini
 rino
@@ -4280,6 +4283,7 @@ yek
 yen
 yere
 yeye
+yi
 yo
 yoan
 yoga
