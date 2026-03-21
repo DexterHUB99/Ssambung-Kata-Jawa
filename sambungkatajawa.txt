@@ -13,6 +13,7 @@ ablek
 aboh
 abrit
 abu
+aca
 acu
 ad
 ada
@@ -2692,6 +2693,7 @@ ngarsa
 ngaruh
 ngasah
 ngasak
+ngasehi
 ngasek
 ngasi
 ngasih
@@ -3990,6 +3992,7 @@ tumbas
 tumi
 tumindak
 tumpah
+tumpang
 tumpeh
 tumpeng
 tumplek
