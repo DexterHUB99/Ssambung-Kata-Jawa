@@ -626,6 +626,7 @@ dada
 dadang
 dadar
 dadi
+dadu
 dagu
 dahar
 dahi
@@ -651,6 +652,7 @@ dapur
 dara
 dari
 darma
+das
 dasar
 dasi
 dawuh
@@ -1765,6 +1767,7 @@ keke
 kekek
 kekel
 keker
+keko
 kel
 kela
 kelap
@@ -2630,6 +2633,7 @@ ngepot
 ngerak
 ngerem
 ngerepoti
+ngeresake
 ngerti
 ngertos
 ngesot
