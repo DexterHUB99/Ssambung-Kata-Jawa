@@ -908,6 +908,7 @@ engkol
 eni
 enik
 enis
+enjang
 enjih
 enjing
 enjoy
@@ -1062,6 +1063,7 @@ gang
 gange
 ganggu
 ganja
+ganjar
 ganjil
 ganteng
 ganti
@@ -1464,6 +1466,7 @@ ihan
 ihe
 ihi
 ihka
+ihna
 ihre
 ihri
 ihsan
@@ -2335,6 +2338,7 @@ maksa
 makul
 malaikat
 malam
+malih
 maling
 malu
 mam
@@ -2391,6 +2395,7 @@ maya
 mayak
 mben
 mboke
+mboten
 me
 medeni
 megah
@@ -3213,6 +3218,7 @@ pasa
 pasar
 pasir
 patuh
+patung
 payah
 payu
 payung
