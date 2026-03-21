@@ -641,6 +641,7 @@ engkang
 engko
 engkol
 eni
+enis
 enjing
 enjoy
 eno
@@ -776,6 +777,7 @@ gedang
 gedangan
 gede
 gedhi
+gedung
 gegayuhan
 geger
 geh
@@ -2030,6 +2032,7 @@ nia
 nika
 nikah
 niki
+niko
 niku
 nila
 nilai
@@ -2659,6 +2662,7 @@ sulam
 sulap
 suli
 suling
+sulung
 sum
 sumerep
 sumpah
@@ -2674,6 +2678,7 @@ supe
 supi
 sura
 surat
+suri
 suro
 suruh
 sus
