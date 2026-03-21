@@ -80,6 +80,7 @@ akia
 akih
 aking
 ako
+akol
 akon
 akrab
 aksara
@@ -404,6 +405,7 @@ cok
 col
 coli
 congor
+coro
 cuci
 cucu
 curut
@@ -1289,6 +1291,7 @@ kuwe
 kuyuk
 la
 labu
+lacut
 lagi
 lakon
 laku
@@ -1513,6 +1516,7 @@ musi
 na
 nabi
 nada
+nae
 nafas
 nagih
 naik
@@ -1656,6 +1660,7 @@ ngikut
 ngil
 ngilu
 ngimbar
+ngimpi
 nginthil
 ngintil
 ngintip
@@ -1876,6 +1881,7 @@ orak
 oran
 orang
 orapapa
+orasah
 oren
 orok
 oros
@@ -2030,6 +2036,7 @@ rampung
 ramu
 randa
 randu
+rang
 rangga
 ranti
 raono
@@ -2300,6 +2307,7 @@ telo
 telu
 teman
 tembok
+temen
 temi
 tempe
 tempek
@@ -2400,6 +2408,7 @@ ukir
 ukiran
 ukko
 ukni
+uko
 uku
 ukum
 ukur
@@ -2598,6 +2607,7 @@ yoga
 yogo
 yogya
 yohan
+yoi
 yok
 yoman
 yonan
