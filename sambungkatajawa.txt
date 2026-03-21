@@ -2769,6 +2769,7 @@ noh
 nok
 nol
 noleh
+nolek
 nom
 nombok
 nomer
@@ -3045,6 +3046,7 @@ pen
 pena
 penak
 pendek
+pendhet
 pening
 peniti
 pensil
