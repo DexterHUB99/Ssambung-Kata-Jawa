@@ -2039,6 +2039,7 @@ rako
 rakus
 rama
 ramai
+rambak
 rambu
 rambut
 rame
@@ -2469,6 +2470,7 @@ unama
 undang
 undangan
 undian
+unduh
 unduk
 undur
 unggah
