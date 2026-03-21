@@ -612,6 +612,7 @@ dor
 dosa
 duda
 dudo
+dudu
 duha
 duit
 duku
@@ -732,6 +733,7 @@ emo
 emoh
 empal
 empang
+empedu
 empik
 emping
 empuk
@@ -1306,6 +1308,7 @@ ima
 imam
 iman
 imas
+imbas
 imbuh
 imbuhan
 imi
