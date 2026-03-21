@@ -3080,6 +3080,7 @@ ore
 orek
 oren
 orewa
+organisasi
 ori
 orok
 orong
@@ -3123,6 +3124,7 @@ paing
 pait
 pajak
 pak
+pakara
 pakir
 pako
 pal
@@ -3200,6 +3202,7 @@ picara
 picek
 pie
 pikir
+piku
 pikul
 pikun
 pil
@@ -3727,6 +3730,7 @@ sumringah
 sumuk
 sumur
 sun
+suna
 sunar
 sunat
 sunda
@@ -3885,6 +3889,7 @@ tiyang
 to
 toa
 toe
+toh
 tok
 tokek
 tolak
