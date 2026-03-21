@@ -97,7 +97,6 @@ adem
 aden
 adena
 adep
-ader
 ades
 adhang
 adhem
@@ -2197,7 +2196,6 @@ bintang
 bintit
 binu
 bio
-bipo
 bir
 bira
 biri
@@ -3050,7 +3048,6 @@ dhadha
 dhahar
 dhawuh
 dhika
-dhugi
 di
 diadusi
 diajeng
@@ -5910,7 +5907,6 @@ ilua
 ilue
 ilui
 iluk
-iluna
 iluni
 ilwa
 ilyas
