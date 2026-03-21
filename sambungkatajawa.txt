@@ -385,7 +385,6 @@ cabe
 cacing
 cakap
 candi
-cantik
 cecak
 celeng
 cica
@@ -475,7 +474,6 @@ ehi
 eho
 ehop
 eka
-ekah
 ekar
 eke
 eker
@@ -904,7 +902,6 @@ ijak
 ijen
 ijin
 ijo
-ijol
 ik
 ika
 ikal
@@ -914,7 +911,6 @@ ikat
 ikhlas
 iki
 ikil
-iklas
 iklim
 iko
 iku
@@ -1460,6 +1456,7 @@ mati
 matio
 mau
 mawon
+maya
 mboke
 megah
 meja
@@ -1638,7 +1635,6 @@ ngemi
 ngen
 ngendi
 ngendika
-ngene
 ngeng
 ngenta
 ngepel
@@ -2312,6 +2308,7 @@ tempik
 temu
 tenan
 terang
+teras
 terong
 tete
 tibo
@@ -2603,6 +2600,7 @@ yoga
 yogo
 yogya
 yohan
+yoi
 yok
 yoman
 yonan
