@@ -73,6 +73,7 @@ ahok
 ahon
 ahu
 ahuk
+ahun
 ai
 aia
 aian
@@ -1427,6 +1428,7 @@ il
 ila
 ilae
 ilah
+ilak
 ilan
 ilang
 ilangan
@@ -1478,6 +1480,7 @@ inem
 infaq
 ing
 inggih
+inggil
 inggit
 ingkang
 ingkung
@@ -2053,6 +2056,7 @@ lem
 lemah
 lembah
 lemes
+lemet
 lemot
 lemper
 lemu
@@ -2132,6 +2136,7 @@ loko
 lola
 loli
 lolo
+loloh
 lololo
 lolos
 lom
@@ -2509,6 +2514,7 @@ ngak
 ngaka
 ngakak
 ngalah
+ngalas
 ngalem
 ngaler
 ngali
@@ -3375,6 +3381,7 @@ rumah
 rumangsane
 rumit
 rumu
+run
 rung
 rungkad
 rungu
@@ -3918,6 +3925,7 @@ undangan
 undi
 undian
 unduh
+unduhe
 unduk
 undur
 unek
