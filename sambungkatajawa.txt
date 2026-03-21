@@ -2933,6 +2933,7 @@ nuwun
 nyantai
 nyanyi
 nyawa
+nyawit
 nyebur
 nyenul
 nyepi
@@ -3895,6 +3896,7 @@ tuak
 tuhan
 tuk
 tukang
+tukaran
 tuki
 tuku
 tukul
