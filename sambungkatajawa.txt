@@ -1318,6 +1318,7 @@ huti
 iba
 ibadah
 iban
+iblis
 ibu
 ibuk
 ibune
@@ -2134,6 +2135,7 @@ mahal
 main
 maju
 maka
+makam
 makan
 maksa
 malaikat
@@ -2151,6 +2153,7 @@ mane
 mang
 mangan
 manggon
+mangke
 mangkel
 mani
 manis
@@ -2717,6 +2720,7 @@ nu
 nua
 nuduh
 nui
+nuju
 nuku
 nul
 nuli
@@ -3660,6 +3664,7 @@ tuntun
 turi
 turu
 turuk
+tusuk
 tuta
 tutup
 tutur
