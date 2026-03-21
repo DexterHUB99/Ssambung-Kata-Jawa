@@ -1255,6 +1255,7 @@ aposi
 app
 apu
 apuh
+apui
 apun
 apung
 apuran
