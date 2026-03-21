@@ -1973,6 +1973,7 @@ kul
 kula
 kulak
 kulan
+kule
 kuli
 kulit
 kulo
@@ -2215,6 +2216,7 @@ luk
 lulu
 luluh
 luma
+lumah
 lumajang
 luman
 lumayan
@@ -4246,6 +4248,7 @@ yuka
 yuli
 yumi
 yura
+yuran
 yus
 yusa
 yusra
