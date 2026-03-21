@@ -1320,6 +1320,7 @@ harum
 harus
 has
 hasa
+hasan
 hasem
 hasi
 hasil
@@ -1852,6 +1853,7 @@ kemproh
 kemul
 kena
 kenapa
+kencot
 kencur
 kendi
 kene
@@ -2853,6 +2855,7 @@ ngupil
 nguping
 nguras
 ngurip
+ngurus
 ngurusi
 ngurut
 ngusir
@@ -3615,6 +3618,7 @@ sare
 sareh
 sareng
 sari
+sarong
 saru
 sas
 sasa
@@ -4250,6 +4254,7 @@ uyuh
 wa
 wadol
 wadon
+waduke
 wadul
 wae
 wahana
