@@ -6635,6 +6635,7 @@ jumi
 jumla
 jumo
 jumpa
+jumput
 jun
 juna
 june
