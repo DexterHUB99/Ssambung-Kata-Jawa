@@ -1063,6 +1063,7 @@ gilir
 gilo
 gimi
 gincu
+gincung
 gini
 girang
 giring
@@ -1511,6 +1512,7 @@ ito
 itu
 itue
 ituli
+itung
 iut
 iuta
 iwak
@@ -2019,6 +2021,7 @@ liro
 lis
 lisah
 lisi
+lit
 litah
 lite
 liwat
@@ -2603,6 +2606,7 @@ ngunduh
 nguning
 nguntal
 ngunu
+ngupil
 nguping
 nguras
 ngurip
@@ -2766,6 +2770,7 @@ olah
 olak
 ole
 oleh
+oleholeh
 oleng
 oles
 oli
@@ -2878,6 +2883,7 @@ pakir
 pako
 pal
 pala
+pali
 paling
 palu
 panas
@@ -3620,6 +3626,7 @@ ubi
 ubii
 ubun
 ubuna
+ubur
 ucap
 ucul
 uda
