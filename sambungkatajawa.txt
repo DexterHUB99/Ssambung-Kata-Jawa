@@ -3990,6 +3990,7 @@ enoh
 enok
 enol
 enom
+enong
 enta
 entak
 entang
