@@ -448,6 +448,7 @@ aul
 auman
 aura
 aus
+ausi
 autan
 awa
 awah
@@ -1040,6 +1041,7 @@ gari
 garing
 garong
 garpu
+garuda
 garuk
 garut
 garwa
@@ -1146,6 +1148,7 @@ godhong
 godog
 godong
 gogoh
+gogol
 gojek
 gojekan
 gok
@@ -2828,6 +2831,7 @@ nitip
 niwas
 niya
 njupuk
+nma
 nnono
 no
 nobat
@@ -3508,6 +3512,7 @@ santun
 sapa
 sapi
 sapu
+saran
 sarang
 sare
 sareh
@@ -3855,6 +3860,7 @@ tuntun
 turi
 turu
 turuk
+tusa
 tusuk
 tuta
 tutup
