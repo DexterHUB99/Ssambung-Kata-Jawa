@@ -1623,7 +1623,6 @@ auman
 aun
 auna
 aunan
-aunta
 aup
 aura
 aurip
@@ -3494,7 +3493,6 @@ ef
 efaf
 efal
 efek
-efi
 eg
 ega
 egah
@@ -17406,7 +17404,6 @@ yuswo
 yut
 yuta
 yuti
-yuto
 yuwa
 yuya
 yuyi
