@@ -5,6 +5,7 @@ abah
 abai
 abang
 abi
+abil
 ablek
 abrit
 abu
@@ -3465,6 +3466,7 @@ tumbas
 tumi
 tumindak
 tumpeng
+tumplek
 tuna
 tunggu
 tuntun
@@ -3653,6 +3655,7 @@ urio
 urip
 uripe
 uripmu
+uritan
 uru
 uruk
 urukan
