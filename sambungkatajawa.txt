@@ -540,6 +540,7 @@ bini
 bintang
 bintul
 bir
+biru
 bis
 bisa
 bisik
@@ -3112,6 +3113,7 @@ pali
 paling
 palu
 panas
+panci
 pandang
 pandawa
 pani
@@ -3543,6 +3545,7 @@ samperi
 sampo
 sampun
 sana
+sanak
 sandal
 sandang
 sandanga
@@ -4210,6 +4213,7 @@ wedi
 wedo
 wedok
 wee
+wektu
 wen
 wes
 wesi
