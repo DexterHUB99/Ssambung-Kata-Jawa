@@ -22,6 +22,7 @@ aha
 ahad
 ahada
 ahan
+ahap
 ahas
 ahat
 ahay
@@ -116,6 +117,7 @@ anakan
 anake
 anam
 anan
+anane
 anap
 anas
 anat
@@ -260,6 +262,7 @@ ayoa
 ayok
 ayu
 az
+bab
 babi
 bali
 balok
@@ -401,6 +404,7 @@ enong
 entar
 ente
 entek
+enthuk
 entok
 entuk
 enyong
@@ -605,6 +609,7 @@ heran
 heyo
 hi
 hias
+hidhup
 hidup
 hiji
 hikmah
@@ -976,6 +981,7 @@ lemu
 lengkuas
 leper
 leres
+leri
 lesehan
 lewih
 lia
@@ -1228,6 +1234,7 @@ ngopi
 ngopo
 ngopoe
 ngorok
+ngowah
 ngowoh
 ngoyak
 ngudud
@@ -1445,6 +1452,7 @@ pon
 pondok
 poni
 ponorogo
+popa
 pore
 pori
 pos
@@ -1612,6 +1620,7 @@ solar
 sole
 solo
 sono
+sop
 sopan
 sopi
 sopir
@@ -1682,6 +1691,7 @@ tete
 tibo
 tikus
 tilam
+tilem
 tilep
 timah
 timi
@@ -1752,6 +1762,7 @@ uku
 ukum
 ukur
 ukuran
+ukure
 ula
 ulah
 ulai
@@ -1811,6 +1822,7 @@ uran
 urang
 urap
 uri
+uring
 urip
 uruk
 urung
