@@ -9,6 +9,7 @@ abil
 ablek
 abrit
 abu
+acu
 ad
 ada
 adai
@@ -571,6 +572,7 @@ congor
 coro
 cuci
 cucu
+cuma
 curut
 da
 dada
@@ -1789,6 +1791,7 @@ kosong
 kota
 kotak
 kotang
+koti
 kowe
 koyo
 koyok
@@ -3661,6 +3664,7 @@ unek
 unggah
 unggaran
 unggas
+ungger
 ungkal
 ungkap
 ungkara
