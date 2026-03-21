@@ -13253,6 +13253,7 @@ pot
 pota
 pote
 potong
+potongan
 pow
 powa
 powo
