@@ -59,6 +59,7 @@ ahek
 ahem
 ahh
 ahi
+ahik
 ahil
 ahin
 ahir
@@ -1011,6 +1012,7 @@ ganjil
 ganteng
 ganti
 gantung
+gapapa
 gape
 gaplek
 gapleki
@@ -1085,6 +1087,7 @@ gendut
 geng
 geni
 genteng
+genti
 gentong
 ger
 gera
