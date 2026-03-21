@@ -3719,6 +3719,7 @@ em
 ema
 emab
 emad
+emae
 emah
 email
 emak
@@ -5392,7 +5393,6 @@ hayuk
 he
 hea
 heal
-healing
 hean
 hebat
 heboh
@@ -5854,6 +5854,7 @@ ilokan
 ilon
 iloo
 ilu
+ilue
 ilui
 iluk
 iluni
@@ -8773,6 +8774,7 @@ maha
 mahal
 mahar
 mahen
+mahes
 mahi
 mahir
 mahoni
@@ -11038,6 +11040,7 @@ ngobrol
 ngobroli
 ngocak
 ngoceh
+ngocek
 ngocok
 ngodok
 ngodol
@@ -15896,7 +15899,6 @@ ubet
 ubi
 ubii
 ubo
-ubuk
 ubun
 ubur
 uc
@@ -16524,7 +16526,6 @@ usko
 usku
 usli
 usma
-usmi
 usna
 uso
 usra
@@ -17015,7 +17016,6 @@ wuku
 wula
 wulan
 wulane
-wulang
 wulangan
 wuli
 wulo
