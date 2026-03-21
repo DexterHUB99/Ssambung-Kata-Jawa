@@ -10793,6 +10793,7 @@ nggula
 ngguling
 nggulung
 nggumun
+ngguwak
 ngguyu
 ngguyue
 ngguyur
@@ -10827,6 +10828,7 @@ ngijek
 ngijin
 ngijing
 ngijir
+ngijo
 ngijol
 ngijoli
 ngik
@@ -14822,6 +14824,7 @@ situasi
 siwa
 siwak
 siwi
+siwo
 siwur
 siya
 siyam
