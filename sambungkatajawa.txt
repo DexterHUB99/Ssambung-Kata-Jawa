@@ -39,6 +39,7 @@ ahli
 ahlii
 aho
 ahon
+ahu
 aia
 aie
 aika
@@ -115,6 +116,7 @@ ampar
 ampir
 ampun
 amrih
+an
 ana
 anak
 anakan
@@ -338,6 +340,8 @@ coli
 cuci
 cucu
 curut
+dada
+dadang
 dadar
 dadi
 dahi
@@ -625,6 +629,7 @@ harap
 hare
 harga
 hari
+harimau
 harma
 harta
 haru
@@ -1324,6 +1329,7 @@ ngorok
 ngowah
 ngowoh
 ngoyak
+ngoyo
 ngrumat
 ngudud
 ngukur
@@ -1526,6 +1532,7 @@ pie
 pikir
 pikun
 pilak
+pilus
 pinarak
 pindah
 ping
@@ -1629,6 +1636,7 @@ riko
 rilis
 rima
 rindu
+rini
 rio
 ripan
 riri
@@ -1674,6 +1682,7 @@ saka
 sakit
 sakti
 saku
+salah
 salahe
 salam
 salim
@@ -1747,6 +1756,7 @@ subur
 sudi
 sue
 sugeng
+sugih
 sui
 suk
 suka
@@ -1995,6 +2005,7 @@ utumu
 utus
 uwes
 uwi
+uwis
 uwong
 uwu
 ux
@@ -2051,6 +2062,7 @@ yogya
 yohan
 yok
 yoman
+yonan
 yoopo
 yoto
 yowes
