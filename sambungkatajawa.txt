@@ -129,6 +129,7 @@ ale
 alek
 alhamdulillah
 ali
+alih
 alim
 alip
 alis
@@ -3114,6 +3115,7 @@ tisu
 tit
 titi
 titid
+titip
 titis
 titit
 tiwas
@@ -3251,6 +3253,7 @@ ulik
 ulo
 ulu
 ulun
+ulung
 ulur
 um
 uma
