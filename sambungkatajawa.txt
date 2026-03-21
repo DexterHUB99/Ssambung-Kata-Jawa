@@ -860,6 +860,7 @@ garem
 gareng
 gari
 garing
+garong
 garpu
 garuk
 garut
@@ -947,6 +948,7 @@ gitar
 go
 goblok
 gobloki
+gocekan
 godhong
 godog
 godong
@@ -1371,6 +1373,7 @@ jawir
 je
 jejer
 jelek
+jembatan
 jembut
 jempol
 jeneng
@@ -2224,6 +2227,7 @@ ngilang
 ngilu
 ngimbar
 ngimpi
+ngin
 nginep
 nginthil
 ngintil
@@ -2714,6 +2718,7 @@ rambut
 rame
 rampung
 ramu
+rana
 randa
 randu
 rang
@@ -2941,6 +2946,7 @@ siapa
 sida
 siji
 sikat
+sikil
 siku
 sikut
 sila
@@ -3089,6 +3095,7 @@ taro
 tase
 tata
 tatak
+tatu
 tawa
 tebu
 teko
