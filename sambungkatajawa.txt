@@ -379,6 +379,7 @@ aris
 arisan
 arit
 aro
+arsila
 arti
 aru
 arum
@@ -1621,6 +1622,7 @@ istilah
 istimewa
 istri
 isu
+isue
 isuk
 isya
 ita
@@ -2586,6 +2588,7 @@ neteh
 netek
 netra
 ngaben
+ngaca
 ngacak
 ngace
 ngaceng
