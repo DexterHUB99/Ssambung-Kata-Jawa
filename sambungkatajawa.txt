@@ -158,6 +158,7 @@ ambar
 ambek
 amben
 ambi
+ambigu
 ambil
 amboi
 ambruk
