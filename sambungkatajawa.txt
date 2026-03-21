@@ -54,6 +54,7 @@ aika
 aiko
 ail
 aila
+aina
 aing
 aini
 air
@@ -183,6 +184,7 @@ angklung
 angkruk
 angrek
 angsa
+angsal
 ani
 aniani
 anik
@@ -317,6 +319,7 @@ awan
 awang
 awas
 aweh
+awi
 awu
 ax
 ay
@@ -656,6 +659,7 @@ gang
 gange
 ganjil
 ganteng
+gap
 gaplek
 gapuk
 gapura
@@ -843,6 +847,7 @@ hei
 helo
 hem
 hemat
+hena
 her
 hera
 heran
@@ -907,6 +912,7 @@ ida
 ide
 idih
 idu
+idumu
 igo
 ih
 iha
