@@ -192,6 +192,7 @@ amii
 amik
 amil
 amin
+amir
 amis
 amit
 amoh
@@ -1986,6 +1987,7 @@ laler
 lali
 lam
 lama
+lamaran
 lambe
 lambemu
 lambene
@@ -2986,6 +2988,7 @@ pacul
 pada
 padae
 padang
+padhang
 pados
 padu
 pagar
@@ -3866,6 +3869,7 @@ uli
 ulih
 ulik
 ulo
+ulomo
 ulu
 ulun
 ulung
