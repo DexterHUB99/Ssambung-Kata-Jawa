@@ -1623,7 +1623,6 @@ auman
 aun
 auna
 aunan
-aunta
 aup
 aura
 aurip
@@ -7327,6 +7326,7 @@ kemas
 kemasan
 kemayu
 kembali
+kembalian
 kembang
 kembange
 kembar
@@ -10422,6 +10422,7 @@ ngarap
 ngarasa
 ngare
 ngarek
+ngareng
 ngareni
 ngarep
 ngarepan
@@ -10645,6 +10646,7 @@ ngeling
 ngelingi
 ngelirik
 ngelitik
+ngeliwati
 ngelmu
 ngelo
 ngeloh
@@ -11284,6 +11286,7 @@ ngrok
 ngrokok
 ngrumat
 ngrumpi
+ngrungokke
 ngrungu
 ngrus
 ngrusak
@@ -17009,6 +17012,7 @@ weso
 wet
 weta
 wetan
+wete
 weteng
 weton
 wetu
@@ -17068,6 +17072,7 @@ wio
 wir
 wira
 wirama
+wiran
 wirang
 wirangan
 wiraya
