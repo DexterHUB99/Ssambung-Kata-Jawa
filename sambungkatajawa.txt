@@ -2344,6 +2344,7 @@ ngajar
 ngajeng
 ngajeni
 ngaji
+ngak
 ngaka
 ngakak
 ngalah
@@ -2619,6 +2620,7 @@ nosi
 note
 nu
 nua
+nuduh
 nui
 nuku
 nul
