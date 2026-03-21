@@ -1862,6 +1862,7 @@ kelebu
 kelek
 kelimis
 kelingan
+keliru
 kelon
 kelor
 kelot
@@ -3618,6 +3619,7 @@ ruwet
 sa
 sabang
 sabar
+sabat
 saben
 sabtu
 sabuk
