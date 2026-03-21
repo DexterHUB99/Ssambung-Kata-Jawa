@@ -436,6 +436,7 @@ dokar
 dolan
 dosa
 duda
+dudo
 duha
 duit
 dukun
@@ -711,6 +712,7 @@ gudang
 gudeg
 gugah
 gugup
+gugur
 gula
 gulai
 gule
@@ -761,6 +763,7 @@ hamu
 hanacaraka
 hancur
 hani
+hano
 hantu
 hap
 hape
@@ -944,6 +947,7 @@ ipar
 ipe
 ipen
 ipi
+ipik
 ipin
 ipo
 ipun
@@ -1238,6 +1242,7 @@ kunang
 kunci
 kuning
 kuno
+kunti
 kuntul
 kuo
 kupas
@@ -1494,6 +1499,7 @@ nandur
 nanem
 nang
 nangdi
+nange
 nanggap
 nanggung
 nanging
@@ -1989,6 +1995,7 @@ rara
 rasa
 rasah
 rasi
+rasis
 raso
 rasu
 ratu
@@ -2007,6 +2014,7 @@ remes
 rencang
 rendang
 rendeng
+rendi
 repot
 rere
 resah
@@ -2172,6 +2180,7 @@ suk
 suka
 suki
 sukma
+suku
 sukun
 sulap
 suli
@@ -2184,6 +2193,7 @@ sun
 sunar
 sunyi
 sup
+supaya
 supe
 supi
 sura
@@ -2219,6 +2229,7 @@ tambal
 tambir
 tampar
 tamu
+tangan
 tanggal
 tani
 tansah
@@ -2523,6 +2534,7 @@ yapa
 yaping
 yati
 yawes
+yawis
 yaya
 yen
 yo
