@@ -356,6 +356,7 @@ asale
 asam
 asar
 asas
+ase
 asek
 asem
 asep
@@ -2170,6 +2171,7 @@ momumet
 mon
 mondok
 monggo
+monyet
 moret
 moro
 mos
@@ -3024,6 +3026,7 @@ rebus
 ree
 reget
 rejo
+rek
 reka
 rem
 remah
@@ -3417,6 +3420,7 @@ telek
 telenan
 telo
 telu
+telur
 teman
 tembok
 temen
@@ -3488,6 +3492,7 @@ tot
 toto
 towo
 toya
+tresno
 tu
 tua
 tuak
