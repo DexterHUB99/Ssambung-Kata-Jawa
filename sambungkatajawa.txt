@@ -462,6 +462,7 @@ bab
 babat
 babi
 babik
+babu
 bacok
 bae
 bagong
@@ -877,6 +878,7 @@ ero
 eroe
 eroh
 erong
+eror
 eru
 eruh
 es
@@ -1779,6 +1781,7 @@ kila
 kilat
 kili
 kima
+kimi
 kin
 kina
 kinasih
@@ -2388,6 +2391,7 @@ nekat
 neko
 nelen
 neles
+nelongso
 nem
 nembak
 nembang
