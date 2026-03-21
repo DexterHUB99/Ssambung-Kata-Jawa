@@ -651,6 +651,7 @@ dadar
 dadi
 dadu
 dagu
+dah
 dahar
 dahi
 daki
@@ -2271,6 +2272,7 @@ lurah
 lus
 lusa
 lusi
+lusuh
 luwe
 luweh
 luwih
@@ -2361,6 +2363,7 @@ melas
 melek
 meme
 memek
+mengko
 meni
 meong
 mer
@@ -3563,6 +3566,7 @@ salam
 salim
 sam
 sama
+sambal
 sambel
 sambi
 sambit
@@ -4093,6 +4097,7 @@ unduhe
 unduk
 undur
 unek
+ung
 unggah
 unggaran
 unggas
