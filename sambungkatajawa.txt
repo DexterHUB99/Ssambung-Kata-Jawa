@@ -685,6 +685,7 @@ gawean
 gawene
 gayuh
 ge
+gea
 geblek
 gedang
 gedangan
@@ -1152,6 +1153,7 @@ kangkung
 kanjeng
 kanjut
 kanthi
+kanti
 kantil
 kaos
 kapal
@@ -1161,6 +1163,7 @@ karepe
 karepmu
 kari
 karma
+karna
 karo
 kasar
 kasep
@@ -1716,6 +1719,7 @@ ngil
 ngilang
 ngilu
 ngimbar
+ngimpi
 nginthil
 ngintil
 ngintip
@@ -2003,6 +2007,7 @@ pia
 picara
 picek
 pie
+pii
 pikir
 pikun
 pilak
