@@ -1,6 +1,7 @@
 aa
 aae
 aah
+aba
 abah
 abai
 abang
@@ -102,6 +103,7 @@ ajeng
 aji
 ajine
 ajir
+ajo
 ajore
 ajur
 ak
@@ -2274,6 +2276,7 @@ makan
 maksa
 makul
 malaikat
+malam
 maling
 malu
 mam
@@ -2428,6 +2431,7 @@ mundur
 mung
 munggah
 mungkin
+mungkur
 muni
 muntah
 munyuk
@@ -3390,6 +3394,7 @@ rewang
 rewel
 ri
 ria
+rian
 riang
 ribet
 ribut
