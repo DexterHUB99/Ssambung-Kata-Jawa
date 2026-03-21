@@ -2402,6 +2402,7 @@ buntut
 bunuh
 bup
 bur
+buram
 burek
 burhan
 buri
