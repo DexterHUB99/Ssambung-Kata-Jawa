@@ -445,6 +445,7 @@ aweh
 awis
 awit
 awu
+awur
 ax
 ay
 aya
@@ -1345,6 +1346,7 @@ icip
 icu
 id
 ida
+idaman
 ide
 idep
 ider
@@ -1425,6 +1427,7 @@ imas
 imbah
 imbalan
 imbas
+imboh
 imbuh
 imbuhan
 imi
@@ -1527,6 +1530,7 @@ iso
 isoe
 isok
 isoma
+isor
 istana
 istilah
 istimewa
@@ -1873,6 +1877,7 @@ kora
 koran
 korban
 korek
+koreng
 kos
 kosan
 kosong
@@ -2571,6 +2576,7 @@ ngetok
 ngewang
 ngewe
 ngga
+nggae
 nggak
 nggambar
 nggatel
@@ -3000,6 +3006,7 @@ pean
 pedang
 pedot
 pegat
+pegel
 pek
 pekok
 pel
@@ -3056,6 +3063,7 @@ pir
 pira
 pirang
 piro
+pisa
 pisah
 pisan
 pisang
