@@ -427,6 +427,7 @@ bathuk
 bau
 bebek
 becak
+bedo
 bee
 bejat
 beko
@@ -896,6 +897,7 @@ gen
 gendar
 gendeng
 gendong
+gendut
 geng
 geni
 genteng
@@ -1686,6 +1688,7 @@ lanang
 landung
 langkah
 langsam
+langsing
 langu
 lantas
 laos
@@ -3392,6 +3395,7 @@ watak
 watu
 wayah
 wayang
+wea
 wedan
 wedang
 wedhang
@@ -3471,6 +3475,7 @@ yuka
 yuli
 yumi
 yura
+yus
 yusa
 yuyu
 zaman
