@@ -220,6 +220,7 @@ anek
 anep
 angan
 angat
+angel
 angelan
 angen
 anger
@@ -1592,6 +1593,7 @@ kersa
 kertas
 kesah
 keset
+kesusu
 ketan
 ketek
 ketik
@@ -2340,6 +2342,7 @@ ngopok
 ngori
 ngorok
 ngos
+ngosek
 ngowah
 ngowoh
 ngoyak
@@ -2514,6 +2517,7 @@ okok
 okoka
 okol
 okor
+okot
 okur
 okut
 olab
@@ -2614,6 +2618,7 @@ oyok
 oyot
 pa
 pacul
+pada
 padae
 padang
 padu
@@ -2657,6 +2662,7 @@ pel
 pelan
 peli
 peliku
+pelimu
 pelo
 pen
 penak
@@ -2933,6 +2939,7 @@ rumu
 rung
 rungkad
 runi
+runtuh
 rup
 rupo
 rus
@@ -3094,6 +3101,7 @@ sugih
 sui
 suk
 suka
+suker
 suket
 suki
 sukma
