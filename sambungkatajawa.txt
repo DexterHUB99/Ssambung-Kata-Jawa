@@ -355,6 +355,7 @@ asia
 asih
 asik
 asin
+asinan
 asing
 asli
 asline
@@ -2237,6 +2238,7 @@ ngaben
 ngacak
 ngace
 ngaceng
+ngacung
 ngada
 ngadem
 ngadep
@@ -2719,6 +2721,7 @@ pantat
 pante
 panti
 papa
+papah
 pareng
 pari
 paring
