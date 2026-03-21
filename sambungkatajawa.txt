@@ -1302,6 +1302,7 @@ kidul
 kidung
 kie
 kijang
+kijing
 kiki
 kikil
 kil
@@ -1474,6 +1475,7 @@ lili
 lilin
 lilir
 lilit
+lilo
 lim
 lima
 limbah
@@ -2155,6 +2157,7 @@ perak
 peso
 pi
 pia
+piano
 picara
 picek
 pie
