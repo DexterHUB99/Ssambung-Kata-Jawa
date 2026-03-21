@@ -1795,6 +1795,7 @@ kapal
 karang
 karat
 karbit
+kare
 karena
 karep
 karepe
@@ -2826,6 +2827,7 @@ ngori
 ngorok
 ngos
 ngosek
+ngosok
 ngowah
 ngowoh
 ngoyak
@@ -3166,6 +3168,7 @@ pala
 pali
 paling
 palu
+pam
 panas
 panci
 pandang
