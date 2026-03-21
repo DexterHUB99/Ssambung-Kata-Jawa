@@ -152,6 +152,7 @@ ana
 anak
 anakan
 anake
+anal
 anam
 anan
 anane
@@ -742,6 +743,7 @@ gese
 gesek
 geseng
 geser
+gete
 geto
 getuk
 gi
@@ -780,6 +782,7 @@ goreng
 gori
 goro
 gorok
+gorong
 gosok
 gosong
 got
@@ -929,6 +932,7 @@ hukum
 hulu
 human
 huni
+hura
 hurip
 huru
 hurung
@@ -1212,6 +1216,7 @@ kates
 kathok
 katok
 katup
+kawah
 kawan
 kawen
 kawin
@@ -1291,6 +1296,7 @@ kiri
 kirik
 kirim
 kisanak
+kit
 kita
 kitab
 kiwa
@@ -1587,6 +1593,7 @@ micek
 mika
 mikir
 mima
+mimi
 minggat
 mingkem
 minta
@@ -1691,6 +1698,7 @@ nem
 nembak
 nembe
 nembung
+nemen
 nempel
 nempik
 nemu
@@ -1796,6 +1804,7 @@ ngidam
 ngidu
 ngidul
 ngih
+ngijin
 ngikut
 ngil
 ngilang
@@ -2089,6 +2098,7 @@ pedang
 pedot
 pek
 pekok
+pel
 pelan
 peli
 peliku
@@ -2418,6 +2428,7 @@ sopan
 sopi
 sopir
 sopo
+sora
 sore
 sosis
 sowan
@@ -2517,6 +2528,7 @@ tempek
 tempik
 temu
 tenan
+teng
 terang
 teras
 terong
