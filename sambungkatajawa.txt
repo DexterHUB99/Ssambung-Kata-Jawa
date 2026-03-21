@@ -1728,7 +1728,6 @@ aye
 ayem
 ayeme
 ayen
-ayena
 ayep
 ayey
 ayi
@@ -6840,7 +6839,6 @@ kalangan
 kalangkung
 kalap
 kalapa
-kalar
 kalas
 kalasan
 kalawan
@@ -14784,6 +14782,7 @@ sepi
 sepiring
 sepiro
 sepo
+sepon
 sepuh
 sepuluh
 sepur
@@ -15558,6 +15557,7 @@ tatah
 tatai
 tatak
 tatakrama
+tatami
 tatan
 tatas
 tate
@@ -16148,7 +16148,6 @@ uget
 ugi
 ugik
 uging
-ugir
 ugo
 ugu
 ugul
