@@ -37,6 +37,7 @@ ahal
 aham
 ahan
 ahap
+ahar
 ahas
 ahat
 ahay
@@ -101,6 +102,7 @@ ako
 akoh
 akol
 akon
+akor
 akrab
 aksara
 aku
@@ -206,6 +208,7 @@ andung
 andus
 ane
 aneh
+anek
 anep
 angan
 angat
@@ -1337,6 +1340,7 @@ jeneng
 jer
 jero
 jidat
+jigong
 jijik
 jika
 jilat
@@ -2536,6 +2540,7 @@ pil
 pilak
 pilang
 pilek
+pilu
 pilus
 pinarak
 pincuk
@@ -2943,6 +2948,7 @@ sumuk
 sumur
 sun
 sunar
+sungkem
 sunyi
 sup
 supaya
