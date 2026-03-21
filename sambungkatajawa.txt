@@ -466,6 +466,7 @@ bila
 bin
 bingo
 bini
+bintul
 bis
 bisa
 bisik
@@ -1793,6 +1794,7 @@ lampu
 lamunan
 lan
 lanang
+landak
 landung
 langgeng
 langka
@@ -2506,6 +2508,7 @@ nuli
 nulis
 nulo
 nulung
+numan
 numbas
 numpak
 numpang
@@ -3619,6 +3622,7 @@ wadol
 wadon
 wadul
 wae
+wahana
 wajan
 wajik
 waktu
