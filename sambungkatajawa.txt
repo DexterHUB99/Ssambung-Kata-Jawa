@@ -2946,6 +2946,7 @@ dawa
 dawaan
 dawah
 dawet
+dawi
 dawir
 dawuh
 daya
@@ -9065,6 +9066,7 @@ maruk
 marus
 mas
 masa
+masaa
 masah
 masai
 masak
@@ -14775,7 +14777,6 @@ sepi
 sepiring
 sepiro
 sepo
-sepon
 sepuh
 sepuluh
 sepur
@@ -14914,6 +14915,7 @@ sima
 simak
 siman
 simbah
+simbat
 simbok
 sime
 simi
@@ -15549,7 +15551,6 @@ tatah
 tatai
 tatak
 tatakrama
-tatami
 tatan
 tatas
 tate
