@@ -5,7 +5,6 @@ abai
 abang
 abi
 abu
-ad
 ada
 adai
 adegan
@@ -283,8 +282,8 @@ as
 asa
 asai
 asal
-asale
 asam
+asap
 asar
 asas
 asek
@@ -450,14 +449,12 @@ coro
 cuci
 cucu
 curut
-da
 dada
 dadang
 dadar
 dadi
 dahi
 dalam
-dam
 dama
 damel
 dan
@@ -491,9 +488,7 @@ diri
 diso
 dodi
 dokar
-dol
 dolan
-dolanan
 dosa
 duda
 dudo
@@ -693,7 +688,6 @@ gali
 galih
 gambang
 gambar
-gambas
 gamelan
 gampar
 gampil
@@ -973,6 +967,7 @@ ica
 icip
 ida
 ide
+idi
 idih
 idu
 igo
@@ -1062,6 +1057,7 @@ insyaallah
 intine
 intip
 inul
+ip
 ipa
 ipan
 ipar
@@ -1134,6 +1130,7 @@ iwan
 iwang
 iwenan
 ix
+iy
 iya
 iyan
 iyo
@@ -1307,6 +1304,7 @@ kidul
 kidung
 kie
 kijang
+kijing
 kiki
 kikil
 kil
@@ -1479,6 +1477,7 @@ lili
 lilin
 lilir
 lilit
+lilo
 lim
 lima
 limbah
@@ -1642,7 +1641,6 @@ misuh
 modar
 modo
 modus
-modyar
 mogok
 moh
 mok
@@ -2003,7 +2001,6 @@ ob
 obah
 obak
 obat
-obeng
 obong
 obor
 obral
@@ -2111,7 +2108,6 @@ owah
 ox
 oyok
 oyot
-pa
 pacul
 padang
 padu
@@ -2163,12 +2159,12 @@ perak
 peso
 pi
 pia
+piano
 picara
 picek
 pie
 pikir
 pikun
-pil
 pilak
 pilang
 pilek
@@ -2350,6 +2346,7 @@ romi
 romo
 rompi
 rondo
+rono
 roro
 rosa
 rosi
@@ -2403,6 +2400,7 @@ sampah
 sampai
 sampean
 samper
+samping
 sampo
 sampun
 sandang
@@ -2657,7 +2655,6 @@ uan
 uang
 uban
 ubang
-ubel
 ubi
 ubii
 ubuna
@@ -2680,7 +2677,6 @@ uha
 uhe
 uhi
 uho
-ui
 uja
 uji
 ujian
