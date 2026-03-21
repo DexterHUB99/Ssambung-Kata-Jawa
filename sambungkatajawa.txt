@@ -407,6 +407,7 @@ akap
 akar
 akara
 akare
+akarya
 akas
 akasa
 akasi
@@ -2712,6 +2713,7 @@ colong
 com
 combi
 combro
+come
 comi
 como
 comot
