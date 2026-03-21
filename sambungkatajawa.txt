@@ -942,6 +942,7 @@ ilmu
 ilok
 ilon
 ilu
+iluk
 im
 ima
 imam
@@ -1762,6 +1763,7 @@ nnono
 no
 nobat
 noh
+nohi
 nok
 nol
 noleh
@@ -2528,6 +2530,7 @@ usa
 usah
 usaha
 usai
+usan
 usek
 usi
 usia
