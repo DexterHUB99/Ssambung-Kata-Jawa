@@ -2034,6 +2034,7 @@ mantep
 mantepe
 manuk
 manukku
+mapan
 mara
 marah
 maras
@@ -3541,6 +3542,7 @@ umak
 uman
 umar
 umbah
+umbahna
 umbar
 umbel
 umbul
