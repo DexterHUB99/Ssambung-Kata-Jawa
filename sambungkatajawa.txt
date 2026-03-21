@@ -4699,6 +4699,7 @@ gebuki
 gebyar
 gedag
 gedang
+gedangan
 gede
 gedean
 gedee
