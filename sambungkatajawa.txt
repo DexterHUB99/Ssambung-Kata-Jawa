@@ -457,6 +457,7 @@ bisik
 bisiki
 bismillah
 bisu
+bocah
 bodoh
 bojo
 bolo
@@ -2176,6 +2177,7 @@ ngasu
 ngasuh
 ngatur
 ngawi
+ngawor
 ngawur
 ngayuh
 nge
@@ -3236,6 +3238,7 @@ uhe
 uhi
 uho
 ui
+uing
 uja
 ujar
 uji
