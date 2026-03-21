@@ -271,6 +271,7 @@ anggar
 anggaran
 angger
 anggon
+anggota
 anggur
 angin
 angka
@@ -286,6 +287,7 @@ anik
 anis
 anisa
 aniy
+anjani
 anjar
 anjas
 anjay
@@ -3991,6 +3993,7 @@ uho
 ui
 uing
 uja
+ujan
 ujar
 uji
 ujian
