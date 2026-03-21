@@ -886,6 +886,7 @@ gandrung
 gandul
 gang
 gange
+ganja
 ganjil
 ganteng
 ganti
@@ -2153,6 +2154,7 @@ nanya
 naon
 nap
 napa
+napak
 napas
 napi
 napo
