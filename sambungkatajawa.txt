@@ -3583,6 +3583,7 @@ ekad
 ekae
 ekag
 ekah
+ekai
 ekak
 ekal
 ekali
