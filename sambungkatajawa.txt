@@ -1715,6 +1715,7 @@ kos
 kosan
 kosong
 kota
+kotak
 kotang
 kowe
 koyo
@@ -2288,6 +2289,7 @@ ngari
 ngarit
 ngaruh
 ngasah
+ngasak
 ngasek
 ngasi
 ngasih
@@ -2698,6 +2700,7 @@ pahit
 paing
 pait
 pakir
+pako
 pal
 paling
 palu
@@ -2876,6 +2879,7 @@ randu
 rang
 rangga
 rani
+rante
 ranti
 rao
 raono
@@ -2919,6 +2923,7 @@ remes
 remi
 remok
 rempeyek
+rempon
 remuk
 rencang
 rendang
