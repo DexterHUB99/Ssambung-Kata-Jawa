@@ -805,6 +805,7 @@ ele
 eleh
 elek
 elem
+elemen
 eleng
 eles
 eli
@@ -2395,6 +2396,7 @@ molok
 mom
 momumet
 mon
+mona
 mondok
 monggo
 monyet
