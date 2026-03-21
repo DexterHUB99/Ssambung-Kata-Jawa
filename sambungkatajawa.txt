@@ -531,6 +531,7 @@ bin
 bindeng
 bingo
 bini
+bintang
 bintul
 bir
 bis
@@ -2037,6 +2038,7 @@ lamon
 lamongan
 lampit
 lampu
+lampung
 lamunan
 lan
 lanang
@@ -3132,6 +3134,7 @@ picara
 picek
 pie
 pikir
+pikul
 pikun
 pil
 pilah
@@ -3255,12 +3258,14 @@ rak
 rako
 raku
 rakus
+ram
 rama
 ramah
 ramai
 rambak
 rambu
 rambut
+rambutan
 rame
 rampung
 ramu
@@ -3281,6 +3286,7 @@ rapa
 rapi
 rapina
 rapopo
+rapu
 rapuh
 rara
 ras
@@ -3760,6 +3766,7 @@ tetelan
 tiba
 tibak
 tibo
+tik
 tikung
 tikus
 tilam
