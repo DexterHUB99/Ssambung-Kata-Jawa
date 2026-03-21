@@ -2260,6 +2260,7 @@ bom
 bon
 bona
 bonang
+bonceng
 bone
 bonek
 bong
@@ -10375,6 +10376,7 @@ ngaseh
 ngasek
 ngasem
 ngasep
+ngaser
 ngasi
 ngasih
 ngasihi
