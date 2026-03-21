@@ -41,6 +41,7 @@ aie
 aika
 aiko
 ail
+aila
 aing
 air
 aira
@@ -309,6 +310,7 @@ coli
 cuci
 cucu
 curut
+dadar
 dadi
 dama
 damel
@@ -418,6 +420,7 @@ ero
 eroh
 eru
 esih
+esil
 esok
 esuk
 eta
@@ -633,6 +636,7 @@ ibune
 ica
 icip
 ida
+ide
 idih
 idu
 ih
@@ -832,6 +836,7 @@ kekel
 kel
 kelebu
 kelek
+kelon
 kelor
 kelum
 kembang
@@ -964,6 +969,7 @@ lemper
 lemu
 lengkuas
 leper
+leres
 lesehan
 lewih
 lia
@@ -1403,6 +1409,7 @@ pikir
 pikun
 pilak
 pinarak
+pindah
 ping
 pintu
 pipi
@@ -1467,6 +1474,7 @@ randu
 rangga
 ranti
 raono
+rapi
 rapina
 rapopo
 rara
@@ -1650,6 +1658,7 @@ tapir
 tara
 taro
 tatak
+tawa
 tel
 tela
 telu
@@ -1662,6 +1671,7 @@ terong
 tete
 tibo
 tikus
+tilam
 tilep
 timah
 timi
@@ -1783,6 +1793,7 @@ upaya
 upi
 upil
 ura
+uraan
 urai
 urak
 urakan
@@ -1877,4 +1888,5 @@ yoyo
 yuk
 yuka
 yura
+yusa
 yuyu
