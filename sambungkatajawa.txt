@@ -1804,6 +1804,7 @@ nyonya
 nyuwi
 oalah
 ob
+oba
 obah
 obak
 obat
@@ -2111,6 +2112,7 @@ risih
 ro
 rok
 rokaat
+rokok
 romah
 rombeng
 rombongan
@@ -2221,6 +2223,7 @@ sisi
 siti
 siwa
 so
+sodaqoh
 sok
 sokor
 sol
