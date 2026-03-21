@@ -981,6 +981,7 @@ galengan
 galer
 gali
 galih
+galon
 gaman
 gambang
 gambar
@@ -2209,6 +2210,7 @@ madu
 madukara
 madura
 mae
+mager
 mah
 mahal
 main
