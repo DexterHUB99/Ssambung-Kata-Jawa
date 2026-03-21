@@ -34,6 +34,7 @@ aeng
 aengi
 af
 afi
+agem
 agil
 agit
 agung
@@ -79,6 +80,7 @@ aika
 aiko
 ail
 aila
+aina
 aing
 aini
 aio
@@ -1258,6 +1260,7 @@ heh
 hehe
 hei
 hela
+hele
 heli
 helo
 hem
@@ -3338,6 +3341,7 @@ runtuh
 rup
 rupa
 rupo
+rurumah
 rus
 rusa
 rusak
