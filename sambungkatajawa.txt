@@ -43,6 +43,7 @@ ahas
 ahat
 ahay
 ahe
+ahek
 ahem
 ahh
 ahi
@@ -286,6 +287,7 @@ ape
 apeh
 apek
 apeking
+apel
 apem
 apes
 api
@@ -913,6 +915,7 @@ gentong
 ger
 gera
 gerak
+gerang
 gering
 gese
 gesek
@@ -1772,6 +1775,7 @@ lipi
 lira
 lirih
 liro
+lis
 lisah
 lisi
 litah
@@ -1988,6 +1992,7 @@ mumbul
 mumet
 mundak
 mundur
+mung
 munggah
 mungkin
 muni
@@ -2152,6 +2157,7 @@ ngasing
 ngaso
 ngasu
 ngasuh
+ngatur
 ngawi
 ngawur
 ngayuh
