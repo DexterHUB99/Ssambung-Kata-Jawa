@@ -5781,7 +5781,6 @@ ijig
 ijik
 ijil
 ijin
-ijir
 ijo
 ijok
 ijol
@@ -9853,7 +9852,6 @@ nasia
 nasib
 nasii
 nasikuning
-nasiliwet
 nasine
 nasipecel
 nasta
