@@ -4002,6 +4002,7 @@ ngilang
 ngilap
 ngiler
 ngilir
+ngilo
 ngilu
 ngimbar
 ngimbohi
