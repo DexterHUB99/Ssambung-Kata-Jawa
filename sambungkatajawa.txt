@@ -949,6 +949,7 @@ celana
 celek
 celeng
 celengan
+cemen
 cemeng
 cenil
 cewek
@@ -2933,6 +2934,7 @@ kimi
 kin
 kina
 kinan
+kinanthi
 kinanti
 kinasih
 kini
@@ -5210,6 +5212,7 @@ remas
 rembang
 rembukan
 rembulan
+rembune
 reme
 remeh
 remeng
