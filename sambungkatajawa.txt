@@ -348,7 +348,6 @@ amok
 amon
 among
 amoro
-amoy
 ampal
 ampar
 ampas
@@ -814,6 +813,7 @@ batik
 batuk
 batur
 bau
+bawak
 bayi
 be
 bebe
@@ -1249,11 +1249,13 @@ ealah
 ebah
 eban
 ebi
+ecer
 eco
 ed
 eda
 edah
 edan
+edane
 edanwa
 edar
 edi
@@ -2352,7 +2354,6 @@ iku
 ikui
 ikulo
 ikuo
-ikus
 ikut
 ikutan
 il
@@ -2777,6 +2778,7 @@ kalah
 kalak
 kalap
 kale
+kaleg
 kaleh
 kalem
 kaleng
@@ -6046,7 +6048,6 @@ susuku
 susul
 susumu
 susun
-susut
 susuwi
 suti
 sutil
@@ -6268,6 +6269,7 @@ toe
 toh
 tok
 tokek
+toko
 tolak
 tole
 toleh
@@ -6808,6 +6810,7 @@ wedus
 wee
 wek
 wektu
+welah
 welas
 wele
 wen
@@ -6838,6 +6841,7 @@ wiko
 wilan
 wilangan
 win
+wina
 windu
 wine
 wingi
@@ -6937,6 +6941,7 @@ yolo
 yom
 yoma
 yoman
+yomen
 yomi
 yon
 yonan
