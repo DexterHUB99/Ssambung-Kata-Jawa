@@ -310,6 +310,7 @@ ano
 anom
 anoman
 anop
+anta
 antam
 antar
 antara
@@ -1825,6 +1826,7 @@ karet
 kari
 karma
 karo
+karpet
 karung
 kasar
 kasep
@@ -2892,12 +2894,14 @@ ngulo
 ngulon
 ngulup
 ngumbah
+ngumbahi
 ngumi
 ngumpet
 ngumpul
 ngundang
 ngunduh
 nguning
+ngunjuk
 nguntal
 ngunu
 ngupil
