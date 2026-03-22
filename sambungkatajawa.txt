@@ -285,6 +285,7 @@ anar
 anas
 anasi
 anat
+ancas
 ancen
 anci
 anco
@@ -1105,6 +1106,7 @@ erak
 eram
 erang
 erap
+erasi
 erat
 erata
 ere
@@ -1926,6 +1928,7 @@ isue
 isuk
 isun
 isya
+it
 ita
 itae
 ite
@@ -5197,6 +5200,7 @@ yere
 yeye
 yi
 yo
+yoa
 yoan
 yoga
 yogo
