@@ -2348,6 +2348,7 @@ isien
 isih
 isii
 isin
+isine
 ising
 isis
 iska
@@ -3783,6 +3784,7 @@ natap
 nate
 nature
 nawar
+nawari
 ndak
 ndang
 ndangan
@@ -3790,6 +3792,7 @@ ndas
 ndelok
 nderek
 ndeso
+ndlogok
 nduk
 ne
 nebang
@@ -4481,6 +4484,7 @@ okut
 ol
 olab
 olah
+olaha
 olahraga
 olak
 olam
