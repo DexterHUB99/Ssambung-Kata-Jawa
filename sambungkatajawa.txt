@@ -1,7 +1,6 @@
 aa
 aae
 aah
-ab
 aba
 abab
 abah
@@ -63,6 +62,7 @@ aeng
 aengi
 af
 afa
+afah
 afi
 afif
 agama
@@ -199,6 +199,7 @@ akhir
 akhirat
 aki
 akia
+akif
 akih
 akii
 akik
@@ -746,7 +747,6 @@ ayu
 ayuh
 ayuk
 az
-ba
 bab
 babai
 babat
@@ -796,7 +796,6 @@ batuk
 batur
 bau
 bayi
-be
 bebe
 bebek
 becak
@@ -1574,7 +1573,6 @@ fafa
 fajar
 fantasi
 fase
-fisik
 fix
 fungsi
 ga
@@ -1595,6 +1593,7 @@ gagak
 gagal
 gagang
 gagap
+gagar
 gagasan
 gagu
 gah
@@ -1710,6 +1709,7 @@ gatak
 gatau
 gatel
 gateli
+gathel
 gati
 gatot
 gaul
@@ -1790,7 +1790,6 @@ genjik
 geno
 genteng
 genti
-genting
 gentong
 genuk
 geo
@@ -2669,6 +2668,7 @@ kadal
 kadang
 kados
 kadung
+kadut
 kae
 kagem
 kagungan
@@ -2901,7 +2901,6 @@ kencot
 kencur
 kendang
 kendi
-kendil
 kene
 kenek
 keni
@@ -3126,7 +3125,6 @@ ku
 kua
 kuasa
 kuat
-kubur
 kucing
 kucur
 kuda
@@ -3301,7 +3299,6 @@ lasi
 lata
 latah
 latar
-lathi
 lati
 latih
 laut
@@ -3345,6 +3342,7 @@ lemu
 lenggah
 lengkuas
 lengo
+lentong
 leper
 ler
 lera
@@ -3353,6 +3351,7 @@ leren
 leres
 leri
 leru
+lese
 lesehan
 lesu
 lesung
@@ -3874,6 +3873,7 @@ naka
 nakal
 nakali
 naker
+naki
 nako
 nakon
 nakoni
@@ -3993,6 +3993,7 @@ nela
 nelen
 neles
 nelesi
+neli
 nelit
 nelongso
 nem
@@ -4217,7 +4218,6 @@ ngelmu
 ngelom
 ngelu
 ngelumpuk
-ngelunja
 ngem
 ngembeh
 ngemen
@@ -4266,7 +4266,6 @@ ngg
 ngga
 nggae
 nggak
-nggali
 nggambar
 nggambuh
 nggatel
@@ -4624,7 +4623,6 @@ nyedi
 nyenul
 nyepi
 nyerat
-nyi
 nying
 nyolong
 nyong
@@ -5976,6 +5974,7 @@ tati
 tatu
 taun
 tawa
+tawaf
 tawon
 te
 tebu
@@ -6165,7 +6164,6 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
-tumpul
 tumut
 tun
 tuna
@@ -6196,7 +6194,6 @@ ua
 uan
 uana
 uang
-ub
 uba
 uban
 ubang
@@ -6665,7 +6662,6 @@ wisata
 wisuh
 wit
 witing
-wito
 wiwi
 wiwit
 wo
