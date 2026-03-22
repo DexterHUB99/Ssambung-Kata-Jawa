@@ -3597,6 +3597,7 @@ pegat
 pegel
 peju
 pek
+peki
 peking
 pekok
 pel
