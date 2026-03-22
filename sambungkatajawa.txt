@@ -743,6 +743,7 @@ cawis
 cecak
 cecek
 cega
+cekap
 celek
 celeng
 celengan
@@ -3413,6 +3414,7 @@ ngising
 ngisor
 ngisui
 ngitung
+ngka
 ngko
 nglonte
 nglor
@@ -3884,6 +3886,7 @@ pantes
 panti
 papa
 papah
+papan
 papi
 para
 parah
