@@ -1560,6 +1560,7 @@ gagap
 gagasan
 gagu
 gah
+gairah
 gaja
 gajah
 gaje
@@ -5979,6 +5980,7 @@ tiris
 tiru
 tisu
 tit
+tita
 titi
 titid
 titik
@@ -6425,6 +6427,7 @@ utekmu
 utel
 uter
 uti
+utih
 utik
 uting
 uto
