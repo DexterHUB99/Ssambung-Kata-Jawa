@@ -4384,6 +4384,7 @@ punten
 punya
 pupuk
 pura
+purek
 puri
 purun
 purut
@@ -4887,6 +4888,7 @@ siwa
 so
 soasu
 sobat
+sobin
 soca
 sodara
 sogok
