@@ -1144,6 +1144,7 @@ gandheng
 gandrung
 gandul
 gang
+gangan
 gange
 ganggu
 gangsal
@@ -4422,6 +4423,7 @@ ulas
 ulat
 ule
 ulek
+ulekan
 ulem
 ulen
 uler
