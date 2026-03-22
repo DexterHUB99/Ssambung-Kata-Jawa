@@ -783,6 +783,7 @@ bai
 bajak
 bajigur
 bajingan
+baju
 bak
 bakoh
 bakti
@@ -979,7 +980,6 @@ candi
 cangkruk
 cantik
 cape
-capung
 care
 cari
 cas
@@ -1589,6 +1589,7 @@ etul
 etum
 etur
 etus
+evan
 ew
 ewa
 ewae
@@ -2891,7 +2892,6 @@ kates
 kathah
 kathok
 kati
-katil
 katok
 katon
 katrok
@@ -2933,6 +2933,7 @@ kela
 kelabang
 kelakuan
 kelam
+kelambe
 kelangan
 kelap
 kelar
@@ -3779,6 +3780,7 @@ megatruh
 meh
 meja
 mekar
+mekaten
 meki
 melas
 melek
@@ -3910,6 +3912,7 @@ mul
 mula
 mulae
 mulai
+mulane
 mulang
 mule
 muleh
@@ -4906,6 +4909,7 @@ oraiso
 orak
 oran
 orang
+orangutan
 oraono
 orapapa
 orapopo
@@ -5329,6 +5333,7 @@ raja
 rajae
 rajah
 rajin
+raju
 rajungan
 rajut
 rak
@@ -5737,7 +5742,6 @@ sasa
 sasi
 sastra
 sate
-satos
 satria
 satu
 saung
@@ -6043,6 +6047,7 @@ ta
 taa
 taat
 taati
+tabek
 tabuh
 tabung
 tae
@@ -6559,6 +6564,7 @@ unta
 untah
 untal
 untel
+unter
 untir
 untu
 untuk
