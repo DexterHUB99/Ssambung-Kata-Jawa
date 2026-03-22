@@ -3154,6 +3154,7 @@ kuna
 kunang
 kunci
 kundur
+kune
 kung
 kuning
 kuno
@@ -4285,6 +4286,7 @@ ngilap
 ngiler
 ngilir
 ngilo
+ngilon
 ngilu
 ngimbar
 ngimbohi
