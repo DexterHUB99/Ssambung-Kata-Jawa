@@ -996,9 +996,11 @@ butek
 buti
 butuh
 buwa
+ca
 cabe
 caca
 cacar
+cacat
 caci
 cacing
 cagak
@@ -3276,6 +3278,7 @@ kopet
 kopi
 kopita
 koplak
+koplakndasmu
 koplo
 kopok
 kopyor
