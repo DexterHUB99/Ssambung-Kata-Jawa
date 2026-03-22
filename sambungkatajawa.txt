@@ -2743,6 +2743,7 @@ lus
 lusa
 lusi
 lusuh
+lut
 luwe
 luweh
 luwih
