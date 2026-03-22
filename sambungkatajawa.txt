@@ -694,6 +694,7 @@ atar
 atari
 atas
 ate
+ateh
 atek
 atem
 atene
@@ -826,7 +827,6 @@ bara
 bas
 basi
 basoka
-basu
 batal
 batang
 bathuk
@@ -1025,7 +1025,6 @@ celeng
 celengan
 cemen
 cemeng
-cengkeh
 cenil
 cepak
 cerah
@@ -1486,7 +1485,6 @@ enggal
 enggan
 enggar
 enggeh
-enggen
 enggih
 engkang
 engklek
