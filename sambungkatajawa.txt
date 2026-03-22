@@ -924,6 +924,7 @@ cecak
 cecek
 cega
 cekap
+celana
 celek
 celeng
 celengan
@@ -1463,6 +1464,7 @@ etek
 etel
 eter
 etes
+etet
 eti
 etik
 etika
@@ -1472,6 +1474,7 @@ eto
 etok
 etol
 etos
+etot
 etu
 etuk
 etul
@@ -3090,6 +3093,7 @@ laban
 labe
 labet
 labu
+labuh
 lacut
 lagek
 lagi
@@ -6209,6 +6213,7 @@ upah
 upan
 upang
 upaya
+upe
 upel
 upi
 upik
