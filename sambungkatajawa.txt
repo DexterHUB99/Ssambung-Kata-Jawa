@@ -5534,6 +5534,7 @@ sodara
 sodor
 sogok
 sok
+soko
 sokor
 sol
 sola
