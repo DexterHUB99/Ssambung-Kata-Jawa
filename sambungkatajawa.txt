@@ -1263,6 +1263,7 @@ garai
 garang
 garangan
 garap
+garasi
 garda
 garem
 gareng
@@ -1803,6 +1804,7 @@ imuh
 imut
 in
 ina
+inah
 inak
 inang
 inda
@@ -1968,6 +1970,7 @@ jamu
 jancok
 jancuk
 janda
+janga
 jangkrik
 janji
 jaran
@@ -2955,6 +2958,7 @@ nabrak
 nabuh
 nabung
 nada
+nadah
 nadi
 nae
 nafas
@@ -5147,6 +5151,7 @@ xenon
 xilofon
 xray
 ya
+yaa
 yadi
 yah
 yaha
