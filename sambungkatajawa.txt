@@ -958,6 +958,7 @@ daki
 daku
 dalam
 dalan
+dalang
 dalem
 dalih
 dalo
@@ -1068,6 +1069,7 @@ domba
 dompet
 dongkrak
 doni
+dono
 dor
 doro
 dosa
@@ -1425,6 +1427,7 @@ ewi
 ewis
 ewoh
 ewohe
+ewok
 ex
 eya
 eyang
@@ -4161,6 +4164,7 @@ ninggal
 ningsih
 nini
 nining
+nipa
 nipis
 nipon
 nipu
@@ -5252,6 +5256,7 @@ sidang
 sih
 siji
 sika
+sikan
 sikat
 sikil
 siku
