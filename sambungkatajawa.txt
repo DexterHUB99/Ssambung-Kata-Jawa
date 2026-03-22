@@ -639,6 +639,7 @@ bee
 bego
 bejan
 bejat
+bejo
 beko
 bel
 belang
