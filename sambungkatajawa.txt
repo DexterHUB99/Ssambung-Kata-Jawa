@@ -1700,6 +1700,7 @@ hapa
 hape
 hapi
 hapus
+hapusi
 har
 hara
 haram
@@ -3796,6 +3797,7 @@ nima
 niman
 nimba
 nimbang
+nimbul
 nimo
 nin
 nina
@@ -4809,6 +4811,7 @@ siapa
 siapo
 sida
 sidang
+sih
 siji
 sika
 sikat
