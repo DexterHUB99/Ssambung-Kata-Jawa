@@ -2238,6 +2238,7 @@ harian
 harimau
 harimu
 hariono
+harjo
 harma
 harta
 haru
@@ -2462,6 +2463,7 @@ ika
 ikae
 ikal
 ikan
+ikar
 ikas
 ikat
 ikatan
