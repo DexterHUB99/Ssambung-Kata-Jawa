@@ -299,6 +299,7 @@ angin
 angka
 angklung
 angkruk
+angkuh
 anglo
 angon
 angrek
@@ -2210,6 +2211,7 @@ kuo
 kupas
 kupi
 kuping
+kupu
 kur
 kura
 kurang
