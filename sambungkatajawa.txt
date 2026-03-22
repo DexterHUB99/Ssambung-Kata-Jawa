@@ -2427,6 +2427,7 @@ iska
 islam
 islo
 isma
+ismi
 iso
 isoe
 isok
@@ -5109,6 +5110,7 @@ raga
 ragat
 ragelem
 ragi
+ragil
 rah
 raha
 rahayu
@@ -6146,6 +6148,7 @@ ug
 uga
 ugah
 ugal
+ugar
 uge
 ugo
 ugu
