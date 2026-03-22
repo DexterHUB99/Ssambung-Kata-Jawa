@@ -944,7 +944,6 @@ dimana
 dimas
 din
 dina
-dinae
 dingin
 dino
 dinten
@@ -2106,6 +2105,7 @@ isan
 isanan
 isap
 ise
+isee
 isek
 iseng
 isep
@@ -2196,7 +2196,6 @@ jarak
 jaran
 jarang
 jare
-jari
 jarik
 jarit
 jasa
@@ -2216,7 +2215,6 @@ jenang
 jeneng
 jenengan
 jer
-jerami
 jero
 jeruk
 jidat
@@ -2461,7 +2459,6 @@ kemang
 kemas
 kembali
 kembang
-kemben
 kemeng
 kemi
 kempel
@@ -2800,7 +2797,6 @@ lantar
 lantas
 lanting
 lantun
-lantur
 laos
 lapang
 lapis
@@ -2838,7 +2834,6 @@ lebur
 lee
 lega
 legi
-leh
 lek
 leker
 lekoh
@@ -3150,7 +3145,6 @@ mayak
 mayu
 mbak
 mben
-mbok
 mboke
 mboten
 me
@@ -3520,7 +3514,6 @@ ngalem
 ngaler
 ngali
 ngalor
-ngalus
 ngamal
 ngaman
 ngamar
@@ -3678,7 +3671,6 @@ nggayuh
 nggeh
 nggih
 nggo
-nggoe
 nggolek
 nggoni
 nggowo
@@ -4212,6 +4204,7 @@ panah
 panas
 pancen
 panci
+pandan
 pandang
 pandawa
 pandu
@@ -4432,7 +4425,6 @@ pulau
 puli
 pulo
 puma
-pun
 puncak
 pundi
 punten
@@ -4998,7 +4990,6 @@ sue
 sugeh
 sugeng
 sugih
-suh
 sui
 suk
 suka
@@ -5204,7 +5195,6 @@ tila
 tilam
 tilas
 tilem
-tilen
 tilep
 tim
 timah
@@ -5268,7 +5258,6 @@ toto
 towo
 toya
 tresno
-trotoar
 tu
 tua
 tuak
@@ -5279,7 +5268,6 @@ tukang
 tukaran
 tuki
 tuku
-tukue
 tukul
 tul
 tulan
@@ -5321,7 +5309,6 @@ tusuk
 tut
 tuta
 tuti
-tutuk
 tutup
 tutur
 tuwa
@@ -5600,7 +5587,6 @@ usil
 usir
 usiro
 uso
-usrek
 ustadz
 usu
 usuk
