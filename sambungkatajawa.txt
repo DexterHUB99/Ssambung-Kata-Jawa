@@ -798,6 +798,7 @@ dedak
 dedek
 deket
 dele
+delima
 delman
 demek
 demit
@@ -1677,6 +1678,7 @@ ihe
 ihi
 ihka
 ihna
+iho
 ihre
 ihri
 ihsan
