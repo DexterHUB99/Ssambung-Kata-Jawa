@@ -2689,6 +2689,7 @@ musuh
 muti
 na
 nabi
+nabok
 nabrak
 nada
 nae
@@ -4214,6 +4215,7 @@ tikung
 tikus
 tila
 tilam
+tilas
 tilem
 tilep
 tim
