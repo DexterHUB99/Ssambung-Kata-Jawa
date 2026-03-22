@@ -3075,6 +3075,8 @@ moh
 moha
 mojo
 mok
+mol
+molak
 mole
 moleh
 molen
