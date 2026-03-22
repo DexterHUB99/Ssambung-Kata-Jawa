@@ -3832,6 +3832,7 @@ ngepel
 ngepet
 ngepi
 ngepot
+ngerai
 ngerak
 ngere
 ngerem
@@ -4237,6 +4238,7 @@ okor
 okot
 okur
 okut
+ol
 olab
 olah
 olahraga
@@ -5409,6 +5411,7 @@ telinga
 telo
 telon
 telu
+teluk
 telur
 tem
 teman
@@ -5769,6 +5772,7 @@ ungkara
 ungker
 ungu
 uni
+unila
 uninga
 unjang
 unjuk
