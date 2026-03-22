@@ -940,6 +940,7 @@ cakra
 cakul
 calo
 campur
+cancut
 candi
 cangkruk
 cantik
@@ -2516,6 +2517,7 @@ jaka
 jala
 jalan
 jali
+jalu
 jaluk
 jam
 jamal
@@ -3588,6 +3590,7 @@ mangu
 mani
 maning
 manis
+manja
 manjing
 manjur
 mantap
@@ -5986,6 +5989,7 @@ terima
 ternak
 terong
 terus
+tesa
 tetan
 tete
 tetek
