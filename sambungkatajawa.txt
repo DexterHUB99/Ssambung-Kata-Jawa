@@ -1391,6 +1391,7 @@ hasan
 hasem
 hasi
 hasil
+haso
 hasrat
 hasta
 hasut
@@ -2314,6 +2315,7 @@ lipen
 lipi
 lira
 lirih
+lirik
 liro
 lis
 lisah
@@ -2926,6 +2928,7 @@ nglor
 ngluku
 ngobah
 ngobat
+ngobrol
 ngocok
 ngodok
 ngojek
