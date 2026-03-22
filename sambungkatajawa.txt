@@ -570,6 +570,7 @@ basi
 bathuk
 batik
 batuk
+batur
 bau
 bayi
 bebe
@@ -1806,6 +1807,7 @@ isih
 isin
 ising
 isis
+iska
 islam
 islo
 iso
@@ -4011,6 +4013,7 @@ rusak
 ruska
 rusuh
 rutin
+ruwah
 ruwat
 ruwet
 sa
