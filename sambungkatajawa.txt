@@ -158,6 +158,7 @@ aini
 aio
 air
 aira
+aire
 aisin
 aita
 aiwa
@@ -1416,6 +1417,7 @@ ekak
 ekal
 ekan
 ekar
+ekas
 ekay
 eke
 ekeh
@@ -3430,6 +3432,7 @@ kowe
 kowen
 koyak
 koyo
+koyoi
 koyok
 kram
 krama
