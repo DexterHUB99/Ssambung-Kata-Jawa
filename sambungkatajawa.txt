@@ -1327,6 +1327,7 @@ gotong
 gowo
 goyang
 griya
+grobak
 gu
 gudang
 gudeg
@@ -3489,6 +3490,7 @@ peniti
 pensil
 pentil
 penyu
+pepe
 pepek
 pepes
 perak
