@@ -1272,6 +1272,7 @@ dok
 dokar
 doko
 dol
+dola
 dolan
 dolanan
 doma
@@ -5629,6 +5630,7 @@ purun
 purut
 pusa
 pusaka
+puser
 pusing
 puta
 puti
