@@ -429,6 +429,7 @@ anus
 anyam
 anyar
 anyep
+anyer
 anying
 anyir
 anyong
@@ -903,6 +904,7 @@ dede
 dedek
 deket
 dele
+deli
 delima
 delman
 demek
@@ -4371,6 +4373,7 @@ poti
 potongan
 puan
 puasa
+puja
 puk
 puki
 pukul
