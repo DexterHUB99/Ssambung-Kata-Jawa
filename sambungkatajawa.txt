@@ -318,6 +318,7 @@ amin
 amir
 amis
 amit
+amo
 amoh
 amok
 amon
@@ -795,6 +796,7 @@ bene
 bener
 bengi
 benjol
+bentol
 berak
 berani
 beri
@@ -1160,6 +1162,7 @@ dulur
 dumeh
 dungo
 dungu
+duni
 dupa
 dupak
 dupo
@@ -4916,6 +4919,7 @@ pilot
 pilu
 pilus
 pin
+pina
 pinang
 pinar
 pinarak
@@ -5383,6 +5387,7 @@ sa
 sabang
 sabar
 sabat
+sabda
 saben
 sabi
 sabtu
@@ -6498,6 +6503,7 @@ wiko
 wilan
 wilangan
 win
+windu
 wine
 wino
 winta
