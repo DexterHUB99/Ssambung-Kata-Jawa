@@ -155,7 +155,6 @@ aio
 air
 aira
 aisin
-aita
 aiwa
 aiwak
 aiya
@@ -374,7 +373,6 @@ an
 ana
 anae
 anah
-anai
 anak
 anakan
 anake
@@ -519,7 +517,6 @@ anua
 anuh
 anui
 anum
-anung
 anup
 anur
 anus
@@ -786,11 +783,11 @@ bai
 bajak
 bajigur
 bajingan
+baju
 bak
 bakoh
 bakti
 baku
-bal
 bala
 balap
 balek
@@ -983,7 +980,6 @@ candi
 cangkruk
 cantik
 cape
-capung
 care
 cari
 cas
@@ -1484,7 +1480,6 @@ entuk
 entung
 entut
 enu
-enyak
 enyong
 epa
 epah
@@ -1557,7 +1552,6 @@ eseman
 esi
 esih
 esil
-eso
 esoe
 esok
 eson
@@ -1595,6 +1589,7 @@ etul
 etum
 etur
 etus
+evan
 ew
 ewa
 ewae
@@ -1681,6 +1676,7 @@ gambang
 gambar
 gambare
 gambas
+gambleh
 gambuh
 gambut
 gambyong
@@ -1789,7 +1785,6 @@ gedhang
 gedhe
 gedhee
 gedhi
-gedor
 gedung
 gegayuhan
 geger
@@ -2036,7 +2031,6 @@ guyu
 guyub
 ha
 haa
-habib
 habibi
 habis
 hadap
@@ -2728,6 +2722,7 @@ juma
 jumpa
 jung
 jungkir
+juni
 jurang
 juri
 jurus
@@ -2899,7 +2894,6 @@ kates
 kathah
 kathok
 kati
-katil
 katok
 katon
 katrok
@@ -2941,6 +2935,7 @@ kela
 kelabang
 kelakuan
 kelam
+kelambe
 kelangan
 kelap
 kelar
@@ -2951,7 +2946,6 @@ kelebu
 kelek
 kelem
 keli
-kelima
 kelimis
 kelinan
 kelinci
@@ -3114,6 +3108,7 @@ kita
 kitab
 kite
 kiwa
+kiye
 klambi
 klepon
 kleru
@@ -3259,6 +3254,7 @@ kundur
 kune
 kung
 kuning
+kunir
 kuno
 kunta
 kunti
@@ -3779,7 +3775,6 @@ mben
 mbok
 mboke
 mboten
-mbuh
 me
 medal
 medeni
@@ -3789,6 +3784,7 @@ megatruh
 meh
 meja
 mekar
+mekaten
 meki
 melas
 melek
@@ -3920,6 +3916,7 @@ mul
 mula
 mulae
 mulai
+mulane
 mulang
 mule
 muleh
@@ -3943,7 +3940,6 @@ muntah
 munyuk
 mur
 murah
-muran
 murka
 murung
 mus
@@ -3968,7 +3964,6 @@ nabung
 nada
 nadah
 nadi
-nadira
 nae
 nafas
 nag
@@ -4273,7 +4268,6 @@ ngarit
 ngarsa
 ngaruh
 ngarus
-ngas
 ngasah
 ngasak
 ngasal
@@ -4356,6 +4350,7 @@ ngenteni
 ngentu
 ngentut
 ngepa
+ngepang
 ngepel
 ngepet
 ngepi
@@ -4383,7 +4378,6 @@ ngewang
 ngewe
 ngg
 ngga
-nggaa
 nggae
 nggak
 nggali
@@ -4543,6 +4537,7 @@ ngudek
 ngudud
 ngudut
 nguji
+ngukir
 ngukur
 ngulang
 ngulek
@@ -4707,7 +4702,6 @@ nulis
 nulo
 nulung
 num
-numa
 numan
 numbas
 numbuk
@@ -4921,6 +4915,7 @@ oraiso
 orak
 oran
 orang
+orangutan
 oraono
 orapapa
 orapopo
@@ -5344,6 +5339,7 @@ raja
 rajae
 rajah
 rajin
+raju
 rajungan
 rajut
 rak
@@ -5659,7 +5655,6 @@ sabar
 sabat
 sabda
 saben
-sabet
 sabi
 sabtu
 sabuk
@@ -5751,10 +5746,8 @@ sarung
 sas
 sasa
 sasi
-sasimo
 sastra
 sate
-satos
 satria
 satu
 saung
@@ -6060,6 +6053,7 @@ ta
 taa
 taat
 taati
+tabek
 tabuh
 tabung
 tae
@@ -6192,7 +6186,6 @@ tera
 terang
 teras
 terasi
-teri
 terima
 ternak
 terong
@@ -6577,6 +6570,7 @@ unta
 untah
 untal
 untel
+unter
 untir
 untu
 untuk
