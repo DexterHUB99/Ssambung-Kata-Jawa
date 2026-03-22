@@ -2120,6 +2120,7 @@ guri
 gurih
 gurita
 guru
+gurune
 gus
 gusah
 gusi
@@ -4626,6 +4627,7 @@ ngilir
 ngilo
 ngilon
 ngilu
+ngiman
 ngimbar
 ngimbohi
 ngimpi
