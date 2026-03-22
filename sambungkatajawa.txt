@@ -2772,6 +2772,7 @@ larak
 larang
 laras
 lari
+las
 lasa
 lata
 latah
