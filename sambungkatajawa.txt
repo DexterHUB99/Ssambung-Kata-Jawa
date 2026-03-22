@@ -1403,6 +1403,7 @@ gendong
 gendut
 geng
 geni
+genjik
 geno
 genteng
 genti
