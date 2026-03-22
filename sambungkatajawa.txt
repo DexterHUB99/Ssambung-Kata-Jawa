@@ -3604,6 +3604,7 @@ nggak
 nggambar
 nggatel
 nggateli
+nggawae
 nggawe
 nggayuh
 nggeh
@@ -3738,6 +3739,7 @@ ngulup
 ngulur
 ngumbah
 ngumbahi
+ngumbas
 ngumi
 ngumpet
 ngumpul
@@ -4656,6 +4658,7 @@ rusak
 ruska
 rusuh
 rut
+rutan
 rutin
 ruwah
 ruwat
