@@ -364,7 +364,6 @@ anis
 anisa
 anit
 aniy
-anja
 anjai
 anjaing
 anjani
@@ -856,7 +855,6 @@ dancok
 dandang
 dangdut
 dani
-danur
 dap
 dapa
 dapur
@@ -888,7 +886,6 @@ depak
 dere
 dereng
 deri
-deso
 dewe
 dewek
 di
@@ -1344,6 +1341,7 @@ ganjil
 ganteng
 ganti
 gantung
+gantungan
 gap
 gapapa
 gape
@@ -1865,6 +1863,7 @@ ikan
 ikas
 ikat
 ikatan
+ikati
 ike
 iket
 ikhlas
@@ -1898,7 +1897,6 @@ ilang
 ilangan
 ilap
 ilar
-ilas
 ilat
 iler
 ilermu
@@ -2234,7 +2232,6 @@ kalo
 kalok
 kalong
 kalung
-kam
 kamal
 kamar
 kambil
@@ -2551,7 +2548,6 @@ korban
 korea
 korek
 koreng
-korengan
 kori
 kos
 kosan
@@ -2560,7 +2556,6 @@ kota
 kotak
 kotang
 koti
-kotor
 kotoran
 kowe
 kowen
@@ -2731,6 +2726,7 @@ lawang
 lawas
 lawe
 lawu
+lawuh
 layak
 layar
 le
@@ -3007,7 +3003,6 @@ mantu
 mantuk
 manuk
 manukku
-maos
 mapan
 mara
 marah
@@ -3349,6 +3344,7 @@ neteh
 netek
 netes
 netra
+ngabang
 ngabari
 ngabdi
 ngaben
@@ -3762,7 +3758,6 @@ nona
 nong
 nongki
 nongkrong
-noni
 nonjok
 nono
 nonton
@@ -4497,7 +4492,6 @@ rodo
 roe
 rogoh
 rok
-roka
 rokaat
 roket
 roko
@@ -4689,7 +4683,6 @@ semok
 sempak
 sempurna
 seng
-sepeda
 sepi
 serat
 seri
@@ -4910,7 +4903,6 @@ tali
 talingan
 talita
 tam
-tama
 taman
 tambah
 tambal
@@ -4940,6 +4932,7 @@ tapir
 tara
 tarang
 tari
+tarik
 taro
 taru
 tas
@@ -5246,7 +5239,6 @@ ulur
 um
 uma
 umah
-umai
 umak
 uman
 umar
@@ -5400,7 +5392,6 @@ utae
 utah
 utak
 utama
-utami
 utan
 utang
 utangan
@@ -5611,7 +5602,6 @@ yuk
 yuka
 yuli
 yumi
-yuna
 yura
 yuran
 yus
