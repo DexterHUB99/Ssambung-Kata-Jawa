@@ -959,6 +959,7 @@ cicak
 cici
 cicil
 cicu
+cicuk
 cil
 cila
 cilaka
@@ -2585,6 +2586,7 @@ ju
 jual
 jujur
 jul
+julang
 jule
 juma
 jumpa
