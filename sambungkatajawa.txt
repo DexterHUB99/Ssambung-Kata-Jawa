@@ -732,6 +732,7 @@ bakti
 baku
 bala
 balap
+balek
 bali
 baliho
 balok
@@ -5798,6 +5799,7 @@ temen
 temenan
 temi
 temon
+tempat
 tempe
 tempek
 tempel
