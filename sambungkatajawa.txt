@@ -13,6 +13,7 @@ abimanyu
 abis
 ablek
 aboh
+abot
 abrit
 abu
 aca
@@ -3128,6 +3129,7 @@ ngimbar
 ngimpi
 ngin
 nginep
+nginjen
 nginthil
 ngintil
 ngintip
@@ -4829,6 +4831,7 @@ warna
 warung
 waso
 watak
+wati
 watu
 wayah
 wayang
