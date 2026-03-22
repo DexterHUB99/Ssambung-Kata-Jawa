@@ -848,6 +848,7 @@ bosan
 bosok
 bothok
 boti
+botok
 botol
 boyo
 bu
@@ -4902,6 +4903,7 @@ polisi
 poll
 polo
 polri
+pom
 pomi
 pon
 ponakan
