@@ -975,6 +975,7 @@ ek
 eka
 ekae
 ekah
+ekai
 ekak
 ekar
 eke
@@ -1499,6 +1500,7 @@ gu
 gudang
 gudeg
 gugah
+gugu
 guguk
 gugup
 gugur
@@ -4452,6 +4454,7 @@ sandanga
 sandhang
 sanes
 sanggar
+sangu
 santai
 santen
 santun
