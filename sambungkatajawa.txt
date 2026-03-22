@@ -178,6 +178,7 @@ aking
 akir
 akiran
 akis
+akit
 ako
 akob
 akoh
@@ -516,6 +517,7 @@ arik
 aring
 arip
 aris
+arisa
 arisan
 arit
 arjuna
@@ -716,6 +718,7 @@ bayi
 bebe
 bebek
 becak
+beci
 beda
 bedo
 bee
@@ -1372,6 +1375,7 @@ etika
 etil
 etis
 eto
+etok
 etol
 etos
 etu
@@ -2447,6 +2451,7 @@ kalong
 kalung
 kamal
 kamar
+kamben
 kambil
 kambing
 kambuh
