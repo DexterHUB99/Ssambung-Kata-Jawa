@@ -362,6 +362,7 @@ ano
 anom
 anoman
 anop
+ansuran
 anta
 antam
 antar
@@ -2185,6 +2186,7 @@ keliru
 kelon
 kelor
 kelot
+keluarga
 kelum
 kemah
 kemang
