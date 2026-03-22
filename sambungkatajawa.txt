@@ -1510,10 +1510,12 @@ empet
 empik
 emping
 emplok
+empot
 emprit
 empuk
 empun
 emu
+emud
 emun
 emut
 en
@@ -1934,6 +1936,7 @@ gemah
 gemati
 gembel
 gembira
+gembleng
 gemblong
 gemblung
 gembok
@@ -6762,6 +6765,7 @@ udanan
 udane
 udang
 udara
+ude
 udeg
 udek
 udel
