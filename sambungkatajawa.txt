@@ -613,6 +613,7 @@ bendo
 bene
 bener
 berak
+berani
 besan
 besi
 besok
@@ -2091,6 +2092,7 @@ kani
 kanjeng
 kanjut
 kanthi
+kanti
 kantil
 kantor
 kaos
@@ -2614,6 +2616,7 @@ loba
 lobang
 lodeh
 loe
+logan
 logat
 loh
 lohan
