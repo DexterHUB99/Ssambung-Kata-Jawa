@@ -2493,6 +2493,7 @@ kak
 kaka
 kakaa
 kakak
+kakaka
 kakang
 kakat
 kakehan
@@ -3933,6 +3934,7 @@ ngelem
 ngeler
 ngeli
 ngeling
+ngelmu
 ngelom
 ngelu
 ngelumpuk
@@ -4479,6 +4481,7 @@ orapapa
 orapopo
 oras
 orasah
+orasi
 ore
 oreg
 orek
@@ -5330,6 +5333,7 @@ singo
 sini
 sino
 sinom
+sinta
 sinten
 sinyo
 sio
