@@ -3086,6 +3086,7 @@ nasab
 nasar
 nasi
 nasib
+nastar
 nasu
 nata
 natap
@@ -4110,6 +4111,7 @@ ras
 rasa
 rasah
 rasan
+rasane
 rase
 rasi
 rasis
@@ -4787,6 +4789,7 @@ tukul
 tul
 tulan
 tulang
+tulen
 tuli
 tulip
 tulis
