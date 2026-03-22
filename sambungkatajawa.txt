@@ -4111,6 +4111,7 @@ nge
 ngebas
 ngece
 ngecek
+ngedang
 ngede
 ngeden
 ngefek
@@ -4847,6 +4848,7 @@ pati
 patin
 patuh
 patung
+pawon
 payah
 payu
 payung
