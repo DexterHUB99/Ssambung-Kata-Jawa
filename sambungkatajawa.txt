@@ -2210,6 +2210,7 @@ hasta
 hasut
 hati
 hatimu
+haturnuhun
 hawa
 hawai
 hawane
@@ -4213,6 +4214,7 @@ nature
 nawar
 nawari
 ndak
+ndalu
 ndang
 ndangan
 ndas
