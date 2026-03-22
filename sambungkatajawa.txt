@@ -415,6 +415,7 @@ anggur
 angin
 angka
 angklung
+angkong
 angkring
 angkruk
 angkuh
@@ -2757,6 +2758,7 @@ katok
 katon
 katrok
 katuk
+katung
 katup
 kawah
 kawan
@@ -4497,6 +4499,7 @@ nung
 nunggang
 nunggu
 nuni
+nunjuk
 nunung
 nunut
 nuo
@@ -5330,6 +5333,7 @@ rompi
 ronda
 rondo
 ronggeng
+rongpuluh
 roni
 rono
 ropa
