@@ -274,6 +274,7 @@ anake
 anal
 anam
 anan
+anana
 anane
 anang
 ananging
@@ -1025,6 +1026,7 @@ emut
 en
 ena
 enak
+enan
 enang
 enar
 enat
@@ -2678,6 +2680,7 @@ lugu
 luh
 luhur
 luk
+lukis
 lulu
 luluh
 lum
@@ -4976,6 +4979,7 @@ usap
 usaran
 use
 usek
+user
 usha
 usi
 usia
