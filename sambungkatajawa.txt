@@ -1428,6 +1428,7 @@ eluh
 elus
 em
 ema
+emah
 emak
 emam
 eman
@@ -1767,6 +1768,7 @@ gandeng
 gandheng
 gandos
 gandrung
+ganduk
 gandul
 gang
 gangan
@@ -4222,6 +4224,7 @@ nate
 nature
 nawar
 nawari
+ndadak
 ndak
 ndalu
 ndang
