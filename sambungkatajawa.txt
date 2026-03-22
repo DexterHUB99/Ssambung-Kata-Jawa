@@ -2863,6 +2863,7 @@ kerja
 kerjo
 kero
 kerohan
+kerok
 kerono
 keroso
 kersa
@@ -2977,6 +2978,7 @@ kompas
 komplit
 kompor
 kon
+kona
 konangan
 konco
 kondangan
