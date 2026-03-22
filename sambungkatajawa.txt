@@ -768,6 +768,7 @@ dah
 dahar
 dahi
 daki
+daku
 dalam
 dalem
 dalih
@@ -3119,6 +3120,7 @@ ngamuk
 ngana
 ngancani
 ngandang
+ngang
 nganggo
 nganggu
 nganggur
