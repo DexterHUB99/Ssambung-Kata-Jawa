@@ -767,7 +767,6 @@ cakot
 cakra
 cakul
 calo
-campur
 candi
 cangkruk
 cantik
@@ -801,7 +800,6 @@ cino
 cinta
 cintaa
 cipa
-cipi
 cireng
 cita
 ciu
@@ -887,7 +885,6 @@ delima
 delman
 demek
 demit
-demo
 dengkul
 depak
 dere
@@ -1255,7 +1252,6 @@ etur
 etus
 ewae
 ewak
-ewan
 ewang
 ewe
 ewek
@@ -1510,7 +1506,6 @@ giring
 giru
 gisa
 gitar
-giwang
 gladhi
 glodog
 go
@@ -1673,7 +1668,6 @@ hanya
 hap
 hapa
 hape
-hapi
 hapus
 har
 hara
@@ -1967,7 +1961,6 @@ inem
 inep
 infaq
 ing
-ingat
 ingen
 inggih
 inggil
@@ -2136,7 +2129,6 @@ jaran
 jarang
 jare
 jarik
-jarit
 jasa
 jawa
 jawir
@@ -2167,7 +2159,6 @@ jilid
 jimat
 jimbar
 jin
-jina
 jinak
 jingga
 jinten
@@ -2205,7 +2196,6 @@ juri
 ka
 kabar
 kabeh
-kabek
 kabel
 kabit
 kabupaten
@@ -3068,7 +3058,6 @@ mekar
 melas
 melek
 melok
-memang
 meme
 memek
 mengko
@@ -3202,7 +3191,6 @@ mute
 muter
 muti
 na
-nab
 nabi
 nabok
 nabrak
@@ -3252,7 +3240,6 @@ nan
 nana
 nanah
 nanam
-nanan
 nanang
 nanas
 nandang
@@ -3315,7 +3302,6 @@ ndeso
 nduk
 ne
 nebang
-neda
 nedha
 nedho
 nedi
@@ -3485,7 +3471,6 @@ ngasuh
 ngasuni
 ngatasi
 ngatel
-ngatuk
 ngatur
 ngawa
 ngawasi
@@ -4176,7 +4161,6 @@ pidana
 pidhak
 pie
 pijat
-pijet
 pijit
 pik
 pikir
@@ -4306,7 +4290,6 @@ pusaka
 pusing
 putih
 puting
-putra
 putri
 putus
 puyeng
@@ -4346,7 +4329,6 @@ ram
 rama
 ramah
 ramai
-ramalan
 raman
 rambak
 ramban
@@ -4666,7 +4648,6 @@ santen
 santun
 sapa
 sapi
-sapo
 sapu
 saran
 sarang
@@ -5168,7 +5149,6 @@ udak
 udam
 udan
 udang
-udara
 udek
 udel
 udi
@@ -5483,7 +5463,6 @@ wahana
 wahyu
 wai
 waja
-wajah
 wajan
 wajik
 wakil
@@ -5522,7 +5501,6 @@ wedo
 wedok
 wee
 wektu
-wele
 wen
 wera
 wes
@@ -5580,7 +5558,6 @@ yaha
 yai
 yak
 yakin
-yaku
 yali
 yama
 yamaha
