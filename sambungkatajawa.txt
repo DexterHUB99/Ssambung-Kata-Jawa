@@ -345,6 +345,7 @@ angsuran
 ani
 aniani
 anik
+anin
 anis
 anisa
 aniy
@@ -1089,6 +1090,7 @@ enthog
 enthuk
 entok
 entong
+entu
 entuk
 entung
 enu
@@ -1738,6 +1740,7 @@ ij
 ija
 ijab
 ijak
+ijek
 ijem
 ijen
 iji
@@ -4771,6 +4774,7 @@ tuki
 tuku
 tukul
 tul
+tulan
 tulang
 tuli
 tulip
