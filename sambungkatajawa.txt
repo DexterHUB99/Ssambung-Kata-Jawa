@@ -4540,6 +4540,7 @@ ngatel
 ngatuk
 ngatur
 ngaturaken
+ngaturi
 ngawa
 ngawasi
 ngawe
@@ -4734,6 +4735,7 @@ nglor
 ngluku
 ngluruk
 ngngopo
+ngnu
 ngobah
 ngobat
 ngoblok
