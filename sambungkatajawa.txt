@@ -1222,6 +1222,7 @@ empang
 empedu
 empek
 emper
+empet
 empik
 emping
 emprit
@@ -5385,6 +5386,7 @@ tami
 tampah
 tampar
 tamu
+tan
 tanah
 tandhuk
 tandur
