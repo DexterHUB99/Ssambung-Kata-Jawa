@@ -1552,6 +1552,7 @@ genjik
 geno
 genteng
 genti
+genting
 gentong
 genuk
 geo
@@ -3359,6 +3360,7 @@ mual
 muatan
 mubah
 mubeng
+mudal
 mudeng
 mugi
 mugih
@@ -5629,6 +5631,7 @@ umah
 umak
 uman
 umar
+umas
 umat
 umbah
 umbahna
