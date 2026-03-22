@@ -2924,6 +2924,7 @@ lipan
 lipas
 lipat
 lipen
+lipet
 lipi
 lira
 liri
@@ -4304,6 +4305,7 @@ pepes
 perak
 perang
 pere
+perek
 pesan
 peso
 pete
