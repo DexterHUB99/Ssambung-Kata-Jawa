@@ -829,6 +829,7 @@ batal
 batang
 bathuk
 batik
+batir
 batuk
 batur
 bau
@@ -3367,6 +3368,7 @@ kuwe
 kuwi
 kuya
 kuyuk
+kwe
 la
 laba
 laban
