@@ -51,7 +51,6 @@ af
 afi
 afif
 agama
-agar
 age
 agem
 agil
@@ -80,7 +79,6 @@ ahek
 ahem
 ahh
 ahi
-ahid
 ahik
 ahil
 ahim
@@ -281,6 +279,7 @@ among
 amoro
 ampar
 ampas
+ampe
 ampel
 ampela
 ampir
@@ -543,7 +542,6 @@ ata
 atah
 atai
 atak
-atal
 atan
 atap
 atar
@@ -580,7 +578,6 @@ auh
 auha
 aul
 auman
-auna
 aura
 aus
 ausa
@@ -683,7 +680,6 @@ besi
 besok
 besu
 besuk
-bh
 bi
 biak
 biasa
@@ -918,7 +914,6 @@ dika
 dikit
 dikon
 dila
-dilan
 dilok
 diluk
 dilut
@@ -1062,7 +1057,6 @@ ekur
 el
 ela
 elae
-elag
 elah
 elam
 elang
@@ -1341,7 +1335,6 @@ gambyong
 game
 gamel
 gamelan
-gamis
 gamoh
 gampang
 gampar
@@ -2286,7 +2279,6 @@ kamus
 kan
 kana
 kanan
-kanapa
 kanca
 kancil
 kancing
@@ -2393,7 +2385,6 @@ kelam
 kelangan
 kelap
 kelas
-kelat
 kelawan
 kelebu
 kelek
@@ -2435,7 +2426,6 @@ kenyang
 keong
 kep
 kepala
-kepanggih
 kepel
 kepet
 kepik
@@ -2493,7 +2483,6 @@ kidung
 kie
 kijang
 kijing
-kika
 kiki
 kikil
 kil
@@ -2581,7 +2570,6 @@ kop
 kopeng
 kopet
 kopi
-kopita
 koplak
 koplo
 kopok
@@ -2843,7 +2831,6 @@ limpa
 limu
 lina
 linang
-lincah
 linggis
 lingkaran
 lingkung
@@ -2966,7 +2953,6 @@ lunga
 lungguh
 lungo
 luntur
-lunyu
 lupa
 lupi
 luput
@@ -3007,7 +2993,6 @@ mak
 maka
 makam
 makan
-maki
 maksa
 makul
 mal
@@ -3040,7 +3025,6 @@ manggis
 manggon
 mangke
 mangkel
-mangu
 mani
 manis
 manjing
@@ -3139,7 +3123,6 @@ mini
 minta
 minum
 mio
-mir
 mira
 mirip
 mirsani
@@ -3246,7 +3229,6 @@ nadah
 nadi
 nae
 nafas
-nag
 naga
 nagi
 nagih
@@ -3579,6 +3561,7 @@ ngerak
 ngere
 ngerem
 ngerepoti
+ngeres
 ngeresake
 ngerti
 ngertos
@@ -3665,7 +3648,6 @@ ngolah
 ngolak
 ngolek
 ngoles
-ngolo
 ngolong
 ngomah
 ngombal
@@ -3757,7 +3739,6 @@ nguyu
 nguyuh
 ni
 nia
-niba
 nihi
 nik
 nika
@@ -3767,7 +3748,6 @@ nikmat
 niko
 niku
 nikung
-nil
 nila
 nilai
 nilam
@@ -3823,7 +3803,6 @@ nona
 nong
 nongki
 nongkrong
-noni
 nonjok
 nono
 nonton
@@ -4149,7 +4128,6 @@ parah
 pareng
 pari
 paring
-paringi
 parkir
 pas
 pasa
@@ -4293,7 +4271,6 @@ poke
 pokok
 pokoke
 pokone
-pol
 pola
 polah
 polahe
@@ -4388,6 +4365,7 @@ rakit
 rako
 raku
 rakus
+rali
 ram
 rama
 ramah
@@ -4572,7 +4550,6 @@ rogoh
 rok
 rokaat
 roket
-roki
 roko
 rokok
 rolas
@@ -4591,7 +4568,6 @@ rondo
 ronggeng
 roni
 rono
-ropa
 ropi
 roro
 ros
@@ -4747,7 +4723,6 @@ sayur
 seda
 sedaya
 sedeng
-segar
 sego
 sehat
 sei
@@ -4963,7 +4938,6 @@ suwen
 suweng
 suwi
 suwun
-swara
 syukuran
 ta
 taat
@@ -5004,7 +4978,6 @@ tamu
 tanah
 tandhuk
 tandur
-tanduran
 tangan
 tangga
 tanggal
@@ -5037,7 +5010,6 @@ tawa
 tawon
 tebu
 tegak
-teh
 teke
 teko
 tekor
@@ -5267,7 +5239,6 @@ ukaa
 ukae
 ukai
 ukak
-ukam
 ukan
 ukar
 ukara
@@ -5436,7 +5407,6 @@ uripe
 uripmu
 urit
 uritan
-urma
 urna
 uru
 uruane
@@ -5607,7 +5577,6 @@ wiji
 wiko
 wilangan
 wino
-winta
 wir
 wira
 wirama
