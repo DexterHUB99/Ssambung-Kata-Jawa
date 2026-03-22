@@ -140,6 +140,7 @@ aiku
 ail
 aila
 ailan
+aile
 aili
 aima
 aimu
@@ -6486,6 +6487,7 @@ usik
 usil
 usir
 usiro
+uska
 uso
 usrek
 ustadz
