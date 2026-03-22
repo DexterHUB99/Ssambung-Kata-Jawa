@@ -3057,6 +3057,7 @@ ngakang
 ngaku
 ngal
 ngalah
+ngalam
 ngalap
 ngalas
 ngalem
@@ -4644,6 +4645,7 @@ ua
 uan
 uana
 uang
+uba
 uban
 ubang
 ubel
@@ -4825,6 +4827,7 @@ untune
 untung
 untur
 unus
+up
 upa
 upah
 upan
