@@ -427,6 +427,7 @@ arti
 aru
 arum
 arus
+arwah
 as
 asa
 asah
@@ -4701,6 +4702,7 @@ usah
 usaha
 usai
 usak
+usan
 usap
 usaran
 use
