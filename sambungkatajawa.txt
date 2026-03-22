@@ -1045,6 +1045,7 @@ cakra
 cakul
 cakur
 calo
+cama
 campur
 cancut
 candi
@@ -4233,6 +4234,7 @@ nabok
 nabrak
 nabuh
 nabung
+nabur
 nada
 nadah
 nadi
@@ -6062,6 +6064,7 @@ sakanane
 sakdurunge
 sakia
 sakit
+saksi
 sakti
 saku
 sakula
