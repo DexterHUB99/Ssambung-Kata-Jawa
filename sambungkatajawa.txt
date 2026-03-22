@@ -517,6 +517,7 @@ asu
 asue
 asuh
 asui
+asul
 asula
 asun
 asus
@@ -3578,6 +3579,7 @@ ngupil
 nguping
 nguras
 ngurip
+nguru
 ngurus
 ngurusi
 ngurut
