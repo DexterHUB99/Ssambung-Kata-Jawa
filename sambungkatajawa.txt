@@ -2616,6 +2616,7 @@ kemas
 kembali
 kembang
 kemben
+kemem
 kemeng
 kemi
 kempel
@@ -5349,6 +5350,7 @@ suruh
 surup
 surya
 sus
+susa
 susah
 susan
 suseng
