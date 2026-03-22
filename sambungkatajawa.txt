@@ -2896,6 +2896,7 @@ kencot
 kencur
 kendang
 kendi
+kendil
 kene
 kenek
 keni
@@ -3120,6 +3121,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kucing
 kucur
 kuda
@@ -4209,6 +4211,7 @@ ngelmu
 ngelom
 ngelu
 ngelumpuk
+ngelunja
 ngem
 ngembeh
 ngemen
