@@ -1169,6 +1169,7 @@ dedak
 dede
 dedek
 deket
+del
 dele
 deli
 delima
@@ -1198,6 +1199,7 @@ didik
 dido
 didu
 diemut
+dik
 dika
 dikit
 dikon
@@ -3650,6 +3652,7 @@ liri
 lirih
 lirik
 liro
+liru
 lis
 lisa
 lisah
