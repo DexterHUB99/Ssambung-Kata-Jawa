@@ -3608,6 +3608,7 @@ pandang
 pandawa
 pandu
 pang
+panggah
 pangling
 pangon
 pani
@@ -4426,6 +4427,7 @@ telu
 telur
 teman
 tembok
+tembung
 temen
 temi
 tempe
