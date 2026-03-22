@@ -161,6 +161,7 @@ aita
 aiwa
 aiwak
 aiya
+aiyo
 aj
 aja
 ajae
@@ -3997,6 +3998,7 @@ monggo
 montor
 monyet
 mor
+more
 moret
 moro
 mos
@@ -4490,6 +4492,7 @@ ngerem
 ngerepoti
 ngeres
 ngeresake
+ngerja
 ngerok
 ngerti
 ngertos
