@@ -175,7 +175,6 @@ akih
 akii
 akik
 akil
-akin
 aking
 akir
 akiran
@@ -694,7 +693,6 @@ bai
 bajak
 bajigur
 bajingan
-bak
 bakoh
 bakti
 baku
@@ -843,14 +841,11 @@ busa
 busi
 busuk
 but
-buta
 butek
 buti
 buwa
 cabe
-caca
 cacar
-caci
 cacing
 cagak
 cah
@@ -887,7 +882,6 @@ cica
 cicak
 cici
 cicil
-cicu
 cil
 cila
 cilaka
@@ -909,6 +903,7 @@ cobek
 cocok
 cocot
 cocote
+cocotmu
 codot
 cok
 cokel
@@ -1065,6 +1060,7 @@ duduk
 duga
 duha
 duit
+duka
 duko
 duku
 dukuh
@@ -1219,7 +1215,6 @@ embuh
 embun
 embung
 eme
-emem
 emer
 emi
 emik
@@ -1244,6 +1239,7 @@ emut
 en
 ena
 enak
+enam
 enan
 enang
 enar
@@ -1371,7 +1367,6 @@ estri
 estu
 esu
 esuk
-esur
 eta
 etah
 etan
@@ -1477,7 +1472,6 @@ gamoh
 gampang
 gampar
 gampil
-gan
 gana
 gancet
 ganda
@@ -1553,7 +1547,6 @@ gawene
 gaweo
 gawok
 gayeng
-gayu
 gayuh
 gayung
 ge
@@ -1628,7 +1621,6 @@ geri
 gering
 gero
 gerus
-ges
 gesang
 gese
 gesek
@@ -2355,7 +2347,6 @@ jembut
 jempol
 jemur
 jemuran
-jen
 jenang
 jeneng
 jenengan
@@ -2618,6 +2609,7 @@ kelum
 kemah
 kemang
 kemangi
+kemari
 kemas
 kembali
 kembang
@@ -2629,7 +2621,6 @@ kempes
 kempol
 kemproh
 kemul
-ken
 kena
 kenapa
 kencot
@@ -2919,6 +2910,7 @@ kutu
 kutuk
 kuwat
 kuwe
+kuwi
 kuya
 kuyuk
 la
@@ -2935,6 +2927,7 @@ lahan
 lahe
 laju
 lak
+laka
 laknat
 lakon
 laku
@@ -3029,7 +3022,6 @@ leker
 lekoh
 lelah
 lele
-lelele
 lelet
 lem
 lemah
@@ -3221,7 +3213,6 @@ luntur
 lunyu
 lupa
 lupi
-lupis
 luput
 lurah
 luru
@@ -3239,6 +3230,7 @@ ma
 maaf
 mabuk
 mabur
+maca
 macan
 macul
 madan
@@ -3643,7 +3635,6 @@ neka
 nekat
 neki
 neko
-nela
 nelen
 neles
 nelesi
@@ -4194,6 +4185,7 @@ numbuk
 numpak
 numpang
 numplek
+nunak
 nung
 nunggang
 nunggu
@@ -4284,6 +4276,7 @@ okol
 okon
 okopi
 okor
+okos
 okot
 okur
 okut
@@ -4319,6 +4312,7 @@ oman
 ombak
 ombar
 ombe
+omben
 ombi
 ombo
 omboh
@@ -4508,6 +4502,7 @@ pasir
 pasukan
 patah
 paten
+pati
 patuh
 patung
 payah
@@ -4544,6 +4539,7 @@ pena
 penak
 pendek
 pendhet
+pengecut
 pening
 peniti
 pensil
@@ -4684,6 +4680,7 @@ posi
 pot
 pota
 poti
+potong
 potongan
 pripun
 puan
@@ -4768,7 +4765,6 @@ rambut
 rambutan
 rame
 rames
-rami
 rampung
 ramu
 ramuan
@@ -4935,7 +4931,6 @@ riska
 risma
 rismo
 rita
-riti
 riwa
 riwayat
 riya
@@ -4986,7 +4981,6 @@ rowa
 rowo
 royal
 rt
-ru
 rua
 ruam
 ruang
@@ -5001,7 +4995,6 @@ ruko
 ruku
 rukuh
 rukun
-rule
 rum
 rumah
 rumangsa
@@ -5140,7 +5133,6 @@ sayur
 seda
 sedaya
 sedeng
-sega
 segar
 sego
 seh
@@ -5486,6 +5478,7 @@ temu
 ten
 tenan
 teng
+tengen
 tepa
 tepak
 ter
@@ -5557,7 +5550,6 @@ tok
 tokek
 tolak
 tole
-toleh
 tolek
 toli
 tolih
@@ -5579,6 +5571,7 @@ top
 topi
 topo
 tot
+tota
 toto
 towo
 toya
@@ -5622,7 +5615,6 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
-tun
 tuna
 tunas
 tunggal
@@ -5632,6 +5624,7 @@ turah
 turi
 turu
 turuk
+turun
 tusa
 tusi
 tusu
@@ -5723,7 +5716,6 @@ uki
 ukin
 ukir
 ukiran
-ukire
 ukko
 ukli
 ukni
@@ -6066,8 +6058,8 @@ wih
 wijaya
 wiji
 wiko
+wilan
 wilangan
-win
 wine
 wino
 winta
