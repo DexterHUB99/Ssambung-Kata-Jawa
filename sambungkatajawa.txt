@@ -567,6 +567,7 @@ auman
 aura
 aus
 ausi
+aut
 autan
 avik
 aw
@@ -4431,6 +4432,7 @@ roni
 rono
 ropi
 roro
+ros
 rosa
 rosi
 roso
