@@ -1559,6 +1559,7 @@ epok
 epol
 epon
 epos
+epu
 epuh
 epuk
 epul
@@ -4702,6 +4703,7 @@ ngpel
 ngrasa
 ngrumat
 ngrumpi
+nguang
 ngubeng
 nguber
 ngubur
@@ -5113,6 +5115,7 @@ oreg
 orek
 oren
 oreng
+orep
 orewa
 organisasi
 ori
