@@ -3208,6 +3208,7 @@ moh
 moha
 mojo
 mok
+mokol
 mol
 molak
 mole
@@ -4625,6 +4626,7 @@ risi
 risih
 riska
 risma
+rismo
 rita
 riwa
 riwayat
@@ -5413,6 +5415,7 @@ ulih
 ulik
 ulo
 ulomo
+uloo
 ulu
 uluk
 ulukan
