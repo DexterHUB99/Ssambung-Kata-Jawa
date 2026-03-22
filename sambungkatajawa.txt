@@ -198,7 +198,6 @@ akhir
 akhirat
 aki
 akia
-akif
 akih
 akii
 akik
@@ -746,6 +745,7 @@ ayu
 ayuh
 ayuk
 az
+ba
 bab
 babai
 babat
@@ -2897,6 +2897,7 @@ kencot
 kencur
 kendang
 kendi
+kendil
 kene
 kenek
 keni
@@ -3121,6 +3122,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kucing
 kucur
 kuda
@@ -4210,6 +4212,7 @@ ngelmu
 ngelom
 ngelu
 ngelumpuk
+ngelunja
 ngem
 ngembeh
 ngemen
@@ -6185,6 +6188,7 @@ ua
 uan
 uana
 uang
+ub
 uba
 uban
 ubang
@@ -6653,6 +6657,7 @@ wisata
 wisuh
 wit
 witing
+wito
 wiwi
 wiwit
 wo
