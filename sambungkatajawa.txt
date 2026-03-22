@@ -4106,6 +4106,7 @@ mur
 murah
 muran
 muria
+murid
 muring
 murka
 murung
@@ -4733,6 +4734,7 @@ nguda
 ngudal
 ngudani
 ngudek
+ngudo
 ngudud
 ngudut
 nguji
