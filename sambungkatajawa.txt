@@ -1283,6 +1283,7 @@ ene
 eneg
 eneh
 enek
+enem
 eneng
 enep
 engah
@@ -2457,6 +2458,7 @@ kabek
 kabel
 kabit
 kabupaten
+kabur
 kabut
 kaca
 kacu
@@ -4848,6 +4850,7 @@ randue
 rang
 rangga
 rani
+ranjang
 rantang
 rante
 ranti
