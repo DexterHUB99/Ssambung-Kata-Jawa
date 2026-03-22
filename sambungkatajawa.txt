@@ -324,6 +324,7 @@ ambar
 ambarawa
 ambek
 amben
+ambeng
 amber
 ambi
 ambigu
@@ -3306,6 +3307,7 @@ klepon
 kleru
 kliwon
 ko
+kobis
 kobong
 kocak
 koclok
@@ -4148,6 +4150,7 @@ mul
 mula
 mulae
 mulai
+mulan
 mulane
 mulang
 mule
@@ -6309,6 +6312,7 @@ sugeh
 sugeng
 sugih
 suh
+suha
 sui
 suk
 suka
@@ -6756,6 +6760,7 @@ udara
 udeg
 udek
 udel
+udeng
 udi
 udin
 udo
