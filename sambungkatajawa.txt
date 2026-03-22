@@ -2730,6 +2730,7 @@ karpet
 karsa
 karun
 karung
+karunia
 karya
 kas
 kasa
@@ -5063,6 +5064,7 @@ pundi
 punika
 punten
 punya
+pupu
 pupuk
 pura
 purek
@@ -5073,6 +5075,7 @@ pusa
 pusaka
 pusing
 puta
+puti
 putih
 puting
 putra
