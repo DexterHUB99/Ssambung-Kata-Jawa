@@ -3511,6 +3511,7 @@ pindah
 pindang
 pindo
 ping
+pinggir
 pinten
 pintu
 pinuk
@@ -3996,6 +3997,7 @@ sira
 sirah
 siram
 siraman
+sirep
 sirik
 siro
 sirup
