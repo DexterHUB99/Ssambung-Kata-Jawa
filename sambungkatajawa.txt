@@ -471,6 +471,7 @@ ano
 anom
 anoman
 anop
+ansura
 ansuran
 anta
 antam
@@ -3076,6 +3077,7 @@ koplo
 kopok
 kopyor
 kora
+korak
 koran
 korban
 korea
