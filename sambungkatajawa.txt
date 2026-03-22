@@ -6154,6 +6154,7 @@ sikil
 siko
 siku
 sikut
+sil
 sila
 silah
 silet
@@ -6222,6 +6223,7 @@ soca
 sodara
 sodok
 sodor
+sogoh
 sogok
 sok
 soko
