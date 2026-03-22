@@ -655,6 +655,7 @@ bandeng
 banyu
 bas
 basi
+basoka
 batal
 bathuk
 batik
@@ -1438,6 +1439,7 @@ gede
 geden
 gedhang
 gedhe
+gedhee
 gedhi
 gedung
 gegayuhan
@@ -2844,6 +2846,7 @@ lidok
 lih
 liha
 lihat
+lik
 lika
 liku
 lila
