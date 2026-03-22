@@ -745,6 +745,7 @@ ausi
 aut
 autan
 auto
+ava
 avik
 aw
 awa
@@ -841,6 +842,7 @@ batuk
 batur
 bau
 bawak
+bawuk
 bayi
 be
 bebe
@@ -1142,6 +1144,7 @@ daren
 dari
 darma
 das
+dasa
 dasar
 dasi
 dasu
@@ -3772,6 +3775,7 @@ maen
 magan
 magelang
 mager
+magrib
 mah
 maha
 mahal
