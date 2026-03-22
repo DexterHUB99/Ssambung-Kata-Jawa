@@ -1195,6 +1195,7 @@ girang
 giring
 gisa
 gitar
+gladhi
 go
 goblok
 gobloki
@@ -1397,6 +1398,7 @@ hina
 hinggap
 hira
 hiri
+hiruk
 his
 hisa
 hisan
@@ -2270,6 +2272,7 @@ lola
 loli
 lolo
 loloh
+lolohan
 lololo
 lolos
 lom
@@ -3459,6 +3462,7 @@ rara
 ras
 rasa
 rasah
+rasan
 rasi
 rasis
 raso
