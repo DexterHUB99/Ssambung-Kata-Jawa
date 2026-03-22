@@ -3579,6 +3579,7 @@ ngong
 ngono
 ngonten
 ngontol
+ngontrol
 ngop
 ngopeni
 ngoper
@@ -4795,6 +4796,7 @@ supi
 sura
 surabaya
 surai
+surakarta
 surat
 surau
 suri
