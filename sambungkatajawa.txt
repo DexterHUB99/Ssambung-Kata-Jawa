@@ -3577,6 +3577,7 @@ nanging
 nangis
 nangisan
 nangka
+nangko
 nangkring
 nani
 naning
@@ -5150,6 +5151,8 @@ sekarang
 sekawan
 sekop
 sela
+selas
+selasa
 selawe
 selet
 sem
