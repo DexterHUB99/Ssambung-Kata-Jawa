@@ -1793,6 +1793,7 @@ inem
 inep
 infaq
 ing
+ingen
 inggih
 inggil
 inggit
@@ -1921,6 +1922,7 @@ iwas
 iwel
 iwenan
 ix
+iy
 iya
 iyan
 iyo
@@ -3519,6 +3521,7 @@ odol
 odolan
 og
 ogah
+ogak
 ogi
 ogoh
 oh
@@ -4900,6 +4903,7 @@ urapan
 urat
 urek
 uri
+uria
 urik
 uring
 urio
