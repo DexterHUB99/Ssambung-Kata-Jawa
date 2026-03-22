@@ -2639,6 +2639,7 @@ mambu
 man
 mana
 manak
+mancung
 mandi
 mane
 maneh
@@ -3736,6 +3737,7 @@ pocung
 podho
 poe
 pojok
+pok
 poke
 pokok
 pokoke
