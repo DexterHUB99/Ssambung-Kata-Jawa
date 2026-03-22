@@ -437,6 +437,7 @@ arem
 aren
 areng
 arep
+arga
 ari
 arif
 arig
@@ -4581,6 +4582,7 @@ takon
 taku
 tali
 talingan
+talita
 tam
 taman
 tambah
