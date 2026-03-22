@@ -172,6 +172,7 @@ akon
 akone
 akor
 akrab
+akrak
 aksa
 aksara
 aksi
@@ -259,7 +260,6 @@ amen
 amer
 ami
 amie
-amih
 amii
 amik
 amil
@@ -365,7 +365,6 @@ anis
 anisa
 anit
 aniy
-anja
 anjai
 anjaing
 anjani
@@ -776,7 +775,6 @@ cawe
 cawet
 cawik
 cawis
-ce
 cecak
 cecek
 cega
@@ -858,7 +856,6 @@ dancok
 dandang
 dangdut
 dani
-danur
 dap
 dapa
 dapur
@@ -890,7 +887,6 @@ depak
 dere
 dereng
 deri
-deso
 dewe
 dewek
 di
@@ -988,6 +984,7 @@ ef
 efek
 efu
 eg
+egang
 ege
 ego
 eh
@@ -1030,7 +1027,6 @@ eki
 ekif
 ekih
 ekin
-eklek
 eko
 ekok
 ekol
@@ -1347,6 +1343,7 @@ ganjil
 ganteng
 ganti
 gantung
+gantungan
 gap
 gapapa
 gape
@@ -1868,6 +1865,7 @@ ikan
 ikas
 ikat
 ikatan
+ikati
 ike
 iket
 ikhlas
@@ -1901,7 +1899,6 @@ ilang
 ilangan
 ilap
 ilar
-ilas
 ilat
 iler
 ilermu
@@ -2237,7 +2234,6 @@ kalo
 kalok
 kalong
 kalung
-kam
 kamal
 kamar
 kambil
@@ -2554,7 +2550,6 @@ korban
 korea
 korek
 koreng
-korengan
 kori
 kos
 kosan
@@ -2563,7 +2558,6 @@ kota
 kotak
 kotang
 koti
-kotor
 kotoran
 kowe
 kowen
@@ -2734,6 +2728,7 @@ lawang
 lawas
 lawe
 lawu
+lawuh
 layak
 layar
 le
@@ -3010,7 +3005,6 @@ mantu
 mantuk
 manuk
 manukku
-maos
 mapan
 mara
 marah
@@ -3352,6 +3346,7 @@ neteh
 netek
 netes
 netra
+ngabang
 ngabari
 ngabdi
 ngaben
@@ -3488,8 +3483,8 @@ ngeden
 ngefek
 ngeh
 ngejek
-ngek
 ngela
+ngelag
 ngelak
 ngelap
 ngelawan
@@ -3549,6 +3544,7 @@ nggeh
 nggih
 nggo
 nggolek
+nggoni
 ngguwak
 ngguyu
 ngicil
@@ -3608,7 +3604,6 @@ ngok
 ngoker
 ngoko
 ngokop
-ngol
 ngolah
 ngolak
 ngolek
@@ -3721,6 +3716,7 @@ nilep
 nili
 nim
 nima
+niman
 nimba
 nimbang
 nimo
@@ -3767,7 +3763,6 @@ nona
 nong
 nongki
 nongkrong
-noni
 nonjok
 nono
 nonton
@@ -3897,6 +3892,7 @@ olab
 olah
 olahraga
 olak
+olar
 ole
 oleh
 oleholeh
@@ -4287,7 +4283,6 @@ pusaka
 pusing
 putih
 puting
-putra
 putri
 putus
 puyeng
@@ -4342,6 +4337,7 @@ ramuan
 ramutu
 ran
 rana
+ranai
 randa
 randu
 randue
@@ -4503,7 +4499,6 @@ rodo
 roe
 rogoh
 rok
-roka
 rokaat
 roket
 roko
@@ -4695,7 +4690,6 @@ semok
 sempak
 sempurna
 seng
-sepeda
 sepi
 serat
 seri
@@ -4916,7 +4910,6 @@ tali
 talingan
 talita
 tam
-tama
 taman
 tambah
 tambal
@@ -4946,6 +4939,7 @@ tapir
 tara
 tarang
 tari
+tarik
 taro
 taru
 tas
@@ -5252,7 +5246,6 @@ ulur
 um
 uma
 umah
-umai
 umak
 uman
 umar
@@ -5261,6 +5254,7 @@ umbah
 umbahna
 umbar
 umbel
+umbi
 umbul
 umi
 ummi
@@ -5406,7 +5400,6 @@ utae
 utah
 utak
 utama
-utami
 utan
 utang
 utangan
@@ -5534,7 +5527,6 @@ wiwi
 wo
 woi
 wok
-wol
 wolo
 wong
 wonge
@@ -5618,7 +5610,6 @@ yuk
 yuka
 yuli
 yumi
-yuna
 yura
 yuran
 yus
