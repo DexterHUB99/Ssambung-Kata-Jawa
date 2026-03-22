@@ -1108,6 +1108,7 @@ eho
 ehop
 ehu
 eja
+ejak
 ejo
 ek
 eka
@@ -6012,6 +6013,7 @@ wisuh
 wit
 witing
 wiwi
+wiwit
 wo
 woh
 woi
