@@ -2047,6 +2047,7 @@ hum
 huma
 human
 humor
+hun
 huni
 hura
 huran
@@ -3279,6 +3280,7 @@ lonjong
 lontar
 lonte
 lontong
+loo
 lop
 lope
 lopi
@@ -4367,6 +4369,7 @@ nyenul
 nyepi
 nyerat
 nying
+nyolong
 nyong
 nyonya
 nyuwi
