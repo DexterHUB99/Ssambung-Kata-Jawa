@@ -2064,6 +2064,7 @@ jual
 jujur
 juma
 jurang
+juri
 ka
 kabar
 kabeh
@@ -4665,6 +4666,7 @@ taun
 tawa
 tebu
 tegak
+teke
 teko
 tekor
 tel
@@ -5176,6 +5178,7 @@ wedok
 wee
 wektu
 wen
+wera
 wes
 wesi
 weso
