@@ -1808,6 +1808,7 @@ iyu
 iyuh
 iz
 jae
+jahat
 jai
 jaka
 jala
@@ -2707,6 +2708,7 @@ musa
 musi
 musim
 musuh
+mutan
 muti
 na
 nabi
@@ -2837,6 +2839,7 @@ netek
 netra
 ngaben
 ngabi
+ngabrit
 ngaca
 ngacak
 ngace
@@ -4153,6 +4156,7 @@ suwi
 suwun
 syukuran
 ta
+taat
 tabuh
 tae
 taek
