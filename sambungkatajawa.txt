@@ -2591,6 +2591,7 @@ kados
 kadung
 kae
 kagem
+kagungan
 kail
 kain
 kaisar
@@ -4191,6 +4192,7 @@ ngimbohi
 ngimpi
 ngin
 nginap
+nginduk
 nginep
 nging
 nginjen
