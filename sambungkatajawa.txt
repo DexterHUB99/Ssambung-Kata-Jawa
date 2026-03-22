@@ -564,6 +564,7 @@ aus
 ausi
 autan
 avik
+aw
 awa
 awah
 awak
@@ -2435,6 +2436,7 @@ koko
 kokop
 kol
 kola
+kolah
 kolak
 kolam
 kole
@@ -2560,6 +2562,7 @@ kurung
 kurus
 kus
 kusir
+kusuma
 kut
 kuta
 kutang
