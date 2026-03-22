@@ -659,6 +659,7 @@ asli
 asline
 asma
 asmae
+asmanipun
 asmara
 aso
 asoi
@@ -2244,6 +2245,7 @@ hiruk
 his
 hisa
 hisan
+hisi
 hitam
 hitung
 hiu
@@ -3878,6 +3880,7 @@ mem
 memang
 meme
 memek
+menawi
 mene
 mengko
 meni
@@ -6869,6 +6872,7 @@ uyah
 uyawa
 uyo
 uyuh
+vital
 wa
 waa
 wadah
@@ -6992,6 +6996,7 @@ wo
 woh
 woi
 wok
+wolen
 wolo
 wolu
 wong
