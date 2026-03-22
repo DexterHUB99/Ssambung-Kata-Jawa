@@ -1803,6 +1803,7 @@ ingen
 inggih
 inggil
 inggit
+ingin
 ingkang
 ingkung
 ingsun
@@ -2652,6 +2653,7 @@ losa
 losi
 lote
 lowo
+loya
 loyo
 lu
 luang
