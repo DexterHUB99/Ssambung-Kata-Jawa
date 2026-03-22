@@ -2291,6 +2291,7 @@ kipas
 kipes
 kir
 kira
+kirab
 kirang
 kirap
 kirek
@@ -2684,6 +2685,7 @@ luh
 luhur
 luk
 lukis
+lukisan
 lulu
 luluh
 lum
