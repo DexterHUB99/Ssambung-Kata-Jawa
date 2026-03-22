@@ -2130,6 +2130,7 @@ laban
 labu
 lacut
 lagi
+lagu
 lah
 lahan
 lahe
@@ -2860,6 +2861,7 @@ ngitung
 ngko
 nglonte
 nglor
+ngluku
 ngobah
 ngobat
 ngocok
@@ -3285,6 +3287,7 @@ pek
 pekok
 pel
 pelan
+pelem
 peler
 peli
 peliku
