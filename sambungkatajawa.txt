@@ -1,6 +1,7 @@
 aa
 aae
 aah
+ab
 aba
 abab
 abah
@@ -128,7 +129,6 @@ ahu
 ahuk
 ahun
 ahur
-ahus
 ahut
 ahuy
 ai
@@ -141,7 +141,6 @@ aiku
 ail
 aila
 ailan
-aile
 aili
 aima
 aimu
@@ -296,7 +295,6 @@ amam
 aman
 amanah
 amar
-amara
 amarga
 amargi
 amas
@@ -373,6 +371,7 @@ anal
 anam
 anan
 anana
+ananas
 anane
 anang
 ananging
@@ -381,7 +380,6 @@ anar
 anas
 anasi
 anat
-ancang
 ancas
 ancen
 anci
@@ -450,7 +448,6 @@ angu
 ani
 aniani
 anie
-anih
 anii
 anik
 anin
@@ -467,6 +464,7 @@ anjas
 anjay
 anjaya
 anji
+anjia
 anjing
 anjinge
 anjir
@@ -752,6 +750,7 @@ ayu
 ayuh
 ayuk
 az
+ba
 bab
 babai
 babat
@@ -801,6 +800,7 @@ batuk
 batur
 bau
 bayi
+be
 bebe
 bebek
 becak
@@ -933,7 +933,6 @@ buna
 buncis
 bunder
 bunga
-bungah
 buntil
 bunuh
 buri
@@ -1076,6 +1075,7 @@ danau
 dancok
 dandang
 dangdut
+dangkal
 dani
 danu
 dap
@@ -1094,7 +1094,6 @@ dawa
 dawuh
 dawuhe
 daya
-dayang
 deda
 dedak
 dede
@@ -1229,6 +1228,7 @@ duwit
 ealah
 ebah
 eban
+ebi
 eco
 ed
 eda
@@ -1330,6 +1330,7 @@ eleng
 eles
 eli
 elia
+elig
 elik
 elim
 elin
@@ -1366,6 +1367,7 @@ embun
 embung
 eme
 emem
+emen
 emer
 emi
 emik
@@ -1459,7 +1461,6 @@ epah
 epan
 epang
 epas
-epe
 epek
 epen
 epep
@@ -1586,6 +1587,7 @@ fafa
 fajar
 fantasi
 fase
+fisik
 fix
 fungsi
 ga
@@ -1758,7 +1760,6 @@ gel
 gela
 gelang
 gelap
-gelar
 gelas
 gelem
 geler
@@ -1802,9 +1803,9 @@ geng
 geni
 genjik
 geno
-gentar
 genteng
 genti
+genting
 gentong
 genuk
 geo
@@ -1868,6 +1869,7 @@ giring
 giru
 gisa
 gitar
+githok
 giwang
 gladhi
 glodog
@@ -2057,7 +2059,6 @@ haram
 harap
 harapan
 hare
-harep
 harga
 hari
 harian
@@ -2241,6 +2242,7 @@ ieu
 if
 iga
 igo
+iguh
 ih
 iha
 ihai
@@ -2309,7 +2311,6 @@ ilae
 ilag
 ilah
 ilahi
-ilai
 ilak
 ilaki
 ilala
@@ -2501,6 +2502,7 @@ istana
 istiadat
 istilah
 istimewa
+istirahat
 istri
 isu
 isue
@@ -2922,6 +2924,7 @@ kencot
 kencur
 kendang
 kendi
+kendil
 kene
 kenek
 keni
@@ -3146,6 +3149,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kucing
 kucur
 kuda
@@ -3322,6 +3326,7 @@ lasi
 lata
 latah
 latar
+lathi
 lati
 latih
 laut
@@ -3493,7 +3498,6 @@ lombok
 lomo
 lompat
 lon
-lona
 loncat
 longgar
 longgo
@@ -3605,6 +3609,7 @@ makan
 makarya
 maki
 maksa
+maku
 makul
 mal
 malaikat
@@ -3664,7 +3669,6 @@ marah
 marai
 marak
 maras
-marek
 marem
 mari
 mariem
@@ -3710,6 +3714,7 @@ megatruh
 meh
 meja
 mekar
+meki
 melas
 melek
 melet
@@ -3826,6 +3831,7 @@ mudeng
 mugi
 mugih
 muh
+mujair
 muji
 muk
 muka
@@ -3874,6 +3880,7 @@ muti
 na
 naa
 nab
+naba
 nabi
 nabok
 nabrak
@@ -4243,6 +4250,7 @@ ngelmu
 ngelom
 ngelu
 ngelumpuk
+ngelunja
 ngem
 ngembeh
 ngemen
@@ -4292,6 +4300,7 @@ ngg
 ngga
 nggae
 nggak
+nggali
 nggambar
 nggambuh
 nggatel
@@ -4376,7 +4385,6 @@ ngluku
 ngluruk
 ngobah
 ngobat
-ngoblok
 ngobrol
 ngocok
 ngodok
@@ -4652,6 +4660,7 @@ nyedi
 nyenul
 nyepi
 nyerat
+nyi
 nying
 nyolong
 nyong
@@ -4955,6 +4964,7 @@ pari
 paring
 paringi
 paris
+parit
 parkir
 paro
 pas
@@ -4965,6 +4975,7 @@ pasir
 pasti
 pasukan
 pasuruan
+pasya
 patah
 paten
 pati
@@ -5011,7 +5022,6 @@ pengecut
 pening
 peniti
 pensil
-penta
 pentil
 penting
 penyu
@@ -5046,6 +5056,7 @@ pijat
 pijet
 pijit
 pik
+pika
 pikir
 piku
 pikul
@@ -5572,6 +5583,7 @@ sakit
 sakti
 saku
 sakula
+sakut
 salah
 salahe
 salak
@@ -5763,6 +5775,7 @@ sisik
 sisil
 sisip
 sisir
+sit
 sita
 sitar
 siti
@@ -6026,6 +6039,7 @@ tele
 telek
 telenan
 teles
+teli
 telinga
 telo
 telon
@@ -6110,6 +6124,7 @@ tir
 tira
 tiris
 tiru
+tisa
 tisu
 tit
 tita
@@ -6198,6 +6213,7 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
+tumpul
 tumut
 tun
 tuna
@@ -6228,6 +6244,7 @@ ua
 uan
 uana
 uang
+ub
 uba
 uban
 ubang
@@ -6355,7 +6372,6 @@ ulen
 uler
 ulet
 uli
-ulia
 ulih
 ulik
 ulo
@@ -6454,6 +6470,7 @@ upa
 upah
 upan
 upang
+upas
 upaya
 upe
 upel
@@ -6527,7 +6544,6 @@ usik
 usil
 usir
 usiro
-uska
 uso
 usrek
 ustadz
@@ -6547,6 +6563,7 @@ uta
 utaa
 utae
 utah
+utai
 utak
 utama
 utan
@@ -6661,6 +6678,7 @@ wen
 wene
 wera
 wes
+wesa
 wesi
 weso
 weta
@@ -6696,10 +6714,10 @@ wiro
 wis
 wisa
 wisata
-wisnu
 wisuh
 wit
 witing
+wito
 wiwi
 wiwit
 wo
@@ -6715,7 +6733,6 @@ wonogiri
 wonten
 wor
 woro
-woti
 wowo
 wula
 wulan
