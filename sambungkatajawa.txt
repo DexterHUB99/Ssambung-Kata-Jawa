@@ -366,6 +366,7 @@ ampiran
 ampiri
 ampleng
 ampuh
+ampul
 ampun
 amrih
 amu
@@ -3138,6 +3139,7 @@ ketok
 keton
 ketos
 ketupat
+keturon
 kewan
 ki
 kiai
@@ -3393,6 +3395,7 @@ laba
 laban
 labe
 labet
+labi
 labu
 labuh
 lacut
