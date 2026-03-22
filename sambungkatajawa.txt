@@ -403,6 +403,7 @@ anat
 ancang
 ancas
 ancen
+ancer
 anci
 anco
 ancok
@@ -6290,6 +6291,7 @@ tambah
 tambal
 tambang
 tambel
+tambi
 tambir
 tambol
 tameng
