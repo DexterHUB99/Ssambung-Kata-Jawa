@@ -1325,6 +1325,7 @@ garangan
 garap
 garasi
 garda
+gardu
 garem
 garen
 gareng
@@ -4961,6 +4962,7 @@ uang
 uba
 uban
 ubang
+ube
 ubel
 ubi
 ubii
