@@ -71,6 +71,7 @@ agama
 agar
 agawe
 age
+ageh
 agem
 ageng
 ager
@@ -155,6 +156,7 @@ aio
 air
 aira
 aisin
+aita
 aiwa
 aiwak
 aiya
@@ -236,6 +238,7 @@ akuh
 akui
 akuiki
 akuk
+akum
 akun
 akuo
 akur
@@ -373,6 +376,7 @@ an
 ana
 anae
 anah
+anai
 anak
 anakan
 anake
@@ -444,6 +448,7 @@ angka
 angklung
 angkong
 angkring
+angkringan
 angkruk
 angkuh
 angling
@@ -517,6 +522,7 @@ anua
 anuh
 anui
 anum
+anung
 anup
 anur
 anus
@@ -783,11 +789,11 @@ bai
 bajak
 bajigur
 bajingan
-baju
 bak
 bakoh
 bakti
 baku
+bal
 bala
 balap
 balek
@@ -980,6 +986,7 @@ candi
 cangkruk
 cantik
 cape
+capung
 care
 cari
 cas
@@ -1001,6 +1008,7 @@ cemeng
 cenil
 cepak
 cerah
+ceret
 cewek
 ci
 cibi
@@ -1359,6 +1367,7 @@ elik
 elim
 elin
 eling
+elir
 elis
 elo
 eloh
@@ -1480,6 +1489,7 @@ entuk
 entung
 entut
 enu
+enyak
 enyong
 epa
 epah
@@ -1552,6 +1562,7 @@ eseman
 esi
 esih
 esil
+eso
 esoe
 esok
 eson
@@ -1589,7 +1600,6 @@ etul
 etum
 etur
 etus
-evan
 ew
 ewa
 ewae
@@ -1676,7 +1686,6 @@ gambang
 gambar
 gambare
 gambas
-gambleh
 gambuh
 gambut
 gambyong
@@ -1785,6 +1794,7 @@ gedhang
 gedhe
 gedhee
 gedhi
+gedor
 gedung
 gegayuhan
 geger
@@ -1900,7 +1910,6 @@ gincung
 gini
 ginjal
 girang
-girap
 giri
 giring
 giru
@@ -2032,6 +2041,7 @@ guyu
 guyub
 ha
 haa
+habib
 habibi
 habis
 hadap
@@ -2281,6 +2291,7 @@ idhu
 idi
 idih
 idii
+idni
 ido
 idu
 idue
@@ -2443,7 +2454,6 @@ ingin
 ingkang
 ingkung
 ingsun
-ingu
 ini
 inie
 inja
@@ -2603,6 +2613,7 @@ ja
 jadi
 jadul
 jae
+jagung
 jahat
 jai
 jail
@@ -2724,7 +2735,6 @@ juma
 jumpa
 jung
 jungkir
-juni
 jurang
 juri
 jurus
@@ -2896,6 +2906,7 @@ kates
 kathah
 kathok
 kati
+katil
 katok
 katon
 katrok
@@ -2937,7 +2948,6 @@ kela
 kelabang
 kelakuan
 kelam
-kelambe
 kelangan
 kelap
 kelar
@@ -2948,6 +2958,7 @@ kelebu
 kelek
 kelem
 keli
+kelima
 kelimis
 kelinan
 kelinci
@@ -2958,6 +2969,7 @@ kelor
 kelot
 keluarga
 kelum
+kem
 kemah
 kemang
 kemangi
@@ -3110,7 +3122,6 @@ kita
 kitab
 kite
 kiwa
-kiye
 klambi
 klepon
 kleru
@@ -3256,7 +3267,6 @@ kundur
 kune
 kung
 kuning
-kunir
 kuno
 kunta
 kunti
@@ -3406,6 +3416,7 @@ lawe
 lawu
 lawuh
 layak
+layanan
 layar
 layu
 le
@@ -3777,6 +3788,7 @@ mben
 mbok
 mboke
 mboten
+mbuh
 me
 medal
 medeni
@@ -3786,7 +3798,6 @@ megatruh
 meh
 meja
 mekar
-mekaten
 meki
 melas
 melek
@@ -3806,7 +3817,6 @@ meong
 mer
 mera
 merah
-merak
 merem
 meren
 mergo
@@ -3839,6 +3849,7 @@ mima
 mimi
 mimu
 min
+minal
 minggat
 minggu
 mingkem
@@ -3919,7 +3930,6 @@ mul
 mula
 mulae
 mulai
-mulane
 mulang
 mule
 muleh
@@ -3943,6 +3953,7 @@ muntah
 munyuk
 mur
 murah
+muran
 murka
 murung
 mus
@@ -3967,6 +3978,7 @@ nabung
 nada
 nadah
 nadi
+nadira
 nae
 nafas
 nag
@@ -4271,6 +4283,7 @@ ngarit
 ngarsa
 ngaruh
 ngarus
+ngas
 ngasah
 ngasak
 ngasal
@@ -4341,7 +4354,6 @@ ngemil
 ngemong
 ngemot
 ngemper
-ngemut
 ngen
 ngendi
 ngendika
@@ -4354,7 +4366,6 @@ ngenteni
 ngentu
 ngentut
 ngepa
-ngepang
 ngepel
 ngepet
 ngepi
@@ -4362,7 +4373,6 @@ ngepot
 nger
 ngerai
 ngerak
-ngerap
 ngere
 ngerem
 ngerepoti
@@ -4380,10 +4390,10 @@ ngetik
 ngetok
 ngetot
 ngewang
-ngewangi
 ngewe
 ngg
 ngga
+nggaa
 nggae
 nggak
 nggali
@@ -4489,7 +4499,6 @@ ngolak
 ngolek
 ngoles
 ngolo
-ngolok
 ngolong
 ngomah
 ngombal
@@ -4544,7 +4553,6 @@ ngudek
 ngudud
 ngudut
 nguji
-ngukir
 ngukur
 ngulang
 ngulek
@@ -4709,6 +4717,7 @@ nulis
 nulo
 nulung
 num
+numa
 numan
 numbas
 numbuk
@@ -4922,7 +4931,6 @@ oraiso
 orak
 oran
 orang
-orangutan
 oraono
 orapapa
 orapopo
@@ -5053,7 +5061,6 @@ papah
 papan
 papi
 papua
-par
 para
 parah
 pare
@@ -5580,7 +5587,6 @@ rom
 roma
 romah
 romawi
-rombak
 rombeng
 rombong
 rombongan
@@ -5664,6 +5670,7 @@ sabar
 sabat
 sabda
 saben
+sabet
 sabi
 sabtu
 sabuk
@@ -5690,6 +5697,7 @@ sakabehe
 sakal
 sakanane
 sakdurunge
+sakia
 sakit
 sakti
 saku
@@ -5755,8 +5763,10 @@ sarung
 sas
 sasa
 sasi
+sasimo
 sastra
 sate
+satos
 satria
 satu
 saung
@@ -6062,7 +6072,6 @@ ta
 taa
 taat
 taati
-tabek
 tabuh
 tabung
 tae
@@ -6195,6 +6204,7 @@ tera
 terang
 teras
 terasi
+teri
 terima
 ternak
 terong
@@ -6381,7 +6391,6 @@ ucul
 uda
 udah
 udak
-udal
 udam
 udan
 udanan
@@ -6430,7 +6439,6 @@ ukaa
 ukae
 ukai
 ukak
-ukal
 ukam
 ukan
 ukar
@@ -6581,7 +6589,6 @@ unta
 untah
 untal
 untel
-unter
 untir
 untu
 untuk
