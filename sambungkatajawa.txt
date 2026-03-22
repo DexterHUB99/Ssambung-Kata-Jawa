@@ -1398,6 +1398,7 @@ erok
 erong
 eror
 eros
+erosi
 eru
 eruh
 erup
@@ -4706,6 +4707,7 @@ pepaya
 pepe
 pepek
 pepes
+pepet
 perak
 peran
 perang
@@ -6246,6 +6248,7 @@ wedus
 wee
 wek
 wektu
+welas
 wele
 wen
 wene
