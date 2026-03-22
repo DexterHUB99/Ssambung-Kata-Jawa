@@ -2,6 +2,7 @@ aa
 aae
 aah
 aba
+abab
 abah
 abai
 abang
@@ -406,6 +407,7 @@ anur
 anus
 anyar
 anyep
+anying
 anyir
 anyong
 ap
@@ -2832,6 +2834,7 @@ luntur
 lupa
 luput
 lurah
+luru
 lurus
 lus
 lusa
@@ -4565,6 +4568,7 @@ silet
 silit
 silo
 sim
+sima
 simbah
 simi
 simpang
