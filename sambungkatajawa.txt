@@ -2057,6 +2057,7 @@ girang
 girap
 giri
 giring
+giris
 giru
 gisa
 gita
@@ -2664,6 +2665,7 @@ ipun
 ir
 ira
 irah
+irai
 irak
 iram
 irama
@@ -2866,6 +2868,7 @@ jikuk
 jil
 jilat
 jilati
+jilbab
 jilid
 jim
 jima
@@ -4169,6 +4172,7 @@ mual
 muatan
 mubah
 mubeng
+mudar
 mudeng
 muga
 mugi
