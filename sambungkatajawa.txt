@@ -956,6 +956,7 @@ buban
 bubu
 bubur
 bubut
+budak
 budal
 bude
 budek
@@ -3516,6 +3517,7 @@ lebah
 lebaran
 lebur
 lee
+leg
 lega
 legi
 leh
@@ -4429,6 +4431,7 @@ ngawit
 ngawor
 ngawur
 ngawuran
+ngayomi
 ngayuh
 ngcok
 nge
