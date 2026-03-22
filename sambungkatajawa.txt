@@ -2001,6 +2001,7 @@ kasor
 kasu
 kasuk
 kasur
+kasure
 kata
 katak
 katel
