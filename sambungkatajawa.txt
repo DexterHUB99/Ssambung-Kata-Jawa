@@ -289,6 +289,7 @@ aneh
 anek
 anep
 angan
+angaran
 angat
 angel
 angelan
@@ -3139,6 +3140,7 @@ niki
 nikmat
 niko
 niku
+nikung
 nila
 nilai
 nilam
