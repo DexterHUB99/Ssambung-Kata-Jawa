@@ -1085,6 +1085,7 @@ cuk
 cuka
 cuma
 cumi
+curhat
 curi
 curut
 da
@@ -3893,6 +3894,7 @@ mene
 mengko
 meni
 menika
+mentil
 menyang
 meong
 mer
@@ -5490,6 +5492,7 @@ ram
 rama
 ramah
 ramai
+ramal
 ramalan
 raman
 rambak
