@@ -783,7 +783,6 @@ bai
 bajak
 bajigur
 bajingan
-baju
 bak
 bakoh
 bakti
@@ -980,6 +979,7 @@ candi
 cangkruk
 cantik
 cape
+capung
 care
 cari
 cas
@@ -2891,6 +2891,7 @@ kates
 kathah
 kathok
 kati
+katil
 katok
 katon
 katrok
@@ -2932,7 +2933,6 @@ kela
 kelabang
 kelakuan
 kelam
-kelambe
 kelangan
 kelap
 kelar
@@ -3779,7 +3779,6 @@ megatruh
 meh
 meja
 mekar
-mekaten
 meki
 melas
 melek
@@ -4907,7 +4906,6 @@ oraiso
 orak
 oran
 orang
-orangutan
 oraono
 orapapa
 orapopo
@@ -5739,6 +5737,7 @@ sasa
 sasi
 sastra
 sate
+satos
 satria
 satu
 saung
