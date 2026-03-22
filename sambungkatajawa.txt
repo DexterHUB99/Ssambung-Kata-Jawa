@@ -5239,6 +5239,7 @@ pandawa
 pandu
 pang
 pangan
+pangapunten
 panggah
 panggon
 pangkur
