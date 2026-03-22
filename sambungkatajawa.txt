@@ -947,6 +947,7 @@ ef
 efek
 eg
 ege
+ego
 eh
 eha
 ehak
@@ -2659,6 +2660,7 @@ liane
 liar
 libur
 lidah
+lidok
 lih
 liha
 lihat
@@ -3139,6 +3141,7 @@ nasu
 nata
 natap
 nate
+nawar
 ndak
 ndang
 ndangan
@@ -4734,6 +4737,7 @@ tase
 tasi
 tata
 tatak
+tatas
 tatu
 taun
 tawa
