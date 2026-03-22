@@ -220,6 +220,7 @@ alur
 alus
 am
 ama
+amak
 amal
 amalan
 amam
@@ -576,6 +577,7 @@ ax
 ay
 aya
 ayah
+ayak
 ayam
 ayaman
 ayan
@@ -2579,6 +2581,7 @@ lampung
 lamunan
 lan
 lanang
+lancip
 landak
 landung
 langgar
@@ -4142,6 +4145,7 @@ rajin
 rajungan
 rajut
 rak
+rakit
 rako
 raku
 rakus
