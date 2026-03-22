@@ -3510,6 +3510,7 @@ ngarsa
 ngaruh
 ngasah
 ngasak
+ngaseh
 ngasehi
 ngasek
 ngasi
@@ -5198,6 +5199,7 @@ turi
 turu
 turuk
 tusa
+tusi
 tusu
 tusuk
 tut
