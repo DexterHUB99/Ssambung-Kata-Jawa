@@ -2361,6 +2361,7 @@ lele
 lelet
 lem
 lemah
+lemari
 lembah
 lemes
 lemet
@@ -2590,6 +2591,7 @@ markisa
 mas
 masa
 masak
+masang
 masih
 maso
 masuk
@@ -2909,6 +2911,7 @@ ngampiri
 ngampleng
 ngamuk
 ngana
+ngandang
 nganggo
 nganggu
 nganggur
@@ -3103,6 +3106,7 @@ ngori
 ngorok
 ngos
 ngosek
+ngoseng
 ngosok
 ngowah
 ngowoh
