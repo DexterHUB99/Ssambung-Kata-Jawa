@@ -4326,6 +4326,7 @@ ngalas
 ngalem
 ngaler
 ngali
+ngalis
 ngalon
 ngalor
 ngalu
@@ -4659,6 +4660,7 @@ ngos
 ngosek
 ngoseng
 ngosok
+ngot
 ngotak
 ngotot
 ngowah
