@@ -1235,6 +1235,7 @@ eroh
 erok
 erong
 eror
+eros
 eru
 eruh
 erup
@@ -2031,6 +2032,7 @@ ipa
 ipan
 ipar
 ipe
+ipel
 ipen
 iper
 ipi
@@ -4233,6 +4235,7 @@ pening
 peniti
 pensil
 pentil
+penting
 penyu
 pepaya
 pepe
