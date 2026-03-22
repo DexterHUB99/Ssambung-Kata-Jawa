@@ -460,6 +460,7 @@ aro
 arsila
 arta
 arti
+arto
 artos
 aru
 arum
@@ -1963,6 +1964,7 @@ isoe
 isok
 isoma
 isor
+isro
 istana
 istilah
 istimewa
@@ -2443,6 +2445,7 @@ kotang
 koti
 kotoran
 kowe
+kowen
 koyo
 koyok
 kram
