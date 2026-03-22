@@ -1095,6 +1095,7 @@ empek
 emper
 empik
 emping
+emprit
 empuk
 emu
 emun
@@ -1863,6 +1864,7 @@ iklas
 iklim
 iko
 ikoe
+ikon
 iku
 ikui
 ikulo
@@ -2983,6 +2985,7 @@ mara
 marah
 marai
 maras
+marem
 mari
 mariem
 markisa
@@ -3153,6 +3156,7 @@ musim
 musuh
 mutah
 mutan
+mute
 muter
 muti
 na
@@ -4442,6 +4446,7 @@ riska
 risma
 rita
 riwa
+riwayat
 riya
 riyo
 ro
@@ -4506,6 +4511,7 @@ rumit
 rumongso
 rumput
 rumu
+rumus
 run
 rung
 rungkad
