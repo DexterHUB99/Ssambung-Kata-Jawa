@@ -1893,6 +1893,7 @@ jos
 ju
 jual
 jujur
+jule
 jurang
 ka
 kabeh
@@ -3215,6 +3216,7 @@ nong
 nongkrong
 nonjok
 nono
+nontok
 nonton
 nop
 nopi
@@ -4040,6 +4042,7 @@ siapa
 sida
 sidang
 siji
+sika
 sikat
 sikil
 siku
