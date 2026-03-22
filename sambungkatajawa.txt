@@ -1085,6 +1085,7 @@ ere
 erek
 erem
 eren
+eret
 eri
 erik
 ering
@@ -1186,6 +1187,7 @@ gali
 galih
 galon
 gam
+gama
 gaman
 gambang
 gambar
