@@ -162,7 +162,6 @@ ajae
 ajag
 ajak
 ajal
-ajang
 ajar
 aje
 ajeg
@@ -1916,6 +1915,7 @@ gok
 gokil
 gol
 gola
+golak
 gole
 golek
 goleki
@@ -2255,7 +2255,6 @@ idae
 idam
 idaman
 ide
-iden
 idep
 ider
 idhu
@@ -2281,7 +2280,6 @@ ihki
 ihku
 ihla
 ihlo
-ihma
 ihna
 iho
 ihre
@@ -2605,7 +2603,6 @@ jancok
 jancuk
 janda
 janga
-jangkau
 jangkrik
 janji
 jar
@@ -2763,7 +2760,6 @@ kaliyan
 kalo
 kalok
 kalong
-kalor
 kalung
 kamal
 kamar
@@ -3397,7 +3393,6 @@ lem
 lemah
 lemari
 lembah
-lembut
 lemes
 lemet
 lemot
@@ -3722,7 +3717,6 @@ maso
 masuk
 mat
 mata
-matai
 matamu
 matane
 mate
@@ -3797,7 +3791,6 @@ mila
 milah
 mili
 milih
-milo
 milu
 mima
 mimi
@@ -4294,7 +4287,6 @@ ngelu
 ngelumpuk
 ngelunja
 ngem
-ngembang
 ngembeh
 ngemen
 ngemi
@@ -4429,7 +4421,6 @@ ngluruk
 ngobah
 ngobat
 ngoblok
-ngobong
 ngobrol
 ngocok
 ngodok
@@ -4805,7 +4796,6 @@ omae
 omah
 omahe
 oman
-omara
 ombak
 ombar
 ombe
@@ -5740,6 +5730,7 @@ sem
 sembah
 semen
 semene
+semir
 semok
 sempak
 sempurna
@@ -5983,7 +5974,6 @@ susun
 susuwi
 suti
 sutil
-suto
 sutri
 suw
 suwak
@@ -6102,7 +6092,6 @@ teluk
 telur
 tem
 teman
-tembak
 tembok
 tembung
 teme
@@ -6461,7 +6450,6 @@ umpama
 umpamane
 umpan
 umpet
-umrah
 umu
 umuk
 umum
@@ -6858,7 +6846,6 @@ yom
 yoma
 yoman
 yomi
-yon
 yonan
 yong
 yono
