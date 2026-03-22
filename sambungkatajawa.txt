@@ -3563,6 +3563,7 @@ lemper
 lemu
 lengan
 lenggah
+lengkap
 lengkuas
 lengo
 leper
@@ -4352,6 +4353,7 @@ ngalas
 ngalem
 ngaler
 ngali
+ngalih
 ngalis
 ngalon
 ngalor
