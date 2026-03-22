@@ -122,6 +122,7 @@ ahli
 ahlii
 ahmak
 aho
+ahoh
 ahok
 ahon
 ahor
@@ -163,7 +164,6 @@ ajae
 ajag
 ajak
 ajal
-ajang
 ajar
 aje
 ajeg
@@ -281,7 +281,6 @@ alok
 alon
 alor
 alot
-alow
 alu
 alug
 alum
@@ -564,7 +563,6 @@ arab
 arah
 arahan
 arai
-araj
 arak
 aram
 aran
@@ -782,6 +780,7 @@ bai
 bajak
 bajigur
 bajingan
+baju
 bak
 bakoh
 bakti
@@ -1260,14 +1259,12 @@ ef
 efek
 efu
 eg
-ega
 egah
 egang
 ege
 ego
 egoh
 egolan
-egrang
 eh
 eha
 ehak
@@ -1329,6 +1326,7 @@ ekot
 eksi
 ektika
 eku
+ekul
 ekun
 ekur
 el
@@ -1438,7 +1436,6 @@ eneg
 eneh
 enek
 enem
-enen
 eneng
 enep
 engah
@@ -1490,6 +1487,7 @@ epep
 epet
 epi
 epik
+epil
 epo
 epok
 epol
@@ -1586,7 +1584,6 @@ etum
 etur
 etus
 ew
-ewa
 ewae
 ewah
 ewak
@@ -1600,7 +1597,6 @@ ewoh
 ewohe
 ewok
 ex
-ey
 eya
 eyah
 eyak
@@ -1638,7 +1634,6 @@ gagas
 gagasan
 gagu
 gah
-gaib
 gairah
 gaja
 gajah
@@ -2267,7 +2262,6 @@ idae
 idam
 idaman
 ide
-iden
 idep
 ider
 idhu
@@ -2280,7 +2274,6 @@ idue
 ieu
 if
 iga
-igah
 igo
 iguh
 ih
@@ -2294,7 +2287,6 @@ ihki
 ihku
 ihla
 ihlo
-ihma
 ihna
 iho
 ihre
@@ -2618,7 +2610,6 @@ jancok
 jancuk
 janda
 janga
-jangkau
 jangkrik
 janji
 jar
@@ -2763,6 +2754,7 @@ kal
 kala
 kalah
 kalak
+kalap
 kale
 kaleh
 kalem
@@ -2776,7 +2768,6 @@ kaliyan
 kalo
 kalok
 kalong
-kalor
 kalung
 kamal
 kamar
@@ -2899,6 +2890,7 @@ kawen
 kaweruh
 kawi
 kawin
+kawir
 kawohan
 kawula
 kaya
@@ -2926,6 +2918,7 @@ kela
 kelabang
 kelakuan
 kelam
+kelambe
 kelangan
 kelap
 kelar
@@ -3218,7 +3211,6 @@ kul
 kula
 kulak
 kulan
-kulang
 kule
 kuli
 kulina
@@ -3294,7 +3286,6 @@ labet
 labu
 labuh
 lacut
-laden
 lagek
 lagi
 lagu
@@ -3414,7 +3405,6 @@ lem
 lemah
 lemari
 lembah
-lembut
 lemes
 lemet
 lemot
@@ -3476,7 +3466,6 @@ linang
 lincah
 lindhu
 linggis
-lingkar
 lingkaran
 lingkung
 lingkungan
@@ -3697,6 +3686,7 @@ mangan
 manggih
 manggis
 manggon
+mangkana
 mangkat
 mangke
 mangkel
@@ -3740,7 +3730,6 @@ maso
 masuk
 mat
 mata
-matai
 matamu
 matane
 mate
@@ -3771,6 +3760,7 @@ megatruh
 meh
 meja
 mekar
+mekaten
 meki
 melas
 melek
@@ -3785,6 +3775,7 @@ memek
 mene
 mengko
 meni
+menyang
 meong
 mer
 mera
@@ -3815,7 +3806,6 @@ mila
 milah
 mili
 milih
-milo
 milu
 mima
 mimi
@@ -4157,6 +4147,7 @@ ngadu
 ngaduk
 ngadul
 ngadus
+ngadusi
 ngae
 ngaga
 ngagem
@@ -4285,6 +4276,7 @@ ngayuh
 ngcok
 nge
 ngebas
+ngebul
 ngece
 ngecek
 ngedang
@@ -4312,7 +4304,6 @@ ngelu
 ngelumpuk
 ngelunja
 ngem
-ngembang
 ngembeh
 ngemen
 ngemi
@@ -4447,7 +4438,6 @@ ngluruk
 ngobah
 ngobat
 ngoblok
-ngobong
 ngobrol
 ngocok
 ngodok
@@ -4532,6 +4522,7 @@ ngulur
 ngumbah
 ngumbahi
 ngumbas
+ngumbel
 ngumi
 ngumpet
 ngumpul
@@ -4552,6 +4543,7 @@ ngupil
 nguping
 nguras
 ngurip
+ngurmati
 nguru
 ngurus
 ngurusi
@@ -4817,13 +4809,13 @@ olong
 olop
 olor
 olos
+olot
 om
 oma
 omae
 omah
 omahe
 oman
-omara
 ombak
 ombar
 ombe
@@ -4892,6 +4884,7 @@ oraiso
 orak
 oran
 orang
+orangutan
 oraono
 orapapa
 orapopo
@@ -5257,6 +5250,7 @@ pulau
 pulen
 puli
 pulo
+pulsa
 puluh
 puma
 pun
@@ -5403,6 +5397,7 @@ rayap
 rayu
 re
 reang
+rebak
 rebo
 rebung
 rebus
@@ -5637,7 +5632,6 @@ sadewa
 sadurung
 sae
 saestu
-saged
 saget
 sagu
 sah
@@ -5699,6 +5693,7 @@ santai
 santen
 santo
 santun
+saos
 sapa
 sapi
 sapo
@@ -5719,7 +5714,6 @@ sasa
 sasi
 sastra
 sate
-satria
 satu
 saung
 saur
@@ -5955,7 +5949,6 @@ sumber
 sumeh
 sumenep
 sumerep
-sumi
 sumpah
 sumringah
 sumuk
@@ -6008,7 +6001,6 @@ susun
 susuwi
 suti
 sutil
-suto
 sutri
 suw
 suwak
@@ -6116,7 +6108,6 @@ telan
 telat
 tele
 telek
-telen
 telenan
 teles
 teli
@@ -6128,7 +6119,6 @@ teluk
 telur
 tem
 teman
-tembak
 tembok
 tembung
 teme
@@ -6395,7 +6385,6 @@ ukan
 ukar
 ukara
 ukas
-ukasa
 uke
 ukel
 ukep
@@ -6488,7 +6477,6 @@ umpama
 umpamane
 umpan
 umpet
-umrah
 umu
 umuk
 umum
@@ -6600,7 +6588,6 @@ uruki
 urun
 urunan
 urung
-urup
 urus
 urusa
 urusan
@@ -6732,6 +6719,7 @@ war
 waras
 warek
 wareng
+warga
 warisan
 warna
 warung
@@ -6739,7 +6727,6 @@ was
 wasi
 waso
 watak
-water
 wati
 waton
 watu
@@ -6763,6 +6750,7 @@ wektu
 welas
 wele
 wen
+wenang
 wene
 wera
 wes
@@ -6844,7 +6832,6 @@ yalo
 yama
 yamaha
 yaman
-yamu
 yan
 yana
 yang
@@ -6865,7 +6852,6 @@ yawes
 yawis
 yaya
 yayi
-ye
 yek
 yen
 yere
@@ -6889,7 +6875,6 @@ yom
 yoma
 yoman
 yomi
-yon
 yonan
 yong
 yono
