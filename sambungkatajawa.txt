@@ -435,6 +435,7 @@ aram
 arane
 arang
 aras
+ardi
 are
 arek
 arem
@@ -519,6 +520,7 @@ atene
 atep
 ati
 atik
+atin
 atine
 atira
 atis
@@ -1410,6 +1412,7 @@ giling
 gilir
 gilo
 gim
+gima
 gimi
 gina
 gincu
@@ -2796,6 +2799,7 @@ mak
 maka
 makam
 makan
+maki
 maksa
 makul
 malaikat
@@ -3004,6 +3008,7 @@ mutah
 mutan
 muti
 na
+naber
 nabi
 nabok
 nabrak
@@ -3021,6 +3026,7 @@ nah
 naha
 nai
 naik
+naing
 najan
 najis
 nak
@@ -3284,6 +3290,7 @@ ngece
 ngeden
 ngefek
 ngeh
+ngehe
 ngejek
 ngela
 ngelap
@@ -3433,6 +3440,7 @@ ngosek
 ngoseng
 ngosok
 ngotak
+ngotot
 ngowah
 ngowoh
 ngoyak
@@ -3782,6 +3790,7 @@ osing
 osir
 osoh
 osok
+osor
 osora
 ot
 otak
@@ -5297,6 +5306,7 @@ yonan
 yono
 yoopo
 yos
+yosan
 yoto
 yowes
 yoya
