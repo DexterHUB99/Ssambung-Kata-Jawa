@@ -2105,6 +2105,7 @@ isan
 isanan
 isap
 ise
+isee
 isek
 iseng
 isep
@@ -4203,6 +4204,7 @@ panah
 panas
 pancen
 panci
+pandan
 pandang
 pandawa
 pandu
