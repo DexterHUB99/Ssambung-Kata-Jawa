@@ -100,7 +100,6 @@ ahe
 ahek
 ahem
 aher
-ahey
 ahh
 ahhh
 ahi
@@ -129,6 +128,7 @@ ahu
 ahuk
 ahun
 ahur
+ahus
 ahut
 ahuy
 ai
@@ -141,6 +141,7 @@ aiku
 ail
 aila
 ailan
+aile
 aili
 aima
 aimu
@@ -236,7 +237,6 @@ akuo
 akur
 akus
 akut
-akuy
 al
 ala
 alae
@@ -296,6 +296,7 @@ amam
 aman
 amanah
 amar
+amara
 amarga
 amargi
 amas
@@ -352,7 +353,6 @@ ampir
 ampiran
 ampiri
 ampleng
-ampu
 ampuh
 ampun
 amrih
@@ -381,6 +381,7 @@ anar
 anas
 anasi
 anat
+ancang
 ancas
 ancen
 anci
@@ -449,6 +450,7 @@ angu
 ani
 aniani
 anie
+anih
 anii
 anik
 anin
@@ -931,6 +933,7 @@ buna
 buncis
 bunder
 bunga
+bungah
 buntil
 bunuh
 buri
@@ -1091,6 +1094,7 @@ dawa
 dawuh
 dawuhe
 daya
+dayang
 deda
 dedak
 dede
@@ -1229,7 +1233,6 @@ eco
 ed
 eda
 edah
-edam
 edan
 edanwa
 edar
@@ -1456,6 +1459,7 @@ epah
 epan
 epang
 epas
+epe
 epek
 epen
 epep
@@ -1491,7 +1495,6 @@ eres
 eret
 eri
 erik
-erika
 ering
 erip
 ero
@@ -1755,6 +1758,7 @@ gel
 gela
 gelang
 gelap
+gelar
 gelas
 gelem
 geler
@@ -1798,6 +1802,7 @@ geng
 geni
 genjik
 geno
+gentar
 genteng
 genti
 gentong
@@ -2052,6 +2057,7 @@ haram
 harap
 harapan
 hare
+harep
 harga
 hari
 harian
@@ -2303,6 +2309,7 @@ ilae
 ilag
 ilah
 ilahi
+ilai
 ilak
 ilaki
 ilala
@@ -2397,7 +2404,6 @@ injing
 injuk
 insan
 insyaallah
-internet
 inti
 intil
 intine
@@ -2818,7 +2824,6 @@ kasihan
 kasin
 kasir
 kasor
-kasti
 kasu
 kasuk
 kasur
@@ -2836,7 +2841,6 @@ katok
 katon
 katrok
 katuk
-katul
 katung
 katup
 kawah
@@ -2999,7 +3003,6 @@ kidung
 kie
 kijang
 kijing
-kik
 kika
 kiki
 kikil
@@ -3490,6 +3493,7 @@ lombok
 lomo
 lompat
 lon
+lona
 loncat
 longgar
 longgo
@@ -3660,6 +3664,7 @@ marah
 marai
 marak
 maras
+marek
 marem
 mari
 mariem
@@ -3726,7 +3731,6 @@ meren
 mergo
 meri
 merpati
-mes
 mesake
 mesem
 mesin
@@ -4372,6 +4376,7 @@ ngluku
 ngluruk
 ngobah
 ngobat
+ngoblok
 ngobrol
 ngocok
 ngodok
@@ -4443,7 +4448,6 @@ ngudud
 ngudut
 nguji
 ngukur
-ngukus
 ngulang
 ngulek
 nguli
@@ -4825,7 +4829,6 @@ oreg
 orek
 oren
 oreng
-orep
 orewa
 organisasi
 ori
@@ -5008,6 +5011,7 @@ pengecut
 pening
 peniti
 pensil
+penta
 pentil
 penting
 penyu
@@ -5021,7 +5025,6 @@ peran
 perang
 pere
 perek
-peri
 pesan
 peso
 pete
@@ -5165,7 +5168,6 @@ puan
 puasa
 pucuk
 puja
-pujaan
 puk
 puki
 puko
@@ -6353,6 +6355,7 @@ ulen
 uler
 ulet
 uli
+ulia
 ulih
 ulik
 ulo
@@ -6524,6 +6527,7 @@ usik
 usil
 usir
 usiro
+uska
 uso
 usrek
 ustadz
@@ -6692,6 +6696,7 @@ wiro
 wis
 wisa
 wisata
+wisnu
 wisuh
 wit
 witing
@@ -6710,6 +6715,7 @@ wonogiri
 wonten
 wor
 woro
+woti
 wowo
 wula
 wulan
