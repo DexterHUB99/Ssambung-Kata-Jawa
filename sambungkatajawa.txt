@@ -6171,6 +6171,7 @@ solar
 solat
 sole
 soli
+solit
 solo
 somat
 sombong
@@ -6654,6 +6655,7 @@ udal
 udam
 udan
 udanan
+udane
 udang
 udara
 udeg
