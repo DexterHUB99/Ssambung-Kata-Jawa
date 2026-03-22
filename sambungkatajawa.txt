@@ -227,6 +227,7 @@ akit
 ako
 akob
 akoh
+akoi
 akol
 akon
 akone
@@ -1318,6 +1319,7 @@ dulan
 dulang
 dulen
 dulo
+dulu
 dulur
 dumeh
 dungo
@@ -4257,6 +4259,7 @@ nakir
 nako
 nakon
 nakoni
+naksir
 nakula
 nakuti
 nala
