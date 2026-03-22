@@ -684,6 +684,7 @@ bai
 bajak
 bajigur
 bajingan
+bakoh
 bakti
 baku
 bala
@@ -2485,6 +2486,7 @@ kapok
 kaprah
 kapuk
 kara
+karak
 karam
 karan
 karang
@@ -2717,6 +2719,7 @@ kitab
 kite
 kiwa
 klambi
+klepon
 kleru
 kliwon
 ko
