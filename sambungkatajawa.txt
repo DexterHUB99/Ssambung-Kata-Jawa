@@ -984,6 +984,7 @@ bula
 bulan
 bulat
 bulik
+bulo
 bulu
 bumbu
 bumi
@@ -1361,6 +1362,7 @@ ehir
 eho
 ehop
 ehu
+ehuy
 eiwak
 eja
 ejag
@@ -4719,6 +4721,7 @@ ngonde
 ngondur
 ngong
 ngono
+ngonoe
 ngonten
 ngontol
 ngontrol
