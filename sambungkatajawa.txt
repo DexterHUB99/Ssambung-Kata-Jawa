@@ -542,7 +542,6 @@ bandeng
 banyu
 bas
 basi
-baskom
 bathuk
 batuk
 bau
@@ -561,6 +560,7 @@ beli
 belo
 ben
 bendo
+bene
 bener
 berak
 besan
@@ -682,7 +682,6 @@ coklat
 col
 coli
 combro
-congklak
 congor
 coro
 cu
@@ -784,6 +783,7 @@ dosa
 duda
 dudo
 dudu
+duga
 duha
 duit
 duku
@@ -800,6 +800,7 @@ dupak
 duren
 duri
 duria
+durian
 duro
 durung
 duso
@@ -849,7 +850,6 @@ ekeh
 ekek
 ekel
 ekem
-eken
 ekep
 eker
 eket
@@ -951,13 +951,13 @@ endol
 eneg
 eneh
 enek
-enem
 eneng
 enep
 enggal
 enggeh
 enggih
 engkang
+engklek
 engko
 engkol
 eni
@@ -970,7 +970,6 @@ enjoy
 eno
 enok
 enong
-enri
 entar
 ente
 entek
@@ -1079,11 +1078,13 @@ gadungan
 gae
 gagah
 gagak
+gagang
 gagu
 gah
 gajah
 gaje
 gaji
+gajul
 gak
 gakusah
 gal
@@ -1138,6 +1139,7 @@ gapura
 gar
 gara
 garai
+garangan
 garap
 garem
 gareng
@@ -1556,7 +1558,6 @@ ij
 ija
 ijab
 ijak
-ijek
 ijen
 iji
 ijin
@@ -1802,7 +1803,6 @@ jidat
 jigong
 jijik
 jika
-jila
 jilat
 jilid
 jimat
@@ -1826,6 +1826,7 @@ jol
 jombang
 jomlo
 jong
+joni
 jontor
 joran
 jorok
@@ -1833,6 +1834,7 @@ jos
 ju
 jual
 jujur
+jurang
 ka
 kabeh
 kabel
@@ -1918,7 +1920,6 @@ karma
 karo
 karpet
 karung
-kas
 kasa
 kasar
 kasep
@@ -1966,7 +1967,6 @@ kelingan
 keliru
 kelon
 kelor
-kelos
 kelot
 kelum
 kemah
@@ -1984,7 +1984,6 @@ kencot
 kencur
 kendi
 kene
-kenek
 keni
 kenon
 kentang
@@ -2467,6 +2466,7 @@ mahal
 mai
 main
 maju
+mak
 maka
 makam
 makan
@@ -2502,7 +2502,6 @@ manjing
 manten
 mantep
 mantepe
-mantuk
 manuk
 manukku
 mapan
@@ -2511,6 +2510,7 @@ marah
 marai
 maras
 mariem
+markisa
 mas
 masa
 masak
@@ -2583,7 +2583,6 @@ misa
 misah
 misu
 misuh
-mlebu
 mo
 moco
 modar
@@ -2657,7 +2656,6 @@ muti
 na
 nabi
 nabrak
-nabung
 nada
 nae
 nafas
@@ -2852,7 +2850,6 @@ ngapusi
 ngarai
 ngarak
 ngarang
-ngarani
 ngare
 ngareng
 ngarep
@@ -2873,7 +2870,6 @@ ngasing
 ngaso
 ngasu
 ngasuh
-ngati
 ngatur
 ngawa
 ngawasi
@@ -3260,7 +3256,6 @@ ombo
 omboh
 ome
 omi
-omko
 ommo
 omo
 omong
@@ -3398,7 +3393,6 @@ parkir
 pas
 pasa
 pasar
-pasi
 pasir
 patuh
 patung
@@ -3412,6 +3406,7 @@ pedang
 pedot
 pegat
 pegel
+peju
 pek
 peking
 pekok
@@ -3574,6 +3569,7 @@ ragat
 ragelem
 ragi
 rah
+rahayu
 rahmat
 rai
 raib
@@ -3909,14 +3905,13 @@ semok
 sempak
 sempurna
 seng
-senin
 sepi
 serat
 seri
 seru
-sese
 sesek
 sesok
+setan
 sholat
 si
 sia
@@ -3963,7 +3958,6 @@ sitok
 siwa
 so
 soasu
-soba
 soca
 sogok
 sok
@@ -4043,6 +4037,7 @@ supe
 supi
 sura
 surat
+surau
 suri
 suro
 suruh
@@ -4228,7 +4223,6 @@ tuku
 tukul
 tulang
 tuli
-tulip
 tulis
 tulung
 tulus
@@ -4335,6 +4329,7 @@ ukura
 ukuran
 ukurane
 ukure
+ukurna
 ul
 ula
 ulah
