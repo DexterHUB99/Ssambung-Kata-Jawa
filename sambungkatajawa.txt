@@ -4167,6 +4167,7 @@ pilah
 pilak
 pilang
 pilar
+pilat
 pilek
 pilot
 pilu
@@ -5219,6 +5220,7 @@ ulama
 ulan
 ulang
 ulangan
+ulani
 ulap
 ulapan
 ular
