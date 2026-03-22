@@ -62,6 +62,7 @@ agar
 agawe
 age
 agem
+ageng
 agi
 agil
 agit
@@ -958,6 +959,7 @@ cocok
 cocot
 cocote
 cocotmu
+codet
 codot
 cok
 cokel
@@ -2821,6 +2823,7 @@ keraos
 kerap
 keras
 kere
+kerek
 kerem
 keren
 kereta
@@ -6506,6 +6509,7 @@ yok
 yoli
 yolo
 yom
+yoma
 yoman
 yomi
 yonan
