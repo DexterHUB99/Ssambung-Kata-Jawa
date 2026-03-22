@@ -4033,6 +4033,7 @@ renggang
 renggo
 renta
 reog
+rep
 repot
 rere
 rero
@@ -4921,6 +4922,7 @@ usung
 usus
 ususus
 usut
+usuta
 uta
 utae
 utah
