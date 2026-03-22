@@ -2124,6 +2124,7 @@ hiu
 hm
 hmm
 ho
+hoa
 hobi
 hoe
 hoh
@@ -4047,6 +4048,7 @@ ngadoh
 ngadon
 ngadu
 ngaduk
+ngadul
 ngadus
 ngae
 ngaga
@@ -4687,6 +4689,7 @@ oleng
 oles
 oli
 olih
+olik
 olo
 oloe
 oloh
