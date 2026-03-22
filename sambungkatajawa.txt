@@ -792,6 +792,7 @@ dino
 dipa
 dipan
 dipun
+dira
 diri
 dis
 disana
@@ -2053,6 +2054,7 @@ kencur
 kendi
 kene
 keni
+kenok
 kenon
 kentang
 kenthir
