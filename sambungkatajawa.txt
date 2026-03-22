@@ -5196,6 +5196,7 @@ tunas
 tunggal
 tunggu
 tuntun
+turah
 turi
 turu
 turuk
@@ -5716,6 +5717,7 @@ yuli
 yumi
 yura
 yuran
+yurika
 yus
 yusa
 yusra
