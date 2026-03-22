@@ -661,6 +661,7 @@ bihun
 bik
 bil
 bila
+bili
 bin
 bindeng
 bingo
@@ -1464,6 +1465,7 @@ goblok
 gobloki
 gocekan
 godek
+godhok
 godhong
 godog
 godok
@@ -3199,6 +3201,7 @@ neme
 nemen
 nempel
 nempik
+nempil
 nemu
 nen
 nene
@@ -4203,6 +4206,7 @@ rapa
 rape
 rapi
 rapina
+rapo
 rapopo
 rapu
 rapuh
