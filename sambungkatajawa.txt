@@ -127,7 +127,6 @@ aiko
 aiku
 ail
 aila
-ailan
 aili
 aima
 aimu
@@ -147,7 +146,6 @@ ajae
 ajag
 ajak
 ajal
-ajar
 ajek
 ajeng
 aji
@@ -221,7 +219,6 @@ al
 ala
 alae
 alah
-alai
 alam
 alama
 alami
@@ -341,7 +338,6 @@ anah
 anak
 anakan
 anake
-anaking
 anal
 anam
 anan
@@ -562,7 +558,6 @@ arum
 arumi
 arus
 arwah
-arwana
 as
 asa
 asaa
@@ -682,7 +677,6 @@ awi
 awis
 awit
 awo
-awoh
 awu
 awur
 ax
@@ -704,7 +698,6 @@ ayoa
 ayok
 ayu
 ayuh
-ayuk
 az
 bab
 babat
@@ -754,7 +747,6 @@ bayi
 bebe
 bebek
 becak
-becek
 beci
 beda
 bedo
@@ -1035,11 +1027,9 @@ demak
 demek
 demit
 demo
-demok
 dengkul
 depak
 dere
-derek
 dereng
 deres
 deri
@@ -1101,7 +1091,6 @@ dolanan
 domba
 dompet
 dongkrak
-dongo
 doni
 dono
 dor
@@ -1236,7 +1225,6 @@ ele
 eleh
 elek
 elekan
-elel
 elem
 elemen
 eleng
@@ -1606,7 +1594,6 @@ garwa
 gas
 gasa
 gasak
-gasi
 gasik
 gasing
 gata
@@ -1614,7 +1601,6 @@ gatak
 gatau
 gatel
 gateli
-gati
 gatot
 gaul
 gawa
@@ -1702,7 +1688,6 @@ gera
 gerah
 gerak
 gerang
-gere
 gereng
 geri
 gering
@@ -1833,7 +1818,6 @@ guling
 gulu
 gulung
 gumam
-gumuh
 gumuk
 gumun
 gun
@@ -2012,7 +1996,6 @@ hilang
 himpun
 himpunan
 hina
-hinaan
 hinggap
 hira
 hiri
@@ -2059,7 +2042,6 @@ hubla
 hubung
 huda
 hujan
-huka
 hukum
 hula
 hulu
@@ -2258,7 +2240,6 @@ ingkung
 ingsun
 ini
 inie
-inja
 injak
 injek
 inji
@@ -2275,7 +2256,6 @@ inul
 ip
 ipa
 ipan
-ipanan
 ipar
 ipe
 ipel
@@ -2408,6 +2388,7 @@ iyul
 iz
 ja
 jadi
+jadul
 jae
 jahat
 jai
@@ -2635,7 +2616,6 @@ karat
 karbit
 kare
 karem
-karempu
 karena
 karep
 karepe
@@ -2668,7 +2648,6 @@ kasuk
 kasur
 kasure
 kasus
-kasut
 kata
 katah
 katak
@@ -2753,7 +2732,6 @@ kencur
 kendang
 kendi
 kene
-kenek
 keni
 kenok
 kenon
@@ -2780,7 +2758,6 @@ kepol
 kepriye
 ker
 kera
-kerak
 keramas
 keran
 kerana
@@ -2951,7 +2928,6 @@ kota
 kotak
 kotang
 koti
-kotor
 kotoran
 kowe
 kowen
@@ -3114,9 +3090,7 @@ lantun
 lantur
 laos
 lap
-lapa
 lapang
-lapar
 lapi
 lapis
 lapo
@@ -3129,7 +3103,6 @@ lari
 laron
 las
 lasa
-lasi
 lata
 latah
 latar
@@ -3223,7 +3196,6 @@ limolas
 limpa
 limu
 limun
-lin
 lina
 linang
 lincah
@@ -3310,7 +3282,6 @@ longor
 longsor
 lonjak
 lonjong
-lono
 lontar
 lonte
 lontong
@@ -3423,7 +3394,6 @@ maling
 malu
 mam
 mama
-mamah
 mamak
 mamakan
 mamake
@@ -3448,7 +3418,6 @@ mangke
 mangkel
 mangu
 mani
-maning
 manis
 manjing
 manjur
@@ -3653,7 +3622,6 @@ muntah
 munyuk
 mur
 murah
-murka
 murung
 mus
 musa
@@ -4059,7 +4027,6 @@ ngesot
 ngetan
 ngetik
 ngetok
-ngetot
 ngewang
 ngewe
 ngg
@@ -4067,7 +4034,6 @@ ngga
 nggae
 nggak
 nggambar
-nggambuh
 nggatel
 nggateli
 nggawae
@@ -4117,7 +4083,6 @@ ngintil
 ngintip
 nginum
 ngipa
-ngipas
 ngira
 ngirai
 ngiras
@@ -4562,7 +4527,6 @@ opor
 or
 ora
 orae
-orah
 orai
 oraiso
 orak
@@ -4582,6 +4546,7 @@ oreng
 orewa
 organisasi
 ori
+oring
 orok
 orong
 oros
@@ -4659,7 +4624,6 @@ pam
 paman
 pamrih
 pan
-pana
 panah
 panas
 pancen
@@ -4669,7 +4633,6 @@ pandang
 pandawa
 pandu
 pang
-pangan
 panggah
 panggon
 pangkur
@@ -4778,7 +4741,6 @@ picara
 picek
 picuk
 pidana
-pidang
 pidhak
 pie
 pii
@@ -4833,7 +4795,6 @@ pisah
 pisan
 pisang
 pisek
-pisuh
 pit
 pita
 pitak
@@ -4870,7 +4831,6 @@ polan
 poleh
 poli
 polisi
-poll
 polo
 polri
 pomi
@@ -4964,7 +4924,6 @@ rajin
 rajungan
 rajut
 rak
-raka
 rakit
 rako
 raku
@@ -5028,7 +4987,6 @@ rasis
 raso
 rasu
 rasuk
-rasul
 ratau
 rati
 ratna
@@ -5137,7 +5095,6 @@ rina
 rindu
 ring
 ringa
-ringin
 ringkas
 rini
 rinja
@@ -5153,7 +5110,6 @@ rise
 risi
 risih
 riska
-riski
 risma
 rismo
 rita
@@ -5216,7 +5172,6 @@ ruang
 rubuh
 rugi
 ruh
-ruhi
 rui
 rujak
 rujuk
@@ -5393,7 +5348,6 @@ semok
 sempak
 sempurna
 semut
-seneng
 seng
 sepi
 ser
@@ -5412,7 +5366,6 @@ sewu
 sholat
 si
 sia
-siaan
 siah
 sial
 siap
@@ -5585,7 +5538,6 @@ supa
 supaya
 supe
 supi
-supo
 sur
 sura
 surabaya
@@ -5686,7 +5638,6 @@ tap
 tape
 tapi
 tapir
-tapuk
 tara
 tarang
 tari
@@ -5764,7 +5715,6 @@ tik
 tika
 tikar
 tiki
-tiktok
 tikung
 tikus
 tila
@@ -5929,7 +5879,6 @@ udah
 udak
 udam
 udan
-udanan
 udang
 udara
 udeg
@@ -6109,7 +6058,6 @@ uni
 unila
 unine
 uninga
-unja
 unjang
 unjuk
 uno
@@ -6134,7 +6082,6 @@ upang
 upaya
 upel
 upi
-upik
 upil
 upo
 ur
