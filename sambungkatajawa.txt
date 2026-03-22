@@ -1992,6 +1992,7 @@ goleki
 goleko
 goler
 golet
+goli
 golo
 golong
 gombal
