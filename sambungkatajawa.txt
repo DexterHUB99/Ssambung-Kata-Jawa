@@ -656,6 +656,7 @@ bali
 baliho
 balok
 bambang
+bambu
 banci
 bandeng
 banyu
@@ -1771,6 +1772,7 @@ heli
 helikopter
 helo
 hem
+hema
 hemat
 heni
 heo
