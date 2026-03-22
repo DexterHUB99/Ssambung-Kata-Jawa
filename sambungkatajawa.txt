@@ -1510,6 +1510,7 @@ estri
 estu
 esu
 esuk
+esul
 esur
 eta
 etah
@@ -2586,6 +2587,7 @@ jil
 jilat
 jilati
 jilid
+jim
 jima
 jimat
 jimbar
@@ -4586,6 +4588,7 @@ nuwun
 nya
 nyai
 nyambi
+nyamuk
 nyantai
 nyanyi
 nyata
