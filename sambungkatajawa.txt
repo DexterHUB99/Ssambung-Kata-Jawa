@@ -28,6 +28,7 @@ acu
 ad
 ada
 adaa
+adab
 adah
 adai
 adak
@@ -409,6 +410,7 @@ angklung
 angkring
 angkruk
 angkuh
+angling
 anglo
 angon
 angop
@@ -1211,6 +1213,7 @@ ekae
 ekah
 ekai
 ekak
+ekal
 ekan
 ekar
 ekay
@@ -3996,6 +3999,7 @@ ngapak
 ngapal
 ngapel
 ngapeli
+ngapik
 ngaplo
 ngapu
 ngapung
@@ -5785,6 +5789,7 @@ tatu
 taun
 tawa
 tawon
+te
 tebu
 tegak
 teguh
