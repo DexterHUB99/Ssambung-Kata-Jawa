@@ -3095,6 +3095,7 @@ kelar
 kelas
 kelat
 kelawan
+kelebon
 kelebu
 kelek
 kelem
@@ -4555,6 +4556,7 @@ ngelu
 ngelumpuk
 ngelunja
 ngem
+ngemak
 ngembang
 ngembeh
 ngemen
@@ -6374,6 +6376,7 @@ take
 taki
 takjil
 takon
+taksi
 taku
 takut
 tale
