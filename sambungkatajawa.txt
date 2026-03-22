@@ -3764,6 +3764,7 @@ pacul
 pada
 padae
 padang
+padha
 padhang
 pados
 padu
@@ -4400,6 +4401,7 @@ seru
 sesek
 sesok
 setan
+setunggal
 sholat
 si
 sia
