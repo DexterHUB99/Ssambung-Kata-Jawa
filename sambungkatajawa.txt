@@ -343,6 +343,7 @@ anep
 angan
 angaran
 angat
+ange
 angel
 angelan
 angen
@@ -369,6 +370,7 @@ angsuran
 angu
 ani
 aniani
+anie
 anik
 anin
 aning
@@ -1091,6 +1093,7 @@ elok
 elon
 elor
 elu
+eluh
 elus
 em
 ema
@@ -1823,6 +1826,7 @@ hujan
 hukum
 hula
 hulu
+huma
 human
 humor
 huni
@@ -2206,6 +2210,7 @@ jiwa
 jo
 jodoh
 jogja
+joglo
 jogo
 jok
 joke
@@ -3550,6 +3555,7 @@ ngcok
 nge
 ngebas
 ngece
+ngecek
 ngeden
 ngefek
 ngeh
@@ -4802,6 +4808,7 @@ sesok
 sesuk
 setan
 setunggal
+sewu
 sholat
 si
 sia
