@@ -1392,6 +1392,7 @@ epon
 epos
 epuh
 epuk
+epul
 er
 era
 eraa
@@ -2714,6 +2715,7 @@ ke
 kebab
 kebang
 kebo
+kecap
 kedah
 kediri
 kedondong
