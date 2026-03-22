@@ -1189,6 +1189,7 @@ garing
 garis
 garong
 garpu
+garu
 garuda
 garuga
 garuk
@@ -3964,6 +3965,7 @@ sambal
 sambat
 sambel
 sambi
+sambil
 sambit
 sambung
 sami
