@@ -459,6 +459,7 @@ anggus
 angin
 angka
 angkara
+angkasa
 angkat
 angker
 angklung
@@ -6547,6 +6548,7 @@ tikar
 tiki
 tiktok
 tikung
+tikungan
 tikus
 til
 tila
