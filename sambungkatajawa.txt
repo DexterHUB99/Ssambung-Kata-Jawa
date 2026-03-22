@@ -5788,6 +5788,7 @@ udam
 udan
 udang
 udara
+udeg
 udek
 udel
 udi
