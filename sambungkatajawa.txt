@@ -1338,6 +1338,7 @@ geno
 genteng
 genti
 gentong
+geo
 ger
 gera
 gerah
@@ -2435,6 +2436,7 @@ kurus
 kus
 kusir
 kut
+kuta
 kutang
 kutu
 kutuk
