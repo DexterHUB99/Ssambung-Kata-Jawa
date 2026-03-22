@@ -1052,6 +1052,7 @@ emik
 emil
 emo
 emoh
+empak
 empal
 empan
 empang
@@ -3990,6 +3991,7 @@ pilak
 pilang
 pilar
 pilek
+pilot
 pilu
 pilus
 pin
