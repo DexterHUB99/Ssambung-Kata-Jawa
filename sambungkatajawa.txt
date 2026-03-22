@@ -2226,6 +2226,7 @@ karang
 karat
 karbit
 kare
+karem
 karena
 karep
 karepe
@@ -3374,6 +3375,7 @@ ngefek
 ngeh
 ngejek
 ngela
+ngelak
 ngelap
 ngelawan
 ngele
