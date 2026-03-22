@@ -1552,6 +1552,7 @@ hajat
 haji
 hajio
 hak
+hakim
 haku
 hal
 hala
@@ -3775,6 +3776,7 @@ opal
 opel
 open
 opet
+opik
 opo
 opoe
 opoi
@@ -4725,6 +4727,7 @@ tatak
 tatu
 taun
 tawa
+tawon
 tebu
 tegak
 teke
