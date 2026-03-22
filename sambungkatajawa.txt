@@ -3086,6 +3086,7 @@ nganggo
 nganggu
 nganggur
 ngangkang
+ngangkring
 ngangsu
 nganjuk
 nganjut
@@ -3817,6 +3818,7 @@ piten
 pitik
 pito
 pitu
+pitung
 pitutur
 piyambak
 piye
@@ -4479,6 +4481,7 @@ tanggal
 tani
 tansah
 tante
+tanya
 tao
 tap
 tape
