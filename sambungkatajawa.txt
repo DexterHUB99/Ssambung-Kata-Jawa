@@ -1925,6 +1925,7 @@ hawane
 haya
 hayaa
 hayang
+hayat
 hayo
 hayu
 hayuk
@@ -4478,6 +4479,7 @@ orapopo
 oras
 orasah
 ore
+oreg
 orek
 oren
 oreng
