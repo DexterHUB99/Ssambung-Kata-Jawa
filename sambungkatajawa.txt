@@ -530,6 +530,7 @@ aram
 aran
 arane
 arang
+arar
 aras
 are
 arek
@@ -2864,6 +2865,7 @@ ketek
 ketik
 ketok
 keton
+ketos
 ketupat
 kewan
 ki
@@ -6337,6 +6339,7 @@ uti
 utik
 uting
 uto
+utoh
 utowo
 utu
 utuh
