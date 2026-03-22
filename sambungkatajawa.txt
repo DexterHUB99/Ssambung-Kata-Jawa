@@ -205,6 +205,7 @@ akbar
 ake
 akeh
 akehe
+akek
 aken
 akep
 aker
@@ -3391,6 +3392,7 @@ kucur
 kuda
 kudet
 kudu
+kudus
 kue
 kuha
 kui
