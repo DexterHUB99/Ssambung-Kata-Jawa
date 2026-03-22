@@ -776,6 +776,7 @@ dilut
 dim
 dimana
 dimas
+dina
 dingin
 dino
 dipa
