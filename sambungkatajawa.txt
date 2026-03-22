@@ -285,6 +285,7 @@ amis
 amit
 amoh
 amok
+amon
 among
 amoro
 ampar
@@ -300,6 +301,7 @@ amu
 amuk
 amul
 amung
+amur
 an
 ana
 anae
@@ -501,6 +503,7 @@ arip
 aris
 arisan
 arit
+arjuna
 arjuno
 arka
 aro
@@ -665,6 +668,7 @@ bah
 bai
 bajak
 bajigur
+bakti
 baku
 bala
 balap
@@ -754,6 +758,7 @@ bocah
 bodoh
 bojo
 bok
+bokong
 bola
 bolo
 boloho
@@ -765,12 +770,14 @@ borok
 bosan
 bosok
 bothok
+boti
 botol
 boyo
 bu
 bua
 buang
 buat
+buban
 bubu
 bubut
 bude
@@ -910,6 +917,7 @@ dancok
 dandang
 dangdut
 dani
+danu
 dap
 dapa
 dapur
@@ -1136,6 +1144,7 @@ elus
 em
 ema
 emak
+emam
 eman
 emane
 emang
@@ -1521,6 +1530,7 @@ gendar
 gendeng
 genderuwo
 gendhis
+gendon
 gendong
 gendut
 geng
@@ -1641,6 +1651,7 @@ goyang
 griya
 grobak
 gu
+gubris
 gubug
 gudang
 gudeg
@@ -2262,6 +2273,7 @@ jigong
 jijih
 jijik
 jika
+jikuk
 jilat
 jilati
 jilid
@@ -2606,6 +2618,7 @@ kinan
 kinasih
 kini
 kinjeng
+kintal
 kintir
 kios
 kipas
@@ -2656,6 +2669,7 @@ kolot
 kom
 koma
 komari
+komen
 komi
 komik
 komodo
@@ -2671,6 +2685,7 @@ kondisi
 kondur
 konek
 koneng
+kongkon
 koni
 kono
 kontal
@@ -2752,6 +2767,7 @@ kuna
 kunang
 kunci
 kundur
+kung
 kuning
 kuno
 kunta
@@ -3494,6 +3510,7 @@ nelesi
 nelit
 nelongso
 nem
+neman
 nembak
 nembang
 nembe
@@ -3748,6 +3765,7 @@ ngguwak
 ngguyu
 ngicil
 ngidam
+ngidep
 ngidu
 ngidul
 ngih
@@ -4270,6 +4288,7 @@ paku
 pal
 pala
 palang
+palem
 pali
 paling
 palir
@@ -4600,6 +4619,7 @@ raos
 rapa
 rape
 rapi
+rapih
 rapina
 rapo
 rapopo
@@ -4917,6 +4937,7 @@ sasi
 sastra
 sate
 satu
+saung
 saur
 sawah
 sawahe
@@ -5208,6 +5229,7 @@ tanduran
 tangan
 tangga
 tanggal
+tanggalan
 tangi
 tani
 tanjung
