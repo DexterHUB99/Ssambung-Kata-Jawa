@@ -200,6 +200,7 @@ alur
 alus
 am
 ama
+amad
 amal
 amalan
 amam
@@ -373,6 +374,7 @@ anyir
 anyong
 ap
 apa
+apaan
 apae
 apak
 apal
@@ -473,7 +475,6 @@ ata
 atah
 atai
 atak
-atan
 atap
 atari
 atas
@@ -611,6 +612,7 @@ bisa
 bisik
 bisiki
 bismillah
+bisne
 biso
 bisu
 biyen
@@ -1110,6 +1112,7 @@ gabut
 gada
 gadah
 gading
+gadug
 gadung
 gadungan
 gae
@@ -1191,6 +1194,7 @@ garing
 garis
 garong
 garpu
+garu
 garuda
 garuga
 garuk
@@ -1200,6 +1204,7 @@ gas
 gasa
 gasak
 gasik
+gasing
 gata
 gatau
 gatel
@@ -1312,7 +1317,6 @@ gocekan
 godek
 godhong
 godog
-godok
 godong
 gogoh
 gogol
@@ -1435,6 +1439,7 @@ han
 hana
 hanacaraka
 hancur
+hane
 hang
 hani
 hano
@@ -1558,6 +1563,7 @@ hujan
 hukum
 hula
 hulu
+huma
 human
 humor
 huni
@@ -1622,6 +1628,7 @@ ik
 ika
 ikal
 ikan
+ikar
 ikas
 ikat
 ikatan
@@ -1786,6 +1793,7 @@ ising
 isis
 islam
 islo
+ismu
 iso
 isoe
 isok
@@ -1861,7 +1869,6 @@ jembut
 jempol
 jemur
 jemuran
-jenang
 jeneng
 jenengan
 jer
@@ -1902,6 +1909,7 @@ jos
 ju
 jual
 jujur
+jule
 jurang
 ka
 kabeh
@@ -2020,6 +2028,7 @@ ke
 kebab
 kebang
 kebo
+kebul
 kedah
 kediri
 kedondong
@@ -2299,6 +2308,7 @@ kuyuk
 la
 laba
 laban
+labi
 labu
 lacut
 lagi
@@ -2491,6 +2501,7 @@ lonjong
 lontar
 lonte
 lontong
+loo
 lop
 lope
 lopi
@@ -2631,6 +2642,7 @@ mau
 mawon
 maya
 mayak
+mayang
 mben
 mboke
 mboten
@@ -3032,6 +3044,7 @@ ngere
 ngerem
 ngerepoti
 ngeresake
+ngeri
 ngerti
 ngertos
 ngesot
@@ -3043,6 +3056,7 @@ ngga
 nggae
 nggak
 nggambar
+nggantung
 nggatel
 nggateli
 nggawe
@@ -3124,6 +3138,7 @@ ngopoe
 ngopok
 ngor
 ngora
+ngoret
 ngori
 ngorok
 ngorong
@@ -3165,10 +3180,10 @@ nguning
 ngunjuk
 nguntal
 ngunu
-ngupas
 ngupi
 ngupil
 nguping
+ngura
 nguras
 ngurip
 ngurus
@@ -3242,6 +3257,7 @@ nong
 nongkrong
 nonjok
 nono
+nontok
 nonton
 nop
 nopi
@@ -3706,6 +3722,7 @@ rabu
 rabun
 racun
 raden
+radio
 rae
 raga
 ragat
@@ -3803,6 +3820,7 @@ rem
 remah
 remang
 remas
+rembang
 rembulan
 reme
 remeh
@@ -3875,6 +3893,7 @@ risih
 risma
 rita
 riya
+riyaya
 riyo
 ro
 roban
@@ -3985,6 +4004,7 @@ sambal
 sambat
 sambel
 sambi
+sambil
 sambit
 sambung
 sami
@@ -4070,6 +4090,7 @@ siapa
 sida
 sidang
 siji
+sika
 sikat
 sikil
 siku
@@ -4123,6 +4144,7 @@ soli
 solo
 somat
 sombong
+son
 sono
 sontoloyo
 sop
@@ -4210,7 +4232,6 @@ susul
 susumu
 susun
 susuwi
-suti
 sutil
 sutri
 suw
@@ -4240,6 +4261,7 @@ takjil
 takon
 taku
 tali
+talii
 talingan
 tam
 taman
@@ -4332,6 +4354,7 @@ timur
 tin
 tindak
 tinggal
+tingkah
 tinju
 tip
 tira
@@ -4408,7 +4431,6 @@ turi
 turu
 turuk
 tusa
-tusu
 tusuk
 tut
 tuta
@@ -4419,6 +4441,7 @@ tuwo
 ua
 uan
 uang
+uba
 uban
 ubang
 ubel
@@ -4552,6 +4575,7 @@ umpet
 umu
 umuk
 umum
+umume
 umur
 un
 una
@@ -4785,6 +4809,7 @@ wonten
 wor
 woro
 wowo
+wu
 wula
 wulan
 xenon
