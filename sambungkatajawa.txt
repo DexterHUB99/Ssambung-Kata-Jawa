@@ -1087,6 +1087,7 @@ cok
 cokel
 coklat
 col
+colak
 colek
 coli
 colo
@@ -7193,6 +7194,7 @@ yumo
 yune
 yura
 yuran
+yuri
 yurika
 yus
 yusa
