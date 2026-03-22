@@ -524,6 +524,7 @@ ayat
 ayem
 ayi
 ayih
+aying
 ayo
 ayoa
 ayok
@@ -1268,6 +1269,7 @@ gig
 giga
 gigi
 gigil
+gih
 gila
 gilang
 gilani
@@ -2247,6 +2249,7 @@ kuru
 kurung
 kurus
 kusir
+kut
 kutang
 kutu
 kutuk
@@ -3440,6 +3443,7 @@ panjang
 panjenengan
 panji
 panri
+pantai
 pantat
 pante
 pantes
