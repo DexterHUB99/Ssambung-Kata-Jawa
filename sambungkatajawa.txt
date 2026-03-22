@@ -22,8 +22,10 @@ abot
 abrit
 abu
 abuh
+ac
 aca
 acar
+acas
 acen
 acu
 ad
@@ -680,6 +682,7 @@ atum
 atun
 atur
 atus
+atut
 auh
 auha
 aul
@@ -3912,6 +3915,7 @@ nari
 narik
 naro
 narsis
+naru
 naruh
 nas
 nasa
