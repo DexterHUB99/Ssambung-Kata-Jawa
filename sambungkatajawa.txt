@@ -5803,6 +5803,7 @@ suli
 suling
 sulung
 sum
+suma
 sumbang
 sumbangan
 sumbar
