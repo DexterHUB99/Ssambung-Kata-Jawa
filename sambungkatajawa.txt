@@ -278,6 +278,7 @@ amanah
 amar
 amarga
 amargi
+amas
 amat
 amay
 amba
@@ -305,6 +306,7 @@ amer
 amerga
 ami
 amie
+amih
 amii
 amik
 amil
@@ -1952,6 +1954,7 @@ hani
 hano
 hansip
 hantam
+hante
 hantu
 hanung
 hanya
@@ -3387,6 +3390,7 @@ lucu
 ludah
 lugu
 luh
+luhe
 luhur
 luk
 luka
