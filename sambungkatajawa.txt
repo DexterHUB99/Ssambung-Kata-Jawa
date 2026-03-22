@@ -1248,6 +1248,7 @@ ga
 gabah
 gabus
 gabut
+gaco
 gada
 gadah
 gading
@@ -2208,6 +2209,7 @@ kancil
 kancing
 kancut
 kandang
+kandas
 kandel
 kandungan
 kang
@@ -2269,6 +2271,7 @@ kates
 kathok
 katok
 katon
+katuk
 katup
 kawah
 kawan
@@ -3677,6 +3680,7 @@ nori
 nos
 nosi
 note
+nresnani
 nu
 nua
 nuduh
