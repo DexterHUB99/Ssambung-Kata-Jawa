@@ -992,6 +992,7 @@ cok
 cokel
 coklat
 col
+colek
 coli
 colo
 colok
@@ -1211,6 +1212,7 @@ egang
 ege
 ego
 egoh
+egolan
 eh
 eha
 ehak
@@ -4331,6 +4333,7 @@ ngosok
 ngotak
 ngotot
 ngowah
+ngowahi
 ngowoh
 ngoyak
 ngoyo
