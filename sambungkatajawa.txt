@@ -1213,6 +1213,7 @@ embuh
 embun
 embung
 eme
+emem
 emer
 emi
 emik
@@ -1237,7 +1238,6 @@ emut
 en
 ena
 enak
-enam
 enan
 enang
 enar
@@ -1619,6 +1619,7 @@ geri
 gering
 gero
 gerus
+ges
 gesang
 gese
 gesek
@@ -2345,6 +2346,7 @@ jembut
 jempol
 jemur
 jemuran
+jen
 jenang
 jeneng
 jenengan
@@ -2607,7 +2609,6 @@ kelum
 kemah
 kemang
 kemangi
-kemari
 kemas
 kembali
 kembang
@@ -3630,6 +3631,7 @@ neka
 nekat
 neki
 neko
+nela
 nelen
 neles
 nelesi
@@ -4180,7 +4182,6 @@ numbuk
 numpak
 numpang
 numplek
-nunak
 nung
 nunggang
 nunggu
@@ -4755,6 +4756,7 @@ rambut
 rambutan
 rame
 rames
+rami
 rampung
 ramu
 ramuan
@@ -5468,7 +5470,6 @@ temu
 ten
 tenan
 teng
-tengen
 tepa
 tepak
 ter
@@ -5540,6 +5541,7 @@ tok
 tokek
 tolak
 tole
+toleh
 tolek
 toli
 tolih
@@ -5561,7 +5563,6 @@ top
 topi
 topo
 tot
-tota
 toto
 towo
 toya
@@ -5605,6 +5606,7 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
+tun
 tuna
 tunas
 tunggal
@@ -5614,7 +5616,6 @@ turah
 turi
 turu
 turuk
-turun
 tusa
 tusi
 tusu
@@ -6049,6 +6050,7 @@ wijaya
 wiji
 wiko
 wilangan
+win
 wine
 wino
 winta
