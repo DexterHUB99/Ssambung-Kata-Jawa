@@ -887,6 +887,7 @@ bula
 bulan
 bulat
 bulik
+bulu
 bumbu
 bumi
 bumu
@@ -3897,6 +3898,7 @@ neng
 nengdi
 neni
 nentang
+nepa
 nepi
 nepis
 nera
@@ -4993,6 +4995,7 @@ pucuk
 puja
 puk
 puki
+puko
 pukul
 pul
 pula
@@ -6004,6 +6007,7 @@ turi
 turu
 turuk
 turun
+turuo
 tusa
 tusi
 tusu
