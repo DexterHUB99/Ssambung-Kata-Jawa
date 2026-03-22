@@ -1639,6 +1639,7 @@ gendhis
 gendon
 gendong
 gendut
+geneya
 geng
 geni
 genjik
@@ -4184,6 +4185,7 @@ ninggal
 ningsih
 nini
 nining
+nio
 nipa
 nipis
 nipon
@@ -4534,6 +4536,7 @@ palem
 pali
 paling
 palir
+palo
 palsu
 palu
 palung
