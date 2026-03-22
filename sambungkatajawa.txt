@@ -2056,6 +2056,7 @@ gundah
 gundik
 gundul
 gunem
+guneman
 gung
 guni
 gunting
@@ -6946,6 +6947,7 @@ wen
 wenang
 wene
 wera
+weri
 wes
 wesa
 wesi
