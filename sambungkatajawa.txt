@@ -59,6 +59,7 @@ afi
 afif
 agama
 agar
+agawe
 age
 agem
 agi
@@ -70,6 +71,7 @@ agung
 agus
 ah
 aha
+ahab
 ahad
 ahada
 ahah
@@ -123,7 +125,6 @@ aiko
 aiku
 ail
 aila
-ailan
 aili
 aima
 aimu
@@ -260,6 +261,7 @@ alus
 am
 ama
 amad
+amah
 amak
 amal
 amalan
@@ -316,6 +318,7 @@ ampel
 ampela
 amper
 ampir
+ampiran
 ampiri
 ampleng
 ampun
@@ -332,7 +335,6 @@ anah
 anak
 anakan
 anake
-anaking
 anal
 anam
 anan
@@ -671,7 +673,6 @@ awi
 awis
 awit
 awo
-awoh
 awu
 awur
 ax
@@ -742,7 +743,6 @@ bayi
 bebe
 bebek
 becak
-becek
 beci
 beda
 bedo
@@ -1153,6 +1153,7 @@ egoh
 eh
 eha
 ehak
+ehan
 ehaw
 ehawa
 ehe
@@ -1277,6 +1278,7 @@ empik
 emping
 emprit
 empuk
+empun
 emu
 emun
 emut
@@ -1451,9 +1453,11 @@ ewohe
 ewok
 ex
 eya
+eyah
 eyang
 eye
 eyem
+eyo
 ez
 fafa
 fajar
@@ -1585,7 +1589,6 @@ gatak
 gatau
 gatel
 gateli
-gati
 gatot
 gaul
 gawa
@@ -2025,7 +2028,6 @@ hubla
 hubung
 huda
 hujan
-huka
 hukum
 hula
 hulu
@@ -3251,11 +3253,9 @@ longor
 longsor
 lonjak
 lonjong
-lono
 lontar
 lonte
 lontong
-loo
 lop
 lope
 lopi
@@ -3364,7 +3364,6 @@ maling
 malu
 mam
 mama
-mamah
 mamak
 mamakan
 mamake
@@ -3388,7 +3387,6 @@ mangke
 mangkel
 mangu
 mani
-maning
 manis
 manjing
 manjur
@@ -3592,7 +3590,6 @@ muntah
 munyuk
 mur
 murah
-murka
 murung
 mus
 musa
@@ -4019,6 +4016,7 @@ nggoni
 nggowo
 ngguwak
 ngguyu
+ngibul
 ngicil
 ngidam
 ngidep
@@ -4089,6 +4087,7 @@ ngojol
 ngok
 ngoker
 ngoko
+ngokon
 ngokop
 ngolah
 ngolak
@@ -4493,7 +4492,6 @@ opor
 or
 ora
 orae
-orah
 orai
 oraiso
 orak
@@ -4587,7 +4585,6 @@ palung
 pam
 paman
 pan
-pana
 panah
 panas
 pancen
@@ -4599,6 +4596,7 @@ pandu
 pang
 panggah
 panggon
+pangkur
 pangling
 pangon
 pani
@@ -4829,6 +4827,7 @@ pula
 pulau
 puli
 pulo
+puluh
 puma
 pun
 puncak
@@ -4851,6 +4850,7 @@ putih
 puting
 putra
 putri
+putu
 putus
 puyeng
 quran
@@ -4882,7 +4882,6 @@ rajin
 rajungan
 rajut
 rak
-raka
 rakit
 rako
 raku
@@ -4946,7 +4945,6 @@ rasis
 raso
 rasu
 rasuk
-rasul
 ratau
 rati
 ratna
@@ -5070,7 +5068,6 @@ rise
 risi
 risih
 riska
-riski
 risma
 rismo
 rita
@@ -5133,7 +5130,6 @@ ruang
 rubuh
 rugi
 ruh
-ruhi
 rui
 rujak
 rujuk
@@ -5495,7 +5491,6 @@ supa
 supaya
 supe
 supi
-supo
 sur
 sura
 surabaya
@@ -5996,6 +5991,7 @@ unduk
 undur
 unduri
 unek
+uner
 ung
 unga
 ungan
