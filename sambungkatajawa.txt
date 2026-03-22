@@ -2953,6 +2953,7 @@ modus
 modyar
 mogok
 moh
+moha
 mojo
 mok
 mole
@@ -4865,6 +4866,7 @@ tutup
 tutur
 tuwa
 tuwo
+tuyul
 ua
 uan
 uana
