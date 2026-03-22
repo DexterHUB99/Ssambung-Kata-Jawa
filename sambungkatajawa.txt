@@ -2558,6 +2558,7 @@ lari
 lasa
 lata
 latah
+latar
 lati
 latih
 laut
@@ -2667,6 +2668,7 @@ litah
 lite
 liwat
 lo
+loa
 lob
 loba
 lobang
@@ -4078,6 +4080,7 @@ rame
 rames
 rampung
 ramu
+ramuan
 ramutu
 ran
 rana
