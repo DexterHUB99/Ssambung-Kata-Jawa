@@ -660,6 +660,7 @@ atus
 auh
 auha
 aul
+aulah
 aum
 auman
 auna
@@ -1229,6 +1230,7 @@ ekin
 eko
 ekok
 ekol
+ekon
 ekop
 ekor
 ekos
@@ -6296,6 +6298,7 @@ ususus
 usut
 usuta
 uswa
+ut
 uta
 utaa
 utae
