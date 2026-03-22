@@ -487,6 +487,7 @@ anum
 anup
 anur
 anus
+anut
 anyam
 anyar
 anyem
@@ -2740,6 +2741,7 @@ kathah
 kathok
 katok
 katon
+katrok
 katuk
 katup
 kawah
@@ -5575,6 +5577,7 @@ sinyo
 sio
 sip
 sipa
+sipat
 sipit
 sir
 sira
@@ -6306,6 +6309,7 @@ urit
 uritan
 urma
 urna
+urno
 uru
 uruane
 uruk
