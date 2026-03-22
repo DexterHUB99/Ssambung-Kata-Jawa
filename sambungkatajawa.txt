@@ -1523,6 +1523,7 @@ goyang
 griya
 grobak
 gu
+gubug
 gudang
 gudeg
 gugah
@@ -4482,6 +4483,7 @@ salim
 sam
 sama
 sambal
+sambang
 sambat
 sambel
 sambi
