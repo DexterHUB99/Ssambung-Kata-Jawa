@@ -1560,6 +1560,7 @@ harta
 haru
 harum
 harus
+haruse
 has
 hasa
 hasan
@@ -3031,6 +3032,7 @@ napas
 napi
 napo
 nar
+nara
 narasi
 nari
 narik
@@ -4358,6 +4360,7 @@ selawe
 selet
 sem
 sembah
+semen
 semok
 sempak
 sempurna
@@ -4713,6 +4716,7 @@ tua
 tuak
 tuhan
 tuk
+tukan
 tukang
 tukaran
 tuki
