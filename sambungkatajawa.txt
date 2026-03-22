@@ -457,6 +457,7 @@ anggit
 anggite
 anggon
 anggota
+anggu
 anggur
 anggus
 angin
@@ -2394,6 +2395,7 @@ human
 humor
 hun
 huni
+hur
 hura
 huran
 huri
@@ -4886,6 +4888,7 @@ ngusik
 ngusir
 ngusung
 ngutang
+nguter
 ngutil
 nguyu
 nguyuh
@@ -6720,6 +6723,7 @@ tunas
 tunggal
 tunggu
 tuntun
+tur
 turah
 turi
 turu
