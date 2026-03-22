@@ -515,6 +515,7 @@ apem
 apes
 api
 apia
+apii
 apik
 apip
 apis
@@ -1026,6 +1027,7 @@ dama
 damai
 damar
 damel
+damen
 damput
 damu
 dan
@@ -5092,6 +5094,7 @@ rakit
 rako
 raku
 rakus
+rala
 rali
 ram
 rama
