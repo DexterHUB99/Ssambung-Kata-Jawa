@@ -790,6 +790,7 @@ bak
 bakoh
 bakti
 baku
+bal
 bala
 balap
 balek
@@ -1556,6 +1557,7 @@ eseman
 esi
 esih
 esil
+eso
 esoe
 esok
 eson
@@ -2034,6 +2036,7 @@ guyu
 guyub
 ha
 haa
+habib
 habibi
 habis
 hadap
@@ -5748,6 +5751,7 @@ sarung
 sas
 sasa
 sasi
+sasimo
 sastra
 sate
 satos
