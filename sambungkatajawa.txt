@@ -1983,7 +1983,9 @@ kasep
 kaset
 kasih
 kasir
+kasor
 kasu
+kasuk
 kasur
 kata
 katak
@@ -2918,6 +2920,7 @@ ngantem
 ngantemi
 nganter
 nganti
+ngantri
 ngantuk
 nganu
 ngaos
