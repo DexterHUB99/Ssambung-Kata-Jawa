@@ -224,6 +224,7 @@ ambu
 ambung
 ambyar
 ameh
+amel
 amen
 amer
 ami
@@ -1070,6 +1071,7 @@ erong
 eror
 eru
 eruh
+erup
 es
 esa
 esai
@@ -1226,6 +1228,7 @@ gaul
 gawa
 gawai
 gawan
+gawang
 gawe
 gawean
 gawene
@@ -2858,6 +2861,7 @@ napak
 napas
 napi
 napo
+nar
 narasi
 nari
 narik
