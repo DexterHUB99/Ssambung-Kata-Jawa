@@ -874,6 +874,7 @@ dolanan
 domba
 doni
 dor
+doro
 dosa
 doyan
 duda
@@ -1978,6 +1979,7 @@ iz
 jae
 jahat
 jai
+jajan
 jaka
 jala
 jam
@@ -3242,6 +3244,7 @@ ngawasi
 ngawe
 ngawi
 ngawih
+ngawit
 ngawor
 ngawur
 ngayuh
