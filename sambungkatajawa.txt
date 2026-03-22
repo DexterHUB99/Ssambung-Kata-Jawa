@@ -139,6 +139,7 @@ akasara
 akat
 ake
 akeh
+aken
 akep
 aker
 akhir
@@ -4176,6 +4177,7 @@ ronda
 rondo
 ronggeng
 roni
+rono
 ropi
 roro
 rosa
