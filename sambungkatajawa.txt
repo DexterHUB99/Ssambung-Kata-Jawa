@@ -207,6 +207,7 @@ alot
 alu
 alum
 alun
+alunan
 alur
 alus
 am
@@ -1034,6 +1035,7 @@ enan
 enang
 enar
 enat
+encok
 endah
 endang
 endas
@@ -3232,6 +3234,7 @@ ngem
 ngembeh
 ngemi
 ngemil
+ngemot
 ngemper
 ngen
 ngendi
