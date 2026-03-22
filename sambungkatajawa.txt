@@ -4255,6 +4255,7 @@ sareng
 sari
 sarong
 saru
+sarung
 sas
 sasa
 sasi
@@ -4339,6 +4340,7 @@ sirah
 siram
 siraman
 sirep
+siri
 sirik
 sirna
 siro
