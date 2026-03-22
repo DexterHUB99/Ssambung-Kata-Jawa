@@ -1218,6 +1218,7 @@ ehes
 ehew
 ehey
 ehi
+ehir
 eho
 ehop
 ehu
@@ -2550,6 +2551,7 @@ jinya
 jipang
 jipuk
 jir
+jireh
 jit
 jiwa
 jo
@@ -5449,6 +5451,7 @@ samperi
 sampeyan
 sampo
 sampun
+sampur
 san
 sana
 sanak
@@ -6494,6 +6497,7 @@ wesi
 weso
 weta
 wetan
+weteng
 weton
 wetu
 wewe
