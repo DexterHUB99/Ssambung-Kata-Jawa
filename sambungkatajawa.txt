@@ -1581,6 +1581,7 @@ gatak
 gatau
 gatel
 gateli
+gati
 gatot
 gaul
 gawa
@@ -3358,6 +3359,7 @@ maling
 malu
 mam
 mama
+mamah
 mamak
 mamakan
 mamake
@@ -3381,6 +3383,7 @@ mangke
 mangkel
 mangu
 mani
+maning
 manis
 manjing
 manjur
@@ -5482,6 +5485,7 @@ supa
 supaya
 supe
 supi
+supo
 sur
 sura
 surabaya
