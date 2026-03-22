@@ -97,6 +97,7 @@ aian
 aie
 aika
 aiko
+aiku
 ail
 aila
 aili
@@ -3206,6 +3207,7 @@ ngaco
 ngacung
 ngada
 ngadal
+ngadeg
 ngadek
 ngadem
 ngadep
