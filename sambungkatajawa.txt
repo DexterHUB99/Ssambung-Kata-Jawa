@@ -1152,6 +1152,7 @@ gateli
 gatot
 gaul
 gawa
+gawan
 gawe
 gawean
 gawene
@@ -1809,6 +1810,7 @@ joko
 jokowi
 jol
 jombang
+jomlo
 jong
 jontor
 joran
@@ -2021,6 +2023,7 @@ ki
 kiai
 kicep
 kidal
+kidang
 kidul
 kidung
 kie
@@ -2288,6 +2291,7 @@ leri
 lesehan
 lesu
 lesung
+lewat
 lewih
 leyeh
 lho
@@ -2518,6 +2522,7 @@ megah
 meja
 melas
 melek
+melok
 meme
 memek
 mengko
