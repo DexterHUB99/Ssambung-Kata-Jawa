@@ -1088,6 +1088,7 @@ cuci
 cucu
 cuk
 cuka
+cukup
 cuma
 cumi
 curhat
@@ -1631,6 +1632,7 @@ etol
 etos
 etot
 etu
+etuh
 etuk
 etul
 etum
