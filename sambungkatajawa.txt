@@ -1812,6 +1812,7 @@ garai
 garang
 garangan
 garap
+garapen
 garasi
 garda
 gardu
@@ -4143,6 +4144,7 @@ nae
 nafas
 nag
 naga
+nagasari
 nagi
 nagih
 nah
@@ -4568,6 +4570,7 @@ ngesel
 ngeseng
 ngesing
 ngesot
+ngesu
 ngetan
 ngetik
 ngetok
@@ -5360,6 +5363,7 @@ pewe
 pi
 pia
 piala
+piama
 pian
 picara
 picek
@@ -5834,6 +5838,7 @@ roto
 rowa
 rowo
 royal
+royo
 rt
 ru
 rua
