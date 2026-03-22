@@ -1270,6 +1270,7 @@ garap
 garasi
 garda
 garem
+garen
 gareng
 gari
 garing
@@ -2040,6 +2041,7 @@ jos
 ju
 jual
 jujur
+juma
 jurang
 ka
 kabar
@@ -2090,6 +2092,7 @@ kambing
 kambuh
 kami
 kamis
+kamos
 kampak
 kampret
 kampung
@@ -3769,6 +3772,7 @@ pala
 palang
 pali
 paling
+palir
 palu
 pam
 panah
@@ -4523,6 +4527,7 @@ supe
 supi
 sura
 surabaya
+surai
 surat
 surau
 suri
