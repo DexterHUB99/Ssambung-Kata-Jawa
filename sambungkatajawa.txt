@@ -988,6 +988,7 @@ empik
 emping
 empuk
 emu
+emun
 emut
 en
 ena
@@ -3126,6 +3127,7 @@ ngerti
 ngertos
 ngesot
 ngetan
+ngetik
 ngetok
 ngewang
 ngewe
@@ -3521,6 +3523,7 @@ opet
 opo
 opoe
 opoi
+opok
 opone
 opor
 or
