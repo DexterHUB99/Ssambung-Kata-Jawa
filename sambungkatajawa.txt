@@ -5070,6 +5070,7 @@ uba
 uban
 ubang
 ube
+ubek
 ubel
 ubi
 ubii
