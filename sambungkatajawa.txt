@@ -965,6 +965,7 @@ edi
 edon
 ef
 efek
+efu
 eg
 ege
 ego
@@ -3063,6 +3064,7 @@ mriki
 mripat
 mu
 mual
+muatan
 mubah
 mubeng
 mudeng
