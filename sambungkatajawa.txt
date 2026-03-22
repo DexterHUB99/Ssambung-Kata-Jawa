@@ -2276,6 +2276,7 @@ kasur
 kasure
 kasus
 kata
+katah
 katak
 katel
 kates
@@ -2318,6 +2319,7 @@ kelas
 kelawan
 kelebu
 kelek
+keli
 kelimis
 kelingan
 keliru
@@ -4864,6 +4866,7 @@ telinga
 telo
 telu
 telur
+tem
 teman
 tembok
 tembung
