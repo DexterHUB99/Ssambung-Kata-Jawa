@@ -1542,6 +1542,7 @@ engko
 engkol
 eni
 enik
+enir
 enis
 enjang
 enjih
