@@ -1207,6 +1207,7 @@ gapura
 gar
 gara
 garai
+garang
 garangan
 garap
 garem
@@ -2071,6 +2072,7 @@ kediri
 kedondong
 kegowo
 kejam
+kek
 kekar
 keke
 kekek
@@ -2822,6 +2824,7 @@ na
 nabi
 nabok
 nabrak
+nabuh
 nada
 nae
 nafas
@@ -4141,6 +4144,7 @@ sawah
 sawahe
 sawai
 sawi
+sawiji
 sawit
 saya
 sayang
@@ -4763,6 +4767,7 @@ urusan
 urusi
 urut
 urutan
+urutna
 us
 usa
 usaa
