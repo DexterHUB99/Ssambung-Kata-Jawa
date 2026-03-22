@@ -591,6 +591,7 @@ arang
 aranga
 arar
 aras
+ardi
 are
 arek
 arem
@@ -2953,6 +2954,7 @@ karepmu
 karet
 kari
 karimun
+karin
 karma
 karo
 karpet
