@@ -1214,6 +1214,7 @@ etah
 etan
 etar
 ete
+eteh
 etel
 eter
 etes
@@ -1443,6 +1444,7 @@ gese
 gesek
 geseng
 geser
+get
 gete
 geter
 getih
