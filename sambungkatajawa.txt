@@ -652,6 +652,7 @@ atuh
 atuk
 atul
 atum
+atun
 atur
 atus
 auh
@@ -2644,6 +2645,7 @@ kaping
 kapok
 kaprah
 kapuk
+kar
 kara
 karak
 karam
@@ -3558,6 +3560,7 @@ mi
 mia
 micek
 mie
+mieayam
 mii
 mika
 miker
@@ -5077,6 +5080,7 @@ raup
 rausah
 raut
 rawa
+rawat
 raweh
 rawit
 rawon
