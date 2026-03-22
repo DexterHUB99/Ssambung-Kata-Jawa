@@ -1713,6 +1713,7 @@ ipik
 ipin
 ipki
 ipo
+iprit
 ipuk
 ipun
 ir
@@ -1854,6 +1855,7 @@ jit
 jiwa
 jo
 jodoh
+jogja
 jogo
 jok
 joke
@@ -2305,6 +2307,7 @@ lantai
 lantar
 lantas
 lanting
+lantun
 laos
 lapang
 lapis
@@ -2932,6 +2935,7 @@ ngatur
 ngawa
 ngawasi
 ngawi
+ngawih
 ngawor
 ngawur
 ngayuh
