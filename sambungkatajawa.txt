@@ -615,6 +615,7 @@ berak
 besan
 besi
 besok
+besu
 besuk
 bi
 biak
@@ -844,6 +845,7 @@ diso
 dodi
 dodo
 dodol
+dogo
 dok
 dokar
 doko
@@ -4348,6 +4350,7 @@ sinten
 sinyo
 sio
 sip
+sipa
 sir
 sira
 sirah
