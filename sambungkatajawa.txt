@@ -2643,6 +2643,7 @@ irian
 irii
 irik
 irim
+irin
 iring
 iris
 irit
@@ -5947,6 +5948,7 @@ ruwah
 ruwat
 ruwet
 sa
+saa
 sabang
 sabar
 sabat
@@ -7176,6 +7178,7 @@ wine
 wingi
 wino
 winta
+wiono
 wir
 wira
 wirama
