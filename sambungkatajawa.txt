@@ -2032,6 +2032,7 @@ hem
 hema
 hemat
 heni
+hening
 heo
 hep
 her
@@ -2182,6 +2183,7 @@ ijek
 ijem
 ijen
 iji
+ijik
 ijin
 ijo
 ijoe
