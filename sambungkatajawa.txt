@@ -2355,6 +2355,7 @@ kuntul
 kunyuk
 kuo
 kupas
+kupat
 kupi
 kuping
 kupu
@@ -2445,6 +2446,7 @@ latah
 lati
 latih
 laut
+lautan
 lawa
 lawak
 lawan
@@ -2861,6 +2863,7 @@ nabok
 nabrak
 nabuh
 nada
+nadi
 nae
 nafas
 naga
@@ -4199,6 +4202,7 @@ sawi
 sawiji
 sawit
 saya
+sayah
 sayang
 sayur
 seda
