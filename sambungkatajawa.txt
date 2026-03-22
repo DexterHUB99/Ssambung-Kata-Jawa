@@ -783,7 +783,6 @@ bai
 bajak
 bajigur
 bajingan
-baju
 bak
 bakoh
 bakti
@@ -1589,7 +1588,6 @@ etul
 etum
 etur
 etus
-evan
 ew
 ewa
 ewae
@@ -1676,7 +1674,6 @@ gambang
 gambar
 gambare
 gambas
-gambleh
 gambuh
 gambut
 gambyong
@@ -1900,7 +1897,6 @@ gincung
 gini
 ginjal
 girang
-girap
 giri
 giring
 giru
@@ -2443,7 +2439,6 @@ ingin
 ingkang
 ingkung
 ingsun
-ingu
 ini
 inie
 inja
@@ -2724,7 +2719,6 @@ juma
 jumpa
 jung
 jungkir
-juni
 jurang
 juri
 jurus
@@ -2937,7 +2931,6 @@ kela
 kelabang
 kelakuan
 kelam
-kelambe
 kelangan
 kelap
 kelar
@@ -3110,7 +3103,6 @@ kita
 kitab
 kite
 kiwa
-kiye
 klambi
 klepon
 kleru
@@ -3256,7 +3248,6 @@ kundur
 kune
 kung
 kuning
-kunir
 kuno
 kunta
 kunti
@@ -3786,7 +3777,6 @@ megatruh
 meh
 meja
 mekar
-mekaten
 meki
 melas
 melek
@@ -3806,7 +3796,6 @@ meong
 mer
 mera
 merah
-merak
 merem
 meren
 mergo
@@ -3919,7 +3908,6 @@ mul
 mula
 mulae
 mulai
-mulane
 mulang
 mule
 muleh
@@ -4341,7 +4329,6 @@ ngemil
 ngemong
 ngemot
 ngemper
-ngemut
 ngen
 ngendi
 ngendika
@@ -4354,7 +4341,6 @@ ngenteni
 ngentu
 ngentut
 ngepa
-ngepang
 ngepel
 ngepet
 ngepi
@@ -4362,7 +4348,6 @@ ngepot
 nger
 ngerai
 ngerak
-ngerap
 ngere
 ngerem
 ngerepoti
@@ -4380,7 +4365,6 @@ ngetik
 ngetok
 ngetot
 ngewang
-ngewangi
 ngewe
 ngg
 ngga
@@ -4489,7 +4473,6 @@ ngolak
 ngolek
 ngoles
 ngolo
-ngolok
 ngolong
 ngomah
 ngombal
@@ -4544,7 +4527,6 @@ ngudek
 ngudud
 ngudut
 nguji
-ngukir
 ngukur
 ngulang
 ngulek
@@ -4922,7 +4904,6 @@ oraiso
 orak
 oran
 orang
-orangutan
 oraono
 orapapa
 orapopo
@@ -5053,7 +5034,6 @@ papah
 papan
 papi
 papua
-par
 para
 parah
 pare
@@ -5347,7 +5327,6 @@ raja
 rajae
 rajah
 rajin
-raju
 rajungan
 rajut
 rak
@@ -5580,7 +5559,6 @@ rom
 roma
 romah
 romawi
-rombak
 rombeng
 rombong
 rombongan
@@ -6062,7 +6040,6 @@ ta
 taa
 taat
 taati
-tabek
 tabuh
 tabung
 tae
@@ -6381,7 +6358,6 @@ ucul
 uda
 udah
 udak
-udal
 udam
 udan
 udanan
@@ -6430,7 +6406,6 @@ ukaa
 ukae
 ukai
 ukak
-ukal
 ukam
 ukan
 ukar
@@ -6581,7 +6556,6 @@ unta
 untah
 untal
 untel
-unter
 untir
 untu
 untuk
@@ -6787,7 +6761,6 @@ wati
 waton
 watu
 watuk
-wawa
 wawang
 wayah
 wayahe
