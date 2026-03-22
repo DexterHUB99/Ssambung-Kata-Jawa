@@ -4045,6 +4045,7 @@ ngambar
 ngambi
 ngambil
 ngambing
+ngambu
 ngame
 ngamem
 ngamok
@@ -4441,6 +4442,7 @@ ninggal
 ningsih
 nini
 nining
+ninja
 nino
 nio
 nipa
