@@ -2137,6 +2137,7 @@ kirek
 kiri
 kirik
 kirim
+kisan
 kisanak
 kit
 kita
@@ -2771,6 +2772,7 @@ namu
 namung
 nan
 nana
+nanah
 nanang
 nanas
 nandang
