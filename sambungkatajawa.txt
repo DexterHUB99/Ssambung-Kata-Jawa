@@ -1289,6 +1289,7 @@ galengan
 galer
 gali
 galih
+galo
 galon
 gam
 gama
@@ -1396,6 +1397,7 @@ geh
 gel
 gela
 gelang
+gelas
 gelem
 geler
 geli
@@ -2689,6 +2691,7 @@ le
 leak
 lebah
 lebaran
+lebur
 lee
 lega
 legi
@@ -2759,6 +2762,7 @@ lingkungan
 linglung
 lingsir
 lini
+lino
 linta
 lintah
 lintang
@@ -2872,6 +2876,7 @@ lungguh
 lungo
 luntur
 lupa
+lupi
 luput
 lurah
 luru
@@ -3235,6 +3240,7 @@ nebang
 nedha
 nedho
 nedi
+negara
 negeri
 negor
 nek
