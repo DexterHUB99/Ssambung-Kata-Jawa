@@ -2265,6 +2265,7 @@ kasu
 kasuk
 kasur
 kasure
+kasus
 kata
 katak
 katel
@@ -2774,6 +2775,7 @@ loa
 lob
 loba
 lobang
+lobe
 lodeh
 loe
 logan
@@ -5324,6 +5326,7 @@ wah
 wahana
 wahyu
 wai
+waja
 wajan
 wajik
 wakil
