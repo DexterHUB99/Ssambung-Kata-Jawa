@@ -3582,6 +3582,7 @@ muntah
 munyuk
 mur
 murah
+murka
 murung
 mus
 musa
@@ -4575,6 +4576,7 @@ palung
 pam
 paman
 pan
+pana
 panah
 panas
 pancen
