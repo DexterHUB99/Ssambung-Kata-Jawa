@@ -52,6 +52,7 @@ agem
 agil
 agit
 ago
+agu
 agung
 agus
 ah
@@ -667,6 +668,7 @@ bi
 biak
 biasa
 biawak
+bib
 bibi
 bihun
 bik
@@ -1483,6 +1485,7 @@ gini
 ginjal
 girang
 giring
+giru
 gisa
 gitar
 gladhi
@@ -1862,6 +1865,7 @@ ikutan
 il
 ila
 ilae
+ilag
 ilah
 ilahi
 ilak
@@ -4973,6 +4977,7 @@ tomo
 tompel
 ton
 tona
+tonggo
 tongkol
 tono
 top
