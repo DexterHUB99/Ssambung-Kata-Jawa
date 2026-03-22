@@ -2617,6 +2617,7 @@ katup
 kawah
 kawan
 kawen
+kawi
 kawin
 kawohan
 kawula
@@ -2947,6 +2948,7 @@ kupas
 kupat
 kupi
 kuping
+kupluk
 kupu
 kur
 kura
@@ -5383,6 +5385,7 @@ sosok
 sotel
 soto
 sowan
+soyo
 sri
 su
 sua
@@ -6188,6 +6191,7 @@ widia
 wih
 wijaya
 wiji
+wikan
 wiko
 wilan
 wilangan
