@@ -670,6 +670,7 @@ biawak
 bibi
 bihun
 bik
+biku
 bil
 bila
 bili
@@ -3435,6 +3436,7 @@ ngemper
 ngen
 ngendi
 ngendika
+ngendikane
 ngene
 ngeng
 ngengek
@@ -4850,6 +4852,7 @@ tasi
 tata
 tatak
 tatas
+tati
 tatu
 taun
 tawa
@@ -5412,6 +5415,7 @@ wis
 wisa
 wisuh
 wit
+witing
 wiwi
 wo
 woi
