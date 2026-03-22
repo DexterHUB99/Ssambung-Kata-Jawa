@@ -621,6 +621,7 @@ bandeng
 banyu
 bas
 basi
+batal
 bathuk
 batik
 batuk
@@ -1860,6 +1861,7 @@ ima
 imam
 iman
 imas
+imba
 imbah
 imbal
 imbalan
@@ -2596,6 +2598,7 @@ lampir
 lampit
 lampu
 lampung
+lamun
 lamunan
 lan
 lanang
