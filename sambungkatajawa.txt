@@ -175,6 +175,7 @@ alisan
 alit
 alo
 alok
+alon
 alot
 alu
 alum
@@ -229,7 +230,6 @@ amul
 amung
 an
 ana
-anae
 anak
 anakan
 anake
@@ -804,7 +804,6 @@ ehi
 eho
 ehop
 ehu
-eja
 ejo
 ek
 eka
@@ -977,6 +976,7 @@ ero
 eroc
 eroe
 eroh
+erok
 erong
 eror
 eru
@@ -2132,7 +2132,6 @@ laban
 labu
 lacut
 lagi
-lagu
 lah
 lahan
 lahe
@@ -2439,7 +2438,6 @@ mben
 mboke
 mboten
 me
-medal
 medeni
 megah
 meja
@@ -2676,6 +2674,7 @@ ngaca
 ngacak
 ngace
 ngaceng
+ngacir
 ngacung
 ngada
 ngadal
@@ -2719,6 +2718,7 @@ nganggur
 ngangkang
 ngangsu
 nganjuk
+nganjut
 ngantem
 ngantemi
 nganter
@@ -2863,7 +2863,6 @@ ngitung
 ngko
 nglonte
 nglor
-ngluku
 ngobah
 ngobat
 ngocok
@@ -3191,7 +3190,6 @@ orasah
 ore
 orek
 oren
-oreng
 orewa
 organisasi
 ori
@@ -3286,10 +3284,10 @@ pedot
 pegat
 pegel
 pek
+peking
 pekok
 pel
 pelan
-pelem
 peler
 peli
 peliku
@@ -3336,7 +3334,6 @@ pinarak
 pincuk
 pindah
 pindang
-pindo
 ping
 pinten
 pintu
@@ -3683,7 +3680,6 @@ sai
 saiki
 sak
 saka
-sakabehe
 sakdurunge
 sakit
 sakti
@@ -3810,6 +3806,7 @@ siti
 sitok
 siwa
 so
+soasu
 soca
 sogok
 sok
