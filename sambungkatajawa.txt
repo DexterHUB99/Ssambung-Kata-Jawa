@@ -6948,6 +6948,7 @@ uso
 usrek
 ustadz
 usu
+usue
 usuk
 usul
 usulan
