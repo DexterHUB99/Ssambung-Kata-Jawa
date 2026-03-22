@@ -450,6 +450,7 @@ apem
 apes
 api
 apik
+apip
 apis
 apit
 aplikasi
@@ -998,6 +999,7 @@ duso
 dusun
 duwe
 duwek
+duwet
 duwit
 ealah
 eban
@@ -1846,6 +1848,7 @@ hurip
 huru
 huruf
 hurung
+hurup
 hus
 husi
 hutan
@@ -4924,6 +4927,7 @@ sorak
 sore
 sori
 soroh
+sos
 sosis
 sotel
 soto
@@ -5644,6 +5648,7 @@ wedi
 wedo
 wedok
 wee
+wek
 wektu
 wele
 wen
