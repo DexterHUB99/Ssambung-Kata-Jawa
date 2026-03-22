@@ -1109,6 +1109,7 @@ duwek
 duwet
 duwit
 ealah
+ebah
 eban
 eco
 ed
@@ -1749,6 +1750,7 @@ goyang
 griya
 grobak
 gu
+gubernur
 gubris
 gubug
 gudang
@@ -3877,6 +3879,7 @@ ngeden
 ngefek
 ngeh
 ngejek
+ngek
 ngela
 ngelag
 ngelak
@@ -4503,6 +4506,7 @@ paling
 palir
 palsu
 palu
+palung
 pam
 paman
 panah
@@ -5423,6 +5427,7 @@ suti
 sutil
 sutri
 suw
+suwak
 suwe
 suwek
 suwen
