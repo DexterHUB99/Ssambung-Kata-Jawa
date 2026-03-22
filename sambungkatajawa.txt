@@ -3366,6 +3366,7 @@ neko
 nelen
 neles
 nelesi
+nelit
 nelongso
 nem
 nembak
