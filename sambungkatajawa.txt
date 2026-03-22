@@ -85,6 +85,7 @@ ahin
 ahir
 ahiran
 ahire
+ahis
 ahit
 ahlak
 ahli
@@ -142,6 +143,7 @@ akad
 akah
 akak
 akal
+akam
 akan
 akang
 akar
@@ -330,6 +332,7 @@ ane
 aneh
 anek
 anep
+anga
 angan
 angaran
 angat
@@ -347,6 +350,7 @@ anggur
 angin
 angka
 angklung
+angkot
 angkruk
 angkuh
 anglo
@@ -435,6 +439,7 @@ apel
 apem
 apes
 api
+apih
 apik
 apis
 apit
@@ -530,6 +535,7 @@ asul
 asula
 asun
 asus
+asuw
 at
 ata
 atah
@@ -704,6 +710,7 @@ biu
 biya
 biyen
 biyung
+blok
 bobi
 bocah
 bodoh
@@ -756,6 +763,7 @@ butek
 buti
 buwa
 cabe
+caca
 cacar
 cacing
 cagak
@@ -767,7 +775,6 @@ cakot
 cakra
 cakul
 calo
-campur
 candi
 cangkruk
 cantik
@@ -801,7 +808,6 @@ cino
 cinta
 cintaa
 cipa
-cipi
 cireng
 cita
 ciu
@@ -887,7 +893,6 @@ delima
 delman
 demek
 demit
-demo
 dengkul
 depak
 dere
@@ -901,6 +906,7 @@ didik
 dido
 didu
 diemut
+dik
 dika
 dikit
 dikon
@@ -956,6 +962,7 @@ dula
 dulang
 dulen
 dulo
+dulu
 dulur
 dumeh
 dungo
@@ -1173,6 +1180,7 @@ epah
 epan
 epang
 epas
+epe
 epek
 epen
 epep
@@ -1247,6 +1255,7 @@ etika
 etil
 etis
 eto
+etok
 etol
 etos
 etu
@@ -1255,7 +1264,6 @@ etur
 etus
 ewae
 ewak
-ewan
 ewang
 ewe
 ewek
@@ -1510,7 +1518,6 @@ giring
 giru
 gisa
 gitar
-giwang
 gladhi
 glodog
 go
@@ -1673,7 +1680,6 @@ hanya
 hap
 hapa
 hape
-hapi
 hapus
 har
 hara
@@ -1967,7 +1973,6 @@ inem
 inep
 infaq
 ing
-ingat
 ingen
 inggih
 inggil
@@ -2064,6 +2069,7 @@ iso
 isoe
 isok
 isoma
+isoo
 isor
 isro
 istana
@@ -2136,7 +2142,6 @@ jaran
 jarang
 jare
 jarik
-jarit
 jasa
 jawa
 jawir
@@ -2167,7 +2172,6 @@ jilid
 jimat
 jimbar
 jin
-jina
 jinak
 jingga
 jinten
@@ -2205,7 +2209,6 @@ juri
 ka
 kabar
 kabeh
-kabek
 kabel
 kabit
 kabupaten
@@ -2352,6 +2355,7 @@ ke
 kebab
 kebang
 kebo
+kecut
 kedah
 kediri
 kedondong
@@ -2728,6 +2732,7 @@ larak
 larang
 laras
 lari
+las
 lasa
 lata
 latah
@@ -2899,6 +2904,7 @@ lorek
 lori
 loro
 lorong
+loroo
 lorot
 los
 losa
@@ -2914,6 +2920,7 @@ luang
 luber
 lucu
 ludah
+ludruk
 lugu
 luh
 luhur
@@ -3004,6 +3011,7 @@ mandi
 mane
 maneh
 mang
+manga
 mangan
 manggih
 manggis
@@ -3068,7 +3076,6 @@ mekar
 melas
 melek
 melok
-memang
 meme
 memek
 mengko
@@ -3202,7 +3209,6 @@ mute
 muter
 muti
 na
-nab
 nabi
 nabok
 nabrak
@@ -3230,6 +3236,7 @@ naker
 nako
 nakon
 nakoni
+naku
 nakuti
 nala
 nalar
@@ -3252,7 +3259,6 @@ nan
 nana
 nanah
 nanam
-nanan
 nanang
 nanas
 nandang
@@ -3277,6 +3283,7 @@ naning
 nano
 nanti
 nanya
+nao
 naon
 nap
 napa
@@ -3315,7 +3322,6 @@ ndeso
 nduk
 ne
 nebang
-neda
 nedha
 nedho
 nedi
@@ -3456,6 +3462,7 @@ ngapeli
 ngaplo
 ngapu
 ngapunten
+ngapurane
 ngapuro
 ngapusi
 ngarai
@@ -3485,7 +3492,6 @@ ngasuh
 ngasuni
 ngatasi
 ngatel
-ngatuk
 ngatur
 ngawa
 ngawasi
@@ -3508,6 +3514,7 @@ ngela
 ngelag
 ngelak
 ngelap
+ngelas
 ngelawan
 ngele
 ngeleh
@@ -3517,6 +3524,7 @@ ngeling
 ngelom
 ngelu
 ngelumpuk
+ngelus
 ngem
 ngembeh
 ngemi
@@ -3713,6 +3721,7 @@ nguru
 ngurus
 ngurusi
 ngurut
+ngusap
 ngusir
 ngusung
 ngutang
@@ -3798,6 +3807,7 @@ nos
 nosi
 note
 nresnani
+nta
 nu
 nua
 nuduh
@@ -3823,6 +3833,7 @@ nung
 nunggang
 nunggu
 nuni
+nuntun
 nunung
 nunut
 nuo
@@ -3979,9 +3990,9 @@ opak
 opal
 opel
 open
+opes
 opet
 opik
-opini
 opo
 opoe
 opoi
@@ -4177,7 +4188,6 @@ pidana
 pidhak
 pie
 pijat
-pijet
 pijit
 pik
 pikir
@@ -4259,6 +4269,7 @@ poleh
 poli
 polisi
 polo
+polon
 polri
 pomi
 pon
@@ -4307,7 +4318,6 @@ pusaka
 pusing
 putih
 puting
-putra
 putri
 putus
 puyeng
@@ -4347,7 +4357,6 @@ ram
 rama
 ramah
 ramai
-ramalan
 raman
 rambak
 ramban
@@ -4428,6 +4437,7 @@ rem
 remah
 remang
 remas
+rembah
 rembang
 rembukan
 rembulan
@@ -4667,10 +4677,10 @@ santen
 santun
 sapa
 sapi
-sapo
 sapu
 saran
 sarang
+sarapan
 sare
 sareh
 sareng
@@ -5014,6 +5024,7 @@ tera
 terang
 teras
 terong
+tet
 tetan
 tete
 tetek
@@ -5169,7 +5180,6 @@ udak
 udam
 udan
 udang
-udara
 udek
 udel
 udi
@@ -5484,7 +5494,6 @@ wahana
 wahyu
 wai
 waja
-wajah
 wajan
 wajik
 wakil
@@ -5492,6 +5501,7 @@ waktu
 walah
 walang
 wali
+wan
 wana
 wangen
 wangsul
@@ -5521,9 +5531,9 @@ wedhus
 wedi
 wedo
 wedok
+wedus
 wee
 wektu
-wele
 wen
 wera
 wes
@@ -5581,7 +5591,6 @@ yaha
 yai
 yak
 yakin
-yaku
 yali
 yama
 yamaha
