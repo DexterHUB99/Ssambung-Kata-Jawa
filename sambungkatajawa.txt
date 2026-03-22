@@ -2653,6 +2653,7 @@ muti
 na
 nabi
 nabrak
+nabung
 nada
 nae
 nafas
@@ -3902,10 +3903,12 @@ semok
 sempak
 sempurna
 seng
+senin
 sepi
 serat
 seri
 seru
+sese
 sesek
 sesok
 sholat
