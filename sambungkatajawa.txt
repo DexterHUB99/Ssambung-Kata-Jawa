@@ -2540,6 +2540,7 @@ lina
 linang
 linggis
 lingkaran
+lingkung
 lingkungan
 linglung
 lingsir
@@ -4635,6 +4636,7 @@ tuwa
 tuwo
 ua
 uan
+uana
 uang
 uban
 ubang
