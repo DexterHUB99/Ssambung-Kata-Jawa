@@ -61,6 +61,7 @@ agama
 agar
 age
 agem
+agi
 agil
 agit
 ago
@@ -888,6 +889,7 @@ cantik
 cape
 care
 cari
+cas
 cawe
 cawet
 cawik
@@ -5986,6 +5988,7 @@ ungkit
 ungu
 uni
 unila
+unine
 uninga
 unjang
 unjuk
