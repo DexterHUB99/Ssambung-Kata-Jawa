@@ -2031,6 +2031,7 @@ kaku
 kakung
 kal
 kala
+kalah
 kalak
 kale
 kaleh
@@ -3285,6 +3286,7 @@ ngobrol
 ngocok
 ngodok
 ngojek
+ngojok
 ngok
 ngoker
 ngoko
