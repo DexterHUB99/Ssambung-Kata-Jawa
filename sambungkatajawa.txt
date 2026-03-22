@@ -971,7 +971,6 @@ bubut
 budak
 budal
 bude
-budeg
 budek
 budi
 bujang
@@ -1576,7 +1575,6 @@ epik
 epil
 epit
 epo
-epoh
 epok
 epol
 epon
@@ -3249,7 +3247,6 @@ kirek
 kiri
 kirik
 kirim
-kiring
 kiris
 kis
 kisa
@@ -4160,7 +4157,6 @@ nada
 nadah
 nadi
 nadira
-nadyan
 nae
 nafas
 nag
@@ -4540,7 +4536,6 @@ ngeli
 ngeling
 ngelmu
 ngelom
-ngelor
 ngelu
 ngelumpuk
 ngelunja
@@ -5884,7 +5879,6 @@ ruko
 ruku
 rukuh
 rukun
-rula
 rule
 rum
 rumah
