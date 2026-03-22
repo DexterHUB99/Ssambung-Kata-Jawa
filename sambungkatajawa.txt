@@ -3750,6 +3750,7 @@ pali
 paling
 palu
 pam
+panah
 panas
 pancen
 panci
@@ -4475,6 +4476,7 @@ suling
 sulung
 sum
 sumbang
+sumbangan
 sumbar
 sumber
 sumerep
