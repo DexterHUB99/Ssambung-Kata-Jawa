@@ -1957,6 +1957,7 @@ irah
 irak
 iram
 irama
+iramu
 irang
 iras
 irasan
@@ -4471,6 +4472,7 @@ sak
 saka
 sakabehe
 sakal
+sakanane
 sakdurunge
 sakit
 sakti
@@ -5082,6 +5084,7 @@ ulangan
 ulap
 ulapan
 ular
+ularan
 ulas
 ulat
 ule
