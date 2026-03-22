@@ -50,7 +50,6 @@ af
 afi
 afif
 agama
-agar
 age
 agem
 agil
@@ -570,7 +569,6 @@ auh
 auha
 aul
 auman
-auna
 aura
 aus
 ausi
@@ -1042,7 +1040,6 @@ ekur
 el
 ela
 elae
-elag
 elah
 elam
 elang
@@ -1320,7 +1317,6 @@ gambyong
 game
 gamel
 gamelan
-gamis
 gamoh
 gampang
 gampar
@@ -2252,7 +2248,6 @@ kamus
 kan
 kana
 kanan
-kanapa
 kanca
 kancil
 kancing
@@ -2398,7 +2393,6 @@ kenyang
 keong
 kep
 kepala
-kepanggih
 kepel
 kepet
 kepik
@@ -2456,7 +2450,6 @@ kidung
 kie
 kijang
 kijing
-kika
 kiki
 kikil
 kil
@@ -2544,7 +2537,6 @@ kop
 kopeng
 kopet
 kopi
-kopita
 koplak
 koplo
 kopok
@@ -2926,7 +2918,6 @@ lunga
 lungguh
 lungo
 luntur
-lunyu
 lupa
 lupi
 luput
@@ -2967,7 +2958,6 @@ mak
 maka
 makam
 makan
-maki
 maksa
 makul
 mal
@@ -3097,7 +3087,6 @@ mini
 minta
 minum
 mio
-mir
 mira
 mirip
 mirsani
@@ -3278,7 +3267,6 @@ narasi
 nari
 narik
 naro
-narsis
 naruh
 nas
 nasa
@@ -3594,7 +3582,6 @@ ngisui
 ngitung
 ngka
 ngko
-nglakoni
 nglonte
 nglor
 ngluku
@@ -3705,7 +3692,6 @@ nguyu
 nguyuh
 ni
 nia
-niba
 nihi
 nik
 nika
@@ -3715,7 +3701,6 @@ nikmat
 niko
 niku
 nikung
-nil
 nila
 nilai
 nilam
@@ -3770,7 +3755,6 @@ nona
 nong
 nongki
 nongkrong
-noni
 nonjok
 nono
 nonton
@@ -4092,7 +4076,6 @@ parah
 pareng
 pari
 paring
-paringi
 parkir
 pas
 pasa
@@ -4678,7 +4661,6 @@ sayur
 seda
 sedaya
 sedeng
-segar
 sego
 sehat
 sei
@@ -4769,7 +4751,6 @@ sitok
 siwa
 so
 soasu
-sobat
 soca
 sogok
 sok
@@ -4893,7 +4874,6 @@ suwen
 suweng
 suwi
 suwun
-swara
 syukuran
 ta
 taat
@@ -4933,7 +4913,6 @@ tamu
 tanah
 tandhuk
 tandur
-tanduran
 tangan
 tangga
 tanggal
@@ -4966,7 +4945,6 @@ tawa
 tawon
 tebu
 tegak
-teh
 teke
 teko
 tekor
