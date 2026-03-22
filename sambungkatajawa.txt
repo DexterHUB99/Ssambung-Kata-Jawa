@@ -3056,6 +3056,7 @@ kena
 kenapa
 kencot
 kencur
+kendal
 kendang
 kendi
 kendil
@@ -6352,6 +6353,7 @@ tiki
 tiktok
 tikung
 tikus
+til
 tila
 tilam
 tilar
