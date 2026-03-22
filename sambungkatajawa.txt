@@ -2862,6 +2862,7 @@ nembang
 nembe
 nembel
 nembung
+neme
 nemen
 nempel
 nempik
@@ -3563,6 +3564,7 @@ peli
 peliku
 pelimu
 pelo
+pelu
 pen
 pena
 penak
