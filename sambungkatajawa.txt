@@ -1537,6 +1537,7 @@ galang
 galangan
 galau
 galeh
+galen
 galengan
 galer
 gali
@@ -1824,6 +1825,7 @@ gotong
 gowo
 goyah
 goyang
+greget
 griya
 grobak
 gu
@@ -1956,6 +1958,7 @@ harapan
 hare
 harga
 hari
+harian
 harimau
 harimu
 hariono
@@ -4444,6 +4447,7 @@ nyawa
 nyawang
 nyawit
 nyebur
+nyedi
 nyenul
 nyepi
 nyerat
