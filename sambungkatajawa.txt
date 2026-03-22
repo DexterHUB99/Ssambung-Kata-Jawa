@@ -1367,6 +1367,7 @@ entong
 entu
 entuk
 entung
+entut
 enu
 enyong
 epa
@@ -4074,6 +4075,7 @@ ngeresake
 ngerti
 ngertos
 ngesah
+ngesel
 ngesot
 ngetan
 ngetik
