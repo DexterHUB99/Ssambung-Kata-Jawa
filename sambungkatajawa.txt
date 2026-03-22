@@ -2688,6 +2688,7 @@ jajan
 jaka
 jala
 jalan
+jalanan
 jali
 jalu
 jaluk
@@ -6342,6 +6343,7 @@ tempel
 tempik
 tempura
 temu
+temulawak
 ten
 tenan
 teng
