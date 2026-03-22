@@ -64,6 +64,7 @@ agawe
 age
 agem
 ageng
+ager
 agi
 agil
 agit
@@ -2561,6 +2562,7 @@ jotos
 ju
 jual
 jujur
+jul
 jule
 juma
 jumpa
@@ -4959,6 +4961,7 @@ polahe
 polahmu
 polaman
 polan
+polar
 poleh
 poli
 polisi
