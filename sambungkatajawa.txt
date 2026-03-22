@@ -109,6 +109,7 @@ aji
 ajine
 ajir
 ajo
+ajor
 ajore
 ajur
 ak
@@ -1586,6 +1587,7 @@ ini
 inie
 injak
 injih
+injing
 insan
 insyaallah
 inti
