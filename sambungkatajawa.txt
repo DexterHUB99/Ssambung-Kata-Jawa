@@ -1791,6 +1791,7 @@ galengan
 galer
 gali
 galih
+galing
 galo
 galon
 gam
@@ -3596,6 +3597,7 @@ lapar
 lapi
 lapis
 lapo
+lapoo
 lapuk
 lara
 larak
@@ -5085,6 +5087,7 @@ oba
 obah
 obak
 obat
+obate
 obeng
 obit
 oblong
