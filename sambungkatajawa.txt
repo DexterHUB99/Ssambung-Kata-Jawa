@@ -2436,6 +2436,7 @@ mben
 mboke
 mboten
 me
+medal
 medeni
 megah
 meja
@@ -3186,6 +3187,7 @@ orasah
 ore
 orek
 oren
+oreng
 orewa
 organisasi
 ori
@@ -3329,6 +3331,7 @@ pinarak
 pincuk
 pindah
 pindang
+pindo
 ping
 pinten
 pintu
