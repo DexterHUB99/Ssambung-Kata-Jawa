@@ -960,6 +960,7 @@ borok
 bosan
 bosing
 bosok
+botak
 bothok
 boti
 botok
@@ -5532,6 +5533,7 @@ pota
 poti
 potong
 potongan
+pria
 pripun
 puan
 puasa
