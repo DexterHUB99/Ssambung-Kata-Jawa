@@ -2583,6 +2583,7 @@ kasep
 kaset
 kasian
 kasih
+kasihan
 kasin
 kasir
 kasor
