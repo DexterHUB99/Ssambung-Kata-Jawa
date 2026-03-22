@@ -3664,6 +3664,7 @@ nes
 nesa
 nesoni
 nesu
+nesui
 netan
 nete
 neteh
