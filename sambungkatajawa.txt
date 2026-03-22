@@ -455,6 +455,7 @@ anggus
 angin
 angka
 angkara
+angkat
 angker
 angklung
 angkong
