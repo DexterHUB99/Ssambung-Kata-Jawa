@@ -1991,6 +1991,7 @@ kabit
 kacuk
 kadal
 kados
+kadung
 kae
 kail
 kain
