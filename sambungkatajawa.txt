@@ -2072,6 +2072,7 @@ kapak
 kapal
 kapan
 kapi
+kaping
 kaprah
 kara
 karam
@@ -3336,6 +3337,7 @@ ngunjuk
 nguntal
 ngunu
 ngupas
+ngupe
 ngupi
 ngupil
 nguping
