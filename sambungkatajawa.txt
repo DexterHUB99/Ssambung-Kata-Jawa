@@ -1237,6 +1237,7 @@ emut
 en
 ena
 enak
+enam
 enan
 enang
 enar
@@ -2606,6 +2607,7 @@ kelum
 kemah
 kemang
 kemangi
+kemari
 kemas
 kembali
 kembang
@@ -5559,6 +5561,7 @@ top
 topi
 topo
 tot
+tota
 toto
 towo
 toya
@@ -5611,6 +5614,7 @@ turah
 turi
 turu
 turuk
+turun
 tusa
 tusi
 tusu
