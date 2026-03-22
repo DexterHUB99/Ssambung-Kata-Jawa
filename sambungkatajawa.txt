@@ -458,6 +458,7 @@ angkara
 angker
 angklung
 angkong
+angkot
 angkring
 angkringan
 angkruk
@@ -3811,6 +3812,7 @@ macul
 madan
 madang
 madhang
+mados
 madu
 madukara
 madura
