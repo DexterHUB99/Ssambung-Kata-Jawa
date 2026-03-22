@@ -2607,6 +2607,7 @@ intil
 intine
 intip
 inul
+inyong
 ip
 ipa
 ipan
@@ -4856,6 +4857,7 @@ ngusik
 ngusir
 ngusung
 ngutang
+ngutil
 nguyu
 nguyuh
 nguyup
