@@ -4004,6 +4004,7 @@ pin
 pinang
 pinar
 pinarak
+pincang
 pincuk
 pindah
 pindak
@@ -4729,6 +4730,7 @@ tangan
 tangga
 tanggal
 tani
+tanjung
 tansah
 tante
 tanya
