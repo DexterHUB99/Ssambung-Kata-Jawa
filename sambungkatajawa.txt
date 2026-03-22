@@ -1559,6 +1559,7 @@ hajat
 haji
 hajio
 hak
+haki
 hakim
 haku
 hal
@@ -3559,6 +3560,7 @@ nim
 nima
 nimba
 nimbang
+nimo
 nin
 nina
 nindak
