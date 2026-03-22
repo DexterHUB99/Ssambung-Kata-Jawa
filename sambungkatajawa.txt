@@ -1408,6 +1408,7 @@ genteng
 genti
 gentong
 geo
+geplak
 ger
 gera
 gerah
@@ -3708,6 +3709,7 @@ odolan
 og
 ogah
 ogak
+oge
 ogi
 ogoh
 oh
@@ -5402,6 +5404,7 @@ yonan
 yono
 yoopo
 yos
+yota
 yoto
 yowes
 yoya
