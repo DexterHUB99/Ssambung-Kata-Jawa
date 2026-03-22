@@ -105,6 +105,7 @@ ahoy
 ahu
 ahuk
 ahun
+ahur
 ahut
 ahuy
 ai
@@ -118,6 +119,7 @@ ail
 aila
 aili
 aima
+aimu
 aina
 aing
 aini
@@ -3930,6 +3932,7 @@ ngising
 ngisor
 ngisui
 ngitung
+ngiyom
 ngk
 ngka
 ngko
