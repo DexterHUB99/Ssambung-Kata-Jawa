@@ -24,6 +24,7 @@ acu
 ad
 ada
 adai
+adan
 ade
 adegan
 adek
@@ -2917,6 +2918,7 @@ mantap
 manten
 mantep
 mantepe
+mantu
 mantuk
 manuk
 manukku
@@ -3455,6 +3457,7 @@ ngilu
 ngimbar
 ngimpi
 ngin
+nginap
 nginep
 nginjen
 nginthil
@@ -3912,6 +3915,7 @@ paido
 paing
 pait
 pajak
+paji
 pak
 pakara
 pakir
