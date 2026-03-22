@@ -202,7 +202,6 @@ akbar
 ake
 akeh
 akehe
-akek
 aken
 akep
 aker
@@ -231,7 +230,6 @@ akot
 akrab
 akrak
 aksa
-aksana
 aksara
 aksi
 aku
@@ -1007,7 +1005,6 @@ cangkruk
 cantik
 cape
 capung
-cara
 care
 cari
 cas
@@ -2745,7 +2742,6 @@ jinya
 jipang
 jipuk
 jir
-jira
 jireh
 jit
 jita
@@ -3623,7 +3619,6 @@ logi
 loh
 lohan
 loho
-loji
 lok
 lokan
 loken
@@ -3974,7 +3969,6 @@ monggo
 montor
 monyet
 mor
-mora
 moret
 moro
 mos
@@ -4309,7 +4303,6 @@ ngambing
 ngambu
 ngame
 ngamem
-ngamo
 ngamok
 ngampil
 ngampiri
@@ -4558,6 +4551,7 @@ ngisie
 ngisin
 ngising
 ngisor
+ngisuh
 ngisui
 ngitung
 ngiyom
@@ -6210,6 +6204,7 @@ tali
 talingan
 talita
 tam
+tama
 taman
 tambah
 tambal
@@ -6850,7 +6845,6 @@ utumu
 utus
 utusan
 uud
-uw
 uwa
 uwe
 uwes
