@@ -461,6 +461,7 @@ arisan
 arit
 arka
 aro
+aroh
 arsila
 arta
 arti
@@ -4245,6 +4246,7 @@ remah
 remang
 remas
 rembang
+rembukan
 rembulan
 reme
 remeh
@@ -4902,6 +4904,7 @@ tulis
 tulisan
 tulung
 tulus
+tum
 tuma
 tuman
 tumbal
