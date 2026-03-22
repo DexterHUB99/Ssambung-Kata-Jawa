@@ -3443,6 +3443,7 @@ mulae
 mulai
 mule
 muleh
+muli
 mulia
 mulih
 mumbul
@@ -3709,6 +3710,7 @@ ngamar
 ngambar
 ngambi
 ngambil
+ngambing
 ngame
 ngamem
 ngampil
