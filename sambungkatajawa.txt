@@ -1847,6 +1847,7 @@ iroh
 iru
 irug
 iruk
+iruka
 irum
 irung
 irup
@@ -2711,6 +2712,7 @@ mamak
 mamakan
 mamake
 mambu
+mami
 man
 mana
 manak
