@@ -983,6 +983,7 @@ buang
 buat
 buban
 bubu
+bubun
 bubur
 bubut
 budak
@@ -3378,6 +3379,7 @@ kontrol
 konyol
 kop
 kopeng
+koperasi
 kopet
 kopi
 kopita
