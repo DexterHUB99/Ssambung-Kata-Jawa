@@ -1305,6 +1305,7 @@ geseng
 geser
 gete
 geter
+getih
 geto
 getok
 getuk
@@ -2842,6 +2843,7 @@ nak
 naka
 nakal
 nakali
+nako
 nakon
 nakoni
 nala
@@ -2914,6 +2916,7 @@ ndelok
 nderek
 ndeso
 ne
+nebang
 nedha
 nedho
 nedi
@@ -3795,6 +3798,7 @@ punten
 punya
 pupuk
 pura
+puri
 purun
 purut
 pusa
@@ -4540,6 +4544,7 @@ tusu
 tusuk
 tut
 tuta
+tuti
 tutup
 tutur
 tuwa
