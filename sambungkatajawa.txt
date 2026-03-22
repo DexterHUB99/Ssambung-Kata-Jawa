@@ -541,6 +541,7 @@ besi
 besok
 besuk
 bi
+biak
 biasa
 biawak
 bibi
@@ -1811,6 +1812,7 @@ kantor
 kaos
 kapak
 kapal
+kara
 karang
 karat
 karbit
