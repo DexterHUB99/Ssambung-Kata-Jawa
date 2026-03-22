@@ -1696,6 +1696,7 @@ huru
 huruf
 hurung
 hus
+husi
 hutan
 hutang
 huti
