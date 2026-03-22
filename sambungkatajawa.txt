@@ -688,6 +688,7 @@ bulan
 bulat
 bulik
 bumbu
+bumi
 bumu
 buna
 buncis
@@ -1983,6 +1984,7 @@ jawir
 je
 jeh
 jejer
+jelang
 jelek
 jembatan
 jembut
@@ -4570,6 +4572,7 @@ tambang
 tambel
 tambir
 tami
+tampah
 tampar
 tamu
 tanah
