@@ -6472,6 +6472,7 @@ takon
 taksi
 taku
 takut
+tal
 tale
 tali
 talingan
@@ -7247,6 +7248,7 @@ widari
 widi
 widia
 wih
+wii
 wijaya
 wiji
 wikan
