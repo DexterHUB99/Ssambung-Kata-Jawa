@@ -465,6 +465,7 @@ arti
 arto
 artos
 aru
+arul
 arum
 arumi
 arus
@@ -4416,6 +4417,7 @@ saku
 sakula
 salah
 salahe
+salak
 salam
 salim
 sam
@@ -5246,6 +5248,7 @@ wangen
 wangsul
 wani
 wanita
+war
 waras
 warek
 wareng
