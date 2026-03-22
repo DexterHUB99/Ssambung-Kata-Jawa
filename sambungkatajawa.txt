@@ -827,6 +827,7 @@ din
 dina
 dingin
 dino
+dinten
 dipa
 dipan
 dipun
@@ -1453,6 +1454,7 @@ gurih
 gurita
 guru
 gus
+gusah
 gusi
 gusti
 gusur
@@ -1959,6 +1961,7 @@ jijih
 jijik
 jika
 jilat
+jilati
 jilid
 jimat
 jimbar
@@ -2330,6 +2333,7 @@ kota
 kotak
 kotang
 koti
+kotoran
 kowe
 koyo
 koyok
@@ -3222,6 +3226,7 @@ ngidam
 ngidu
 ngidul
 ngih
+ngiji
 ngijin
 ngijir
 ngik
