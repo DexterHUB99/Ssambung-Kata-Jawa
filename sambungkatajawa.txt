@@ -861,7 +861,6 @@ bego
 bejan
 bejat
 bejo
-beka
 beko
 bel
 belang
@@ -1428,7 +1427,6 @@ eluh
 elus
 em
 ema
-emah
 emak
 emam
 eman
@@ -1560,7 +1558,6 @@ epok
 epol
 epon
 epos
-epu
 epuh
 epuk
 epul
@@ -1768,7 +1765,6 @@ gandeng
 gandheng
 gandos
 gandrung
-ganduk
 gandul
 gang
 gangan
@@ -1842,7 +1838,6 @@ gawean
 gawene
 gaweo
 gawok
-gayang
 gayeng
 gayu
 gayuh
@@ -2598,7 +2593,6 @@ iring
 iris
 irit
 iroh
-irol
 irong
 irosi
 iru
@@ -2824,7 +2818,6 @@ jumpa
 jung
 jungkir
 juni
-jura
 juragan
 jurang
 juri
@@ -2956,7 +2949,6 @@ karangan
 karat
 karbit
 kare
-karek
 karem
 karempu
 karena
@@ -3382,7 +3374,6 @@ kuno
 kunta
 kunti
 kuntul
-kunung
 kunyuk
 kuo
 kupa
@@ -3807,7 +3798,6 @@ mak
 maka
 makam
 makan
-makanan
 makarya
 maki
 maksa
@@ -3895,7 +3885,6 @@ mate
 matek
 mateng
 mateni
-materi
 mati
 matio
 matur
@@ -4224,7 +4213,6 @@ nate
 nature
 nawar
 nawari
-ndadak
 ndak
 ndalu
 ndang
@@ -4356,7 +4344,6 @@ ngalas
 ngalem
 ngaler
 ngali
-ngalih
 ngalis
 ngalon
 ngalor
@@ -4570,7 +4557,6 @@ nggoe
 nggolek
 nggoni
 nggowo
-nggula
 ngguwak
 ngguyu
 ngibul
@@ -4707,7 +4693,6 @@ ngpel
 ngrasa
 ngrumat
 ngrumpi
-nguang
 ngubeng
 nguber
 ngubur
@@ -5119,7 +5104,6 @@ oreg
 orek
 oren
 oreng
-orep
 orewa
 organisasi
 ori
@@ -5276,7 +5260,6 @@ payung
 pe
 pea
 pean
-pecel
 peci
 pedang
 pedot
@@ -5852,7 +5835,6 @@ ruska
 rusuh
 rut
 rutan
-rute
 rutin
 ruwah
 ruwat
@@ -6011,7 +5993,6 @@ semok
 sempak
 sempurna
 semut
-senajan
 sendok
 seneng
 seng
@@ -6068,7 +6049,6 @@ sinau
 sindur
 sing
 singa
-singgah
 singo
 sini
 sino
@@ -6324,7 +6304,6 @@ tangan
 tangga
 tanggal
 tanggalan
-tanggap
 tangi
 tani
 tanjung
@@ -6459,7 +6438,6 @@ tina
 tindak
 tindhak
 tinggal
-tingkah
 tinju
 tip
 tir
@@ -6972,7 +6950,6 @@ wa
 waa
 wadah
 wade
-wadoh
 wadol
 wadon
 waduh
