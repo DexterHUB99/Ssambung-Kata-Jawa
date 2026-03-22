@@ -2784,6 +2784,7 @@ lantar
 lantas
 lanting
 lantun
+lantur
 laos
 lapang
 lapis
@@ -4967,6 +4968,7 @@ sue
 sugeh
 sugeng
 sugih
+suh
 sui
 suk
 suka
@@ -5244,6 +5246,7 @@ tukang
 tukaran
 tuki
 tuku
+tukue
 tukul
 tul
 tulan
