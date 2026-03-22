@@ -605,6 +605,7 @@ bali
 baliho
 balok
 bambang
+bana
 banci
 bandeng
 banyu
@@ -1595,6 +1596,7 @@ hari
 harimau
 harimu
 harma
+haro
 harta
 haru
 harum
@@ -3108,6 +3110,7 @@ nani
 naning
 nanti
 nanya
+nao
 naon
 nap
 napa
