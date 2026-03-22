@@ -610,6 +610,7 @@ bom
 bongo
 bor
 borok
+bosan
 bosok
 botol
 boyo
@@ -2079,6 +2080,7 @@ kiki
 kikil
 kil
 kila
+kilap
 kilat
 kilek
 kili
