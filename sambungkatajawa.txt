@@ -1572,6 +1572,7 @@ erak
 eram
 eran
 erang
+erangan
 erap
 eras
 erasi
@@ -6085,6 +6086,7 @@ siraman
 sirep
 siri
 sirik
+sirip
 sirna
 siro
 sirsak
