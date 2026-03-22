@@ -1685,6 +1685,7 @@ inang
 inda
 indah
 indang
+indik
 indra
 indu
 induk
@@ -2579,6 +2580,7 @@ mara
 marah
 marai
 maras
+mari
 mariem
 markisa
 mas
@@ -3452,6 +3454,7 @@ pak
 pakara
 pakir
 pako
+paku
 pal
 pala
 palang
