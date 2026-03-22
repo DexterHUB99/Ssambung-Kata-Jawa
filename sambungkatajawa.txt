@@ -641,6 +641,7 @@ asui
 asul
 asula
 asun
+asur
 asus
 asuw
 at
@@ -6633,6 +6634,7 @@ wilangan
 win
 windu
 wine
+wingi
 wino
 winta
 wir
