@@ -1376,6 +1376,7 @@ gerang
 gereng
 geri
 gering
+gero
 gese
 gesek
 geseng
@@ -5227,6 +5228,7 @@ yap
 yapa
 yaping
 yapo
+yare
 yas
 yasa
 yasin
