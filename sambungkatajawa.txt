@@ -1251,6 +1251,7 @@ gagah
 gagak
 gagal
 gagang
+gagap
 gagasan
 gagu
 gah
@@ -1405,6 +1406,7 @@ gendakan
 gendar
 gendeng
 genderuwo
+gendhis
 gendong
 gendut
 geng
