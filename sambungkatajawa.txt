@@ -1403,6 +1403,7 @@ ekot
 eksi
 ektika
 eku
+ekuh
 ekul
 ekun
 ekur
@@ -2766,6 +2767,7 @@ je
 jeh
 jejer
 jelang
+jelas
 jelek
 jembatan
 jembut
