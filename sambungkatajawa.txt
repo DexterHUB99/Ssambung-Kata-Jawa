@@ -1191,6 +1191,7 @@ enteng
 enthog
 enthuk
 entok
+entol
 entong
 entu
 entuk
@@ -3622,6 +3623,7 @@ ngeres
 ngeresake
 ngerti
 ngertos
+ngesah
 ngesot
 ngetan
 ngetik
