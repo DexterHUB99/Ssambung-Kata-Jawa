@@ -229,6 +229,7 @@ amul
 amung
 an
 ana
+anae
 anak
 anakan
 anake
@@ -3681,6 +3682,7 @@ sai
 saiki
 sak
 saka
+sakabehe
 sakdurunge
 sakit
 sakti
