@@ -230,6 +230,7 @@ alami
 alan
 alang
 alangan
+alap
 alar
 alas
 alasan
@@ -4796,6 +4797,7 @@ pasuruan
 patah
 paten
 pati
+patin
 patuh
 patung
 payah
@@ -6410,6 +6412,7 @@ wareng
 warisan
 warna
 warung
+wasi
 waso
 watak
 wati
