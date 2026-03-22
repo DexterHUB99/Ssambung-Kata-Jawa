@@ -3952,6 +3952,7 @@ rendeng
 rendi
 rene
 reng
+renggang
 renggo
 renta
 reog
@@ -4877,6 +4878,7 @@ waduke
 wadul
 wae
 wahana
+wahyu
 wai
 wajan
 wajik
