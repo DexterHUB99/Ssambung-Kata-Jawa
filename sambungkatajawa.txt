@@ -4984,6 +4984,7 @@ puja
 puk
 puki
 pukul
+pul
 pula
 pulau
 puli
@@ -6552,6 +6553,7 @@ yudhistira
 yudi
 yuk
 yuka
+yuki
 yuli
 yumi
 yune
