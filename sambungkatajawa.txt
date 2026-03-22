@@ -488,6 +488,7 @@ arip
 aris
 arisan
 arit
+arjuno
 arka
 aro
 aroh
@@ -4602,6 +4603,7 @@ ring
 ringa
 ringkas
 rini
+rinja
 rino
 rio
 rip
@@ -5129,6 +5131,7 @@ tembok
 tembung
 temen
 temi
+temon
 tempe
 tempek
 tempel
