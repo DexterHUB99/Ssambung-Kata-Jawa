@@ -947,6 +947,7 @@ cecak
 cecek
 cega
 cekap
+celak
 celana
 celek
 celeng
@@ -3509,6 +3510,7 @@ madukara
 madura
 mae
 maem
+maen
 magan
 mager
 mah
@@ -5070,6 +5072,7 @@ pukul
 pul
 pula
 pulau
+pulen
 puli
 pulo
 puluh
@@ -5206,6 +5209,7 @@ raup
 rausah
 raut
 rawa
+rawan
 rawat
 raweh
 rawit
