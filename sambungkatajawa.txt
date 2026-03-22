@@ -5,6 +5,7 @@ aba
 abab
 abah
 abai
+abal
 abang
 abaya
 abdi
@@ -89,6 +90,7 @@ ahit
 ahlak
 ahli
 ahlii
+ahmak
 aho
 ahok
 ahon
@@ -574,6 +576,7 @@ aul
 auman
 aura
 aus
+ausa
 ausi
 aut
 autan
@@ -620,7 +623,6 @@ babi
 babik
 babu
 bacok
-badak
 bae
 bagong
 bagus
@@ -898,6 +900,7 @@ deri
 dewe
 dewek
 di
+diama
 diana
 didik
 dido
@@ -1345,7 +1348,6 @@ gangan
 gange
 ganggu
 gangsal
-gangsing
 ganja
 ganjar
 ganjer
@@ -2279,6 +2281,7 @@ kandang
 kandas
 kandel
 kandhang
+kandi
 kandungan
 kang
 kangen
@@ -2380,6 +2383,7 @@ kelebu
 kelek
 keli
 kelimis
+kelinci
 kelingan
 keliru
 kelon
@@ -3309,7 +3313,6 @@ natap
 nate
 nature
 nawar
-nawari
 ndak
 ndang
 ndangan
@@ -3421,7 +3424,6 @@ ngamal
 ngaman
 ngamar
 ngambar
-ngamben
 ngambi
 ngambil
 ngame
@@ -3709,7 +3711,6 @@ nguning
 ngunjuk
 nguntal
 ngunu
-ngunung
 ngupas
 ngupe
 ngupi
@@ -4200,6 +4201,7 @@ pilang
 pilar
 pilat
 pilek
+pilih
 pilot
 pilu
 pilus
@@ -4510,7 +4512,6 @@ rio
 rip
 ripan
 riri
-riro
 ris
 risa
 risak
@@ -4729,7 +4730,6 @@ seng
 sepi
 serat
 seri
-serok
 seru
 sesek
 sesok
@@ -4798,6 +4798,7 @@ sitok
 siwa
 so
 soasu
+sobat
 soca
 sogok
 sok
@@ -4937,6 +4938,7 @@ tai
 taik
 tajir
 tak
+taka
 take
 taki
 takjil
@@ -5191,11 +5193,13 @@ uduk
 udut
 uem
 uen
+ug
 uga
 ugah
 ugal
 uge
 ugo
+ugu
 uh
 uha
 uhe
