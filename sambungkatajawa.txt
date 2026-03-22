@@ -1248,6 +1248,7 @@ eki
 ekif
 ekih
 ekin
+ekir
 eko
 ekok
 ekol
@@ -1603,6 +1604,7 @@ ganda
 ganden
 gandeng
 gandheng
+gandos
 gandrung
 gandul
 gang
@@ -2163,6 +2165,7 @@ idhu
 idi
 idih
 idii
+ido
 idu
 idue
 ieu
@@ -3561,6 +3564,7 @@ masak
 masang
 masih
 masio
+masjid
 maso
 masuk
 mat
@@ -5837,6 +5841,7 @@ tarik
 taro
 taru
 tas
+tasa
 tase
 tasi
 tat
@@ -6553,6 +6558,7 @@ yak
 yakin
 yaku
 yali
+yalo
 yama
 yamaha
 yaman
