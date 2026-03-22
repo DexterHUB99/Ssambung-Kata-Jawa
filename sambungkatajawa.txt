@@ -23,6 +23,7 @@ abrit
 abu
 abuh
 aca
+acen
 acu
 ad
 ada
@@ -811,6 +812,7 @@ bojo
 bok
 bokong
 bola
+bolali
 bolo
 boloho
 bolong
@@ -2947,6 +2949,7 @@ kunti
 kuntul
 kunyuk
 kuo
+kupa
 kupas
 kupat
 kupi
@@ -4785,6 +4788,7 @@ potongan
 pripun
 puan
 puasa
+pucuk
 puja
 puk
 puki
