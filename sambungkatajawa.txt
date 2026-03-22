@@ -1641,6 +1641,7 @@ ilok
 ilon
 ilu
 iluk
+iluo
 ilyas
 im
 ima
@@ -2828,6 +2829,7 @@ neteh
 netek
 netra
 ngaben
+ngabi
 ngaca
 ngacak
 ngace
