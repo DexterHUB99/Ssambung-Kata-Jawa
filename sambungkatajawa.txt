@@ -963,6 +963,7 @@ edan
 edanwa
 edar
 edi
+edo
 edon
 ef
 efek
@@ -3181,6 +3182,7 @@ nangka
 nangkring
 nani
 naning
+nano
 nanti
 nanya
 naon
