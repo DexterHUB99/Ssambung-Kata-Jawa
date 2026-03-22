@@ -1462,6 +1462,7 @@ elon
 elor
 elu
 eluh
+elung
 elus
 em
 ema
@@ -4729,6 +4730,7 @@ ngisi
 ngisie
 ngisin
 ngising
+ngiso
 ngisor
 ngisuh
 ngisui
@@ -7356,3 +7358,4 @@ yuyu
 yuyun
 zaman
 ziarah
+zina
