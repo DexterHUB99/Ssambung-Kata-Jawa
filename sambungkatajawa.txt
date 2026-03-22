@@ -1311,6 +1311,7 @@ genah
 genangan
 gendar
 gendeng
+genderuwo
 gendong
 gendut
 geng
@@ -2757,6 +2758,7 @@ mau
 mawon
 maya
 mayak
+mayu
 mben
 mboke
 mboten
@@ -5108,5 +5110,6 @@ yuran
 yus
 yusa
 yusra
+yuyi
 yuyu
 zaman
