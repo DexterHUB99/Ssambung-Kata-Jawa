@@ -1021,6 +1021,7 @@ but
 buta
 butek
 buti
+buto
 butuh
 buwa
 ca
@@ -2920,6 +2921,7 @@ kabupaten
 kabur
 kabut
 kaca
+kacang
 kacau
 kacek
 kacu
@@ -4907,6 +4909,7 @@ nia
 nian
 niba
 nihi
+nii
 nik
 nika
 nikah
