@@ -735,6 +735,7 @@ dah
 dahar
 dahi
 daki
+dal
 dalam
 dalem
 dalih
@@ -3627,6 +3628,7 @@ pindo
 ping
 pinggir
 pinten
+pinter
 pintu
 pinuk
 pipi
@@ -3818,6 +3820,7 @@ rejeb
 rejo
 rek
 reka
+rekasa
 reko
 rem
 remah
