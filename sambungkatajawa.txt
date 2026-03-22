@@ -153,6 +153,7 @@ ajag
 ajak
 ajal
 ajar
+aje
 ajek
 ajeng
 aji
@@ -3181,6 +3182,7 @@ lalii
 lam
 lama
 lamaran
+lambang
 lambe
 lambemu
 lambene
