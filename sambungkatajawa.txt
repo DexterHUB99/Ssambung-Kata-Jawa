@@ -2020,6 +2020,7 @@ janda
 janga
 jangkrik
 janji
+jarak
 jaran
 jarang
 jare
@@ -3965,6 +3966,7 @@ pilek
 pilu
 pilus
 pin
+pinang
 pinar
 pinarak
 pincuk
