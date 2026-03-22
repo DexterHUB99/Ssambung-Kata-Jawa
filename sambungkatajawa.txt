@@ -1497,6 +1497,7 @@ go
 gobak
 goblok
 gobloki
+gocek
 gocekan
 godek
 godhok
