@@ -317,6 +317,7 @@ amem
 amen
 amer
 amerga
+amet
 ami
 amie
 amih
@@ -2953,6 +2954,7 @@ kesusu
 keta
 ketan
 ketek
+keterangan
 ketik
 ketok
 keton
