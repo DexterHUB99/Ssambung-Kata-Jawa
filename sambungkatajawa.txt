@@ -402,6 +402,7 @@ anasi
 anat
 ancang
 ancas
+ancase
 ancen
 ancer
 anci
@@ -4385,6 +4386,7 @@ ngalon
 ngalor
 ngalu
 ngalus
+ngam
 ngamal
 ngaman
 ngamar
@@ -5776,6 +5778,7 @@ riska
 riski
 risma
 rismo
+riso
 rita
 riti
 riwa
