@@ -111,7 +111,6 @@ ajak
 ajal
 ajek
 ajeng
-ajenge
 aji
 ajig
 ajine
@@ -201,7 +200,6 @@ alur
 alus
 am
 ama
-amad
 amal
 amalan
 amam
@@ -375,7 +373,6 @@ anyir
 anyong
 ap
 apa
-apaan
 apae
 apak
 apal
@@ -476,6 +473,7 @@ ata
 atah
 atai
 atak
+atan
 atap
 atari
 atas
@@ -613,10 +611,8 @@ bisa
 bisik
 bisiki
 bismillah
-bisne
 biso
 bisu
-bita
 biyen
 biyung
 bobi
@@ -722,7 +718,6 @@ cuma
 cumi
 curut
 da
-dabu
 dada
 dadak
 dadang
@@ -735,7 +730,6 @@ dah
 dahar
 dahi
 daki
-dal
 dalam
 dalem
 dalih
@@ -1040,6 +1034,7 @@ epos
 epuk
 er
 era
+erak
 eram
 erang
 erap
@@ -1116,7 +1111,6 @@ gabut
 gada
 gadah
 gading
-gadug
 gadung
 gadungan
 gae
@@ -1152,6 +1146,7 @@ gambar
 gambare
 gambas
 gambuh
+gambut
 gambyong
 game
 gamel
@@ -1198,7 +1193,6 @@ garing
 garis
 garong
 garpu
-garu
 garuda
 garuga
 garuk
@@ -1208,7 +1202,6 @@ gas
 gasa
 gasak
 gasik
-gasing
 gata
 gatau
 gatel
@@ -1321,6 +1314,7 @@ gocekan
 godek
 godhong
 godog
+godok
 godong
 gogoh
 gogol
@@ -1443,7 +1437,6 @@ han
 hana
 hanacaraka
 hancur
-hane
 hang
 hani
 hano
@@ -1459,6 +1452,7 @@ har
 hara
 haram
 harap
+harapan
 hare
 harga
 hari
@@ -1567,8 +1561,6 @@ hujan
 hukum
 hula
 hulu
-hum
-huma
 human
 humor
 huni
@@ -1633,7 +1625,6 @@ ik
 ika
 ikal
 ikan
-ikar
 ikas
 ikat
 ikatan
@@ -1798,7 +1789,6 @@ ising
 isis
 islam
 islo
-ismu
 iso
 isoe
 isok
@@ -1874,6 +1864,7 @@ jembut
 jempol
 jemur
 jemuran
+jenang
 jeneng
 jenengan
 jer
@@ -1914,7 +1905,6 @@ jos
 ju
 jual
 jujur
-jule
 jurang
 ka
 kabeh
@@ -1988,6 +1978,7 @@ kapak
 kapal
 kapan
 kara
+karam
 karang
 karat
 karbit
@@ -2013,6 +2004,7 @@ kasor
 kasu
 kasuk
 kasur
+kasure
 kata
 katak
 katel
@@ -2033,7 +2025,6 @@ ke
 kebab
 kebang
 kebo
-kebul
 kedah
 kediri
 kedondong
@@ -2313,7 +2304,6 @@ kuyuk
 la
 laba
 laban
-labi
 labu
 lacut
 lagi
@@ -2506,7 +2496,6 @@ lonjong
 lontar
 lonte
 lontong
-loo
 lop
 lope
 lopi
@@ -2647,7 +2636,6 @@ mau
 mawon
 maya
 mayak
-mayang
 mben
 mboke
 mboten
@@ -2848,6 +2836,7 @@ nasab
 nasar
 nasi
 nasib
+nasu
 nata
 natap
 nate
@@ -2875,6 +2864,7 @@ nembang
 nembe
 nembel
 nembung
+neme
 nemen
 nempel
 nempik
@@ -2949,6 +2939,7 @@ ngampiri
 ngampleng
 ngamuk
 ngana
+ngancani
 ngandang
 nganggo
 nganggu
@@ -3049,7 +3040,6 @@ ngere
 ngerem
 ngerepoti
 ngeresake
-ngeri
 ngerti
 ngertos
 ngesot
@@ -3061,13 +3051,13 @@ ngga
 nggae
 nggak
 nggambar
-nggantung
 nggatel
 nggateli
 nggawe
 nggayuh
 nggeh
 nggih
+nggo
 nggolek
 ngguwak
 ngguyu
@@ -3143,7 +3133,6 @@ ngopoe
 ngopok
 ngor
 ngora
-ngoret
 ngori
 ngorok
 ngorong
@@ -3185,10 +3174,10 @@ nguning
 ngunjuk
 nguntal
 ngunu
+ngupas
 ngupi
 ngupil
 nguping
-ngura
 nguras
 ngurip
 ngurus
@@ -3259,10 +3248,10 @@ nomer
 non
 nona
 nong
+nongki
 nongkrong
 nonjok
 nono
-nontok
 nonton
 nop
 nopi
@@ -3277,6 +3266,7 @@ note
 nu
 nua
 nuduh
+nue
 nuhun
 nui
 nuju
@@ -3577,6 +3567,7 @@ peli
 peliku
 pelimu
 pelo
+pelu
 pen
 pena
 penak
@@ -3629,7 +3620,6 @@ pindo
 ping
 pinggir
 pinten
-pinter
 pintu
 pinuk
 pipi
@@ -3728,7 +3718,6 @@ rabu
 rabun
 racun
 raden
-radio
 rae
 raga
 ragat
@@ -3821,13 +3810,11 @@ rejeb
 rejo
 rek
 reka
-rekasa
 reko
 rem
 remah
 remang
 remas
-rembang
 rembulan
 reme
 remeh
@@ -3847,6 +3834,7 @@ rendi
 reng
 renggo
 renta
+reog
 repot
 rere
 rero
@@ -3870,6 +3858,7 @@ rih
 rii
 rik
 rika
+rikan
 riki
 rikma
 riko
@@ -3900,7 +3889,6 @@ risih
 risma
 rita
 riya
-riyaya
 riyo
 ro
 roban
@@ -4011,7 +3999,6 @@ sambal
 sambat
 sambel
 sambi
-sambil
 sambit
 sambung
 sami
@@ -4097,7 +4084,6 @@ siapa
 sida
 sidang
 siji
-sika
 sikat
 sikil
 siku
@@ -4151,7 +4137,6 @@ soli
 solo
 somat
 sombong
-son
 sono
 sontoloyo
 sop
@@ -4239,6 +4224,7 @@ susul
 susumu
 susun
 susuwi
+suti
 sutil
 sutri
 suw
@@ -4268,7 +4254,6 @@ takjil
 takon
 taku
 tali
-talii
 talingan
 tam
 taman
@@ -4361,7 +4346,6 @@ timur
 tin
 tindak
 tinggal
-tingkah
 tinju
 tip
 tira
@@ -4438,6 +4422,7 @@ turi
 turu
 turuk
 tusa
+tusu
 tusuk
 tut
 tuta
@@ -4448,7 +4433,6 @@ tuwo
 ua
 uan
 uang
-uba
 uban
 ubang
 ubel
@@ -4582,7 +4566,6 @@ umpet
 umu
 umuk
 umum
-umume
 umur
 un
 una
@@ -4689,7 +4672,6 @@ usil
 usir
 usiro
 uso
-ussing
 ustadz
 usu
 usuk
@@ -4817,7 +4799,6 @@ wonten
 wor
 woro
 wowo
-wu
 wula
 wulan
 xenon
@@ -4849,6 +4830,7 @@ yati
 yawes
 yawis
 yaya
+yayi
 yek
 yen
 yere
