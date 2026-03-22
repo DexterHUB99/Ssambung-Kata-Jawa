@@ -855,6 +855,7 @@ biya
 biyen
 biyung
 blonjo
+boba
 bobi
 bobo
 bocah
@@ -4045,6 +4046,7 @@ ngalas
 ngalem
 ngaler
 ngali
+ngalon
 ngalor
 ngalus
 ngamal
