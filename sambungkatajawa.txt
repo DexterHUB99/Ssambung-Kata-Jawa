@@ -1193,6 +1193,7 @@ gagah
 gagak
 gagal
 gagang
+gagasan
 gagu
 gah
 gaja
@@ -2042,6 +2043,7 @@ kabar
 kabeh
 kabel
 kabit
+kabut
 kacuk
 kadal
 kados
@@ -2457,6 +2459,7 @@ kusir
 kut
 kuta
 kutang
+kutilang
 kutu
 kutuk
 kuwat
