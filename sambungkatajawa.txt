@@ -623,6 +623,7 @@ bojo
 bok
 bola
 bolo
+bolong
 bom
 bongo
 bor
@@ -764,6 +765,7 @@ dawuhe
 deda
 dedak
 dedek
+deket
 delman
 demek
 demit
@@ -1032,6 +1034,7 @@ epok
 epol
 epon
 epos
+epuh
 epuk
 er
 era
@@ -1264,6 +1267,7 @@ gendong
 gendut
 geng
 geni
+geno
 genteng
 genti
 gentong
@@ -1803,6 +1807,7 @@ istri
 isu
 isue
 isuk
+isun
 isya
 ita
 itae
@@ -2922,6 +2927,7 @@ ngaji
 ngak
 ngaka
 ngakak
+ngakang
 ngaku
 ngal
 ngalah
