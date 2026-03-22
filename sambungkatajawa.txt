@@ -2863,6 +2863,7 @@ lantun
 lantur
 laos
 lapang
+lapi
 lapis
 lapo
 lapuk
