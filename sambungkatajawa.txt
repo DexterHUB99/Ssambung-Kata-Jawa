@@ -2755,6 +2755,7 @@ jahat
 jai
 jail
 jaja
+jajal
 jajan
 jaka
 jala
@@ -4424,6 +4425,7 @@ ngalah
 ngalam
 ngalap
 ngalas
+ngaleh
 ngalem
 ngaler
 ngali
@@ -7196,6 +7198,7 @@ witing
 wito
 wiwi
 wiwit
+wiwitan
 wo
 woh
 woi
