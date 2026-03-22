@@ -2178,6 +2178,7 @@ kuda
 kudet
 kudu
 kue
+kuha
 kui
 kuk
 kuka
