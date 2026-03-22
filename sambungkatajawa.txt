@@ -918,6 +918,7 @@ enek
 eneng
 enggal
 enggeh
+enggih
 engkang
 engko
 engkol
@@ -1093,6 +1094,7 @@ gape
 gaplek
 gapleki
 gapuk
+gapura
 gara
 garai
 garap
@@ -3898,6 +3900,7 @@ susuk
 susuku
 susul
 susumu
+susun
 sutil
 sutri
 suw
