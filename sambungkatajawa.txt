@@ -718,6 +718,7 @@ bambu
 banci
 bandeng
 bangsat
+bantal
 banyu
 bas
 basi
@@ -3155,6 +3156,7 @@ lintah
 lintang
 lintas
 lio
+lip
 lipan
 lipas
 lipat
@@ -3356,6 +3358,7 @@ mangu
 mani
 manis
 manjing
+manjur
 mantap
 manten
 mantep
@@ -4536,6 +4539,7 @@ palu
 palung
 pam
 paman
+pan
 panah
 panas
 pancen
@@ -5611,6 +5615,7 @@ tikung
 tikus
 tila
 tilam
+tilar
 tilas
 tilem
 tilen
@@ -6188,6 +6193,7 @@ wirang
 wiro
 wis
 wisa
+wisata
 wisuh
 wit
 witing
