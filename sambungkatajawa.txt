@@ -1227,6 +1227,7 @@ fajar
 fantasi
 fase
 fix
+fungsi
 ga
 gabah
 gabus
@@ -2085,6 +2086,7 @@ jin
 jinak
 jingga
 jinten
+jipang
 jipuk
 jit
 jiwa
