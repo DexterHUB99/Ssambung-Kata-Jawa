@@ -835,6 +835,7 @@ disana
 disawah
 diso
 dodi
+dodo
 dodol
 dok
 dokar
@@ -1751,6 +1752,7 @@ imbalan
 imbang
 imbas
 imboh
+imbu
 imbuh
 imbuhan
 imi
@@ -3257,6 +3259,7 @@ ngoker
 ngoko
 ngokop
 ngolah
+ngolak
 ngoles
 ngolong
 ngomah
