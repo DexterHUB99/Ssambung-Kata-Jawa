@@ -2497,6 +2497,7 @@ kom
 koma
 komari
 komi
+komik
 komodo
 kompak
 kompas
@@ -2936,6 +2937,7 @@ makam
 makan
 maksa
 makul
+mal
 malaikat
 malam
 malang
@@ -3032,6 +3034,7 @@ mera
 merah
 merem
 mergo
+merpati
 mesake
 mesin
 meteng
