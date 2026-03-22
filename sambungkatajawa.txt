@@ -2339,6 +2339,7 @@ iyuh
 iyul
 iz
 ja
+jadi
 jae
 jahat
 jai
@@ -4196,6 +4197,7 @@ noha
 nohi
 nok
 nol
+nolak
 noleh
 nolek
 nom
@@ -4561,6 +4563,7 @@ pasang
 pasar
 pasir
 pasukan
+pasuruan
 patah
 paten
 pati
@@ -5868,6 +5871,7 @@ umbar
 umbel
 umbi
 umbul
+umha
 umi
 umma
 ummi
