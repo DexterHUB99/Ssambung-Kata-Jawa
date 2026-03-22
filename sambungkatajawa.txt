@@ -214,6 +214,7 @@ amal
 amalan
 amam
 aman
+amanah
 amar
 amarga
 amat
@@ -701,9 +702,11 @@ cakap
 cakot
 cakul
 candi
+cangkruk
 cantik
 cape
 care
+cari
 cawe
 cawet
 cawik
@@ -1107,6 +1110,7 @@ eruh
 erup
 es
 esa
+esah
 esai
 esak
 ese
@@ -2079,6 +2083,7 @@ kapal
 kapan
 kapi
 kaping
+kapok
 kaprah
 kara
 karam
@@ -2867,6 +2872,7 @@ muh
 muji
 muk
 muka
+mukaka
 mukul
 mul
 mula
@@ -3156,6 +3162,7 @@ ngatasi
 ngatur
 ngawa
 ngawasi
+ngawe
 ngawi
 ngawih
 ngawor
