@@ -1270,6 +1270,7 @@ dudo
 dudu
 duduk
 duga
+duge
 duha
 duit
 duka
@@ -2604,6 +2605,7 @@ iring
 iris
 irit
 iroh
+iron
 irong
 irosi
 iru
