@@ -3593,6 +3593,7 @@ mlumah
 mmanuk
 mo
 mobil
+mobile
 moco
 modal
 modar
@@ -4907,6 +4908,7 @@ polo
 polri
 pom
 pomi
+pomo
 pon
 ponakan
 pondok
@@ -5527,6 +5529,7 @@ sok
 sokor
 sol
 sola
+solah
 solar
 solat
 sole
