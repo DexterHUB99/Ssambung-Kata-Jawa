@@ -2298,6 +2298,7 @@ karpet
 karun
 karung
 karya
+kas
 kasa
 kasar
 kasep
@@ -5374,6 +5375,7 @@ ustadz
 usu
 usuk
 usul
+usulan
 usung
 usus
 ususus
