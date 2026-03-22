@@ -366,6 +366,7 @@ amper
 ampir
 ampiran
 ampiri
+amplas
 ampleng
 ampuh
 ampul
@@ -676,6 +677,7 @@ asmanipun
 asmara
 aso
 asoi
+asok
 asoy
 aspal
 asrep
@@ -6196,6 +6198,7 @@ solit
 solo
 somat
 sombong
+songket
 songo
 songong
 sono
