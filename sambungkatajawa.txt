@@ -635,6 +635,7 @@ cila
 cilaka
 cilung
 cina
+cincin
 cino
 cinta
 cintaa
@@ -2024,6 +2025,7 @@ kopi
 koplak
 koplo
 kopok
+kopyor
 kora
 koran
 korban
@@ -2131,6 +2133,7 @@ lami
 lamit
 lamon
 lamongan
+lampir
 lampit
 lampu
 lampung
@@ -4091,6 +4094,7 @@ uem
 uen
 ugah
 ugal
+uge
 uh
 uha
 uhe
