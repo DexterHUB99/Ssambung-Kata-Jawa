@@ -435,7 +435,6 @@ aram
 arane
 arang
 aras
-ardi
 are
 arek
 arem
@@ -520,7 +519,6 @@ atene
 atep
 ati
 atik
-atin
 atine
 atira
 atis
@@ -661,6 +659,7 @@ bismillah
 biso
 bisu
 biu
+biya
 biyen
 biyung
 bobi
@@ -1412,7 +1411,6 @@ giling
 gilir
 gilo
 gim
-gima
 gimi
 gina
 gincu
@@ -1544,6 +1542,7 @@ hala
 halah
 halal
 halan
+halangan
 hale
 hali
 halo
@@ -1884,7 +1883,6 @@ iper
 ipi
 ipik
 ipin
-ipit
 ipki
 ipo
 ipone
@@ -1998,6 +1996,7 @@ jai
 jajan
 jaka
 jala
+jalan
 jam
 jamal
 jambak
@@ -2320,7 +2319,6 @@ kidung
 kie
 kijang
 kijing
-kik
 kiki
 kikil
 kil
@@ -2801,7 +2799,6 @@ mak
 maka
 makam
 makan
-maki
 maksa
 makul
 malaikat
@@ -3010,7 +3007,6 @@ mutah
 mutan
 muti
 na
-naber
 nabi
 nabok
 nabrak
@@ -3028,7 +3024,6 @@ nah
 naha
 nai
 naik
-naing
 najan
 najis
 nak
@@ -3046,6 +3041,7 @@ nali
 nalika
 naliko
 nama
+naman
 nambah
 nambal
 nami
@@ -3276,7 +3272,6 @@ ngasu
 ngasuh
 ngatasi
 ngatel
-ngatok
 ngatur
 ngawa
 ngawasi
@@ -3293,7 +3288,6 @@ ngece
 ngeden
 ngefek
 ngeh
-ngehe
 ngejek
 ngela
 ngelap
@@ -3443,7 +3437,6 @@ ngosek
 ngoseng
 ngosok
 ngotak
-ngotot
 ngowah
 ngowoh
 ngoyak
@@ -3793,7 +3786,6 @@ osing
 osir
 osoh
 osok
-osor
 osora
 ot
 otak
@@ -4510,6 +4502,7 @@ sisi
 sisik
 sisil
 sisir
+sita
 siti
 sitok
 siwa
@@ -4656,7 +4649,6 @@ tali
 talingan
 talita
 tam
-tama
 taman
 tambah
 tambal
@@ -5157,6 +5149,7 @@ uwi
 uwis
 uwong
 uwu
+uwuh
 ux
 uy
 uya
@@ -5173,6 +5166,7 @@ waduk
 waduke
 wadul
 wae
+wah
 wahana
 wahyu
 wai
@@ -5310,7 +5304,6 @@ yonan
 yono
 yoopo
 yos
-yosan
 yoto
 yowes
 yoya
