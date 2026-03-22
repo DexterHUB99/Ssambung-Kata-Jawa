@@ -3177,6 +3177,7 @@ kirek
 kiri
 kirik
 kirim
+kiris
 kis
 kisa
 kisan
@@ -4248,6 +4249,7 @@ nete
 neteh
 netek
 netes
+neti
 netra
 ngabang
 ngabari
@@ -4813,6 +4815,7 @@ nuh
 nuhun
 nui
 nuju
+nuki
 nuku
 nul
 nula
@@ -6323,6 +6326,7 @@ tentara
 tentrem
 tepa
 tepak
+tepung
 ter
 tera
 terang
