@@ -4583,6 +4583,7 @@ pakara
 pakir
 pakis
 pako
+pakpuh
 paku
 pal
 pala
@@ -5295,6 +5296,7 @@ sedaya
 sedeng
 sega
 segar
+seger
 sego
 seh
 sehat
