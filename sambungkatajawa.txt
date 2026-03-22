@@ -601,6 +601,7 @@ atek
 atem
 atene
 atep
+ater
 ati
 atik
 atine
@@ -627,6 +628,7 @@ atus
 auh
 auha
 aul
+aum
 auman
 auna
 aura
@@ -987,6 +989,7 @@ dengkul
 depak
 dere
 dereng
+deres
 deri
 dewe
 dewek
@@ -5131,6 +5134,7 @@ selet
 sem
 sembah
 semen
+semene
 semok
 sempak
 sempurna
