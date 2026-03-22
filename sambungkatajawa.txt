@@ -163,6 +163,7 @@ ajae
 ajag
 ajak
 ajal
+ajang
 ajar
 aje
 ajeg
@@ -1257,12 +1258,14 @@ ef
 efek
 efu
 eg
+ega
 egah
 egang
 ege
 ego
 egoh
 egolan
+egrang
 eh
 eha
 ehak
@@ -1433,6 +1436,7 @@ eneg
 eneh
 enek
 enem
+enen
 eneng
 enep
 engah
@@ -1593,6 +1597,7 @@ ewoh
 ewohe
 ewok
 ex
+ey
 eya
 eyah
 eyak
@@ -1630,6 +1635,7 @@ gagas
 gagasan
 gagu
 gah
+gaib
 gairah
 gaja
 gajah
@@ -2258,6 +2264,7 @@ idae
 idam
 idaman
 ide
+iden
 idep
 ider
 idhu
@@ -2270,6 +2277,7 @@ idue
 ieu
 if
 iga
+igah
 igo
 iguh
 ih
@@ -2283,6 +2291,7 @@ ihki
 ihku
 ihla
 ihlo
+ihma
 ihna
 iho
 ihre
@@ -2606,6 +2615,7 @@ jancok
 jancuk
 janda
 janga
+jangkau
 jangkrik
 janji
 jar
@@ -2763,6 +2773,7 @@ kaliyan
 kalo
 kalok
 kalong
+kalor
 kalung
 kamal
 kamar
@@ -2885,7 +2896,6 @@ kawen
 kaweruh
 kawi
 kawin
-kawir
 kawohan
 kawula
 kaya
@@ -3280,6 +3290,7 @@ labet
 labu
 labuh
 lacut
+laden
 lagek
 lagi
 lagu
@@ -3399,6 +3410,7 @@ lem
 lemah
 lemari
 lembah
+lembut
 lemes
 lemet
 lemot
@@ -3723,6 +3735,7 @@ maso
 masuk
 mat
 mata
+matai
 matamu
 matane
 mate
@@ -3767,7 +3780,6 @@ memek
 mene
 mengko
 meni
-menyang
 meong
 mer
 mera
@@ -3798,6 +3810,7 @@ mila
 milah
 mili
 milih
+milo
 milu
 mima
 mimi
@@ -4139,7 +4152,6 @@ ngadu
 ngaduk
 ngadul
 ngadus
-ngadusi
 ngae
 ngaga
 ngagem
@@ -4295,6 +4307,7 @@ ngelu
 ngelumpuk
 ngelunja
 ngem
+ngembang
 ngembeh
 ngemen
 ngemi
@@ -4429,6 +4442,7 @@ ngluruk
 ngobah
 ngobat
 ngoblok
+ngobong
 ngobrol
 ngocok
 ngodok
@@ -4533,7 +4547,6 @@ ngupil
 nguping
 nguras
 ngurip
-ngurmati
 nguru
 ngurus
 ngurusi
@@ -4799,13 +4812,13 @@ olong
 olop
 olor
 olos
-olot
 om
 oma
 omae
 omah
 omahe
 oman
+omara
 ombak
 ombar
 ombe
@@ -5239,7 +5252,6 @@ pulau
 pulen
 puli
 pulo
-pulsa
 puluh
 puma
 pun
@@ -5681,7 +5693,6 @@ santai
 santen
 santo
 santun
-saos
 sapa
 sapi
 sapo
@@ -5937,6 +5948,7 @@ sumber
 sumeh
 sumenep
 sumerep
+sumi
 sumpah
 sumringah
 sumuk
@@ -5989,6 +6001,7 @@ susun
 susuwi
 suti
 sutil
+suto
 sutri
 suw
 suwak
@@ -6096,6 +6109,7 @@ telan
 telat
 tele
 telek
+telen
 telenan
 teles
 teli
@@ -6107,6 +6121,7 @@ teluk
 telur
 tem
 teman
+tembak
 tembok
 tembung
 teme
@@ -6465,6 +6480,7 @@ umpama
 umpamane
 umpan
 umpet
+umrah
 umu
 umuk
 umum
@@ -6714,6 +6730,7 @@ was
 wasi
 waso
 watak
+water
 wati
 waton
 watu
@@ -6818,6 +6835,7 @@ yalo
 yama
 yamaha
 yaman
+yamu
 yan
 yana
 yang
@@ -6838,6 +6856,7 @@ yawes
 yawis
 yaya
 yayi
+ye
 yek
 yen
 yere
@@ -6861,6 +6880,7 @@ yom
 yoma
 yoman
 yomi
+yon
 yonan
 yong
 yono
