@@ -1596,6 +1596,7 @@ gu
 gubug
 gudang
 gudeg
+gudel
 gugah
 gugu
 guguk
@@ -3664,6 +3665,7 @@ ngisa
 ngiseng
 ngisep
 ngisi
+ngisie
 ngisin
 ngising
 ngisor
