@@ -4083,6 +4083,7 @@ ngowah
 ngowoh
 ngoyak
 ngoyo
+ngpel
 ngrasa
 ngrumat
 ngrumpi
@@ -5465,9 +5466,11 @@ suwun
 swara
 syukuran
 ta
+taa
 taat
 taati
 tabuh
+tabung
 tae
 taek
 taekmu
