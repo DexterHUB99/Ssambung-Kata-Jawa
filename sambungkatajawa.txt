@@ -2442,6 +2442,7 @@ kutu
 kutuk
 kuwat
 kuwe
+kuya
 kuyuk
 la
 laba
@@ -3127,6 +3128,7 @@ ngampil
 ngampiri
 ngampleng
 ngamuk
+ngan
 ngana
 ngancani
 ngandang
@@ -4849,6 +4851,7 @@ umah
 umak
 uman
 umar
+umat
 umbah
 umbahna
 umbar
