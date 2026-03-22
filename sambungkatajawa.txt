@@ -3132,6 +3132,7 @@ liar
 libur
 lidah
 lidok
+lie
 lih
 liha
 lihat
@@ -5753,6 +5754,7 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
+tumut
 tun
 tuna
 tunas
