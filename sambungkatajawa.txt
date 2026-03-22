@@ -3345,6 +3345,7 @@ kotor
 kotoran
 kowe
 kowen
+koyak
 koyo
 koyok
 kram
@@ -5648,6 +5649,7 @@ rapuh
 rara
 ras
 rasa
+rasae
 rasah
 rasan
 rasane
@@ -5918,6 +5920,7 @@ sabuk
 sabun
 sabus
 sabut
+sadah
 sadewa
 sadurung
 sae
