@@ -981,6 +981,7 @@ but
 buta
 butek
 buti
+butuh
 buwa
 cabe
 caca
@@ -3058,6 +3059,7 @@ kenthir
 kentu
 kentut
 kenyang
+kenyot
 keong
 kep
 kepal
@@ -5950,6 +5952,7 @@ silit
 silo
 sim
 sima
+simak
 simbah
 simbok
 simi
