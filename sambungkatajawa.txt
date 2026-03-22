@@ -198,6 +198,7 @@ akhir
 akhirat
 aki
 akia
+akif
 akih
 akii
 akik
@@ -1128,7 +1129,6 @@ dilok
 diluk
 dilut
 dim
-dimakan
 dimana
 dimas
 dimut
@@ -1592,6 +1592,7 @@ gagak
 gagal
 gagang
 gagap
+gagar
 gagasan
 gagu
 gah
@@ -1707,6 +1708,7 @@ gatak
 gatau
 gatel
 gateli
+gathel
 gati
 gatot
 gaul
@@ -2250,7 +2252,6 @@ ijik
 ijin
 ijo
 ijoe
-ijok
 ijol
 ik
 ika
@@ -3635,7 +3636,6 @@ mar
 mara
 marah
 marai
-marak
 maras
 marem
 mari
@@ -3678,7 +3678,6 @@ medal
 medeni
 meg
 megah
-megatruh
 meh
 meja
 mekar
@@ -3989,6 +3988,7 @@ nela
 nelen
 neles
 nelesi
+neli
 nelit
 nelongso
 nem
@@ -4154,7 +4154,6 @@ ngari
 ngarit
 ngarsa
 ngaruh
-ngarus
 ngasah
 ngasak
 ngasal
@@ -4459,7 +4458,6 @@ ngusung
 ngutang
 nguyu
 nguyuh
-nguyup
 ni
 nia
 nian
