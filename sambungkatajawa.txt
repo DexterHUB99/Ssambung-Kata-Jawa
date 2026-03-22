@@ -1530,6 +1530,7 @@ hala
 halah
 halal
 halan
+hale
 hali
 halo
 halus
@@ -1877,6 +1878,7 @@ ir
 ira
 irah
 irak
+iram
 irama
 irang
 iras
