@@ -4823,6 +4823,7 @@ ngupe
 ngupi
 ngupil
 nguping
+ngurang
 nguras
 ngurip
 ngurmati
