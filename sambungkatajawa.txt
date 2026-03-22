@@ -2062,6 +2062,7 @@ iklim
 iko
 ikoe
 ikon
+ikrar
 iku
 ikui
 ikulo
