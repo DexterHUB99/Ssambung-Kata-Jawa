@@ -176,6 +176,7 @@ akih
 akii
 akik
 akil
+akin
 aking
 akir
 akiran
@@ -698,6 +699,7 @@ bai
 bajak
 bajigur
 bajingan
+bak
 bakoh
 bakti
 baku
@@ -746,8 +748,10 @@ bendo
 bene
 bener
 bengi
+benjol
 berak
 berani
+beri
 besan
 besi
 besok
@@ -846,11 +850,14 @@ busa
 busi
 busuk
 but
+buta
 butek
 buti
 buwa
 cabe
+caca
 cacar
+caci
 cacing
 cagak
 cah
@@ -887,6 +894,7 @@ cica
 cicak
 cici
 cicil
+cicu
 cil
 cila
 cilaka
@@ -1019,6 +1027,7 @@ dilut
 dim
 dimana
 dimas
+dimut
 din
 dina
 dinae
@@ -1051,6 +1060,7 @@ dol
 dolan
 dolanan
 domba
+dompet
 dongkrak
 doni
 dor
@@ -1220,6 +1230,7 @@ embuh
 embun
 embung
 eme
+emem
 emer
 emi
 emik
@@ -1372,6 +1383,7 @@ estri
 estu
 esu
 esuk
+esur
 eta
 etah
 etan
@@ -1477,6 +1489,7 @@ gamoh
 gampang
 gampar
 gampil
+gan
 gana
 gancet
 ganda
@@ -1552,6 +1565,7 @@ gawene
 gaweo
 gawok
 gayeng
+gayu
 gayuh
 gayung
 ge
@@ -1593,6 +1607,7 @@ gembol
 gembong
 gembrot
 gempa
+gemu
 gemuk
 gen
 genah
@@ -1626,6 +1641,7 @@ geri
 gering
 gero
 gerus
+ges
 gesang
 gese
 gesek
@@ -2352,6 +2368,7 @@ jembut
 jempol
 jemur
 jemuran
+jen
 jenang
 jeneng
 jenengan
@@ -2628,6 +2645,7 @@ kempes
 kempol
 kemproh
 kemul
+ken
 kena
 kenapa
 kencot
@@ -2985,6 +3003,7 @@ lanting
 lantun
 lantur
 laos
+lap
 lapang
 lapi
 lapis
@@ -3030,6 +3049,7 @@ leker
 lekoh
 lelah
 lele
+lelele
 lelet
 lem
 lemah
@@ -3222,6 +3242,7 @@ luntur
 lunyu
 lupa
 lupi
+lupis
 luput
 lurah
 luru
@@ -3477,6 +3498,7 @@ mul
 mula
 mulae
 mulai
+mulang
 mule
 muleh
 muli
@@ -3646,6 +3668,7 @@ neka
 nekat
 neki
 neko
+nela
 nelen
 neles
 nelesi
@@ -3940,6 +3963,7 @@ ngimpi
 ngin
 nginap
 nginep
+nging
 nginjen
 nginthil
 ngintil
@@ -4778,6 +4802,7 @@ rambut
 rambutan
 rame
 rames
+rami
 rampung
 ramu
 ramuan
@@ -4945,6 +4970,7 @@ riska
 risma
 rismo
 rita
+riti
 riwa
 riwayat
 riya
@@ -4995,6 +5021,7 @@ rowa
 rowo
 royal
 rt
+ru
 rua
 ruam
 ruang
@@ -5009,6 +5036,7 @@ ruko
 ruku
 rukuh
 rukun
+rule
 rum
 rumah
 rumangsa
@@ -5147,6 +5175,7 @@ sayur
 seda
 sedaya
 sedeng
+sega
 segar
 sego
 seh
@@ -5474,6 +5503,7 @@ telat
 tele
 telek
 telenan
+teles
 telinga
 telo
 telon
@@ -5567,6 +5597,7 @@ tok
 tokek
 tolak
 tole
+toleh
 tolek
 toli
 tolih
@@ -5632,6 +5663,7 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
+tun
 tuna
 tunas
 tunggal
@@ -5733,6 +5765,7 @@ uki
 ukin
 ukir
 ukiran
+ukire
 ukko
 ukli
 ukni
@@ -5949,6 +5982,7 @@ usus
 ususus
 usut
 usuta
+uswa
 uta
 utaa
 utae
@@ -6078,6 +6112,7 @@ wiji
 wiko
 wilan
 wilangan
+win
 wine
 wino
 winta
