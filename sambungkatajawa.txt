@@ -2788,6 +2788,7 @@ kiri
 kirik
 kirim
 kis
+kisa
 kisan
 kisanak
 kisi
@@ -3094,6 +3095,7 @@ lengkuas
 lengo
 leper
 ler
+lera
 lere
 leren
 leres
@@ -5395,6 +5397,7 @@ sukma
 suku
 sukun
 sukur
+sula
 sulak
 sulam
 sulap
