@@ -49,6 +49,7 @@ age
 agem
 agil
 agit
+ago
 agung
 agus
 ah
@@ -140,6 +141,7 @@ akar
 akas
 akasara
 akat
+akbar
 ake
 akeh
 aken
@@ -453,6 +455,7 @@ arip
 aris
 arisan
 arit
+arka
 aro
 arsila
 arta
@@ -512,6 +515,7 @@ atai
 atak
 atan
 atap
+atar
 atari
 atas
 ate
@@ -1203,6 +1207,7 @@ ex
 eyang
 eye
 ez
+fajar
 fantasi
 fase
 fix
@@ -3226,6 +3231,7 @@ ngamar
 ngambar
 ngambi
 ngambil
+ngame
 ngamem
 ngampil
 ngampiri
@@ -3861,6 +3867,7 @@ pandawa
 pandu
 pang
 panggah
+panggon
 pangling
 pangon
 pani
@@ -5218,6 +5225,7 @@ wati
 waton
 watu
 wayah
+wayahe
 wayang
 wea
 wedan
