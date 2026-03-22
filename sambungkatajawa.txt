@@ -757,6 +757,7 @@ cekap
 celek
 celeng
 celengan
+cemeng
 cibi
 cica
 cicak
@@ -3468,6 +3469,7 @@ ngoko
 ngokop
 ngolah
 ngolak
+ngolek
 ngoles
 ngolong
 ngomah
@@ -3745,6 +3747,7 @@ olak
 ole
 oleh
 oleholeh
+olen
 oleng
 oles
 oli
