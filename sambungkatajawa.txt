@@ -1194,6 +1194,7 @@ esak
 ese
 esek
 esem
+eseman
 esi
 esih
 esil
@@ -2856,6 +2857,7 @@ lusuh
 lut
 luwe
 luweh
+luwes
 luwih
 ma
 maaf
@@ -4438,6 +4440,7 @@ rusa
 rusak
 ruska
 rusuh
+rut
 rutin
 ruwah
 ruwat
@@ -5195,6 +5198,7 @@ urit
 uritan
 urna
 uru
+uruane
 uruk
 urukan
 urun
@@ -5239,6 +5243,7 @@ ususus
 usut
 usuta
 uta
+utaa
 utae
 utah
 utak
