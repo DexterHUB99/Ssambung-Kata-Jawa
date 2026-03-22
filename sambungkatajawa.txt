@@ -79,6 +79,7 @@ ahek
 ahem
 ahh
 ahi
+ahid
 ahik
 ahil
 ahim
@@ -542,6 +543,7 @@ ata
 atah
 atai
 atak
+atal
 atan
 atap
 atar
@@ -680,6 +682,7 @@ besi
 besok
 besu
 besuk
+bh
 bi
 biak
 biasa
@@ -914,6 +917,7 @@ dika
 dikit
 dikon
 dila
+dilan
 dilok
 diluk
 dilut
@@ -2385,6 +2389,7 @@ kelam
 kelangan
 kelap
 kelas
+kelat
 kelawan
 kelebu
 kelek
@@ -2831,6 +2836,7 @@ limpa
 limu
 lina
 linang
+lincah
 linggis
 lingkaran
 lingkung
@@ -3025,6 +3031,7 @@ manggis
 manggon
 mangke
 mangkel
+mangu
 mani
 manis
 manjing
@@ -3229,6 +3236,7 @@ nadah
 nadi
 nae
 nafas
+nag
 naga
 nagi
 nagih
@@ -3648,6 +3656,7 @@ ngolah
 ngolak
 ngolek
 ngoles
+ngolo
 ngolong
 ngomah
 ngombal
@@ -4271,6 +4280,7 @@ poke
 pokok
 pokoke
 pokone
+pol
 pola
 polah
 polahe
@@ -4550,6 +4560,7 @@ rogoh
 rok
 rokaat
 roket
+roki
 roko
 rokok
 rolas
@@ -4568,6 +4579,7 @@ rondo
 ronggeng
 roni
 rono
+ropa
 ropi
 roro
 ros
@@ -5239,6 +5251,7 @@ ukaa
 ukae
 ukai
 ukak
+ukam
 ukan
 ukar
 ukara
@@ -5407,6 +5420,7 @@ uripe
 uripmu
 urit
 uritan
+urma
 urna
 uru
 uruane
@@ -5577,6 +5591,7 @@ wiji
 wiko
 wilangan
 wino
+winta
 wir
 wira
 wirama
