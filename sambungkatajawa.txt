@@ -964,6 +964,7 @@ cicuk
 cil
 cila
 cilaka
+cilik
 cilok
 cilung
 cin
@@ -2490,6 +2491,7 @@ jajan
 jaka
 jala
 jalan
+jali
 jaluk
 jam
 jamal
