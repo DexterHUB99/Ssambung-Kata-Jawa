@@ -2094,6 +2094,7 @@ kertas
 kesah
 keset
 kesi
+kesuk
 kesusu
 keta
 ketan
@@ -3332,6 +3333,7 @@ okok
 okoka
 okol
 okon
+okopi
 okor
 okot
 okur
