@@ -1320,6 +1320,7 @@ emper
 empet
 empik
 emping
+emplok
 emprit
 empuk
 empun
@@ -2157,6 +2158,7 @@ ihan
 ihe
 ihi
 ihka
+ihku
 ihla
 ihna
 iho
@@ -5566,6 +5568,7 @@ sitok
 siwa
 siwak
 siwur
+slamet
 so
 soasu
 sob
