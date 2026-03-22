@@ -123,7 +123,6 @@ aiko
 aiku
 ail
 aila
-ailan
 aili
 aima
 aimu
@@ -332,7 +331,6 @@ anah
 anak
 anakan
 anake
-anaking
 anal
 anam
 anan
@@ -741,7 +739,6 @@ bayi
 bebe
 bebek
 becak
-becek
 beci
 beda
 bedo
@@ -1152,6 +1149,7 @@ egoh
 eh
 eha
 ehak
+ehan
 ehaw
 ehawa
 ehe
@@ -1584,7 +1582,6 @@ gatak
 gatau
 gatel
 gateli
-gati
 gatot
 gaul
 gawa
@@ -3249,11 +3246,9 @@ longor
 longsor
 lonjak
 lonjong
-lono
 lontar
 lonte
 lontong
-loo
 lop
 lope
 lopi
@@ -3362,7 +3357,6 @@ maling
 malu
 mam
 mama
-mamah
 mamak
 mamakan
 mamake
@@ -3386,7 +3380,6 @@ mangke
 mangkel
 mangu
 mani
-maning
 manis
 manjing
 manjur
@@ -3590,7 +3583,6 @@ muntah
 munyuk
 mur
 murah
-murka
 murung
 mus
 musa
@@ -4584,7 +4576,6 @@ palung
 pam
 paman
 pan
-pana
 panah
 panas
 pancen
@@ -5065,7 +5056,6 @@ rise
 risi
 risih
 riska
-riski
 risma
 rismo
 rita
@@ -5489,7 +5479,6 @@ supa
 supaya
 supe
 supi
-supo
 sur
 sura
 surabaya
