@@ -5619,6 +5619,7 @@ puko
 pukul
 pul
 pula
+pulan
 pulau
 pulen
 puli
