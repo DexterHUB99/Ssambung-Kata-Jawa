@@ -2481,6 +2481,7 @@ lorek
 lori
 loro
 lorong
+lorot
 los
 losa
 lote
@@ -3439,6 +3440,7 @@ osok
 osora
 ot
 otak
+otol
 otot
 ow
 owah
@@ -4330,6 +4332,7 @@ tok
 tokek
 tolak
 tole
+toli
 tolol
 tolong
 tomat
