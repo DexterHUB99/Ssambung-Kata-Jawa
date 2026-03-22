@@ -3155,6 +3155,7 @@ litah
 lite
 liwat
 liwet
+liyane
 lo
 loa
 lob
@@ -3730,6 +3731,7 @@ ngabdi
 ngaben
 ngabi
 ngabrit
+ngabur
 ngaca
 ngacak
 ngace
@@ -3940,6 +3942,7 @@ nggateli
 nggawae
 nggawe
 nggayuh
+ngge
 nggeh
 nggih
 nggo
