@@ -142,7 +142,6 @@ akad
 akah
 akak
 akal
-akam
 akan
 akang
 akar
@@ -331,7 +330,6 @@ ane
 aneh
 anek
 anep
-anga
 angan
 angaran
 angat
@@ -437,7 +435,6 @@ apel
 apem
 apes
 api
-apih
 apik
 apis
 apit
@@ -759,7 +756,6 @@ butek
 buti
 buwa
 cabe
-caca
 cacar
 cacing
 cagak
@@ -771,6 +767,7 @@ cakot
 cakra
 cakul
 calo
+campur
 candi
 cangkruk
 cantik
@@ -804,6 +801,7 @@ cino
 cinta
 cintaa
 cipa
+cipi
 cireng
 cita
 ciu
@@ -957,7 +955,6 @@ dula
 dulang
 dulen
 dulo
-dulu
 dulur
 dumeh
 dungo
@@ -1175,7 +1172,6 @@ epah
 epan
 epang
 epas
-epe
 epek
 epen
 epep
@@ -2063,7 +2059,6 @@ iso
 isoe
 isok
 isoma
-isoo
 isor
 isro
 istana
@@ -2203,6 +2198,7 @@ juri
 ka
 kabar
 kabeh
+kabek
 kabel
 kabit
 kabupaten
@@ -2725,7 +2721,6 @@ larak
 larang
 laras
 lari
-las
 lasa
 lata
 latah
@@ -2897,7 +2892,6 @@ lorek
 lori
 loro
 lorong
-loroo
 lorot
 los
 losa
@@ -3451,7 +3445,6 @@ ngapeli
 ngaplo
 ngapu
 ngapunten
-ngapurane
 ngapuro
 ngapusi
 ngarai
@@ -4661,7 +4654,6 @@ sapi
 sapu
 saran
 sarang
-sarapan
 sare
 sareh
 sareng
@@ -5474,6 +5466,7 @@ wahana
 wahyu
 wai
 waja
+wajah
 wajan
 wajik
 wakil
@@ -5510,7 +5503,6 @@ wedhus
 wedi
 wedo
 wedok
-wedus
 wee
 wektu
 wen
