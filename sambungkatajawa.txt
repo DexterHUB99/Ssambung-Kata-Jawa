@@ -2051,6 +2051,7 @@ kel
 kela
 kelabang
 kelam
+kelangan
 kelap
 kelas
 kelawan
@@ -2978,6 +2979,7 @@ ngapae
 ngapain
 ngapak
 ngapel
+ngapeli
 ngaplo
 ngapu
 ngapunten
@@ -3499,6 +3501,7 @@ oyi
 oyok
 oyot
 pa
+pabrik
 pacul
 pada
 padae
@@ -3557,6 +3560,7 @@ pas
 pasa
 pasar
 pasir
+pasukan
 patuh
 patung
 payah
