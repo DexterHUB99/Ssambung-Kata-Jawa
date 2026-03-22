@@ -991,6 +991,7 @@ empan
 empang
 empedu
 empek
+emper
 empik
 emping
 empuk
@@ -1537,6 +1538,7 @@ hei
 hela
 hele
 heli
+helikopter
 helo
 hem
 hemat
@@ -4036,6 +4038,7 @@ riya
 riyo
 ro
 roban
+robek
 roboh
 roda
 rodo
@@ -4234,6 +4237,7 @@ siapo
 sida
 sidang
 siji
+sika
 sikat
 sikil
 siku
