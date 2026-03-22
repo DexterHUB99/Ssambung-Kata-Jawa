@@ -5359,6 +5359,7 @@ sabuk
 sabun
 sabus
 sabut
+sadewa
 sadurung
 sae
 saestu
@@ -5848,6 +5849,7 @@ ten
 tenan
 teng
 tengen
+tentara
 tentrem
 tepa
 tepak
@@ -6576,4 +6578,5 @@ yusa
 yusra
 yuyi
 yuyu
+yuyun
 zaman
