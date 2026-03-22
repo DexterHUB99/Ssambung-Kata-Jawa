@@ -2174,6 +2174,7 @@ gura
 gurami
 guri
 gurih
+gurit
 gurita
 guru
 gurune
@@ -6292,6 +6293,7 @@ so
 soasu
 sob
 sobat
+sobek
 sobin
 soca
 sodara
@@ -6471,6 +6473,7 @@ taho
 tahu
 tahun
 tai
+taii
 taik
 tajir
 tak
