@@ -699,6 +699,7 @@ awah
 awak
 awakmu
 awal
+awamu
 awan
 awang
 awas
@@ -733,6 +734,7 @@ ayuh
 ayuk
 az
 bab
+babai
 babat
 babi
 babik
@@ -960,6 +962,7 @@ cemen
 cemeng
 cenil
 cepak
+cerah
 cewek
 ci
 cibi
@@ -2075,6 +2078,7 @@ here
 heri
 hero
 hes
+hesti
 hewa
 heyo
 hi
