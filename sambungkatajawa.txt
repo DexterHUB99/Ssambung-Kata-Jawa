@@ -592,6 +592,7 @@ bego
 bejan
 bejat
 beko
+bel
 belang
 beler
 beli
@@ -1786,6 +1787,7 @@ ipik
 ipin
 ipki
 ipo
+ipone
 iprit
 ipuk
 ipun
@@ -4023,6 +4025,7 @@ riyo
 ro
 roban
 roboh
+roda
 rodo
 roe
 rogoh
@@ -4324,6 +4327,7 @@ sulung
 sum
 sumbang
 sumbar
+sumber
 sumerep
 sumpah
 sumringah
@@ -4548,6 +4552,7 @@ tulang
 tuli
 tulip
 tulis
+tulisan
 tulung
 tulus
 tuma
@@ -4716,6 +4721,7 @@ umpet
 umu
 umuk
 umum
+umumpan
 umur
 un
 una
