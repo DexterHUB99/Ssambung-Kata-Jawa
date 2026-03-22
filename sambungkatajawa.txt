@@ -551,6 +551,7 @@ atop
 atos
 atow
 atret
+atri
 atu
 atuh
 atuk
@@ -1694,6 +1695,7 @@ hias
 hidayah
 hidhup
 hidup
+hihihi
 hijau
 hiji
 hijrah
@@ -3210,6 +3212,7 @@ nedha
 nedho
 nedi
 negeri
+negor
 nek
 nekat
 neko
@@ -3715,6 +3718,7 @@ nyantai
 nyanyi
 nyata
 nyawa
+nyawang
 nyawit
 nyebur
 nyenul
@@ -4036,6 +4040,7 @@ piala
 pian
 picara
 picek
+picuk
 pidana
 pidhak
 pie
