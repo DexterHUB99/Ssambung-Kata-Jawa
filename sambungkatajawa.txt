@@ -1397,6 +1397,7 @@ gedung
 gegayuhan
 geger
 geh
+gek
 gel
 gela
 gelang
@@ -3021,6 +3022,7 @@ meni
 meong
 mer
 mera
+merah
 merem
 mergo
 mesake
@@ -3737,6 +3739,7 @@ nuli
 nulis
 nulo
 nulung
+num
 numan
 numbas
 numbuk
