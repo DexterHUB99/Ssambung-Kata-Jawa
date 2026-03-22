@@ -3243,6 +3243,7 @@ obong
 obor
 obos
 obral
+ocok
 ocol
 odol
 odolan
@@ -4049,6 +4050,7 @@ sopi
 sopir
 sopo
 sora
+sorai
 sore
 soroh
 sosis
@@ -4273,6 +4275,7 @@ tolol
 tolong
 tomat
 tomi
+tomo
 tompel
 ton
 tona
