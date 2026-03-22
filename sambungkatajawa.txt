@@ -867,6 +867,7 @@ celeng
 celengan
 cemeng
 cewek
+ci
 cibi
 cica
 cicak
@@ -2185,6 +2186,7 @@ irasan
 irat
 irawe
 iren
+irenan
 ireng
 irenge
 iri
@@ -2794,6 +2796,7 @@ koreng
 kori
 kos
 kosan
+kosek
 kosong
 kota
 kotak
@@ -3641,6 +3644,7 @@ neri
 nerik
 nes
 nesa
+nesoni
 nesu
 netan
 nete
@@ -4667,6 +4671,7 @@ purut
 pusa
 pusaka
 pusing
+puta
 putih
 puting
 putra
@@ -5745,6 +5750,7 @@ umpet
 umu
 umuk
 umum
+umume
 umumpan
 umur
 un
