@@ -3092,6 +3092,7 @@ nas
 nasa
 nasab
 nasar
+nasehat
 nasi
 nasib
 nastar
@@ -4547,6 +4548,7 @@ sugih
 sui
 suk
 suka
+sukan
 suker
 suket
 suki
