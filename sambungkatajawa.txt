@@ -3057,6 +3057,7 @@ karya
 kas
 kasa
 kasar
+kasat
 kaseman
 kasep
 kaset
@@ -7294,6 +7295,7 @@ yai
 yak
 yakin
 yaku
+yala
 yali
 yalo
 yama
