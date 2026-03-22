@@ -165,6 +165,7 @@ alae
 alah
 alam
 alama
+alan
 alang
 alangan
 alas
@@ -1088,6 +1089,7 @@ gabut
 gada
 gadah
 gading
+gadung
 gadungan
 gae
 gagah
@@ -1639,6 +1641,7 @@ iman
 imas
 imbah
 imbalan
+imbang
 imbas
 imboh
 imbuh
