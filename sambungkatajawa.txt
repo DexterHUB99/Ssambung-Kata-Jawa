@@ -942,7 +942,6 @@ dimana
 dimas
 din
 dina
-dinae
 dingin
 dino
 dinten
@@ -2785,7 +2784,6 @@ lantar
 lantas
 lanting
 lantun
-lantur
 laos
 lapang
 lapis
@@ -2906,6 +2904,7 @@ lipat
 lipen
 lipi
 lira
+liri
 lirih
 lirik
 liro
@@ -3132,7 +3131,6 @@ mayak
 mayu
 mbak
 mben
-mbok
 mboke
 mboten
 me
@@ -3210,6 +3208,7 @@ moh
 moha
 mojo
 mok
+mokol
 mol
 molak
 mole
@@ -3410,6 +3409,7 @@ negor
 nek
 neka
 nekat
+neki
 neko
 nelen
 neles
@@ -3499,7 +3499,6 @@ ngalem
 ngaler
 ngali
 ngalor
-ngalus
 ngamal
 ngaman
 ngamar
@@ -4628,6 +4627,7 @@ risi
 risih
 riska
 risma
+rismo
 rita
 riwa
 riwayat
@@ -4970,7 +4970,6 @@ sue
 sugeh
 sugeng
 sugih
-suh
 sui
 suk
 suka
@@ -5238,7 +5237,6 @@ toto
 towo
 toya
 tresno
-trotoar
 tu
 tua
 tuak
@@ -5249,7 +5247,6 @@ tukang
 tukaran
 tuki
 tuku
-tukue
 tukul
 tul
 tulan
@@ -5419,6 +5416,7 @@ ulih
 ulik
 ulo
 ulomo
+uloo
 ulu
 uluk
 ulukan
@@ -5567,7 +5565,6 @@ usil
 usir
 usiro
 uso
-usrek
 ustadz
 usu
 usuk
