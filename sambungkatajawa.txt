@@ -6401,6 +6401,7 @@ terima
 ternak
 terong
 terus
+tes
 tesa
 tetan
 tete
