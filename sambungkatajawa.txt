@@ -2026,6 +2026,7 @@ ke
 kebab
 kebang
 kebo
+kebul
 kedah
 kediri
 kedondong
@@ -4568,6 +4569,7 @@ umpet
 umu
 umuk
 umum
+umume
 umur
 un
 una
