@@ -452,6 +452,7 @@ anggus
 angin
 angka
 angkara
+angker
 angklung
 angkong
 angkring
@@ -5649,6 +5650,7 @@ renggo
 renta
 reog
 rep
+repo
 repot
 rere
 rereng
