@@ -246,6 +246,7 @@ anane
 anang
 ananging
 anap
+anar
 anas
 anasi
 anat
@@ -2231,6 +2232,7 @@ lawang
 lawas
 lawu
 layak
+layar
 le
 leak
 lebah
