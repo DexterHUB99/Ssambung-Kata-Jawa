@@ -2647,6 +2647,7 @@ lompat
 loncat
 longgar
 longor
+longsor
 lonjak
 lonjong
 lontar
@@ -2857,6 +2858,7 @@ misah
 misu
 misuh
 mo
+mobil
 moco
 modar
 modaro
