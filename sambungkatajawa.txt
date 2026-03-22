@@ -3498,6 +3498,7 @@ ngalem
 ngaler
 ngali
 ngalor
+ngalus
 ngamal
 ngaman
 ngamar
@@ -5236,6 +5237,7 @@ toto
 towo
 toya
 tresno
+trotoar
 tu
 tua
 tuak
