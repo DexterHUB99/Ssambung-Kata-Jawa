@@ -241,6 +241,7 @@ aliran
 alis
 alisan
 alit
+alm
 alo
 alok
 alon
