@@ -537,6 +537,7 @@ arga
 ari
 arif
 arig
+arih
 arik
 aring
 arip
@@ -5560,6 +5561,7 @@ soli
 solo
 somat
 sombong
+songo
 songong
 sono
 sonten
