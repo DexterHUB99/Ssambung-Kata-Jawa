@@ -3162,6 +3162,7 @@ kerono
 keroso
 kersa
 kertas
+keruh
 keruk
 kesa
 kesah
@@ -4862,6 +4863,7 @@ nolek
 nom
 nombok
 nomer
+nomi
 non
 nona
 nong
