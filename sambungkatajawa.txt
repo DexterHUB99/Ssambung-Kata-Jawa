@@ -408,6 +408,7 @@ anum
 anup
 anur
 anus
+anyam
 anyar
 anyep
 anying
@@ -2458,6 +2459,7 @@ kirek
 kiri
 kirik
 kirim
+kis
 kisan
 kisanak
 kisi
@@ -3244,6 +3246,7 @@ nasu
 nata
 natap
 nate
+nature
 nawar
 ndak
 ndang
@@ -3819,6 +3822,7 @@ okai
 okal
 okan
 okar
+okas
 oke
 okee
 okeh
