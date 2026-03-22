@@ -560,6 +560,7 @@ beli
 belo
 ben
 bendo
+bene
 bener
 berak
 besan
@@ -798,6 +799,7 @@ dupak
 duren
 duri
 duria
+durian
 duro
 durung
 duso
@@ -948,7 +950,6 @@ endol
 eneg
 eneh
 enek
-enem
 eneng
 enep
 enggal
@@ -1827,6 +1828,7 @@ jos
 ju
 jual
 jujur
+jurang
 ka
 kabeh
 kabel
@@ -1976,7 +1978,6 @@ kencot
 kencur
 kendi
 kene
-kenek
 keni
 kenon
 kentang
@@ -2494,7 +2495,6 @@ manjing
 manten
 mantep
 mantepe
-mantuk
 manuk
 manukku
 mapan
@@ -2575,7 +2575,6 @@ misa
 misah
 misu
 misuh
-mlebu
 mo
 moco
 modar
@@ -3399,6 +3398,7 @@ pedang
 pedot
 pegat
 pegel
+peju
 pek
 peking
 pekok
@@ -3561,6 +3561,7 @@ ragat
 ragelem
 ragi
 rah
+rahayu
 rahmat
 rai
 raib
@@ -3902,6 +3903,7 @@ seri
 seru
 sesek
 sesok
+setan
 sholat
 si
 sia
@@ -4027,6 +4029,7 @@ supe
 supi
 sura
 surat
+surau
 suri
 suro
 suruh
@@ -4212,7 +4215,6 @@ tuku
 tukul
 tulang
 tuli
-tulip
 tulis
 tulung
 tulus
