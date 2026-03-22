@@ -861,6 +861,7 @@ bego
 bejan
 bejat
 bejo
+beka
 beko
 bel
 belang
@@ -1838,6 +1839,7 @@ gawean
 gawene
 gaweo
 gawok
+gayang
 gayeng
 gayu
 gayuh
@@ -2593,6 +2595,7 @@ iring
 iris
 irit
 iroh
+irol
 irong
 irosi
 iru
@@ -2949,6 +2952,7 @@ karangan
 karat
 karbit
 kare
+karek
 karem
 karempu
 karena
@@ -3885,6 +3889,7 @@ mate
 matek
 mateng
 mateni
+materi
 mati
 matio
 matur
@@ -4384,7 +4389,6 @@ ngantem
 ngantemi
 nganter
 nganti
-ngantos
 ngantri
 ngantuk
 nganu
@@ -4558,6 +4562,7 @@ nggoe
 nggolek
 nggoni
 nggowo
+nggula
 ngguwak
 ngguyu
 ngibul
@@ -5261,6 +5266,7 @@ payung
 pe
 pea
 pean
+pecel
 peci
 pedang
 pedot
@@ -5836,6 +5842,7 @@ ruska
 rusuh
 rut
 rutan
+rute
 rutin
 ruwah
 ruwat
@@ -5994,6 +6001,7 @@ semok
 sempak
 sempurna
 semut
+senajan
 sendok
 seneng
 seng
@@ -6050,6 +6058,7 @@ sinau
 sindur
 sing
 singa
+singgah
 singo
 sini
 sino
@@ -6951,6 +6960,7 @@ wa
 waa
 wadah
 wade
+wadoh
 wadol
 wadon
 waduh
