@@ -215,6 +215,7 @@ alek
 alem
 alhamdulillah
 ali
+alia
 alien
 alif
 alih
@@ -975,6 +976,7 @@ disana
 disawah
 diso
 doa
+dobleh
 dodi
 dodo
 dodol
@@ -1102,6 +1104,7 @@ ela
 elae
 elag
 elah
+elak
 elam
 elang
 elas
@@ -4513,6 +4516,7 @@ puyeng
 quran
 ra
 rabi
+rabisa
 rabu
 rabun
 racun
@@ -4551,6 +4555,7 @@ ramalan
 raman
 rambak
 ramban
+rambat
 rambatan
 rambu
 rambut
