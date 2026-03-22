@@ -100,7 +100,6 @@ ahe
 ahek
 ahem
 aher
-ahey
 ahh
 ahhh
 ahi
@@ -129,6 +128,7 @@ ahu
 ahuk
 ahun
 ahur
+ahus
 ahut
 ahuy
 ai
@@ -141,6 +141,7 @@ aiku
 ail
 aila
 ailan
+aile
 aili
 aima
 aimu
@@ -295,6 +296,7 @@ amam
 aman
 amanah
 amar
+amara
 amarga
 amargi
 amas
@@ -379,6 +381,7 @@ anar
 anas
 anasi
 anat
+ancang
 ancas
 ancen
 anci
@@ -929,6 +932,7 @@ buna
 buncis
 bunder
 bunga
+bungah
 buntil
 bunuh
 buri
@@ -1227,7 +1231,6 @@ eco
 ed
 eda
 edah
-edam
 edan
 edanwa
 edar
@@ -1489,7 +1492,6 @@ eres
 eret
 eri
 erik
-erika
 ering
 erip
 ero
@@ -1753,6 +1755,7 @@ gel
 gela
 gelang
 gelap
+gelar
 gelas
 gelem
 geler
@@ -2050,6 +2053,7 @@ haram
 harap
 harapan
 hare
+harep
 harga
 hari
 harian
@@ -2301,6 +2305,7 @@ ilae
 ilag
 ilah
 ilahi
+ilai
 ilak
 ilaki
 ilala
@@ -2395,7 +2400,6 @@ injing
 injuk
 insan
 insyaallah
-internet
 inti
 intil
 intine
@@ -2833,7 +2837,6 @@ katok
 katon
 katrok
 katuk
-katul
 katung
 katup
 kawah
@@ -2996,7 +2999,6 @@ kidung
 kie
 kijang
 kijing
-kik
 kika
 kiki
 kikil
@@ -3487,6 +3489,7 @@ lombok
 lomo
 lompat
 lon
+lona
 loncat
 longgar
 longgo
@@ -3657,6 +3660,7 @@ marah
 marai
 marak
 maras
+marek
 marem
 mari
 mariem
@@ -3723,7 +3727,6 @@ meren
 mergo
 meri
 merpati
-mes
 mesake
 mesem
 mesin
@@ -4369,6 +4372,7 @@ ngluku
 ngluruk
 ngobah
 ngobat
+ngoblok
 ngobrol
 ngocok
 ngodok
@@ -4821,7 +4825,6 @@ oreg
 orek
 oren
 oreng
-orep
 orewa
 organisasi
 ori
@@ -5017,7 +5020,6 @@ peran
 perang
 pere
 perek
-peri
 pesan
 peso
 pete
@@ -6348,6 +6350,7 @@ ulen
 uler
 ulet
 uli
+ulia
 ulih
 ulik
 ulo
@@ -6519,6 +6522,7 @@ usik
 usil
 usir
 usiro
+uska
 uso
 usrek
 ustadz
@@ -6687,6 +6691,7 @@ wiro
 wis
 wisa
 wisata
+wisnu
 wisuh
 wit
 witing
@@ -6705,6 +6710,7 @@ wonogiri
 wonten
 wor
 woro
+woti
 wowo
 wula
 wulan
