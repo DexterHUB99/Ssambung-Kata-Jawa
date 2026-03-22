@@ -348,6 +348,7 @@ amok
 amon
 among
 amoro
+amoy
 ampal
 ampar
 ampas
@@ -2351,6 +2352,7 @@ iku
 ikui
 ikulo
 ikuo
+ikus
 ikut
 ikutan
 il
@@ -6044,6 +6046,7 @@ susuku
 susul
 susumu
 susun
+susut
 susuwi
 suti
 sutil
@@ -6265,7 +6268,6 @@ toe
 toh
 tok
 tokek
-toko
 tolak
 tole
 toleh
@@ -6836,7 +6838,6 @@ wiko
 wilan
 wilangan
 win
-wina
 windu
 wine
 wingi
