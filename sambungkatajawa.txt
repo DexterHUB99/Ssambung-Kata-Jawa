@@ -692,6 +692,7 @@ babi
 babik
 babu
 bacok
+badan
 badhe
 badut
 bae
@@ -5182,6 +5183,7 @@ sanggar
 sangu
 santai
 santen
+santo
 santun
 sapa
 sapi
