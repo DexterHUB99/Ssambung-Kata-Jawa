@@ -4489,6 +4489,7 @@ ngemil
 ngemong
 ngemot
 ngemper
+ngempot
 ngemut
 ngen
 ngendi
@@ -6491,6 +6492,7 @@ topo
 tot
 tota
 toto
+towa
 towo
 toya
 tresno
