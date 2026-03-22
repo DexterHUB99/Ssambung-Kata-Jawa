@@ -3978,6 +3978,7 @@ muatan
 mubah
 mubeng
 mudeng
+muga
 mugi
 mugih
 muh
@@ -6357,6 +6358,7 @@ tisa
 tisu
 tit
 tita
+titan
 titi
 titid
 titik
