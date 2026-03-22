@@ -2081,6 +2081,7 @@ jajan
 jaka
 jala
 jalan
+jaluk
 jam
 jamal
 jaman
@@ -3021,6 +3022,7 @@ mesake
 mesin
 meteng
 mi
+mia
 micek
 mie
 mika
@@ -4722,6 +4724,7 @@ suami
 suara
 suasu
 subur
+suci
 sudah
 sudi
 sue
