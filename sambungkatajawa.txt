@@ -2620,6 +2620,7 @@ kain
 kaisar
 kajeng
 kaji
+kajian
 kak
 kaka
 kakaa
@@ -4023,6 +4024,7 @@ ngambil
 ngambing
 ngame
 ngamem
+ngamok
 ngampil
 ngampiri
 ngampleng
