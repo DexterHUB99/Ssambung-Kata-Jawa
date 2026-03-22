@@ -2584,6 +2584,7 @@ kitab
 kiwa
 klambi
 kleru
+kliwon
 ko
 kobong
 kocak
@@ -3878,6 +3879,7 @@ nisa
 nisan
 nita
 nite
+niten
 niteni
 niti
 nitih
