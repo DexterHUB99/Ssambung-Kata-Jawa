@@ -561,6 +561,7 @@ bebek
 becak
 bedo
 bee
+bego
 bejan
 bejat
 beko
@@ -627,6 +628,7 @@ budi
 bujo
 buk
 bukan
+buko
 buku
 bula
 bulan
@@ -1956,6 +1958,7 @@ kasar
 kasep
 kaset
 kasih
+kasir
 kasu
 kasur
 kata
