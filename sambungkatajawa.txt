@@ -39,6 +39,7 @@ adai
 adak
 adam
 adan
+adang
 adas
 ade
 adegan
@@ -210,7 +211,6 @@ akih
 akii
 akik
 akil
-akila
 akin
 aking
 akir
@@ -349,7 +349,6 @@ amok
 amon
 among
 amoro
-amoy
 ampal
 ampar
 ampas
@@ -660,6 +659,7 @@ asu
 asue
 asuh
 asui
+asuk
 asul
 asula
 asun
@@ -801,6 +801,7 @@ bambang
 bambu
 banci
 bandeng
+bangke
 bangsat
 bantal
 banyu
@@ -815,6 +816,7 @@ batik
 batuk
 batur
 bau
+bawak
 bayi
 be
 bebe
@@ -1142,6 +1144,7 @@ dialek
 diama
 diamput
 diana
+didi
 didik
 dido
 didu
@@ -1250,11 +1253,13 @@ ealah
 ebah
 eban
 ebi
+ecer
 eco
 ed
 eda
 edah
 edan
+edane
 edanwa
 edar
 edi
@@ -1619,6 +1624,7 @@ ez
 fafa
 fajar
 fantasi
+fardu
 fase
 fisik
 fix
@@ -1818,6 +1824,7 @@ gembok
 gembol
 gembong
 gembrot
+gemes
 gempa
 gempal
 gemu
@@ -1895,6 +1902,7 @@ giling
 gilir
 gilo
 gim
+gimbal
 gimi
 gina
 gincu
@@ -1914,6 +1922,7 @@ gladhi
 glodog
 go
 gobak
+goblog
 goblok
 gobloki
 gocek
@@ -2353,7 +2362,6 @@ iku
 ikui
 ikulo
 ikuo
-ikus
 ikut
 ikutan
 il
@@ -2778,6 +2786,7 @@ kalah
 kalak
 kalap
 kale
+kaleg
 kaleh
 kalem
 kaleng
@@ -2902,6 +2911,7 @@ kathok
 kati
 katok
 katon
+katresnan
 katrok
 katuk
 katung
@@ -2924,6 +2934,7 @@ kebang
 kebo
 kecap
 kedah
+keder
 kediri
 kedondong
 kegowo
@@ -3271,6 +3282,7 @@ kupa
 kupas
 kupat
 kupe
+kupeng
 kupi
 kuping
 kupluk
@@ -3995,9 +4007,11 @@ nakula
 nakuti
 nala
 nalar
+nale
 nali
 nalika
 naliko
+nalu
 nama
 naman
 nambah
@@ -4112,8 +4126,6 @@ nelit
 nelongso
 nem
 neman
-nemang
-nemba
 nembak
 nembang
 nembe
@@ -4789,6 +4801,7 @@ oge
 ogi
 ogoh
 ogor
+ogsana
 oh
 ohh
 ohhh
@@ -4814,6 +4827,7 @@ okei
 okem
 oker
 okin
+okit
 okok
 okoka
 okol
@@ -5076,6 +5090,7 @@ pasa
 pasang
 pasar
 pasir
+pasrah
 pasti
 pasukan
 pasuruan
@@ -5117,6 +5132,7 @@ pelimu
 pelo
 pelog
 pelu
+peluk
 pen
 pena
 penak
@@ -5811,6 +5827,7 @@ semok
 sempak
 sempurna
 semut
+sendok
 seneng
 seng
 sepi
@@ -6049,7 +6066,6 @@ susuku
 susul
 susumu
 susun
-susut
 susuwi
 suti
 sutil
@@ -6271,6 +6287,7 @@ toe
 toh
 tok
 tokek
+toko
 tolak
 tole
 toleh
@@ -6383,7 +6400,6 @@ ubii
 ubun
 ubuna
 ubur
-ucak
 ucap
 ucul
 uda
@@ -6667,6 +6683,7 @@ usai
 usak
 usan
 usap
+usar
 usaran
 use
 usek
@@ -6812,6 +6829,7 @@ wedus
 wee
 wek
 wektu
+welah
 welas
 wele
 wen
@@ -6842,6 +6860,7 @@ wiko
 wilan
 wilangan
 win
+wina
 windu
 wine
 wingi
@@ -6941,6 +6960,7 @@ yolo
 yom
 yoma
 yoman
+yomen
 yomi
 yon
 yonan
