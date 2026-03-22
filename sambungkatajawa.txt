@@ -455,6 +455,7 @@ apel
 apem
 apes
 api
+apia
 apik
 apip
 apis
@@ -1725,6 +1726,7 @@ hantam
 hantu
 hanung
 hanya
+hao
 hap
 hapa
 hape
@@ -4289,6 +4291,7 @@ peli
 peliku
 pelimu
 pelo
+pelog
 pelu
 pen
 pena
@@ -4768,6 +4771,7 @@ sabat
 saben
 sabtu
 sabuk
+sabun
 sabus
 sabut
 sadurung
@@ -5550,6 +5554,7 @@ upo
 ur
 ura
 uraan
+urab
 urah
 urai
 urak
