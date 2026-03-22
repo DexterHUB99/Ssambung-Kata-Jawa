@@ -491,6 +491,7 @@ asi
 asia
 asih
 asik
+asil
 asin
 asinan
 asing
@@ -2661,6 +2662,7 @@ lere
 leren
 leres
 leri
+leru
 lesehan
 lesu
 lesung
