@@ -2408,6 +2408,7 @@ kursi
 kuru
 kurung
 kurus
+kus
 kusir
 kut
 kutang
@@ -4497,6 +4498,7 @@ taman
 tambah
 tambal
 tambang
+tambel
 tambir
 tami
 tampar
