@@ -216,6 +216,7 @@ amber
 ambi
 ambigu
 ambil
+ambles
 amboi
 ambruk
 ambu
@@ -419,6 +420,7 @@ arisan
 arit
 aro
 arsila
+arta
 arti
 aru
 arum
@@ -4710,6 +4712,7 @@ wicak
 wicara
 widari
 widi
+widia
 wih
 wijaya
 wiji
