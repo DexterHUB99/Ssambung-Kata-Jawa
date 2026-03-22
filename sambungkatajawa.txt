@@ -1072,6 +1072,7 @@ doni
 dono
 dor
 doro
+dorong
 dosa
 doso
 doyan
@@ -2357,6 +2358,7 @@ jamal
 jaman
 jambak
 jambu
+jamri
 jamu
 jancok
 jancuk
@@ -2949,6 +2951,7 @@ kuru
 kurung
 kurus
 kus
+kusa
 kusir
 kusuma
 kut
@@ -3114,6 +3117,7 @@ liha
 lihat
 lik
 lika
+likan
 liku
 lila
 lili
@@ -3371,6 +3375,7 @@ masa
 masak
 masang
 masih
+masio
 maso
 masuk
 mat
@@ -5251,6 +5256,7 @@ ses
 sesek
 sesok
 sesuk
+seta
 setan
 setunggal
 sewu
@@ -5805,6 +5811,7 @@ uke
 ukel
 ukep
 uker
+uket
 uki
 ukin
 ukir
