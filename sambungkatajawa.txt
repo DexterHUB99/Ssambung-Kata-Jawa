@@ -780,6 +780,7 @@ cino
 cinta
 cintaa
 cipa
+cireng
 ciu
 co
 cobek
@@ -2127,6 +2128,7 @@ jontor
 joran
 jorok
 jos
+jotos
 ju
 jual
 jujur
