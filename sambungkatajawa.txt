@@ -758,6 +758,7 @@ becak
 becek
 beci
 beda
+bedak
 bedo
 bee
 bego
@@ -3135,6 +3136,7 @@ larak
 larang
 laras
 lari
+laris
 laron
 las
 lasa
@@ -4057,6 +4059,7 @@ ngepel
 ngepet
 ngepi
 ngepot
+nger
 ngerai
 ngerak
 ngere
