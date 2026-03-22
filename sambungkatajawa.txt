@@ -821,6 +821,7 @@ babi
 babik
 babu
 bacok
+bacot
 badan
 badhe
 badut
@@ -1134,6 +1135,7 @@ cuci
 cucu
 cuk
 cuka
+cuko
 cukup
 cuma
 cumi
