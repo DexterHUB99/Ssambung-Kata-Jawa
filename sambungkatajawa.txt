@@ -194,6 +194,7 @@ alek
 alem
 alhamdulillah
 ali
+alif
 alih
 alim
 aling
@@ -2737,6 +2738,7 @@ lugu
 luh
 luhur
 luk
+luka
 lukis
 lukisan
 lulu
@@ -2894,6 +2896,7 @@ mi
 micek
 mie
 mika
+miki
 mikir
 miku
 mikul
@@ -3102,6 +3105,7 @@ ndas
 ndelok
 nderek
 ndeso
+nduk
 ne
 nebang
 nedha
@@ -3398,6 +3402,7 @@ ngolak
 ngoles
 ngolong
 ngomah
+ngombal
 ngombe
 ngomel
 ngomong
@@ -4459,6 +4464,7 @@ silet
 silit
 silo
 simbah
+simi
 simpang
 sinau
 sindur
