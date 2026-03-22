@@ -1202,6 +1202,7 @@ eneng
 enep
 engah
 enggal
+enggan
 enggeh
 enggih
 engkang
@@ -1374,6 +1375,7 @@ gakusah
 gal
 gala
 galaa
+galah
 galak
 galang
 galangan
@@ -2081,6 +2083,7 @@ ini
 inie
 injak
 injek
+inji
 injih
 injing
 injuk
