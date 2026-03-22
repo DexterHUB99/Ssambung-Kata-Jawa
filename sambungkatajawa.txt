@@ -845,6 +845,7 @@ bangke
 bangsat
 bantal
 banyu
+bapak
 bara
 bas
 basi
@@ -957,6 +958,7 @@ bolo
 boloho
 bolong
 bom
+bonga
 bongo
 bor
 borok
@@ -1188,6 +1190,7 @@ dedek
 dek
 deket
 del
+dela
 dele
 deli
 delima
@@ -6353,6 +6356,7 @@ suseng
 susi
 susilo
 susu
+susuh
 susuk
 susuku
 susul
