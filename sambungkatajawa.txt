@@ -128,6 +128,7 @@ ahu
 ahuk
 ahun
 ahur
+ahus
 ahut
 ahuy
 ai
@@ -140,6 +141,7 @@ aiku
 ail
 aila
 ailan
+aile
 aili
 aima
 aimu
@@ -294,6 +296,7 @@ amam
 aman
 amanah
 amar
+amara
 amarga
 amargi
 amas
@@ -378,6 +381,7 @@ anar
 anas
 anasi
 anat
+ancang
 ancas
 ancen
 anci
@@ -1487,7 +1491,6 @@ eres
 eret
 eri
 erik
-erika
 ering
 erip
 ero
@@ -2299,6 +2302,7 @@ ilae
 ilag
 ilah
 ilahi
+ilai
 ilak
 ilaki
 ilala
@@ -2393,7 +2397,6 @@ injing
 injuk
 insan
 insyaallah
-internet
 inti
 intil
 intine
@@ -3483,6 +3486,7 @@ lombok
 lomo
 lompat
 lon
+lona
 loncat
 longgar
 longgo
@@ -3653,6 +3657,7 @@ marah
 marai
 marak
 maras
+marek
 marem
 mari
 mariem
@@ -4364,6 +4369,7 @@ ngluku
 ngluruk
 ngobah
 ngobat
+ngoblok
 ngobrol
 ngocok
 ngodok
@@ -6512,6 +6518,7 @@ usik
 usil
 usir
 usiro
+uska
 uso
 usrek
 ustadz
@@ -6698,6 +6705,7 @@ wonogiri
 wonten
 wor
 woro
+woti
 wowo
 wula
 wulan
