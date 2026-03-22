@@ -586,6 +586,7 @@ bah
 bai
 bajak
 bajigur
+baku
 bala
 balap
 bali
@@ -714,6 +715,7 @@ cai
 caka
 cakap
 cakot
+cakra
 cakul
 candi
 cangkruk
@@ -904,6 +906,7 @@ duso
 dusun
 duwe
 duwek
+duwit
 ealah
 eban
 eco
@@ -5103,6 +5106,7 @@ wahyu
 wai
 wajan
 wajik
+wakil
 waktu
 walah
 walang
