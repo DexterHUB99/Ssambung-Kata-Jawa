@@ -180,6 +180,7 @@ alami
 alan
 alang
 alangan
+alar
 alas
 alasan
 alat
@@ -3843,6 +3844,7 @@ popol
 por
 pora
 pore
+porek
 pori
 porna
 poro
