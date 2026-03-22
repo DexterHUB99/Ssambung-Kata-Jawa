@@ -2374,6 +2374,7 @@ kenyang
 keong
 kep
 kepala
+kepanggih
 kepel
 kepet
 kepik
@@ -3665,6 +3666,7 @@ nikmat
 niko
 niku
 nikung
+nil
 nila
 nilai
 nilam
