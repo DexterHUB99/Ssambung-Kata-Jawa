@@ -4712,6 +4712,7 @@ pait
 pajak
 paji
 pak
+pakan
 pakara
 pakir
 pakis
