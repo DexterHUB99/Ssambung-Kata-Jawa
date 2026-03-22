@@ -3421,6 +3421,7 @@ ngem
 ngembeh
 ngemi
 ngemil
+ngemong
 ngemot
 ngemper
 ngen
