@@ -408,6 +408,7 @@ ancase
 ancen
 ancer
 anci
+ancik
 anco
 ancok
 ancu
@@ -1179,6 +1180,7 @@ deda
 dedak
 dede
 dedek
+dek
 deket
 del
 dele
@@ -6864,6 +6866,7 @@ unggar
 unggaran
 unggas
 ungger
+unggul
 ungkal
 ungkap
 ungkara
