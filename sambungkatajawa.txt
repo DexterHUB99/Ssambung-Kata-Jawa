@@ -856,6 +856,7 @@ bebek
 becak
 becek
 beci
+becik
 beda
 bedak
 bedo
@@ -1338,6 +1339,7 @@ egrang
 eh
 eha
 ehak
+ehal
 ehan
 ehaw
 ehawa
@@ -1563,6 +1565,7 @@ epet
 epi
 epik
 epil
+epit
 epo
 epok
 epol
@@ -2587,6 +2590,7 @@ irak
 iram
 irama
 iramu
+irane
 irang
 iras
 irasan
@@ -2847,6 +2851,7 @@ kabupaten
 kabur
 kabut
 kaca
+kacau
 kacu
 kacuk
 kacung
@@ -3237,6 +3242,7 @@ kite
 kiwa
 kiye
 klambi
+klasa
 klepon
 kleru
 kliwon
@@ -3914,6 +3920,7 @@ mau
 mawon
 maya
 mayak
+mayat
 mayu
 mayur
 mbak
@@ -4540,6 +4547,7 @@ ngerem
 ngerepoti
 ngeres
 ngeresake
+ngeri
 ngerja
 ngerok
 ngerti
@@ -6473,6 +6481,7 @@ tir
 tira
 tiris
 tiru
+tis
 tisa
 tisu
 tit
