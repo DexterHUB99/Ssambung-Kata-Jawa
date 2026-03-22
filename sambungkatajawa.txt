@@ -265,6 +265,7 @@ amung
 an
 ana
 anae
+anah
 anak
 anakan
 anake
@@ -3216,6 +3217,7 @@ ngidu
 ngidul
 ngih
 ngijin
+ngijir
 ngik
 ngikut
 ngil
@@ -3297,6 +3299,7 @@ ngowah
 ngowoh
 ngoyak
 ngoyo
+ngrasa
 ngrumat
 ngrumpi
 ngubeng
@@ -3306,6 +3309,7 @@ ngudal
 ngudani
 ngudek
 ngudud
+ngudut
 nguji
 ngukur
 ngulang
@@ -4299,6 +4303,7 @@ silet
 silit
 silo
 simbah
+simpang
 sinau
 sindur
 sing
@@ -4572,6 +4577,7 @@ tisu
 tit
 titi
 titid
+titik
 titip
 titis
 titit
