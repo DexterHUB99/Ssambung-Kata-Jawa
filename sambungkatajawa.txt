@@ -790,6 +790,7 @@ ayok
 ayu
 ayuh
 ayuk
+ayun
 az
 ba
 bab
@@ -1945,6 +1946,7 @@ geta
 gete
 geter
 gethuk
+geti
 getih
 geto
 getok
@@ -5246,6 +5248,7 @@ pas
 pasa
 pasang
 pasar
+pasi
 pasir
 pasrah
 pasti
