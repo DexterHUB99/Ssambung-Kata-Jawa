@@ -4552,6 +4552,7 @@ silah
 silet
 silit
 silo
+sim
 simbah
 simi
 simpang
