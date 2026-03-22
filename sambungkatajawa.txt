@@ -3914,6 +3914,7 @@ sakdurunge
 sakit
 sakti
 saku
+sakula
 salah
 salahe
 salam
@@ -4318,6 +4319,7 @@ tukaran
 tuki
 tuku
 tukul
+tul
 tulang
 tuli
 tulis
