@@ -589,6 +589,7 @@ asma
 asmae
 asmara
 aso
+asoi
 asoy
 asrep
 asri
@@ -1277,6 +1278,7 @@ empan
 empang
 empedu
 empek
+empel
 emper
 empet
 empik
