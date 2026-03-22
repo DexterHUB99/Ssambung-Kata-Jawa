@@ -630,6 +630,7 @@ asri
 asta
 astaga
 astagfirullah
+asti
 asu
 asue
 asuh
@@ -766,6 +767,7 @@ balap
 balek
 bali
 baliho
+balik
 balok
 bambang
 bambu
@@ -2183,6 +2185,7 @@ iblis
 ibu
 ibuk
 ibune
+ic
 ica
 icip
 icu
