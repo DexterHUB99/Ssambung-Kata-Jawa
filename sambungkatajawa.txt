@@ -783,6 +783,7 @@ bai
 bajak
 bajigur
 bajingan
+baju
 bak
 bakoh
 bakti
@@ -1143,7 +1144,6 @@ didik
 dido
 didu
 diemut
-dijogja
 dika
 dikit
 dikon
@@ -1359,7 +1359,6 @@ elik
 elim
 elin
 eling
-elingo
 elis
 elo
 eloh
@@ -1590,6 +1589,7 @@ etul
 etum
 etur
 etus
+evan
 ew
 ewa
 ewae
@@ -1676,6 +1676,7 @@ gambang
 gambar
 gambare
 gambas
+gambleh
 gambuh
 gambut
 gambyong
@@ -1855,7 +1856,6 @@ gerang
 gere
 gereng
 geri
-gerih
 gering
 gero
 gerobak
@@ -2442,6 +2442,7 @@ ingin
 ingkang
 ingkung
 ingsun
+ingu
 ini
 inie
 inja
@@ -2722,6 +2723,7 @@ juma
 jumpa
 jung
 jungkir
+juni
 jurang
 juri
 jurus
@@ -2902,7 +2904,6 @@ katup
 kawah
 kawan
 kawat
-kawatan
 kawen
 kaweruh
 kawi
@@ -2935,6 +2936,7 @@ kela
 kelabang
 kelakuan
 kelam
+kelambe
 kelangan
 kelap
 kelar
@@ -3107,6 +3109,7 @@ kita
 kitab
 kite
 kiwa
+kiye
 klambi
 klepon
 kleru
@@ -3252,6 +3255,7 @@ kundur
 kune
 kung
 kuning
+kunir
 kuno
 kunta
 kunti
@@ -3781,6 +3785,7 @@ megatruh
 meh
 meja
 mekar
+mekaten
 meki
 melas
 melek
@@ -3800,6 +3805,7 @@ meong
 mer
 mera
 merah
+merak
 merem
 meren
 mergo
@@ -3851,7 +3857,6 @@ misu
 misuh
 mit
 miten
-mlebu
 mlumah
 mmanuk
 mo
@@ -3913,6 +3918,7 @@ mul
 mula
 mulae
 mulai
+mulane
 mulang
 mule
 muleh
@@ -4334,6 +4340,7 @@ ngemil
 ngemong
 ngemot
 ngemper
+ngemut
 ngen
 ngendi
 ngendika
@@ -4346,6 +4353,7 @@ ngenteni
 ngentu
 ngentut
 ngepa
+ngepang
 ngepel
 ngepet
 ngepi
@@ -4370,6 +4378,7 @@ ngetik
 ngetok
 ngetot
 ngewang
+ngewangi
 ngewe
 ngg
 ngga
@@ -4532,6 +4541,7 @@ ngudek
 ngudud
 ngudut
 nguji
+ngukir
 ngukur
 ngulang
 ngulek
@@ -4550,7 +4560,6 @@ ngumbel
 ngumi
 ngumpet
 ngumpul
-ngunakake
 nguncal
 ngunci
 ngundang
@@ -4910,6 +4919,7 @@ oraiso
 orak
 oran
 orang
+orangutan
 oraono
 orapapa
 orapopo
@@ -5333,6 +5343,7 @@ raja
 rajae
 rajah
 rajin
+raju
 rajungan
 rajut
 rak
@@ -6046,6 +6057,7 @@ ta
 taa
 taat
 taati
+tabek
 tabuh
 tabung
 tae
@@ -6364,10 +6376,10 @@ ucul
 uda
 udah
 udak
+udal
 udam
 udan
 udanan
-udane
 udang
 udara
 udeg
@@ -6413,6 +6425,7 @@ ukaa
 ukae
 ukai
 ukak
+ukal
 ukam
 ukan
 ukar
@@ -6563,6 +6576,7 @@ unta
 untah
 untal
 untel
+unter
 untir
 untu
 untuk
@@ -6599,7 +6613,6 @@ uran
 urang
 urap
 urapan
-uras
 urat
 ure
 urek
