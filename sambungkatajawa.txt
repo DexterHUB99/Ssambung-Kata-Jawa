@@ -2806,6 +2806,7 @@ mawon
 maya
 mayak
 mayu
+mbak
 mben
 mboke
 mboten
@@ -4384,6 +4385,7 @@ sinyo
 sio
 sip
 sipa
+sipit
 sir
 sira
 sirah
