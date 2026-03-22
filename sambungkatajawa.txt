@@ -1,6 +1,7 @@
 aa
 aae
 aah
+ab
 aba
 abab
 abah
@@ -127,7 +128,6 @@ ahu
 ahuk
 ahun
 ahur
-ahus
 ahut
 ahuy
 ai
@@ -140,7 +140,6 @@ aiku
 ail
 aila
 ailan
-aile
 aili
 aima
 aimu
@@ -294,7 +293,6 @@ amam
 aman
 amanah
 amar
-amara
 amarga
 amargi
 amas
@@ -379,7 +377,6 @@ anar
 anas
 anasi
 anat
-ancang
 ancas
 ancen
 anci
@@ -749,6 +746,7 @@ ayu
 ayuh
 ayuk
 az
+ba
 bab
 babai
 babat
@@ -798,6 +796,7 @@ batuk
 batur
 bau
 bayi
+be
 bebe
 bebek
 becak
@@ -1221,6 +1220,7 @@ duwit
 ealah
 ebah
 eban
+ebi
 eco
 ed
 eda
@@ -1357,6 +1357,7 @@ embun
 embung
 eme
 emem
+emen
 emer
 emi
 emik
@@ -1575,6 +1576,7 @@ fafa
 fajar
 fantasi
 fase
+fisik
 fix
 fungsi
 ga
@@ -1790,6 +1792,7 @@ genjik
 geno
 genteng
 genti
+genting
 gentong
 genuk
 geo
@@ -1852,6 +1855,7 @@ giring
 giru
 gisa
 gitar
+githok
 giwang
 gladhi
 glodog
@@ -2290,7 +2294,6 @@ ilae
 ilag
 ilah
 ilahi
-ilai
 ilak
 ilaki
 ilala
@@ -2901,6 +2904,7 @@ kencot
 kencur
 kendang
 kendi
+kendil
 kene
 kenek
 keni
@@ -3125,6 +3129,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kucing
 kucur
 kuda
@@ -3299,6 +3304,7 @@ lasi
 lata
 latah
 latar
+lathi
 lati
 latih
 laut
@@ -3470,7 +3476,6 @@ lombok
 lomo
 lompat
 lon
-lona
 loncat
 longgar
 longgo
@@ -3640,7 +3645,6 @@ mara
 marah
 marai
 maras
-marek
 marem
 mari
 mariem
@@ -3685,6 +3689,7 @@ megah
 meh
 meja
 mekar
+meki
 melas
 melek
 melet
@@ -3800,6 +3805,7 @@ mudeng
 mugi
 mugih
 muh
+mujair
 muji
 muk
 muka
@@ -4216,6 +4222,7 @@ ngelmu
 ngelom
 ngelu
 ngelumpuk
+ngelunja
 ngem
 ngembeh
 ngemen
@@ -4264,6 +4271,7 @@ ngg
 ngga
 nggae
 nggak
+nggali
 nggambar
 nggambuh
 nggatel
@@ -4621,6 +4629,7 @@ nyedi
 nyenul
 nyepi
 nyerat
+nyi
 nying
 nyolong
 nyong
@@ -5535,6 +5544,7 @@ sakit
 sakti
 saku
 sakula
+sakut
 salah
 salahe
 salak
@@ -6073,6 +6083,7 @@ tir
 tira
 tiris
 tiru
+tisa
 tisu
 tit
 tita
@@ -6161,6 +6172,7 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
+tumpul
 tumut
 tun
 tuna
@@ -6191,6 +6203,7 @@ ua
 uan
 uana
 uang
+ub
 uba
 uban
 ubang
@@ -6416,6 +6429,7 @@ upa
 upah
 upan
 upang
+upas
 upaya
 upe
 upel
@@ -6489,7 +6503,6 @@ usik
 usil
 usir
 usiro
-uska
 uso
 usrek
 ustadz
@@ -6622,6 +6635,7 @@ wen
 wene
 wera
 wes
+wesa
 wesi
 weso
 weta
@@ -6660,6 +6674,7 @@ wisata
 wisuh
 wit
 witing
+wito
 wiwi
 wiwit
 wo
@@ -6675,7 +6690,6 @@ wonogiri
 wonten
 wor
 woro
-woti
 wowo
 wula
 wulan
