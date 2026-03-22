@@ -7002,6 +7002,7 @@ untune
 untung
 untur
 unus
+uo
 up
 upa
 upah
