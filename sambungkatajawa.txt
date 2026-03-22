@@ -3308,6 +3308,7 @@ mantu
 mantuk
 manuk
 manukku
+maos
 mapan
 mar
 mara
@@ -3929,6 +3930,7 @@ ngil
 ngilang
 ngilap
 ngiler
+ngilir
 ngilu
 ngimbar
 ngimbohi
@@ -5798,6 +5800,7 @@ umbel
 umbi
 umbul
 umi
+umma
 ummi
 umo
 umpama
