@@ -1957,6 +1957,7 @@ genderuwo
 gendhis
 gendon
 gendong
+gendul
 gendut
 geneya
 geng
@@ -4480,6 +4481,7 @@ ngana
 ngancani
 ngandang
 ngandani
+ngandap
 ngang
 nganga
 nganggo
