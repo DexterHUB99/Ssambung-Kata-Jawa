@@ -1554,6 +1554,7 @@ gala
 galaa
 galah
 galak
+galan
 galang
 galangan
 galau
@@ -3298,6 +3299,7 @@ linta
 lintah
 lintang
 lintas
+lintu
 lio
 lip
 lipan
@@ -6539,6 +6541,7 @@ yayi
 yek
 yen
 yere
+yes
 yeye
 yi
 yo
