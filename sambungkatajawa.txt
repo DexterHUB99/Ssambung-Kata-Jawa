@@ -553,6 +553,7 @@ anyong
 aos
 ap
 apa
+apaan
 apae
 apak
 apal
@@ -1768,6 +1769,7 @@ gambut
 gambyong
 game
 gamel
+gamela
 gamelan
 gamis
 gamoh
@@ -2065,6 +2067,7 @@ gosong
 got
 gotong
 gowo
+gowoe
 goyah
 goyang
 gram
@@ -3458,6 +3461,7 @@ labu
 labuh
 lacut
 laden
+laen
 lagek
 lagi
 lagu
