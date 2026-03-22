@@ -1877,6 +1877,7 @@ gayuh
 gayung
 ge
 geblek
+gebok
 gedang
 gedangan
 gede
@@ -2507,6 +2508,7 @@ ilih
 ilik
 iling
 ilir
+ilis
 ilmu
 ilo
 iloe
