@@ -2096,6 +2096,7 @@ kabar
 kabeh
 kabel
 kabit
+kabupaten
 kabut
 kacuk
 kadal
@@ -2196,6 +2197,7 @@ karo
 karpet
 karun
 karung
+karya
 kasa
 kasar
 kasep
