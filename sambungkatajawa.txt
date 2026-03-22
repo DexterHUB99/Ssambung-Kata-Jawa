@@ -1783,6 +1783,7 @@ gola
 golek
 goleki
 goleko
+goler
 golet
 golo
 golong
@@ -4003,6 +4004,7 @@ ngawih
 ngawit
 ngawor
 ngawur
+ngawuran
 ngayuh
 ngcok
 nge
@@ -5441,6 +5443,7 @@ sika
 sikan
 sikat
 sikatan
+sikaten
 sikil
 siku
 sikut
