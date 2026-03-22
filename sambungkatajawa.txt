@@ -5680,6 +5680,7 @@ wek
 wektu
 wele
 wen
+wene
 wera
 wes
 wesi
