@@ -4409,6 +4409,7 @@ nor
 nora
 norak
 nore
+noreh
 nori
 nos
 nosi
@@ -5825,6 +5826,7 @@ tempe
 tempek
 tempel
 tempik
+tempura
 temu
 ten
 tenan
