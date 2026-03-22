@@ -2886,6 +2886,7 @@ nabi
 nabok
 nabrak
 nabuh
+nabung
 nada
 nadi
 nae
