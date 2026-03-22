@@ -4623,6 +4623,7 @@ ngetot
 ngewang
 ngewangi
 ngewe
+ngewek
 ngeyel
 ngg
 ngga
@@ -5701,6 +5702,7 @@ ratau
 rati
 ratna
 ratu
+rauh
 raung
 raup
 rausah
