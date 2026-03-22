@@ -27,7 +27,6 @@ acu
 ad
 ada
 adaa
-adah
 adai
 adan
 ade
@@ -165,7 +164,6 @@ akhirat
 aki
 akia
 akih
-akii
 akik
 akil
 aking
@@ -266,7 +264,6 @@ ambruk
 ambu
 ambung
 ambyar
-ame
 ameh
 amel
 amen
@@ -376,7 +373,6 @@ angu
 ani
 aniani
 anie
-anii
 anik
 anin
 aning
@@ -413,7 +409,6 @@ antar
 antara
 antek
 antem
-antemi
 anteng
 antep
 anter
@@ -457,7 +452,6 @@ apel
 apem
 apes
 api
-apia
 apik
 apip
 apis
@@ -784,7 +778,6 @@ bumu
 buna
 buncis
 bunga
-buntil
 bunuh
 buri
 busa
@@ -895,7 +888,6 @@ damai
 damar
 damel
 damput
-damu
 dan
 danau
 dancok
@@ -1508,6 +1500,7 @@ gendar
 gendeng
 genderuwo
 gendhis
+gendon
 gendong
 gendut
 geng
@@ -1736,7 +1729,6 @@ hantam
 hantu
 hanung
 hanya
-hao
 hap
 hapa
 hape
@@ -1907,7 +1899,6 @@ ider
 idhu
 idi
 idih
-idii
 idu
 idue
 ieu
@@ -2027,7 +2018,6 @@ imuh
 imut
 in
 ina
-inaa
 inah
 inak
 inang
@@ -2124,7 +2114,6 @@ isan
 isanan
 isap
 ise
-isee
 isek
 iseng
 isep
@@ -2311,7 +2300,6 @@ kaisar
 kaji
 kak
 kaka
-kakaa
 kakak
 kakang
 kakat
@@ -2499,7 +2487,6 @@ kene
 keni
 kenok
 kenon
-kenopo
 kentang
 kenter
 kenthir
@@ -2608,7 +2595,6 @@ kitab
 kiwa
 klambi
 kleru
-kliwon
 ko
 kobong
 kocak
@@ -2638,7 +2624,6 @@ komik
 komodo
 kompak
 kompas
-komplit
 kompor
 kon
 konangan
@@ -2729,6 +2714,7 @@ kuna
 kunang
 kunci
 kundur
+kung
 kuning
 kuno
 kunta
@@ -2946,7 +2932,6 @@ lipan
 lipas
 lipat
 lipen
-lipet
 lipi
 lira
 liri
@@ -3191,7 +3176,6 @@ meja
 mekar
 melas
 melek
-melet
 melok
 memang
 meme
@@ -3407,7 +3391,6 @@ nangkring
 nani
 naning
 nano
-nantang
 nanti
 nanya
 naon
@@ -3528,7 +3511,6 @@ ngadoh
 ngadon
 ngadu
 ngaduk
-ngadus
 ngae
 ngagem
 ngah
@@ -3921,7 +3903,6 @@ nisa
 nisan
 nita
 nite
-niten
 niteni
 niti
 nitih
@@ -4110,7 +4091,6 @@ ombi
 ombo
 omboh
 ombol
-ombor
 ome
 omi
 ommo
@@ -4249,7 +4229,6 @@ panah
 panas
 pancen
 panci
-pandan
 pandang
 pandawa
 pandu
@@ -4271,7 +4250,6 @@ pante
 pantes
 panti
 papa
-papaa
 papah
 papan
 papi
@@ -4318,7 +4296,6 @@ peli
 peliku
 pelimu
 pelo
-pelog
 pelu
 pen
 pena
@@ -4338,7 +4315,6 @@ pepes
 perak
 perang
 pere
-perek
 pesan
 peso
 pete
@@ -4802,7 +4778,6 @@ sabat
 saben
 sabtu
 sabuk
-sabun
 sabus
 sabut
 sadurung
@@ -4881,6 +4856,7 @@ sasi
 sastra
 sate
 satu
+saung
 saur
 sawah
 sawahe
@@ -5070,7 +5046,6 @@ sumbang
 sumbangan
 sumbar
 sumber
-sumeh
 sumerep
 sumpah
 sumringah
@@ -5548,7 +5523,6 @@ unduh
 unduhe
 unduk
 undur
-unduri
 unek
 ung
 unga
@@ -5593,9 +5567,7 @@ upil
 upo
 ur
 ura
-uraa
 uraan
-urab
 urah
 urai
 urak
