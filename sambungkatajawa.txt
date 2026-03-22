@@ -468,6 +468,7 @@ arahan
 arai
 arak
 aram
+aran
 arane
 arang
 aras
@@ -655,6 +656,7 @@ bali
 baliho
 balok
 bambang
+bambu
 banci
 bandeng
 banyu
@@ -942,7 +944,6 @@ dimana
 dimas
 din
 dina
-dinae
 dingin
 dino
 dinten
@@ -1481,6 +1482,7 @@ gemblung
 gembok
 gembol
 gembong
+gembrot
 gempa
 gemuk
 gen
@@ -1536,6 +1538,7 @@ gigil
 gigu
 gih
 gila
+gilaa
 gilang
 gilani
 giling
@@ -1770,6 +1773,7 @@ heli
 helikopter
 helo
 hem
+hema
 hemat
 heni
 heo
@@ -1893,6 +1897,7 @@ iga
 igo
 ih
 iha
+ihai
 ihan
 ihe
 ihi
@@ -2187,7 +2192,6 @@ jarak
 jaran
 jarang
 jare
-jari
 jarik
 jarit
 jasa
@@ -2207,7 +2211,6 @@ jenang
 jeneng
 jenengan
 jer
-jerami
 jero
 jeruk
 jidat
@@ -2449,6 +2452,7 @@ keluarga
 kelum
 kemah
 kemang
+kemas
 kembali
 kembang
 kemeng
@@ -2462,6 +2466,7 @@ kena
 kenapa
 kencot
 kencur
+kendang
 kendi
 kene
 keni
@@ -2750,6 +2755,7 @@ lalar
 lalat
 laler
 lali
+lalii
 lam
 lama
 lamaran
@@ -2787,7 +2793,6 @@ lantar
 lantas
 lanting
 lantun
-lantur
 laos
 lapang
 lapis
@@ -2825,7 +2830,6 @@ lebur
 lee
 lega
 legi
-leh
 lek
 leker
 lekoh
@@ -2909,6 +2913,7 @@ lipat
 lipen
 lipi
 lira
+liri
 lirih
 lirik
 liro
@@ -3034,6 +3039,7 @@ ma
 maaf
 mabuk
 mabur
+macan
 macul
 madan
 madang
@@ -3135,7 +3141,6 @@ mayak
 mayu
 mbak
 mben
-mbok
 mboke
 mboten
 me
@@ -3213,6 +3218,7 @@ moh
 moha
 mojo
 mok
+mokol
 mol
 molak
 mole
@@ -3413,6 +3419,7 @@ negor
 nek
 neka
 nekat
+neki
 neko
 nelen
 neles
@@ -3502,7 +3509,6 @@ ngalem
 ngaler
 ngali
 ngalor
-ngalus
 ngamal
 ngaman
 ngamar
@@ -3660,7 +3666,6 @@ nggayuh
 nggeh
 nggih
 nggo
-nggoe
 nggolek
 nggoni
 nggowo
@@ -3986,6 +3991,7 @@ ogak
 oge
 ogi
 ogoh
+ogor
 oh
 ohh
 ohhh
@@ -4605,6 +4611,7 @@ rikma
 riko
 riku
 rila
+rili
 rilis
 rim
 rima
@@ -4632,6 +4639,7 @@ risi
 risih
 riska
 risma
+rismo
 rita
 riwa
 riwayat
@@ -4956,6 +4964,7 @@ sori
 soroh
 sos
 sosis
+sosok
 sotel
 soto
 sowan
@@ -4974,7 +4983,6 @@ sue
 sugeh
 sugeng
 sugih
-suh
 sui
 suk
 suka
@@ -5128,6 +5136,7 @@ tawa
 tawon
 tebu
 tegak
+teguh
 teh
 teke
 teko
@@ -5179,7 +5188,6 @@ tila
 tilam
 tilas
 tilem
-tilen
 tilep
 tim
 timah
@@ -5243,7 +5251,6 @@ toto
 towo
 toya
 tresno
-trotoar
 tu
 tua
 tuak
@@ -5254,7 +5261,6 @@ tukang
 tukaran
 tuki
 tuku
-tukue
 tukul
 tul
 tulan
@@ -5393,6 +5399,7 @@ ukura
 ukuran
 ukurane
 ukure
+ukuren
 ukurna
 ul
 ula
@@ -5424,6 +5431,7 @@ ulih
 ulik
 ulo
 ulomo
+uloo
 ulu
 uluk
 ulukan
@@ -5572,7 +5580,6 @@ usil
 usir
 usiro
 uso
-usrek
 ustadz
 usu
 usuk
@@ -5688,6 +5695,7 @@ wek
 wektu
 wele
 wen
+wene
 wera
 wes
 wesi
