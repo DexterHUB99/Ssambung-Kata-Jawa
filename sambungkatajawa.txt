@@ -2227,6 +2227,7 @@ juma
 jumpa
 jurang
 juri
+jus
 ka
 kabar
 kabeh
@@ -2433,6 +2434,7 @@ keni
 kenok
 kenon
 kentang
+kenter
 kenthir
 kentu
 kentut
@@ -4740,6 +4742,7 @@ sareng
 sari
 sarong
 saru
+sarun
 sarung
 sas
 sasa
