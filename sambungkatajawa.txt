@@ -5072,6 +5072,7 @@ tanduran
 tangan
 tangga
 tanggal
+tangi
 tani
 tanjung
 tansah
@@ -5687,6 +5688,7 @@ wit
 witing
 wiwi
 wo
+woh
 woi
 wok
 wolo
