@@ -38,6 +38,7 @@ ade
 adegan
 adek
 adem
+adhem
 adhuh
 adi
 adik
@@ -591,6 +592,7 @@ asap
 asar
 asas
 ase
+aseh
 asek
 asem
 asep
@@ -2627,6 +2629,7 @@ kaki
 kakik
 kaku
 kakung
+kakus
 kal
 kala
 kalah
@@ -3210,6 +3213,7 @@ lara
 larak
 larang
 laras
+laren
 lari
 laris
 laron
@@ -6185,6 +6189,7 @@ ulapan
 ular
 ularan
 ulas
+ulasan
 ulat
 ule
 ulek
