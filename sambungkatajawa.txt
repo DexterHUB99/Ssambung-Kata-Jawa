@@ -493,6 +493,7 @@ atok
 atom
 atop
 atos
+atret
 atu
 atuh
 atuk
@@ -1852,6 +1853,7 @@ jembatan
 jembut
 jempol
 jemur
+jemuran
 jeneng
 jenengan
 jer
