@@ -1562,6 +1562,7 @@ getok
 getuk
 getun
 gewe
+gewi
 gi
 gidal
 gig
@@ -2298,6 +2299,7 @@ jol
 jom
 jombang
 jomlo
+jon
 jong
 joni
 jontor
