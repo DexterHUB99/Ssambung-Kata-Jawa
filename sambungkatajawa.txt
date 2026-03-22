@@ -329,6 +329,7 @@ ane
 aneh
 anek
 anep
+anga
 angan
 angaran
 angat
@@ -949,6 +950,7 @@ dula
 dulang
 dulen
 dulo
+dulu
 dulur
 dumeh
 dungo
@@ -2879,6 +2881,7 @@ lorek
 lori
 loro
 lorong
+loroo
 lorot
 los
 losa
@@ -4634,6 +4637,7 @@ sapi
 sapu
 saran
 sarang
+sarapan
 sare
 sareh
 sareng
