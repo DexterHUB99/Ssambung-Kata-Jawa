@@ -1213,7 +1213,6 @@ embuh
 embun
 embung
 eme
-emem
 emer
 emi
 emik
@@ -1619,7 +1618,6 @@ geri
 gering
 gero
 gerus
-ges
 gesang
 gese
 gesek
@@ -2346,7 +2344,6 @@ jembut
 jempol
 jemur
 jemuran
-jen
 jenang
 jeneng
 jenengan
@@ -4181,6 +4178,7 @@ numbuk
 numpak
 numpang
 numplek
+nunak
 nung
 nunggang
 nunggu
@@ -5468,6 +5466,7 @@ temu
 ten
 tenan
 teng
+tengen
 tepa
 tepak
 ter
@@ -5539,7 +5538,6 @@ tok
 tokek
 tolak
 tole
-toleh
 tolek
 toli
 tolih
@@ -5604,7 +5602,6 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
-tun
 tuna
 tunas
 tunggal
