@@ -885,6 +885,7 @@ biawak
 bib
 bibi
 bibir
+bidal
 bidan
 bihun
 biji
@@ -4933,6 +4934,7 @@ okeh
 okei
 okem
 oker
+oket
 okin
 okit
 okok
