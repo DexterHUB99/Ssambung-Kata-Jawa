@@ -1152,6 +1152,7 @@ ebah
 eban
 eco
 ed
+eda
 edah
 edan
 edanwa
@@ -4667,6 +4668,7 @@ palo
 palsu
 palu
 palung
+palungan
 pam
 paman
 pamrih
@@ -4760,6 +4762,7 @@ pena
 penak
 pendek
 pendhet
+pendopo
 pengecut
 pening
 peniti
