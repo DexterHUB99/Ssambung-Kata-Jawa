@@ -200,6 +200,7 @@ alur
 alus
 am
 ama
+amad
 amal
 amalan
 amam
@@ -373,6 +374,7 @@ anyir
 anyong
 ap
 apa
+apaan
 apae
 apak
 apal
@@ -610,6 +612,7 @@ bisa
 bisik
 bisiki
 bismillah
+bisne
 biso
 bisu
 biyen
@@ -1190,6 +1193,7 @@ garing
 garis
 garong
 garpu
+garu
 garuda
 garuga
 garuk
@@ -1199,6 +1203,7 @@ gas
 gasa
 gasak
 gasik
+gasing
 gata
 gatau
 gatel
@@ -1433,6 +1438,7 @@ han
 hana
 hanacaraka
 hancur
+hane
 hang
 hani
 hano
@@ -1556,6 +1562,7 @@ hujan
 hukum
 hula
 hulu
+huma
 human
 humor
 huni
@@ -1784,6 +1791,7 @@ ising
 isis
 islam
 islo
+ismu
 iso
 isoe
 isok
@@ -1899,6 +1907,7 @@ jos
 ju
 jual
 jujur
+jule
 jurang
 ka
 kabeh
@@ -2296,6 +2305,7 @@ kuyuk
 la
 laba
 laban
+labi
 labu
 lacut
 lagi
@@ -2488,6 +2498,7 @@ lonjong
 lontar
 lonte
 lontong
+loo
 lop
 lope
 lopi
@@ -2628,6 +2639,7 @@ mau
 mawon
 maya
 mayak
+mayang
 mben
 mboke
 mboten
@@ -3040,6 +3052,7 @@ ngga
 nggae
 nggak
 nggambar
+nggantung
 nggatel
 nggateli
 nggawe
@@ -3238,6 +3251,7 @@ nong
 nongkrong
 nonjok
 nono
+nontok
 nonton
 nop
 nopi
@@ -3702,6 +3716,7 @@ rabu
 rabun
 racun
 raden
+radio
 rae
 raga
 ragat
@@ -3799,6 +3814,7 @@ rem
 remah
 remang
 remas
+rembang
 rembulan
 reme
 remeh
@@ -3871,6 +3887,7 @@ risih
 risma
 rita
 riya
+riyaya
 riyo
 ro
 roban
@@ -3981,6 +3998,7 @@ sambal
 sambat
 sambel
 sambi
+sambil
 sambit
 sambung
 sami
@@ -4066,6 +4084,7 @@ siapa
 sida
 sidang
 siji
+sika
 sikat
 sikil
 siku
@@ -4119,6 +4138,7 @@ soli
 solo
 somat
 sombong
+son
 sono
 sontoloyo
 sop
@@ -4235,6 +4255,7 @@ takjil
 takon
 taku
 tali
+talii
 talingan
 tam
 taman
@@ -4327,6 +4348,7 @@ timur
 tin
 tindak
 tinggal
+tingkah
 tinju
 tip
 tira
@@ -4779,6 +4801,7 @@ wonten
 wor
 woro
 wowo
+wu
 wula
 wulan
 xenon
