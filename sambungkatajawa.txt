@@ -3957,6 +3957,7 @@ mas
 masa
 masae
 masak
+masal
 masang
 masih
 masio
@@ -4592,6 +4593,7 @@ ngemil
 ngemong
 ngemot
 ngemper
+ngempet
 ngempot
 ngemut
 ngen
@@ -6846,6 +6848,7 @@ ulek
 ulekan
 ulem
 ulen
+uleni
 uler
 ulet
 uli
@@ -7211,6 +7214,7 @@ wir
 wira
 wirama
 wirang
+wirasa
 wiro
 wis
 wisa
