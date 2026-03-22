@@ -198,6 +198,7 @@ akhir
 akhirat
 aki
 akia
+akif
 akih
 akii
 akik
@@ -1128,7 +1129,6 @@ dilok
 diluk
 dilut
 dim
-dimakan
 dimana
 dimas
 dimut
@@ -3634,7 +3634,6 @@ mar
 mara
 marah
 marai
-marak
 maras
 marem
 mari
@@ -3677,7 +3676,6 @@ medal
 medeni
 meg
 megah
-megatruh
 meh
 meja
 mekar
