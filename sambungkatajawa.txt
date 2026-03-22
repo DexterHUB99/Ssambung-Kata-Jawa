@@ -2123,6 +2123,7 @@ inak
 inang
 inda
 indah
+indak
 indang
 indek
 indik
@@ -2913,6 +2914,7 @@ lakon
 laku
 lalah
 lalar
+lalas
 lalat
 laler
 lali
@@ -3133,6 +3135,7 @@ lompat
 lon
 loncat
 longgar
+longgo
 longor
 longsor
 lonjak
@@ -3895,6 +3898,7 @@ ngiki
 ngikut
 ngil
 ngilang
+ngilap
 ngiler
 ngilu
 ngimbar
@@ -4664,6 +4668,7 @@ pulo
 puma
 pun
 puncak
+pundhak
 pundi
 punten
 punya
@@ -5514,6 +5519,7 @@ tok
 tokek
 tolak
 tole
+tolek
 toli
 tolih
 tolo
