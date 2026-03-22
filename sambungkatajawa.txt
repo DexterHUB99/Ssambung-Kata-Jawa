@@ -3129,6 +3129,7 @@ kue
 kuha
 kui
 kuii
+kuio
 kuk
 kuka
 kuko
