@@ -6247,6 +6247,7 @@ sumerep
 sumi
 sumpah
 sumringah
+sumu
 sumuk
 sumur
 sun
