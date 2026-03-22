@@ -1782,6 +1782,7 @@ iroh
 iru
 irug
 iruk
+irum
 irung
 irup
 irus
