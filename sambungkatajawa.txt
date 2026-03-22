@@ -27,6 +27,7 @@ acu
 ad
 ada
 adaa
+adah
 adai
 adan
 ade
@@ -164,6 +165,7 @@ akhirat
 aki
 akia
 akih
+akii
 akik
 akil
 aking
@@ -264,6 +266,7 @@ ambruk
 ambu
 ambung
 ambyar
+ame
 ameh
 amel
 amen
@@ -279,7 +282,6 @@ amis
 amit
 amoh
 amok
-amon
 among
 amoro
 ampar
@@ -374,6 +376,7 @@ angu
 ani
 aniani
 anie
+anii
 anik
 anin
 aning
@@ -410,6 +413,7 @@ antar
 antara
 antek
 antem
+antemi
 anteng
 antep
 anter
@@ -453,6 +457,7 @@ apel
 apem
 apes
 api
+apia
 apik
 apip
 apis
@@ -559,6 +564,7 @@ atai
 atak
 atal
 atan
+atang
 atap
 atar
 atari
@@ -758,7 +764,6 @@ bu
 bua
 buang
 buat
-buban
 bubu
 bubut
 bude
@@ -780,6 +785,7 @@ bumu
 buna
 buncis
 bunga
+buntil
 bunuh
 buri
 busa
@@ -890,6 +896,7 @@ damai
 damar
 damel
 damput
+damu
 dan
 danau
 dancok
@@ -1119,7 +1126,6 @@ elus
 em
 ema
 emak
-emam
 eman
 emane
 emang
@@ -1352,6 +1358,7 @@ gak
 gakusah
 gal
 gala
+galaa
 galak
 galang
 galangan
@@ -1503,7 +1510,6 @@ gendar
 gendeng
 genderuwo
 gendhis
-gendon
 gendong
 gendut
 geng
@@ -1732,6 +1738,7 @@ hantam
 hantu
 hanung
 hanya
+hao
 hap
 hapa
 hape
@@ -1902,6 +1909,7 @@ ider
 idhu
 idi
 idih
+idii
 idu
 idue
 ieu
@@ -2021,6 +2029,7 @@ imuh
 imut
 in
 ina
+inaa
 inah
 inak
 inang
@@ -2117,6 +2126,7 @@ isan
 isanan
 isap
 ise
+isee
 isek
 iseng
 isep
@@ -2303,6 +2313,7 @@ kaisar
 kaji
 kak
 kaka
+kakaa
 kakak
 kakang
 kakat
@@ -2469,6 +2480,7 @@ keluarga
 kelum
 kemah
 kemang
+kemangi
 kemas
 kembali
 kembang
@@ -2490,6 +2502,7 @@ kene
 keni
 kenok
 kenon
+kenopo
 kentang
 kenter
 kenthir
@@ -2536,6 +2549,7 @@ kesa
 kesah
 keset
 kesi
+kesleo
 kesongo
 kesuk
 kesusu
@@ -2598,6 +2612,7 @@ kitab
 kiwa
 klambi
 kleru
+kliwon
 ko
 kobong
 kocak
@@ -2627,6 +2642,7 @@ komik
 komodo
 kompak
 kompas
+komplit
 kompor
 kon
 konangan
@@ -2717,7 +2733,6 @@ kuna
 kunang
 kunci
 kundur
-kung
 kuning
 kuno
 kunta
@@ -2935,6 +2950,7 @@ lipan
 lipas
 lipat
 lipen
+lipet
 lipi
 lira
 liri
@@ -3179,6 +3195,7 @@ meja
 mekar
 melas
 melek
+melet
 melok
 memang
 meme
@@ -3394,6 +3411,7 @@ nangkring
 nani
 naning
 nano
+nantang
 nanti
 nanya
 naon
@@ -3514,6 +3532,7 @@ ngadoh
 ngadon
 ngadu
 ngaduk
+ngadus
 ngae
 ngagem
 ngah
@@ -3704,7 +3723,6 @@ ngguwak
 ngguyu
 ngicil
 ngidam
-ngidep
 ngidu
 ngidul
 ngih
@@ -3864,6 +3882,7 @@ nguyu
 nguyuh
 ni
 nia
+nian
 niba
 nihi
 nik
@@ -3907,6 +3926,7 @@ nisa
 nisan
 nita
 nite
+niten
 niteni
 niti
 nitih
@@ -4070,6 +4090,7 @@ olar
 ole
 oleh
 oleholeh
+olek
 olen
 oleng
 oles
@@ -4095,6 +4116,7 @@ ombi
 ombo
 omboh
 ombol
+ombor
 ome
 omi
 ommo
@@ -4185,6 +4207,7 @@ osok
 osora
 ot
 otak
+otek
 otol
 otot
 ow
@@ -4233,6 +4256,7 @@ panah
 panas
 pancen
 panci
+pandan
 pandang
 pandawa
 pandu
@@ -4254,6 +4278,7 @@ pante
 pantes
 panti
 papa
+papaa
 papah
 papan
 papi
@@ -4300,6 +4325,7 @@ peli
 peliku
 pelimu
 pelo
+pelog
 pelu
 pen
 pena
@@ -4319,6 +4345,7 @@ pepes
 perak
 perang
 pere
+perek
 pesan
 peso
 pete
@@ -4782,6 +4809,7 @@ sabat
 saben
 sabtu
 sabuk
+sabun
 sabus
 sabut
 sadurung
@@ -4860,7 +4888,6 @@ sasi
 sastra
 sate
 satu
-saung
 saur
 sawah
 sawahe
@@ -5050,6 +5077,7 @@ sumbang
 sumbangan
 sumbar
 sumber
+sumeh
 sumerep
 sumpah
 sumringah
@@ -5084,6 +5112,7 @@ surup
 surya
 sus
 susah
+susan
 suseng
 susi
 susilo
@@ -5241,6 +5270,7 @@ timan
 timang
 timba
 timbang
+timbangan
 timbul
 timbun
 timi
@@ -5527,6 +5557,7 @@ unduh
 unduhe
 unduk
 undur
+unduri
 unek
 ung
 unga
@@ -5571,7 +5602,9 @@ upil
 upo
 ur
 ura
+uraa
 uraan
+urab
 urah
 urai
 urak
