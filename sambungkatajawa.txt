@@ -364,7 +364,6 @@ anis
 anisa
 anit
 aniy
-anja
 anjai
 anjaing
 anjani
@@ -856,7 +855,6 @@ dancok
 dandang
 dangdut
 dani
-danur
 dap
 dapa
 dapur
@@ -1864,6 +1862,7 @@ ikan
 ikas
 ikat
 ikatan
+ikati
 ike
 iket
 ikhlas
@@ -1897,7 +1896,6 @@ ilang
 ilangan
 ilap
 ilar
-ilas
 ilat
 iler
 ilermu
@@ -3003,7 +3001,6 @@ mantu
 mantuk
 manuk
 manukku
-maos
 mapan
 mara
 marah
@@ -3758,7 +3755,6 @@ nona
 nong
 nongki
 nongkrong
-noni
 nonjok
 nono
 nonton
@@ -4493,7 +4489,6 @@ rodo
 roe
 rogoh
 rok
-roka
 rokaat
 roket
 roko
@@ -4685,7 +4680,6 @@ semok
 sempak
 sempurna
 seng
-sepeda
 sepi
 serat
 seri
@@ -5241,7 +5235,6 @@ ulur
 um
 uma
 umah
-umai
 umak
 uman
 umar
@@ -5395,7 +5388,6 @@ utae
 utah
 utak
 utama
-utami
 utan
 utang
 utangan
