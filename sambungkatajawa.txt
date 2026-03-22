@@ -142,6 +142,7 @@ akad
 akah
 akak
 akal
+akam
 akan
 akang
 akar
@@ -330,6 +331,7 @@ ane
 aneh
 anek
 anep
+anga
 angan
 angaran
 angat
@@ -435,6 +437,7 @@ apel
 apem
 apes
 api
+apih
 apik
 apis
 apit
@@ -530,6 +533,7 @@ asul
 asula
 asun
 asus
+asuw
 at
 ata
 atah
@@ -704,6 +708,7 @@ biu
 biya
 biyen
 biyung
+blok
 bobi
 bocah
 bodoh
@@ -756,6 +761,7 @@ butek
 buti
 buwa
 cabe
+caca
 cacar
 cacing
 cagak
@@ -767,7 +773,6 @@ cakot
 cakra
 cakul
 calo
-campur
 candi
 cangkruk
 cantik
@@ -801,7 +806,6 @@ cino
 cinta
 cintaa
 cipa
-cipi
 cireng
 cita
 ciu
@@ -900,6 +904,7 @@ didik
 dido
 didu
 diemut
+dik
 dika
 dikit
 dikon
@@ -955,6 +960,7 @@ dula
 dulang
 dulen
 dulo
+dulu
 dulur
 dumeh
 dungo
@@ -1172,6 +1178,7 @@ epah
 epan
 epang
 epas
+epe
 epek
 epen
 epep
@@ -1246,6 +1253,7 @@ etika
 etil
 etis
 eto
+etok
 etol
 etos
 etu
@@ -1963,7 +1971,6 @@ inem
 inep
 infaq
 ing
-ingat
 ingen
 inggih
 inggil
@@ -2060,6 +2067,7 @@ iso
 isoe
 isok
 isoma
+isoo
 isor
 isro
 istana
@@ -2132,7 +2140,6 @@ jaran
 jarang
 jare
 jarik
-jarit
 jasa
 jawa
 jawir
@@ -2200,7 +2207,6 @@ juri
 ka
 kabar
 kabeh
-kabek
 kabel
 kabit
 kabupaten
@@ -2723,6 +2729,7 @@ larak
 larang
 laras
 lari
+las
 lasa
 lata
 latah
@@ -2894,6 +2901,7 @@ lorek
 lori
 loro
 lorong
+loroo
 lorot
 los
 losa
@@ -2999,6 +3007,7 @@ mandi
 mane
 maneh
 mang
+manga
 mangan
 manggih
 manggis
@@ -3245,7 +3254,6 @@ nan
 nana
 nanah
 nanam
-nanan
 nanang
 nanas
 nandang
@@ -3308,7 +3316,6 @@ ndeso
 nduk
 ne
 nebang
-neda
 nedha
 nedho
 nedi
@@ -3449,6 +3456,7 @@ ngapeli
 ngaplo
 ngapu
 ngapunten
+ngapurane
 ngapuro
 ngapusi
 ngarai
@@ -3509,6 +3517,7 @@ ngeling
 ngelom
 ngelu
 ngelumpuk
+ngelus
 ngem
 ngembeh
 ngemi
@@ -3705,6 +3714,7 @@ nguru
 ngurus
 ngurusi
 ngurut
+ngusap
 ngusir
 ngusung
 ngutang
@@ -3790,6 +3800,7 @@ nos
 nosi
 note
 nresnani
+nta
 nu
 nua
 nuduh
@@ -3971,6 +3982,7 @@ opak
 opal
 opel
 open
+opes
 opet
 opik
 opo
@@ -4168,7 +4180,6 @@ pidana
 pidhak
 pie
 pijat
-pijet
 pijit
 pik
 pikir
@@ -4250,6 +4261,7 @@ poleh
 poli
 polisi
 polo
+polon
 polri
 pomi
 pon
@@ -4337,7 +4349,6 @@ ram
 rama
 ramah
 ramai
-ramalan
 raman
 rambak
 ramban
@@ -4657,10 +4668,10 @@ santen
 santun
 sapa
 sapi
-sapo
 sapu
 saran
 sarang
+sarapan
 sare
 sareh
 sareng
@@ -5004,6 +5015,7 @@ tera
 terang
 teras
 terong
+tet
 tetan
 tete
 tetek
@@ -5473,7 +5485,6 @@ wahana
 wahyu
 wai
 waja
-wajah
 wajan
 wajik
 wakil
@@ -5481,6 +5492,7 @@ waktu
 walah
 walang
 wali
+wan
 wana
 wangen
 wangsul
@@ -5510,6 +5522,7 @@ wedhus
 wedi
 wedo
 wedok
+wedus
 wee
 wektu
 wen
