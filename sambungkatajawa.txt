@@ -1938,6 +1938,7 @@ gila
 gilaa
 gilang
 gilani
+gili
 giling
 gilir
 gilo
@@ -4485,6 +4486,7 @@ ngetot
 ngewang
 ngewangi
 ngewe
+ngeyel
 ngg
 ngga
 nggaa
@@ -4617,6 +4619,7 @@ ngopi
 ngopo
 ngopoe
 ngopok
+ngopol
 ngor
 ngora
 ngorek
