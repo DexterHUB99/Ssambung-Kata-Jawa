@@ -3216,6 +3216,7 @@ logat
 logi
 loh
 lohan
+loho
 lok
 lokan
 loken
@@ -3498,6 +3499,7 @@ misah
 misan
 misu
 misuh
+miten
 mlumah
 mmanuk
 mo
@@ -5463,6 +5465,7 @@ sunar
 sunat
 sunda
 sundel
+sung
 sungai
 sungkan
 sungkem
