@@ -689,6 +689,7 @@ celengan
 cica
 cicak
 cici
+cil
 cila
 cilaka
 cilung
@@ -4863,6 +4864,7 @@ yap
 yapa
 yaping
 yapo
+yas
 yasa
 yasin
 yati
