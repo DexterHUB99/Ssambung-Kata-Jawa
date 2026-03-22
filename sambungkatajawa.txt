@@ -5,6 +5,7 @@ aba
 abah
 abai
 abang
+abeh
 abi
 abil
 abimanyu
@@ -131,6 +132,7 @@ aki
 akia
 akih
 akik
+akil
 aking
 akir
 akiran
@@ -175,6 +177,7 @@ alisan
 alit
 alo
 alok
+alon
 alot
 alu
 alum
@@ -184,6 +187,7 @@ alus
 am
 ama
 amal
+amalan
 amam
 aman
 amar
@@ -194,6 +198,7 @@ amba
 ambar
 ambek
 amben
+amber
 ambi
 ambigu
 ambil
@@ -515,6 +520,7 @@ bagong
 bah
 bai
 bajigur
+bala
 balap
 bali
 balok
@@ -619,6 +625,7 @@ cacar
 cacing
 cagak
 cah
+cai
 caka
 cakap
 cakot
@@ -824,6 +831,7 @@ ekem
 ekep
 eker
 eket
+ekey
 eki
 ekif
 ekih
@@ -924,6 +932,7 @@ enek
 eneng
 enggal
 enggeh
+enggih
 engkang
 engko
 engkol
@@ -972,6 +981,7 @@ erap
 erat
 erata
 ere
+erek
 erem
 eren
 eri
@@ -982,6 +992,7 @@ ero
 eroc
 eroe
 eroh
+erok
 erong
 eror
 eru
@@ -1098,6 +1109,8 @@ gape
 gaplek
 gapleki
 gapuk
+gapura
+gar
 gara
 garai
 garap
@@ -1121,6 +1134,7 @@ gata
 gatau
 gatel
 gateli
+gatot
 gaul
 gawe
 gawean
@@ -1229,6 +1243,7 @@ gok
 gokil
 gol
 golek
+goleki
 goleko
 golet
 golo
@@ -1256,6 +1271,7 @@ gu
 gudang
 gudeg
 gugah
+guguk
 gugup
 gugur
 gul
@@ -1557,6 +1573,7 @@ iloe
 ilok
 ilon
 ilu
+iluk
 ilyas
 im
 ima
@@ -1603,6 +1620,7 @@ inie
 injak
 injih
 injing
+injuk
 insan
 insyaallah
 inti
@@ -1823,6 +1841,7 @@ kana
 kanan
 kanca
 kancil
+kancing
 kancut
 kandang
 kandel
@@ -1921,6 +1940,7 @@ kencur
 kendi
 kene
 keni
+kenon
 kentang
 kenthir
 kentu
@@ -1962,6 +1982,7 @@ kesah
 keset
 kesi
 kesusu
+keta
 ketan
 ketek
 ketik
@@ -1983,6 +2004,7 @@ kikil
 kil
 kila
 kilat
+kilek
 kili
 kima
 kimi
@@ -2088,6 +2110,7 @@ kue
 kui
 kuk
 kuka
+kuko
 kuku
 kukur
 kul
@@ -2492,6 +2515,7 @@ mini
 minta
 minum
 mio
+mira
 mirip
 mirsani
 mis
@@ -2583,10 +2607,12 @@ nai
 naik
 najis
 nak
+naka
 nakal
 nakali
 nakon
 nakoni
+nala
 nalar
 nali
 nalika
@@ -2692,6 +2718,7 @@ ngaca
 ngacak
 ngace
 ngaceng
+ngacir
 ngacung
 ngada
 ngadal
@@ -2736,6 +2763,7 @@ nganggur
 ngangkang
 ngangsu
 nganjuk
+nganjut
 ngantem
 ngantemi
 nganter
@@ -2884,6 +2912,7 @@ ngluku
 ngobah
 ngobat
 ngocok
+ngodok
 ngojek
 ngok
 ngoker
@@ -3225,6 +3254,7 @@ osek
 osel
 osem
 oseng
+osik
 osing
 osok
 osora
@@ -3303,6 +3333,7 @@ pedot
 pegat
 pegel
 pek
+peking
 pekok
 pel
 pelan
@@ -3325,6 +3356,7 @@ penyu
 pepek
 pepes
 perak
+perang
 pere
 peso
 pete
@@ -3350,6 +3382,7 @@ pilek
 pilu
 pilus
 pin
+pinar
 pinarak
 pincuk
 pindah
@@ -3412,6 +3445,7 @@ pora
 pore
 pori
 porna
+poro
 pos
 posi
 pot
@@ -3420,6 +3454,7 @@ poti
 potongan
 puan
 puasa
+puk
 puki
 pukul
 pula
@@ -3451,6 +3486,7 @@ rabun
 racun
 raden
 rae
+raga
 ragat
 ragelem
 ragi
@@ -3732,6 +3768,7 @@ sanak
 sandal
 sandang
 sandanga
+sandhang
 sanes
 santai
 santen
@@ -3831,6 +3868,7 @@ siti
 sitok
 siwa
 so
+soasu
 soca
 sogok
 sok
@@ -3922,6 +3960,7 @@ susuk
 susuku
 susul
 susumu
+susun
 susuwi
 sutil
 sutri
@@ -3969,6 +4008,7 @@ tansah
 tante
 tao
 tap
+tape
 tapi
 tapir
 tara
@@ -4220,6 +4260,7 @@ ulik
 ulo
 ulomo
 ulu
+uluk
 ulukan
 ulun
 ulung
@@ -4507,6 +4548,7 @@ yok
 yolo
 yom
 yoman
+yomi
 yonan
 yono
 yoopo
