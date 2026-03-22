@@ -1128,7 +1128,6 @@ dilok
 diluk
 dilut
 dim
-dimakan
 dimana
 dimas
 dimut
@@ -2897,6 +2896,7 @@ kencot
 kencur
 kendang
 kendi
+kendil
 kene
 kenek
 keni
@@ -3121,6 +3121,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kucing
 kucur
 kuda
@@ -3676,7 +3677,6 @@ medal
 medeni
 meg
 megah
-megatruh
 meh
 meja
 mekar
@@ -4211,6 +4211,7 @@ ngelmu
 ngelom
 ngelu
 ngelumpuk
+ngelunja
 ngem
 ngembeh
 ngemen
@@ -6654,6 +6655,7 @@ wisata
 wisuh
 wit
 witing
+wito
 wiwi
 wiwit
 wo
