@@ -1575,6 +1575,7 @@ epik
 epil
 epit
 epo
+epoh
 epok
 epol
 epon
@@ -3247,6 +3248,7 @@ kirek
 kiri
 kirik
 kirim
+kiring
 kiris
 kis
 kisa
@@ -4157,6 +4159,7 @@ nada
 nadah
 nadi
 nadira
+nadyan
 nae
 nafas
 nag
@@ -5880,6 +5883,7 @@ ruko
 ruku
 rukuh
 rukun
+rula
 rule
 rum
 rumah
