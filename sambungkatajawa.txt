@@ -109,7 +109,6 @@ ajal
 ajek
 ajeng
 aji
-ajig
 ajine
 ajir
 ajo
@@ -159,7 +158,6 @@ akur
 akut
 al
 ala
-alae
 alah
 alam
 alama
@@ -200,7 +198,6 @@ amarga
 amat
 amay
 amba
-ambal
 ambar
 ambek
 amben
@@ -599,7 +596,6 @@ bocah
 bodoh
 bojo
 bok
-bola
 bolo
 bom
 bongo
@@ -775,7 +771,6 @@ disawah
 diso
 dodi
 dodol
-dok
 dokar
 doko
 dol
@@ -797,7 +792,6 @@ dula
 dulang
 dulen
 dulo
-dulur
 dumeh
 dungo
 dungu
@@ -954,7 +948,6 @@ endi
 endio
 endog
 endol
-endra
 eneg
 eneh
 enek
@@ -1003,7 +996,6 @@ epo
 epok
 epol
 epon
-epos
 epuk
 er
 era
@@ -1131,10 +1123,8 @@ gandul
 gang
 gange
 ganggu
-gangsal
 ganja
 ganjar
-ganjer
 ganjil
 ganteng
 ganti
@@ -1210,7 +1200,6 @@ gemah
 gemati
 gembel
 gembira
-gemblong
 gemblung
 gembok
 gembol
@@ -1808,7 +1797,6 @@ jembut
 jempol
 jemur
 jeneng
-jenengan
 jer
 jero
 jidat
@@ -1957,7 +1945,6 @@ kayu
 ke
 kebab
 kebang
-kebo
 kedah
 kediri
 kedondong
@@ -2208,7 +2195,6 @@ kuping
 kur
 kura
 kurang
-kuri
 kurma
 kuro
 kurowo
@@ -2516,7 +2502,6 @@ manjing
 manten
 mantep
 mantepe
-mantuk
 manuk
 manukku
 mapan
@@ -2723,7 +2708,6 @@ nangis
 nangka
 nangkring
 nani
-nanti
 nanya
 naon
 nap
@@ -2923,7 +2907,6 @@ ngenta
 ngenteni
 ngentu
 ngentut
-ngepa
 ngepel
 ngepet
 ngepi
@@ -2992,7 +2975,6 @@ ngko
 nglonte
 nglor
 ngluku
-ngluruk
 ngobah
 ngobat
 ngobrol
@@ -3272,7 +3254,6 @@ ombe
 ombi
 ombo
 omboh
-ombol
 ome
 omi
 ommo
@@ -3390,14 +3371,12 @@ pancen
 panci
 pandang
 pandawa
-pandu
 pang
 pangon
 pani
 panik
 panjang
 panjenengan
-panji
 panri
 pantat
 pante
@@ -3539,7 +3518,6 @@ poni
 ponorogo
 poo
 popa
-popol
 por
 pora
 pore
@@ -3840,7 +3818,6 @@ sadurung
 sae
 saestu
 saget
-sagu
 saha
 sahur
 sai
@@ -3871,7 +3848,6 @@ sampe
 sampean
 samper
 samperi
-sampeyan
 sampo
 sampun
 sana
@@ -3902,7 +3878,6 @@ sastra
 sate
 satu
 saur
-sawah
 sawahe
 sawai
 sawi
@@ -4113,7 +4088,6 @@ tam
 taman
 tambah
 tambal
-tambang
 tambir
 tampar
 tamu
@@ -4493,7 +4467,6 @@ urus
 urusa
 urusan
 urut
-urutan
 us
 usa
 usaa
@@ -4516,7 +4489,6 @@ usiro
 uso
 ustadz
 usu
-usuk
 usul
 usung
 usus
@@ -4578,14 +4550,12 @@ wajik
 waktu
 walah
 walang
-wali
 wangen
 wangsul
 wanita
 waras
 warek
 wareng
-warna
 warung
 waso
 watak
@@ -4636,10 +4606,8 @@ wonten
 wor
 woro
 wowo
-wulan
 xenon
 xilofon
-xray
 ya
 yadi
 yah
