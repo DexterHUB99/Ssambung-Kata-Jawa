@@ -3564,6 +3564,7 @@ mergo
 meri
 merpati
 mesake
+mesem
 mesin
 meteng
 mi
@@ -4403,6 +4404,7 @@ nu
 nua
 nuduh
 nue
+nuh
 nuhun
 nui
 nuju
