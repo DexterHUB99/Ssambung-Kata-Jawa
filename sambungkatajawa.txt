@@ -96,6 +96,7 @@ ahek
 ahem
 aher
 ahh
+ahhh
 ahi
 ahic
 ahid
@@ -766,6 +767,7 @@ bandeng
 bangsat
 bantal
 banyu
+bara
 bas
 basi
 basoka
