@@ -1789,6 +1789,7 @@ gambang
 gambar
 gambare
 gambas
+gambir
 gambleh
 gambuh
 gambut
@@ -3894,6 +3895,7 @@ maku
 makul
 mal
 malaikat
+malak
 malam
 malang
 male
@@ -5044,6 +5046,7 @@ nying
 nyolong
 nyong
 nyonya
+nyugih
 nyuwi
 nyuwun
 oalah
