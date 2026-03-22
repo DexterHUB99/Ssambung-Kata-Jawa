@@ -1275,6 +1275,7 @@ eto
 etol
 etos
 etu
+etul
 etum
 etur
 etus
@@ -2933,6 +2934,7 @@ lombo
 lombok
 lomo
 lompat
+lon
 loncat
 longgar
 longor
@@ -3866,6 +3868,7 @@ nopo
 nor
 nora
 norak
+nore
 nori
 nos
 nosi
