@@ -5619,6 +5619,7 @@ rabisa
 rabu
 rabun
 racun
+radar
 raden
 rae
 raga
@@ -6089,6 +6090,7 @@ sawo
 saya
 sayah
 sayang
+sayo
 sayur
 se
 seda
