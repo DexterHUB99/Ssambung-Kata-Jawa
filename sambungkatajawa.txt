@@ -652,6 +652,7 @@ bojo
 bok
 bola
 bolo
+boloho
 bolong
 bom
 bongo
@@ -890,6 +891,7 @@ dusun
 duwe
 duwek
 ealah
+eban
 eco
 ed
 edah
@@ -1323,6 +1325,7 @@ gemuk
 gen
 genah
 genangan
+gendakan
 gendar
 gendeng
 genderuwo
@@ -2953,6 +2956,7 @@ nali
 nalika
 naliko
 nama
+nambah
 nambal
 nami
 namo
@@ -3369,6 +3373,7 @@ ngumpul
 ngunci
 ngundang
 ngunduh
+ngung
 nguning
 ngunjuk
 nguntal
@@ -4563,6 +4568,7 @@ teko
 tekor
 tel
 tela
+telan
 telek
 telenan
 telinga
