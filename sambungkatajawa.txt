@@ -1511,6 +1511,7 @@ eti
 etik
 etika
 etil
+etira
 etis
 eto
 etok
@@ -2611,6 +2612,7 @@ jule
 juma
 jumpa
 jung
+jungkir
 jurang
 juri
 jurus
@@ -4663,6 +4665,7 @@ om
 oma
 omae
 omah
+omahe
 oman
 ombak
 ombar
@@ -5967,6 +5970,7 @@ tera
 terang
 teras
 terasi
+terima
 ternak
 terong
 terus
