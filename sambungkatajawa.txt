@@ -59,7 +59,6 @@ afi
 afif
 agama
 agar
-agawe
 age
 agem
 agi
@@ -124,6 +123,7 @@ aiko
 aiku
 ail
 aila
+ailan
 aili
 aima
 aimu
@@ -260,7 +260,6 @@ alus
 am
 ama
 amad
-amah
 amak
 amal
 amalan
@@ -317,7 +316,6 @@ ampel
 ampela
 amper
 ampir
-ampiran
 ampiri
 ampleng
 ampun
@@ -334,6 +332,7 @@ anah
 anak
 anakan
 anake
+anaking
 anal
 anam
 anan
@@ -742,6 +741,7 @@ bayi
 bebe
 bebek
 becak
+becek
 beci
 beda
 bedo
@@ -1152,7 +1152,6 @@ egoh
 eh
 eha
 ehak
-ehan
 ehaw
 ehawa
 ehe
@@ -1277,7 +1276,6 @@ empik
 emping
 emprit
 empuk
-empun
 emu
 emun
 emut
@@ -1452,7 +1450,6 @@ ewohe
 ewok
 ex
 eya
-eyah
 eyang
 eye
 eyem
@@ -1587,6 +1584,7 @@ gatak
 gatau
 gatel
 gateli
+gati
 gatot
 gaul
 gawa
@@ -3251,9 +3249,11 @@ longor
 longsor
 lonjak
 lonjong
+lono
 lontar
 lonte
 lontong
+loo
 lop
 lope
 lopi
@@ -3362,6 +3362,7 @@ maling
 malu
 mam
 mama
+mamah
 mamak
 mamakan
 mamake
@@ -3385,6 +3386,7 @@ mangke
 mangkel
 mangu
 mani
+maning
 manis
 manjing
 manjur
@@ -3588,6 +3590,7 @@ muntah
 munyuk
 mur
 murah
+murka
 murung
 mus
 musa
@@ -4084,7 +4087,6 @@ ngojol
 ngok
 ngoker
 ngoko
-ngokon
 ngokop
 ngolah
 ngolak
@@ -4489,6 +4491,7 @@ opor
 or
 ora
 orae
+orah
 orai
 oraiso
 orak
@@ -4582,6 +4585,7 @@ palung
 pam
 paman
 pan
+pana
 panah
 panas
 pancen
@@ -4823,7 +4827,6 @@ pula
 pulau
 puli
 pulo
-puluh
 puma
 pun
 puncak
@@ -4877,6 +4880,7 @@ rajin
 rajungan
 rajut
 rak
+raka
 rakit
 rako
 raku
@@ -4940,6 +4944,7 @@ rasis
 raso
 rasu
 rasuk
+rasul
 ratau
 rati
 ratna
@@ -5063,6 +5068,7 @@ rise
 risi
 risih
 riska
+riski
 risma
 rismo
 rita
@@ -5125,6 +5131,7 @@ ruang
 rubuh
 rugi
 ruh
+ruhi
 rui
 rujak
 rujuk
@@ -5486,6 +5493,7 @@ supa
 supaya
 supe
 supi
+supo
 sur
 sura
 surabaya
@@ -5986,7 +5994,6 @@ unduk
 undur
 unduri
 unek
-uner
 ung
 unga
 ungan
