@@ -807,6 +807,7 @@ cucu
 cuka
 cuma
 cumi
+curi
 curut
 da
 dada
@@ -4099,6 +4100,7 @@ pocong
 pocung
 podho
 poe
+poi
 pojok
 pok
 poke
