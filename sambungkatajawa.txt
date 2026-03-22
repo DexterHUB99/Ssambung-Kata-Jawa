@@ -2466,6 +2466,7 @@ ikoe
 ikon
 ikrar
 iku
+ikua
 ikui
 ikulo
 ikuo
@@ -6959,6 +6960,7 @@ user
 usha
 usi
 usia
+usih
 usii
 usik
 usil
