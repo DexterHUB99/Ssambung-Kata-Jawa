@@ -79,6 +79,7 @@ aha
 ahab
 ahad
 ahada
+ahag
 ahah
 ahaj
 ahak
@@ -3096,6 +3097,7 @@ kulak
 kulan
 kule
 kuli
+kulina
 kulit
 kulo
 kuloe
