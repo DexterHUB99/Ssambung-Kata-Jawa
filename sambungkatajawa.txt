@@ -668,6 +668,7 @@ bayi
 bebe
 bebek
 becak
+beda
 bedo
 bee
 bego
@@ -3248,6 +3249,7 @@ mumet
 mumi
 mun
 muna
+munafik
 mundak
 mundur
 mung
@@ -3391,6 +3393,7 @@ nedha
 nedho
 nedi
 negara
+negas
 negeri
 negor
 nek
