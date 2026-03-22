@@ -874,6 +874,7 @@ buban
 bubu
 bubur
 bubut
+budal
 bude
 budek
 budi
@@ -1123,6 +1124,7 @@ doko
 dol
 dolan
 dolanan
+doma
 domba
 dompet
 don
