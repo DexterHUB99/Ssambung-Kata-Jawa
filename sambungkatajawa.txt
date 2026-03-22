@@ -96,6 +96,7 @@ aika
 aiko
 ail
 aila
+aili
 aima
 aina
 aing
@@ -337,6 +338,7 @@ anis
 anisa
 aniy
 anjai
+anjaing
 anjani
 anjar
 anjas
@@ -1644,6 +1646,7 @@ icu
 id
 ida
 idae
+idam
 idaman
 ide
 idep
@@ -1984,6 +1987,7 @@ ka
 kabar
 kabeh
 kabel
+kabit
 kacuk
 kadal
 kados
