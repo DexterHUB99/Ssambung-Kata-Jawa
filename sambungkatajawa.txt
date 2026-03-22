@@ -5857,6 +5857,7 @@ tapuk
 tara
 tarang
 tari
+tarian
 tarik
 taro
 taru
@@ -6167,6 +6168,7 @@ ukir
 ukiran
 ukire
 ukko
+ukla
 ukli
 ukni
 uko
