@@ -775,6 +775,7 @@ deda
 dedak
 dedek
 deket
+dele
 delman
 demek
 demit
@@ -2747,6 +2748,7 @@ mon
 mona
 mondok
 monggo
+montor
 monyet
 moret
 moro
@@ -3066,6 +3068,7 @@ ngelu
 ngem
 ngembeh
 ngemi
+ngemil
 ngemper
 ngen
 ngendi
