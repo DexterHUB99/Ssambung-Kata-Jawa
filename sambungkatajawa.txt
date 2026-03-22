@@ -5051,6 +5051,7 @@ walang
 wali
 wangen
 wangsul
+wani
 wanita
 waras
 warek
@@ -5134,6 +5135,7 @@ yana
 yang
 yani
 yano
+yanta
 yap
 yapa
 yaping
