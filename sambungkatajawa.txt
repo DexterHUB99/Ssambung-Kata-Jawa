@@ -2172,6 +2172,7 @@ ihka
 ihki
 ihku
 ihla
+ihlo
 ihna
 iho
 ihre
@@ -4287,6 +4288,7 @@ ngosek
 ngoseng
 ngosok
 ngotak
+ngotot
 ngowah
 ngowoh
 ngoyak
@@ -5982,6 +5984,7 @@ trotoar
 tu
 tua
 tuak
+tugel
 tuh
 tuhan
 tuk
@@ -6215,6 +6218,7 @@ una
 unak
 unama
 unang
+uncal
 undak
 undang
 undangan
