@@ -1342,6 +1342,7 @@ hare
 harga
 hari
 harimau
+harimu
 harma
 harta
 haru
@@ -2709,6 +2710,7 @@ ngangsu
 nganjuk
 ngantem
 ngantemi
+nganter
 nganti
 ngantuk
 nganu
@@ -3750,6 +3752,7 @@ sesok
 sholat
 si
 sia
+siah
 sial
 siap
 siapa
