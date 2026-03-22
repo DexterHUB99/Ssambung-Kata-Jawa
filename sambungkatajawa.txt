@@ -1934,6 +1934,7 @@ ike
 iket
 ikhlas
 iki
+ikii
 ikil
 ikilo
 ikio
@@ -3695,6 +3696,7 @@ nginjen
 nginthil
 ngintil
 ngintip
+nginum
 ngipa
 ngira
 ngirai
