@@ -281,6 +281,7 @@ angin
 angka
 angklung
 angkruk
+anglo
 angon
 angrek
 angsa
@@ -1816,6 +1817,7 @@ kantor
 kaos
 kapak
 kapal
+kapan
 kara
 karang
 karat
@@ -3224,6 +3226,7 @@ paling
 palu
 pam
 panas
+pancen
 panci
 pandang
 pandawa
@@ -4257,6 +4260,7 @@ urang
 urap
 urapan
 urat
+urek
 uri
 urik
 uring
