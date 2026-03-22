@@ -2009,6 +2009,7 @@ kelabang
 kelam
 kelap
 kelas
+kelawan
 kelebu
 kelek
 kelimis
@@ -2369,6 +2370,7 @@ lewih
 leyeh
 lho
 lia
+lian
 liane
 liar
 libur
