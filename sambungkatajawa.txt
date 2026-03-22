@@ -2909,6 +2909,7 @@ kutu
 kutuk
 kuwat
 kuwe
+kuwi
 kuya
 kuyuk
 la
@@ -4308,6 +4309,7 @@ oman
 ombak
 ombar
 ombe
+omben
 ombi
 ombo
 omboh
@@ -4674,6 +4676,7 @@ posi
 pot
 pota
 poti
+potong
 potongan
 pripun
 puan
