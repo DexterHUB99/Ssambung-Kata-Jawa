@@ -1137,6 +1137,7 @@ gam
 gaman
 gambang
 gambar
+gambare
 gambas
 gambuh
 gambyong
