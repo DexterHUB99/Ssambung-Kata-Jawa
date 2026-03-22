@@ -1865,6 +1865,7 @@ ilah
 ilahi
 ilak
 ilaki
+ilala
 ilam
 ilan
 ilang
@@ -4019,6 +4020,7 @@ pasang
 pasar
 pasir
 pasukan
+paten
 patuh
 patung
 payah
