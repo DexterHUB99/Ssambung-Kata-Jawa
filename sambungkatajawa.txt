@@ -647,6 +647,7 @@ bila
 bin
 bindeng
 bingo
+bingung
 bini
 bintang
 bintul
@@ -1408,6 +1409,7 @@ giga
 gigi
 gigih
 gigil
+gigu
 gih
 gila
 gilang
@@ -1500,6 +1502,7 @@ gunae
 gundah
 gundik
 gundul
+gunem
 gung
 guni
 gunting
@@ -3294,6 +3297,7 @@ ngawit
 ngawor
 ngawur
 ngayuh
+ngcok
 nge
 ngebas
 ngece
