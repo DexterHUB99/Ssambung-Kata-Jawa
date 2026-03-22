@@ -3431,6 +3431,7 @@ panji
 panri
 pantat
 pante
+pantes
 panti
 papa
 papah
@@ -3685,6 +3686,7 @@ rasis
 raso
 rasu
 rasuk
+ratau
 rati
 ratu
 raup
