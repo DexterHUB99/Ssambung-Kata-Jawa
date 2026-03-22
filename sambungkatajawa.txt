@@ -2563,6 +2563,7 @@ jil
 jilat
 jilati
 jilid
+jima
 jimat
 jimbar
 jin
@@ -3653,6 +3654,7 @@ mer
 mera
 merah
 merem
+meren
 mergo
 meri
 merpati
@@ -5576,6 +5578,7 @@ selas
 selasa
 selawe
 selet
+selingkuh
 sem
 sembah
 semen
