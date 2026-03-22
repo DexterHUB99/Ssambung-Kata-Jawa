@@ -608,6 +608,7 @@ bismillah
 biso
 bisu
 biyen
+biyung
 bobi
 bocah
 bodoh
@@ -2699,6 +2700,7 @@ mulia
 mulih
 mumbul
 mumet
+mun
 muna
 mundak
 mundur
@@ -2861,6 +2863,7 @@ ngadek
 ngadem
 ngadep
 ngado
+ngadoh
 ngadon
 ngadu
 ngaduk
