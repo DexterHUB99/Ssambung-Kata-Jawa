@@ -1889,6 +1889,7 @@ gayung
 ge
 geblek
 gebok
+gebres
 gedang
 gedangan
 gede
@@ -2753,6 +2754,7 @@ ja
 jadi
 jadul
 jae
+jago
 jagong
 jagung
 jahat
@@ -7314,6 +7316,7 @@ yuki
 yuli
 yumi
 yumo
+yun
 yune
 yura
 yuran
