@@ -573,6 +573,7 @@ ay
 aya
 ayah
 ayam
+ayaman
 ayan
 ayang
 ayat
@@ -2385,6 +2386,7 @@ kleru
 ko
 kobong
 kocak
+koclok
 kocok
 kodok
 koe
@@ -3960,6 +3962,7 @@ peti
 pewe
 pi
 pia
+piala
 pian
 picara
 picek
@@ -4486,6 +4489,7 @@ seri
 seru
 sesek
 sesok
+sesuk
 setan
 setunggal
 sholat
