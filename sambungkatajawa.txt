@@ -1586,6 +1586,7 @@ hera
 heran
 here
 heri
+hero
 hes
 hewa
 heyo
@@ -3320,6 +3321,7 @@ ngomong
 ngompol
 ngonde
 ngondur
+ngong
 ngono
 ngonten
 ngontol
