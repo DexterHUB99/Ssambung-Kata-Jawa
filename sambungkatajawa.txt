@@ -682,6 +682,7 @@ asoi
 asok
 asoy
 aspal
+asrama
 asrep
 asri
 asta
@@ -1457,6 +1458,7 @@ eluh
 elus
 em
 ema
+emah
 emak
 emam
 eman
@@ -3865,6 +3867,7 @@ makam
 makan
 makarya
 maki
+makmur
 maksa
 maku
 makul
@@ -4611,6 +4614,7 @@ ngesing
 ngesot
 ngesu
 ngetan
+ngete
 ngetik
 ngetok
 ngetot
