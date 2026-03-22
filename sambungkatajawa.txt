@@ -1457,6 +1457,7 @@ hadeh
 hadiah
 hadir
 hae
+hafal
 hah
 haha
 hahaha
@@ -4060,6 +4061,7 @@ riyo
 ro
 roban
 robek
+robi
 roboh
 roda
 rodo
