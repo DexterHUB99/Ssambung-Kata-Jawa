@@ -3545,6 +3545,7 @@ mera
 merah
 merem
 mergo
+meri
 merpati
 mesake
 mesin
@@ -4077,6 +4078,7 @@ ngerti
 ngertos
 ngesah
 ngesel
+ngeseng
 ngesot
 ngetan
 ngetik
