@@ -356,6 +356,7 @@ anin
 aning
 anis
 anisa
+anit
 aniy
 anjai
 anjaing
@@ -1454,6 +1455,7 @@ giring
 gisa
 gitar
 gladhi
+glodog
 go
 gobak
 goblok
