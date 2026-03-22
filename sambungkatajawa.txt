@@ -544,6 +544,7 @@ aura
 aus
 ausi
 autan
+avik
 awa
 awah
 awak
@@ -2234,6 +2235,7 @@ kemang
 kembang
 kemeng
 kemi
+kempel
 kempes
 kempol
 kemproh
@@ -3884,6 +3886,7 @@ peniti
 pensil
 pentil
 penyu
+pepaya
 pepe
 pepek
 pepes
@@ -4359,6 +4362,7 @@ sandang
 sandanga
 sandhang
 sanes
+sanggar
 santai
 santen
 santun
@@ -5087,6 +5091,7 @@ utama
 utan
 utang
 utangan
+utar
 utara
 utas
 utawa
