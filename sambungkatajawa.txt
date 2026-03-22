@@ -2279,6 +2279,7 @@ kuka
 kuko
 kuku
 kukur
+kukus
 kul
 kula
 kulak
@@ -2690,6 +2691,7 @@ mengko
 meni
 meong
 mer
+mera
 merem
 mergo
 mesake
@@ -3846,6 +3848,7 @@ rasuk
 ratau
 rati
 ratu
+raung
 raup
 rausah
 raut
