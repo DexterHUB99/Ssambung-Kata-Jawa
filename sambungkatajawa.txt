@@ -5,7 +5,6 @@ aba
 abab
 abah
 abai
-abal
 abang
 abaya
 abdi
@@ -90,7 +89,6 @@ ahit
 ahlak
 ahli
 ahlii
-ahmak
 aho
 ahok
 ahon
@@ -211,7 +209,6 @@ ali
 alien
 alif
 alih
-alil
 alim
 aling
 alip
@@ -577,7 +574,6 @@ aul
 auman
 aura
 aus
-ausa
 ausi
 aut
 autan
@@ -624,6 +620,7 @@ babi
 babik
 babu
 bacok
+badak
 bae
 bagong
 bagus
@@ -838,6 +835,7 @@ curut
 da
 dada
 dadak
+dadaku
 dadang
 dadar
 dadi
@@ -901,7 +899,6 @@ deri
 dewe
 dewek
 di
-diama
 diana
 didik
 dido
@@ -1349,6 +1346,7 @@ gangan
 gange
 ganggu
 gangsal
+gangsing
 ganja
 ganjar
 ganjer
@@ -1378,7 +1376,6 @@ garem
 garen
 gareng
 gari
-garih
 garing
 garis
 garong
@@ -1674,7 +1671,6 @@ hancur
 hang
 hani
 hano
-hansip
 hantam
 hantu
 hanung
@@ -1885,6 +1881,7 @@ ikat
 ikatan
 ikati
 ike
+iker
 iket
 ikhlas
 iki
@@ -2263,6 +2260,7 @@ kamar
 kambil
 kambing
 kambuh
+kamel
 kami
 kamis
 kamos
@@ -2284,7 +2282,6 @@ kandang
 kandas
 kandel
 kandhang
-kandi
 kandungan
 kang
 kangen
@@ -2386,7 +2383,6 @@ kelebu
 kelek
 keli
 kelimis
-kelinci
 kelingan
 keliru
 kelon
@@ -3316,6 +3312,7 @@ natap
 nate
 nature
 nawar
+nawari
 ndak
 ndang
 ndangan
@@ -3427,6 +3424,7 @@ ngamal
 ngaman
 ngamar
 ngambar
+ngamben
 ngambi
 ngambil
 ngame
@@ -3714,6 +3712,7 @@ nguning
 ngunjuk
 nguntal
 ngunu
+ngunung
 ngupas
 ngupe
 ngupi
@@ -3934,6 +3933,7 @@ oleng
 oles
 oli
 olih
+olin
 olo
 oloe
 oloh
@@ -4086,7 +4086,6 @@ palir
 palsu
 palu
 pam
-paman
 panah
 panas
 pancen
@@ -4189,6 +4188,7 @@ picuk
 pidana
 pidhak
 pie
+pii
 pijat
 pijet
 pijit
@@ -4205,7 +4205,6 @@ pilang
 pilar
 pilat
 pilek
-pilih
 pilot
 pilu
 pilus
@@ -4516,6 +4515,7 @@ rio
 rip
 ripan
 riri
+riro
 ris
 risa
 risak
@@ -4602,7 +4602,6 @@ runi
 runtuh
 rup
 rupa
-rupane
 rupo
 rurumah
 rus
@@ -4733,9 +4732,9 @@ sempak
 sempurna
 seng
 sepi
-ser
 serat
 seri
+serok
 seru
 sesek
 sesok
@@ -4804,7 +4803,6 @@ sitok
 siwa
 so
 soasu
-sobat
 soca
 sogok
 sok
@@ -4944,7 +4942,6 @@ tai
 taik
 tajir
 tak
-taka
 take
 taki
 takjil
@@ -5199,13 +5196,11 @@ uduk
 udut
 uem
 uen
-ug
 uga
 ugah
 ugal
 uge
 ugo
-ugu
 uh
 uha
 uhe
@@ -5589,6 +5584,7 @@ woro
 wowo
 wula
 wulan
+wulu
 wuri
 xenon
 xilofon
