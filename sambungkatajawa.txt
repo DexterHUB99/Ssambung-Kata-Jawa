@@ -477,6 +477,7 @@ arem
 aren
 areng
 arep
+arepan
 arga
 ari
 arif
@@ -3680,6 +3681,7 @@ ngipa
 ngira
 ngirai
 ngiras
+ngiri
 ngirim
 ngiring
 ngiris
@@ -4833,6 +4835,7 @@ ser
 serat
 seri
 seru
+ses
 sesek
 sesok
 sesuk
