@@ -525,6 +525,7 @@ atum
 atur
 atus
 auh
+auha
 aul
 auman
 aura
@@ -1169,6 +1170,7 @@ gabut
 gada
 gadah
 gading
+gaduh
 gadung
 gadungan
 gae
@@ -1457,6 +1459,7 @@ gunung
 guoblok
 gupak
 gur
+gura
 gurami
 guri
 gurih
