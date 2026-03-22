@@ -2168,6 +2168,7 @@ ihan
 ihe
 ihi
 ihka
+ihki
 ihku
 ihla
 ihna
@@ -2802,6 +2803,7 @@ kemben
 kemem
 kemeng
 kemi
+kemoh
 kempel
 kempes
 kempol
@@ -5159,6 +5161,7 @@ reang
 rebo
 rebung
 rebus
+rebutan
 ree
 rega
 reget
