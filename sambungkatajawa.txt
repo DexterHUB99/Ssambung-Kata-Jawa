@@ -1533,6 +1533,7 @@ hotel
 howo
 hp
 hu
+hubung
 huda
 hujan
 hukum
@@ -3206,6 +3207,7 @@ nui
 nuju
 nuku
 nul
+nula
 nuli
 nulis
 nulo
@@ -3399,6 +3401,7 @@ osem
 oseng
 osik
 osing
+osoh
 osok
 osora
 ot
