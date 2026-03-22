@@ -262,6 +262,7 @@ ancen
 anci
 anco
 ancok
+ancur
 anda
 andai
 andal
