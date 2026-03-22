@@ -5698,6 +5698,7 @@ sung
 sungai
 sungkan
 sungkem
+sunta
 sunyi
 sup
 supa
@@ -6394,6 +6395,7 @@ uyawa
 uyo
 uyuh
 wa
+waa
 wadah
 wade
 wadol
