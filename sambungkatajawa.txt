@@ -1335,6 +1335,7 @@ gosong
 got
 gotong
 gowo
+goyah
 goyang
 griya
 grobak
@@ -2282,6 +2283,7 @@ lahe
 laju
 lakon
 laku
+lalar
 lalat
 laler
 lali
@@ -3556,6 +3558,7 @@ pinar
 pinarak
 pincuk
 pindah
+pindak
 pindang
 pindo
 ping
