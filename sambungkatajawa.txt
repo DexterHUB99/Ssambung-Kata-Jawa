@@ -4176,6 +4176,7 @@ nakal
 nakali
 nakan
 naker
+nakir
 nako
 nakon
 nakoni
@@ -7247,6 +7248,7 @@ yoto
 yowes
 yoya
 yoyo
+yu
 yua
 yuda
 yudhistira
