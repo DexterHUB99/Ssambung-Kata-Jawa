@@ -4012,6 +4012,7 @@ ngidam
 ngidep
 ngidu
 ngidul
+ngigit
 ngih
 ngiji
 ngijin
