@@ -1601,6 +1601,7 @@ hala
 halah
 halal
 halan
+halang
 halangan
 hale
 hali
@@ -4687,6 +4688,7 @@ subur
 sudah
 sudi
 sue
+sugeh
 sugeng
 sugih
 sui
