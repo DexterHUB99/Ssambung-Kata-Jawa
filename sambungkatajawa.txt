@@ -4803,6 +4803,7 @@ surat
 surau
 suri
 suro
+suroboyo
 suruh
 surup
 surya
@@ -5225,6 +5226,7 @@ ung
 unga
 ungan
 unggah
+unggar
 unggaran
 unggas
 ungger
