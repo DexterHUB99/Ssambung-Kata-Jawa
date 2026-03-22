@@ -3907,6 +3907,7 @@ pindo
 ping
 pinggir
 pinten
+pinter
 pintu
 pinuk
 pipi
@@ -4620,6 +4621,7 @@ tara
 tarang
 tari
 taro
+taru
 tas
 tase
 tasi
