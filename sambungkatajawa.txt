@@ -160,6 +160,7 @@ ajal
 ajar
 aje
 ajek
+ajem
 ajeng
 aji
 ajig
@@ -1737,6 +1738,7 @@ gek
 gel
 gela
 gelang
+gelap
 gelas
 gelem
 geler
