@@ -724,6 +724,7 @@ budek
 budi
 bujo
 buk
+buka
 bukan
 buko
 buku
@@ -3177,6 +3178,7 @@ nama
 naman
 nambah
 nambal
+name
 nami
 namo
 nampa
@@ -4814,6 +4816,7 @@ suwun
 syukuran
 ta
 taat
+taati
 tabuh
 tae
 taek
