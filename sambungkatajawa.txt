@@ -736,6 +736,7 @@ darma
 das
 dasar
 dasi
+dasu
 daun
 dawa
 dawuh
@@ -3994,6 +3995,7 @@ siram
 siraman
 sirik
 siro
+sirup
 sis
 sisa
 sisi
