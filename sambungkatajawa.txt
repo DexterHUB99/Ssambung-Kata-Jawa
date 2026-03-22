@@ -864,7 +864,6 @@ daun
 dawa
 dawuh
 dawuhe
-daya
 deda
 dedak
 dede
@@ -1095,7 +1094,6 @@ empek
 emper
 empik
 emping
-emprit
 empuk
 emu
 emun
@@ -1251,7 +1249,6 @@ ewohe
 ex
 eyang
 eye
-eyem
 ez
 fajar
 fantasi
@@ -1500,12 +1497,10 @@ go
 gobak
 goblok
 gobloki
-gocek
 gocekan
 godek
 godhok
 godhong
-godi
 godog
 godok
 godong
@@ -1864,7 +1859,6 @@ iklas
 iklim
 iko
 ikoe
-ikon
 iku
 ikui
 ikulo
@@ -2499,7 +2493,6 @@ kom
 koma
 komari
 komi
-komik
 komodo
 kompak
 kompas
@@ -2774,7 +2767,6 @@ limbah
 limo
 limolas
 limpa
-limu
 lina
 linang
 linggis
@@ -2939,7 +2931,6 @@ makam
 makan
 maksa
 makul
-mal
 malaikat
 malam
 malang
@@ -2985,7 +2976,6 @@ mara
 marah
 marai
 maras
-marem
 mari
 mariem
 markisa
@@ -3037,7 +3027,6 @@ mera
 merah
 merem
 mergo
-merpati
 mesake
 mesin
 meteng
@@ -3156,8 +3145,6 @@ musim
 musuh
 mutah
 mutan
-mute
-muter
 muti
 na
 nabi
@@ -3590,7 +3577,6 @@ ngong
 ngono
 ngonten
 ngontol
-ngontrol
 ngop
 ngopeni
 ngoper
@@ -4373,6 +4359,7 @@ remeng
 remes
 remi
 remok
+rempah
 rempeyek
 rempon
 remu
@@ -4446,7 +4433,6 @@ riska
 risma
 rita
 riwa
-riwayat
 riya
 riyo
 ro
@@ -4511,7 +4497,6 @@ rumit
 rumongso
 rumput
 rumu
-rumus
 run
 rung
 rungkad
@@ -4809,12 +4794,10 @@ supi
 sura
 surabaya
 surai
-surakarta
 surat
 surau
 suri
 suro
-suroboyo
 suruh
 surup
 surya
@@ -5080,7 +5063,6 @@ uba
 uban
 ubang
 ube
-ubek
 ubel
 ubi
 ubii
@@ -5238,7 +5220,6 @@ ung
 unga
 ungan
 unggah
-unggar
 unggaran
 unggas
 ungger
@@ -5535,7 +5516,6 @@ yogya
 yoh
 yohan
 yoi
-yoiku
 yok
 yolo
 yom
