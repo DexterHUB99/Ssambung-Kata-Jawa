@@ -1816,6 +1816,7 @@ hoho
 hoi
 hoka
 hoki
+hoko
 hola
 holo
 homa
@@ -3195,6 +3196,7 @@ mmanuk
 mo
 mobil
 moco
+modal
 modar
 modaro
 modo
@@ -3806,6 +3808,7 @@ nguru
 ngurus
 ngurusi
 ngurut
+ngusik
 ngusir
 ngusung
 ngutang
@@ -3937,6 +3940,7 @@ nuturi
 nuwun
 nya
 nyai
+nyambi
 nyantai
 nyanyi
 nyata
