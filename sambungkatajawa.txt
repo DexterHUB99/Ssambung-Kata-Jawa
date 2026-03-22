@@ -809,6 +809,7 @@ busuk
 but
 butek
 buti
+buto
 buwa
 cabe
 cacar
@@ -1546,6 +1547,7 @@ gendong
 gendut
 geng
 geni
+genit
 genjik
 geno
 genteng
@@ -1568,6 +1570,7 @@ gese
 gesek
 geseng
 geser
+gesit
 get
 gete
 geter
@@ -2528,6 +2531,7 @@ kelor
 kelot
 keluarga
 kelum
+kem
 kemah
 kemang
 kemangi
@@ -5330,6 +5334,7 @@ temu
 ten
 tenan
 teng
+tentram
 tepa
 tepak
 ter
