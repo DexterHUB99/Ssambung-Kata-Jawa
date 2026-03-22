@@ -232,6 +232,7 @@ akol
 akon
 akone
 akor
+akos
 akot
 akrab
 akrak
@@ -993,6 +994,7 @@ bubur
 bubut
 budak
 budal
+budar
 bude
 budek
 budi
@@ -3134,6 +3136,7 @@ kedah
 keder
 kediri
 kedondong
+kedut
 kegowo
 kejam
 kek
@@ -5112,6 +5115,7 @@ obah
 obak
 obat
 obate
+obati
 obeng
 obit
 oblong
