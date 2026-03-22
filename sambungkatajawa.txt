@@ -6600,6 +6600,7 @@ ukire
 ukko
 ukla
 ukli
+ukna
 ukni
 uko
 ukon
