@@ -1226,6 +1226,7 @@ ere
 erek
 erem
 eren
+eres
 eret
 eri
 erik
@@ -2246,6 +2247,7 @@ juma
 jumpa
 jurang
 juri
+jurus
 jus
 ka
 kabar
@@ -4930,6 +4932,7 @@ sri
 su
 sua
 suami
+suar
 suara
 suasu
 subur
