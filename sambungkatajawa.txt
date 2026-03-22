@@ -1213,7 +1213,6 @@ embuh
 embun
 embung
 eme
-emem
 emer
 emi
 emik
@@ -5537,7 +5536,6 @@ tok
 tokek
 tolak
 tole
-toleh
 tolek
 toli
 tolih
@@ -5602,7 +5600,6 @@ tumpeh
 tumpeng
 tumplek
 tumpuk
-tun
 tuna
 tunas
 tunggal
