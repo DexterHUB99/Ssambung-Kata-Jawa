@@ -2804,6 +2804,7 @@ kelakuan
 kelam
 kelangan
 kelap
+kelar
 kelas
 kelat
 kelawan
