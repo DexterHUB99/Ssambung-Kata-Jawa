@@ -2992,6 +2992,7 @@ naker
 nako
 nakon
 nakoni
+nakuti
 nala
 nalar
 nali
@@ -4183,6 +4184,7 @@ risak
 rise
 risi
 risih
+riska
 risma
 rita
 riya
