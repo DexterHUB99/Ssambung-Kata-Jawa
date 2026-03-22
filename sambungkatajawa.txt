@@ -3378,6 +3378,7 @@ kuno
 kunta
 kunti
 kuntul
+kunung
 kunyuk
 kuo
 kupa
@@ -4349,6 +4350,7 @@ ngalas
 ngalem
 ngaler
 ngali
+ngalih
 ngalis
 ngalon
 ngalor
