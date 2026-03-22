@@ -758,6 +758,7 @@ coklat
 col
 coli
 colo
+colok
 combro
 congor
 coro
@@ -1243,6 +1244,7 @@ gampar
 gampil
 gana
 gancet
+ganda
 ganden
 gandeng
 gandheng
@@ -3230,6 +3232,7 @@ ngasta
 ngasu
 ngasuh
 ngatasi
+ngatel
 ngatur
 ngawa
 ngawasi
@@ -4321,6 +4324,7 @@ sami
 sampah
 sampai
 sampe
+sampea
 sampean
 samper
 samperi
