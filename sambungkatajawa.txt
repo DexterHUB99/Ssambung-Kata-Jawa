@@ -5,6 +5,7 @@ aba
 abah
 abai
 abang
+abdi
 abeh
 abi
 abil
@@ -477,6 +478,7 @@ atep
 ati
 atik
 atine
+atira
 atis
 atise
 atma
