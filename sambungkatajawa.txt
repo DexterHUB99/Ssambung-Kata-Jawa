@@ -1844,6 +1844,7 @@ gok
 gokil
 gol
 gola
+gole
 golek
 goleki
 goleko
@@ -2228,6 +2229,7 @@ ikat
 ikatan
 ikati
 ike
+iker
 iket
 ikhlas
 iki
@@ -2779,6 +2781,7 @@ katung
 katup
 kawah
 kawan
+kawat
 kawen
 kaweruh
 kawi
