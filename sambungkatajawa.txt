@@ -1779,6 +1779,7 @@ kamal
 kamar
 kambil
 kambing
+kambuh
 kami
 kamis
 kampak
@@ -2231,6 +2232,7 @@ lintas
 lio
 lipan
 lipat
+lipen
 lipi
 lira
 lirih
@@ -2595,6 +2597,7 @@ nata
 nate
 ndak
 ndang
+ndangan
 ndas
 ndelok
 nderek
@@ -2765,6 +2768,7 @@ ngepet
 ngepi
 ngepot
 ngerak
+ngere
 ngerem
 ngerepoti
 ngeresake
@@ -3467,6 +3471,7 @@ rebung
 rebus
 ree
 reget
+reja
 rejo
 rek
 reka
