@@ -732,6 +732,7 @@ cawet
 cawik
 cawis
 cecak
+cecek
 cega
 celek
 celeng
@@ -1067,6 +1068,7 @@ eneh
 enek
 eneng
 enep
+engah
 enggal
 enggeh
 enggih
@@ -2391,6 +2393,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopeng
 kopet
 kopi
 koplak
@@ -3126,6 +3129,7 @@ nen
 nene
 nenek
 nenen
+neneng
 neng
 nengdi
 nentang
@@ -3342,6 +3346,7 @@ ngiji
 ngijin
 ngijir
 ngik
+ngiki
 ngikut
 ngil
 ngilang
