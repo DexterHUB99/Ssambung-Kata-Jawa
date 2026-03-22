@@ -433,6 +433,7 @@ anyer
 anying
 anyir
 anyong
+aos
 ap
 apa
 apae
@@ -5148,6 +5149,7 @@ tibak
 tibo
 tik
 tika
+tiki
 tikung
 tikus
 tila
@@ -5653,6 +5655,7 @@ wedhus
 wedi
 wedo
 wedok
+wedus
 wee
 wek
 wektu
