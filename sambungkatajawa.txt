@@ -1580,6 +1580,7 @@ ereng
 eres
 eret
 eri
+erii
 erik
 erin
 ering
@@ -1939,6 +1940,7 @@ get
 geta
 gete
 geter
+gethuk
 getih
 geto
 getok
@@ -4886,6 +4888,7 @@ nuo
 nur
 nuri
 nuru
+nurun
 nurut
 nusa
 nut
