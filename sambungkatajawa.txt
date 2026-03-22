@@ -3539,6 +3539,7 @@ langgeng
 langit
 langka
 langkah
+langkung
 langsam
 langsing
 langu
@@ -4322,6 +4323,7 @@ neka
 nekat
 neki
 neko
+nel
 nela
 nelen
 neles
