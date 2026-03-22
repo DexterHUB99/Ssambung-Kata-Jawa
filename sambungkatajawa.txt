@@ -1135,9 +1135,11 @@ ef
 efek
 efu
 eg
+egah
 egang
 ege
 ego
+egoh
 eh
 eha
 ehak
@@ -1593,6 +1595,7 @@ geblek
 gedang
 gedangan
 gede
+gedeg
 geden
 gedhang
 gedhe
