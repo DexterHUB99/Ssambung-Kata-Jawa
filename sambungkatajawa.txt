@@ -4248,6 +4248,7 @@ ngunci
 ngundang
 ngunduh
 ngung
+ngunggah
 nguning
 ngunjuk
 nguntal
