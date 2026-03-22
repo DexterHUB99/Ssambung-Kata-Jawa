@@ -2283,6 +2283,7 @@ liane
 liar
 libur
 lidah
+liha
 lihat
 lika
 liku
@@ -2386,9 +2387,11 @@ luhur
 luk
 lulu
 luluh
+lum
 luma
 lumah
 lumajang
+lumaku
 luman
 lumayan
 lumer
@@ -3323,6 +3326,7 @@ panci
 pandang
 pandawa
 pang
+pangon
 pani
 panik
 panjang
