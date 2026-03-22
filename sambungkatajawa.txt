@@ -1712,6 +1712,7 @@ ilah
 ilahi
 ilak
 ilaki
+ilam
 ilan
 ilang
 ilangan
@@ -2074,6 +2075,7 @@ karimun
 karma
 karo
 karpet
+karun
 karung
 kasa
 kasar
