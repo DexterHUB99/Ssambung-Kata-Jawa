@@ -466,6 +466,7 @@ arit
 arka
 aro
 aroh
+arsa
 arsila
 arta
 arti
@@ -1448,6 +1449,7 @@ geto
 getok
 getuk
 getun
+gewe
 gi
 gidal
 gig
