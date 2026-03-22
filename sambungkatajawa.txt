@@ -3579,6 +3579,7 @@ lintas
 lintu
 lio
 lip
+lipa
 lipan
 lipas
 lipat
@@ -4443,6 +4444,7 @@ ngenta
 ngenteni
 ngentu
 ngentut
+ngenyot
 ngepa
 ngepang
 ngepel
