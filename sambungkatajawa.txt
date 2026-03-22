@@ -113,6 +113,7 @@ ajeng
 aji
 ajig
 ajine
+ajing
 ajir
 ajo
 ajor
@@ -183,6 +184,7 @@ ali
 alih
 alim
 alip
+aliran
 alis
 alisan
 alit
@@ -1077,6 +1079,7 @@ etis
 eto
 etol
 etos
+etur
 etus
 ewae
 ewak
@@ -3162,6 +3165,7 @@ nining
 nipis
 nipon
 nipu
+nipun
 nira
 niro
 nis
