@@ -1108,6 +1108,7 @@ dolan
 dolanan
 domba
 dompet
+don
 dongkrak
 dongo
 doni
@@ -5526,6 +5527,7 @@ sita
 siti
 sitok
 siwa
+siwak
 siwur
 so
 soasu
@@ -5783,6 +5785,7 @@ tem
 teman
 tembok
 tembung
+teme
 temen
 temenan
 temi
