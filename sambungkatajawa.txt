@@ -129,6 +129,7 @@ ahu
 ahuk
 ahun
 ahur
+ahus
 ahut
 ahuy
 ai
@@ -141,6 +142,7 @@ aiku
 ail
 aila
 ailan
+aile
 aili
 aima
 aimu
@@ -295,6 +297,7 @@ amam
 aman
 amanah
 amar
+amara
 amarga
 amargi
 amas
@@ -380,6 +383,7 @@ anar
 anas
 anasi
 anat
+ancang
 ancas
 ancen
 anci
@@ -933,6 +937,7 @@ buna
 buncis
 bunder
 bunga
+bungah
 buntil
 bunuh
 buri
@@ -1760,6 +1765,7 @@ gel
 gela
 gelang
 gelap
+gelar
 gelas
 gelem
 geler
@@ -2059,6 +2065,7 @@ haram
 harap
 harapan
 hare
+harep
 harga
 hari
 harian
@@ -2311,6 +2318,7 @@ ilae
 ilag
 ilah
 ilahi
+ilai
 ilak
 ilaki
 ilala
@@ -3498,6 +3506,7 @@ lombok
 lomo
 lompat
 lon
+lona
 loncat
 longgar
 longgo
@@ -3669,6 +3678,7 @@ marah
 marai
 marak
 maras
+marek
 marem
 mari
 mariem
@@ -3718,6 +3728,7 @@ meki
 melas
 melek
 melet
+melihat
 melok
 melu
 mem
@@ -4385,6 +4396,7 @@ ngluku
 ngluruk
 ngobah
 ngobat
+ngoblok
 ngobrol
 ngocok
 ngodok
@@ -6372,6 +6384,7 @@ ulen
 uler
 ulet
 uli
+ulia
 ulih
 ulik
 ulo
@@ -6544,6 +6557,7 @@ usik
 usil
 usir
 usiro
+uska
 uso
 usrek
 ustadz
@@ -6714,6 +6728,7 @@ wiro
 wis
 wisa
 wisata
+wisnu
 wisuh
 wit
 witing
@@ -6733,6 +6748,7 @@ wonogiri
 wonten
 wor
 woro
+woti
 wowo
 wula
 wulan
