@@ -2597,6 +2597,7 @@ kali
 kalian
 kalih
 kalimat
+kaliren
 kaliyan
 kalo
 kalok
@@ -3912,6 +3913,7 @@ ngadeg
 ngadek
 ngadem
 ngadep
+ngadi
 ngado
 ngadoh
 ngadon
