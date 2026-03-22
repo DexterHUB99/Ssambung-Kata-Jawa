@@ -2909,6 +2909,7 @@ kathok
 kati
 katok
 katon
+katresnan
 katrok
 katuk
 katung
@@ -2931,6 +2932,7 @@ kebang
 kebo
 kecap
 kedah
+keder
 kediri
 kedondong
 kegowo
@@ -4822,6 +4824,7 @@ okei
 okem
 oker
 okin
+okit
 okok
 okoka
 okol
@@ -5821,6 +5824,7 @@ semok
 sempak
 sempurna
 semut
+sendok
 seneng
 seng
 sepi
