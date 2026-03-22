@@ -1699,6 +1699,7 @@ indu
 induk
 indung
 inem
+inep
 infaq
 ing
 inggih
@@ -2274,6 +2275,7 @@ kuping
 kupu
 kur
 kura
+kuran
 kurang
 kuri
 kurma
@@ -4429,6 +4431,7 @@ udan
 udang
 udek
 udel
+udi
 udin
 udo
 udu
