@@ -1552,6 +1552,7 @@ iloe
 ilok
 ilon
 ilu
+iluk
 ilyas
 im
 ima
@@ -2478,6 +2479,7 @@ mini
 minta
 minum
 mio
+mira
 mirip
 mirsani
 mis
@@ -3404,6 +3406,7 @@ poti
 potongan
 puan
 puasa
+puk
 puki
 pukul
 pula
