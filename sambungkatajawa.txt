@@ -171,6 +171,7 @@ alih
 alim
 alip
 alis
+alisan
 alit
 alo
 alok
@@ -322,6 +323,7 @@ anteng
 antep
 anter
 anti
+antik
 anting
 anto
 anton
@@ -566,6 +568,7 @@ bisiki
 bismillah
 biso
 bisu
+biyen
 bobi
 bocah
 bodoh
@@ -1423,6 +1426,7 @@ hoka
 hoki
 hola
 holo
+homa
 homo
 hona
 hono
@@ -2357,6 +2361,7 @@ madu
 madukara
 madura
 mae
+maem
 magan
 mager
 mah
