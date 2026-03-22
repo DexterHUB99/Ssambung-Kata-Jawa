@@ -3614,6 +3614,7 @@ nggih
 nggo
 nggolek
 nggoni
+nggowo
 ngguwak
 ngguyu
 ngicil
@@ -3903,6 +3904,7 @@ nyebur
 nyenul
 nyepi
 nyerat
+nying
 nyong
 nyonya
 nyuwi
@@ -4766,6 +4768,7 @@ sedaya
 sedeng
 segar
 sego
+seh
 sehat
 sei
 seje
