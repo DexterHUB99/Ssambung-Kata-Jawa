@@ -1277,6 +1277,7 @@ dosa
 doso
 dow
 doyan
+du
 duda
 dudo
 dudu
@@ -4115,6 +4116,7 @@ mulek
 muli
 mulia
 mulih
+mulung
 mumbul
 mumet
 mumi
