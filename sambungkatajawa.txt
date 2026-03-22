@@ -585,6 +585,7 @@ aram
 aran
 arane
 arang
+aranga
 arar
 aras
 are
@@ -2670,6 +2671,7 @@ ja
 jadi
 jadul
 jae
+jagong
 jagung
 jahat
 jai
