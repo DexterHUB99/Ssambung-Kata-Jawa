@@ -1629,6 +1629,7 @@ etum
 etur
 etus
 evan
+evi
 ew
 ewa
 ewae
@@ -4071,6 +4072,7 @@ nak
 naka
 nakal
 nakali
+nakan
 naker
 nako
 nakon
@@ -4136,6 +4138,7 @@ nap
 napa
 napak
 napas
+nape
 napi
 napo
 nar
@@ -4868,6 +4871,7 @@ obak
 obat
 obeng
 obit
+oblong
 obong
 obor
 obos
