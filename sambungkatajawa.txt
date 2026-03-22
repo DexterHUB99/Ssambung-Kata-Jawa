@@ -127,6 +127,7 @@ aiko
 aiku
 ail
 aila
+ailan
 aili
 aima
 aimu
@@ -146,6 +147,7 @@ ajae
 ajag
 ajak
 ajal
+ajar
 ajek
 ajeng
 aji
@@ -337,6 +339,7 @@ anah
 anak
 anakan
 anake
+anaking
 anal
 anam
 anan
@@ -675,6 +678,7 @@ awi
 awis
 awit
 awo
+awoh
 awu
 awur
 ax
@@ -745,6 +749,7 @@ bayi
 bebe
 bebek
 becak
+becek
 beci
 beda
 bedo
@@ -1222,6 +1227,7 @@ elas
 ele
 eleh
 elek
+elel
 elem
 elemen
 eleng
@@ -1594,6 +1600,7 @@ gatak
 gatau
 gatel
 gateli
+gati
 gatot
 gaul
 gawa
@@ -1810,6 +1817,7 @@ guling
 gulu
 gulung
 gumam
+gumuh
 gumuk
 gumun
 gun
@@ -2033,6 +2041,7 @@ hubla
 hubung
 huda
 hujan
+huka
 hukum
 hula
 hulu
@@ -2230,6 +2239,7 @@ ingkung
 ingsun
 ini
 inie
+inja
 injak
 injek
 inji
@@ -3073,6 +3083,7 @@ lantun
 lantur
 laos
 lap
+lapa
 lapang
 lapi
 lapis
@@ -3086,6 +3097,7 @@ lari
 laron
 las
 lasa
+lasi
 lata
 latah
 latar
@@ -3179,6 +3191,7 @@ limolas
 limpa
 limu
 limun
+lin
 lina
 linang
 lincah
@@ -3264,9 +3277,11 @@ longor
 longsor
 lonjak
 lonjong
+lono
 lontar
 lonte
 lontong
+loo
 lop
 lope
 lopi
@@ -3375,6 +3390,7 @@ maling
 malu
 mam
 mama
+mamah
 mamak
 mamakan
 mamake
@@ -3399,6 +3415,7 @@ mangke
 mangkel
 mangu
 mani
+maning
 manis
 manjing
 manjur
@@ -3602,6 +3619,7 @@ muntah
 munyuk
 mur
 murah
+murka
 murung
 mus
 musa
@@ -4006,6 +4024,7 @@ ngesot
 ngetan
 ngetik
 ngetok
+ngetot
 ngewang
 ngewe
 ngg
@@ -4013,6 +4032,7 @@ ngga
 nggae
 nggak
 nggambar
+nggambuh
 nggatel
 nggateli
 nggawae
@@ -4505,6 +4525,7 @@ opor
 or
 ora
 orae
+orah
 orai
 oraiso
 orak
@@ -4599,6 +4620,7 @@ palung
 pam
 paman
 pan
+pana
 panah
 panas
 pancen
@@ -4714,6 +4736,7 @@ picara
 picek
 picuk
 pidana
+pidang
 pidhak
 pie
 pii
@@ -4803,6 +4826,7 @@ polan
 poleh
 poli
 polisi
+poll
 polo
 polri
 pomi
@@ -4896,6 +4920,7 @@ rajin
 rajungan
 rajut
 rak
+raka
 rakit
 rako
 raku
@@ -4959,6 +4984,7 @@ rasis
 raso
 rasu
 rasuk
+rasul
 ratau
 rati
 ratna
@@ -5082,6 +5108,7 @@ rise
 risi
 risih
 riska
+riski
 risma
 rismo
 rita
@@ -5144,6 +5171,7 @@ ruang
 rubuh
 rugi
 ruh
+ruhi
 rui
 rujak
 rujuk
@@ -5320,6 +5348,7 @@ semok
 sempak
 sempurna
 semut
+seneng
 seng
 sepi
 ser
@@ -5506,6 +5535,7 @@ supa
 supaya
 supe
 supi
+supo
 sur
 sura
 surabaya
@@ -5606,6 +5636,7 @@ tap
 tape
 tapi
 tapir
+tapuk
 tara
 tarang
 tari
@@ -6025,6 +6056,7 @@ uni
 unila
 unine
 uninga
+unja
 unjang
 unjuk
 uno
