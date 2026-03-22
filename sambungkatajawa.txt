@@ -3949,6 +3949,7 @@ manasi
 mancing
 mancung
 mandi
+mandio
 mane
 maneh
 mang
@@ -7098,6 +7099,7 @@ usrek
 ustadz
 usu
 usue
+usui
 usuk
 usul
 usulan
