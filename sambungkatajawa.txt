@@ -1982,6 +1982,7 @@ giling
 gilir
 gilo
 gim
+giman
 gimbal
 gimi
 gina
@@ -5507,6 +5508,7 @@ pundi
 punika
 punten
 punya
+pup
 pupu
 pupuk
 pura
