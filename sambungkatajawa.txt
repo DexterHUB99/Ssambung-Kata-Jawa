@@ -6,7 +6,6 @@ abah
 abai
 abang
 abeh
-aben
 abi
 abil
 abimanyu
@@ -15,7 +14,6 @@ ablek
 aboh
 abrit
 abu
-abun
 aca
 acu
 ad
@@ -839,6 +837,7 @@ ek
 eka
 ekae
 ekah
+ekak
 ekar
 eke
 ekeh
@@ -989,7 +988,6 @@ epo
 epok
 epol
 epon
-epos
 epuk
 er
 era
@@ -1155,6 +1153,7 @@ gateli
 gatot
 gaul
 gawa
+gawan
 gawe
 gawean
 gawene
@@ -1313,7 +1312,6 @@ gunae
 gundah
 gundik
 gundul
-gunem
 gung
 guni
 gunting
@@ -1571,7 +1569,6 @@ iklas
 iklim
 iko
 ikoe
-ikrar
 iku
 ikui
 ikuo
@@ -1814,6 +1811,7 @@ joko
 jokowi
 jol
 jombang
+jomlo
 jong
 jontor
 joran
@@ -2026,6 +2024,7 @@ ki
 kiai
 kicep
 kidal
+kidang
 kidul
 kidung
 kie
@@ -2119,7 +2118,6 @@ koreng
 kori
 kos
 kosan
-kosok
 kosong
 kota
 kotak
@@ -2294,6 +2292,7 @@ leri
 lesehan
 lesu
 lesung
+lewat
 lewih
 leyeh
 lho
@@ -2524,6 +2523,7 @@ megah
 meja
 melas
 melek
+melok
 meme
 memek
 mengko
@@ -2708,8 +2708,8 @@ nasar
 nasi
 nasib
 nata
+natap
 nate
-nawa
 ndak
 ndang
 ndangan
@@ -2721,6 +2721,7 @@ nedha
 nedho
 nedi
 negeri
+nek
 nekat
 neko
 nelen
@@ -2798,7 +2799,6 @@ ngamem
 ngampil
 ngampiri
 ngampleng
-ngampung
 ngamuk
 ngana
 nganggo
@@ -3028,7 +3028,6 @@ ngupil
 nguping
 nguras
 ngurip
-nguruk
 ngurus
 ngurusi
 ngurut
@@ -3066,7 +3065,6 @@ nining
 nipis
 nipon
 nipu
-nipun
 nira
 niro
 nis
@@ -3257,6 +3255,7 @@ ono
 onoe
 onta
 ontel
+onten
 onto
 ontong
 oo
@@ -3652,7 +3651,6 @@ rendi
 reng
 renggo
 renta
-reog
 repot
 rere
 rero
@@ -3880,7 +3878,6 @@ sempak
 sempurna
 seng
 sepi
-ser
 serat
 seri
 seru
@@ -4359,7 +4356,6 @@ un
 una
 unak
 unama
-unan
 unang
 undak
 undang
