@@ -3974,6 +3974,7 @@ pindang
 pindo
 ping
 pinggir
+pinja
 pinten
 pinter
 pintu
@@ -5212,6 +5213,7 @@ warung
 waso
 watak
 wati
+waton
 watu
 wayah
 wayang
@@ -5250,6 +5252,7 @@ wir
 wira
 wirang
 wiro
+wis
 wisa
 wisuh
 wit
