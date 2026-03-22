@@ -5666,6 +5666,7 @@ sisil
 sisip
 sisir
 sita
+sitar
 siti
 sitok
 siwa
