@@ -3299,6 +3299,7 @@ ngrumat
 ngrumpi
 ngubeng
 ngubur
+ngucek
 ngudal
 ngudani
 ngudek
