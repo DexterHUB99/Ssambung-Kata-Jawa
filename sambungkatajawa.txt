@@ -5,7 +5,6 @@ aba
 abab
 abah
 abai
-abal
 abang
 abaya
 abdi
@@ -621,6 +620,7 @@ babi
 babik
 babu
 bacok
+badak
 bae
 bagong
 bagus
@@ -898,7 +898,6 @@ deri
 dewe
 dewek
 di
-diama
 diana
 didik
 dido
@@ -1346,6 +1345,7 @@ gangan
 gange
 ganggu
 gangsal
+gangsing
 ganja
 ganjar
 ganjer
@@ -2279,7 +2279,6 @@ kandang
 kandas
 kandel
 kandhang
-kandi
 kandungan
 kang
 kangen
@@ -3310,6 +3309,7 @@ natap
 nate
 nature
 nawar
+nawari
 ndak
 ndang
 ndangan
@@ -3421,6 +3421,7 @@ ngamal
 ngaman
 ngamar
 ngambar
+ngamben
 ngambi
 ngambil
 ngame
@@ -3708,6 +3709,7 @@ nguning
 ngunjuk
 nguntal
 ngunu
+ngunung
 ngupas
 ngupe
 ngupi
@@ -4726,6 +4728,7 @@ seng
 sepi
 serat
 seri
+serok
 seru
 sesek
 sesok
