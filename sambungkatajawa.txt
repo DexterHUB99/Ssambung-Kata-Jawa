@@ -145,7 +145,6 @@ ai
 aia
 aian
 aie
-aii
 aika
 aiko
 aiku
@@ -886,6 +885,7 @@ bawak
 bawuk
 bayi
 be
+beban
 bebe
 bebek
 becak
@@ -989,6 +989,7 @@ bongo
 bor
 borok
 bosan
+bose
 bosing
 bosok
 botak
@@ -2645,6 +2646,7 @@ inak
 inang
 inda
 indah
+indahan
 indak
 indang
 indek
@@ -2993,6 +2995,7 @@ kacuk
 kacung
 kadal
 kadang
+kadem
 kados
 kadung
 kae
@@ -3671,6 +3674,7 @@ lapi
 lapis
 lapo
 lapoo
+laporan
 lapuk
 lara
 larak
@@ -4294,7 +4298,6 @@ murka
 murung
 mus
 musa
-musan
 musi
 musim
 musuh
@@ -4560,6 +4563,8 @@ ngaka
 ngakak
 ngakang
 ngaku
+ngakue
+ngakui
 ngal
 ngalah
 ngalam
@@ -4708,6 +4713,7 @@ ngelas
 ngelawan
 ngele
 ngeleh
+ngelek
 ngelem
 ngeler
 ngeli
@@ -4804,6 +4810,7 @@ nggoni
 nggowo
 ngguwak
 ngguyu
+ngibu
 ngibul
 ngicil
 ngidam
@@ -5089,6 +5096,7 @@ noh
 noha
 nohi
 nok
+noka
 nol
 nolak
 noleh
@@ -5729,6 +5737,7 @@ poti
 potong
 potongan
 pria
+prio
 pripun
 puan
 puasa
@@ -5803,6 +5812,7 @@ rai
 raib
 raiku
 raimu
+raimui
 raine
 raiso
 raja
@@ -6357,6 +6367,7 @@ simbok
 simi
 simo
 simpang
+simpenan
 sinau
 sindur
 sing
@@ -6823,6 +6834,7 @@ too
 top
 topi
 topo
+tos
 tot
 tota
 toto
@@ -6932,6 +6944,7 @@ udek
 udel
 udeng
 udi
+udik
 udin
 udo
 udu
@@ -7145,6 +7158,7 @@ uo
 up
 upa
 upah
+upai
 upan
 upang
 upas
@@ -7295,6 +7309,7 @@ uyawa
 uyo
 uyuh
 uz
+vila
 vital
 wa
 waa
@@ -7543,6 +7558,7 @@ yurika
 yuro
 yus
 yusa
+yusi
 yusra
 yuyi
 yuyu
