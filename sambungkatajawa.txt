@@ -1718,6 +1718,7 @@ eses
 esi
 esih
 esil
+esmambo
 eso
 esoe
 esok
@@ -4334,6 +4335,7 @@ nabur
 nada
 nadah
 nadi
+nadine
 nadira
 nae
 nafas
@@ -4599,6 +4601,7 @@ ngamah
 ngamal
 ngaman
 ngamar
+ngambang
 ngambar
 ngambi
 ngambil
