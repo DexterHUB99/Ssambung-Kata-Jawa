@@ -3389,6 +3389,7 @@ kep
 kepal
 kepala
 kepanggih
+kepek
 kepel
 kepet
 kepik
@@ -4201,6 +4202,7 @@ mantuk
 manuk
 manukan
 manukku
+manut
 maos
 mapan
 mar
