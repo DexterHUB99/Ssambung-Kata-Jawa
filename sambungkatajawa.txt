@@ -4859,6 +4859,7 @@ ngoblok
 ngobong
 ngobrol
 ngocok
+ngodeh
 ngodok
 ngojek
 ngojok
