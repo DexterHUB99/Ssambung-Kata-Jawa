@@ -49,6 +49,7 @@ akalan
 akan
 akang
 akas
+akbar
 akeh
 aki
 akii
@@ -86,6 +87,7 @@ amis
 amit
 ampar
 ampas
+ampun
 amuk
 anaa
 anae
@@ -422,6 +424,7 @@ gori
 goro
 goroh
 gosong
+gowo
 goyang
 gula
 gumun
@@ -797,6 +800,7 @@ lipat
 liren
 lis
 lisa
+liwat
 lo
 loba
 lobang
@@ -944,6 +948,7 @@ ngenteni
 ngesor
 ngesot
 ngewe
+nggateli
 nggeh
 nggih
 ngguyu
@@ -1008,6 +1013,7 @@ nopo
 nos
 nubruk
 nuduh
+nula
 nulis
 numpak
 nun
@@ -1252,6 +1258,7 @@ segawon
 sego
 seh
 selo
+seng
 sepele
 ser
 sera
@@ -1350,6 +1357,7 @@ tila
 timah
 timun
 tiri
+titid
 titit
 tito
 tolol
@@ -1403,6 +1411,7 @@ ulaa
 ulah
 ulan
 ular
+ulat
 uli
 ulih
 ulo
@@ -1476,6 +1485,7 @@ ute
 utekmu
 uti
 utir
+uto
 utowo
 utu
 utuh
