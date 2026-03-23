@@ -292,6 +292,7 @@ alit
 alm
 alo
 alok
+alom
 alon
 alor
 alot
@@ -339,6 +340,7 @@ ambruk
 ambu
 ambung
 ambyar
+ambyur
 ame
 ameh
 amel
@@ -860,6 +862,7 @@ bandeng
 bangke
 bangsat
 bantal
+bantu
 banyu
 bapak
 bara
@@ -1392,6 +1395,7 @@ eha
 ehak
 ehal
 ehan
+ehat
 ehaw
 ehawa
 ehe
@@ -2180,6 +2184,7 @@ gun
 guna
 gunae
 gundah
+gundhul
 gundik
 gundul
 gunem
@@ -3942,6 +3947,7 @@ madura
 mae
 maem
 maen
+maga
 magan
 magelang
 mager
@@ -4377,6 +4383,7 @@ naro
 narsis
 naru
 naruh
+naruk
 nas
 nasa
 nasab
@@ -7450,6 +7457,7 @@ yong
 yono
 yoopo
 yos
+yosi
 yota
 yoto
 yowes
