@@ -3947,6 +3947,7 @@ losa
 lose
 losi
 loso
+lota
 lote
 lotek
 lowo
