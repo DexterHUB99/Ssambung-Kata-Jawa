@@ -244,6 +244,7 @@ bom
 bos
 boso
 buang
+bulan
 buto
 campur
 ce
@@ -593,6 +594,7 @@ hutan
 hutang
 huti
 ibak
+ibu
 ida
 idii
 idu
@@ -1566,6 +1568,7 @@ tolong
 tomat
 tonggo
 tongkol
+tono
 toto
 tua
 tugel
