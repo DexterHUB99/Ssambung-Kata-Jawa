@@ -48,6 +48,7 @@ akal
 akalan
 akan
 akang
+akar
 akas
 akbar
 akeh
@@ -99,6 +100,7 @@ anas
 ancok
 ancur
 andai
+ander
 andha
 andi
 andok
@@ -140,6 +142,7 @@ apolo
 apung
 ara
 arab
+arak
 areng
 arep
 ari
@@ -217,10 +220,12 @@ buto
 ce
 cen
 cimu
+cing
 cocot
 cok
 cukup
 dada
+dadi
 dahi
 dalem
 damai
@@ -407,6 +412,7 @@ ges
 geseng
 geser
 gigi
+gigir
 gila
 gilo
 ginjal
@@ -677,6 +683,7 @@ katok
 kawani
 kawin
 kawit
+kayu
 ke
 keke
 kelangan
@@ -705,6 +712,7 @@ kie
 kijang
 kikil
 kil
+kini
 kintel
 kirab
 kirek
@@ -840,6 +848,7 @@ madu
 mae
 mah
 makan
+makruh
 malah
 mampus
 mangan
@@ -1066,6 +1075,7 @@ oma
 omah
 omahe
 oman
+ombak
 ombe
 ombo
 omong
@@ -1138,6 +1148,7 @@ peteng
 peyek
 pie
 pijet
+pijit
 pikun
 pilar
 pindah
@@ -1205,6 +1216,7 @@ ribet
 ribut
 rih
 rik
+rika
 riki
 rila
 rin
@@ -1239,6 +1251,7 @@ rupa
 rupamu
 rusa
 rusak
+rusuh
 ruwat
 ruwet
 sa
