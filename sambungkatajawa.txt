@@ -1701,6 +1701,7 @@ ese
 esek
 esem
 eseman
+eses
 esi
 esih
 esil
@@ -2379,6 +2380,7 @@ hidayah
 hidhup
 hidup
 hihihi
+hijab
 hijau
 hiji
 hijrah
@@ -5353,6 +5355,7 @@ oreg
 orek
 oren
 oreng
+oreo
 orewa
 organisasi
 ori
