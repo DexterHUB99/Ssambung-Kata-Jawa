@@ -898,6 +898,7 @@ bangsat
 bantal
 banyu
 bapak
+bar
 bara
 baris
 bas
