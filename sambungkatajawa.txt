@@ -1043,6 +1043,7 @@ bos
 bosan
 bose
 bosing
+boso
 bosok
 botak
 bothok
@@ -6634,6 +6635,7 @@ sawiji
 sawit
 sawo
 saya
+sayaa
 sayah
 sayang
 sayo
@@ -7305,6 +7307,7 @@ turah
 turi
 turu
 turuk
+turukmu
 turun
 turuo
 tusa
