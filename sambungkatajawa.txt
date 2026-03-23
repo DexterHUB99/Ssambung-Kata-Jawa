@@ -3805,6 +3805,7 @@ langsam
 langsing
 langu
 lani
+lanjur
 lanjut
 lantai
 lantak
@@ -6437,6 +6438,7 @@ saiki
 saja
 sajak
 sajen
+saji
 sak
 saka
 sakabehe
@@ -6551,6 +6553,7 @@ sayur
 se
 seda
 sedaya
+sedekah
 sedeng
 sedep
 sega
