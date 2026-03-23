@@ -376,6 +376,7 @@ amok
 amon
 among
 amoro
+amoy
 ampal
 ampar
 ampas
@@ -3900,6 +3901,7 @@ lilitan
 lilo
 lim
 lima
+limaa
 limao
 limas
 limbah
@@ -5821,6 +5823,7 @@ pinus
 pipi
 pipis
 pipit
+pipo
 pir
 pira
 piran
@@ -6021,6 +6024,7 @@ rame
 rames
 rami
 rampai
+rampok
 rampung
 ramu
 ramuan
@@ -7365,6 +7369,7 @@ uno
 unta
 untah
 untal
+untara
 untel
 unter
 untir
@@ -7696,6 +7701,7 @@ xilofon
 xray
 ya
 yaa
+yaampun
 yadi
 yah
 yaha
