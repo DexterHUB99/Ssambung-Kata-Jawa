@@ -1019,6 +1019,7 @@ bonga
 bongo
 bor
 borok
+bos
 bosan
 bose
 bosing
@@ -7267,6 +7268,7 @@ ukna
 ukni
 uko
 ukon
+ukot
 ukro
 ukta
 uku
