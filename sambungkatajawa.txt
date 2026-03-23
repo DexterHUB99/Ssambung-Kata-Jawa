@@ -3230,6 +3230,7 @@ kedah
 keder
 kediri
 kedondong
+kedul
 kedut
 kegowo
 kejam
@@ -3751,6 +3752,7 @@ lawas
 lawe
 lawu
 lawuh
+layah
 layak
 layanan
 layar
@@ -4121,6 +4123,7 @@ marem
 mari
 mariem
 markisa
+maruk
 mas
 masa
 masae
