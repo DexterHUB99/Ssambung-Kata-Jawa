@@ -334,6 +334,7 @@ amat
 amay
 amba
 ambal
+ambalan
 ambar
 ambarawa
 ambek
@@ -2316,6 +2317,7 @@ guru
 guruh
 gurune
 gus
+gusa
 gusah
 gusi
 gusti
