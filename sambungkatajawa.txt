@@ -1978,6 +1978,7 @@ gembol
 gembong
 gembrot
 gemes
+gemeter
 gempa
 gempal
 gemu
@@ -4406,6 +4407,7 @@ ndoro
 nduk
 ne
 nebang
+nebasi
 neda
 nedha
 nedhak
@@ -4699,6 +4701,7 @@ ngenteng
 ngenteni
 ngentu
 ngentut
+ngenu
 ngenyot
 ngepa
 ngepang
@@ -5026,6 +5029,7 @@ niteni
 niti
 nitih
 nitip
+niwa
 niwas
 niya
 niyo
