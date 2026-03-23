@@ -6930,6 +6930,7 @@ udek
 udel
 udeng
 udi
+udik
 udin
 udo
 udu
