@@ -1598,6 +1598,7 @@ elon
 elor
 elu
 eluh
+elum
 elung
 elus
 em
@@ -3475,6 +3476,7 @@ kersa
 kertas
 keruh
 keruk
+kerut
 kesa
 kesah
 kesat
@@ -4942,6 +4944,7 @@ ngede
 ngeden
 ngefek
 ngeh
+ngejak
 ngejek
 ngek
 ngela
@@ -6658,6 +6661,7 @@ sepur
 sepura
 ser
 serat
+serem
 sereng
 seri
 seru
