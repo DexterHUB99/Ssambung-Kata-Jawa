@@ -1091,6 +1091,7 @@ cakra
 cakul
 cakur
 calo
+calon
 cama
 campur
 cancut
@@ -2274,6 +2275,7 @@ gurih
 gurit
 gurita
 guru
+guruh
 gurune
 gus
 gusah
@@ -6902,6 +6904,7 @@ tilas
 tilem
 tilen
 tilep
+tili
 tim
 timah
 timan
@@ -7715,6 +7718,7 @@ yus
 yusa
 yusi
 yusra
+yuti
 yuyi
 yuyu
 yuyun
