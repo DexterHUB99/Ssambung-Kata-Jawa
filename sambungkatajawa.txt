@@ -685,6 +685,7 @@ aseh
 asek
 asem
 asep
+aser
 aset
 asi
 asia
@@ -1988,6 +1989,7 @@ gayu
 gayuh
 gayung
 ge
+gea
 geblek
 gebok
 gebres
