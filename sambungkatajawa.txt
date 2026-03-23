@@ -1298,6 +1298,7 @@ demi
 demit
 demo
 demok
+dendeng
 dengkul
 depak
 deras
@@ -1460,6 +1461,7 @@ edo
 edok
 edon
 edun
+eeh
 ef
 efek
 efu
@@ -1497,6 +1499,7 @@ eho
 ehoh
 ehop
 ehu
+ehum
 ehuy
 eiwak
 eja
@@ -2574,6 +2577,7 @@ hus
 husi
 husna
 hut
+huta
 hutan
 hutang
 huti
