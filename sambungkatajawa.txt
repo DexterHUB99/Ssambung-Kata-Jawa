@@ -82,7 +82,6 @@ agi
 agil
 agit
 ago
-agos
 agu
 agud
 agung
@@ -146,7 +145,6 @@ ai
 aia
 aian
 aie
-aii
 aika
 aiko
 aiku
@@ -744,6 +742,7 @@ ater
 ati
 atik
 atine
+atir
 atira
 atis
 atise
@@ -887,6 +886,7 @@ bawak
 bawuk
 bayi
 be
+beban
 bebe
 bebek
 becak
@@ -942,7 +942,6 @@ biku
 bil
 bila
 bili
-bilung
 bima
 bin
 bina
@@ -991,6 +990,7 @@ bongo
 bor
 borok
 bosan
+bose
 bosing
 bosok
 botak
@@ -1131,7 +1131,6 @@ ciu
 co
 coba
 cobek
-cobi
 cocok
 cocot
 cocote
@@ -1340,6 +1339,7 @@ duga
 duge
 duha
 duit
+duk
 duka
 duko
 duku
@@ -2025,7 +2025,6 @@ geneya
 geng
 geni
 genjik
-genjot
 geno
 gentar
 genteng
@@ -2649,6 +2648,7 @@ inak
 inang
 inda
 indah
+indahan
 indak
 indang
 indek
@@ -2869,7 +2869,6 @@ jamput
 jamri
 jamu
 jamur
-jan
 jancok
 jancuk
 janda
@@ -2911,7 +2910,6 @@ jerami
 jero
 jeroan
 jeruk
-ji
 jidat
 jiga
 jigong
@@ -2999,6 +2997,7 @@ kacuk
 kacung
 kadal
 kadang
+kadem
 kados
 kadung
 kae
@@ -3073,7 +3072,6 @@ kancing
 kancut
 kanda
 kandang
-kandani
 kandas
 kandel
 kandhang
@@ -3230,7 +3228,6 @@ keluarga
 kelum
 kem
 kemah
-keman
 kemang
 kemangi
 kemari
@@ -3476,7 +3473,6 @@ kos
 kosan
 kosek
 kosong
-kot
 kota
 kotak
 kotang
@@ -3680,6 +3676,7 @@ lapi
 lapis
 lapo
 lapoo
+laporan
 lapuk
 lara
 larak
@@ -4303,7 +4300,6 @@ murka
 murung
 mus
 musa
-musan
 musi
 musim
 musuh
@@ -4569,6 +4565,8 @@ ngaka
 ngakak
 ngakang
 ngaku
+ngakue
+ngakui
 ngal
 ngalah
 ngalam
@@ -4717,6 +4715,7 @@ ngelas
 ngelawan
 ngele
 ngeleh
+ngelek
 ngelem
 ngeler
 ngeli
@@ -4813,6 +4812,7 @@ nggoni
 nggowo
 ngguwak
 ngguyu
+ngibu
 ngibul
 ngicil
 ngidam
@@ -4956,7 +4956,6 @@ ngpel
 ngrasa
 ngrumat
 ngrumpi
-ngsu
 ngubeng
 nguber
 ngubur
@@ -5099,6 +5098,7 @@ noh
 noha
 nohi
 nok
+noka
 nol
 nolak
 noleh
@@ -5739,6 +5739,7 @@ poti
 potong
 potongan
 pria
+prio
 pripun
 puan
 puasa
@@ -5813,6 +5814,7 @@ rai
 raib
 raiku
 raimu
+raimui
 raine
 raiso
 raja
@@ -6367,6 +6369,7 @@ simbok
 simi
 simo
 simpang
+simpenan
 sinau
 sindur
 sing
@@ -6426,7 +6429,6 @@ sodor
 sogoh
 sogok
 sok
-soka
 soko
 sokor
 sol
@@ -6834,6 +6836,7 @@ too
 top
 topi
 topo
+tos
 tot
 tota
 toto
@@ -6943,6 +6946,7 @@ udek
 udel
 udeng
 udi
+udik
 udin
 udo
 udu
@@ -7156,6 +7160,7 @@ uo
 up
 upa
 upah
+upai
 upan
 upang
 upas
@@ -7306,6 +7311,7 @@ uyawa
 uyo
 uyuh
 uz
+vila
 vital
 wa
 waa
@@ -7407,7 +7413,6 @@ wijaya
 wiji
 wikan
 wiko
-wila
 wilan
 wilangan
 wili
@@ -7513,7 +7518,6 @@ yohan
 yoi
 yoiku
 yok
-yoko
 yoli
 yolo
 yom
@@ -7556,6 +7560,7 @@ yurika
 yuro
 yus
 yusa
+yusi
 yusra
 yuyi
 yuyu
