@@ -1517,6 +1517,7 @@ ekah
 ekai
 ekak
 ekal
+ekam
 ekan
 ekar
 ekas
@@ -5133,6 +5134,7 @@ ngombe
 ngomel
 ngomong
 ngomongi
+ngomongo
 ngompol
 ngonde
 ngondur
