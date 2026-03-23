@@ -5914,6 +5914,7 @@ putus
 puyeng
 quran
 ra
+raba
 rabi
 rabio
 rabisa
@@ -6427,6 +6428,7 @@ se
 seda
 sedaya
 sedeng
+sedep
 sega
 segar
 segawon
