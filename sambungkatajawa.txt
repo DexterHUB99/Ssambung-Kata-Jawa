@@ -6615,6 +6615,7 @@ semut
 sendok
 seneng
 seng
+sepele
 sepet
 sepi
 sepur
