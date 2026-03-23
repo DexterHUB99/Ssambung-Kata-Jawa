@@ -514,6 +514,7 @@ angrek
 angsa
 angsal
 angsi
+angsle
 angsul
 angsuran
 angu
@@ -5112,6 +5113,7 @@ ngiri
 ngirim
 ngiring
 ngiris
+ngirit
 ngisa
 ngisen
 ngiseng
