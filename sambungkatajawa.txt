@@ -128,6 +128,7 @@ anting
 anto
 anton
 anu
+anuk
 anum
 anus
 anyam
@@ -524,6 +525,7 @@ hubung
 hujan
 huk
 hukum
+hukume
 hulu
 human
 humor
@@ -577,6 +579,7 @@ imboh
 imbuh
 imuh
 imut
+in
 ina
 inang
 indah
@@ -855,6 +858,7 @@ mayaa
 me
 meki
 memek
+mendoan
 meneng
 meri
 micek
@@ -1048,6 +1052,7 @@ okin
 okok
 ol
 olah
+olahan
 olee
 oleh
 oleng
@@ -1113,6 +1118,7 @@ oz
 pada
 padu
 pahing
+pak
 pana
 pancen
 panjang
@@ -1231,10 +1237,12 @@ rumus
 run
 rupa
 rupamu
+rusa
 rusak
 ruwat
 ruwet
 sa
+sabi
 saestu
 saiki
 salut
@@ -1327,6 +1335,7 @@ tai
 tali
 tambak
 tameng
+tampar
 tamu
 tamune
 tangi
@@ -1354,6 +1363,7 @@ tetek
 ti
 tibo
 tila
+tilem
 timah
 timun
 tiri
@@ -1399,6 +1409,7 @@ uhi
 uho
 ui
 uka
+ukar
 ukara
 uke
 ukir
@@ -1509,6 +1520,7 @@ wedi
 wedok
 weh
 welo
+wengi
 weruh
 wes
 wet
@@ -1532,6 +1544,7 @@ yoh
 yoopo
 yowes
 yoyo
+yuko
 yura
 yuyu
 zamzam
