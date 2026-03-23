@@ -5650,6 +5650,7 @@ opok
 opone
 opoo
 opor
+oposi
 or
 ora
 orae
@@ -6463,6 +6464,7 @@ runi
 runtuh
 rup
 rupa
+rupamu
 rupane
 rupi
 rupo
