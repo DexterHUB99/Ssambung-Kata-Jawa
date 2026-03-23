@@ -38,6 +38,7 @@ aia
 aii
 ail
 ailo
+aing
 air
 aiwe
 ajeng
@@ -734,6 +735,7 @@ kidul
 kidung
 kie
 kijang
+kik
 kikil
 kil
 kin
@@ -793,6 +795,8 @@ kuntul
 kur
 kurang
 kursi
+kurus
+kus
 kutang
 kutu
 la
@@ -808,6 +812,7 @@ lame
 lamon
 lampir
 lampu
+lancar
 landep
 laos
 las
@@ -913,6 +918,7 @@ mulaa
 mulai
 mules
 mulih
+mulus
 mundur
 mute
 na
@@ -922,6 +928,7 @@ nadah
 nafas
 nagih
 nah
+naik
 najis
 nali
 nalika
@@ -1062,6 +1069,7 @@ nopo
 nos
 nubruk
 nuduh
+nuh
 nula
 nulis
 numpak
@@ -1380,6 +1388,7 @@ sule
 sultan
 sum
 sumpah
+sumuk
 sun
 sunar
 sunat
@@ -1404,12 +1413,14 @@ tamu
 tamune
 tangi
 tansah
+tapi
 tari
 tata
 tawa
 tebu
 tegak
 tekan
+tela
 telek
 telo
 telu
@@ -1430,6 +1441,7 @@ tila
 tilem
 timah
 timun
+timur
 tiri
 titid
 titit
