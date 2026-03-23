@@ -103,6 +103,7 @@ ampuh
 ampun
 amuh
 amuk
+ana
 anaa
 anae
 anak
@@ -767,6 +768,7 @@ kambing
 kampung
 kamu
 kandang
+kang
 kanggo
 kanjut
 kanti
@@ -1045,6 +1047,7 @@ nambah
 nambal
 nampak
 nampan
+nana
 nanah
 nanam
 nanas
@@ -1117,6 +1120,7 @@ ngen
 ngendika
 ngenteni
 ngepel
+ngeper
 ngesor
 ngesot
 ngesuk
@@ -1367,6 +1371,7 @@ pondok
 poo
 poro
 puan
+puh
 pujaan
 pun
 punten
@@ -1696,6 +1701,7 @@ ulu
 ulur
 um
 umah
+umat
 umbah
 umbel
 umbi
