@@ -3739,6 +3739,7 @@ langsing
 langu
 lanjut
 lantai
+lantak
 lantar
 lantas
 lanting
@@ -7173,6 +7174,7 @@ ukuk
 ukul
 ukum
 ukung
+ukup
 ukur
 ukura
 ukuran
