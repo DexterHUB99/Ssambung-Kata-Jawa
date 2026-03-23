@@ -4657,6 +4657,7 @@ ngambing
 ngambu
 ngame
 ngamem
+ngamin
 ngamok
 ngampil
 ngampiri
@@ -4888,6 +4889,7 @@ ngidu
 ngidul
 ngigit
 ngih
+ngijang
 ngiji
 ngijin
 ngijini
@@ -7549,6 +7551,7 @@ wonge
 wongedan
 woni
 wonogiri
+wonosobo
 wonten
 wor
 woro
