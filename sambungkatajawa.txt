@@ -884,6 +884,7 @@ bawak
 bawuk
 bayi
 be
+beban
 bebe
 bebek
 becak
@@ -2643,6 +2644,7 @@ inak
 inang
 inda
 indah
+indahan
 indak
 indang
 indek
@@ -2991,6 +2993,7 @@ kacuk
 kacung
 kadal
 kadang
+kadem
 kados
 kadung
 kae
@@ -4557,6 +4560,8 @@ ngaka
 ngakak
 ngakang
 ngaku
+ngakue
+ngakui
 ngal
 ngalah
 ngalam
@@ -4705,6 +4710,7 @@ ngelas
 ngelawan
 ngele
 ngeleh
+ngelek
 ngelem
 ngeler
 ngeli
@@ -4801,6 +4807,7 @@ nggoni
 nggowo
 ngguwak
 ngguyu
+ngibu
 ngibul
 ngicil
 ngidam
@@ -5800,6 +5807,7 @@ rai
 raib
 raiku
 raimu
+raimui
 raine
 raiso
 raja
@@ -6413,7 +6421,6 @@ sodor
 sogoh
 sogok
 sok
-soka
 soko
 sokor
 sol
@@ -6930,6 +6937,7 @@ udek
 udel
 udeng
 udi
+udik
 udin
 udo
 udu
@@ -7394,7 +7402,6 @@ wijaya
 wiji
 wikan
 wiko
-wila
 wilan
 wilangan
 wili
