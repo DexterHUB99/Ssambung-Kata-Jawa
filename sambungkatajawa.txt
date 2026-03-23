@@ -109,6 +109,7 @@ amuk
 ana
 anaa
 anae
+anah
 anak
 anakmu
 anal
@@ -242,6 +243,7 @@ bakul
 balung
 basi
 bayi
+bebe
 beo
 bibik
 bidan
@@ -712,6 +714,7 @@ irus
 is
 isa
 isak
+isan
 isap
 iseng
 isi
@@ -793,6 +796,7 @@ kawit
 kayu
 ke
 keke
+kela
 kelangan
 kelem
 kelingan
@@ -817,6 +821,7 @@ kesleo
 ketel
 ketir
 ketok
+ki
 kidal
 kidul
 kidung
@@ -988,6 +993,7 @@ makan
 makruh
 malah
 mama
+mami
 mampus
 mangan
 mantul
@@ -1102,6 +1108,7 @@ ngapae
 ngapak
 ngapunten
 ngapurancang
+ngapus
 ngapusi
 ngarep
 ngarit
