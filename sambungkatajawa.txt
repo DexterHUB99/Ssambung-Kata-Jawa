@@ -6707,6 +6707,7 @@ suling
 sulung
 sum
 suma
+suman
 sumbang
 sumbangan
 sumbar
@@ -6848,6 +6849,7 @@ tangguh
 tangi
 tani
 tanjung
+tanpa
 tansah
 tante
 tanya
