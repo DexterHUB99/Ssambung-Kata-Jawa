@@ -28,6 +28,7 @@ ahh
 ahi
 ahir
 ahli
+ahok
 ahoy
 ahu
 ahup
@@ -245,6 +246,8 @@ dina
 dino
 dipun
 diren
+dodo
+dolan
 duda
 dudu
 dulur
@@ -353,6 +356,8 @@ esai
 esi
 eso
 esok
+esu
+esuk
 eta
 etan
 etuk
@@ -557,6 +562,7 @@ ijak
 ijek
 iji
 ijin
+ijo
 ika
 ikaa
 ikal
@@ -608,6 +614,7 @@ ipi
 ipil
 ipin
 ipun
+ira
 irah
 irak
 irama
@@ -782,6 +789,7 @@ laler
 lali
 lama
 lambe
+lame
 lamon
 lampir
 lampu
@@ -911,6 +919,7 @@ nanas
 nandur
 nangis
 nani
+nanti
 nap
 napa
 napi
@@ -972,6 +981,7 @@ nggih
 ngguyu
 ngibul
 ngidul
+ngila
 ngirit
 ngisep
 ngising
@@ -1142,6 +1152,7 @@ papah
 parang
 parem
 pari
+pas
 pasa
 pasti
 peko
@@ -1302,6 +1313,7 @@ sii
 sikil
 siku
 sila
+silit
 silitem
 silitmu
 sir
@@ -1472,6 +1484,7 @@ unggas
 unggul
 ungkal
 ungkit
+uni
 unjuk
 uno
 unta
