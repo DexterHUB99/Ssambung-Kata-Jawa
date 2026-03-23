@@ -4097,6 +4097,7 @@ lunga
 lungguh
 lungo
 lungsur
+lunjak
 luntur
 lunyu
 lup
@@ -6951,6 +6952,7 @@ tarian
 tarik
 taro
 taru
+taruh
 tarung
 tas
 tasa
@@ -7308,6 +7310,7 @@ ukir
 ukiran
 ukire
 ukit
+ukka
 ukko
 ukla
 ukli
