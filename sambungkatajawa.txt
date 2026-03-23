@@ -2993,6 +2993,7 @@ kacuk
 kacung
 kadal
 kadang
+kadem
 kados
 kadung
 kae
@@ -4709,6 +4710,7 @@ ngelas
 ngelawan
 ngele
 ngeleh
+ngelek
 ngelem
 ngeler
 ngeli
