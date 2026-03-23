@@ -329,6 +329,7 @@ elok
 elu
 elum
 elus
+em
 emak
 eman
 emang
@@ -358,6 +359,8 @@ enteni
 entok
 entuk
 entut
+enuk
+epik
 epis
 epos
 epu
@@ -911,6 +914,7 @@ luka
 luluh
 lum
 lumah
+lumi
 lumrah
 lungguh
 lurah
@@ -962,6 +966,7 @@ mulai
 mules
 mulih
 mulus
+mumpung
 mundur
 murah
 mute
@@ -984,6 +989,7 @@ nanah
 nanam
 nanas
 nandur
+nanging
 nangis
 nani
 nanti
@@ -995,6 +1001,7 @@ nari
 narik
 naruh
 nasi
+nawar
 ndasmu
 neh
 neko
@@ -1005,12 +1012,14 @@ nenek
 nenen
 nengdi
 neras
+nete
 netra
 ngaceng
 ngae
 ngaji
 ngaleh
 ngalu
+ngamok
 ngamuk
 nganggur
 ngangkang
@@ -1496,6 +1505,7 @@ tempe
 tempek
 temu
 tenan
+tengah
 teran
 terang
 teri
