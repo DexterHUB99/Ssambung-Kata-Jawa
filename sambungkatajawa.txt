@@ -2984,6 +2984,7 @@ jen
 jenang
 jeneng
 jenengan
+jenenge
 jer
 jerami
 jero
@@ -4229,6 +4230,7 @@ melihat
 melok
 melu
 mem
+mema
 memang
 meme
 memek
