@@ -6403,6 +6403,7 @@ romi
 romo
 rompak
 rompi
+ron
 ronda
 rondo
 ronggeng
@@ -6941,6 +6942,7 @@ susul
 susumu
 susun
 susuwi
+sut
 suti
 sutil
 suto
@@ -6998,6 +7000,7 @@ tam
 tama
 taman
 tambah
+tambak
 tambal
 tambang
 tambel
