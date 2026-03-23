@@ -3192,7 +3192,6 @@ kemah
 kemang
 kemangi
 kemari
-kemarin
 kemas
 kemauan
 kemayu
@@ -6403,6 +6402,7 @@ sugih
 suh
 suha
 sui
+suji
 suk
 suka
 sukan
@@ -6629,6 +6629,7 @@ tempe
 tempek
 tempel
 tempik
+tempikmu
 tempura
 temu
 temulawak
