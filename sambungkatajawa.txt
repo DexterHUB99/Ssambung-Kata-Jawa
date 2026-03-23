@@ -2987,6 +2987,7 @@ jenang
 jeneng
 jenengan
 jenenge
+jeng
 jer
 jerami
 jero
@@ -3711,6 +3712,7 @@ laki
 laknat
 lakon
 laku
+lakuma
 lalah
 lalang
 lalar
