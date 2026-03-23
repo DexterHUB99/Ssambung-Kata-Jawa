@@ -3180,6 +3180,7 @@ kan
 kana
 kanan
 kanapa
+kanas
 kanca
 kancil
 kancing
