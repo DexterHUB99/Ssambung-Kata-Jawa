@@ -46,7 +46,6 @@ ade
 adegan
 adek
 adem
-ader
 adhem
 adhuh
 adi
@@ -134,7 +133,6 @@ ahor
 ahoy
 ahu
 ahuk
-ahum
 ahun
 ahur
 ahus
@@ -294,6 +292,7 @@ alit
 alm
 alo
 alok
+alom
 alon
 alor
 alot
@@ -341,9 +340,9 @@ ambruk
 ambu
 ambung
 ambyar
+ambyur
 ame
 ameh
-amek
 amel
 amem
 amen
@@ -863,6 +862,7 @@ bandeng
 bangke
 bangsat
 bantal
+bantu
 banyu
 bapak
 bara
@@ -955,7 +955,6 @@ bisiki
 bismillah
 biso
 bisu
-bisulan
 biting
 biu
 biya
@@ -1232,7 +1231,6 @@ demo
 demok
 dengkul
 depak
-deras
 dere
 derek
 dereng
@@ -1397,6 +1395,8 @@ eha
 ehak
 ehal
 ehan
+ehas
+ehat
 ehaw
 ehawa
 ehe
@@ -1740,7 +1740,6 @@ etul
 etum
 etur
 etus
-eva
 evan
 evi
 ew
@@ -1783,7 +1782,6 @@ gabut
 gaco
 gada
 gadah
-gadang
 gading
 gadu
 gaduh
@@ -1959,7 +1957,6 @@ geh
 gek
 gel
 gela
-gelan
 gelang
 gelap
 gelar
@@ -1986,7 +1983,6 @@ gembol
 gembong
 gembrot
 gemes
-gemeter
 gempa
 gempal
 gemu
@@ -2189,6 +2185,7 @@ gun
 guna
 gunae
 gundah
+gundhul
 gundik
 gundul
 gunem
@@ -3759,7 +3756,6 @@ lilit
 lilo
 lim
 lima
-limao
 limbah
 limo
 limolas
@@ -3952,6 +3948,7 @@ madura
 mae
 maem
 maen
+maga
 magan
 magelang
 mager
@@ -4182,7 +4179,6 @@ moh
 moha
 mojo
 mok
-moka
 mokol
 mol
 molak
@@ -4388,6 +4384,7 @@ naro
 narsis
 naru
 naruh
+naruk
 nas
 nasa
 nasab
@@ -4417,7 +4414,6 @@ ndoro
 nduk
 ne
 nebang
-nebasi
 neda
 nedha
 nedhak
@@ -4521,7 +4517,6 @@ ngagu
 ngah
 ngajak
 ngajar
-ngajari
 ngajeng
 ngajeni
 ngaji
@@ -4605,7 +4600,6 @@ ngapunten
 ngapura
 ngapurane
 ngapuro
-ngapus
 ngapusi
 ngarai
 ngarak
@@ -4713,7 +4707,6 @@ ngenteng
 ngenteni
 ngentu
 ngentut
-ngenu
 ngenyot
 ngepa
 ngepang
@@ -5041,7 +5034,6 @@ niteni
 niti
 nitih
 nitip
-niwa
 niwas
 niya
 niyo
@@ -5521,7 +5513,6 @@ peler
 peli
 peliku
 pelimu
-pelit
 pelo
 pelog
 pelu
@@ -5760,7 +5751,6 @@ ragil
 rah
 raha
 rahayu
-rahka
 rahmat
 rahmi
 rai
@@ -5884,7 +5874,6 @@ reka
 reko
 rela
 rem
-rema
 remah
 remang
 remas
@@ -6066,7 +6055,6 @@ rukun
 rule
 ruli
 rum
-ruma
 rumah
 rumangsa
 rumangsane
@@ -6603,7 +6591,6 @@ tao
 tap
 tape
 tapi
-tapih
 tapir
 tapuk
 tara
@@ -6949,7 +6936,6 @@ ukin
 ukir
 ukiran
 ukire
-ukit
 ukko
 ukla
 ukli
@@ -7472,6 +7458,7 @@ yong
 yono
 yoopo
 yos
+yosi
 yota
 yoto
 yowes
@@ -7498,7 +7485,6 @@ yura
 yuran
 yuri
 yurika
-yuro
 yus
 yusa
 yusra
