@@ -10,6 +10,7 @@ abal
 abang
 abaya
 abdi
+abe
 abeh
 abel
 abi
@@ -5171,6 +5172,7 @@ nin
 nina
 nindak
 ning
+ningali
 ninggal
 ningsih
 nini
