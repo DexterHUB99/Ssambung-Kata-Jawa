@@ -534,6 +534,7 @@ harga
 hari
 harian
 harimau
+harimu
 hartamu
 harum
 harus
@@ -604,6 +605,7 @@ hus
 hutan
 hutang
 huti
+ibadah
 ibak
 ibu
 ida
@@ -863,6 +865,7 @@ kunci
 kuno
 kunti
 kuntul
+kupat
 kur
 kurang
 kursi
@@ -893,6 +896,7 @@ laut
 lawak
 lawang
 layuh
+lebah
 lee
 lemah
 lembut
@@ -913,6 +917,7 @@ lilin
 lilo
 lima
 limo
+lingsir
 lintah
 lipan
 lipat
@@ -1148,6 +1153,7 @@ nia
 niba
 nii
 nikah
+niki
 niku
 nila
 nilai
@@ -1361,6 +1367,7 @@ rambut
 rampun
 ramua
 ramuan
+rapi
 rapuh
 ras
 rasa
@@ -1485,6 +1492,7 @@ silitem
 silitmu
 sinten
 sir
+siram
 siro
 sis
 sisi
@@ -1553,6 +1561,7 @@ tamune
 tangi
 tansah
 tapi
+tapuk
 tari
 tata
 tawa
@@ -1631,6 +1640,7 @@ uhe
 uhi
 uho
 ui
+ujan
 ujar
 ujian
 uka
@@ -1715,6 +1725,7 @@ usi
 usia
 usik
 usil
+usir
 usu
 usui
 usus
