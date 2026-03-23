@@ -865,6 +865,7 @@ balik
 balok
 bambang
 bambu
+ban
 banci
 bandeng
 bangke
@@ -4379,6 +4380,7 @@ nakoni
 naksir
 nakula
 nakuti
+nal
 nala
 nalar
 nale
@@ -5140,6 +5142,7 @@ nolak
 noleh
 nolek
 nom
+noma
 nombok
 nomer
 nomi
