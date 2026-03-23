@@ -2077,6 +2077,7 @@ gedhi
 gedhong
 gedor
 gedung
+gee
 gegayuhan
 geger
 geguritan
@@ -4665,6 +4666,7 @@ ndalu
 ndang
 ndangan
 ndas
+ndasmu
 ndelok
 nderek
 ndeso
