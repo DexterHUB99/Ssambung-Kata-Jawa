@@ -1475,6 +1475,7 @@ eja
 ejag
 ejak
 ejo
+eju
 ek
 eka
 ekaa
@@ -4894,6 +4895,7 @@ ngeseng
 ngesing
 ngesot
 ngesu
+ngesuk
 ngetan
 ngete
 ngetik
@@ -6463,6 +6465,7 @@ selet
 seli
 selingkuh
 sem
+semangat
 sembah
 semen
 semene
