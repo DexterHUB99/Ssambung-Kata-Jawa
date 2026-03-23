@@ -397,6 +397,7 @@ epu
 era
 eram
 erang
+eras
 ereng
 eri
 eria
@@ -447,6 +448,7 @@ garap
 garih
 garing
 garuk
+garwa
 gas
 gasing
 gatel
@@ -760,6 +762,7 @@ jingga
 jipuk
 joko
 jokowi
+joni
 kabeh
 kadal
 kain
@@ -1290,6 +1293,7 @@ on
 onar
 onde
 ondo
+ongak
 ongkos
 ono
 onta
@@ -1650,6 +1654,7 @@ tisu
 titid
 titit
 tito
+toja
 tolol
 tolong
 tomat
@@ -1819,6 +1824,7 @@ waras
 warung
 wates
 watir
+way
 wayang
 we
 wedang
