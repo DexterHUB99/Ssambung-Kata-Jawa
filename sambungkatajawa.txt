@@ -1943,6 +1943,7 @@ gara
 garai
 garang
 garangan
+garansi
 garap
 garapen
 garasi
@@ -6785,6 +6786,7 @@ tarian
 tarik
 taro
 taru
+tarung
 tas
 tasa
 tase
