@@ -1142,6 +1142,7 @@ cawet
 cawik
 cawis
 cayi
+ce
 ceblok
 cecak
 cecek
@@ -3054,6 +3055,7 @@ jelas
 jelek
 jembatan
 jembut
+jembutmu
 jempol
 jemur
 jemuran
@@ -5456,6 +5458,7 @@ nus
 nusa
 nusun
 nut
+nuti
 nutuk
 nutup
 nutur
