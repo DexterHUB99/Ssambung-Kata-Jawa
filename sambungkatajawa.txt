@@ -636,6 +636,7 @@ ika
 ikaa
 ikal
 ikan
+ikar
 ikat
 iket
 ikhlas
@@ -1037,6 +1038,7 @@ naik
 najis
 nali
 nalika
+nama
 nambah
 nambal
 nampak
@@ -1140,6 +1142,7 @@ ngolo
 ngoloh
 ngomongo
 ngompol
+ngompor
 ngong
 ngoni
 ngopi
@@ -1309,6 +1312,7 @@ pada
 padu
 pahing
 pak
+paka
 palu
 pana
 pancen
@@ -1520,6 +1524,7 @@ sodok
 sodom
 soko
 sol
+solar
 solo
 sombong
 songo
