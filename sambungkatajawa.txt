@@ -320,6 +320,7 @@ amalan
 amam
 aman
 amanah
+amani
 amar
 amara
 amarga
@@ -865,7 +866,6 @@ balik
 balok
 bambang
 bambu
-ban
 banci
 bandeng
 bangke
@@ -1320,7 +1320,6 @@ dol
 dola
 dolan
 dolanan
-dom
 doma
 domba
 domblong
@@ -1424,6 +1423,7 @@ ehaw
 ehawa
 ehe
 eheh
+ehej
 ehek
 ehem
 ehen
@@ -1574,6 +1574,7 @@ empuk
 empun
 emu
 emud
+emum
 emun
 emut
 en
@@ -1626,7 +1627,6 @@ eno
 enoh
 enok
 enong
-enta
 entar
 ente
 entek
@@ -2891,6 +2891,7 @@ jamput
 jamri
 jamu
 jamur
+jancik
 jancok
 jancuk
 janda
@@ -3496,6 +3497,7 @@ kori
 kos
 kosan
 kosek
+kosi
 kosong
 kota
 kotak
@@ -3558,6 +3560,7 @@ kuman
 kumbah
 kumbahan
 kumbang
+kumi
 kumpul
 kumu
 kumuh
@@ -4380,7 +4383,6 @@ nakoni
 naksir
 nakula
 nakuti
-nal
 nala
 nalar
 nale
@@ -4626,6 +4628,7 @@ ngambi
 ngambil
 ngambing
 ngambu
+ngambung
 ngame
 ngamem
 ngamok
@@ -4720,7 +4723,6 @@ ngawasi
 ngawe
 ngawi
 ngawih
-ngawil
 ngawit
 ngawor
 ngawur
@@ -4810,6 +4812,7 @@ ngertos
 ngerusak
 ngesah
 ngesel
+ngeselin
 ngeseng
 ngesing
 ngesot
@@ -4922,6 +4925,7 @@ nglor
 ngluku
 ngluruk
 ngngopo
+ngnimu
 ngnu
 ngobah
 ngobat
@@ -5142,7 +5146,6 @@ nolak
 noleh
 nolek
 nom
-noma
 nombok
 nomer
 nomi
@@ -6069,6 +6072,7 @@ rinja
 rino
 rio
 rip
+ripa
 ripan
 riri
 ris
@@ -6248,6 +6252,7 @@ saleh
 salim
 sam
 sama
+samap
 sambal
 sambang
 sambat
@@ -7028,6 +7033,7 @@ uja
 ujak
 ujan
 ujar
+ujaran
 uji
 ujian
 ujuk
