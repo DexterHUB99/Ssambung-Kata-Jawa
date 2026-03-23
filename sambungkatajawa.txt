@@ -3171,6 +3171,7 @@ kebab
 kebang
 kebo
 kecap
+kecemplung
 kedah
 keder
 kediri
@@ -4177,6 +4178,7 @@ misu
 misuh
 mit
 miten
+mlebu
 mlumah
 mmanuk
 mo
