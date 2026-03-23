@@ -4358,6 +4358,7 @@ murka
 murung
 mus
 musa
+muser
 musi
 musim
 musuh
@@ -4998,6 +4999,7 @@ ngonten
 ngontol
 ngontrol
 ngop
+ngopel
 ngopeni
 ngoper
 ngopi
