@@ -1735,6 +1735,7 @@ epol
 epon
 epor
 epos
+epu
 epuh
 epuk
 epul
@@ -3437,6 +3438,7 @@ kerang
 keraos
 kerap
 keras
+keraton
 kerbau
 kere
 kerek
@@ -3543,6 +3545,7 @@ klambi
 klambine
 klasa
 klaten
+klebus
 klepon
 kleru
 kliwon
