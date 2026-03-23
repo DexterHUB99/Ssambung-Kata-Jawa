@@ -4599,6 +4599,7 @@ nasar
 nasehat
 nasi
 nasib
+nasii
 nastar
 nasu
 nat
@@ -5741,6 +5742,7 @@ paris
 parit
 parkir
 paro
+parut
 pas
 pasa
 pasang
@@ -6517,6 +6519,7 @@ sasa
 sasak
 sasi
 sasimo
+sasiran
 sastra
 sat
 sate
