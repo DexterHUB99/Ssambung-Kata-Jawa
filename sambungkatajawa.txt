@@ -263,6 +263,7 @@ akus
 akut
 al
 ala
+alaa
 alae
 alah
 alai
