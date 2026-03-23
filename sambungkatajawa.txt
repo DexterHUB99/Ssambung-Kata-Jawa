@@ -3253,6 +3253,7 @@ kelon
 kelor
 kelot
 keluarga
+keluh
 kelum
 kem
 kemah
@@ -6249,6 +6250,7 @@ salah
 salahe
 salak
 salam
+salat
 saleh
 salim
 sam
@@ -6841,6 +6843,7 @@ tinju
 tip
 tir
 tira
+tirai
 tiris
 tiru
 tis
