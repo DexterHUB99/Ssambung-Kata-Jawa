@@ -3344,6 +3344,7 @@ kerang
 keraos
 kerap
 keras
+kerbau
 kere
 kerek
 kerem
@@ -4921,6 +4922,7 @@ nginceng
 nginduk
 nginep
 nging
+nginjak
 nginjen
 nginthil
 ngintil
