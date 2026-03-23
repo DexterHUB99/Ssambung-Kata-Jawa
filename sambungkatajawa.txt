@@ -2668,6 +2668,7 @@ ikulo
 ikumu
 ikuo
 ikur
+ikus
 ikut
 ikutan
 il
@@ -6828,6 +6829,7 @@ suto
 sutri
 suw
 suwak
+suwara
 suwe
 suwek
 suwen
