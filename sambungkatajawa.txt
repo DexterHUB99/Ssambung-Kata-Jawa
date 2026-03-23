@@ -238,6 +238,7 @@ bakso
 bakul
 balung
 basi
+bayi
 beo
 bibik
 bidan
@@ -1110,6 +1111,7 @@ ngaturaken
 ngawas
 ngawi
 ngawur
+ngeh
 ngejak
 ngelag
 ngelak
@@ -1584,6 +1586,7 @@ tah
 tahu
 tai
 tali
+tamba
 tambak
 tameng
 tampar
@@ -1724,6 +1727,7 @@ uni
 unjuk
 uno
 unta
+unte
 untir
 untu
 untuk
