@@ -1039,6 +1039,7 @@ bunder
 bunga
 bungah
 buntil
+buntung
 bunuh
 buri
 busa
@@ -5284,6 +5285,7 @@ olahraga
 olak
 olam
 olar
+olas
 ole
 oleh
 oleholeh
