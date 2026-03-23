@@ -2562,6 +2562,7 @@ hurup
 hus
 husi
 husna
+hut
 hutan
 hutang
 huti
