@@ -6152,6 +6152,7 @@ rames
 rami
 rampai
 rampok
+rampun
 rampung
 ramu
 ramuan
@@ -6265,6 +6266,7 @@ remu
 remuk
 ren
 rena
+renang
 rencang
 rendang
 rendeng
@@ -6665,6 +6667,7 @@ sepi
 sepur
 sepura
 ser
+sera
 serat
 serem
 sereng
@@ -7292,6 +7295,7 @@ ua
 uan
 uana
 uang
+uange
 ub
 uba
 uban
