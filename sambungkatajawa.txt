@@ -3689,6 +3689,7 @@ kusuma
 kut
 kuta
 kutang
+kuti
 kutilang
 kutu
 kutuk
@@ -4097,6 +4098,7 @@ mados
 madu
 madua
 madukara
+madul
 madura
 mae
 maem
