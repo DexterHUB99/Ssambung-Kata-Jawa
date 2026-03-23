@@ -5857,6 +5857,7 @@ perek
 pesan
 peso
 pete
+peteng
 peti
 pewe
 pi
