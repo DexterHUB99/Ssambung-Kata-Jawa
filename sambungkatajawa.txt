@@ -2024,6 +2024,7 @@ gese
 gesek
 geseng
 geser
+gesit
 get
 geta
 gete
