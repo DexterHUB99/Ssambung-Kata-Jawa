@@ -884,6 +884,7 @@ bawak
 bawuk
 bayi
 be
+beban
 bebe
 bebek
 becak
@@ -5801,6 +5802,7 @@ rai
 raib
 raiku
 raimu
+raimui
 raine
 raiso
 raja
