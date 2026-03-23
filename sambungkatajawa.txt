@@ -7615,6 +7615,7 @@ waktu
 walah
 walang
 wali
+walit
 wana
 wangen
 wangi
