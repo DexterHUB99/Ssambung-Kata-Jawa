@@ -5367,6 +5367,7 @@ nyambi
 nyamuk
 nyantai
 nyanyi
+nyapu
 nyata
 nyawa
 nyawang
@@ -5651,6 +5652,7 @@ pala
 palang
 palem
 pali
+palik
 paling
 palir
 palo
