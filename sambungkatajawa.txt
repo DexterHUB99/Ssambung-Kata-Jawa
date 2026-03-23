@@ -6065,6 +6065,7 @@ remang
 remas
 rembah
 rembang
+rembes
 rembug
 rembukan
 rembulan
