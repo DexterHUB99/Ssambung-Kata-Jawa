@@ -1367,6 +1367,7 @@ edanwa
 edar
 edi
 edo
+edok
 edon
 ef
 efek
@@ -3787,6 +3788,7 @@ liwat
 liwet
 liyai
 liyane
+liyo
 lo
 loa
 lob
@@ -6216,6 +6218,7 @@ sendok
 seneng
 seng
 sepi
+sepura
 ser
 serat
 sereng
