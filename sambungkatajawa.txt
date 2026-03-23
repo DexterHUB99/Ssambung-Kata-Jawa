@@ -2951,6 +2951,7 @@ jail
 jaja
 jajal
 jajan
+jak
 jaka
 jala
 jalan
