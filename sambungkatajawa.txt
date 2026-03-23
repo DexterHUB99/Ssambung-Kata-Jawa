@@ -419,6 +419,7 @@ anar
 anas
 anasi
 anat
+anaw
 ancang
 ancas
 ancase
@@ -5854,6 +5855,7 @@ purek
 puri
 purun
 purut
+pus
 pusa
 pusaka
 puser
@@ -6103,6 +6105,7 @@ rina
 rindu
 ring
 ringa
+ringan
 ringin
 ringkas
 rini
@@ -6290,6 +6293,7 @@ salat
 saleh
 sali
 salim
+salon
 sam
 sama
 sambal
