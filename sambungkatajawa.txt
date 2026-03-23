@@ -490,6 +490,7 @@ gigi
 gigir
 gih
 gila
+gilang
 gilo
 ginjal
 girang
@@ -733,6 +734,7 @@ iso
 isu
 isui
 isuk
+isun
 isya
 ita
 itai
@@ -773,6 +775,7 @@ kadal
 kain
 kajut
 kak
+kakak
 kaki
 kala
 kali
@@ -1521,6 +1524,7 @@ samin
 sampah
 sampun
 samun
+sang
 sangu
 santri
 sapi
@@ -1568,6 +1572,7 @@ soko
 sol
 solar
 solo
+somat
 sombong
 songo
 sop
@@ -1748,6 +1753,7 @@ umpama
 umum
 umur
 una
+unan
 undak
 undang
 undi
@@ -1756,6 +1762,7 @@ undura
 unggas
 unggul
 ungkal
+ungkap
 ungkit
 uni
 unjuk
