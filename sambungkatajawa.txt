@@ -860,6 +860,7 @@ bandeng
 bangke
 bangsat
 bantal
+bantu
 banyu
 bapak
 bara
@@ -3942,6 +3943,7 @@ madura
 mae
 maem
 maen
+maga
 magan
 magelang
 mager
@@ -4377,6 +4379,7 @@ naro
 narsis
 naru
 naruh
+naruk
 nas
 nasa
 nasab
