@@ -4210,6 +4210,7 @@ mantep
 mantepe
 mantu
 mantuk
+mantul
 manuk
 manukan
 manukku
@@ -6248,6 +6249,7 @@ rim
 rima
 riman
 rimang
+rime
 rimo
 rin
 rina
