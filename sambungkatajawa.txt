@@ -643,6 +643,7 @@ aris
 arisa
 arisan
 arit
+arjo
 arjuna
 arjuno
 arka
@@ -2001,6 +2002,7 @@ gegayuhan
 geger
 geguritan
 geh
+gei
 gek
 gel
 gela
@@ -4675,6 +4677,7 @@ ngangkang
 ngangkring
 ngangsu
 ngangsur
+nganjing
 nganjok
 nganjuk
 nganjut
@@ -5862,6 +5865,7 @@ putus
 puyeng
 quran
 ra
+raba
 rabi
 rabio
 rabisa
