@@ -589,6 +589,7 @@ ibak
 ida
 idii
 idu
+igak
 ih
 iha
 ihan
@@ -660,6 +661,7 @@ ira
 irah
 irak
 irama
+iren
 ireng
 iri
 irii
@@ -684,6 +686,7 @@ isui
 isuk
 isya
 ita
+itai
 itik
 itil
 itila
@@ -733,6 +736,7 @@ kanggo
 kanjut
 kanti
 kantil
+kapan
 kapok
 kare
 karep
@@ -756,6 +760,7 @@ keluh
 kembar
 ken
 kena
+kentang
 kentu
 kepa
 kepala
@@ -922,6 +927,7 @@ lumah
 lumi
 lumrah
 lungguh
+lupa
 lurah
 lusuh
 luwe
@@ -1174,6 +1180,7 @@ okei
 oker
 okin
 okok
+okol
 ol
 olah
 olahan
@@ -1187,6 +1194,7 @@ olo
 olok
 oloo
 oma
+omae
 omah
 omahe
 oman
@@ -1389,6 +1397,7 @@ rusuh
 ruwat
 ruwet
 sa
+sabar
 sabi
 saestu
 saged
@@ -1441,6 +1450,7 @@ so
 soba
 sobat
 sodir
+sodok
 sodom
 soko
 sol
@@ -1708,6 +1718,7 @@ wiwit
 woko
 wong
 wonten
+woo
 wur
 xenon
 xray
