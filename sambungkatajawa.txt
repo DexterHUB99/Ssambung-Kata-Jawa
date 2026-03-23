@@ -2573,6 +2573,7 @@ iku
 ikua
 ikui
 ikulo
+ikumu
 ikuo
 ikur
 ikut
@@ -5931,6 +5932,7 @@ rek
 reka
 reko
 rela
+relo
 rem
 rema
 remah
