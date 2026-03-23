@@ -1094,6 +1094,7 @@ cici
 cicil
 cicu
 cicuk
+cika
 cil
 cila
 cilaka
@@ -3188,7 +3189,6 @@ kemah
 kemang
 kemangi
 kemari
-kemarin
 kemas
 kemauan
 kemayu
@@ -4201,6 +4201,7 @@ muk
 muka
 mukak
 mukaka
+muke
 mukul
 mul
 mula
