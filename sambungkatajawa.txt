@@ -3035,6 +3035,7 @@ jawa
 jawi
 jawir
 je
+jebul
 jeh
 jejer
 jelang
@@ -3394,6 +3395,7 @@ kemauan
 kemayu
 kembali
 kembang
+kembar
 kemben
 kemem
 kemeng
@@ -3476,6 +3478,7 @@ kesah
 kesat
 kesel
 keselek
+kesem
 keset
 kesi
 kesleo
