@@ -29,6 +29,7 @@ ahir
 ahli
 ahoy
 ahu
+ahur
 ahut
 aia
 aii
@@ -178,6 +179,7 @@ ayah
 ayam
 ayang
 ayat
+ayem
 ayo
 ayok
 ayu
@@ -216,6 +218,7 @@ dalem
 damai
 dancok
 dari
+dasar
 daun
 de
 dek
@@ -227,6 +230,7 @@ dina
 dino
 dipun
 diren
+duda
 dudu
 dulur
 duren
@@ -259,6 +263,7 @@ eka
 ekaa
 ekam
 ekeh
+ekek
 ekem
 eken
 eker
@@ -476,6 +481,7 @@ heti
 hi
 hias
 hiasan
+hidup
 hiji
 hilang
 hina
@@ -632,6 +638,7 @@ jipuk
 joko
 jokowi
 kabeh
+kadal
 kajut
 kaki
 kala
@@ -732,6 +739,7 @@ kunci
 kuno
 kuntul
 kur
+kurang
 kutang
 kutu
 la
@@ -856,6 +864,7 @@ nagih
 nah
 najis
 nali
+nalika
 nambal
 nampak
 nampan
@@ -940,6 +949,7 @@ ngopo
 ngoreng
 ngorok
 ngos
+ngosek
 ngotak
 ngotot
 ngudek
@@ -979,6 +989,7 @@ nonton
 nopi
 nopo
 nos
+nubruk
 nuduh
 nulis
 numpak
@@ -1117,6 +1128,7 @@ pujaan
 pun
 punten
 pup
+puri
 puyuh
 ra
 rabi
@@ -1259,6 +1271,7 @@ sudah
 sue
 sugeng
 sugih
+sui
 suka
 sule
 sultan
