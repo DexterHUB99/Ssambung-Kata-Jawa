@@ -96,6 +96,7 @@ ampar
 ampas
 ampuh
 ampun
+amuh
 amuk
 anaa
 anae
@@ -860,6 +861,7 @@ liane
 liar
 lidah
 lihat
+lik
 lika
 liku
 lila
@@ -1222,6 +1224,7 @@ pana
 pancen
 panjang
 panjenengan
+pantai
 pantat
 papa
 papah
@@ -1606,6 +1609,7 @@ urip
 uripmu
 urli
 urna
+uruk
 urun
 urung
 urup
