@@ -1155,6 +1155,7 @@ cuk
 cuka
 cuko
 cukup
+cukur
 cuma
 cumi
 curhat
@@ -3954,6 +3955,7 @@ luwe
 luweh
 luwes
 luwih
+luwung
 ma
 maaf
 mabuk
