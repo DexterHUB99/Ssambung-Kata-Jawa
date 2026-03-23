@@ -291,6 +291,7 @@ dodo
 dolan
 duda
 dudu
+duh
 dulur
 duren
 duso
@@ -462,6 +463,7 @@ gemblung
 gembok
 gendeng
 gene
+genep
 genteng
 gerah
 gerak
@@ -881,6 +883,7 @@ kus
 kutang
 kutu
 la
+labu
 lagu
 lah
 lakon
@@ -1603,6 +1606,7 @@ timah
 timun
 timur
 tiri
+tisu
 titid
 titit
 tito
