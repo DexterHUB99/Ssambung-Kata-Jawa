@@ -3375,6 +3375,7 @@ keruh
 keruk
 kesa
 kesah
+kesat
 kesel
 keselek
 keset
@@ -6449,6 +6450,7 @@ sia
 siaan
 siah
 sial
+sialan
 siap
 siapa
 siapo
