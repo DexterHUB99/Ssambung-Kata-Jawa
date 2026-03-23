@@ -5281,6 +5281,7 @@ ngurut
 ngus
 ngusik
 ngusir
+ngusu
 ngusung
 ngutang
 nguter
@@ -7858,6 +7859,7 @@ wo
 woh
 woi
 wok
+woko
 wolen
 wolo
 wolu
