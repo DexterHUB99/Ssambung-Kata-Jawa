@@ -6508,6 +6508,7 @@ seh
 sehat
 sei
 seje
+sejuk
 sek
 sekar
 sekarang
