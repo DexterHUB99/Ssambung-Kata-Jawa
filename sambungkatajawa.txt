@@ -2745,6 +2745,7 @@ irur
 irus
 is
 isa
+isab
 isak
 isan
 isanan
@@ -7350,6 +7351,7 @@ weneh
 wera
 weri
 werno
+weruh
 wes
 wesa
 wesi
