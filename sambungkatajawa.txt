@@ -6588,6 +6588,7 @@ siapa
 siapo
 sida
 sidang
+sigap
 sih
 siji
 sika
