@@ -788,6 +788,7 @@ auha
 aul
 aulah
 aum
+auma
 auman
 aun
 auna
@@ -3707,6 +3708,7 @@ lagu
 lah
 lahan
 lahe
+lair
 laju
 lak
 laka
