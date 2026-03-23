@@ -2811,6 +2811,7 @@ iseng
 isep
 isi
 isia
+isian
 isien
 isih
 isii
@@ -5891,6 +5892,7 @@ rahmat
 rahmi
 rai
 raib
+raiki
 raiku
 raimu
 raimui
