@@ -1391,6 +1391,7 @@ edi
 edo
 edok
 edon
+edun
 ef
 efek
 efu
@@ -2741,6 +2742,7 @@ irim
 irin
 iring
 iris
+irisan
 irit
 iroh
 iron
