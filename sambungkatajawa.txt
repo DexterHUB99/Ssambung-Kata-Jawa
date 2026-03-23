@@ -275,6 +275,7 @@ alay
 ale
 alek
 alem
+aleman
 ales
 alhamdulillah
 ali
@@ -4247,6 +4248,7 @@ muli
 mulia
 mulih
 mulung
+mulus
 mumbul
 mumet
 mumi
@@ -5633,6 +5635,7 @@ pisuh
 pit
 pita
 pitak
+pitakon
 pitek
 piten
 pitik
