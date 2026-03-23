@@ -1289,6 +1289,7 @@ delima
 delman
 demak
 demek
+demi
 demit
 demo
 demok
