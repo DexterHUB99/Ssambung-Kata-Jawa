@@ -5055,6 +5055,7 @@ ngiso
 ngisor
 ngisuh
 ngisui
+ngisuk
 ngitung
 ngiyom
 ngk
