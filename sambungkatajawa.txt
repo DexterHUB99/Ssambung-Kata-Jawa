@@ -4617,6 +4617,7 @@ nastar
 nasu
 nat
 nata
+natang
 natap
 nate
 nature
@@ -4877,6 +4878,7 @@ ngatuk
 ngatur
 ngaturaken
 ngaturi
+ngaur
 ngawa
 ngawal
 ngawasi
@@ -6561,6 +6563,7 @@ sayo
 sayor
 sayur
 se
+sebatas
 seda
 sedaya
 sedekah
@@ -7415,6 +7418,7 @@ umo
 umpama
 umpamane
 umpan
+umpane
 umpet
 umrah
 umu
