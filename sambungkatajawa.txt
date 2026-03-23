@@ -3872,6 +3872,7 @@ loho
 loji
 lok
 lokan
+lokasi
 loken
 loko
 lola
@@ -4512,6 +4513,7 @@ nengdi
 neni
 nentang
 nepa
+nepak
 nepi
 nepis
 nera
@@ -6897,6 +6899,7 @@ tuma
 tuman
 tumbal
 tumbas
+tumbuk
 tumi
 tumindak
 tumis
