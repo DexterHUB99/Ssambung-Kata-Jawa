@@ -3,6 +3,7 @@ aae
 aah
 abal
 abi
+abimanyu
 abis
 abu
 ad
@@ -11,6 +12,7 @@ adaa
 adi
 adipati
 adus
+aengi
 age
 ah
 aha
@@ -82,6 +84,7 @@ ampar
 ampas
 amuk
 anaa
+anae
 anak
 anakmu
 anal
@@ -134,6 +137,7 @@ arep
 ari
 aria
 arih
+arip
 arto
 arus
 asaa
@@ -165,6 +169,7 @@ atis
 atit
 atos
 atret
+atuh
 atum
 atur
 awas
@@ -186,6 +191,7 @@ bakso
 bakul
 basi
 beo
+bidan
 bidun
 biji
 bila
@@ -218,8 +224,10 @@ dik
 dimana
 din
 dina
+dino
 dipun
 diren
+dudu
 dulur
 duren
 duso
@@ -244,6 +252,7 @@ ehey
 ehi
 ehir
 eho
+ehop
 ehup
 ek
 eka
@@ -257,6 +266,7 @@ ekes
 eki
 eko
 ekor
+elan
 elang
 elek
 eleng
@@ -277,6 +287,7 @@ emboh
 embuh
 emoh
 emot
+empang
 empot
 enak
 endah
@@ -402,6 +413,7 @@ gumun
 guna
 gunung
 guri
+gurih
 guru
 guyon
 guyu
@@ -410,6 +422,7 @@ haa
 habibi
 habis
 hadeh
+hae
 hah
 haha
 hahaha
@@ -484,6 +497,7 @@ hoo
 hooh
 hore
 hormat
+horog
 hoyo
 hp
 hu
@@ -493,6 +507,7 @@ huk
 hukum
 hulu
 human
+humor
 huruf
 hurung
 hutan
@@ -541,6 +556,7 @@ imbalan
 imbas
 imboh
 imbuh
+imuh
 imut
 ina
 inang
@@ -557,6 +573,7 @@ inii
 insan
 inti
 inul
+ipi
 ipil
 ipin
 ipun
@@ -589,6 +606,7 @@ itil
 itila
 itu
 itung
+iuta
 iwak
 iwan
 iwenan
@@ -625,6 +643,7 @@ kamu
 kandang
 kanggo
 kanjut
+kantil
 kapok
 kare
 karep
@@ -699,6 +718,7 @@ kudu
 kue
 kui
 kuku
+kukur
 kula
 kulak
 kuli
@@ -707,6 +727,7 @@ kulo
 kulon
 kuma
 kuman
+kumbang
 kunci
 kuno
 kuntul
@@ -721,6 +742,7 @@ laler
 lali
 lama
 lambe
+lamon
 lampir
 lampu
 laos
@@ -769,12 +791,15 @@ lonte
 lontong
 loo
 loro
+los
+lose
 lotek
 lowe
 lowo
 loyo
 luka
 luluh
+lum
 lumah
 lumrah
 lungguh
@@ -806,6 +831,7 @@ memek
 meneng
 meri
 micek
+mingat
 mingkem
 misuh
 modar
@@ -822,6 +848,7 @@ mulih
 mundur
 mute
 na
+nabi
 nabrak
 nadah
 nafas
@@ -848,6 +875,7 @@ ndasmu
 neh
 neko
 nemen
+nemu
 nen
 nenek
 nenen
@@ -862,6 +890,7 @@ ngalu
 ngamuk
 nganggur
 ngangkang
+nganjuk
 ngantuk
 nganu
 ngapa
@@ -943,8 +972,10 @@ nol
 nolak
 nom
 nomer
+non
 nongki
 nono
+nonton
 nopi
 nopo
 nos
@@ -1004,6 +1035,7 @@ ompong
 on
 onar
 onde
+ondo
 ongkos
 ono
 onta
@@ -1062,6 +1094,7 @@ pepe
 pepek
 peteng
 pie
+pijet
 pikun
 pilar
 pindah
@@ -1106,6 +1139,7 @@ rasah
 rasan
 rasis
 raut
+rawa
 rawon
 rawuh
 rayu
@@ -1168,6 +1202,7 @@ sam
 sambel
 sambut
 sampah
+sampun
 samun
 sapi
 sarem
@@ -1191,6 +1226,7 @@ si
 siapa
 sii
 sikil
+siku
 sila
 silitem
 silitmu
@@ -1247,9 +1283,11 @@ tai
 tali
 tambak
 tameng
+tamu
 tamune
 tangi
 tansah
+tari
 tata
 tawa
 tebu
@@ -1264,6 +1302,7 @@ tempek
 temu
 tenan
 teran
+terang
 teri
 terima
 tete
@@ -1280,6 +1319,7 @@ tolol
 tolong
 tomat
 tonggo
+tongkol
 toto
 tua
 tugel
@@ -1301,7 +1341,9 @@ uang
 uange
 udah
 udal
+udan
 udang
+udel
 udin
 udu
 udur
@@ -1311,6 +1353,8 @@ uhe
 uhi
 uho
 ui
+uka
+ukara
 uke
 ukir
 ukiran
@@ -1347,6 +1391,7 @@ ungkal
 ungkit
 unjuk
 uno
+unta
 untir
 untu
 untuk
@@ -1408,6 +1453,7 @@ waktu
 waras
 warung
 wates
+watir
 wayang
 we
 wedang
