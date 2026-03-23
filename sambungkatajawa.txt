@@ -162,6 +162,7 @@ aria
 arih
 arip
 arto
+aru
 arum
 arus
 asaa
@@ -178,6 +179,7 @@ asew
 asi
 asia
 asik
+asin
 asli
 asoy
 astane
@@ -507,6 +509,7 @@ hartamu
 harum
 hase
 hati
+haturnuhun
 hawa
 hayang
 hayat
@@ -529,6 +532,7 @@ hi
 hias
 hiasan
 hidup
+hihihi
 hiji
 hilang
 hina
@@ -563,6 +567,7 @@ hukume
 hulu
 human
 humor
+huni
 huruf
 hurung
 hus
@@ -609,6 +614,7 @@ ilo
 ilok
 ilu
 imas
+imba
 imbalan
 imbas
 imboh
@@ -943,6 +949,7 @@ mules
 mulih
 mulus
 mundur
+murah
 mute
 na
 nabi
@@ -1041,6 +1048,7 @@ ngolo
 ngoloh
 ngomongo
 ngompol
+ngong
 ngoni
 ngopi
 ngopo
@@ -1216,6 +1224,7 @@ pari
 pas
 pasa
 pasti
+patil
 peko
 peli
 pen
@@ -1512,6 +1521,7 @@ udang
 udel
 udin
 udu
+udud
 udur
 uh
 uha
@@ -1519,6 +1529,7 @@ uhe
 uhi
 uho
 ui
+ujar
 ujian
 uka
 ukar
@@ -1636,6 +1647,7 @@ we
 wedang
 wedi
 wedok
+wee
 weh
 welo
 wengi
