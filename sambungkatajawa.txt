@@ -502,7 +502,6 @@ anis
 anisa
 anit
 aniy
-anja
 anjai
 anjaing
 anjani
@@ -656,7 +655,6 @@ arus
 arwa
 arwah
 arwana
-arya
 as
 asa
 asaa
@@ -4117,7 +4115,6 @@ mika
 miker
 miki
 mikir
-miko
 miku
 mikul
 mil
@@ -4646,7 +4643,6 @@ ngebas
 ngebul
 ngece
 ngecek
-ngecet
 ngedang
 ngede
 ngeden
@@ -4774,7 +4770,6 @@ ngiki
 ngikut
 ngil
 ngila
-ngilag
 ngilang
 ngilap
 ngiler
@@ -6092,7 +6087,6 @@ sabus
 sabut
 sadah
 sadewa
-sadis
 sadurung
 sae
 saestu
@@ -6180,7 +6174,6 @@ sarun
 sarung
 sas
 sasa
-sasak
 sasi
 sasimo
 sastra
@@ -6667,7 +6660,6 @@ tetan
 tete
 tetek
 tetelan
-ti
 tiba
 tibak
 tibo
