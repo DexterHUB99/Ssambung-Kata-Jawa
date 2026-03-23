@@ -1999,6 +1999,7 @@ gedor
 gedung
 gegayuhan
 geger
+geguritan
 geh
 gek
 gel
@@ -6576,6 +6577,7 @@ suko
 suku
 sukun
 sukur
+sul
 sula
 sulak
 sulam
