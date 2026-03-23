@@ -4975,6 +4975,7 @@ ngobol
 ngobong
 ngobrol
 ngocok
+ngocol
 ngodeh
 ngodok
 ngojek
