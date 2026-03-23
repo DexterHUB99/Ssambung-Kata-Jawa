@@ -2606,6 +2606,7 @@ iling
 ilir
 ilis
 ilmu
+ilmune
 ilo
 iloe
 ilok
@@ -4468,6 +4469,7 @@ neka
 nekat
 neki
 neko
+nekoi
 nel
 nela
 nelen
@@ -6592,6 +6594,7 @@ ta
 taa
 taat
 taati
+tabah
 tabek
 tabuh
 tabung
