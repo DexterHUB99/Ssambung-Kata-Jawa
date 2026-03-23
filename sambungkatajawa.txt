@@ -756,6 +756,7 @@ atun
 atur
 atus
 atut
+aub
 auh
 auha
 aul
