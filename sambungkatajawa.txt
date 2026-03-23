@@ -235,6 +235,7 @@ dasar
 daun
 de
 dek
+dereng
 didi
 dik
 dima
@@ -285,6 +286,7 @@ ekes
 eki
 eko
 ekor
+ela
 elan
 elang
 elek
@@ -337,6 +339,7 @@ ereng
 eri
 eria
 erika
+ero
 eroh
 erok
 eror
@@ -662,6 +665,7 @@ jokowi
 kabeh
 kadal
 kajut
+kak
 kaki
 kala
 kali
@@ -672,6 +676,7 @@ kamu
 kandang
 kanggo
 kanjut
+kanti
 kantil
 kapok
 kare
@@ -1137,6 +1142,7 @@ papah
 parang
 parem
 pari
+pasa
 pasti
 peko
 peli
@@ -1188,6 +1194,7 @@ rakus
 ramah
 rambut
 rampun
+ramua
 ramuan
 ras
 rasa
@@ -1247,6 +1254,7 @@ rukun
 rumah
 rumus
 run
+rungkad
 rupa
 rupamu
 rusa
@@ -1257,15 +1265,18 @@ ruwet
 sa
 sabi
 saestu
+saged
 saiki
 salut
 sam
 sambel
 sambut
 sami
+samin
 sampah
 sampun
 samun
+santri
 sapi
 sarem
 saru
@@ -1425,6 +1436,7 @@ uka
 ukar
 ukara
 uke
+ukin
 ukir
 ukiran
 uko
