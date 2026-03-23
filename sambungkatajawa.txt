@@ -4095,6 +4095,7 @@ malam
 malang
 male
 maleh
+males
 malih
 maling
 malu
@@ -6420,6 +6421,7 @@ sedaya
 sedeng
 sega
 segar
+segawon
 seger
 sego
 seh
