@@ -1092,6 +1092,7 @@ ngapa
 ngapae
 ngapak
 ngapunten
+ngapurancang
 ngapusi
 ngarep
 ngarit
@@ -1330,6 +1331,7 @@ pasa
 pasti
 patil
 pean
+pei
 peko
 peli
 pen
@@ -1726,6 +1728,7 @@ upo
 ur
 ura
 urab
+uraka
 uram
 urang
 urap
@@ -1807,6 +1810,7 @@ woko
 wong
 wonten
 woo
+wuh
 wur
 xenon
 xray
