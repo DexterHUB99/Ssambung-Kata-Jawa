@@ -6984,6 +6984,7 @@ tetelan
 ti
 tiba
 tibak
+tiban
 tibo
 tik
 tika
