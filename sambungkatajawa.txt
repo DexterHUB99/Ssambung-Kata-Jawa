@@ -866,6 +866,7 @@ bali
 baliho
 balik
 balok
+balon
 bambang
 bambu
 ban
@@ -877,6 +878,7 @@ bantal
 banyu
 bapak
 bara
+baris
 bas
 basi
 basoka
