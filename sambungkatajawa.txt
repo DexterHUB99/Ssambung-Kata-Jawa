@@ -4561,6 +4561,7 @@ name
 nami
 namo
 nampa
+nampak
 nampan
 nampar
 nampol
@@ -4704,6 +4705,7 @@ nepis
 nera
 neraka
 nerang
+neras
 nere
 neri
 nerik
