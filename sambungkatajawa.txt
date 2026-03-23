@@ -453,6 +453,7 @@ aneh
 anehi
 anek
 anep
+anes
 angan
 angaran
 angat
@@ -2814,6 +2815,7 @@ isoma
 isor
 isro
 istana
+isti
 istiadat
 istigfar
 istilah
