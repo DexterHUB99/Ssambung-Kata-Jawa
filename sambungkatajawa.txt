@@ -3361,6 +3361,7 @@ kesusu
 keta
 ketan
 ketek
+ketemu
 keterangan
 ketik
 ketok
@@ -4812,6 +4813,7 @@ nger
 ngerai
 ngerak
 ngerap
+ngerawang
 ngere
 ngerem
 ngerepoti
