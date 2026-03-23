@@ -3476,6 +3476,7 @@ koki
 koko
 kokoo
 kokop
+kokpit
 kol
 kola
 kolah
@@ -4053,6 +4054,7 @@ madura
 mae
 maem
 maen
+maga
 magan
 magelang
 mager
@@ -6319,6 +6321,7 @@ sambang
 sambat
 sambel
 sambi
+sambil
 sambit
 sambung
 sambut
