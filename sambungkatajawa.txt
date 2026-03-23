@@ -891,6 +891,7 @@ bak
 bakoh
 bakti
 baku
+bakul
 bal
 bala
 balap
@@ -3566,6 +3567,7 @@ kite
 kiwa
 kiye
 klambi
+klambimu
 klambine
 klasa
 klaten
