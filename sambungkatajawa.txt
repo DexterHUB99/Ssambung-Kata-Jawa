@@ -55,6 +55,7 @@ akang
 akar
 akas
 akbar
+ake
 akeh
 aki
 akii
@@ -89,6 +90,7 @@ ameh
 amen
 amer
 amerga
+amet
 amin
 amis
 amit
@@ -181,6 +183,7 @@ asi
 asia
 asik
 asin
+asing
 asli
 asoy
 astane
@@ -190,6 +193,7 @@ asui
 ata
 atap
 atas
+ate
 atek
 ater
 ati
@@ -595,6 +599,7 @@ ika
 ikaa
 ikal
 ikan
+ikat
 iket
 ikhlas
 iki
@@ -622,6 +627,7 @@ imbalan
 imbas
 imboh
 imbuh
+impian
 imuh
 imut
 in
@@ -668,6 +674,7 @@ isin
 islam
 iso
 isu
+isui
 isuk
 isya
 ita
@@ -704,6 +711,7 @@ joko
 jokowi
 kabeh
 kadal
+kain
 kajut
 kak
 kaki
@@ -968,6 +976,7 @@ naik
 najis
 nali
 nalika
+nambah
 nambal
 nampak
 nampan
@@ -1209,6 +1218,7 @@ osek
 oseng
 oser
 osok
+otak
 otol
 otot
 ox
@@ -1309,6 +1319,7 @@ remba
 rembes
 renang
 rengginang
+reo
 repot
 rere
 resah
@@ -1614,6 +1625,7 @@ urun
 urung
 urup
 urus
+urut
 usa
 usah
 usaha
