@@ -884,6 +884,7 @@ bawak
 bawuk
 bayi
 be
+beban
 bebe
 bebek
 becak
@@ -2643,6 +2644,7 @@ inak
 inang
 inda
 indah
+indahan
 indak
 indang
 indek
@@ -4557,6 +4559,8 @@ ngaka
 ngakak
 ngakang
 ngaku
+ngakue
+ngakui
 ngal
 ngalah
 ngalam
@@ -4801,6 +4805,7 @@ nggoni
 nggowo
 ngguwak
 ngguyu
+ngibu
 ngibul
 ngicil
 ngidam
@@ -5800,6 +5805,7 @@ rai
 raib
 raiku
 raimu
+raimui
 raine
 raiso
 raja
@@ -6929,6 +6935,7 @@ udek
 udel
 udeng
 udi
+udik
 udin
 udo
 udu
