@@ -1084,6 +1084,7 @@ cenil
 cepak
 cerah
 ceret
+cerita
 cewek
 ci
 cibi
@@ -2605,6 +2606,7 @@ in
 ina
 inaa
 inah
+inai
 inak
 inang
 inda
@@ -4515,6 +4517,7 @@ ngalor
 ngalu
 ngalus
 ngam
+ngamah
 ngamal
 ngaman
 ngamar
