@@ -3001,6 +3001,7 @@ jajal
 jajan
 jak
 jaka
+jakaa
 jala
 jalan
 jalanan
@@ -6718,6 +6719,7 @@ sila
 silah
 silet
 silit
+silitem
 silo
 sim
 sima
