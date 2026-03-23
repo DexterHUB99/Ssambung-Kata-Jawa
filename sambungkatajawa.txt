@@ -198,7 +198,6 @@ akad
 akah
 akak
 akal
-akam
 akan
 akang
 akar
@@ -276,7 +275,6 @@ alay
 ale
 alek
 alem
-aleman
 ales
 alhamdulillah
 ali
@@ -881,6 +879,7 @@ batuk
 batur
 bau
 bawak
+bawok
 bawuk
 bayi
 be
@@ -1016,7 +1015,6 @@ bujo
 buk
 buka
 bukan
-bukit
 buko
 buku
 bula
@@ -1703,7 +1701,6 @@ ese
 esek
 esem
 eseman
-eses
 esi
 esih
 esil
@@ -1773,7 +1770,6 @@ eyang
 eye
 eyem
 eyo
-eyu
 ez
 faedah
 fafa
@@ -2174,6 +2170,7 @@ gudang
 gudeg
 gudel
 gugah
+gugat
 gugu
 gugug
 guguk
@@ -2383,7 +2380,6 @@ hidayah
 hidhup
 hidup
 hihihi
-hijab
 hijau
 hiji
 hijrah
@@ -2463,7 +2459,6 @@ hurung
 hurup
 hus
 husi
-husna
 hutan
 hutang
 huti
@@ -2748,7 +2743,6 @@ irur
 irus
 is
 isa
-isab
 isak
 isan
 isanan
@@ -2993,7 +2987,6 @@ kados
 kadung
 kae
 kagem
-kagum
 kagungan
 kail
 kain
@@ -3173,7 +3166,6 @@ kebab
 kebang
 kebo
 kecap
-kecemplung
 kedah
 keder
 kediri
@@ -3252,6 +3244,7 @@ kenek
 keni
 kenok
 kenon
+kenong
 kenopo
 kentang
 kenter
@@ -3531,7 +3524,6 @@ kun
 kuna
 kunang
 kunci
-kuncup
 kundur
 kune
 kung
@@ -4137,6 +4129,7 @@ mesake
 mesem
 mesin
 meteng
+metu
 mi
 mia
 micek
@@ -4182,7 +4175,6 @@ misu
 misuh
 mit
 miten
-mlebu
 mlumah
 mmanuk
 mo
@@ -4259,7 +4251,6 @@ muli
 mulia
 mulih
 mulung
-mulus
 mumbul
 mumet
 mumi
@@ -4509,7 +4500,6 @@ ngabari
 ngabdi
 ngaben
 ngabi
-ngablak
 ngabrit
 ngabur
 ngaca
@@ -4984,7 +4974,6 @@ nguntal
 ngunu
 ngupas
 ngupe
-ngupel
 ngupi
 ngupil
 nguping
@@ -5207,6 +5196,7 @@ ogak
 oge
 ogi
 ogoh
+ogol
 ogor
 ogsana
 oh
@@ -5366,7 +5356,6 @@ oreg
 orek
 oren
 oreng
-oreo
 orewa
 organisasi
 ori
@@ -5400,7 +5389,6 @@ otom
 otot
 ow
 owah
-owak
 ox
 oy
 oyak
@@ -5650,7 +5638,6 @@ pisuh
 pit
 pita
 pitak
-pitakon
 pitek
 piten
 pitik
@@ -5785,7 +5772,6 @@ ragi
 ragil
 rah
 raha
-rahasia
 rahayu
 rahka
 rahmat
@@ -5962,7 +5948,6 @@ rewel
 ri
 ria
 rian
-riana
 riang
 ribet
 ribut
@@ -6773,7 +6758,6 @@ tisu
 tit
 tita
 titan
-titeni
 titi
 titid
 titik
@@ -6939,7 +6923,6 @@ ugah
 ugal
 ugar
 uge
-ugi
 ugo
 ugu
 uh
@@ -7364,7 +7347,6 @@ weneh
 wera
 weri
 werno
-weruh
 wes
 wesa
 wesi
