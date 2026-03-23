@@ -222,6 +222,7 @@ atur
 aup
 awas
 ax
+aya
 ayah
 ayam
 ayang
@@ -432,6 +433,7 @@ gagal
 gah
 gajah
 gak
+galak
 gali
 galih
 gaman
@@ -485,6 +487,7 @@ geseng
 geser
 gigi
 gigir
+gih
 gila
 gilo
 ginjal
@@ -530,6 +533,7 @@ hai
 hajat
 haji
 hak
+haki
 hakim
 hala
 halah
@@ -796,6 +800,7 @@ katuh
 kawani
 kawin
 kawit
+kaya
 kayu
 ke
 kedai
@@ -893,6 +898,7 @@ kuno
 kunti
 kuntul
 kupat
+kuping
 kur
 kurang
 kursi
@@ -1039,6 +1045,7 @@ mulaa
 mulai
 muleh
 mules
+muli
 mulih
 mulus
 mumpung
@@ -1594,6 +1601,7 @@ sun
 sunar
 sunat
 supel
+surup
 susah
 susu
 susumu
@@ -1616,6 +1624,7 @@ tamu
 tamune
 tangi
 tansah
+tape
 tapi
 tapuk
 tari
