@@ -6907,6 +6907,7 @@ tamu
 tan
 tanah
 tandhuk
+tanduk
 tandur
 tanduran
 tangan
@@ -7768,6 +7769,7 @@ xilofon
 xray
 ya
 yaa
+yaaa
 yaampun
 yadi
 yah
