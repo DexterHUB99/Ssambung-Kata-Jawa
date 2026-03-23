@@ -502,6 +502,7 @@ anis
 anisa
 anit
 aniy
+anja
 anjai
 anjaing
 anjani
@@ -4115,6 +4116,7 @@ mika
 miker
 miki
 mikir
+miko
 miku
 mikul
 mil
@@ -4643,6 +4645,7 @@ ngebas
 ngebul
 ngece
 ngecek
+ngecet
 ngedang
 ngede
 ngeden
@@ -4770,6 +4773,7 @@ ngiki
 ngikut
 ngil
 ngila
+ngilag
 ngilang
 ngilap
 ngiler
@@ -6087,6 +6091,7 @@ sabus
 sabut
 sadah
 sadewa
+sadis
 sadurung
 sae
 saestu
