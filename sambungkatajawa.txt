@@ -1531,6 +1531,7 @@ ekel
 ekem
 ekep
 eker
+ekes
 eket
 ekey
 eki
