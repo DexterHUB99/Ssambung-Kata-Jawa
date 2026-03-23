@@ -313,6 +313,7 @@ alus
 am
 ama
 amad
+amae
 amah
 amai
 amak
@@ -4941,6 +4942,7 @@ ngimbohi
 ngimpi
 ngin
 nginan
+nginang
 nginap
 nginceng
 nginduk
