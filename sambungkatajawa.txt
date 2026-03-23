@@ -6362,6 +6362,7 @@ simbok
 simi
 simo
 simpang
+simpenan
 sinau
 sindur
 sing
