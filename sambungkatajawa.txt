@@ -57,6 +57,7 @@ akas
 akbar
 ake
 akeh
+akhir
 aki
 akii
 aksara
@@ -237,12 +238,14 @@ bisa
 bisaa
 biso
 bisu
+bobi
 bola
 bom
 bos
 boso
 buang
 buto
+campur
 ce
 cen
 cimu
@@ -337,6 +340,7 @@ eman
 emang
 ember
 emboh
+embong
 embuh
 emog
 emoh
@@ -868,6 +872,7 @@ lampu
 lancar
 landep
 laos
+laron
 las
 lati
 laut
@@ -945,6 +950,7 @@ makruh
 malah
 mampus
 mangan
+mantul
 manuk
 manut
 marah
@@ -953,6 +959,7 @@ mas
 masuk
 mata
 matamu
+mati
 matur
 maturnuwun
 mau
@@ -1290,6 +1297,7 @@ pijet
 pijit
 pikun
 pilar
+pilu
 pindah
 pipi
 pipit
@@ -1331,6 +1339,7 @@ rambut
 rampun
 ramua
 ramuan
+rapuh
 ras
 rasa
 rasah
@@ -1364,6 +1373,7 @@ rik
 rika
 riki
 rila
+rima
 rin
 rindu
 ringo
@@ -1512,6 +1522,7 @@ tali
 tambak
 tameng
 tampar
+tampol
 tamu
 tamune
 tangi
@@ -1645,6 +1656,7 @@ untumu
 untung
 upah
 upel
+upi
 upil
 upo
 ur
