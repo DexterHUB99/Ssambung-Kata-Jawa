@@ -3662,6 +3662,7 @@ kur
 kura
 kuran
 kurang
+kurban
 kuri
 kurma
 kuro
