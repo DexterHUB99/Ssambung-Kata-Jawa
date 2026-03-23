@@ -59,6 +59,7 @@ akii
 aksara
 aku
 akuk
+akun
 akur
 al
 alah
@@ -80,6 +81,7 @@ amanah
 amba
 ambeng
 ambil
+amblas
 ambyar
 ameh
 amen
@@ -158,6 +160,7 @@ arip
 arto
 arus
 asaa
+asah
 asak
 asal
 asam
@@ -242,6 +245,7 @@ dasar
 daun
 de
 dek
+delman
 dereng
 didi
 dik
@@ -543,6 +547,7 @@ hoyo
 hp
 hu
 hubung
+hubungan
 hujan
 huk
 hukum
@@ -726,6 +731,7 @@ kerek
 keri
 keruh
 kerut
+kesandung
 kesem
 kesleo
 ketir
@@ -738,6 +744,7 @@ kijang
 kik
 kikil
 kil
+kilen
 kin
 kini
 kintel
@@ -911,6 +918,7 @@ modar
 moh
 moleh
 monggo
+mugi
 muh
 muji
 mul
@@ -970,6 +978,7 @@ ngamuk
 nganggur
 ngangkang
 nganjuk
+ngano
 ngantuk
 nganu
 ngapa
@@ -1553,6 +1562,7 @@ urung
 urup
 urus
 usa
+usah
 usaha
 usai
 usap
