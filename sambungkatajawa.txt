@@ -900,6 +900,7 @@ batang
 bathuk
 batik
 batir
+batu
 batuk
 batur
 bau
@@ -2404,6 +2405,7 @@ haya
 hayaa
 hayang
 hayat
+hayi
 hayo
 hayoi
 hayu
