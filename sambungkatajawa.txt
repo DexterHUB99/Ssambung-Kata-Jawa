@@ -1713,6 +1713,7 @@ ese
 esek
 esem
 eseman
+esep
 eses
 esi
 esih
@@ -6796,6 +6797,7 @@ timur
 tin
 tina
 tindak
+tindas
 tindhak
 tinggal
 tinju
