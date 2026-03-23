@@ -4545,6 +4545,7 @@ ngangkang
 ngangkring
 ngangsu
 ngangsur
+nganjok
 nganjuk
 nganjut
 ngantem
@@ -6363,6 +6364,7 @@ soroh
 sos
 sosis
 sosok
+sot
 sotel
 soto
 sowan
