@@ -2165,6 +2165,7 @@ gincu
 gincung
 gini
 ginjal
+ginjel
 gir
 girang
 girap
@@ -4065,6 +4066,7 @@ lumuh
 lunga
 lungguh
 lungo
+lungsur
 luntur
 lunyu
 lup
@@ -6177,6 +6179,7 @@ rih
 rii
 rik
 rika
+rikaa
 rikala
 rikan
 rikana
