@@ -2133,6 +2133,7 @@ gendon
 gendong
 gendul
 gendut
+gene
 geneya
 geng
 geni
@@ -5691,6 +5692,7 @@ osek
 osel
 osem
 oseng
+oser
 osik
 osin
 osing
