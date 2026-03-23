@@ -82,7 +82,6 @@ agi
 agil
 agit
 ago
-agos
 agu
 agud
 agung
@@ -2023,7 +2022,6 @@ geneya
 geng
 geni
 genjik
-genjot
 geno
 gentar
 genteng
@@ -2867,7 +2865,6 @@ jamput
 jamri
 jamu
 jamur
-jan
 jancok
 jancuk
 janda
@@ -3070,7 +3067,6 @@ kancing
 kancut
 kanda
 kandang
-kandani
 kandas
 kandel
 kandhang
@@ -3472,7 +3468,6 @@ kos
 kosan
 kosek
 kosong
-kot
 kota
 kotak
 kotang
@@ -4299,6 +4294,7 @@ murka
 murung
 mus
 musa
+musan
 musi
 musim
 musuh
@@ -4951,7 +4947,6 @@ ngpel
 ngrasa
 ngrumat
 ngrumpi
-ngsu
 ngubeng
 nguber
 ngubur
@@ -6421,7 +6416,6 @@ sodor
 sogoh
 sogok
 sok
-soka
 soko
 sokor
 sol
@@ -7402,7 +7396,6 @@ wijaya
 wiji
 wikan
 wiko
-wila
 wilan
 wilangan
 wili
@@ -7508,7 +7501,6 @@ yohan
 yoi
 yoiku
 yok
-yoko
 yoli
 yolo
 yom
