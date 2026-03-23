@@ -2328,6 +2328,7 @@ hah
 haha
 hahaha
 hai
+haii
 haing
 hajar
 hajat
@@ -5786,6 +5787,7 @@ pidang
 pidhak
 pie
 pii
+pijar
 pijat
 pijet
 pijit
