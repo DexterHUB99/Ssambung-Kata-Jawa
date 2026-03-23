@@ -1333,6 +1333,7 @@ diro
 dis
 disana
 disawah
+disek
 disini
 diso
 dita
@@ -5981,6 +5982,7 @@ rak
 raka
 rakit
 rako
+raksasa
 raku
 rakus
 rala
@@ -6765,6 +6767,7 @@ suweng
 suwi
 suwun
 swara
+syu
 syukuran
 ta
 taa
