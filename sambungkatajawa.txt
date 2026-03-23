@@ -7176,6 +7176,7 @@ ubun
 ubuna
 ubur
 ucap
+ucu
 ucul
 uda
 udah
