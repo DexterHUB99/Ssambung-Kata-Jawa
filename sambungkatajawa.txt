@@ -175,6 +175,7 @@ arto
 aru
 arum
 arus
+as
 asaa
 asah
 asak
@@ -1020,6 +1021,7 @@ muji
 mul
 mulaa
 mulai
+muleh
 mules
 mulih
 mulus
@@ -1171,6 +1173,7 @@ ni
 nia
 niba
 nii
+nik
 nikah
 niki
 niku
