@@ -19,6 +19,7 @@ ah
 aha
 ahad
 ahah
+aham
 ahap
 ahat
 ahay
@@ -26,6 +27,7 @@ ahe
 ahek
 ahen
 ahh
+ahhh
 ahi
 ahir
 ahli
@@ -47,6 +49,7 @@ aiwe
 ajeng
 aji
 ajing
+ajining
 ak
 aka
 akal
@@ -1149,6 +1152,7 @@ ngolah
 ngolak
 ngolo
 ngoloh
+ngombe
 ngomongo
 ngompol
 ngompor
@@ -1506,6 +1510,7 @@ se
 segawon
 sego
 seh
+sek
 selo
 seng
 sepele
@@ -1604,6 +1609,7 @@ tebu
 tegak
 tekan
 tela
+telan
 telek
 telo
 telu
