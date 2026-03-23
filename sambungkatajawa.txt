@@ -187,6 +187,7 @@ asu
 asuh
 asui
 ata
+atap
 atas
 atek
 ater
@@ -613,6 +614,7 @@ ilmu
 ilo
 ilok
 ilu
+iman
 imas
 imba
 imbalan
@@ -706,6 +708,7 @@ kak
 kaki
 kala
 kali
+kalimat
 kam
 kambil
 kampung
@@ -859,6 +862,7 @@ lidah
 lihat
 lika
 liku
+lila
 lilin
 lilo
 lima
@@ -1011,6 +1015,7 @@ ngapusi
 ngarep
 ngarit
 ngarti
+ngasah
 ngasem
 ngaso
 ngatuk
@@ -1030,9 +1035,11 @@ ngesor
 ngesot
 ngesuk
 ngewe
+ngg
 nggateli
 nggeh
 nggih
+nggoo
 ngguyu
 ngibul
 ngidul
@@ -1250,6 +1257,7 @@ piye
 po
 pojok
 polah
+poli
 pon
 pondok
 poo
@@ -1335,6 +1343,7 @@ rop
 roro
 roso
 rowo
+ruang
 rubuh
 rukun
 rumah
@@ -1418,6 +1427,7 @@ soto
 soyo
 su
 suasu
+suba
 suci
 sudah
 sudi
@@ -1584,6 +1594,7 @@ untung
 upah
 upel
 upil
+upo
 ur
 ura
 urab
