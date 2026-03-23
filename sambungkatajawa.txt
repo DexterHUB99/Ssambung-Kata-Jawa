@@ -416,6 +416,7 @@ ananas
 anane
 anang
 ananging
+ananti
 anap
 anar
 anas
@@ -5282,6 +5283,7 @@ nuru
 nurun
 nurut
 nusa
+nusun
 nut
 nutuk
 nutup
