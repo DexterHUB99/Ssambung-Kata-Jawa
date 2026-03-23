@@ -1415,6 +1415,7 @@ eha
 ehak
 ehal
 ehan
+ehar
 ehat
 ehaw
 ehawa
@@ -2535,6 +2536,7 @@ ihla
 ihlo
 ihma
 ihna
+ihni
 iho
 ihre
 ihri
@@ -6220,6 +6222,7 @@ sakanane
 sakdurunge
 sakia
 sakit
+sakno
 saksi
 sakti
 saku
