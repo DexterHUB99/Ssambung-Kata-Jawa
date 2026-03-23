@@ -5194,6 +5194,7 @@ ngupil
 nguping
 ngurang
 nguras
+nguri
 ngurip
 ngurmati
 nguru
