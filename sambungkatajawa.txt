@@ -171,6 +171,7 @@ aisin
 aita
 aiwa
 aiwak
+aiwe
 aiya
 aiyo
 aj
@@ -453,6 +454,7 @@ andalan
 andang
 andap
 andasmo
+andha
 andhap
 andhong
 andi
@@ -732,6 +734,7 @@ asta
 astaga
 astagfirullah
 astaghfirullah
+astane
 asti
 asu
 asue
