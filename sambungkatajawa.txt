@@ -1961,6 +1961,7 @@ gantungan
 gap
 gapapa
 gape
+gapi
 gaplek
 gapleki
 gapopo
@@ -5007,6 +5008,7 @@ nginceng
 nginduk
 nginep
 nging
+ngingsun
 nginjak
 nginjen
 nginthil
@@ -7354,6 +7356,7 @@ uncal
 undak
 undang
 undangan
+undar
 undhuh
 undi
 undian
