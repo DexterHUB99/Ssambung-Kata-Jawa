@@ -3188,6 +3188,7 @@ kemah
 kemang
 kemangi
 kemari
+kemarin
 kemas
 kemauan
 kemayu
@@ -4200,7 +4201,6 @@ muk
 muka
 mukak
 mukaka
-muke
 mukul
 mul
 mula
