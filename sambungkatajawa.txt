@@ -5570,6 +5570,7 @@ oloh
 olok
 olokan
 olong
+oloo
 olop
 olor
 olos
@@ -6528,6 +6529,7 @@ saleh
 sali
 salim
 salon
+salut
 sam
 sama
 samak
@@ -7050,6 +7052,7 @@ tebu
 tegak
 teguh
 teh
+tekan
 teke
 teko
 tekor
