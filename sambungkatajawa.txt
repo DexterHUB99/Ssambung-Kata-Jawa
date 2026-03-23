@@ -128,6 +128,7 @@ angsle
 angu
 ani
 aniani
+aning
 anis
 anjai
 anjay
@@ -160,6 +161,7 @@ ara
 arab
 arah
 arak
+aras
 areng
 arep
 ari
@@ -221,6 +223,7 @@ ayok
 ayu
 ayun
 az
+baa
 babat
 babi
 bae
@@ -499,6 +502,7 @@ haa
 habibi
 habis
 hadeh
+hadir
 hae
 hah
 haha
@@ -531,6 +535,7 @@ harian
 harimau
 hartamu
 harum
+harus
 hase
 hati
 haturnuhun
@@ -956,6 +961,7 @@ mai
 makan
 makruh
 malah
+mama
 mampus
 mangan
 mantul
@@ -1037,6 +1043,7 @@ nawar
 ndasmu
 neh
 neko
+nembe
 nemen
 nemu
 nen
@@ -1055,6 +1062,7 @@ ngamok
 ngamuk
 nganggur
 ngangkang
+ngangso
 nganjuk
 ngano
 ngantuk
@@ -1204,6 +1212,7 @@ oker
 okin
 okok
 okol
+okum
 ol
 olah
 olahan
@@ -1510,6 +1519,7 @@ sugih
 sui
 suka
 sule
+suling
 sultan
 sum
 sumpah
