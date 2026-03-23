@@ -46,6 +46,7 @@ ade
 adegan
 adek
 adem
+ader
 adhem
 adhuh
 adi
@@ -133,6 +134,7 @@ ahor
 ahoy
 ahu
 ahuk
+ahum
 ahun
 ahur
 ahus
@@ -292,7 +294,6 @@ alit
 alm
 alo
 alok
-alom
 alon
 alor
 alot
@@ -340,9 +341,9 @@ ambruk
 ambu
 ambung
 ambyar
-ambyur
 ame
 ameh
+amek
 amel
 amem
 amen
@@ -830,7 +831,6 @@ babik
 babu
 bacok
 bacot
-badak
 badan
 badhe
 badut
@@ -863,7 +863,6 @@ bandeng
 bangke
 bangsat
 bantal
-bantu
 banyu
 bapak
 bara
@@ -956,6 +955,7 @@ bisiki
 bismillah
 biso
 bisu
+bisulan
 biting
 biu
 biya
@@ -1001,6 +1001,7 @@ bubu
 bubun
 bubur
 bubut
+bud
 budak
 budal
 budar
@@ -1189,7 +1190,6 @@ damu
 dan
 danau
 dancok
-dancuk
 dandang
 dangdut
 dangkal
@@ -1233,6 +1233,7 @@ demo
 demok
 dengkul
 depak
+deras
 dere
 derek
 dereng
@@ -1286,6 +1287,7 @@ disana
 disawah
 disini
 diso
+dita
 ditoto
 dlogok
 doa
@@ -1397,8 +1399,6 @@ eha
 ehak
 ehal
 ehan
-ehas
-ehat
 ehaw
 ehawa
 ehe
@@ -1742,6 +1742,7 @@ etul
 etum
 etur
 etus
+eva
 evan
 evi
 ew
@@ -1768,6 +1769,7 @@ eye
 eyem
 eyo
 ez
+faedah
 fafa
 fajar
 fantasi
@@ -1784,6 +1786,7 @@ gabut
 gaco
 gada
 gadah
+gadang
 gading
 gadu
 gaduh
@@ -1959,6 +1962,7 @@ geh
 gek
 gel
 gela
+gelan
 gelang
 gelap
 gelar
@@ -1985,6 +1989,7 @@ gembol
 gembong
 gembrot
 gemes
+gemeter
 gempa
 gempal
 gemu
@@ -2042,7 +2047,6 @@ get
 geta
 gete
 geter
-gethok
 gethuk
 geti
 getih
@@ -2188,7 +2192,6 @@ gun
 guna
 gunae
 gundah
-gundhul
 gundik
 gundul
 gunem
@@ -2384,6 +2387,7 @@ himpunan
 hina
 hinaan
 hinggap
+hir
 hira
 hiri
 hiruk
@@ -3759,6 +3763,7 @@ lilit
 lilo
 lim
 lima
+limao
 limbah
 limo
 limolas
@@ -3951,7 +3956,6 @@ madura
 mae
 maem
 maen
-maga
 magan
 magelang
 mager
@@ -4182,6 +4186,7 @@ moh
 moha
 mojo
 mok
+moka
 mokol
 mol
 molak
@@ -4387,7 +4392,6 @@ naro
 narsis
 naru
 naruh
-naruk
 nas
 nasa
 nasab
@@ -4417,6 +4421,7 @@ ndoro
 nduk
 ne
 nebang
+nebasi
 neda
 nedha
 nedhak
@@ -4520,6 +4525,7 @@ ngagu
 ngah
 ngajak
 ngajar
+ngajari
 ngajeng
 ngajeni
 ngaji
@@ -4603,6 +4609,7 @@ ngapunten
 ngapura
 ngapurane
 ngapuro
+ngapus
 ngapusi
 ngarai
 ngarak
@@ -4710,6 +4717,7 @@ ngenteng
 ngenteni
 ngentu
 ngentut
+ngenu
 ngenyot
 ngepa
 ngepang
@@ -4924,6 +4932,7 @@ ngudani
 ngudek
 ngudo
 ngudud
+nguduk
 ngudut
 nguji
 ngukir
@@ -5037,6 +5046,7 @@ niteni
 niti
 nitih
 nitip
+niwa
 niwas
 niya
 niyo
@@ -5516,6 +5526,7 @@ peler
 peli
 peliku
 pelimu
+pelit
 pelo
 pelog
 pelu
@@ -5754,6 +5765,7 @@ ragil
 rah
 raha
 rahayu
+rahka
 rahmat
 rahmi
 rai
@@ -5877,6 +5889,7 @@ reka
 reko
 rela
 rem
+rema
 remah
 remang
 remas
@@ -5934,7 +5947,6 @@ ribute
 ridho
 rie
 rih
-riha
 rii
 rik
 rika
@@ -6059,6 +6071,7 @@ rukun
 rule
 ruli
 rum
+ruma
 rumah
 rumangsa
 rumangsane
@@ -6595,6 +6608,7 @@ tao
 tap
 tape
 tapi
+tapih
 tapir
 tapuk
 tara
@@ -6940,6 +6954,7 @@ ukin
 ukir
 ukiran
 ukire
+ukit
 ukko
 ukla
 ukli
@@ -7462,7 +7477,6 @@ yong
 yono
 yoopo
 yos
-yosi
 yota
 yoto
 yowes
@@ -7489,6 +7503,7 @@ yura
 yuran
 yuri
 yurika
+yuro
 yus
 yusa
 yusra
