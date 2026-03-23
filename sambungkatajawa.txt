@@ -3883,6 +3883,7 @@ lomba
 lombo
 lombok
 lomo
+lomot
 lompat
 lon
 lona
