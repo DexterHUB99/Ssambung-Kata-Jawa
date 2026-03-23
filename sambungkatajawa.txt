@@ -1287,6 +1287,7 @@ dawuh
 dawuhe
 daya
 dayang
+de
 debu
 deda
 dedak
@@ -3334,6 +3335,7 @@ kaweruh
 kawi
 kawin
 kawir
+kawit
 kawohan
 kawula
 kaya
@@ -7785,6 +7787,7 @@ wedo
 wedok
 wedus
 wee
+weh
 wek
 wektu
 welah
