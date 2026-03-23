@@ -3007,6 +3007,7 @@ jong
 joni
 jontor
 joran
+jori
 jorok
 jos
 jotos
@@ -5141,6 +5142,7 @@ nini
 nining
 ninja
 nino
+ninung
 nio
 nipa
 nipis
