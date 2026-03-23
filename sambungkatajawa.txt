@@ -3641,6 +3641,7 @@ kukur
 kukus
 kul
 kula
+kulaan
 kulak
 kulan
 kulang
