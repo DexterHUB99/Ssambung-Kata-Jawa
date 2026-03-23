@@ -1,6 +1,7 @@
 aa
 aae
 aah
+abah
 abal
 abi
 abimanyu
@@ -161,6 +162,7 @@ ara
 arab
 arah
 arak
+arang
 aras
 areng
 arep
@@ -259,6 +261,7 @@ cocot
 cok
 cukup
 dada
+dadar
 dadi
 dahi
 dalem
@@ -632,6 +635,7 @@ iket
 ikhlas
 iki
 ikih
+iko
 ikon
 iku
 ikur
@@ -994,6 +998,7 @@ meri
 micek
 mingat
 mingkem
+minum
 misuh
 modar
 moh
@@ -1115,9 +1120,11 @@ ngila
 ngirit
 ngiseng
 ngisep
+ngisih
 ngising
 ngitung
 ngocok
+ngoh
 ngok
 ngolah
 ngolak
@@ -1649,6 +1656,7 @@ ukara
 uke
 ukin
 ukir
+ukira
 ukiran
 uko
 uku
