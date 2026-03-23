@@ -1876,6 +1876,7 @@ fix
 fungsi
 ga
 gabah
+gabe
 gabuk
 gabus
 gabut
@@ -6736,6 +6737,7 @@ sole
 soli
 solit
 solo
+som
 somat
 sombong
 songket
