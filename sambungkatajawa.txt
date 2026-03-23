@@ -5624,6 +5624,7 @@ pangling
 pangon
 pani
 panik
+panitia
 panjang
 panjenengan
 panji
@@ -7380,6 +7381,7 @@ urli
 urma
 urna
 urno
+uro
 uru
 uruane
 uruk
