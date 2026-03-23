@@ -4725,6 +4725,7 @@ ngangsur
 nganjok
 nganjuk
 nganjut
+nganri
 ngantem
 ngantemi
 nganter
@@ -6195,6 +6196,7 @@ rodo
 roe
 rogoh
 roha
+roi
 rok
 rokaat
 roket
@@ -7731,6 +7733,7 @@ yumo
 yun
 yuna
 yune
+yung
 yuni
 yura
 yuran
