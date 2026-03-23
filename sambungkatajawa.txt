@@ -4233,6 +4233,7 @@ mamake
 maman
 mambu
 mami
+mampus
 man
 mana
 manak
@@ -6095,6 +6096,7 @@ putri
 putu
 putus
 puyeng
+puyuh
 quran
 ra
 raa
