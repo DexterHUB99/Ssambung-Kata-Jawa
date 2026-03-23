@@ -769,6 +769,7 @@ aul
 aulah
 aum
 auman
+aun
 auna
 aura
 aus
@@ -6236,6 +6237,7 @@ saya
 sayah
 sayang
 sayo
+sayor
 sayur
 se
 seda
