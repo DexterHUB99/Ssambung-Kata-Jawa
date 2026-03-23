@@ -1627,6 +1627,7 @@ ente
 entek
 enteng
 enthog
+enthok
 enthuk
 entok
 entol
@@ -4866,6 +4867,7 @@ ngimbohi
 ngimpi
 ngin
 nginap
+nginceng
 nginduk
 nginep
 nging
