@@ -3295,6 +3295,7 @@ kemul
 ken
 kena
 kenapa
+kencing
 kencot
 kencur
 kendal
@@ -6039,6 +6040,7 @@ reng
 renggang
 rengginang
 renggo
+rengi
 renta
 reog
 rep
