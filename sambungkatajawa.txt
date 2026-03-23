@@ -2888,6 +2888,7 @@ jamput
 jamri
 jamu
 jamur
+jancik
 jancok
 jancuk
 janda
@@ -4805,6 +4806,7 @@ ngertos
 ngerusak
 ngesah
 ngesel
+ngeselin
 ngeseng
 ngesing
 ngesot
@@ -7022,6 +7024,7 @@ uja
 ujak
 ujan
 ujar
+ujaran
 uji
 ujian
 ujuk
