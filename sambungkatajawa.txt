@@ -4890,6 +4890,7 @@ ngaturi
 ngaur
 ngawa
 ngawal
+ngawas
 ngawasi
 ngawe
 ngawi
@@ -7115,6 +7116,7 @@ tip
 tir
 tira
 tirai
+tiri
 tiris
 tiru
 tis
