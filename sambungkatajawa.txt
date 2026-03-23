@@ -4798,6 +4798,7 @@ ngarit
 ngarsa
 ngaruh
 ngaruk
+ngarungi
 ngarus
 ngas
 ngasah
@@ -5478,6 +5479,7 @@ omboh
 ombol
 ombor
 ome
+omel
 omhe
 omi
 ommo
