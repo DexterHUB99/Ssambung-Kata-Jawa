@@ -4936,6 +4936,7 @@ ngobah
 ngobat
 ngobati
 ngoblok
+ngobol
 ngobong
 ngobrol
 ngocok
@@ -5947,6 +5948,7 @@ raso
 rasu
 rasuk
 rasul
+rata
 ratau
 rati
 ratna
@@ -6428,6 +6430,7 @@ simi
 simo
 simpang
 simpenan
+sina
 sinau
 sindur
 sing
