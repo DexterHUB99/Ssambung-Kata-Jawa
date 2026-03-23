@@ -4835,6 +4835,7 @@ ngngopo
 ngnu
 ngobah
 ngobat
+ngobati
 ngoblok
 ngobong
 ngobrol
@@ -7470,6 +7471,7 @@ yumo
 yun
 yuna
 yune
+yuni
 yura
 yuran
 yuri
