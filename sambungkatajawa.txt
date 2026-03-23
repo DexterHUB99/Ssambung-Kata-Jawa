@@ -3803,6 +3803,7 @@ lilo
 lim
 lima
 limao
+limas
 limbah
 limo
 limolas
@@ -4866,6 +4867,7 @@ ngimbar
 ngimbohi
 ngimpi
 ngin
+nginan
 nginap
 nginceng
 nginduk
@@ -5679,6 +5681,7 @@ pinten
 pinter
 pintu
 pinuk
+pinus
 pipi
 pipis
 pipit
