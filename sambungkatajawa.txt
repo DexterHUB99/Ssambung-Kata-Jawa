@@ -3302,6 +3302,7 @@ kawohan
 kawula
 kaya
 kayu
+kayuk
 ke
 kebab
 kebang
@@ -4825,6 +4826,7 @@ ngarai
 ngarak
 ngarang
 ngare
+ngarek
 ngareng
 ngarep
 ngarepe
