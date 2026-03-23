@@ -401,6 +401,7 @@ amu
 amuk
 amukan
 amul
+amun
 amung
 amur
 amus
@@ -6086,6 +6087,7 @@ rambatan
 rambu
 rambut
 rambutan
+rambute
 rame
 rames
 rami
