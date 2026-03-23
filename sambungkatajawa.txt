@@ -985,6 +985,7 @@ bir
 biru
 bis
 bisa
+bisaa
 bisik
 bisiki
 bismillah
@@ -2382,6 +2383,7 @@ hapa
 hape
 hapi
 hapus
+hapuse
 hapusi
 har
 hara
@@ -6138,6 +6140,7 @@ remeh
 remeng
 remes
 remi
+remih
 remo
 remok
 rempah
