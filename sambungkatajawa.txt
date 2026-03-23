@@ -320,7 +320,6 @@ amalan
 amam
 aman
 amanah
-amani
 amar
 amara
 amarga
@@ -1423,7 +1422,6 @@ ehaw
 ehawa
 ehe
 eheh
-ehej
 ehek
 ehem
 ehen
@@ -1574,7 +1572,6 @@ empuk
 empun
 emu
 emud
-emum
 emun
 emut
 en
@@ -2891,7 +2888,6 @@ jamput
 jamri
 jamu
 jamur
-jancik
 jancok
 jancuk
 janda
@@ -3497,7 +3493,6 @@ kori
 kos
 kosan
 kosek
-kosi
 kosong
 kota
 kotak
@@ -4810,7 +4805,6 @@ ngertos
 ngerusak
 ngesah
 ngesel
-ngeselin
 ngeseng
 ngesing
 ngesot
@@ -4923,7 +4917,6 @@ nglor
 ngluku
 ngluruk
 ngngopo
-ngnimu
 ngnu
 ngobah
 ngobat
@@ -6070,7 +6063,6 @@ rinja
 rino
 rio
 rip
-ripa
 ripan
 riri
 ris
@@ -7030,7 +7022,6 @@ uja
 ujak
 ujan
 ujar
-ujaran
 uji
 ujian
 ujuk
