@@ -4785,6 +4785,7 @@ ngbah
 ngcok
 nge
 ngebas
+ngebor
 ngebul
 ngece
 ngecek
@@ -7474,6 +7475,7 @@ walang
 wali
 wana
 wangen
+wangi
 wangsul
 wangsulan
 wani
