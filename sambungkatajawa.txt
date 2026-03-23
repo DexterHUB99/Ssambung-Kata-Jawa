@@ -7082,6 +7082,7 @@ tepak
 tepung
 ter
 tera
+teran
 terang
 teras
 terasi
