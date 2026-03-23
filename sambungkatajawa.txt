@@ -3323,6 +3323,7 @@ katung
 katup
 kawah
 kawan
+kawani
 kawat
 kawen
 kaweruh
@@ -4293,6 +4294,7 @@ mateni
 mati
 matio
 matur
+maturnuwun
 matursuwun
 mau
 mawon
@@ -4467,6 +4469,7 @@ muke
 mukul
 mul
 mula
+mulaa
 mulae
 mulai
 mulan
