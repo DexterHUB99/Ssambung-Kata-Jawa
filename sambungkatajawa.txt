@@ -852,6 +852,7 @@ badut
 bae
 bagi
 bagong
+bagos
 bagus
 bah
 bai
@@ -7611,6 +7612,7 @@ yati
 yato
 yaudah
 yawes
+yawi
 yawis
 yaya
 yayi
