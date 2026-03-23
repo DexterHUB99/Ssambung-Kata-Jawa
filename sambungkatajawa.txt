@@ -291,6 +291,7 @@ dik
 dikon
 dima
 dimana
+dimas
 din
 dina
 dino
@@ -358,6 +359,7 @@ elu
 elum
 elus
 em
+emaem
 emak
 eman
 emang
@@ -365,6 +367,7 @@ ember
 emboh
 embong
 embuh
+emes
 emog
 emoh
 emot
@@ -1006,6 +1009,7 @@ mai
 makan
 makruh
 malah
+malam
 mama
 mami
 mampus
@@ -1066,6 +1070,7 @@ nagih
 nah
 naik
 najis
+nakal
 nali
 nalika
 nama
@@ -1129,6 +1134,7 @@ ngapusi
 ngarep
 ngarit
 ngarti
+ngas
 ngasah
 ngasem
 ngaso
