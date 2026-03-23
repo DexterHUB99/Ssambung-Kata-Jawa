@@ -7402,6 +7402,7 @@ unggul
 ungkal
 ungkap
 ungkara
+ungkasan
 ungker
 ungkit
 ungu
