@@ -763,6 +763,7 @@ atene
 atep
 ater
 ati
+atih
 atik
 atimu
 atine
@@ -1501,6 +1502,7 @@ eiwak
 eja
 ejag
 ejak
+eji
 ejo
 eju
 ek
