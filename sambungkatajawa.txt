@@ -970,6 +970,7 @@ bibik
 bibir
 bidal
 bidan
+biha
 bihun
 biji
 bik
@@ -7196,6 +7197,7 @@ tunas
 tunggal
 tunggu
 tuntun
+tupa
 tur
 turah
 turi
