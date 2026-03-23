@@ -1158,6 +1158,7 @@ colek
 coli
 colo
 colok
+colong
 combro
 congklak
 congor
@@ -3996,6 +3997,7 @@ lupa
 lupi
 lupis
 luput
+lur
 lurah
 luru
 lurus
