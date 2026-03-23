@@ -652,7 +652,6 @@ arum
 arumi
 arun
 arus
-arwa
 arwah
 arwana
 as
@@ -1095,7 +1094,6 @@ cici
 cicil
 cicu
 cicuk
-cika
 cil
 cila
 cilaka
@@ -1658,7 +1656,6 @@ eret
 eri
 erii
 erik
-erika
 erin
 ering
 erip
@@ -2026,7 +2023,6 @@ gese
 gesek
 geseng
 geser
-gesit
 get
 geta
 gete
@@ -3192,6 +3188,7 @@ kemah
 kemang
 kemangi
 kemari
+kemarin
 kemas
 kemauan
 kemayu
@@ -3687,7 +3684,6 @@ lelet
 lem
 lema
 lemah
-leman
 lemari
 lembah
 lembek
@@ -4205,7 +4201,6 @@ muk
 muka
 mukak
 mukaka
-muke
 mukul
 mul
 mula
@@ -6002,7 +5997,6 @@ ropi
 roro
 ros
 rosa
-rosari
 rosi
 roso
 rotan
