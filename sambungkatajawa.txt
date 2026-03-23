@@ -1738,6 +1738,7 @@ epet
 epi
 epik
 epil
+epis
 epit
 epo
 epok
@@ -7756,6 +7757,7 @@ waya
 wayah
 wayahe
 wayang
+we
 wea
 wedan
 wedang
