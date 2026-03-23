@@ -198,6 +198,7 @@ akad
 akah
 akak
 akal
+akam
 akan
 akang
 akar
@@ -275,6 +276,7 @@ alay
 ale
 alek
 alem
+aleman
 ales
 alhamdulillah
 ali
@@ -1700,6 +1702,7 @@ ese
 esek
 esem
 eseman
+eses
 esi
 esih
 esil
@@ -1769,6 +1772,7 @@ eyang
 eye
 eyem
 eyo
+eyu
 ez
 faedah
 fafa
@@ -2378,6 +2382,7 @@ hidayah
 hidhup
 hidup
 hihihi
+hijab
 hijau
 hiji
 hijrah
@@ -2741,6 +2746,7 @@ irur
 irus
 is
 isa
+isab
 isak
 isan
 isanan
@@ -2985,6 +2991,7 @@ kados
 kadung
 kae
 kagem
+kagum
 kagungan
 kail
 kain
@@ -3164,6 +3171,7 @@ kebab
 kebang
 kebo
 kecap
+kecemplung
 kedah
 keder
 kediri
@@ -4170,6 +4178,7 @@ misu
 misuh
 mit
 miten
+mlebu
 mlumah
 mmanuk
 mo
@@ -4246,6 +4255,7 @@ muli
 mulia
 mulih
 mulung
+mulus
 mumbul
 mumet
 mumi
@@ -4495,6 +4505,7 @@ ngabari
 ngabdi
 ngaben
 ngabi
+ngablak
 ngabrit
 ngabur
 ngaca
@@ -5350,6 +5361,7 @@ oreg
 orek
 oren
 oreng
+oreo
 orewa
 organisasi
 ori
@@ -5383,6 +5395,7 @@ otom
 otot
 ow
 owah
+owak
 ox
 oy
 oyak
@@ -5632,6 +5645,7 @@ pisuh
 pit
 pita
 pitak
+pitakon
 pitek
 piten
 pitik
@@ -5942,6 +5956,7 @@ rewel
 ri
 ria
 rian
+riana
 riang
 ribet
 ribut
@@ -6916,6 +6931,7 @@ ugah
 ugal
 ugar
 uge
+ugi
 ugo
 ugu
 uh
@@ -7340,6 +7356,7 @@ weneh
 wera
 weri
 werno
+weruh
 wes
 wesa
 wesi
