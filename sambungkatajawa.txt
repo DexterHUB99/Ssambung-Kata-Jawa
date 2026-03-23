@@ -264,6 +264,7 @@ ege
 ego
 eh
 eha
+ehak
 ehan
 ehe
 eheh
@@ -638,6 +639,7 @@ islam
 iso
 isu
 isuk
+isya
 ita
 itik
 itil
@@ -751,6 +753,7 @@ kontol
 kopi
 koran
 korban
+kosan
 kosek
 kota
 kowe
@@ -1157,6 +1160,7 @@ pasa
 pasti
 peko
 peli
+pen
 penak
 pentil
 pepe
@@ -1212,6 +1216,7 @@ rasa
 rasah
 rasan
 rasis
+raup
 raut
 rawa
 rawon
@@ -1344,6 +1349,7 @@ suci
 sudah
 sudi
 sue
+sugeh
 sugeng
 sugih
 sui
@@ -1574,6 +1580,7 @@ wonten
 wur
 xray
 yah
+yakin
 yasin
 yati
 yaya
