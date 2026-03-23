@@ -422,6 +422,7 @@ gae
 gagal
 gah
 gajah
+gak
 gali
 galih
 gaman
@@ -1110,6 +1111,7 @@ ngembun
 ngen
 ngendika
 ngenteni
+ngepel
 ngesor
 ngesot
 ngesuk
@@ -1373,6 +1375,7 @@ ragil
 rai
 raimu
 raiso
+raki
 rakus
 ramah
 rambu
@@ -1542,6 +1545,7 @@ sugeng
 sugih
 sui
 suka
+sula
 sule
 suling
 sultan
@@ -1674,6 +1678,7 @@ ulah
 ulan
 ular
 ulat
+uler
 uli
 ulih
 ulo
