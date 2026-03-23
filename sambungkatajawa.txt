@@ -28,6 +28,7 @@ ahh
 ahi
 ahir
 ahli
+aho
 ahok
 ahoy
 ahu
@@ -239,6 +240,7 @@ dadi
 dahi
 dalem
 damai
+dan
 dancok
 dari
 dasar
@@ -639,6 +641,7 @@ iru
 irung
 irup
 irus
+is
 isa
 isak
 isap
@@ -734,6 +737,7 @@ kerut
 kesandung
 kesem
 kesleo
+ketel
 ketir
 ketok
 kidal
@@ -882,6 +886,7 @@ lumah
 lumrah
 lungguh
 lurah
+lusuh
 luwe
 luweh
 madu
@@ -1040,17 +1045,21 @@ ngudek
 ngudud
 ngumpet
 ngumpul
+ngunjuk
+nguno
 ngunu
 nguping
 ngusel
 ngusu
 nguyup
+ni
 nia
 niba
 nii
 nikah
 niku
 nila
+nilai
 nim
 nima
 nimbun
@@ -1187,6 +1196,8 @@ pana
 pancen
 panjang
 panjenengan
+pantat
+papa
 papah
 parang
 parem
@@ -1321,6 +1332,7 @@ sabi
 saestu
 saged
 saiki
+salah
 salut
 sam
 sambel
@@ -1479,6 +1491,7 @@ tuti
 tutup
 uang
 uange
+ucap
 udah
 udal
 udan
