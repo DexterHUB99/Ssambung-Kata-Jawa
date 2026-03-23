@@ -502,6 +502,7 @@ anis
 anisa
 anit
 aniy
+anja
 anjai
 anjaing
 anjani
@@ -655,6 +656,7 @@ arus
 arwa
 arwah
 arwana
+arya
 as
 asa
 asaa
@@ -1462,6 +1464,7 @@ elag
 elah
 elak
 elam
+elan
 elang
 elas
 ele
@@ -1675,6 +1678,7 @@ erosi
 erta
 eru
 eruh
+erun
 erung
 erup
 es
@@ -2620,6 +2624,7 @@ indak
 indang
 indek
 indik
+indomie
 indra
 indu
 induk
@@ -4115,6 +4120,7 @@ mika
 miker
 miki
 mikir
+miko
 miku
 mikul
 mil
@@ -4643,6 +4649,7 @@ ngebas
 ngebul
 ngece
 ngecek
+ngecet
 ngedang
 ngede
 ngeden
@@ -4770,6 +4777,7 @@ ngiki
 ngikut
 ngil
 ngila
+ngilag
 ngilang
 ngilap
 ngiler
@@ -4818,6 +4826,7 @@ ngk
 ngka
 ngko
 nglakoni
+nglan
 nglonte
 nglor
 ngluku
@@ -6087,6 +6096,7 @@ sabus
 sabut
 sadah
 sadewa
+sadis
 sadurung
 sae
 saestu
@@ -6174,6 +6184,7 @@ sarun
 sarung
 sas
 sasa
+sasak
 sasi
 sasimo
 sastra
@@ -6660,6 +6671,7 @@ tetan
 tete
 tetek
 tetelan
+ti
 tiba
 tibak
 tibo
