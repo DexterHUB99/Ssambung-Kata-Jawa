@@ -2590,6 +2590,7 @@ ihai
 ihan
 ihe
 ihi
+ihing
 ihka
 ihki
 ihku
@@ -4413,6 +4414,7 @@ mungkur
 muni
 muntah
 munyuk
+mupi
 mur
 murah
 muran
@@ -5221,6 +5223,7 @@ nis
 nisa
 nisan
 nising
+nit
 nita
 nite
 niten
