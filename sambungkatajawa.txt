@@ -2855,6 +2855,7 @@ ising
 isis
 iska
 islam
+islami
 islo
 isma
 ismi
@@ -4863,6 +4864,7 @@ ngendi
 ngendika
 ngendikane
 ngene
+ngenengi
 ngeng
 ngengek
 ngenta
@@ -6358,6 +6360,7 @@ salahe
 salak
 salam
 salat
+sale
 saleh
 sali
 salim
