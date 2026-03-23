@@ -756,6 +756,7 @@ atun
 atur
 atus
 atut
+aub
 auh
 auha
 aul
@@ -1366,6 +1367,7 @@ edanwa
 edar
 edi
 edo
+edok
 edon
 ef
 efek
@@ -2331,6 +2333,7 @@ helo
 hem
 hema
 hemat
+hena
 heni
 hening
 heo
@@ -3786,6 +3789,7 @@ liwat
 liwet
 liyai
 liyane
+liyo
 lo
 loa
 lob
@@ -3882,6 +3886,7 @@ lumer
 lumpang
 lumpuh
 lumrah
+lumuh
 lunga
 lungguh
 lungo
@@ -6214,6 +6219,7 @@ sendok
 seneng
 seng
 sepi
+sepura
 ser
 serat
 sereng
@@ -6837,6 +6843,7 @@ udin
 udo
 udu
 udud
+uduh
 uduk
 udut
 ue
@@ -6914,6 +6921,7 @@ ul
 ula
 ulaa
 ulah
+ulahan
 ulai
 ulak
 ulakan
