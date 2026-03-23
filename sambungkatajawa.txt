@@ -270,6 +270,7 @@ delman
 dereng
 didi
 dik
+dikon
 dima
 dimana
 din
@@ -312,6 +313,7 @@ ek
 eka
 ekaa
 ekam
+eke
 ekeh
 ekek
 ekem
@@ -322,6 +324,7 @@ eki
 eko
 ekor
 ela
+elah
 elan
 elang
 elek
@@ -348,6 +351,7 @@ emoh
 emot
 empang
 empot
+ena
 enak
 endah
 endas
@@ -367,6 +371,7 @@ entok
 entuk
 entut
 enuk
+epa
 epik
 epis
 epos
@@ -943,6 +948,7 @@ lurah
 lusuh
 luwe
 luweh
+ma
 madu
 mae
 mah
@@ -1025,6 +1031,7 @@ nar
 nari
 narik
 naruh
+nas
 nasi
 nawar
 ndasmu
@@ -1285,6 +1292,7 @@ pas
 pasa
 pasti
 patil
+pean
 peko
 peli
 pen
@@ -1386,6 +1394,7 @@ risa
 risih
 riska
 riso
+rita
 ro
 rodo
 rogoh
@@ -1480,6 +1489,7 @@ sombong
 songo
 sop
 sopan
+sopir
 sopo
 sore
 sos
@@ -1540,6 +1550,7 @@ tela
 telek
 telo
 telu
+tembok
 temen
 tempe
 tempek
