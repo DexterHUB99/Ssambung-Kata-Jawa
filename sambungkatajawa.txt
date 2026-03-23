@@ -462,6 +462,7 @@ gok
 goks
 golek
 gombal
+gondrong
 gor
 goreng
 gori
@@ -501,6 +502,7 @@ halo
 hama
 hamba
 hamil
+hampir
 hanacaraka
 hani
 hantam
@@ -649,6 +651,7 @@ inii
 insan
 inti
 inul
+ipa
 ipi
 ipil
 ipin
@@ -749,6 +752,7 @@ kelangan
 kelem
 kelingan
 kelon
+keluh
 kembar
 ken
 kena
@@ -830,6 +834,7 @@ kuman
 kumbang
 kunci
 kuno
+kunti
 kuntul
 kur
 kurang
@@ -1069,6 +1074,7 @@ ngisep
 ngising
 ngitung
 ngocok
+ngok
 ngolah
 ngolak
 ngolo
@@ -1359,6 +1365,7 @@ roi
 rokok
 rolas
 rombak
+rombong
 ron
 rondo
 rono
@@ -1447,6 +1454,7 @@ sore
 sos
 sosis
 soto
+sowan
 soyo
 su
 suasu
@@ -1709,7 +1717,9 @@ yasin
 yati
 yaya
 yen
+yo
 yoh
+yoi
 yoopo
 yowes
 yoyo
