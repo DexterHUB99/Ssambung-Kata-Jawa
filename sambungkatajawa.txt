@@ -101,6 +101,7 @@ anas
 ancok
 ancur
 andai
+andani
 ander
 andha
 andi
@@ -108,8 +109,10 @@ andok
 andong
 anduk
 ane
+aneh
 angker
 angklung
+angsa
 angsal
 angsle
 angu
@@ -660,6 +663,7 @@ jakaa
 jancok
 jangkrik
 jara
+jawa
 jawi
 jebul
 jembut
@@ -694,6 +698,7 @@ karo
 kas
 kasur
 katok
+katuh
 kawani
 kawin
 kawit
@@ -972,11 +977,13 @@ ngejak
 ngelag
 ngelon
 ngelu
+ngembun
 ngen
 ngendika
 ngenteni
 ngesor
 ngesot
+ngesuk
 ngewe
 nggateli
 nggeh
@@ -1016,6 +1023,7 @@ nia
 niba
 nii
 nikah
+niku
 nila
 nim
 nima
@@ -1273,6 +1281,7 @@ run
 rungkad
 rupa
 rupamu
+rus
 rusa
 rusak
 rusuh
@@ -1450,6 +1459,7 @@ uhe
 uhi
 uho
 ui
+ujian
 uka
 ukar
 ukara
@@ -1546,12 +1556,14 @@ utu
 utuh
 uwes
 uwong
+ux
 uy
 uyuh
 uz
 wadon
 waduh
 wage
+wajah
 waktu
 waras
 warung
