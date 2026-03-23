@@ -3510,6 +3510,7 @@ kiwa
 kiye
 klambi
 klasa
+klaten
 klepon
 kleru
 kliwon
@@ -4379,6 +4380,7 @@ mor
 more
 moret
 moro
+morong
 mos
 mosok
 moto
