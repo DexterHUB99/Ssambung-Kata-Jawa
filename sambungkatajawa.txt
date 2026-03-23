@@ -3192,6 +3192,7 @@ kemah
 kemang
 kemangi
 kemari
+kemarin
 kemas
 kemauan
 kemayu
@@ -4781,7 +4782,6 @@ ngimbohi
 ngimpi
 ngin
 nginap
-nginceng
 nginduk
 nginep
 nging
@@ -6403,7 +6403,6 @@ sugih
 suh
 suha
 sui
-suji
 suk
 suka
 sukan
@@ -6630,7 +6629,6 @@ tempe
 tempek
 tempel
 tempik
-tempikmu
 tempura
 temu
 temulawak
