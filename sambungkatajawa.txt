@@ -1894,6 +1894,7 @@ game
 gamel
 gamela
 gamelan
+gaming
 gamis
 gamoh
 gampang
@@ -2762,6 +2763,7 @@ ipun
 ir
 ira
 irah
+irahan
 irai
 irak
 iram
