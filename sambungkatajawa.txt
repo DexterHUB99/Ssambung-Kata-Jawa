@@ -1083,6 +1083,7 @@ caci
 cacing
 cagak
 cah
+cahyo
 cai
 caka
 cakap
@@ -6448,6 +6449,7 @@ semir
 semok
 sempak
 sempurna
+semu
 semut
 sendok
 seneng
