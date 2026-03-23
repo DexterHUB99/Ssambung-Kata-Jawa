@@ -40,6 +40,7 @@ aii
 ail
 ailo
 aing
+aio
 air
 aiwe
 ajeng
@@ -93,6 +94,7 @@ amis
 amit
 ampar
 ampas
+ampuh
 ampun
 amuk
 anaa
@@ -122,6 +124,7 @@ angsle
 angu
 ani
 aniani
+anis
 anjai
 anjay
 anjing
@@ -159,6 +162,7 @@ aria
 arih
 arip
 arto
+arum
 arus
 asaa
 asah
@@ -227,6 +231,7 @@ bola
 bom
 bos
 boso
+buang
 buto
 ce
 cen
@@ -461,6 +466,7 @@ gunung
 guri
 gurih
 guru
+gusi
 guyon
 guyu
 ha
@@ -775,6 +781,7 @@ kon
 konco
 kontol
 kopi
+koplak
 koplo
 koran
 korban
@@ -829,6 +836,7 @@ laos
 las
 lati
 laut
+lawak
 lawang
 layuh
 lee
@@ -923,6 +931,8 @@ modar
 moh
 moleh
 monggo
+moto
+mripat
 mugi
 muh
 muji
@@ -1070,6 +1080,7 @@ nis
 nisa
 nisan
 nite
+nitih
 nitip
 no
 noh
@@ -1254,6 +1265,7 @@ raimu
 raiso
 rakus
 ramah
+rambu
 rambut
 rampun
 ramua
@@ -1299,6 +1311,7 @@ riri
 risa
 risih
 riska
+riso
 ro
 rodo
 rogoh
@@ -1536,6 +1549,7 @@ umbi
 umi
 umo
 umpama
+umum
 umur
 una
 undak
