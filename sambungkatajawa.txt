@@ -5949,6 +5949,7 @@ remang
 remas
 rembah
 rembang
+rembug
 rembukan
 rembulan
 rembune
@@ -6977,6 +6978,7 @@ ugar
 uge
 ugi
 ugo
+ugoh
 ugu
 uh
 uha
