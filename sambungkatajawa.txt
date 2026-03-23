@@ -3957,6 +3957,7 @@ lona
 loncat
 longgar
 longgo
+longoh
 longor
 longsor
 lonjak
