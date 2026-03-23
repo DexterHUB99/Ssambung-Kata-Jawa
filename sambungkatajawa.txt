@@ -855,6 +855,7 @@ bah
 bai
 bajak
 bajigur
+bajing
 bajingan
 baju
 bak
@@ -5028,6 +5029,7 @@ ngoyak
 ngoyo
 ngpel
 ngrasa
+ngrokok
 ngrumat
 ngrumpi
 ngubeng
@@ -7665,6 +7667,7 @@ yus
 yusa
 yusi
 yusra
+yuya
 yuyi
 yuyu
 yuyun
