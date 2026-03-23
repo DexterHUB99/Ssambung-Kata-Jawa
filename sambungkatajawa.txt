@@ -400,6 +400,7 @@ eram
 erang
 eras
 ereng
+erer
 eri
 eria
 erika
@@ -1012,6 +1013,7 @@ manut
 marah
 mardi
 mas
+masu
 masuk
 mata
 matamu
@@ -1861,6 +1863,7 @@ wur
 xenon
 xray
 yah
+yaka
 yakin
 yasin
 yati
