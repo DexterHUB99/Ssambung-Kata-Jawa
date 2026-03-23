@@ -233,6 +233,7 @@ bakso
 bakul
 basi
 beo
+bibik
 bidan
 bidun
 biji
@@ -748,6 +749,7 @@ kali
 kalimat
 kam
 kambil
+kambing
 kampung
 kamu
 kandang
@@ -1085,6 +1087,7 @@ ngawi
 ngawur
 ngejak
 ngelag
+ngelak
 ngelon
 ngelu
 ngembun
@@ -1595,6 +1598,7 @@ tua
 tugel
 tuh
 tuku
+tulan
 tulung
 tum
 tuman
