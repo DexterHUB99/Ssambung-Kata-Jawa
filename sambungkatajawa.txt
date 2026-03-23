@@ -149,6 +149,7 @@ anum
 anus
 anyam
 apa
+ape
 apel
 api
 apik
@@ -218,6 +219,7 @@ ayo
 ayok
 ayu
 ayun
+az
 babat
 babi
 bae
@@ -408,6 +410,7 @@ gambuh
 gamel
 gamelan
 gamma
+gampang
 gang
 ganteng
 gantung
@@ -813,6 +816,7 @@ kontol
 kopi
 koplak
 koplo
+kopyor
 koran
 korban
 kosan
@@ -935,6 +939,7 @@ luweh
 madu
 mae
 mah
+mai
 makan
 makruh
 malah
@@ -1076,6 +1081,7 @@ ngibul
 ngidul
 ngila
 ngirit
+ngiseng
 ngisep
 ngising
 ngitung
@@ -1096,6 +1102,7 @@ ngoreng
 ngorok
 ngos
 ngosek
+ngoseng
 ngotak
 ngotot
 ngudek
@@ -1253,6 +1260,7 @@ pada
 padu
 pahing
 pak
+palu
 pana
 pancen
 panjang
@@ -1412,6 +1420,7 @@ samin
 sampah
 sampun
 samun
+sangu
 santri
 sapi
 sarem
@@ -1563,6 +1572,7 @@ turuk
 turukmu
 tuti
 tutup
+ua
 uang
 uange
 ucap
