@@ -18,6 +18,7 @@ ah
 aha
 ahad
 ahah
+ahap
 ahat
 ahay
 ahe
@@ -224,6 +225,7 @@ de
 dek
 didi
 dik
+dima
 dimana
 din
 dina
@@ -290,6 +292,7 @@ emang
 ember
 emboh
 embuh
+emog
 emoh
 emot
 empang
@@ -355,6 +358,7 @@ gambuh
 gamel
 gamelan
 gamma
+gang
 ganteng
 gantung
 garap
@@ -391,6 +395,7 @@ gerah
 gerak
 geram
 gertak
+ges
 geseng
 geser
 gigi
@@ -740,6 +745,7 @@ kuno
 kuntul
 kur
 kurang
+kursi
 kutang
 kutu
 la
@@ -762,6 +768,7 @@ layuh
 lee
 lemah
 lembut
+lemes
 lemu
 les
 li
@@ -879,6 +886,8 @@ napa
 napi
 nar
 nari
+narik
+naruh
 nasi
 ndasmu
 neh
@@ -1090,6 +1099,7 @@ pada
 padu
 pahing
 pana
+pancen
 panjang
 panjenengan
 papah
@@ -1145,6 +1155,7 @@ rakus
 ramah
 rambut
 rampun
+ramuan
 ras
 rasa
 rasah
@@ -1213,6 +1224,7 @@ salut
 sam
 sambel
 sambut
+sami
 sampah
 sampun
 samun
@@ -1268,6 +1280,7 @@ su
 suasu
 suci
 sudah
+sudi
 sue
 sugeng
 sugih
