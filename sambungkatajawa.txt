@@ -6525,6 +6525,7 @@ taka
 takbir
 take
 taki
+takir
 takjil
 takon
 taksi
