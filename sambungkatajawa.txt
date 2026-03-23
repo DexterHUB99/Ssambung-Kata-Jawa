@@ -1038,6 +1038,7 @@ buku
 bula
 bulan
 bulat
+buli
 bulik
 bulo
 bulu
@@ -1830,6 +1831,7 @@ gada
 gadah
 gadang
 gading
+gado
 gadu
 gaduh
 gadung
@@ -6967,6 +6969,7 @@ tumi
 tumindak
 tumis
 tumpah
+tumpak
 tumpang
 tumpeh
 tumpeng
