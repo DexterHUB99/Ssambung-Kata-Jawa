@@ -30,6 +30,7 @@ ahir
 ahli
 ahoy
 ahu
+ahup
 ahur
 ahut
 aia
@@ -56,6 +57,7 @@ aku
 akuk
 akur
 al
+alah
 alam
 alan
 alasan
@@ -119,6 +121,7 @@ anoman
 antek
 antem
 anti
+antik
 anting
 anto
 anton
@@ -174,6 +177,7 @@ atret
 atuh
 atum
 atur
+aup
 awas
 ax
 ayah
@@ -334,6 +338,7 @@ erup
 es
 esa
 esaa
+esai
 esi
 eso
 esok
@@ -721,6 +726,7 @@ kopi
 koran
 korban
 kosek
+kota
 kowe
 koyo
 kua
@@ -751,6 +757,7 @@ kutu
 la
 lagu
 lah
+lakon
 lalah
 laler
 lali
@@ -759,6 +766,7 @@ lambe
 lamon
 lampir
 lampu
+landep
 laos
 las
 lati
@@ -1084,6 +1092,7 @@ ori
 oria
 orong
 osah
+osaka
 osek
 oseng
 oser
@@ -1114,6 +1123,7 @@ pentil
 pepe
 pepek
 peteng
+peyek
 pie
 pijet
 pikun
@@ -1184,6 +1194,7 @@ ribut
 rih
 rik
 riki
+rila
 rin
 rindu
 ringo
@@ -1404,6 +1415,7 @@ umbel
 umbi
 umi
 umo
+umpama
 umur
 una
 undak
