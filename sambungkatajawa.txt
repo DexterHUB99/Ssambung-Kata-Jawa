@@ -726,6 +726,7 @@ asuk
 asul
 asula
 asum
+asuma
 asun
 asur
 asus
@@ -4001,6 +4002,7 @@ luhe
 luhur
 luk
 luka
+luki
 lukis
 lukisan
 lulu
@@ -6999,6 +7001,7 @@ tulip
 tulis
 tulisan
 tulung
+tulungagung
 tulus
 tum
 tuma
