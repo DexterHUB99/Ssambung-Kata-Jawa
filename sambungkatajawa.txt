@@ -756,6 +756,7 @@ atun
 atur
 atus
 atut
+aub
 auh
 auha
 aul
@@ -1083,6 +1084,7 @@ cenil
 cepak
 cerah
 ceret
+cerita
 cewek
 ci
 cibi
@@ -1366,6 +1368,7 @@ edanwa
 edar
 edi
 edo
+edok
 edon
 ef
 efek
@@ -1928,6 +1931,7 @@ gedang
 gedangan
 gede
 gedeg
+gedek
 geden
 gedhang
 gedhe
@@ -2331,6 +2335,7 @@ helo
 hem
 hema
 hemat
+hena
 heni
 hening
 heo
@@ -2602,6 +2607,7 @@ in
 ina
 inaa
 inah
+inai
 inak
 inang
 inda
@@ -3786,6 +3792,7 @@ liwat
 liwet
 liyai
 liyane
+liyo
 lo
 loa
 lob
@@ -3882,6 +3889,7 @@ lumer
 lumpang
 lumpuh
 lumrah
+lumuh
 lunga
 lungguh
 lungo
@@ -4510,6 +4518,7 @@ ngalor
 ngalu
 ngalus
 ngam
+ngamah
 ngamal
 ngaman
 ngamar
@@ -4540,6 +4549,7 @@ ngangkang
 ngangkring
 ngangsu
 ngangsur
+nganjok
 nganjuk
 nganjut
 ngantem
@@ -6214,6 +6224,7 @@ sendok
 seneng
 seng
 sepi
+sepura
 ser
 serat
 sereng
@@ -6357,6 +6368,7 @@ soroh
 sos
 sosis
 sosok
+sot
 sotel
 soto
 sowan
@@ -6837,6 +6849,7 @@ udin
 udo
 udu
 udud
+uduh
 uduk
 udut
 ue
@@ -6914,6 +6927,7 @@ ul
 ula
 ulaa
 ulah
+ulahan
 ulai
 ulak
 ulakan
