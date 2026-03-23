@@ -439,6 +439,7 @@ ancu
 ancuk
 ancur
 anda
+andaa
 andai
 andal
 andalan
@@ -2927,6 +2928,7 @@ iyuh
 iyul
 iz
 ja
+jaa
 jadi
 jadul
 jae
