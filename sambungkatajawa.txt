@@ -2333,6 +2333,7 @@ helo
 hem
 hema
 hemat
+hena
 heni
 hening
 heo
@@ -6842,6 +6843,7 @@ udin
 udo
 udu
 udud
+uduh
 uduk
 udut
 ue
