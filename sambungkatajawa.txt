@@ -1045,6 +1045,7 @@ buntil
 buntung
 bunuh
 buri
+burimu
 busa
 busi
 busuk
