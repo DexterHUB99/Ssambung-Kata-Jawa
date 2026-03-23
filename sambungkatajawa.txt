@@ -1414,6 +1414,7 @@ eha
 ehak
 ehal
 ehan
+ehat
 ehaw
 ehawa
 ehe
@@ -3131,6 +3132,7 @@ karet
 kari
 karimun
 karin
+karis
 karma
 karo
 karpet
