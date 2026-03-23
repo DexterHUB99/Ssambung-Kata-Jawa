@@ -320,6 +320,7 @@ amalan
 amam
 aman
 amanah
+amani
 amar
 amara
 amarga
@@ -3494,6 +3495,7 @@ kori
 kos
 kosan
 kosek
+kosi
 kosong
 kota
 kotak
