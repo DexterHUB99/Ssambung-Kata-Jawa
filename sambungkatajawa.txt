@@ -2753,6 +2753,7 @@ lek
 lele
 lelet
 leli
+lem
 lemah
 lemahe
 lemak
@@ -4178,6 +4179,7 @@ poling
 polisi
 polo
 polok
+polri
 pom
 poma
 pomo
