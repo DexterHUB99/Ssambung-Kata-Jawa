@@ -2849,6 +2849,7 @@ nangis
 nangka
 nani
 nanti
+nanya
 naon
 nap
 napa
@@ -3533,6 +3534,7 @@ padang
 padhang
 padu
 pagar
+pagi
 pahing
 pahit
 paido
@@ -3575,6 +3577,7 @@ parang
 pare
 parem
 pari
+parii
 paring
 paringan
 paris
@@ -3867,6 +3870,7 @@ remuk
 renan
 renang
 rendang
+rendeng
 rene
 rengginang
 reo
