@@ -395,6 +395,7 @@ arap
 aras
 ardi
 arek
+arem
 aren
 areng
 arep
@@ -454,6 +455,7 @@ asna
 asor
 asoy
 aspal
+asta
 astaga
 astane
 asu
@@ -2105,6 +2107,7 @@ kese
 kesem
 keset
 kesleo
+kesusu
 ketan
 ketel
 ketemu
@@ -2713,6 +2716,7 @@ mules
 muli
 mulia
 mulih
+mulung
 mulus
 mulya
 mumet
@@ -2728,6 +2732,7 @@ mur
 murah
 musa
 muse
+musi
 musim
 musuh
 mute
@@ -3707,6 +3712,7 @@ rakha
 raki
 rakus
 rama
+ramae
 ramah
 ramai
 raman
