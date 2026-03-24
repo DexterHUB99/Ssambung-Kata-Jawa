@@ -818,6 +818,7 @@ domba
 dona
 dongo
 dor
+dora
 doro
 dorong
 dosa
@@ -1142,6 +1143,7 @@ gabut
 gadah
 gadang
 gading
+gado
 gadu
 gaduh
 gadung
@@ -3526,6 +3528,7 @@ orak
 oraki
 oran
 orang
+oras
 orek
 oren
 oreng
