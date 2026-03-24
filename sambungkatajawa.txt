@@ -256,6 +256,7 @@ aria
 arif
 arih
 arik
+aring
 arip
 arisan
 arka
@@ -676,6 +677,7 @@ gandos
 gandrung
 gang
 gangsing
+ganjil
 ganteng
 gantung
 gapuk
@@ -1297,6 +1299,7 @@ kol
 kolak
 kolam
 koloh
+kolong
 kolot
 komik
 kompor
@@ -1852,6 +1855,7 @@ ngwes
 ngwur
 ni
 nia
+nian
 niba
 nii
 nik
@@ -2162,6 +2166,7 @@ raiku
 raimu
 raino
 raiso
+raja
 rajin
 rak
 raki
