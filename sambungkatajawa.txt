@@ -278,6 +278,7 @@ antara
 antawi
 antek
 antem
+anteng
 antep
 anter
 anti
@@ -533,6 +534,7 @@ cece
 cecek
 celek
 celu
+cemeng
 cen
 cengkeh
 ceplok
@@ -930,6 +932,7 @@ gemas
 gembel
 gemblung
 gembok
+gen
 genah
 gendeng
 genderuwo
@@ -1218,6 +1221,7 @@ iji
 ijik
 ijin
 ijo
+ijol
 ik
 ika
 ikaa
@@ -1668,6 +1672,7 @@ kok
 koko
 kokop
 kol
+kola
 kolak
 kolam
 koloh
@@ -2810,6 +2815,7 @@ ragi
 ragil
 rah
 rahasia
+rahmat
 rai
 raiku
 raimu
@@ -3665,6 +3671,7 @@ wewe
 widok
 wii
 wiji
+wik
 wilujeng
 wirang
 wita
