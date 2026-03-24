@@ -714,6 +714,7 @@ dipun
 dir
 diren
 dirumah
+dis
 diwan
 doda
 dodik
@@ -854,6 +855,7 @@ eman
 emane
 emang
 emas
+emase
 embah
 ember
 emboh
@@ -1107,6 +1109,7 @@ gelang
 gelem
 geleman
 geli
+gelis
 gelo
 gelombang
 gelut
@@ -1291,6 +1294,7 @@ har
 hara
 haram
 harap
+harapan
 harga
 hari
 harian
@@ -1730,6 +1734,7 @@ kadung
 kadus
 kae
 kain
+kaine
 kaisa
 kajut
 kak
@@ -2203,6 +2208,7 @@ lili
 lilin
 lilit
 lilo
+lim
 lima
 limas
 limbah
