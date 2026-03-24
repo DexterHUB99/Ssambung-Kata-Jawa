@@ -2262,6 +2262,7 @@ kosan
 kosek
 kosok
 kosong
+kosor
 kota
 kotak
 kotang
@@ -2339,6 +2340,7 @@ kutang
 kutek
 kutha
 kutu
+kuwat
 kuwe
 kuwi
 kuya
@@ -4545,6 +4547,7 @@ tutup
 tuwo
 tuyul
 ua
+uan
 uang
 uange
 uban
