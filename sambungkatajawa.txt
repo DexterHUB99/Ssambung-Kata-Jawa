@@ -230,6 +230,7 @@ anta
 antar
 antek
 antem
+antep
 anti
 antik
 antimo
@@ -574,6 +575,7 @@ elu
 elum
 elus
 em
+emae
 emaem
 emak
 eman
@@ -843,6 +845,7 @@ hah
 haha
 hahaha
 hai
+haii
 hajat
 haji
 hak
@@ -917,6 +920,7 @@ hihihi
 hijau
 hiji
 hijrah
+hikmah
 hilang
 himpunan
 hina
@@ -941,6 +945,7 @@ homa
 homo
 hoo
 hooh
+hor
 hore
 hormat
 horog
@@ -990,17 +995,20 @@ ijen
 iji
 ijin
 ijo
+ik
 ika
 ikaa
 ikal
 ikan
 ikar
 ikat
+ike
 iker
 iket
 ikhlas
 iki
 ikih
+ikii
 iko
 ikon
 iku
@@ -1658,6 +1666,7 @@ mosok
 moto
 motor
 mripat
+mucuk
 mugi
 muh
 muji
@@ -2743,6 +2752,7 @@ udah
 udal
 udan
 udang
+udek
 udel
 udi
 udin
