@@ -726,6 +726,7 @@ eja
 ek
 eka
 ekaa
+ekae
 ekah
 ekam
 ekan
@@ -783,6 +784,7 @@ embong
 embuh
 eme
 emes
+emik
 emo
 emog
 emoh
@@ -3254,6 +3256,7 @@ sabar
 sabi
 sabit
 sabon
+sabun
 sadar
 sadewa
 sae
@@ -3777,6 +3780,7 @@ umo
 umpama
 umpan
 umra
+umu
 umum
 umume
 umur
