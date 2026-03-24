@@ -308,6 +308,7 @@ anduk
 ane
 aneh
 aneng
+ange
 angel
 angen
 angep
@@ -3605,6 +3606,7 @@ osek
 osen
 oseng
 oser
+osing
 osip
 osit
 osok
