@@ -92,6 +92,7 @@ ajeng
 aji
 ajing
 ajining
+ajor
 ajur
 ak
 aka
@@ -593,6 +594,7 @@ edan
 edar
 edaran
 eeh
+ef
 efek
 eg
 ega
@@ -2553,6 +2555,7 @@ polah
 poleh
 poli
 polisi
+polo
 pon
 pondok
 pone
@@ -2725,6 +2728,7 @@ roda
 rodo
 rogoh
 roi
+rok
 roka
 roket
 rokok
