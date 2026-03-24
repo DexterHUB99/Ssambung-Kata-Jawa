@@ -493,6 +493,7 @@ atine
 atir
 atis
 atit
+atma
 ato
 atok
 atom
@@ -620,6 +621,7 @@ bilai
 bima
 bin
 bina
+bingung
 bintang
 bio
 biru
@@ -2917,6 +2919,7 @@ ndak
 ndasmu
 ndeso
 ndlogok
+ne
 nedah
 nedha
 neduh
