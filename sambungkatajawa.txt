@@ -417,6 +417,7 @@ apel
 apem
 apen
 api
+apii
 apik
 apikan
 apo
@@ -956,6 +957,7 @@ eg
 ega
 ege
 egi
+egik
 ego
 egod
 egrang
