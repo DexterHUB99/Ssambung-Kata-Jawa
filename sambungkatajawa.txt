@@ -725,6 +725,7 @@ dahar
 dahi
 dalam
 dalan
+dalang
 dale
 dalem
 dalu
@@ -2508,6 +2509,7 @@ lumpang
 lumpuh
 lumrah
 lun
+luna
 lunga
 lungguh
 lunglai
@@ -2786,6 +2788,7 @@ nangis
 nangka
 nani
 nanti
+nanya
 naon
 nap
 napa
@@ -3207,6 +3210,7 @@ noleh
 nom
 nombok
 nomer
+nomi
 non
 nona
 nong
@@ -4017,6 +4021,7 @@ sempak
 sendal
 seng
 senok
+seo
 sepele
 sepi
 sepon
@@ -4313,6 +4318,7 @@ tik
 tikar
 tiktok
 tikus
+tikuse
 til
 tila
 tilam
