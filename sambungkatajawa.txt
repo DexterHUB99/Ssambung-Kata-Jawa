@@ -2566,6 +2566,7 @@ lemot
 lemper
 lemu
 leng
+lengah
 leren
 leres
 les
@@ -3222,6 +3223,7 @@ ngendii
 ngendika
 ngendikan
 ngenes
+ngeng
 ngengek
 ngenget
 ngengobrol
@@ -3316,6 +3318,7 @@ ngoloh
 ngolok
 ngomah
 ngombe
+ngombek
 ngomel
 ngomong
 ngomongo
@@ -3800,6 +3803,7 @@ pen
 pena
 penak
 peni
+peno
 pentil
 pepe
 pepek
@@ -4452,6 +4456,7 @@ soroh
 sos
 sosi
 sosis
+sosok
 sotel
 soto
 sowan
