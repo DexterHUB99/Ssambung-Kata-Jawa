@@ -766,6 +766,7 @@ galih
 galon
 gaman
 gambar
+gambir
 gambleh
 gambuh
 gamel
@@ -1330,6 +1331,7 @@ kalah
 kaleng
 kali
 kalian
+kalih
 kalimat
 kalo
 kalong
@@ -2203,6 +2205,7 @@ noken
 nol
 nolak
 nom
+nombok
 nomer
 non
 nona
