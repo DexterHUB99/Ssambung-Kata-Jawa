@@ -64,6 +64,7 @@ aing
 aio
 air
 aira
+aita
 aiwe
 aja
 ajan
@@ -129,6 +130,7 @@ amal
 aman
 amanah
 amas
+amat
 amba
 ambeng
 ambil
@@ -303,6 +305,7 @@ aup
 aura
 autan
 awa
+awak
 awas
 awek
 awu
@@ -323,6 +326,7 @@ baa
 babak
 babat
 babi
+babu
 bacot
 bae
 bagong
@@ -688,6 +692,7 @@ gema
 gembel
 gemblung
 gembok
+genah
 gendeng
 gendhis
 gene
@@ -1051,6 +1056,7 @@ jawi
 jebul
 jembut
 jembutmu
+jempol
 jeruk
 jiga
 jijik
@@ -1151,6 +1157,7 @@ kelon
 kelor
 keluh
 kemanten
+kemarin
 kembar
 kemul
 ken
@@ -1783,6 +1790,7 @@ niti
 nitih
 nitip
 nki
+nna
 nnduk
 no
 noh
@@ -2195,6 +2203,7 @@ saestu
 saged
 saiki
 saing
+sakai
 sakit
 saku
 sala
@@ -2346,6 +2355,7 @@ supe
 supel
 supo
 sura
+surat
 suri
 suruh
 surup
@@ -2586,6 +2596,7 @@ untuk
 untumu
 untung
 upah
+upai
 upal
 upel
 upi
