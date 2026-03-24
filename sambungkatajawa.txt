@@ -282,6 +282,7 @@ bola
 bom
 bos
 boso
+bu
 buang
 bulan
 buto
@@ -415,6 +416,7 @@ enggeh
 eno
 enok
 entar
+entek
 enteng
 enteni
 entok
@@ -712,6 +714,7 @@ ikon
 iku
 ikur
 ikut
+ila
 ilaki
 ilang
 ilat
@@ -885,6 +888,7 @@ keluh
 kembar
 ken
 kena
+kendi
 kentang
 kentu
 kepa
@@ -985,6 +989,7 @@ kus
 kutang
 kutu
 la
+lab
 labu
 lagu
 lah
@@ -1169,6 +1174,7 @@ nanah
 nanam
 nanas
 nandur
+nanem
 nanggung
 nanging
 nangis
@@ -1199,6 +1205,7 @@ nenek
 nenen
 nengdi
 neras
+nesu
 nete
 netra
 ngaca
@@ -1556,6 +1563,7 @@ ramah
 raman
 rambu
 rambut
+rambutan
 rampun
 ramua
 ramuan
@@ -1687,6 +1695,7 @@ ser
 sera
 serem
 ses
+sesama
 si
 sial
 sialan
@@ -1844,6 +1853,7 @@ tulung
 tum
 tuman
 tumbas
+tumindak
 tumpak
 tumpeng
 turon
