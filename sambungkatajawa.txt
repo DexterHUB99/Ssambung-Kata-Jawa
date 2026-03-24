@@ -624,6 +624,7 @@ batok
 batu
 bawok
 bayi
+bayu
 bayun
 bebas
 bebe
@@ -3854,6 +3855,7 @@ peli
 pen
 pena
 penak
+pengen
 peni
 peno
 pentil
@@ -4558,6 +4560,7 @@ suling
 sulo
 sultan
 sum
+suma
 sumbang
 sumbar
 sume
@@ -4604,6 +4607,7 @@ susune
 sut
 sutil
 suwe
+suwek
 suwi
 suwine
 suwir
@@ -5290,6 +5294,7 @@ yuka
 yuki
 yuko
 yula
+yuma
 yumi
 yunani
 yung
