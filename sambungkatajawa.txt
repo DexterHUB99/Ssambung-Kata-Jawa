@@ -396,6 +396,7 @@ aul
 aun
 aup
 aura
+aus
 autan
 aw
 awa
@@ -1132,6 +1133,7 @@ hitam
 hitung
 hiu
 ho
+hoa
 hobi
 hoe
 hoh
@@ -1685,6 +1687,7 @@ kowe
 koyo
 koyok
 krama
+kramas
 krikil
 ku
 kua
@@ -2489,6 +2492,7 @@ odol
 og
 ogah
 ogak
+oge
 ogoh
 oh
 ohh
@@ -2660,6 +2664,7 @@ parit
 pas
 pasa
 pasak
+pasir
 pasti
 pasu
 pati
@@ -2744,6 +2749,7 @@ popol
 por
 pora
 porasi
+porno
 poro
 pos
 pot
@@ -2783,6 +2789,7 @@ ragat
 ragelem
 ragi
 ragil
+rah
 rahasia
 rai
 raiku
@@ -3223,6 +3230,7 @@ tangan
 tangguh
 tangi
 tani
+tanjung
 tanpa
 tansah
 tape
