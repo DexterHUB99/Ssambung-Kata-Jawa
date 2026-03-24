@@ -1801,6 +1801,7 @@ kamus
 kan
 kanak
 kanan
+kanane
 kanca
 kancane
 kancil
@@ -3367,6 +3368,7 @@ punten
 punya
 pup
 pupu
+pupuh
 pupuk
 pupus
 pur
@@ -3467,6 +3469,7 @@ rebutan
 rega
 regane
 rek
+rekam
 rekan
 rekasa
 rekoso
@@ -3733,6 +3736,7 @@ siji
 sik
 sika
 sikat
+siki
 sikil
 siku
 sikut
