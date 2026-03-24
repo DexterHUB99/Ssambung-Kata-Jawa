@@ -611,6 +611,7 @@ campur
 cantik
 cara
 cari
+carik
 ce
 cecak
 cece
@@ -3974,6 +3975,7 @@ udut
 uen
 uga
 uget
+ugo
 ugu
 ugung
 uh
