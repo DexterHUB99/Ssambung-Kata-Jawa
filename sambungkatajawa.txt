@@ -3834,6 +3834,7 @@ pling
 po
 poa
 pocong
+podang
 podho
 poe
 poi
@@ -5163,6 +5164,7 @@ yoyo
 yu
 yuan
 yuda
+yudha
 yudi
 yuk
 yuka
@@ -5181,4 +5183,5 @@ yuyun
 zahra
 zamzam
 ziarah
+zina
 zuhur
