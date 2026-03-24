@@ -341,6 +341,7 @@ ek
 eka
 ekaa
 ekam
+ekan
 eke
 ekeh
 ekek
@@ -909,6 +910,7 @@ korban
 kosan
 kosek
 kota
+kotor
 kowe
 koyo
 kua
@@ -1044,6 +1046,7 @@ makruh
 malah
 malam
 mama
+mamah
 mami
 mampus
 mangan
@@ -1207,6 +1210,7 @@ ngguyu
 ngibul
 ngidul
 ngila
+ngipasi
 ngirit
 ngiseng
 ngisep
@@ -1477,6 +1481,7 @@ raiso
 rak
 raki
 rakus
+rama
 ramah
 rambu
 rambut
@@ -1609,6 +1614,7 @@ serem
 ses
 si
 sialan
+siap
 siapa
 sii
 sikil
@@ -1820,6 +1826,7 @@ umpama
 umum
 umur
 una
+unah
 unan
 undak
 undang
