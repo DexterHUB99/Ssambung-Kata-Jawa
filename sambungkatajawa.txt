@@ -1956,6 +1956,7 @@ inggih
 inggil
 ingin
 ingkang
+ingkung
 ingsun
 ingu
 ini
@@ -3744,6 +3745,7 @@ nulis
 nulo
 nulung
 num
+numbas
 numpak
 numpang
 numplek
