@@ -1315,6 +1315,7 @@ jongo
 joni
 jori
 jubah
+jumat
 ka
 kaba
 kabeh
@@ -1334,6 +1335,7 @@ kakaka
 kake
 kaki
 kaku
+kal
 kala
 kalah
 kaleng
@@ -1634,6 +1636,7 @@ langsing
 lani
 lantai
 laos
+lap
 lapar
 lapi
 lapis
@@ -2392,6 +2395,7 @@ oyi
 oyok
 oyot
 oz
+pa
 pada
 padang
 padhang
@@ -2716,6 +2720,7 @@ sagu
 saha
 saiki
 saing
+sakarep
 sakit
 saku
 sala
@@ -3006,6 +3011,7 @@ tina
 tindak
 tinggal
 tinju
+tirai
 tiri
 tisu
 tita
@@ -3184,6 +3190,7 @@ unia
 unjuk
 uno
 unta
+untal
 unte
 untir
 untu
