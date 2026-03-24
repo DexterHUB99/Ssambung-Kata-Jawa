@@ -288,6 +288,7 @@ de
 dek
 delman
 dereng
+diba
 didi
 dik
 dikon
@@ -817,6 +818,7 @@ kawit
 kaya
 kayu
 ke
+kedadi
 kedai
 keke
 kela
@@ -857,6 +859,7 @@ kilen
 kin
 kini
 kintel
+kira
 kirab
 kirek
 kisan
@@ -906,6 +909,7 @@ kulo
 kulon
 kuma
 kuman
+kumbah
 kumbang
 kunci
 kuno
@@ -968,6 +972,7 @@ limo
 lingkaran
 lingsir
 lintah
+lipa
 lipan
 lipas
 lipat
@@ -1123,6 +1128,7 @@ netra
 ngaceng
 ngae
 ngaji
+ngaka
 ngaleh
 ngalu
 ngamok
@@ -1170,6 +1176,7 @@ ngesot
 ngesuk
 ngewe
 ngg
+nggak
 nggateli
 nggeh
 nggih
@@ -1680,6 +1687,7 @@ tete
 tetek
 ti
 tibo
+tikus
 tila
 tilem
 timah
