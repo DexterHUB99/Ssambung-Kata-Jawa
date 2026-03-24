@@ -33,7 +33,6 @@ ahak
 aham
 ahan
 ahap
-ahar
 ahas
 ahat
 ahay
@@ -68,8 +67,6 @@ aira
 aiwe
 aja
 ajan
-ajang
-ajaran
 ajay
 ajem
 ajeng
@@ -194,7 +191,6 @@ angklung
 angsa
 angsal
 angsle
-angsuran
 angu
 angus
 ani
@@ -332,7 +328,6 @@ bae
 bagong
 bagus
 bajing
-baju
 bakso
 bakul
 balung
@@ -634,6 +629,7 @@ gagal
 gah
 gaja
 gajah
+gaji
 gak
 gala
 galak
@@ -653,6 +649,7 @@ gang
 gangsing
 ganteng
 gantung
+gapuk
 gara
 garang
 garap
@@ -704,7 +701,6 @@ gentong
 gerah
 gerak
 geram
-gerobak
 gertak
 ges
 geseng
@@ -825,7 +821,6 @@ heh
 hehe
 hehi
 hei
-helo
 hem
 hemat
 her
@@ -842,7 +837,6 @@ hidup
 hihihi
 hijau
 hiji
-hijrah
 hilang
 hina
 hinggap
@@ -1078,7 +1072,6 @@ joko
 jokowi
 joni
 jori
-jubah
 kabeh
 kadal
 kadang
@@ -1215,7 +1208,6 @@ kira
 kirab
 kirek
 kiri
-kis
 kisan
 kita
 kitab
@@ -1242,7 +1234,6 @@ komik
 kompor
 kon
 konco
-kondangan
 kono
 kontol
 kop
@@ -1364,7 +1355,6 @@ liar
 libur
 lidah
 lihat
-lii
 lik
 lika
 likis
@@ -1428,7 +1418,6 @@ luka
 luluh
 lum
 lumah
-lumayan
 lumi
 lumpang
 lumrah
@@ -1661,7 +1650,6 @@ ngatuk
 ngaturaken
 ngawai
 ngawas
-ngawe
 ngawi
 ngawor
 ngawur
@@ -1702,7 +1690,6 @@ ngidul
 ngila
 ngilang
 ngiler
-ngilu
 ngimpi
 ngipasi
 ngiris
@@ -2240,7 +2227,6 @@ sate
 sawer
 saya
 sayaa
-sayah
 sayang
 sayur
 se
@@ -2397,7 +2383,6 @@ tani
 tansah
 tape
 tapi
-tapir
 tapuk
 tarawih
 tarek
@@ -2475,7 +2460,6 @@ tugel
 tuh
 tuhan
 tuku
-tul
 tula
 tulan
 tulang
@@ -2644,12 +2628,10 @@ usia
 usik
 usil
 usir
-usma
 usu
 usui
 usuk
 usul
-usung
 usus
 usut
 uta
@@ -2705,7 +2687,6 @@ weh
 welo
 wen
 wengi
-werkudara
 weruh
 wes
 wet
