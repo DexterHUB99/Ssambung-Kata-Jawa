@@ -358,6 +358,7 @@ edan
 edar
 edaran
 eg
+ega
 ege
 ego
 eh
@@ -401,6 +402,7 @@ eli
 elig
 eling
 elir
+elit
 elo
 elok
 elu
@@ -1156,6 +1158,7 @@ mami
 mampus
 maneh
 mangan
+manis
 mantul
 manuk
 manut
@@ -1338,6 +1341,7 @@ ngesuk
 ngewe
 ngg
 nggak
+nggaku
 nggateli
 nggeh
 nggi
@@ -1445,6 +1449,7 @@ nun
 nuntun
 nunut
 nur
+nuri
 nurun
 nusa
 nuti
@@ -2082,6 +2087,7 @@ urung
 urup
 urus
 urut
+us
 usa
 usah
 usaha
