@@ -695,6 +695,7 @@ ehop
 ehoy
 ehup
 ehuy
+eja
 ek
 eka
 ekaa
@@ -2731,6 +2732,7 @@ oran
 orang
 orek
 oren
+oreo
 ori
 oria
 orok
@@ -3103,6 +3105,7 @@ roto
 rowang
 rowo
 royo
+rt
 ruang
 rubuh
 rugi
@@ -3522,6 +3525,7 @@ tumit
 tumpah
 tumpak
 tumpeng
+tuna
 tunggal
 tunggu
 tupi
@@ -3557,6 +3561,7 @@ udur
 udut
 uen
 uga
+uget
 ugung
 uh
 uha
