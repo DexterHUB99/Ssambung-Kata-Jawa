@@ -449,6 +449,7 @@ autan
 aw
 awa
 awak
+awakmu
 awan
 awas
 awe
@@ -1133,6 +1134,7 @@ gorok
 gorong
 gosok
 gosong
+got
 gowo
 goyang
 gudang
@@ -3032,6 +3034,7 @@ pela
 peler
 peli
 pen
+pena
 penak
 peni
 pentil
@@ -3132,6 +3135,7 @@ punya
 pup
 pupu
 pupuk
+pupus
 pur
 pura
 purek
