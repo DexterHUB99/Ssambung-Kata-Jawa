@@ -916,6 +916,7 @@ ekah
 ekam
 ekamu
 ekan
+ekap
 eke
 ekeh
 ekek
@@ -4435,6 +4436,7 @@ tebu
 tegak
 tegal
 teh
+teha
 tekan
 teko
 tela
