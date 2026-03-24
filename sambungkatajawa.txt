@@ -961,6 +961,7 @@ ete
 etek
 eten
 eti
+etil
 eto
 etok
 etos
@@ -977,6 +978,7 @@ ewek
 ewu
 ex
 eya
+eyang
 eyo
 faji
 fix
@@ -2077,6 +2079,7 @@ lampir
 lampu
 lampung
 lamu
+lamun
 lamunan
 lan
 lanang
