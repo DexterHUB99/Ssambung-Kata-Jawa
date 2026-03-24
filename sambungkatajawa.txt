@@ -1494,6 +1494,7 @@ kunti
 kuntul
 kupas
 kupat
+kupeng
 kuping
 kur
 kura
@@ -1851,6 +1852,7 @@ nendang
 nenek
 nenen
 nengdi
+nepak
 neras
 nesi
 nesu
@@ -2289,6 +2291,7 @@ pasa
 pasak
 pasti
 pasu
+pati
 patil
 patung
 pean
@@ -2597,6 +2600,7 @@ sayah
 sayang
 sayur
 se
+sedaya
 segawon
 sego
 seh
