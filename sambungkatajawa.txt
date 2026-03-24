@@ -1567,6 +1567,7 @@ kaku
 kal
 kala
 kalah
+kalan
 kalap
 kaleng
 kali
@@ -2088,6 +2089,7 @@ mah
 maha
 mai
 mainan
+maju
 mak
 makan
 makanan
@@ -3482,6 +3484,7 @@ temen
 tempat
 tempe
 tempek
+temriki
 temu
 tenan
 tenang
