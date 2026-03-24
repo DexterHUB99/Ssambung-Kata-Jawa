@@ -1325,6 +1325,7 @@ gasi
 gasing
 gatau
 gatel
+gateli
 gathel
 gatot
 gatuk
@@ -5199,6 +5200,7 @@ weh
 wektu
 welo
 wen
+wena
 wengi
 werkudara
 werno
