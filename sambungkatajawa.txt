@@ -627,6 +627,7 @@ esaa
 esai
 esan
 escendol
+esep
 esi
 eso
 esok
@@ -1161,6 +1162,7 @@ kambil
 kambing
 kami
 kampung
+kampungan
 kamu
 kamus
 kanak
@@ -1912,6 +1914,7 @@ nuntun
 nunut
 nur
 nuri
+nurui
 nurun
 nusa
 nuti
@@ -2347,6 +2350,7 @@ sembah
 sempak
 seng
 sepele
+sepi
 sepuh
 ser
 sera
@@ -2437,6 +2441,7 @@ sugih
 sui
 suk
 suka
+suki
 suku
 sula
 sulak
