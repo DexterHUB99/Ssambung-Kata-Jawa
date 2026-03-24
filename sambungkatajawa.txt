@@ -904,6 +904,7 @@ elang
 elap
 eleh
 elek
+eleke
 elel
 elen
 eleng
@@ -3890,6 +3891,7 @@ ruri
 rus
 rusa
 rusak
+rusi
 rusma
 rusuh
 rute
@@ -4214,6 +4216,7 @@ tampi
 tampol
 tamu
 tamune
+tan
 tanah
 tandur
 tanduran
