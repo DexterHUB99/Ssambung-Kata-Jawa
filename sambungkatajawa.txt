@@ -2973,6 +2973,7 @@ moli
 molok
 mondok
 monggo
+moni
 montor
 monyet
 mori
