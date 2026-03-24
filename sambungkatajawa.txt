@@ -1867,6 +1867,7 @@ tawon
 tebu
 tegak
 tekan
+teko
 tela
 telan
 telek
@@ -2060,6 +2061,7 @@ utang
 utar
 utara
 ute
+utek
 utekmu
 uti
 utir
