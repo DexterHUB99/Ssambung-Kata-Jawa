@@ -573,7 +573,10 @@ buta
 buto
 butu
 butuh
+cabe
+caca
 cacat
+cace
 caci
 cacig
 cacing
@@ -587,6 +590,7 @@ cari
 ce
 cece
 cecek
+celana
 celek
 celeng
 celu
@@ -988,6 +992,7 @@ gandrung
 gandul
 gang
 ganggu
+gangsal
 gangsar
 gangsing
 gani
@@ -4020,6 +4025,7 @@ wadah
 wadon
 waduh
 waduk
+wae
 wage
 wahyu
 wajah
