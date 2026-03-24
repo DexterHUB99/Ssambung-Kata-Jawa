@@ -3434,6 +3434,7 @@ ngik
 ngikut
 ngila
 ngilang
+ngilat
 ngiler
 ngiling
 ngilu
@@ -4941,6 +4942,7 @@ too
 topi
 topo
 tora
+tore
 toro
 toto
 towo
