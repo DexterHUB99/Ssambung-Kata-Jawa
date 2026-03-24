@@ -153,6 +153,7 @@ alah
 alam
 alamo
 alan
+alang
 alap
 alara
 alas
@@ -2680,6 +2681,7 @@ ngunjuk
 ngunjung
 nguno
 nguntal
+nguntung
 ngunu
 ngupe
 ngupil
@@ -3747,6 +3749,7 @@ tulan
 tulang
 tulen
 tuli
+tulip
 tulis
 tulung
 tulungagung
