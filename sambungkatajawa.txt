@@ -143,6 +143,7 @@ anan
 anas
 ancok
 ancur
+anda
 andai
 andani
 ander
@@ -905,6 +906,7 @@ jiga
 jijik
 jika
 jilat
+jilbab
 jin
 jingga
 jipang
@@ -1314,6 +1316,7 @@ narik
 naro
 naruh
 nas
+nasa
 nasar
 nasi
 nasib
@@ -1481,6 +1484,7 @@ nimba
 nimbun
 nin
 nina
+nindak
 ning
 nini
 nis
@@ -1680,6 +1684,7 @@ piye
 piyo
 po
 pojok
+pok
 polah
 poli
 pon
@@ -2045,6 +2050,7 @@ tongkol
 tono
 toto
 tua
+tuban
 tugel
 tuh
 tuhan
