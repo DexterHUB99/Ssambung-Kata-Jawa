@@ -599,6 +599,7 @@ bara
 barat
 bareng
 baret
+baris
 baru
 bas
 basa
@@ -656,6 +657,7 @@ biso
 bisu
 bisue
 bobi
+bobok
 bojo
 bokong
 bol
@@ -1218,6 +1220,7 @@ galan
 galang
 galau
 galeh
+galer
 gali
 galia
 galih
@@ -3485,6 +3488,7 @@ nuntun
 nunung
 nunut
 nuo
+nup
 nur
 nurani
 nuri
