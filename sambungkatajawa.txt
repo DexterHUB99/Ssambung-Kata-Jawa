@@ -607,6 +607,7 @@ gathel
 gatot
 gawang
 gawe
+gaweopo
 gawok
 gayung
 ge
@@ -719,6 +720,7 @@ hani
 hantam
 hantu
 hao
+hap
 hapi
 hapus
 har
@@ -1075,6 +1077,7 @@ kerut
 kesandung
 kesem
 kesleo
+ketan
 ketel
 ketir
 ketok
@@ -1106,6 +1109,7 @@ kitab
 klambi
 klambimu
 klebus
+ko
 kocak
 koclok
 kodok
@@ -1126,6 +1130,7 @@ kon
 konco
 kono
 kontol
+kop
 kopi
 koplak
 koplo
@@ -1462,6 +1467,7 @@ ngaleh
 ngali
 ngalu
 ngamal
+ngambang
 ngamok
 ngamuk
 ngandok
@@ -1739,6 +1745,7 @@ op
 opa
 opah
 opak
+opal
 opel
 opet
 opini
@@ -1962,6 +1969,7 @@ rogoh
 roi
 rokok
 rolas
+rolo
 rombak
 rombong
 rombongan
