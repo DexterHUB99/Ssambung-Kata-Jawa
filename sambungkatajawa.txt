@@ -516,6 +516,7 @@ buang
 buatan
 buaya
 bubur
+budak
 budi
 buk
 buka
@@ -1271,6 +1272,7 @@ iket
 ikhlas
 ikhtiar
 iki
+ikie
 ikih
 ikii
 iklim
@@ -1618,6 +1620,7 @@ kelon
 kelor
 keluh
 kema
+kemah
 kemanten
 kemaren
 kembali
@@ -3153,6 +3156,7 @@ semar
 sembah
 sempak
 seng
+senok
 sepele
 sepi
 sepuh
@@ -3429,6 +3433,7 @@ tiwas
 tiyang
 to
 toja
+tokek
 tolak
 tole
 tolol
