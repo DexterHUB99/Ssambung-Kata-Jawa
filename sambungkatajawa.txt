@@ -192,6 +192,7 @@ angsa
 angsal
 angsle
 angu
+angus
 ani
 aniani
 aning
@@ -1170,6 +1171,7 @@ kere
 kerek
 kereta
 keri
+kerudung
 keruh
 kerupuk
 kerut
@@ -2027,6 +2029,7 @@ puan
 puh
 pujaan
 pukul
+pul
 pun
 punten
 punya
@@ -2200,6 +2203,7 @@ salam
 salim
 salut
 sam
+sama
 sambel
 sambut
 sami
@@ -2234,6 +2238,7 @@ sembah
 sempak
 seng
 sepele
+sepuh
 ser
 sera
 serem
