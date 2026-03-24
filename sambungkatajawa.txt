@@ -1472,6 +1472,7 @@ jara
 jaran
 jaranan
 jare
+jari
 jawa
 jawi
 jebul
@@ -3590,6 +3591,7 @@ ular
 ulas
 ulat
 ulek
+ulen
 uler
 ulet
 uli
