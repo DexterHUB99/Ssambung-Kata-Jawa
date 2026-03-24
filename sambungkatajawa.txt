@@ -2242,6 +2242,7 @@ mane
 maneh
 mangan
 mangap
+mangga
 manggis
 mangsa
 mani
@@ -3125,6 +3126,7 @@ pun
 puna
 pundi
 pungkasan
+puni
 punten
 punya
 pup
@@ -3813,6 +3815,7 @@ udut
 uen
 uga
 uget
+ugu
 ugung
 uh
 uha
