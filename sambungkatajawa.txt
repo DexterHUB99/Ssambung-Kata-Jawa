@@ -732,6 +732,7 @@ bumbu
 bumi
 bunga
 buntu
+buntung
 buri
 bus
 busa
@@ -1616,6 +1617,7 @@ hancur
 handarbeni
 hang
 hangat
+hangi
 hani
 hansip
 hantam
@@ -2868,6 +2870,7 @@ mak
 makam
 makan
 makanan
+make
 maki
 makruh
 maksud
