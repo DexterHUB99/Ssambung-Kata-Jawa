@@ -1200,6 +1200,7 @@ golong
 gombal
 gombalan
 gondok
+gondol
 gondrong
 gong
 gopoh
@@ -1774,6 +1775,7 @@ kaku
 kal
 kala
 kalah
+kalajengking
 kalan
 kalap
 kalem
@@ -2693,6 +2695,7 @@ ngangso
 ngangsu
 nganjuk
 ngano
+ngantem
 ngantemi
 nganteni
 nganter
