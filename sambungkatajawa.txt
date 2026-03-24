@@ -235,6 +235,7 @@ ama
 amah
 amak
 amal
+amalan
 amam
 aman
 amanah
@@ -1869,6 +1870,7 @@ ilok
 iloo
 ilu
 iluk
+ilyas
 im
 ima
 imam
@@ -2934,6 +2936,7 @@ manuk
 manusi
 manut
 maos
+mapan
 marah
 mardi
 mari
@@ -4646,6 +4649,7 @@ slamet
 so
 soba
 sobat
+soblok
 sodara
 sodir
 sodok
@@ -4735,6 +4739,7 @@ suna
 sunar
 sunat
 sunda
+sunduk
 sundul
 sungai
 sungkan
