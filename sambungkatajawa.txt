@@ -100,6 +100,7 @@ akas
 akbar
 ake
 akeh
+aker
 akhir
 aki
 akih
@@ -253,6 +254,7 @@ anus
 anyam
 anyar
 apa
+apaa
 ape
 apel
 apem
@@ -393,6 +395,7 @@ bawok
 bayi
 bebe
 bebek
+becak
 bela
 belo
 beo
@@ -845,6 +848,7 @@ gudang
 gudeg
 guguk
 gugup
+gugur
 gul
 gula
 gulai
@@ -1398,6 +1402,7 @@ kirek
 kiri
 kis
 kisan
+kit
 kita
 kitab
 klambi
@@ -2051,6 +2056,7 @@ nindak
 ning
 ningsih
 nini
+nio
 nipon
 nira
 nis
@@ -2142,6 +2148,7 @@ oket
 okin
 okok
 okol
+okor
 okum
 ol
 olah
@@ -2456,6 +2463,7 @@ rimi
 rin
 rina
 rindu
+ring
 ringan
 ringkasan
 ringkes
@@ -3037,6 +3045,7 @@ usut
 uta
 utaa
 utah
+utak
 utama
 utan
 utang
@@ -3108,6 +3117,7 @@ wirang
 wita
 witan
 wiwit
+woe
 woh
 woko
 wong
