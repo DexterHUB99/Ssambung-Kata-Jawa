@@ -304,6 +304,7 @@ asuh
 asui
 ata
 atap
+atapi
 atas
 ate
 atek
@@ -693,6 +694,7 @@ gambar
 gambuh
 gamel
 gamelan
+gamis
 gamma
 gampang
 gandos
@@ -2456,6 +2458,7 @@ sikil
 siku
 sila
 silah
+silam
 silet
 silit
 silitem
@@ -2563,6 +2566,7 @@ suwi
 suwir
 suwun
 ta
+taat
 tabuh
 tae
 taek
