@@ -3505,6 +3505,7 @@ obat
 obaten
 obeng
 obor
+obral
 ocol
 od
 odak
@@ -4664,6 +4665,7 @@ too
 topi
 topo
 tora
+toro
 toto
 towo
 tu
