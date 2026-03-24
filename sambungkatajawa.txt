@@ -89,6 +89,7 @@ ail
 aila
 ailan
 ailo
+aima
 aing
 aini
 aio
@@ -2532,6 +2533,7 @@ nalika
 naliko
 nam
 nama
+namar
 nambah
 nambal
 nami
@@ -2545,6 +2547,7 @@ nana
 nanah
 nanam
 nanas
+nanase
 nandang
 nanduk
 nandur
@@ -3078,6 +3081,7 @@ omong
 omongan
 ompol
 ompong
+ompreng
 on
 onar
 onari
@@ -3643,6 +3647,7 @@ satu
 sawah
 sawan
 sawer
+sawi
 sawit
 saya
 sayaa
