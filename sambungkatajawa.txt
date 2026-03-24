@@ -7,6 +7,7 @@ abi
 abimanyu
 abis
 abu
+aceh
 ad
 ada
 adaa
@@ -1074,6 +1075,7 @@ kikil
 kil
 kilat
 kilen
+kimi
 kin
 kini
 kintel
@@ -1192,6 +1194,7 @@ lati
 laut
 lawak
 lawang
+lawas
 layu
 layuh
 lebah
@@ -1527,6 +1530,7 @@ ngocok
 ngoh
 ngok
 ngoko
+ngokok
 ngolah
 ngolak
 ngolo
@@ -2211,6 +2215,7 @@ tuli
 tulis
 tulung
 tum
+tuma
 tuman
 tumbas
 tumindak
@@ -2300,6 +2305,7 @@ undang
 undi
 undur
 undura
+unggah
 unggas
 ungger
 unggul
@@ -2438,6 +2444,7 @@ yano
 yasin
 yati
 yaya
+yayo
 yen
 yere
 yo
@@ -2446,6 +2453,7 @@ yoi
 yok
 yono
 yoopo
+yoora
 yowes
 yoyo
 yuda
