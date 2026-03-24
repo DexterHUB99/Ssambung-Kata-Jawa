@@ -2133,6 +2133,7 @@ kemproh
 kemul
 ken
 kena
+kencing
 kencot
 kencur
 kendal
@@ -2935,6 +2936,7 @@ neduh
 negara
 negeri
 neges
+negos
 neh
 nek
 neka
