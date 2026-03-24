@@ -2373,6 +2373,7 @@ kentu
 kentut
 kenyang
 kepa
+kepal
 kepala
 kepaten
 kepek
@@ -4873,6 +4874,7 @@ tanduran
 tangan
 tangguh
 tangi
+tangkas
 tani
 tanjung
 tanpa
