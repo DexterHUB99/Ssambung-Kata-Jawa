@@ -3076,6 +3076,7 @@ ngawas
 ngawe
 ngawi
 ngawii
+ngawiti
 ngawor
 ngawur
 ngayomi
@@ -3634,6 +3635,7 @@ paringan
 paris
 parit
 parok
+paru
 pas
 pasa
 pasak
