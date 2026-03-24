@@ -3049,6 +3049,7 @@ mek
 mekar
 meki
 mekso
+melas
 melati
 melok
 melu
@@ -4634,6 +4635,7 @@ sayang
 sayur
 se
 sebat
+sedar
 sedaya
 segawon
 segera
@@ -5349,6 +5351,7 @@ urek
 ures
 uri
 urii
+urik
 uring
 urip
 uripe
