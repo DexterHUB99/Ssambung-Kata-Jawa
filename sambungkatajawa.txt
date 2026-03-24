@@ -222,6 +222,7 @@ angu
 angus
 ani
 aniani
+anii
 aning
 anis
 anjai
@@ -1336,6 +1337,7 @@ keke
 kela
 kelangan
 kelas
+kelek
 kelem
 keliling
 kelingan
@@ -1946,6 +1948,7 @@ ngeper
 ngepot
 ngeri
 ngerok
+ngerti
 ngesor
 ngesot
 ngesuk
@@ -2237,6 +2240,7 @@ orok
 orong
 os
 osah
+osak
 osaka
 osek
 osen
@@ -2387,6 +2391,7 @@ ragil
 rai
 raiku
 raimu
+raimui
 raino
 raiso
 raja
@@ -2727,6 +2732,7 @@ supel
 supo
 sura
 suri
+suro
 suruh
 surup
 susah
@@ -2788,6 +2794,7 @@ tekan
 teko
 tela
 telan
+telas
 telat
 telek
 telo
