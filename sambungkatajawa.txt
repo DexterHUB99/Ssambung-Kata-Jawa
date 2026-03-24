@@ -566,6 +566,7 @@ ayem
 ayeme
 ayi
 ayia
+ayik
 ayo
 ayok
 ayu
@@ -1188,6 +1189,7 @@ ewek
 ewu
 ex
 eya
+eyah
 eyan
 eyang
 eyo
@@ -4555,6 +4557,7 @@ taie
 taii
 taik
 taki
+tal
 tala
 tales
 tali
