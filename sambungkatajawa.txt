@@ -750,6 +750,7 @@ iri
 irii
 irin
 iris
+irong
 iru
 irung
 irup
@@ -1152,6 +1153,7 @@ narik
 naro
 naruh
 nas
+nasar
 nasi
 nawar
 ndasmu
@@ -1287,6 +1289,7 @@ nima
 nimbun
 nin
 nina
+ning
 nini
 nis
 nisa
@@ -1457,6 +1460,7 @@ pie
 pijet
 pijit
 pikun
+pilakon
 pilar
 pilu
 pindah
@@ -1640,6 +1644,7 @@ sialan
 siap
 siapa
 sii
+siji
 sikil
 siku
 sila
@@ -1725,6 +1730,7 @@ tampol
 tamu
 tamune
 tangi
+tani
 tansah
 tape
 tapi
@@ -1987,6 +1993,7 @@ yoopo
 yowes
 yoyo
 yuko
+yung
 yura
 yuyu
 zamzam
