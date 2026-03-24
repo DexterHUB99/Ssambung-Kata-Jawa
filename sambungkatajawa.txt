@@ -351,6 +351,7 @@ bom
 bos
 boso
 bot
+boti
 bu
 buang
 budi
@@ -364,6 +365,7 @@ buto
 cacig
 campur
 cantik
+cara
 cari
 ce
 cece
@@ -401,6 +403,7 @@ de
 dek
 delman
 demok
+dengkul
 dereng
 deso
 diba
@@ -666,6 +669,7 @@ gendeng
 gene
 genep
 geni
+geno
 genteng
 gerah
 gerak
@@ -1210,6 +1214,7 @@ koyo
 krama
 kua
 kuat
+kucing
 kuda
 kudu
 kudus
@@ -1252,6 +1257,7 @@ kutu
 la
 lab
 labu
+lag
 lagi
 lagu
 lah
@@ -1863,6 +1869,7 @@ orong
 osah
 osaka
 osek
+osen
 oseng
 oser
 osok
