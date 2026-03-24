@@ -425,6 +425,7 @@ eben
 edan
 edar
 edaran
+efek
 eg
 ega
 ege
@@ -1102,6 +1103,7 @@ kepala
 kepaten
 kepiye
 kepo
+kerang
 keraton
 kere
 kerek
