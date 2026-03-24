@@ -2594,6 +2594,7 @@ lirih
 lis
 lisa
 lisan
+lisi
 liwa
 liwat
 liwet
@@ -3275,6 +3276,7 @@ ngoleke
 ngolo
 ngoloh
 ngolok
+ngomah
 ngombe
 ngomel
 ngomong
@@ -3811,6 +3813,7 @@ pisan
 pisang
 pisis
 pit
+pita
 pitak
 pitakon
 pitek
@@ -4194,6 +4197,7 @@ sakarep
 sakit
 sakite
 saku
+sakura
 sal
 sala
 salah
@@ -4432,6 +4436,7 @@ sula
 sulak
 sulap
 sule
+suli
 suling
 sultan
 sum
