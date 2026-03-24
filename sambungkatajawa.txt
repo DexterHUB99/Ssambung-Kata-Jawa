@@ -1362,6 +1362,7 @@ gemblung
 gembok
 gemi
 gempil
+gemuk
 gen
 gena
 genah
@@ -1758,6 +1759,7 @@ iklim
 iko
 ikoe
 ikon
+ikrar
 iku
 ikue
 ikui
@@ -4489,6 +4491,7 @@ sop
 sopan
 sopir
 sopo
+sor
 sora
 sore
 sori
