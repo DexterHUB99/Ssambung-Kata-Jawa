@@ -1221,6 +1221,7 @@ kotor
 kowe
 koyo
 krama
+krikil
 kua
 kuat
 kucing
@@ -2290,6 +2291,7 @@ sunar
 sunat
 sundul
 suo
+supe
 supel
 supo
 sura
@@ -2379,6 +2381,7 @@ tina
 tinju
 tiri
 tisu
+tita
 titid
 titit
 tititit
