@@ -6,6 +6,7 @@ abal
 abi
 abimanyu
 abis
+abot
 abu
 aceh
 ad
@@ -456,6 +457,7 @@ eben
 edan
 edar
 edaran
+eeh
 efek
 eg
 ega
@@ -682,6 +684,7 @@ gembel
 gemblung
 gembok
 gendeng
+gendhis
 gene
 genep
 geni
@@ -770,6 +773,7 @@ halal
 halo
 hama
 hamba
+hambar
 hamil
 hampir
 hana
@@ -1155,6 +1159,7 @@ kepala
 kepaten
 kepiye
 kepo
+kera
 kerang
 keraton
 kere
@@ -2199,6 +2204,7 @@ sapu
 sarem
 sarong
 saru
+sasa
 sate
 sawer
 saya
