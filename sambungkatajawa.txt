@@ -1838,6 +1838,7 @@ oposi
 or
 ora
 orak
+oran
 orang
 orek
 oren
@@ -1952,6 +1953,7 @@ purek
 puri
 puser
 putu
+puyeng
 puyuh
 ra
 rabi
@@ -2041,6 +2043,7 @@ ringkasan
 ringo
 rino
 rip
+rira
 riri
 risa
 risi
@@ -2334,6 +2337,7 @@ titit
 tititit
 tito
 toja
+tolak
 tolol
 tolong
 tomat
