@@ -450,6 +450,7 @@ atep
 ater
 ati
 atia
+atie
 atih
 atik
 atine
@@ -886,6 +887,7 @@ emik
 emo
 emog
 emoh
+emohe
 emok
 emong
 emot
@@ -2398,6 +2400,7 @@ madan
 madang
 madhang
 madu
+madue
 mae
 maem
 magelang
@@ -3159,6 +3162,7 @@ ombak
 ombe
 ombo
 ome
+omea
 omo
 omong
 omongan
@@ -3243,6 +3247,7 @@ oyi
 oyok
 oyot
 oz
+ozon
 pa
 pada
 padae
@@ -3252,6 +3257,7 @@ padu
 pagar
 pahing
 paido
+paing
 pait
 pajak
 pajang
@@ -4131,6 +4137,7 @@ tumpeng
 tuna
 tunggal
 tunggu
+tupa
 tupi
 turah
 turon
