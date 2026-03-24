@@ -10,6 +10,7 @@ abu
 ad
 ada
 adaa
+adap
 adi
 adipati
 aduh
@@ -444,6 +445,7 @@ entut
 enuk
 epa
 epan
+epi
 epic
 epik
 epis
@@ -498,6 +500,7 @@ galak
 galang
 gali
 galih
+galon
 gaman
 gambar
 gambuh
@@ -577,6 +580,7 @@ gosong
 gowo
 goyang
 gudang
+gudeg
 guguk
 gul
 gula
@@ -1062,6 +1066,7 @@ lati
 laut
 lawak
 lawang
+layu
 layuh
 lebah
 lee
@@ -1607,6 +1612,7 @@ pon
 pondok
 poo
 poro
+prei
 puan
 puh
 pujaan
@@ -1775,6 +1781,7 @@ segawon
 sego
 seh
 sek
+selet
 selo
 seng
 sepele
@@ -1849,6 +1856,7 @@ sugih
 sui
 suk
 suka
+suku
 sula
 sulak
 sule
