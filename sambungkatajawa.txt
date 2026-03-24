@@ -3317,6 +3317,7 @@ ngesu
 ngesuk
 nget
 ngetan
+ngetok
 ngewangi
 ngewe
 ngewek
