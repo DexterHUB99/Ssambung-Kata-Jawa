@@ -877,6 +877,7 @@ eta
 etah
 etan
 ete
+etek
 eti
 eto
 etos
@@ -1099,6 +1100,7 @@ gupak
 guri
 gurih
 guru
+gurune
 gusah
 gusi
 gusti
@@ -1453,6 +1455,7 @@ isep
 isi
 isia
 isih
+isii
 isin
 islam
 isma
@@ -3262,6 +3265,7 @@ segawon
 sego
 seh
 sek
+seket
 sekul
 selet
 selo
