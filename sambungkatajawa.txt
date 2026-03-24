@@ -775,6 +775,7 @@ coklat
 colak
 colong
 congor
+cor
 coro
 crita
 cuci
@@ -3301,6 +3302,7 @@ ngewangi
 ngewe
 ngewek
 ngg
+ngga
 nggae
 nggah
 nggak
@@ -4915,6 +4917,7 @@ ukin
 ukir
 ukira
 ukiran
+ukiro
 ukki
 uko
 ukol
