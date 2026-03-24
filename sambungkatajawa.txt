@@ -1900,6 +1900,7 @@ irot
 iru
 iruk
 irung
+irunge
 irup
 irus
 irut
@@ -3510,6 +3511,7 @@ nong
 nongki
 nongkrong
 noni
+nonjok
 nono
 nonton
 nopi
