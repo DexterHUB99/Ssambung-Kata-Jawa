@@ -203,7 +203,6 @@ amal
 amam
 aman
 amanah
-amane
 amas
 amba
 ambar
@@ -452,7 +451,6 @@ atep
 ater
 ati
 atia
-atie
 atih
 atik
 atine
@@ -706,6 +704,7 @@ dasar
 dasi
 daun
 dawa
+dawet
 dawuh
 de
 dek
@@ -896,7 +895,6 @@ emik
 emo
 emog
 emoh
-emohe
 emok
 emong
 emot
@@ -930,7 +928,6 @@ enggeh
 engkang
 engko
 engkol
-engkole
 eni
 ening
 enjing
@@ -960,7 +957,6 @@ epis
 epo
 epos
 epu
-er
 era
 erah
 erak
@@ -992,7 +988,6 @@ erup
 es
 esa
 esaa
-esae
 esai
 esak
 esam
@@ -1383,7 +1378,6 @@ hayo
 hayu
 hayuk
 he
-hebat
 hebate
 heboh
 hee
@@ -1707,7 +1701,6 @@ itungan
 iuta
 iw
 iwak
-iwake
 iwan
 iwane
 iwas
@@ -1730,7 +1723,6 @@ jaga
 jagung
 jahe
 jakaa
-jalii
 jam
 jaman
 jambak
@@ -1880,7 +1872,6 @@ kapan
 kapok
 kapur
 kara
-karang
 kare
 karep
 karepmu
@@ -1901,7 +1892,6 @@ kasure
 kasuri
 kat
 kata
-katae
 katak
 kate
 kates
@@ -1992,7 +1982,6 @@ keren
 kereta
 keri
 keris
-kerjo
 kerta
 kertas
 kertos
@@ -2053,7 +2042,6 @@ kite
 klambi
 klambimu
 klebus
-klepon
 kleru
 ko
 kobong
@@ -2185,7 +2173,6 @@ kuya
 la
 lab
 labu
-labue
 lag
 lagi
 lagu
@@ -2199,7 +2186,6 @@ lalang
 lalat
 laler
 lali
-lalii
 lama
 lamai
 lambe
@@ -2272,7 +2258,6 @@ lele
 lelet
 leli
 lemah
-lemahe
 lembah
 lembur
 lembut
@@ -2424,7 +2409,6 @@ madan
 madang
 madhang
 madu
-madue
 mae
 maem
 magelang
@@ -2616,7 +2600,6 @@ nagasari
 nagih
 nagihe
 nah
-naii
 naik
 naira
 najeng
@@ -2699,7 +2682,6 @@ nek
 neka
 nekar
 nekat
-nekate
 neko
 nelae
 nelen
@@ -3092,7 +3074,6 @@ nulung
 num
 numpak
 numpang
-numplek
 numpuk
 nun
 nunggangi
@@ -3200,7 +3181,6 @@ ombak
 ombe
 ombo
 ome
-omea
 omo
 omong
 omongan
@@ -3287,7 +3267,6 @@ oyi
 oyok
 oyot
 oz
-ozon
 pa
 pada
 padae
@@ -3297,7 +3276,6 @@ padu
 pagar
 pahing
 paido
-paing
 pait
 pajak
 pajang
@@ -3506,7 +3484,6 @@ rah
 rahasia
 rahmat
 rai
-raii
 raiku
 raimu
 raimui
@@ -3786,7 +3763,6 @@ sasa
 sasak
 sasi
 sate
-satru
 satu
 sawah
 sawan
@@ -3977,7 +3953,6 @@ supados
 supaya
 supe
 supel
-supi
 supo
 sura
 suri
@@ -4072,7 +4047,6 @@ teliti
 telo
 telu
 telur
-tema
 teman
 tembe
 tembok
@@ -4151,7 +4125,6 @@ tongkol
 toni
 tono
 topi
-topo
 tora
 toto
 towo
@@ -4188,7 +4161,6 @@ tumpeng
 tuna
 tunggal
 tunggu
-tupa
 tupi
 turah
 turon
