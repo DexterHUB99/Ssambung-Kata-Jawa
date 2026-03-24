@@ -669,6 +669,7 @@ bebas
 bebe
 bebek
 becak
+bedane
 bego
 bela
 beli
@@ -3079,6 +3080,7 @@ mikir
 mila
 mili
 milu
+mimi
 min
 minat
 mingat
@@ -3671,6 +3673,7 @@ nikung
 nil
 nila
 nilai
+nilam
 nilar
 nilas
 nilem
@@ -5558,6 +5561,7 @@ ya
 yaa
 yaampun
 yadi
+yae
 yah
 yaka
 yaken
