@@ -1099,6 +1099,7 @@ gatel
 gathel
 gatot
 gatuk
+gawae
 gawan
 gawang
 gawe
@@ -2334,6 +2335,7 @@ mabuk
 mabur
 maca
 macan
+madan
 madang
 madhang
 madu
@@ -2854,6 +2856,7 @@ ngudek
 ngudud
 ngudut
 nguji
+ngul
 ngula
 nguli
 ngulik
@@ -3179,6 +3182,7 @@ palang
 paling
 palu
 paman
+pameran
 pana
 panah
 pancen
@@ -4365,6 +4369,7 @@ wingi
 wir
 wirama
 wirang
+wiri
 wita
 witan
 wiwi
