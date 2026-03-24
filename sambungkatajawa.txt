@@ -845,6 +845,7 @@ esi
 esih
 eso
 esok
+eson
 estri
 esu
 esua
@@ -2294,6 +2295,7 @@ ngaceng
 ngaco
 ngaduk
 ngae
+ngajak
 ngajar
 ngaji
 ngak
