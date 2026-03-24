@@ -71,6 +71,7 @@ air
 aira
 aiwe
 aiya
+aj
 aja
 ajan
 ajang
@@ -746,6 +747,7 @@ gembel
 gemblung
 gembok
 gendeng
+genderuwo
 gendhis
 gene
 genep
@@ -805,6 +807,7 @@ gula
 gulai
 guli
 guling
+gulu
 gumuh
 gumun
 guna
@@ -1383,6 +1386,7 @@ kuma
 kuman
 kumbah
 kumbang
+kumpul
 kun
 kuna
 kunci
@@ -1888,6 +1892,7 @@ ngubur
 ngudek
 ngudud
 nguli
+ngulik
 ngulon
 ngumpet
 ngumpul
