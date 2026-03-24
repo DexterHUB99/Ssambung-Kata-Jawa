@@ -264,6 +264,7 @@ andai
 andal
 andang
 andani
+andap
 ander
 andha
 andhap
@@ -3205,6 +3206,7 @@ pisang
 pit
 pitak
 pitakon
+pitek
 pitu
 pitung
 pitutur
