@@ -206,6 +206,7 @@ aria
 arih
 arip
 arisan
+arsi
 arti
 arto
 aru
@@ -1428,6 +1429,7 @@ ngusu
 ngutang
 nguyuh
 nguyup
+nguyur
 ngwes
 ngwur
 ni
@@ -1849,6 +1851,7 @@ silitmu
 silo
 sin
 sina
+sinta
 sinten
 sir
 sirah
