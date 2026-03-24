@@ -2260,6 +2260,7 @@ mam
 mama
 mamah
 mamak
+maman
 mambu
 mami
 mampu
@@ -4130,6 +4131,7 @@ wati
 watir
 watu
 watuk
+wawa
 way
 wayah
 wayang
