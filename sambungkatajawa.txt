@@ -172,6 +172,7 @@ ako
 akon
 akrab
 aksara
+aksen
 aksi
 aku
 akua
@@ -523,6 +524,7 @@ atah
 atak
 atap
 atas
+atasan
 atat
 ate
 ateh
@@ -1133,6 +1135,7 @@ entong
 entu
 entuk
 entut
+enu
 enuk
 enul
 epa
@@ -3782,6 +3785,7 @@ ondone
 oneng
 ongak
 ongkek
+ongkel
 ongkos
 ongol
 online
@@ -4729,6 +4733,7 @@ suwun
 suya
 ta
 tabo
+tabrak
 tabuh
 tae
 taek
