@@ -810,6 +810,7 @@ depi
 dereng
 deso
 diba
+didesa
 didi
 didik
 dik
@@ -4857,6 +4858,7 @@ undur
 undura
 une
 unek
+uner
 ung
 unggah
 unggaha
