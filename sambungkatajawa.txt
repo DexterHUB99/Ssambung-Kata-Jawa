@@ -1336,6 +1336,7 @@ giwang
 glagah
 go
 goblok
+gocek
 godog
 godok
 godong
@@ -3871,6 +3872,7 @@ raono
 raos
 rapa
 rapi
+rapih
 rapo
 rapopo
 rapuh
