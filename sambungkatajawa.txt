@@ -139,7 +139,6 @@ amam
 aman
 amanah
 amas
-amati
 amba
 ambeng
 ambil
@@ -304,7 +303,6 @@ asuh
 asui
 ata
 atap
-atapi
 atas
 ate
 atek
@@ -366,7 +364,6 @@ basa
 basi
 batok
 batu
-batuk
 bawok
 bayi
 bebe
@@ -651,7 +648,6 @@ esan
 escendol
 esep
 esi
-esik
 eso
 esok
 esu
@@ -694,7 +690,6 @@ gambar
 gambuh
 gamel
 gamelan
-gamis
 gamma
 gampang
 gandos
@@ -750,7 +745,6 @@ gemblung
 gembok
 gendeng
 gendhis
-gendut
 gene
 genep
 geni
@@ -991,7 +985,6 @@ iki
 ikih
 iko
 ikon
-ikrar
 iku
 ikur
 ikut
@@ -1171,7 +1164,6 @@ jongo
 joni
 jori
 jubah
-ka
 kabeh
 kacuk
 kadal
@@ -1265,7 +1257,6 @@ kembar
 kemul
 ken
 kena
-kenapa
 kendi
 kentang
 kentu
@@ -1449,6 +1440,7 @@ lapis
 lapo
 lar
 lara
+larang
 lari
 laron
 las
@@ -1698,7 +1690,6 @@ nangis
 nangka
 nani
 nanti
-nanya
 naon
 nap
 napa
@@ -2163,7 +2154,6 @@ pilakon
 pilar
 pilek
 pilu
-pin
 pina
 pinarak
 pincang
@@ -2458,7 +2448,6 @@ sikil
 siku
 sila
 silah
-silam
 silet
 silit
 silitem
@@ -2566,7 +2555,6 @@ suwi
 suwir
 suwun
 ta
-taat
 tabuh
 tae
 taek
@@ -2583,7 +2571,6 @@ tampar
 tampol
 tamu
 tamune
-tangan
 tangguh
 tangi
 tani
@@ -2632,7 +2619,6 @@ terus
 tete
 tetek
 ti
-tiba
 tibo
 tik
 tikar
@@ -2840,7 +2826,6 @@ urung
 urup
 urus
 urut
-urutan
 us
 usa
 usah
@@ -2890,6 +2875,7 @@ ux
 uy
 uyuh
 uz
+wa
 wadon
 waduh
 waduk
@@ -2968,7 +2954,6 @@ yoopo
 yoora
 yowes
 yoyo
-yuan
 yuda
 yuk
 yuko
