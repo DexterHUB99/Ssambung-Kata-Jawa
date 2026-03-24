@@ -240,6 +240,7 @@ amam
 aman
 amanah
 amane
+amar
 amas
 amat
 amba
@@ -5068,6 +5069,7 @@ tumindak
 tumit
 tumpah
 tumpak
+tumpang
 tumpar
 tumpeng
 tumrap
