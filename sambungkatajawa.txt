@@ -68,6 +68,7 @@ ajeng
 aji
 ajing
 ajining
+ajur
 ak
 aka
 akak
@@ -354,6 +355,7 @@ campur
 cantik
 ce
 celek
+celu
 cen
 cengkeh
 ceplok
@@ -749,6 +751,7 @@ harian
 harimau
 harimu
 hartamu
+haru
 harum
 harus
 has
@@ -998,6 +1001,7 @@ jijik
 jika
 jilat
 jilbab
+jima
 jimat
 jin
 jingga
@@ -1717,6 +1721,7 @@ nyawiji
 nyusu
 nyuwun
 oalah
+obah
 obat
 obor
 odak
@@ -1835,6 +1840,7 @@ palu
 pana
 panah
 pancen
+pandu
 panjang
 panjenengan
 pantai
@@ -2003,6 +2009,7 @@ rino
 rip
 riri
 risa
+risi
 risih
 riska
 risma
@@ -2367,6 +2374,7 @@ ukiran
 ukki
 uko
 uku
+ukum
 ukur
 ukura
 ukuran
