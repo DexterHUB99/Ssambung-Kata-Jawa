@@ -1356,6 +1356,7 @@ koplo
 kopyor
 koran
 korban
+kos
 kosan
 kosek
 kota
@@ -1969,6 +1970,7 @@ nopi
 nopo
 norak
 nos
+nosa
 nota
 nua
 nubruk
@@ -2322,6 +2324,7 @@ rina
 rindu
 ringan
 ringkasan
+ringkes
 ringo
 rino
 rip
@@ -2731,6 +2734,7 @@ uhe
 uhi
 uho
 ui
+uing
 ujan
 ujar
 uji
