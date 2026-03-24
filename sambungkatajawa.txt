@@ -123,6 +123,7 @@ akat
 akbar
 ake
 akeh
+akehi
 aker
 akhir
 aki
@@ -414,6 +415,7 @@ atine
 atir
 atis
 atit
+ato
 atok
 atom
 atos
@@ -498,6 +500,7 @@ becak
 bela
 belo
 bengek
+beni
 beo
 berak
 beras
@@ -673,6 +676,7 @@ duka
 duku
 dukun
 dukur
+dulan
 dulang
 dulu
 dulur
@@ -1766,6 +1770,7 @@ kereta
 keri
 keris
 kertas
+kertos
 kerudung
 keruh
 kerupuk
