@@ -24,6 +24,7 @@ ah
 aha
 ahad
 ahah
+ahak
 aham
 ahap
 ahas
@@ -290,6 +291,7 @@ basi
 batok
 bayi
 bebe
+bela
 belo
 beo
 bibik
@@ -1946,6 +1948,7 @@ sopir
 sopo
 sore
 sos
+sosi
 sosis
 soto
 sowan
@@ -2104,6 +2107,7 @@ udi
 udin
 udu
 udud
+uduk
 udur
 uh
 uha
