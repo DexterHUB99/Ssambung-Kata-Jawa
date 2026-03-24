@@ -3198,6 +3198,7 @@ ngula
 ngulek
 nguli
 ngulik
+ngulo
 ngulon
 ngumbah
 ngumbahi
@@ -3504,6 +3505,7 @@ oran
 orang
 orek
 oren
+oreng
 oreo
 ori
 oria
@@ -4130,6 +4132,7 @@ sembur
 semi
 semok
 sempak
+sempake
 sendal
 seng
 senok
