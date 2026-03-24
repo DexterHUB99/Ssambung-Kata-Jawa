@@ -844,6 +844,7 @@ dulu
 dulur
 dumeh
 dungo
+dupa
 dupo
 duren
 durian
@@ -3703,6 +3704,7 @@ pisa
 pisah
 pisan
 pisang
+pisis
 pit
 pitak
 pitakon
@@ -4458,6 +4460,7 @@ tengah
 tengen
 teran
 terang
+teras
 teri
 terima
 terong
