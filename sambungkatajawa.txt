@@ -1013,6 +1013,7 @@ emping
 emplok
 empol
 empot
+empun
 emut
 en
 ena
@@ -2776,6 +2777,7 @@ me
 medal
 medeni
 mek
+mekar
 meki
 mekso
 melati
@@ -3809,6 +3811,7 @@ poi
 pojok
 pok
 poke
+poki
 pokok
 pokoke
 pol
