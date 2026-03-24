@@ -265,6 +265,7 @@ angel
 angen
 angep
 angger
+anggu
 anggur
 angin
 angkat
@@ -355,6 +356,7 @@ arif
 arih
 arik
 aring
+ario
 arip
 aris
 arisan
@@ -2022,6 +2024,7 @@ lawang
 lawas
 lawe
 lawuh
+layar
 layu
 layuh
 lebah
