@@ -213,6 +213,7 @@ aneh
 aneng
 angel
 angen
+angger
 angin
 angker
 angklung
@@ -712,6 +713,7 @@ ewee
 ex
 eyo
 fix
+fo
 ga
 gabah
 gabut
@@ -1037,6 +1039,7 @@ ida
 idih
 idii
 idu
+if
 iga
 igak
 ih
@@ -1385,6 +1388,7 @@ kere
 kerek
 kereta
 keri
+kertas
 kerudung
 keruh
 kerupuk
@@ -1585,6 +1589,7 @@ lemper
 lemu
 les
 lesu
+lewat
 li
 lia
 liane
@@ -2276,6 +2281,7 @@ ox
 oy
 oyi
 oyok
+oyot
 oz
 pada
 padang
@@ -2410,6 +2416,7 @@ radika
 radio
 rae
 ragelem
+ragi
 ragil
 rai
 raiku
@@ -2470,6 +2477,7 @@ rekoso
 relo
 remba
 rembes
+rembulan
 remes
 rempah
 rempela
