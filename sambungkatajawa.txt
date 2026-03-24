@@ -15,6 +15,7 @@ adipati
 adus
 aengi
 afi
+aga
 age
 ah
 aha
@@ -190,6 +191,7 @@ ari
 aria
 arih
 arip
+arti
 arto
 aru
 arum
@@ -548,6 +550,7 @@ goyang
 gudang
 guguk
 gula
+gulai
 guli
 gumun
 guna
@@ -835,6 +838,7 @@ kala
 kali
 kalimat
 kam
+kama
 kamar
 kambil
 kambing
@@ -929,6 +933,7 @@ komik
 kompor
 kon
 konco
+kono
 kontol
 kopi
 koplak
@@ -1139,6 +1144,7 @@ na
 nabi
 nabrak
 nadah
+naek
 nafas
 nagih
 nah
@@ -1201,6 +1207,7 @@ ngamuk
 nganggur
 ngangkang
 ngangso
+ngangsu
 nganjuk
 ngano
 nganti
@@ -1249,6 +1256,7 @@ nggak
 nggateli
 nggeh
 nggih
+nggon
 nggoo
 ngguyu
 ngibul
