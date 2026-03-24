@@ -592,6 +592,7 @@ dumeh
 dungo
 duren
 durian
+durung
 duso
 duwek
 duwit
@@ -1699,6 +1700,7 @@ landep
 landhep
 langsing
 lani
+lanjut
 lantai
 laos
 lap
@@ -1942,6 +1944,7 @@ muji
 muka
 mukul
 mul
+mula
 mulaa
 mulai
 mulane
@@ -2443,6 +2446,7 @@ opel
 opet
 opini
 opo
+opol
 opoo
 opor
 opose
