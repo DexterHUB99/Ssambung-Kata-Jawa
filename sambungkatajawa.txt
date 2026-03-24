@@ -1579,6 +1579,7 @@ ihla
 ihli
 ihsan
 ihta
+ihya
 ija
 ijab
 ijak
@@ -4679,6 +4680,7 @@ utel
 utem
 uter
 uti
+utih
 utik
 utir
 uto
