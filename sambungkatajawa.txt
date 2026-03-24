@@ -65,6 +65,7 @@ ahe
 ahek
 ahem
 ahen
+aher
 ahh
 ahhh
 ahi
@@ -193,6 +194,7 @@ alien
 alif
 aliho
 alii
+alik
 alim
 alime
 alin
@@ -2788,6 +2790,7 @@ merak
 mercon
 merek
 meri
+mesem
 mesum
 meta
 metek
@@ -5024,6 +5027,7 @@ wedus
 wee
 wegah
 weh
+wektu
 welo
 wen
 wengi
