@@ -310,6 +310,7 @@ dudu
 duh
 dulur
 duren
+durian
 duso
 duwit
 ealah
@@ -401,6 +402,7 @@ entuk
 entut
 enuk
 epa
+epan
 epik
 epis
 epos
@@ -682,6 +684,7 @@ ilat
 iler
 ilermu
 ili
+ilih
 ilik
 iling
 ilmu
@@ -783,6 +786,7 @@ jika
 jin
 jingga
 jipuk
+jogo
 joko
 jokowi
 joni
@@ -1042,6 +1046,7 @@ manut
 marah
 mardi
 mas
+masak
 masu
 masuk
 mata
@@ -1107,6 +1112,7 @@ nanas
 nandur
 nanging
 nangis
+nangka
 nani
 nanti
 nap
@@ -1467,6 +1473,7 @@ ramuan
 rana
 rapi
 rapuh
+rara
 ras
 rasa
 rasah
@@ -1527,6 +1534,7 @@ rono
 rop
 roro
 roso
+roti
 rowo
 ruang
 rubuh
@@ -1785,6 +1793,7 @@ ulu
 ulur
 um
 umah
+umar
 umat
 umbah
 umbel
