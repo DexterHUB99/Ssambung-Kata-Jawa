@@ -41,6 +41,7 @@ aho
 ahok
 ahoy
 ahu
+ahun
 ahup
 ahur
 ahut
@@ -84,6 +85,7 @@ al
 alah
 alam
 alan
+alara
 alasan
 alhamdulillah
 ali
@@ -191,10 +193,12 @@ arang
 aras
 areng
 arep
+arepan
 ari
 aria
 arih
 arip
+arisan
 arti
 arto
 aru
@@ -315,6 +319,7 @@ de
 dek
 delman
 dereng
+deso
 diba
 didi
 dik
@@ -472,6 +477,7 @@ ewee
 ex
 eyo
 ga
+gabah
 gae
 gagal
 gah
@@ -761,6 +767,7 @@ ingkang
 ingsun
 ini
 inii
+injak
 insan
 inti
 inul
@@ -871,6 +878,7 @@ kapan
 kapok
 kare
 karep
+karma
 karo
 kas
 kasar
@@ -923,6 +931,7 @@ kijang
 kik
 kikil
 kil
+kilat
 kilen
 kin
 kini
@@ -993,6 +1002,7 @@ kupat
 kuping
 kur
 kurang
+kurma
 kursi
 kurus
 kus
@@ -1227,6 +1237,7 @@ ngaji
 ngaka
 ngaleh
 ngalu
+ngamal
 ngamok
 ngamuk
 nganggur
@@ -1276,6 +1287,7 @@ ngendika
 ngenteni
 ngepel
 ngeper
+ngeri
 ngesor
 ngesot
 ngesuk
@@ -1333,6 +1345,7 @@ ngunjuk
 nguno
 ngunu
 nguping
+ngurusi
 ngusel
 ngusu
 ngutang
@@ -1551,6 +1564,7 @@ poro
 puan
 puh
 pujaan
+pukul
 pun
 punten
 pup
@@ -1797,6 +1811,7 @@ taek
 tah
 tahu
 tai
+tala
 tali
 tama
 tamba
@@ -1806,6 +1821,7 @@ tampar
 tampol
 tamu
 tamune
+tangguh
 tangi
 tani
 tansah
