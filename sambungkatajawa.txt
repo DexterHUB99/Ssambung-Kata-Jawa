@@ -806,6 +806,7 @@ ehen
 eher
 ehey
 ehi
+ehim
 ehir
 eho
 ehok
@@ -3049,6 +3050,7 @@ nyawit
 nyi
 nyim
 nyungsep
+nyuri
 nyusu
 nyuwun
 oalah
@@ -3138,6 +3140,7 @@ oncom
 onda
 onde
 ondo
+ondol
 ondone
 oneng
 ongak
@@ -4259,6 +4262,7 @@ untumu
 untune
 untung
 upa
+upacara
 upah
 upal
 upama
