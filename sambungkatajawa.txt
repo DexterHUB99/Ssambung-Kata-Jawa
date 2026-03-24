@@ -473,6 +473,7 @@ esuk
 eta
 etan
 etuk
+etum
 ew
 ewe
 ewee
@@ -533,6 +534,7 @@ gembok
 gendeng
 gene
 genep
+geni
 genteng
 gerah
 gerak
@@ -815,6 +817,7 @@ isuk
 isun
 isya
 ita
+itaa
 itai
 itik
 itil
@@ -870,8 +873,10 @@ kama
 kamar
 kambil
 kambing
+kami
 kampung
 kamu
+kamus
 kandang
 kang
 kanggo
@@ -1103,6 +1108,7 @@ luluh
 lum
 lumah
 lumi
+lumpang
 lumrah
 lungguh
 lupa
@@ -1703,6 +1709,7 @@ saestu
 saged
 saiki
 saing
+sakit
 salah
 salim
 salut
@@ -1751,9 +1758,11 @@ sikil
 siku
 sila
 silah
+silet
 silit
 silitem
 silitmu
+silo
 sin
 sinten
 sir
@@ -1896,6 +1905,7 @@ toto
 tua
 tugel
 tuh
+tuhan
 tuku
 tulan
 tuli
