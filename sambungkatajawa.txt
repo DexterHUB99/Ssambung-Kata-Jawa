@@ -739,6 +739,7 @@ celana
 celek
 celeng
 celu
+celuk
 cemeng
 cen
 cengkeh
@@ -1062,6 +1063,7 @@ endel
 endi
 endog
 ene
+ened
 eneg
 enek
 enem
