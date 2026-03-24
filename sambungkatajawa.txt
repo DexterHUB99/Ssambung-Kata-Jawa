@@ -565,6 +565,7 @@ esok
 esu
 esuk
 eta
+etah
 etan
 etuk
 etum
@@ -1593,6 +1594,8 @@ ngisep
 ngisih
 ngising
 ngitung
+nglim
+ngnu
 ngocok
 ngoh
 ngok
@@ -2009,6 +2012,7 @@ ro
 rodo
 rogoh
 roi
+roket
 rokok
 rolas
 rolo
