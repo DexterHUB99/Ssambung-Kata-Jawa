@@ -120,6 +120,7 @@ alamo
 alan
 alara
 alasan
+alay
 alhamdulillah
 ali
 alien
@@ -786,6 +787,7 @@ gentong
 gerah
 gerak
 geram
+gerem
 gerobak
 gertak
 ges
@@ -1891,6 +1893,7 @@ ngelak
 ngelon
 ngelu
 ngembun
+ngemot
 ngemut
 ngen
 ngendi
@@ -2278,6 +2281,7 @@ piro
 pisa
 pisah
 pisang
+pit
 pitak
 pitu
 pitutur
@@ -2752,6 +2756,7 @@ terus
 tete
 tetek
 ti
+tiba
 tibo
 tik
 tikar
@@ -3005,6 +3010,7 @@ utang
 utar
 utara
 utawa
+utawi
 ute
 utek
 utekmu
