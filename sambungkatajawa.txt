@@ -16,6 +16,7 @@ aceh
 ad
 ada
 adaa
+adab
 adap
 adek
 adi
@@ -1724,6 +1725,7 @@ kite
 klambi
 klambimu
 klebus
+kleru
 ko
 kobong
 kocak
@@ -3553,6 +3555,7 @@ ujung
 uka
 ukak
 ukal
+ukan
 ukar
 ukara
 ukas
