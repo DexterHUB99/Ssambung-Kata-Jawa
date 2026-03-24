@@ -163,6 +163,7 @@ alu
 alum
 alun
 alunan
+alur
 alus
 ama
 amah
@@ -533,6 +534,7 @@ ce
 cece
 cecek
 celek
+celeng
 celu
 cemeng
 cen
@@ -981,6 +983,7 @@ gojekan
 gok
 gokil
 goks
+gol
 golek
 golet
 golong
@@ -1009,6 +1012,7 @@ gugur
 gul
 gula
 gulai
+gule
 guli
 guling
 gulu
@@ -1199,6 +1203,7 @@ ibu
 icone
 icu
 ida
+idep
 idih
 idii
 idu
@@ -1313,6 +1318,7 @@ injak
 injek
 injih
 injing
+injuk
 insan
 inti
 inul
@@ -1341,6 +1347,7 @@ ireng
 iri
 irii
 irin
+iring
 iris
 irong
 iru
@@ -2855,6 +2862,7 @@ ramutu
 ran
 rana
 randa
+randu
 rani
 rantai
 raono
