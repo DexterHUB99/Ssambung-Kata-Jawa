@@ -395,6 +395,7 @@ arap
 aras
 ardi
 arek
+arem
 aren
 areng
 arep
@@ -454,6 +455,7 @@ asna
 asor
 asoy
 aspal
+asta
 astaga
 astane
 asu
@@ -1469,6 +1471,7 @@ hem
 hemat
 hemate
 heni
+heo
 her
 hera
 heran
@@ -1873,6 +1876,7 @@ jogo
 jok
 joko
 jokowi
+joli
 jom
 jombang
 jongo
@@ -2101,6 +2105,7 @@ kese
 kesem
 keset
 kesleo
+kesusu
 ketan
 ketel
 ketemu
@@ -2707,6 +2712,7 @@ mules
 muli
 mulia
 mulih
+mulung
 mulus
 mulya
 mumet
@@ -3595,6 +3601,7 @@ poa
 pocong
 podho
 poe
+poi
 pojok
 pok
 pokok
@@ -3700,6 +3707,7 @@ rakha
 raki
 rakus
 rama
+ramae
 ramah
 ramai
 raman
