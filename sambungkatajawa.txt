@@ -2290,6 +2290,7 @@ mio
 miri
 misuh
 mlaku
+mmbuh
 modal
 modar
 mogok
@@ -3316,6 +3317,7 @@ rukun
 rumah
 rumbai
 rumbak
+rumiyin
 rumongso
 rumput
 rumus
@@ -4120,6 +4122,7 @@ yora
 yowe
 yowes
 yoyo
+yuan
 yuda
 yudi
 yuk
