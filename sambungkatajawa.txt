@@ -1233,6 +1233,7 @@ ilu
 iluk
 im
 ima
+imam
 iman
 imas
 imba
@@ -1616,6 +1617,7 @@ kocak
 koclok
 kodok
 koe
+koea
 koen
 koh
 kok
@@ -1679,6 +1681,7 @@ kulo
 kulon
 kum
 kuma
+kumaha
 kuman
 kumbah
 kumbang
@@ -2018,6 +2021,7 @@ muli
 mulia
 mulih
 mulus
+mulya
 mumet
 mumpung
 mundur
@@ -2057,6 +2061,7 @@ nampak
 nampan
 nampani
 nampar
+nampol
 nan
 nana
 nanah
@@ -2243,6 +2248,7 @@ nggoo
 nggowo
 ngguyu
 ngibul
+ngidal
 ngidek
 ngidu
 ngidul
@@ -3110,6 +3116,7 @@ sumpah
 sumuk
 sumur
 sun
+suna
 sunar
 sunat
 sundul
@@ -3214,6 +3221,7 @@ terong
 terus
 tete
 tetek
+tetelan
 ti
 tiba
 tibo
@@ -3617,6 +3625,7 @@ yoman
 yono
 yoopo
 yoora
+yora
 yowe
 yowes
 yoyo
