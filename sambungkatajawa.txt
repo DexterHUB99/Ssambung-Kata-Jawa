@@ -3159,6 +3159,7 @@ pisan
 pisang
 pit
 pitak
+pitakon
 pitu
 pitung
 pitutur
@@ -3850,6 +3851,7 @@ tolol
 tolong
 tomat
 tomo
+tompel
 tonggo
 tongkol
 toni
