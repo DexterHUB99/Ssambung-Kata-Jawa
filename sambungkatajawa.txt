@@ -1361,6 +1361,7 @@ gemas
 gembel
 gemblung
 gembok
+gemes
 gemi
 gempil
 gemuk
@@ -2845,6 +2846,7 @@ matek
 mati
 matur
 maturnuwun
+matursuwun
 mau
 mawon
 mayaa
@@ -3843,6 +3845,7 @@ penak
 peni
 peno
 pentil
+penting
 pepe
 pepek
 peran
