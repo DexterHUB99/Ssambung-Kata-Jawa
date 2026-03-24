@@ -327,6 +327,7 @@ angsal
 angsle
 angsuran
 angu
+angun
 angus
 ani
 aniani
@@ -490,6 +491,7 @@ atep
 ater
 ati
 atia
+atid
 atie
 atih
 atik
@@ -752,6 +754,7 @@ dagu
 dah
 dahar
 dahi
+daki
 dalam
 dalan
 dale
@@ -2496,6 +2499,7 @@ le
 lebah
 lebur
 lee
+lega
 legi
 lek
 lele
@@ -2960,6 +2964,7 @@ nate
 nawar
 nawi
 ndak
+ndang
 ndasmu
 ndeso
 ndlogok
