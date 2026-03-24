@@ -217,6 +217,7 @@ arepan
 ari
 aria
 arih
+arik
 arip
 arisan
 arsi
@@ -320,6 +321,7 @@ biso
 bisu
 bobi
 bola
+bolo
 bom
 bos
 boso
@@ -548,6 +550,7 @@ etan
 etuk
 etum
 ew
+ewang
 ewe
 ewee
 ex
@@ -626,6 +629,7 @@ gertak
 ges
 geseng
 geser
+gidal
 gigi
 gigir
 gih
@@ -1047,6 +1051,7 @@ kentut
 kepa
 kepala
 kepaten
+kepiye
 kepo
 keraton
 kere
@@ -1328,6 +1333,7 @@ meri
 metek
 micek
 mikir
+mila
 mingat
 mingkem
 minum
@@ -1495,6 +1501,7 @@ ngembun
 ngen
 ngendi
 ngendika
+ngengobrol
 ngenteni
 ngepel
 ngeper
@@ -1823,6 +1830,7 @@ pun
 punten
 punya
 pup
+pupu
 purek
 puri
 puser
@@ -2104,6 +2112,7 @@ sumuk
 sun
 sunar
 sunat
+sundul
 suo
 supel
 supo
