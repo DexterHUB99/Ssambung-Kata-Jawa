@@ -833,6 +833,7 @@ gertak
 ges
 geseng
 geser
+getuk
 gidal
 gigi
 gigir
@@ -1002,6 +1003,7 @@ hinggap
 hir
 hira
 his
+hisa
 hitam
 hitung
 hiu
@@ -1587,6 +1589,7 @@ lan
 lanang
 lancar
 landep
+landhep
 langsing
 lani
 lantai
@@ -1860,6 +1863,7 @@ nambal
 nampak
 nampan
 nampani
+nampar
 nan
 nana
 nanah
@@ -1907,6 +1911,7 @@ neli
 nelongso
 nembe
 nemen
+nempel
 nemu
 nen
 nendang
@@ -1922,6 +1927,7 @@ netra
 ngaca
 ngaceng
 ngaco
+ngaduk
 ngae
 ngajar
 ngaji
@@ -2457,6 +2463,7 @@ puyuh
 ra
 raa
 rabi
+racun
 raden
 radika
 radio
@@ -2925,6 +2932,7 @@ timpuh
 timun
 timur
 tina
+tindak
 tinggal
 tinju
 tiri
