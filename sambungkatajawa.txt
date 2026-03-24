@@ -1237,6 +1237,7 @@ ga
 gabah
 gabut
 gadah
+gadai
 gadang
 gading
 gado
@@ -1377,6 +1378,7 @@ gelot
 gelut
 gema
 gemas
+gemati
 gembel
 gemblung
 gembok
@@ -1525,6 +1527,7 @@ gusi
 gusti
 guwa
 guyon
+guyonan
 guyu
 guyub
 ha
