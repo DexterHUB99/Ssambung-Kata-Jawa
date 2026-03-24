@@ -479,6 +479,7 @@ dadar
 dadi
 dadu
 dagelan
+dah
 dahi
 dalam
 dalem
@@ -879,6 +880,7 @@ gulu
 gumuh
 gumun
 guna
+gundam
 gundik
 gundul
 gunem
@@ -1281,6 +1283,7 @@ kadang
 kados
 kadung
 kadus
+kae
 kain
 kajut
 kak
@@ -2067,6 +2070,7 @@ ngosi
 ngosok
 ngotak
 ngotot
+ngowoh
 ngsu
 nguber
 ngubur
@@ -2466,6 +2470,7 @@ ramua
 ramuan
 ramutu
 rana
+randa
 rani
 rantai
 rapa
@@ -2769,6 +2774,7 @@ sugeng
 sugih
 suh
 sui
+sujud
 suk
 suka
 suki
