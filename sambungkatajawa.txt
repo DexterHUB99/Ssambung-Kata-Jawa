@@ -134,6 +134,7 @@ aju
 ajur
 ak
 aka
+akad
 akak
 akaku
 akal
@@ -4312,6 +4313,7 @@ sangu
 santen
 santri
 santun
+saos
 sapa
 sapeh
 sapi
