@@ -254,6 +254,7 @@ apik
 apo
 apolo
 apung
+ar
 ara
 arab
 arah
@@ -1577,6 +1578,7 @@ lumi
 lumpang
 lumrah
 lungguh
+lup
 lupa
 luput
 lurah
@@ -2012,6 +2014,7 @@ nulis
 numpak
 nun
 nunggangi
+nunjuk
 nuntun
 nunut
 nur
@@ -2333,6 +2336,7 @@ repot
 republik
 rere
 resah
+rese
 resik
 reti
 ria
@@ -2477,6 +2481,7 @@ sepi
 sepuh
 ser
 sera
+seran
 serem
 seri
 ses
@@ -2857,6 +2862,7 @@ untumu
 untung
 upah
 upal
+upaya
 upel
 upi
 upil
