@@ -93,6 +93,7 @@ ajem
 ajen
 ajeng
 aji
+ajik
 ajing
 ajining
 ajor
@@ -1413,6 +1414,7 @@ kak
 kaka
 kakak
 kakaka
+kakang
 kake
 kaki
 kaku
@@ -1855,6 +1857,7 @@ lotek
 lowe
 lowo
 loyo
+lu
 lucu
 luka
 luluh
@@ -1904,6 +1907,7 @@ mamak
 mami
 mampu
 mampus
+mamrih
 manah
 mancing
 mandeg
@@ -2821,6 +2825,7 @@ risih
 riska
 risma
 riso
+rit
 rita
 riti
 riwayat
@@ -3025,6 +3030,7 @@ soko
 sokor
 sol
 sola
+solah
 solar
 solat
 solo
