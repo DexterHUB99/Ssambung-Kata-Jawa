@@ -72,6 +72,7 @@ ake
 akeh
 akhir
 aki
+akih
 akii
 ako
 aksara
@@ -94,6 +95,7 @@ alum
 alun
 alunan
 ama
+amah
 amal
 aman
 amanah
@@ -322,6 +324,7 @@ dina
 dino
 dipun
 diren
+diwan
 dodo
 doh
 dolan
@@ -928,6 +931,7 @@ kitab
 klambi
 klambimu
 klebus
+koclok
 kodok
 koe
 koen
@@ -1175,6 +1179,7 @@ nanam
 nanas
 nandur
 nanem
+nang
 nanggung
 nanging
 nangis
@@ -1197,6 +1202,7 @@ nawar
 ndasmu
 neh
 neko
+nelongso
 nembe
 nemen
 nemu
@@ -1391,6 +1397,7 @@ ojo
 ojok
 ok
 oka
+okai
 okan
 okar
 oke
@@ -1721,6 +1728,7 @@ sisi
 so
 soba
 sobat
+sodara
 sodir
 sodok
 sodom
@@ -1866,12 +1874,14 @@ ua
 uang
 uange
 uban
+ubi
 ucap
 udah
 udal
 udan
 udang
 udel
+udi
 udin
 udu
 udud
@@ -2020,6 +2030,7 @@ we
 wedang
 wedi
 wedok
+wedus
 wee
 weh
 welo
