@@ -970,6 +970,7 @@ ginjal
 girang
 giring
 gitar
+giwang
 go
 goblok
 godog
@@ -2100,6 +2101,7 @@ nabung
 nada
 nadah
 nadi
+nae
 naek
 nafas
 naga
@@ -2175,6 +2177,7 @@ nekat
 neko
 neli
 nelongso
+nembak
 nembang
 nembe
 nemen
@@ -2323,6 +2326,7 @@ ngih
 ngila
 ngilang
 ngiler
+ngiling
 ngilu
 ngimpi
 ngipasi
@@ -3103,6 +3107,7 @@ sika
 sikat
 sikil
 siku
+sikut
 sila
 silah
 silet
@@ -3290,6 +3295,7 @@ telat
 telek
 telo
 telu
+telur
 teman
 tembe
 tembok
