@@ -129,6 +129,7 @@ aksara
 aksi
 aku
 akuh
+akui
 akuk
 akula
 akun
@@ -881,6 +882,7 @@ gaman
 gambar
 gambir
 gambleh
+gambreng
 gambuh
 gamel
 gamelan
@@ -891,6 +893,7 @@ gandos
 gandrung
 gandul
 gang
+ganggu
 gangsar
 gangsing
 ganjar
@@ -1539,6 +1542,7 @@ kancil
 kancut
 kandang
 kandas
+kandel
 kang
 kangen
 kanggo
@@ -2968,6 +2972,7 @@ resah
 rese
 resik
 reti
+ri
 ria
 rian
 riang
@@ -3008,6 +3013,7 @@ riti
 riwayat
 riya
 ro
+roa
 roboh
 roda
 rodo
@@ -3045,6 +3051,7 @@ rubuh
 rugi
 rukun
 rumah
+rumbak
 rumongso
 rumput
 rumus
@@ -3763,6 +3770,7 @@ wono
 wonten
 woo
 wora
+woro
 wowo
 wuh
 wulan
