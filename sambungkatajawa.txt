@@ -1973,6 +1973,7 @@ ipin
 ipna
 ipo
 ipola
+ipuk
 ipun
 ir
 ira
