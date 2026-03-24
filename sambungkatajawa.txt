@@ -758,6 +758,7 @@ dereng
 deso
 diba
 didi
+didik
 dik
 dikon
 dila
@@ -1872,6 +1873,7 @@ kabar
 kabeh
 kaca
 kacang
+kacok
 kacuk
 kacung
 kadak
@@ -2160,6 +2162,7 @@ komi
 komik
 kompor
 kon
+konangan
 konco
 kondangan
 kono
@@ -4378,6 +4381,7 @@ uban
 ubek
 ubi
 ubii
+ubun
 ucap
 ucul
 uda
@@ -4523,6 +4527,7 @@ ungu
 uni
 unia
 unjuk
+unma
 uno
 unta
 untal
@@ -4600,6 +4605,7 @@ using
 usir
 usma
 usu
+usua
 usui
 usuk
 usul
