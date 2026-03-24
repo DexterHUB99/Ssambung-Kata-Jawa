@@ -1762,6 +1762,7 @@ kambing
 kambuh
 kami
 kamis
+kamise
 kampret
 kampung
 kampungan
@@ -1847,6 +1848,7 @@ kela
 kelakon
 kelam
 kelangan
+kelar
 kelas
 kelek
 kelem
@@ -2862,6 +2864,7 @@ niki
 nikii
 niko
 niku
+nikung
 nila
 nilai
 nilem
