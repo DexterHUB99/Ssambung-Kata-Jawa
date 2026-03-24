@@ -1848,6 +1848,7 @@ ikie
 ikih
 ikii
 ikio
+ikita
 iklim
 iko
 ikoe
@@ -2675,6 +2676,7 @@ lantai
 lanyah
 laos
 lap
+lapak
 lapar
 lapi
 lapis
@@ -4005,6 +4007,7 @@ paru
 pas
 pasa
 pasak
+pasaran
 pasir
 pasti
 pasu
