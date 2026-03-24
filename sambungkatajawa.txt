@@ -124,6 +124,7 @@ akik
 akim
 akir
 akis
+aklam
 ako
 akon
 aksara
@@ -1361,6 +1362,7 @@ injing
 injuk
 insan
 inti
+intine
 inul
 ipa
 ipak
@@ -1494,6 +1496,7 @@ jipuk
 jiwa
 jo
 jogo
+jok
 joko
 jokowi
 jom
