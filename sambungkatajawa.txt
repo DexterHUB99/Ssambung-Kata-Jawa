@@ -622,6 +622,7 @@ ce
 cecak
 cece
 cecek
+ceki
 celana
 celek
 celeng
@@ -874,6 +875,7 @@ emong
 emot
 empang
 empet
+emping
 emplok
 empol
 empot
