@@ -377,6 +377,7 @@ anyar
 anyep
 anyer
 anying
+aos
 apa
 apaa
 apae
@@ -2396,6 +2397,7 @@ lagu
 lague
 lah
 lahir
+lak
 laki
 lakon
 laku
