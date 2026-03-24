@@ -398,6 +398,7 @@ cicak
 cimu
 cincin
 cing
+cinta
 cocot
 cok
 coro
@@ -1741,6 +1742,7 @@ ngos
 ngosek
 ngoseng
 ngosi
+ngosok
 ngotak
 ngotot
 ngsu
@@ -1976,6 +1978,7 @@ papi
 parang
 parem
 pari
+paris
 pas
 pasa
 pasti
