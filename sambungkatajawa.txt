@@ -2231,6 +2231,7 @@ kekek
 kekel
 kekunci
 kela
+kelabang
 kelakon
 kelam
 kelangan
@@ -2486,6 +2487,7 @@ kun
 kuna
 kunci
 kuncup
+kuneng
 kuning
 kuno
 kunti
@@ -3513,6 +3515,7 @@ ningsih
 nini
 ninine
 ninja
+nino
 nio
 nipan
 nipon
@@ -4816,6 +4819,7 @@ titid
 titik
 titip
 titit
+tititi
 tititit
 tito
 tiwas
