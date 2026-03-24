@@ -418,6 +418,7 @@ arepe
 arga
 ari
 aria
+arid
 arif
 arih
 arii
@@ -480,6 +481,7 @@ asuw
 at
 ata
 atah
+atak
 atap
 atas
 atat
@@ -791,6 +793,7 @@ demam
 demen
 demok
 dempet
+dempul
 dengkul
 depi
 dereng
@@ -3304,6 +3307,7 @@ ngunu
 ngupe
 ngupil
 nguping
+ngura
 nguras
 ngurusi
 ngusel
@@ -3891,6 +3895,7 @@ rai
 raii
 raiku
 raimu
+raimuasu
 raimui
 raino
 raiso
@@ -4081,6 +4086,7 @@ rondo
 ronggo
 roni
 rono
+roo
 rop
 ropi
 roro
