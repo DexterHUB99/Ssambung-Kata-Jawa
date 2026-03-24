@@ -114,6 +114,7 @@ akii
 akik
 akir
 ako
+akon
 aksara
 aksi
 aku
@@ -128,6 +129,7 @@ alah
 alam
 alamo
 alan
+alap
 alara
 alas
 alasan
@@ -141,6 +143,7 @@ aliho
 alii
 alim
 alin
+alip
 aliran
 alis
 alo
@@ -462,6 +465,7 @@ botak
 boti
 bu
 buang
+buaya
 budi
 buka
 buku
@@ -558,6 +562,7 @@ dona
 dongo
 dor
 doro
+du
 duda
 dudu
 duduk
@@ -1952,6 +1957,7 @@ nana
 nanah
 nanam
 nanas
+nandang
 nanduk
 nandur
 nanem
@@ -3375,6 +3381,7 @@ wedi
 wedok
 wedus
 wee
+wegah
 weh
 welo
 wen
