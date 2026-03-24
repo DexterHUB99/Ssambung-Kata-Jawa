@@ -27,6 +27,7 @@ adi
 adik
 adin
 adipati
+adohe
 ados
 adu
 aduh
@@ -223,6 +224,7 @@ amer
 amerga
 amet
 ami
+amie
 amii
 amin
 aming
@@ -1360,6 +1362,7 @@ hayo
 hayu
 hayuk
 he
+hebate
 heboh
 hee
 heem
@@ -1536,6 +1539,7 @@ ilik
 ilin
 iling
 ilir
+ilis
 ilmu
 ilmune
 ilo
@@ -2634,6 +2638,7 @@ nasib
 nasie
 nata
 natah
+natan
 natar
 nate
 nawar
@@ -3907,6 +3912,7 @@ suri
 suro
 suruh
 surup
+sus
 susah
 susan
 susi
@@ -3930,6 +3936,7 @@ taek
 tah
 tahu
 tai
+taii
 taik
 taki
 tala
