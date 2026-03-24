@@ -2271,6 +2271,7 @@ kuno
 kunti
 kuntul
 kunyuk
+kuo
 kupan
 kupas
 kupat
@@ -3029,6 +3030,7 @@ ngepot
 ngeri
 ngerok
 ngerti
+ngesak
 ngeselin
 ngeseng
 ngesor
@@ -4139,6 +4141,7 @@ som
 somat
 sombong
 songo
+sonten
 sop
 sopan
 sopir
