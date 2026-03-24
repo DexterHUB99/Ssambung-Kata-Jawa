@@ -13,6 +13,7 @@ aceh
 ad
 ada
 adaa
+adam
 adap
 adi
 adipati
@@ -139,6 +140,7 @@ amam
 aman
 amanah
 amas
+amati
 amba
 ambeng
 ambil
@@ -166,6 +168,7 @@ ampas
 ampuh
 ampun
 ampus
+amu
 amuh
 amuk
 amun
@@ -303,6 +306,7 @@ asuh
 asui
 ata
 atap
+atapi
 atas
 ate
 atek
@@ -330,7 +334,6 @@ awas
 awek
 awu
 ax
-ay
 aya
 ayah
 ayam
@@ -365,6 +368,7 @@ basa
 basi
 batok
 batu
+batuk
 bawok
 bayi
 bebe
@@ -472,6 +476,7 @@ dimana
 dimas
 din
 dina
+dinggo
 dino
 dipun
 diren
@@ -649,6 +654,7 @@ esan
 escendol
 esep
 esi
+esik
 eso
 esok
 esu
@@ -691,6 +697,7 @@ gambar
 gambuh
 gamel
 gamelan
+gamis
 gamma
 gampang
 gandos
@@ -746,6 +753,7 @@ gemblung
 gembok
 gendeng
 gendhis
+gendut
 gene
 genep
 geni
@@ -986,6 +994,7 @@ iki
 ikih
 iko
 ikon
+ikrar
 iku
 ikur
 ikut
@@ -1165,6 +1174,7 @@ jongo
 joni
 jori
 jubah
+ka
 kabeh
 kacuk
 kadal
@@ -1258,8 +1268,8 @@ kembar
 kemul
 ken
 kena
+kenapa
 kendi
-kenopo
 kentang
 kentu
 kentut
@@ -1442,7 +1452,6 @@ lapis
 lapo
 lar
 lara
-larang
 lari
 laron
 las
@@ -1651,6 +1660,7 @@ mumpung
 mundur
 muntah
 murah
+musa
 muse
 mute
 na
@@ -1692,6 +1702,7 @@ nangis
 nangka
 nani
 nanti
+nanya
 naon
 nap
 napa
@@ -1762,7 +1773,6 @@ ngapa
 ngapae
 ngapain
 ngapak
-ngapi
 ngapu
 ngapunten
 ngapurancang
@@ -1822,6 +1832,7 @@ ngewe
 ngg
 nggak
 nggaku
+nggambar
 nggateli
 nggeh
 nggi
@@ -2157,6 +2168,7 @@ pilakon
 pilar
 pilek
 pilu
+pin
 pina
 pinarak
 pincang
@@ -2325,6 +2337,7 @@ rita
 riwayat
 riya
 ro
+rob
 rodo
 rogoh
 roi
@@ -2451,6 +2464,7 @@ sikil
 siku
 sila
 silah
+silam
 silet
 silit
 silitem
@@ -2558,6 +2572,7 @@ suwi
 suwir
 suwun
 ta
+taat
 tabuh
 tae
 taek
@@ -2574,6 +2589,7 @@ tampar
 tampol
 tamu
 tamune
+tangan
 tangguh
 tangi
 tani
@@ -2622,6 +2638,7 @@ terus
 tete
 tetek
 ti
+tiba
 tibo
 tik
 tikar
@@ -2710,7 +2727,6 @@ udud
 uduk
 udur
 udut
-ugung
 uh
 uha
 uhe
@@ -2830,6 +2846,7 @@ urung
 urup
 urus
 urut
+urutan
 us
 usa
 usah
@@ -2879,7 +2896,6 @@ ux
 uy
 uyuh
 uz
-wa
 wadon
 waduh
 waduk
@@ -2937,7 +2953,6 @@ ya
 yah
 yaka
 yakin
-yam
 yama
 yamaha
 yaman
@@ -2959,6 +2974,7 @@ yoopo
 yoora
 yowes
 yoyo
+yuan
 yuda
 yuk
 yuko
