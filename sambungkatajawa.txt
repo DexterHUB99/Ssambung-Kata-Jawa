@@ -445,6 +445,7 @@ bengek
 beo
 beras
 beri
+besan
 biasa
 biawak
 biba
@@ -1803,6 +1804,7 @@ lonte
 lontong
 loo
 lopis
+lor
 loro
 los
 lose
@@ -1930,6 +1932,7 @@ mosok
 moto
 motor
 mripat
+mu
 mucuk
 mugi
 muh
@@ -1972,6 +1975,7 @@ nakal
 nakon
 nala
 nali
+nalik
 nalika
 naliko
 nam
@@ -2418,6 +2422,7 @@ onda
 onde
 ondo
 ongak
+ongkek
 ongkos
 ono
 onta
