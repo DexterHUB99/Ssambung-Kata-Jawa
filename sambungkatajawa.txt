@@ -131,6 +131,7 @@ amerga
 amet
 ami
 amin
+aming
 amir
 amis
 amit
@@ -324,6 +325,7 @@ bidun
 bijak
 biji
 bila
+bintang
 bisa
 bisaa
 biso
@@ -1355,6 +1357,7 @@ mari
 marii
 mas
 masak
+masi
 masih
 masu
 masuk
@@ -1380,6 +1383,7 @@ mila
 mingat
 mingkem
 minum
+mio
 miri
 misuh
 mlaku
@@ -1928,6 +1932,7 @@ rasah
 rasan
 rasi
 rasis
+rasuk
 rati
 raup
 rausah
@@ -2214,6 +2219,7 @@ tarawih
 tarek
 tari
 taruk
+tas
 tata
 tati
 tawa
@@ -2401,6 +2407,7 @@ untuk
 untumu
 untung
 upah
+upal
 upel
 upi
 upil
