@@ -1809,6 +1809,7 @@ olo
 olok
 olom
 oloo
+olot
 oma
 omae
 omah
@@ -2198,6 +2199,7 @@ singo
 sinta
 sinten
 sir
+sira
 sirah
 siram
 sirih
@@ -2332,6 +2334,7 @@ teran
 terang
 teri
 terima
+terus
 tete
 tetek
 ti
