@@ -95,6 +95,7 @@ aksara
 aksi
 aku
 akuk
+akula
 akun
 akur
 al
@@ -114,6 +115,7 @@ alim
 aliran
 alis
 alo
+alos
 alu
 alum
 alun
@@ -681,6 +683,7 @@ genep
 geni
 geno
 genteng
+gentong
 gerah
 gerak
 geram
@@ -869,6 +872,7 @@ ibu
 ida
 idii
 idu
+iga
 igak
 ih
 iha
@@ -2487,6 +2491,7 @@ ukura
 ukuran
 ulaa
 ulah
+ulam
 ulama
 ulan
 ulang
