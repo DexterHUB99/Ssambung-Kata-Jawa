@@ -489,6 +489,7 @@ bom
 bos
 bosen
 boso
+bosok
 bot
 botak
 boti
@@ -1066,6 +1067,7 @@ hari
 harian
 harimau
 harimu
+harta
 hartamu
 haru
 harum
@@ -1416,9 +1418,11 @@ jingga
 jipang
 jipuk
 jiwa
+jo
 jogo
 joko
 jokowi
+jom
 jongo
 joni
 jori
@@ -1556,6 +1560,7 @@ ken
 kena
 kencur
 kendi
+kene
 kenek
 kenopo
 kentang
@@ -1660,6 +1665,7 @@ kopi
 koplak
 koplo
 kopyor
+kora
 koran
 korban
 kos
@@ -1911,6 +1917,7 @@ lumpuh
 lumrah
 lun
 lungguh
+lunglai
 lungo
 lup
 lupa
@@ -3334,6 +3341,7 @@ tumpeng
 tunggal
 tunggu
 tupi
+turah
 turon
 turu
 turuk
@@ -3588,6 +3596,7 @@ wangsul
 wani
 wanita
 waras
+warna
 warung
 wates
 watir
