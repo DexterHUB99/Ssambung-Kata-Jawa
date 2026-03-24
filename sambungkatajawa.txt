@@ -429,6 +429,7 @@ bila
 bima
 bintang
 biru
+bis
 bisa
 bisaa
 biso
@@ -456,6 +457,7 @@ buta
 buto
 cacig
 cacing
+cakep
 campur
 cantik
 cara
@@ -1890,6 +1892,7 @@ nana
 nanah
 nanam
 nanas
+nanduk
 nandur
 nanem
 nang
@@ -2030,6 +2033,7 @@ ngembun
 ngemot
 ngemut
 ngen
+ngendep
 ngendi
 ngendika
 ngengobrol
@@ -2201,6 +2205,7 @@ nopi
 nopo
 nor
 norak
+nori
 nos
 nosa
 nota
@@ -2474,6 +2479,7 @@ pujaan
 pukul
 pul
 pun
+pundi
 punten
 punya
 pup
