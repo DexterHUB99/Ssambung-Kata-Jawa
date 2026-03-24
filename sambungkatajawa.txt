@@ -2056,6 +2056,7 @@ jabur
 jae
 jaga
 jago
+jagongan
 jagung
 jahe
 jakaa
