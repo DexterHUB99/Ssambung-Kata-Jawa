@@ -13,6 +13,7 @@ adaa
 adap
 adi
 adipati
+adu
 aduh
 adus
 aengi
@@ -392,6 +393,7 @@ dulur
 duren
 durian
 duso
+duwek
 duwit
 ealah
 eben
@@ -938,6 +940,7 @@ jam
 jaman
 jambu
 jancok
+janda
 jangan
 jangkrik
 jara
@@ -999,6 +1002,7 @@ kantil
 kapal
 kapan
 kapok
+kara
 kare
 karep
 karma
@@ -1035,6 +1039,7 @@ kena
 kendi
 kentang
 kentu
+kentut
 kepa
 kepala
 kepaten
@@ -1176,6 +1181,7 @@ langsing
 laos
 lapar
 lapis
+lapo
 lari
 laron
 las
@@ -1274,6 +1280,7 @@ makan
 makruh
 malah
 malam
+mam
 mama
 mamah
 mamak
@@ -1370,6 +1377,7 @@ nambah
 nambal
 nampak
 nampan
+nan
 nana
 nanah
 nanam
@@ -1399,6 +1407,7 @@ nasi
 nasib
 nawar
 ndasmu
+negara
 neh
 neko
 nelongso
@@ -1594,6 +1603,7 @@ nolak
 nom
 nomer
 non
+nona
 nongki
 noni
 nono
@@ -1903,6 +1913,7 @@ risma
 riso
 rita
 riwayat
+riya
 ro
 rodo
 rogoh
@@ -2043,6 +2054,7 @@ sola
 solar
 solat
 solo
+som
 somat
 sombong
 songo
@@ -2180,6 +2192,7 @@ tomo
 tonggo
 tongkol
 tono
+topi
 toto
 tua
 tuban
