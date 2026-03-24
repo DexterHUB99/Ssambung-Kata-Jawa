@@ -1322,6 +1322,7 @@ lapar
 lapi
 lapis
 lapo
+lara
 lari
 laron
 las
@@ -1848,6 +1849,7 @@ okee
 okeh
 okei
 oker
+oket
 okin
 okok
 okol
@@ -2018,6 +2020,7 @@ pop
 popol
 pora
 poro
+pos
 prei
 puan
 puh
