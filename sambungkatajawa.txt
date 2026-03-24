@@ -1141,6 +1141,7 @@ ewek
 ewu
 ex
 eya
+eyan
 eyang
 eyo
 ez
@@ -3442,6 +3443,7 @@ obat
 obaten
 obeng
 obor
+ocol
 od
 odak
 odol
@@ -3840,6 +3842,7 @@ puyuh
 ra
 raa
 rabi
+rabun
 racun
 raden
 radika
@@ -4680,6 +4683,7 @@ ujar
 uji
 ujian
 ujung
+uk
 uka
 ukaa
 ukae
