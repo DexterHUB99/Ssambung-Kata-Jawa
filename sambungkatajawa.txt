@@ -897,6 +897,7 @@ esa
 esaa
 esai
 esak
+esam
 esan
 escendol
 ese
@@ -2052,6 +2053,7 @@ lemes
 lemot
 lemper
 lemu
+leres
 les
 lesu
 lewat
@@ -2191,6 +2193,7 @@ maju
 mak
 makan
 makanan
+maki
 makruh
 maku
 malah
@@ -3138,6 +3141,7 @@ rakus
 rama
 ramah
 raman
+ramayana
 rambak
 rambu
 rambut
