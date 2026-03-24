@@ -1519,6 +1519,7 @@ nina
 nindak
 ning
 nini
+nira
 nis
 nisa
 nisan
@@ -1687,6 +1688,7 @@ pasti
 patil
 pean
 pei
+peju
 peko
 peli
 pen
@@ -1776,6 +1778,7 @@ rasah
 rasan
 rasi
 rasis
+rati
 raup
 raut
 rawa
