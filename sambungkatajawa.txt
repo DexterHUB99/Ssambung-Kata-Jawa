@@ -594,6 +594,7 @@ babat
 babi
 bacin
 bacot
+badog
 bae
 bagong
 bagus
@@ -758,6 +759,7 @@ celuk
 cemeng
 cen
 cengkeh
+centil
 ceplok
 cerita
 ces
@@ -1122,6 +1124,7 @@ epan
 epang
 epas
 epep
+eper
 epi
 epic
 epik
@@ -3973,6 +3976,7 @@ poke
 poki
 pokok
 pokoke
+pokro
 pol
 pola
 polah
@@ -4427,6 +4431,7 @@ sekul
 selam
 selan
 selasa
+selawe
 selet
 selo
 semanten
@@ -4447,6 +4452,7 @@ sepi
 sepon
 sepuh
 sepur
+sepuran
 ser
 sera
 seran
@@ -4511,6 +4517,7 @@ sira
 sirah
 siram
 siraman
+sirep
 sirih
 siro
 sis
