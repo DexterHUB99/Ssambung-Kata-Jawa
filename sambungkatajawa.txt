@@ -388,6 +388,7 @@ awa
 awan
 awas
 awek
+awi
 awu
 awur
 ax
@@ -854,6 +855,7 @@ gaweopo
 gawok
 gayung
 ge
+geblek
 gedang
 gedhang
 gee
@@ -931,6 +933,7 @@ goreng
 gori
 goro
 goroh
+gorong
 gosok
 gosong
 gowo
@@ -1158,6 +1161,7 @@ ike
 iker
 iket
 ikhlas
+ikhtiar
 iki
 ikih
 ikii
@@ -3023,6 +3027,7 @@ taik
 taki
 tala
 tali
+tam
 tama
 taman
 tamba
@@ -3142,6 +3147,7 @@ tubuh
 tugel
 tuh
 tuhan
+tukang
 tuku
 tul
 tula
