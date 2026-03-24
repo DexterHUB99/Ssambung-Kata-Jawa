@@ -60,6 +60,7 @@ ahup
 ahur
 ahut
 ahuy
+ai
 aia
 aii
 ail
@@ -478,6 +479,7 @@ diba
 didi
 dik
 dikon
+dilan
 dima
 dimana
 dimas
@@ -1305,6 +1307,7 @@ kepiye
 kepo
 kera
 kerang
+kerat
 keraton
 kere
 kerek
@@ -2763,6 +2766,7 @@ uange
 uban
 ubi
 ucap
+ucul
 uda
 udah
 udal
