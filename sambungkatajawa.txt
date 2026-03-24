@@ -1082,6 +1082,7 @@ gantian
 gantung
 ganyong
 gapuk
+gapura
 gara
 garang
 garanga
@@ -2800,6 +2801,7 @@ ngepot
 ngeri
 ngerok
 ngerti
+ngeselin
 ngeseng
 ngesor
 ngesot
@@ -4385,6 +4387,7 @@ watir
 watu
 watuk
 wawa
+wawang
 way
 wayah
 wayang
