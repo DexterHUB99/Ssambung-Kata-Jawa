@@ -1244,6 +1244,7 @@ gupak
 gura
 guri
 gurih
+gurita
 guru
 gurune
 gus
@@ -3418,6 +3419,7 @@ rasah
 rasan
 rasi
 rasis
+rasno
 raso
 rasuk
 rati
