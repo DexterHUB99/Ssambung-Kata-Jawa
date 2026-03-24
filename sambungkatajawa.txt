@@ -264,9 +264,11 @@ bajing
 bakso
 bakul
 balung
+bantu
 baru
 basa
 basi
+batok
 bayi
 bebe
 beo
@@ -291,6 +293,7 @@ buto
 campur
 ce
 cen
+cerita
 cicak
 cimu
 cing
@@ -428,6 +431,7 @@ entut
 enuk
 epa
 epan
+epic
 epik
 epis
 epo
@@ -750,6 +754,8 @@ indang
 indik
 indra
 induk
+ing
+inget
 inggih
 ingkang
 ingsun
@@ -1241,6 +1247,7 @@ ngapus
 ngapusi
 ngarak
 ngarep
+ngaret
 ngarit
 ngarti
 ngas
@@ -1277,6 +1284,7 @@ ngg
 nggak
 nggateli
 nggeh
+nggi
 nggih
 nggon
 nggoo
@@ -1714,6 +1722,7 @@ sika
 sikil
 siku
 sila
+silah
 silit
 silitem
 silitmu
@@ -1732,6 +1741,7 @@ sodara
 sodir
 sodok
 sodom
+soki
 soko
 sol
 sola
