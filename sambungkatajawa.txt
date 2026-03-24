@@ -116,6 +116,7 @@ amba
 ambeng
 ambil
 amblas
+ambu
 ambulan
 ambyar
 ameh
@@ -1770,6 +1771,7 @@ pojok
 pok
 polah
 poli
+polisi
 pon
 pondok
 poo
@@ -1971,6 +1973,7 @@ serem
 ses
 sesama
 sesok
+setan
 sewu
 si
 sia
@@ -2152,6 +2155,7 @@ toja
 tolol
 tolong
 tomat
+tomo
 tonggo
 tongkol
 tono
