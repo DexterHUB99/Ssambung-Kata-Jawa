@@ -1204,6 +1204,7 @@ hanung
 hao
 hap
 hapi
+hapunten
 hapus
 har
 hara
@@ -2286,6 +2287,7 @@ moli
 molok
 mondok
 monggo
+montor
 monyet
 mori
 moro
