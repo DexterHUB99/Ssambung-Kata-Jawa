@@ -736,6 +736,7 @@ entuk
 entut
 enuk
 epa
+epah
 epan
 epep
 epi
@@ -1300,6 +1301,7 @@ isam
 isan
 isap
 iseng
+isep
 isi
 isia
 isih
@@ -2712,6 +2714,7 @@ ramu
 ramua
 ramuan
 ramutu
+ran
 rana
 randa
 rani
