@@ -4608,6 +4608,7 @@ tunggal
 tunggu
 tupa
 tupi
+tur
 turah
 turi
 turon
