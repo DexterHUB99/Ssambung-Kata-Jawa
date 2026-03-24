@@ -1768,6 +1768,7 @@ isia
 isih
 isii
 isin
+ising
 isini
 isla
 islam
@@ -3002,6 +3003,7 @@ ngejak
 ngeki
 ngelag
 ngelak
+ngelih
 ngelmu
 ngelok
 ngelon
