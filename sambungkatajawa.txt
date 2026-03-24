@@ -985,6 +985,7 @@ gambir
 gambleh
 gambreng
 gambuh
+game
 gamel
 gamelan
 gamma
@@ -3125,6 +3126,7 @@ punten
 punya
 pup
 pupu
+pupuk
 pur
 pura
 purek
