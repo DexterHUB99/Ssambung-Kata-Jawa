@@ -668,6 +668,7 @@ damput
 dan
 dancok
 dandang
+dani
 dap
 dapur
 darah
@@ -1687,6 +1688,7 @@ jipuk
 jir
 jiwa
 jo
+jodo
 jogo
 jok
 joko
