@@ -335,6 +335,7 @@ aring
 arip
 aris
 arisan
+arit
 arka
 arsi
 arta
@@ -694,6 +695,7 @@ ekes
 eki
 eko
 ekoh
+ekol
 ekor
 eku
 el
@@ -2096,6 +2098,7 @@ mogok
 moh
 moleh
 molen
+molok
 monggo
 monyet
 mori
@@ -2831,6 +2834,7 @@ pos
 pot
 prei
 pripun
+pua
 puan
 puh
 pujaan
@@ -3531,6 +3535,7 @@ uli
 ulih
 ulik
 ulo
+uloe
 ulu
 ulun
 ulung
