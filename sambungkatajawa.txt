@@ -53,6 +53,7 @@ ahh
 ahhh
 ahi
 ahig
+ahih
 ahik
 ahil
 ahir
@@ -519,6 +520,7 @@ bulu
 bumbu
 bunga
 bus
+busa
 busuk
 buta
 buto
@@ -1163,6 +1165,7 @@ hisa
 hitam
 hitung
 hiu
+hm
 ho
 hoa
 hobi
@@ -1234,6 +1237,7 @@ ihli
 ihsan
 ihta
 ija
+ijab
 ijak
 ijek
 ijen
@@ -1933,6 +1937,7 @@ loba
 lobang
 lober
 lobi
+lodeh
 loe
 loh
 lohan
