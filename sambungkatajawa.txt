@@ -431,7 +431,9 @@ ata
 atah
 atap
 atas
+atat
 ate
+ateh
 atek
 aten
 atep
@@ -2576,6 +2578,7 @@ nerus
 nes
 nesi
 nesu
+neta
 nete
 neteh
 netra
@@ -3127,6 +3130,7 @@ pandu
 pangan
 panggah
 panggo
+panguripan
 panjang
 panjenengan
 pantai
@@ -3633,6 +3637,7 @@ siapa
 sigap
 sii
 siji
+sik
 sika
 sikat
 sikil
