@@ -1198,6 +1198,7 @@ hayang
 hayat
 hayo
 hayu
+hayuk
 he
 hee
 heem
@@ -1563,6 +1564,7 @@ jok
 joko
 jokowi
 jom
+jombang
 jongo
 joni
 jori
@@ -2111,6 +2113,7 @@ mabur
 maca
 macan
 madang
+madhang
 madu
 mae
 maem
@@ -2425,6 +2428,7 @@ ngarpu
 ngarti
 ngaruh
 ngas
+ngasa
 ngasah
 ngasal
 ngasem
@@ -2463,6 +2467,7 @@ ngen
 ngendep
 ngendi
 ngendika
+ngendikan
 ngengek
 ngenget
 ngengobrol
@@ -2490,6 +2495,7 @@ nggawe
 nggeh
 nggi
 nggih
+nggolek
 nggon
 nggoo
 nggowo
@@ -2776,6 +2782,7 @@ oncom
 onda
 onde
 ondo
+ondone
 oneng
 ongak
 ongkek
@@ -2898,6 +2905,7 @@ pean
 pegawai
 pei
 peju
+pek
 peko
 pekok
 pela
