@@ -305,6 +305,7 @@ anton
 antri
 antuk
 anu
+anue
 anuk
 anum
 anus
@@ -628,6 +629,7 @@ dimana
 dimas
 din
 dina
+dini
 dino
 dipun
 diren
@@ -2300,6 +2302,7 @@ nawi
 ndasmu
 ndeso
 negara
+negeri
 neges
 neh
 nek
@@ -2928,6 +2931,7 @@ poleh
 poli
 polisi
 polo
+pom
 pon
 pondok
 pone
@@ -3820,6 +3824,7 @@ utowo
 utu
 utuh
 uud
+uwa
 uwe
 uwes
 uwis
@@ -3848,6 +3853,7 @@ waras
 warna
 warung
 wates
+wati
 watir
 watu
 watuk
