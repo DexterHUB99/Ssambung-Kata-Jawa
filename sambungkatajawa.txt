@@ -193,6 +193,7 @@ alem
 aler
 alhamdulillah
 ali
+alia
 alien
 alif
 aliho
@@ -566,6 +567,7 @@ ayu
 ayun
 az
 baa
+bab
 babak
 babat
 babi
@@ -1212,6 +1214,7 @@ galang
 galau
 galeh
 gali
+galia
 galih
 galo
 galon
@@ -2902,6 +2905,7 @@ muse
 musi
 musim
 musuh
+mutah
 mute
 na
 naa
@@ -4933,6 +4937,7 @@ urat
 urek
 ures
 uri
+urii
 uring
 urip
 uripe
