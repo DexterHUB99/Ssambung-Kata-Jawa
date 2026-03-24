@@ -1238,6 +1238,7 @@ hono
 hoo
 hooh
 hor
+hora
 hore
 hormat
 horog
