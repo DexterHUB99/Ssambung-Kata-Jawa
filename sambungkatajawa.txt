@@ -919,6 +919,7 @@ ges
 geseng
 geser
 getuk
+gi
 gidal
 gigi
 gigir
@@ -1054,6 +1055,7 @@ has
 hasan
 hase
 hasil
+hasrat
 hati
 hatimu
 haturnuhun
@@ -2061,6 +2063,7 @@ nap
 napa
 napas
 napi
+napo
 nar
 nara
 nari
@@ -2555,6 +2558,7 @@ pagar
 pahing
 paido
 pait
+pajak
 pak
 paka
 paku
