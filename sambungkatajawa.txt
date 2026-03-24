@@ -151,6 +151,7 @@ anduk
 ane
 aneh
 angel
+angin
 angker
 angklung
 angsa
@@ -350,6 +351,7 @@ duda
 dudu
 duh
 duit
+duku
 dulur
 duren
 durian
@@ -809,6 +811,7 @@ ira
 irah
 irak
 irama
+iras
 iren
 ireng
 iri
@@ -1208,6 +1211,7 @@ modar
 moh
 moleh
 monggo
+monyet
 mori
 moto
 motor
@@ -1398,6 +1402,7 @@ ngoseng
 ngosi
 ngotak
 ngotot
+ngubur
 ngudek
 ngudud
 ngulon
@@ -1767,6 +1772,7 @@ ruwet
 sa
 sabar
 sabi
+sadewa
 sae
 saestu
 saged
@@ -1898,6 +1904,7 @@ susumu
 sut
 suwe
 suwi
+suwir
 suwun
 tae
 taek
