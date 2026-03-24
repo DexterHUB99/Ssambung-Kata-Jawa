@@ -259,6 +259,7 @@ ancuk
 ancur
 anda
 andai
+andal
 andang
 andani
 ander
@@ -1679,6 +1680,7 @@ jombang
 jongo
 joni
 jori
+jorok
 jos
 jubah
 jujur
@@ -3720,6 +3722,7 @@ surup
 susah
 susan
 susi
+susok
 susu
 susuk
 susul
