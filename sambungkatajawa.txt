@@ -696,6 +696,7 @@ cuci
 cucu
 cukup
 cumi
+curut
 dada
 dadar
 dadi
@@ -786,6 +787,7 @@ duda
 dudu
 duduh
 duduk
+duga
 duh
 duit
 duka
@@ -950,6 +952,7 @@ endog
 ene
 eneg
 enek
+enem
 eneng
 engeh
 enggal
@@ -1800,6 +1803,7 @@ jem
 jembut
 jembutmu
 jenang
+jeneng
 jeruk
 ji
 jiga
@@ -2604,6 +2608,7 @@ mlaku
 mmbuh
 modal
 modar
+modus
 modyar
 mogok
 moh
