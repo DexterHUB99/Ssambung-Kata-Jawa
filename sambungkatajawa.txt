@@ -574,6 +574,7 @@ harimu
 hartamu
 harum
 harus
+hasan
 hase
 hati
 haturnuhun
@@ -714,6 +715,7 @@ insan
 inti
 inul
 ipa
+ipak
 ipi
 ipil
 ipin
@@ -762,6 +764,7 @@ iwenan
 ix
 iy
 iya
+iye
 iyo
 iyuh
 iz
@@ -794,6 +797,7 @@ kala
 kali
 kalimat
 kam
+kamar
 kambil
 kambing
 kampung
@@ -1460,6 +1464,7 @@ rambut
 rampun
 ramua
 ramuan
+rana
 rapi
 rapuh
 ras
@@ -1529,6 +1534,7 @@ rukun
 rumah
 rumus
 run
+runcing
 rungkad
 rupa
 rupamu
@@ -1603,6 +1609,7 @@ sodok
 sodom
 soko
 sol
+sola
 solar
 solo
 somat
@@ -1668,6 +1675,7 @@ tape
 tapi
 tapuk
 tari
+taruk
 tata
 tawa
 tebu
