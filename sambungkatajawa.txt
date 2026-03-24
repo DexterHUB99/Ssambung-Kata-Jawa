@@ -1840,6 +1840,7 @@ ikulo
 ikur
 ikut
 ila
+ilaa
 ilae
 ilah
 ilahi
