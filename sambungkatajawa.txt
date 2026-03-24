@@ -565,6 +565,7 @@ aun
 aup
 aura
 aus
+ausa
 aut
 autan
 aw
@@ -3337,6 +3338,7 @@ ngawur
 ngayomi
 ngebet
 ngece
+ngeces
 ngeden
 ngeh
 ngejak
