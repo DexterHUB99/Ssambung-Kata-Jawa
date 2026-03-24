@@ -1028,6 +1028,7 @@ gundik
 gundul
 gunem
 guneman
+gung
 gunting
 guntur
 gunung
@@ -1449,6 +1450,7 @@ jim
 jima
 jimat
 jin
+jina
 jinak
 jingga
 jipang
@@ -2425,6 +2427,7 @@ ngusu
 nguta
 ngutang
 ngutangan
+ngutil
 nguyuh
 nguyup
 nguyur
@@ -3080,6 +3083,7 @@ sasa
 sasak
 sasi
 sate
+sawah
 sawer
 sawit
 saya
