@@ -466,6 +466,7 @@ batok
 batu
 bawok
 bayi
+bayun
 bebas
 bebe
 bebek
@@ -1275,6 +1276,7 @@ iko
 ikoe
 ikon
 iku
+ikue
 ikui
 ikur
 ikut
@@ -1970,6 +1972,7 @@ lontong
 loo
 lopis
 lor
+loreng
 loro
 los
 lose
@@ -2700,6 +2703,7 @@ osor
 ot
 otak
 otol
+otom
 otot
 ow
 owah
