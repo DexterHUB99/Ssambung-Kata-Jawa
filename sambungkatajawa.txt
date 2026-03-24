@@ -2057,6 +2057,7 @@ lowo
 loyo
 lu
 lucu
+ludruk
 lugu
 luhur
 luka
@@ -2232,6 +2233,7 @@ musuh
 mute
 na
 nabi
+nabok
 nabrak
 nabung
 nada
