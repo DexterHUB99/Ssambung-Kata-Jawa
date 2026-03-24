@@ -428,6 +428,7 @@ bacot
 bae
 bagong
 bagus
+bahan
 bajing
 baju
 bakso
@@ -1518,6 +1519,7 @@ kedadi
 kedai
 keke
 kekel
+kekunci
 kela
 kelakon
 kelam
