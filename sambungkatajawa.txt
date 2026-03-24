@@ -1145,6 +1145,7 @@ ibak
 iblis
 ibu
 icone
+icu
 ida
 idih
 idii
@@ -2351,6 +2352,7 @@ nopi
 nopo
 nor
 norak
+noreh
 nori
 nos
 nosa
@@ -2868,6 +2870,7 @@ sabar
 sabi
 sabit
 sabon
+sadar
 sadewa
 sae
 saestu
