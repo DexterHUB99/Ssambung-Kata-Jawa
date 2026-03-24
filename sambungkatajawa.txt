@@ -1974,6 +1974,7 @@ lag
 lagi
 lagu
 lah
+laki
 lakon
 laku
 lalah
@@ -2437,6 +2438,7 @@ neraka
 neras
 neri
 nerimo
+nerus
 nes
 nesi
 nesu
