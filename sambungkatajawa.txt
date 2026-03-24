@@ -2178,6 +2178,7 @@ joli
 jom
 jombang
 jomlo
+jon
 jongkok
 jongo
 joni
@@ -3356,6 +3357,7 @@ ngamok
 ngamuk
 ngan
 ngancani
+ngandhap
 ngandok
 nganduk
 ngandung
@@ -5385,6 +5387,7 @@ usua
 usui
 usuk
 usul
+usulan
 usung
 usus
 usut
