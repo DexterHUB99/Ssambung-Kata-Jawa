@@ -940,6 +940,7 @@ jin
 jingga
 jipang
 jipuk
+jiwa
 jogo
 joko
 jokowi
@@ -1416,6 +1417,7 @@ ngapurancang
 ngapus
 ngapusi
 ngarak
+ngarang
 ngarek
 ngarep
 ngaret
@@ -1584,6 +1586,7 @@ nurun
 nusa
 nuti
 nuwun
+nyawiji
 nyusu
 oalah
 obat
@@ -1671,6 +1674,7 @@ orek
 oren
 ori
 oria
+orok
 orong
 osah
 osaka
@@ -1754,6 +1758,7 @@ poli
 pon
 pondok
 poo
+pora
 poro
 prei
 puan
@@ -1949,6 +1954,7 @@ serem
 ses
 sesama
 sesok
+sewu
 si
 sia
 sial
@@ -2298,6 +2304,7 @@ uta
 utaa
 utah
 utama
+utan
 utang
 utar
 utara
