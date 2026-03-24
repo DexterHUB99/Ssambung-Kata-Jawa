@@ -1243,6 +1243,7 @@ lapo
 lari
 laron
 las
+latah
 lati
 laut
 lawak
@@ -1543,6 +1544,7 @@ ngasin
 ngaso
 ngasu
 ngasuh
+ngatal
 ngatemi
 ngatuk
 ngaturaken
@@ -2479,6 +2481,7 @@ utan
 utang
 utar
 utara
+utawa
 ute
 utek
 utekmu
