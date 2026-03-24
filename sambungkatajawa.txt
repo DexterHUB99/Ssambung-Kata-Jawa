@@ -138,6 +138,7 @@ aliran
 alis
 alo
 alos
+alot
 alu
 alum
 alun
@@ -1179,6 +1180,7 @@ isia
 isih
 isin
 islam
+ismi
 iso
 istana
 istri
@@ -1536,6 +1538,7 @@ lali
 lama
 lambe
 lame
+lamis
 lamon
 lamongan
 lampir
@@ -1619,6 +1622,7 @@ lisa
 lisan
 liwa
 liwat
+liwet
 liya
 liyo
 lo
@@ -2707,6 +2711,7 @@ sopir
 sopo
 sore
 sori
+soroh
 sos
 sosi
 sosis
@@ -3022,6 +3027,7 @@ ungkal
 ungkap
 ungkit
 uni
+unia
 unjuk
 uno
 unta
@@ -3187,6 +3193,7 @@ yano
 yas
 yasin
 yati
+yawis
 yaya
 yayo
 yen
