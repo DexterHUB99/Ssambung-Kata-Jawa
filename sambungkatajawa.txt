@@ -773,6 +773,7 @@ coro
 crita
 cuci
 cucu
+cuk
 cukup
 cumi
 cupu
@@ -1414,6 +1415,7 @@ gitar
 giwang
 glagah
 go
+goblog
 goblok
 gocek
 godog
@@ -3324,6 +3326,7 @@ ngisor
 ngitung
 ngko
 nglim
+nglor
 ngnu
 ngobrol
 ngocok
@@ -4219,6 +4222,7 @@ rugi
 rujak
 ruko
 rukun
+ruma
 rumah
 rumangsa
 rumbai
@@ -5222,6 +5226,7 @@ yati
 yauwis
 yawis
 yaya
+yayi
 yayo
 yen
 yere
