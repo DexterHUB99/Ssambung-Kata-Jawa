@@ -441,6 +441,7 @@ arisan
 arit
 arjuna
 arka
+aro
 arsi
 arta
 arti
@@ -4022,6 +4023,7 @@ rembuk
 rembulan
 remeh
 remes
+remo
 remok
 rempah
 rempela
