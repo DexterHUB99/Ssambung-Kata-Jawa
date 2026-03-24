@@ -395,6 +395,7 @@ ego
 eh
 eha
 ehak
+eham
 ehan
 ehe
 eheh
@@ -466,6 +467,7 @@ endi
 endog
 eneg
 enek
+engeh
 enggal
 enggan
 enggeh
@@ -2329,6 +2331,7 @@ waduk
 wage
 wajah
 waktu
+wangi
 wanita
 waras
 warung
