@@ -227,6 +227,7 @@ amben
 ambeng
 ambil
 amblas
+ambo
 amboi
 ambruk
 ambu
@@ -279,6 +280,7 @@ anan
 anane
 anang
 anas
+ancam
 ancen
 anci
 ancok
@@ -1482,6 +1484,7 @@ hayo
 hayu
 hayuk
 he
+hea
 hebat
 hebate
 heboh
@@ -2767,6 +2770,7 @@ muli
 mulia
 mulih
 mulus
+muluse
 mulya
 mumet
 mumi
@@ -4414,6 +4418,7 @@ temu
 tenan
 tenanan
 tenang
+tendang
 teng
 tengah
 tengen
