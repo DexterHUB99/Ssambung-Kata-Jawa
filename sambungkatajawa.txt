@@ -561,6 +561,7 @@ aye
 ayem
 ayeme
 ayi
+ayia
 ayo
 ayok
 ayu
@@ -656,6 +657,7 @@ bisue
 bobi
 bojo
 bokong
+bol
 bola
 bolo
 bom
@@ -813,6 +815,7 @@ dengkul
 depi
 dereng
 deso
+dewi
 diba
 didesa
 didi
@@ -2005,6 +2008,7 @@ jos
 jubah
 jujur
 jumat
+jumbo
 ka
 kaba
 kabar
@@ -4232,6 +4236,7 @@ sampah
 sampai
 samparan
 sampean
+sampo
 sampun
 samun
 san
