@@ -168,6 +168,7 @@ alasan
 alay
 ale
 alem
+aler
 alhamdulillah
 ali
 alien
@@ -2381,6 +2382,7 @@ manga
 mangan
 mangap
 mangga
+manggae
 manggis
 mangsa
 mani
@@ -2543,6 +2545,7 @@ nampak
 nampan
 nampani
 nampar
+nampel
 nampol
 nan
 nana
