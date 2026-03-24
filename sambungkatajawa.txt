@@ -660,6 +660,7 @@ bengek
 bengong
 beni
 beo
+ber
 berak
 beras
 beri
@@ -2820,6 +2821,7 @@ lowe
 lowo
 loyo
 lu
+luang
 lucu
 ludah
 ludruk
@@ -4117,6 +4119,7 @@ porek
 porno
 poro
 pos
+pose
 posi
 pot
 potong
