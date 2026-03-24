@@ -761,6 +761,7 @@ hei
 hem
 hemat
 her
+hera
 heran
 heri
 hero
@@ -1608,6 +1609,7 @@ ngoseng
 ngosi
 ngotak
 ngotot
+ngsu
 ngubur
 ngudek
 ngudud
@@ -2272,6 +2274,7 @@ topi
 toto
 tua
 tuban
+tubuh
 tugel
 tuh
 tuhan
@@ -2325,6 +2328,7 @@ uji
 ujian
 ujung
 uka
+ukak
 ukar
 ukara
 ukas
@@ -2357,6 +2361,7 @@ ulu
 ulung
 ulur
 um
+uma
 umah
 umar
 umat
