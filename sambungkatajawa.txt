@@ -495,12 +495,14 @@ budi
 buka
 buku
 bulan
+bulu
 bumbu
 bunga
 bus
 busuk
 buta
 buto
+butuh
 cacat
 caci
 cacig
@@ -1402,6 +1404,7 @@ jokowi
 jongo
 joni
 jori
+jos
 jubah
 jumat
 ka
@@ -2089,6 +2092,7 @@ nasi
 nasib
 nata
 natah
+nate
 nawar
 nawi
 ndasmu
@@ -2223,6 +2227,7 @@ ngesot
 ngesuk
 ngetan
 ngewe
+ngewek
 ngg
 nggak
 nggaku
@@ -3035,6 +3040,7 @@ sisa
 sisi
 siti
 siwo
+siyam
 so
 soba
 sobat
@@ -3277,6 +3283,7 @@ tumpah
 tumpak
 tumpeng
 tunggal
+tunggu
 tupi
 turon
 turu
@@ -3532,6 +3539,7 @@ warung
 wates
 watir
 watu
+watuk
 way
 wayah
 wayang
