@@ -1042,6 +1042,7 @@ hae
 hah
 haha
 hahaha
+hahi
 hai
 haii
 hajat
@@ -1585,6 +1586,7 @@ kemul
 ken
 kena
 kencur
+kendal
 kendel
 kendi
 kene
@@ -1847,6 +1849,7 @@ lemah
 lembah
 lembur
 lembut
+lemek
 lemes
 lemot
 lemper
@@ -2266,6 +2269,7 @@ ngatemi
 ngatuk
 ngaturaken
 ngawai
+ngawang
 ngawas
 ngawe
 ngawi
@@ -2482,6 +2486,7 @@ nuduh
 nuh
 nuhun
 nui
+nul
 nula
 nulis
 nulung
@@ -2689,6 +2694,7 @@ pari
 paringan
 paris
 parit
+parok
 pas
 pasa
 pasak
@@ -2749,6 +2755,7 @@ pisang
 pit
 pitak
 pitu
+pitung
 pitutur
 piye
 piyo
