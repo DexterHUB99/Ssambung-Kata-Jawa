@@ -388,6 +388,7 @@ awan
 awas
 awek
 awu
+awur
 ax
 ay
 aya
@@ -418,6 +419,7 @@ bakul
 bali
 balung
 bando
+banjir
 bantu
 banyu
 barat
@@ -2469,6 +2471,7 @@ paka
 paku
 paling
 palu
+paman
 pana
 panah
 pancen
@@ -2933,6 +2936,7 @@ sop
 sopan
 sopir
 sopo
+sora
 sore
 sori
 soroh
@@ -3216,6 +3220,7 @@ ulan
 ulang
 ulanga
 ulangan
+ulap
 ular
 ulas
 ulat
