@@ -345,6 +345,7 @@ bolo
 bom
 bos
 boso
+bot
 bu
 buang
 budi
@@ -1319,6 +1320,7 @@ lipat
 liren
 lis
 lisa
+lisan
 liwa
 liwat
 liya
@@ -1528,6 +1530,7 @@ nete
 netra
 ngaca
 ngaceng
+ngaco
 ngae
 ngaji
 ngaka
@@ -1890,6 +1893,7 @@ pasa
 pasti
 patil
 pean
+pegawai
 pei
 peju
 peko
@@ -2216,6 +2220,7 @@ soto
 sowan
 soyo
 su
+suara
 suasu
 suba
 suci
