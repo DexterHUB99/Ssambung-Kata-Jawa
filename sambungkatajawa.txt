@@ -490,6 +490,7 @@ asna
 asor
 asoy
 aspal
+asta
 astaga
 astane
 asu
@@ -826,6 +827,7 @@ depi
 dereng
 deso
 dewi
+di
 diba
 didesa
 didi
@@ -3938,6 +3940,7 @@ puasa
 puh
 puja
 pujaan
+pukimak
 pukul
 pul
 pulau
@@ -4944,6 +4947,7 @@ ungger
 unggul
 ungkal
 ungkap
+ungker
 ungkit
 ungu
 uni
