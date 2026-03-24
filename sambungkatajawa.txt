@@ -612,6 +612,7 @@ ayik
 ayo
 ayok
 ayu
+ayuk
 ayun
 az
 baa
@@ -3435,6 +3436,7 @@ ngawiti
 ngawor
 ngawur
 ngayomi
+ngebas
 ngebet
 ngece
 ngeces
@@ -3734,6 +3736,7 @@ nonton
 nopi
 nopo
 nor
+nora
 norak
 noreh
 nori
