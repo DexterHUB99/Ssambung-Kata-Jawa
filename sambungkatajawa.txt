@@ -302,6 +302,7 @@ arih
 arik
 aring
 arip
+aris
 arisan
 arka
 arsi
@@ -650,6 +651,7 @@ emboh
 embong
 embuh
 emes
+emo
 emog
 emoh
 emong
@@ -1356,6 +1358,7 @@ kama
 kamar
 kambil
 kambing
+kambuh
 kami
 kampung
 kampungan
@@ -2689,6 +2692,7 @@ rompi
 ron
 ronda
 rondo
+ronggo
 roni
 rono
 rop
@@ -2743,6 +2747,7 @@ salah
 salak
 salam
 salim
+salira
 salut
 sam
 sama
@@ -2801,6 +2806,7 @@ ses
 sesama
 sesok
 setan
+sewa
 sewu
 si
 sia
