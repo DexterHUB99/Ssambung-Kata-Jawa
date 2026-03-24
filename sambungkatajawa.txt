@@ -662,6 +662,7 @@ bude
 budi
 buk
 buka
+bukan
 buku
 bulan
 bulu
@@ -952,6 +953,7 @@ eleng
 eli
 elig
 elii
+elik
 eling
 elir
 elit
@@ -1334,6 +1336,7 @@ gi
 gidal
 gigi
 gigir
+gigit
 gih
 gila
 gilak
@@ -3646,6 +3649,7 @@ pajang
 paji
 pak
 paka
+pakan
 paku
 pala
 palang
