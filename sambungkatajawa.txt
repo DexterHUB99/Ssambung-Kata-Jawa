@@ -66,6 +66,7 @@ ahig
 ahih
 ahik
 ahil
+ahin
 ahir
 ahiy
 ahlak
@@ -1666,6 +1667,7 @@ jaranan
 jare
 jari
 jawa
+jawab
 jawi
 jebul
 jem
@@ -1995,6 +1997,7 @@ kopyor
 kora
 koran
 korban
+kori
 kos
 kosan
 kosek
@@ -2256,6 +2259,7 @@ lor
 loreng
 loro
 lorone
+lorong
 los
 lose
 loso
@@ -2617,6 +2621,7 @@ ngandok
 nganduk
 ngang
 nganga
+nganggo
 nganggur
 ngangkang
 ngangso
