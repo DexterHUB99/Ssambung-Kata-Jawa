@@ -804,6 +804,7 @@ ikur
 ikut
 ila
 ilaki
+ilam
 ilang
 ilat
 iler
@@ -1028,6 +1029,7 @@ ketir
 ketok
 ki
 kidal
+kidang
 kidul
 kidung
 kie
@@ -1176,6 +1178,7 @@ lili
 lilin
 lilo
 lima
+limbah
 limo
 lingkaran
 lingsir
@@ -1289,6 +1292,7 @@ moleh
 monggo
 monyet
 mori
+mosok
 moto
 motor
 mripat
@@ -1809,6 +1813,7 @@ rek
 relo
 remba
 rembes
+remes
 remu
 renang
 rengginang
@@ -2028,6 +2033,7 @@ suri
 surup
 susah
 susu
+susuk
 susumu
 sut
 suwe
@@ -2091,6 +2097,7 @@ tetek
 ti
 tibo
 tik
+tiktok
 tikus
 tila
 tilem
@@ -2348,6 +2355,7 @@ yasin
 yati
 yaya
 yen
+yere
 yo
 yoh
 yoi
