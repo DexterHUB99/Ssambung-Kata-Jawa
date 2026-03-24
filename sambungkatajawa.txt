@@ -504,6 +504,7 @@ atun
 atur
 aturen
 atus
+atut
 auh
 aul
 aun
@@ -2792,7 +2793,6 @@ musim
 musuh
 mute
 na
-naa
 nabi
 nabok
 nabrak
@@ -4078,7 +4078,6 @@ sangu
 santen
 santri
 santun
-sapa
 sapeh
 sapi
 sapu
@@ -4492,7 +4491,6 @@ tonggo
 tongkol
 toni
 tono
-too
 topi
 topo
 tora
@@ -4799,6 +4797,7 @@ utak
 utama
 utan
 utang
+utange
 utangmu
 utar
 utara
@@ -4819,6 +4818,7 @@ utowo
 utu
 utuh
 uturi
+utus
 uud
 uwa
 uwe
