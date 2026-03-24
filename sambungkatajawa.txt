@@ -1107,6 +1107,7 @@ moh
 moleh
 monggo
 moto
+motor
 mripat
 mugi
 muh
@@ -1161,6 +1162,7 @@ naruh
 nas
 nasar
 nasi
+nasib
 nawar
 ndasmu
 neh
@@ -1189,6 +1191,7 @@ ngangkang
 ngangso
 nganjuk
 ngano
+nganti
 ngantuk
 nganu
 ngapa
@@ -1993,6 +1996,7 @@ xray
 yah
 yaka
 yakin
+yang
 yasin
 yati
 yaya
