@@ -391,6 +391,7 @@ ela
 elah
 elan
 elang
+elap
 elek
 eleng
 eli
@@ -849,6 +850,7 @@ jancok
 jangan
 jangkrik
 jara
+jare
 jawa
 jawi
 jebul
@@ -1174,6 +1176,7 @@ micek
 mingat
 mingkem
 minum
+miri
 misuh
 modar
 moh
