@@ -197,6 +197,7 @@ ape
 apel
 api
 apik
+apo
 apolo
 apung
 ara
@@ -543,6 +544,7 @@ gabah
 gabut
 gadung
 gae
+gagah
 gagak
 gagal
 gah
@@ -978,6 +980,7 @@ kampung
 kamu
 kamus
 kancil
+kancut
 kandang
 kang
 kanggo
@@ -1481,6 +1484,7 @@ ngguyu
 ngibul
 ngidul
 ngila
+ngilang
 ngipasi
 ngiris
 ngirit
@@ -1896,6 +1900,7 @@ roro
 rosi
 roso
 roti
+rowang
 rowo
 ruang
 rubuh
@@ -1990,6 +1995,7 @@ simbok
 sin
 sina
 singa
+singo
 sinta
 sinten
 sir
