@@ -398,6 +398,7 @@ asii
 asik
 asin
 asing
+asir
 asli
 aslii
 asmane
@@ -2921,6 +2922,7 @@ online
 ono
 onta
 ontel
+onthel
 onto
 ontong
 oo
