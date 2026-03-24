@@ -291,6 +291,7 @@ basi
 batok
 bayi
 bebe
+bebek
 bela
 belo
 beo
@@ -314,6 +315,7 @@ buku
 bulan
 bus
 buto
+cacig
 campur
 ce
 cen
@@ -329,6 +331,7 @@ cukup
 dada
 dadar
 dadi
+dadu
 dahi
 dalem
 damai
@@ -1362,6 +1365,7 @@ ngangso
 ngangsu
 nganjuk
 ngano
+ngantemi
 nganti
 ngantuk
 nganu
@@ -1410,6 +1414,7 @@ ngenteni
 ngepel
 ngeper
 ngeri
+ngerok
 ngesor
 ngesot
 ngesuk
@@ -1674,6 +1679,7 @@ penak
 pentil
 pepe
 pepek
+perlu
 peteng
 peyek
 pie
@@ -2224,6 +2230,7 @@ usil
 usir
 usu
 usui
+usuk
 usul
 usus
 usut
