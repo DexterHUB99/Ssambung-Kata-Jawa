@@ -318,6 +318,7 @@ bu
 buang
 buku
 bulan
+bunga
 bus
 buto
 cacig
@@ -532,6 +533,7 @@ ex
 eyo
 ga
 gabah
+gabut
 gadung
 gae
 gagak
@@ -557,6 +559,7 @@ gang
 gangsing
 ganteng
 gantung
+garang
 garap
 garih
 garii
@@ -1522,6 +1525,7 @@ nila
 nilai
 nim
 nima
+niman
 nimba
 nimbun
 nin
@@ -1678,6 +1682,7 @@ pahing
 pait
 pak
 paka
+paku
 palu
 pana
 panah
@@ -2029,6 +2034,7 @@ suwe
 suwi
 suwir
 suwun
+ta
 tae
 taek
 tah
@@ -2056,6 +2062,7 @@ tarek
 tari
 taruk
 tata
+tati
 tawa
 tawon
 tebu
