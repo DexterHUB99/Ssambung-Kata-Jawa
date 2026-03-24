@@ -346,6 +346,7 @@ anyam
 anyar
 apa
 apaa
+apae
 apar
 ape
 apek
@@ -508,6 +509,7 @@ bagong
 bagus
 bah
 bahan
+baii
 bajing
 baju
 bakso
@@ -629,7 +631,6 @@ cecak
 cece
 cecek
 ceki
-celak
 celana
 celek
 celeng
@@ -693,7 +694,6 @@ dasar
 dasi
 daun
 dawa
-dawuh
 de
 dek
 delman
@@ -809,7 +809,6 @@ eho
 ehok
 ehop
 ehoy
-ehu
 ehup
 ehuy
 eja
@@ -893,6 +892,7 @@ emut
 en
 ena
 enak
+enake
 encok
 endah
 endang
@@ -997,6 +997,8 @@ ete
 etek
 eten
 eti
+etik
+etika
 etil
 eto
 etok
@@ -1078,13 +1080,13 @@ ganteng
 ganti
 gantian
 gantung
+gantungan
 ganyong
 gapuk
 gara
 garang
 garanga
 garap
-garda
 garem
 gareme
 gareng
@@ -1116,16 +1118,19 @@ gawe
 gaweopo
 gawok
 gayung
+gayunge
 ge
 geblek
 gedang
 gedhang
 gee
 geger
+gegere
 geh
 gel
 gela
 gelang
+gelange
 gelem
 geleman
 geli
@@ -1146,6 +1151,7 @@ genderuwo
 gendhis
 gene
 genep
+genge
 geni
 geno
 genteng
@@ -1173,7 +1179,6 @@ gigi
 gigir
 gih
 gila
-gilak
 gilang
 gilani
 gilo
@@ -1203,7 +1208,6 @@ golong
 gombal
 gombalan
 gondok
-gondol
 gondrong
 gong
 gopoh
@@ -1359,6 +1363,7 @@ hei
 helo
 hem
 hemat
+hemate
 heni
 her
 hera
@@ -1546,6 +1551,7 @@ iming
 imo
 impian
 impun
+impung
 imra
 imuh
 imut
@@ -1570,7 +1576,6 @@ inggil
 ingin
 ingkang
 ingsun
-ingu
 ini
 inii
 injak
@@ -1587,6 +1592,7 @@ ipa
 ipak
 ipan
 ipar
+ipe
 ipi
 ipil
 ipin
@@ -1779,7 +1785,6 @@ kaku
 kal
 kala
 kalah
-kalajengking
 kalan
 kalap
 kalem
@@ -1983,6 +1988,7 @@ kimi
 kin
 kinanthi
 kini
+kinjeng
 kintel
 kios
 kir
@@ -2024,6 +2030,7 @@ koloh
 kolong
 kolot
 kom
+koma
 komik
 kompor
 kon
@@ -2277,6 +2284,7 @@ liwa
 liwat
 liwet
 liya
+liyane
 liyo
 lo
 loa
@@ -2410,7 +2418,6 @@ manggis
 mangsa
 mani
 manis
-manjur
 manten
 mantu
 mantuk
@@ -2562,6 +2569,7 @@ nalika
 naliko
 nam
 nama
+namae
 namar
 nambah
 nambal
@@ -2609,7 +2617,6 @@ nasehat
 nasi
 nasib
 nasie
-nastar
 nata
 natah
 natar
@@ -2628,6 +2635,7 @@ neka
 nekar
 nekat
 neko
+nelae
 nelen
 neli
 nelongso
@@ -2701,7 +2709,6 @@ ngangso
 ngangsu
 nganjuk
 ngano
-ngantem
 ngantemi
 nganteni
 nganter
@@ -2779,6 +2786,7 @@ ngen
 ngendang
 ngendep
 ngendi
+ngendii
 ngendika
 ngendikan
 ngengek
@@ -2842,6 +2850,7 @@ ngisih
 ngisin
 ngising
 ngitung
+ngko
 nglim
 ngnu
 ngobrol
@@ -2853,6 +2862,7 @@ ngoko
 ngokok
 ngolah
 ngolak
+ngoleke
 ngolo
 ngoloh
 ngolok
@@ -2907,7 +2917,6 @@ ngunu
 ngupe
 ngupil
 nguping
-nguras
 ngurusi
 ngusel
 ngusir
@@ -3102,7 +3111,6 @@ olon
 olong
 oloo
 olor
-olos
 olot
 om
 oma
@@ -3423,6 +3431,7 @@ raju
 rajut
 rak
 raka
+rakha
 raki
 rakus
 rama
@@ -3470,7 +3479,6 @@ rausah
 raut
 rawa
 rawan
-rawat
 rawit
 rawon
 rawuh
@@ -3509,6 +3517,7 @@ reog
 repot
 republik
 rere
+res
 resah
 rese
 resik
@@ -3854,7 +3863,6 @@ sule
 suling
 sultan
 sum
-sumbang
 sume
 sumeh
 sumi
@@ -3870,7 +3878,6 @@ sungkem
 suntuk
 sunyi
 suo
-supados
 supaya
 supe
 supel
@@ -3888,6 +3895,7 @@ susu
 susuk
 susul
 susumu
+susune
 sut
 suwe
 suwi
@@ -4370,6 +4378,7 @@ wani
 wanita
 waras
 warna
+warnae
 warung
 watak
 wates
