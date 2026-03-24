@@ -1262,6 +1262,7 @@ jongo
 joni
 jori
 jubah
+kaba
 kabeh
 kacuk
 kadal
@@ -1501,6 +1502,7 @@ kuman
 kumbah
 kumbang
 kumpul
+kumuh
 kun
 kuna
 kunci
@@ -1577,6 +1579,7 @@ laut
 lawak
 lawang
 lawas
+lawuh
 layu
 layuh
 lebah
@@ -1974,6 +1977,7 @@ ngepot
 ngeri
 ngerok
 ngerti
+ngeseng
 ngesor
 ngesot
 ngesuk
@@ -2055,6 +2059,7 @@ nguli
 ngulik
 ngulon
 ngumbah
+ngumpat
 ngumpet
 ngumpul
 ngunjuk
@@ -2274,6 +2279,7 @@ osen
 oseng
 oser
 osok
+ot
 otak
 otol
 otot
