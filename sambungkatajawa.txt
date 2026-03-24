@@ -1172,6 +1172,7 @@ escendol
 ese
 esem
 esep
+eses
 esi
 esih
 eso
@@ -2019,6 +2020,7 @@ jembutmu
 jenang
 jeneng
 jeruk
+jet
 ji
 jiga
 jigong
