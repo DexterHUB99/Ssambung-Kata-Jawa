@@ -1111,6 +1111,7 @@ gertak
 ges
 geseng
 geser
+getih
 getok
 getuk
 gi
@@ -1435,6 +1436,7 @@ ikon
 iku
 ikue
 ikui
+ikulo
 ikur
 ikut
 ila
@@ -2075,6 +2077,7 @@ langit
 langsing
 lani
 lanjut
+lansia
 lantai
 lanyah
 laos
@@ -2745,6 +2748,7 @@ ngudek
 ngudud
 ngudut
 nguji
+ngula
 nguli
 ngulik
 ngulon
@@ -3594,6 +3598,7 @@ siro
 sis
 sisa
 sisi
+sisir
 sisok
 siti
 siwo
