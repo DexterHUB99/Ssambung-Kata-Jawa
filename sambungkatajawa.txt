@@ -424,6 +424,7 @@ apek
 apel
 apem
 apen
+apes
 api
 apii
 apik
@@ -3287,6 +3288,7 @@ ngadeg
 ngaduh
 ngaduk
 ngae
+ngah
 ngaja
 ngajak
 ngajar
