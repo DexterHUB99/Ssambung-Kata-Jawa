@@ -330,6 +330,7 @@ busuk
 buto
 cacig
 campur
+cantik
 ce
 cen
 cengkeh
@@ -1013,6 +1014,7 @@ kawit
 kaya
 kayu
 ke
+kebun
 kedadi
 kedai
 keke
@@ -1161,6 +1163,7 @@ lama
 lambe
 lame
 lamon
+lamongan
 lampir
 lampu
 lanang
@@ -1283,6 +1286,7 @@ manuk
 manut
 marah
 mardi
+mari
 marii
 mas
 masak
@@ -1882,6 +1886,7 @@ rimi
 rin
 rina
 rindu
+ringan
 ringkasan
 ringo
 rino
