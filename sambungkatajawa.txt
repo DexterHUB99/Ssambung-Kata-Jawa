@@ -377,6 +377,7 @@ anoa
 anom
 anoman
 anop
+ansur
 anta
 antar
 antara
@@ -2408,6 +2409,7 @@ kit
 kita
 kitab
 kite
+kiwa
 klambi
 klambimu
 klebus
@@ -4343,6 +4345,7 @@ roni
 rono
 roo
 rop
+ropan
 ropi
 roro
 ros
