@@ -52,6 +52,7 @@ ahi
 ahik
 ahil
 ahir
+ahiy
 ahlak
 ahli
 aho
@@ -736,6 +737,7 @@ escendol
 ese
 esep
 esi
+esih
 eso
 esok
 esu
@@ -881,6 +883,7 @@ ginjal
 girang
 giring
 gitar
+go
 goblok
 godog
 godok
@@ -1106,6 +1109,7 @@ ihe
 ihhi
 ihi
 ihla
+ihli
 ihsan
 ihta
 ija
@@ -3063,6 +3067,7 @@ topi
 toto
 tu
 tua
+tuak
 tuban
 tubuh
 tugel
