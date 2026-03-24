@@ -1065,6 +1065,7 @@ isih
 isin
 islam
 iso
+istana
 istri
 isu
 isui
@@ -2072,6 +2073,7 @@ parang
 parem
 pari
 paris
+parit
 pas
 pasa
 pasti
@@ -2662,6 +2664,7 @@ ukki
 uko
 uku
 ukum
+ukung
 ukur
 ukura
 ukuran
@@ -2744,6 +2747,7 @@ urat
 uring
 urip
 uripmu
+uritan
 urli
 urna
 uruk
