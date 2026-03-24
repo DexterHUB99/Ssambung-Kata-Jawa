@@ -395,7 +395,6 @@ arap
 aras
 ardi
 arek
-arem
 aren
 areng
 arep
@@ -455,7 +454,6 @@ asna
 asor
 asoy
 aspal
-asta
 astaga
 astane
 asu
@@ -1969,6 +1967,7 @@ kanjeng
 kanjut
 kanti
 kantil
+kantor
 kaos
 kapal
 kapan
@@ -2107,7 +2106,6 @@ kese
 kesem
 keset
 kesleo
-kesusu
 ketan
 ketel
 ketemu
@@ -2716,7 +2714,6 @@ mules
 muli
 mulia
 mulih
-mulung
 mulus
 mulya
 mumet
@@ -3267,6 +3264,7 @@ nunjuk
 nuntun
 nunung
 nunut
+nuo
 nur
 nurani
 nuri
@@ -3712,7 +3710,6 @@ rakha
 raki
 rakus
 rama
-ramae
 ramah
 ramai
 raman
