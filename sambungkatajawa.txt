@@ -130,6 +130,7 @@ alara
 alas
 alasan
 alay
+ale
 alhamdulillah
 ali
 alien
@@ -137,6 +138,7 @@ alif
 aliho
 alii
 alim
+alin
 aliran
 alis
 alo
@@ -2249,6 +2251,7 @@ nusa
 nuti
 nutuk
 nuwun
+ny
 nyapu
 nyawiji
 nyawit
@@ -2685,6 +2688,7 @@ runcing
 rungkad
 rupa
 rupamu
+rupo
 ruri
 rus
 rusa
@@ -3101,6 +3105,7 @@ ukira
 ukiran
 ukki
 uko
+ukol
 uku
 ukum
 ukung
@@ -3243,6 +3248,7 @@ utak
 utama
 utan
 utang
+utangmu
 utar
 utara
 utawa
@@ -3316,6 +3322,7 @@ wiwit
 woe
 woh
 woko
+wolu
 wong
 wono
 wonten
