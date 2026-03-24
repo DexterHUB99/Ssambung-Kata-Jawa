@@ -1437,6 +1437,7 @@ halo
 halus
 ham
 hama
+hamae
 hamba
 hambar
 hamil
@@ -4576,6 +4577,7 @@ ubi
 ubii
 ubun
 ucap
+ucapan
 ucul
 uda
 udah
