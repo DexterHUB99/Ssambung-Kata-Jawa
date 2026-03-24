@@ -2268,6 +2268,7 @@ kaos
 kapal
 kapan
 kapok
+kaprah
 kapur
 kara
 karang
@@ -4974,6 +4975,7 @@ terima
 terong
 terus
 tete
+teteh
 tetek
 tetelan
 ti
