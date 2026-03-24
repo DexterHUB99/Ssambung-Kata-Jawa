@@ -988,6 +988,7 @@ elo
 eloh
 elok
 elokan
+eloo
 elor
 elos
 elu
@@ -4461,6 +4462,7 @@ suki
 suku
 sula
 sulak
+sulam
 sulap
 sule
 sulem
