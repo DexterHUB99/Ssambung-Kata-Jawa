@@ -395,6 +395,7 @@ aura
 autan
 aw
 awa
+awak
 awan
 awas
 awe
@@ -781,6 +782,7 @@ es
 esa
 esaa
 esai
+esak
 esan
 escendol
 ese
@@ -795,6 +797,7 @@ eta
 etah
 etan
 ete
+eti
 eto
 etuk
 etum
@@ -1521,6 +1524,7 @@ kelor
 keluh
 kema
 kemanten
+kemaren
 kembar
 kemben
 kempol
@@ -2584,6 +2588,7 @@ panjenengan
 pantai
 pantat
 pante
+pantes
 papa
 papah
 papi
@@ -3492,6 +3497,7 @@ utel
 utem
 uter
 uti
+utik
 utir
 uto
 utowo
