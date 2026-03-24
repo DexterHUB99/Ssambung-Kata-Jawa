@@ -1011,6 +1011,7 @@ ex
 eya
 eyang
 eyo
+ez
 faji
 fix
 fo
@@ -2231,6 +2232,7 @@ lim
 lima
 limas
 limbah
+limbahe
 limbuk
 limi
 limo
