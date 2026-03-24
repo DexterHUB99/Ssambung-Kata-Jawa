@@ -354,6 +354,7 @@ cacig
 campur
 cantik
 ce
+cece
 celek
 celu
 cen
@@ -925,6 +926,7 @@ ira
 irah
 irak
 irama
+irang
 iras
 irat
 iren
@@ -1182,6 +1184,7 @@ kua
 kuat
 kuda
 kudu
+kudus
 kue
 kui
 kuk
@@ -1561,6 +1564,7 @@ ngawi
 ngawor
 ngawur
 ngayomi
+ngece
 ngeh
 ngejak
 ngelag
@@ -2283,6 +2287,7 @@ tetek
 ti
 tibo
 tik
+tikar
 tiktok
 tikus
 tila
