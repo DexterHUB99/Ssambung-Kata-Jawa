@@ -1112,6 +1112,7 @@ gertak
 ges
 geseng
 geser
+gethuk
 getih
 getok
 getuk
@@ -1984,6 +1985,7 @@ kui
 kuii
 kuk
 kuka
+kuki
 kuku
 kukur
 kukus
@@ -3587,6 +3589,7 @@ sing
 singa
 singkong
 singo
+sinom
 sinta
 sinten
 sio
@@ -3954,6 +3957,7 @@ ukki
 uko
 ukol
 uku
+ukul
 ukum
 ukung
 ukur
