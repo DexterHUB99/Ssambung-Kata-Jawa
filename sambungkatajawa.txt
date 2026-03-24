@@ -447,6 +447,7 @@ gah
 gajah
 gak
 galak
+galang
 gali
 galih
 gaman
@@ -523,6 +524,7 @@ goroh
 gosong
 gowo
 goyang
+guguk
 gula
 guli
 gumun
@@ -1172,6 +1174,7 @@ ngatuk
 ngaturaken
 ngawas
 ngawi
+ngawor
 ngawur
 ngeh
 ngejak
@@ -1306,6 +1309,7 @@ ojo
 ojok
 ok
 oka
+okan
 oke
 okee
 okeh
@@ -1356,6 +1360,7 @@ op
 opa
 opah
 opak
+opel
 opini
 opo
 opoo
@@ -1432,6 +1437,7 @@ pisah
 pisang
 pitu
 piye
+piyo
 po
 pojok
 polah
@@ -1462,6 +1468,7 @@ ragil
 rai
 raimu
 raiso
+rak
 raki
 rakus
 ramah
