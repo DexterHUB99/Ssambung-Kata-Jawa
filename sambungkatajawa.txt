@@ -1456,6 +1456,7 @@ ikui
 ikulo
 ikur
 ikut
+ikuti
 ila
 ilah
 ilahi
