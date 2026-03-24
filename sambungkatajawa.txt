@@ -458,6 +458,7 @@ entut
 enuk
 epa
 epan
+epep
 epi
 epic
 epik
@@ -917,6 +918,7 @@ kami
 kampung
 kamu
 kamus
+kancil
 kandang
 kang
 kanggo
@@ -1069,6 +1071,7 @@ kutu
 la
 lab
 labu
+lagi
 lagu
 lah
 lakon
@@ -1732,6 +1735,7 @@ resah
 resik
 reti
 ria
+rian
 riang
 ribet
 ribut
