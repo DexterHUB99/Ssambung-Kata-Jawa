@@ -332,6 +332,7 @@ dalem
 damai
 dan
 dancok
+darah
 dari
 dasar
 daun
@@ -1356,6 +1357,7 @@ ngano
 nganti
 ngantuk
 nganu
+ngaos
 ngapa
 ngapae
 ngapak
@@ -1438,6 +1440,7 @@ ngompol
 ngompor
 ngong
 ngoni
+ngono
 ngopi
 ngopo
 ngorek
@@ -1731,6 +1734,7 @@ ramua
 ramuan
 rana
 rani
+rapa
 rapi
 rapuh
 rara
@@ -1804,6 +1808,7 @@ romo
 rompi
 ron
 rondo
+roni
 rono
 rop
 roro
@@ -1855,6 +1860,7 @@ sangu
 santri
 sapi
 sarem
+sarong
 saru
 sate
 sawer
@@ -1961,6 +1967,7 @@ sumuk
 sun
 sunar
 sunat
+suo
 supel
 supo
 suri
