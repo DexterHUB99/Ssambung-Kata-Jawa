@@ -644,6 +644,7 @@ gumuh
 gumun
 guna
 gunting
+guntur
 gunung
 guri
 gurih
@@ -911,6 +912,7 @@ iye
 iyo
 iyuh
 iz
+jaga
 jahe
 jakaa
 jam
@@ -1246,6 +1248,7 @@ mama
 mamah
 mamak
 mami
+mampu
 mampus
 manah
 maneh
@@ -1383,6 +1386,7 @@ ngae
 ngaji
 ngaka
 ngaleh
+ngali
 ngalu
 ngamal
 ngamok
@@ -1785,6 +1789,7 @@ rambutan
 rampun
 ramua
 ramuan
+ramutu
 rana
 rani
 rapa
@@ -1959,6 +1964,7 @@ silit
 silitem
 silitmu
 silo
+simbok
 sin
 sina
 singa
@@ -2102,6 +2108,7 @@ tikus
 tila
 tilem
 timah
+timbang
 timbul
 timun
 timur
