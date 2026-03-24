@@ -1108,6 +1108,7 @@ irup
 irus
 is
 isa
+isae
 isak
 isam
 isan
@@ -1520,6 +1521,7 @@ limo
 lina
 lingkaran
 lingsir
+linta
 lintah
 lintang
 lintasan
@@ -1777,6 +1779,7 @@ ngaka
 ngaleh
 ngali
 ngalih
+ngalor
 ngalu
 ngamal
 ngambang
@@ -2076,6 +2079,7 @@ oling
 olo
 olok
 olom
+olong
 oloo
 olot
 oma
