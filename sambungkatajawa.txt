@@ -81,6 +81,7 @@ aii
 aiki
 ail
 aila
+ailan
 ailo
 aing
 aini
@@ -387,6 +388,7 @@ asli
 aslii
 asmane
 asmara
+asna
 asor
 asoy
 astane
@@ -582,6 +584,7 @@ cincin
 cing
 cinta
 cocot
+cocote
 cok
 colak
 congor
@@ -641,6 +644,7 @@ dini
 dino
 dipun
 diren
+dirumah
 diwan
 dodik
 dodo
@@ -2322,6 +2326,7 @@ nasi
 nasib
 nata
 natah
+natar
 nate
 nawar
 nawi
@@ -2596,6 +2601,7 @@ niko
 niku
 nila
 nilai
+nilem
 nilep
 nim
 nima
