@@ -208,6 +208,7 @@ ali
 alia
 alien
 alif
+alih
 aliho
 alii
 alik
@@ -3142,6 +3143,7 @@ mulya
 mumet
 mumi
 mumpung
+muna
 mundak
 mundhut
 mundur
@@ -4105,6 +4107,7 @@ perlu
 pesing
 peso
 peteng
+peti
 peyek
 php
 pia
