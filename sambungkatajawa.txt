@@ -247,6 +247,7 @@ ambyar
 ameh
 amel
 amen
+ameng
 amer
 amerga
 amet
@@ -1466,6 +1467,7 @@ gus
 gusah
 gusi
 gusti
+guwa
 guyon
 guyu
 guyub
