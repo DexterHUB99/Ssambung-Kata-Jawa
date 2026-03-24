@@ -26,6 +26,7 @@ adi
 adik
 adin
 adipati
+ados
 adu
 aduh
 aduk
@@ -681,6 +682,7 @@ dima
 dimah
 diman
 dimana
+dimari
 dimas
 din
 dina
@@ -2544,6 +2546,7 @@ ngamok
 ngamuk
 ngandok
 ngang
+nganga
 nganggur
 ngangkang
 ngangso
@@ -2584,6 +2587,7 @@ ngaruh
 ngas
 ngasa
 ngasah
+ngasahi
 ngasal
 ngasem
 ngasih
@@ -3153,6 +3157,7 @@ poling
 polisi
 polo
 pom
+poma
 pon
 pondok
 pone
@@ -3338,6 +3343,7 @@ ringkas
 ringkasan
 ringkes
 ringo
+rini
 rino
 rio
 rip
