@@ -197,6 +197,7 @@ anyar
 apa
 ape
 apel
+apem
 api
 apik
 apo
@@ -637,6 +638,7 @@ goks
 golek
 golet
 gombal
+gombalan
 gondrong
 gong
 gor
@@ -855,6 +857,7 @@ indang
 indik
 indra
 induk
+indung
 ing
 inget
 inggih
@@ -1219,6 +1222,7 @@ liren
 lis
 lisa
 liwat
+liya
 lo
 loba
 lobang
@@ -2069,6 +2073,7 @@ suka
 suku
 sula
 sulak
+sulap
 sule
 suling
 sultan
@@ -2411,6 +2416,7 @@ yah
 yaka
 yakin
 yang
+yano
 yasin
 yati
 yaya
