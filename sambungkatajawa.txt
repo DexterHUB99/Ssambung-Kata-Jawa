@@ -1997,6 +1997,7 @@ pitu
 pitutur
 piye
 piyo
+pling
 po
 pojok
 pok
@@ -2695,6 +2696,7 @@ yaka
 yakin
 yang
 yano
+yas
 yasin
 yati
 yaya
