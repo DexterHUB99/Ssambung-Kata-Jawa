@@ -34,6 +34,7 @@ aha
 ahad
 ahah
 ahak
+ahal
 aham
 ahan
 ahap
@@ -707,6 +708,7 @@ ero
 eroh
 erok
 eror
+eros
 erosi
 eruh
 erung
@@ -773,6 +775,7 @@ gamel
 gamelan
 gamma
 gampang
+gandeng
 gandos
 gandrung
 gandul
@@ -1739,6 +1742,7 @@ lucu
 luka
 luluh
 lum
+luma
 lumah
 lumayan
 lumi
@@ -2344,6 +2348,7 @@ opini
 opo
 opoo
 opor
+opose
 oposi
 or
 ora
@@ -2560,6 +2565,7 @@ rasah
 rasan
 rasi
 rasis
+raso
 rasuk
 rati
 ratu
@@ -3002,6 +3008,7 @@ tiwas
 to
 toja
 tolak
+tole
 tolol
 tolong
 tomat
@@ -3066,6 +3073,7 @@ udud
 uduk
 udur
 udut
+uga
 ugung
 uh
 uha
@@ -3144,6 +3152,7 @@ un
 una
 unah
 unan
+uncal
 undak
 undakan
 undang
