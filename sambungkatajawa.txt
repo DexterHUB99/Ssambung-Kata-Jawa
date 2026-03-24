@@ -194,6 +194,7 @@ andu
 anduk
 ane
 aneh
+aneng
 angel
 angen
 angin
@@ -1364,6 +1365,7 @@ kuma
 kuman
 kumbah
 kumbang
+kun
 kuna
 kunci
 kuno
@@ -1406,6 +1408,7 @@ lamon
 lamongan
 lampir
 lampu
+lampung
 lamu
 lamunan
 lanang
@@ -1419,6 +1422,7 @@ lapar
 lapi
 lapis
 lapo
+lar
 lara
 lari
 laron
