@@ -3474,6 +3474,7 @@ nipon
 nipun
 nira
 niri
+nirwana
 nis
 nisa
 nisan
@@ -3586,6 +3587,7 @@ obah
 obat
 obaten
 obeng
+obong
 obor
 obral
 ocol
@@ -3962,6 +3964,7 @@ pos
 posi
 pot
 potong
+prai
 prei
 pripun
 pua
