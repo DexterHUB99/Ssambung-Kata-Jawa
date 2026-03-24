@@ -297,6 +297,7 @@ anan
 anane
 anang
 anas
+anay
 ancam
 ancaman
 ancen
@@ -4431,6 +4432,7 @@ sialan
 siamang
 siap
 siapa
+siapo
 sie
 sigap
 sii
@@ -5285,6 +5287,7 @@ yowes
 yowis
 yoyo
 yu
+yua
 yuan
 yuda
 yudha
