@@ -1037,6 +1037,7 @@ engko
 engkol
 engkole
 eni
+enik
 ening
 enjing
 eno
@@ -1234,6 +1235,7 @@ gantung
 gantungan
 ganyong
 gapapa
+gapopo
 gapuk
 gapura
 gara
@@ -4770,6 +4772,7 @@ ulas
 ulat
 uleg
 ulek
+ulekan
 ulen
 uler
 ulet
