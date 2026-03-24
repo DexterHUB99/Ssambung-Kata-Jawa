@@ -375,6 +375,7 @@ antareja
 antawi
 antek
 antem
+antemi
 anteng
 antep
 anter
@@ -463,6 +464,7 @@ aru
 aruh
 arum
 arus
+aruse
 as
 asa
 asaa
@@ -2354,6 +2356,7 @@ kirek
 kiri
 kirik
 kis
+kisa
 kisan
 kisanak
 kit
@@ -4377,6 +4380,7 @@ sapa
 sapeh
 sapi
 sapu
+sapun
 sar
 sara
 saran
