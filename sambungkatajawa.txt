@@ -2323,6 +2323,7 @@ kelas
 kelek
 kelem
 kelereng
+keles
 kelet
 keliling
 kelingan
@@ -3214,6 +3215,7 @@ ndeso
 ndlogok
 nduk
 ne
+nebang
 nedah
 nedha
 nedho
@@ -4619,6 +4621,7 @@ sewa
 sewu
 si
 sia
+siae
 sial
 sialan
 siamang
