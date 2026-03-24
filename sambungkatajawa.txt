@@ -419,6 +419,7 @@ atep
 ater
 ati
 atia
+atih
 atine
 atir
 atis
@@ -537,6 +538,7 @@ bisaa
 biso
 bisu
 bobi
+bokong
 bola
 bolo
 bom
@@ -959,6 +961,7 @@ gaji
 gak
 gaki
 gala
+galah
 galak
 galan
 galang
@@ -1136,6 +1139,7 @@ guling
 gulu
 gumuh
 gumun
+gun
 guna
 gunane
 gundam
@@ -1650,6 +1654,7 @@ kalih
 kalimat
 kalo
 kalong
+kaluhur
 kalung
 kam
 kama
@@ -2658,6 +2663,7 @@ nguli
 ngulik
 ngulon
 ngumbah
+ngumbahi
 ngumpat
 ngumpet
 ngumpul
