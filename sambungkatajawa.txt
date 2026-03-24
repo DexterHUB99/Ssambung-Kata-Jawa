@@ -12,6 +12,7 @@ ada
 adaa
 adi
 adipati
+aduh
 adus
 aengi
 afi
@@ -549,6 +550,7 @@ gowo
 goyang
 gudang
 guguk
+gul
 gula
 gulai
 guli
@@ -837,6 +839,7 @@ kaki
 kala
 kali
 kalimat
+kalong
 kam
 kama
 kamar
@@ -1220,6 +1223,7 @@ ngapunten
 ngapurancang
 ngapus
 ngapusi
+ngarak
 ngarep
 ngarit
 ngarti
@@ -1228,6 +1232,7 @@ ngasah
 ngasem
 ngasin
 ngaso
+ngasuh
 ngatuk
 ngaturaken
 ngawas
