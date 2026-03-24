@@ -625,6 +625,7 @@ gatau
 gatel
 gathel
 gatot
+gatuk
 gawang
 gawe
 gaweopo
@@ -1054,6 +1055,7 @@ kanggo
 kanjut
 kanti
 kantil
+kaos
 kapal
 kapan
 kapok
@@ -1725,6 +1727,7 @@ nuri
 nurun
 nusa
 nuti
+nutuk
 nuwun
 nyapu
 nyawiji
@@ -2535,6 +2538,7 @@ warung
 wates
 watir
 way
+wayah
 wayang
 we
 wedang
