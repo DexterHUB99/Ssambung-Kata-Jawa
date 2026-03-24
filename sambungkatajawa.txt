@@ -69,6 +69,7 @@ aiwe
 aja
 ajan
 ajang
+ajaran
 ajay
 ajem
 ajeng
@@ -824,6 +825,7 @@ heh
 hehe
 hehi
 hei
+helo
 hem
 hemat
 her
@@ -1426,6 +1428,7 @@ luka
 luluh
 lum
 lumah
+lumayan
 lumi
 lumpang
 lumrah
@@ -1699,6 +1702,7 @@ ngidul
 ngila
 ngilang
 ngiler
+ngilu
 ngimpi
 ngipasi
 ngiris
