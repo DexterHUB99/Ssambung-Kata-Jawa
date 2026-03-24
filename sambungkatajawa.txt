@@ -58,6 +58,7 @@ aio
 air
 aiwe
 aja
+ajem
 ajeng
 aji
 ajing
@@ -301,6 +302,7 @@ biba
 bibik
 bidan
 bidun
+bijak
 biji
 bila
 bisa
@@ -450,6 +452,7 @@ emong
 emot
 empang
 empot
+emut
 ena
 enak
 endah
@@ -481,6 +484,7 @@ epep
 epi
 epic
 epik
+epin
 epis
 epo
 epos
@@ -1232,6 +1236,7 @@ mampus
 manah
 maneh
 mangan
+mani
 manis
 mantul
 manuk
@@ -1391,6 +1396,7 @@ ngarek
 ngarep
 ngaret
 ngarit
+ngarpu
 ngarti
 ngas
 ngasah
@@ -1931,6 +1937,7 @@ silitmu
 silo
 sin
 sina
+singa
 sinta
 sinten
 sir
