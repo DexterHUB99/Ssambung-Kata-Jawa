@@ -1714,6 +1714,7 @@ jipang
 jipuk
 jir
 jiwa
+jiwae
 jo
 jodo
 jogo
@@ -2109,6 +2110,7 @@ labu
 lag
 lagi
 lagu
+lague
 lah
 laki
 lakon
