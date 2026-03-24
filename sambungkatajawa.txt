@@ -3059,6 +3059,7 @@ nduk
 ne
 nedah
 nedha
+nedho
 neduh
 negara
 negeri
@@ -4560,6 +4561,7 @@ suro
 suruh
 surup
 sus
+susaa
 susah
 susan
 susi
