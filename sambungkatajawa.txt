@@ -995,6 +995,7 @@ ete
 etek
 eten
 eti
+etik
 etil
 eto
 etok
@@ -1113,6 +1114,7 @@ gawe
 gaweopo
 gawok
 gayung
+gayunge
 ge
 geblek
 gedang
@@ -2272,6 +2274,7 @@ liwa
 liwat
 liwet
 liya
+liyane
 liyo
 lo
 loa
@@ -2772,6 +2775,7 @@ ngen
 ngendang
 ngendep
 ngendi
+ngendii
 ngendika
 ngendikan
 ngengek
@@ -2846,6 +2850,7 @@ ngoko
 ngokok
 ngolah
 ngolak
+ngoleke
 ngolo
 ngoloh
 ngolok
