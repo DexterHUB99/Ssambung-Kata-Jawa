@@ -960,6 +960,7 @@ emane
 emang
 emas
 emase
+emba
 embah
 ember
 emboh
