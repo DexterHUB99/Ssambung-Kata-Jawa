@@ -101,6 +101,7 @@ alu
 alum
 alun
 alunan
+alus
 ama
 amah
 amal
@@ -920,6 +921,7 @@ kaki
 kala
 kali
 kalimat
+kalo
 kalong
 kalung
 kam
@@ -1047,6 +1049,7 @@ kota
 kotor
 kowe
 koyo
+krama
 kua
 kuat
 kuda
@@ -1367,6 +1370,7 @@ ngasin
 ngaso
 ngasu
 ngasuh
+ngatemi
 ngatuk
 ngaturaken
 ngawas
