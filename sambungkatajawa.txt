@@ -844,6 +844,7 @@ fo
 ga
 gabah
 gabut
+gadang
 gaduh
 gadung
 gae
@@ -1134,6 +1135,7 @@ heran
 heri
 hero
 hes
+hesti
 heti
 hi
 hias
@@ -2866,6 +2868,7 @@ rambak
 rambu
 rambut
 rambutan
+ramene
 rampun
 rampung
 ramu
