@@ -55,6 +55,7 @@ ahat
 ahay
 ahe
 ahek
+ahem
 ahen
 ahh
 ahhh
@@ -841,6 +842,7 @@ emot
 empang
 empet
 emplok
+empol
 empot
 emut
 en
@@ -2541,6 +2543,7 @@ ngambung
 ngamok
 ngamuk
 ngandok
+ngang
 nganggur
 ngangkang
 ngangso
@@ -3971,6 +3974,7 @@ un
 una
 unah
 unan
+unang
 uncal
 undak
 undakan
