@@ -513,6 +513,7 @@ dolan
 domba
 dona
 dongo
+doro
 duda
 dudu
 duduk
@@ -887,6 +888,7 @@ haji
 hak
 haki
 hakim
+hal
 hala
 halah
 halal
@@ -1005,6 +1007,7 @@ huma
 human
 humor
 huni
+huri
 huruf
 hurung
 hus
@@ -1031,6 +1034,7 @@ ihhi
 ihi
 ihla
 ihsan
+ija
 ijak
 ijek
 ijen
@@ -1676,6 +1680,7 @@ mampus
 manah
 mancing
 mandeg
+mandi
 maneh
 mangan
 mangap
@@ -2010,6 +2015,7 @@ nguber
 ngubur
 ngudek
 ngudud
+ngudut
 nguli
 ngulik
 ngulon
@@ -2535,6 +2541,7 @@ sadewa
 sae
 saestu
 saged
+sagu
 saiki
 saing
 sakit
