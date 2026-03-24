@@ -1239,6 +1239,7 @@ et
 eta
 etah
 etan
+etang
 etap
 etawa
 ete
@@ -4818,6 +4819,7 @@ tal
 tala
 tales
 tali
+talie
 tam
 tama
 taman
