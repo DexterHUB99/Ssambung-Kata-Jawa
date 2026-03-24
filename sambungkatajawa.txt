@@ -33,6 +33,7 @@ ahen
 ahh
 ahhh
 ahi
+ahik
 ahir
 ahlak
 ahli
@@ -231,6 +232,7 @@ atia
 atir
 atis
 atit
+atom
 atos
 atret
 atuh
@@ -1077,6 +1079,7 @@ lusuh
 luwe
 luweh
 ma
+madang
 madu
 mae
 mah
@@ -1230,6 +1233,7 @@ ngarti
 ngas
 ngasah
 ngasem
+ngasih
 ngasin
 ngaso
 ngasuh
@@ -1973,6 +1977,7 @@ usut
 uta
 utaa
 utah
+utama
 utang
 utar
 utara
