@@ -197,6 +197,7 @@ amoh
 ampal
 ampar
 ampas
+ampok
 ampuh
 ampun
 ampus
@@ -686,6 +687,7 @@ elir
 elit
 elo
 elok
+elos
 elu
 eluk
 elum
@@ -853,6 +855,7 @@ gandul
 gang
 gangsar
 gangsing
+ganjar
 ganjil
 ganteng
 gantung
@@ -1377,6 +1380,7 @@ jani
 janji
 jara
 jaran
+jaranan
 jare
 jawa
 jawi
@@ -1735,6 +1739,7 @@ lama
 lamai
 lambe
 lambemu
+lambene
 lame
 lamek
 lamis
@@ -1896,6 +1901,7 @@ lup
 lupa
 luput
 lurah
+luru
 lusuh
 luwe
 luweh
