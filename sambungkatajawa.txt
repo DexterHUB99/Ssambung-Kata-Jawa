@@ -271,6 +271,7 @@ anu
 anuk
 anum
 anus
+anut
 anyam
 anyar
 apa
@@ -375,6 +376,7 @@ aun
 aup
 aura
 autan
+aw
 awa
 awan
 awas
@@ -881,6 +883,7 @@ gigir
 gih
 gila
 gilang
+gilani
 gilo
 giman
 gimbal
@@ -1214,6 +1217,7 @@ inti
 inul
 ipa
 ipak
+ipan
 ipar
 ipi
 ipil
@@ -1255,6 +1259,7 @@ isia
 isih
 isin
 islam
+isma
 ismi
 iso
 istana
@@ -2300,6 +2305,7 @@ nyuwun
 oalah
 obah
 obat
+obaten
 obor
 odak
 odol
@@ -2562,6 +2568,7 @@ puri
 pusaka
 puser
 putih
+putri
 putu
 puyeng
 puyuh
@@ -2673,6 +2680,7 @@ riki
 rikma
 riko
 rila
+rim
 rima
 rimi
 rin
