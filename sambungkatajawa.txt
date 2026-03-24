@@ -949,6 +949,7 @@ holi
 holo
 homa
 homo
+hono
 hoo
 hooh
 hor
@@ -1285,6 +1286,7 @@ kelas
 kelem
 keliling
 kelingan
+keliru
 kelon
 kelor
 keluh
@@ -1595,6 +1597,7 @@ lusuh
 luwe
 luweh
 ma
+macan
 madang
 madu
 mae
@@ -2388,6 +2391,7 @@ rita
 riwayat
 riya
 ro
+roda
 rodo
 rogoh
 roi
