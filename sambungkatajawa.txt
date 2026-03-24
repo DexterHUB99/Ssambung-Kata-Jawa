@@ -1914,6 +1914,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopet
 kopi
 kopii
 koplak
