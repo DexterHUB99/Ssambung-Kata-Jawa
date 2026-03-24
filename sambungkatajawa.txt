@@ -616,6 +616,7 @@ celeng
 celu
 cemeng
 cen
+cendol
 cengkeh
 ceplok
 cerita
@@ -3180,6 +3181,7 @@ pitakon
 pitu
 pitung
 pitutur
+piwulang
 piye
 piyo
 pling
