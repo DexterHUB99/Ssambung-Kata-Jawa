@@ -231,6 +231,7 @@ aniani
 anii
 aning
 anis
+anisa
 anjai
 anjar
 anjay
@@ -721,6 +722,7 @@ ewah
 ewang
 ewe
 ewee
+ewu
 ex
 eyo
 fix
@@ -851,6 +853,7 @@ goblok
 godog
 gogol
 gojek
+gojekan
 gok
 gokil
 goks
@@ -1074,6 +1077,7 @@ ijak
 ijek
 ijen
 iji
+ijik
 ijin
 ijo
 ik
@@ -1542,6 +1546,7 @@ kuning
 kuno
 kunti
 kuntul
+kunyuk
 kupas
 kupat
 kupeng
@@ -1826,6 +1831,7 @@ mukul
 mul
 mulaa
 mulai
+mulane
 muleh
 mules
 muli
@@ -2279,6 +2285,7 @@ omongan
 ompong
 on
 onar
+onari
 oncom
 onda
 onde
@@ -3099,6 +3106,7 @@ undakan
 undang
 undangan
 undi
+unduh
 undur
 undura
 unggah
