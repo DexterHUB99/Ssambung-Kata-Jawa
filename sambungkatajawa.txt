@@ -265,6 +265,7 @@ angel
 angen
 angep
 angger
+anggur
 angin
 angkat
 angker
@@ -1850,6 +1851,7 @@ kolam
 koloh
 kolong
 kolot
+kom
 komik
 kompor
 kon
@@ -2258,6 +2260,7 @@ modal
 modar
 mogok
 moh
+mok
 moleh
 molen
 moli
@@ -3531,6 +3534,7 @@ suwi
 suwine
 suwir
 suwun
+suya
 ta
 tabuh
 tae
@@ -4053,6 +4057,7 @@ yoh
 yoi
 yok
 yolo
+yom
 yoman
 yono
 yoopo
