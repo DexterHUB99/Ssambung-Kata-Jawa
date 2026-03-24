@@ -186,6 +186,7 @@ alo
 alon
 alos
 alot
+aloy
 alu
 alum
 alumni
@@ -570,6 +571,7 @@ bisaa
 biso
 bisu
 bobi
+bojo
 bokong
 bola
 bolo
@@ -2162,6 +2164,7 @@ lapo
 lar
 lara
 larang
+laras
 lare
 lari
 laron
@@ -2861,6 +2864,7 @@ ngudut
 nguji
 ngul
 ngula
+ngulek
 nguli
 ngulik
 ngulon
@@ -4380,6 +4384,7 @@ wiwit
 woe
 woh
 woi
+woke
 woko
 wolu
 wong
