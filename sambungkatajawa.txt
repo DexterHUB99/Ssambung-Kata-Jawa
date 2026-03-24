@@ -1549,6 +1549,7 @@ kamus
 kanak
 kanan
 kanca
+kancane
 kancil
 kancut
 kandang
@@ -2259,6 +2260,7 @@ nenen
 neng
 nengdi
 nepak
+neraka
 neras
 nes
 nesi
@@ -2821,6 +2823,7 @@ pinus
 pipi
 pipis
 pipit
+pira
 pirang
 piro
 pisa
