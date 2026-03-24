@@ -121,6 +121,7 @@ aki
 akih
 akii
 akik
+akim
 akir
 akis
 ako
@@ -517,6 +518,7 @@ buang
 buatan
 buaya
 bubur
+buda
 budak
 budi
 buk
@@ -1777,6 +1779,7 @@ kudu
 kudus
 kue
 kui
+kuii
 kuk
 kuka
 kuku
@@ -2243,6 +2246,7 @@ neges
 neh
 nek
 neka
+nekar
 nekat
 neko
 neli
