@@ -851,6 +851,7 @@ eran
 erane
 erang
 eras
+erasa
 erat
 eren
 ereng
@@ -1301,6 +1302,7 @@ ib
 iba
 ibadah
 ibak
+ibarat
 iblis
 ibu
 ibuk
@@ -3517,6 +3519,7 @@ tambah
 tambak
 tambang
 tameng
+tami
 tampar
 tampol
 tamu
