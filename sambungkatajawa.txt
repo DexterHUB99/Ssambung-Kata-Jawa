@@ -1808,6 +1808,7 @@ ilap
 ilat
 ilatmu
 iler
+ilere
 ilermu
 ili
 ilih
@@ -3641,6 +3642,7 @@ oalah
 obah
 obat
 obaten
+obeh
 obeng
 obong
 obor
@@ -4382,6 +4384,7 @@ sampah
 sampai
 samparan
 sampean
+sampeyan
 sampo
 sampun
 samun
@@ -5079,6 +5082,7 @@ uno
 unta
 untal
 untalen
+untap
 unte
 untek
 untir
