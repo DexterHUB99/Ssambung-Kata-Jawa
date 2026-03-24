@@ -129,6 +129,7 @@ amblas
 ambruk
 ambu
 ambulan
+ambung
 ambyar
 ameh
 amen
@@ -938,6 +939,7 @@ ipak
 ipi
 ipil
 ipin
+ipna
 ipun
 ira
 irah
@@ -1237,6 +1239,7 @@ kuntul
 kupat
 kuping
 kur
+kura
 kurang
 kurawa
 kurma
@@ -1947,7 +1950,9 @@ polisi
 pon
 pondok
 pone
+poni
 poo
+pop
 popol
 pora
 poro
@@ -2026,6 +2031,7 @@ rembes
 remes
 remu
 renang
+rene
 rengginang
 reo
 repot
