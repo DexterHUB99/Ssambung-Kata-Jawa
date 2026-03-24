@@ -471,6 +471,7 @@ botak
 boti
 bu
 buang
+buatan
 buaya
 budi
 buka
@@ -1595,6 +1596,7 @@ kowe
 koyo
 krama
 krikil
+ku
 kua
 kuat
 kucing
@@ -1651,6 +1653,7 @@ kutang
 kutek
 kutha
 kutu
+kuwi
 la
 lab
 labu
@@ -2826,6 +2829,7 @@ samparan
 sampean
 sampun
 samun
+sana
 sandal
 sanes
 sang
@@ -3324,6 +3328,7 @@ uritan
 urli
 urna
 urta
+uru
 uruk
 urun
 urunan
