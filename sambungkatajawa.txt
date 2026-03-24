@@ -395,7 +395,6 @@ arap
 aras
 ardi
 arek
-arem
 aren
 areng
 arep
@@ -455,7 +454,6 @@ asna
 asor
 asoy
 aspal
-asta
 astaga
 astane
 asu
@@ -717,6 +715,7 @@ cukup
 cumi
 curut
 dada
+dadah
 dadar
 dadi
 dadu
@@ -2105,7 +2104,6 @@ kese
 kesem
 keset
 kesleo
-kesusu
 ketan
 ketel
 ketemu
@@ -2130,6 +2128,7 @@ kil
 kila
 kilat
 kilen
+kime
 kimi
 kin
 kinanthi
@@ -2712,7 +2711,6 @@ mules
 muli
 mulia
 mulih
-mulung
 mulus
 mulya
 mumet
@@ -3707,7 +3705,6 @@ rakha
 raki
 rakus
 rama
-ramae
 ramah
 ramai
 raman
