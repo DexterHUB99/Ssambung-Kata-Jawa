@@ -292,6 +292,7 @@ arahan
 arak
 aran
 arang
+arap
 aras
 aren
 areng
@@ -507,6 +508,7 @@ dagelan
 dah
 dahi
 dalam
+dalan
 dalem
 dalu
 damai
@@ -632,6 +634,7 @@ elan
 elang
 elap
 elek
+elel
 eleng
 eli
 elig
@@ -641,6 +644,7 @@ elit
 elo
 elok
 elu
+eluk
 elum
 elus
 em
@@ -941,6 +945,7 @@ gusi
 gusti
 guyon
 guyu
+guyub
 ha
 haa
 habibi
@@ -1169,6 +1174,7 @@ iman
 imas
 imba
 imbalan
+imbang
 imbas
 imboh
 imbu
@@ -2442,6 +2448,7 @@ panah
 pancen
 panci
 pandu
+panggo
 panjang
 panjenengan
 pantai
@@ -2533,6 +2540,7 @@ poo
 pop
 popol
 pora
+porasi
 poro
 pos
 prei
@@ -2577,6 +2585,7 @@ raino
 raiso
 raja
 rajin
+rajut
 rak
 raki
 rakus
