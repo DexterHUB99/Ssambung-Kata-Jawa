@@ -47,6 +47,7 @@ aga
 agar
 agawe
 age
+ageng
 agi
 agung
 agus
@@ -1708,6 +1709,7 @@ heha
 hehe
 hehi
 hei
+helikopter
 helo
 hem
 hemat
@@ -2241,6 +2243,7 @@ kampungan
 kamu
 kamus
 kan
+kana
 kanak
 kanan
 kanane
