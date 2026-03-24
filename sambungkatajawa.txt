@@ -991,6 +991,7 @@ kare
 karep
 karma
 karo
+karung
 kas
 kasar
 kasir
@@ -1593,6 +1594,7 @@ nurun
 nusa
 nuti
 nuwun
+nyapu
 nyawiji
 nyusu
 oalah
@@ -1668,6 +1670,7 @@ opa
 opah
 opak
 opel
+opet
 opini
 opo
 opoo
@@ -2339,6 +2342,7 @@ waduk
 wage
 wajah
 waktu
+waku
 wangi
 wanita
 waras
@@ -2396,6 +2400,7 @@ yowes
 yoyo
 yuda
 yuko
+yula
 yung
 yura
 yuyu
