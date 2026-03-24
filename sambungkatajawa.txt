@@ -141,7 +141,6 @@ akehi
 aker
 akhir
 aki
-akie
 akih
 akii
 akik
@@ -346,7 +345,6 @@ antep
 anter
 anti
 antik
-antiku
 antimo
 anting
 anto
@@ -632,7 +630,6 @@ buaya
 bubur
 buda
 budak
-bude
 budi
 buk
 buka
@@ -801,6 +798,7 @@ duduh
 duduk
 duga
 duh
+duha
 duit
 duka
 duku
@@ -1222,7 +1220,6 @@ gembel
 gemblung
 gembok
 gemi
-gempil
 gen
 genah
 genape
@@ -1287,6 +1284,7 @@ gol
 gola
 golek
 golet
+goleti
 golong
 gombal
 gombalan
@@ -1652,7 +1650,6 @@ inah
 inai
 inak
 inam
-inama
 inang
 indah
 indang
@@ -2156,6 +2153,7 @@ kom
 koma
 komi
 komik
+kompak
 kompor
 kon
 konco
@@ -2232,7 +2230,6 @@ kuno
 kunti
 kuntul
 kunyuk
-kupan
 kupas
 kupat
 kupeng
@@ -2551,7 +2548,6 @@ mandeg
 mandi
 mane
 maneh
-mang
 manga
 mangan
 mangap
@@ -2561,7 +2557,6 @@ manggis
 mangsa
 mani
 manis
-manja
 manjing
 manjur
 manten
@@ -2693,7 +2688,6 @@ mur
 murah
 musa
 muse
-musim
 musuh
 mute
 na
@@ -3888,7 +3882,6 @@ sagu
 saha
 saiki
 saing
-saka
 sakarep
 sakit
 sakite
@@ -4481,7 +4474,6 @@ umbah
 umbar
 umbel
 umbi
-umbul
 umi
 umo
 umpama
@@ -4725,7 +4717,6 @@ woi
 woke
 woko
 wolu
-won
 wong
 wono
 wonosobo
@@ -4786,7 +4777,6 @@ yuka
 yuki
 yuko
 yula
-yumi
 yunani
 yung
 yuni
