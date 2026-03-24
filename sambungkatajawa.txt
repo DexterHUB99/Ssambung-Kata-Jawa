@@ -217,6 +217,7 @@ aliran
 alis
 alit
 alo
+alok
 alon
 alos
 alot
@@ -3386,6 +3387,7 @@ nggaku
 nggateli
 nggawe
 nggeh
+nggendong
 nggi
 nggih
 nggolek
