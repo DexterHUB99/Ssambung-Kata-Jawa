@@ -1445,6 +1445,7 @@ iya
 iye
 iyes
 iyo
+iyu
 iyuh
 iz
 jabur
@@ -2263,6 +2264,7 @@ nenek
 nenen
 neng
 nengdi
+neni
 nepak
 neraka
 neras
@@ -2758,6 +2760,7 @@ panah
 pancen
 panci
 pandu
+panggah
 panggo
 panjang
 panjenengan
@@ -2814,6 +2817,7 @@ pikun
 pilakon
 pilar
 pilek
+pilot
 pilu
 pina
 pinarak
