@@ -223,6 +223,7 @@ ander
 andha
 andhap
 andi
+andini
 andok
 andong
 andu
@@ -1565,6 +1566,7 @@ kisan
 kit
 kita
 kitab
+kite
 klambi
 klambimu
 klebus
@@ -2280,6 +2282,7 @@ niko
 niku
 nila
 nilai
+nilep
 nim
 nima
 niman
@@ -2339,6 +2342,7 @@ nuhun
 nui
 nula
 nulis
+nulung
 numpak
 nun
 nunggangi
@@ -2553,6 +2557,7 @@ peler
 peli
 pen
 penak
+peni
 pentil
 pepe
 pepek
