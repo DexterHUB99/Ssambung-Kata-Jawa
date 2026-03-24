@@ -1156,6 +1156,7 @@ gaja
 gajah
 gaje
 gaji
+gajie
 gak
 gaki
 gal
@@ -2136,6 +2137,7 @@ kepala
 kepaten
 kepek
 kepet
+kepiring
 kepiye
 kepo
 kera
@@ -4278,6 +4280,7 @@ soroh
 sos
 sosi
 sosis
+sotel
 soto
 sowan
 soyo
@@ -4718,6 +4721,7 @@ undian
 unduh
 undur
 undura
+une
 unek
 ung
 unggah
