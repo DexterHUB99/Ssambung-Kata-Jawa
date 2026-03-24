@@ -76,7 +76,6 @@ ahiri
 ahiy
 ahlak
 ahli
-ahlu
 aho
 ahok
 ahoy
@@ -142,7 +141,6 @@ akehi
 aker
 akhir
 aki
-akie
 akih
 akii
 akik
@@ -268,7 +266,6 @@ anakku
 anakmu
 anal
 anam
-anama
 anan
 anane
 anang
@@ -281,7 +278,6 @@ ancur
 anda
 andai
 andal
-andalan
 andang
 andani
 andap
@@ -349,7 +345,6 @@ antep
 anter
 anti
 antik
-antiku
 antimo
 anting
 anto
@@ -364,7 +359,7 @@ anus
 anut
 anyam
 anyar
-anyep
+anyer
 anying
 apa
 apaa
@@ -636,7 +631,6 @@ buaya
 bubur
 buda
 budak
-bude
 budi
 buk
 buka
@@ -719,7 +713,6 @@ dadi
 dadu
 dagelan
 daging
-dagu
 dah
 dahar
 dahi
@@ -750,19 +743,21 @@ dawa
 dawet
 dawuh
 de
+dedek
 dek
 delman
 dema
 demak
 demam
+demen
 demok
+dempet
 dengkul
 depi
 dereng
 deso
 diba
 didi
-didik
 dik
 dikon
 dila
@@ -807,6 +802,7 @@ duduh
 duduk
 duga
 duh
+duha
 duit
 duka
 duku
@@ -825,7 +821,6 @@ durian
 durung
 duso
 dusun
-duwe
 duwek
 duwit
 duwur
@@ -877,7 +872,6 @@ ehu
 ehup
 ehuy
 eja
-eju
 ek
 eka
 ekaa
@@ -907,7 +901,6 @@ elang
 elap
 eleh
 elek
-eleke
 elel
 elen
 eleng
@@ -1001,7 +994,6 @@ entu
 entuk
 entut
 enuk
-enul
 epa
 epah
 epan
@@ -1012,7 +1004,6 @@ epik
 epin
 epis
 epo
-epok
 epos
 epu
 er
@@ -1233,9 +1224,7 @@ gembel
 gemblung
 gembok
 gemi
-gempil
 gen
-gena
 genah
 genape
 gendeng
@@ -1299,6 +1288,7 @@ gol
 gola
 golek
 golet
+goleti
 golong
 gombal
 gombalan
@@ -1664,9 +1654,7 @@ inah
 inai
 inak
 inam
-inama
 inang
-inda
 indah
 indang
 indik
@@ -1676,7 +1664,6 @@ indu
 induk
 indung
 inem
-inep
 ing
 inget
 inggih
@@ -1702,7 +1689,6 @@ ipak
 ipan
 ipar
 ipe
-ipen
 ipi
 ipil
 ipin
@@ -1885,7 +1871,6 @@ kabar
 kabeh
 kaca
 kacang
-kacok
 kacuk
 kacung
 kadak
@@ -1980,7 +1965,6 @@ kasara
 kase
 kasep
 kasih
-kasii
 kasir
 kasur
 kasure
@@ -1994,6 +1978,7 @@ kates
 katok
 katrok
 katuh
+katul
 katur
 katus
 kawani
@@ -2099,7 +2084,6 @@ keset
 kesleo
 ketan
 ketel
-ketemu
 ketil
 ketir
 ketok
@@ -2159,7 +2143,6 @@ koen
 koh
 koha
 kok
-koki
 koko
 kokop
 kol
@@ -2175,9 +2158,9 @@ kom
 koma
 komi
 komik
+kompak
 kompor
 kon
-konangan
 konco
 kondangan
 kono
@@ -2252,12 +2235,10 @@ kuno
 kunti
 kuntul
 kunyuk
-kupan
 kupas
 kupat
 kupeng
 kuping
-kupu
 kur
 kura
 kurang
@@ -2458,7 +2439,6 @@ loko
 lola
 loli
 lolo
-lolos
 loma
 lomba
 lombane
@@ -2511,10 +2491,10 @@ lunglai
 lungo
 lup
 lupa
-lupis
 luput
 lurah
 luru
+lurus
 lusa
 lusuh
 luwe
@@ -2574,7 +2554,6 @@ mandeg
 mandi
 mane
 maneh
-mang
 manga
 mangan
 mangap
@@ -2584,7 +2563,6 @@ manggis
 mangsa
 mani
 manis
-manja
 manjing
 manjur
 manten
@@ -2716,7 +2694,6 @@ mur
 murah
 musa
 muse
-musim
 musuh
 mute
 na
@@ -2872,7 +2849,6 @@ ngaja
 ngajak
 ngajar
 ngaji
-ngajie
 ngak
 ngaka
 ngakak
@@ -3098,7 +3074,6 @@ ngosok
 ngotak
 ngotot
 ngowoh
-ngoyak
 ngsu
 nguber
 ngubur
@@ -3199,7 +3174,6 @@ nok
 noken
 nol
 nolak
-nolan
 noleh
 nom
 nombok
@@ -3281,7 +3255,6 @@ oalah
 obah
 obat
 obaten
-obeng
 obor
 od
 odak
@@ -3375,7 +3348,6 @@ oneng
 ongak
 ongkek
 ongkos
-ongol
 online
 ono
 onta
@@ -3534,7 +3506,6 @@ peteng
 peyek
 php
 pia
-piano
 pie
 pii
 pijet
@@ -3547,10 +3518,8 @@ pilek
 pilem
 pili
 pilih
-pilok
 pilot
 pilu
-pin
 pina
 pinarak
 pincang
@@ -3558,7 +3527,6 @@ pindah
 pindo
 ping
 pingsan
-pino
 pinten
 pinter
 pintu
@@ -3732,7 +3700,6 @@ rasi
 rasis
 raso
 rasuk
-rata
 rati
 ratu
 raup
@@ -3878,9 +3845,9 @@ ruang
 rubuh
 rugi
 rujak
-ruko
 rukun
 rumah
+rumangsa
 rumbai
 rumbak
 rumbuk
@@ -3900,7 +3867,6 @@ ruri
 rus
 rusa
 rusak
-rusi
 rusma
 rusuh
 rute
@@ -3923,8 +3889,6 @@ sagu
 saha
 saiki
 saing
-sak
-saka
 sakarep
 sakit
 sakite
@@ -4058,6 +4022,7 @@ silitem
 silitmu
 silo
 sim
+simak
 simbah
 simbok
 sin
@@ -4086,6 +4051,7 @@ siti
 siwak
 siwo
 siyam
+slamet
 so
 soba
 sobat
@@ -4225,7 +4191,6 @@ tampi
 tampol
 tamu
 tamune
-tan
 tanah
 tandur
 tanduran
@@ -4259,6 +4224,7 @@ tawon
 tebu
 tegak
 tegal
+teh
 tekan
 teko
 tela
@@ -4312,7 +4278,6 @@ tila
 tilam
 tilem
 tilep
-tima
 timah
 timbang
 timbul
@@ -4413,7 +4378,6 @@ uban
 ubek
 ubi
 ubii
-ubun
 ucap
 ucul
 uda
@@ -4485,7 +4449,6 @@ ukya
 ula
 ulaa
 ulah
-ulak
 ulam
 ulama
 ulan
@@ -4521,7 +4484,6 @@ umbah
 umbar
 umbel
 umbi
-umbul
 umi
 umo
 umpama
@@ -4560,7 +4522,6 @@ ungu
 uni
 unia
 unjuk
-unma
 uno
 unta
 untal
@@ -4589,8 +4550,8 @@ upo
 ur
 ura
 urab
-urah
 urai
+urak
 uraka
 urakan
 uram
@@ -4638,7 +4599,6 @@ using
 usir
 usma
 usu
-usua
 usui
 usuk
 usul
@@ -4768,7 +4728,6 @@ woi
 woke
 woko
 wolu
-won
 wong
 wono
 wonosobo
@@ -4829,7 +4788,6 @@ yuka
 yuki
 yuko
 yula
-yumi
 yunani
 yung
 yuni
