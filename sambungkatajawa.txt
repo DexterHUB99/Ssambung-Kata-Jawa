@@ -528,6 +528,7 @@ banjir
 bantu
 banyu
 bapak
+bara
 barat
 bareng
 baret
@@ -3325,6 +3326,7 @@ pasu
 pati
 patil
 patung
+payu
 payung
 pea
 pean
@@ -3945,6 +3947,7 @@ suna
 sunar
 sunat
 sundul
+sungai
 sungkem
 suntuk
 sunyi
