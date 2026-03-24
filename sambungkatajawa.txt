@@ -3331,6 +3331,7 @@ neteh
 netek
 netra
 newa
+ngabab
 ngaben
 ngaca
 ngaceng
@@ -5628,6 +5629,7 @@ yura
 yusan
 yuswo
 yuti
+yuwa
 yuyu
 yuyun
 zahra
