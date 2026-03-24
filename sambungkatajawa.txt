@@ -1183,6 +1183,7 @@ gamma
 gampang
 gampil
 gan
+gancuk
 gandeng
 gandos
 gandrung
@@ -1331,6 +1332,7 @@ godong
 gogol
 gojek
 gojekan
+gojloki
 gok
 gokil
 goks
@@ -2717,6 +2719,7 @@ merak
 mercon
 meri
 mesum
+meta
 metek
 metu
 mia
@@ -3947,6 +3950,7 @@ rira
 riri
 ris
 risa
+risen
 risi
 risih
 riska
