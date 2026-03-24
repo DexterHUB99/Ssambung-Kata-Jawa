@@ -1190,6 +1190,7 @@ gula
 gulai
 gule
 guli
+gulii
 guling
 gulu
 gumuh
@@ -2301,6 +2302,7 @@ makan
 makanan
 maki
 makruh
+maksud
 maku
 malah
 malam
@@ -2676,6 +2678,7 @@ ngemong
 ngemot
 ngemut
 ngen
+ngendang
 ngendep
 ngendi
 ngendika
@@ -4073,6 +4076,7 @@ unduh
 undur
 undura
 unek
+ung
 unggah
 unggaha
 unggas
