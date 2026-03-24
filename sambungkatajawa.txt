@@ -96,6 +96,7 @@ ai
 aia
 aii
 aiki
+aiko
 ail
 aila
 ailan
@@ -385,6 +386,7 @@ anyep
 anyer
 anying
 aos
+ap
 apa
 apaa
 apae
@@ -2680,6 +2682,7 @@ madan
 madang
 madas
 madhang
+madrasah
 madu
 madue
 madya
@@ -2732,6 +2735,7 @@ mangan
 mangap
 mangga
 manggae
+manggah
 manggis
 mangsa
 mani
