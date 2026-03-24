@@ -41,6 +41,7 @@ ahh
 ahhh
 ahi
 ahik
+ahil
 ahir
 ahlak
 ahli
@@ -363,6 +364,7 @@ bus
 busuk
 buto
 cacig
+cacing
 campur
 cantik
 cara
@@ -391,6 +393,7 @@ dadi
 dadu
 dahi
 dalem
+dalu
 damai
 dan
 dancok
@@ -1071,6 +1074,7 @@ kami
 kampung
 kamu
 kamus
+kanak
 kanan
 kancil
 kancut
