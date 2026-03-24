@@ -343,6 +343,7 @@ diwan
 dodo
 doh
 dolan
+domba
 duda
 dudu
 duh
@@ -875,6 +876,7 @@ jogo
 joko
 jokowi
 joni
+jori
 kabeh
 kadal
 kain
@@ -944,6 +946,7 @@ kepaten
 keraton
 kere
 kerek
+kereta
 keri
 keruh
 kerut
@@ -1147,6 +1150,7 @@ madu
 mae
 mah
 mai
+mainan
 makan
 makruh
 malah
@@ -1387,6 +1391,7 @@ ngotak
 ngotot
 ngudek
 ngudud
+ngulon
 ngumpet
 ngumpul
 ngunjuk
@@ -2002,6 +2007,7 @@ uho
 ui
 ujan
 ujar
+uji
 ujian
 uka
 ukar
