@@ -639,6 +639,7 @@ cimu
 cincin
 cing
 cinta
+ciu
 cocot
 cocote
 cok
@@ -3643,6 +3644,7 @@ serem
 seri
 serit
 ses
+sesa
 sesama
 sesok
 setan
