@@ -261,6 +261,7 @@ atuh
 atum
 atur
 aup
+autan
 awa
 awas
 ax
@@ -330,6 +331,7 @@ ceplok
 cerita
 cicak
 cimu
+cincin
 cing
 cocot
 cok
@@ -568,6 +570,7 @@ garuk
 garwa
 gas
 gasing
+gatau
 gatel
 gathel
 gatot
@@ -1237,6 +1240,7 @@ ma
 madang
 madu
 mae
+maem
 mah
 mai
 mainan
@@ -2277,6 +2281,7 @@ usaha
 usai
 usap
 use
+usek
 user
 usi
 usia
