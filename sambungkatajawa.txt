@@ -1595,6 +1595,7 @@ hai
 haii
 hajat
 haji
+hajian
 hajiane
 hajie
 hak
@@ -2250,6 +2251,7 @@ kasar
 kasara
 kase
 kasep
+kaset
 kasih
 kasii
 kasir
