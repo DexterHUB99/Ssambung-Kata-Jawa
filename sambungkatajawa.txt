@@ -4,6 +4,7 @@ aah
 abab
 abah
 abal
+abang
 abe
 abi
 abimanyu
@@ -492,6 +493,7 @@ bus
 busuk
 buta
 buto
+caci
 cacig
 cacing
 cakep
@@ -841,6 +843,7 @@ ganyong
 gapuk
 gara
 garang
+garanga
 garap
 garem
 gareng
