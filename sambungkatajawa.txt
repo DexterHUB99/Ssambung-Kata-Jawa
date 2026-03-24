@@ -373,6 +373,7 @@ anjlok
 anjng
 anjuk
 anjung
+anjur
 ano
 anoa
 anom
@@ -2572,6 +2573,7 @@ kun
 kuna
 kunci
 kuncup
+kundur
 kuneng
 kuning
 kuno
@@ -3633,6 +3635,7 @@ niri
 nirwana
 nis
 nisa
+nisaa
 nisan
 nite
 niti
