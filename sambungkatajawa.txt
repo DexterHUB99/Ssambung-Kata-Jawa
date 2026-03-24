@@ -528,6 +528,7 @@ eko
 ekoh
 ekor
 eku
+el
 ela
 elah
 elan
@@ -1190,6 +1191,7 @@ kapur
 kara
 kare
 karep
+kari
 karma
 karo
 karung
@@ -1572,6 +1574,7 @@ metek
 micek
 mikir
 mila
+milu
 mingat
 mingkem
 minum
@@ -1697,6 +1700,7 @@ ngali
 ngalu
 ngamal
 ngambang
+ngambar
 ngambil
 ngambung
 ngamok
@@ -1766,6 +1770,7 @@ ngengobrol
 ngenteni
 ngepel
 ngeper
+ngepot
 ngeri
 ngerok
 ngesor
@@ -2153,6 +2158,7 @@ punten
 punya
 pup
 pupu
+pura
 purek
 puri
 puser
@@ -2436,6 +2442,7 @@ sopan
 sopir
 sopo
 sore
+sori
 sos
 sosi
 sosis
