@@ -675,6 +675,7 @@ bidun
 bijak
 biji
 bila
+bilah
 bilai
 bima
 bin
