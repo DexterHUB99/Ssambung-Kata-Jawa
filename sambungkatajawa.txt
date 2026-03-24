@@ -269,6 +269,7 @@ arak
 aran
 arang
 aras
+aren
 areng
 arep
 arepan
@@ -786,6 +787,7 @@ geni
 geno
 genteng
 gentong
+genuk
 gerah
 gerak
 geram
@@ -2793,6 +2795,7 @@ titit
 tititit
 tito
 tiwas
+to
 toja
 tolak
 tolol
