@@ -259,6 +259,7 @@ ancuk
 ancur
 anda
 andai
+andang
 andani
 ander
 andha
@@ -1404,6 +1405,7 @@ ihan
 ihe
 ihhi
 ihi
+ihko
 ihla
 ihli
 ihsan
@@ -1788,6 +1790,7 @@ kawani
 kawasan
 kawin
 kawit
+kawus
 kaya
 kayu
 ke
@@ -2896,6 +2899,7 @@ nyapu
 nyawiji
 nyawit
 nyi
+nyim
 nyungsep
 nyusu
 nyuwun
