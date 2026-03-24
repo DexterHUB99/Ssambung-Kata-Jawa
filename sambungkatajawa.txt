@@ -2320,6 +2320,7 @@ kumuh
 kun
 kuna
 kunci
+kuncup
 kuning
 kuno
 kunti
@@ -2463,6 +2464,7 @@ leres
 les
 lesu
 lewat
+lho
 li
 lia
 liana
@@ -2903,6 +2905,7 @@ ndak
 ndasmu
 ndeso
 ndlogok
+nedah
 nedha
 neduh
 negara
@@ -3815,6 +3818,7 @@ rakha
 raki
 rakus
 rama
+ramae
 ramah
 ramai
 raman
