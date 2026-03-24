@@ -368,6 +368,7 @@ dalem
 damai
 dan
 dancok
+dandang
 darah
 dari
 dasar
@@ -603,6 +604,7 @@ garih
 garii
 garing
 garuk
+garut
 garwa
 gas
 gasing
@@ -907,6 +909,7 @@ irah
 irak
 irama
 iras
+irat
 iren
 ireng
 iri
@@ -1268,6 +1271,7 @@ lipat
 liren
 lis
 lisa
+liwa
 liwat
 liya
 liyo
@@ -2463,6 +2467,7 @@ wajah
 waktu
 waku
 wangi
+wani
 wanita
 waras
 warung
