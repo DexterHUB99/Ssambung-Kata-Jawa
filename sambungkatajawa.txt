@@ -311,6 +311,7 @@ asu
 asuh
 asui
 ata
+atah
 atap
 atas
 ate
@@ -374,6 +375,7 @@ bantu
 banyu
 barat
 baru
+bas
 basa
 basi
 bati
@@ -873,6 +875,7 @@ hamil
 hampir
 hana
 hanacaraka
+hancur
 hang
 hangat
 hani
@@ -1164,6 +1167,7 @@ iye
 iyo
 iyuh
 iz
+jabur
 jaga
 jahe
 jakaa
@@ -1187,6 +1191,7 @@ jembut
 jembutmu
 jeruk
 jiga
+jigong
 jijik
 jika
 jilat
@@ -2159,6 +2164,7 @@ opor
 oposi
 or
 ora
+orah
 orak
 oraki
 oran
@@ -2370,6 +2376,7 @@ relo
 remba
 rembes
 remes
+rempah
 rempela
 remu
 renang
@@ -2531,6 +2538,7 @@ sera
 seran
 serem
 seri
+serit
 ses
 sesama
 sesok
