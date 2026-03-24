@@ -289,6 +289,7 @@ arip
 arisan
 arka
 arsi
+arta
 arti
 artine
 arto
@@ -553,6 +554,7 @@ eha
 ehak
 eham
 ehan
+ehar
 ehay
 ehe
 eheh
@@ -747,6 +749,7 @@ gangsing
 ganjil
 ganteng
 gantung
+ganyong
 gapuk
 gara
 garang
@@ -804,6 +807,7 @@ geno
 genteng
 gentong
 genuk
+geo
 gerah
 gerak
 geram
@@ -1041,6 +1045,7 @@ ihhi
 ihi
 ihla
 ihsan
+ihta
 ija
 ijak
 ijek
@@ -1666,6 +1671,7 @@ lusuh
 luwe
 luweh
 luwes
+luwih
 ma
 mabur
 macan
@@ -1727,6 +1733,7 @@ mawon
 mayaa
 mbah
 me
+medal
 meki
 memek
 mendoan
