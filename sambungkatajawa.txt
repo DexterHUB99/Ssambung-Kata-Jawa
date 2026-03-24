@@ -231,6 +231,7 @@ antimo
 anting
 anto
 anton
+antri
 antuk
 anu
 anuk
@@ -400,6 +401,7 @@ budi
 buka
 buku
 bulan
+bumbu
 bunga
 bus
 busuk
@@ -2068,6 +2070,7 @@ ori
 oria
 orok
 orong
+os
 osah
 osaka
 osek
@@ -2572,6 +2575,7 @@ taruk
 tas
 tata
 tati
+taun
 tawa
 tawon
 tebu
@@ -2761,6 +2765,7 @@ unan
 undak
 undakan
 undang
+undangan
 undi
 undur
 undura
