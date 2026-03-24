@@ -241,6 +241,7 @@ anom
 anoman
 anta
 antar
+antawi
 antek
 antem
 antep
@@ -751,6 +752,7 @@ gamma
 gampang
 gandos
 gandrung
+gandul
 gang
 gangsar
 gangsing
@@ -1134,6 +1136,7 @@ indra
 indu
 induk
 indung
+inem
 ing
 inget
 inggih
@@ -1193,6 +1196,7 @@ islam
 ismi
 iso
 istana
+istilah
 istri
 isu
 isui
@@ -1481,6 +1485,7 @@ korban
 kos
 kosan
 kosek
+kosong
 kota
 kotor
 kowe
@@ -1599,6 +1604,7 @@ lek
 lemah
 lembut
 lemes
+lemot
 lemper
 lemu
 les
