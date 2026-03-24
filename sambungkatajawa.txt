@@ -2043,6 +2043,7 @@ lopis
 lor
 loreng
 loro
+lorone
 los
 lose
 loso
@@ -2597,6 +2598,7 @@ nitip
 njaluk
 nki
 nnduk
+nnina
 no
 noh
 nok
@@ -3550,6 +3552,7 @@ tongkol
 toni
 tono
 topi
+tora
 toto
 towo
 tu
@@ -3838,6 +3841,7 @@ uyuh
 uz
 wa
 wacana
+wadah
 wadon
 waduh
 waduk
