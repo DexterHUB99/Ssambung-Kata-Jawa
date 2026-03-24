@@ -652,6 +652,7 @@ becak
 bego
 bela
 beli
+beling
 belo
 bengek
 bengong
