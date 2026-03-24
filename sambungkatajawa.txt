@@ -21,6 +21,7 @@ ahad
 ahah
 aham
 ahap
+ahas
 ahat
 ahay
 ahe
@@ -30,6 +31,7 @@ ahh
 ahhh
 ahi
 ahir
+ahlak
 ahli
 aho
 ahok
@@ -54,6 +56,7 @@ ak
 aka
 akal
 akalan
+akam
 akan
 akang
 akar
@@ -693,6 +696,7 @@ ili
 ilih
 ilik
 iling
+ilir
 ilmu
 ilo
 ilok
@@ -1628,6 +1632,7 @@ silitmu
 sin
 sinten
 sir
+sirah
 siram
 siro
 sis
@@ -1667,6 +1672,7 @@ sugeh
 sugeng
 sugih
 sui
+suk
 suka
 sula
 sule
@@ -1825,6 +1831,7 @@ umbi
 umi
 umo
 umpama
+umpan
 umum
 umur
 una
