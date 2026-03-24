@@ -475,6 +475,7 @@ epo
 epos
 epu
 era
+erah
 erak
 eram
 erang
@@ -534,6 +535,7 @@ gamel
 gamelan
 gamma
 gampang
+gandos
 gang
 gangsing
 ganteng
@@ -768,6 +770,7 @@ ikal
 ikan
 ikar
 ikat
+iker
 iket
 ikhlas
 iki
@@ -1954,6 +1957,7 @@ sun
 sunar
 sunat
 supel
+supo
 suri
 surup
 susah
@@ -2022,6 +2026,7 @@ tikus
 tila
 tilem
 timah
+timbul
 timun
 timur
 tinju
