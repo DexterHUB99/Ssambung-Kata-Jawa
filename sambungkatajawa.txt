@@ -423,6 +423,7 @@ aun
 aup
 aura
 aus
+aut
 autan
 aw
 awa
@@ -583,6 +584,7 @@ cok
 colak
 congor
 coro
+cuci
 cukup
 cumi
 dada
@@ -756,6 +758,7 @@ eluk
 elum
 elus
 em
+ema
 emae
 emaem
 emak
@@ -2234,6 +2237,7 @@ mulih
 mulus
 mulya
 mumet
+mumi
 mumpung
 mundur
 munggah
