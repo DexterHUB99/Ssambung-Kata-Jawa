@@ -493,6 +493,7 @@ astane
 asu
 asuh
 asui
+asuo
 asuw
 asuya
 at
@@ -1784,6 +1785,7 @@ imboh
 imbu
 imbuh
 ime
+imi
 iming
 imo
 impian
