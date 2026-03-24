@@ -352,6 +352,7 @@ aran
 arang
 arap
 aras
+ardi
 arek
 aren
 areng
@@ -943,6 +944,7 @@ eti
 eto
 etok
 etos
+etot
 etuk
 etum
 ew
