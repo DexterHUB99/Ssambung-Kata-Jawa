@@ -264,6 +264,7 @@ ayu
 ayun
 az
 baa
+babak
 babat
 babi
 bacot
@@ -495,6 +496,7 @@ eyo
 ga
 gabah
 gae
+gagak
 gagal
 gah
 gaja
@@ -989,6 +991,7 @@ koe
 koen
 koh
 kok
+koko
 kokop
 kol
 kolak
@@ -1094,6 +1097,7 @@ lika
 likis
 liku
 lila
+lili
 lilin
 lilo
 lima
@@ -1115,6 +1119,7 @@ lobang
 lobi
 loe
 loh
+lohan
 lok
 lola
 loli
