@@ -2775,6 +2775,7 @@ lemu
 leng
 lengah
 lenggah
+ler
 leren
 leres
 les
