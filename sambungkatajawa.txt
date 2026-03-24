@@ -366,6 +366,7 @@ asin
 asing
 asli
 aslii
+asmara
 asor
 asoy
 astane
@@ -646,6 +647,7 @@ ed
 edan
 edar
 edaran
+edi
 eeh
 ef
 efek
@@ -745,6 +747,7 @@ enak
 endah
 endang
 endas
+endel
 endi
 endog
 eneg
@@ -1038,6 +1041,7 @@ gupak
 guri
 gurih
 guru
+gusah
 gusi
 gusti
 guyon
@@ -2310,6 +2314,7 @@ ngejak
 ngeki
 ngelag
 ngelak
+ngelmu
 ngelon
 ngelu
 ngembun
@@ -2599,6 +2604,7 @@ olom
 olon
 olong
 oloo
+olor
 olot
 om
 oma
@@ -3738,6 +3744,7 @@ wono
 wonten
 woo
 wora
+wowo
 wuh
 wulan
 wur
