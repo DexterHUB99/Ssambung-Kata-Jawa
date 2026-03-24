@@ -632,6 +632,7 @@ balung
 ban
 bando
 banjir
+banteng
 bantu
 banyu
 bapak
@@ -1322,6 +1323,7 @@ galer
 gali
 galia
 galih
+galine
 galo
 galon
 galung
@@ -1649,6 +1651,7 @@ hantu
 hanung
 hao
 hap
+hape
 hapi
 hapunten
 hapus
@@ -4048,6 +4051,7 @@ pele
 pelem
 peler
 peli
+pelit
 pelo
 pen
 pena
@@ -4489,6 +4493,7 @@ ruso
 rusuh
 rutan
 rute
+ruwah
 ruwat
 ruwet
 sa
@@ -5268,6 +5273,7 @@ untumu
 untune
 untung
 uo
+up
 upa
 upacara
 upah
