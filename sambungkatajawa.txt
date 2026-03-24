@@ -1762,6 +1762,7 @@ kerut
 kesah
 kesandung
 kesat
+kese
 kesem
 keset
 kesleo
@@ -3499,6 +3500,7 @@ tai
 taik
 taki
 tala
+tales
 tali
 tam
 tama
@@ -3598,6 +3600,7 @@ tirai
 tiri
 tisu
 tita
+titi
 titid
 titip
 titit
@@ -4006,6 +4009,7 @@ yo
 yoh
 yoi
 yok
+yolo
 yoman
 yono
 yoopo
