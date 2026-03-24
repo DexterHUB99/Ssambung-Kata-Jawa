@@ -3399,6 +3399,7 @@ ngudang
 ngudek
 ngudud
 ngudut
+ngugu
 nguji
 ngul
 ngula
@@ -4315,6 +4316,7 @@ sala
 salah
 salak
 salam
+saleh
 sali
 salim
 salira
