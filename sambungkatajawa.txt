@@ -19,6 +19,7 @@ adaa
 adab
 adap
 adek
+adem
 adi
 adin
 adipati
@@ -1246,6 +1247,7 @@ ibadah
 ibak
 iblis
 ibu
+ibuk
 icone
 icu
 ida
@@ -2688,6 +2690,7 @@ ome
 omo
 omong
 omongan
+ompol
 ompong
 on
 onar
@@ -3613,6 +3616,7 @@ ulap
 ular
 ulas
 ulat
+uleg
 ulek
 ulen
 uler
