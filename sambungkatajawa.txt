@@ -19,6 +19,7 @@ aca
 acar
 aceh
 aci
+acik
 aco
 ad
 ada
@@ -3523,6 +3524,7 @@ nul
 nula
 nuli
 nulis
+nulo
 nulung
 num
 numpak
@@ -4013,6 +4015,7 @@ raiku
 raimu
 raimuasu
 raimui
+raimuya
 raino
 raiso
 raja
