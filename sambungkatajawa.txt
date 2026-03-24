@@ -931,6 +931,7 @@ ehop
 ehoy
 ehu
 ehup
+ehut
 ehuy
 eja
 ejik
@@ -2182,6 +2183,7 @@ kemproh
 kemul
 ken
 kena
+kenapa
 kencing
 kencot
 kencur
@@ -2531,6 +2533,7 @@ lelet
 leli
 lemah
 lemahe
+lemak
 lembah
 lembur
 lembut
@@ -3240,6 +3243,7 @@ ngidu
 ngidul
 ngih
 ngijo
+ngik
 ngikut
 ngila
 ngilang
