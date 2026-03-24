@@ -2342,6 +2342,7 @@ ketan
 ketek
 ketel
 ketemu
+keterangan
 ketil
 ketir
 ketok
@@ -2658,6 +2659,7 @@ leren
 leres
 les
 lesu
+letong
 lewat
 lho
 li
@@ -3883,6 +3885,7 @@ pantes
 pantik
 papa
 papah
+papat
 papi
 parang
 pare
@@ -5056,6 +5059,7 @@ umat
 umbah
 umbar
 umbel
+umbele
 umbi
 umbul
 ume
