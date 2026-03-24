@@ -248,6 +248,7 @@ ambulan
 ambung
 ambyar
 ameh
+amek
 amel
 amen
 ameng
