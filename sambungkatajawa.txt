@@ -40,6 +40,7 @@ aengi
 afi
 aga
 agar
+agawe
 age
 agi
 agung
@@ -1853,6 +1854,7 @@ kae
 kain
 kaine
 kaisa
+kajen
 kajut
 kak
 kaka
@@ -3011,6 +3013,7 @@ ngonde
 ngong
 ngoni
 ngono
+ngoper
 ngopi
 ngopo
 ngorek
@@ -4613,6 +4616,7 @@ welo
 wen
 wengi
 werkudara
+werno
 weruh
 wes
 wet
