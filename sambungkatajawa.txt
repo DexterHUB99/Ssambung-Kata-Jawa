@@ -225,6 +225,7 @@ anae
 anah
 anak
 anake
+anakku
 anakmu
 anal
 anam
@@ -724,6 +725,7 @@ elen
 eleng
 eli
 elig
+elii
 eling
 elir
 elit
@@ -1025,6 +1027,7 @@ gombalan
 gondok
 gondrong
 gong
+gopoh
 gor
 goreng
 gori
@@ -1481,6 +1484,7 @@ jebul
 jembut
 jembutmu
 jeruk
+ji
 jiga
 jigong
 jijik
@@ -2395,6 +2399,7 @@ ngetan
 ngewe
 ngewek
 ngg
+nggae
 nggah
 nggak
 nggaku
