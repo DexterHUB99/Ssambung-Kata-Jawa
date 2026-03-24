@@ -735,6 +735,7 @@ edar
 edaran
 edi
 eeh
+eenak
 ef
 efek
 eg
@@ -2470,6 +2471,7 @@ neka
 nekar
 nekat
 neko
+nelen
 neli
 nelongso
 nembak
@@ -2618,6 +2620,7 @@ ngesor
 ngesot
 ngesuk
 ngetan
+ngewangi
 ngewe
 ngewek
 ngg
