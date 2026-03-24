@@ -665,6 +665,7 @@ enggan
 enggeh
 engko
 eni
+enjing
 eno
 enok
 entar
@@ -915,6 +916,7 @@ guri
 gurih
 guru
 gusi
+gusti
 guyon
 guyu
 ha
@@ -1044,6 +1046,7 @@ hor
 hore
 hormat
 horog
+howo
 hoyo
 hp
 hu
