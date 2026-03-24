@@ -2636,6 +2636,7 @@ ngengek
 ngenget
 ngengobrol
 ngenteni
+ngentuk
 ngentut
 ngepel
 ngeper
@@ -3711,6 +3712,7 @@ tambang
 tameng
 tami
 tampar
+tampi
 tampol
 tamu
 tamune
