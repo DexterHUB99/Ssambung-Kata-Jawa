@@ -258,6 +258,7 @@ aneh
 aneng
 angel
 angen
+angep
 angger
 angin
 angkat
@@ -2243,6 +2244,7 @@ mundur
 munggah
 muntah
 murah
+musa
 muse
 musuh
 mute
@@ -3021,6 +3023,7 @@ raino
 raiso
 raja
 rajin
+raju
 rajut
 rak
 raki
