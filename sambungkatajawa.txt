@@ -1112,6 +1112,7 @@ ib
 iba
 ibadah
 ibak
+iblis
 ibu
 icone
 ida
@@ -1222,6 +1223,7 @@ inii
 injak
 injek
 injih
+injing
 insan
 inti
 inul
@@ -1389,6 +1391,7 @@ kambil
 kambing
 kambuh
 kami
+kamis
 kampung
 kampungan
 kamu
@@ -2563,6 +2566,7 @@ poni
 poo
 pop
 popol
+por
 pora
 porasi
 poro
