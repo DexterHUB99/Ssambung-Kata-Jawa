@@ -665,6 +665,7 @@ endi
 endog
 eneg
 enek
+eneng
 engeh
 enggal
 enggan
@@ -1758,6 +1759,7 @@ lumah
 lumayan
 lumi
 lumpang
+lumpuh
 lumrah
 lungguh
 lungo
@@ -1976,6 +1978,7 @@ nesi
 nesu
 nete
 netra
+ngaben
 ngaca
 ngaceng
 ngaco
@@ -2386,6 +2389,7 @@ osek
 osen
 oseng
 oser
+osit
 osok
 ot
 otak
@@ -2571,6 +2575,7 @@ rana
 randa
 rani
 rantai
+raono
 rapa
 rapi
 rapopo
@@ -2951,6 +2956,7 @@ tape
 tapi
 tapir
 tapuk
+tar
 tarawih
 tare
 tarek
