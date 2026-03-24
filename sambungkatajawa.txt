@@ -1290,6 +1290,7 @@ ewangi
 ewe
 ewee
 ewek
+ewoh
 ewong
 ewu
 ex
@@ -5578,6 +5579,7 @@ yok
 yolo
 yom
 yoman
+yong
 yono
 yoopo
 yoora
