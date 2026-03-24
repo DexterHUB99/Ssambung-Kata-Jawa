@@ -78,6 +78,7 @@ ail
 aila
 ailo
 aing
+aini
 aio
 air
 aira
@@ -675,6 +676,7 @@ ehey
 ehi
 ehir
 eho
+ehok
 ehop
 ehoy
 ehup
@@ -761,6 +763,7 @@ engeh
 enggal
 enggan
 enggeh
+engkang
 engko
 engkol
 eni
@@ -829,6 +832,7 @@ eso
 esok
 estri
 esu
+esua
 esuk
 eta
 etah
@@ -1506,6 +1510,7 @@ kaku
 kal
 kala
 kalah
+kalap
 kaleng
 kali
 kalian
@@ -2541,6 +2546,7 @@ nuntun
 nunung
 nunut
 nur
+nurani
 nuri
 nurui
 nurun
@@ -3258,6 +3264,7 @@ sule
 suling
 sultan
 sum
+sume
 sumeh
 sumi
 sumpah
@@ -3418,6 +3425,7 @@ toni
 tono
 topi
 toto
+towo
 tu
 tua
 tuak
@@ -3531,6 +3539,7 @@ ulas
 ulat
 ulek
 uler
+ulet
 uli
 ulih
 ulik
