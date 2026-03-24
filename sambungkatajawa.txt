@@ -662,6 +662,7 @@ dodik
 dodo
 doh
 dolan
+doman
 domba
 dona
 dongo
@@ -1582,6 +1583,7 @@ jin
 jina
 jinak
 jingga
+jinten
 jipang
 jipuk
 jiwa
@@ -1944,6 +1946,7 @@ kutha
 kutu
 kuwe
 kuwi
+kuya
 la
 lab
 labu
@@ -3024,6 +3027,7 @@ polah
 polan
 poleh
 poli
+poling
 polisi
 polo
 pom
