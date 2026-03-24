@@ -440,6 +440,7 @@ dahi
 dalem
 dalu
 damai
+damping
 dan
 dancok
 dandang
@@ -1221,6 +1222,7 @@ katok
 katuh
 katus
 kawani
+kawasan
 kawin
 kawit
 kaya
@@ -1608,6 +1610,7 @@ modal
 modar
 moh
 moleh
+molen
 monggo
 monyet
 mori
@@ -2111,6 +2114,7 @@ parit
 pas
 pasa
 pasti
+pasu
 patil
 patung
 pean
@@ -2189,6 +2193,7 @@ pura
 purek
 puri
 puser
+putih
 putu
 puyeng
 puyuh
@@ -2263,6 +2268,7 @@ rene
 rengginang
 reo
 repot
+republik
 rere
 resah
 resik
@@ -2383,6 +2389,7 @@ sarong
 saru
 sasa
 sasak
+sasi
 sate
 sawer
 sawit
@@ -2407,6 +2414,7 @@ sepuh
 ser
 sera
 serem
+seri
 ses
 sesama
 sesok
@@ -2447,6 +2455,7 @@ siram
 sirih
 siro
 sis
+sisa
 sisi
 siwo
 so
@@ -2491,6 +2500,7 @@ sue
 sugeh
 sugeng
 sugih
+suh
 sui
 suk
 suka
@@ -2883,6 +2893,7 @@ wet
 wetan
 weteng
 wewe
+widok
 wii
 wiji
 wirang
