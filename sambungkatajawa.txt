@@ -494,6 +494,7 @@ asu
 asuh
 asui
 asuw
+asuya
 at
 ata
 atah
@@ -3443,6 +3444,7 @@ no
 noh
 nok
 noken
+noki
 nol
 nolak
 nolan
