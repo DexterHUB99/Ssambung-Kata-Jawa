@@ -522,6 +522,7 @@ godog
 gogol
 gojek
 gok
+gokil
 goks
 golek
 gombal
@@ -970,6 +971,7 @@ lame
 lamon
 lampir
 lampu
+lanang
 lancar
 landep
 laos
@@ -1224,6 +1226,7 @@ ngibul
 ngidul
 ngila
 ngipasi
+ngiris
 ngirit
 ngiseng
 ngisep
