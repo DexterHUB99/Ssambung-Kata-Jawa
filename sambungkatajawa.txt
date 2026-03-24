@@ -1635,6 +1635,7 @@ kancane
 kancil
 kancut
 kandang
+kandani
 kandas
 kandel
 kang
@@ -3292,6 +3293,7 @@ sapi
 sapu
 saran
 sarem
+sari
 sarong
 saru
 sasa
@@ -3384,6 +3386,7 @@ siro
 sis
 sisa
 sisi
+sisok
 siti
 siwo
 siyam
