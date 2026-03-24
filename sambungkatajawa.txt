@@ -14,6 +14,7 @@ adi
 adipati
 adus
 aengi
+afi
 age
 ah
 aha
@@ -1074,8 +1075,10 @@ mas
 masak
 masu
 masuk
+mat
 mata
 matamu
+matek
 mati
 matur
 maturnuwun
@@ -1192,6 +1195,7 @@ ngarti
 ngas
 ngasah
 ngasem
+ngasin
 ngaso
 ngatuk
 ngaturaken
@@ -1630,6 +1634,7 @@ sera
 serem
 ses
 si
+sial
 sialan
 siap
 siapa
