@@ -1100,6 +1100,7 @@ gimbal
 ginjal
 girang
 giring
+gita
 gitar
 giwang
 go
@@ -1348,6 +1349,7 @@ ibarat
 iblis
 ibu
 ibuk
+ical
 icone
 icu
 ida
@@ -2006,6 +2008,7 @@ lamai
 lambe
 lambemu
 lambene
+lambung
 lame
 lamek
 lamis
@@ -2518,6 +2521,7 @@ ngapu
 ngapung
 ngapunten
 ngapurancang
+ngapuro
 ngapus
 ngapusi
 ngarak
@@ -3116,6 +3120,7 @@ pule
 pun
 puna
 pundi
+pungkasan
 punten
 punya
 pup
