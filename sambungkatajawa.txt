@@ -3254,6 +3254,7 @@ ngaben
 ngaca
 ngaceng
 ngaco
+ngadai
 ngadeg
 ngaduh
 ngaduk
@@ -3997,6 +3998,7 @@ pek
 peko
 pekok
 pela
+pele
 pelem
 peler
 peli
@@ -5439,6 +5441,7 @@ wuta
 xenon
 xray
 ya
+yaa
 yaampun
 yadi
 yah
