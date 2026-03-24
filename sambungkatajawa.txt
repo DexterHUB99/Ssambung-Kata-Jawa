@@ -534,6 +534,7 @@ duit
 duka
 duku
 dukun
+dukur
 dulang
 dulu
 dulur
@@ -1344,6 +1345,7 @@ kase
 kasir
 kasur
 kasure
+kat
 katak
 kate
 kates
@@ -1911,6 +1913,7 @@ ngaco
 ngae
 ngajar
 ngaji
+ngak
 ngaka
 ngaleh
 ngali
@@ -2126,6 +2129,7 @@ ningsih
 nini
 nio
 nipon
+nipun
 nira
 nis
 nisa
@@ -2444,6 +2448,7 @@ raden
 radika
 radio
 rae
+ragat
 ragelem
 ragi
 ragil
@@ -2639,6 +2644,7 @@ samparan
 sampean
 sampun
 samun
+sandal
 sang
 sangu
 santri
@@ -2834,6 +2840,7 @@ tampar
 tampol
 tamu
 tamune
+tanah
 tangan
 tangguh
 tangi
