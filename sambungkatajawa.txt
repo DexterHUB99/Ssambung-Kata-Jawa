@@ -224,6 +224,7 @@ arip
 arisan
 arsi
 arti
+artine
 arto
 aru
 arum
@@ -993,6 +994,7 @@ kake
 kaki
 kala
 kalah
+kaleng
 kali
 kalimat
 kalo
@@ -1043,6 +1045,7 @@ kedai
 keke
 kela
 kelangan
+kelas
 kelem
 kelingan
 kelon
@@ -1542,6 +1545,7 @@ ngilang
 ngipasi
 ngiris
 ngirit
+ngisen
 ngiseng
 ngisep
 ngisih
@@ -1957,6 +1961,7 @@ rokok
 rolas
 rombak
 rombong
+rombongan
 romo
 rompi
 ron
@@ -2295,6 +2300,7 @@ ukin
 ukir
 ukira
 ukiran
+ukki
 uko
 uku
 ukur
