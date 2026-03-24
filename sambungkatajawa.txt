@@ -3358,6 +3358,7 @@ oneng
 ongak
 ongkek
 ongkos
+ongol
 online
 ono
 onta
@@ -3516,6 +3517,7 @@ peteng
 peyek
 php
 pia
+piano
 pie
 pii
 pijet
@@ -4288,6 +4290,7 @@ tila
 tilam
 tilem
 tilep
+tima
 timah
 timbang
 timbul
