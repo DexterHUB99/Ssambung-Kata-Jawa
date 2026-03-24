@@ -1497,6 +1497,7 @@ injing
 injuk
 insan
 inti
+intil
 intine
 inul
 ipa
@@ -2264,6 +2265,7 @@ mandeg
 mandi
 mane
 maneh
+manga
 mangan
 mangap
 mangga
@@ -3017,6 +3019,7 @@ paji
 pak
 paka
 paku
+palang
 paling
 palu
 paman
