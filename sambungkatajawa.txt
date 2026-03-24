@@ -173,6 +173,7 @@ akrab
 aksara
 aksi
 aku
+akua
 akue
 akuh
 akui
@@ -362,6 +363,7 @@ anjay
 anji
 anjing
 anjir
+anjlok
 anjuk
 anjung
 ano
@@ -750,6 +752,7 @@ cebok
 cecak
 cece
 cecek
+cedak
 ceki
 cela
 celak
@@ -3468,6 +3471,7 @@ ngupil
 nguping
 ngura
 nguras
+nguru
 ngurusi
 ngusel
 ngusir
@@ -5363,6 +5367,7 @@ yuan
 yuda
 yudha
 yudi
+yuh
 yuk
 yuka
 yuki
