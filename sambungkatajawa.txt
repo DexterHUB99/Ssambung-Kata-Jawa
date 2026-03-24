@@ -832,6 +832,7 @@ erah
 erak
 eram
 eran
+erane
 erang
 eras
 erat
@@ -878,6 +879,7 @@ etah
 etan
 ete
 etek
+eten
 eti
 eto
 etos
