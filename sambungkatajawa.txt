@@ -798,6 +798,7 @@ duduh
 duduk
 duga
 duh
+duha
 duit
 duka
 duku
@@ -1283,6 +1284,7 @@ gol
 gola
 golek
 golet
+goleti
 golong
 gombal
 gombalan
