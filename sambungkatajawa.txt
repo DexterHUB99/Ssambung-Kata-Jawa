@@ -19,6 +19,7 @@ aengi
 afi
 aga
 age
+agung
 ah
 aha
 ahad
@@ -517,6 +518,7 @@ ganteng
 gantung
 garap
 garih
+garii
 garing
 garuk
 garwa
@@ -1052,6 +1054,7 @@ lagu
 lah
 lakon
 lalah
+lalat
 laler
 lali
 lama
@@ -1967,6 +1970,7 @@ tugel
 tuh
 tuhan
 tuku
+tula
 tulan
 tuli
 tulis
@@ -2108,6 +2112,7 @@ usil
 usir
 usu
 usui
+usul
 usus
 usut
 uta
