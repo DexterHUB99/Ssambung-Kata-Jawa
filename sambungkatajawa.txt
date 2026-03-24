@@ -1170,6 +1170,7 @@ epin
 epis
 epo
 epok
+epon
 epos
 epu
 epuk
@@ -1501,6 +1502,7 @@ godong
 gogol
 gojek
 gojekan
+gojlok
 gojloki
 gok
 gokil
