@@ -299,6 +299,7 @@ anama
 anan
 anane
 anang
+anangin
 anas
 anay
 ancam
@@ -3689,6 +3690,7 @@ oker
 oket
 okin
 okok
+okoke
 okol
 okor
 okos
@@ -4136,6 +4138,7 @@ randa
 randu
 rani
 rantai
+rante
 raono
 raos
 rapa
@@ -4688,6 +4691,7 @@ suwir
 suwun
 suya
 ta
+tabo
 tabuh
 tae
 taek
