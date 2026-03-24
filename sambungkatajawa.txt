@@ -40,7 +40,6 @@ aengi
 afi
 aga
 agar
-agawe
 age
 agi
 agung
@@ -480,7 +479,6 @@ atuk
 atum
 atun
 atur
-aturen
 atus
 auh
 aul
@@ -616,7 +614,6 @@ botak
 boti
 botok
 bowo
-boyok
 bu
 buang
 buatan
@@ -737,7 +734,6 @@ demak
 demam
 demok
 dengkul
-depi
 dereng
 deso
 diba
@@ -1026,6 +1022,7 @@ esam
 esan
 escendol
 ese
+esem
 esep
 esi
 esih
@@ -1705,7 +1702,6 @@ isak
 isam
 isan
 isap
-isek
 iseng
 isep
 isi
@@ -1720,7 +1716,6 @@ ismi
 iso
 isok
 istana
-istighfar
 istilah
 istri
 isu
@@ -1854,7 +1849,6 @@ kae
 kain
 kaine
 kaisa
-kajen
 kajut
 kak
 kaka
@@ -1969,7 +1963,6 @@ kecut
 kedadi
 kedai
 kedurung
-kejar
 kek
 keke
 kekel
@@ -2098,7 +2091,6 @@ klebus
 klepon
 kleru
 ko
-kobis
 kobong
 kocak
 koclok
@@ -2290,7 +2282,6 @@ laron
 larut
 las
 lasa
-lasak
 lase
 lat
 latah
@@ -2308,7 +2299,6 @@ lawuh
 layar
 layu
 layuh
-le
 lebah
 lebur
 lee
@@ -2442,7 +2432,6 @@ luluh
 lum
 luma
 lumah
-lumaku
 lumayan
 lumi
 lumpang
@@ -2644,7 +2633,6 @@ munggah
 mungkin
 munjuk
 muntah
-munyuk
 mur
 murah
 musa
@@ -2796,7 +2784,6 @@ ngaben
 ngaca
 ngaceng
 ngaco
-ngadeg
 ngaduh
 ngaduk
 ngae
@@ -2806,7 +2793,6 @@ ngajar
 ngaji
 ngak
 ngaka
-ngakak
 ngaku
 ngala
 ngalah
@@ -2926,7 +2912,6 @@ ngengek
 ngenget
 ngengobrol
 ngenteni
-ngentu
 ngentuk
 ngentut
 ngepang
@@ -2995,7 +2980,6 @@ ngojek
 ngok
 ngoko
 ngokok
-ngokop
 ngolah
 ngolak
 ngoleke
@@ -3013,7 +2997,6 @@ ngonde
 ngong
 ngoni
 ngono
-ngoper
 ngopi
 ngopo
 ngorek
@@ -3064,6 +3047,7 @@ nguta
 ngutang
 ngutangan
 ngutil
+nguyu
 nguyuh
 nguyup
 nguyur
@@ -3156,7 +3140,6 @@ nui
 nuki
 nul
 nula
-nuli
 nulis
 nulung
 num
@@ -3186,6 +3169,7 @@ nutuk
 nuwun
 ny
 nyai
+nyani
 nyanyi
 nyapu
 nyawiji
@@ -3459,7 +3443,6 @@ pilang
 pilar
 pilek
 pili
-pilih
 pilot
 pilu
 pina
@@ -3582,7 +3565,6 @@ ragi
 ragil
 rah
 rahasia
-rahma
 rahmat
 rai
 raii
@@ -3674,7 +3656,6 @@ remes
 remok
 rempah
 rempela
-rempeyek
 remu
 remuk
 renang
@@ -4164,7 +4145,6 @@ telek
 telinga
 teliti
 telo
-telon
 telu
 telur
 tema
@@ -4282,7 +4262,6 @@ tumit
 tumpah
 tumpak
 tumpeng
-tumrap
 tuna
 tunggal
 tunggu
@@ -4580,14 +4559,12 @@ wajah
 waktu
 waku
 wala
-walik
 wangi
 wangsul
 wani
 wanie
 wanita
 waras
-wareg
 warna
 warnae
 warung
@@ -4616,7 +4593,6 @@ welo
 wen
 wengi
 werkudara
-werno
 weruh
 wes
 wet
@@ -4710,6 +4686,7 @@ yunani
 yung
 yuni
 yura
+yusan
 yuti
 yuyu
 yuyun
