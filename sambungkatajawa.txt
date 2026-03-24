@@ -157,6 +157,7 @@ aman
 amanah
 amas
 amba
+ambar
 ambek
 ambeng
 ambil
@@ -545,6 +546,7 @@ dolan
 domba
 dona
 dongo
+dor
 doro
 duda
 dudu
@@ -726,6 +728,7 @@ esaa
 esai
 esan
 escendol
+ese
 esep
 esi
 eso
@@ -2094,6 +2097,7 @@ nggoo
 nggowo
 ngguyu
 ngibul
+ngidek
 ngidu
 ngidul
 ngih
@@ -2174,6 +2178,7 @@ nguping
 ngurusi
 ngusel
 ngusu
+nguta
 ngutang
 ngutangan
 nguyuh
@@ -2410,6 +2415,7 @@ padhang
 padu
 pagar
 pahing
+paido
 pait
 pak
 paka
