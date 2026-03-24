@@ -16,6 +16,7 @@ adaa
 adap
 adek
 adi
+adin
 adipati
 adu
 aduh
@@ -329,6 +330,7 @@ asep
 asew
 asi
 asia
+asih
 asii
 asik
 asin
@@ -423,6 +425,7 @@ bebek
 becak
 bela
 belo
+bengek
 beo
 beras
 beri
@@ -2679,6 +2682,7 @@ roda
 rodo
 rogoh
 roi
+roka
 roket
 rokok
 rolas
