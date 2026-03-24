@@ -2354,6 +2354,7 @@ mingkem
 minta
 minum
 mio
+mirah
 miri
 misuh
 mlaku
@@ -3675,6 +3676,7 @@ sunat
 sundul
 sungkem
 suntuk
+sunyi
 suo
 supaya
 supe
