@@ -144,6 +144,7 @@ ampar
 ampas
 ampuh
 ampun
+ampus
 amuh
 amuk
 amun
@@ -347,6 +348,7 @@ boso
 bu
 buang
 budi
+buka
 buku
 bulan
 bunga
@@ -374,6 +376,7 @@ cocot
 cok
 coro
 cukup
+cumi
 dada
 dadar
 dadi
@@ -412,6 +415,7 @@ dodo
 doh
 dolan
 domba
+dongo
 duda
 dudu
 duduk
@@ -1616,6 +1620,7 @@ ngibul
 ngidul
 ngila
 ngilang
+ngimpi
 ngipasi
 ngiris
 ngirit
@@ -1896,6 +1901,7 @@ pepek
 perlu
 peteng
 peyek
+pia
 pie
 pijet
 pijit
