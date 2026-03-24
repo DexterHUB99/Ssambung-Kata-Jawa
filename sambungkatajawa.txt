@@ -347,6 +347,7 @@ anggu
 angguk
 anggur
 angin
+angka
 angkat
 angker
 angklung
@@ -432,6 +433,7 @@ api
 apii
 apik
 apikan
+apil
 apo
 apolo
 apu
