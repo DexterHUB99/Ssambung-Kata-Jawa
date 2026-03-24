@@ -853,6 +853,7 @@ dempul
 dengkul
 depi
 dereng
+des
 deso
 dewi
 di
@@ -5201,6 +5202,7 @@ utawa
 utawi
 ute
 utek
+uteke
 utekmu
 utel
 utem
