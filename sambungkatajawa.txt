@@ -399,6 +399,7 @@ asak
 asal
 asam
 asap
+asar
 ase
 aseh
 asek
@@ -1064,6 +1065,7 @@ ganjar
 ganjil
 ganteng
 ganti
+gantian
 gantung
 ganyong
 gapuk
@@ -1574,6 +1576,7 @@ ipo
 ipun
 ir
 ira
+irae
 irah
 iraha
 irahan
@@ -2640,6 +2643,7 @@ ngalor
 ngalu
 ngalun
 ngamal
+ngamar
 ngambang
 ngambar
 ngambil
