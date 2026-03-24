@@ -1660,6 +1660,7 @@ kukur
 kul
 kula
 kulak
+kule
 kuli
 kulina
 kulit
@@ -1754,6 +1755,7 @@ lari
 laron
 las
 lase
+lat
 latah
 lati
 latu
@@ -2137,6 +2139,7 @@ ngangsu
 nganjuk
 ngano
 ngantemi
+nganter
 nganti
 ngantuk
 nganu
@@ -3509,6 +3512,7 @@ wajah
 waktu
 waku
 wangi
+wangsul
 wani
 wanita
 waras
