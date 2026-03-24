@@ -21,6 +21,7 @@ adap
 adek
 adem
 adi
+adik
 adin
 adipati
 adu
@@ -742,6 +743,7 @@ elir
 elit
 elo
 elok
+elor
 elos
 elu
 eluk
@@ -862,7 +864,9 @@ eson
 estri
 esu
 esua
+esue
 esuk
+et
 eta
 etah
 etan
@@ -881,6 +885,7 @@ ewek
 ewu
 ex
 eyo
+faji
 fix
 fo
 ga
@@ -1266,6 +1271,7 @@ icone
 icu
 ida
 idep
+idi
 idih
 idii
 idu
@@ -2150,6 +2156,7 @@ melu
 memek
 mendoan
 meneng
+merak
 meri
 metek
 metu
@@ -2174,6 +2181,7 @@ mogok
 moh
 moleh
 molen
+moli
 molok
 mondok
 monggo
@@ -2936,6 +2944,7 @@ prei
 pripun
 pua
 puan
+puasa
 puh
 pujaan
 pukul
