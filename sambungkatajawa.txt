@@ -1704,6 +1704,7 @@ langsing
 lani
 lanjut
 lantai
+lanyah
 laos
 lap
 lapar
@@ -2519,6 +2520,7 @@ panjang
 panjenengan
 pantai
 pantat
+pante
 papa
 papah
 papi
@@ -2898,6 +2900,7 @@ seng
 sepele
 sepi
 sepuh
+sepur
 ser
 sera
 seran
