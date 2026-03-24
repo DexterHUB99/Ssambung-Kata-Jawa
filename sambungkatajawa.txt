@@ -638,6 +638,7 @@ dalem
 dalu
 damai
 damar
+dampar
 damping
 damput
 dan
@@ -1760,6 +1761,7 @@ keceret
 kecut
 kedadi
 kedai
+kedurung
 kek
 keke
 kekel
@@ -3686,6 +3688,7 @@ telan
 telas
 telat
 telek
+telinga
 telo
 telu
 telur
