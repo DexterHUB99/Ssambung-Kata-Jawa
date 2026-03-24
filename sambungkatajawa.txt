@@ -1129,6 +1129,7 @@ holi
 holo
 homa
 homo
+hon
 hono
 hoo
 hooh
@@ -1773,6 +1774,7 @@ lapo
 lar
 lara
 larang
+lare
 lari
 laron
 las
@@ -2393,6 +2395,7 @@ nok
 noken
 nol
 nolak
+noleh
 nom
 nombok
 nomer
