@@ -3328,6 +3328,7 @@ rono
 rop
 ropi
 roro
+ros
 rosi
 roso
 roti
@@ -3422,6 +3423,7 @@ sasa
 sasak
 sasi
 sate
+satu
 sawah
 sawer
 sawit
