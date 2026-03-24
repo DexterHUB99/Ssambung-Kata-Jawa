@@ -23,6 +23,7 @@ ae
 aengi
 afi
 aga
+agar
 age
 agi
 agung
@@ -473,6 +474,7 @@ dadi
 dadu
 dagelan
 dahi
+dalam
 dalem
 dalu
 damai
@@ -850,6 +852,7 @@ gowo
 goyang
 gudang
 gudeg
+gudel
 guguk
 gugup
 gugur
@@ -904,6 +907,7 @@ hampir
 hana
 hanacaraka
 hancur
+handarbeni
 hang
 hangat
 hani
@@ -1555,6 +1559,7 @@ las
 lase
 latah
 lati
+latu
 laut
 lawak
 lawang
@@ -2133,6 +2138,7 @@ nutuk
 nuwun
 nyapu
 nyawiji
+nyawit
 nyusu
 nyuwun
 oalah
@@ -2240,6 +2246,7 @@ ori
 oria
 orok
 orong
+orotan
 os
 osah
 osak
@@ -2518,6 +2525,7 @@ rombongan
 romo
 rompi
 ron
+ronda
 rondo
 roni
 rono
