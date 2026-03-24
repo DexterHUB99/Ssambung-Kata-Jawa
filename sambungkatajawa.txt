@@ -123,6 +123,7 @@ alasan
 alhamdulillah
 ali
 alien
+alif
 aliho
 alii
 alim
@@ -547,6 +548,7 @@ ehir
 eho
 ehop
 ehup
+ehuy
 ek
 eka
 ekaa
@@ -1460,6 +1462,7 @@ kurawa
 kurma
 kursi
 kuru
+kurung
 kurus
 kus
 kuta
@@ -2888,6 +2891,7 @@ umah
 umar
 umat
 umbah
+umbar
 umbel
 umbi
 umi
@@ -2949,6 +2953,7 @@ urli
 urna
 uruk
 urun
+urunan
 urung
 urup
 urus
