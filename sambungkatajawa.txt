@@ -604,6 +604,7 @@ dahar
 dahi
 dalam
 dalan
+dale
 dalem
 dalu
 damai
@@ -1115,10 +1116,12 @@ gunting
 guntur
 gunung
 gupak
+gura
 guri
 gurih
 guru
 gurune
+gus
 gusah
 gusi
 gusti
@@ -3304,6 +3307,7 @@ sayah
 sayang
 sayur
 se
+sebat
 sedaya
 segawon
 sego
