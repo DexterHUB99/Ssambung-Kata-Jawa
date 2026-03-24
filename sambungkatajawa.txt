@@ -277,6 +277,7 @@ anisa
 anjai
 anjar
 anjay
+anji
 anjing
 anjir
 anjuk
@@ -803,6 +804,7 @@ enteni
 enter
 entok
 entong
+entu
 entuk
 entut
 enuk
@@ -1500,6 +1502,7 @@ jari
 jawa
 jawi
 jebul
+jem
 jembut
 jembutmu
 jeruk
@@ -3490,6 +3493,7 @@ til
 tila
 tilam
 tilem
+tilep
 timah
 timbang
 timbul
