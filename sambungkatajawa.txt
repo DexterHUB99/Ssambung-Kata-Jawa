@@ -439,6 +439,7 @@ daun
 de
 dek
 delman
+demam
 demok
 dengkul
 dereng
@@ -781,6 +782,7 @@ guling
 gumuh
 gumun
 guna
+gundul
 guneman
 gunting
 guntur
@@ -2531,6 +2533,7 @@ tik
 tikar
 tiktok
 tikus
+til
 tila
 tilam
 tilem
@@ -2546,6 +2549,7 @@ tiri
 tisu
 tita
 titid
+titip
 titit
 tititit
 tito
