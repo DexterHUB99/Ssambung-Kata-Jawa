@@ -14,6 +14,7 @@ ad
 ada
 adaa
 adap
+adek
 adi
 adipati
 adu
@@ -319,6 +320,7 @@ asin
 asing
 asli
 aslii
+asor
 asoy
 astane
 asu
@@ -494,6 +496,7 @@ daun
 de
 dek
 delman
+dema
 demam
 demok
 dengkul
@@ -1387,6 +1390,7 @@ kerat
 keraton
 kere
 kerek
+keren
 kereta
 keri
 kertas
@@ -1576,6 +1580,7 @@ latah
 lati
 latu
 laut
+lawa
 lawak
 lawang
 lawas
@@ -3180,6 +3185,7 @@ wewe
 widok
 wii
 wiji
+wilujeng
 wirang
 wita
 witan
