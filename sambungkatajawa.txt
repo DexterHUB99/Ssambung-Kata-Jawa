@@ -896,6 +896,7 @@ endas
 endel
 endi
 endog
+ene
 eneg
 enek
 eneng
@@ -1244,6 +1245,7 @@ gupak
 gura
 guri
 gurih
+gurita
 guru
 gurune
 gus
@@ -1269,6 +1271,7 @@ hai
 haii
 hajat
 haji
+hajiane
 hak
 haki
 hakim
@@ -1743,6 +1746,7 @@ kabar
 kabeh
 kaca
 kacuk
+kacung
 kadak
 kadal
 kadang
@@ -2684,6 +2688,7 @@ ngantemi
 nganteni
 nganter
 nganti
+ngantri
 ngantuk
 ngantun
 nganu
@@ -2990,6 +2995,7 @@ numpuk
 nun
 nunggangi
 nunggu
+nungu
 nunjuk
 nuntun
 nunung
@@ -3256,6 +3262,7 @@ peyek
 php
 pia
 pie
+pii
 pijet
 pijit
 pikun
