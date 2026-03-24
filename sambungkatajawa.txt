@@ -1593,6 +1593,7 @@ iwir
 ix
 iy
 iya
+iyata
 iye
 iyes
 iyo
@@ -2633,6 +2634,7 @@ ngengek
 ngenget
 ngengobrol
 ngenteni
+ngentut
 ngepel
 ngeper
 ngepet
@@ -3161,6 +3163,7 @@ polisi
 polo
 pom
 poma
+pomo
 pon
 pondok
 pone
