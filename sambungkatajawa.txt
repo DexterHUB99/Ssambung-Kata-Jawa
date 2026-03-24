@@ -299,6 +299,7 @@ ayam
 ayang
 ayat
 ayem
+ayi
 ayo
 ayok
 ayu
@@ -950,6 +951,7 @@ ipna
 ipun
 ira
 irah
+iraha
 irak
 irama
 irang
@@ -1256,6 +1258,7 @@ kursi
 kuru
 kurus
 kus
+kutan
 kutang
 kutu
 la
@@ -1484,6 +1487,7 @@ na
 nabi
 nabrak
 nadah
+nadi
 naek
 nafas
 naga
@@ -1642,6 +1646,7 @@ ngibul
 ngidul
 ngila
 ngilang
+ngiler
 ngimpi
 ngipasi
 ngiris
@@ -1744,6 +1749,7 @@ nomer
 non
 nona
 nongki
+nongkrong
 noni
 nono
 nonton
