@@ -1400,6 +1400,7 @@ kerupuk
 kerut
 kesah
 kesandung
+kesat
 kesem
 keset
 kesleo
@@ -1864,6 +1865,7 @@ nasehat
 nasi
 nasib
 nata
+natah
 nawar
 nawi
 ndasmu
@@ -2656,6 +2658,7 @@ sepuh
 ser
 sera
 seran
+serasa
 serem
 seri
 serit
@@ -3077,6 +3080,7 @@ urang
 urap
 uras
 urat
+urek
 uring
 urip
 uripmu
