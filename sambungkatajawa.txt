@@ -427,6 +427,7 @@ es
 esa
 esaa
 esai
+esan
 esi
 eso
 esok
@@ -1535,6 +1536,7 @@ rolas
 rombak
 rombong
 romo
+rompi
 ron
 rondo
 rono
@@ -1726,6 +1728,7 @@ tiri
 tisu
 titid
 titit
+tititit
 tito
 toja
 tolol
