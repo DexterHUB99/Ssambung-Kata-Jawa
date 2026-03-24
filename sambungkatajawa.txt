@@ -206,6 +206,7 @@ andai
 andani
 ander
 andha
+andhap
 andi
 andok
 andong
@@ -438,6 +439,7 @@ bom
 bos
 boso
 bot
+botak
 boti
 bu
 buang
@@ -545,6 +547,7 @@ dulang
 dulu
 dulur
 dumeh
+dungo
 duren
 durian
 duso
@@ -554,6 +557,7 @@ duwur
 ealah
 eben
 eboh
+ed
 edan
 edar
 edaran
@@ -931,6 +935,7 @@ hamba
 hambar
 hamil
 hampir
+han
 hana
 hanacaraka
 hancur
@@ -2899,6 +2904,7 @@ taruk
 tas
 tata
 tati
+tatu
 taun
 tawa
 tawon
@@ -3242,6 +3248,7 @@ way
 wayah
 wayang
 we
+wedan
 wedang
 wedi
 wedok
