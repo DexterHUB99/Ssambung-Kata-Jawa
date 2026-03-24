@@ -1422,6 +1422,7 @@ oz
 pada
 padu
 pahing
+pait
 pak
 paka
 palu
@@ -1715,6 +1716,7 @@ tah
 tahu
 tai
 tali
+tama
 tamba
 tambak
 tameng
@@ -1903,6 +1905,7 @@ usaha
 usai
 usap
 use
+user
 usi
 usia
 usik
