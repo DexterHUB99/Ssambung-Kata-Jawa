@@ -287,6 +287,7 @@ asik
 asin
 asing
 asli
+aslii
 asoy
 astane
 asu
@@ -989,6 +990,7 @@ ilo
 ilok
 ilu
 iluk
+im
 ima
 iman
 imas
@@ -2125,6 +2127,7 @@ pinus
 pipi
 pipis
 pipit
+pirang
 piro
 pisah
 pisang
@@ -2494,6 +2497,7 @@ suri
 suruh
 surup
 susah
+susan
 susi
 susu
 susuk
