@@ -395,6 +395,7 @@ atas
 ate
 atek
 aten
+atep
 ater
 ati
 atia
@@ -754,6 +755,7 @@ emboh
 embok
 embong
 embuh
+eme
 emes
 emo
 emog
@@ -1407,6 +1409,7 @@ irii
 irin
 iring
 iris
+irit
 irong
 iru
 iruk
@@ -2128,6 +2131,7 @@ mayaa
 mbah
 me
 medal
+mek
 meki
 melati
 melu
@@ -2601,6 +2605,7 @@ nulis
 nulung
 num
 numpak
+numpuk
 nun
 nunggangi
 nunggu
@@ -3358,6 +3363,7 @@ sundul
 sungkem
 suntuk
 suo
+supaya
 supe
 supel
 supo
