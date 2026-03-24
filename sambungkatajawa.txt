@@ -149,6 +149,7 @@ akih
 akii
 akik
 akim
+aking
 akir
 akis
 aklam
@@ -177,6 +178,7 @@ alara
 alas
 alasan
 alase
+alat
 alay
 ale
 alem
@@ -2838,6 +2840,7 @@ ndak
 ndasmu
 ndeso
 ndlogok
+nedha
 neduh
 negara
 negeri
