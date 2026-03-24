@@ -1404,6 +1404,7 @@ mio
 miri
 misuh
 mlaku
+modal
 modar
 moh
 moleh
@@ -1765,6 +1766,7 @@ oli
 oling
 olo
 olok
+olom
 oloo
 oma
 omae
@@ -2579,6 +2581,7 @@ yoyo
 yuda
 yuko
 yula
+yunani
 yung
 yura
 yuyu
