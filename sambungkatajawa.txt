@@ -1598,6 +1598,7 @@ jam
 jaman
 jambak
 jambu
+jamu
 jan
 jancok
 janda
@@ -2765,6 +2766,7 @@ ning
 ninggal
 ningsih
 nini
+ninine
 nio
 nipan
 nipon
@@ -4093,6 +4095,7 @@ wahyu
 wajah
 waktu
 waku
+wala
 wangi
 wangsul
 wani
