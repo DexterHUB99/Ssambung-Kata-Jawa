@@ -2120,6 +2120,7 @@ joli
 jom
 jombang
 jomlo
+jongkok
 jongo
 joni
 joran
@@ -4159,6 +4160,7 @@ ragi
 ragil
 rah
 rahasia
+rahayu
 rahma
 rahmat
 rai
@@ -4978,6 +4980,7 @@ tumindak
 tumit
 tumpah
 tumpak
+tumpar
 tumpeng
 tumrap
 tuna
