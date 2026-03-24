@@ -971,6 +971,7 @@ ekam
 ekamu
 ekan
 ekap
+ekar
 eke
 ekeh
 ekek
@@ -2217,6 +2218,7 @@ kembang
 kembar
 kemben
 kemiri
+kempit
 kempol
 kemproh
 kemul
@@ -4659,6 +4661,7 @@ temen
 tempat
 tempe
 tempek
+tempik
 tempiling
 tempura
 temriki
