@@ -435,6 +435,7 @@ emaem
 emak
 eman
 emang
+embah
 ember
 emboh
 embong
@@ -899,6 +900,7 @@ iz
 jahe
 jakaa
 jam
+jaman
 jancok
 jangan
 jangkrik
@@ -1124,6 +1126,7 @@ landep
 langsing
 laos
 lapar
+lari
 laron
 las
 lati
@@ -1543,6 +1546,7 @@ nurun
 nusa
 nuti
 nuwun
+nyusu
 oalah
 obat
 odak
