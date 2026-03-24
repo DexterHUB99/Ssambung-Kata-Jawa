@@ -429,6 +429,7 @@ arap
 aras
 ardi
 arek
+arem
 aren
 areng
 arep
@@ -2856,6 +2857,7 @@ mbok
 me
 medal
 medeni
+meh
 mek
 mekar
 meki
@@ -3724,6 +3726,7 @@ oreng
 oreo
 ori
 oria
+orii
 orok
 orong
 orotan
