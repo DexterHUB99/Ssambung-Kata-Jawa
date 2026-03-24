@@ -176,6 +176,7 @@ anah
 anak
 anakmu
 anal
+anam
 anan
 anang
 anas
@@ -1430,6 +1431,7 @@ lara
 lari
 laron
 las
+lase
 latah
 lati
 laut
@@ -1692,6 +1694,7 @@ nasi
 nasib
 nata
 nawar
+nawi
 ndasmu
 negara
 neh
@@ -2366,6 +2369,7 @@ sambut
 sami
 samin
 sampah
+samparan
 sampean
 sampun
 samun
