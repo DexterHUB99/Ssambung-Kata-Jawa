@@ -191,6 +191,7 @@ ampas
 ampuh
 ampun
 ampus
+amu
 amuh
 amuk
 amun
@@ -280,6 +281,7 @@ anyar
 apa
 apaa
 ape
+apek
 apel
 apem
 api
@@ -1475,6 +1477,7 @@ kentut
 kepa
 kepala
 kepaten
+kepek
 kepiye
 kepo
 kera
@@ -1795,6 +1798,7 @@ lumi
 lumpang
 lumpuh
 lumrah
+lun
 lungguh
 lungo
 lup
@@ -1945,6 +1949,7 @@ nala
 nali
 nalika
 naliko
+nam
 nama
 nambah
 nambal
@@ -2807,6 +2812,7 @@ sandal
 sanes
 sang
 sangu
+santen
 santri
 santun
 sapi
