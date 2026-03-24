@@ -54,6 +54,7 @@ ajing
 ajining
 ak
 aka
+akak
 akal
 akalan
 akam
@@ -451,6 +452,7 @@ ga
 gae
 gagal
 gah
+gaja
 gajah
 gak
 galak
@@ -531,6 +533,7 @@ goroh
 gosong
 gowo
 goyang
+gudang
 guguk
 gula
 guli
@@ -619,6 +622,7 @@ hinggap
 hira
 his
 hitam
+hitung
 hiu
 ho
 hobi
@@ -782,6 +786,7 @@ iye
 iyo
 iyuh
 iz
+jahe
 jakaa
 jancok
 jangkrik
@@ -1053,6 +1058,7 @@ malah
 malam
 mama
 mamah
+mamak
 mami
 mampus
 mangan
