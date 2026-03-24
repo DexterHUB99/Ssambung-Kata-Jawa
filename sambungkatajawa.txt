@@ -242,6 +242,7 @@ anas
 ancen
 anci
 ancok
+ancuk
 ancur
 anda
 andai
@@ -2990,6 +2991,7 @@ piyo
 pling
 po
 pocong
+podho
 poe
 pojok
 pok
