@@ -883,6 +883,7 @@ iuta
 iwak
 iwan
 iwenan
+iwir
 ix
 iy
 iya
@@ -994,6 +995,7 @@ kerek
 kereta
 keri
 keruh
+kerupuk
 kerut
 kesandung
 kesem
@@ -1246,6 +1248,7 @@ mendoan
 meneng
 meri
 micek
+mikir
 mingat
 mingkem
 minum
@@ -1364,6 +1367,7 @@ ngaos
 ngapa
 ngapae
 ngapak
+ngapu
 ngapunten
 ngapurancang
 ngapus
@@ -1634,6 +1638,7 @@ oyi
 oyok
 oz
 pada
+padang
 padhang
 padu
 pahing
@@ -2128,6 +2133,7 @@ ulaa
 ulah
 ulama
 ulan
+ulang
 ulangan
 ular
 ulat
