@@ -66,6 +66,7 @@ ahig
 ahih
 ahik
 ahil
+ahin
 ahir
 ahis
 ahiy
@@ -438,7 +439,9 @@ ata
 atah
 atap
 atas
+atat
 ate
+ateh
 atek
 aten
 atep
@@ -461,6 +464,7 @@ atuk
 atum
 atun
 atur
+atus
 auh
 aul
 aun
@@ -649,6 +653,7 @@ cocot
 cocote
 codot
 cok
+coklat
 colak
 congor
 coro
@@ -679,6 +684,7 @@ damput
 dan
 dancok
 dandang
+dani
 dap
 dapur
 darah
@@ -720,6 +726,7 @@ dir
 diren
 dirumah
 diwan
+doda
 dodik
 dodo
 doh
@@ -737,6 +744,7 @@ dowo
 du
 duda
 dudu
+duduh
 duduk
 duh
 duit
@@ -1141,6 +1149,7 @@ gerah
 gerak
 geram
 gerem
+gerih
 gerobak
 gertak
 ges
@@ -1178,6 +1187,7 @@ gok
 gokil
 goks
 gol
+gola
 golek
 golet
 golong
@@ -1449,6 +1459,7 @@ ihta
 ija
 ijab
 ijak
+ijazah
 ijek
 ijen
 iji
@@ -1679,6 +1690,7 @@ jaranan
 jare
 jari
 jawa
+jawab
 jawi
 jebul
 jem
@@ -1707,6 +1719,7 @@ jipuk
 jir
 jiwa
 jo
+jodo
 jogo
 jok
 joko
@@ -1735,6 +1748,7 @@ kadung
 kadus
 kae
 kain
+kaisa
 kajut
 kak
 kaka
@@ -2009,6 +2023,7 @@ kopyor
 kora
 koran
 korban
+kori
 kos
 kosan
 kosek
@@ -2273,6 +2288,7 @@ lor
 loreng
 loro
 lorone
+lorong
 los
 lose
 loso
@@ -2321,6 +2337,7 @@ madhang
 madu
 mae
 maem
+magelang
 mah
 maha
 mai
@@ -2491,6 +2508,7 @@ nabung
 nada
 nadah
 nadi
+nadia
 nae
 naek
 nafas
@@ -2601,6 +2619,7 @@ nerus
 nes
 nesi
 nesu
+neta
 nete
 neteh
 netra
@@ -2625,6 +2644,7 @@ ngali
 ngalih
 ngalor
 ngalu
+ngalun
 ngamal
 ngambang
 ngambar
@@ -2633,8 +2653,10 @@ ngambung
 ngamok
 ngamuk
 ngandok
+nganduk
 ngang
 nganga
+nganggo
 nganggur
 ngangkang
 ngangso
@@ -2679,6 +2701,7 @@ ngasahi
 ngasak
 ngasal
 ngasem
+ngasi
 ngasih
 ngasin
 ngaso
@@ -2725,6 +2748,7 @@ ngengobrol
 ngenteni
 ngentuk
 ngentut
+ngepang
 ngepel
 ngeper
 ngepet
@@ -3084,6 +3108,7 @@ oper
 opet
 opini
 opo
+opoiki
 opol
 opoo
 opor
@@ -3157,6 +3182,7 @@ pandu
 pangan
 panggah
 panggo
+panguripan
 panjang
 panjenengan
 panji
@@ -3180,6 +3206,7 @@ parok
 pas
 pasa
 pasak
+pasar
 pasir
 pasti
 pasu
@@ -3284,6 +3311,7 @@ pop
 popol
 por
 pora
+porah
 porasi
 porno
 poro
@@ -3351,6 +3379,7 @@ rajin
 raju
 rajut
 rak
+raka
 raki
 rakus
 rama
@@ -3462,6 +3491,7 @@ rina
 rindu
 ring
 ringan
+ringin
 ringkas
 ringkasan
 ringkes
@@ -3597,6 +3627,7 @@ sangu
 santen
 santri
 santun
+sapeh
 sapi
 sapu
 saran
@@ -3670,6 +3701,7 @@ siapa
 sigap
 sii
 siji
+sik
 sika
 sikat
 sikil
@@ -3868,6 +3900,7 @@ tati
 tatu
 taun
 tawa
+tawang
 tawar
 tawon
 tebu
@@ -4056,6 +4089,7 @@ ukal
 ukan
 ukar
 ukara
+ukaran
 ukas
 uke
 ukel
