@@ -105,6 +105,7 @@ aki
 akih
 akii
 akik
+akir
 ako
 aksara
 aksi
@@ -1046,6 +1047,7 @@ ikii
 iko
 ikon
 iku
+ikui
 ikur
 ikut
 ila
@@ -1600,6 +1602,7 @@ lok
 lola
 loli
 lolo
+loma
 lomba
 lombo
 lombok
@@ -1638,6 +1641,7 @@ luwe
 luweh
 luwes
 ma
+mabur
 macan
 madang
 madu
