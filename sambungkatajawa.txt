@@ -608,6 +608,7 @@ babi
 bacin
 bacot
 badog
+badok
 bae
 bagong
 bagus
@@ -3580,6 +3581,7 @@ nilar
 nilas
 nilem
 nilep
+nili
 nim
 nima
 niman
