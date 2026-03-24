@@ -471,6 +471,7 @@ dahi
 dalem
 dalu
 damai
+damar
 damping
 dan
 dancok
@@ -732,6 +733,7 @@ gampang
 gandos
 gandrung
 gang
+gangsar
 gangsing
 ganjil
 ganteng
@@ -765,6 +767,7 @@ gawok
 gayung
 ge
 gedang
+gedhang
 gee
 geger
 geh
@@ -1044,6 +1047,7 @@ ikhlas
 iki
 ikih
 ikii
+iklim
 iko
 ikon
 iku
@@ -1696,6 +1700,7 @@ mati
 matur
 maturnuwun
 mau
+mawon
 mayaa
 mbah
 me
@@ -2409,8 +2414,10 @@ re
 rebo
 rebut
 rebutan
+rega
 regane
 rek
+rekasa
 rekoso
 relo
 remba
@@ -3047,6 +3054,7 @@ uto
 utowo
 utu
 utuh
+uwe
 uwes
 uwis
 uwong
