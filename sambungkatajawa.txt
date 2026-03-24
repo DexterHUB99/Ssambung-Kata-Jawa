@@ -871,6 +871,7 @@ hampir
 hana
 hanacaraka
 hang
+hangat
 hani
 hantam
 hantu
@@ -1257,6 +1258,7 @@ kapur
 kara
 kare
 karep
+karepmu
 kari
 karma
 karo
@@ -1315,6 +1317,7 @@ kepaten
 kepiye
 kepo
 kera
+keran
 kerang
 kerat
 keraton
@@ -1782,6 +1785,7 @@ nembe
 nemen
 nemu
 nen
+nendang
 nenek
 nenen
 nengdi
@@ -2251,6 +2255,7 @@ pirang
 piro
 pisah
 pisang
+pitak
 pitu
 pitutur
 piye
@@ -3057,6 +3062,7 @@ yoman
 yono
 yoopo
 yoora
+yowe
 yowes
 yoyo
 yuda
