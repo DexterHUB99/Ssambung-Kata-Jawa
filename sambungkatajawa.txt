@@ -1551,6 +1551,7 @@ gusti
 guwa
 guyon
 guyonan
+guys
 guyu
 guyub
 ha
@@ -4341,6 +4342,7 @@ roti
 roto
 rowang
 rowo
+roya
 royo
 rt
 ruang
