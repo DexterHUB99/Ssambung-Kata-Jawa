@@ -2033,6 +2033,7 @@ mulya
 mumet
 mumpung
 mundur
+munggah
 muntah
 murah
 muse
@@ -2146,6 +2147,7 @@ ngajar
 ngaji
 ngak
 ngaka
+ngalah
 ngaleh
 ngali
 ngalih
@@ -2433,6 +2435,7 @@ nuri
 nurui
 nurun
 nusa
+nusul
 nuti
 nutuk
 nuwun
@@ -3469,7 +3472,9 @@ urek
 ures
 uring
 urip
+uripe
 uripmu
+urit
 uritan
 urli
 urna
@@ -3484,6 +3489,7 @@ urus
 urut
 us
 usa
+usae
 usah
 usaha
 usai
