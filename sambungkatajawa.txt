@@ -358,6 +358,7 @@ anus
 anut
 anyam
 anyar
+anying
 apa
 apaa
 apae
@@ -652,6 +653,7 @@ cacin
 cacing
 cah
 cai
+caii
 cakep
 campur
 cantik
@@ -1712,6 +1714,7 @@ isak
 isam
 isan
 isap
+isen
 iseng
 isep
 isi
@@ -2586,6 +2589,7 @@ mikir
 mila
 mili
 milu
+min
 minat
 mingat
 mingkem
@@ -3381,6 +3385,7 @@ paji
 pak
 paka
 paku
+pala
 palang
 paling
 palu
@@ -4460,6 +4465,7 @@ untuk
 untumu
 untune
 untung
+uo
 upa
 upacara
 upah
