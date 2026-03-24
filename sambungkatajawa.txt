@@ -15,6 +15,7 @@ abo
 abot
 abu
 aceh
+aci
 aco
 ad
 ada
@@ -697,6 +698,7 @@ cerita
 ces
 cicak
 cici
+cide
 cilok
 cimu
 cina
@@ -4691,6 +4693,7 @@ urunan
 urung
 urup
 urus
+urusan
 urut
 us
 usa
