@@ -1266,6 +1266,7 @@ gae
 gagah
 gagak
 gagal
+gage
 gah
 gaja
 gajah
@@ -1292,6 +1293,7 @@ galon
 galung
 gama
 gaman
+gambang
 gambar
 gambir
 gambleh
@@ -3154,6 +3156,7 @@ negos
 neh
 nek
 neka
+nekan
 nekar
 nekat
 nekate
@@ -5332,6 +5335,7 @@ wirama
 wirang
 wiri
 wis
+wisuh
 wita
 witan
 wiwi
