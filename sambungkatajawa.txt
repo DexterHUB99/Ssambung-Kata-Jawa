@@ -987,6 +987,7 @@ iki
 ikih
 iko
 ikon
+ikrar
 iku
 ikur
 ikut
@@ -1166,6 +1167,7 @@ jongo
 joni
 jori
 jubah
+ka
 kabeh
 kacuk
 kadal
@@ -2830,6 +2832,7 @@ urung
 urup
 urus
 urut
+urutan
 us
 usa
 usah
@@ -2957,6 +2960,7 @@ yoopo
 yoora
 yowes
 yoyo
+yuan
 yuda
 yuk
 yuko
