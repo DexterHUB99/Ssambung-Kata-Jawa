@@ -438,6 +438,7 @@ arip
 aris
 arisan
 arit
+arjuna
 arka
 arsi
 arta
@@ -794,6 +795,7 @@ dawet
 dawuh
 de
 dedek
+dedi
 dek
 delman
 dema
@@ -3738,6 +3740,7 @@ pea
 pean
 pecel
 peci
+pede
 pegawai
 pei
 peju
@@ -4261,6 +4264,7 @@ sejum
 sek
 sekar
 seket
+sekolah
 sekul
 selam
 selan
