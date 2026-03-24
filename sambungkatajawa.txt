@@ -145,6 +145,7 @@ alii
 alim
 alin
 alip
+alir
 aliran
 alis
 alo
@@ -517,6 +518,7 @@ dadi
 dadu
 dagelan
 dah
+dahar
 dahi
 dalam
 dalan
@@ -528,6 +530,7 @@ damping
 dan
 dancok
 dandang
+dap
 darah
 dari
 darma
@@ -1861,6 +1864,7 @@ marah
 mardi
 mari
 marii
+maruk
 mas
 masak
 masi
@@ -3008,6 +3012,7 @@ tah
 tahu
 tai
 taik
+taki
 tala
 tali
 tama
@@ -3025,6 +3030,7 @@ tangan
 tangguh
 tangi
 tani
+tanpa
 tansah
 tape
 tapi
@@ -3277,6 +3283,7 @@ unjuk
 uno
 unta
 untal
+untalen
 unte
 untir
 untu
