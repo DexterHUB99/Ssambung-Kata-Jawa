@@ -688,6 +688,7 @@ bobi
 bobok
 bodoh
 bojo
+bojok
 bokong
 bol
 bola
@@ -5404,6 +5405,7 @@ yung
 yuni
 yura
 yusan
+yuswo
 yuti
 yuyu
 yuyun
