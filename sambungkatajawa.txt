@@ -94,6 +94,7 @@ ama
 amal
 aman
 amanah
+amas
 amba
 ambeng
 ambil
@@ -153,6 +154,7 @@ anjar
 anjay
 anjing
 anjir
+anjung
 ano
 anoa
 anom
@@ -547,6 +549,7 @@ gula
 guli
 gumun
 guna
+gunting
 gunung
 guri
 gurih
@@ -798,6 +801,7 @@ iyuh
 iz
 jahe
 jakaa
+jam
 jancok
 jangkrik
 jara
@@ -811,6 +815,7 @@ jijik
 jika
 jin
 jingga
+jipang
 jipuk
 jogo
 joko
@@ -1255,6 +1260,7 @@ ngitung
 ngocok
 ngoh
 ngok
+ngoko
 ngolah
 ngolak
 ngolo
