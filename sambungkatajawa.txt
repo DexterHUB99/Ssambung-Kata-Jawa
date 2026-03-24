@@ -466,6 +466,7 @@ besan
 biasa
 biawak
 biba
+bibi
 bibik
 bidan
 bidun
@@ -491,6 +492,7 @@ boso
 bot
 botak
 boti
+bowo
 bu
 buang
 buatan
@@ -973,6 +975,7 @@ goreng
 gori
 goro
 goroh
+gorok
 gorong
 gosok
 gosong
@@ -1128,6 +1131,7 @@ hoh
 hohi
 hoho
 hoi
+hoki
 hola
 holi
 holo
@@ -1950,6 +1954,7 @@ manah
 mancing
 mandeg
 mandi
+mane
 maneh
 mangan
 mangap
@@ -3142,6 +3147,7 @@ sule
 suling
 sultan
 sum
+sumeh
 sumi
 sumpah
 sumuk
