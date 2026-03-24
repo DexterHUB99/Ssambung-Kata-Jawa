@@ -3050,6 +3050,7 @@ puh
 pujaan
 pukul
 pul
+pule
 pun
 puna
 pundi
