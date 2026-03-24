@@ -251,6 +251,7 @@ amboi
 ambruk
 ambu
 ambulan
+ambune
 ambung
 ambyar
 ameh
@@ -1000,6 +1001,7 @@ ekamu
 ekan
 ekap
 ekar
+ekas
 eke
 ekeh
 ekek
