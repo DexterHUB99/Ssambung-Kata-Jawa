@@ -325,6 +325,7 @@ atap
 atas
 ate
 atek
+aten
 ater
 ati
 atia
@@ -1340,6 +1341,7 @@ keliru
 kelon
 kelor
 keluh
+kema
 kemanten
 kembar
 kempol
@@ -1381,6 +1383,7 @@ ketel
 ketil
 ketir
 ketok
+ketut
 ki
 kidal
 kidang
@@ -1724,6 +1727,7 @@ micek
 mikir
 mila
 milu
+minat
 mingat
 mingkem
 minta
@@ -2611,6 +2615,7 @@ si
 sia
 sial
 sialan
+siamang
 siap
 siapa
 sigap
@@ -3009,6 +3014,7 @@ urab
 urai
 uraka
 uram
+uran
 urang
 urap
 uras
