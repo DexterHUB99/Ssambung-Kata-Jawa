@@ -408,6 +408,7 @@ aren
 areng
 arep
 arepan
+arepe
 arga
 ari
 aria
@@ -900,6 +901,7 @@ ehu
 ehup
 ehuy
 eja
+ejik
 eju
 ek
 eka
@@ -1032,6 +1034,7 @@ enul
 epa
 epah
 epan
+epas
 epep
 epi
 epic
@@ -2260,6 +2263,7 @@ kopyor
 kora
 koran
 korban
+korek
 kori
 kos
 kosan
@@ -3040,6 +3044,7 @@ ngasuh
 ngatal
 ngatemi
 ngatuk
+ngatur
 ngaturaken
 ngaur
 ngawai
