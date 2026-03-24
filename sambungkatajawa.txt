@@ -661,6 +661,7 @@ hias
 hiasan
 hidup
 hihihi
+hijau
 hiji
 hilang
 hina
@@ -845,6 +846,7 @@ jahe
 jakaa
 jam
 jancok
+jangan
 jangkrik
 jara
 jawa
@@ -1022,6 +1024,7 @@ kupat
 kuping
 kur
 kurang
+kurawa
 kurma
 kursi
 kurus
@@ -1673,6 +1676,7 @@ riki
 rikma
 rila
 rima
+rimi
 rin
 rindu
 ringkasan
@@ -1701,6 +1705,7 @@ rondo
 rono
 rop
 roro
+rosi
 roso
 roti
 rowo
@@ -1832,6 +1837,7 @@ sui
 suk
 suka
 sula
+sulak
 sule
 suling
 sultan
@@ -2016,6 +2022,7 @@ undi
 undur
 undura
 unggas
+ungger
 unggul
 ungkal
 ungkap
