@@ -865,6 +865,7 @@ demok
 dempet
 dempul
 dengkul
+dening
 depi
 dereng
 des
@@ -2411,6 +2412,7 @@ kirab
 kirek
 kiri
 kirik
+kiring
 kis
 kisa
 kisan
