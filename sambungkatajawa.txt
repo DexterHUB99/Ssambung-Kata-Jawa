@@ -52,6 +52,7 @@ ahen
 ahh
 ahhh
 ahi
+ahig
 ahik
 ahil
 ahir
@@ -431,6 +432,7 @@ bacot
 bae
 bagong
 bagus
+bah
 bahan
 bajing
 baju
@@ -1543,6 +1545,7 @@ kebun
 kecut
 kedadi
 kedai
+kek
 keke
 kekel
 kekunci
@@ -1570,6 +1573,7 @@ kemul
 ken
 kena
 kencur
+kendel
 kendi
 kene
 kenek
@@ -1744,6 +1748,7 @@ kuru
 kurung
 kurus
 kus
+kusir
 kuta
 kutah
 kutan
@@ -1826,6 +1831,7 @@ lee
 lek
 lele
 lemah
+lembah
 lembur
 lembut
 lemes
@@ -2871,6 +2877,7 @@ remes
 rempah
 rempela
 remu
+remuk
 renang
 rene
 rengginang
