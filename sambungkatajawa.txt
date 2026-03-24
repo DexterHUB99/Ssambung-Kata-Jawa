@@ -247,6 +247,7 @@ atia
 atir
 atis
 atit
+atok
 atom
 atos
 atret
@@ -449,6 +450,7 @@ enek
 enggal
 enggan
 enggeh
+engko
 eni
 eno
 enok
@@ -861,6 +863,7 @@ isui
 isuk
 isun
 isya
+it
 ita
 itaa
 itai
@@ -894,6 +897,7 @@ jebul
 jembut
 jembutmu
 jeruk
+jiga
 jijik
 jika
 jilat
@@ -1022,6 +1026,7 @@ koko
 kokop
 kol
 kolak
+kolam
 koloh
 kolot
 komik
