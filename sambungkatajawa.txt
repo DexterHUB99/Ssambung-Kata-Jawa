@@ -66,7 +66,6 @@ ahih
 ahik
 ahil
 ahir
-ahis
 ahiy
 ahlak
 ahli
@@ -104,7 +103,6 @@ ajar
 ajaran
 ajay
 aje
-ajeg
 ajem
 ajen
 ajeng
@@ -353,7 +351,6 @@ apo
 apolo
 apung
 apus
-apusi
 ar
 ara
 arab
@@ -619,7 +616,6 @@ celeng
 celu
 cemeng
 cen
-cendol
 cengkeh
 ceplok
 cerita
@@ -733,7 +729,6 @@ dulan
 dulang
 dulu
 dulur
-duma
 dumeh
 dungo
 dupo
@@ -907,7 +902,6 @@ epic
 epik
 epin
 epis
-eplak
 epo
 epos
 epu
@@ -990,7 +984,6 @@ eyo
 faji
 fix
 fo
-foto
 ga
 gabah
 gabut
@@ -1098,7 +1091,6 @@ gelo
 gelombang
 gelut
 gema
-gemar
 gemas
 gembel
 gemblung
@@ -1178,6 +1170,7 @@ gorong
 gosok
 gosong
 got
+gotongroyong
 gowo
 goyang
 gudang
@@ -1302,6 +1295,7 @@ hayo
 hayu
 hayuk
 he
+heboh
 hee
 heem
 heh
@@ -1378,6 +1372,7 @@ hujan
 huk
 hukum
 hukume
+hula
 hulu
 huma
 human
@@ -1457,7 +1452,6 @@ ikui
 ikulo
 ikur
 ikut
-ikuti
 ila
 ilah
 ilahi
@@ -1589,6 +1583,7 @@ islam
 isma
 ismi
 iso
+isok
 istana
 istilah
 istri
@@ -1619,6 +1614,7 @@ iwir
 ix
 iy
 iya
+iyaa
 iyata
 iye
 iyes
@@ -1871,7 +1867,6 @@ kepo
 kera
 keran
 kerang
-kerap
 kerat
 keraton
 kere
@@ -1948,6 +1943,7 @@ koe
 koea
 koen
 koh
+koha
 kok
 koko
 kokop
@@ -2045,7 +2041,6 @@ kura
 kurang
 kurawa
 kurma
-kuro
 kursi
 kuru
 kurung
@@ -2224,7 +2219,6 @@ loko
 lola
 loli
 lolo
-lolos
 loma
 lomba
 lombo
@@ -2233,7 +2227,6 @@ lomo
 lompat
 longor
 longsor
-lonjong
 lontar
 lonte
 lontong
@@ -2297,6 +2290,7 @@ mai
 mainan
 maju
 mak
+makam
 makan
 makanan
 maki
@@ -2304,7 +2298,6 @@ makruh
 maku
 malah
 malam
-malas
 male
 malik
 maling
@@ -2584,6 +2577,7 @@ ngaku
 ngala
 ngalah
 ngaleh
+ngaler
 ngali
 ngalih
 ngalor
@@ -2660,6 +2654,7 @@ ngawur
 ngayomi
 ngebet
 ngece
+ngeden
 ngeh
 ngejak
 ngeki
@@ -3112,6 +3107,7 @@ pantai
 pantat
 pante
 pantes
+pantik
 papa
 papah
 papi
@@ -3194,7 +3190,6 @@ pitakon
 pitu
 pitung
 pitutur
-piwulang
 piye
 piyo
 pling
@@ -3393,7 +3388,6 @@ rika
 riki
 rikma
 riko
-riku
 rila
 rim
 rima
@@ -3424,7 +3418,6 @@ rita
 riti
 riwayat
 riya
-riyaya
 ro
 roa
 roboh
@@ -3760,7 +3753,6 @@ tahu
 tai
 taik
 taki
-takon
 tala
 tales
 tali
@@ -4252,8 +4244,10 @@ wii
 wiji
 wik
 wilujeng
+win
 wingi
 wir
+wirama
 wirang
 wita
 witan
@@ -4295,7 +4289,6 @@ yasin
 yati
 yawis
 yaya
-yayi
 yayo
 yen
 yere
@@ -4318,6 +4311,7 @@ yuan
 yuda
 yudi
 yuk
+yuka
 yuko
 yula
 yunani
