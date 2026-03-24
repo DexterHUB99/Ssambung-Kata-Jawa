@@ -1651,7 +1651,9 @@ pijit
 pikun
 pilakon
 pilar
+pilek
 pilu
+pinarak
 pindah
 pindo
 pipi
@@ -1861,6 +1863,7 @@ sial
 sialan
 siap
 siapa
+sigap
 sii
 siji
 sika
