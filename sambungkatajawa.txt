@@ -468,6 +468,7 @@ bela
 belo
 bengek
 beo
+berak
 beras
 beri
 besan
@@ -632,6 +633,7 @@ duren
 durian
 durung
 duso
+dusun
 duwek
 duwit
 duwur
@@ -1058,6 +1060,7 @@ hal
 hala
 halah
 halal
+halangan
 halo
 halus
 ham
@@ -1946,6 +1949,7 @@ lowo
 loyo
 lu
 lucu
+luhur
 luka
 luluh
 lum
@@ -2048,6 +2052,7 @@ mendoan
 meneng
 meri
 metek
+metu
 micek
 mii
 mikir
@@ -2300,6 +2305,7 @@ ngendep
 ngendi
 ngendika
 ngengek
+ngenget
 ngengobrol
 ngenteni
 ngepel
