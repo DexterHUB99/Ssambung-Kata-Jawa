@@ -868,6 +868,7 @@ has
 hasan
 hase
 hati
+hatimu
 haturnuhun
 hawa
 hawane
@@ -2169,6 +2170,7 @@ piye
 piyo
 pling
 po
+pocong
 pojok
 pok
 polah
