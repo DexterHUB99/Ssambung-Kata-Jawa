@@ -636,6 +636,7 @@ eni
 eno
 enok
 entar
+ente
 entek
 enteng
 enteni
@@ -1313,6 +1314,7 @@ kasur
 kasure
 katak
 kate
+kates
 katok
 katrok
 katuh
@@ -1976,6 +1978,7 @@ ngirit
 ngisen
 ngiseng
 ngisep
+ngisi
 ngisih
 ngising
 ngitung
@@ -2500,6 +2503,7 @@ roket
 rokok
 rolas
 rolo
+roma
 rombak
 rombong
 rombongan
@@ -3025,6 +3029,7 @@ uripmu
 uritan
 urli
 urna
+urta
 uruk
 urun
 urunan
