@@ -2048,6 +2048,7 @@ jago
 jagung
 jahe
 jakaa
+jaket
 jalii
 jam
 jaman
@@ -3056,6 +3057,7 @@ mur
 murah
 murup
 musa
+musan
 muse
 musi
 musim
