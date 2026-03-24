@@ -404,6 +404,7 @@ apem
 apen
 api
 apik
+apikan
 apo
 apolo
 apu
@@ -4138,6 +4139,7 @@ rokok
 rola
 rolas
 rolo
+rom
 roma
 rombak
 rombong
