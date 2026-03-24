@@ -24,6 +24,7 @@ adin
 adipati
 adu
 aduh
+aduk
 adus
 ae
 aeng
@@ -763,6 +764,7 @@ emut
 en
 ena
 enak
+encok
 endah
 endang
 endas
@@ -1737,6 +1739,7 @@ ko
 kobong
 kocak
 koclok
+kocok
 kodok
 koe
 koea
@@ -2763,6 +2766,7 @@ pahing
 paido
 pait
 pajak
+paji
 pak
 paka
 paku
@@ -3502,6 +3506,7 @@ tulen
 tuli
 tulis
 tulung
+tulungagung
 tum
 tuma
 tuman
