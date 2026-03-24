@@ -97,6 +97,7 @@ amba
 ambeng
 ambil
 amblas
+ambulan
 ambyar
 ameh
 amen
@@ -135,6 +136,7 @@ andong
 anduk
 ane
 aneh
+angel
 angker
 angklung
 angsa
@@ -414,6 +416,7 @@ epa
 epan
 epik
 epis
+epo
 epos
 epu
 era
@@ -493,6 +496,7 @@ gel
 gela
 gelang
 gelem
+geleman
 gelo
 gelut
 gema
@@ -767,6 +771,7 @@ isih
 isin
 islam
 iso
+istri
 isu
 isui
 isuk
@@ -1048,6 +1053,7 @@ lumi
 lumrah
 lungguh
 lupa
+luput
 lurah
 lusuh
 luwe
@@ -1169,6 +1175,7 @@ nengdi
 neras
 nete
 netra
+ngaca
 ngaceng
 ngae
 ngaji
@@ -1213,6 +1220,7 @@ ngelon
 ngelu
 ngembun
 ngen
+ngendi
 ngendika
 ngenteni
 ngepel
@@ -1372,6 +1380,7 @@ oman
 ombak
 ombe
 ombo
+omo
 omong
 omongan
 ompong
@@ -1554,6 +1563,7 @@ rila
 rima
 rin
 rindu
+ringkasan
 ringo
 rino
 rip
@@ -1768,6 +1778,7 @@ tilem
 timah
 timun
 timur
+tinju
 tiri
 tisu
 titid
@@ -1803,6 +1814,7 @@ tutup
 ua
 uang
 uange
+uban
 ucap
 udah
 udal
