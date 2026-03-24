@@ -4060,6 +4060,7 @@ run
 runcing
 rungkad
 runyam
+rup
 rupa
 rupamu
 rupane
