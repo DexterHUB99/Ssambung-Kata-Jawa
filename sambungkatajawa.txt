@@ -761,6 +761,7 @@ hati
 haturnuhun
 hawa
 hawane
+haya
 hayang
 hayat
 hayu
@@ -1260,6 +1261,7 @@ lee
 lemah
 lembut
 lemes
+lemper
 lemu
 les
 lesu
