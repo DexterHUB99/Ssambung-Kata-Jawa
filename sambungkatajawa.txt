@@ -600,6 +600,7 @@ colak
 congor
 coro
 cuci
+cucu
 cukup
 cumi
 dada
@@ -1627,6 +1628,7 @@ kala
 kalah
 kalan
 kalap
+kalem
 kaleng
 kali
 kalian
@@ -2094,6 +2096,7 @@ loe
 loh
 lohan
 lok
+loko
 lola
 loli
 lolo
@@ -2301,6 +2304,7 @@ mundur
 munggah
 mungkin
 muntah
+mur
 murah
 musa
 muse
@@ -3889,6 +3893,7 @@ uripmu
 urit
 uritan
 urli
+urma
 urna
 urta
 uru
