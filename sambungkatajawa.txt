@@ -311,6 +311,7 @@ campur
 ce
 cen
 cengkeh
+ceplok
 cerita
 cicak
 cimu
@@ -2134,6 +2135,7 @@ upo
 ur
 ura
 urab
+urai
 uraka
 uram
 urang
@@ -2243,6 +2245,7 @@ yo
 yoh
 yoi
 yok
+yono
 yoopo
 yowes
 yoyo
