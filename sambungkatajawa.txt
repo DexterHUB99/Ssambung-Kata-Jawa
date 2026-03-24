@@ -1202,6 +1202,7 @@ hala
 halah
 halal
 halangan
+hale
 hali
 halo
 halus
@@ -2678,6 +2679,7 @@ ngowoh
 ngsu
 nguber
 ngubur
+ngudang
 ngudek
 ngudud
 ngudut
@@ -4103,6 +4105,7 @@ wii
 wiji
 wik
 wilujeng
+wingi
 wirang
 wita
 witan
