@@ -652,6 +652,7 @@ elang
 elap
 elek
 elel
+elen
 eleng
 eli
 elig
@@ -1240,6 +1241,7 @@ ipi
 ipil
 ipin
 ipna
+ipo
 ipun
 ir
 ira
@@ -2344,6 +2346,7 @@ ohh
 ohhh
 oho
 ohya
+ojek
 ojo
 ojok
 ok
@@ -2983,6 +2986,7 @@ sun
 sunar
 sunat
 sundul
+suntuk
 suo
 supe
 supel
@@ -3026,6 +3030,7 @@ tampol
 tamu
 tamune
 tanah
+tandur
 tangan
 tangguh
 tangi
