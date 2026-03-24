@@ -106,6 +106,7 @@ alien
 aliho
 alii
 alim
+aliran
 alis
 alo
 alu
@@ -331,6 +332,7 @@ bidun
 bijak
 biji
 bila
+bima
 bintang
 bisa
 bisaa
