@@ -469,6 +469,7 @@ bola
 bolo
 bom
 bos
+bosen
 boso
 bot
 botak
@@ -1685,6 +1686,7 @@ lama
 lambe
 lambemu
 lame
+lamek
 lamis
 lamon
 lamongan
@@ -1723,6 +1725,7 @@ lawa
 lawak
 lawang
 lawas
+lawe
 lawuh
 layu
 layuh
@@ -1731,6 +1734,7 @@ lee
 lek
 lele
 lemah
+lembur
 lembut
 lemes
 lemot
@@ -1961,6 +1965,7 @@ mundur
 muntah
 murah
 muse
+musuh
 mute
 na
 nabi
@@ -2481,6 +2486,7 @@ otak
 otol
 otot
 ow
+owah
 ox
 oy
 oyak
