@@ -1051,6 +1051,7 @@ kala
 kalah
 kaleng
 kali
+kalian
 kalimat
 kalo
 kalong
@@ -1898,6 +1899,7 @@ pas
 pasa
 pasti
 patil
+patung
 pean
 pegawai
 pei
