@@ -241,6 +241,7 @@ amira
 amis
 amit
 amoh
+amor
 ampal
 ampar
 ampas
@@ -314,6 +315,7 @@ angus
 ani
 aniani
 anii
+anin
 aning
 anis
 anisa
@@ -357,6 +359,7 @@ anus
 anut
 anyam
 anyar
+anying
 apa
 apaa
 apae
@@ -603,6 +606,7 @@ bisa
 bisaa
 biso
 bisu
+bisue
 bobi
 bojo
 bokong
@@ -633,8 +637,10 @@ buku
 bulan
 bulu
 bumbu
+bumi
 bunga
 buntu
+buri
 bus
 busa
 busuk
@@ -642,6 +648,7 @@ buta
 buto
 butu
 butuh
+ca
 cabe
 caca
 cacat
@@ -652,6 +659,7 @@ cacin
 cacing
 cah
 cai
+caii
 cakep
 campur
 cantik
@@ -678,6 +686,7 @@ cicak
 cici
 cilok
 cimu
+cina
 cincang
 cincin
 cing
@@ -815,6 +824,7 @@ eben
 ebi
 eboh
 ed
+eda
 edan
 edane
 edar
@@ -1032,6 +1042,7 @@ esam
 esan
 escendol
 ese
+esem
 esep
 esi
 esih
@@ -1122,6 +1133,7 @@ gamelan
 gamis
 gamma
 gampang
+gampil
 gan
 gandeng
 gandos
@@ -1255,6 +1267,7 @@ giring
 gita
 gitar
 giwang
+glagah
 go
 goblok
 godog
@@ -1634,6 +1647,7 @@ ina
 inah
 inai
 inak
+inam
 inang
 indah
 indang
@@ -1712,6 +1726,7 @@ isam
 isan
 isap
 isek
+isen
 iseng
 isep
 isi
@@ -1720,6 +1735,7 @@ isih
 isii
 isin
 isini
+isla
 islam
 isma
 ismi
@@ -2035,6 +2051,7 @@ kepo
 kera
 keran
 kerang
+keras
 kerat
 keraton
 kere
@@ -2244,6 +2261,7 @@ lagi
 lagu
 lague
 lah
+lahir
 laki
 lakon
 laku
@@ -2343,6 +2361,7 @@ lesu
 lewat
 li
 lia
+liana
 liane
 liar
 libur
@@ -2518,6 +2537,7 @@ mami
 mampu
 mampus
 mamrih
+man
 mana
 manah
 mancing
@@ -2591,11 +2611,13 @@ metek
 metu
 mia
 micek
+mie
 mii
 mikir
 mila
 mili
 milu
+min
 minat
 mingat
 mingkem
@@ -2981,6 +3003,7 @@ ngidek
 ngidu
 ngidul
 ngih
+ngikut
 ngila
 ngilang
 ngiler
@@ -2988,6 +3011,7 @@ ngiling
 ngilu
 ngimpi
 ngipasi
+ngira
 ngiri
 ngiris
 ngirit
@@ -3078,6 +3102,7 @@ nguta
 ngutang
 ngutangan
 ngutil
+nguyu
 nguyuh
 nguyup
 nguyur
@@ -3115,11 +3140,13 @@ ninggal
 ningsih
 nini
 ninine
+ninja
 nio
 nipan
 nipon
 nipun
 nira
+niri
 nis
 nisa
 nisan
@@ -3164,10 +3191,12 @@ nu
 nua
 nubruk
 nuduh
+nue
 nuh
 nuhun
 nui
 nuki
+nuku
 nul
 nula
 nuli
@@ -3202,6 +3231,7 @@ nuwun
 ny
 nyai
 nyangkul
+nyani
 nyanyi
 nyapu
 nyawiji
@@ -3395,6 +3425,7 @@ paji
 pak
 paka
 paku
+pala
 palang
 paling
 palu
@@ -3548,6 +3579,7 @@ porasi
 porno
 poro
 pos
+posi
 pot
 potong
 prei
@@ -3808,6 +3840,7 @@ rukun
 rumah
 rumbai
 rumbak
+rumbuk
 rumiyin
 rumongso
 rumput
@@ -3929,6 +3962,7 @@ sembah
 semi
 semok
 sempak
+sendal
 seng
 senok
 sepele
@@ -4206,6 +4240,7 @@ temriki
 temu
 tenan
 tenang
+teng
 tengah
 tengen
 teran
@@ -4322,6 +4357,7 @@ tusuk
 tuti
 tutup
 tuwo
+tuyul
 ua
 uang
 uange
@@ -4347,6 +4383,7 @@ uduk
 udunen
 udur
 udut
+ue
 uen
 uga
 uget
@@ -4484,6 +4521,7 @@ untuk
 untumu
 untune
 untung
+uo
 upa
 upacara
 upah
@@ -4616,6 +4654,7 @@ wanie
 wanita
 waras
 wareg
+waria
 warna
 warnae
 warung
@@ -4659,6 +4698,7 @@ wik
 wilujeng
 win
 wingi
+wio
 wir
 wirama
 wirang
@@ -4738,6 +4778,7 @@ yunani
 yung
 yuni
 yura
+yusan
 yuti
 yuyu
 yuyun
