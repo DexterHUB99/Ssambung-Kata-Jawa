@@ -519,6 +519,7 @@ bebas
 bebe
 bebek
 becak
+bego
 bela
 belo
 bengek
@@ -2101,6 +2102,7 @@ lat
 latah
 latar
 lati
+latih
 latu
 laut
 lawa
