@@ -2989,6 +2989,7 @@ nete
 neteh
 netek
 netra
+newa
 ngaben
 ngaca
 ngaceng
@@ -4181,6 +4182,7 @@ segawon
 segera
 sego
 seh
+sejum
 sek
 sekar
 seket
@@ -4231,6 +4233,7 @@ sialan
 siamang
 siap
 siapa
+sie
 sigap
 sii
 siji
@@ -4930,6 +4933,7 @@ wanie
 wanita
 waras
 wareg
+warga
 waria
 warna
 warnae
