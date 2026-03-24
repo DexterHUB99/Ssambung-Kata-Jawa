@@ -2786,6 +2786,7 @@ lipa
 lipan
 lipas
 lipat
+lipet
 liren
 lirih
 lirik
