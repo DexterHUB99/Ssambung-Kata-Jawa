@@ -619,6 +619,7 @@ dik
 dikon
 dilan
 dima
+dimah
 dimana
 dimas
 din
@@ -1778,6 +1779,7 @@ kontrol
 konyol
 kop
 kopi
+kopii
 koplak
 koplo
 kopyor
@@ -2162,6 +2164,7 @@ moh
 moleh
 molen
 molok
+mondok
 monggo
 monyet
 mori
