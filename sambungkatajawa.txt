@@ -303,6 +303,7 @@ bos
 boso
 bu
 buang
+buku
 bulan
 bus
 buto
@@ -1086,6 +1087,7 @@ lancar
 landep
 langsing
 laos
+lapar
 laron
 las
 lati
@@ -1278,6 +1280,7 @@ nangis
 nangka
 nani
 nanti
+naon
 nap
 napa
 napi
@@ -1461,6 +1464,7 @@ nisan
 nite
 nitih
 nitip
+nnduk
 no
 noh
 noken
