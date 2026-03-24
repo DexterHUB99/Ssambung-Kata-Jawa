@@ -378,6 +378,7 @@ empot
 ena
 enak
 endah
+endang
 endas
 endi
 endog
@@ -517,6 +518,7 @@ gosong
 gowo
 goyang
 gula
+guli
 gumun
 guna
 gunung
@@ -768,6 +770,7 @@ jawi
 jebul
 jembut
 jembutmu
+jeruk
 jijik
 jika
 jin
@@ -803,6 +806,7 @@ kare
 karep
 karo
 kas
+kasir
 kasur
 kate
 katok
@@ -965,6 +969,7 @@ lingkaran
 lingsir
 lintah
 lipan
+lipas
 lipat
 liren
 lis
@@ -1497,6 +1502,7 @@ rokok
 rolas
 rombak
 rombong
+romo
 ron
 rondo
 rono
