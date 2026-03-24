@@ -255,6 +255,7 @@ apik
 apo
 apolo
 apung
+apus
 ar
 ara
 arab
@@ -708,6 +709,7 @@ galih
 galon
 gaman
 gambar
+gambleh
 gambuh
 gamel
 gamelan
@@ -2193,6 +2195,7 @@ pait
 pak
 paka
 paku
+paling
 palu
 pana
 panah
@@ -2543,6 +2546,7 @@ sigap
 sii
 siji
 sika
+sikat
 sikil
 siku
 sila
@@ -2823,6 +2827,7 @@ uhi
 uho
 ui
 uing
+uja
 ujan
 ujar
 uji
