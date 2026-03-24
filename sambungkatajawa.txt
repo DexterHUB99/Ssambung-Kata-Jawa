@@ -301,6 +301,7 @@ boso
 bu
 buang
 bulan
+bus
 buto
 campur
 ce
@@ -1816,6 +1817,7 @@ sera
 serem
 ses
 sesama
+sesok
 si
 sial
 sialan
