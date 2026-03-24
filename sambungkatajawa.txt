@@ -64,6 +64,7 @@ akeh
 akhir
 aki
 akii
+ako
 aksara
 aku
 akuk
@@ -821,6 +822,7 @@ kare
 karep
 karo
 kas
+kasar
 kasir
 kasur
 kate
@@ -873,6 +875,7 @@ kilen
 kin
 kini
 kintel
+kios
 kira
 kirab
 kirek
@@ -891,6 +894,7 @@ kokop
 kol
 kolak
 koloh
+kolot
 komik
 kompor
 kon
@@ -1242,6 +1246,7 @@ ngunu
 nguping
 ngusel
 ngusu
+ngutang
 nguyup
 ni
 nia
@@ -1564,6 +1569,7 @@ ruwet
 sa
 sabar
 sabi
+sae
 saestu
 saged
 saiki
