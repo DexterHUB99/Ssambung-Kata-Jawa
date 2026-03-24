@@ -26,6 +26,7 @@ adu
 aduh
 adus
 ae
+aeng
 aengi
 afi
 aga
@@ -1320,6 +1321,7 @@ imam
 iman
 imas
 imba
+imbal
 imbalan
 imbang
 imbas
@@ -2289,6 +2291,7 @@ ngajar
 ngaji
 ngak
 ngaka
+ngaku
 ngalah
 ngaleh
 ngali
