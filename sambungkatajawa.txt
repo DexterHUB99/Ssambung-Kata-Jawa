@@ -1082,6 +1082,7 @@ gulu
 gumuh
 gumun
 guna
+gunane
 gundam
 gundik
 gundul
@@ -2373,6 +2374,7 @@ ngangsu
 nganjuk
 ngano
 ngantemi
+nganteni
 nganter
 nganti
 ngantuk
@@ -3955,5 +3957,6 @@ yunani
 yung
 yuni
 yura
+yuti
 yuyu
 zamzam
