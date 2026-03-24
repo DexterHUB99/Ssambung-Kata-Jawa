@@ -3214,6 +3214,7 @@ ngantri
 ngantuk
 ngantun
 nganu
+nganyeli
 ngaos
 ngapa
 ngapae
@@ -3397,6 +3398,7 @@ ngolok
 ngomah
 ngombe
 ngombek
+ngomei
 ngomel
 ngomong
 ngomongo
@@ -4555,6 +4557,7 @@ som
 somat
 sombong
 songo
+songong
 sonten
 sop
 sopan
