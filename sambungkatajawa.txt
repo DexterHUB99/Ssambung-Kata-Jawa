@@ -688,6 +688,7 @@ ewe
 ewee
 ex
 eyo
+fix
 ga
 gabah
 gabut
@@ -799,6 +800,7 @@ giman
 gimbal
 ginjal
 girang
+giring
 gitar
 goblok
 godog
@@ -2061,6 +2063,7 @@ nun
 nunggangi
 nunjuk
 nuntun
+nunung
 nunut
 nur
 nuri
@@ -2375,6 +2378,7 @@ rebut
 rebutan
 regane
 rek
+rekoso
 relo
 remba
 rembes
@@ -2597,6 +2601,7 @@ sodok
 sodom
 soki
 soko
+sokor
 sol
 sola
 solar
@@ -2901,6 +2906,7 @@ umpan
 umra
 umum
 umur
+un
 una
 unah
 unan
@@ -3005,6 +3011,7 @@ uwis
 uwong
 ux
 uy
+uye
 uyuh
 uz
 wa
