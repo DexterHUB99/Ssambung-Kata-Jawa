@@ -26,6 +26,7 @@ ahad
 ahah
 ahak
 aham
+ahan
 ahap
 ahas
 ahat
@@ -688,6 +689,7 @@ hase
 hati
 haturnuhun
 hawa
+hawane
 hayang
 hayat
 hayu
@@ -1286,6 +1288,7 @@ mulus
 mumet
 mumpung
 mundur
+muntah
 murah
 mute
 na
