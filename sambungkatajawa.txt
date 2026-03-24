@@ -177,6 +177,7 @@ anal
 anan
 anang
 anas
+anci
 ancok
 ancur
 anda
@@ -2303,6 +2304,7 @@ rowang
 rowo
 ruang
 rubuh
+rugi
 rukun
 rumah
 rumput
