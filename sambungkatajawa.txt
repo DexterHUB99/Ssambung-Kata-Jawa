@@ -328,6 +328,7 @@ atu
 atuh
 atuk
 atum
+atun
 atur
 auh
 aul
@@ -684,6 +685,7 @@ eyo
 ga
 gabah
 gabut
+gaduh
 gadung
 gae
 gagah
@@ -1279,6 +1281,7 @@ kaya
 kayu
 ke
 keano
+kebong
 kebun
 kecut
 kedadi
@@ -1770,6 +1773,7 @@ nawar
 nawi
 ndasmu
 negara
+neges
 neh
 nek
 neko
@@ -2009,6 +2013,7 @@ nki
 nnduk
 no
 noh
+nok
 noken
 nol
 nolak
@@ -2104,6 +2109,7 @@ olom
 olong
 oloo
 olot
+om
 oma
 omae
 omah
@@ -2147,6 +2153,7 @@ oposi
 or
 ora
 orak
+oraki
 oran
 orang
 orek
