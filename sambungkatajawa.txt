@@ -119,6 +119,7 @@ amerga
 amet
 ami
 amin
+amir
 amis
 amit
 amoh
@@ -482,6 +483,7 @@ esa
 esaa
 esai
 esan
+escendol
 esi
 eso
 esok
@@ -1184,6 +1186,7 @@ mardi
 marii
 mas
 masak
+masih
 masu
 masuk
 mat
@@ -1339,6 +1342,7 @@ ngawas
 ngawi
 ngawor
 ngawur
+ngayomi
 ngeh
 ngejak
 ngelag
@@ -1661,6 +1665,7 @@ rae
 ragelem
 ragil
 rai
+raiku
 raimu
 raiso
 rak
@@ -1781,6 +1786,7 @@ saiki
 saing
 sakit
 salah
+salam
 salim
 salut
 sam
