@@ -68,6 +68,7 @@ ahek
 ahem
 ahen
 aher
+ahes
 ahh
 ahhh
 ahi
@@ -945,6 +946,7 @@ edar
 edaran
 edi
 edo
+edos
 eeh
 eenak
 ef
@@ -1890,6 +1892,7 @@ insan
 inti
 intil
 intine
+intip
 inul
 ipa
 ipak
