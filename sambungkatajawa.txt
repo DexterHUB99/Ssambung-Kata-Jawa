@@ -19,6 +19,7 @@ abu
 abuh
 aca
 acar
+ace
 aceh
 aci
 acik
@@ -805,6 +806,7 @@ celek
 celeng
 celu
 celuk
+cema
 cemeng
 cen
 cengkeh
@@ -1519,6 +1521,7 @@ gilaa
 gilak
 gilang
 gilani
+gilik
 gilo
 giman
 gimbal
@@ -4656,6 +4659,7 @@ sedaya
 segawon
 segera
 sego
+segoro
 seh
 sejum
 sek
