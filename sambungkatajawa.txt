@@ -3258,6 +3258,7 @@ ngnu
 ngobrol
 ngocok
 ngoh
+ngojah
 ngojek
 ngok
 ngoko
@@ -4668,6 +4669,7 @@ tulen
 tuli
 tulip
 tulis
+tulisan
 tulung
 tulungagung
 tum
@@ -4683,6 +4685,7 @@ tumpeng
 tumrap
 tuna
 tunas
+tundhuk
 tunggal
 tunggu
 tupa
