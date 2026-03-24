@@ -950,6 +950,7 @@ eling
 elir
 elit
 elo
+eloh
 elok
 elokan
 elor
@@ -1481,6 +1482,7 @@ harian
 harimau
 harimo
 harimu
+harjo
 harta
 hartamu
 haru
@@ -1489,6 +1491,7 @@ harus
 has
 hasan
 hase
+hasem
 hasil
 hasrat
 hasut
@@ -2655,6 +2658,7 @@ male
 malem
 malik
 maling
+malu
 mam
 mama
 mamah
