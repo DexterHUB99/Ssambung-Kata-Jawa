@@ -178,6 +178,7 @@ alos
 alot
 alu
 alum
+alumni
 alun
 alunan
 alur
@@ -2978,6 +2979,7 @@ panah
 pancen
 panci
 pandu
+pangan
 panggah
 panggo
 panjang
@@ -3701,6 +3703,7 @@ tinggal
 tinju
 tirai
 tiri
+tisa
 tisu
 tita
 titi
