@@ -1188,6 +1188,7 @@ eta
 etah
 etan
 etap
+etawa
 ete
 etek
 eten
@@ -2866,6 +2867,7 @@ mayaa
 mayat
 mbah
 mbok
+mbuh
 me
 medal
 medeni
@@ -4505,6 +4507,7 @@ sodok
 sodom
 sok
 soki
+sokin
 soko
 sokor
 sol
