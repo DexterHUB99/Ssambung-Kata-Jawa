@@ -220,6 +220,7 @@ angger
 angin
 angker
 angklung
+angkot
 angsa
 angsal
 angsle
@@ -1355,6 +1356,7 @@ karung
 kas
 kasar
 kase
+kasep
 kasir
 kasur
 kasure
