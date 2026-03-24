@@ -86,6 +86,7 @@ akih
 akii
 ako
 aksara
+aksi
 aku
 akuk
 akun
@@ -274,6 +275,7 @@ atuh
 atum
 atur
 aup
+aura
 autan
 awa
 awas
@@ -312,6 +314,7 @@ bebek
 bela
 belo
 beo
+beri
 biawak
 biba
 bibik
@@ -917,6 +920,7 @@ irus
 is
 isa
 isak
+isam
 isan
 isap
 iseng
@@ -988,6 +992,7 @@ joni
 jori
 kabeh
 kadal
+kadang
 kain
 kajut
 kak
@@ -1036,6 +1041,7 @@ kasur
 kate
 katok
 katuh
+katus
 kawani
 kawin
 kawit
@@ -1379,6 +1385,7 @@ mripat
 mugi
 muh
 muji
+muka
 mul
 mulaa
 mulai
@@ -1663,6 +1670,7 @@ nula
 nulis
 numpak
 nun
+nunggangi
 nuntun
 nunut
 nur
@@ -2432,6 +2440,7 @@ utara
 ute
 utek
 utekmu
+utel
 uti
 utir
 uto
