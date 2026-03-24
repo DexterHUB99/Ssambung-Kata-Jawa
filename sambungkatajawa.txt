@@ -89,6 +89,7 @@ alara
 alasan
 alhamdulillah
 ali
+alien
 alii
 alim
 alis
@@ -299,6 +300,7 @@ buto
 campur
 ce
 cen
+cengkeh
 cerita
 cicak
 cimu
@@ -887,6 +889,7 @@ kanggo
 kanjut
 kanti
 kantil
+kapal
 kapan
 kapok
 kare
@@ -1173,6 +1176,7 @@ modar
 moh
 moleh
 monggo
+mori
 moto
 motor
 mripat
@@ -1198,6 +1202,7 @@ nabrak
 nadah
 naek
 nafas
+naga
 nagih
 nah
 naik
@@ -1643,6 +1648,7 @@ rayu
 re
 rebo
 rebut
+rebutan
 rek
 relo
 remba
@@ -1655,6 +1661,7 @@ repot
 rere
 resah
 resik
+reti
 ria
 riang
 ribet
@@ -1780,6 +1787,7 @@ sinten
 sir
 sirah
 siram
+sirih
 siro
 sis
 sisi
