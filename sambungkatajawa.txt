@@ -1233,6 +1233,7 @@ karo
 karung
 kas
 kasar
+kase
 kasir
 kasur
 kasure
@@ -1775,6 +1776,7 @@ ngapa
 ngapae
 ngapain
 ngapak
+ngapel
 ngapi
 ngapu
 ngapunten
@@ -2368,6 +2370,7 @@ roso
 roti
 rowang
 rowo
+royo
 ruang
 rubuh
 rugi
@@ -2595,6 +2598,7 @@ tampar
 tampol
 tamu
 tamune
+tangan
 tangguh
 tangi
 tani
