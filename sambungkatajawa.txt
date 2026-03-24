@@ -541,6 +541,7 @@ busa
 busuk
 buta
 buto
+butu
 butuh
 cacat
 caci
@@ -836,6 +837,7 @@ eror
 eros
 erosi
 eruh
+erui
 erung
 erungi
 erup
@@ -993,6 +995,7 @@ genteng
 gentong
 genuk
 geo
+ger
 gerah
 gerak
 geram
@@ -2399,6 +2402,7 @@ ngelmu
 ngelon
 ngelu
 ngembun
+ngemong
 ngemot
 ngemut
 ngen
@@ -3405,6 +3409,7 @@ taman
 tamba
 tambah
 tambak
+tambang
 tameng
 tampar
 tampol
