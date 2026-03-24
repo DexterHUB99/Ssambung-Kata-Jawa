@@ -553,6 +553,7 @@ bosok
 bot
 botak
 boti
+botok
 bowo
 bu
 buang
@@ -3425,6 +3426,7 @@ sasi
 sate
 satu
 sawah
+sawan
 sawer
 sawit
 saya
