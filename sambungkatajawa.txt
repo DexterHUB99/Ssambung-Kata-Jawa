@@ -532,6 +532,7 @@ biang
 biasa
 biawak
 biba
+bibar
 bibi
 bibik
 bidan
@@ -1667,6 +1668,7 @@ jujur
 jumat
 ka
 kaba
+kabar
 kabeh
 kaca
 kacuk
@@ -2288,6 +2290,7 @@ mani
 manis
 manten
 mantu
+mantuk
 mantul
 mantun
 manuk
@@ -3794,6 +3797,7 @@ tinggal
 tinju
 tirai
 tiri
+tiru
 tisa
 tisu
 tita
@@ -4126,6 +4130,7 @@ waduh
 waduk
 wae
 wage
+wah
 wahyu
 wajah
 waktu
@@ -4244,4 +4249,5 @@ yura
 yuti
 yuyu
 yuyun
+zahra
 zamzam
