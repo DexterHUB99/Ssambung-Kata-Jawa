@@ -1222,6 +1222,7 @@ gembel
 gemblung
 gembok
 gemi
+gempil
 gen
 genah
 genape
@@ -1651,6 +1652,7 @@ inah
 inai
 inak
 inam
+inama
 inang
 indah
 indang
@@ -2230,6 +2232,7 @@ kuno
 kunti
 kuntul
 kunyuk
+kupan
 kupas
 kupat
 kupeng
@@ -4478,6 +4481,7 @@ umbah
 umbar
 umbel
 umbi
+umbul
 umi
 umo
 umpama
@@ -4782,6 +4786,7 @@ yuka
 yuki
 yuko
 yula
+yumi
 yunani
 yung
 yuni
