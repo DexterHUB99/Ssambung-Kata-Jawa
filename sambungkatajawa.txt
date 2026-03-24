@@ -122,6 +122,7 @@ ajing
 ajining
 ajir
 ajor
+aju
 ajur
 ak
 aka
@@ -395,6 +396,7 @@ arap
 aras
 ardi
 arek
+arem
 aren
 areng
 arep
@@ -454,6 +456,7 @@ asna
 asor
 asoy
 aspal
+asta
 astaga
 astane
 asu
@@ -1224,6 +1227,7 @@ gel
 gela
 gelang
 gelange
+gelap
 gelem
 geleman
 geli
@@ -2106,6 +2110,7 @@ kese
 kesem
 keset
 kesleo
+kesusu
 ketan
 ketel
 ketemu
@@ -2357,6 +2362,7 @@ las
 lasa
 lasak
 lase
+lasi
 lat
 latah
 latar
@@ -2714,6 +2720,7 @@ mules
 muli
 mulia
 mulih
+mulung
 mulus
 mulya
 mumet
@@ -3710,6 +3717,7 @@ rakha
 raki
 rakus
 rama
+ramae
 ramah
 ramai
 raman
