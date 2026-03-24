@@ -5,6 +5,7 @@ aaha
 ab
 abab
 abah
+abai
 abal
 abang
 abe
@@ -1736,6 +1737,7 @@ iki
 ikie
 ikih
 ikii
+ikio
 iklim
 iko
 ikoe
@@ -2827,6 +2829,7 @@ mawon
 mayaa
 mayat
 mbah
+mbok
 me
 medal
 medeni
@@ -2929,6 +2932,7 @@ muntah
 munyuk
 mur
 murah
+murup
 musa
 muse
 musi
@@ -4503,6 +4507,7 @@ sule
 sulem
 suli
 suling
+sulo
 sultan
 sum
 sumbang
