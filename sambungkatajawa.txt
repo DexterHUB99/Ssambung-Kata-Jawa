@@ -402,6 +402,7 @@ api
 apik
 apo
 apolo
+apu
 apun
 apung
 apus
@@ -2074,6 +2075,7 @@ kang
 kangen
 kanggo
 kangkung
+kangmas
 kanjeng
 kanjut
 kanti
