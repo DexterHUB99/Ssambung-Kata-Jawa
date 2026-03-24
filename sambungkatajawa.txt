@@ -745,6 +745,7 @@ cecak
 cece
 cecek
 ceki
+cela
 celak
 celana
 celek
@@ -3482,6 +3483,7 @@ nin
 nina
 nindak
 ning
+ningali
 ninggal
 ninggali
 ningsih
