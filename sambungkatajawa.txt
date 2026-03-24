@@ -831,6 +831,7 @@ engkang
 engko
 engkol
 eni
+ening
 enjing
 eno
 enok
@@ -1653,6 +1654,7 @@ kampung
 kampungan
 kamu
 kamus
+kan
 kanak
 kanan
 kanca
@@ -2099,6 +2101,7 @@ lober
 lobi
 lodeh
 loe
+logat
 loh
 lohan
 lok
