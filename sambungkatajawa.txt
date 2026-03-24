@@ -724,7 +724,6 @@ cuci
 cucu
 cukup
 cumi
-cupu
 curut
 dada
 dadah
@@ -1146,6 +1145,7 @@ gak
 gaki
 gal
 gala
+galae
 galah
 galak
 galan
@@ -1566,10 +1566,8 @@ human
 humor
 huni
 huri
-hurip
 huruf
 hurung
-hurup
 hus
 hutan
 hutang
@@ -1932,7 +1930,6 @@ kados
 kadung
 kadus
 kae
-kafir
 kain
 kaine
 kaisa
@@ -2174,7 +2171,6 @@ kini
 kinjeng
 kintel
 kios
-kipas
 kir
 kira
 kirab
@@ -2763,7 +2759,6 @@ mulya
 mumet
 mumi
 mumpung
-mundak
 mundhut
 mundur
 munggah
@@ -2887,7 +2882,6 @@ nekar
 nekat
 nekate
 neko
-nela
 nelae
 nelen
 neli
@@ -3153,7 +3147,6 @@ ngonde
 ngong
 ngoni
 ngono
-ngopak
 ngoper
 ngopi
 ngopo
@@ -3339,7 +3332,6 @@ nutur
 nuwun
 ny
 nyai
-nyamuk
 nyangkul
 nyani
 nyanyi
@@ -3609,6 +3601,7 @@ pepek
 peran
 perlu
 pesing
+peso
 peteng
 peyek
 php
@@ -3631,7 +3624,6 @@ pilot
 pilu
 pin
 pina
-pinang
 pinarak
 pincang
 pindah
@@ -3990,6 +3982,7 @@ rusa
 rusak
 rusi
 rusma
+ruso
 rusuh
 rute
 ruwat
@@ -4178,7 +4171,6 @@ siro
 sis
 sisa
 sisi
-sisih
 sisir
 sisok
 siti
@@ -4498,7 +4490,6 @@ tumpak
 tumpeng
 tumrap
 tuna
-tunas
 tunggal
 tunggu
 tupa
@@ -4853,7 +4844,6 @@ werkudara
 werno
 weruh
 wes
-wesi
 wet
 wetan
 weteng
@@ -4957,3 +4947,4 @@ yuyun
 zahra
 zamzam
 ziarah
+zuhur
