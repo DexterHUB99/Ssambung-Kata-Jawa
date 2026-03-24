@@ -493,6 +493,7 @@ beo
 berak
 beras
 beri
+bes
 besan
 biang
 biasa
@@ -872,6 +873,7 @@ estri
 esu
 esua
 esue
+esui
 esuk
 et
 eta
@@ -3758,6 +3760,7 @@ untu
 untua
 untuk
 untumu
+untune
 untung
 upa
 upah
