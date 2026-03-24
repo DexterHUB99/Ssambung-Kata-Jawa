@@ -685,6 +685,7 @@ emas
 embah
 ember
 emboh
+embok
 embong
 embuh
 emes
@@ -712,6 +713,7 @@ enggal
 enggan
 enggeh
 engko
+engkol
 eni
 enjing
 eno
@@ -1479,6 +1481,7 @@ keke
 kekel
 kela
 kelakon
+kelam
 kelangan
 kelas
 kelek
@@ -2553,6 +2556,7 @@ pei
 peju
 peko
 pekok
+pela
 peler
 peli
 pen
@@ -2974,6 +2978,7 @@ sodara
 sodir
 sodok
 sodom
+sok
 soki
 soko
 sokor
