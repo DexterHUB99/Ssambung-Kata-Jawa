@@ -339,6 +339,7 @@ astane
 asu
 asuh
 asui
+at
 ata
 atah
 atap
@@ -1396,6 +1397,7 @@ kates
 katok
 katrok
 katuh
+katur
 katus
 kawani
 kawasan
@@ -1599,6 +1601,7 @@ kuta
 kutah
 kutan
 kutang
+kutek
 kutha
 kutu
 la
@@ -2209,6 +2212,7 @@ nite
 niti
 nitih
 nitip
+njaluk
 nki
 nnduk
 no
@@ -3287,6 +3291,7 @@ uye
 uyuh
 uz
 wa
+wacana
 wadon
 waduh
 waduk
