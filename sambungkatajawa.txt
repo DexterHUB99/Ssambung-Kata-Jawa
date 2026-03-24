@@ -4854,6 +4854,7 @@ udel
 udelmu
 udi
 udin
+udo
 udu
 udud
 uduk
