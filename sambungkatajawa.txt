@@ -226,6 +226,7 @@ aman
 amanah
 amane
 amas
+amat
 amba
 ambar
 ambek
@@ -2564,6 +2565,7 @@ limi
 limo
 limpa
 limu
+limun
 lin
 lina
 linggis
@@ -2737,6 +2739,7 @@ mangga
 manggae
 manggah
 manggis
+mangkuk
 mangsa
 mani
 manis
@@ -4652,6 +4655,7 @@ tubuh
 tugel
 tuh
 tuhan
+tuk
 tukang
 tuku
 tul
