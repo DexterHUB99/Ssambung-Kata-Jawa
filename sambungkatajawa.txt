@@ -692,6 +692,7 @@ caii
 cakep
 campur
 cantik
+caper
 cara
 cari
 carik
@@ -1286,6 +1287,7 @@ geli
 gelis
 gelo
 gelombang
+gelot
 gelut
 gema
 gemas
