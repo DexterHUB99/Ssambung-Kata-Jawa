@@ -953,6 +953,7 @@ iba
 ibadah
 ibak
 ibu
+icone
 ida
 idih
 idii
@@ -1223,6 +1224,7 @@ kas
 kasar
 kasir
 kasur
+kasure
 katak
 kate
 katok
@@ -1490,6 +1492,7 @@ lipan
 lipas
 lipat
 liren
+lirih
 lis
 lisa
 lisan
@@ -2467,6 +2470,7 @@ siro
 sis
 sisa
 sisi
+siti
 siwo
 so
 soba
