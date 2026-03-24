@@ -2804,6 +2804,7 @@ sampean
 sampun
 samun
 sandal
+sanes
 sang
 sangu
 santri
@@ -3284,6 +3285,7 @@ urap
 uras
 urat
 urek
+ures
 uring
 urip
 uripmu
