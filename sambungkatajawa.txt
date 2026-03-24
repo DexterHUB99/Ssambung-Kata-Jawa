@@ -316,6 +316,7 @@ asep
 asew
 asi
 asia
+asii
 asik
 asin
 asing
@@ -1382,6 +1383,7 @@ kema
 kemanten
 kembar
 kempol
+kemproh
 kemul
 ken
 kena
@@ -1513,6 +1515,7 @@ kul
 kula
 kulak
 kuli
+kulina
 kulit
 kulo
 kulon
@@ -1545,6 +1548,7 @@ kurung
 kurus
 kus
 kuta
+kutah
 kutan
 kutang
 kutu
@@ -1892,6 +1896,7 @@ nek
 neka
 nekat
 neko
+neli
 nelongso
 nembe
 nemen
@@ -2364,6 +2369,7 @@ penak
 pentil
 pepe
 pepek
+peran
 perlu
 peteng
 peyek
@@ -2717,6 +2723,7 @@ simbah
 simbok
 sin
 sina
+sing
 singa
 singkong
 singo
