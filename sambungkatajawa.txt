@@ -1112,6 +1112,7 @@ limo
 lingkaran
 lingsir
 lintah
+lio
 lipa
 lipan
 lipas
@@ -1467,6 +1468,7 @@ nos
 nubruk
 nuduh
 nuh
+nui
 nula
 nulis
 numpak
@@ -1864,6 +1866,7 @@ soko
 sol
 sola
 solar
+solat
 solo
 somat
 sombong
