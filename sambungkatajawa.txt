@@ -2622,6 +2622,7 @@ lemper
 lemu
 leng
 lengah
+lenggah
 leren
 leres
 les
@@ -4431,6 +4432,7 @@ semok
 sempak
 sempake
 sendal
+seneng
 seng
 senok
 sepele
