@@ -137,6 +137,7 @@ alas
 alasan
 alay
 ale
+alem
 alhamdulillah
 ali
 alien
@@ -389,6 +390,7 @@ aw
 awa
 awan
 awas
+awe
 awek
 awi
 awu
@@ -2287,6 +2289,7 @@ nin
 nina
 nindak
 ning
+ninggal
 ningsih
 nini
 nio
@@ -2332,6 +2335,7 @@ nua
 nubruk
 nuduh
 nuh
+nuhun
 nui
 nula
 nulis
@@ -3025,6 +3029,7 @@ sun
 sunar
 sunat
 sundul
+sungkem
 suntuk
 suo
 supe
@@ -3338,6 +3343,7 @@ untua
 untuk
 untumu
 untung
+upa
 upah
 upal
 upama
