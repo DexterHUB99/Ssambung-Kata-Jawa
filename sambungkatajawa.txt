@@ -1092,6 +1092,7 @@ gelo
 gelombang
 gelut
 gema
+gemar
 gemas
 gembel
 gemblung
@@ -2222,6 +2223,7 @@ lomo
 lompat
 longor
 longsor
+lonjong
 lontar
 lonte
 lontong
@@ -3380,6 +3382,7 @@ rika
 riki
 rikma
 riko
+riku
 rila
 rim
 rima
@@ -3745,6 +3748,7 @@ tahu
 tai
 taik
 taki
+takon
 tala
 tales
 tali
