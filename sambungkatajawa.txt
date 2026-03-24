@@ -317,6 +317,7 @@ aran
 arang
 arap
 aras
+arek
 aren
 areng
 arep
@@ -873,6 +874,7 @@ gangsing
 ganjar
 ganjil
 ganteng
+ganti
 gantung
 ganyong
 gapuk
@@ -1401,6 +1403,7 @@ jan
 jancok
 janda
 jangan
+jangger
 jangkrik
 jani
 janji
@@ -1492,6 +1495,7 @@ kanca
 kancil
 kancut
 kandang
+kandas
 kang
 kangen
 kanggo
@@ -2041,6 +2045,7 @@ misuh
 mlaku
 modal
 modar
+mogok
 moh
 moleh
 molen
@@ -3053,6 +3058,7 @@ sek
 sekul
 selet
 selo
+semar
 sembah
 sempak
 seng
