@@ -1004,6 +1004,7 @@ encok
 endah
 endang
 endange
+endap
 endas
 endel
 endi
