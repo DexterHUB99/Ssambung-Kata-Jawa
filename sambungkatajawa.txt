@@ -310,6 +310,7 @@ dino
 dipun
 diren
 dodo
+doh
 dolan
 duda
 dudu
@@ -1451,6 +1452,7 @@ pikun
 pilar
 pilu
 pindah
+pindo
 pipi
 pipis
 pipit
@@ -1969,6 +1971,7 @@ yen
 yo
 yoh
 yoi
+yok
 yoopo
 yowes
 yoyo
