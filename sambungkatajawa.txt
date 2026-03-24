@@ -780,6 +780,7 @@ imuh
 imut
 in
 ina
+inak
 inang
 indah
 indang
@@ -1412,6 +1413,7 @@ ngusu
 ngutang
 nguyuh
 nguyup
+ngwes
 ngwur
 ni
 nia
@@ -2021,6 +2023,7 @@ ujian
 uka
 ukar
 ukara
+ukas
 uke
 ukin
 ukir
