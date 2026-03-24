@@ -154,6 +154,7 @@ akie
 akih
 akii
 akik
+akil
 akim
 aking
 akir
@@ -3404,6 +3405,7 @@ niba
 nii
 nik
 nikah
+nikel
 niki
 nikii
 niko
@@ -3663,6 +3665,7 @@ opah
 opak
 opal
 opel
+open
 openi
 oper
 opet
@@ -3868,6 +3871,7 @@ pita
 pitak
 pitakon
 pitek
+pito
 pitu
 pitung
 pitutur
