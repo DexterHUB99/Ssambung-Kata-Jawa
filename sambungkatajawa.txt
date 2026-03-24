@@ -435,6 +435,7 @@ dancok
 dandang
 darah
 dari
+darma
 dasar
 daun
 de
@@ -657,6 +658,7 @@ gagal
 gah
 gaja
 gajah
+gaje
 gaji
 gak
 gaki
@@ -1653,6 +1655,7 @@ napa
 napas
 napi
 nar
+nara
 nari
 narik
 naro
@@ -2157,6 +2160,7 @@ putu
 puyeng
 puyuh
 ra
+raa
 rabi
 raden
 radika
