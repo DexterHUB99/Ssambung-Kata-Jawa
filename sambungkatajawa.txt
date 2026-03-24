@@ -343,6 +343,7 @@ angen
 angep
 angetan
 angger
+anggo
 anggu
 angguk
 anggur
@@ -680,6 +681,7 @@ beras
 beri
 bes
 besan
+beso
 besok
 biak
 biang
@@ -2054,6 +2056,7 @@ ismi
 iso
 isok
 isoo
+isra
 istana
 istighfar
 istilah
@@ -4234,6 +4237,7 @@ pur
 pura
 purek
 puri
+purna
 pusaka
 puser
 pusing
