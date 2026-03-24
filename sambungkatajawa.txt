@@ -657,6 +657,7 @@ gilang
 gilo
 ginjal
 girang
+gitar
 goblok
 godog
 gogol
@@ -1677,7 +1678,9 @@ nono
 nonton
 nopi
 nopo
+norak
 nos
+nota
 nubruk
 nuduh
 nuh
@@ -2105,6 +2108,7 @@ silit
 silitem
 silitmu
 silo
+sim
 simbok
 sin
 sina
@@ -2421,6 +2425,7 @@ uram
 urang
 urap
 uras
+urat
 uring
 urip
 uripmu
