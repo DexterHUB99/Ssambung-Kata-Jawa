@@ -828,6 +828,7 @@ dik
 dikon
 dila
 dilan
+diluk
 dima
 dimah
 diman
@@ -852,6 +853,7 @@ dodo
 dodol
 doh
 dolan
+dolanan
 doman
 domba
 dona
@@ -2612,6 +2614,7 @@ lipas
 lipat
 liren
 lirih
+lirik
 lis
 lisa
 lisan
@@ -3196,6 +3199,7 @@ ngelih
 ngelmu
 ngelok
 ngelon
+ngeloni
 ngelu
 ngembun
 ngemis
