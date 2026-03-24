@@ -1344,6 +1344,7 @@ gambreng
 gambuh
 gambyong
 game
+gamean
 gamel
 gamelan
 gamis
@@ -5104,6 +5105,7 @@ turon
 turu
 turuk
 turukmu
+turuo
 tusuk
 tuti
 tutup
