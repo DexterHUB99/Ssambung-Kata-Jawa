@@ -255,6 +255,7 @@ apung
 ara
 arab
 arah
+arahan
 arak
 aran
 arang
@@ -487,6 +488,7 @@ dodo
 doh
 dolan
 domba
+dona
 dongo
 duda
 dudu
@@ -689,6 +691,7 @@ gaki
 gala
 galak
 galang
+galau
 gali
 galih
 galon
@@ -1241,6 +1244,7 @@ kasure
 katak
 kate
 katok
+katrok
 katuh
 katus
 kawani
@@ -1270,6 +1274,7 @@ kembar
 kemul
 ken
 kena
+kencur
 kendi
 kenopo
 kentang
