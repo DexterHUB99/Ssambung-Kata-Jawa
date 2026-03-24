@@ -157,6 +157,7 @@ ambek
 ambeng
 ambil
 amblas
+amboi
 ambruk
 ambu
 ambulan
@@ -183,6 +184,7 @@ ampus
 amuh
 amuk
 amun
+amung
 an
 ana
 anaa
@@ -241,6 +243,7 @@ anom
 anoman
 anta
 antar
+antara
 antawi
 antek
 antem
@@ -967,6 +970,7 @@ hayo
 hayu
 he
 hee
+heem
 heh
 hehe
 hehi
@@ -1369,6 +1373,7 @@ kedadi
 kedai
 keke
 kela
+kelakon
 kelangan
 kelas
 kelek
@@ -1426,6 +1431,7 @@ ketil
 ketir
 ketok
 ketut
+kewan
 ki
 kidal
 kidang
@@ -1843,6 +1849,7 @@ naik
 naira
 najis
 nakal
+nakon
 nala
 nali
 nalika
@@ -2629,6 +2636,7 @@ sae
 saestu
 saged
 sagu
+saha
 saiki
 saing
 sakit
@@ -3053,6 +3061,7 @@ ulur
 um
 uma
 umah
+uman
 umar
 umat
 umbah
