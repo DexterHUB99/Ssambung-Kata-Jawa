@@ -1473,6 +1473,7 @@ lampu
 lampung
 lamu
 lamunan
+lan
 lanang
 lancar
 landep
@@ -1834,6 +1835,7 @@ ngarti
 ngaruh
 ngas
 ngasah
+ngasal
 ngasem
 ngasih
 ngasin
@@ -1884,6 +1886,7 @@ nggi
 nggih
 nggon
 nggoo
+nggowo
 ngguyu
 ngibul
 ngidu
@@ -3006,6 +3009,7 @@ wiwit
 woh
 woko
 wong
+wono
 wonten
 woo
 wora
