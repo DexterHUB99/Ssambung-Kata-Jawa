@@ -3865,6 +3865,7 @@ pela
 pelem
 peler
 peli
+pelo
 pen
 pena
 penak
@@ -4876,6 +4877,7 @@ udah
 udahan
 udal
 udan
+udane
 udang
 udek
 udel
@@ -5326,6 +5328,7 @@ yuti
 yuyu
 yuyun
 zahra
+zaitun
 zakat
 zamzam
 ziarah
