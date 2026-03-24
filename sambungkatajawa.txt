@@ -253,6 +253,7 @@ ander
 andha
 andhap
 andi
+andika
 andini
 andok
 andong
@@ -1699,6 +1700,7 @@ kasih
 kasir
 kasur
 kasure
+kasuri
 kat
 kata
 katak
