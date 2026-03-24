@@ -13,6 +13,7 @@ abis
 abot
 abu
 aceh
+aco
 ad
 ada
 adaa
@@ -930,6 +931,7 @@ gak
 gaki
 gala
 galak
+galan
 galang
 galau
 gali
@@ -1921,6 +1923,7 @@ kutang
 kutek
 kutha
 kutu
+kuwe
 kuwi
 la
 lab
@@ -3313,6 +3316,7 @@ se
 sebat
 sedaya
 segawon
+segera
 sego
 seh
 sek
