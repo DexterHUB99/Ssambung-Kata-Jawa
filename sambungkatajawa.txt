@@ -242,6 +242,7 @@ arih
 arik
 arip
 arisan
+arka
 arsi
 arti
 artine
@@ -298,6 +299,7 @@ autan
 awa
 awas
 awek
+awu
 ax
 aya
 ayah
@@ -526,6 +528,7 @@ emot
 empang
 empot
 emut
+en
 ena
 enak
 endah
@@ -1553,6 +1556,7 @@ nasa
 nasar
 nasi
 nasib
+nata
 nawar
 ndasmu
 negara
@@ -2439,6 +2443,7 @@ tumbas
 tumindak
 tumpak
 tumpeng
+tunggal
 turon
 turu
 turuk
@@ -2508,6 +2513,7 @@ uli
 ulih
 ulo
 ulu
+ulun
 ulung
 ulur
 um
