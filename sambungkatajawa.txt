@@ -1774,6 +1774,7 @@ ilmu
 ilmune
 ilo
 ilok
+iloo
 ilu
 iluk
 im
@@ -2875,6 +2876,7 @@ mio
 mira
 mirah
 miri
+misu
 misuh
 mlaku
 mmbuh
@@ -3257,6 +3259,7 @@ ngesa
 ngesak
 ngeselin
 ngeseng
+ngesi
 ngesor
 ngesot
 ngesu
