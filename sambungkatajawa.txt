@@ -266,6 +266,7 @@ anjar
 anjay
 anjing
 anjir
+anjuk
 anjung
 ano
 anoa
@@ -1018,6 +1019,7 @@ guneman
 gunting
 guntur
 gunung
+gupak
 guri
 gurih
 guru
@@ -1274,6 +1276,7 @@ imbu
 imbuh
 imo
 impian
+impun
 imra
 imuh
 imut
@@ -3168,6 +3171,7 @@ suasu
 suba
 suci
 sudah
+sude
 sudi
 sue
 sugeh
