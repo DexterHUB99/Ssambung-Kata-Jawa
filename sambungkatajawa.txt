@@ -371,6 +371,7 @@ asin
 asing
 asli
 aslii
+asmane
 asmara
 asor
 asoy
@@ -640,6 +641,7 @@ dulu
 dulur
 dumeh
 dungo
+dupo
 duren
 durian
 durung
@@ -980,6 +982,7 @@ gertak
 ges
 geseng
 geser
+getok
 getuk
 gi
 gidal
@@ -1437,6 +1440,7 @@ ix
 iy
 iya
 iye
+iyes
 iyo
 iyuh
 iz
@@ -1596,6 +1600,7 @@ kaya
 kayu
 ke
 keano
+kebab
 kebang
 kebong
 kebun
@@ -1752,6 +1757,7 @@ kosek
 kosok
 kosong
 kota
+kotang
 kotor
 kowe
 koyo
@@ -1925,6 +1931,7 @@ lilo
 lima
 limas
 limbah
+limbuk
 limo
 limpa
 lina
@@ -2992,6 +2999,7 @@ ribet
 ribut
 ridho
 rih
+rii
 rik
 rika
 riki
@@ -3154,6 +3162,7 @@ selet
 selo
 semar
 sembah
+semok
 sempak
 seng
 senok
