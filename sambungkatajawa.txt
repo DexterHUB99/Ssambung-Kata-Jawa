@@ -192,6 +192,7 @@ alif
 aliho
 alii
 alim
+alime
 alin
 alip
 alir
@@ -1297,6 +1298,7 @@ gerah
 gerak
 geram
 gerem
+gergaji
 gerih
 gering
 gerobak
@@ -1763,6 +1765,7 @@ ipil
 ipin
 ipna
 ipo
+ipola
 ipun
 ir
 ira
@@ -2141,6 +2144,7 @@ kepet
 kepiring
 kepiye
 kepo
+ker
 kera
 keran
 kerang
