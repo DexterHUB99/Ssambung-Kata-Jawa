@@ -124,6 +124,7 @@ ampuh
 ampun
 amuh
 amuk
+amun
 ana
 anaa
 anae
@@ -756,6 +757,7 @@ imbalan
 imbas
 imboh
 imbuh
+imo
 impian
 imuh
 imut
@@ -912,6 +914,7 @@ kelangan
 kelem
 kelingan
 kelon
+kelor
 keluh
 kembar
 ken
@@ -1141,6 +1144,7 @@ manuk
 manut
 marah
 mardi
+marii
 mas
 masak
 masu
@@ -1454,6 +1458,7 @@ okum
 ol
 olah
 olahan
+olar
 olee
 oleh
 oleng
@@ -1626,6 +1631,7 @@ ras
 rasa
 rasah
 rasan
+rasi
 rasis
 raup
 raut
@@ -1670,6 +1676,7 @@ riri
 risa
 risih
 riska
+risma
 riso
 rita
 ro
@@ -1776,6 +1783,7 @@ siram
 siro
 sis
 sisi
+siwo
 so
 soba
 sobat
@@ -1916,6 +1924,7 @@ tuhan
 tuku
 tulan
 tuli
+tulis
 tulung
 tum
 tuman
@@ -2077,6 +2086,7 @@ uyuh
 uz
 wadon
 waduh
+waduk
 wage
 wajah
 waktu
