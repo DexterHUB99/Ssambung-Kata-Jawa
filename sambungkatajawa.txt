@@ -629,6 +629,7 @@ dapur
 darah
 dari
 darma
+das
 dasar
 dasi
 daun
@@ -1735,6 +1736,7 @@ keliru
 kelon
 kelor
 keluh
+kem
 kema
 kemah
 kemanten
@@ -1850,6 +1852,7 @@ kol
 kola
 kolak
 kolam
+koli
 koloh
 kolong
 kolot
@@ -2673,6 +2676,7 @@ nim
 nima
 niman
 nimba
+nimbali
 nimbun
 nimen
 nin
@@ -3216,6 +3220,7 @@ ringkasan
 ringkes
 ringo
 rino
+rio
 rip
 rira
 riri
