@@ -763,6 +763,7 @@ induk
 ing
 inget
 inggih
+ingin
 ingkang
 ingsun
 ini
@@ -912,6 +913,7 @@ kepa
 kepala
 kepaten
 keraton
+kere
 kerek
 keri
 keruh
@@ -1026,6 +1028,7 @@ lampu
 lanang
 lancar
 landep
+langsing
 laos
 laron
 las
@@ -1267,6 +1270,7 @@ ngasem
 ngasih
 ngasin
 ngaso
+ngasu
 ngasuh
 ngatuk
 ngaturaken
@@ -1613,6 +1617,7 @@ rawuh
 rayu
 re
 rebo
+rebut
 rek
 relo
 remba
@@ -2080,6 +2085,7 @@ wuh
 wur
 xenon
 xray
+ya
 yah
 yaka
 yakin
