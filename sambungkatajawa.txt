@@ -81,6 +81,7 @@ ajaran
 ajay
 aje
 ajem
+ajen
 ajeng
 aji
 ajing
@@ -541,6 +542,7 @@ eha
 ehak
 eham
 ehan
+ehay
 ehe
 eheh
 ehek
@@ -1687,6 +1689,7 @@ matur
 maturnuwun
 mau
 mayaa
+mbah
 me
 meki
 memek
@@ -2280,6 +2283,7 @@ pinarak
 pincang
 pindah
 pindo
+pinten
 pinter
 pintu
 pinus
@@ -3039,6 +3043,7 @@ uwis
 uwong
 ux
 uy
+uyah
 uye
 uyuh
 uz
