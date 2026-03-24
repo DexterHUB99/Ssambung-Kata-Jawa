@@ -1,6 +1,7 @@
 aa
 aae
 aah
+abab
 abah
 abal
 abe
@@ -1062,6 +1063,7 @@ hias
 hiasan
 hidup
 hihihi
+hijab
 hijau
 hiji
 hijrah
@@ -1299,6 +1301,7 @@ ita
 itaa
 itai
 ite
+item
 itik
 itil
 itila
@@ -1404,6 +1407,7 @@ kambing
 kambuh
 kami
 kamis
+kampret
 kampung
 kampungan
 kamu
@@ -1464,6 +1468,7 @@ kecut
 kedadi
 kedai
 keke
+kekel
 kela
 kelakon
 kelangan
@@ -2519,6 +2524,7 @@ pegawai
 pei
 peju
 peko
+pekok
 peler
 peli
 pen
@@ -2570,6 +2576,7 @@ pocong
 pojok
 pok
 pokok
+pol
 pola
 polah
 poleh
