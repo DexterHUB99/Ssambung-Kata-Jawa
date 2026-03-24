@@ -195,6 +195,7 @@ amer
 amerga
 amet
 ami
+amii
 amin
 aming
 amir
@@ -849,6 +850,7 @@ ewah
 ewang
 ewe
 ewee
+ewek
 ewu
 ex
 eyo
@@ -1619,6 +1621,7 @@ kema
 kemanten
 kemaren
 kembali
+kembang
 kembar
 kemben
 kempol
@@ -2293,6 +2296,7 @@ ngapak
 ngapel
 ngapi
 ngapu
+ngapung
 ngapunten
 ngapurancang
 ngapus
@@ -2879,6 +2883,7 @@ raden
 radika
 radio
 rae
+raga
 ragat
 ragelem
 ragi
@@ -3498,6 +3503,7 @@ udud
 uduk
 udur
 udut
+uen
 uga
 ugung
 uh
