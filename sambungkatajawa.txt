@@ -1840,6 +1840,7 @@ kencur
 kendal
 kendang
 kendel
+kendhang
 kendi
 kene
 kenek
@@ -2126,6 +2127,7 @@ lee
 legi
 lek
 lele
+lelet
 leli
 lemah
 lembah
@@ -2165,6 +2167,7 @@ limbuk
 limi
 limo
 limpa
+limu
 lina
 lingkaran
 lingsir
@@ -3339,6 +3342,7 @@ rembuk
 rembulan
 remeh
 remes
+remok
 rempah
 rempela
 remu
