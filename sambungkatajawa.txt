@@ -400,6 +400,7 @@ asmara
 asna
 asor
 asoy
+aspal
 astane
 asu
 asuh
@@ -3628,6 +3629,7 @@ telur
 teman
 tembe
 tembok
+teme
 temen
 tempat
 tempe
@@ -4062,6 +4064,7 @@ wur
 xenon
 xray
 ya
+yadi
 yah
 yaka
 yakin
