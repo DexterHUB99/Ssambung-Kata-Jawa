@@ -2527,6 +2527,7 @@ nes
 nesi
 nesu
 nete
+neteh
 netra
 ngaben
 ngaca
@@ -2881,6 +2882,7 @@ nyanyi
 nyapu
 nyawiji
 nyawit
+nyi
 nyungsep
 nyusu
 nyuwun
