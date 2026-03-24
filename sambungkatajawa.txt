@@ -273,6 +273,7 @@ aru
 arum
 arus
 as
+asa
 asaa
 asah
 asak
@@ -317,6 +318,7 @@ atuh
 atuk
 atum
 atur
+aun
 aup
 aura
 autan
@@ -1121,6 +1123,7 @@ janda
 jangan
 jangkrik
 jani
+janji
 jara
 jaran
 jare
@@ -2378,6 +2381,7 @@ sasa
 sasak
 sate
 sawer
+sawit
 saya
 sayaa
 sayah
@@ -2898,6 +2902,7 @@ yaka
 yakin
 yama
 yamaha
+yaman
 yang
 yano
 yas
