@@ -250,6 +250,7 @@ az
 baa
 babat
 babi
+bacot
 bae
 bagong
 bajing
@@ -475,6 +476,7 @@ gamelan
 gamma
 gampang
 gang
+gangsing
 ganteng
 gantung
 garap
@@ -599,6 +601,7 @@ harimu
 hartamu
 harum
 harus
+has
 hasan
 hase
 hati
@@ -945,6 +948,7 @@ kuda
 kudu
 kue
 kui
+kuka
 kuku
 kukur
 kula
@@ -1153,6 +1157,7 @@ nanah
 nanam
 nanas
 nandur
+nanggung
 nanging
 nangis
 nangka
@@ -1279,6 +1284,7 @@ ngorok
 ngos
 ngosek
 ngoseng
+ngosi
 ngotak
 ngotot
 ngudek
@@ -1362,6 +1368,7 @@ ojok
 ok
 oka
 okan
+okar
 oke
 okee
 okeh
@@ -1629,6 +1636,7 @@ saged
 saiki
 saing
 salah
+salim
 salut
 sam
 sambel
@@ -1764,6 +1772,7 @@ tari
 taruk
 tata
 tawa
+tawon
 tebu
 tegak
 tekan
