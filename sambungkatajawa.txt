@@ -446,6 +446,7 @@ ater
 ati
 atia
 atih
+atik
 atine
 atir
 atis
@@ -1656,6 +1657,7 @@ iuta
 iw
 iwak
 iwan
+iwane
 iwas
 iwenan
 iwir
@@ -2245,6 +2247,7 @@ limpa
 limu
 lina
 lingkaran
+linglung
 lingsir
 linta
 lintah
@@ -2377,6 +2380,7 @@ mama
 mamah
 mamak
 maman
+mamat
 mambu
 mami
 mampu
@@ -2535,6 +2539,7 @@ nagihe
 nah
 naik
 naira
+najeng
 najis
 nak
 nakai
