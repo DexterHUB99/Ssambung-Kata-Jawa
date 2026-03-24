@@ -879,6 +879,7 @@ iha
 ihan
 ihe
 ihi
+ihla
 ihsan
 ijak
 ijek
@@ -2043,6 +2044,7 @@ ramuan
 ramutu
 rana
 rani
+rantai
 rapa
 rapi
 rapuh
@@ -2159,6 +2161,7 @@ ruwet
 sa
 sabar
 sabi
+sabon
 sadewa
 sae
 saestu
@@ -2489,6 +2492,7 @@ ukum
 ukur
 ukura
 ukuran
+ula
 ulaa
 ulah
 ulam
