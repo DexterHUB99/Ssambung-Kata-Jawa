@@ -316,6 +316,7 @@ anyam
 anyar
 apa
 apaa
+apar
 ape
 apek
 apel
@@ -1672,6 +1673,7 @@ kebab
 kebang
 kebong
 kebun
+keceret
 kecut
 kedadi
 kedai
