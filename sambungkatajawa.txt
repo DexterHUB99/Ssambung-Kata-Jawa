@@ -58,6 +58,7 @@ ahut
 aia
 aii
 ail
+aila
 ailo
 aing
 aio
@@ -149,6 +150,7 @@ amir
 amis
 amit
 amoh
+ampal
 ampar
 ampas
 ampuh
@@ -1313,6 +1315,7 @@ lanang
 lancar
 landep
 langsing
+lani
 lantai
 laos
 lapar
