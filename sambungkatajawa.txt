@@ -1373,6 +1373,7 @@ gateli
 gathel
 gatot
 gatuk
+gawa
 gawae
 gawan
 gawang
@@ -4460,6 +4461,7 @@ sandal
 sanes
 sang
 sangu
+santai
 santen
 santri
 santun
