@@ -579,6 +579,7 @@ cen
 cengkeh
 ceplok
 cerita
+ces
 cicak
 cici
 cilok
@@ -1805,6 +1806,7 @@ kira
 kirab
 kirek
 kiri
+kirik
 kis
 kisan
 kit
