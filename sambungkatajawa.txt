@@ -419,6 +419,7 @@ asna
 asor
 asoy
 aspal
+astaga
 astane
 asu
 asuh
@@ -525,6 +526,7 @@ bebek
 becak
 bego
 bela
+beli
 belo
 bengek
 bengong
@@ -3982,6 +3984,7 @@ uji
 ujian
 ujung
 uka
+ukaa
 ukak
 ukal
 ukan
