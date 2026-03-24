@@ -323,6 +323,7 @@ atuh
 atuk
 atum
 atur
+aul
 aun
 aup
 aura
@@ -1896,6 +1897,7 @@ ngudud
 nguli
 ngulik
 ngulon
+ngumbah
 ngumpet
 ngumpul
 ngunjuk
@@ -2218,6 +2220,7 @@ pupu
 pura
 purek
 puri
+pusaka
 puser
 putih
 putu
@@ -2466,6 +2469,7 @@ silitem
 silitmu
 silo
 sim
+simbah
 simbok
 sin
 sina
