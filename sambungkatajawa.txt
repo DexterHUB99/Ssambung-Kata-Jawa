@@ -234,6 +234,7 @@ anakmu
 anal
 anam
 anan
+anane
 anang
 anas
 ancen
@@ -588,6 +589,7 @@ dadar
 dadi
 dadu
 dagelan
+daging
 dah
 dahar
 dahi
@@ -832,6 +834,7 @@ eram
 eran
 erang
 eras
+erat
 eren
 ereng
 erer
@@ -2573,6 +2576,7 @@ nii
 nik
 nikah
 niki
+nikii
 niko
 niku
 nila
@@ -3170,6 +3174,7 @@ rubuh
 rugi
 rukun
 rumah
+rumbai
 rumbak
 rumongso
 rumput
@@ -3727,6 +3732,7 @@ unduh
 undur
 undura
 unggah
+unggaha
 unggas
 ungger
 unggul
