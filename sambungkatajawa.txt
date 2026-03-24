@@ -1211,6 +1211,7 @@ klambi
 klambimu
 klebus
 ko
+kobong
 kocak
 koclok
 kodok
@@ -2056,6 +2057,7 @@ rakus
 rama
 ramah
 raman
+rambak
 rambu
 rambut
 rambutan
