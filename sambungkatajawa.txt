@@ -285,6 +285,7 @@ aning
 anis
 anisa
 anjai
+anjani
 anjar
 anjay
 anji
@@ -717,6 +718,7 @@ ega
 ege
 egi
 ego
+egrang
 eh
 eha
 ehak
@@ -2400,6 +2402,7 @@ nawar
 nawi
 ndasmu
 ndeso
+neduh
 negara
 negeri
 neges
@@ -2472,6 +2475,7 @@ nganteni
 nganter
 nganti
 ngantuk
+ngantun
 nganu
 ngaos
 ngapa
@@ -2816,6 +2820,7 @@ okum
 ol
 olah
 olahan
+olahraga
 olar
 olee
 oleh
@@ -3083,6 +3088,7 @@ punten
 punya
 pup
 pupu
+pur
 pura
 purek
 puri
