@@ -13,6 +13,7 @@ aceh
 ad
 ada
 adaa
+adam
 adap
 adi
 adipati
@@ -54,7 +55,6 @@ aho
 ahok
 ahoy
 ahu
-ahuk
 ahun
 ahup
 ahur
@@ -71,7 +71,6 @@ air
 aira
 aiwe
 aiya
-aj
 aja
 ajan
 ajang
@@ -141,6 +140,7 @@ amam
 aman
 amanah
 amas
+amati
 amba
 ambeng
 ambil
@@ -168,6 +168,7 @@ ampas
 ampuh
 ampun
 ampus
+amu
 amuh
 amuk
 amun
@@ -305,12 +306,14 @@ asuh
 asui
 ata
 atap
+atapi
 atas
 ate
 atek
 ater
 ati
 atia
+atib
 atir
 atis
 atit
@@ -323,7 +326,6 @@ atuh
 atuk
 atum
 atur
-aul
 aun
 aup
 aura
@@ -333,7 +335,6 @@ awas
 awek
 awu
 ax
-ay
 aya
 ayah
 ayam
@@ -368,6 +369,7 @@ basa
 basi
 batok
 batu
+batuk
 bawok
 bayi
 bebe
@@ -475,6 +477,7 @@ dimana
 dimas
 din
 dina
+dinggo
 dino
 dipun
 diren
@@ -652,6 +655,7 @@ esan
 escendol
 esep
 esi
+esik
 eso
 esok
 esu
@@ -694,6 +698,7 @@ gambar
 gambuh
 gamel
 gamelan
+gamis
 gamma
 gampang
 gandos
@@ -748,8 +753,8 @@ gembel
 gemblung
 gembok
 gendeng
-genderuwo
 gendhis
+gendut
 gene
 genep
 geni
@@ -808,7 +813,6 @@ gula
 gulai
 guli
 guling
-gulu
 gumuh
 gumun
 guna
@@ -975,7 +979,6 @@ ihla
 ihsan
 ijak
 ijek
-ijen
 iji
 ijin
 ijo
@@ -992,6 +995,7 @@ iki
 ikih
 iko
 ikon
+ikrar
 iku
 ikur
 ikut
@@ -1171,6 +1175,7 @@ jongo
 joni
 jori
 jubah
+ka
 kabeh
 kacuk
 kadal
@@ -1264,8 +1269,8 @@ kembar
 kemul
 ken
 kena
+kenapa
 kendi
-kenopo
 kentang
 kentu
 kentut
@@ -1314,6 +1319,7 @@ kin
 kini
 kintel
 kios
+kipas
 kira
 kirab
 kirek
@@ -1356,7 +1362,6 @@ koplo
 kopyor
 koran
 korban
-kos
 kosan
 kosek
 kota
@@ -1365,6 +1370,7 @@ kowe
 koyo
 krama
 krikil
+ku
 kua
 kuat
 kucing
@@ -1389,7 +1395,6 @@ kuma
 kuman
 kumbah
 kumbang
-kumpul
 kun
 kuna
 kunci
@@ -1450,7 +1455,6 @@ lapis
 lapo
 lar
 lara
-larang
 lari
 laron
 las
@@ -1636,7 +1640,6 @@ molen
 monggo
 monyet
 mori
-moro
 mosok
 moto
 motor
@@ -1660,6 +1663,7 @@ mumpung
 mundur
 muntah
 murah
+musa
 muse
 mute
 na
@@ -1701,6 +1705,7 @@ nangis
 nangka
 nani
 nanti
+nanya
 naon
 nap
 napa
@@ -1739,12 +1744,14 @@ nesi
 nesu
 nete
 netra
+ngaben
 ngaca
 ngaceng
 ngaco
 ngae
 ngaji
 ngaka
+ngalah
 ngaleh
 ngali
 ngalu
@@ -1771,7 +1778,6 @@ ngapa
 ngapae
 ngapain
 ngapak
-ngapi
 ngapu
 ngapunten
 ngapurancang
@@ -1831,6 +1837,7 @@ ngewe
 ngg
 nggak
 nggaku
+nggambar
 nggateli
 nggeh
 nggi
@@ -1896,13 +1903,10 @@ ngubur
 ngudek
 ngudud
 nguli
-ngulik
 ngulon
-ngumbah
 ngumpet
 ngumpul
 ngunjuk
-ngunjung
 nguno
 nguntal
 ngunu
@@ -1970,7 +1974,6 @@ nopi
 nopo
 norak
 nos
-nosa
 nota
 nua
 nubruk
@@ -1993,6 +1996,7 @@ nuti
 nutuk
 nuwun
 nyapu
+nyasar
 nyawiji
 nyusu
 nyuwun
@@ -2170,6 +2174,7 @@ pilakon
 pilar
 pilek
 pilu
+pin
 pina
 pinarak
 pincang
@@ -2222,7 +2227,6 @@ pupu
 pura
 purek
 puri
-pusaka
 puser
 putih
 putu
@@ -2324,7 +2328,6 @@ rina
 rindu
 ringan
 ringkasan
-ringkes
 ringo
 rino
 rip
@@ -2340,6 +2343,7 @@ rita
 riwayat
 riya
 ro
+rob
 rodo
 rogoh
 roi
@@ -2386,6 +2390,7 @@ sa
 sabar
 sabi
 sabon
+sabun
 sadewa
 sae
 saestu
@@ -2466,13 +2471,13 @@ sikil
 siku
 sila
 silah
+silam
 silet
 silit
 silitem
 silitmu
 silo
 sim
-simbah
 simbok
 sin
 sina
@@ -2574,6 +2579,7 @@ suwi
 suwir
 suwun
 ta
+taat
 tabuh
 tae
 taek
@@ -2590,6 +2596,7 @@ tampar
 tampol
 tamu
 tamune
+tangan
 tangguh
 tangi
 tani
@@ -2611,7 +2618,6 @@ tawa
 tawon
 tebu
 tegak
-tegal
 tekan
 teko
 tela
@@ -2639,6 +2645,7 @@ terus
 tete
 tetek
 ti
+tiba
 tibo
 tik
 tikar
@@ -2660,6 +2667,7 @@ tiri
 tisu
 tita
 titid
+titik
 titip
 titit
 tititit
@@ -2683,6 +2691,7 @@ tubuh
 tugel
 tuh
 tuhan
+tukang
 tuku
 tul
 tula
@@ -2727,14 +2736,12 @@ udud
 uduk
 udur
 udut
-ugung
 uh
 uha
 uhe
 uhi
 uho
 ui
-uing
 ujan
 ujar
 uji
@@ -2848,6 +2855,7 @@ urung
 urup
 urus
 urut
+urutan
 us
 usa
 usah
@@ -2955,7 +2963,6 @@ ya
 yah
 yaka
 yakin
-yam
 yama
 yamaha
 yaman
@@ -2977,6 +2984,7 @@ yoopo
 yoora
 yowes
 yoyo
+yuan
 yuda
 yuk
 yuko
