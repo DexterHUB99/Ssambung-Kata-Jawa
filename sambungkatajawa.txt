@@ -1227,6 +1227,7 @@ ewangi
 ewe
 ewee
 ewek
+ewong
 ewu
 ex
 eya
@@ -2383,6 +2384,7 @@ klambimu
 klebus
 klepon
 kleru
+kliwon
 ko
 kobis
 kobong
@@ -2575,6 +2577,7 @@ lanang
 lancar
 landep
 landhep
+landung
 langgar
 langit
 langsing
@@ -2984,6 +2987,7 @@ mula
 mulaa
 mulai
 mulane
+mulanee
 muleh
 mules
 muli
@@ -4337,6 +4341,7 @@ rusi
 rusma
 ruso
 rusuh
+rutan
 rute
 ruwat
 ruwet
