@@ -533,6 +533,7 @@ ayam
 ayame
 ayang
 ayat
+aye
 ayem
 ayeme
 ayi
@@ -1943,6 +1944,7 @@ kados
 kadung
 kadus
 kae
+kaee
 kafir
 kain
 kaine
@@ -2241,6 +2243,7 @@ kon
 konangan
 konco
 kondangan
+kondisi
 kono
 kontol
 kontolmu
@@ -2795,6 +2798,7 @@ musim
 musuh
 mute
 na
+naa
 nabi
 nabok
 nabrak
@@ -4080,6 +4084,7 @@ sangu
 santen
 santri
 santun
+sapa
 sapeh
 sapi
 sapu
@@ -4493,6 +4498,7 @@ tonggo
 tongkol
 toni
 tono
+too
 topi
 topo
 tora
