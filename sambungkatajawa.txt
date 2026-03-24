@@ -120,6 +120,7 @@ alam
 alamo
 alan
 alara
+alas
 alasan
 alay
 alhamdulillah
@@ -896,6 +897,7 @@ hap
 hapi
 hapus
 har
+hara
 haram
 harap
 harga
@@ -1663,6 +1665,7 @@ mantu
 mantul
 manuk
 manut
+maos
 marah
 mardi
 mari
@@ -2699,6 +2702,7 @@ taek
 tah
 tahu
 tai
+taik
 tala
 tali
 tama
