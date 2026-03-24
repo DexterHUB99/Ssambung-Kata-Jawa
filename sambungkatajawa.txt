@@ -322,6 +322,7 @@ daun
 de
 dek
 delman
+demok
 dereng
 deso
 diba
@@ -924,6 +925,7 @@ kelon
 kelor
 keluh
 kembar
+kemul
 ken
 kena
 kendi
@@ -1681,6 +1683,7 @@ rila
 rima
 rimi
 rin
+rina
 rindu
 ringkasan
 ringo
