@@ -4262,6 +4262,7 @@ sasi
 sate
 satru
 satu
+saur
 sawah
 sawan
 sawer
