@@ -119,6 +119,7 @@ akan
 akang
 akar
 akas
+akat
 akbar
 ake
 akeh
@@ -1877,6 +1878,7 @@ kuat
 kucing
 kuda
 kudu
+kudune
 kudus
 kue
 kui
@@ -2318,6 +2320,7 @@ nam
 nama
 nambah
 nambal
+nami
 nampak
 nampan
 nampani
@@ -2392,6 +2395,7 @@ neni
 nepak
 neraka
 neras
+neri
 nerimo
 nes
 nesi
@@ -2965,6 +2969,7 @@ pijet
 pijit
 pikun
 pilakon
+pilang
 pilar
 pilek
 pilot
