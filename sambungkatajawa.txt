@@ -21,6 +21,7 @@ aengi
 afi
 aga
 age
+agi
 agung
 agus
 ah
@@ -88,6 +89,7 @@ akhir
 aki
 akih
 akii
+akik
 ako
 aksara
 aksi
@@ -1154,6 +1156,7 @@ kerupuk
 kerut
 kesandung
 kesem
+keset
 kesleo
 ketan
 ketel
@@ -1293,6 +1296,7 @@ lanang
 lancar
 landep
 langsing
+lantai
 laos
 lapar
 lapi
@@ -1515,6 +1519,7 @@ nambah
 nambal
 nampak
 nampan
+nampani
 nan
 nana
 nanah
