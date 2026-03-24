@@ -1128,6 +1128,7 @@ kaya
 kayu
 ke
 kebun
+kecut
 kedadi
 kedai
 keke
@@ -1380,6 +1381,7 @@ loli
 lolo
 lomba
 lombo
+lombok
 lomo
 lompat
 longsor
@@ -2157,6 +2159,7 @@ runcing
 rungkad
 rupa
 rupamu
+ruri
 rus
 rusa
 rusak
@@ -2321,6 +2324,7 @@ supel
 supo
 sura
 suri
+suruh
 surup
 susah
 susi
@@ -2457,6 +2461,7 @@ uange
 uban
 ubi
 ucap
+uda
 udah
 udal
 udan
