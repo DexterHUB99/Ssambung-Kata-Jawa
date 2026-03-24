@@ -168,6 +168,7 @@ amas
 amba
 ambar
 ambek
+amben
 ambeng
 ambil
 amblas
@@ -1472,6 +1473,7 @@ kaya
 kayu
 ke
 keano
+kebang
 kebong
 kebun
 kecut
@@ -1885,6 +1887,7 @@ mandi
 maneh
 mangan
 mangap
+manggis
 mangsa
 mani
 manis
@@ -2043,6 +2046,7 @@ natah
 nawar
 nawi
 ndasmu
+ndeso
 negara
 neges
 neh
@@ -2493,6 +2497,7 @@ oseng
 oser
 osit
 osok
+osor
 ot
 otak
 otol
@@ -2636,6 +2641,7 @@ pujaan
 pukul
 pul
 pun
+puna
 pundi
 punten
 punya
@@ -2784,6 +2790,7 @@ riska
 risma
 riso
 rita
+riti
 riwayat
 riya
 ro
