@@ -3360,6 +3360,7 @@ santun
 sapi
 sapu
 saran
+sare
 sarem
 sari
 sarong
