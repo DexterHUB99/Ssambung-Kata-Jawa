@@ -108,6 +108,7 @@ ako
 aksara
 aksi
 aku
+akuh
 akuk
 akula
 akun
@@ -1625,6 +1626,7 @@ lurah
 lusuh
 luwe
 luweh
+luwes
 ma
 macan
 madang
@@ -1634,11 +1636,13 @@ maem
 mah
 mai
 mainan
+mak
 makan
 makanan
 makruh
 malah
 malam
+maling
 mam
 mama
 mamah
@@ -1908,6 +1912,7 @@ ngerok
 ngesor
 ngesot
 ngesuk
+ngetan
 ngewe
 ngg
 nggak
@@ -2796,6 +2801,7 @@ toni
 tono
 topi
 toto
+tu
 tua
 tuban
 tubuh
