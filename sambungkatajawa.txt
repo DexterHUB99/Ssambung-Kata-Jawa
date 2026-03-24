@@ -715,6 +715,7 @@ dir
 diren
 dirumah
 dis
+ditipu
 diwan
 doda
 dodik
@@ -3407,6 +3408,7 @@ rausah
 raut
 rawa
 rawan
+rawit
 rawon
 rawuh
 raya
@@ -3461,6 +3463,7 @@ rika
 riki
 rikma
 riko
+riku
 rila
 rim
 rima
@@ -4026,6 +4029,7 @@ ucap
 ucul
 uda
 udah
+udahan
 udal
 udan
 udang
