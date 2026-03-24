@@ -615,6 +615,7 @@ ehuy
 ek
 eka
 ekaa
+ekah
 ekam
 ekan
 eke
@@ -2616,6 +2617,7 @@ rantai
 raono
 rapa
 rapi
+rapo
 rapopo
 rapuh
 rara
@@ -2748,6 +2750,7 @@ runcing
 rungkad
 rupa
 rupamu
+rupane
 rupo
 ruri
 rus
