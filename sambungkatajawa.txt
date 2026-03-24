@@ -162,6 +162,7 @@ alunan
 alus
 ama
 amah
+amak
 amal
 amam
 aman
@@ -1398,6 +1399,7 @@ jumat
 ka
 kaba
 kabeh
+kaca
 kacuk
 kadal
 kadang
@@ -1711,6 +1713,7 @@ lalat
 laler
 lali
 lama
+lamai
 lambe
 lambemu
 lame
