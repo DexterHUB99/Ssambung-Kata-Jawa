@@ -1379,6 +1379,7 @@ gembok
 gemes
 gemi
 gempil
+gempol
 gemuk
 gen
 gena
@@ -3376,6 +3377,7 @@ nglor
 ngnu
 ngobrol
 ngocok
+ngodong
 ngoh
 ngojah
 ngojek
@@ -4185,6 +4187,7 @@ resah
 rese
 resik
 reti
+rewang
 ri
 ria
 rian
