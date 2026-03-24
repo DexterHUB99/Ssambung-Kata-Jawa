@@ -31,6 +31,7 @@ adab
 adap
 adek
 adem
+adhem
 adi
 adik
 adin
@@ -2789,6 +2790,7 @@ ler
 leren
 leres
 les
+lesehan
 lesu
 letong
 lewat
