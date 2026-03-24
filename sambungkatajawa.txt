@@ -890,6 +890,7 @@ emut
 en
 ena
 enak
+enake
 encok
 endah
 endang
@@ -1975,6 +1976,7 @@ kimi
 kin
 kinanthi
 kini
+kinjeng
 kintel
 kios
 kir
@@ -2553,6 +2555,7 @@ nalika
 naliko
 nam
 nama
+namae
 namar
 nambah
 nambal
@@ -3410,6 +3413,7 @@ raju
 rajut
 rak
 raka
+rakha
 raki
 rakus
 rama
