@@ -175,6 +175,7 @@ anduk
 ane
 aneh
 angel
+angen
 angin
 angker
 angklung
@@ -1409,6 +1410,7 @@ mami
 mampu
 mampus
 manah
+mandeg
 maneh
 mangan
 mani
@@ -2384,6 +2386,7 @@ tomat
 tomo
 tonggo
 tongkol
+toni
 tono
 topi
 toto
