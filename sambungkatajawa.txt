@@ -890,7 +890,6 @@ emut
 en
 ena
 enak
-enake
 encok
 endah
 endang
@@ -995,7 +994,6 @@ ete
 etek
 eten
 eti
-etik
 etil
 eto
 etok
@@ -1114,7 +1112,6 @@ gawe
 gaweopo
 gawok
 gayung
-gayunge
 ge
 geblek
 gedang
@@ -1356,7 +1353,6 @@ hei
 helo
 hem
 hemat
-hemate
 heni
 her
 hera
@@ -1979,7 +1975,6 @@ kimi
 kin
 kinanthi
 kini
-kinjeng
 kintel
 kios
 kir
@@ -2274,7 +2269,6 @@ liwa
 liwat
 liwet
 liya
-liyane
 liyo
 lo
 loa
@@ -2559,7 +2553,6 @@ nalika
 naliko
 nam
 nama
-namae
 namar
 nambah
 nambal
@@ -2775,7 +2768,6 @@ ngen
 ngendang
 ngendep
 ngendi
-ngendii
 ngendika
 ngendikan
 ngengek
@@ -2850,7 +2842,6 @@ ngoko
 ngokok
 ngolah
 ngolak
-ngoleke
 ngolo
 ngoloh
 ngolok
@@ -3419,7 +3410,6 @@ raju
 rajut
 rak
 raka
-rakha
 raki
 rakus
 rama
