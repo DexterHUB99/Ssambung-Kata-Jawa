@@ -1578,6 +1578,7 @@ hora
 hore
 hormat
 horog
+hotel
 howo
 hoyo
 hp
