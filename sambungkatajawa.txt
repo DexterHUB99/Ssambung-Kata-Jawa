@@ -463,6 +463,7 @@ bidun
 bijak
 biji
 bila
+bilai
 bima
 bintang
 biru
@@ -496,6 +497,7 @@ bus
 busuk
 buta
 buto
+cacat
 caci
 cacig
 cacing
@@ -1208,6 +1210,7 @@ ilermu
 ili
 ilih
 ilik
+ilin
 iling
 ilir
 ilmu
@@ -1539,6 +1542,7 @@ kerek
 keren
 kereta
 keri
+keris
 kertas
 kerudung
 keruh
@@ -2819,6 +2823,7 @@ riti
 riwayat
 riya
 ro
+roboh
 roda
 rodo
 rogoh
