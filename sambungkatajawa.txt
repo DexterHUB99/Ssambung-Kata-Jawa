@@ -942,6 +942,7 @@ dolanan
 doman
 domba
 dona
+dong
 dongo
 dor
 dora
@@ -1475,6 +1476,7 @@ genap
 genape
 gendeng
 genderuwo
+gendheng
 gendhis
 gene
 genep
@@ -3061,6 +3063,7 @@ meme
 memek
 mendoan
 meneng
+mer
 merahe
 merak
 mercon
@@ -5515,6 +5518,7 @@ wesi
 wet
 wetan
 weteng
+wetu
 wewe
 widok
 wih
