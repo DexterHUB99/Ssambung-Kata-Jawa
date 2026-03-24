@@ -2886,6 +2886,7 @@ malem
 malik
 maling
 malu
+malut
 mam
 mama
 mamah
@@ -3016,6 +3017,7 @@ mogok
 moh
 mok
 mola
+molan
 moleh
 molen
 moli
@@ -3540,6 +3542,7 @@ ngupil
 nguping
 ngura
 nguras
+nguripi
 nguru
 ngurusi
 ngusel
@@ -3930,6 +3933,7 @@ panci
 pandu
 pangan
 panggah
+panggil
 panggo
 panguripan
 panjang
