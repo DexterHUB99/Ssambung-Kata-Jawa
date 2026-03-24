@@ -936,6 +936,7 @@ hei
 helo
 hem
 hemat
+heni
 her
 hera
 heran
@@ -1232,6 +1233,7 @@ kacuk
 kadal
 kadang
 kados
+kadus
 kain
 kajut
 kak
@@ -2306,6 +2308,7 @@ po
 pocong
 pojok
 pok
+pola
 polah
 poleh
 poli
