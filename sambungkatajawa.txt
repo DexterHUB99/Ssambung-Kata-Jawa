@@ -339,6 +339,7 @@ dolan
 duda
 dudu
 duh
+duit
 dulur
 duren
 durian
@@ -931,6 +932,7 @@ kidung
 kie
 kijang
 kik
+kiki
 kikil
 kil
 kilat
@@ -983,6 +985,7 @@ kuda
 kudu
 kue
 kui
+kuk
 kuka
 kuku
 kukur
@@ -1803,6 +1806,7 @@ sun
 sunar
 sunat
 supel
+suri
 surup
 susah
 susu
