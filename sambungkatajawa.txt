@@ -830,6 +830,7 @@ dedek
 dedi
 dek
 delman
+delo
 dema
 demak
 demam
@@ -1378,6 +1379,7 @@ gemuk
 gen
 gena
 genah
+genap
 genape
 gendeng
 genderuwo
@@ -2214,6 +2216,7 @@ kedurung
 kejar
 kek
 keke
+kekek
 kekel
 kekunci
 kela
@@ -2528,6 +2531,7 @@ lali
 lalii
 lama
 lamai
+lambai
 lambe
 lambemu
 lambene
