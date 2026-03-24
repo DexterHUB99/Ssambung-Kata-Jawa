@@ -686,6 +686,7 @@ das
 dasar
 dasi
 daun
+dawa
 de
 dek
 delman
@@ -2159,6 +2160,7 @@ larang
 lare
 lari
 laron
+larut
 las
 lasa
 lase
@@ -2268,6 +2270,7 @@ loli
 lolo
 loma
 lomba
+lombane
 lombo
 lombok
 lomo
@@ -2570,6 +2573,7 @@ nasar
 nasehat
 nasi
 nasib
+nasie
 nata
 natah
 natar
@@ -3025,6 +3029,7 @@ oke
 okee
 okeh
 okei
+okem
 oker
 oket
 okin
