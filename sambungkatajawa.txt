@@ -365,6 +365,7 @@ basa
 basi
 batok
 batu
+batuk
 bawok
 bayi
 bebe
@@ -747,6 +748,7 @@ gemblung
 gembok
 gendeng
 gendhis
+gendut
 gene
 genep
 geni
@@ -1261,6 +1263,7 @@ kembar
 kemul
 ken
 kena
+kenapa
 kendi
 kentang
 kentu
@@ -2576,6 +2579,7 @@ tampar
 tampol
 tamu
 tamune
+tangan
 tangguh
 tangi
 tani
