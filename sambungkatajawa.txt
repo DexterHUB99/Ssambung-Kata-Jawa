@@ -84,6 +84,7 @@ akuk
 akun
 akur
 al
+ala
 alah
 alam
 alan
@@ -448,6 +449,7 @@ enek
 enggal
 enggan
 enggeh
+eni
 eno
 enok
 entar
@@ -474,6 +476,7 @@ erak
 eram
 erang
 eras
+eren
 ereng
 erer
 eri
@@ -1266,6 +1269,7 @@ naga
 nagih
 nah
 naik
+naira
 najis
 nakal
 nali
@@ -1980,6 +1984,7 @@ tekan
 teko
 tela
 telan
+telat
 telek
 telo
 telu
