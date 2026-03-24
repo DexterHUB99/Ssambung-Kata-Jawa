@@ -64,6 +64,7 @@ aing
 aio
 air
 aira
+aita
 aiwe
 aja
 ajan
@@ -129,6 +130,7 @@ amal
 aman
 amanah
 amas
+amat
 amba
 ambeng
 ambil
@@ -303,6 +305,7 @@ aup
 aura
 autan
 awa
+awak
 awas
 awek
 awu
@@ -323,6 +326,7 @@ baa
 babak
 babat
 babi
+babu
 bacot
 bae
 bagong
@@ -426,8 +430,10 @@ dereng
 deso
 diba
 didi
+digon
 dik
 dikon
+dilanang
 dima
 dimana
 dimas
@@ -688,6 +694,7 @@ gema
 gembel
 gemblung
 gembok
+genah
 gendeng
 gendhis
 gene
@@ -699,7 +706,6 @@ gentong
 gerah
 gerak
 geram
-gerobak
 gertak
 ges
 geseng
@@ -836,7 +842,6 @@ hidup
 hihihi
 hijau
 hiji
-hijrah
 hilang
 hina
 hinggap
@@ -1053,6 +1058,7 @@ jawi
 jebul
 jembut
 jembutmu
+jempol
 jeruk
 jiga
 jijik
@@ -1153,6 +1159,7 @@ kelon
 kelor
 keluh
 kemanten
+kemarin
 kembar
 kemul
 ken
@@ -1234,7 +1241,6 @@ komik
 kompor
 kon
 konco
-kondangan
 kono
 kontol
 kop
@@ -1450,6 +1456,7 @@ mampu
 mampus
 manah
 mandeg
+mandi
 maneh
 mangan
 mani
@@ -1786,6 +1793,7 @@ niti
 nitih
 nitip
 nki
+nna
 nnduk
 no
 noh
@@ -2086,6 +2094,7 @@ rasi
 rasis
 rasuk
 rati
+ratu
 raup
 rausah
 raut
@@ -2198,6 +2207,7 @@ saestu
 saged
 saiki
 saing
+sakai
 sakit
 saku
 sala
@@ -2228,7 +2238,6 @@ sate
 sawer
 saya
 sayaa
-sayah
 sayang
 sayur
 se
@@ -2350,6 +2359,7 @@ supe
 supel
 supo
 sura
+surat
 suri
 suruh
 surup
@@ -2385,7 +2395,6 @@ tani
 tansah
 tape
 tapi
-tapir
 tapuk
 tarawih
 tarek
@@ -2463,7 +2472,6 @@ tugel
 tuh
 tuhan
 tuku
-tul
 tula
 tulan
 tulang
@@ -2592,6 +2600,7 @@ untuk
 untumu
 untung
 upah
+upai
 upal
 upel
 upi
