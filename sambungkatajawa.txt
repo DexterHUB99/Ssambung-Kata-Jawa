@@ -429,6 +429,7 @@ bajing
 baju
 bakso
 bakul
+balek
 bali
 balung
 bando
@@ -705,6 +706,7 @@ emoh
 emong
 emot
 empang
+empet
 empot
 emut
 en
@@ -1475,6 +1477,7 @@ kas
 kasar
 kase
 kasep
+kasih
 kasir
 kasur
 kasure
@@ -1736,6 +1739,7 @@ lanang
 lancar
 landep
 landhep
+langgar
 langit
 langsing
 lani
@@ -1757,6 +1761,7 @@ las
 lase
 lat
 latah
+latar
 lati
 latu
 laut
@@ -2778,6 +2783,7 @@ rek
 rekasa
 rekoso
 relo
+rem
 remba
 rembes
 rembulan
