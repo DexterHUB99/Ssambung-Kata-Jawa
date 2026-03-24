@@ -1259,6 +1259,7 @@ gerak
 geram
 gerem
 gerih
+gering
 gerobak
 gertak
 ges
