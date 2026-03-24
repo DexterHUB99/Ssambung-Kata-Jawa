@@ -532,6 +532,7 @@ duit
 duka
 duku
 dukun
+dulang
 dulu
 dulur
 dumeh
@@ -878,6 +879,7 @@ gumun
 guna
 gundik
 gundul
+gunem
 guneman
 gunting
 guntur
@@ -922,6 +924,7 @@ handarbeni
 hang
 hangat
 hani
+hansip
 hantam
 hantu
 hanung
@@ -1228,6 +1231,7 @@ jam
 jaman
 jambak
 jambu
+jan
 jancok
 janda
 jangan
@@ -1271,6 +1275,7 @@ kacuk
 kadal
 kadang
 kados
+kadung
 kadus
 kain
 kajut
@@ -2333,6 +2338,7 @@ pasu
 pati
 patil
 patung
+pea
 pean
 pegawai
 pei
@@ -2568,6 +2574,7 @@ roro
 rosi
 roso
 roti
+roto
 rowang
 rowo
 royo
