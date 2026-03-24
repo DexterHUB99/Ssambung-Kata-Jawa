@@ -4522,6 +4522,7 @@ seket
 sekolah
 sekul
 selam
+selamat
 selan
 selasa
 selawe
@@ -4732,6 +4733,7 @@ supel
 supi
 supo
 sura
+surat
 suri
 suro
 suruh
