@@ -4546,6 +4546,7 @@ sulo
 sultan
 sum
 sumbang
+sumbar
 sume
 sumeh
 sumi
@@ -4564,6 +4565,7 @@ sungkem
 suntuk
 sunyi
 suo
+sup
 supados
 supaya
 supe
