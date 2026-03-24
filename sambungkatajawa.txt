@@ -330,6 +330,7 @@ awas
 awek
 awu
 ax
+ay
 aya
 ayah
 ayam
@@ -1258,6 +1259,7 @@ kemul
 ken
 kena
 kendi
+kenopo
 kentang
 kentu
 kentut
@@ -1760,6 +1762,7 @@ ngapa
 ngapae
 ngapain
 ngapak
+ngapi
 ngapu
 ngapunten
 ngapurancang
@@ -2707,6 +2710,7 @@ udud
 uduk
 udur
 udut
+ugung
 uh
 uha
 uhe
@@ -2933,6 +2937,7 @@ ya
 yah
 yaka
 yakin
+yam
 yama
 yamaha
 yaman
