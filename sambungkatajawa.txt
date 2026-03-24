@@ -3256,6 +3256,7 @@ nguli
 ngulik
 ngulo
 ngulon
+ngulu
 ngumbah
 ngumbahi
 ngumpat
@@ -4439,6 +4440,7 @@ tani
 tanjung
 tanpa
 tansah
+tao
 tape
 tapi
 tapir
@@ -4538,6 +4540,7 @@ tiru
 tisa
 tisu
 tita
+titan
 tite
 titi
 titid
