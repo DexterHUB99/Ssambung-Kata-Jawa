@@ -2279,6 +2279,7 @@ manggis
 mangsa
 mani
 manis
+manten
 mantu
 mantul
 mantun
@@ -2911,6 +2912,7 @@ oleng
 oles
 oli
 olih
+olin
 oling
 olo
 olok
