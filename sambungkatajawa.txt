@@ -453,6 +453,7 @@ batok
 batu
 bawok
 bayi
+bebas
 bebe
 bebek
 becak
@@ -721,6 +722,7 @@ emong
 emot
 empang
 empet
+emplok
 empot
 emut
 en
@@ -804,6 +806,7 @@ esi
 esih
 eso
 esok
+estri
 esu
 esuk
 eta
@@ -891,6 +894,7 @@ gatel
 gathel
 gatot
 gatuk
+gawan
 gawang
 gawe
 gaweopo
@@ -908,6 +912,7 @@ gela
 gelang
 gelem
 geleman
+geli
 gelo
 gelombang
 gelut
@@ -1483,6 +1488,7 @@ kandang
 kang
 kangen
 kanggo
+kangkung
 kanjeng
 kanjut
 kanti
@@ -2157,6 +2163,7 @@ neng
 nengdi
 nepak
 neras
+nes
 nesi
 nesu
 nete
@@ -2722,6 +2729,7 @@ pokok
 pol
 pola
 polah
+polan
 poleh
 poli
 polisi
