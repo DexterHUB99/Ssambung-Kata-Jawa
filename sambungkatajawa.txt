@@ -223,6 +223,7 @@ angel
 angen
 angger
 angin
+angkat
 angker
 angklung
 angkot
@@ -399,6 +400,7 @@ bajing
 baju
 bakso
 bakul
+bali
 balung
 bando
 bantu
@@ -1313,6 +1315,7 @@ jongo
 joni
 jori
 jubah
+ka
 kaba
 kabeh
 kacuk
@@ -2156,6 +2159,7 @@ ngunjung
 nguno
 nguntal
 ngunu
+ngupe
 ngupil
 nguping
 ngurusi
@@ -2432,6 +2436,7 @@ pegawai
 pei
 peju
 peko
+peler
 peli
 pen
 penak
@@ -2549,6 +2554,7 @@ rambu
 rambut
 rambutan
 rampun
+rampung
 ramu
 ramua
 ramuan
@@ -3321,6 +3327,7 @@ witan
 wiwit
 woe
 woh
+woi
 woko
 wolu
 wong
