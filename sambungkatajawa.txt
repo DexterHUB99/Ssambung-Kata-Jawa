@@ -459,6 +459,7 @@ erok
 eror
 erosi
 eruh
+erungi
 erup
 es
 esa
@@ -575,6 +576,7 @@ gul
 gula
 gulai
 guli
+guling
 gumuh
 gumun
 guna
@@ -1365,7 +1367,9 @@ ngurusi
 ngusel
 ngusu
 ngutang
+nguyuh
 nguyup
+ngwur
 ni
 nia
 niba
@@ -1653,6 +1657,7 @@ rih
 rik
 rika
 riki
+rikma
 rila
 rima
 rin
@@ -1815,6 +1820,7 @@ sule
 suling
 sultan
 sum
+sumi
 sumpah
 sumuk
 sun
@@ -2122,6 +2128,7 @@ yok
 yoopo
 yowes
 yoyo
+yuda
 yuko
 yung
 yura
