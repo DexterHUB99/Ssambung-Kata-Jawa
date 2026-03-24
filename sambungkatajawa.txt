@@ -73,6 +73,7 @@ aiya
 aja
 ajan
 ajang
+ajar
 ajaran
 ajay
 aje
@@ -405,6 +406,7 @@ bumbu
 bunga
 bus
 busuk
+buta
 buto
 cacig
 cacing
@@ -431,6 +433,7 @@ cinta
 cocot
 cok
 colak
+congor
 coro
 cukup
 cumi
@@ -988,6 +991,7 @@ ilah
 ilahi
 ilaki
 ilam
+ilan
 ilang
 ilat
 iler
@@ -1376,6 +1380,7 @@ kumbang
 kun
 kuna
 kunci
+kuning
 kuno
 kunti
 kuntul
