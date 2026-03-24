@@ -323,6 +323,7 @@ baa
 babak
 babat
 babi
+babu
 bacot
 bae
 bagong
@@ -688,6 +689,7 @@ gema
 gembel
 gemblung
 gembok
+genah
 gendeng
 gendhis
 gene
@@ -1151,6 +1153,7 @@ kelon
 kelor
 keluh
 kemanten
+kemarin
 kembar
 kemul
 ken
@@ -2347,6 +2350,7 @@ supe
 supel
 supo
 sura
+surat
 suri
 suruh
 surup
