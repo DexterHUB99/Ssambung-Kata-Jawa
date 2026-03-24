@@ -71,6 +71,7 @@ ahuy
 ai
 aia
 aii
+aiki
 ail
 aila
 ailo
@@ -118,6 +119,7 @@ akih
 akii
 akik
 akir
+akis
 ako
 akon
 aksara
@@ -495,6 +497,7 @@ buatan
 buaya
 bubur
 budi
+buk
 buka
 buku
 bulan
@@ -1368,6 +1371,7 @@ iyo
 iyuh
 iz
 jabur
+jae
 jaga
 jahe
 jakaa
@@ -1883,6 +1887,7 @@ lor
 loro
 los
 lose
+loso
 lota
 lotek
 lowe
@@ -1936,6 +1941,7 @@ mam
 mama
 mamah
 mamak
+mambu
 mami
 mampu
 mampus
@@ -2530,6 +2536,7 @@ oncom
 onda
 onde
 ondo
+oneng
 ongak
 ongkek
 ongkos
@@ -2547,6 +2554,7 @@ opah
 opak
 opal
 opel
+openi
 opet
 opini
 opo
@@ -2695,6 +2703,7 @@ piyo
 pling
 po
 pocong
+poe
 pojok
 pok
 pokok
