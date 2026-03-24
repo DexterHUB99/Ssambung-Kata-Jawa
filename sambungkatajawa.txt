@@ -902,6 +902,7 @@ etek
 eten
 eti
 eto
+etok
 etos
 etuk
 etum
@@ -1678,6 +1679,7 @@ kasir
 kasur
 kasure
 kat
+kata
 katak
 kate
 kates
@@ -2190,6 +2192,7 @@ mari
 marii
 maruk
 mas
+masa
 masak
 masi
 masih
@@ -2439,6 +2442,7 @@ ngapa
 ngapae
 ngapain
 ngapak
+ngapal
 ngapel
 ngapi
 ngapu
@@ -2550,6 +2554,7 @@ ngiseng
 ngisep
 ngisi
 ngisih
+ngisin
 ngising
 ngitung
 nglim
@@ -3309,6 +3314,7 @@ sarem
 sari
 sarong
 saru
+sarung
 sasa
 sasak
 sasi
