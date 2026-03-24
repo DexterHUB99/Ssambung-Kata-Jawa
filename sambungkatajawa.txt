@@ -3254,6 +3254,7 @@ ngapak
 ngapal
 ngapel
 ngapi
+ngaplok
 ngapu
 ngapung
 ngapunten
@@ -4347,6 +4348,7 @@ rumus
 run
 runcing
 rungkad
+rungu
 runyam
 rup
 rupa
