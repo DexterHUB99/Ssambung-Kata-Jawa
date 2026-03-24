@@ -895,6 +895,7 @@ imba
 imbalan
 imbas
 imboh
+imbu
 imbuh
 imo
 impian
@@ -998,6 +999,7 @@ jancok
 janda
 jangan
 jangkrik
+jani
 jara
 jare
 jawa
@@ -1066,6 +1068,7 @@ kaos
 kapal
 kapan
 kapok
+kapur
 kara
 kare
 karep
@@ -1099,6 +1102,7 @@ kelingan
 kelon
 kelor
 keluh
+kemanten
 kembar
 kemul
 ken
@@ -1342,6 +1346,7 @@ lotek
 lowe
 lowo
 loyo
+lucu
 luka
 luluh
 lum
@@ -1570,6 +1575,7 @@ ngatal
 ngatemi
 ngatuk
 ngaturaken
+ngawai
 ngawas
 ngawi
 ngawor
