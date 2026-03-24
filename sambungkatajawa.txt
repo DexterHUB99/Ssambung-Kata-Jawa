@@ -67,6 +67,7 @@ ahih
 ahik
 ahil
 ahir
+ahis
 ahiy
 ahlak
 ahli
@@ -104,6 +105,7 @@ ajar
 ajaran
 ajay
 aje
+ajeg
 ajem
 ajen
 ajeng
@@ -354,6 +356,7 @@ apo
 apolo
 apung
 apus
+apusi
 ar
 ara
 arab
@@ -624,6 +627,7 @@ celeng
 celu
 cemeng
 cen
+cendol
 cengkeh
 ceplok
 cerita
@@ -737,6 +741,7 @@ dulan
 dulang
 dulu
 dulur
+duma
 dumeh
 dungo
 dupo
@@ -911,6 +916,7 @@ epic
 epik
 epin
 epis
+eplak
 epo
 epos
 epu
@@ -993,6 +999,7 @@ eyo
 faji
 fix
 fo
+foto
 ga
 gabah
 gabut
@@ -1101,6 +1108,7 @@ gelo
 gelombang
 gelut
 gema
+gemar
 gemas
 gembel
 gemblung
@@ -1183,6 +1191,7 @@ got
 gotongroyong
 gowo
 goyang
+grombyang
 gudang
 gudeg
 gudel
@@ -1202,6 +1211,7 @@ gumun
 gun
 guna
 gunane
+gundah
 gundam
 gundik
 gundul
@@ -1463,6 +1473,7 @@ ikui
 ikulo
 ikur
 ikut
+ikuti
 ila
 ilah
 ilahi
@@ -1878,6 +1889,7 @@ kepo
 kera
 keran
 kerang
+kerap
 kerat
 keraton
 kere
@@ -2052,6 +2064,7 @@ kura
 kurang
 kurawa
 kurma
+kuro
 kursi
 kuru
 kurung
@@ -2231,6 +2244,7 @@ loko
 lola
 loli
 lolo
+lolos
 loma
 lomba
 lombo
@@ -2239,6 +2253,7 @@ lomo
 lompat
 longor
 longsor
+lonjong
 lontar
 lonte
 lontong
@@ -2311,6 +2326,7 @@ maksud
 maku
 malah
 malam
+malas
 male
 malem
 malik
@@ -2843,6 +2859,7 @@ nim
 nima
 niman
 nimba
+nimbal
 nimbali
 nimbun
 nimen
@@ -3001,6 +3018,7 @@ olon
 olong
 oloo
 olor
+olos
 olot
 om
 oma
@@ -3123,6 +3141,7 @@ panggah
 panggo
 panjang
 panjenengan
+panji
 pantai
 pantat
 pante
@@ -3212,6 +3231,7 @@ pitek
 pitu
 pitung
 pitutur
+piwulang
 piye
 piyo
 pling
@@ -3413,6 +3433,7 @@ rika
 riki
 rikma
 riko
+riku
 rila
 rim
 rima
@@ -3443,6 +3464,7 @@ rita
 riti
 riwayat
 riya
+riyaya
 ro
 roa
 roboh
@@ -3520,6 +3542,7 @@ sae
 saee
 saestu
 saged
+saget
 sagu
 saha
 saiki
@@ -3593,6 +3616,7 @@ selet
 selo
 semar
 sembah
+semir
 semok
 sempak
 seng
@@ -3779,6 +3803,7 @@ tahu
 tai
 taik
 taki
+takon
 tala
 tales
 tali
@@ -4235,6 +4260,7 @@ wajah
 waktu
 waku
 wala
+wang
 wangi
 wangsul
 wani
@@ -4322,6 +4348,7 @@ yasin
 yati
 yawis
 yaya
+yayi
 yayo
 yen
 yere
