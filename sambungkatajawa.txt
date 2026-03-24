@@ -1692,6 +1692,7 @@ layuh
 lebah
 lee
 lek
+lele
 lemah
 lembut
 lemes
@@ -1716,6 +1717,7 @@ liku
 lila
 lili
 lilin
+lilit
 lilo
 lima
 limbah
@@ -1815,6 +1817,7 @@ makanan
 makruh
 malah
 malam
+male
 maling
 mam
 mama
@@ -3251,6 +3254,7 @@ untal
 unte
 untir
 untu
+untua
 untuk
 untumu
 untung
