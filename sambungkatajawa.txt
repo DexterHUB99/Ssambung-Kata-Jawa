@@ -1933,6 +1933,7 @@ isma
 ismi
 iso
 isok
+isoo
 istana
 istighfar
 istilah
@@ -3468,6 +3469,7 @@ nima
 niman
 nimba
 nimbali
+nimbang
 nimbun
 nimen
 nin
@@ -3540,6 +3542,7 @@ nuh
 nuhun
 nui
 nuk
+nuka
 nuki
 nuku
 nul
@@ -3927,6 +3930,7 @@ pito
 pitu
 pitung
 pitutur
+piwe
 piye
 piyo
 pling
