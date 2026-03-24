@@ -176,6 +176,7 @@ andha
 andi
 andok
 andong
+andu
 anduk
 ane
 aneh
