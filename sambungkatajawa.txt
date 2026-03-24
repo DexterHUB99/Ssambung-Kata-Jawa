@@ -353,6 +353,7 @@ apo
 apolo
 apung
 apus
+apusi
 ar
 ara
 arab
@@ -1868,6 +1869,7 @@ kepo
 kera
 keran
 kerang
+kerap
 kerat
 keraton
 kere
@@ -2041,6 +2043,7 @@ kura
 kurang
 kurawa
 kurma
+kuro
 kursi
 kuru
 kurung
