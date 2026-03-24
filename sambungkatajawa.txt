@@ -2211,6 +2211,7 @@ kil
 kila
 kilat
 kilen
+kilonan
 kima
 kime
 kimi
@@ -2486,6 +2487,7 @@ lemot
 lemper
 lemu
 leng
+leren
 leres
 les
 lesu
@@ -2746,11 +2748,13 @@ meneng
 merahe
 merak
 mercon
+merek
 meri
 mesum
 meta
 metek
 metu
+mi
 mia
 micek
 mie
@@ -3690,6 +3694,7 @@ peyek
 php
 pia
 piano
+picek
 pie
 pii
 pijet
