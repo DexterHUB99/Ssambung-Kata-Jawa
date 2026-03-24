@@ -610,6 +610,7 @@ emaem
 emak
 eman
 emang
+emas
 embah
 ember
 emboh
@@ -1857,6 +1858,7 @@ negara
 neges
 neh
 nek
+neka
 nekat
 neko
 nelongso
@@ -2824,6 +2826,7 @@ telek
 telo
 telu
 teman
+tembe
 tembok
 temen
 tempat
