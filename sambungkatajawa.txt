@@ -152,6 +152,7 @@ ampus
 amuh
 amuk
 amun
+an
 ana
 anaa
 anae
@@ -1083,6 +1084,7 @@ kancil
 kancut
 kandang
 kang
+kangen
 kanggo
 kanjut
 kanti
@@ -1368,6 +1370,7 @@ lontar
 lonte
 lontong
 loo
+lopis
 loro
 los
 lose
@@ -1661,6 +1664,7 @@ ngising
 ngitung
 nglim
 ngnu
+ngobrol
 ngocok
 ngoh
 ngok
@@ -1738,6 +1742,7 @@ nis
 nisa
 nisan
 nite
+niti
 nitih
 nitip
 nnduk
@@ -2378,6 +2383,7 @@ titid
 titit
 tititit
 tito
+tiwas
 toja
 tolak
 tolol
@@ -2627,6 +2633,7 @@ weteng
 wewe
 wiji
 wirang
+wita
 witan
 wiwit
 woko
