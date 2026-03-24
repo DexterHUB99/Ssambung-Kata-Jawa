@@ -934,6 +934,7 @@ garih
 garii
 garing
 garis
+garong
 garpu
 garuda
 garuk
@@ -974,6 +975,7 @@ gemas
 gembel
 gemblung
 gembok
+gemi
 gen
 genah
 gendeng
@@ -2046,6 +2048,7 @@ lupa
 luput
 lurah
 luru
+lusa
 lusuh
 luwe
 luweh
@@ -2053,6 +2056,7 @@ luwes
 luwih
 ma
 mabur
+maca
 macan
 madang
 madu
@@ -3545,6 +3549,7 @@ ua
 uang
 uange
 uban
+ubek
 ubi
 ucap
 ucul
