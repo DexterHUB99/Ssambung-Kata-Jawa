@@ -691,6 +691,7 @@ dongo
 dor
 doro
 dosa
+dowo
 du
 duda
 dudu
@@ -733,6 +734,7 @@ ega
 ege
 egi
 ego
+egod
 egrang
 eh
 eha
@@ -2145,6 +2147,7 @@ logat
 loh
 lohan
 lok
+lokasi
 loko
 lola
 loli
@@ -3670,6 +3673,7 @@ tati
 tatu
 taun
 tawa
+tawar
 tawon
 tebu
 tegak
