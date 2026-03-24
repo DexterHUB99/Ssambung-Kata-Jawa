@@ -3032,6 +3032,7 @@ nampani
 nampar
 nampel
 nampol
+namu
 nan
 nana
 nanah
