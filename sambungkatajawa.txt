@@ -285,6 +285,7 @@ basi
 batok
 bayi
 bebe
+belo
 beo
 bibik
 bidan
@@ -464,6 +465,7 @@ epo
 epos
 epu
 era
+erak
 eram
 erang
 eras
@@ -638,6 +640,7 @@ hama
 hamba
 hamil
 hampir
+hana
 hanacaraka
 hani
 hantam
@@ -903,6 +906,7 @@ kala
 kali
 kalimat
 kalong
+kalung
 kam
 kama
 kamar
@@ -1749,6 +1753,7 @@ riska
 risma
 riso
 rita
+riwayat
 ro
 rodo
 rogoh
@@ -1804,6 +1809,7 @@ sambut
 sami
 samin
 sampah
+sampean
 sampun
 samun
 sang
