@@ -436,6 +436,7 @@ apu
 apun
 apung
 apus
+apusi
 ar
 ara
 arab
@@ -646,6 +647,7 @@ baru
 bas
 basa
 basi
+basil
 bata
 bati
 batok
@@ -1098,6 +1100,7 @@ embong
 embuh
 eme
 emek
+emer
 emes
 emese
 emi
@@ -1210,6 +1213,7 @@ erin
 ero
 eroh
 erok
+erong
 eror
 eros
 erosi
@@ -2893,6 +2897,7 @@ lupis
 luput
 lurah
 luru
+lurung
 lurus
 lusa
 lusuh
@@ -4345,6 +4350,7 @@ rempela
 rempeyek
 remu
 remuk
+rena
 renan
 renang
 rendang
