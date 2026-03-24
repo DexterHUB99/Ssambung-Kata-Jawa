@@ -800,6 +800,7 @@ golet
 golong
 gombal
 gombalan
+gondok
 gondrong
 gong
 gor
@@ -824,6 +825,7 @@ gulu
 gumuh
 gumun
 guna
+gundik
 gundul
 guneman
 gunting
@@ -867,6 +869,7 @@ hang
 hani
 hantam
 hantu
+hanung
 hao
 hap
 hapi
@@ -1290,6 +1293,7 @@ ken
 kena
 kencur
 kendi
+kenek
 kenopo
 kentang
 kentu
@@ -1616,6 +1620,7 @@ mangap
 mangsa
 mani
 manis
+mantu
 mantul
 manuk
 manut
@@ -2336,6 +2341,7 @@ renang
 rene
 rengginang
 reo
+reog
 repot
 republik
 rere
@@ -2625,6 +2631,7 @@ tala
 tali
 tama
 tamba
+tambah
 tambak
 tameng
 tampar
@@ -2835,6 +2842,7 @@ umi
 umo
 umpama
 umpan
+umra
 umum
 umur
 una
@@ -2958,6 +2966,7 @@ waras
 warung
 wates
 watir
+watu
 way
 wayah
 wayang
