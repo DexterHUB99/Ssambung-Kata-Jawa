@@ -14,6 +14,8 @@ abis
 abo
 abot
 abu
+aca
+acar
 aceh
 aci
 aco
@@ -2373,6 +2375,7 @@ kuma
 kumaha
 kuman
 kumbah
+kumbahan
 kumbang
 kumpul
 kumuh
@@ -3337,6 +3340,7 @@ nikii
 niko
 niku
 nikung
+nil
 nila
 nilai
 nilar
@@ -3818,6 +3822,7 @@ pom
 poma
 pomo
 pon
+ponakan
 pondok
 pone
 poni
@@ -3971,6 +3976,7 @@ re
 rebo
 rebut
 rebutan
+redi
 rega
 regane
 rei
