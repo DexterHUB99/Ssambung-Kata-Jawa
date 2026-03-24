@@ -2439,6 +2439,7 @@ nanduk
 nandur
 nanem
 nang
+nangdi
 nanggung
 nanging
 nangis
