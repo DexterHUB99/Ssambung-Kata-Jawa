@@ -1079,6 +1079,7 @@ eret
 eri
 eria
 erika
+erin
 ero
 eroh
 erok
@@ -1616,6 +1617,7 @@ huruf
 hurung
 hurup
 hus
+husi
 hutan
 hutang
 huti
@@ -2184,6 +2186,8 @@ kereta
 keri
 keris
 kerjo
+kero
+kerok
 kerta
 kertas
 kertos
@@ -3565,6 +3569,7 @@ opak
 opal
 opel
 openi
+oper
 opet
 opik
 opini
@@ -4591,6 +4596,7 @@ tompel
 tonggo
 tongkol
 toni
+tonjok
 tono
 too
 topi
