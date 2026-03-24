@@ -833,6 +833,7 @@ damping
 damput
 dan
 dancok
+dandan
 dandang
 dani
 dap
@@ -1514,6 +1515,7 @@ got
 gotongroyong
 gowo
 goyang
+grogi
 gudang
 gudeg
 gudel
@@ -1555,6 +1557,7 @@ gus
 gusah
 gusi
 gusti
+gusur
 guwa
 guyon
 guyonan
@@ -2319,6 +2322,7 @@ kentang
 kenter
 kentu
 kentut
+kenyang
 kepa
 kepala
 kepaten
