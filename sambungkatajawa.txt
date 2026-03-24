@@ -596,6 +596,7 @@ cantik
 cara
 cari
 ce
+cecak
 cece
 cecek
 celana
@@ -955,6 +956,7 @@ etum
 ew
 ewah
 ewang
+ewangi
 ewe
 ewee
 ewek
@@ -2090,6 +2092,7 @@ layuh
 lebah
 lebur
 lee
+legi
 lek
 lele
 lemah
@@ -3421,6 +3424,7 @@ saing
 sakarep
 sakit
 saku
+sal
 sala
 salah
 salak
