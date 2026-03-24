@@ -598,6 +598,7 @@ dalu
 damai
 damar
 damping
+damput
 dan
 dancok
 dandang
@@ -1491,6 +1492,7 @@ iz
 jabur
 jae
 jaga
+jagung
 jahe
 jakaa
 jam
