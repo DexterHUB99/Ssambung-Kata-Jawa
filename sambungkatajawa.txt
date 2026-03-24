@@ -563,6 +563,7 @@ awe
 awek
 awet
 awi
+awor
 awu
 awur
 ax
@@ -1908,6 +1909,7 @@ iring
 iringan
 iris
 irit
+iron
 irong
 irot
 iru
