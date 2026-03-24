@@ -533,6 +533,7 @@ bakul
 balek
 bali
 balung
+ban
 bando
 banjir
 bantu
@@ -3744,6 +3745,7 @@ ruri
 rus
 rusa
 rusak
+rusma
 rusuh
 rute
 ruwat
