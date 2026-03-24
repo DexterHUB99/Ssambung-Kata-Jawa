@@ -166,6 +166,7 @@ alir
 aliran
 alis
 alo
+alon
 alos
 alot
 alu
@@ -1678,6 +1679,7 @@ kepa
 kepala
 kepaten
 kepek
+kepet
 kepiye
 kepo
 kera
@@ -2597,6 +2599,7 @@ nul
 nula
 nulis
 nulung
+num
 numpak
 nun
 nunggangi
@@ -3145,6 +3148,7 @@ sabon
 sadar
 sadewa
 sae
+saee
 saestu
 saged
 sagu
