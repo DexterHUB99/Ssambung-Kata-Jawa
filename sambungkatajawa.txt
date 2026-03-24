@@ -521,6 +521,7 @@ bila
 bilai
 bima
 bintang
+bio
 biru
 bis
 bisa
@@ -653,6 +654,7 @@ dina
 dini
 dino
 dipun
+dir
 diren
 dirumah
 diwan
@@ -968,6 +970,7 @@ gang
 ganggu
 gangsar
 gangsing
+gani
 ganjar
 ganjil
 ganteng
@@ -2162,6 +2165,7 @@ mak
 makan
 makanan
 makruh
+maku
 malah
 malam
 male
@@ -2667,6 +2671,7 @@ ninggal
 ningsih
 nini
 nio
+nipan
 nipon
 nipun
 nira
@@ -4050,6 +4055,7 @@ yowe
 yowes
 yoyo
 yuda
+yudi
 yuk
 yuko
 yula
