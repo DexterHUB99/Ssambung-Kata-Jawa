@@ -371,6 +371,7 @@ dolan
 domba
 duda
 dudu
+duduk
 duh
 duit
 duku
@@ -531,6 +532,7 @@ ex
 eyo
 ga
 gabah
+gadung
 gae
 gagak
 gagal
@@ -939,6 +941,7 @@ kadal
 kain
 kajut
 kak
+kaka
 kakak
 kake
 kaki
@@ -1037,6 +1040,7 @@ kios
 kira
 kirab
 kirek
+kiri
 kisan
 kita
 kitab
@@ -1107,6 +1111,7 @@ kurang
 kurawa
 kurma
 kursi
+kuru
 kurus
 kus
 kutang
@@ -1398,6 +1403,7 @@ ngaret
 ngarit
 ngarpu
 ngarti
+ngaruh
 ngas
 ngasah
 ngasem
@@ -2080,6 +2086,7 @@ timah
 timbul
 timun
 timur
+tina
 tinju
 tiri
 tisu
@@ -2316,6 +2323,7 @@ wong
 wonten
 woo
 wuh
+wulan
 wur
 xenon
 xray
