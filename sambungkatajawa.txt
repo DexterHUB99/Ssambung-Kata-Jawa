@@ -865,6 +865,7 @@ galau
 gali
 galih
 galon
+galung
 gaman
 gambar
 gambir
@@ -1254,6 +1255,7 @@ ikih
 ikii
 iklim
 iko
+ikoe
 ikon
 iku
 ikui
@@ -1293,6 +1295,7 @@ imbas
 imboh
 imbu
 imbuh
+iming
 imo
 impian
 impun
@@ -1594,6 +1597,7 @@ keluh
 kema
 kemanten
 kemaren
+kembali
 kembar
 kemben
 kempol
@@ -1603,6 +1607,7 @@ ken
 kena
 kencur
 kendal
+kendang
 kendel
 kendi
 kene
@@ -1922,6 +1927,7 @@ lo
 loa
 loba
 lobang
+lober
 lobi
 loe
 loh
@@ -1955,6 +1961,7 @@ lowo
 loyo
 lu
 lucu
+lugu
 luhur
 luka
 luluh
@@ -2089,6 +2096,7 @@ moto
 motor
 mripat
 mu
+mual
 mucuk
 mugi
 muh
@@ -3079,6 +3087,7 @@ santri
 santun
 sapi
 sapu
+saran
 sarem
 sarong
 saru
@@ -3379,6 +3388,7 @@ titit
 tititit
 tito
 tiwas
+tiyang
 to
 toja
 tolak
@@ -3414,6 +3424,7 @@ tulung
 tum
 tuma
 tuman
+tumbal
 tumbas
 tumindak
 tumit
