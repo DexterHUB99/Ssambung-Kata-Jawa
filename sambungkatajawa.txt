@@ -1034,6 +1034,7 @@ enul
 epa
 epah
 epan
+epang
 epas
 epep
 epi
@@ -1915,6 +1916,7 @@ jinten
 jipang
 jipuk
 jir
+jitak
 jiwa
 jiwae
 jo
@@ -3373,6 +3375,7 @@ nuti
 nutuk
 nutupi
 nutur
+nuturi
 nuwun
 ny
 nyai
@@ -3490,6 +3493,7 @@ ongkos
 ongol
 online
 ono
+onoo
 onta
 ontel
 onthel
