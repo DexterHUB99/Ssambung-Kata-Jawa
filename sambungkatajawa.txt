@@ -732,6 +732,7 @@ dulan
 dulang
 dulu
 dulur
+duma
 dumeh
 dungo
 dupo
@@ -905,6 +906,7 @@ epic
 epik
 epin
 epis
+eplak
 epo
 epos
 epu
@@ -2296,6 +2298,7 @@ makruh
 maku
 malah
 malam
+malas
 male
 malik
 maling
@@ -3415,6 +3418,7 @@ rita
 riti
 riwayat
 riya
+riyaya
 ro
 roa
 roboh
@@ -4285,6 +4289,7 @@ yasin
 yati
 yawis
 yaya
+yayi
 yayo
 yen
 yere
