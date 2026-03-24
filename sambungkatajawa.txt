@@ -365,7 +365,6 @@ anut
 anyam
 anyar
 anyep
-anyer
 anying
 apa
 apaa
@@ -454,6 +453,7 @@ asna
 asor
 asoy
 aspal
+asta
 astaga
 astane
 asu
@@ -674,7 +674,6 @@ cantik
 cara
 cari
 carik
-cawet
 ce
 cecak
 cece
@@ -752,15 +751,12 @@ dawa
 dawet
 dawuh
 de
-dedek
 dek
 delman
 dema
 demak
 demam
-demen
 demok
-dempet
 dengkul
 depi
 dereng
@@ -812,7 +808,6 @@ duduh
 duduk
 duga
 duh
-duha
 duit
 duka
 duku
@@ -1306,7 +1301,6 @@ gol
 gola
 golek
 golet
-goleti
 golong
 gombal
 gombalan
@@ -2002,7 +1996,6 @@ kates
 katok
 katrok
 katuh
-katul
 katur
 katus
 kawani
@@ -2184,7 +2177,6 @@ kom
 koma
 komi
 komik
-kompak
 kompor
 kon
 konangan
@@ -2527,7 +2519,6 @@ lupis
 luput
 lurah
 luru
-lurus
 lusa
 lusuh
 luwe
@@ -3707,6 +3698,7 @@ rakha
 raki
 rakus
 rama
+ramae
 ramah
 ramai
 raman
@@ -3896,7 +3888,6 @@ rujak
 ruko
 rukun
 rumah
-rumangsa
 rumbai
 rumbak
 rumbuk
@@ -4075,7 +4066,6 @@ silitem
 silitmu
 silo
 sim
-simak
 simbah
 simbok
 sin
@@ -4104,7 +4094,6 @@ siti
 siwak
 siwo
 siyam
-slamet
 so
 soba
 sobat
@@ -4278,7 +4267,6 @@ tawon
 tebu
 tegak
 tegal
-teh
 tekan
 teko
 tela
@@ -4306,7 +4294,6 @@ tempura
 temriki
 temu
 tenan
-tenanan
 tenang
 teng
 tengah
@@ -4614,7 +4601,6 @@ ura
 urab
 urah
 urai
-urak
 uraka
 urakan
 uram
