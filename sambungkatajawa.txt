@@ -846,6 +846,7 @@ etan
 ete
 eti
 eto
+etos
 etuk
 etum
 ew
@@ -1577,6 +1578,7 @@ karo
 karung
 kas
 kasar
+kasara
 kase
 kasep
 kasih
@@ -2607,6 +2609,7 @@ ojok
 ok
 oka
 okai
+okam
 okan
 okar
 oke
@@ -3535,6 +3538,7 @@ ujian
 ujung
 uka
 ukak
+ukal
 ukar
 ukara
 ukas
