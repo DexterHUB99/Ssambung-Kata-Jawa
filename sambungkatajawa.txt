@@ -1010,6 +1010,7 @@ hala
 halah
 halal
 halo
+halus
 ham
 hama
 hamba
@@ -1457,6 +1458,7 @@ kare
 karep
 karepmu
 kari
+karima
 karma
 karo
 karung
@@ -1508,6 +1510,7 @@ keluh
 kema
 kemanten
 kembar
+kemben
 kempol
 kemproh
 kemul
@@ -1924,6 +1927,7 @@ masuk
 mat
 mata
 matamu
+matane
 matek
 mati
 matur
@@ -2009,6 +2013,7 @@ nah
 naik
 naira
 najis
+nakai
 nakal
 nakon
 nala
@@ -3522,6 +3527,7 @@ wilujeng
 wirang
 wita
 witan
+wiwi
 wiwit
 woe
 woh
