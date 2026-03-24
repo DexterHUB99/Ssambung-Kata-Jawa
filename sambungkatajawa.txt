@@ -303,6 +303,7 @@ anoman
 anta
 antar
 antara
+antareja
 antawi
 antek
 antem
@@ -3320,6 +3321,7 @@ rumus
 run
 runcing
 rungkad
+runyam
 rupa
 rupamu
 rupane
@@ -4084,6 +4086,7 @@ wur
 xenon
 xray
 ya
+yaampun
 yadi
 yah
 yaka
