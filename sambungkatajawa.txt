@@ -627,6 +627,7 @@ enteng
 enteni
 enter
 entok
+entong
 entuk
 entut
 enuk
@@ -732,6 +733,7 @@ gara
 garang
 garap
 garem
+gareng
 gari
 garih
 garii
@@ -1313,6 +1315,7 @@ kelor
 keluh
 kemanten
 kembar
+kempol
 kemul
 ken
 kena
@@ -1792,6 +1795,7 @@ negara
 neges
 neh
 nek
+nekat
 neko
 nelongso
 nembe
@@ -1811,6 +1815,7 @@ ngaca
 ngaceng
 ngaco
 ngae
+ngajar
 ngaji
 ngaka
 ngaleh
@@ -2228,6 +2233,7 @@ paris
 parit
 pas
 pasa
+pasak
 pasti
 pasu
 patil
@@ -2464,6 +2470,7 @@ rubuh
 rugi
 rukun
 rumah
+rumongso
 rumput
 rumus
 run
@@ -2581,6 +2588,7 @@ singkong
 singo
 sinta
 sinten
+sio
 sir
 sira
 sirah
@@ -2672,6 +2680,7 @@ susumu
 sut
 suwe
 suwi
+suwine
 suwir
 suwun
 ta
