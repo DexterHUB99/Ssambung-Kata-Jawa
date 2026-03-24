@@ -176,6 +176,7 @@ alip
 alir
 aliran
 alis
+alit
 alo
 alon
 alos
@@ -719,6 +720,7 @@ duh
 duit
 duka
 duku
+dukuh
 dukun
 dukur
 dulan
@@ -3214,6 +3216,7 @@ pul
 pule
 pun
 puna
+punapa
 pundi
 pungkasan
 puni
