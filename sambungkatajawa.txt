@@ -304,6 +304,7 @@ aup
 aura
 autan
 awa
+awan
 awas
 awek
 awu
@@ -1151,6 +1152,7 @@ katok
 katuh
 katus
 kawani
+kawi
 kawin
 kawit
 kaya
@@ -1220,6 +1222,7 @@ kilat
 kilen
 kimi
 kin
+kina
 kini
 kintel
 kios
@@ -1445,6 +1448,7 @@ lumajang
 lumi
 lumpang
 lumrah
+luna
 lungguh
 lupa
 luput
