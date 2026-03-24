@@ -3213,6 +3213,7 @@ nasehat
 nasi
 nasib
 nasie
+nasii
 nastar
 nata
 natah
@@ -4542,6 +4543,7 @@ sana
 sandal
 sanes
 sang
+sangar
 sangu
 santai
 santen
