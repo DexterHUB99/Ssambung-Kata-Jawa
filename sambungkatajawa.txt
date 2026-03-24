@@ -3486,6 +3486,7 @@ segera
 sego
 seh
 sek
+sekar
 seket
 sekul
 selet
@@ -3498,6 +3499,7 @@ seng
 senok
 sepele
 sepi
+sepon
 sepuh
 sepur
 ser
@@ -3689,6 +3691,7 @@ tamu
 tamune
 tanah
 tandur
+tanduran
 tangan
 tangguh
 tangi
@@ -4002,6 +4005,7 @@ upaya
 upel
 upi
 upil
+upku
 upo
 ur
 ura
