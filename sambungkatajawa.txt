@@ -193,6 +193,7 @@ anuk
 anum
 anus
 anyam
+anyar
 apa
 ape
 apel
@@ -260,6 +261,7 @@ atok
 atom
 atos
 atret
+atu
 atuh
 atum
 atur
@@ -339,6 +341,7 @@ cincin
 cing
 cocot
 cok
+coro
 cukup
 dada
 dadar
@@ -372,6 +375,7 @@ dino
 dipun
 diren
 diwan
+dodik
 dodo
 doh
 dolan
@@ -1113,6 +1117,7 @@ kuk
 kuka
 kuku
 kukur
+kul
 kula
 kulak
 kuli
@@ -1147,6 +1152,7 @@ lagi
 lagu
 lah
 lakon
+laku
 lalah
 lalat
 laler
@@ -1184,6 +1190,7 @@ li
 lia
 liane
 liar
+libur
 lidah
 lihat
 lik
@@ -1297,6 +1304,7 @@ memek
 mendoan
 meneng
 meri
+metek
 micek
 mikir
 mingat
@@ -1324,6 +1332,7 @@ mulai
 muleh
 mules
 muli
+mulia
 mulih
 mulus
 mumet
@@ -1524,6 +1533,7 @@ ngotot
 ngubur
 ngudek
 ngudud
+nguli
 ngulon
 ngumpet
 ngumpul
@@ -1756,6 +1766,7 @@ pilu
 pinarak
 pindah
 pindo
+pintu
 pinus
 pipi
 pipis
