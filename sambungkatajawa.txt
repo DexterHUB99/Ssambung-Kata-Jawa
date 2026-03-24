@@ -1145,8 +1145,10 @@ itila
 itu
 itung
 iuta
+iw
 iwak
 iwan
+iwas
 iwenan
 iwir
 ix
@@ -1241,6 +1243,7 @@ kandang
 kang
 kangen
 kanggo
+kanjeng
 kanjut
 kanti
 kantil
@@ -1881,6 +1884,7 @@ ngg
 nggak
 nggaku
 nggateli
+nggawe
 nggeh
 nggi
 nggih
@@ -1911,6 +1915,7 @@ ngnu
 ngobrol
 ngocok
 ngoh
+ngojek
 ngok
 ngoko
 ngokok
@@ -1976,6 +1981,7 @@ nii
 nik
 nikah
 niki
+niko
 niku
 nila
 nilai
@@ -2018,6 +2024,7 @@ nono
 nonton
 nopi
 nopo
+nor
 norak
 nos
 nosa
