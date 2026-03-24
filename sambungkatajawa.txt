@@ -436,6 +436,7 @@ awan
 awas
 awe
 awek
+awet
 awi
 awu
 awur
@@ -613,6 +614,7 @@ dan
 dancok
 dandang
 dap
+dapur
 darah
 dari
 darma
@@ -976,7 +978,9 @@ garuk
 garut
 garwa
 gas
+gasak
 gasal
+gasi
 gasing
 gatau
 gatel
@@ -1977,6 +1981,7 @@ lawuh
 layu
 layuh
 lebah
+lebur
 lee
 lek
 lele
@@ -2362,6 +2367,7 @@ neni
 nepak
 neraka
 neras
+nerimo
 nes
 nesi
 nesu
@@ -3103,6 +3109,7 @@ relo
 rem
 remba
 rembes
+rembuk
 rembulan
 remeh
 remes
@@ -3762,6 +3769,7 @@ undi
 unduh
 undur
 undura
+unek
 unggah
 unggaha
 unggas
