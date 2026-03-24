@@ -282,6 +282,7 @@ anane
 anang
 anas
 ancam
+ancaman
 ancen
 anci
 ancok
@@ -1954,6 +1955,7 @@ jokowi
 joli
 jom
 jombang
+jomlo
 jongo
 joni
 joran
@@ -3813,6 +3815,7 @@ puja
 pujaan
 pukul
 pul
+pulau
 pule
 pun
 puna
@@ -4378,6 +4381,7 @@ sun
 suna
 sunar
 sunat
+sunda
 sundul
 sungai
 sungkan
