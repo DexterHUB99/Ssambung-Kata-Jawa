@@ -1035,6 +1035,7 @@ el
 ela
 elae
 elah
+elam
 elan
 elang
 elap
@@ -2345,6 +2346,7 @@ kepiye
 kepo
 ker
 kera
+keram
 keran
 kerang
 keras
@@ -4830,6 +4832,7 @@ tawa
 tawang
 tawar
 tawon
+tayo
 tebu
 tegak
 tegal
