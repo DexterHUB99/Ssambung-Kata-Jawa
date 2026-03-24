@@ -1,6 +1,7 @@
 aa
 aae
 aah
+ab
 abab
 abah
 abal
@@ -208,6 +209,7 @@ anaa
 anae
 anah
 anak
+anake
 anakmu
 anal
 anam
@@ -483,6 +485,7 @@ bu
 buang
 buatan
 buaya
+bubur
 budi
 buka
 buku
@@ -753,6 +756,7 @@ eras
 eren
 ereng
 erer
+eret
 eri
 eria
 erika
@@ -1242,6 +1246,7 @@ inem
 ing
 inget
 inggih
+inggil
 ingin
 ingkang
 ingsun
@@ -1620,6 +1625,7 @@ kota
 kotor
 kowe
 koyo
+koyok
 krama
 krikil
 ku
@@ -1712,6 +1718,7 @@ lanang
 lancar
 landep
 landhep
+langit
 langsing
 lani
 lanjut
@@ -1866,6 +1873,7 @@ madu
 mae
 maem
 mah
+maha
 mai
 mainan
 mak
@@ -2164,6 +2172,7 @@ ngen
 ngendep
 ngendi
 ngendika
+ngengek
 ngengobrol
 ngenteni
 ngepel
@@ -3439,6 +3448,7 @@ ute
 utek
 utekmu
 utel
+utem
 uter
 uti
 utir
