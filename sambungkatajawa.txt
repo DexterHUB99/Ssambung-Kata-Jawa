@@ -264,6 +264,7 @@ babi
 bacot
 bae
 bagong
+bagus
 bajing
 bakso
 bakul
@@ -572,6 +573,7 @@ gul
 gula
 gulai
 guli
+gumuh
 gumun
 guna
 gunting
@@ -1173,6 +1175,7 @@ mules
 muli
 mulih
 mulus
+mumet
 mumpung
 mundur
 murah
@@ -1369,6 +1372,7 @@ nila
 nilai
 nim
 nima
+nimba
 nimbun
 nin
 nina
@@ -1509,6 +1513,7 @@ oyi
 oyok
 oz
 pada
+padhang
 padu
 pahing
 pait
@@ -1617,6 +1622,7 @@ raut
 rawa
 rawon
 rawuh
+raya
 rayu
 re
 rebo
@@ -1837,6 +1843,7 @@ tansah
 tape
 tapi
 tapuk
+tarek
 tari
 taruk
 tata
