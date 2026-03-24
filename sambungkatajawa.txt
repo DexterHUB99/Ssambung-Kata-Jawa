@@ -324,6 +324,7 @@ bos
 boso
 bu
 buang
+budi
 buku
 bulan
 bunga
@@ -389,6 +390,7 @@ duduk
 duh
 duit
 duku
+dukun
 dulur
 duren
 durian
@@ -403,6 +405,7 @@ edaran
 eg
 ega
 ege
+egi
 ego
 eh
 eha
@@ -1804,6 +1807,7 @@ polisi
 pon
 pondok
 poo
+popol
 pora
 poro
 prei
@@ -2419,6 +2423,7 @@ woko
 wong
 wonten
 woo
+wora
 wuh
 wulan
 wur
