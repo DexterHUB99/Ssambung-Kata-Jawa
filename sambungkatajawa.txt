@@ -746,6 +746,7 @@ buka
 bukan
 buku
 bulan
+bulik
 bulu
 bumbu
 bumi
@@ -3317,6 +3318,7 @@ ngaceng
 ngaco
 ngadai
 ngadeg
+ngadu
 ngaduh
 ngaduk
 ngae
