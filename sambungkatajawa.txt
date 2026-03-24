@@ -403,6 +403,7 @@ asing
 asir
 asli
 aslii
+asma
 asmane
 asmara
 asna
@@ -670,6 +671,7 @@ diba
 didi
 dik
 dikon
+dila
 dilan
 dima
 dimah
@@ -1649,6 +1651,7 @@ joni
 jori
 jos
 jubah
+jujur
 jumat
 ka
 kaba
@@ -3027,6 +3030,7 @@ papa
 papah
 papi
 parang
+pare
 parem
 pari
 paringan
