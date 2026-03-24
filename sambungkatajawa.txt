@@ -83,6 +83,7 @@ alu
 alum
 alun
 alunan
+ama
 amal
 aman
 amanah
@@ -100,6 +101,7 @@ ami
 amin
 amis
 amit
+amoh
 ampar
 ampas
 ampuh
@@ -553,6 +555,7 @@ hani
 hantam
 hantu
 hao
+hapi
 hapus
 har
 haram
@@ -958,6 +961,7 @@ lilin
 lilo
 lima
 limo
+lingkaran
 lingsir
 lintah
 lipan
@@ -1093,6 +1097,7 @@ napi
 nar
 nari
 narik
+naro
 naruh
 nas
 nasi
@@ -1416,6 +1421,7 @@ pup
 purek
 puri
 puser
+putu
 puyuh
 ra
 rabi
@@ -1554,6 +1560,7 @@ sera
 serem
 ses
 si
+sialan
 siapa
 sii
 sikil
@@ -1562,6 +1569,7 @@ sila
 silit
 silitem
 silitmu
+sin
 sinten
 sir
 siram
