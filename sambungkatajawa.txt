@@ -22,6 +22,7 @@ afi
 aga
 age
 agung
+agus
 ah
 aha
 ahad
@@ -216,6 +217,7 @@ arep
 arepan
 ari
 aria
+arif
 arih
 arik
 arip
@@ -442,6 +444,7 @@ eker
 ekes
 eki
 eko
+ekoh
 ekor
 ela
 elah
@@ -586,6 +589,7 @@ gang
 gangsing
 ganteng
 gantung
+gara
 garang
 garap
 gari
@@ -1099,6 +1103,7 @@ kitab
 klambi
 klambimu
 klebus
+kocak
 koclok
 kodok
 koe
@@ -1260,6 +1265,7 @@ loli
 lolo
 lomba
 lombo
+lomo
 lompat
 longsor
 lontar
@@ -1653,6 +1659,7 @@ nuwun
 nyapu
 nyawiji
 nyusu
+nyuwun
 oalah
 obat
 odak
@@ -1921,6 +1928,7 @@ rik
 rika
 riki
 rikma
+riko
 rila
 rima
 rimi
@@ -2130,6 +2138,7 @@ supo
 suri
 surup
 susah
+susi
 susu
 susuk
 susumu
@@ -2289,6 +2298,7 @@ ukiran
 uko
 uku
 ukur
+ukura
 ukuran
 ulaa
 ulah
