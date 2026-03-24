@@ -1160,6 +1160,7 @@ ingsun
 ini
 inii
 injak
+injek
 injih
 insan
 inti
@@ -2216,6 +2217,7 @@ nuwun
 nyapu
 nyawiji
 nyawit
+nyungsep
 nyusu
 nyuwun
 oalah
@@ -2529,6 +2531,7 @@ raup
 rausah
 raut
 rawa
+rawan
 rawon
 rawuh
 raya
@@ -3058,6 +3061,7 @@ ukung
 ukur
 ukura
 ukuran
+ukuren
 ukya
 ula
 ulaa
@@ -3069,6 +3073,7 @@ ulang
 ulanga
 ulangan
 ular
+ulas
 ulat
 ulek
 uler
