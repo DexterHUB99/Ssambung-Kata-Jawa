@@ -1790,6 +1790,7 @@ hutang
 huti
 ib
 iba
+ibaa
 ibadah
 ibak
 ibarat
