@@ -139,6 +139,7 @@ amam
 aman
 amanah
 amas
+amati
 amba
 ambeng
 ambil
@@ -648,6 +649,7 @@ esan
 escendol
 esep
 esi
+esik
 eso
 esok
 esu
@@ -1689,6 +1691,7 @@ nangis
 nangka
 nani
 nanti
+nanya
 naon
 nap
 napa
@@ -2153,6 +2156,7 @@ pilakon
 pilar
 pilek
 pilu
+pin
 pina
 pinarak
 pincang
@@ -2618,6 +2622,7 @@ terus
 tete
 tetek
 ti
+tiba
 tibo
 tik
 tikar
