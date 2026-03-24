@@ -673,6 +673,7 @@ esuk
 eta
 etah
 etan
+eto
 etuk
 etum
 ew
@@ -2660,6 +2661,7 @@ tai
 tala
 tali
 tama
+taman
 tamba
 tambah
 tambak
@@ -2734,6 +2736,7 @@ timpuh
 timun
 timur
 tina
+tinggal
 tinju
 tiri
 tisu
@@ -2787,6 +2790,7 @@ turukmu
 tusuk
 tuti
 tutup
+tuwo
 ua
 uang
 uange
@@ -2852,6 +2856,7 @@ ulanga
 ulangan
 ular
 ulat
+ulek
 uler
 uli
 ulih
