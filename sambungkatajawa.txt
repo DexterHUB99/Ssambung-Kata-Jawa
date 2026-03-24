@@ -184,6 +184,7 @@ akuk
 akula
 akun
 akur
+akus
 al
 ala
 alah
@@ -3528,6 +3529,7 @@ ngiler
 ngiling
 ngilu
 ngimpi
+nginggil
 ngipasi
 ngira
 ngiri
@@ -5189,6 +5191,7 @@ ukas
 uke
 ukel
 ukem
+uken
 uki
 ukin
 ukir
