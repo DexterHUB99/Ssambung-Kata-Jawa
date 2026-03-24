@@ -184,6 +184,7 @@ anam
 anan
 anang
 anas
+ancen
 anci
 ancok
 ancur
@@ -325,6 +326,7 @@ atuh
 atuk
 atum
 atur
+auh
 aul
 aun
 aup
@@ -880,6 +882,7 @@ harus
 has
 hasan
 hase
+hasil
 hati
 hatimu
 haturnuhun
@@ -977,6 +980,7 @@ ih
 iha
 ihan
 ihe
+ihhi
 ihi
 ihla
 ihsan
@@ -1360,6 +1364,7 @@ konco
 kondangan
 kono
 kontol
+konyol
 kop
 kopi
 koplak
@@ -1503,6 +1508,7 @@ lilo
 lima
 limbah
 limo
+lina
 lingkaran
 lingsir
 lintah
@@ -1677,6 +1683,7 @@ na
 nabi
 nabrak
 nabung
+nada
 nadah
 nadi
 naek
@@ -2791,6 +2798,7 @@ ulat
 uler
 uli
 ulih
+ulik
 ulo
 ulu
 ulun
