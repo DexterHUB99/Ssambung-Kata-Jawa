@@ -274,6 +274,7 @@ antawi
 antek
 antem
 antep
+anter
 anti
 antik
 antimo
@@ -2197,6 +2198,7 @@ ngawi
 ngawor
 ngawur
 ngayomi
+ngebet
 ngece
 ngeh
 ngejak
@@ -3076,6 +3078,7 @@ sosis
 soto
 sowan
 soyo
+sri
 su
 suami
 suara
@@ -3279,6 +3282,7 @@ tuma
 tuman
 tumbas
 tumindak
+tumit
 tumpah
 tumpak
 tumpeng
@@ -3510,6 +3514,7 @@ uto
 utowo
 utu
 utuh
+uud
 uwe
 uwes
 uwis
