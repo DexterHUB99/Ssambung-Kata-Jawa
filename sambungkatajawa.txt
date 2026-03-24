@@ -1261,6 +1261,7 @@ gapapa
 gapopo
 gapuk
 gapura
+gar
 gara
 garang
 garanga
@@ -3224,6 +3225,7 @@ ngeselin
 ngeseng
 ngesor
 ngesot
+ngesu
 ngesuk
 nget
 ngetan
@@ -3872,6 +3874,7 @@ pondok
 pone
 poni
 pono
+ponorogo
 poo
 pop
 popol
