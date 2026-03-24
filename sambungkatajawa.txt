@@ -1511,6 +1511,7 @@ konco
 kondangan
 kono
 kontol
+kontrol
 konyol
 kop
 kopi
@@ -1714,6 +1715,7 @@ lombo
 lombok
 lomo
 lompat
+longor
 longsor
 lontar
 lonte
@@ -2364,6 +2366,7 @@ ot
 otak
 otol
 otot
+ow
 ox
 oy
 oyak
@@ -2463,6 +2466,7 @@ po
 pocong
 pojok
 pok
+pokok
 pola
 polah
 poleh
@@ -3162,6 +3166,7 @@ untumu
 untung
 upah
 upal
+upama
 upaya
 upel
 upi
