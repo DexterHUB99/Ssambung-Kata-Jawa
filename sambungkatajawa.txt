@@ -935,6 +935,7 @@ gali
 galih
 galon
 galung
+gama
 gaman
 gambar
 gambir
@@ -1543,6 +1544,7 @@ jebul
 jem
 jembut
 jembutmu
+jenang
 jeruk
 ji
 jiga
@@ -1698,6 +1700,7 @@ kelangan
 kelas
 kelek
 kelem
+kelereng
 keliling
 kelingan
 keliru
@@ -1762,6 +1765,7 @@ ketel
 ketil
 ketir
 ketok
+ketua
 ketut
 kewan
 ki
@@ -2114,6 +2118,7 @@ luweh
 luwes
 luwih
 ma
+mabuk
 mabur
 maca
 macan
@@ -2385,6 +2390,7 @@ ngaji
 ngak
 ngaka
 ngaku
+ngala
 ngalah
 ngaleh
 ngali
@@ -2466,6 +2472,7 @@ ngelmu
 ngelon
 ngelu
 ngembun
+ngemis
 ngemong
 ngemot
 ngemut
@@ -3911,6 +3918,7 @@ wanita
 waras
 warna
 warung
+watak
 wates
 wati
 watir
