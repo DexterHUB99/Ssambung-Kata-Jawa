@@ -1139,6 +1139,7 @@ landep
 langsing
 laos
 lapar
+lapis
 lari
 laron
 las
@@ -1377,6 +1378,7 @@ ngalu
 ngamal
 ngamok
 ngamuk
+ngandok
 nganggur
 ngangkang
 ngangso
@@ -1927,6 +1929,7 @@ ses
 sesama
 sesok
 si
+sia
 sial
 sialan
 siap
