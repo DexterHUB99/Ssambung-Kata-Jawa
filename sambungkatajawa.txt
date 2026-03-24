@@ -427,6 +427,7 @@ embuh
 emes
 emog
 emoh
+emong
 emot
 empang
 empot
@@ -532,6 +533,7 @@ garwa
 gas
 gasing
 gatel
+gathel
 gatot
 gawang
 gawe
@@ -594,6 +596,7 @@ goyang
 gudang
 gudeg
 guguk
+gugup
 gul
 gula
 gulai
@@ -1392,6 +1395,7 @@ ngolak
 ngolo
 ngoloh
 ngombe
+ngomong
 ngomongo
 ngompol
 ngompor
@@ -1999,6 +2003,7 @@ tuhan
 tuku
 tula
 tulan
+tulang
 tuli
 tulis
 tulung
