@@ -604,6 +604,7 @@ golek
 golet
 gombal
 gondrong
+gong
 gor
 goreng
 gori
@@ -923,6 +924,7 @@ kain
 kajut
 kak
 kakak
+kake
 kaki
 kala
 kali
@@ -1076,6 +1078,7 @@ kuma
 kuman
 kumbah
 kumbang
+kuna
 kunci
 kuno
 kunti
@@ -1366,6 +1369,7 @@ ngapurancang
 ngapus
 ngapusi
 ngarak
+ngarek
 ngarep
 ngaret
 ngarit
