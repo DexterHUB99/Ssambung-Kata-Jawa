@@ -3269,6 +3269,7 @@ rina
 rindu
 ring
 ringan
+ringkas
 ringkasan
 ringkes
 ringo
