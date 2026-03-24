@@ -1518,6 +1518,7 @@ hem
 hemat
 hemate
 heni
+henteu
 heo
 her
 hera
@@ -3127,6 +3128,7 @@ ngeseng
 ngesor
 ngesot
 ngesuk
+nget
 ngetan
 ngewangi
 ngewe
@@ -4337,6 +4339,7 @@ sunar
 sunat
 sundul
 sungai
+sungkan
 sungkem
 suntuk
 sunyi
