@@ -321,6 +321,7 @@ bebek
 bela
 belo
 beo
+beras
 beri
 biawak
 biba
@@ -356,6 +357,7 @@ cantik
 cari
 ce
 cece
+cecek
 celek
 celu
 cen
@@ -1031,6 +1033,7 @@ kakak
 kakaka
 kake
 kaki
+kaku
 kala
 kalah
 kaleng
@@ -2102,6 +2105,7 @@ sang
 sangu
 santri
 sapi
+sapu
 sarem
 sarong
 saru
