@@ -2417,6 +2417,7 @@ kuman
 kumbah
 kumbahan
 kumbang
+kumel
 kumpul
 kumuh
 kun
@@ -3066,6 +3067,7 @@ nengdi
 neni
 nepa
 nepak
+ner
 neraka
 neras
 neri
@@ -3234,6 +3236,7 @@ ngepet
 ngepot
 ngeri
 ngerok
+ngeroso
 ngerti
 nges
 ngesa
@@ -5129,6 +5132,7 @@ wik
 wilujeng
 win
 wingi
+winta
 wio
 wir
 wirama
