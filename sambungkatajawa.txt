@@ -636,10 +636,12 @@ gantung
 gara
 garang
 garap
+garem
 gari
 garih
 garii
 garing
+garpu
 garuk
 garut
 garwa
@@ -1293,6 +1295,7 @@ landep
 langsing
 laos
 lapar
+lapi
 lapis
 lapo
 lari
@@ -1506,6 +1509,7 @@ nakal
 nala
 nali
 nalika
+naliko
 nama
 nambah
 nambal
@@ -1952,6 +1956,7 @@ pilakon
 pilar
 pilek
 pilu
+pina
 pinarak
 pindah
 pindo
@@ -2671,6 +2676,7 @@ yoora
 yowes
 yoyo
 yuda
+yuk
 yuko
 yula
 yunani
