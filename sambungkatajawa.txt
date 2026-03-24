@@ -98,6 +98,7 @@ al
 ala
 alah
 alam
+alamo
 alan
 alara
 alasan
@@ -313,7 +314,9 @@ bajing
 bakso
 bakul
 balung
+bando
 bantu
+banyu
 baru
 basa
 basi
@@ -1149,6 +1152,7 @@ kik
 kiki
 kikil
 kil
+kila
 kilat
 kilen
 kimi
@@ -1682,6 +1686,7 @@ ngurusi
 ngusel
 ngusu
 ngutang
+ngutangan
 nguyuh
 nguyup
 nguyur
@@ -1971,6 +1976,7 @@ ragil
 rai
 raiku
 raimu
+raino
 raiso
 rak
 raki
