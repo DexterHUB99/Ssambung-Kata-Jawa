@@ -69,11 +69,13 @@ aio
 air
 aira
 aiwe
+aiya
 aja
 ajan
 ajang
 ajaran
 ajay
+aje
 ajem
 ajeng
 aji
@@ -975,6 +977,7 @@ iku
 ikur
 ikut
 ila
+ilah
 ilahi
 ilaki
 ilam
@@ -2890,6 +2893,7 @@ yah
 yaka
 yakin
 yama
+yamaha
 yang
 yano
 yas
