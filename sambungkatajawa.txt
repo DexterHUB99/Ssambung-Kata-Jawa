@@ -339,6 +339,7 @@ cacig
 campur
 cantik
 ce
+celek
 cen
 cengkeh
 ceplok
@@ -1234,6 +1235,7 @@ lingkaran
 lingsir
 lintah
 lintang
+lintasan
 lio
 lipa
 lipan
@@ -1549,6 +1551,7 @@ ngolak
 ngolo
 ngoloh
 ngombe
+ngomel
 ngomong
 ngomongo
 ngompol
@@ -2195,6 +2198,7 @@ tik
 tiktok
 tikus
 tila
+tilam
 tilem
 timah
 timbang
@@ -2318,6 +2322,7 @@ una
 unah
 unan
 undak
+undakan
 undang
 undi
 undur
