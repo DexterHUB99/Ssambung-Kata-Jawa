@@ -1100,6 +1100,7 @@ habis
 hadeh
 hadir
 hae
+hafal
 hah
 haha
 hahaha
@@ -2156,6 +2157,7 @@ micek
 mii
 mikir
 mila
+mili
 milu
 minat
 mingat
@@ -2842,6 +2844,7 @@ pasu
 pati
 patil
 patung
+payung
 pea
 pean
 pegawai
@@ -3318,6 +3321,7 @@ sola
 solah
 solar
 solat
+solid
 solo
 som
 somat
@@ -3679,6 +3683,7 @@ umpama
 umpan
 umra
 umum
+umume
 umur
 un
 una
