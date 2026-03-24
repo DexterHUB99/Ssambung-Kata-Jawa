@@ -878,6 +878,7 @@ hijau
 hiji
 hijrah
 hilang
+himpunan
 hina
 hinggap
 hir
@@ -1605,6 +1606,7 @@ mute
 na
 nabi
 nabrak
+nabung
 nadah
 nadi
 naek
@@ -2042,6 +2044,7 @@ pada
 padang
 padhang
 padu
+pagar
 pahing
 pait
 pak
@@ -2159,6 +2162,7 @@ raiku
 raimu
 raino
 raiso
+rajin
 rak
 raki
 rakus
