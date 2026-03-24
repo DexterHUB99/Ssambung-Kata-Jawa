@@ -704,6 +704,7 @@ dona
 dongo
 dor
 doro
+dorong
 dosa
 doso
 dowo
@@ -3151,6 +3152,7 @@ poe
 pojok
 pok
 pokok
+pokoke
 pol
 pola
 polah
