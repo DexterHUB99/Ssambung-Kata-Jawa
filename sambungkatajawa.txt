@@ -693,6 +693,7 @@ bosok
 bot
 botak
 boti
+boto
 botok
 bowo
 boyok
@@ -3917,6 +3918,7 @@ pijet
 pijit
 pikun
 pil
+pilah
 pilakon
 pilang
 pilar
@@ -4671,6 +4673,7 @@ tae
 taek
 tah
 tahu
+tahun
 tai
 taie
 taii
