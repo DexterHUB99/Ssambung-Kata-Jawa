@@ -412,6 +412,7 @@ ceplok
 cerita
 cicak
 cici
+cilok
 cimu
 cincin
 cing
@@ -1257,6 +1258,7 @@ keset
 kesleo
 ketan
 ketel
+ketil
 ketir
 ketok
 ki
@@ -1978,6 +1980,7 @@ olahan
 olar
 olee
 oleh
+olen
 oleng
 oles
 oli
@@ -2543,6 +2546,7 @@ telat
 telek
 telo
 telu
+teman
 tembok
 temen
 tempat
