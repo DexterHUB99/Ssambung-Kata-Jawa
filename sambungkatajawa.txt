@@ -2938,6 +2938,7 @@ maksud
 maku
 malah
 malam
+malang
 malas
 male
 malem
@@ -4187,6 +4188,7 @@ pot
 potong
 prai
 prei
+pria
 pripun
 pua
 puan
