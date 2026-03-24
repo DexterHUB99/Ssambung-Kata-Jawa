@@ -981,6 +981,7 @@ embok
 embong
 embuh
 eme
+emek
 emes
 emese
 emik
@@ -1265,6 +1266,7 @@ gayunge
 ge
 geblek
 gedang
+gede
 gedhang
 gedhi
 gee
@@ -2308,6 +2310,7 @@ kori
 kos
 kosan
 kosek
+kosi
 kosok
 kosong
 kosor
@@ -2950,6 +2953,7 @@ ndak
 ndasmu
 ndeso
 ndlogok
+nduk
 ne
 nedah
 nedha
@@ -3082,6 +3086,7 @@ ngarit
 ngarpu
 ngarti
 ngaruh
+ngarus
 ngas
 ngasa
 ngasah
@@ -4763,6 +4768,7 @@ umbar
 umbel
 umbi
 umbul
+ume
 umi
 umo
 umpama
