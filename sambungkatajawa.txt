@@ -293,6 +293,7 @@ atos
 atret
 atu
 atuh
+atuk
 atum
 atur
 aup
@@ -446,6 +447,7 @@ duh
 duit
 duku
 dukun
+dulu
 dulur
 duren
 durian
@@ -2183,6 +2185,7 @@ saged
 saiki
 saing
 sakit
+saku
 sala
 salah
 salam
