@@ -33,6 +33,7 @@ ahak
 aham
 ahan
 ahap
+ahar
 ahas
 ahat
 ahay
@@ -1361,6 +1362,7 @@ liar
 libur
 lidah
 lihat
+lii
 lik
 lika
 likis
@@ -2699,6 +2701,7 @@ weh
 welo
 wen
 wengi
+werkudara
 weruh
 wes
 wet
