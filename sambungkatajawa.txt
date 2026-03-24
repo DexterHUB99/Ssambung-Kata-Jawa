@@ -5098,6 +5098,7 @@ tulis
 tulisan
 tulung
 tulungagung
+tulus
 tum
 tuma
 tuman
