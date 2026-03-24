@@ -302,6 +302,7 @@ angel
 angen
 angep
 angger
+anggota
 anggu
 anggur
 angin
@@ -393,6 +394,7 @@ arang
 arap
 aras
 ardi
+are
 arek
 arem
 aren
@@ -1280,6 +1282,7 @@ gilani
 gilo
 giman
 gimbal
+gincu
 ginjal
 girang
 giring
@@ -2654,6 +2657,7 @@ mii
 mikir
 mila
 mili
+milik
 milu
 min
 minat
@@ -4618,6 +4622,7 @@ urat
 urek
 ures
 uri
+urie
 uring
 urip
 uripe
