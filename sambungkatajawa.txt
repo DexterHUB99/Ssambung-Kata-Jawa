@@ -228,6 +228,7 @@ ase
 aseh
 asek
 asem
+asep
 asew
 asi
 asia
@@ -296,6 +297,7 @@ bebek
 bela
 belo
 beo
+biba
 bibik
 bidan
 bidun
@@ -1797,6 +1799,7 @@ rian
 riang
 ribet
 ribut
+ridho
 rih
 rik
 rika
@@ -2059,6 +2062,7 @@ tete
 tetek
 ti
 tibo
+tik
 tikus
 tila
 tilem
@@ -2132,6 +2136,7 @@ ujan
 ujar
 uji
 ujian
+ujung
 uka
 ukar
 ukara
