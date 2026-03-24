@@ -141,6 +141,7 @@ akehi
 aker
 akhir
 aki
+akie
 akih
 akii
 akik
@@ -345,6 +346,7 @@ antep
 anter
 anti
 antik
+antiku
 antimo
 anting
 anto
@@ -630,6 +632,7 @@ buaya
 bubur
 buda
 budak
+bude
 budi
 buk
 buka
@@ -798,7 +801,6 @@ duduh
 duduk
 duga
 duh
-duha
 duit
 duka
 duku
@@ -1284,7 +1286,6 @@ gol
 gola
 golek
 golet
-goleti
 golong
 gombal
 gombalan
@@ -2547,6 +2548,7 @@ mandeg
 mandi
 mane
 maneh
+mang
 manga
 mangan
 mangap
@@ -2556,6 +2558,7 @@ manggis
 mangsa
 mani
 manis
+manja
 manjing
 manjur
 manten
@@ -2687,6 +2690,7 @@ mur
 murah
 musa
 muse
+musim
 musuh
 mute
 na
@@ -3881,6 +3885,7 @@ sagu
 saha
 saiki
 saing
+saka
 sakarep
 sakit
 sakite
@@ -4716,6 +4721,7 @@ woi
 woke
 woko
 wolu
+won
 wong
 wono
 wonosobo
