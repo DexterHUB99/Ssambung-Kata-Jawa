@@ -40,7 +40,6 @@ aengi
 afi
 aga
 agar
-agawe
 age
 agi
 agung
@@ -241,6 +240,7 @@ amira
 amis
 amit
 amoh
+amor
 ampal
 ampar
 ampas
@@ -423,7 +423,6 @@ ase
 aseh
 asek
 asem
-asemi
 asep
 asew
 asi
@@ -481,7 +480,6 @@ atuk
 atum
 atun
 atur
-aturen
 atus
 auh
 aul
@@ -617,7 +615,6 @@ botak
 boti
 botok
 bowo
-boyok
 bu
 buang
 buatan
@@ -632,8 +629,10 @@ buku
 bulan
 bulu
 bumbu
+bumi
 bunga
 buntu
+buri
 bus
 busa
 busuk
@@ -641,6 +640,7 @@ buta
 buto
 butu
 butuh
+ca
 cabe
 caca
 cacat
@@ -738,7 +738,6 @@ demak
 demam
 demok
 dengkul
-depi
 dereng
 deso
 diba
@@ -767,7 +766,6 @@ diwan
 doda
 dodik
 dodo
-dodol
 doh
 dolan
 doman
@@ -1028,6 +1026,7 @@ esam
 esan
 escendol
 ese
+esem
 esep
 esi
 esih
@@ -1251,6 +1250,7 @@ giring
 gita
 gitar
 giwang
+glagah
 go
 goblok
 godog
@@ -1707,7 +1707,6 @@ isak
 isam
 isan
 isap
-isek
 iseng
 isep
 isi
@@ -1722,7 +1721,6 @@ ismi
 iso
 isok
 istana
-istighfar
 istilah
 istri
 isu
@@ -1856,7 +1854,6 @@ kae
 kain
 kaine
 kaisa
-kajen
 kajut
 kak
 kaka
@@ -1971,7 +1968,6 @@ kecut
 kedadi
 kedai
 kedurung
-kejar
 kek
 keke
 kekel
@@ -1997,7 +1993,6 @@ kema
 kemah
 kemanten
 kemaren
-kemayu
 kembali
 kembang
 kembar
@@ -2029,6 +2024,7 @@ kepo
 kera
 keran
 kerang
+keras
 kerat
 keraton
 kere
@@ -2101,7 +2097,6 @@ klebus
 klepon
 kleru
 ko
-kobis
 kobong
 kocak
 koclok
@@ -2238,6 +2233,7 @@ lagi
 lagu
 lague
 lah
+lahir
 laki
 lakon
 laku
@@ -2293,7 +2289,6 @@ laron
 larut
 las
 lasa
-lasak
 lase
 lat
 latah
@@ -2311,7 +2306,6 @@ lawuh
 layar
 layu
 layuh
-le
 lebah
 lebur
 lee
@@ -2445,14 +2439,12 @@ luluh
 lum
 luma
 lumah
-lumaku
 lumayan
 lumi
 lumpang
 lumpuh
 lumrah
 lun
-lunga
 lungguh
 lunglai
 lungo
@@ -2582,6 +2574,7 @@ metek
 metu
 mia
 micek
+mie
 mii
 mikir
 mila
@@ -2648,7 +2641,6 @@ munggah
 mungkin
 munjuk
 muntah
-munyuk
 mur
 murah
 musa
@@ -2800,7 +2792,6 @@ ngaben
 ngaca
 ngaceng
 ngaco
-ngadeg
 ngaduh
 ngaduk
 ngae
@@ -2810,7 +2801,6 @@ ngajar
 ngaji
 ngak
 ngaka
-ngakak
 ngaku
 ngala
 ngalah
@@ -2930,7 +2920,6 @@ ngengek
 ngenget
 ngengobrol
 ngenteni
-ngentu
 ngentuk
 ngentut
 ngepang
@@ -2978,6 +2967,7 @@ ngiling
 ngilu
 ngimpi
 ngipasi
+ngira
 ngiri
 ngiris
 ngirit
@@ -2999,7 +2989,6 @@ ngojek
 ngok
 ngoko
 ngokok
-ngokop
 ngolah
 ngolak
 ngoleke
@@ -3017,7 +3006,6 @@ ngonde
 ngong
 ngoni
 ngono
-ngoper
 ngopi
 ngopo
 ngorek
@@ -3068,6 +3056,7 @@ nguta
 ngutang
 ngutangan
 ngutil
+nguyu
 nguyuh
 nguyup
 nguyur
@@ -3105,11 +3094,13 @@ ninggal
 ningsih
 nini
 ninine
+ninja
 nio
 nipan
 nipon
 nipun
 nira
+niri
 nis
 nisa
 nisan
@@ -3154,13 +3145,13 @@ nu
 nua
 nubruk
 nuduh
+nue
 nuh
 nuhun
 nui
 nuki
 nul
 nula
-nuli
 nulis
 nulung
 num
@@ -3187,10 +3178,10 @@ nusa
 nusul
 nuti
 nutuk
-nutur
 nuwun
 ny
 nyai
+nyani
 nyanyi
 nyapu
 nyawiji
@@ -3248,7 +3239,6 @@ ol
 olah
 olahan
 olahraga
-olak
 olar
 olee
 oleh
@@ -3465,7 +3455,6 @@ pilang
 pilar
 pilek
 pili
-pilih
 pilot
 pilu
 pina
@@ -3517,7 +3506,6 @@ poli
 poling
 polisi
 polo
-polok
 pom
 poma
 pomo
@@ -3589,7 +3577,6 @@ ragi
 ragil
 rah
 rahasia
-rahma
 rahmat
 rai
 raii
@@ -3632,7 +3619,6 @@ randu
 rani
 rantai
 raono
-raos
 rapa
 rapi
 rapo
@@ -3682,7 +3668,6 @@ remes
 remok
 rempah
 rempela
-rempeyek
 remu
 remuk
 renang
@@ -3714,7 +3699,6 @@ riki
 rikma
 riko
 riku
-ril
 rila
 rim
 rima
@@ -3795,6 +3779,7 @@ rukun
 rumah
 rumbai
 rumbak
+rumbuk
 rumiyin
 rumongso
 rumput
@@ -3914,6 +3899,7 @@ semar
 sembah
 semok
 sempak
+sendal
 seng
 senok
 sepele
@@ -4173,7 +4159,6 @@ telek
 telinga
 teliti
 telo
-telon
 telu
 telur
 tema
@@ -4291,14 +4276,12 @@ tumit
 tumpah
 tumpak
 tumpeng
-tumrap
 tuna
 tunggal
 tunggu
 tupa
 tupi
 turah
-turi
 turon
 turu
 turuk
@@ -4307,6 +4290,7 @@ tusuk
 tuti
 tutup
 tuwo
+tuyul
 ua
 uang
 uange
@@ -4331,6 +4315,7 @@ udud
 uduk
 udur
 udut
+ue
 uen
 uga
 uget
@@ -4562,7 +4547,6 @@ uto
 utowo
 utu
 utuh
-uturi
 uud
 uwa
 uwe
@@ -4591,14 +4575,13 @@ wajah
 waktu
 waku
 wala
-walik
 wangi
 wangsul
 wani
 wanie
 wanita
 waras
-wareg
+waria
 warna
 warnae
 warung
@@ -4627,7 +4610,6 @@ welo
 wen
 wengi
 werkudara
-werno
 weruh
 wes
 wet
@@ -4642,6 +4624,7 @@ wik
 wilujeng
 win
 wingi
+wio
 wir
 wirama
 wirang
@@ -4721,6 +4704,7 @@ yunani
 yung
 yuni
 yura
+yusan
 yuti
 yuyu
 yuyun
