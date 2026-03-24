@@ -244,6 +244,8 @@ bajing
 bakso
 bakul
 balung
+baru
+basa
 basi
 bayi
 bebe
@@ -268,6 +270,7 @@ buto
 campur
 ce
 cen
+cicak
 cimu
 cing
 cocot
@@ -963,6 +966,7 @@ lidah
 lihat
 lik
 lika
+likis
 liku
 lila
 lilin
@@ -1384,6 +1388,7 @@ pantai
 pantat
 papa
 papah
+papi
 parang
 parem
 pari
@@ -1410,6 +1415,7 @@ pilar
 pilu
 pindah
 pipi
+pipis
 pipit
 piro
 pisah
