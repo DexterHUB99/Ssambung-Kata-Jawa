@@ -1581,6 +1581,7 @@ item
 itik
 itil
 itila
+ito
 itu
 itung
 iuta
@@ -1849,6 +1850,7 @@ keren
 kereta
 keri
 keris
+kerta
 kertas
 kertos
 kerudung
@@ -3815,6 +3817,7 @@ tiyang
 to
 toja
 tokek
+toko
 tolak
 tole
 tolol
