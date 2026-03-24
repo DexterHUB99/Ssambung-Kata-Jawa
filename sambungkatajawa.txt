@@ -728,6 +728,7 @@ cocote
 cok
 coklat
 colak
+colong
 congor
 coro
 crita
@@ -2195,6 +2196,7 @@ kese
 kesem
 keset
 kesleo
+kesusu
 ketan
 ketek
 ketel
