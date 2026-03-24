@@ -1154,6 +1154,7 @@ erui
 erung
 erungi
 erup
+erus
 es
 esa
 esaa
@@ -4086,6 +4087,7 @@ rawit
 rawon
 rawuh
 raya
+rayap
 rayu
 re
 rebo
