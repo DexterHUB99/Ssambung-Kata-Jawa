@@ -640,6 +640,7 @@ gah
 gaja
 gajah
 gak
+gaki
 gala
 galak
 galang
@@ -693,6 +694,7 @@ gelang
 gelem
 geleman
 gelo
+gelombang
 gelut
 gema
 gemas
@@ -734,6 +736,7 @@ gokil
 goks
 golek
 golet
+golong
 gombal
 gombalan
 gondrong
@@ -948,6 +951,7 @@ ilmune
 ilo
 ilok
 ilu
+iluk
 iman
 imas
 imba
@@ -1750,6 +1754,7 @@ ngomong
 ngomongo
 ngompol
 ngompor
+ngon
 ngong
 ngoni
 ngono
@@ -2029,6 +2034,7 @@ pilek
 pilu
 pina
 pinarak
+pincang
 pindah
 pindo
 pintu
