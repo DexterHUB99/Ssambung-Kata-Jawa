@@ -58,6 +58,7 @@ aio
 air
 aiwe
 aja
+ajan
 ajem
 ajeng
 aji
@@ -321,6 +322,7 @@ buku
 bulan
 bunga
 bus
+busuk
 buto
 cacig
 campur
@@ -499,6 +501,7 @@ era
 erah
 erak
 eram
+eran
 erang
 eras
 eren
@@ -922,6 +925,7 @@ jahe
 jakaa
 jam
 jaman
+jambu
 jancok
 jangan
 jangkrik
@@ -1949,6 +1953,7 @@ seh
 sek
 selet
 selo
+sembah
 sempak
 seng
 sepele
