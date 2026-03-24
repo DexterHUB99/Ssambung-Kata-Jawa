@@ -76,6 +76,7 @@ aiwe
 aiya
 aj
 aja
+ajai
 ajan
 ajang
 ajar
@@ -511,6 +512,7 @@ de
 dek
 delman
 dema
+demak
 demam
 demok
 dengkul
@@ -862,6 +864,7 @@ giring
 gitar
 goblok
 godog
+godok
 gogol
 gojek
 gojekan
@@ -1580,6 +1583,7 @@ kuta
 kutah
 kutan
 kutang
+kutha
 kutu
 la
 lab
@@ -2673,6 +2677,7 @@ rusuh
 ruwat
 ruwet
 sa
+saa
 sabar
 sabi
 sabit
