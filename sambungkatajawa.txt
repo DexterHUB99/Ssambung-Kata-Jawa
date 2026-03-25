@@ -181,6 +181,7 @@ ajar
 ajaran
 ajay
 aje
+ajeg
 ajem
 ajen
 ajeng
@@ -2319,6 +2320,7 @@ huk
 hukum
 hukume
 hula
+hulai
 hulu
 hum
 huma
@@ -3702,6 +3704,7 @@ luhur
 luka
 luki
 lukis
+luku
 lulu
 luluh
 lulur
