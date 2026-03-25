@@ -11,6 +11,7 @@ abal
 abang
 abata
 abe
+abena
 abi
 abia
 abik
@@ -197,6 +198,7 @@ ajem
 ajen
 ajeng
 aji
+ajib
 ajik
 ajing
 ajining
