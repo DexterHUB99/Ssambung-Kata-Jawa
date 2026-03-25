@@ -3437,6 +3437,7 @@ mardi
 mari
 marii
 maring
+maru
 maruk
 mas
 masa
@@ -3909,6 +3910,7 @@ ngasu
 ngasuh
 ngatal
 ngatemi
+ngatok
 ngatuk
 ngatur
 ngaturaken
@@ -4219,6 +4221,7 @@ nino
 nio
 nipa
 nipan
+nipis
 nipon
 nipu
 nipun
@@ -5194,6 +5197,7 @@ sadar
 sadewa
 sae
 saee
+saei
 saestu
 saged
 saget
@@ -6355,6 +6359,7 @@ yan
 yana
 yang
 yano
+yari
 yas
 yasin
 yati
