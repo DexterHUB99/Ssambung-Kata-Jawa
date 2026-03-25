@@ -3885,6 +3885,7 @@ mis
 misah
 misu
 misuh
+misuhi
 mitoni
 mlaku
 mlebu
@@ -4426,6 +4427,7 @@ ngetung
 ngewangi
 ngewe
 ngewek
+ngeyel
 ngg
 ngga
 nggae
@@ -6938,6 +6940,7 @@ wili
 wilujeng
 win
 wingi
+wingko
 winta
 wio
 wir
