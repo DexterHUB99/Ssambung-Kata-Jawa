@@ -2383,6 +2383,7 @@ ijoo
 ik
 ika
 ikaa
+ikae
 ikal
 ikan
 ikane
@@ -2770,6 +2771,7 @@ jorok
 jos
 jotos
 juanda
+juang
 jubah
 jujur
 jule
@@ -3386,6 +3388,7 @@ lahi
 lahir
 lair
 lajeng
+laju
 lak
 laka
 laki
