@@ -1004,6 +1004,7 @@ biso
 bisu
 bisue
 biyung
+bo
 bobi
 bobok
 bobot
@@ -5842,6 +5843,7 @@ poro
 pos
 pose
 posi
+posok
 pot
 potong
 powa
@@ -5915,6 +5917,7 @@ rabun
 racik
 racun
 raden
+radi
 radika
 radio
 rae
