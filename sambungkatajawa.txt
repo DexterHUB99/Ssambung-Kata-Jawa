@@ -3545,6 +3545,7 @@ kincung
 kini
 kinjeng
 kintel
+kintir
 kios
 kipas
 kir
@@ -4989,6 +4990,7 @@ ngerok
 ngeroso
 ngerti
 ngertos
+ngerung
 nges
 ngesa
 ngesak
@@ -5025,6 +5027,7 @@ nggendong
 nggi
 nggih
 nggilani
+nggiling
 nggole
 nggolek
 nggon
