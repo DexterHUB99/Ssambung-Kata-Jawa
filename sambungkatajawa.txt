@@ -31,7 +31,6 @@ aceh
 aci
 acik
 aco
-acok
 acu
 acung
 ad
@@ -145,6 +144,7 @@ ahum
 ahun
 ahup
 ahur
+ahus
 ahut
 ahuy
 ai
@@ -509,7 +509,6 @@ ani
 aniani
 anii
 anik
-anim
 anin
 aning
 anis
@@ -606,7 +605,6 @@ aplikasi
 apo
 apolo
 apu
-apuh
 apun
 apung
 apus
@@ -847,6 +845,7 @@ babak
 babal
 babat
 babi
+babia
 babu
 baca
 bacin
@@ -1028,7 +1027,6 @@ boso
 bosok
 bot
 botak
-boten
 boti
 boto
 botok
@@ -1152,7 +1150,6 @@ cide
 ciduk
 cika
 cikal
-ciki
 cikur
 cilok
 cimu
@@ -1185,7 +1182,6 @@ copet
 copo
 cor
 coro
-cowek
 crita
 cuci
 cucu
@@ -1261,7 +1257,6 @@ dedek
 dedi
 dek
 dekan
-dekat
 delima
 delman
 delo
@@ -1289,7 +1284,6 @@ deso
 dewa
 dewi
 dewo
-dharma
 di
 diamput
 diana
@@ -1396,7 +1390,6 @@ dulur
 dumadi
 dumeh
 dungo
-dungu
 duno
 dunung
 dupa
@@ -1821,7 +1814,6 @@ eyem
 eyo
 ez
 faji
-fakir
 firman
 fisik
 fix
@@ -1900,6 +1892,7 @@ gami
 gamis
 gamma
 gampang
+gampar
 gampil
 gan
 ganco
@@ -1912,7 +1905,6 @@ gandul
 ganep
 gang
 ganggu
-gangguan
 gangsal
 gangsar
 gangsing
@@ -2231,7 +2223,6 @@ gupak
 gupuh
 gur
 gura
-gurah
 guren
 guri
 gurih
@@ -2762,7 +2753,6 @@ irenan
 ireng
 irenge
 iri
-iria
 irii
 irim
 irin
@@ -2883,6 +2873,7 @@ jagung
 jahat
 jahe
 jaja
+jajai
 jajajan
 jajan
 jakaa
@@ -2915,7 +2906,6 @@ jari
 jauh
 jawa
 jawab
-jawe
 jawi
 jebul
 jela
@@ -3221,7 +3211,6 @@ kayu
 ke
 keano
 kebab
-kebak
 kebang
 kebo
 kebon
@@ -3366,7 +3355,6 @@ kesandung
 kesasar
 kesat
 kese
-kesel
 keselek
 kesem
 keset
@@ -3932,7 +3920,6 @@ lorone
 lorong
 los
 lose
-losi
 loso
 lota
 lotek
@@ -4152,7 +4139,6 @@ mayaa
 mayat
 mayit
 mbah
-mbengi
 mbok
 mbuh
 me
@@ -4474,7 +4460,6 @@ naya
 ndak
 ndang
 ndas
-ndase
 ndasmu
 ndelok
 nderek
@@ -4761,7 +4746,6 @@ ngel
 ngelag
 ngelak
 ngelap
-ngelapi
 ngelawak
 ngeleh
 ngelem
@@ -4976,7 +4960,6 @@ ngoyak
 ngoyo
 ngragal
 ngrep
-ngresiki
 ngrit
 ngsu
 nguber
@@ -5312,7 +5295,6 @@ okas
 oke
 okee
 okeh
-okehe
 okei
 okel
 okem
@@ -5362,7 +5344,6 @@ oma
 omae
 omah
 omahe
-omahku
 oman
 ombak
 ombe
@@ -5604,7 +5585,6 @@ pasek
 pasi
 pasing
 pasir
-pasrah
 pasti
 pasu
 pat
@@ -5693,7 +5673,6 @@ pijer
 pijet
 pijit
 piki
-piku
 pikun
 pil
 pila
@@ -5941,7 +5920,6 @@ rambak
 ramban
 rambu
 rambut
-rambuta
 rambutan
 rame
 ramene
@@ -5960,7 +5938,6 @@ randa
 randu
 randue
 rangda
-ranggi
 rani
 ranjang
 ransel
@@ -6139,7 +6116,6 @@ riso
 rit
 rita
 ritae
-ritan
 riti
 riwa
 riwayat
@@ -6409,7 +6385,6 @@ selamat
 selan
 selasa
 selawe
-seleng
 selet
 selo
 semangat
@@ -6562,7 +6537,6 @@ sodir
 sodok
 sodom
 sodor
-sogok
 sok
 soki
 sokin
@@ -7201,7 +7175,6 @@ uler
 ulet
 uli
 ulih
-ulii
 ulik
 ulo
 uloe
