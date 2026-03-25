@@ -1534,6 +1534,7 @@ epa
 epah
 epan
 epang
+epar
 epas
 epat
 epe
@@ -6507,6 +6508,7 @@ uca
 ucap
 ucapan
 ucek
+ucik
 ucul
 uda
 udah
