@@ -5730,6 +5730,7 @@ udunen
 udur
 udut
 ue
+uem
 uen
 uga
 ugal
@@ -5905,6 +5906,7 @@ upik
 upil
 upku
 upo
+upra
 ur
 ura
 uraa
