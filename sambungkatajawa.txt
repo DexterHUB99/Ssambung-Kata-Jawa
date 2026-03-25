@@ -1422,6 +1422,7 @@ enteng
 enteni
 enter
 enthog
+enting
 entok
 entong
 entu
