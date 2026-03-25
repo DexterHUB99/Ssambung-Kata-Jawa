@@ -1054,7 +1054,6 @@ cen
 cendol
 cengkeh
 centil
-cepet
 ceplok
 ceri
 cerita
@@ -1679,6 +1678,7 @@ ewon
 ewong
 ewu
 ex
+ey
 eya
 eyah
 eyan
@@ -1966,6 +1966,7 @@ gimbal
 gina
 gincu
 ginjal
+gir
 gira
 girang
 giri
@@ -2405,7 +2406,6 @@ ikii
 ikim
 ikio
 ikita
-iklas
 iklim
 iko
 ikoe
@@ -2593,6 +2593,7 @@ isam
 isan
 isap
 isapi
+ise
 isek
 isen
 iseng
@@ -2729,6 +2730,7 @@ jigong
 jijik
 jika
 jikuk
+jil
 jila
 jilat
 jilbab
@@ -3589,7 +3591,6 @@ lira
 liren
 lirih
 lirik
-liru
 lis
 lisa
 lisan
@@ -3929,7 +3930,6 @@ mirah
 miri
 mis
 misah
-miskin
 misu
 misuh
 misuhi
@@ -4443,7 +4443,6 @@ ngenes
 ngeng
 ngengek
 ngenget
-ngengko
 ngengobrol
 ngenteni
 ngentu
@@ -5238,6 +5237,7 @@ pepek
 pepes
 peran
 perang
+perih
 perlu
 pesing
 peso
@@ -5304,6 +5304,7 @@ pir
 pira
 pirang
 piro
+pis
 pisa
 pisah
 pisan
@@ -5827,6 +5828,7 @@ saleh
 sali
 salim
 salira
+salo
 salom
 salut
 sam
@@ -6035,6 +6037,7 @@ sinom
 sinta
 sinten
 sio
+sip
 sipa
 sipit
 sir
@@ -6256,6 +6259,7 @@ talas
 tales
 tali
 talie
+talo
 tam
 tama
 taman
@@ -6748,7 +6752,6 @@ ungkit
 ungu
 uni
 unia
-unja
 unjal
 unjuk
 unma
@@ -6776,6 +6779,7 @@ upah
 upal
 upama
 upan
+upas
 upaya
 upel
 upi
