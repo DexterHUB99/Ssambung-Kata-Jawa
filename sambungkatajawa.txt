@@ -2480,6 +2480,7 @@ ikui
 ikulo
 ikur
 ikut
+ikutan
 il
 ila
 ilaa
