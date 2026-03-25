@@ -204,6 +204,7 @@ akue
 akuh
 akui
 akuk
+akul
 akula
 akun
 akur
@@ -5754,6 +5755,7 @@ ulaa
 ulae
 ulah
 ulak
+ulal
 ulam
 ulama
 ulan
@@ -6140,6 +6142,7 @@ yayi
 yayo
 yen
 yere
+yes
 yo
 yoe
 yoh
