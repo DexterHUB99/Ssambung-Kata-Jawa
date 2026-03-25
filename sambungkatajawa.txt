@@ -884,7 +884,6 @@ banteng
 bantu
 banu
 banya
-banyak
 banyu
 bapak
 bara
@@ -957,7 +956,6 @@ bibar
 bibi
 bibik
 bibis
-bibu
 bidan
 bidun
 bidur
@@ -1009,8 +1007,6 @@ bolo
 bolong
 bom
 bongko
-bono
-bor
 boring
 bos
 bosen
@@ -1061,7 +1057,6 @@ buntung
 bur
 buri
 burik
-buruh
 bus
 busa
 busana
@@ -1114,7 +1109,6 @@ cecep
 cedak
 cekelan
 ceki
-cekok
 cela
 celak
 celana
@@ -1234,7 +1228,6 @@ darma
 das
 dasar
 dasi
-daster
 daun
 davi
 dawa
@@ -1991,7 +1984,6 @@ gelang
 gelange
 gelap
 gelar
-gelas
 gelek
 gelem
 geleman
@@ -2309,12 +2301,13 @@ harapan
 harep
 harga
 hari
+haria
 harian
+harie
 harimau
 harimo
 harimu
 harjo
-harm
 harta
 hartamu
 haru
@@ -2360,7 +2353,6 @@ hehe
 hehi
 hei
 hele
-heli
 helikopter
 helo
 hem
@@ -2851,6 +2843,7 @@ jagongan
 jagung
 jahat
 jahe
+jail
 jaja
 jajajan
 jajan
@@ -2958,7 +2951,6 @@ jorok
 jos
 jotor
 jotos
-jualan
 juanda
 juang
 jubah
@@ -3115,7 +3107,6 @@ karem
 karep
 karepem
 karepmu
-karet
 kari
 karia
 karim
@@ -3401,7 +3392,6 @@ kita
 kitaa
 kitab
 kite
-kiti
 kiwa
 kiye
 klambi
@@ -3552,7 +3542,6 @@ kuncup
 kundur
 kuneng
 kuning
-kunir
 kuno
 kunti
 kuntul
@@ -3691,6 +3680,7 @@ laras
 lare
 lari
 laron
+laru
 larut
 las
 lasa
@@ -4059,7 +4049,6 @@ mantul
 mantun
 manuk
 manungsa
-manungso
 manusi
 manut
 maos
@@ -4425,7 +4414,6 @@ ndelok
 nderek
 ndeso
 ndlogok
-ndoro
 ndugal
 nduk
 ne
@@ -4513,7 +4501,6 @@ ngadai
 ngadeg
 ngadepi
 ngadi
-ngadii
 ngadon
 ngadu
 ngaduh
@@ -4750,7 +4737,6 @@ ngepang
 ngepel
 ngeper
 ngepet
-ngepi
 ngeplak
 ngepot
 ngeraba
@@ -4949,7 +4935,6 @@ ngumpul
 ngun
 ngunani
 ngunci
-ngundah
 ngundang
 ngunduh
 ngunjuk
@@ -5112,7 +5097,6 @@ nose
 nosi
 nota
 nresnani
-nrimo
 nsua
 nu
 nua
@@ -5844,6 +5828,7 @@ raino
 raiso
 raja
 rajang
+rajelas
 rajim
 rajin
 raju
@@ -5949,7 +5934,6 @@ redi
 rega
 regan
 regane
-reget
 rehi
 rei
 rek
@@ -6410,6 +6394,7 @@ sikut
 sil
 sila
 silah
+silai
 sile
 silet
 silih
@@ -6594,7 +6579,6 @@ sundul
 sungai
 sungkan
 sungkem
-suntik
 suntuk
 sunyi
 suo
@@ -6884,7 +6868,6 @@ toja
 tok
 tokek
 toko
-tola
 tolak
 tole
 tolol
@@ -7524,7 +7507,6 @@ woyo
 wuh
 wuku
 wulan
-wuno
 wur
 wuta
 wutan
@@ -7569,7 +7551,6 @@ yaya
 yayi
 yayo
 ye
-yek
 yen
 yeni
 yera
