@@ -1005,6 +1005,7 @@ cuci
 cucu
 cucur
 cuk
+cuki
 cukup
 cuma
 cumi
@@ -2681,6 +2682,7 @@ kapal
 kapan
 kape
 kapi
+kaping
 kapok
 kaprah
 kapur
@@ -2905,6 +2907,7 @@ kil
 kila
 kilat
 kilen
+kili
 kilonan
 kim
 kima
