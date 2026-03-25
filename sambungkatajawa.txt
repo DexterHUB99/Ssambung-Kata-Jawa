@@ -791,6 +791,7 @@ bisue
 bobi
 bobok
 bocah
+bocor
 bodoh
 bodoni
 bojo
@@ -4072,6 +4073,7 @@ nino
 nio
 nipan
 nipon
+nipu
 nipun
 nira
 niri
