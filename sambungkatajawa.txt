@@ -1227,6 +1227,7 @@ dona
 dong
 dongo
 doni
+donyo
 dor
 dora
 doro
@@ -1391,6 +1392,7 @@ eling
 elingan
 elir
 elit
+elmu
 elo
 eloh
 elok
