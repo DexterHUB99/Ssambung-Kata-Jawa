@@ -2484,6 +2484,7 @@ imbuh
 ime
 imi
 iming
+imna
 imo
 impi
 impian
@@ -4555,6 +4556,7 @@ ngir
 ngira
 ngiras
 ngiri
+ngirim
 ngiris
 ngirit
 ngis
