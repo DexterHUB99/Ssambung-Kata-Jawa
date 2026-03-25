@@ -1562,6 +1562,7 @@ et
 eta
 etah
 etak
+etam
 etan
 etang
 etap
@@ -1949,6 +1950,7 @@ gul
 gula
 gulai
 gule
+guleng
 guli
 gulii
 guling
@@ -3806,6 +3808,7 @@ monggo
 moni
 montor
 monyet
+mop
 mori
 moro
 mosok
@@ -6149,6 +6152,7 @@ tika
 tikar
 tiktok
 tikung
+tikungan
 tikus
 til
 tila
