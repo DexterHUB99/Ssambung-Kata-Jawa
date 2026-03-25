@@ -98,6 +98,7 @@ ahir
 ahiran
 ahire
 ahiri
+ahit
 ahiy
 ahlak
 ahli
@@ -1232,6 +1233,7 @@ emase
 emba
 embah
 emban
+embat
 ember
 emboh
 embok
@@ -5323,6 +5325,7 @@ su
 sua
 suami
 suamii
+suar
 suara
 suasu
 suba
