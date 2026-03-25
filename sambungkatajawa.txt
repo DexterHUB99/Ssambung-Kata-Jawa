@@ -605,6 +605,7 @@ aplikasi
 apo
 apolo
 apu
+apuh
 apun
 apung
 apus
@@ -1183,6 +1184,7 @@ copet
 copo
 cor
 coro
+cowek
 crita
 cuci
 cucu
@@ -1909,6 +1911,7 @@ gandul
 ganep
 gang
 ganggu
+gangguan
 gangsal
 gangsar
 gangsing
@@ -4755,6 +4758,7 @@ ngel
 ngelag
 ngelak
 ngelap
+ngelapi
 ngelawak
 ngeleh
 ngelem
@@ -6401,6 +6405,7 @@ selamat
 selan
 selasa
 selawe
+seleng
 selet
 selo
 semangat
