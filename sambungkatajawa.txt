@@ -51,6 +51,7 @@ aeng
 aengi
 afi
 aga
+agama
 agar
 agawe
 age
@@ -775,6 +776,7 @@ bobi
 bobok
 bocah
 bodoh
+bodoni
 bojo
 bojok
 bokong
@@ -896,6 +898,7 @@ col
 colak
 colong
 congor
+copo
 cor
 coro
 crita
@@ -970,6 +973,7 @@ den
 dengkul
 dening
 depi
+der
 dereng
 des
 desa
@@ -2549,6 +2553,7 @@ keles
 kelet
 keliling
 kelingan
+kelip
 keliru
 kelon
 kelor
@@ -3928,6 +3933,7 @@ ngusung
 nguta
 ngutang
 ngutangan
+nguter
 ngutil
 nguyu
 nguyuh
@@ -4543,6 +4549,7 @@ pose
 posi
 pot
 potong
+powa
 prai
 prei
 pria
