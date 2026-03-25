@@ -1493,6 +1493,7 @@ ganja
 ganjar
 ganjil
 ganta
+gantang
 ganteng
 ganti
 gantian
@@ -5879,6 +5880,7 @@ utih
 utik
 utir
 uto
+utoh
 utowo
 utu
 utuh
