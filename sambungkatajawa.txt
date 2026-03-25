@@ -288,6 +288,7 @@ amor
 ampal
 ampar
 ampas
+ampek
 ampela
 amplas
 ampok
@@ -1578,6 +1579,7 @@ got
 gotongroyong
 gowo
 goyang
+grobak
 grogi
 gudang
 gudeg
@@ -1595,6 +1597,7 @@ gulii
 guling
 gulir
 gulu
+gulung
 gumuh
 gumun
 gun
@@ -3000,6 +3003,7 @@ mamrih
 man
 mana
 manah
+manak
 mancing
 mandeg
 mandi
