@@ -900,6 +900,7 @@ biba
 bibar
 bibi
 bibik
+bibis
 bidan
 bidun
 bidur
@@ -4045,6 +4046,7 @@ nagih
 nagihe
 nah
 naha
+nahi
 nai
 naii
 naik
