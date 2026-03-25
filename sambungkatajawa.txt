@@ -796,6 +796,7 @@ bol
 bola
 boleh
 bolo
+bolong
 bom
 bongko
 bos
@@ -4168,6 +4169,7 @@ nutuk
 nutupi
 nutur
 nuturi
+nuwa
 nuwun
 ny
 nyai
@@ -4674,6 +4676,7 @@ purun
 pusaka
 puser
 pusing
+pute
 putih
 puting
 putra
@@ -5968,6 +5971,7 @@ uye
 uyuh
 uz
 wa
+waca
 wacana
 wadah
 wadon
