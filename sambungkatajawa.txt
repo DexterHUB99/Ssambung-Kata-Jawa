@@ -289,6 +289,7 @@ ampal
 ampar
 ampas
 ampela
+amplas
 ampok
 ampuh
 ampun
@@ -3465,6 +3466,7 @@ ngebet
 ngece
 ngeces
 ngeden
+ngegunung
 ngeh
 ngejak
 ngeki
