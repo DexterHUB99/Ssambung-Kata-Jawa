@@ -1083,6 +1083,7 @@ cinta
 cintai
 cipa
 cipluk
+cir
 ciu
 coba
 cobak
@@ -1617,6 +1618,7 @@ erong
 eror
 eros
 erosi
+erti
 eru
 erue
 eruh
@@ -4956,6 +4958,7 @@ okin
 okok
 okoke
 okol
+okon
 okop
 okor
 okos
