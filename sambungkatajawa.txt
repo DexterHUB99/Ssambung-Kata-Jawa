@@ -116,6 +116,7 @@ ahir
 ahiran
 ahire
 ahiri
+ahis
 ahit
 ahiy
 ahlak
@@ -5157,6 +5158,7 @@ pula
 pulan
 pulau
 pule
+pulen
 puli
 pulo
 pulpen
@@ -6659,6 +6661,7 @@ wawi
 way
 wayah
 wayang
+wc
 we
 wedal
 wedan
