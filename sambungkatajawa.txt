@@ -34,6 +34,7 @@ adah
 adap
 ade
 adek
+adel
 adem
 adhem
 adi
@@ -1424,6 +1425,7 @@ fo
 ga
 gabah
 gabut
+gada
 gadah
 gadai
 gadang
@@ -4434,6 +4436,7 @@ paris
 parit
 parok
 paru
+parup
 pas
 pasa
 pasak
@@ -5784,6 +5787,7 @@ ungkit
 ungu
 uni
 unia
+unjal
 unjuk
 unma
 uno
