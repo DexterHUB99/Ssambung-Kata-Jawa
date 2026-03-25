@@ -1047,6 +1047,7 @@ dodik
 dodo
 dodol
 doh
+dokar
 dolan
 dolanan
 doman
@@ -2481,6 +2482,7 @@ kamise
 kampret
 kampung
 kampungan
+kampus
 kamu
 kamus
 kan
@@ -3245,6 +3247,7 @@ magelang
 mah
 maha
 mai
+maido
 maii
 main
 mainan
