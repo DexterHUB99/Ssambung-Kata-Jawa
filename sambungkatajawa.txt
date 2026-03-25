@@ -1704,6 +1704,7 @@ etang
 etap
 etawa
 ete
+eteh
 etek
 eten
 ethok
@@ -3556,6 +3557,7 @@ langgar
 langgeng
 langit
 langka
+langkung
 langsing
 langu
 lani
@@ -4254,6 +4256,7 @@ naon
 nap
 napa
 napak
+napal
 napas
 napi
 napo
