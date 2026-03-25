@@ -6544,6 +6544,7 @@ sodir
 sodok
 sodom
 sodor
+sogok
 sok
 soki
 sokin
@@ -7182,6 +7183,7 @@ uler
 ulet
 uli
 ulih
+ulii
 ulik
 ulo
 uloe
