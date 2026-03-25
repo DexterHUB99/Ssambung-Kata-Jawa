@@ -1250,6 +1250,7 @@ elam
 elan
 elang
 elap
+elar
 eleh
 elek
 eleke
@@ -2430,6 +2431,7 @@ jagongan
 jagung
 jahat
 jahe
+jaja
 jakaa
 jaket
 jalii
