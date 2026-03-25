@@ -3206,6 +3206,7 @@ lose
 loso
 lota
 lotek
+lotis
 lowe
 lowo
 loyo
@@ -3835,6 +3836,7 @@ ngebas
 ngebet
 ngece
 ngeces
+ngedar
 ngeden
 ngegunung
 ngeh
