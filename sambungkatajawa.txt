@@ -1901,6 +1901,7 @@ gemah
 gemas
 gemati
 gembel
+gemblong
 gemblung
 gembok
 gembrot
