@@ -727,6 +727,7 @@ bajigur
 bajing
 bajingan
 baju
+bak
 bakon
 bakso
 baku
@@ -2651,6 +2652,7 @@ katus
 kawan
 kawani
 kawasan
+kawi
 kawin
 kawit
 kawok
@@ -5595,6 +5597,7 @@ takut
 tal
 tala
 talak
+talas
 tales
 tali
 talie
@@ -5766,6 +5769,7 @@ tobat
 togel
 toh
 toja
+tok
 tokek
 toko
 tolak
