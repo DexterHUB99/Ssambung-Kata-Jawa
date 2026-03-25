@@ -416,6 +416,7 @@ anjai
 anjani
 anjar
 anjaran
+anjas
 anjay
 anji
 anjing
@@ -2899,6 +2900,7 @@ kurung
 kurus
 kus
 kusa
+kusi
 kusir
 kuta
 kutah
@@ -3886,6 +3888,7 @@ ngiling
 ngilu
 ngima
 ngimpi
+ngin
 nginggil
 ngintip
 ngipasi
@@ -5177,6 +5180,7 @@ siki
 sikil
 siku
 sikut
+sil
 sila
 silah
 silet
