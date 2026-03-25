@@ -2737,6 +2737,7 @@ inggih
 inggil
 ingin
 ingkang
+ingku
 ingkung
 ingsun
 ingu
@@ -5967,6 +5968,7 @@ rabu
 rabun
 racik
 racun
+radar
 raden
 radi
 radika
@@ -6278,6 +6280,7 @@ royo
 rt
 ru
 rua
+ruah
 ruam
 ruang
 rubuh
