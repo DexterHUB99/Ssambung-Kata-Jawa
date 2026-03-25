@@ -4502,6 +4502,7 @@ nat
 nata
 natah
 natan
+natap
 natar
 nate
 nawa
