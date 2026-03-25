@@ -4928,6 +4928,7 @@ ngei
 ngejak
 ngejek
 ngek
+ngeker
 ngeki
 ngeko
 ngekos
@@ -6600,6 +6601,7 @@ sas
 sasa
 sasak
 sasi
+sastra
 sasu
 sate
 satru
