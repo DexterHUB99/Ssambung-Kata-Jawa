@@ -2774,6 +2774,7 @@ kadal
 kadang
 kades
 kadi
+kadong
 kados
 kadung
 kadus
@@ -4246,6 +4247,7 @@ nganah
 ngancani
 ngandang
 ngandani
+ngandel
 ngandhap
 ngandok
 nganduk
@@ -4580,6 +4582,7 @@ ngulon
 ngulu
 ngumbah
 ngumbahi
+ngumbel
 ngumpat
 ngumpet
 ngumpul
@@ -6302,6 +6305,7 @@ tengen
 tengik
 tepak
 tera
+teraken
 teran
 terang
 teras
