@@ -366,6 +366,7 @@ ancok
 ancuk
 ancur
 anda
+andae
 andai
 andal
 andalan
@@ -4468,6 +4469,7 @@ paing
 pait
 pajak
 pajang
+pajangan
 paji
 pak
 paka
@@ -6217,6 +6219,7 @@ yas
 yasin
 yati
 yauwis
+yawes
 yawis
 yaya
 yayi
