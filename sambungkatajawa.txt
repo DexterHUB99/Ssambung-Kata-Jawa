@@ -3924,6 +3924,7 @@ ngeh
 ngei
 ngejak
 ngejek
+ngek
 ngeki
 ngel
 ngelag
@@ -6387,6 +6388,7 @@ yunani
 yung
 yuni
 yura
+yuri
 yusan
 yuswo
 yuti
