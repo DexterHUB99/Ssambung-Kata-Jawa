@@ -430,6 +430,7 @@ angen
 angep
 anget
 angetan
+anggep
 angger
 anggo
 anggu
@@ -4182,6 +4183,7 @@ ngawai
 ngawang
 ngawas
 ngawe
+ngaweh
 ngawi
 ngawii
 ngawiti
