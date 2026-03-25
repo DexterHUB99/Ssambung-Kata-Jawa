@@ -2690,6 +2690,7 @@ jiwae
 jo
 jodo
 jodoh
+jogja
 jogo
 jok
 joki
@@ -5981,6 +5982,7 @@ suami
 suamii
 suar
 suara
+suaramu
 suasu
 suba
 subuh
