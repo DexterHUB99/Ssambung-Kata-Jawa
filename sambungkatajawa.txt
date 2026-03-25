@@ -2832,6 +2832,7 @@ klambimu
 klebus
 klepon
 kleru
+klimis
 kliwon
 ko
 kobis
@@ -6239,6 +6240,7 @@ wii
 wiji
 wik
 wila
+wilan
 wilangan
 wili
 wilujeng
