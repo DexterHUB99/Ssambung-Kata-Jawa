@@ -2369,6 +2369,7 @@ harimo
 harimu
 harjo
 harm
+haro
 harta
 hartamu
 haru
@@ -5553,6 +5554,7 @@ otot
 ow
 owah
 owak
+owoh
 owon
 ox
 oy
