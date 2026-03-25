@@ -605,6 +605,7 @@ aup
 aura
 aus
 ausa
+ausi
 aut
 autan
 auto
