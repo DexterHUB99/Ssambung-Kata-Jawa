@@ -1434,6 +1434,7 @@ gampang
 gampil
 gan
 gancuk
+ganda
 gandeng
 gandos
 gandrung
@@ -4606,6 +4607,7 @@ rayap
 rayu
 re
 rebo
+rebung
 rebut
 rebutan
 redi
@@ -5180,6 +5182,7 @@ taii
 taik
 taki
 takon
+takut
 tal
 tala
 tales
