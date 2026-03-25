@@ -781,6 +781,7 @@ buka
 bukan
 buku
 bulan
+bulat
 bulik
 bulu
 bumbu
@@ -2071,6 +2072,7 @@ ipak
 ipan
 ipar
 ipe
+ipek
 ipel
 ipen
 ipi
@@ -4318,6 +4320,7 @@ pisah
 pisan
 pisang
 pisis
+pisu
 pit
 pita
 pitak
@@ -4936,6 +4939,7 @@ sisir
 sisok
 sitak
 siti
+sitol
 siwak
 siwo
 siyam
