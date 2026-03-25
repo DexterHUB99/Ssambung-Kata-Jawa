@@ -2504,6 +2504,7 @@ kima
 kime
 kimi
 kin
+kina
 kinanthi
 kini
 kinjeng
@@ -3382,6 +3383,7 @@ ngakak
 ngaku
 ngala
 ngalah
+ngale
 ngaleh
 ngaler
 ngali
@@ -3749,6 +3751,7 @@ nisan
 nite
 niti
 nitih
+nitik
 nitip
 njaluk
 njupuk
