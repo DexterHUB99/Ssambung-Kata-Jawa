@@ -345,6 +345,7 @@ amber
 ambi
 ambil
 amblas
+ambles
 ambo
 amboi
 ambruk
@@ -4736,6 +4737,7 @@ nguru
 ngurus
 ngurusi
 ngus
+ngusap
 ngusel
 ngusi
 ngusik
