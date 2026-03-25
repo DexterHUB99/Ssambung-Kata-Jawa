@@ -1636,7 +1636,6 @@ endang
 endange
 endap
 endas
-endase
 endel
 endi
 endog
@@ -1662,7 +1661,6 @@ enik
 ening
 enjang
 enjing
-enko
 eno
 enok
 enong
@@ -1731,7 +1729,6 @@ erem
 eren
 ereng
 erer
-eres
 eret
 eri
 eria
@@ -2065,7 +2062,6 @@ geme
 gemes
 gemi
 gempa
-gempal
 gempar
 gempil
 gempol
@@ -2180,7 +2176,6 @@ gol
 gola
 gole
 golek
-goleki
 golet
 goleti
 goli
@@ -2740,7 +2735,6 @@ inggih
 inggil
 ingin
 ingkang
-ingku
 ingkung
 ingsun
 ingu
@@ -4914,7 +4908,6 @@ nggae
 nggah
 nggak
 nggaku
-nggali
 nggateli
 nggawa
 nggawe
@@ -5972,7 +5965,6 @@ rabu
 rabun
 racik
 racun
-radar
 raden
 radi
 radika
@@ -6284,7 +6276,6 @@ royo
 rt
 ru
 rua
-ruah
 ruam
 ruang
 rubuh
@@ -6564,7 +6555,6 @@ siao
 siap
 siapa
 siapo
-sida
 sidang
 sidha
 sie
@@ -6721,7 +6711,6 @@ sugeh
 sugeng
 sugi
 sugih
-sugu
 suh
 sui
 suji
@@ -6830,6 +6819,7 @@ tae
 taek
 tah
 tahan
+tahi
 tahta
 tahu
 tahun
