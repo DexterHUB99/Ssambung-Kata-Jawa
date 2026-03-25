@@ -1055,6 +1055,7 @@ cuma
 cumi
 cunduk
 cupu
+curi
 curut
 dada
 dadah
@@ -3503,6 +3504,7 @@ loo
 lope
 lopis
 lor
+lora
 loreng
 loro
 lorone
