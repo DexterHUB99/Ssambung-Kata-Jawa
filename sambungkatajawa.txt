@@ -752,6 +752,7 @@ atia
 atid
 atie
 atih
+atii
 atik
 atim
 atimu
@@ -1017,6 +1018,7 @@ bongko
 bono
 bor
 boring
+borok
 bos
 bosen
 boso
@@ -2693,6 +2695,7 @@ ingkung
 ingsun
 ingu
 ini
+inia
 inie
 inii
 injak
