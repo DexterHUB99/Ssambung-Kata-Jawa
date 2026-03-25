@@ -2112,6 +2112,7 @@ gerak
 geram
 gerang
 gerbang
+gere
 gerem
 gergaji
 geri
@@ -2922,6 +2923,7 @@ iyo
 iyoo
 iyu
 iyuh
+iyuk
 iz
 jaa
 jabur
