@@ -4271,6 +4271,7 @@ ngantun
 nganu
 nganyeli
 ngaos
+ngap
 ngapa
 ngapae
 ngapain
@@ -4373,6 +4374,7 @@ ngembun
 ngemis
 ngemong
 ngemot
+ngempet
 ngemut
 ngen
 ngendang
