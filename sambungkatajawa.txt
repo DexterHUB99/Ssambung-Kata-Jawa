@@ -1142,6 +1142,7 @@ dalem
 daleman
 dali
 dalu
+dama
 damai
 damar
 damel
@@ -1626,6 +1627,7 @@ eror
 eros
 erosi
 erti
+ertia
 eru
 erue
 eruh
@@ -4473,6 +4475,7 @@ ngemis
 ngemong
 ngemot
 ngempet
+ngempit
 ngemut
 ngen
 ngendang
