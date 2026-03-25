@@ -4700,6 +4700,7 @@ rekasa
 rekoso
 relo
 rem
+remang
 remba
 rembes
 rembuk
