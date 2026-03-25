@@ -937,6 +937,7 @@ cakar
 cakep
 campur
 can
+cangkem
 cangkul
 cantik
 caper
@@ -1333,6 +1334,7 @@ emese
 emi
 emik
 emir
+emira
 emo
 emog
 emoh
