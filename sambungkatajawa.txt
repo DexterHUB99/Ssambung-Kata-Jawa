@@ -66,6 +66,7 @@ agung
 agus
 ah
 aha
+ahab
 ahad
 ahah
 ahak
@@ -696,6 +697,7 @@ babu
 bacin
 bacot
 bade
+badhe
 badog
 badok
 bae
@@ -1492,6 +1494,7 @@ galeh
 galer
 gali
 galia
+galie
 galih
 galine
 galio
@@ -5193,6 +5196,7 @@ sepur
 sepuran
 ser
 sera
+seragam
 seran
 serang
 serasa
