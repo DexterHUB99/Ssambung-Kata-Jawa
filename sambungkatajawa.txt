@@ -1138,6 +1138,7 @@ elig
 elii
 elik
 eling
+elingan
 elir
 elit
 elo
@@ -2770,6 +2771,7 @@ kunti
 kuntul
 kunyuk
 kuo
+kuota
 kupan
 kupas
 kupat
