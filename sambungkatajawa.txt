@@ -4641,6 +4641,7 @@ ngancani
 ngancing
 ngandang
 ngandani
+ngandap
 ngandel
 ngandhap
 ngandok
@@ -5628,6 +5629,7 @@ pasing
 pasir
 pasti
 pasu
+pasukan
 pat
 pati
 patih
@@ -6567,6 +6569,7 @@ sisil
 sisir
 sisok
 sit
+sita
 sitak
 siti
 sitol
