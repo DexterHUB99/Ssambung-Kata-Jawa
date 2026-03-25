@@ -52,6 +52,7 @@ adus
 ae
 aeng
 aengi
+af
 afi
 afif
 aga
@@ -3178,6 +3179,7 @@ loko
 lola
 loli
 lolo
+loloro
 lolos
 lom
 loma
@@ -5433,6 +5435,7 @@ surau
 suri
 suro
 suruh
+surung
 surup
 sus
 susaa
