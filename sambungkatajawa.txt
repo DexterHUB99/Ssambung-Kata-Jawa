@@ -719,6 +719,7 @@ asmara
 asna
 aso
 asoi
+asop
 asor
 asoy
 aspal
@@ -2915,6 +2916,7 @@ iwake
 iwan
 iwane
 iwas
+iwel
 iwenan
 iwir
 ix
