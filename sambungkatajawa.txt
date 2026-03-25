@@ -224,6 +224,7 @@ akes
 aket
 akhir
 aki
+akia
 akie
 akih
 akii
@@ -574,6 +575,7 @@ apa
 apaa
 apaan
 apae
+apak
 apal
 apan
 apar
@@ -1040,6 +1042,7 @@ buntu
 buntung
 bur
 buri
+burik
 bus
 busa
 busana
@@ -1354,6 +1357,7 @@ dulur
 dumadi
 dumeh
 dungo
+duno
 dunung
 dupa
 dupo
@@ -3063,6 +3067,7 @@ karep
 karepem
 karepmu
 kari
+karia
 karim
 karima
 karina
