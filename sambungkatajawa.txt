@@ -2264,6 +2264,7 @@ ilan
 ilang
 ilap
 ilar
+ilas
 ilat
 ilatmu
 iler
@@ -3868,6 +3869,7 @@ natan
 natar
 nate
 nawa
+nawang
 nawar
 nawas
 nawi
