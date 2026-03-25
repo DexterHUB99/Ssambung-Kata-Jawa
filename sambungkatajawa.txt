@@ -136,7 +136,6 @@ ahok
 ahoo
 ahoy
 ahu
-ahud
 ahuh
 ahuk
 ahum
@@ -169,6 +168,7 @@ aino
 aio
 air
 aira
+airi
 aite
 aiwa
 aiwak
@@ -224,6 +224,7 @@ akes
 aket
 akhir
 aki
+akia
 akie
 akih
 akii
@@ -574,6 +575,7 @@ apa
 apaa
 apaan
 apae
+apak
 apal
 apan
 apar
@@ -814,6 +816,7 @@ ayay
 aye
 ayem
 ayeme
+ayep
 ayi
 ayia
 ayik
@@ -1040,6 +1043,7 @@ buntu
 buntung
 bur
 buri
+burik
 bus
 busa
 busana
@@ -1068,6 +1072,7 @@ cakep
 cakwe
 campur
 can
+candi
 cangkem
 cangkir
 cangkul
@@ -1354,6 +1359,7 @@ dulur
 dumadi
 dumeh
 dungo
+duno
 dunung
 dupa
 dupo
@@ -1714,6 +1720,7 @@ eso
 esok
 eson
 estri
+estu
 esu
 esua
 esue
@@ -1957,6 +1964,7 @@ geh
 gek
 gel
 gela
+gelak
 gelang
 gelange
 gelap
@@ -3000,6 +3008,7 @@ kambil
 kambing
 kambuh
 kami
+kamia
 kamii
 kamilan
 kamis
@@ -3062,6 +3071,7 @@ karep
 karepem
 karepmu
 kari
+karia
 karim
 karima
 karina
@@ -3080,7 +3090,6 @@ kasep
 kaset
 kasi
 kasih
-kasihsayang
 kasii
 kasim
 kasir
@@ -3090,7 +3099,6 @@ kasur
 kasure
 kasuri
 kasus
-kasut
 kat
 kata
 katae
@@ -3568,6 +3576,7 @@ lalang
 lalat
 laler
 lali
+lalia
 lalii
 lam
 lama
@@ -3808,7 +3817,6 @@ loncat
 longgar
 longor
 longsor
-lonjong
 lontar
 lonte
 lontong
@@ -4089,6 +4097,7 @@ mik
 mikir
 mikul
 mila
+milen
 mili
 milih
 milu
@@ -4445,6 +4454,7 @@ ngaceng
 ngaco
 ngadai
 ngadeg
+ngadepi
 ngadi
 ngadon
 ngadu
@@ -4480,7 +4490,6 @@ ngalor
 ngalu
 ngalun
 ngam
-ngamah
 ngamal
 ngamar
 ngambang
@@ -4556,7 +4565,6 @@ ngarep
 ngarepan
 ngaret
 ngari
-ngarik
 ngarit
 ngarpu
 ngarsa
@@ -4642,7 +4650,6 @@ ngelon
 ngeloni
 ngelu
 ngelus
-ngemas
 ngembun
 ngemis
 ngemong
@@ -4725,7 +4732,6 @@ nggoo
 nggoreng
 nggowo
 ngguyu
-ngibing
 ngibul
 ngidal
 ngidam
@@ -5051,7 +5057,6 @@ nulo
 nulung
 nulungi
 num
-numa
 numan
 numbas
 numis
@@ -5353,7 +5358,6 @@ padha
 padhang
 padil
 padu
-padus
 paes
 pagar
 pagi
@@ -5399,7 +5403,6 @@ pandu
 panen
 pang
 pangan
-panganan
 pangapunten
 panggah
 panggang
@@ -5427,7 +5430,6 @@ papat
 papi
 papu
 papua
-par
 para
 parang
 pare
@@ -5436,6 +5438,7 @@ pari
 parii
 paring
 paringan
+parip
 paris
 parit
 parkir
@@ -5654,6 +5657,7 @@ pora
 porah
 porasi
 porek
+pori
 porno
 poro
 pos
@@ -6752,6 +6756,7 @@ tinggal
 tinggalna
 tingkah
 tinju
+tip
 tir
 tirai
 tiri
@@ -6944,6 +6949,7 @@ uja
 ujan
 ujar
 uji
+ujia
 ujian
 ujug
 ujuk
@@ -6993,6 +6999,7 @@ ula
 ulaa
 ulae
 ulah
+ulai
 ulak
 ulal
 ulam
@@ -7341,9 +7348,7 @@ welo
 wen
 wena
 wengi
-weni
 werkudara
-werna
 werno
 weruh
 wes
@@ -7515,7 +7520,6 @@ yusi
 yuswa
 yuswo
 yuti
-yuto
 yuwa
 yuyu
 yuyun
