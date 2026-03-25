@@ -2876,6 +2876,7 @@ katae
 katah
 katak
 kate
+katel
 kates
 kathok
 katil
@@ -4108,6 +4109,7 @@ nepis
 neptu
 ner
 neraka
+nerang
 neras
 neri
 nerimo
