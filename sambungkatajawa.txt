@@ -3252,6 +3252,7 @@ lamis
 lamon
 lamongan
 lampir
+lampiran
 lampit
 lampu
 lampung
@@ -3333,6 +3334,7 @@ lemah
 lemahe
 lemak
 leman
+lemas
 lembah
 lembek
 lembur
@@ -3623,6 +3625,7 @@ mangsa
 mani
 manis
 manja
+manjer
 manjing
 manjur
 mantap
@@ -4923,6 +4926,7 @@ pasak
 pasar
 pasaran
 pasek
+pasing
 pasir
 pasti
 pasu
