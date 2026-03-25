@@ -4459,6 +4459,7 @@ ngupas
 ngupe
 ngupil
 nguping
+ngupo
 ngura
 nguras
 nguri
@@ -6108,6 +6109,7 @@ tempiling
 tempura
 temriki
 temu
+ten
 tenan
 tenanan
 tenang
@@ -6311,6 +6313,7 @@ udam
 udan
 udane
 udang
+udar
 udara
 udek
 udel
