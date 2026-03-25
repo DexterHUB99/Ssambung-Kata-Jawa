@@ -2348,6 +2348,7 @@ hanja
 hansip
 hanta
 hantam
+hante
 hantu
 hanung
 hanya
@@ -6047,6 +6048,7 @@ ramuan
 ramutu
 ran
 rana
+ranah
 randa
 randu
 randue
