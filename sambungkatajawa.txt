@@ -337,7 +337,6 @@ amba
 ambal
 ambalan
 ambar
-ambegan
 ambek
 amben
 ambeng
@@ -2106,7 +2105,6 @@ gunung
 gupak
 gur
 gura
-guren
 guri
 gurih
 gurit
@@ -3090,7 +3088,6 @@ kelon
 kelor
 keluarga
 keluh
-kelut
 kem
 kema
 kemah
@@ -4409,7 +4406,6 @@ ngapusi
 ngarak
 ngarang
 ngarek
-ngareng
 ngarep
 ngarepan
 ngaret
@@ -6391,7 +6387,6 @@ tanduran
 tangan
 tangga
 tangguh
-tanggung
 tangi
 tangis
 tangkas
@@ -6801,7 +6796,6 @@ ulur
 um
 uma
 umah
-umak
 umal
 uman
 umar
