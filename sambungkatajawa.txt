@@ -294,6 +294,7 @@ alat
 alay
 ale
 alem
+aleman
 aler
 alhamdulillah
 ali
