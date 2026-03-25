@@ -1676,6 +1676,7 @@ gowo
 goyang
 grobak
 grogi
+gu
 gudang
 gudeg
 gudel
@@ -1727,6 +1728,7 @@ guyonan
 guys
 guyu
 guyub
+guyur
 ha
 haa
 habibi
@@ -5292,6 +5294,7 @@ tas
 tat
 tata
 tati
+tato
 tatu
 taun
 tawa
@@ -5427,6 +5430,7 @@ topo
 tora
 tore
 toro
+tot
 toto
 towo
 tresno
