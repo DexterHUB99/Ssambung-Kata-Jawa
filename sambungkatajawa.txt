@@ -4657,6 +4657,7 @@ pek
 peko
 pekok
 pela
+pelan
 pele
 pelem
 peler
@@ -4964,6 +4965,7 @@ rasu
 rasuk
 rata
 rati
+ratna
 ratu
 raup
 rausah
@@ -6218,6 +6220,7 @@ waki
 waktu
 waku
 wala
+wali
 walik
 wanci
 wangi
