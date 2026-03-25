@@ -1179,6 +1179,7 @@ emplok
 empol
 empot
 empun
+emu
 emut
 en
 ena
