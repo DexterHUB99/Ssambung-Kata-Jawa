@@ -4048,6 +4048,7 @@ nopo
 nor
 nora
 norak
+nore
 noreh
 nori
 nos
