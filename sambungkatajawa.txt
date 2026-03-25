@@ -2380,6 +2380,7 @@ ipik
 ipil
 ipin
 ipit
+ipma
 ipna
 ipo
 ipola
@@ -2510,6 +2511,7 @@ jagongan
 jagung
 jahat
 jahe
+jajajan
 jakaa
 jaket
 jalii
@@ -3625,6 +3627,7 @@ me
 medal
 medeni
 meh
+meja
 mek
 mekar
 meki
