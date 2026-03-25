@@ -5812,6 +5812,7 @@ sesok
 setan
 setunggal
 sewa
+sewelas
 sewu
 si
 sia
