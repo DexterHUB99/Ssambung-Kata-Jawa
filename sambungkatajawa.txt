@@ -1806,6 +1806,7 @@ hor
 hora
 hore
 hormat
+horo
 horog
 hotel
 howo
@@ -2774,6 +2775,7 @@ lawang
 lawas
 lawe
 lawuh
+layangan
 layar
 layu
 layuh
@@ -5309,6 +5311,7 @@ umar
 umat
 umbah
 umbar
+umbas
 umbel
 umbele
 umbi
@@ -5521,6 +5524,7 @@ warga
 waria
 warna
 warnae
+waro
 warung
 watak
 wates
