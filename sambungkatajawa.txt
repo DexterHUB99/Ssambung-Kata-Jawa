@@ -4047,6 +4047,7 @@ ngamar
 ngambang
 ngambar
 ngambil
+ngambu
 ngambung
 ngamok
 ngampak
@@ -5516,6 +5517,7 @@ salut
 sam
 sama
 sambal
+sambang
 sambel
 sambung
 sambut
