@@ -4925,6 +4925,7 @@ olee
 oleh
 olen
 oleng
+oler
 oles
 oli
 olih
@@ -5949,6 +5950,7 @@ sesak
 sesama
 sesek
 sesok
+sesuk
 setan
 setunggal
 sewa
