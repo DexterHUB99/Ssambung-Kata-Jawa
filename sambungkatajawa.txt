@@ -325,6 +325,7 @@ anay
 ancam
 ancaman
 ancen
+ancer
 anci
 ancok
 ancuk
@@ -605,6 +606,7 @@ awe
 awek
 awet
 awi
+awit
 awor
 awu
 awur
@@ -1724,6 +1726,7 @@ hase
 hasem
 hasil
 hasile
+hasna
 hasrat
 hasta
 hasut
@@ -2040,6 +2043,7 @@ irah
 iraha
 irahan
 irak
+iram
 irama
 irang
 iras
@@ -2337,6 +2341,7 @@ karpet
 karung
 karyani
 kas
+kasa
 kasar
 kasara
 kase
@@ -2711,10 +2716,12 @@ lagu
 lague
 lah
 lahir
+lair
 lak
 laki
 lakon
 laku
+lakui
 lalah
 lalang
 lalat
@@ -2899,6 +2906,7 @@ logat
 loh
 lohan
 loi
+loji
 lok
 lokasi
 loken
@@ -3136,6 +3144,7 @@ mimi
 min
 minat
 mingat
+minggu
 mingkem
 minta
 minum
@@ -3175,6 +3184,7 @@ mripat
 mu
 mual
 mucuk
+mudha
 mugi
 muh
 muji
@@ -3315,6 +3325,7 @@ natan
 natar
 nate
 nawar
+nawas
 nawi
 ndak
 ndang
@@ -4103,6 +4114,7 @@ pandu
 pangan
 panggah
 panggang
+panggih
 panggil
 panggo
 panguripan
@@ -4213,6 +4225,7 @@ pinter
 pintu
 pinus
 pipi
+pipil
 pipis
 pipit
 pira
@@ -4486,6 +4499,7 @@ rih
 rii
 rik
 rika
+rikala
 riki
 rikma
 riko
@@ -4752,6 +4766,7 @@ sepuran
 ser
 sera
 seran
+serang
 serasa
 serem
 seri
@@ -5073,6 +5088,7 @@ tendang
 teng
 tengah
 tengen
+tepak
 teran
 terang
 teras
@@ -5102,6 +5118,7 @@ tima
 timah
 timbang
 timbul
+timi
 timpuh
 timun
 timur
@@ -5483,6 +5500,7 @@ utaa
 utah
 utak
 utama
+utami
 utan
 utang
 utange
@@ -5616,6 +5634,7 @@ woko
 wolu
 won
 wong
+wonge
 wono
 wonosobo
 wonten
