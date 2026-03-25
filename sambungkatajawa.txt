@@ -32,6 +32,7 @@ adaa
 adab
 adah
 adap
+adat
 ade
 adek
 adel
@@ -587,6 +588,7 @@ at
 ata
 atah
 atak
+atam
 atap
 atas
 atasan
@@ -1440,6 +1442,7 @@ gae
 gagah
 gagak
 gagal
+gagang
 gagap
 gage
 gah
@@ -3732,6 +3735,7 @@ ngaret
 ngarit
 ngarpu
 ngarti
+ngaru
 ngaruh
 ngarus
 ngas
@@ -4746,6 +4750,7 @@ rara
 ras
 rasa
 rasah
+rasak
 rasan
 rasi
 rasis
