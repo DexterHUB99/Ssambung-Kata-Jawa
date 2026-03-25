@@ -3963,6 +3963,7 @@ musan
 muse
 musi
 musim
+mustaka
 musu
 musuh
 muta
@@ -5056,6 +5057,7 @@ panama
 panas
 pancen
 panci
+pancing
 pandang
 pandu
 panen
