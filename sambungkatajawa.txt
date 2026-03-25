@@ -5043,6 +5043,7 @@ nulo
 nulung
 nulungi
 num
+numa
 numan
 numbas
 numis
@@ -5344,6 +5345,7 @@ padha
 padhang
 padil
 padu
+padus
 paes
 pagar
 pagi
@@ -5389,6 +5391,7 @@ pandu
 panen
 pang
 pangan
+panganan
 pangapunten
 panggah
 panggang
@@ -7330,6 +7333,7 @@ wen
 wena
 wengi
 werkudara
+werna
 werno
 weruh
 wes
