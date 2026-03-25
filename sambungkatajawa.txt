@@ -3042,6 +3042,7 @@ kaka
 kakak
 kakaka
 kakang
+kakap
 kakasur
 kake
 kaki
@@ -7643,6 +7644,7 @@ yoh
 yohan
 yoi
 yok
+yokan
 yolo
 yom
 yoman
