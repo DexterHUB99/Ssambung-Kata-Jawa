@@ -5355,6 +5355,7 @@ nyatru
 nyawa
 nyawah
 nyawang
+nyawat
 nyawiji
 nyawit
 nyi
@@ -5669,6 +5670,7 @@ panggih
 panggil
 panggo
 panggon
+pangling
 panguripan
 pani
 panjang
