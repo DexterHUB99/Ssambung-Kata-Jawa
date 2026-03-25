@@ -3635,6 +3635,7 @@ mie
 mii
 mik
 mikir
+mikul
 mila
 mili
 milih
@@ -3914,6 +3915,7 @@ neraka
 neras
 neri
 nerimo
+nerka
 nerus
 nes
 nesa
@@ -4309,6 +4311,7 @@ nguru
 ngurusi
 ngus
 ngusel
+ngusi
 ngusik
 ngusir
 ngusu
@@ -6121,6 +6124,7 @@ uen
 uga
 ugal
 uget
+ugi
 ugo
 ugu
 ugung
