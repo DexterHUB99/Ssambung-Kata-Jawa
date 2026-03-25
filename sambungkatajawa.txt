@@ -172,6 +172,7 @@ aj
 aja
 ajai
 ajak
+ajam
 ajan
 ajang
 ajar
@@ -1352,6 +1353,7 @@ ekoh
 ekok
 ekol
 ekor
+ekot
 eku
 el
 ela
@@ -4324,6 +4326,7 @@ ngemot
 ngemut
 ngen
 ngendang
+ngendeng
 ngendep
 ngendhok
 ngendi
