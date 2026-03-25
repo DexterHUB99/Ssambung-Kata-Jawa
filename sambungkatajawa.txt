@@ -831,6 +831,7 @@ ax
 ay
 aya
 ayah
+ayahe
 ayak
 ayam
 ayame
@@ -3441,6 +3442,7 @@ ketik
 ketil
 ketir
 ketok
+keton
 ketua
 ketum
 ketupat
