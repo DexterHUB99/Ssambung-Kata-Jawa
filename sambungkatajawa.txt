@@ -4960,6 +4960,7 @@ ros
 rosa
 rosi
 roso
+rotan
 roti
 roto
 rowang
