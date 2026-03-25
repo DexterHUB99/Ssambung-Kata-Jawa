@@ -1816,6 +1816,7 @@ genderuwo
 genderwo
 gendheng
 gendhis
+gendon
 gendong
 gendut
 gene
@@ -4058,6 +4059,7 @@ nesa
 nesi
 nesu
 nesue
+net
 neta
 netan
 nete
