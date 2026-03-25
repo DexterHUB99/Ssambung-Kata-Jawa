@@ -2381,6 +2381,7 @@ idu
 iduni
 ieu
 if
+ig
 iga
 igak
 igal
@@ -4490,6 +4491,7 @@ ngendi
 ngendii
 ngendika
 ngendikan
+ngene
 ngenes
 ngeng
 ngengek
