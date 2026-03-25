@@ -2838,9 +2838,11 @@ juang
 jubah
 jujur
 jule
+juli
 julu
 jumat
 jumbo
+jurang
 juri
 ka
 kaba
@@ -5427,6 +5429,7 @@ pling
 po
 poa
 pocong
+pocung
 podang
 podho
 poe
