@@ -71,6 +71,7 @@ afif
 afik
 afu
 aga
+agah
 agam
 agama
 agar
@@ -1256,6 +1257,7 @@ dong
 dongo
 doni
 donyo
+dopo
 dor
 dora
 doro
@@ -3203,6 +3205,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
