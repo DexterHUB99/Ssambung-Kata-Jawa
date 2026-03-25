@@ -3682,6 +3682,7 @@ lintang
 lintas
 lintasan
 lio
+lip
 lipa
 lipan
 lipas
@@ -5309,6 +5310,7 @@ papah
 papan
 papat
 papi
+papu
 papua
 para
 parang
@@ -5716,6 +5718,7 @@ raut
 rawa
 rawan
 rawat
+rawe
 rawit
 rawon
 rawu
