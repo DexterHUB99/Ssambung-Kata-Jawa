@@ -707,6 +707,7 @@ asew
 asi
 asia
 asian
+asie
 asih
 asii
 asik
@@ -5413,6 +5414,7 @@ nya
 nyai
 nyamar
 nyamuk
+nyang
 nyangkul
 nyangu
 nyani
