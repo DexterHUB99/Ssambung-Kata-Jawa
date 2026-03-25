@@ -953,6 +953,7 @@ biyung
 bobi
 bobok
 bocah
+bocil
 bocor
 bodoh
 bodoni
@@ -2386,6 +2387,7 @@ icone
 icu
 id
 ida
+idaman
 idan
 idep
 ider
@@ -2910,6 +2912,7 @@ kali
 kalian
 kalih
 kalimat
+kalin
 kaliren
 kalo
 kalong
