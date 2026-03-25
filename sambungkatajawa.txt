@@ -3198,6 +3198,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
@@ -5197,6 +5198,7 @@ pasak
 pasar
 pasaran
 pasek
+pasi
 pasing
 pasir
 pasti
@@ -5226,6 +5228,7 @@ peko
 pekok
 pela
 pelan
+pelangi
 pele
 pelem
 peler
