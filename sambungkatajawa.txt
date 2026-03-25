@@ -75,6 +75,7 @@ ahe
 ahek
 ahem
 ahen
+aheng
 aher
 ahes
 ahh
@@ -2733,6 +2734,7 @@ kua
 kuat
 kuburan
 kucing
+kucir
 kuda
 kudu
 kudune
@@ -3714,6 +3716,7 @@ ngesuk
 nget
 ngetan
 ngetok
+ngetung
 ngewangi
 ngewe
 ngewek
@@ -3835,6 +3838,7 @@ ngugu
 nguji
 ngul
 ngula
+ngulang
 ngulek
 nguli
 ngulik
