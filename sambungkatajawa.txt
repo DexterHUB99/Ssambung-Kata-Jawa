@@ -2202,6 +2202,7 @@ ihko
 ihku
 ihla
 ihli
+ihma
 iho
 ihsan
 ihta
@@ -6392,6 +6393,7 @@ usil
 using
 usir
 usma
+uso
 usrek
 usu
 usua
