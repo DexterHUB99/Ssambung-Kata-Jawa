@@ -3411,6 +3411,7 @@ ngambar
 ngambil
 ngambung
 ngamok
+ngampi
 ngamuk
 ngan
 ngancani
@@ -4509,6 +4510,7 @@ rira
 riri
 ris
 risa
+rise
 risen
 risi
 risih
@@ -5132,6 +5134,7 @@ tokek
 toko
 tolak
 tole
+tolek
 tolol
 tolong
 tomat
