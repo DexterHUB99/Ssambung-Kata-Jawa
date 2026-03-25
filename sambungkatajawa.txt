@@ -271,6 +271,7 @@ amarta
 amas
 amat
 amba
+ambal
 ambar
 ambek
 amben
@@ -3479,6 +3480,7 @@ nalima
 nam
 nama
 namae
+naman
 namar
 nambah
 nambahi
@@ -5260,6 +5262,7 @@ suna
 sunar
 sunat
 sunda
+sundel
 sunduk
 sundul
 sungai
