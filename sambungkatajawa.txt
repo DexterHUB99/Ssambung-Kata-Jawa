@@ -1718,6 +1718,7 @@ galak
 galan
 galang
 galau
+gale
 galeh
 galer
 gali
@@ -3466,6 +3467,7 @@ layu
 layuh
 le
 lebah
+lebih
 lebur
 lee
 lega
