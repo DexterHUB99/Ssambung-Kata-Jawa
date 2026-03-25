@@ -2787,6 +2787,7 @@ kota
 kotak
 kotang
 kotor
+kotoran
 kowe
 koyo
 koyok
