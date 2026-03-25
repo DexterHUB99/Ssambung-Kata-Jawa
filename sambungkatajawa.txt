@@ -47,7 +47,6 @@ ade
 adek
 adel
 adem
-adep
 adhem
 adhep
 adhi
@@ -807,7 +806,6 @@ awalan
 awan
 awas
 awe
-aweh
 awek
 awet
 awi
@@ -1033,7 +1031,6 @@ boti
 boto
 botok
 bowo
-boyo
 boyok
 bu
 buang
@@ -1508,7 +1505,6 @@ ekok
 ekol
 ekon
 ekor
-ekos
 ekot
 eku
 ekul
@@ -2866,7 +2862,6 @@ iyoo
 iyu
 iyuh
 iz
-ja
 jabur
 jadi
 jae
@@ -3046,7 +3041,6 @@ kaka
 kakak
 kakaka
 kakang
-kakap
 kakasur
 kake
 kaki
@@ -3580,7 +3574,6 @@ kumbah
 kumbahan
 kumbang
 kumel
-kumi
 kumpul
 kumuh
 kun
@@ -4838,7 +4831,6 @@ nggae
 nggah
 nggak
 nggaku
-nggali
 nggateli
 nggawa
 nggawe
@@ -5125,7 +5117,6 @@ nitip
 njaluk
 njupuk
 nki
-nn
 nnani
 nnduk
 nngalor
@@ -6696,7 +6687,6 @@ susune
 sut
 sutan
 sutil
-sutra
 suwe
 suwek
 suwen
@@ -7652,7 +7642,6 @@ yoh
 yohan
 yoi
 yok
-yokan
 yolo
 yom
 yoman
