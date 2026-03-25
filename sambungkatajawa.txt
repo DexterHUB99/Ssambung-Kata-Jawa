@@ -632,6 +632,7 @@ asrep
 asri
 asta
 astaga
+astagfirullah
 astane
 asti
 asu
@@ -3406,6 +3407,7 @@ lombok
 lomo
 lompat
 loncang
+loncat
 longgar
 longor
 longsor
@@ -3599,6 +3601,7 @@ masih
 masjid
 masu
 masuk
+masyaallah
 mat
 mata
 matamu
@@ -3851,6 +3854,7 @@ nanggung
 nanging
 nangis
 nangka
+nangkep
 nani
 nantang
 nanti
@@ -6556,6 +6560,7 @@ wewe
 wicara
 widok
 wie
+wigati
 wih
 wii
 wiji
