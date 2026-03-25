@@ -1166,6 +1166,7 @@ ceplok
 ceri
 cerita
 ces
+cewek
 cicak
 cici
 cicis
@@ -6709,6 +6710,7 @@ sodir
 sodok
 sodom
 sodor
+sogok
 sok
 soki
 sokin
