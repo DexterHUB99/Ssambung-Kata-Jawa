@@ -2772,6 +2772,7 @@ jahat
 jahe
 jaja
 jajajan
+jajan
 jakaa
 jaket
 jaku
@@ -3416,7 +3417,6 @@ kudus
 kue
 kui
 kuii
-kuio
 kuk
 kuka
 kuki
@@ -4301,7 +4301,6 @@ ndang
 ndas
 ndasmu
 ndelok
-nderek
 ndeso
 ndlogok
 ndugal
@@ -5372,6 +5371,7 @@ pasing
 pasir
 pasti
 pasu
+pat
 pati
 patih
 patil
@@ -6549,7 +6549,6 @@ taun
 tawa
 tawang
 tawar
-tawe
 tawon
 tayo
 te
