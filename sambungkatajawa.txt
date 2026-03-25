@@ -12,6 +12,7 @@ abang
 abe
 abi
 abia
+abik
 abimanyu
 abis
 abo
@@ -3089,6 +3090,7 @@ landep
 landhep
 landung
 langgar
+langgeng
 langit
 langka
 langsing
