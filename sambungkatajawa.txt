@@ -3037,6 +3037,7 @@ katrok
 katuh
 katuk
 katul
+katun
 katur
 katus
 kawah
@@ -6790,6 +6791,7 @@ ukki
 ukna
 uko
 ukol
+ukro
 ukta
 uku
 ukul
