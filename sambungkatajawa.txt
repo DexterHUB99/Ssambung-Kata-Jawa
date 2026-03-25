@@ -47,6 +47,7 @@ ade
 adek
 adel
 adem
+adep
 adhem
 adhep
 adhi
@@ -559,6 +560,7 @@ antimo
 anting
 anto
 anton
+antoro
 antri
 antuk
 antun
@@ -806,6 +808,7 @@ awalan
 awan
 awas
 awe
+aweh
 awek
 awet
 awi
@@ -930,7 +933,6 @@ bedane
 bedo
 bedok
 bego
-beha
 bekal
 beko
 bela
@@ -1032,6 +1034,7 @@ boti
 boto
 botok
 bowo
+boyo
 boyok
 bu
 buang
@@ -1506,6 +1509,7 @@ ekok
 ekol
 ekon
 ekor
+ekos
 ekot
 eku
 ekul
@@ -1702,6 +1706,7 @@ erang
 eras
 erasa
 erat
+ere
 erek
 erem
 eren
@@ -1853,7 +1858,6 @@ gajian
 gajie
 gak
 gaki
-gakiso
 gakro
 gal
 gala
@@ -2010,6 +2014,7 @@ gelange
 gelap
 gelar
 gelas
+geleh
 gelek
 gelem
 geleman
@@ -2864,6 +2869,7 @@ iyoo
 iyu
 iyuh
 iz
+ja
 jabur
 jadi
 jae
@@ -3043,6 +3049,7 @@ kaka
 kakak
 kakaka
 kakang
+kakap
 kakasur
 kake
 kaki
@@ -3081,7 +3088,6 @@ kambuh
 kami
 kamia
 kamii
-kamila
 kamilan
 kamis
 kamise
@@ -3203,6 +3209,7 @@ kawat
 kawe
 kawen
 kawi
+kawih
 kawin
 kawit
 kawok
@@ -3577,6 +3584,7 @@ kumbah
 kumbahan
 kumbang
 kumel
+kumi
 kumpul
 kumuh
 kun
@@ -4541,6 +4549,7 @@ netap
 nete
 neteh
 netek
+netep
 netes
 netra
 newa
@@ -4800,7 +4809,6 @@ ngepet
 ngepi
 ngeplak
 ngepot
-ngera
 ngeraba
 ngere
 ngerem
@@ -4835,6 +4843,7 @@ nggae
 nggah
 nggak
 nggaku
+nggali
 nggateli
 nggawa
 nggawe
@@ -5121,6 +5130,7 @@ nitip
 njaluk
 njupuk
 nki
+nn
 nnani
 nnduk
 nngalor
@@ -5218,6 +5228,7 @@ nusa
 nusul
 nuti
 nutuk
+nutup
 nutupi
 nutur
 nuturi
@@ -5228,6 +5239,7 @@ ny
 nya
 nyai
 nyamar
+nyambut
 nyamuk
 nyangkul
 nyangu
@@ -5253,7 +5265,6 @@ nyurung
 nyusu
 nyuwun
 oalah
-ob
 oba
 obah
 oban
@@ -5544,6 +5555,7 @@ panggih
 panggil
 panggo
 panggon
+pangkur
 panguripan
 pani
 panjang
@@ -6058,6 +6070,7 @@ resik
 resiko
 restu
 ret
+retak
 reti
 rewang
 rezeki
@@ -6506,6 +6519,7 @@ sirah
 siram
 siraman
 sirep
+siri
 sirih
 siro
 sirsak
@@ -6692,6 +6706,7 @@ susune
 sut
 sutan
 sutil
+sutra
 suwe
 suwek
 suwen
@@ -6855,7 +6870,6 @@ tengah
 tengen
 tengik
 tepak
-ter
 tera
 teraken
 teran
@@ -7027,7 +7041,6 @@ tungkak
 tupa
 tupi
 tur
-tura
 turah
 turi
 turon
@@ -7347,6 +7360,7 @@ usaha
 usai
 usan
 usap
+usar
 use
 usek
 usem
@@ -7650,6 +7664,7 @@ yoh
 yohan
 yoi
 yok
+yokan
 yolo
 yom
 yoman
