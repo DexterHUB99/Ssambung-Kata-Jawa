@@ -3916,6 +3916,7 @@ ngotak
 ngotot
 ngowoh
 ngoyak
+ngrit
 ngsu
 nguber
 ngubur
@@ -5514,6 +5515,7 @@ topo
 tora
 tore
 toro
+tos
 tot
 toto
 towo
