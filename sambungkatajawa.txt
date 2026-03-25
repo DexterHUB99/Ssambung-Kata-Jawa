@@ -1144,6 +1144,7 @@ durung
 duso
 dusun
 duwe
+duwea
 duwek
 duwit
 duwur
@@ -3354,6 +3355,7 @@ madue
 maduni
 madya
 mae
+maei
 maem
 magang
 magelang
@@ -3829,6 +3831,7 @@ ngaleh
 ngaler
 ngali
 ngalih
+ngalir
 ngalor
 ngalu
 ngalun
@@ -4166,6 +4169,7 @@ nguripi
 nguru
 ngurusi
 ngusel
+ngusik
 ngusir
 ngusu
 ngusung
@@ -5286,6 +5290,7 @@ sasi
 sate
 satru
 satu
+satus
 saur
 sawah
 sawan
@@ -6358,6 +6363,7 @@ yaka
 yaken
 yakin
 yaksa
+yala
 yam
 yama
 yamaha
