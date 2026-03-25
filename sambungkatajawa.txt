@@ -3182,6 +3182,7 @@ kemah
 kemanten
 kemanuk
 kemaren
+kemarin
 kemayu
 kembali
 kembang
@@ -4243,6 +4244,7 @@ nak
 naka
 nakai
 nakal
+naki
 nakon
 naksir
 nakula
