@@ -2018,6 +2018,7 @@ giman
 gimbal
 gina
 gincu
+gini
 ginjal
 gir
 gira
@@ -4086,6 +4087,7 @@ mulaa
 mulai
 mulane
 mulanee
+mule
 muleh
 mules
 muli
@@ -6710,6 +6712,7 @@ tuti
 tutuk
 tutup
 tutur
+tuwan
 tuwo
 tuyul
 ua
