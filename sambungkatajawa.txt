@@ -3212,7 +3212,6 @@ kitaa
 kitab
 kite
 kiwa
-kiye
 klambi
 klambimu
 klebus
@@ -5235,6 +5234,7 @@ pea
 pean
 pecel
 peci
+pedang
 pede
 pegawai
 pei
