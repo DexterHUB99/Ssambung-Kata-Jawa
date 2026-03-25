@@ -3217,6 +3217,7 @@ kes
 kesah
 kesambet
 kesandung
+kesasar
 kesat
 kese
 kesem
@@ -5762,6 +5763,7 @@ rekoso
 rela
 relo
 rem
+remah
 remang
 remas
 remba
@@ -6010,6 +6012,7 @@ salam
 saleh
 sali
 salim
+salin
 salira
 salo
 salom
