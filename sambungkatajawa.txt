@@ -530,6 +530,7 @@ aos
 ap
 apa
 apaa
+apaan
 apae
 apal
 apan
@@ -694,6 +695,7 @@ atok
 atom
 aton
 atos
+atrahe
 atret
 atu
 atuh
@@ -2712,6 +2714,7 @@ kafir
 kagungan
 kain
 kaine
+kairi
 kaisa
 kajen
 kaji
