@@ -1621,6 +1621,7 @@ emohe
 emok
 emong
 emot
+empal
 empan
 empang
 empedu
