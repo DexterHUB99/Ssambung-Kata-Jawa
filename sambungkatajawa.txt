@@ -1719,6 +1719,7 @@ game
 gamean
 gamel
 gamelan
+gami
 gamis
 gamma
 gampang
@@ -6116,6 +6117,7 @@ tabo
 tabok
 tabrak
 tabuh
+tabung
 tae
 taek
 tah
