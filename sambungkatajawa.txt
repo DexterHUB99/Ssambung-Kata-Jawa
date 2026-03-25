@@ -2223,6 +2223,7 @@ ipit
 ipna
 ipo
 ipola
+ipone
 ipuk
 ipun
 ir
