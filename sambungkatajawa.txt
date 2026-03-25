@@ -44,6 +44,7 @@ adhem
 adhi
 adi
 adiguna
+adigung
 adik
 adil
 adin
@@ -1236,6 +1237,7 @@ egod
 egrang
 eh
 eha
+ehad
 ehak
 eham
 ehan
@@ -1936,6 +1938,7 @@ gur
 gura
 guri
 gurih
+gurit
 gurita
 guru
 gurune
@@ -2008,6 +2011,7 @@ hang
 hangat
 hangi
 hani
+haning
 hanja
 hansip
 hantam
