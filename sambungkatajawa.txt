@@ -204,6 +204,7 @@ akih
 akii
 akik
 akil
+akila
 akim
 akine
 aking
@@ -2518,6 +2519,7 @@ jangkrik
 jani
 janji
 jantung
+jar
 jara
 jaran
 jaranan
@@ -2589,6 +2591,7 @@ jori
 joro
 jorok
 jos
+juanda
 jubah
 jujur
 jule
