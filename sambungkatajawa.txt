@@ -3828,6 +3828,7 @@ mugi
 muh
 muji
 muka
+mukakmu
 muke
 muki
 mukul
@@ -4926,6 +4927,7 @@ paka
 pakan
 paku
 pala
+palamu
 palang
 pali
 paling
@@ -4969,6 +4971,7 @@ papah
 papan
 papat
 papi
+papua
 para
 parang
 pare
@@ -6611,6 +6614,7 @@ utaa
 utah
 utai
 utak
+utakmu
 utama
 utami
 utan
