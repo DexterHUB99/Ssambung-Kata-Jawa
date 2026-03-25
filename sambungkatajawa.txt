@@ -168,6 +168,7 @@ aino
 aio
 air
 aira
+airi
 aite
 aiwa
 aiwak
@@ -2999,6 +3000,7 @@ kambil
 kambing
 kambuh
 kami
+kamia
 kamii
 kamilan
 kamis
@@ -3079,7 +3081,6 @@ kasep
 kaset
 kasi
 kasih
-kasihsayang
 kasii
 kasim
 kasir
@@ -4477,7 +4478,6 @@ ngalor
 ngalu
 ngalun
 ngam
-ngamah
 ngamal
 ngamar
 ngambang
@@ -4553,7 +4553,6 @@ ngarep
 ngarepan
 ngaret
 ngari
-ngarik
 ngarit
 ngarpu
 ngarsa
@@ -5046,7 +5045,6 @@ nulo
 nulung
 nulungi
 num
-numa
 numan
 numbas
 numis
@@ -5348,7 +5346,6 @@ padha
 padhang
 padil
 padu
-padus
 paes
 pagar
 pagi
@@ -5394,7 +5391,6 @@ pandu
 panen
 pang
 pangan
-panganan
 pangapunten
 panggah
 panggang
@@ -5422,7 +5418,6 @@ papat
 papi
 papu
 papua
-par
 para
 parang
 pare
@@ -5431,6 +5426,7 @@ pari
 parii
 paring
 paringan
+parip
 paris
 parit
 parkir
@@ -6747,6 +6743,7 @@ tinggal
 tinggalna
 tingkah
 tinju
+tip
 tir
 tirai
 tiri
@@ -6988,6 +6985,7 @@ ula
 ulaa
 ulae
 ulah
+ulai
 ulak
 ulal
 ulam
@@ -7336,9 +7334,7 @@ welo
 wen
 wena
 wengi
-weni
 werkudara
-werna
 werno
 weruh
 wes
