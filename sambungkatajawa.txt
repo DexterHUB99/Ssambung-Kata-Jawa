@@ -2901,6 +2901,7 @@ kotang
 kotor
 kotoran
 kowe
+kowen
 koyo
 koyok
 krama
@@ -3607,6 +3608,7 @@ nakon
 nakula
 nala
 nalan
+nalar
 nali
 nalik
 nalika
@@ -3726,6 +3728,7 @@ neni
 nep
 nepa
 nepak
+neptu
 ner
 neraka
 neras
