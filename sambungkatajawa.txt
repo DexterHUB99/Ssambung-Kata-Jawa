@@ -2104,6 +2104,7 @@ idi
 idih
 idii
 idu
+iduni
 ieu
 if
 iga
@@ -2260,6 +2261,7 @@ ingkung
 ingsun
 ingu
 ini
+inie
 inii
 injak
 injek
@@ -2522,6 +2524,7 @@ kadung
 kadus
 kae
 kaee
+kaei
 kafir
 kagungan
 kain
@@ -3009,6 +3012,7 @@ kurang
 kurawa
 kurban
 kurek
+kuren
 kurma
 kuro
 kursi
