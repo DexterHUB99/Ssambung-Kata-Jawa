@@ -3828,6 +3828,7 @@ lemot
 lempeng
 lemper
 lemu
+len
 lena
 leng
 lengah
