@@ -929,6 +929,7 @@ buri
 bus
 busa
 busana
+busu
 busuk
 busung
 buta
@@ -1733,6 +1734,7 @@ geblek
 gedang
 gede
 gedhang
+gedhe
 gedhi
 gee
 geger
@@ -2832,6 +2834,7 @@ kelengkeng
 kelereng
 keles
 kelet
+keli
 keliling
 kelingan
 kelip
