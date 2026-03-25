@@ -1374,6 +1374,7 @@ ewe
 ewee
 ewek
 ewoh
+ewon
 ewong
 ewu
 ex
@@ -1567,6 +1568,7 @@ genderwo
 gendheng
 gendhis
 gendong
+gendut
 gene
 geneo
 genep
