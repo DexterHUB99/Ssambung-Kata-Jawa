@@ -17,6 +17,7 @@ abik
 abimanyu
 abis
 abo
+aboh
 abot
 abu
 abuh
@@ -4135,6 +4136,7 @@ ngarek
 ngarep
 ngarepan
 ngaret
+ngari
 ngarit
 ngarpu
 ngarsa
@@ -4265,6 +4267,7 @@ nggah
 nggak
 nggaku
 nggateli
+nggawa
 nggawe
 nggeh
 nggendong
