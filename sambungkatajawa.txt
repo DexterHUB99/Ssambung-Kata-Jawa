@@ -1274,6 +1274,7 @@ entek
 enteng
 enteni
 enter
+enthog
 entok
 entong
 entu
@@ -3212,6 +3213,7 @@ malam
 malang
 malas
 male
+malek
 malem
 males
 mali
@@ -3383,6 +3385,7 @@ mori
 moro
 mosok
 moto
+motol
 motor
 mripat
 mu
