@@ -1009,6 +1009,7 @@ cangkem
 cangkir
 cangkul
 cantik
+cantolan
 caper
 capung
 cara
@@ -4224,6 +4225,7 @@ ngambil
 ngambu
 ngambul
 ngambung
+ngamil
 ngamok
 ngampak
 ngamuk
@@ -6388,6 +6390,7 @@ tot
 toto
 towo
 toya
+toyi
 tresno
 tu
 tua
