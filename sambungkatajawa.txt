@@ -3500,6 +3500,7 @@ ngajar
 ngajeng
 ngaji
 ngajie
+ngajok
 ngak
 ngaka
 ngakak
