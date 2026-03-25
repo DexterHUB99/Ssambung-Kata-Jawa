@@ -4066,6 +4066,7 @@ nyapu
 nyawiji
 nyawit
 nyi
+nyiku
 nyim
 nyoli
 nyungsep
@@ -4525,6 +4526,7 @@ pulpen
 pun
 puna
 punapa
+puncak
 pundi
 pungkasan
 puni
