@@ -1230,6 +1230,7 @@ epan
 epang
 epas
 epat
+epe
 epep
 eper
 epi
@@ -1346,6 +1347,7 @@ eyang
 eyo
 ez
 faji
+fisik
 fix
 fo
 ga
