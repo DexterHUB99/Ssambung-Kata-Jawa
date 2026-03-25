@@ -289,6 +289,7 @@ alon
 alos
 alot
 aloy
+alpukat
 alu
 alum
 alumni
@@ -785,6 +786,7 @@ bakso
 baku
 bakul
 balai
+balang
 balek
 bali
 balik
@@ -859,6 +861,7 @@ biba
 bibar
 bibi
 bibik
+bibit
 bidan
 bidun
 bidur
@@ -870,7 +873,6 @@ bila
 bilah
 bilai
 bima
-bimo
 bin
 bina
 bindeng
@@ -1222,6 +1224,7 @@ dupa
 dupo
 duren
 durian
+durma
 durung
 duso
 dusun
@@ -1675,6 +1678,7 @@ gamma
 gampang
 gampil
 gan
+gancet
 gancuk
 ganda
 gandeng
@@ -1756,6 +1760,7 @@ gawean
 gaweopo
 gawok
 gayam
+gayem
 gayeng
 gayuh
 gayung
@@ -2587,6 +2592,7 @@ jaran
 jaranan
 jare
 jari
+jasa
 jawa
 jawab
 jawi
@@ -2617,6 +2623,7 @@ jilid
 jim
 jima
 jimat
+jimpit
 jin
 jina
 jinak
@@ -2627,6 +2634,7 @@ jipang
 jipuk
 jir
 jira
+jirih
 jitak
 jiwa
 jiwae
@@ -2958,6 +2966,7 @@ keren
 kereta
 keri
 keris
+kerja
 kerjo
 kero
 kerok
@@ -3241,13 +3250,11 @@ lagii
 lagu
 lague
 lah
-lahan
 lahi
 lahir
 lair
 lajeng
 lak
-laka
 laki
 lakon
 laku
@@ -3619,6 +3626,7 @@ maman
 mamat
 mambu
 mami
+mampet
 mampu
 mampus
 mamrih
@@ -3727,6 +3735,7 @@ merahe
 merak
 mercon
 merek
+merem
 mergo
 meri
 mesem
@@ -4018,6 +4027,7 @@ nembang
 nembe
 nemen
 nemi
+nemoni
 nempel
 nemu
 nen
@@ -4037,6 +4047,7 @@ ner
 neraka
 neras
 neri
+nerima
 nerimo
 nerka
 nerus
@@ -4096,6 +4107,7 @@ ngalu
 ngalun
 ngam
 ngamal
+ngamani
 ngamar
 ngambang
 ngambar
@@ -4534,7 +4546,6 @@ nis
 nisa
 nisaa
 nisan
-niscaya
 nita
 nite
 niti
@@ -5585,6 +5596,7 @@ salam
 saleh
 sali
 salim
+saling
 salira
 salom
 salut
@@ -5941,6 +5953,7 @@ sura
 surabaya
 surat
 surau
+sure
 suri
 suro
 suroro
@@ -6302,6 +6315,7 @@ udara
 udek
 udel
 udelmu
+uder
 udi
 udin
 udo
@@ -6485,7 +6499,6 @@ untir
 untu
 untua
 untuk
-untul
 untumu
 untune
 untung
@@ -6496,6 +6509,7 @@ upacara
 upah
 upal
 upama
+upas
 upaya
 upel
 upi
@@ -6576,6 +6590,7 @@ usulan
 usung
 usus
 usut
+uswo
 uta
 utaa
 utah
