@@ -377,6 +377,7 @@ angon
 angsa
 angsal
 angsle
+angsur
 angsuran
 angu
 angun
@@ -3472,6 +3473,7 @@ neri
 nerimo
 nerus
 nes
+nesa
 nesi
 nesu
 nesue
