@@ -3156,6 +3156,7 @@ kapan
 kape
 kapi
 kaping
+kapir
 kapok
 kaprah
 kapur
@@ -5477,6 +5478,7 @@ orang
 orapopo
 oras
 orasah
+ore
 orek
 oren
 oreng
