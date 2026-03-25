@@ -371,6 +371,7 @@ amuh
 amuk
 amun
 amung
+amut
 an
 ana
 anaa
@@ -2611,6 +2612,7 @@ jelek
 jem
 jembut
 jembutmu
+jemput
 jenang
 jeneng
 jenengan
