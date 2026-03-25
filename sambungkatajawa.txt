@@ -5200,6 +5200,7 @@ rilo
 rim
 rima
 rimi
+rimo
 rimu
 rin
 rina
@@ -5343,6 +5344,7 @@ saestu
 saged
 saget
 sagu
+sah
 saha
 sahur
 sai
