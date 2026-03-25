@@ -4409,6 +4409,7 @@ ngapusi
 ngarak
 ngarang
 ngarek
+ngareng
 ngarep
 ngarepan
 ngaret
@@ -6390,6 +6391,7 @@ tanduran
 tangan
 tangga
 tangguh
+tanggung
 tangi
 tangis
 tangkas
