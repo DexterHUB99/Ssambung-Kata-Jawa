@@ -138,6 +138,7 @@ aiyi
 aj
 aja
 ajai
+ajak
 ajan
 ajang
 ajar
@@ -2700,6 +2701,7 @@ ketok
 ketua
 ketut
 kewan
+kewek
 ki
 kidal
 kidang
@@ -4889,6 +4891,7 @@ rino
 rio
 rip
 ripa
+ripi
 rira
 riri
 ris
