@@ -1182,6 +1182,7 @@ dedeg
 dedek
 dedi
 dek
+dekan
 delima
 delman
 delo
@@ -5275,6 +5276,7 @@ paya
 payah
 payu
 payung
+pe
 pea
 pean
 pecel
