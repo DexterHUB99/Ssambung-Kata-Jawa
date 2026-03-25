@@ -3368,6 +3368,7 @@ mesem
 mesum
 meta
 metek
+meteng
 metu
 mewek
 mi
@@ -4544,6 +4545,7 @@ pilih
 pilok
 pilot
 pilu
+pilus
 pin
 pina
 pinang
@@ -4555,6 +4557,7 @@ pindo
 ping
 pingsan
 pino
+pinta
 pinten
 pinter
 pintu
