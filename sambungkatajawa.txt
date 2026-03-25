@@ -1783,6 +1783,7 @@ eti
 etik
 etika
 etil
+etin
 etis
 eto
 etok
@@ -6454,6 +6455,7 @@ ses
 sesa
 sesak
 sesama
+sesat
 sesek
 sesok
 sesuk
