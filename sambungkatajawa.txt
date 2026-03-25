@@ -255,6 +255,7 @@ ala
 alah
 alai
 alak
+alal
 alam
 alama
 alami
@@ -827,6 +828,7 @@ bantu
 banyu
 bapak
 bara
+barang
 barat
 bareng
 baret
@@ -1283,6 +1285,7 @@ ealah
 eben
 ebi
 eboh
+eca
 ed
 eda
 edak
@@ -2975,6 +2978,7 @@ kelana
 kelangan
 kelar
 kelas
+kelawan
 kelebon
 kelek
 kelem
