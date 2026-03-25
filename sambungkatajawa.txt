@@ -686,7 +686,6 @@ ata
 atah
 atak
 atam
-atang
 atap
 atas
 atasan
@@ -2953,7 +2952,6 @@ kekunci
 kel
 kela
 kelabang
-kelak
 kelakon
 kelam
 kelana
