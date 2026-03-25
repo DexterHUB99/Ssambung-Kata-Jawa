@@ -692,6 +692,7 @@ ayu
 ayuk
 ayun
 az
+ba
 baa
 bab
 babak
@@ -788,6 +789,7 @@ bidun
 bihun
 bijak
 biji
+bik
 bila
 bilah
 bilai
@@ -4192,6 +4194,7 @@ nosi
 nota
 nu
 nua
+nuana
 nubruk
 nuduh
 nue
