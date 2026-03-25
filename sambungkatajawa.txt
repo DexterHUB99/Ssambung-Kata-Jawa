@@ -1701,6 +1701,7 @@ gawae
 gawan
 gawang
 gawe
+gawean
 gaweopo
 gawok
 gayam
@@ -2132,6 +2133,7 @@ hukum
 hukume
 hula
 hulu
+hum
 huma
 human
 humor
@@ -2684,6 +2686,7 @@ kanthil
 kanti
 kantil
 kantor
+kanut
 kaos
 kapa
 kapak
@@ -4033,6 +4036,7 @@ ngasi
 ngasih
 ngasin
 ngaso
+ngasta
 ngasu
 ngasuh
 ngatal
@@ -4201,6 +4205,7 @@ ngojek
 ngok
 ngoko
 ngokok
+ngokol
 ngokop
 ngolah
 ngolak
@@ -4734,6 +4739,7 @@ palu
 pamali
 paman
 pameran
+pamrih
 pan
 pana
 panah
