@@ -1658,6 +1658,7 @@ enggal
 enggan
 enggeh
 enggih
+enggo
 engkang
 engko
 engkol
