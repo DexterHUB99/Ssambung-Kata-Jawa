@@ -868,6 +868,7 @@ bakon
 bakso
 baku
 bakul
+bal
 balai
 balek
 bali
@@ -1478,6 +1479,7 @@ eki
 ekih
 ekil
 ekir
+ekis
 eko
 ekoh
 ekok
@@ -2926,6 +2928,7 @@ jok
 joki
 joko
 jokowi
+jola
 joli
 jolo
 jom
@@ -6049,6 +6052,7 @@ riya
 riyaya
 ro
 roa
+rob
 robek
 roboh
 roda
