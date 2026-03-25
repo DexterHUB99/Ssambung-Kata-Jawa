@@ -338,6 +338,7 @@ andalan
 andang
 andani
 andap
+andas
 ander
 andha
 andhap
@@ -1730,6 +1731,7 @@ has
 hasan
 hase
 hasem
+hasi
 hasil
 hasile
 hasna
@@ -5275,6 +5277,7 @@ udo
 udu
 udud
 uduk
+udun
 udunen
 udur
 udut
@@ -5420,6 +5423,7 @@ unjuk
 unma
 uno
 unta
+untah
 untal
 untalen
 untap
@@ -5535,6 +5539,7 @@ utel
 utem
 uter
 uti
+utih
 utik
 utir
 uto
