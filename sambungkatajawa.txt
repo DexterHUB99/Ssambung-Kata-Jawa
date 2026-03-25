@@ -1150,6 +1150,7 @@ doro
 dorong
 dosa
 doso
+dot
 dowo
 dowu
 du
@@ -3606,6 +3607,7 @@ menawi
 mendoan
 meneng
 mentah
+mentas
 mer
 merahe
 merak
