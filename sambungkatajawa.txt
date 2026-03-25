@@ -3986,6 +3986,7 @@ nesi
 nesu
 nesue
 neta
+netan
 nete
 neteh
 netek
@@ -4803,6 +4804,7 @@ padae
 padang
 padha
 padhang
+padil
 padu
 paes
 pagar
@@ -5237,6 +5239,7 @@ rawan
 rawat
 rawit
 rawon
+rawu
 rawuh
 raya
 rayap
