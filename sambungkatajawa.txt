@@ -93,6 +93,7 @@ ahiri
 ahiy
 ahlak
 ahli
+ahline
 ahlu
 aho
 ahok
@@ -5660,6 +5661,7 @@ waras
 wareg
 warga
 waria
+waris
 warna
 warnae
 waro
