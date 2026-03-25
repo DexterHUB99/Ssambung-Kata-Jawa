@@ -642,6 +642,7 @@ asil
 asim
 asin
 asing
+asip
 asir
 asli
 aslii
@@ -1120,6 +1121,7 @@ dawet
 dawuh
 de
 dede
+dedeg
 dedek
 dedi
 dek
@@ -2693,6 +2695,7 @@ jori
 joro
 jorok
 jos
+jotos
 juanda
 jubah
 jujur
@@ -6586,6 +6589,7 @@ upacara
 upah
 upal
 upama
+upan
 upaya
 upel
 upi
