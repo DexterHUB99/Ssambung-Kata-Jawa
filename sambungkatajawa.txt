@@ -76,6 +76,7 @@ agawe
 age
 ageng
 agi
+agik
 agit
 agos
 agu
@@ -1803,6 +1804,7 @@ gelis
 gelo
 gelombang
 gelot
+geluk
 gelut
 gema
 gemah
@@ -4956,6 +4958,7 @@ pali
 paling
 palu
 palung
+palur
 pamali
 paman
 pameran
@@ -5796,6 +5799,7 @@ siao
 siap
 siapa
 siapo
+sidang
 sidha
 sie
 sigap
