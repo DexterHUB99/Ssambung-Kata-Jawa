@@ -1157,6 +1157,7 @@ dodol
 doh
 dok
 dokar
+dola
 dolan
 dolanan
 doman
@@ -4961,6 +4962,7 @@ pijak
 pijer
 pijet
 pijit
+piki
 pikun
 pil
 pilah
