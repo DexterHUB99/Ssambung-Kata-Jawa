@@ -2518,6 +2518,7 @@ jembutmu
 jenang
 jeneng
 jengkel
+jera
 jerami
 jeruk
 jet
@@ -5180,6 +5181,7 @@ res
 resah
 resak
 rese
+resi
 resik
 resiko
 restu
