@@ -828,6 +828,7 @@ bibi
 bibik
 bidan
 bidun
+bidur
 bihun
 bijak
 biji
@@ -4880,6 +4881,7 @@ pitu
 pitung
 pitutur
 piwe
+piwulang
 piye
 piyo
 pling
