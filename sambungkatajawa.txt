@@ -890,6 +890,7 @@ baten
 bati
 batok
 batu
+batur
 bau
 bawa
 bawok
@@ -3558,6 +3559,7 @@ lakon
 laku
 lakui
 lalah
+lalak
 lalang
 lalat
 laler
