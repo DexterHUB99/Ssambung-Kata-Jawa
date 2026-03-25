@@ -537,6 +537,7 @@ anjir
 anjlok
 anjng
 anjok
+anjrit
 anjuk
 anjung
 anjunga
@@ -1424,6 +1425,7 @@ dupo
 duren
 duri
 durian
+durma
 durung
 duso
 dusun
@@ -4697,6 +4699,7 @@ ngalir
 ngalor
 ngalu
 ngalun
+ngalur
 ngam
 ngamah
 ngamal
