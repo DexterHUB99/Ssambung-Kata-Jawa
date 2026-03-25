@@ -2925,6 +2925,7 @@ keliru
 kelok
 kelon
 kelor
+keluarga
 keluh
 kem
 kema
@@ -5873,6 +5874,7 @@ sodara
 sodir
 sodok
 sodom
+sodor
 sok
 soki
 sokin
@@ -6203,6 +6205,7 @@ tina
 tindak
 tinggal
 tinggalna
+tingkah
 tinju
 tir
 tirai
