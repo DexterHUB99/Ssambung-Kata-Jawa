@@ -3719,6 +3719,7 @@ mundak
 mundhut
 mundur
 munggah
+mungil
 mungkin
 mungkur
 muni
@@ -3776,6 +3777,7 @@ nakon
 nakula
 nala
 nalan
+nalang
 nalar
 nali
 nalik
@@ -4531,6 +4533,7 @@ ohh
 ohhh
 oho
 ohya
+oj
 ojek
 ojo
 ojok
@@ -4700,6 +4703,7 @@ otak
 otakmu
 otol
 otom
+otoman
 otot
 ow
 owah
@@ -5716,6 +5720,7 @@ sumber
 sume
 sumeh
 sumi
+sumo
 sumpah
 sumuk
 sumur
