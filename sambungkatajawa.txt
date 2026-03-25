@@ -3361,6 +3361,7 @@ muh
 muji
 muka
 muke
+muki
 mukul
 mul
 mula
@@ -3604,6 +3605,7 @@ ngalih
 ngalor
 ngalu
 ngalun
+ngam
 ngamal
 ngamar
 ngambang
