@@ -674,6 +674,7 @@ atid
 atie
 atih
 atik
+atim
 atimu
 atine
 atir
@@ -1489,6 +1490,7 @@ eras
 erasa
 erat
 erek
+erem
 eren
 ereng
 erer
@@ -3093,6 +3095,7 @@ kopii
 koplak
 koplo
 kopyor
+kor
 kora
 koran
 korban
