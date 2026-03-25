@@ -2579,6 +2579,7 @@ iblis
 ibu
 ibuk
 ibukmu
+ibuku
 ic
 ica
 ical
@@ -5486,6 +5487,7 @@ olar
 ole
 olee
 oleh
+oleholeh
 olek
 olen
 oleng
@@ -7047,6 +7049,7 @@ tem
 tema
 teman
 tembe
+tembem
 tembok
 teme
 temen
