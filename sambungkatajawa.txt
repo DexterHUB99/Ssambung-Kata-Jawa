@@ -12,6 +12,7 @@ abang
 abe
 abi
 abia
+abik
 abimanyu
 abis
 abo
@@ -764,7 +765,6 @@ batok
 batu
 bau
 bawok
-baya
 bayi
 bayu
 bayun
@@ -783,6 +783,7 @@ beling
 belo
 ben
 benang
+bener
 bengek
 bengong
 beni
@@ -979,6 +980,7 @@ cucur
 cuk
 cukup
 cumi
+cunduk
 cupu
 curut
 dada
@@ -1076,6 +1078,7 @@ dimari
 dimas
 din
 dina
+dingin
 dini
 dino
 dipan
@@ -1598,6 +1601,7 @@ gantung
 gantungan
 ganyong
 gap
+gapak
 gapapa
 gaplek
 gapopo
@@ -1785,6 +1789,7 @@ gola
 golek
 golet
 goleti
+goli
 golong
 gombal
 gombalan
@@ -3090,6 +3095,7 @@ landep
 landhep
 landung
 langgar
+langgeng
 langit
 langka
 langsing
@@ -3687,6 +3693,7 @@ nana
 nanah
 nanai
 nanam
+nanang
 nanas
 nanase
 nandang
@@ -4185,6 +4192,7 @@ ngutang
 ngutangan
 nguter
 ngutil
+ngutowo
 nguyu
 nguyuh
 nguyup
@@ -4360,11 +4368,13 @@ nyangu
 nyani
 nyanyi
 nyapu
+nyawang
 nyawiji
 nyawit
 nyi
 nyiku
 nyim
+nyocot
 nyoli
 nyungsep
 nyuri
@@ -4599,7 +4609,6 @@ paji
 pak
 paka
 pakan
-pakana
 paku
 pala
 palang
@@ -4699,6 +4708,7 @@ peno
 pentil
 penting
 penuh
+pepak
 pepe
 pepek
 peran
@@ -4756,6 +4766,7 @@ pipi
 pipil
 pipis
 pipit
+pipu
 pir
 pira
 pirang
@@ -4988,6 +4999,7 @@ rasu
 rasuk
 rata
 rati
+rating
 ratna
 ratu
 raup
@@ -5076,6 +5088,7 @@ riko
 riku
 ril
 rila
+rilo
 rim
 rima
 rimi
@@ -5660,8 +5673,10 @@ tani
 tanjung
 tanpa
 tansah
+tanya
 tao
 tap
+tapai
 tape
 tapi
 tapir
@@ -5728,6 +5743,7 @@ teng
 tengah
 tengen
 tepak
+tera
 teran
 terang
 teras
@@ -5770,7 +5786,6 @@ timun
 timur
 tina
 tindak
-tindhak
 tinggal
 tinggalna
 tinju
@@ -5865,6 +5880,7 @@ tumpak
 tumpang
 tumpar
 tumpeng
+tumpul
 tumrap
 tuna
 tunas
@@ -6335,6 +6351,7 @@ wisuh
 wit
 wita
 witan
+witi
 wito
 wiwi
 wiwit
@@ -6383,7 +6400,6 @@ yan
 yana
 yang
 yano
-yapi
 yari
 yas
 yasin
