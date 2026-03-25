@@ -1532,6 +1532,7 @@ ena
 enak
 enake
 enam
+enan
 encok
 endah
 endang
@@ -2753,6 +2754,7 @@ jajajan
 jakaa
 jaket
 jaku
+jalak
 jalii
 jam
 jaman
@@ -3055,6 +3057,7 @@ kawan
 kawani
 kawasan
 kawat
+kawe
 kawi
 kawin
 kawit
@@ -4494,6 +4497,7 @@ ngawe
 ngaweh
 ngawi
 ngawii
+ngawir
 ngawiti
 ngawor
 ngawur
@@ -7295,6 +7299,7 @@ yo
 yoan
 yoe
 yoga
+yogyakarta
 yoh
 yohan
 yoi
