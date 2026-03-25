@@ -5288,6 +5288,7 @@ nyanyi
 nyapu
 nyatru
 nyawa
+nyawah
 nyawang
 nyawiji
 nyawit
@@ -7082,6 +7083,7 @@ tuman
 tumbal
 tumbas
 tumbu
+tumenggung
 tumi
 tumindak
 tumis
