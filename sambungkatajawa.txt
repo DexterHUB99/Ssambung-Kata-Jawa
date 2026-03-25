@@ -2185,6 +2185,7 @@ habibi
 habis
 hadap
 hadeh
+hadiah
 hadir
 hae
 haem
@@ -4297,6 +4298,7 @@ napi
 napo
 nar
 nara
+narada
 nari
 narik
 narima
@@ -4742,6 +4744,7 @@ ngitung
 ngko
 nglantur
 nglim
+ngliwet
 nglor
 ngnu
 ngobrol
