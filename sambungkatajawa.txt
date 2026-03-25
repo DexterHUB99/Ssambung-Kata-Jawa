@@ -2617,6 +2617,7 @@ jilid
 jim
 jima
 jimat
+jimpit
 jin
 jina
 jinak
@@ -2627,6 +2628,7 @@ jipang
 jipuk
 jir
 jira
+jirih
 jitak
 jiwa
 jiwae
