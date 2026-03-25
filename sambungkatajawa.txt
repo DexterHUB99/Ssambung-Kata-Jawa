@@ -1137,6 +1137,7 @@ canting
 cantolan
 cap
 caper
+capo
 capung
 cara
 cari
@@ -2463,6 +2464,7 @@ heo
 her
 hera
 heran
+here
 heri
 hero
 hes
@@ -7156,6 +7158,7 @@ toi
 toja
 tok
 tokek
+token
 toko
 tola
 tolak
