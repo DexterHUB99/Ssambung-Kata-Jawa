@@ -1407,6 +1407,7 @@ duduk
 dudul
 dudung
 duga
+dugi
 duh
 duha
 duit
@@ -6570,6 +6571,7 @@ seki
 seko
 sekola
 sekolah
+sekti
 sekul
 selam
 selamat
