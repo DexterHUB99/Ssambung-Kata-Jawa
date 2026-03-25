@@ -4450,6 +4450,7 @@ ngaceng
 ngaco
 ngadai
 ngadeg
+ngadepi
 ngadi
 ngadon
 ngadu
@@ -6944,6 +6945,7 @@ uja
 ujan
 ujar
 uji
+ujia
 ujian
 ujug
 ujuk
