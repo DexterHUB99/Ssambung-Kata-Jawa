@@ -1683,6 +1683,7 @@ genep
 geneyo
 genge
 geni
+genio
 geno
 genteng
 gentong
@@ -2221,6 +2222,7 @@ inep
 ing
 ingas
 inget
+inggal
 inggih
 inggil
 ingin
