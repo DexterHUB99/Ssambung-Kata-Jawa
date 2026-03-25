@@ -2031,6 +2031,7 @@ gena
 genah
 genap
 genape
+gendak
 gendar
 gendeng
 genderuwo
@@ -4383,6 +4384,7 @@ nanging
 nangis
 nangka
 nangkep
+nangkring
 nani
 naning
 nantang
@@ -6269,6 +6271,7 @@ sangu
 sanjang
 santai
 santen
+santo
 santri
 santun
 saos
