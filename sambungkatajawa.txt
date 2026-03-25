@@ -1804,6 +1804,7 @@ hana
 hanacaraka
 hanan
 hancur
+handaka
 handarbeni
 hang
 hangat
@@ -2794,6 +2795,7 @@ koyok
 krama
 kramas
 krikil
+krocok
 ku
 kua
 kuat
@@ -4709,6 +4711,7 @@ rasah
 rasan
 rasi
 rasis
+rasko
 raso
 rasu
 rasuk
