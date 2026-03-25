@@ -4942,6 +4942,7 @@ ngudut
 ngugu
 nguji
 ngukir
+ngukur
 ngul
 ngula
 ngulah
@@ -6371,6 +6372,7 @@ senok
 sepanci
 sepele
 sepi
+sepii
 sepiro
 sepon
 sepuh
