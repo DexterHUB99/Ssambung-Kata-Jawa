@@ -2841,6 +2841,7 @@ krikil
 krocok
 ku
 kua
+kuasa
 kuat
 kuburan
 kucing
@@ -3058,6 +3059,7 @@ lesehan
 lesu
 letong
 lewat
+leyeh
 lho
 li
 lia
@@ -5520,6 +5522,7 @@ terang
 teras
 teri
 terima
+ternak
 terong
 terus
 tes
@@ -6002,6 +6005,7 @@ wa
 waca
 wacana
 wadah
+wadol
 wadon
 waduh
 waduk
