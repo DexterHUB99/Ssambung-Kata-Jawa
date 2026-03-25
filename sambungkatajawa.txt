@@ -136,7 +136,6 @@ ahok
 ahoo
 ahoy
 ahu
-ahud
 ahuh
 ahuk
 ahum
@@ -448,7 +447,6 @@ andas
 ander
 andha
 andhap
-andhiko
 andhok
 andi
 andika
@@ -623,6 +621,7 @@ areng
 arep
 arepan
 arepe
+aret
 arga
 ari
 aria
@@ -1996,7 +1995,6 @@ geme
 gemes
 gemi
 gempa
-gempar
 gempil
 gempol
 gemuk
@@ -2316,7 +2314,6 @@ hawane
 haya
 hayang
 hayat
-hayati
 hayo
 hayu
 hayuk
@@ -2968,7 +2965,6 @@ kain
 kaine
 kairi
 kaisa
-kajak
 kajen
 kajeng
 kaji
@@ -2979,7 +2975,6 @@ kaka
 kakak
 kakaka
 kakang
-kakasur
 kake
 kaki
 kaku
@@ -3096,7 +3091,6 @@ kasep
 kaset
 kasi
 kasih
-kasihsayang
 kasii
 kasim
 kasir
@@ -3106,7 +3100,6 @@ kasur
 kasure
 kasuri
 kasus
-kasut
 kat
 kata
 katae
@@ -3826,7 +3819,6 @@ loncat
 longgar
 longor
 longsor
-lonjong
 lontar
 lonte
 lontong
@@ -4500,7 +4492,6 @@ ngalor
 ngalu
 ngalun
 ngam
-ngamah
 ngamal
 ngamar
 ngambang
@@ -4576,7 +4567,6 @@ ngarep
 ngarepan
 ngaret
 ngari
-ngarik
 ngarit
 ngarpu
 ngarsa
@@ -4601,7 +4591,6 @@ ngaso
 ngasta
 ngasu
 ngasuh
-ngasur
 ngatal
 ngatemi
 ngatok
@@ -4663,7 +4652,6 @@ ngelon
 ngeloni
 ngelu
 ngelus
-ngemas
 ngembun
 ngemis
 ngemong
@@ -4714,6 +4702,7 @@ ngeseng
 ngesi
 ngesor
 ngesot
+ngestu
 ngesu
 ngesuk
 nget
@@ -4746,7 +4735,6 @@ nggoo
 nggoreng
 nggowo
 ngguyu
-ngibing
 ngibul
 ngidal
 ngidam
@@ -5072,7 +5060,6 @@ nulo
 nulung
 nulungi
 num
-numa
 numan
 numbas
 numis
@@ -5136,7 +5123,6 @@ nyong
 nyoto
 nyungsep
 nyuri
-nyurung
 nyusu
 nyuwun
 oalah
@@ -5375,7 +5361,6 @@ padha
 padhang
 padil
 padu
-padus
 paes
 pagar
 pagi
@@ -5421,7 +5406,6 @@ pandu
 panen
 pang
 pangan
-panganan
 pangapunten
 panggah
 panggang
@@ -5449,7 +5433,6 @@ papat
 papi
 papu
 papua
-par
 para
 parang
 pare
@@ -5585,7 +5568,6 @@ pinarak
 pincang
 pindah
 pindang
-pindho
 pindo
 ping
 pingan
@@ -7171,6 +7153,7 @@ uras
 urat
 ure
 urek
+uren
 ures
 uri
 urii
@@ -7370,9 +7353,7 @@ welo
 wen
 wena
 wengi
-weni
 werkudara
-werna
 werno
 weruh
 wes
@@ -7544,7 +7525,6 @@ yusi
 yuswa
 yuswo
 yuti
-yuto
 yuwa
 yuyu
 yuyun
