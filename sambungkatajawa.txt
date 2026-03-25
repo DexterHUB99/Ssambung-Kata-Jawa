@@ -610,6 +610,7 @@ apik
 apikan
 apil
 apim
+apin
 apip
 aplikasi
 apo
@@ -1668,6 +1669,7 @@ eni
 enik
 ening
 enjang
+enjih
 enjing
 enko
 eno
@@ -3641,6 +3643,7 @@ kul
 kula
 kulak
 kulan
+kulawe
 kule
 kulem
 kuli
@@ -7304,6 +7307,7 @@ uke
 ukel
 ukem
 uken
+ukep
 uker
 uki
 ukin
@@ -7706,6 +7710,7 @@ weteng
 weton
 wetu
 wewe
+wewenang
 wicara
 widok
 wie
