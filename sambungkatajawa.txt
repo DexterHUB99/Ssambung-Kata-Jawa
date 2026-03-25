@@ -3395,6 +3395,7 @@ maos
 mapan
 mapel
 marah
+marang
 mardi
 mari
 marii
@@ -4073,6 +4074,7 @@ ngudud
 ngudut
 ngugu
 nguji
+ngukir
 ngul
 ngula
 ngulah
@@ -4979,6 +4981,7 @@ riang
 ribet
 ribut
 ridho
+rie
 rih
 rii
 rik
