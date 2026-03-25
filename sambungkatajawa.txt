@@ -3688,6 +3688,7 @@ langgar
 langgeng
 langit
 langka
+langkah
 langkung
 langsing
 langu
