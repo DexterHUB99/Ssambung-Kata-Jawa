@@ -2581,6 +2581,7 @@ ihku
 ihla
 ihli
 ihma
+ihmu
 ihni
 iho
 ihsan
@@ -2849,6 +2850,7 @@ isma
 ismi
 isna
 iso
+isoe
 isok
 isoma
 isoo
