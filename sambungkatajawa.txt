@@ -891,6 +891,7 @@ bati
 batok
 batu
 bau
+bawa
 bawok
 bayem
 bayi
@@ -5587,6 +5588,7 @@ pok
 poka
 poke
 poki
+poko
 pokok
 pokoke
 pokro
