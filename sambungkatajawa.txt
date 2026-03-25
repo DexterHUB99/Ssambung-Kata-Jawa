@@ -175,6 +175,7 @@ akit
 aklam
 ako
 akon
+akor
 akrab
 aksara
 aksen
@@ -291,7 +292,6 @@ ampar
 ampas
 ampek
 ampela
-ampes
 amplas
 ampok
 ampuh
@@ -650,7 +650,6 @@ bakul
 balek
 bali
 balung
-bambu
 ban
 bando
 banjir
@@ -707,7 +706,6 @@ bibar
 bibi
 bibik
 bidan
-bidas
 bidun
 bijak
 biji
@@ -937,6 +935,7 @@ din
 dina
 dini
 dino
+dipan
 diparani
 dipun
 dir
@@ -1500,7 +1499,6 @@ genge
 geni
 geno
 genteng
-genti
 gentong
 genuk
 geo
@@ -1874,7 +1872,6 @@ ihko
 ihku
 ihla
 ihli
-iho
 ihsan
 ihta
 ija
@@ -2307,6 +2304,7 @@ kandel
 kandi
 kang
 kangen
+kanggih
 kanggo
 kangkung
 kangmas
@@ -2534,7 +2532,6 @@ kisanak
 kit
 kita
 kitab
-kitan
 kite
 kiwa
 klambi
@@ -2893,6 +2890,7 @@ loe
 logat
 loh
 lohan
+loi
 lok
 lokasi
 loken
@@ -2903,7 +2901,6 @@ loli
 lolo
 lolos
 loma
-loman
 lomba
 lombane
 lombo
@@ -3123,7 +3120,6 @@ micek
 mie
 mii
 mikir
-mikul
 mila
 mili
 milu
@@ -3303,7 +3299,6 @@ nasi
 nasib
 nasie
 nasii
-nasikuning
 nastar
 nata
 natah
@@ -3413,7 +3408,6 @@ ngambar
 ngambil
 ngambung
 ngamok
-ngampi
 ngamuk
 ngan
 ngancani
@@ -3441,7 +3435,6 @@ ngantun
 nganu
 nganyeli
 ngaos
-ngap
 ngapa
 ngapae
 ngapain
@@ -3496,7 +3489,6 @@ ngawiti
 ngawor
 ngawur
 ngayomi
-ngayung
 ngebas
 ngebet
 ngece
@@ -3558,7 +3550,6 @@ ngesu
 ngesuk
 nget
 ngetan
-ngetik
 ngetok
 ngewangi
 ngewe
@@ -4158,7 +4149,6 @@ pelo
 pen
 pena
 penak
-pendek
 pengen
 peni
 peno
@@ -4243,7 +4233,6 @@ pojok
 pok
 poke
 poki
-poko
 pokok
 pokoke
 pokro
@@ -4412,7 +4401,6 @@ rasu
 rasuk
 rata
 rati
-ratok
 ratu
 raup
 rausah
@@ -4442,7 +4430,6 @@ rekoso
 relo
 rem
 remba
-rembak
 rembes
 rembuk
 rembulan
@@ -4512,7 +4499,6 @@ rira
 riri
 ris
 risa
-rise
 risen
 risi
 risih
@@ -4583,7 +4569,6 @@ rumangsa
 rumbai
 rumbak
 rumbuk
-rumi
 rumiyin
 rumongso
 rumput
@@ -4729,7 +4714,6 @@ selasa
 selawe
 selet
 selo
-sem
 semanten
 semar
 semarang
@@ -5136,7 +5120,6 @@ tokek
 toko
 tolak
 tole
-tolek
 tolol
 tolong
 tomat
@@ -5349,7 +5332,6 @@ umpama
 umpan
 umra
 umu
-umuk
 umum
 umume
 umur
