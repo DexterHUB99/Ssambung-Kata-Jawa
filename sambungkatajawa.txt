@@ -5831,6 +5831,7 @@ pocung
 podang
 podho
 poe
+pohung
 poi
 pojok
 pok
@@ -7032,6 +7033,7 @@ tito
 tiwas
 tiyang
 to
+toa
 tobat
 togel
 toh
