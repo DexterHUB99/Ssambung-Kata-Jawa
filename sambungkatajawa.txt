@@ -3660,6 +3660,7 @@ mapel
 marah
 marang
 mardi
+mare
 mari
 marii
 maring
@@ -5932,6 +5933,7 @@ suroro
 suruh
 surung
 surup
+surya
 sus
 susaa
 susah
