@@ -2050,7 +2050,6 @@ hantu
 hanung
 hao
 hap
-hapa
 hape
 hapi
 hapunten
@@ -3240,6 +3239,7 @@ lagii
 lagu
 lague
 lah
+lahan
 lahi
 lahir
 lair
@@ -4538,7 +4538,6 @@ nitip
 njaluk
 njupuk
 nki
-nnani
 nnduk
 nngalor
 nnina
@@ -6181,7 +6180,6 @@ tomat
 tombak
 tomo
 tompel
-ton
 tonggo
 tongkol
 toni
