@@ -594,6 +594,7 @@ arahan
 arahane
 arak
 aran
+arane
 arang
 arap
 aras
@@ -988,6 +989,7 @@ bubur
 buda
 budak
 budal
+budaya
 bude
 budeg
 budi
@@ -5294,6 +5296,7 @@ payung
 pe
 pea
 pean
+pecah
 pecel
 peci
 pedang
