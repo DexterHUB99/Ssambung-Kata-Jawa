@@ -9,10 +9,10 @@ abah
 abai
 abal
 abang
-abata
 abe
 abi
 abia
+abik
 abimanyu
 abis
 abo
@@ -39,7 +39,6 @@ adek
 adel
 adem
 adhem
-adhi
 adi
 adik
 adin
@@ -178,9 +177,7 @@ akam
 akan
 akang
 akar
-akara
 akas
-akasara
 akat
 akbar
 ake
@@ -364,7 +361,6 @@ anane
 anang
 anangin
 anas
-anat
 anay
 ancam
 ancaman
@@ -435,7 +431,6 @@ anin
 aning
 anis
 anisa
-anit
 anja
 anjai
 anjani
@@ -788,6 +783,7 @@ beling
 belo
 ben
 benang
+bener
 bengek
 bengong
 beni
@@ -825,7 +821,6 @@ bini
 bintang
 bio
 bir
-biri
 biru
 bis
 bisa
@@ -985,6 +980,7 @@ cucur
 cuk
 cukup
 cumi
+cunduk
 cupu
 curut
 dada
@@ -1468,7 +1464,6 @@ esuk
 et
 eta
 etah
-etak
 etan
 etang
 etap
@@ -1534,7 +1529,6 @@ gagal
 gagang
 gagap
 gage
-gagean
 gah
 gaja
 gajah
@@ -2491,7 +2485,6 @@ jodo
 jodoh
 jogo
 jok
-joki
 joko
 jokowi
 joli
@@ -2618,7 +2611,6 @@ kapa
 kapak
 kapal
 kapan
-kape
 kapi
 kapok
 kaprah
@@ -2637,7 +2629,6 @@ karung
 karyani
 kas
 kasa
-kasah
 kasar
 kasara
 kase
@@ -2675,7 +2666,6 @@ kawi
 kawin
 kawit
 kawok
-kawula
 kawus
 kaya
 kayu
@@ -3083,7 +3073,6 @@ lambene
 lambung
 lame
 lamek
-lami
 lamis
 lamon
 lamongan
@@ -3103,6 +3092,7 @@ landep
 landhep
 landung
 langgar
+langgeng
 langit
 langka
 langsing
@@ -3156,7 +3146,6 @@ lebur
 lee
 lega
 legi
-leh
 lek
 lele
 lelet
@@ -3319,7 +3308,6 @@ lugu
 luh
 luhur
 luka
-luki
 lukis
 lulu
 luluh
@@ -3669,7 +3657,6 @@ naira
 najeng
 najis
 nak
-naka
 nakai
 nakal
 nakon
@@ -3866,7 +3853,6 @@ ngambar
 ngambil
 ngambung
 ngamok
-ngampak
 ngamuk
 ngan
 nganah
@@ -4237,7 +4223,6 @@ niman
 nimba
 nimbali
 nimbang
-nimbul
 nimbun
 nimen
 nimu
@@ -4378,12 +4363,13 @@ nyangu
 nyani
 nyanyi
 nyapu
-nyawa
+nyawang
 nyawiji
 nyawit
 nyi
 nyiku
 nyim
+nyocot
 nyoli
 nyungsep
 nyuri
@@ -4400,7 +4386,6 @@ obeng
 obong
 obor
 obral
-ocok
 ocol
 od
 odak
@@ -4424,7 +4409,6 @@ ojol
 ok
 oka
 okai
-okak
 okal
 okam
 okan
@@ -4684,7 +4668,6 @@ pati
 patil
 patung
 pawang
-pawon
 payah
 payu
 payung
@@ -4944,7 +4927,6 @@ raino
 raiso
 raja
 rajang
-rajim
 rajin
 raju
 rajut
@@ -5098,6 +5080,7 @@ riko
 riku
 ril
 rila
+rilo
 rim
 rima
 rimi
@@ -5301,7 +5284,6 @@ saos
 sapa
 sapeh
 sapi
-sapih
 sapu
 sapun
 sar
@@ -5341,7 +5323,6 @@ sebat
 sedang
 sedar
 sedaya
-sedeng
 see
 segawon
 seger
@@ -5683,8 +5664,10 @@ tani
 tanjung
 tanpa
 tansah
+tanya
 tao
 tap
+tapai
 tape
 tapi
 tapir
@@ -5751,6 +5734,7 @@ teng
 tengah
 tengen
 tepak
+tera
 teran
 terang
 teras
@@ -5887,6 +5871,7 @@ tumpak
 tumpang
 tumpar
 tumpeng
+tumpul
 tumrap
 tuna
 tunas
@@ -5904,7 +5889,6 @@ turu
 turuk
 turukmu
 turuo
-tusu
 tusuk
 tuti
 tutuk
@@ -5987,7 +5971,6 @@ uke
 ukel
 ukem
 uken
-uker
 uki
 ukin
 ukir
