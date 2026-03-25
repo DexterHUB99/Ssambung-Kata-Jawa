@@ -2520,6 +2520,7 @@ kawani
 kawasan
 kawin
 kawit
+kawok
 kawus
 kaya
 kayu
@@ -2551,6 +2552,7 @@ kela
 kelabang
 kelakon
 kelam
+kelana
 kelangan
 kelar
 kelas
@@ -3640,6 +3642,7 @@ ngan
 nganah
 ngancani
 ngandang
+ngandani
 ngandhap
 ngandok
 nganduk
@@ -5104,6 +5107,7 @@ silo
 sim
 sima
 simak
+siman
 simbah
 simbok
 simi
