@@ -258,6 +258,7 @@ amaa
 amah
 amak
 amal
+amala
 amalan
 amam
 aman
@@ -1971,6 +1972,7 @@ idi
 idih
 idii
 idu
+ieu
 if
 iga
 igak
@@ -2010,6 +2012,7 @@ ikal
 ikan
 ikar
 ikat
+ikatan
 ike
 iker
 iket
@@ -4607,6 +4610,7 @@ raimuya
 raino
 raiso
 raja
+rajang
 rajin
 raju
 rajut
