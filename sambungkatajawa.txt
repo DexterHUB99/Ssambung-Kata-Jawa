@@ -957,7 +957,6 @@ cinta
 cintai
 cipluk
 ciu
-ciut
 coba
 cobak
 cocot
@@ -2733,7 +2732,6 @@ kemul
 ken
 kena
 kenak
-kenangan
 kenapa
 kencing
 kencot
@@ -3675,7 +3673,6 @@ namar
 nambah
 nambahi
 nambal
-nambang
 nami
 nampak
 nampan
@@ -6261,7 +6258,6 @@ wareg
 warga
 waria
 waris
-warisan
 warna
 warnae
 waro
