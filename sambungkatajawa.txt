@@ -4365,6 +4365,7 @@ ngeper
 ngepet
 ngeplak
 ngepot
+ngere
 ngerem
 ngeres
 ngeri
@@ -5024,6 +5025,7 @@ palur
 pamali
 paman
 pameran
+pamit
 pamrih
 pan
 pana
@@ -5506,6 +5508,7 @@ repot
 republik
 rere
 res
+resa
 resah
 resak
 rese
