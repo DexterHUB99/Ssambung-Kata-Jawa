@@ -70,6 +70,7 @@ afi
 afif
 afik
 aga
+agam
 agama
 agar
 agawe
@@ -1319,6 +1320,7 @@ ekas
 eke
 ekeh
 ekek
+ekel
 ekem
 eken
 eker
@@ -5371,6 +5373,7 @@ rasko
 raso
 rasu
 rasuk
+rasya
 rata
 rati
 rating
