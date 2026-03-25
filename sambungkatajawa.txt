@@ -1175,6 +1175,8 @@ ceri
 cerita
 ces
 cewek
+ciblok
+cica
 cicak
 cici
 cicis
@@ -5432,6 +5434,7 @@ obor
 oboti
 obral
 oceh
+oci
 ocok
 ocol
 od
@@ -5680,6 +5683,7 @@ paji
 pak
 paka
 pakan
+paksa
 paku
 pala
 palah
@@ -7753,6 +7757,7 @@ wegah
 weh
 wei
 weka
+weki
 wektu
 wela
 welo
