@@ -3314,6 +3314,7 @@ mabuk
 mabur
 maca
 macan
+mad
 madan
 madang
 madas
@@ -3711,6 +3712,7 @@ neg
 negara
 negeri
 neges
+negi
 negos
 neh
 nek
@@ -4658,6 +4660,7 @@ petruk
 peyek
 php
 pia
+piala
 pian
 piano
 piatu
@@ -5360,6 +5363,7 @@ simbok
 simi
 sin
 sina
+sinau
 sing
 singa
 singaa
