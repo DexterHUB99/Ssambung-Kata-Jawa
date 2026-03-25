@@ -576,6 +576,7 @@ antri
 antuk
 antun
 antung
+antur
 anu
 anue
 anuk
@@ -1331,6 +1332,7 @@ desa
 desi
 deso
 dewa
+dewean
 dewi
 dewo
 di
