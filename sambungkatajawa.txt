@@ -930,6 +930,7 @@ bedane
 bedo
 bedok
 bego
+beha
 bekal
 beko
 bela
@@ -3080,6 +3081,7 @@ kambuh
 kami
 kamia
 kamii
+kamila
 kamilan
 kamis
 kamise
@@ -5251,6 +5253,7 @@ nyurung
 nyusu
 nyuwun
 oalah
+ob
 oba
 obah
 oban
