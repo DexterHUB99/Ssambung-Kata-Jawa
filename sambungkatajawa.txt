@@ -1087,6 +1087,7 @@ dokar
 dolan
 dolanan
 doman
+domas
 domba
 dona
 dong
@@ -2645,6 +2646,7 @@ kedadi
 kedah
 kedai
 kedaton
+kediri
 kedondong
 kedurung
 kedut
