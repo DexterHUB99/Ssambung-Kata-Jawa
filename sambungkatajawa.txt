@@ -1414,6 +1414,7 @@ emplok
 empol
 empos
 empot
+empuk
 empun
 emu
 emut
@@ -3984,6 +3985,7 @@ nani
 nantang
 nanti
 nanya
+nao
 naon
 nap
 napa
@@ -5089,6 +5091,7 @@ pikun
 pil
 pila
 pilah
+pilak
 pilakon
 pilang
 pilar
@@ -6041,6 +6044,7 @@ takaran
 taki
 takon
 takoni
+taksi
 takut
 tal
 tala
