@@ -791,6 +791,7 @@ bagong
 bagus
 bah
 bahan
+bahasa
 bai
 baii
 bajigur
@@ -5648,6 +5649,7 @@ saben
 sabi
 sabit
 sabon
+sabtu
 sabuk
 sabun
 sadar
