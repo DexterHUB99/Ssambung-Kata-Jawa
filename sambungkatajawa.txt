@@ -7075,6 +7075,7 @@ tetelan
 ti
 tiba
 tibake
+tibane
 tibo
 ticok
 tigan
@@ -7839,6 +7840,7 @@ yani
 yano
 yapa
 yapi
+yaping
 yari
 yas
 yasin
