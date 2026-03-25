@@ -4037,6 +4037,7 @@ ngak
 ngaka
 ngakak
 ngaku
+ngal
 ngala
 ngalah
 ngale
@@ -4353,6 +4354,7 @@ ngotot
 ngowoh
 ngoyak
 ngoyo
+ngragal
 ngrep
 ngrit
 ngsu
@@ -4616,6 +4618,7 @@ obeng
 obong
 obor
 obral
+oceh
 ocok
 ocol
 od
@@ -4911,6 +4914,7 @@ pasu
 pati
 patil
 patung
+pawa
 pawang
 pawon
 payah
