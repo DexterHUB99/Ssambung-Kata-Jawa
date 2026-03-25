@@ -3034,6 +3034,7 @@ kem
 kema
 kemah
 kemanten
+kemanuk
 kemaren
 kemayu
 kembali
@@ -6886,6 +6887,7 @@ utuh
 uturi
 utus
 uud
+uw
 uwa
 uwe
 uwes
