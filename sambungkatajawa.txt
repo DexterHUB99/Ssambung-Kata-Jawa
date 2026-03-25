@@ -43,6 +43,7 @@ adem
 adhem
 adhi
 adi
+adiguna
 adik
 adil
 adin
@@ -881,6 +882,7 @@ bolo
 bolong
 bom
 bongko
+boring
 bos
 bosen
 boso
@@ -3832,6 +3834,7 @@ namar
 nambah
 nambahi
 nambal
+nambar
 nami
 nampak
 nampan
@@ -3899,6 +3902,7 @@ nawi
 ndak
 ndang
 ndasmu
+ndelok
 ndeso
 ndlogok
 ndugal
@@ -6521,6 +6525,7 @@ waris
 warna
 warnae
 waro
+waruh
 warung
 warya
 was
@@ -6615,6 +6620,7 @@ wor
 wora
 woro
 wos
+wot
 wowo
 woyo
 wuh
