@@ -2971,6 +2971,7 @@ kaleh
 kalem
 kalen
 kaleng
+kaler
 kali
 kalian
 kalih
@@ -4115,6 +4116,7 @@ moli
 molok
 mom
 momori
+momot
 mona
 mondok
 monggo
@@ -5686,6 +5688,7 @@ puyeng
 puyuh
 ra
 raa
+raba
 rabi
 rabit
 rabu
