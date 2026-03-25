@@ -377,6 +377,7 @@ amet
 ami
 amie
 amii
+amim
 amin
 aming
 amir
@@ -3287,6 +3288,7 @@ kelut
 kem
 kema
 kemah
+kemaki
 kemanten
 kemanuk
 kemaren
@@ -4469,6 +4471,7 @@ nasib
 nasie
 nasii
 nastar
+nasu
 nat
 nata
 natah
