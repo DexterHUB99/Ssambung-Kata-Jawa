@@ -874,6 +874,7 @@ bojok
 bokong
 bol
 bola
+bolak
 boleh
 bolo
 bolong
