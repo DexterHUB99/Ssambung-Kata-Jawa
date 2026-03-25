@@ -3275,6 +3275,7 @@ laba
 labu
 labue
 lada
+laen
 lag
 lagi
 lagii
@@ -6113,6 +6114,7 @@ tarawih
 tare
 tarek
 tari
+tarik
 taruk
 tarung
 tas
