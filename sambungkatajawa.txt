@@ -1357,6 +1357,7 @@ dunung
 dupa
 dupo
 duren
+duri
 durian
 durung
 duso
@@ -3848,6 +3849,7 @@ lumaku
 lumayan
 lumi
 lumpang
+lumpat
 lumpuh
 lumrah
 lumuh
@@ -7251,6 +7253,7 @@ wae
 wage
 wah
 wahana
+wahing
 wahyu
 wai
 wajah
