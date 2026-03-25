@@ -950,6 +950,7 @@ cakep
 campur
 can
 cangkem
+cangkir
 cangkul
 cantik
 caper
@@ -1855,6 +1856,7 @@ gokil
 goks
 gol
 gola
+gole
 golek
 golet
 goleti
@@ -4108,6 +4110,7 @@ ngayomi
 nge
 ngebas
 ngebet
+ngecat
 ngece
 ngeces
 ngedar
@@ -4738,6 +4741,7 @@ oser
 oses
 osing
 osip
+osir
 osit
 osok
 osor
