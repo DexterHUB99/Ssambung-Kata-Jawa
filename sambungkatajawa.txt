@@ -1051,6 +1051,7 @@ di
 diamput
 diana
 diba
+dibi
 didesa
 didi
 didik
@@ -1182,6 +1183,7 @@ ehen
 eher
 ehey
 ehi
+ehil
 ehim
 ehir
 eho
