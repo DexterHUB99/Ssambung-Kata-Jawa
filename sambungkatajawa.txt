@@ -337,6 +337,7 @@ amba
 ambal
 ambalan
 ambar
+ambegan
 ambek
 amben
 ambeng
@@ -6796,6 +6797,7 @@ ulur
 um
 uma
 umah
+umak
 umal
 uman
 umar
