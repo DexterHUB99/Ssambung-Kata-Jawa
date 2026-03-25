@@ -34,6 +34,7 @@ ada
 adaa
 adab
 adah
+adan
 adap
 adat
 ade
@@ -1903,6 +1904,7 @@ gosip
 gosok
 gosong
 got
+gotong
 gotongroyong
 gowo
 goyang
@@ -3196,6 +3198,7 @@ kuya
 kyai
 la
 lab
+laba
 labu
 labue
 lada
@@ -3317,6 +3320,7 @@ lemahe
 lemak
 leman
 lembah
+lembek
 lembur
 lembut
 lemek
@@ -4360,6 +4364,7 @@ ngukir
 ngul
 ngula
 ngulah
+ngulam
 ngulang
 ngulek
 ngulem
