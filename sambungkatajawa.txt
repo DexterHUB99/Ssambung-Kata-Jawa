@@ -5051,6 +5051,7 @@ ni
 nia
 nian
 niba
+niha
 nii
 nik
 nika
@@ -5440,6 +5441,7 @@ oria
 orii
 orok
 orong
+oros
 orotan
 os
 osah
