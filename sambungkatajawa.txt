@@ -770,6 +770,7 @@ ayame
 ayan
 ayang
 ayat
+ayay
 aye
 ayem
 ayeme
@@ -2818,6 +2819,7 @@ kalap
 kale
 kaleh
 kalem
+kalen
 kaleng
 kali
 kalian
