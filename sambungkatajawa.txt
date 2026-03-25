@@ -5823,6 +5823,7 @@ saleh
 sali
 salim
 salira
+salo
 salom
 salut
 sam
@@ -6771,6 +6772,7 @@ upah
 upal
 upama
 upan
+upas
 upaya
 upel
 upi
