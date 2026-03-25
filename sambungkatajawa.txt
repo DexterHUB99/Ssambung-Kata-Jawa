@@ -2372,6 +2372,7 @@ haram
 harang
 harap
 harapan
+hare
 harep
 harga
 hari
@@ -3469,6 +3470,7 @@ kila
 kilat
 kilen
 kili
+kilir
 kilonan
 kim
 kima
