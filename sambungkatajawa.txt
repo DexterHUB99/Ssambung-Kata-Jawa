@@ -627,6 +627,7 @@ arab
 arah
 arahan
 arahane
+arai
 arak
 aran
 arane
@@ -2557,6 +2558,7 @@ hurup
 hus
 husa
 husi
+hut
 huta
 hutan
 hutang
@@ -4985,6 +4987,7 @@ nggowo
 ngguyu
 ngibing
 ngibul
+ngicip
 ngidal
 ngidam
 ngidek
