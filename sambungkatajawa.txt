@@ -250,6 +250,7 @@ akun
 akur
 akus
 akut
+akuy
 al
 ala
 alah
@@ -1212,6 +1213,7 @@ dis
 disek
 disik
 ditipu
+diwak
 diwan
 do
 doa
@@ -2491,6 +2493,7 @@ injek
 injih
 injing
 injuk
+injung
 insan
 inti
 intil
@@ -3254,6 +3257,7 @@ kuat
 kuburan
 kucing
 kucir
+kuciwa
 kuda
 kudu
 kudune
@@ -3372,6 +3376,7 @@ lalii
 lam
 lama
 lamai
+lamba
 lambai
 lambe
 lambemu
