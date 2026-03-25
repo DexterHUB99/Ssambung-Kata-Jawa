@@ -860,6 +860,7 @@ bego
 bekal
 beko
 bela
+belang
 beli
 beling
 belo
