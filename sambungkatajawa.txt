@@ -464,6 +464,7 @@ angetan
 anggep
 angger
 anggo
+anggon
 anggu
 angguk
 anggur
@@ -5833,6 +5834,7 @@ rira
 riri
 ris
 risa
+risak
 risang
 risen
 risi
@@ -6404,6 +6406,7 @@ suwir
 suwun
 suya
 ta
+tabir
 tabo
 tabok
 tabrak
