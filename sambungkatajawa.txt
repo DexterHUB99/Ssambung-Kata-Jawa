@@ -6302,6 +6302,7 @@ robek
 roboh
 roda
 rodo
+roe
 rogoh
 roi
 rok
@@ -6434,6 +6435,7 @@ sak
 saka
 sakal
 sakarep
+saking
 sakit
 sakite
 saku
