@@ -2489,6 +2489,7 @@ huki
 hukum
 hukume
 hula
+hulah
 hulai
 hulu
 hum
@@ -4386,6 +4387,7 @@ naii
 naik
 naila
 naira
+najan
 najeng
 najis
 nak
