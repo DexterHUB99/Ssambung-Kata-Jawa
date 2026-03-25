@@ -4094,6 +4094,7 @@ omahe
 oman
 ombak
 ombe
+omben
 ombo
 ome
 omea
@@ -4441,6 +4442,7 @@ puki
 pukimak
 pukul
 pul
+pulan
 pulau
 pule
 pulpen
