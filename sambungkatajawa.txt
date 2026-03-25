@@ -5267,6 +5267,7 @@ posi
 pot
 potong
 powa
+poyo
 prai
 prei
 pria
