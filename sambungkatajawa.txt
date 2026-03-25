@@ -1226,6 +1226,7 @@ congor
 copet
 copo
 cor
+corak
 coro
 crita
 cuci
@@ -1302,6 +1303,7 @@ dede
 dedeg
 dedek
 dedi
+degan
 dek
 dekan
 delima
