@@ -1785,6 +1785,7 @@ eru
 erue
 eruh
 erui
+erum
 erung
 erungi
 erup
@@ -2369,6 +2370,7 @@ hambar
 hambur
 hamil
 hampir
+hamu
 han
 hana
 hanacaraka
