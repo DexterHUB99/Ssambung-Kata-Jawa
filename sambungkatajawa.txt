@@ -3501,6 +3501,7 @@ laos
 lap
 lapa
 lapak
+lapangan
 lapar
 lapi
 lapis
@@ -4017,6 +4018,7 @@ motor
 mripat
 mu
 mual
+mubeng
 mucuk
 mudeng
 mudha
