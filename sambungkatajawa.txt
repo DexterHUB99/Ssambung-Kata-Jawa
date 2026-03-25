@@ -1810,6 +1810,7 @@ ewangi
 ewe
 ewee
 ewek
+ewes
 ewo
 ewoh
 ewon
@@ -3755,6 +3756,7 @@ lasi
 lat
 latah
 latar
+lathi
 lati
 latih
 latu
@@ -6752,6 +6754,7 @@ suwir
 suwun
 suya
 ta
+tabi
 tabir
 tabo
 tabok
