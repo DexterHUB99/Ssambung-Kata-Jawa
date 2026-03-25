@@ -3489,6 +3489,7 @@ ngawiti
 ngawor
 ngawur
 ngayomi
+ngayung
 ngebas
 ngebet
 ngece
@@ -4716,6 +4717,7 @@ selasa
 selawe
 selet
 selo
+sem
 semanten
 semar
 semarang
