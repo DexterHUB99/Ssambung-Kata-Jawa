@@ -678,6 +678,7 @@ asui
 asul
 asun
 asuo
+asup
 asuw
 asuya
 at
@@ -1035,6 +1036,7 @@ cendol
 cengkeh
 centil
 ceplok
+ceri
 cerita
 ces
 cicak
@@ -5012,6 +5014,7 @@ paku
 pala
 palamu
 palang
+paleng
 pali
 paling
 palu
@@ -6891,6 +6894,7 @@ wirang
 wirasa
 wiri
 wis
+wisa
 wisuh
 wit
 wita
