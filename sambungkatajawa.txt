@@ -1857,6 +1857,7 @@ ih
 iha
 ihan
 ihe
+ihha
 ihhi
 ihi
 ihko
@@ -3720,6 +3721,7 @@ ning
 ningali
 ninggal
 ninggali
+ningka
 ningsih
 nini
 ninine
