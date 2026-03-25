@@ -669,6 +669,7 @@ arma
 aro
 aroh
 arok
+arop
 arsa
 arsi
 arta
@@ -1107,6 +1108,7 @@ buruh
 bus
 busa
 busana
+busi
 busu
 busuk
 busung
@@ -3564,6 +3566,7 @@ klambi
 klambimu
 klaten
 klebus
+klenger
 klepon
 kleru
 klimis
@@ -4765,6 +4768,7 @@ ngamuk
 ngan
 ngana
 nganah
+nganan
 ngancani
 ngancing
 ngandang
