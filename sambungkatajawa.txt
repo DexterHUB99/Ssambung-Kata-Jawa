@@ -407,6 +407,7 @@ ampu
 ampuh
 ampun
 ampus
+amrih
 amu
 amuh
 amuk
@@ -1926,6 +1927,7 @@ gamma
 gampang
 gampar
 gampil
+gamping
 gan
 ganco
 gancuk
@@ -4864,6 +4866,7 @@ ngendika
 ngendikan
 ngendo
 ngendog
+ngendong
 ngene
 ngenes
 ngeng
@@ -7229,6 +7232,7 @@ uem
 uen
 uga
 ugal
+ugas
 uget
 ugi
 ugo
