@@ -2655,6 +2655,7 @@ kemproh
 kemul
 ken
 kena
+kenak
 kenapa
 kencing
 kencot
@@ -2888,6 +2889,7 @@ kul
 kula
 kulak
 kule
+kulem
 kuli
 kulina
 kulit
