@@ -3079,7 +3079,6 @@ kasep
 kaset
 kasi
 kasih
-kasihsayang
 kasii
 kasim
 kasir
@@ -5044,7 +5043,6 @@ nulo
 nulung
 nulungi
 num
-numa
 numan
 numbas
 numis
@@ -5346,7 +5344,6 @@ padha
 padhang
 padil
 padu
-padus
 paes
 pagar
 pagi
@@ -5392,7 +5389,6 @@ pandu
 panen
 pang
 pangan
-panganan
 pangapunten
 panggah
 panggang
@@ -5420,7 +5416,6 @@ papat
 papi
 papu
 papua
-par
 para
 parang
 pare
@@ -5429,6 +5424,7 @@ pari
 parii
 paring
 paringan
+parip
 paris
 parit
 parkir
@@ -7335,7 +7331,6 @@ wen
 wena
 wengi
 werkudara
-werna
 werno
 weruh
 wes
