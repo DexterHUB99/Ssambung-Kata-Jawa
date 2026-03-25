@@ -2881,6 +2881,7 @@ kepleset
 kepo
 ker
 kera
+kerajin
 keram
 keran
 kerang
@@ -5208,6 +5209,7 @@ rega
 regane
 rei
 rek
+reka
 rekak
 rekam
 rekan
