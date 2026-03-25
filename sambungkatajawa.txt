@@ -930,6 +930,7 @@ bimo
 bin
 bina
 bindeng
+bingka
 bingung
 bini
 bintang
@@ -4751,6 +4752,7 @@ nikah
 nikel
 niki
 nikii
+nikmat
 niko
 niku
 nikung
