@@ -2579,6 +2579,7 @@ kacamata
 kacang
 kacir
 kacok
+kacu
 kacuk
 kacung
 kadak
@@ -4531,6 +4532,7 @@ okor
 okos
 okot
 okum
+okur
 okut
 ol
 olah
