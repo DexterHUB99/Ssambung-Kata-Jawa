@@ -109,6 +109,7 @@ ahut
 ahuy
 ai
 aia
+aie
 aii
 aiki
 aiko
@@ -1650,6 +1651,7 @@ gondok
 gondol
 gondrong
 gong
+gongso
 gopoh
 gor
 goren
@@ -2348,6 +2350,7 @@ kacung
 kadak
 kadal
 kadang
+kades
 kados
 kadung
 kadus
