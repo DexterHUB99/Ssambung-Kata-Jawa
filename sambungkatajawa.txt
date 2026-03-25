@@ -1222,6 +1222,7 @@ dupa
 dupo
 duren
 durian
+durma
 durung
 duso
 dusun
@@ -2587,6 +2588,7 @@ jaran
 jaranan
 jare
 jari
+jasa
 jawa
 jawab
 jawi
