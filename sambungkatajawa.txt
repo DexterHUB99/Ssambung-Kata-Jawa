@@ -5810,6 +5810,7 @@ pesing
 peso
 peteng
 peti
+petir
 petruk
 peyek
 php
