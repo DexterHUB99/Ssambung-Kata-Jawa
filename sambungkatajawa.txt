@@ -896,6 +896,7 @@ dali
 dalu
 damai
 damar
+damel
 dampar
 damping
 damput
@@ -2824,6 +2825,7 @@ landung
 langgar
 langit
 langsing
+langu
 lani
 lanjut
 lansia
@@ -3749,6 +3751,7 @@ ngong
 ngoni
 ngono
 ngopak
+ngopeni
 ngoper
 ngopi
 ngopo
