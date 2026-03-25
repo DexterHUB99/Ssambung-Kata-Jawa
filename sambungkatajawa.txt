@@ -3079,6 +3079,7 @@ kasep
 kaset
 kasi
 kasih
+kasihsayang
 kasii
 kasim
 kasir
@@ -5419,6 +5420,7 @@ papat
 papi
 papu
 papua
+par
 para
 parang
 pare
