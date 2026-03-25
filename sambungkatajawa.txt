@@ -31,6 +31,7 @@ aceh
 aci
 acik
 aco
+acok
 acu
 acung
 ad
@@ -1389,6 +1390,7 @@ dulur
 dumadi
 dumeh
 dungo
+dungu
 duno
 dunung
 dupa
@@ -2753,6 +2755,7 @@ irenan
 ireng
 irenge
 iri
+iria
 irii
 irim
 irin
@@ -3921,6 +3924,7 @@ lorone
 lorong
 los
 lose
+losi
 loso
 lota
 lotek
@@ -5298,6 +5302,7 @@ okas
 oke
 okee
 okeh
+okehe
 okei
 okel
 okem
