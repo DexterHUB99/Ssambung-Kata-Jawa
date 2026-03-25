@@ -3203,7 +3203,6 @@ kitaa
 kitab
 kite
 kiwa
-kiye
 klambi
 klambimu
 klebus
@@ -4991,6 +4990,7 @@ ombo
 ome
 omea
 omel
+omi
 oming
 omo
 omong
