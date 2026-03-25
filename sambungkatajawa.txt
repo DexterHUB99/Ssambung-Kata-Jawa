@@ -585,6 +585,7 @@ asri
 asta
 astaga
 astane
+asti
 asu
 asuh
 asui
@@ -899,6 +900,7 @@ celuk
 cema
 cemeng
 cen
+cendol
 cengkeh
 centil
 ceplok
@@ -3997,6 +3999,7 @@ ngula
 ngulah
 ngulang
 ngulek
+ngulem
 nguli
 ngulik
 ngulo
