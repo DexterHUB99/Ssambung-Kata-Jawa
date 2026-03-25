@@ -4272,6 +4272,7 @@ osok
 osor
 ot
 otak
+otakmu
 otol
 otom
 otot
@@ -5382,6 +5383,7 @@ tilem
 tilep
 tima
 timah
+timang
 timbang
 timbul
 timi
