@@ -1954,6 +1954,7 @@ gela
 gelang
 gelange
 gelap
+gelar
 gelek
 gelem
 geleman
