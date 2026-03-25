@@ -4680,6 +4680,7 @@ puki
 pukimak
 pukul
 pul
+pula
 pulan
 pulau
 pule
