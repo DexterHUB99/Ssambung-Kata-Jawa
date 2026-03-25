@@ -1899,6 +1899,7 @@ gongso
 gopal
 gopoh
 gor
+goreh
 goren
 goreng
 gorengan
@@ -3342,6 +3343,7 @@ lembut
 lemek
 lemes
 lemot
+lempeng
 lemper
 lemu
 lena
@@ -3354,6 +3356,7 @@ leren
 leres
 les
 lesehan
+lestari
 lesu
 letong
 lewat
@@ -3952,6 +3955,7 @@ nawang
 nawar
 nawas
 nawi
+naya
 ndak
 ndang
 ndasmu
@@ -5764,6 +5768,7 @@ sis
 sisa
 sisi
 sisih
+sisik
 sisil
 sisir
 sisok
