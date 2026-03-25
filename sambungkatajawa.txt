@@ -1098,6 +1098,7 @@ dila
 dilan
 dilit
 diluk
+dilut
 dima
 dimah
 diman
@@ -2103,6 +2104,7 @@ hore
 hormat
 horo
 horog
+hot
 hotel
 hoti
 howa
@@ -3494,6 +3496,7 @@ manak
 mancing
 mandeg
 mandhang
+mandhek
 mandi
 mane
 maneh
