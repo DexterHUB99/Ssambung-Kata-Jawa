@@ -1257,6 +1257,7 @@ dedek
 dedi
 dek
 dekan
+dekat
 delima
 delman
 delo
@@ -1284,6 +1285,7 @@ deso
 dewa
 dewi
 dewo
+dharma
 di
 diamput
 diana
@@ -5352,6 +5354,7 @@ oma
 omae
 omah
 omahe
+omahku
 oman
 ombak
 ombe
