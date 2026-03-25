@@ -1144,6 +1144,7 @@ dampar
 damping
 damput
 dan
+dana
 dancok
 dandan
 dandang
@@ -3208,6 +3209,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
