@@ -457,6 +457,7 @@ aneh
 anek
 aneng
 anes
+angan
 ange
 angel
 angen
@@ -1055,6 +1056,7 @@ cangkul
 cantik
 canting
 cantolan
+cap
 caper
 capung
 cara
@@ -4239,6 +4241,7 @@ nangis
 nangka
 nangkep
 nani
+naning
 nantang
 nanti
 nanya
@@ -4780,6 +4783,7 @@ ngun
 ngunani
 ngunci
 ngundang
+ngunduh
 ngunjuk
 ngunjung
 nguno
