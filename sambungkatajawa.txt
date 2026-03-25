@@ -42,6 +42,7 @@ adek
 adel
 adem
 adhem
+adhep
 adhi
 adi
 adiguna
@@ -2639,6 +2640,7 @@ juanda
 jubah
 jujur
 jule
+julu
 jumat
 jumbo
 ka
@@ -2941,6 +2943,7 @@ keris
 kerjo
 kero
 kerok
+kersa
 kerta
 kertas
 kertos
@@ -4286,6 +4289,7 @@ ngin
 nging
 nginggil
 ngintip
+ngipas
 ngipasi
 ngira
 ngiri
@@ -6228,6 +6232,7 @@ ubek
 ubi
 ubii
 ubun
+ubur
 uca
 ucap
 ucapan
