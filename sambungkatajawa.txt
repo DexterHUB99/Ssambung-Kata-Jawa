@@ -410,6 +410,7 @@ angkat
 angker
 angklung
 angkot
+angkuh
 angon
 angop
 angsa
@@ -847,6 +848,7 @@ bowo
 boyok
 bu
 buang
+buat
 buatan
 buaya
 bubur
@@ -3057,6 +3059,7 @@ landhep
 landung
 langgar
 langit
+langka
 langsing
 langu
 lani
