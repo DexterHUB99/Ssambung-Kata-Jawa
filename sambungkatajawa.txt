@@ -34,6 +34,7 @@ ada
 adaa
 adab
 adah
+adam
 adan
 adap
 adat
@@ -414,6 +415,7 @@ andon
 andong
 andu
 anduk
+andul
 ane
 aneh
 anek
@@ -5016,6 +5018,7 @@ pindah
 pindang
 pindo
 ping
+pingan
 pingsan
 pino
 pinta
@@ -6285,6 +6288,7 @@ ujar
 uji
 ujian
 ujug
+ujuk
 ujung
 uk
 uka
