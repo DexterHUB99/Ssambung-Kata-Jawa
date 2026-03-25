@@ -6334,6 +6334,7 @@ telo
 telon
 telu
 telur
+tem
 tema
 teman
 tembe
