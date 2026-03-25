@@ -774,6 +774,7 @@ bagong
 bagus
 bah
 bahan
+bai
 baii
 bajigur
 bajing
@@ -2351,6 +2352,7 @@ ima
 imam
 iman
 imane
+imao
 imas
 imba
 imbal
