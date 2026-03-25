@@ -2093,6 +2093,7 @@ ieu
 if
 iga
 igak
+igal
 igo
 ih
 iha
@@ -2153,6 +2154,7 @@ ikui
 ikulo
 ikur
 ikut
+il
 ila
 ilaa
 ilae
