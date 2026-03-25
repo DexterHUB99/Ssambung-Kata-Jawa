@@ -2430,6 +2430,7 @@ hur
 hura
 huri
 hurip
+huripan
 huru
 huruf
 hurung
@@ -4076,6 +4077,7 @@ mentah
 mentas
 mepet
 mer
+merah
 merahe
 merak
 mercon
