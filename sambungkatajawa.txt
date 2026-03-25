@@ -306,6 +306,7 @@ amis
 amit
 amo
 amoh
+among
 amor
 ampal
 ampar
@@ -1643,6 +1644,7 @@ gincu
 ginjal
 girang
 giring
+girisa
 gita
 gitar
 giwang
@@ -2005,6 +2007,7 @@ ijab
 ijak
 ijazah
 ijek
+ijem
 ijen
 iji
 ijik
@@ -4406,6 +4409,7 @@ peci
 pede
 pegawai
 pei
+pejah
 peju
 pek
 peko
