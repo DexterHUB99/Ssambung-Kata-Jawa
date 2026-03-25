@@ -1151,6 +1151,7 @@ ebi
 eboh
 ed
 eda
+edam
 edan
 edane
 edar
@@ -3801,6 +3802,7 @@ ngahi
 ngaja
 ngajak
 ngajar
+ngajen
 ngajeng
 ngaji
 ngajie
