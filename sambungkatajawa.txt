@@ -973,6 +973,7 @@ bisue
 biyung
 bobi
 bobok
+bobot
 bocah
 bocil
 bocor
@@ -5303,6 +5304,7 @@ ot
 otak
 otakmu
 otek
+otik
 otol
 otom
 otoman
