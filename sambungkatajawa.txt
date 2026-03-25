@@ -1678,6 +1678,7 @@ ewon
 ewong
 ewu
 ex
+ey
 eya
 eyah
 eyan
@@ -2591,6 +2592,7 @@ isam
 isan
 isap
 isapi
+ise
 isek
 isen
 iseng
@@ -2727,6 +2729,7 @@ jigong
 jijik
 jika
 jikuk
+jil
 jila
 jilat
 jilbab
@@ -3587,7 +3590,6 @@ lira
 liren
 lirih
 lirik
-liru
 lis
 lisa
 lisan
@@ -5234,6 +5236,7 @@ pepek
 pepes
 peran
 perang
+perih
 perlu
 pesing
 peso
@@ -5300,6 +5303,7 @@ pir
 pira
 pirang
 piro
+pis
 pisa
 pisah
 pisan
@@ -5823,6 +5827,7 @@ saleh
 sali
 salim
 salira
+salo
 salom
 salut
 sam
@@ -6031,6 +6036,7 @@ sinom
 sinta
 sinten
 sio
+sip
 sipa
 sipit
 sir
@@ -6252,6 +6258,7 @@ talas
 tales
 tali
 talie
+talo
 tam
 tama
 taman
@@ -6771,6 +6778,7 @@ upah
 upal
 upama
 upan
+upas
 upaya
 upel
 upi
