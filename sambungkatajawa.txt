@@ -2430,6 +2430,7 @@ kaset
 kasi
 kasih
 kasii
+kasim
 kasir
 kasu
 kasur
@@ -3710,6 +3711,7 @@ nggeh
 nggendong
 nggi
 nggih
+nggole
 nggolek
 nggon
 nggoo
@@ -5698,6 +5700,7 @@ utange
 utangmu
 utar
 utara
+utari
 utas
 utawa
 utawi
