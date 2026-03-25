@@ -1704,6 +1704,7 @@ gondol
 gondrong
 gong
 gongso
+gopal
 gopoh
 gor
 goren
@@ -4412,6 +4413,7 @@ palu
 pamali
 paman
 pameran
+pan
 pana
 panah
 panas
@@ -4930,6 +4932,7 @@ rowo
 roya
 royo
 rt
+rua
 ruam
 ruang
 rubuh
@@ -6031,6 +6034,7 @@ wetan
 weteng
 wetu
 wewe
+wicara
 widok
 wie
 wih
