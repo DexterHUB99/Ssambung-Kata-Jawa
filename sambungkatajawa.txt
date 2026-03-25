@@ -807,6 +807,7 @@ awalan
 awan
 awas
 awe
+aweh
 awek
 awet
 awi
@@ -3579,6 +3580,7 @@ kumbah
 kumbahan
 kumbang
 kumel
+kumi
 kumpul
 kumuh
 kun
