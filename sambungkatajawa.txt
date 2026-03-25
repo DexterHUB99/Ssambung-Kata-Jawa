@@ -366,6 +366,7 @@ amo
 amoh
 among
 amor
+amp
 ampal
 ampar
 ampas
