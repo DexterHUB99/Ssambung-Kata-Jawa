@@ -977,6 +977,7 @@ biba
 bibar
 bibi
 bibik
+bibir
 bibis
 bibu
 bidan
@@ -1190,6 +1191,7 @@ cokot
 cokro
 col
 colak
+colek
 colo
 colong
 congor
@@ -1428,6 +1430,7 @@ ebi
 eboh
 eca
 ece
+eco
 ed
 eda
 edak
