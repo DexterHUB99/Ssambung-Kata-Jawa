@@ -5428,6 +5428,7 @@ rumput
 rumus
 run
 runcing
+rung
 rungkad
 rungu
 runtuh
