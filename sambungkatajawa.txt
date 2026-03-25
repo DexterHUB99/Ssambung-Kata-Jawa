@@ -1957,6 +1957,7 @@ ijek
 ijen
 iji
 ijik
+ijil
 ijin
 ijo
 ijol
@@ -4080,6 +4081,7 @@ okor
 okos
 okot
 okum
+okut
 ol
 olah
 olahan
@@ -4119,9 +4121,11 @@ ombo
 ome
 omea
 omel
+oming
 omo
 omong
 omongan
+omongane
 ompol
 ompong
 ompreng
@@ -5754,6 +5758,7 @@ waktu
 waku
 wala
 walik
+wanci
 wangi
 wangsul
 wani
