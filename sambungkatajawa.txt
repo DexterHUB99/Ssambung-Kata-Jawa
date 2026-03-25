@@ -115,6 +115,7 @@ ahut
 ahuy
 ai
 aia
+aian
 aie
 aii
 aiki
@@ -3935,6 +3936,7 @@ ngokok
 ngokop
 ngolah
 ngolak
+ngolek
 ngoleke
 ngolo
 ngoloh
