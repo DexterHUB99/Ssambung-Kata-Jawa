@@ -2585,6 +2585,7 @@ kenter
 kentu
 kentut
 kenyang
+kenyot
 kepa
 kepal
 kepala
@@ -3161,6 +3162,7 @@ magelang
 mah
 maha
 mai
+maii
 main
 mainan
 maju
@@ -5413,6 +5415,7 @@ timur
 tina
 tindak
 tinggal
+tinggalna
 tinju
 tir
 tirai
