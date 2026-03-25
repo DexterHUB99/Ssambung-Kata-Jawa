@@ -2977,6 +2977,7 @@ jina
 jinak
 jingga
 jingkrak
+jinjit
 jinten
 jipang
 jipuk
@@ -4942,6 +4943,7 @@ ngipasi
 ngir
 ngira
 ngiras
+ngireng
 ngiri
 ngiris
 ngirit
