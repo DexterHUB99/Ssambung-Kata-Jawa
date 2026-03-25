@@ -5037,6 +5037,7 @@ numpuk
 nun
 nuna
 nung
+nunggang
 nunggangi
 nunggu
 nungu
@@ -7221,6 +7222,7 @@ uz
 visa
 wa
 waa
+waalaikumsalam
 waan
 waca
 wacana
