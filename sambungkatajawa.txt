@@ -699,6 +699,7 @@ bas
 basa
 basi
 basil
+bat
 bata
 bati
 batok
@@ -3960,6 +3961,7 @@ nis
 nisa
 nisaa
 nisan
+nita
 nite
 niti
 nitih
