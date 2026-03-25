@@ -1194,6 +1194,7 @@ ebi
 eboh
 ed
 eda
+edak
 edam
 edan
 edane
@@ -2817,6 +2818,7 @@ kembali
 kembang
 kembar
 kemben
+kemeja
 kemiri
 kempit
 kempol
