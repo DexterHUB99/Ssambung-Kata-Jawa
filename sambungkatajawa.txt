@@ -924,6 +924,7 @@ celeng
 celu
 celuk
 cema
+cemen
 cemeng
 cen
 cendol
@@ -1328,6 +1329,7 @@ engkole
 eni
 enik
 ening
+enjang
 enjing
 eno
 enok
@@ -3181,6 +3183,7 @@ lipa
 lipan
 lipas
 lipat
+lipen
 lipet
 lir
 liren
@@ -4628,6 +4631,7 @@ peni
 peno
 pentil
 penting
+penuh
 pepe
 pepek
 peran
