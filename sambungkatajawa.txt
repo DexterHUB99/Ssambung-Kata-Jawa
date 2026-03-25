@@ -785,7 +785,6 @@ bakso
 baku
 bakul
 balai
-balang
 balek
 bali
 balik
@@ -860,7 +859,6 @@ biba
 bibar
 bibi
 bibik
-bibit
 bidan
 bidun
 bidur
@@ -1223,7 +1221,6 @@ dupa
 dupo
 duren
 durian
-durma
 durung
 duso
 dusun
@@ -1677,7 +1674,6 @@ gamma
 gampang
 gampil
 gan
-gancet
 gancuk
 ganda
 gandeng
@@ -1759,7 +1755,6 @@ gawean
 gaweopo
 gawok
 gayam
-gayem
 gayeng
 gayuh
 gayung
@@ -2590,7 +2585,6 @@ jaran
 jaranan
 jare
 jari
-jasa
 jawa
 jawab
 jawi
@@ -2621,7 +2615,6 @@ jilid
 jim
 jima
 jimat
-jimpit
 jin
 jina
 jinak
@@ -2632,7 +2625,6 @@ jipang
 jipuk
 jir
 jira
-jirih
 jitak
 jiwa
 jiwae
@@ -2964,7 +2956,6 @@ keren
 kereta
 keri
 keris
-kerja
 kerjo
 kero
 kerok
@@ -3248,6 +3239,7 @@ lagii
 lagu
 lague
 lah
+lahan
 lahi
 lahir
 lair
@@ -3732,7 +3724,6 @@ merahe
 merak
 mercon
 merek
-merem
 mergo
 meri
 mesem
@@ -4102,7 +4093,6 @@ ngalu
 ngalun
 ngam
 ngamal
-ngamani
 ngamar
 ngambang
 ngambar
@@ -5943,7 +5933,6 @@ sura
 surabaya
 surat
 surau
-sure
 suri
 suro
 suroro
@@ -6496,7 +6485,6 @@ upacara
 upah
 upal
 upama
-upas
 upaya
 upel
 upi
@@ -6577,7 +6565,6 @@ usulan
 usung
 usus
 usut
-uswo
 uta
 utaa
 utah
