@@ -2562,6 +2562,7 @@ jinten
 jipang
 jipuk
 jir
+jira
 jitak
 jiwa
 jiwae
@@ -2807,6 +2808,7 @@ kelana
 kelangan
 kelar
 kelas
+kelebon
 kelek
 kelem
 kelereng
@@ -6077,6 +6079,7 @@ tumpar
 tumpeng
 tumpul
 tumrap
+tumut
 tuna
 tunas
 tundhuk
