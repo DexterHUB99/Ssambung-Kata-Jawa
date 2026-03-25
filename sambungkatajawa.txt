@@ -12,7 +12,6 @@ abang
 abe
 abi
 abia
-abik
 abimanyu
 abis
 abo
@@ -361,6 +360,7 @@ anane
 anang
 anangin
 anas
+anat
 anay
 ancam
 ancaman
@@ -3090,7 +3090,6 @@ landep
 landhep
 landung
 langgar
-langgeng
 langit
 langka
 langsing
@@ -3306,6 +3305,7 @@ lugu
 luh
 luhur
 luka
+luki
 lukis
 lulu
 luluh
@@ -4221,6 +4221,7 @@ niman
 nimba
 nimbali
 nimbang
+nimbul
 nimbun
 nimen
 nimu
@@ -4405,6 +4406,7 @@ ojol
 ok
 oka
 okai
+okak
 okal
 okam
 okan
@@ -4923,6 +4925,7 @@ raino
 raiso
 raja
 rajang
+rajim
 rajin
 raju
 rajut
