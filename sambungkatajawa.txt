@@ -725,6 +725,7 @@ bajigur
 bajing
 bajingan
 baju
+bakon
 bakso
 baku
 bakul
@@ -1016,6 +1017,7 @@ das
 dasar
 dasi
 daun
+davi
 dawa
 dawak
 dawet
@@ -4192,6 +4194,7 @@ ninine
 ninja
 nino
 nio
+nipa
 nipan
 nipon
 nipu
@@ -5369,6 +5372,7 @@ singa
 singaa
 singkong
 singo
+sini
 sinom
 sinta
 sinten
@@ -6162,6 +6166,7 @@ uyah
 uye
 uyuh
 uz
+visa
 wa
 waa
 waca
