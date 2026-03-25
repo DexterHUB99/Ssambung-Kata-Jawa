@@ -752,6 +752,7 @@ bayun
 bebas
 bebe
 bebek
+beca
 becak
 bedane
 bedo
@@ -1159,6 +1160,7 @@ eho
 ehoh
 ehok
 ehop
+ehor
 ehoy
 ehu
 ehup
@@ -4919,6 +4921,7 @@ resak
 rese
 resik
 resiko
+restu
 reti
 rewang
 rezeki
