@@ -1219,6 +1219,7 @@ cokro
 col
 colak
 colek
+coli
 colo
 colong
 congor
@@ -2105,6 +2106,7 @@ gemblung
 gembok
 gembos
 gembrot
+gembung
 geme
 gemes
 gemi
@@ -5170,6 +5172,7 @@ ngula
 ngulah
 ngulam
 ngulang
+nguleg
 ngulek
 ngulem
 nguli
