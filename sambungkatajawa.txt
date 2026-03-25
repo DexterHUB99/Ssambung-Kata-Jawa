@@ -1339,6 +1339,7 @@ entut
 enu
 enuk
 enul
+enyong
 epa
 epah
 epan
