@@ -2372,6 +2372,7 @@ ihe
 ihha
 ihhi
 ihi
+ihki
 ihko
 ihku
 ihla
@@ -3210,6 +3211,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
@@ -5254,6 +5256,7 @@ pema
 pen
 pena
 penak
+pendopo
 pengen
 peni
 peno
