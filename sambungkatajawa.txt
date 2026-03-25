@@ -746,6 +746,7 @@ atom
 aton
 atos
 atrahe
+atrap
 atret
 atu
 atuh
@@ -2865,6 +2866,7 @@ jori
 joro
 jorok
 jos
+jotor
 jotos
 juanda
 juang
