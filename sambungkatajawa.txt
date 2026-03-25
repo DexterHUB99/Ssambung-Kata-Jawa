@@ -296,6 +296,7 @@ alun
 alunan
 alur
 alus
+alut
 am
 ama
 amaa
@@ -396,6 +397,7 @@ ancaman
 ancen
 ancer
 anci
+ancik
 anco
 ancok
 ancuk
@@ -1169,6 +1171,7 @@ dipun
 dir
 diran
 diren
+diri
 diriku
 dirumah
 dis
