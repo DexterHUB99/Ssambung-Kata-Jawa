@@ -1429,6 +1429,7 @@ edaran
 edi
 edo
 edos
+edus
 eeh
 eenak
 ef
@@ -2391,6 +2392,7 @@ heha
 hehe
 hehi
 hei
+hela
 hele
 heli
 helikopter
