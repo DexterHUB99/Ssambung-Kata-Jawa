@@ -197,6 +197,7 @@ akula
 akun
 akur
 akus
+akut
 al
 ala
 alah
