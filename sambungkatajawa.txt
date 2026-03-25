@@ -1468,6 +1468,7 @@ en
 ena
 enak
 enake
+enam
 encok
 endah
 endang
@@ -5604,6 +5605,7 @@ rino
 rio
 rip
 ripa
+ripen
 ripi
 rira
 riri
