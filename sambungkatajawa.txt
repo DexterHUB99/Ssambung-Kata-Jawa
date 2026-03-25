@@ -3276,6 +3276,7 @@ karyani
 kas
 kasa
 kasah
+kasak
 kasar
 kasara
 kase
@@ -3584,6 +3585,7 @@ kodok
 koe
 koea
 koee
+koei
 koen
 koh
 koha
