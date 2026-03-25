@@ -962,6 +962,7 @@ budal
 bude
 budeg
 budi
+bui
 bujak
 buji
 buk
@@ -1435,6 +1436,7 @@ embok
 embong
 embuh
 embun
+embung
 eme
 emek
 emer
@@ -3665,6 +3667,7 @@ luput
 lur
 lurah
 luru
+luruh
 lurung
 lurus
 lusa
@@ -4483,6 +4486,7 @@ nginggil
 ngintip
 ngipas
 ngipasi
+ngir
 ngira
 ngiras
 ngiri
