@@ -1438,6 +1438,7 @@ elom
 eloo
 elor
 elos
+elot
 elu
 eluh
 eluk
@@ -3209,6 +3210,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
