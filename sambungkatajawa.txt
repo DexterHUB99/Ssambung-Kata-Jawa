@@ -1930,6 +1930,7 @@ guyub
 guyur
 ha
 haa
+habib
 habibi
 habis
 hadap
@@ -3344,6 +3345,7 @@ liwa
 liwat
 liwet
 liya
+liyan
 liyane
 liyo
 lo
@@ -5752,6 +5754,7 @@ surat
 surau
 suri
 suro
+suroro
 suruh
 surung
 surup
