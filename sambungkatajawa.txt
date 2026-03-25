@@ -2003,6 +2003,7 @@ gol
 gola
 gole
 golek
+goleki
 golet
 goleti
 goli
@@ -3177,6 +3178,7 @@ kinang
 kinanthi
 kini
 kinjeng
+kintal
 kintel
 kios
 kipas
