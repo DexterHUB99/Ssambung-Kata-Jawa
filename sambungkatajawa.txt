@@ -2089,6 +2089,7 @@ guru
 gurune
 gus
 gusah
+gusar
 gusi
 gusti
 gusur
@@ -3211,7 +3212,6 @@ kitaa
 kitab
 kite
 kiwa
-kiye
 klambi
 klambimu
 klebus
@@ -4442,6 +4442,7 @@ ngelak
 ngelawak
 ngeleh
 ngelem
+ngeles
 ngelih
 ngelmu
 ngelok
@@ -6179,6 +6180,7 @@ sugi
 sugih
 suh
 sui
+suji
 sujud
 suk
 suka
