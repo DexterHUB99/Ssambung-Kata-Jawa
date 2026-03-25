@@ -1675,6 +1675,7 @@ gamma
 gampang
 gampil
 gan
+gancet
 gancuk
 ganda
 gandeng
@@ -4094,6 +4095,7 @@ ngalu
 ngalun
 ngam
 ngamal
+ngamani
 ngamar
 ngambang
 ngambar
