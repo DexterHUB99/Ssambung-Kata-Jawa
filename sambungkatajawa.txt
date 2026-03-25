@@ -1677,6 +1677,7 @@ es
 esa
 esaa
 esae
+esah
 esai
 esak
 esam
@@ -3363,6 +3364,7 @@ kondi
 kondisi
 kondur
 konek
+koni
 kono
 kontal
 kontol
@@ -5261,6 +5263,7 @@ otoman
 otot
 ow
 owah
+owak
 owon
 ox
 oy
