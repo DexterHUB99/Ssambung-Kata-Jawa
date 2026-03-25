@@ -951,6 +951,7 @@ bedo
 bedok
 bego
 beha
+beja
 bejo
 bekal
 beko
@@ -7648,6 +7649,7 @@ waduk
 wae
 wage
 wah
+waha
 wahana
 wahing
 wahyu
