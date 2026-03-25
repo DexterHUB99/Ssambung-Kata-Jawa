@@ -534,6 +534,7 @@ aruh
 arum
 arus
 aruse
+arwah
 arya
 as
 asa
@@ -1424,6 +1425,7 @@ fix
 fo
 ga
 gabah
+gabung
 gabut
 gada
 gadah
