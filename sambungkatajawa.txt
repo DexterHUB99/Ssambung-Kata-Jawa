@@ -242,6 +242,7 @@ alik
 alim
 alime
 alin
+aling
 alip
 alir
 aliran
@@ -1690,6 +1691,7 @@ gimbal
 gina
 gincu
 ginjal
+gira
 girang
 giring
 girisa
