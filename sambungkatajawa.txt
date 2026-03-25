@@ -582,6 +582,7 @@ astane
 asu
 asuh
 asui
+asun
 asuo
 asuw
 asuya
@@ -4449,6 +4450,7 @@ papa
 papah
 papat
 papi
+para
 parang
 pare
 parem
@@ -5094,6 +5096,7 @@ sebat
 sedang
 sedar
 sedaya
+see
 segawon
 seger
 segera
