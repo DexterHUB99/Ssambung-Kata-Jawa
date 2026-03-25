@@ -1204,6 +1204,7 @@ dempet
 dempul
 den
 dena
+dene
 dengkul
 dening
 depi
@@ -4349,6 +4350,7 @@ ngal
 ngala
 ngalah
 ngalangi
+ngalap
 ngale
 ngaleh
 ngaler
