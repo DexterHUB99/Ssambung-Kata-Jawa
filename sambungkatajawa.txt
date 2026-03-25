@@ -853,6 +853,7 @@ cocot
 cocote
 cok
 coklat
+col
 colak
 colong
 congor
@@ -3036,6 +3037,7 @@ magelang
 mah
 maha
 mai
+main
 mainan
 maju
 mak
