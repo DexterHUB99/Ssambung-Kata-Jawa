@@ -941,6 +941,7 @@ biak
 biang
 biasa
 biawak
+biaya
 biba
 bibar
 bibi
@@ -4617,6 +4618,7 @@ ngawor
 ngawun
 ngawur
 ngaya
+ngayogyakarta
 ngayomi
 ngayuh
 ngayun
@@ -5043,6 +5045,7 @@ nose
 nosi
 nota
 nresnani
+nsua
 nu
 nua
 nuana
