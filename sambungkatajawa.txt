@@ -153,6 +153,7 @@ aiku
 ail
 aila
 ailan
+aili
 ailo
 aima
 aimu
@@ -503,6 +504,7 @@ anjuk
 anjung
 anjunga
 anjur
+anjuran
 ano
 anoa
 anom
@@ -1054,6 +1056,7 @@ cen
 cendol
 cengkeh
 centil
+cepet
 ceplok
 ceri
 cerita
@@ -1270,6 +1273,7 @@ duga
 duh
 duha
 duit
+duju
 dujun
 duka
 duku
@@ -1454,6 +1458,7 @@ embuh
 embun
 embung
 eme
+emeh
 emek
 emer
 emes
@@ -1678,7 +1683,6 @@ ewon
 ewong
 ewu
 ex
-ey
 eya
 eyah
 eyan
@@ -1966,7 +1970,6 @@ gimbal
 gina
 gincu
 ginjal
-gir
 gira
 girang
 giri
@@ -2406,6 +2409,7 @@ ikii
 ikim
 ikio
 ikita
+iklas
 iklim
 iko
 ikoe
@@ -2521,6 +2525,7 @@ injing
 injuk
 injung
 insan
+insyaallah
 inti
 intil
 intine
@@ -2593,7 +2598,6 @@ isam
 isan
 isap
 isapi
-ise
 isek
 isen
 iseng
@@ -2730,7 +2734,6 @@ jigong
 jijik
 jika
 jikuk
-jil
 jila
 jilat
 jilbab
@@ -3591,6 +3594,7 @@ lira
 liren
 lirih
 lirik
+liru
 lis
 lisa
 lisan
@@ -3907,9 +3911,11 @@ micek
 mie
 mii
 mik
+mika
 mikir
 mikul
 mila
+milan
 mili
 milih
 milu
@@ -3930,6 +3936,7 @@ mirah
 miri
 mis
 misah
+miskin
 misu
 misuh
 misuhi
@@ -4443,6 +4450,7 @@ ngenes
 ngeng
 ngengek
 ngenget
+ngengko
 ngengobrol
 ngenteni
 ngentu
@@ -5237,7 +5245,6 @@ pepek
 pepes
 peran
 perang
-perih
 perlu
 pesing
 peso
@@ -5304,7 +5311,6 @@ pir
 pira
 pirang
 piro
-pis
 pisa
 pisah
 pisan
@@ -5431,6 +5437,7 @@ purun
 pusaka
 puser
 pusing
+put
 pute
 putih
 puting
@@ -5822,14 +5829,12 @@ sakura
 sal
 sala
 salah
-salahku
 salak
 salam
 saleh
 sali
 salim
 salira
-salo
 salom
 salut
 sam
@@ -6038,7 +6043,6 @@ sinom
 sinta
 sinten
 sio
-sip
 sipa
 sipit
 sir
@@ -6231,6 +6235,7 @@ suwir
 suwun
 suya
 ta
+tablet
 tabo
 tabok
 tabrak
@@ -6260,7 +6265,6 @@ talas
 tales
 tali
 talie
-talo
 tam
 tama
 taman
@@ -6351,6 +6355,7 @@ telur
 tem
 tema
 teman
+tembak
 tembe
 tembok
 teme
@@ -6753,6 +6758,7 @@ ungkit
 ungu
 uni
 unia
+unja
 unjal
 unjuk
 unma
@@ -6780,7 +6786,6 @@ upah
 upal
 upama
 upan
-upas
 upaya
 upel
 upi
@@ -6923,6 +6928,7 @@ waan
 waca
 wacana
 wadah
+wadoh
 wadol
 wadon
 waduh
