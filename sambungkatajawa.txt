@@ -862,6 +862,7 @@ caii
 cakep
 campur
 can
+cangkul
 cantik
 caper
 capung
@@ -2174,6 +2175,7 @@ intil
 intine
 intip
 inul
+ip
 ipa
 ipak
 ipan
@@ -5789,6 +5791,7 @@ undur
 undura
 une
 unek
+unen
 uner
 ung
 unggah
