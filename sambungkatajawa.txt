@@ -4961,6 +4961,7 @@ nggah
 nggak
 nggaku
 nggali
+nggarap
 nggateli
 nggawa
 nggawe
@@ -7452,6 +7453,7 @@ unia
 unjal
 unjar
 unjuk
+unjukan
 unma
 uno
 unta
