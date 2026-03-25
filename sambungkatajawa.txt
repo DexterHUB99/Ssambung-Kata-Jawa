@@ -405,6 +405,7 @@ angsur
 angsuran
 angu
 angun
+angur
 angus
 ani
 aniani
@@ -4477,6 +4478,7 @@ pas
 pasa
 pasak
 pasaran
+pasek
 pasir
 pasti
 pasu
@@ -5874,6 +5876,7 @@ upku
 upo
 ur
 ura
+uraa
 urab
 urah
 urai
