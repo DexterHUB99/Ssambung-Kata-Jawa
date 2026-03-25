@@ -3724,6 +3724,7 @@ merahe
 merak
 mercon
 merek
+merem
 mergo
 meri
 mesem
@@ -5933,6 +5934,7 @@ sura
 surabaya
 surat
 surau
+sure
 suri
 suro
 suroro
