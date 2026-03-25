@@ -411,6 +411,7 @@ angker
 angklung
 angkot
 angon
+angop
 angsa
 angsal
 angsle
@@ -3461,6 +3462,7 @@ merek
 mergo
 meri
 mesem
+meski
 mesum
 meta
 metek
@@ -4116,6 +4118,7 @@ ngupil
 nguping
 ngura
 nguras
+nguri
 nguripi
 nguru
 ngurusi
@@ -4949,6 +4952,7 @@ rekam
 rekan
 rekasa
 rekoso
+rela
 relo
 rem
 remang
