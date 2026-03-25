@@ -4206,6 +4206,7 @@ naka
 nakai
 nakal
 nakon
+naksir
 nakula
 nala
 nalan
@@ -4436,6 +4437,7 @@ ngamok
 ngampak
 ngamuk
 ngan
+ngana
 nganah
 ngancani
 ngancing
@@ -5827,6 +5829,7 @@ resi
 resik
 resiko
 restu
+ret
 reti
 rewang
 rezeki
