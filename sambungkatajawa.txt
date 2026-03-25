@@ -4014,6 +4014,7 @@ masi
 masih
 masjid
 masu
+masuh
 masuk
 masyaallah
 mat
@@ -4343,6 +4344,7 @@ nawang
 nawar
 nawari
 nawas
+nawe
 nawi
 naya
 ndak
@@ -4508,6 +4510,7 @@ ngangkat
 ngangso
 ngangsu
 ngangsur
+nganjok
 nganjuk
 ngano
 ngantar
