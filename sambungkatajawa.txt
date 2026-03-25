@@ -785,6 +785,7 @@ bakso
 baku
 bakul
 balai
+balang
 balek
 bali
 balik
@@ -1758,6 +1759,7 @@ gawean
 gaweopo
 gawok
 gayam
+gayem
 gayeng
 gayuh
 gayung
@@ -6494,6 +6496,7 @@ upacara
 upah
 upal
 upama
+upas
 upaya
 upel
 upi
