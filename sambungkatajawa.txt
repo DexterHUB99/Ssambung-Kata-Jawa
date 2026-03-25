@@ -110,6 +110,7 @@ ahli
 ahline
 ahlu
 aho
+ahoha
 ahok
 ahoy
 ahu
@@ -2005,6 +2006,7 @@ hir
 hira
 his
 hisa
+hise
 hitam
 hitung
 hiu
