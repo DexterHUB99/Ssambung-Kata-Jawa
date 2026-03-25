@@ -408,6 +408,7 @@ andi
 andika
 andini
 andok
+andon
 andong
 andu
 anduk
@@ -753,6 +754,7 @@ bade
 badhe
 badog
 badok
+baduk
 bae
 bagong
 bagus
