@@ -1050,6 +1050,7 @@ dis
 disik
 ditipu
 diwan
+doa
 doda
 dodik
 dodo
@@ -5183,6 +5184,7 @@ seng
 senok
 sepele
 sepi
+sepiro
 sepon
 sepuh
 sepur
