@@ -543,6 +543,7 @@ anjur
 anjuran
 ano
 anoa
+anok
 anom
 anoman
 anop
@@ -5389,6 +5390,7 @@ ojok
 ojol
 ok
 oka
+okae
 okai
 okak
 okal
@@ -7075,6 +7077,7 @@ toa
 tobat
 togel
 toh
+toha
 toi
 toja
 tok
