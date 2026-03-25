@@ -2750,6 +2750,7 @@ kaping
 kapok
 kaprah
 kapur
+kar
 kara
 karak
 karang
@@ -3413,6 +3414,7 @@ lober
 lobi
 lodeh
 lodhang
+lodoh
 loe
 logat
 loh
