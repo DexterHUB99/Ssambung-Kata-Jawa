@@ -1236,6 +1236,7 @@ dandang
 dani
 danu
 dap
+dapi
 dapur
 dara
 darah
@@ -4013,6 +4014,7 @@ magang
 magelang
 mah
 maha
+mahal
 mahar
 mai
 maido
