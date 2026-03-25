@@ -134,6 +134,7 @@ ahoy
 ahu
 ahuh
 ahuk
+ahum
 ahun
 ahup
 ahur
@@ -3668,6 +3669,7 @@ maman
 mamat
 mambu
 mami
+mamol
 mampu
 mampus
 mamrih
