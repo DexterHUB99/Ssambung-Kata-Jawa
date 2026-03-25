@@ -686,7 +686,6 @@ ata
 atah
 atak
 atam
-atang
 atap
 atas
 atasan
@@ -2953,7 +2952,6 @@ kekunci
 kel
 kela
 kelabang
-kelak
 kelakon
 kelam
 kelana
@@ -3982,7 +3980,6 @@ nagih
 nagihe
 nah
 naha
-nai
 naii
 naik
 naira
@@ -4752,6 +4749,7 @@ nuturi
 nuwa
 nuwun
 ny
+nya
 nyai
 nyamar
 nyamuk
