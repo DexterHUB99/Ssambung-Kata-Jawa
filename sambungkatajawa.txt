@@ -546,6 +546,7 @@ asna
 asor
 asoy
 aspal
+asra
 asrep
 asri
 asta
@@ -2612,6 +2613,7 @@ kisan
 kisanak
 kit
 kita
+kitaa
 kitab
 kite
 kiwa
