@@ -4317,6 +4317,7 @@ murah
 murid
 murub
 murup
+mus
 musa
 musan
 muse
@@ -5962,6 +5963,7 @@ ransel
 rantai
 rante
 ranting
+ranung
 raono
 raos
 rapa
