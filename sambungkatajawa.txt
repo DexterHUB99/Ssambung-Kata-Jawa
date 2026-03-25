@@ -1103,6 +1103,7 @@ dulu
 dulur
 dumeh
 dungo
+dunung
 dupa
 dupo
 duren
@@ -1941,6 +1942,7 @@ helo
 hem
 hemat
 hemate
+hena
 heni
 henteu
 heo
