@@ -3317,6 +3317,7 @@ manah
 manak
 mancing
 mandeg
+mandhang
 mandi
 mane
 maneh
@@ -3791,6 +3792,7 @@ ngarak
 ngarang
 ngarek
 ngarep
+ngarepan
 ngaret
 ngarit
 ngarpu
@@ -5159,6 +5161,7 @@ saya
 sayaa
 sayah
 sayang
+sayekti
 sayur
 se
 sebat
@@ -6250,6 +6253,7 @@ yuka
 yuki
 yuko
 yula
+yuli
 yuma
 yumi
 yumu
