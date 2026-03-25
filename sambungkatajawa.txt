@@ -393,6 +393,7 @@ anduk
 andung
 ane
 aneh
+anek
 aneng
 anes
 ange
@@ -4822,6 +4823,7 @@ pojok
 pok
 poke
 poki
+poko
 pokok
 pokoke
 pokro
