@@ -9,6 +9,7 @@ abah
 abai
 abal
 abang
+abata
 abe
 abi
 abia
@@ -38,6 +39,7 @@ adek
 adel
 adem
 adhem
+adhi
 adi
 adik
 adin
@@ -177,6 +179,7 @@ akan
 akang
 akar
 akas
+akasara
 akat
 akbar
 ake
@@ -360,6 +363,7 @@ anane
 anang
 anangin
 anas
+anat
 anay
 ancam
 ancaman
@@ -430,6 +434,7 @@ anin
 aning
 anis
 anisa
+anit
 anja
 anjai
 anjani
@@ -819,6 +824,7 @@ bini
 bintang
 bio
 bir
+biri
 biru
 bis
 bisa
@@ -957,7 +963,6 @@ cinta
 cintai
 cipluk
 ciu
-ciut
 coba
 cobak
 cocot
@@ -1462,6 +1467,7 @@ esuk
 et
 eta
 etah
+etak
 etan
 etang
 etap
@@ -2082,7 +2088,6 @@ hurung
 hurup
 hus
 husi
-husna
 hutan
 hutang
 huti
@@ -2253,7 +2258,6 @@ inem
 inep
 ing
 ingas
-ingat
 inget
 inggal
 inggih
@@ -2485,6 +2489,7 @@ jodo
 jodoh
 jogo
 jok
+joki
 joko
 jokowi
 joli
@@ -2735,7 +2740,6 @@ kemul
 ken
 kena
 kenak
-kenangan
 kenapa
 kencing
 kencot
@@ -3074,6 +3078,7 @@ lambene
 lambung
 lame
 lamek
+lami
 lamis
 lamon
 lamongan
@@ -3308,6 +3313,7 @@ lugu
 luh
 luhur
 luka
+luki
 lukis
 lulu
 luluh
@@ -3677,7 +3683,6 @@ namar
 nambah
 nambahi
 nambal
-nambang
 nami
 nampak
 nampan
@@ -4224,6 +4229,7 @@ niman
 nimba
 nimbali
 nimbang
+nimbul
 nimbun
 nimen
 nimu
@@ -4364,12 +4370,12 @@ nyangu
 nyani
 nyanyi
 nyapu
+nyawa
 nyawiji
 nyawit
 nyi
 nyiku
 nyim
-nyok
 nyoli
 nyungsep
 nyuri
@@ -4386,6 +4392,7 @@ obeng
 obong
 obor
 obral
+ocok
 ocol
 od
 odak
@@ -4409,6 +4416,7 @@ ojol
 ok
 oka
 okai
+okak
 okal
 okam
 okan
@@ -4668,6 +4676,7 @@ pati
 patil
 patung
 pawang
+pawon
 payah
 payu
 payung
@@ -4927,6 +4936,7 @@ raino
 raiso
 raja
 rajang
+rajim
 rajin
 raju
 rajut
@@ -5884,6 +5894,7 @@ turu
 turuk
 turukmu
 turuo
+tusu
 tusuk
 tuti
 tutuk
@@ -6264,7 +6275,6 @@ wareg
 warga
 waria
 waris
-warisan
 warna
 warnae
 waro
