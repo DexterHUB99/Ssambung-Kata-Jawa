@@ -624,6 +624,7 @@ ax
 ay
 aya
 ayah
+ayak
 ayam
 ayame
 ayan
@@ -702,6 +703,7 @@ bela
 beli
 beling
 belo
+ben
 bengek
 bengong
 beni
