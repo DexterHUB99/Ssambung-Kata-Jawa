@@ -957,6 +957,7 @@ cinta
 cintai
 cipluk
 ciu
+ciut
 coba
 cobak
 cocot
@@ -6260,6 +6261,7 @@ wareg
 warga
 waria
 waris
+warisan
 warna
 warnae
 waro
