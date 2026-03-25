@@ -4927,6 +4927,7 @@ ngeleh
 ngelem
 ngeles
 ngelih
+ngeling
 ngelmu
 ngelok
 ngelon
