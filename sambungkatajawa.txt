@@ -3591,6 +3591,7 @@ ngangi
 ngangkang
 ngangso
 ngangsu
+ngangsur
 nganjuk
 ngano
 ngantem
@@ -4361,6 +4362,7 @@ penting
 pepe
 pepek
 peran
+perang
 perlu
 pesing
 peso
@@ -4946,6 +4948,7 @@ selasa
 selawe
 selet
 selo
+semangat
 semanten
 semar
 semarang
