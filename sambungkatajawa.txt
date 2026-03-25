@@ -4967,6 +4967,7 @@ pamrih
 pan
 pana
 panah
+panama
 panas
 pancen
 panci
@@ -6751,6 +6752,7 @@ wayah
 wayang
 wc
 we
+wea
 wedal
 wedan
 wedang
