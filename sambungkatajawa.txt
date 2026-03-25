@@ -827,6 +827,7 @@ buntung
 buri
 bus
 busa
+busana
 busuk
 busung
 buta
@@ -4447,6 +4448,7 @@ php
 pia
 pian
 piano
+piatu
 picek
 pie
 pii
@@ -4998,6 +5000,7 @@ sawer
 sawi
 sawiji
 sawit
+sawo
 saya
 sayaa
 sayah
