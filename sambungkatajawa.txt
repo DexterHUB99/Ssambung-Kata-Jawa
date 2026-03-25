@@ -1011,6 +1011,7 @@ dede
 dedek
 dedi
 dek
+delima
 delman
 delo
 dema
@@ -4790,6 +4791,7 @@ ra
 raa
 rabi
 rabit
+rabu
 rabun
 racik
 racun
