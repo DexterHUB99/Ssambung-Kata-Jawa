@@ -404,6 +404,7 @@ andu
 anduk
 ane
 aneh
+anek
 aneng
 anes
 ange
@@ -2143,6 +2144,7 @@ icone
 icu
 id
 ida
+idan
 idep
 ider
 idi
@@ -2725,6 +2727,7 @@ kawi
 kawin
 kawit
 kawok
+kawruh
 kawula
 kawus
 kaya
@@ -5015,6 +5018,7 @@ raimu
 raimuasu
 raimui
 raimuya
+raine
 raino
 raiso
 raja
@@ -6473,6 +6477,7 @@ wono
 wonosobo
 wonten
 woo
+wor
 wora
 woro
 wos
