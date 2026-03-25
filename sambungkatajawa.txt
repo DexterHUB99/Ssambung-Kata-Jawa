@@ -1083,6 +1083,7 @@ dalu
 damai
 damar
 damel
+dampak
 dampar
 damping
 damput
@@ -1316,6 +1317,7 @@ ekem
 eken
 eker
 ekes
+eket
 eki
 ekih
 ekir
@@ -2219,6 +2221,7 @@ huma
 human
 humor
 huni
+hura
 huri
 hurip
 huru
