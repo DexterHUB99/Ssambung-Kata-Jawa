@@ -406,6 +406,7 @@ anin
 aning
 anis
 anisa
+anja
 anjai
 anjani
 anjar
@@ -1442,6 +1443,7 @@ gaji
 gajie
 gak
 gaki
+gakro
 gal
 gala
 galae
@@ -5940,6 +5942,7 @@ wangsul
 wani
 wanie
 wanita
+war
 waras
 wareg
 warga
