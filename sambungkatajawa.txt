@@ -1836,6 +1836,7 @@ fo
 ga
 gabah
 gabar
+gabuk
 gabung
 gabus
 gabut
@@ -4184,6 +4185,7 @@ mbuh
 me
 medal
 medeni
+medhok
 meh
 meja
 mek
@@ -4774,6 +4776,7 @@ ngecat
 ngece
 ngecek
 ngeces
+ngedan
 ngedar
 ngeden
 ngedol
