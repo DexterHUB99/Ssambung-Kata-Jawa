@@ -2233,6 +2233,7 @@ jawab
 jawi
 jebul
 jela
+jelek
 jem
 jembut
 jembutmu
@@ -5613,6 +5614,7 @@ usua
 usui
 usuk
 usul
+usula
 usulan
 usung
 usus
@@ -5709,6 +5711,7 @@ we
 wedal
 wedan
 wedang
+wedhus
 wedi
 wedo
 wedok
@@ -5838,6 +5841,7 @@ yula
 yuma
 yumi
 yumu
+yun
 yunani
 yung
 yuni
