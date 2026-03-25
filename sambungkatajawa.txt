@@ -782,6 +782,7 @@ bojok
 bokong
 bol
 bola
+boleh
 bolo
 bom
 bongko
@@ -2710,6 +2711,7 @@ kocok
 kodok
 koe
 koea
+koee
 koen
 koh
 koha
@@ -3401,6 +3403,7 @@ mungkin
 mungkur
 muni
 munjuk
+muntab
 muntah
 munyuk
 mur
@@ -3800,6 +3803,7 @@ nggowo
 ngguyu
 ngibul
 ngidal
+ngidam
 ngidek
 ngidu
 ngidul
@@ -4340,6 +4344,7 @@ palang
 pali
 paling
 palu
+pamali
 paman
 pameran
 pana
@@ -5891,6 +5896,7 @@ warnae
 waro
 warung
 warya
+was
 watak
 wates
 wati
