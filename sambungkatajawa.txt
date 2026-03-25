@@ -1135,6 +1135,7 @@ dipan
 diparani
 dipun
 dir
+diran
 diren
 diriku
 dirumah
@@ -4177,6 +4178,7 @@ ngeper
 ngepet
 ngeplak
 ngepot
+ngerem
 ngeri
 ngerok
 ngeroso
