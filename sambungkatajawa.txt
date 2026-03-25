@@ -1529,6 +1529,7 @@ garuk
 garut
 garwa
 gas
+gasa
 gasak
 gasal
 gasi
@@ -3620,11 +3621,13 @@ ngaceng
 ngaco
 ngadai
 ngadeg
+ngadi
 ngadu
 ngaduh
 ngaduk
 ngae
 ngah
+ngahi
 ngaja
 ngajak
 ngajar
