@@ -1812,6 +1812,7 @@ ger
 gerah
 gerak
 geram
+gerbang
 gerem
 gergaji
 gerih
@@ -2480,6 +2481,7 @@ iso
 isok
 isoo
 isra
+isro
 istana
 istighfar
 istilah
@@ -3708,6 +3710,7 @@ mili
 milih
 milu
 mimi
+mimis
 min
 minat
 mingat
@@ -6684,6 +6687,7 @@ wot
 wowo
 woyo
 wuh
+wuku
 wulan
 wur
 wuta
