@@ -944,6 +944,7 @@ dika
 dikon
 dila
 dilan
+dilit
 diluk
 dima
 dimah
@@ -4212,6 +4213,7 @@ pasu
 pati
 patil
 patung
+payah
 payu
 payung
 pea
