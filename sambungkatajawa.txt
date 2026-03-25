@@ -3632,6 +3632,7 @@ kuio
 kuk
 kuka
 kuki
+kuko
 kuku
 kukuli
 kukur
@@ -4919,6 +4920,7 @@ ngeri
 ngerok
 ngeroso
 ngerti
+ngertos
 nges
 ngesa
 ngesak
@@ -6372,6 +6374,7 @@ ruta
 rutan
 rute
 ruwah
+ruwahan
 ruwat
 ruwatan
 ruwet
