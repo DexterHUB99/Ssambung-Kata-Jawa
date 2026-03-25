@@ -1629,6 +1629,7 @@ gembok
 gembrot
 gemes
 gemi
+gempa
 gempil
 gempol
 gemuk
@@ -4492,6 +4493,7 @@ pante
 pantes
 panti
 pantik
+pantura
 papa
 papah
 papat
@@ -5504,6 +5506,7 @@ taruk
 tas
 tat
 tata
+tatas
 tati
 tato
 tatu
@@ -6045,6 +6048,7 @@ uye
 uyuh
 uz
 wa
+waa
 waca
 wacana
 wadah
