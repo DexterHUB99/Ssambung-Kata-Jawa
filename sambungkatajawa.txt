@@ -578,6 +578,7 @@ asia
 asih
 asii
 asik
+asil
 asin
 asing
 asir
@@ -591,6 +592,7 @@ asor
 asoy
 aspal
 asra
+asrama
 asrep
 asri
 asta
@@ -4762,6 +4764,7 @@ pula
 pulan
 pulau
 pule
+puli
 pulo
 pulpen
 pun
