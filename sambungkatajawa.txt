@@ -1747,7 +1747,6 @@ epil
 epin
 epis
 epo
-epoh
 epok
 epon
 epos
@@ -3360,6 +3359,7 @@ kediri
 kedondong
 kedurung
 kedut
+kejan
 kejar
 kejut
 kek
@@ -4927,7 +4927,6 @@ ngelap
 ngelawak
 ngeleh
 ngelem
-ngeleng
 ngeles
 ngelih
 ngeling
