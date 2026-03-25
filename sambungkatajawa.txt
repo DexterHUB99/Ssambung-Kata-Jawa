@@ -3660,6 +3660,7 @@ lega
 legi
 leh
 lek
+lekoh
 lelah
 lele
 lelet
@@ -6772,6 +6773,7 @@ tolak
 tole
 tolol
 tolong
+toma
 tomat
 tombak
 tomo
