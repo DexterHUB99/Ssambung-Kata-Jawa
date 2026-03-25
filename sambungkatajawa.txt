@@ -328,6 +328,7 @@ ampal
 ampar
 ampas
 ampek
+ampel
 ampela
 amplas
 ampok
