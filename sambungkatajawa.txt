@@ -439,6 +439,7 @@ anat
 anay
 ancam
 ancaman
+ancase
 ancen
 ancene
 ancer
@@ -629,6 +630,7 @@ arahan
 arahane
 arai
 arak
+aram
 aran
 arane
 arang
@@ -4910,6 +4912,7 @@ ngempit
 ngemuk
 ngemut
 ngen
+ngencuk
 ngendang
 ngendeng
 ngendep
@@ -6565,6 +6568,7 @@ sedang
 sedar
 sedaya
 sedeng
+sedha
 see
 segawon
 seger
