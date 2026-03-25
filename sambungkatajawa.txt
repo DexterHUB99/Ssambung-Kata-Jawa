@@ -266,6 +266,7 @@ ambulan
 ambune
 ambung
 ambyar
+ame
 ameh
 amek
 amel
@@ -608,6 +609,7 @@ aya
 ayah
 ayam
 ayame
+ayan
 ayang
 ayat
 aye
@@ -2839,6 +2841,7 @@ linggis
 lingkaran
 linglung
 lingsir
+lini
 linta
 lintah
 lintang
