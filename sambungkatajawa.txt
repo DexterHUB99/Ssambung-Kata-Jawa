@@ -1301,6 +1301,7 @@ empet
 emping
 emplok
 empol
+empos
 empot
 empun
 emu
@@ -3664,6 +3665,7 @@ nanduk
 nandur
 nanem
 nang
+nanga
 nangdi
 nanggung
 nanging
@@ -4510,6 +4512,7 @@ os
 osah
 osak
 osaka
+osar
 osek
 osen
 oseng
@@ -4643,6 +4646,7 @@ pele
 pelem
 peler
 peli
+peling
 pelit
 pelo
 peluk
@@ -4886,6 +4890,7 @@ rak
 raka
 rakha
 raki
+rakit
 rakus
 ram
 rama
@@ -5784,6 +5789,7 @@ tuh
 tuhan
 tuk
 tukang
+tuki
 tuku
 tukul
 tul
@@ -6322,6 +6328,7 @@ yama
 yamaha
 yaman
 yan
+yana
 yang
 yano
 yas
