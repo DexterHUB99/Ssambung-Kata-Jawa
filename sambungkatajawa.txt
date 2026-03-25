@@ -403,6 +403,7 @@ ana
 anaa
 anae
 anah
+anaj
 anak
 anake
 anakku
@@ -764,7 +765,6 @@ atut
 auh
 aul
 aulah
-auma
 aumi
 aun
 aup
@@ -1250,6 +1250,7 @@ dilan
 dilit
 diluk
 dilut
+dim
 dima
 dimah
 diman
@@ -1298,7 +1299,6 @@ dona
 dong
 dongo
 doni
-dono
 donyo
 dopo
 dor
@@ -1677,6 +1677,7 @@ es
 esa
 esaa
 esae
+esah
 esai
 esak
 esam
@@ -2242,6 +2243,7 @@ haram
 harang
 harap
 harapan
+harep
 harga
 hari
 harian
@@ -2582,6 +2584,7 @@ inaya
 inda
 indah
 indang
+indek
 indik
 indomie
 indra
@@ -2774,6 +2777,7 @@ jahat
 jahe
 jaja
 jajajan
+jajan
 jakaa
 jaket
 jaku
@@ -3360,6 +3364,7 @@ kondi
 kondisi
 kondur
 konek
+koni
 kono
 kontal
 kontol
@@ -3418,7 +3423,6 @@ kudus
 kue
 kui
 kuii
-kuio
 kuk
 kuka
 kuki
@@ -4070,7 +4074,6 @@ mitoni
 mlaku
 mlebu
 mmbuh
-mmelu
 mo
 mobil
 moci
@@ -4135,7 +4138,6 @@ mulung
 mulus
 muluse
 mulya
-mumbul
 mumet
 mumi
 mumpung
@@ -4209,6 +4211,7 @@ naka
 nakai
 nakal
 nakon
+naksir
 nakula
 nala
 nalan
@@ -4305,7 +4308,6 @@ ndang
 ndas
 ndasmu
 ndelok
-nderek
 ndeso
 ndlogok
 ndugal
@@ -4356,7 +4358,6 @@ neni
 nep
 nepa
 nepak
-nepi
 nepis
 neptu
 ner
@@ -4441,6 +4442,7 @@ ngamok
 ngampak
 ngamuk
 ngan
+ngana
 nganah
 ngancani
 ngancing
@@ -4599,6 +4601,7 @@ ngendi
 ngendii
 ngendika
 ngendikan
+ngendo
 ngene
 ngenes
 ngeng
@@ -4896,6 +4899,7 @@ nining
 ninja
 nino
 nio
+nip
 nipa
 nipan
 nipis
@@ -5261,6 +5265,7 @@ otoman
 otot
 ow
 owah
+owak
 owon
 ox
 oy
@@ -5343,6 +5348,7 @@ pante
 pantes
 panti
 pantik
+pantun
 pantura
 papa
 papah
@@ -5377,6 +5383,7 @@ pasing
 pasir
 pasti
 pasu
+pat
 pati
 patih
 patil
@@ -5830,6 +5837,7 @@ resi
 resik
 resiko
 restu
+ret
 reti
 rewang
 rezeki
@@ -6168,6 +6176,7 @@ sendal
 seneng
 seng
 senok
+sepanci
 sepele
 sepi
 sepiro
@@ -6315,6 +6324,7 @@ som
 soma
 somat
 sombong
+son
 songo
 songong
 sonten
@@ -6443,7 +6453,6 @@ susul
 susumu
 susune
 sut
-sutan
 sutil
 suwe
 suwek
@@ -6546,6 +6555,7 @@ tas
 tasi
 tat
 tata
+tatah
 tatanan
 tatas
 tati
@@ -6555,7 +6565,6 @@ taun
 tawa
 tawang
 tawar
-tawe
 tawon
 tayo
 te
@@ -6653,6 +6662,7 @@ timi
 timpuh
 timun
 timur
+tin
 tina
 tindak
 tinggal
