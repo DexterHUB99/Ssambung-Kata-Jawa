@@ -2896,6 +2896,7 @@ kukus
 kul
 kula
 kulak
+kulan
 kule
 kulem
 kuli
@@ -4451,6 +4452,7 @@ otom
 otot
 ow
 owah
+owon
 ox
 oy
 oyak
@@ -5854,6 +5856,7 @@ ulat
 uleg
 ulek
 ulekan
+ulem
 ulen
 uler
 ulet
