@@ -978,6 +978,7 @@ capung
 cara
 cari
 carik
+catur
 cawet
 ce
 cebok
@@ -6823,6 +6824,7 @@ yung
 yuni
 yura
 yuri
+yusa
 yusan
 yusi
 yuswa
