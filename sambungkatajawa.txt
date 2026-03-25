@@ -5279,6 +5279,7 @@ roi
 rok
 roka
 roket
+roko
 rokok
 rola
 rolas
@@ -6211,6 +6212,7 @@ umi
 umo
 ump
 umpama
+umpami
 umpan
 umra
 umu
