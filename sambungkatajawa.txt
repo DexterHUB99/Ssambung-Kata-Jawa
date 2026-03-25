@@ -592,6 +592,7 @@ apae
 apak
 apal
 apan
+apane
 apar
 apas
 ape
@@ -712,6 +713,7 @@ asmanipun
 asmara
 asna
 aso
+asoi
 asor
 asoy
 aspal
@@ -7298,6 +7300,7 @@ ump
 umpama
 umpami
 umpan
+umpo
 umra
 umu
 umum
