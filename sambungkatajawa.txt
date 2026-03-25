@@ -931,6 +931,7 @@ cerita
 ces
 cicak
 cici
+cicis
 cide
 cilok
 cimu
@@ -5839,6 +5840,7 @@ ujan
 ujar
 uji
 ujian
+ujug
 ujung
 uk
 uka
