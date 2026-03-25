@@ -819,6 +819,7 @@ bulik
 bulu
 bumbu
 bumi
+bunder
 bunga
 bungkus
 buntel
@@ -3098,6 +3099,7 @@ lombo
 lombok
 lomo
 lompat
+loncang
 longgar
 longor
 longsor
