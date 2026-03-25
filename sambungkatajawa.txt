@@ -2188,6 +2188,7 @@ gugur
 gul
 gula
 gulai
+gulane
 gule
 guleng
 guli
@@ -7544,6 +7545,7 @@ woko
 wola
 wolo
 wolu
+wolulas
 won
 wong
 wonge
