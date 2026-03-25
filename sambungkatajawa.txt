@@ -4947,6 +4947,7 @@ nulo
 nulung
 nulungi
 num
+numan
 numbas
 numis
 numpak
