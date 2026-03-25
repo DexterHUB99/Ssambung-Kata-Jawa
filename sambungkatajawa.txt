@@ -841,6 +841,7 @@ cebok
 cecak
 cece
 cecek
+cecep
 cedak
 ceki
 cela
@@ -1259,6 +1260,7 @@ epang
 epas
 epat
 epe
+epek
 epen
 epep
 eper
@@ -1454,6 +1456,7 @@ gangsal
 gangsar
 gangsing
 gani
+ganja
 ganjar
 ganjil
 ganta
@@ -4952,6 +4955,7 @@ semi
 semok
 sempak
 sempake
+sen
 sendal
 seneng
 seng
@@ -5266,6 +5270,7 @@ tawang
 tawar
 tawon
 tayo
+te
 tebu
 tegak
 tegal
