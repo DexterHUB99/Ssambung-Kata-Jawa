@@ -420,6 +420,7 @@ andong
 andu
 anduk
 andul
+andung
 ane
 aneh
 anek
@@ -2052,6 +2053,7 @@ hansip
 hantam
 hantu
 hanung
+hanya
 hao
 hap
 hapa
@@ -2483,6 +2485,7 @@ isake
 isam
 isan
 isap
+isapi
 isek
 isen
 iseng
