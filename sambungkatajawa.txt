@@ -2831,6 +2831,7 @@ katak
 kate
 kates
 kathok
+katil
 katok
 katon
 katrok
@@ -6667,6 +6668,7 @@ waki
 waktu
 waku
 wala
+walang
 wali
 walik
 wanci
