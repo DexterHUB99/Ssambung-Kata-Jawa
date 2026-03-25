@@ -149,6 +149,7 @@ aio
 air
 aira
 aite
+aiwak
 aiwe
 aiya
 aiyi
@@ -3137,6 +3138,7 @@ lah
 lahi
 lahir
 lair
+lajeng
 lak
 laki
 lakon
@@ -4468,6 +4470,7 @@ nyangu
 nyani
 nyanyi
 nyapu
+nyatru
 nyawa
 nyawang
 nyawiji
