@@ -625,7 +625,6 @@ areng
 arep
 arepan
 arepe
-aret
 arga
 ari
 aria
@@ -803,7 +802,6 @@ awe
 awek
 awet
 awi
-awis
 awit
 awor
 awu
@@ -879,7 +877,6 @@ bangkekan
 banjir
 banteng
 bantu
-banu
 banya
 banyu
 bapak
@@ -947,7 +944,6 @@ biak
 biang
 biasa
 biawak
-biaya
 biba
 bibar
 bibi
@@ -1004,6 +1000,7 @@ bolo
 bolong
 bom
 bongko
+bono
 boring
 bos
 bosen
@@ -1054,6 +1051,7 @@ buntung
 bur
 buri
 burik
+buruh
 bus
 busa
 busana
@@ -2044,7 +2042,6 @@ gerang
 gerbang
 gerem
 gergaji
-geri
 gerih
 gering
 germo
@@ -2148,7 +2145,6 @@ gotong
 gotongroyong
 gowo
 goyang
-graji
 grobak
 grogi
 gu
@@ -2449,7 +2445,6 @@ hur
 hura
 huri
 hurip
-huripan
 huru
 huruf
 hurung
@@ -2502,7 +2497,6 @@ ihe
 ihha
 ihhi
 ihi
-ihing
 ihki
 ihko
 ihku
@@ -2668,7 +2662,6 @@ inie
 inii
 injak
 injek
-inji
 injih
 injing
 injuk
@@ -3309,7 +3302,6 @@ kesandung
 kesasar
 kesat
 kese
-keselek
 kesem
 keset
 kesleo
@@ -4038,6 +4030,7 @@ mantul
 mantun
 manuk
 manungsa
+manungso
 manusi
 manut
 maos
@@ -4107,7 +4100,6 @@ mentah
 mentas
 mepet
 mer
-merah
 merahe
 merak
 mercon
@@ -4403,6 +4395,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndoro
 ndugal
 nduk
 ne
@@ -4490,6 +4483,7 @@ ngadai
 ngadeg
 ngadepi
 ngadi
+ngadii
 ngadon
 ngadu
 ngaduh
@@ -4502,7 +4496,6 @@ ngajak
 ngajar
 ngajen
 ngajeng
-ngajeni
 ngaji
 ngajie
 ngajok
@@ -4650,7 +4643,6 @@ ngawor
 ngawun
 ngawur
 ngaya
-ngayogyakarta
 ngayomi
 ngayuh
 ngayun
@@ -4742,7 +4734,6 @@ ngeseng
 ngesi
 ngesor
 ngesot
-ngestu
 ngesu
 ngesuk
 nget
@@ -4810,7 +4801,6 @@ ngiras
 ngiri
 ngiris
 ngirit
-ngirup
 ngis
 ngisak
 ngisen
@@ -4921,6 +4911,7 @@ ngumpul
 ngun
 ngunani
 ngunci
+ngundah
 ngundang
 ngunduh
 ngunjuk
@@ -5083,7 +5074,6 @@ nose
 nosi
 nota
 nresnani
-nsua
 nu
 nua
 nuana
@@ -6018,7 +6008,6 @@ rip
 ripa
 ripen
 ripi
-ripna
 rira
 riri
 ris
@@ -6164,7 +6153,6 @@ sah
 saha
 sahur
 sai
-saia
 saii
 saiki
 saing
@@ -6284,7 +6272,6 @@ segok
 segoro
 seh
 sehat
-sejuk
 sejum
 sek
 sekar
@@ -6331,7 +6318,6 @@ seragam
 seran
 serang
 serasa
-serat
 serem
 seri
 serit
@@ -6487,7 +6473,6 @@ sotel
 soto
 sowan
 soyo
-sregep
 srengenge
 sri
 su
@@ -6855,7 +6840,6 @@ tolong
 toma
 tomat
 tombak
-tomi
 tomo
 tompel
 ton
@@ -7212,7 +7196,6 @@ uras
 urat
 ure
 urek
-uren
 ures
 uri
 urii
