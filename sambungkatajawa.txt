@@ -291,6 +291,7 @@ ampar
 ampas
 ampek
 ampela
+ampes
 amplas
 ampok
 ampuh
