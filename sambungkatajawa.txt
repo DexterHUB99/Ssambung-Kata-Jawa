@@ -883,6 +883,7 @@ dalam
 dalan
 dale
 dalem
+daleman
 dali
 dalu
 damai
@@ -1747,6 +1748,7 @@ hasem
 hasi
 hasil
 hasile
+hasmi
 hasna
 hasrat
 hasta
@@ -1976,6 +1978,7 @@ ilo
 ilok
 iloo
 ilu
+ilue
 iluk
 ilyas
 im
