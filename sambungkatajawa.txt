@@ -1740,6 +1740,7 @@ gasi
 gasik
 gasing
 gass
+gatar
 gatau
 gatel
 gateli
@@ -1855,6 +1856,7 @@ gigi
 gigih
 gigir
 gigit
+gigu
 gih
 gila
 gilaa
@@ -3992,6 +3994,7 @@ nebang
 nedah
 nedha
 nedho
+nedi
 neduh
 neg
 negara
