@@ -809,6 +809,7 @@ budal
 bude
 budi
 bujak
+buji
 buk
 buka
 bukan
@@ -1397,6 +1398,7 @@ ewangi
 ewe
 ewee
 ewek
+ewo
 ewoh
 ewon
 ewong
@@ -3439,6 +3441,7 @@ nabok
 nabrak
 nabu
 nabung
+nabur
 nada
 nadah
 nadi
@@ -5977,6 +5980,7 @@ wirasa
 wiri
 wis
 wisuh
+wit
 wita
 witan
 wito
