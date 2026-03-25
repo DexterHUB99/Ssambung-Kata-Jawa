@@ -2307,6 +2307,7 @@ gung
 gunting
 guntur
 gunung
+gununga
 gupak
 gupuh
 gur
@@ -4769,6 +4770,7 @@ ngamal
 ngamar
 ngambang
 ngambar
+ngambi
 ngambil
 ngambu
 ngambul
