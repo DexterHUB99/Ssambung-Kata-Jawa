@@ -5512,6 +5512,7 @@ turuo
 tusuk
 tuti
 tutup
+tutur
 tuwo
 tuyul
 ua
@@ -5907,6 +5908,7 @@ weteng
 wetu
 wewe
 widok
+wie
 wih
 wii
 wiji
