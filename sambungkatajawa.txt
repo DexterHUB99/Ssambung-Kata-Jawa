@@ -1555,6 +1555,7 @@ fo
 ga
 gabah
 gabung
+gabus
 gabut
 gada
 gadah
@@ -2898,6 +2899,7 @@ kewek
 kewet
 ki
 kiai
+kicak
 kidal
 kidang
 kidul
