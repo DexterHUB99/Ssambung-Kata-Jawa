@@ -2441,6 +2441,7 @@ jembut
 jembutmu
 jenang
 jeneng
+jengkel
 jerami
 jeruk
 jet
@@ -4882,6 +4883,7 @@ rahayu
 rahma
 rahmat
 rai
+raie
 raii
 raiku
 raimu
