@@ -4805,6 +4805,7 @@ nging
 nginggil
 nginjak
 nginjeng
+ngintal
 ngintip
 ngipas
 ngipasi
@@ -7383,6 +7384,7 @@ waruh
 warung
 warya
 was
+wasis
 watak
 wates
 wati
