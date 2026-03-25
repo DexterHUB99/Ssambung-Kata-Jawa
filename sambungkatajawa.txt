@@ -1228,6 +1228,7 @@ ening
 enjing
 eno
 enok
+enri
 entar
 entas
 ente
@@ -2426,6 +2427,7 @@ kasara
 kase
 kasep
 kaset
+kasi
 kasih
 kasii
 kasir
@@ -3275,6 +3277,7 @@ moleh
 molen
 moli
 molok
+momori
 mondok
 monggo
 moni
@@ -4357,6 +4360,7 @@ pinang
 pinarak
 pincang
 pindah
+pindang
 pindo
 ping
 pingsan
