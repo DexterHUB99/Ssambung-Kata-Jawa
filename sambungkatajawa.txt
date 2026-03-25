@@ -4779,6 +4779,7 @@ ngiras
 ngiri
 ngiris
 ngirit
+ngirup
 ngis
 ngisak
 ngisen
