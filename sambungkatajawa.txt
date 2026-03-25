@@ -140,6 +140,7 @@ ahu
 ahud
 ahuh
 ahuk
+ahul
 ahum
 ahun
 ahup
@@ -2195,6 +2196,7 @@ gotongroyong
 gowo
 goyang
 graji
+grapyak
 grobak
 grogi
 gu
@@ -3749,6 +3751,7 @@ lapis
 lapo
 lar
 lara
+larah
 larang
 laras
 lare
