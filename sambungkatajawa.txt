@@ -1368,6 +1368,7 @@ epang
 epas
 epat
 epe
+epeh
 epek
 epen
 epep
@@ -1463,6 +1464,7 @@ eti
 etik
 etika
 etil
+etis
 eto
 etok
 etos
