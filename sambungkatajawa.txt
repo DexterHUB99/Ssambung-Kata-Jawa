@@ -915,6 +915,7 @@ bando
 bang
 bangkekan
 banjir
+banjur
 banteng
 bantu
 banu
@@ -4147,6 +4148,7 @@ madrasah
 madu
 madue
 maduni
+madura
 madya
 mae
 maei
