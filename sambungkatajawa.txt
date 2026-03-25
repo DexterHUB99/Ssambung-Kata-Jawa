@@ -1005,6 +1005,7 @@ cucu
 cucur
 cuk
 cukup
+cuma
 cumi
 cunduk
 cupu
@@ -1619,6 +1620,7 @@ gandeng
 gandos
 gandrung
 gandul
+ganep
 gang
 ganggu
 gangsal
@@ -4043,6 +4045,7 @@ ngejak
 ngejek
 ngek
 ngeki
+ngeko
 ngel
 ngelag
 ngelak
