@@ -930,6 +930,7 @@ cobak
 cocot
 cocote
 cok
+cokan
 coklat
 col
 colak
@@ -3639,6 +3640,7 @@ nedah
 nedha
 nedho
 neduh
+neg
 negara
 negeri
 neges
@@ -3872,6 +3874,7 @@ ngepang
 ngepel
 ngeper
 ngepet
+ngeplak
 ngepot
 ngeri
 ngerok
@@ -4447,6 +4450,7 @@ pacul
 pada
 padae
 padang
+padha
 padhang
 padu
 pagar
