@@ -3416,6 +3416,7 @@ kudus
 kue
 kui
 kuii
+kuio
 kuk
 kuka
 kuki
@@ -4300,6 +4301,7 @@ ndang
 ndas
 ndasmu
 ndelok
+nderek
 ndeso
 ndlogok
 ndugal
@@ -6547,6 +6549,7 @@ taun
 tawa
 tawang
 tawar
+tawe
 tawon
 tayo
 te
