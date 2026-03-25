@@ -1498,6 +1498,7 @@ ekon
 ekor
 ekot
 eku
+ekul
 el
 ela
 elae
@@ -2224,6 +2225,7 @@ gusar
 gusi
 gusti
 gusur
+gut
 guwa
 guyon
 guyonan
@@ -7243,6 +7245,7 @@ upama
 upan
 upas
 upaya
+upek
 upel
 upi
 upik
