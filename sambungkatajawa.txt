@@ -2919,6 +2919,7 @@ it
 ita
 itaa
 itai
+itali
 ite
 item
 itemi
@@ -5012,6 +5013,7 @@ ngih
 ngijing
 ngijo
 ngik
+ngiki
 ngikut
 ngila
 ngilang
@@ -5119,6 +5121,7 @@ ngowoh
 ngoyak
 ngoyo
 ngragal
+ngrayu
 ngrep
 ngrit
 ngsu
