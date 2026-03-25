@@ -53,6 +53,7 @@ ae
 aeng
 aengi
 af
+afan
 afi
 afif
 afik
@@ -518,6 +519,7 @@ arang
 arap
 aras
 ardi
+are
 arek
 arem
 aren
@@ -804,6 +806,7 @@ bima
 bin
 bina
 bingung
+bini
 bintang
 bio
 bir
@@ -3284,6 +3287,7 @@ luweh
 luwes
 luwih
 ma
+maaf
 mabu
 mabuk
 mabur
