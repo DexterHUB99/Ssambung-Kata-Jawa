@@ -708,6 +708,7 @@ at
 ata
 atah
 atak
+atal
 atam
 atap
 atar
@@ -1046,6 +1047,7 @@ cangkem
 cangkir
 cangkul
 cantik
+canting
 cantolan
 caper
 capung
@@ -1975,6 +1977,7 @@ ger
 gerah
 gerak
 geram
+gerang
 gerbang
 gerem
 gergaji
@@ -4392,6 +4395,7 @@ ngamuk
 ngan
 nganah
 ngancani
+ngancing
 ngandang
 ngandani
 ngandel
