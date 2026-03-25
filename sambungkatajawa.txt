@@ -6337,6 +6337,7 @@ tare
 tarek
 tari
 tarik
+taruh
 taruk
 tarung
 tas
@@ -6882,6 +6883,7 @@ usir
 usma
 uso
 usrek
+ustadz
 usu
 usua
 usui
