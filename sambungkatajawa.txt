@@ -819,6 +819,7 @@ ban
 banci
 bandel
 bando
+bangkekan
 banjir
 banteng
 bantu
@@ -3113,6 +3114,7 @@ kipas
 kir
 kira
 kirab
+kirang
 kirek
 kiri
 kirik
