@@ -1959,6 +1959,7 @@ gerem
 gergaji
 gerih
 gering
+germo
 gerobak
 gertak
 ges
@@ -2626,6 +2627,7 @@ isak
 isake
 isam
 isan
+isao
 isap
 isapi
 ise
