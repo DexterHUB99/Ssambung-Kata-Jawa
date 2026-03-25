@@ -2050,7 +2050,6 @@ hantu
 hanung
 hao
 hap
-hapa
 hape
 hapi
 hapunten
@@ -3240,6 +3239,7 @@ lagii
 lagu
 lague
 lah
+lahan
 lahi
 lahir
 lair
