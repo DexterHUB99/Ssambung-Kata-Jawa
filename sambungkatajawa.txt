@@ -695,6 +695,7 @@ atus
 atut
 auh
 aul
+aulah
 aun
 aup
 aura
@@ -2215,6 +2216,7 @@ ider
 idi
 idih
 idii
+ido
 idu
 iduni
 ieu
@@ -2763,6 +2765,7 @@ karem
 karep
 karepmu
 kari
+karim
 karima
 karina
 karma
