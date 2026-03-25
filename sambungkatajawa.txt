@@ -2635,6 +2635,7 @@ kaba
 kabar
 kabeh
 kabun
+kabur
 kaca
 kacamata
 kacang
@@ -4143,6 +4144,7 @@ ngebas
 ngebet
 ngecat
 ngece
+ngecek
 ngeces
 ngedar
 ngeden
