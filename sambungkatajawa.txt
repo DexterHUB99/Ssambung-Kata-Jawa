@@ -924,6 +924,7 @@ beca
 becak
 bedane
 bedo
+bedok
 bego
 bekal
 beko
@@ -3153,6 +3154,7 @@ kasii
 kasim
 kasir
 kasor
+kasot
 kasu
 kasur
 kasure
