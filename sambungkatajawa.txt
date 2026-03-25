@@ -12,7 +12,6 @@ abang
 abe
 abi
 abia
-abik
 abimanyu
 abis
 abo
@@ -783,7 +782,6 @@ beling
 belo
 ben
 benang
-bener
 bengek
 bengong
 beni
@@ -959,6 +957,7 @@ cinta
 cintai
 cipluk
 ciu
+ciut
 coba
 cobak
 cocot
@@ -2083,6 +2082,7 @@ hurung
 hurup
 hus
 husi
+husna
 hutan
 hutang
 huti
@@ -2253,6 +2253,7 @@ inem
 inep
 ing
 ingas
+ingat
 inget
 inggal
 inggih
@@ -2734,6 +2735,7 @@ kemul
 ken
 kena
 kenak
+kenangan
 kenapa
 kencing
 kencot
@@ -3091,7 +3093,6 @@ landep
 landhep
 landung
 langgar
-langgeng
 langit
 langka
 langsing
@@ -3676,6 +3677,7 @@ namar
 nambah
 nambahi
 nambal
+nambang
 nami
 nampak
 nampan
@@ -4367,6 +4369,7 @@ nyawit
 nyi
 nyiku
 nyim
+nyok
 nyoli
 nyungsep
 nyuri
@@ -5077,7 +5080,6 @@ riko
 riku
 ril
 rila
-rilo
 rim
 rima
 rimi
@@ -6262,6 +6264,7 @@ wareg
 warga
 waria
 waris
+warisan
 warna
 warnae
 waro
