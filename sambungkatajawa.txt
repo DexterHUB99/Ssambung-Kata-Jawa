@@ -670,6 +670,7 @@ bagus
 bah
 bahan
 baii
+bajigur
 bajing
 baju
 bakso
@@ -1734,6 +1735,7 @@ hahaha
 hahi
 hai
 haii
+hajar
 hajat
 haji
 hajian
@@ -1911,6 +1913,7 @@ hp
 hu
 hubung
 hubungan
+huda
 hujan
 huk
 hukum
