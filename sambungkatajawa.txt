@@ -159,6 +159,7 @@ aimu
 aina
 aing
 aini
+aino
 aio
 air
 aira
@@ -5927,6 +5928,7 @@ siyam
 siyang
 slamet
 so
+soale
 soasu
 soba
 sobat
@@ -6807,6 +6809,7 @@ wawi
 way
 wayah
 wayang
+wayo
 wc
 we
 wea
