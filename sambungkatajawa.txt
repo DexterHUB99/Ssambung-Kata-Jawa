@@ -2710,6 +2710,7 @@ kadak
 kadal
 kadang
 kades
+kadi
 kados
 kadung
 kadus
