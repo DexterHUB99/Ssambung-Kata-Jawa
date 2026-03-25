@@ -3820,6 +3820,7 @@ matane
 matek
 maten
 mati
+matii
 matur
 maturnuwun
 matursuwun
@@ -4864,6 +4865,7 @@ ohya
 oj
 ojek
 ojo
+ojog
 ojok
 ojol
 ok
@@ -5642,6 +5644,7 @@ ritae
 riti
 riwa
 riwayat
+riwe
 riya
 riyaya
 ro
