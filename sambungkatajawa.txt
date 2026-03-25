@@ -250,6 +250,7 @@ alur
 alus
 am
 ama
+amaa
 amah
 amak
 amal
@@ -2458,6 +2459,7 @@ kasuri
 kat
 kata
 katae
+katah
 katak
 kate
 kates
@@ -3585,6 +3587,7 @@ nganduk
 ngandung
 ngang
 nganga
+nganggep
 nganggo
 nganggur
 ngangi
