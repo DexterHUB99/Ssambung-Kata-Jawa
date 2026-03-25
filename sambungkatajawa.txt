@@ -753,6 +753,7 @@ bina
 bingung
 bintang
 bio
+bir
 biru
 bis
 bisa
@@ -4949,6 +4950,7 @@ sedang
 sedar
 sedaya
 segawon
+seger
 segera
 sego
 segok
@@ -5359,6 +5361,7 @@ tikus
 til
 tila
 tilam
+tilar
 tilem
 tilep
 tima
