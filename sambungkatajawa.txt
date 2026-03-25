@@ -2528,6 +2528,7 @@ jembut
 jembutmu
 jenang
 jeneng
+jenengan
 jengkel
 jera
 jerami
@@ -3636,6 +3637,7 @@ mik
 mikir
 mila
 mili
+milih
 milu
 mimi
 min
