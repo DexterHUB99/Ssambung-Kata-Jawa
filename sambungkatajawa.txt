@@ -847,6 +847,7 @@ baca
 bacin
 baco
 bacot
+badak
 bade
 badhe
 badog
@@ -879,6 +880,7 @@ ban
 banci
 bandel
 bando
+bang
 bangkekan
 banjir
 banteng
@@ -2923,6 +2925,7 @@ jilid
 jim
 jima
 jimat
+jimate
 jin
 jina
 jinak
@@ -3182,6 +3185,7 @@ kawani
 kawasan
 kawat
 kawe
+kawen
 kawi
 kawin
 kawit
@@ -3547,6 +3551,7 @@ kulina
 kulit
 kulo
 kulon
+kulone
 kuloo
 kum
 kuma
@@ -5581,6 +5586,7 @@ pecel
 peci
 pedang
 pede
+pedot
 pegawai
 pei
 pejah
@@ -6239,6 +6245,7 @@ salah
 salahku
 salak
 salam
+sale
 saleh
 sali
 salim
