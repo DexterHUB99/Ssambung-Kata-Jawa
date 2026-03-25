@@ -2502,6 +2502,7 @@ kanti
 kantil
 kantor
 kaos
+kapak
 kapal
 kapan
 kapi
@@ -4973,6 +4974,7 @@ runtuh
 runyam
 rup
 rupa
+rupak
 rupamu
 rupane
 rupo
