@@ -874,6 +874,7 @@ bagus
 bah
 bahan
 bahasa
+bahi
 bai
 baii
 bajigur
@@ -1636,7 +1637,6 @@ endang
 endange
 endap
 endas
-endase
 endel
 endi
 endog
@@ -1662,7 +1662,6 @@ enik
 ening
 enjang
 enjing
-enko
 eno
 enok
 enong
@@ -1731,7 +1730,6 @@ erem
 eren
 ereng
 erer
-eres
 eret
 eri
 eria
@@ -2065,7 +2063,6 @@ geme
 gemes
 gemi
 gempa
-gempal
 gempar
 gempil
 gempol
@@ -2180,7 +2177,6 @@ gol
 gola
 gole
 golek
-goleki
 golet
 goleti
 goli
@@ -2348,7 +2344,6 @@ hanja
 hansip
 hanta
 hantam
-hante
 hantu
 hanung
 hanya
@@ -2741,7 +2736,6 @@ inggih
 inggil
 ingin
 ingkang
-ingku
 ingkung
 ingsun
 ingu
@@ -2964,7 +2958,6 @@ jela
 jele
 jelek
 jem
-jembatan
 jembut
 jembutmu
 jemput
@@ -3004,6 +2997,7 @@ jipuk
 jir
 jira
 jiran
+jita
 jitak
 jiwa
 jiwae
@@ -3661,7 +3655,6 @@ kuping
 kupu
 kur
 kura
-kuran
 kurang
 kurawa
 kurban
@@ -3925,6 +3918,7 @@ lisa
 lisan
 lisi
 lit
+lita
 liwa
 liwat
 liwet
@@ -4081,7 +4075,6 @@ mah
 maha
 mahal
 mahar
-mahir
 mai
 maido
 maii
@@ -4263,7 +4256,6 @@ miki
 mikir
 mikul
 mila
-milah
 milen
 mili
 milih
@@ -4311,7 +4303,6 @@ molen
 moli
 molok
 mom
-momong
 momori
 momot
 mona
@@ -4920,7 +4911,6 @@ nggae
 nggah
 nggak
 nggaku
-nggali
 nggateli
 nggawa
 nggawe
@@ -5771,7 +5761,6 @@ piano
 piatu
 picek
 pidak
-pidana
 pie
 pii
 pijak
@@ -5979,7 +5968,6 @@ rabu
 rabun
 racik
 racun
-radar
 raden
 radi
 radika
@@ -6048,7 +6036,6 @@ ramuan
 ramutu
 ran
 rana
-ranah
 randa
 randu
 randue
@@ -6292,7 +6279,6 @@ royo
 rt
 ru
 rua
-ruah
 ruam
 ruang
 rubuh
@@ -6572,7 +6558,6 @@ siao
 siap
 siapa
 siapo
-sida
 sidang
 sidha
 sie
@@ -6729,7 +6714,6 @@ sugeh
 sugeng
 sugi
 sugih
-sugu
 suh
 sui
 suji
@@ -6838,6 +6822,7 @@ tae
 taek
 tah
 tahan
+tahi
 tahta
 tahu
 tahun
@@ -7194,7 +7179,6 @@ ucek
 ucik
 ucul
 uda
-udae
 udah
 udahan
 udal
@@ -7432,7 +7416,6 @@ ur
 ura
 uraa
 urab
-urae
 urah
 uraha
 urai
