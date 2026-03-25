@@ -1297,7 +1297,6 @@ dona
 dong
 dongo
 doni
-dono
 donyo
 dopo
 dor
@@ -2241,6 +2240,7 @@ haram
 harang
 harap
 harapan
+harep
 harga
 hari
 harian
@@ -2773,6 +2773,7 @@ jahat
 jahe
 jaja
 jajajan
+jajan
 jakaa
 jaket
 jaku
@@ -3417,7 +3418,6 @@ kudus
 kue
 kui
 kuii
-kuio
 kuk
 kuka
 kuki
@@ -4302,7 +4302,6 @@ ndang
 ndas
 ndasmu
 ndelok
-nderek
 ndeso
 ndlogok
 ndugal
@@ -4353,7 +4352,6 @@ neni
 nep
 nepa
 nepak
-nepi
 nepis
 neptu
 ner
@@ -5374,6 +5372,7 @@ pasing
 pasir
 pasti
 pasu
+pat
 pati
 patih
 patil
@@ -6312,6 +6311,7 @@ som
 soma
 somat
 sombong
+son
 songo
 songong
 sonten
@@ -6542,6 +6542,7 @@ tas
 tasi
 tat
 tata
+tatah
 tatanan
 tatas
 tati
@@ -6551,7 +6552,6 @@ taun
 tawa
 tawang
 tawar
-tawe
 tawon
 tayo
 te
