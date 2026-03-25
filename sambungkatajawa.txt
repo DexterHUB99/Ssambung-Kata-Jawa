@@ -1012,6 +1012,7 @@ cipluk
 ciu
 coba
 cobak
+cocok
 cocot
 cocote
 cok
@@ -2523,6 +2524,7 @@ ix
 iy
 iya
 iyaa
+iyan
 iyata
 iye
 iyes
@@ -3108,6 +3110,7 @@ koyoe
 koyok
 krama
 kramas
+kresna
 krikil
 krocok
 ku
@@ -4984,6 +4987,7 @@ pijit
 piki
 pikun
 pil
+pila
 pilah
 pilakon
 pilang
@@ -5230,6 +5234,7 @@ randu
 randue
 rani
 ranjang
+ransel
 rantai
 rante
 ranting
