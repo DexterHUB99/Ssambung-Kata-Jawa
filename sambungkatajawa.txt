@@ -80,6 +80,7 @@ ahes
 ahh
 ahhh
 ahi
+ahid
 ahig
 ahih
 ahik
@@ -1754,6 +1755,7 @@ hampir
 han
 hana
 hanacaraka
+hanan
 hancur
 handarbeni
 hang
