@@ -2871,6 +2871,7 @@ lipan
 lipas
 lipat
 lipet
+lir
 liren
 lirih
 lirik
@@ -3044,6 +3045,7 @@ manggae
 manggah
 manggis
 mangkat
+mangku
 mangkuk
 mangsa
 mani
@@ -4646,6 +4648,7 @@ salira
 salut
 sam
 sama
+sambal
 sambel
 sambut
 sami
