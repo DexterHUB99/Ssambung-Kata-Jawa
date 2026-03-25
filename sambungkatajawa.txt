@@ -567,6 +567,7 @@ arka
 arma
 aro
 arok
+arsa
 arsi
 arta
 arti
@@ -2712,6 +2713,7 @@ kasu
 kasur
 kasure
 kasuri
+kasus
 kat
 kata
 katae
@@ -5394,6 +5396,7 @@ santen
 santri
 santun
 saos
+sap
 sapa
 sapeh
 sapi
@@ -6535,6 +6538,7 @@ yen
 yere
 yes
 yo
+yoan
 yoe
 yoga
 yoh
