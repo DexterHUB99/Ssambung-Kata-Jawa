@@ -1259,6 +1259,7 @@ epang
 epas
 epat
 epe
+epen
 epep
 eper
 epi
@@ -4345,6 +4346,7 @@ peler
 peli
 pelit
 pelo
+pema
 pen
 pena
 penak
