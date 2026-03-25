@@ -1079,6 +1079,7 @@ cicis
 cicit
 cide
 ciduk
+cika
 cikal
 cikur
 cilok
@@ -3136,6 +3137,7 @@ kepiye
 kepleset
 kepo
 kepompong
+kepriben
 ker
 kera
 kerajin
@@ -6152,6 +6154,7 @@ sit
 sitak
 siti
 sitol
+siwa
 siwak
 siwi
 siwo
