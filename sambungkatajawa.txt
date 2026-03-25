@@ -3352,6 +3352,7 @@ kesandung
 kesasar
 kesat
 kese
+kesel
 keselek
 kesem
 keset
@@ -4958,6 +4959,7 @@ ngoyak
 ngoyo
 ngragal
 ngrep
+ngresiki
 ngrit
 ngsu
 nguber
@@ -5671,6 +5673,7 @@ pijer
 pijet
 pijit
 piki
+piku
 pikun
 pil
 pila
@@ -5918,6 +5921,7 @@ rambak
 ramban
 rambu
 rambut
+rambuta
 rambutan
 rame
 ramene
