@@ -6390,6 +6390,7 @@ rum
 ruma
 rumah
 rumangsa
+rumbah
 rumbai
 rumbak
 rumbuk
@@ -6771,6 +6772,7 @@ solar
 solat
 solek
 solid
+solit
 solo
 som
 soma
@@ -7106,6 +7108,7 @@ tigan
 tik
 tika
 tikar
+tiki
 tiktok
 tikung
 tikungan
