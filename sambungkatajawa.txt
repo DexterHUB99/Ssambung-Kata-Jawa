@@ -346,6 +346,7 @@ amben
 ambeng
 amber
 ambi
+ambik
 ambil
 amblas
 ambles
