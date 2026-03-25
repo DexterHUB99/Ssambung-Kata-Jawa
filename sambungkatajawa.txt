@@ -14,6 +14,7 @@ abe
 abi
 abia
 abik
+abil
 abimanyu
 abis
 abo
@@ -314,6 +315,7 @@ amas
 amat
 amba
 ambal
+ambalan
 ambar
 ambek
 amben
@@ -526,6 +528,7 @@ apa
 apaa
 apae
 apal
+apan
 apar
 apas
 ape
@@ -2813,6 +2816,7 @@ kate
 kates
 kathok
 katok
+katon
 katrok
 katuh
 katuk
