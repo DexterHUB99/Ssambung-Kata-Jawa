@@ -3092,6 +3092,7 @@ kotoran
 kowe
 kowen
 koyo
+koyoe
 koyok
 krama
 kramas
@@ -6043,6 +6044,7 @@ tim
 tima
 timah
 timang
+timba
 timbal
 timbang
 timbul
