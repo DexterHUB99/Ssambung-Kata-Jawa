@@ -689,6 +689,7 @@ asep
 asew
 asi
 asia
+asian
 asih
 asii
 asik
@@ -1783,6 +1784,7 @@ eti
 etik
 etika
 etil
+etin
 etis
 eto
 etok
@@ -2197,6 +2199,7 @@ gugug
 guguk
 gugup
 gugur
+gugus
 gul
 gula
 gulai
@@ -3839,6 +3842,7 @@ lincah
 lindhu
 linggih
 linggis
+lingkar
 lingkaran
 linglung
 lingsir
@@ -4319,6 +4323,7 @@ murah
 murid
 murub
 murup
+mus
 musa
 musan
 muse
@@ -4383,6 +4388,7 @@ nalik
 nalika
 naliko
 nalima
+nalung
 naluri
 nam
 nama
@@ -4776,6 +4782,7 @@ ngemong
 ngemot
 ngempet
 ngempit
+ngemuk
 ngemut
 ngen
 ngendang
@@ -4874,6 +4881,7 @@ ngik
 ngikut
 ngila
 ngilang
+ngilange
 ngilat
 ngiler
 ngiling
@@ -5339,6 +5347,7 @@ olar
 ole
 olee
 oleh
+olek
 olen
 oleng
 oler
@@ -5831,6 +5840,7 @@ puh
 puing
 puja
 pujaan
+puk
 puki
 pukimak
 pukul
@@ -5843,6 +5853,7 @@ pulen
 puli
 pulo
 pulpen
+pulsa
 puluh
 pun
 puna
@@ -5957,12 +5968,14 @@ randa
 randu
 randue
 rangda
+rangu
 rani
 ranjang
 ransel
 rantai
 rante
 ranting
+ranung
 raono
 raos
 rapa
@@ -6320,6 +6333,7 @@ samun
 san
 sana
 sandal
+sandang
 sanduk
 sanes
 sang
@@ -6449,6 +6463,7 @@ ses
 sesa
 sesak
 sesama
+sesat
 sesek
 sesok
 sesuk
@@ -6824,6 +6839,7 @@ tawang
 tawar
 tawe
 tawon
+tayi
 tayo
 te
 tebang
