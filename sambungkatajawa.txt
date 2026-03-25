@@ -1641,6 +1641,7 @@ gering
 gerobak
 gertak
 ges
+gesek
 geseng
 geser
 gesit
@@ -3939,6 +3940,7 @@ ngong
 ngoni
 ngono
 ngontal
+ngop
 ngopak
 ngopeni
 ngoper
@@ -4351,6 +4353,7 @@ orek
 oren
 oreng
 oreo
+orep
 ori
 oria
 orii
@@ -4565,6 +4568,7 @@ pit
 pita
 pitak
 pitakon
+pitar
 pitek
 pitik
 pito
