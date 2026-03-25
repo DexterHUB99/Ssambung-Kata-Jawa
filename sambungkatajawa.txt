@@ -1665,6 +1665,7 @@ garue
 garuk
 garut
 garwa
+garwane
 gas
 gasa
 gasak
@@ -2140,6 +2141,7 @@ ic
 ical
 icone
 icu
+id
 ida
 idep
 ider
@@ -2182,6 +2184,7 @@ ijil
 ijin
 ijir
 ijo
+ijok
 ijol
 ijoli
 ijoo
@@ -3291,6 +3294,7 @@ lipat
 lipen
 lipet
 lir
+lira
 liren
 lirih
 lirik
@@ -4709,6 +4713,7 @@ panggang
 panggih
 panggil
 panggo
+panggon
 panguripan
 panjang
 panjenengan
