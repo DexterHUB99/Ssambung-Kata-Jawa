@@ -2682,6 +2682,7 @@ jiga
 jigong
 jijik
 jika
+jikuk
 jila
 jilat
 jilbab
@@ -3984,6 +3985,7 @@ nagih
 nagihe
 nah
 naha
+nai
 naii
 naik
 naira
@@ -4332,6 +4334,7 @@ ngeko
 ngel
 ngelag
 ngelak
+ngeleh
 ngelem
 ngelih
 ngelmu
@@ -4969,6 +4972,7 @@ osen
 oseng
 oser
 oses
+osin
 osing
 osip
 osir
