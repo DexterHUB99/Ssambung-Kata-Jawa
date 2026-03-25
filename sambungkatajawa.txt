@@ -3564,6 +3564,7 @@ ngeden
 ngegunung
 ngeh
 ngejak
+ngejek
 ngeki
 ngel
 ngelag
@@ -4645,6 +4646,7 @@ rowo
 roya
 royo
 rt
+ruam
 ruang
 rubuh
 rugi
