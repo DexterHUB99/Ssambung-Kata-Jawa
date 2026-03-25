@@ -1223,6 +1223,7 @@ eken
 eker
 ekes
 eki
+ekih
 eko
 ekoh
 ekok
@@ -2072,6 +2073,7 @@ humor
 huni
 huri
 hurip
+huru
 huruf
 hurung
 hurup
@@ -2803,6 +2805,7 @@ ketum
 ketut
 kewan
 kewek
+kewet
 ki
 kidal
 kidang
@@ -3321,6 +3324,7 @@ luru
 lurung
 lurus
 lusa
+lusi
 lusuh
 luwe
 luweh
