@@ -1659,6 +1659,7 @@ fix
 fo
 ga
 gabah
+gabar
 gabung
 gabus
 gabut
@@ -2866,6 +2867,7 @@ karang
 kare
 karem
 karep
+karepem
 karepmu
 kari
 karim
