@@ -146,6 +146,7 @@ ahup
 ahur
 ahus
 ahut
+ahuw
 ahuy
 ai
 aia
@@ -2100,6 +2101,7 @@ gethuk
 getih
 getok
 getuk
+getun
 gi
 gidal
 gig
