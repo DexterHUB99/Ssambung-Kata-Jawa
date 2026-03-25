@@ -1359,6 +1359,7 @@ gama
 gaman
 gambang
 gambar
+gambas
 gambir
 gambleh
 gambreng
@@ -4353,6 +4354,7 @@ randu
 rani
 rantai
 rante
+ranting
 raono
 raos
 rapa
