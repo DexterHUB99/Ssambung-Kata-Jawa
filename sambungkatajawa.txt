@@ -856,6 +856,7 @@ batok
 batu
 bau
 bawok
+bayem
 bayi
 bayu
 bayun
@@ -6720,6 +6721,7 @@ une
 unek
 unen
 uner
+unes
 ung
 ungaran
 unggah
