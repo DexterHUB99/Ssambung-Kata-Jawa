@@ -1116,6 +1116,7 @@ colak
 colo
 colong
 congor
+copet
 copo
 cor
 coro
@@ -5173,6 +5174,7 @@ osah
 osak
 osaka
 osal
+osan
 osar
 osek
 osen
