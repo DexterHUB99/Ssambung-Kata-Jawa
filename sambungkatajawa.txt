@@ -4200,6 +4200,7 @@ osek
 osen
 oseng
 oser
+oses
 osing
 osip
 osit
