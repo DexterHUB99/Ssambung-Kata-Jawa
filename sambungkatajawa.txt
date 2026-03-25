@@ -866,6 +866,7 @@ dalam
 dalan
 dale
 dalem
+dali
 dalu
 damai
 damar
@@ -2436,6 +2437,7 @@ kepek
 kepet
 kepiring
 kepiye
+kepleset
 kepo
 ker
 kera
@@ -2474,6 +2476,7 @@ ketek
 ketel
 ketemu
 keterangan
+ketik
 ketil
 ketir
 ketok
@@ -3079,6 +3082,7 @@ mek
 mekar
 meki
 mekso
+mela
 melas
 melati
 melok
