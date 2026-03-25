@@ -3084,6 +3084,7 @@ komen
 komi
 komik
 kompak
+kompas
 kompor
 kon
 konangan
@@ -6452,6 +6453,7 @@ ungger
 unggul
 ungkal
 ungkap
+ungkar
 ungker
 ungkit
 ungu
