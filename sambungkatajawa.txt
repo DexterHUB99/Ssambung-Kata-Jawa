@@ -351,7 +351,6 @@ amet
 ami
 amie
 amii
-amik
 amin
 aming
 amir
@@ -1027,7 +1026,6 @@ cen
 cendol
 cengkeh
 centil
-cepet
 ceplok
 cerita
 ces
@@ -1151,6 +1149,7 @@ des
 desa
 desi
 deso
+dewa
 dewi
 di
 diamput
@@ -2497,6 +2496,7 @@ irang
 iras
 irat
 iren
+irenan
 ireng
 irenge
 iri
