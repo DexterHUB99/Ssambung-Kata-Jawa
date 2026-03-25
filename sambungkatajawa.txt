@@ -3749,6 +3749,7 @@ lontar
 lonte
 lontong
 loo
+lop
 lope
 lopis
 lor
@@ -5680,6 +5681,7 @@ rana
 randa
 randu
 randue
+rangda
 rani
 ranjang
 ransel
