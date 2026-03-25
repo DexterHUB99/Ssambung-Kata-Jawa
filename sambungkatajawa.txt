@@ -691,6 +691,7 @@ asul
 asun
 asuo
 asup
+asus
 asuw
 asuya
 asyik
@@ -3206,6 +3207,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
