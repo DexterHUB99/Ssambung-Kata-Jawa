@@ -2288,6 +2288,7 @@ hina
 hinggap
 hir
 hira
+hiruk
 his
 hisa
 hise
@@ -6350,6 +6351,7 @@ takon
 takoni
 taksi
 taksir
+taku
 takut
 tal
 tala
