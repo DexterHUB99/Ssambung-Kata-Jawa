@@ -1241,6 +1241,7 @@ dimari
 dimas
 din
 dina
+dinggo
 dingin
 dini
 dino
@@ -5739,6 +5740,7 @@ resa
 resah
 resak
 rese
+resep
 resi
 resik
 resiko
