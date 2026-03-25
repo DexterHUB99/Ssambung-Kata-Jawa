@@ -2818,6 +2818,7 @@ isi
 isia
 isih
 isii
+isik
 isin
 isine
 ising
@@ -5869,6 +5870,7 @@ pujaan
 puk
 puki
 pukimak
+puku
 pukul
 pul
 pula
