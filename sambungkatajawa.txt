@@ -378,6 +378,7 @@ ampas
 ampek
 ampel
 ampela
+ampelan
 amplas
 ampok
 ampu
@@ -3207,7 +3208,6 @@ kitaa
 kitab
 kite
 kiwa
-kiye
 klambi
 klambimu
 klebus
