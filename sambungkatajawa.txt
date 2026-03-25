@@ -1014,6 +1014,7 @@ bungkus
 buntel
 buntu
 buntung
+bur
 buri
 bus
 busa
@@ -4633,6 +4634,7 @@ ngidek
 ngidu
 ngidul
 ngih
+ngijing
 ngijo
 ngik
 ngikut
@@ -5910,6 +5912,7 @@ rumangsa
 rumbai
 rumbak
 rumbuk
+rumit
 rumiyin
 rumongso
 rumput
