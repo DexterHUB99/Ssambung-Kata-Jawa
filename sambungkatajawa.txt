@@ -1179,6 +1179,7 @@ duga
 duh
 duha
 duit
+dujun
 duka
 duku
 dukuh
@@ -1365,6 +1366,7 @@ emong
 emot
 empan
 empang
+empedu
 empeng
 empet
 emping
@@ -6574,6 +6576,7 @@ wesi
 wet
 wetan
 weteng
+weton
 wetu
 wewe
 wicara
