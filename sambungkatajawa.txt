@@ -6370,6 +6370,7 @@ tangan
 tangga
 tangguh
 tangi
+tangis
 tangkas
 tani
 tanjung
@@ -6476,6 +6477,7 @@ tiba
 tibake
 tibo
 ticok
+tigan
 tik
 tika
 tikar
