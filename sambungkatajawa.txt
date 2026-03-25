@@ -3121,6 +3121,7 @@ micek
 mie
 mii
 mikir
+mikul
 mila
 mili
 milu
@@ -4238,6 +4239,7 @@ pojok
 pok
 poke
 poki
+poko
 pokok
 pokoke
 pokro
@@ -4436,6 +4438,7 @@ rekoso
 relo
 rem
 remba
+rembak
 rembes
 rembuk
 rembulan
