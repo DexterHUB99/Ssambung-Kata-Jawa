@@ -4792,6 +4792,7 @@ ngenget
 ngenggeh
 ngengobrol
 ngenteni
+ngentoh
 ngentu
 ngentui
 ngentuk
