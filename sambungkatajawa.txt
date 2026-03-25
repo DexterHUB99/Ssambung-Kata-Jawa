@@ -872,6 +872,7 @@ bilai
 bima
 bin
 bina
+bindeng
 bingung
 bini
 bintang
@@ -4957,6 +4958,7 @@ pasir
 pasti
 pasu
 pati
+patih
 patil
 patung
 pawa
@@ -5261,6 +5263,7 @@ rambutan
 rame
 ramene
 rames
+ramping
 rampok
 rampun
 rampung
@@ -6778,6 +6781,7 @@ yan
 yana
 yang
 yano
+yapa
 yari
 yas
 yasin
@@ -6790,6 +6794,7 @@ yaya
 yayi
 yayo
 yen
+yera
 yere
 yes
 yo
