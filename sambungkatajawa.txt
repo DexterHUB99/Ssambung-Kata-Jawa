@@ -1290,6 +1290,7 @@ ef
 efek
 eg
 ega
+egal
 ege
 egi
 egik
@@ -6505,6 +6506,7 @@ ukiran
 ukiro
 ukit
 ukki
+ukna
 uko
 ukol
 ukta
@@ -6935,6 +6937,7 @@ yae
 yaelah
 yah
 yai
+yak
 yaka
 yaken
 yakin
