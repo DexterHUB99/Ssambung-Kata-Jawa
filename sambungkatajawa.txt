@@ -2322,6 +2322,7 @@ isin
 ising
 isini
 isis
+isisin
 isit
 isla
 islam
@@ -2451,6 +2452,7 @@ jiwa
 jiwae
 jo
 jodo
+jodoh
 jogo
 jok
 joko
