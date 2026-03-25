@@ -1532,6 +1532,7 @@ esua
 esue
 esui
 esuk
+esur
 et
 eta
 etah
@@ -1555,6 +1556,7 @@ etot
 etu
 etuk
 etum
+etung
 ew
 ewah
 ewan
@@ -3964,6 +3966,7 @@ neni
 nep
 nepa
 nepak
+nepis
 neptu
 ner
 neraka
@@ -4815,6 +4818,7 @@ palang
 pali
 paling
 palu
+palung
 pamali
 paman
 pameran
@@ -5250,6 +5254,7 @@ rela
 relo
 rem
 remang
+remas
 remba
 rembes
 rembuk
