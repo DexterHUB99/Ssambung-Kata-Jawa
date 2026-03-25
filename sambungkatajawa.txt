@@ -121,6 +121,7 @@ ahok
 ahoo
 ahoy
 ahu
+ahuh
 ahuk
 ahun
 ahup
@@ -505,6 +506,7 @@ anyel
 anyep
 anyer
 anying
+anyir
 aos
 ap
 apa
@@ -822,6 +824,7 @@ bes
 besan
 beso
 besok
+beton
 biak
 biang
 biasa
@@ -1007,6 +1010,7 @@ coro
 crita
 cuci
 cucu
+cucuk
 cucur
 cuk
 cuki
@@ -3830,6 +3834,7 @@ nanging
 nangis
 nangka
 nani
+nantang
 nanti
 nanya
 naon
