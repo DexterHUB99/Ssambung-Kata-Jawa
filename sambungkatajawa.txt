@@ -4741,6 +4741,7 @@ ngekos
 ngel
 ngelag
 ngelak
+ngelap
 ngelawak
 ngeleh
 ngelem
