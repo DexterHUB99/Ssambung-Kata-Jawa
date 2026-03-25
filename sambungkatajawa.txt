@@ -1691,6 +1691,7 @@ etawa
 ete
 etek
 eten
+ethok
 eti
 etik
 etika
@@ -4487,6 +4488,7 @@ ngecek
 ngeces
 ngedar
 ngeden
+ngedol
 ngeeh
 ngegunung
 ngeh
@@ -4750,6 +4752,7 @@ ngurus
 ngurusi
 ngus
 ngusap
+ngusar
 ngusel
 ngusi
 ngusik
@@ -5592,6 +5595,7 @@ rajut
 rak
 raka
 raken
+raket
 rakha
 raki
 rakit
