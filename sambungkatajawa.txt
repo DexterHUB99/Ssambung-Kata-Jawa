@@ -3839,6 +3839,7 @@ lincah
 lindhu
 linggih
 linggis
+lingkar
 lingkaran
 linglung
 lingsir
@@ -4875,6 +4876,7 @@ ngik
 ngikut
 ngila
 ngilang
+ngilange
 ngilat
 ngiler
 ngiling
@@ -5845,6 +5847,7 @@ pulen
 puli
 pulo
 pulpen
+pulsa
 puluh
 pun
 puna
