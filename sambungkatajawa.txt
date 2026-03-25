@@ -460,7 +460,6 @@ aneh
 anek
 aneng
 anes
-anga
 angan
 ange
 angel
@@ -499,7 +498,6 @@ angus
 ani
 aniani
 anii
-anik
 anin
 aning
 anis
@@ -771,7 +769,6 @@ atut
 auh
 aul
 aulah
-auma
 aumi
 aun
 aup
@@ -1307,7 +1304,6 @@ dona
 dong
 dongo
 doni
-dono
 donyo
 dopo
 dor
@@ -1468,7 +1464,6 @@ elam
 elan
 elang
 elap
-ele
 eleh
 elek
 eleke
@@ -2083,7 +2078,6 @@ golek
 golet
 goleti
 goli
-golo
 golong
 gombal
 gombalan
@@ -3435,7 +3429,6 @@ kudus
 kue
 kui
 kuii
-kuio
 kuk
 kuka
 kuki
@@ -4088,7 +4081,6 @@ mitoni
 mlaku
 mlebu
 mmbuh
-mmelu
 mo
 mobil
 moci
@@ -4153,7 +4145,6 @@ mulung
 mulus
 muluse
 mulya
-mumbul
 mumet
 mumi
 mumpung
@@ -4324,7 +4315,6 @@ ndang
 ndas
 ndasmu
 ndelok
-nderek
 ndeso
 ndlogok
 ndugal
@@ -4375,7 +4365,6 @@ neni
 nep
 nepa
 nepak
-nepi
 nepis
 neptu
 ner
@@ -4514,7 +4503,6 @@ ngapus
 ngapusi
 ngarak
 ngarang
-ngarap
 ngarek
 ngareng
 ngarep
@@ -4572,7 +4560,6 @@ ngayun
 nge
 ngebas
 ngebet
-ngeblok
 ngecat
 ngece
 ngecek
@@ -4846,7 +4833,6 @@ nguras
 nguri
 nguripi
 nguru
-ngurung
 ngurus
 ngurusi
 ngus
@@ -5142,6 +5128,7 @@ olah
 olahan
 olahraga
 olak
+olam
 olar
 ole
 olee
@@ -5430,7 +5417,6 @@ pei
 pejah
 peju
 pek
-pekik
 peko
 pekok
 pela
@@ -6479,7 +6465,6 @@ susul
 susumu
 susune
 sut
-sutan
 sutil
 suwe
 suwek
@@ -6593,7 +6578,6 @@ taun
 tawa
 tawang
 tawar
-tawe
 tawon
 tayo
 te
