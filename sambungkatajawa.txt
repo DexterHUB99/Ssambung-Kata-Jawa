@@ -472,6 +472,7 @@ anto
 anton
 antri
 antuk
+antun
 antung
 anu
 anue
@@ -751,6 +752,7 @@ baru
 bas
 basa
 basi
+basie
 basil
 bat
 bata
@@ -2995,6 +2997,7 @@ kura
 kurang
 kurawa
 kurban
+kurek
 kurma
 kuro
 kursi
@@ -6202,6 +6205,7 @@ wahyu
 wai
 wajah
 wak
+waki
 waktu
 waku
 wala
