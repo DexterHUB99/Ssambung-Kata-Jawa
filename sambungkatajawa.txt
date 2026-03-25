@@ -3133,6 +3133,7 @@ kepiring
 kepiye
 kepleset
 kepo
+kepompong
 ker
 kera
 kerajin
@@ -6334,6 +6335,7 @@ tai
 taie
 taii
 taik
+tajin
 tak
 takaran
 takdir
