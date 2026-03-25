@@ -4792,6 +4792,7 @@ nguru
 ngurus
 ngurusi
 ngus
+ngusaha
 ngusap
 ngusar
 ngusel
@@ -5147,6 +5148,7 @@ onoe
 onoo
 onta
 ontel
+onten
 onthel
 onto
 ontong
