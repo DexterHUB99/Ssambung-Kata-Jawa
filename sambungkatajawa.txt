@@ -3309,6 +3309,7 @@ kina
 kinan
 kinang
 kinanthi
+kincung
 kini
 kinjeng
 kintel
@@ -6083,6 +6084,7 @@ sajake
 saji
 sak
 saka
+sakal
 sakarep
 sakit
 sakite
