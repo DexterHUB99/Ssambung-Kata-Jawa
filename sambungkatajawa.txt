@@ -2802,6 +2802,7 @@ kondisi
 kondur
 konek
 kono
+kontal
 kontol
 kontolmu
 kontrol
@@ -4860,6 +4861,7 @@ resah
 resak
 rese
 resik
+resiko
 reti
 rewang
 rezeki
