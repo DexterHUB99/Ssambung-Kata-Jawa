@@ -393,6 +393,7 @@ ampus
 amu
 amuh
 amuk
+amul
 amun
 amung
 amut
@@ -2090,6 +2091,7 @@ grobak
 grogi
 gu
 gudang
+gudangan
 gudeg
 gudel
 gugah
@@ -5288,6 +5290,7 @@ panas
 pancen
 panci
 pancing
+pandan
 pandang
 pandu
 panen
