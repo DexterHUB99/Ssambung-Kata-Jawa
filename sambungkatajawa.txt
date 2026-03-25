@@ -1742,6 +1742,7 @@ gage
 gagean
 gah
 gahi
+gaib
 gaja
 gajah
 gaje
@@ -4696,6 +4697,7 @@ ngumpat
 ngumpet
 ngumpul
 ngun
+ngunani
 ngunci
 ngundang
 ngunjuk
