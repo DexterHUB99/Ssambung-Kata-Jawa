@@ -4627,6 +4627,7 @@ nenek
 nenen
 neng
 nengdi
+nengga
 neni
 nep
 nepa
@@ -5653,6 +5654,7 @@ pala
 palah
 palamu
 palang
+paleh
 paleng
 pali
 paling
@@ -6579,6 +6581,7 @@ seneng
 seng
 senok
 sepanci
+sepatu
 sepele
 sepi
 sepii
