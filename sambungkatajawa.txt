@@ -1025,6 +1025,7 @@ boso
 bosok
 bot
 botak
+boten
 boti
 boto
 botok
@@ -1812,6 +1813,7 @@ eyem
 eyo
 ez
 faji
+fakir
 firman
 fisik
 fix
@@ -2220,6 +2222,7 @@ gupak
 gupuh
 gur
 gura
+gurah
 guren
 guri
 gurih
@@ -5940,6 +5943,7 @@ randa
 randu
 randue
 rangda
+ranggi
 rani
 ranjang
 ransel
