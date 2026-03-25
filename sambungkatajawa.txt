@@ -1026,6 +1026,7 @@ cen
 cendol
 cengkeh
 centil
+cepet
 ceplok
 cerita
 ces
