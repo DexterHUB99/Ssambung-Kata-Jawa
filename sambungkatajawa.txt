@@ -289,7 +289,6 @@ alon
 alos
 alot
 aloy
-alpukat
 alu
 alum
 alumni
@@ -871,6 +870,7 @@ bila
 bilah
 bilai
 bima
+bimo
 bin
 bina
 bindeng
@@ -3241,11 +3241,13 @@ lagii
 lagu
 lague
 lah
+lahan
 lahi
 lahir
 lair
 lajeng
 lak
+laka
 laki
 lakon
 laku
@@ -4532,6 +4534,7 @@ nis
 nisa
 nisaa
 nisan
+niscaya
 nita
 nite
 niti
@@ -5582,7 +5585,6 @@ salam
 saleh
 sali
 salim
-saling
 salira
 salom
 salut
@@ -6300,7 +6302,6 @@ udara
 udek
 udel
 udelmu
-uder
 udi
 udin
 udo
@@ -6484,6 +6485,7 @@ untir
 untu
 untua
 untuk
+untul
 untumu
 untune
 untung
