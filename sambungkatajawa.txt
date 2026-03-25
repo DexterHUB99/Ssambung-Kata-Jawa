@@ -1309,6 +1309,7 @@ dewo
 di
 diamput
 diana
+dianik
 diba
 dibi
 didesa
@@ -6542,6 +6543,7 @@ sempake
 sen
 senam
 sendal
+sendok
 seneng
 seng
 senok
