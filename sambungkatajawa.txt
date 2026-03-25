@@ -822,6 +822,7 @@ buri
 bus
 busa
 busuk
+busung
 buta
 buto
 butu
