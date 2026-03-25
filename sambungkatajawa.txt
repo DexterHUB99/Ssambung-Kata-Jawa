@@ -2428,6 +2428,7 @@ kece
 keceret
 kecut
 kedadi
+kedah
 kedai
 kedaton
 kedurung
@@ -5099,6 +5100,7 @@ tamu
 tamune
 tan
 tanah
+tanduk
 tandur
 tanduran
 tangan
