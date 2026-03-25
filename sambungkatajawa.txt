@@ -3055,6 +3055,7 @@ marah
 mardi
 mari
 marii
+maring
 maruk
 mas
 masa
@@ -3365,6 +3366,7 @@ netek
 netra
 newa
 ngabab
+ngabdi
 ngaben
 ngaca
 ngaceng
@@ -4084,6 +4086,7 @@ panci
 pandu
 pangan
 panggah
+panggang
 panggil
 panggo
 panguripan
