@@ -136,7 +136,6 @@ ahok
 ahoo
 ahoy
 ahu
-ahud
 ahuh
 ahuk
 ahum
@@ -448,7 +447,6 @@ andas
 ander
 andha
 andhap
-andhiko
 andhok
 andi
 andika
@@ -536,7 +534,6 @@ anoman
 anop
 ansur
 anta
-antam
 antar
 antara
 antareja
@@ -624,6 +621,7 @@ areng
 arep
 arepan
 arepe
+aret
 arga
 ari
 aria
@@ -801,6 +799,7 @@ awe
 awek
 awet
 awi
+awis
 awit
 awor
 awu
@@ -876,7 +875,7 @@ bangkekan
 banjir
 banteng
 bantu
-banya
+banu
 banyu
 bapak
 bara
@@ -943,6 +942,7 @@ biak
 biang
 biasa
 biawak
+biaya
 biba
 bibar
 bibi
@@ -1028,7 +1028,6 @@ budi
 buha
 bui
 bujak
-bujang
 buji
 buk
 buka
@@ -1999,7 +1998,6 @@ geme
 gemes
 gemi
 gempa
-gempar
 gempil
 gempol
 gemuk
@@ -2140,6 +2138,7 @@ gotong
 gotongroyong
 gowo
 goyang
+graji
 grobak
 grogi
 gu
@@ -2165,7 +2164,6 @@ gulir
 gulu
 gulung
 gumuh
-gumuk
 gumun
 gun
 guna
@@ -2267,7 +2265,6 @@ hani
 haning
 hanja
 hansip
-hanta
 hantam
 hantu
 hanung
@@ -2321,7 +2318,6 @@ hawane
 haya
 hayang
 hayat
-hayati
 hayo
 hayu
 hayuk
@@ -2422,7 +2418,6 @@ huda
 hudan
 hujan
 huk
-huki
 hukum
 hukume
 hula
@@ -2433,13 +2428,13 @@ huma
 human
 humor
 hun
-huna
 huni
 hup
 hur
 hura
 huri
 hurip
+huripan
 huru
 huruf
 hurung
@@ -2461,7 +2456,6 @@ ibu
 ibuk
 ibukmu
 ic
-ica
 ical
 icone
 icu
@@ -2486,12 +2480,12 @@ igal
 igo
 ih
 iha
-ihaa
 ihan
 ihe
 ihha
 ihhi
 ihi
+ihing
 ihki
 ihko
 ihku
@@ -2657,6 +2651,7 @@ inie
 inii
 injak
 injek
+inji
 injih
 injing
 injuk
@@ -2977,7 +2972,6 @@ kain
 kaine
 kairi
 kaisa
-kajak
 kajen
 kajeng
 kaji
@@ -2988,7 +2982,6 @@ kaka
 kakak
 kakaka
 kakang
-kakasur
 kake
 kaki
 kaku
@@ -3105,7 +3098,6 @@ kasep
 kaset
 kasi
 kasih
-kasihsayang
 kasii
 kasim
 kasir
@@ -3115,7 +3107,6 @@ kasur
 kasure
 kasuri
 kasus
-kasut
 kat
 kata
 katae
@@ -3296,6 +3287,7 @@ kesandung
 kesasar
 kesat
 kese
+keselek
 kesem
 keset
 kesleo
@@ -3835,7 +3827,6 @@ loncat
 longgar
 longor
 longsor
-lonjong
 lontar
 lonte
 lontong
@@ -4093,6 +4084,7 @@ mentah
 mentas
 mepet
 mer
+merah
 merahe
 merak
 mercon
@@ -4509,7 +4501,6 @@ ngalor
 ngalu
 ngalun
 ngam
-ngamah
 ngamal
 ngamar
 ngambang
@@ -4553,7 +4544,6 @@ ngantem
 ngantemi
 nganteni
 nganter
-nganthuk
 nganti
 ngantri
 ngantuk
@@ -4586,7 +4576,6 @@ ngarep
 ngarepan
 ngaret
 ngari
-ngarik
 ngarit
 ngarpu
 ngarsa
@@ -4611,7 +4600,6 @@ ngaso
 ngasta
 ngasu
 ngasuh
-ngasur
 ngatal
 ngatemi
 ngatok
@@ -4634,6 +4622,7 @@ ngawor
 ngawun
 ngawur
 ngaya
+ngayogyakarta
 ngayomi
 ngayuh
 ngayun
@@ -4673,7 +4662,6 @@ ngelon
 ngeloni
 ngelu
 ngelus
-ngemas
 ngembun
 ngemis
 ngemong
@@ -4709,7 +4697,6 @@ ngeper
 ngepet
 ngeplak
 ngepot
-ngeraba
 ngere
 ngerem
 ngeres
@@ -4725,6 +4712,7 @@ ngeseng
 ngesi
 ngesor
 ngesot
+ngestu
 ngesu
 ngesuk
 nget
@@ -4757,7 +4745,6 @@ nggoo
 nggoreng
 nggowo
 ngguyu
-ngibing
 ngibul
 ngidal
 ngidam
@@ -4912,7 +4899,6 @@ nguntung
 ngunu
 ngupas
 ngupe
-ngupi
 ngupil
 nguping
 ngupo
@@ -5016,7 +5002,6 @@ nista
 nita
 nitah
 nite
-niteni
 niti
 nitih
 nitik
@@ -5064,6 +5049,7 @@ nose
 nosi
 nota
 nresnani
+nsua
 nu
 nua
 nuana
@@ -5085,7 +5071,6 @@ nulo
 nulung
 nulungi
 num
-numa
 numan
 numbas
 numis
@@ -5149,7 +5134,6 @@ nyong
 nyoto
 nyungsep
 nyuri
-nyurung
 nyusu
 nyuwun
 oalah
@@ -5388,7 +5372,6 @@ padha
 padhang
 padil
 padu
-padus
 paes
 pagar
 pagi
@@ -5434,7 +5417,6 @@ pandu
 panen
 pang
 pangan
-panganan
 pangapunten
 panggah
 panggang
@@ -5462,7 +5444,6 @@ papat
 papi
 papu
 papua
-par
 para
 parang
 pare
@@ -5598,7 +5579,6 @@ pinarak
 pincang
 pindah
 pindang
-pindho
 pindo
 ping
 pingan
@@ -5998,6 +5978,7 @@ rip
 ripa
 ripen
 ripi
+ripna
 rira
 riri
 ris
@@ -6261,6 +6242,7 @@ segok
 segoro
 seh
 sehat
+sejuk
 sejum
 sek
 sekar
@@ -6462,6 +6444,7 @@ sotel
 soto
 sowan
 soyo
+sregep
 srengenge
 sri
 su
@@ -6592,7 +6575,6 @@ tae
 taek
 tah
 tahan
-tahta
 tahu
 tahun
 tai
@@ -6829,6 +6811,7 @@ tolong
 toma
 tomat
 tombak
+tomi
 tomo
 tompel
 ton
@@ -7185,6 +7168,7 @@ uras
 urat
 ure
 urek
+uren
 ures
 uri
 urii
@@ -7384,9 +7368,7 @@ welo
 wen
 wena
 wengi
-weni
 werkudara
-werna
 werno
 weruh
 wes
@@ -7502,7 +7484,6 @@ yayi
 yayo
 ye
 yen
-yeni
 yera
 yere
 yes
@@ -7559,7 +7540,6 @@ yusi
 yuswa
 yuswo
 yuti
-yuto
 yuwa
 yuyu
 yuyun
