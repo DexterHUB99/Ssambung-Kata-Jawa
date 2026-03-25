@@ -1153,6 +1153,7 @@ demok
 dempet
 dempul
 den
+dena
 dengkul
 dening
 depi
@@ -2291,6 +2292,7 @@ ibarat
 iblis
 ibu
 ibuk
+ibukmu
 ic
 ical
 icone
@@ -4318,6 +4320,7 @@ ngawor
 ngawur
 ngaya
 ngayomi
+ngayun
 nge
 ngebas
 ngebet
