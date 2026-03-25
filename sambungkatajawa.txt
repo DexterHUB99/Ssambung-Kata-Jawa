@@ -1391,6 +1391,7 @@ ela
 elae
 elag
 elah
+elak
 elam
 elan
 elang
@@ -1414,6 +1415,7 @@ elo
 eloh
 elok
 elokan
+elom
 eloo
 elor
 elos
@@ -4003,6 +4005,7 @@ musan
 muse
 musi
 musim
+musola
 mustaka
 musu
 musuh
@@ -7069,6 +7072,7 @@ yen
 yera
 yere
 yes
+yeye
 yo
 yoan
 yoe
