@@ -4677,6 +4677,7 @@ pul
 pulan
 pulau
 pule
+pulo
 pulpen
 pun
 puna
