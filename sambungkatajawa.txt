@@ -336,6 +336,7 @@ ambek
 amben
 ambeng
 amber
+ambi
 ambil
 amblas
 ambo
@@ -6261,6 +6262,7 @@ taii
 taik
 tak
 takaran
+takdir
 taki
 takon
 takoni
