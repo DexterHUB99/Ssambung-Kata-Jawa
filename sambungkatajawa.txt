@@ -590,6 +590,7 @@ atid
 atie
 atih
 atik
+atimu
 atine
 atir
 atis
@@ -1549,6 +1550,7 @@ gelombang
 gelot
 gelut
 gema
+gemah
 gemas
 gemati
 gembel
@@ -2606,6 +2608,7 @@ keruh
 kerupuk
 kerut
 kesah
+kesambet
 kesandung
 kesat
 kese
