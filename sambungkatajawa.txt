@@ -3162,6 +3162,7 @@ limu
 limun
 lin
 lina
+lincah
 linggih
 linggis
 lingkaran
@@ -4879,6 +4880,7 @@ ran
 rana
 randa
 randu
+randue
 rani
 ranjang
 rantai
@@ -5604,6 +5606,7 @@ teh
 teha
 tekan
 teko
+tekor
 tela
 telan
 telas
