@@ -666,6 +666,7 @@ babi
 babu
 bacin
 bacot
+bade
 badog
 badok
 bae
@@ -2470,6 +2471,7 @@ kasih
 kasii
 kasim
 kasir
+kasor
 kasu
 kasur
 kasure
@@ -2564,6 +2566,7 @@ kendal
 kendang
 kendel
 kendhang
+kendho
 kendi
 kene
 kenek
@@ -3727,6 +3730,7 @@ ngenteni
 ngentu
 ngentuk
 ngentut
+ngenyot
 ngepang
 ngepel
 ngeper
@@ -5488,6 +5492,7 @@ tunas
 tundhuk
 tunggal
 tunggu
+tungkak
 tupa
 tupi
 tur
@@ -5854,6 +5859,7 @@ warna
 warnae
 waro
 warung
+warya
 watak
 wates
 wati
