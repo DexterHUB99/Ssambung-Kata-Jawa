@@ -3175,6 +3175,7 @@ luweh
 luwes
 luwih
 ma
+mabu
 mabuk
 mabur
 maca
@@ -4193,6 +4194,7 @@ oke
 okee
 okeh
 okei
+okel
 okem
 oker
 oket
@@ -4632,6 +4634,7 @@ pusaka
 puser
 pusing
 putih
+puting
 putra
 putri
 putu
