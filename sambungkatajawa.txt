@@ -577,6 +577,7 @@ atuk
 atum
 atun
 atur
+aturan
 aturen
 atus
 atut
