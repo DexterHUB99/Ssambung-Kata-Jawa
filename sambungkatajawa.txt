@@ -777,6 +777,7 @@ balik
 balung
 ban
 banci
+bandel
 bando
 banjir
 banteng
@@ -5675,6 +5676,7 @@ sikut
 sil
 sila
 silah
+sile
 silet
 silih
 silit
