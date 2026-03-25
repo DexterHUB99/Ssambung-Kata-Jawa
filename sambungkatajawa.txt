@@ -11,6 +11,7 @@ abal
 abang
 abe
 abi
+abia
 abimanyu
 abis
 abo
@@ -915,6 +916,7 @@ dahi
 daki
 dalam
 dalan
+dalang
 dale
 dalem
 daleman
@@ -1610,6 +1612,7 @@ gidal
 gig
 giga
 gigi
+gigih
 gigir
 gigit
 gih
@@ -2437,6 +2440,7 @@ kangkung
 kangmas
 kanjeng
 kanjut
+kanthil
 kanti
 kantil
 kantor
@@ -5259,6 +5263,7 @@ takon
 takut
 tal
 tala
+talak
 tales
 tali
 talie
