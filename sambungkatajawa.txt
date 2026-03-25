@@ -1058,6 +1058,7 @@ dis
 disik
 ditipu
 diwan
+do
 doa
 doda
 dodik
@@ -2399,6 +2400,7 @@ jika
 jila
 jilat
 jilbab
+jilid
 jim
 jima
 jimat
