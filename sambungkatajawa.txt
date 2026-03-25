@@ -3008,6 +3008,7 @@ kerang
 keras
 kerat
 keraton
+kerbau
 kere
 kerek
 keren
@@ -5057,6 +5058,7 @@ patung
 pawa
 pawang
 pawon
+paya
 payah
 payu
 payung
@@ -6024,6 +6026,7 @@ suntuk
 sunyi
 suo
 sup
+supa
 supados
 supaya
 supe
@@ -6910,6 +6913,7 @@ yas
 yasin
 yati
 yato
+yaudah
 yauwis
 yawes
 yawis
