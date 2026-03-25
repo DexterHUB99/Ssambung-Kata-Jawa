@@ -4638,6 +4638,7 @@ ngarepan
 ngaret
 ngari
 ngarik
+ngaris
 ngarit
 ngarpu
 ngarsa
