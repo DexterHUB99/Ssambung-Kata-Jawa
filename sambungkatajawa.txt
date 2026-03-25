@@ -3206,6 +3206,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
@@ -5573,6 +5574,7 @@ rasu
 rasuk
 rasya
 rata
+ratau
 rati
 rating
 ratna
