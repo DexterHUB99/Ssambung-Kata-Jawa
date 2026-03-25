@@ -3210,7 +3210,6 @@ kitaa
 kitab
 kite
 kiwa
-kiye
 klambi
 klambimu
 klebus
@@ -5099,6 +5098,7 @@ osor
 ot
 otak
 otakmu
+otek
 otol
 otom
 otoman
