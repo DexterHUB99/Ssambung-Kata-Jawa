@@ -3295,6 +3295,7 @@ nasi
 nasib
 nasie
 nasii
+nasikuning
 nastar
 nata
 natah
@@ -4565,6 +4566,7 @@ rumangsa
 rumbai
 rumbak
 rumbuk
+rumi
 rumiyin
 rumongso
 rumput
