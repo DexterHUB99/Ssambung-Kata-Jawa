@@ -1915,6 +1915,7 @@ gembel
 gemblong
 gemblung
 gembok
+gembos
 gembrot
 geme
 gemes
@@ -2539,6 +2540,7 @@ inem
 inep
 ing
 ingas
+ingat
 inget
 inggal
 inggih
