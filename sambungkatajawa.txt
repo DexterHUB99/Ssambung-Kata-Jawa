@@ -5373,6 +5373,7 @@ picek
 pie
 pii
 pijak
+pijek
 pijer
 pijet
 pijit
@@ -6455,6 +6456,7 @@ tas
 tasi
 tat
 tata
+tatanan
 tatas
 tati
 tato
