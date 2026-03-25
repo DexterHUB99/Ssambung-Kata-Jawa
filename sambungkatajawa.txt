@@ -671,6 +671,7 @@ atma
 ato
 atok
 atom
+aton
 atos
 atret
 atu
@@ -1447,6 +1448,7 @@ epon
 epos
 epu
 epuk
+epul
 epur
 er
 era
@@ -5873,6 +5875,7 @@ tapa
 tapai
 tape
 tapi
+tapih
 tapir
 tapuk
 tar
