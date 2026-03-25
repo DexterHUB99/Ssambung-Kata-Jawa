@@ -2170,6 +2170,7 @@ hajian
 hajiane
 hajie
 hak
+haka
 haki
 hakim
 hako
@@ -2666,6 +2667,7 @@ isan
 isao
 isap
 isapi
+isat
 ise
 isek
 isen
