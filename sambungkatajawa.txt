@@ -4322,6 +4322,7 @@ mul
 mula
 mulaa
 mulai
+mulak
 mulane
 mulanee
 mule
@@ -4818,6 +4819,7 @@ ngembun
 ngemis
 ngemong
 ngemot
+ngemper
 ngempet
 ngempit
 ngemuk
@@ -6909,6 +6911,7 @@ telas
 telat
 tele
 telek
+teles
 telinga
 teliti
 telo
@@ -7749,6 +7752,7 @@ yoopo
 yoora
 yora
 yosi
+yoto
 yowe
 yowes
 yowis
