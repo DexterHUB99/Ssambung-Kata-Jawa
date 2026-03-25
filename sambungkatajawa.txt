@@ -2756,6 +2756,7 @@ kawah
 kawan
 kawani
 kawasan
+kawat
 kawi
 kawin
 kawit
@@ -3659,6 +3660,7 @@ mis
 misah
 misu
 misuh
+mitoni
 mlaku
 mmbuh
 mo
@@ -3934,6 +3936,7 @@ newa
 ngabab
 ngabdi
 ngaben
+ngaburi
 ngaca
 ngaceng
 ngaco
