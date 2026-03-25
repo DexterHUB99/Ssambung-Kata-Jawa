@@ -884,6 +884,7 @@ banteng
 bantu
 banu
 banya
+banyak
 banyu
 bapak
 bara
@@ -956,6 +957,7 @@ bibar
 bibi
 bibik
 bibis
+bibu
 bidan
 bidun
 bidur
@@ -1007,6 +1009,8 @@ bolo
 bolong
 bom
 bongko
+bono
+bor
 boring
 bos
 bosen
@@ -1057,6 +1061,7 @@ buntung
 bur
 buri
 burik
+buruh
 bus
 busa
 busana
@@ -1228,6 +1233,7 @@ darma
 das
 dasar
 dasi
+daster
 daun
 davi
 dawa
@@ -1984,6 +1990,7 @@ gelang
 gelange
 gelap
 gelar
+gelas
 gelek
 gelem
 geleman
@@ -2351,6 +2358,7 @@ hehe
 hehi
 hei
 hele
+heli
 helikopter
 helo
 hem
@@ -2948,6 +2956,7 @@ jorok
 jos
 jotor
 jotos
+jualan
 juanda
 juang
 jubah
@@ -3539,6 +3548,7 @@ kuncup
 kundur
 kuneng
 kuning
+kunir
 kuno
 kunti
 kuntul
@@ -4045,6 +4055,7 @@ mantul
 mantun
 manuk
 manungsa
+manungso
 manusi
 manut
 maos
@@ -4410,6 +4421,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndoro
 ndugal
 nduk
 ne
@@ -4497,6 +4509,7 @@ ngadai
 ngadeg
 ngadepi
 ngadi
+ngadii
 ngadon
 ngadu
 ngaduh
@@ -4733,6 +4746,7 @@ ngepang
 ngepel
 ngeper
 ngepet
+ngepi
 ngeplak
 ngepot
 ngeraba
@@ -4931,6 +4945,7 @@ ngumpul
 ngun
 ngunani
 ngunci
+ngundah
 ngundang
 ngunduh
 ngunjuk
@@ -5093,6 +5108,7 @@ nose
 nosi
 nota
 nresnani
+nrimo
 nsua
 nu
 nua
@@ -6573,6 +6589,7 @@ sundul
 sungai
 sungkan
 sungkem
+suntik
 suntuk
 sunyi
 suo
@@ -6862,6 +6879,7 @@ toja
 tok
 tokek
 toko
+tola
 tolak
 tole
 tolol
@@ -7501,6 +7519,7 @@ woyo
 wuh
 wuku
 wulan
+wuno
 wur
 wuta
 wutan
