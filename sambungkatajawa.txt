@@ -4926,6 +4926,7 @@ nosa
 nose
 nosi
 nota
+nresnani
 nu
 nua
 nuana
@@ -5497,6 +5498,7 @@ poe
 poi
 pojok
 pok
+poka
 poke
 poki
 pokok
