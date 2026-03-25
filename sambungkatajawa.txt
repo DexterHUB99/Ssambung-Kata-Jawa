@@ -778,6 +778,7 @@ aw
 awa
 awak
 awakmu
+awal
 awalan
 awan
 awas
@@ -1074,6 +1075,7 @@ cece
 cecek
 cecep
 cedak
+cekelan
 ceki
 cela
 celak
@@ -2658,6 +2660,7 @@ iring
 iringan
 iris
 irit
+irita
 iroh
 iron
 irong
@@ -3864,6 +3867,7 @@ magang
 magelang
 mah
 maha
+mahar
 mai
 maido
 maii
@@ -3958,6 +3962,7 @@ mare
 mari
 marii
 maring
+mario
 maru
 maruk
 mas
