@@ -693,6 +693,7 @@ atah
 atak
 atam
 atap
+atar
 atas
 atasan
 atat
@@ -2777,6 +2778,7 @@ kabut
 kaca
 kacamata
 kacang
+kacek
 kacing
 kacip
 kacir
