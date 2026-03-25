@@ -4695,6 +4695,7 @@ pua
 puan
 puasa
 puh
+puing
 puja
 pujaan
 puki
@@ -5557,6 +5558,7 @@ tepak
 teran
 terang
 teras
+tere
 teri
 terima
 ternak
