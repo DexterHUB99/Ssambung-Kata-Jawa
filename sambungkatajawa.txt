@@ -4635,6 +4635,7 @@ nisa
 nisaa
 nisan
 niscaya
+nisi
 nita
 nite
 niti
@@ -6550,6 +6551,7 @@ ulur
 um
 uma
 umah
+umal
 uman
 umar
 umat
@@ -6941,6 +6943,7 @@ yaman
 yan
 yana
 yang
+yani
 yano
 yapa
 yari
@@ -7017,6 +7020,7 @@ zahra
 zaitun
 zakat
 zamzam
+ze
 ziarah
 zina
 zuhur
