@@ -924,6 +924,7 @@ bik
 bila
 bilah
 bilai
+bilo
 bima
 bimo
 bin
@@ -3241,6 +3242,7 @@ kiwa
 kiye
 klambi
 klambimu
+klaten
 klebus
 klepon
 kleru
@@ -4801,6 +4803,7 @@ nisaa
 nisan
 niscaya
 nisi
+nista
 nita
 nitah
 nite
