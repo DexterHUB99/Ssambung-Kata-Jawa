@@ -521,6 +521,7 @@ aruh
 arum
 arus
 aruse
+arya
 as
 asa
 asaa
@@ -3675,6 +3676,7 @@ ngawiti
 ngawor
 ngawur
 ngayomi
+nge
 ngebas
 ngebet
 ngece
@@ -4273,6 +4275,7 @@ oyot
 oz
 ozon
 pa
+pacul
 pada
 padae
 padang
