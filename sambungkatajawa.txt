@@ -583,6 +583,7 @@ ara
 arab
 arah
 arahan
+arahane
 arak
 aran
 arang
@@ -2041,6 +2042,7 @@ gudeg
 gudel
 gugah
 gugu
+gugug
 guguk
 gugup
 gugur
@@ -3201,6 +3203,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
