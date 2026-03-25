@@ -3179,6 +3179,7 @@ kasah
 kasar
 kasara
 kase
+kasek
 kasep
 kaset
 kasi
@@ -5301,6 +5302,7 @@ obeh
 obeng
 obong
 obor
+oboti
 obral
 oceh
 ocok
@@ -5515,6 +5517,7 @@ oy
 oyag
 oyak
 oyi
+oyod
 oyok
 oyot
 oz
