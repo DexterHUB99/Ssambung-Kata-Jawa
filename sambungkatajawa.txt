@@ -1786,6 +1786,7 @@ etis
 eto
 etok
 etol
+eton
 etos
 etot
 etu
@@ -1846,6 +1847,7 @@ gagean
 gah
 gahi
 gaib
+gairah
 gaja
 gajah
 gaje
