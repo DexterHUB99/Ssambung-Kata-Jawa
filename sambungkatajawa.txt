@@ -737,6 +737,7 @@ asul
 asun
 asuo
 asup
+asura
 asus
 asuw
 asuya
@@ -2666,6 +2667,7 @@ ilap
 ilar
 ilas
 ilat
+ilate
 ilatmu
 iler
 ilere
@@ -3278,6 +3280,7 @@ ke
 keano
 kebab
 kebang
+kebaya
 kebo
 kebon
 kebong
@@ -7344,6 +7347,7 @@ ulur
 um
 uma
 umah
+umahe
 umak
 umal
 uman
@@ -7436,6 +7440,7 @@ upama
 upan
 upas
 upaya
+upe
 upek
 upel
 upi
