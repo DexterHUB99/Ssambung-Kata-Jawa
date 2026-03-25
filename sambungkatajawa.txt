@@ -3574,6 +3574,7 @@ layuh
 le
 lebah
 lebih
+lebok
 lebur
 lee
 lega
@@ -4031,6 +4032,7 @@ moh
 mok
 mola
 molan
+mole
 moleh
 molen
 moli
