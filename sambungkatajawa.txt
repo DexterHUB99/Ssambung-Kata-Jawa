@@ -797,6 +797,7 @@ becak
 bedane
 bedo
 bego
+bekal
 beko
 bela
 beli
@@ -1912,6 +1913,7 @@ ha
 haa
 habibi
 habis
+hadap
 hadeh
 hadir
 hae
