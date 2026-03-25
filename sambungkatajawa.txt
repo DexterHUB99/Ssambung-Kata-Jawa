@@ -1095,6 +1095,7 @@ cacig
 cacin
 cacing
 cah
+cahya
 cai
 caii
 cakar
@@ -7580,6 +7581,7 @@ wilangan
 wili
 wilujeng
 win
+windu
 wingi
 wingko
 winta
