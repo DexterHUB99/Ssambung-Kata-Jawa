@@ -1259,6 +1259,7 @@ eper
 epi
 epic
 epik
+epil
 epin
 epis
 epo
@@ -4063,6 +4064,7 @@ ohya
 ojek
 ojo
 ojok
+ojol
 ok
 oka
 okai
