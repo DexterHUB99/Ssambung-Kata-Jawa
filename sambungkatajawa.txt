@@ -2787,6 +2787,7 @@ intil
 intine
 intip
 inul
+inyong
 ip
 ipa
 ipak
@@ -5110,6 +5111,7 @@ ngudud
 ngudut
 ngugu
 nguji
+nguk
 ngukir
 ngukur
 ngul
