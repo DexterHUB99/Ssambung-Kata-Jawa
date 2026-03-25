@@ -4019,6 +4019,7 @@ ngarepan
 ngaret
 ngarit
 ngarpu
+ngarsa
 ngarti
 ngaru
 ngaruh
@@ -4769,6 +4770,7 @@ pantik
 pantura
 papa
 papah
+papan
 papat
 papi
 para
@@ -5821,6 +5823,7 @@ tansah
 tanya
 tao
 tap
+tapa
 tapai
 tape
 tapi
