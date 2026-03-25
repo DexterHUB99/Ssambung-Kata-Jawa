@@ -744,6 +744,7 @@ basi
 basil
 bat
 bata
+batak
 bati
 batok
 batu
