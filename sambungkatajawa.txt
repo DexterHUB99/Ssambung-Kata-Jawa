@@ -302,6 +302,7 @@ ampek
 ampela
 amplas
 ampok
+ampu
 ampuh
 ampun
 ampus
@@ -3367,6 +3368,7 @@ nama
 namae
 namar
 nambah
+nambahi
 nambal
 nami
 nampak
@@ -3430,6 +3432,7 @@ ndang
 ndasmu
 ndeso
 ndlogok
+ndugal
 nduk
 ne
 nebang
@@ -5291,6 +5294,7 @@ titi
 titid
 titik
 titip
+titis
 titit
 tititi
 tititit
