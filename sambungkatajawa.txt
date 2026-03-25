@@ -1772,6 +1772,7 @@ gembel
 gemblung
 gembok
 gembrot
+geme
 gemes
 gemi
 gempa
@@ -1969,6 +1970,7 @@ hadir
 hae
 haem
 hafal
+hafidz
 hah
 haha
 hahaa
@@ -2030,6 +2032,7 @@ hapus
 har
 hara
 haram
+harang
 harap
 harapan
 harga
@@ -4158,6 +4161,7 @@ ngelok
 ngelon
 ngeloni
 ngelu
+ngelus
 ngembun
 ngemis
 ngemong
@@ -5695,6 +5699,7 @@ sirep
 sirih
 siro
 sirsak
+sirup
 sis
 sisa
 sisi
