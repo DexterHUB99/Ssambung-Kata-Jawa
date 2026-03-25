@@ -654,6 +654,7 @@ asmane
 asmanipun
 asmara
 asna
+aso
 asor
 asoy
 aspal
@@ -3607,6 +3608,7 @@ lunglai
 lungo
 lup
 lupa
+lupi
 lupis
 luput
 lur
