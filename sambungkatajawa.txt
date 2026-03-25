@@ -2060,6 +2060,7 @@ gina
 gincu
 gini
 ginjal
+gipang
 gir
 gira
 girang
@@ -6459,6 +6460,7 @@ sumeh
 sumi
 sumo
 sumpah
+sumringah
 sumuk
 sumur
 sun
