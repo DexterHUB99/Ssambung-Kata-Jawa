@@ -4102,6 +4102,7 @@ ngeko
 ngel
 ngelag
 ngelak
+ngelem
 ngelih
 ngelmu
 ngelok
