@@ -2004,6 +2004,7 @@ gu
 gudang
 gudeg
 gudel
+gugah
 gugu
 guguk
 gugup
@@ -6242,6 +6243,7 @@ tawar
 tawon
 tayo
 te
+tebang
 tebu
 tegak
 tegal
@@ -7001,6 +7003,7 @@ yang
 yani
 yano
 yapa
+yapi
 yari
 yas
 yasin
