@@ -3926,6 +3926,7 @@ lopis
 lor
 lora
 loreng
+lori
 loro
 lorone
 lorong
@@ -4458,6 +4459,7 @@ nasib
 nasie
 nasii
 nastar
+nat
 nata
 natah
 natan
