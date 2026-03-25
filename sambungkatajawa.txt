@@ -1548,6 +1548,7 @@ gena
 genah
 genap
 genape
+gendar
 gendeng
 genderuwo
 genderwo
