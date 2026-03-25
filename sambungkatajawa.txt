@@ -886,6 +886,7 @@ biru
 bis
 bisa
 bisaa
+bisma
 biso
 bisu
 bisue
@@ -2682,6 +2683,7 @@ kabur
 kaca
 kacamata
 kacang
+kacing
 kacip
 kacir
 kacok
