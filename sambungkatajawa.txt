@@ -889,6 +889,7 @@ cincang
 cincin
 cing
 cinta
+cintai
 ciu
 coba
 cobak
@@ -1238,6 +1239,7 @@ endas
 endel
 endi
 endog
+endol
 ene
 ened
 eneg
