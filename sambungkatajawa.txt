@@ -3060,6 +3060,7 @@ juli
 julu
 jumat
 jumbo
+jumpa
 jurang
 juri
 jus
@@ -4227,6 +4228,7 @@ mau
 mawon
 maya
 mayaa
+mayak
 mayat
 mayit
 mbah
