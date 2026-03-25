@@ -2481,6 +2481,7 @@ jadi
 jae
 jaga
 jago
+jagong
 jagongan
 jagung
 jahat
