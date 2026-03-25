@@ -3738,6 +3738,7 @@ mitoni
 mlaku
 mmbuh
 mo
+mobil
 modal
 modar
 modus
@@ -6397,6 +6398,7 @@ unek
 unen
 uner
 ung
+ungaran
 unggah
 unggaha
 unggas
@@ -6789,6 +6791,7 @@ yuni
 yura
 yuri
 yusan
+yusi
 yuswa
 yuswo
 yuti
