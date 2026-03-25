@@ -16,6 +16,7 @@ abia
 abik
 abil
 abimanyu
+abin
 abis
 abo
 aboh
@@ -1074,6 +1075,7 @@ cici
 cicis
 cicit
 cide
+ciduk
 cikal
 cilok
 cimu
@@ -2811,6 +2813,7 @@ jule
 julu
 jumat
 jumbo
+juri
 ka
 kaba
 kabar
@@ -6812,6 +6815,7 @@ ungu
 uni
 unia
 unjal
+unjar
 unjuk
 unma
 uno
