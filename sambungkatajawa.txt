@@ -245,6 +245,7 @@ alama
 alamo
 alan
 alang
+alangan
 alap
 alara
 alas
@@ -6634,6 +6635,7 @@ yaa
 yaampun
 yadi
 yae
+yaelah
 yah
 yai
 yaka
