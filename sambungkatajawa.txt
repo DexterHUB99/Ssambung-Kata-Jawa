@@ -395,6 +395,7 @@ among
 amor
 amp
 ampal
+ampan
 ampar
 ampas
 ampek
@@ -7366,6 +7367,7 @@ ukae
 ukai
 ukak
 ukal
+ukam
 ukan
 ukar
 ukara
