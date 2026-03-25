@@ -3919,6 +3919,7 @@ lompat
 loncang
 loncat
 longgar
+longgor
 longor
 longsor
 lonjong
@@ -6074,6 +6075,7 @@ renang
 rendang
 rendeng
 rene
+reng
 rengginang
 reo
 reog
