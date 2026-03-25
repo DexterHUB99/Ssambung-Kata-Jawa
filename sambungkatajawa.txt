@@ -2732,6 +2732,7 @@ kemul
 ken
 kena
 kenak
+kenangan
 kenapa
 kencing
 kencot
@@ -3673,6 +3674,7 @@ namar
 nambah
 nambahi
 nambal
+nambang
 nami
 nampak
 nampan
