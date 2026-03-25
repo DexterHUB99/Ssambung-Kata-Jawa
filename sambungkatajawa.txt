@@ -3207,6 +3207,7 @@ kayu
 ke
 keano
 kebab
+kebak
 kebang
 kebo
 kebon
@@ -4456,6 +4457,7 @@ naya
 ndak
 ndang
 ndas
+ndase
 ndasmu
 ndelok
 nderek
@@ -6112,6 +6114,7 @@ riso
 rit
 rita
 ritae
+ritan
 riti
 riwa
 riwayat
