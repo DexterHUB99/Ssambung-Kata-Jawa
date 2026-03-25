@@ -768,6 +768,7 @@ beli
 beling
 belo
 ben
+benang
 bengek
 bengong
 beni
@@ -937,6 +938,7 @@ cincin
 cing
 cinta
 cintai
+cipluk
 ciu
 coba
 cobak
@@ -1110,6 +1112,7 @@ dulan
 dulang
 dulu
 dulur
+dumadi
 dumeh
 dungo
 dunung
@@ -2404,6 +2407,7 @@ jembut
 jembutmu
 jenang
 jeneng
+jerami
 jeruk
 jet
 ji
@@ -6155,6 +6159,7 @@ watu
 watuk
 wawa
 wawang
+wawi
 way
 wayah
 wayang
