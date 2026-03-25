@@ -2783,6 +2783,7 @@ istana
 istighfar
 istilah
 istimewa
+istirahat
 istri
 isu
 isue
@@ -6262,6 +6263,7 @@ sawang
 sawer
 sawi
 sawiji
+sawis
 sawise
 sawit
 sawo
