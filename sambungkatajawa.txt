@@ -4560,6 +4560,7 @@ parup
 pas
 pasa
 pasak
+pasar
 pasaran
 pasek
 pasir
@@ -5143,6 +5144,7 @@ sam
 sama
 sambal
 sambel
+sambung
 sambut
 sami
 samin
