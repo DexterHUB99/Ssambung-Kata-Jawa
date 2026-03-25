@@ -4101,6 +4101,7 @@ matek
 maten
 mati
 matii
+matu
 matur
 maturnuwun
 matursuwun
@@ -5585,6 +5586,7 @@ pele
 pelem
 peler
 peli
+pelii
 peling
 pelit
 pelo
