@@ -1098,6 +1098,7 @@ cok
 cokan
 coklat
 cokot
+cokro
 col
 colak
 colo
@@ -2341,6 +2342,7 @@ hurung
 hurup
 hus
 husi
+huta
 hutan
 hutang
 huti
@@ -6130,6 +6132,7 @@ soale
 soasu
 soba
 sobat
+sobek
 soblok
 sodara
 sodir
