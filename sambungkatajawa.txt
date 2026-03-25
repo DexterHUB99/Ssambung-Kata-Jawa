@@ -2082,6 +2082,7 @@ isra
 istana
 istighfar
 istilah
+istimewa
 istri
 isu
 isue
@@ -5638,6 +5639,7 @@ yuda
 yudha
 yudi
 yuh
+yui
 yuk
 yuka
 yuki
