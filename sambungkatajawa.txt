@@ -3645,6 +3645,7 @@ mawon
 maya
 mayaa
 mayat
+mayit
 mbah
 mbok
 mbuh
@@ -4215,6 +4216,7 @@ ngesu
 ngesuk
 nget
 ngetan
+ngetel
 ngetok
 ngetung
 ngewangi
@@ -5691,6 +5693,7 @@ sinau
 sing
 singa
 singaa
+singgah
 singkong
 singo
 sini
@@ -6267,6 +6270,7 @@ ukiro
 ukki
 uko
 ukol
+ukta
 uku
 ukul
 ukum
