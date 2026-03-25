@@ -944,6 +944,7 @@ cupu
 curut
 dada
 dadah
+dadali
 dadar
 dadi
 dadu
@@ -2519,6 +2520,7 @@ kanti
 kantil
 kantor
 kaos
+kapa
 kapak
 kapal
 kapan
