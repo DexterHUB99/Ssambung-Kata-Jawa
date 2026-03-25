@@ -661,6 +661,7 @@ baku
 bakul
 balek
 bali
+balik
 balung
 ban
 bando
@@ -3147,6 +3148,7 @@ maturnuwun
 matursuwun
 mau
 mawon
+maya
 mayaa
 mayat
 mbah
