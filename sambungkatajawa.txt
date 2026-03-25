@@ -834,6 +834,7 @@ bener
 bengek
 bengong
 beni
+benik
 beo
 ber
 berak
@@ -3831,6 +3832,7 @@ munyuk
 mur
 murah
 murid
+murub
 murup
 musa
 musan
