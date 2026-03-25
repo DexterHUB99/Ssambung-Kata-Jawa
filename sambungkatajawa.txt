@@ -1152,6 +1152,7 @@ cucur
 cuk
 cuki
 cukup
+cukur
 cuma
 cumi
 cunduk
@@ -1178,6 +1179,7 @@ dale
 dalem
 daleman
 dali
+dalih
 dalu
 dama
 damai
@@ -4570,6 +4572,7 @@ ngawii
 ngawir
 ngawiti
 ngawor
+ngawun
 ngawur
 ngaya
 ngayomi
