@@ -2303,6 +2303,7 @@ harga
 hari
 haria
 harian
+harie
 harimau
 harimo
 harimu
@@ -2842,6 +2843,7 @@ jagongan
 jagung
 jahat
 jahe
+jail
 jaja
 jajajan
 jajan
