@@ -1883,6 +1883,7 @@ gincu
 ginjal
 gira
 girang
+giri
 giring
 girisa
 gita
@@ -3403,6 +3404,7 @@ leyeh
 lho
 li
 lia
+lian
 liana
 liane
 liar
@@ -4072,6 +4074,7 @@ nesue
 net
 neta
 netan
+netap
 nete
 neteh
 netek
