@@ -144,6 +144,7 @@ ahum
 ahun
 ahup
 ahur
+ahus
 ahut
 ahuy
 ai
@@ -1890,6 +1891,7 @@ gami
 gamis
 gamma
 gampang
+gampar
 gampil
 gan
 ganco
@@ -2870,6 +2872,7 @@ jagung
 jahat
 jahe
 jaja
+jajai
 jajajan
 jajan
 jakaa
