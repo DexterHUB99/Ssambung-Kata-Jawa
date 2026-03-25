@@ -41,7 +41,6 @@ adah
 adam
 adan
 adap
-adar
 adat
 ade
 adek
@@ -521,7 +520,6 @@ anjas
 anjay
 anji
 anjing
-anjinga
 anjinge
 anjir
 anjlok
@@ -627,7 +625,6 @@ areng
 arep
 arepan
 arepe
-aret
 arga
 ari
 aria
@@ -805,7 +802,6 @@ awe
 awek
 awet
 awi
-awis
 awit
 awor
 awu
@@ -868,7 +864,6 @@ bakon
 bakso
 baku
 bakul
-bal
 balai
 balek
 bali
@@ -882,8 +877,8 @@ bangkekan
 banjir
 banteng
 bantu
-banu
 banya
+banyak
 banyu
 bapak
 bara
@@ -950,7 +945,6 @@ biak
 biang
 biasa
 biawak
-biaya
 biba
 bibar
 bibi
@@ -1007,6 +1001,8 @@ bolo
 bolong
 bom
 bongko
+bono
+bor
 boring
 bos
 bosen
@@ -1057,6 +1053,7 @@ buntung
 bur
 buri
 burik
+buruh
 bus
 busa
 busana
@@ -1228,6 +1225,7 @@ darma
 das
 dasar
 dasi
+daster
 daun
 davi
 dawa
@@ -1479,7 +1477,6 @@ eki
 ekih
 ekil
 ekir
-ekis
 eko
 ekoh
 ekok
@@ -2048,7 +2045,6 @@ gerang
 gerbang
 gerem
 gergaji
-geri
 gerih
 gering
 germo
@@ -2152,7 +2148,6 @@ gotong
 gotongroyong
 gowo
 goyang
-graji
 grobak
 grogi
 gu
@@ -2453,7 +2448,6 @@ hur
 hura
 huri
 hurip
-huripan
 huru
 huruf
 hurung
@@ -2506,7 +2500,6 @@ ihe
 ihha
 ihhi
 ihi
-ihing
 ihki
 ihko
 ihku
@@ -2672,7 +2665,6 @@ inie
 inii
 injak
 injek
-inji
 injih
 injing
 injuk
@@ -2786,7 +2778,6 @@ istana
 istighfar
 istilah
 istimewa
-istirahat
 istri
 isu
 isue
@@ -2928,7 +2919,6 @@ jok
 joki
 joko
 jokowi
-jola
 joli
 jolo
 jom
@@ -2948,6 +2938,7 @@ jorok
 jos
 jotor
 jotos
+jualan
 juanda
 juang
 jubah
@@ -3315,7 +3306,6 @@ kesandung
 kesasar
 kesat
 kese
-keselek
 kesem
 keset
 kesleo
@@ -3539,6 +3529,7 @@ kuncup
 kundur
 kuneng
 kuning
+kunir
 kuno
 kunti
 kuntul
@@ -3780,7 +3771,6 @@ limun
 lin
 lina
 lincah
-lindhu
 linggih
 linggis
 lingkaran
@@ -4045,6 +4035,7 @@ mantul
 mantun
 manuk
 manungsa
+manungso
 manusi
 manut
 maos
@@ -4114,7 +4105,6 @@ mentah
 mentas
 mepet
 mer
-merah
 merahe
 merak
 mercon
@@ -4410,6 +4400,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndoro
 ndugal
 nduk
 ne
@@ -4497,6 +4488,7 @@ ngadai
 ngadeg
 ngadepi
 ngadi
+ngadii
 ngadon
 ngadu
 ngaduh
@@ -4657,7 +4649,6 @@ ngawor
 ngawun
 ngawur
 ngaya
-ngayogyakarta
 ngayomi
 ngayuh
 ngayun
@@ -4724,7 +4715,6 @@ ngenget
 ngengobrol
 ngenteni
 ngentu
-ngentui
 ngentuk
 ngentut
 ngenyot
@@ -4750,7 +4740,6 @@ ngeseng
 ngesi
 ngesor
 ngesot
-ngestu
 ngesu
 ngesuk
 nget
@@ -4809,7 +4798,6 @@ nging
 nginggil
 nginjak
 nginjeng
-ngintal
 ngintip
 ngipas
 ngipasi
@@ -4819,7 +4807,6 @@ ngiras
 ngiri
 ngiris
 ngirit
-ngirup
 ngis
 ngisak
 ngisen
@@ -4930,6 +4917,7 @@ ngumpul
 ngun
 ngunani
 ngunci
+ngundah
 ngundang
 ngunduh
 ngunjuk
@@ -5092,7 +5080,7 @@ nose
 nosi
 nota
 nresnani
-nsua
+nrimo
 nu
 nua
 nuana
@@ -6027,7 +6015,6 @@ rip
 ripa
 ripen
 ripi
-ripna
 rira
 riri
 ris
@@ -6052,7 +6039,6 @@ riya
 riyaya
 ro
 roa
-rob
 robek
 roboh
 roda
@@ -6174,7 +6160,6 @@ sah
 saha
 sahur
 sai
-saia
 saii
 saiki
 saing
@@ -6206,7 +6191,6 @@ sam
 sama
 sambal
 sambang
-sambat
 sambel
 sambung
 sambut
@@ -6271,7 +6255,6 @@ sawang
 sawer
 sawi
 sawiji
-sawis
 sawise
 sawit
 sawo
@@ -6296,7 +6279,6 @@ segok
 segoro
 seh
 sehat
-sejuk
 sejum
 sek
 sekar
@@ -6343,7 +6325,6 @@ seragam
 seran
 serang
 serasa
-serat
 serem
 seri
 serit
@@ -6499,7 +6480,6 @@ sotel
 soto
 sowan
 soyo
-sregep
 srengenge
 sri
 su
@@ -6572,6 +6552,7 @@ sundul
 sungai
 sungkan
 sungkem
+suntik
 suntuk
 sunyi
 suo
@@ -6837,7 +6818,6 @@ tiri
 tiru
 tisa
 tisu
-tit
 tita
 titan
 tite
@@ -6868,7 +6848,6 @@ tolong
 toma
 tomat
 tombak
-tomi
 tomo
 tompel
 ton
@@ -7225,7 +7204,6 @@ uras
 urat
 ure
 urek
-uren
 ures
 uri
 urii
@@ -7389,7 +7367,6 @@ waruh
 warung
 warya
 was
-wasis
 watak
 wates
 wati
