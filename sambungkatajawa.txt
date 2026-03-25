@@ -693,6 +693,7 @@ bahan
 baii
 bajigur
 bajing
+bajingan
 baju
 bakso
 baku
@@ -1517,6 +1518,7 @@ gantian
 gantung
 gantungan
 ganyong
+gap
 gapapa
 gaplek
 gapopo
@@ -4973,6 +4975,7 @@ rutan
 rute
 ruwah
 ruwat
+ruwatan
 ruwet
 sa
 saa
@@ -5636,6 +5639,7 @@ ua
 uan
 uang
 uange
+ub
 uban
 ubek
 ubi
