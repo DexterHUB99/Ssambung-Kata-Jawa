@@ -870,6 +870,7 @@ bila
 bilah
 bilai
 bima
+bimo
 bin
 bina
 bindeng
@@ -2050,7 +2051,6 @@ hantu
 hanung
 hao
 hap
-hapa
 hape
 hapi
 hapunten
@@ -3240,6 +3240,7 @@ lagii
 lagu
 lague
 lah
+lahan
 lahi
 lahir
 lair
@@ -4538,7 +4539,6 @@ nitip
 njaluk
 njupuk
 nki
-nnani
 nnduk
 nngalor
 nnina
@@ -5643,7 +5643,6 @@ satus
 saur
 sawah
 sawan
-sawang
 sawer
 sawi
 sawiji
@@ -5943,7 +5942,6 @@ surung
 surup
 surya
 sus
-susa
 susaa
 susah
 susan
@@ -6183,7 +6181,6 @@ tomat
 tombak
 tomo
 tompel
-ton
 tonggo
 tongkol
 toni
