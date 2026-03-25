@@ -2673,6 +2673,7 @@ kabur
 kaca
 kacamata
 kacang
+kacip
 kacir
 kacok
 kacu
@@ -4184,6 +4185,7 @@ ngasal
 ngasem
 ngasi
 ngasih
+ngasil
 ngasin
 ngaso
 ngasta
@@ -4441,6 +4443,7 @@ ngumbahi
 ngumpat
 ngumpet
 ngumpul
+ngun
 ngunci
 ngundang
 ngunjuk
@@ -4934,6 +4937,7 @@ panggil
 panggo
 panggon
 panguripan
+pani
 panjang
 panjenengan
 panji
