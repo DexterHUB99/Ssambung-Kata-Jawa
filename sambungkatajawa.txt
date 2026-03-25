@@ -1049,6 +1049,7 @@ dodik
 dodo
 dodol
 doh
+dok
 dokar
 dolan
 dolanan
@@ -2459,6 +2460,7 @@ kalah
 kalajengking
 kalan
 kalap
+kale
 kaleh
 kalem
 kaleng
@@ -3045,6 +3047,7 @@ lem
 lemah
 lemahe
 lemak
+leman
 lembah
 lembur
 lembut
