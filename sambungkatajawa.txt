@@ -9,10 +9,10 @@ abah
 abai
 abal
 abang
+abata
 abe
 abi
 abia
-abik
 abimanyu
 abis
 abo
@@ -39,6 +39,7 @@ adek
 adel
 adem
 adhem
+adhi
 adi
 adik
 adin
@@ -361,6 +362,7 @@ anane
 anang
 anangin
 anas
+anat
 anay
 ancam
 ancaman
@@ -783,7 +785,6 @@ beling
 belo
 ben
 benang
-bener
 bengek
 bengong
 beni
@@ -821,6 +822,7 @@ bini
 bintang
 bio
 bir
+biri
 biru
 bis
 bisa
@@ -1463,6 +1465,7 @@ esuk
 et
 eta
 etah
+etak
 etan
 etang
 etap
@@ -2484,6 +2487,7 @@ jodo
 jodoh
 jogo
 jok
+joki
 joko
 jokowi
 joli
@@ -3072,6 +3076,7 @@ lambene
 lambung
 lame
 lamek
+lami
 lamis
 lamon
 lamongan
@@ -3091,7 +3096,6 @@ landep
 landhep
 landung
 langgar
-langgeng
 langit
 langka
 langsing
@@ -3307,6 +3311,7 @@ lugu
 luh
 luhur
 luka
+luki
 lukis
 lulu
 luluh
@@ -4222,6 +4227,7 @@ niman
 nimba
 nimbali
 nimbang
+nimbul
 nimbun
 nimen
 nimu
@@ -4362,6 +4368,7 @@ nyangu
 nyani
 nyanyi
 nyapu
+nyawa
 nyawiji
 nyawit
 nyi
@@ -4383,6 +4390,7 @@ obeng
 obong
 obor
 obral
+ocok
 ocol
 od
 odak
@@ -4406,6 +4414,7 @@ ojol
 ok
 oka
 okai
+okak
 okal
 okam
 okan
@@ -4665,6 +4674,7 @@ pati
 patil
 patung
 pawang
+pawon
 payah
 payu
 payung
@@ -4924,6 +4934,7 @@ raino
 raiso
 raja
 rajang
+rajim
 rajin
 raju
 rajut
@@ -5077,7 +5088,6 @@ riko
 riku
 ril
 rila
-rilo
 rim
 rima
 rimi
@@ -5882,6 +5892,7 @@ turu
 turuk
 turukmu
 turuo
+tusu
 tusuk
 tuti
 tutuk
