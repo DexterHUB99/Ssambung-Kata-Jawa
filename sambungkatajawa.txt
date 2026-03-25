@@ -753,6 +753,7 @@ atuh
 atuk
 atum
 atun
+atuna
 atup
 atur
 aturaken
@@ -1723,6 +1724,7 @@ etuk
 etum
 etung
 ew
+ewa
 ewah
 ewan
 ewang
@@ -4545,6 +4547,7 @@ ngedar
 ngeden
 ngedol
 ngeeh
+ngegas
 ngegunung
 ngeh
 ngei
@@ -5738,6 +5741,7 @@ rati
 rating
 ratna
 ratu
+raung
 raup
 rausah
 raut
