@@ -4397,6 +4397,7 @@ ngawor
 ngawur
 ngaya
 ngayomi
+ngayuh
 ngayun
 nge
 ngebas
@@ -6640,6 +6641,7 @@ ukan
 ukar
 ukara
 ukaran
+ukarane
 ukas
 uke
 ukel
