@@ -488,6 +488,7 @@ apii
 apik
 apikan
 apil
+apim
 apo
 apolo
 apu
@@ -1560,6 +1561,7 @@ gasa
 gasak
 gasal
 gasi
+gasik
 gasing
 gass
 gatau
