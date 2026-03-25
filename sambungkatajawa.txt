@@ -1464,6 +1464,7 @@ eyang
 eyo
 ez
 faji
+firman
 fisik
 fix
 fo
@@ -3578,6 +3579,7 @@ nakal
 nakon
 nakula
 nala
+nalan
 nali
 nalik
 nalika
@@ -4284,6 +4286,7 @@ ocol
 od
 odak
 odol
+of
 og
 ogah
 ogak
