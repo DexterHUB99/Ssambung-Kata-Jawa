@@ -790,6 +790,7 @@ ba
 baa
 bab
 babak
+babal
 babat
 babi
 babu
@@ -3687,6 +3688,7 @@ luru
 luruh
 lurung
 lurus
+lus
 lusa
 lusi
 lusuh
@@ -6506,6 +6508,7 @@ turu
 turuk
 turukmu
 turuo
+tus
 tusu
 tusuk
 tuti
