@@ -1053,6 +1053,7 @@ cokan
 coklat
 col
 colak
+colo
 colong
 congor
 copo
@@ -1811,6 +1812,7 @@ gela
 gelang
 gelange
 gelap
+gelek
 gelem
 geleman
 geli
@@ -4196,6 +4198,7 @@ ngangsu
 ngangsur
 nganjuk
 ngano
+ngantar
 ngantem
 ngantemi
 nganteni
@@ -5172,6 +5175,7 @@ pitakon
 pitar
 pitek
 pitik
+piting
 pito
 pitu
 pitung
