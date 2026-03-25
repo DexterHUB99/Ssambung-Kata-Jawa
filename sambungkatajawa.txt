@@ -1402,6 +1402,7 @@ ekol
 ekor
 ekot
 eku
+ekut
 el
 ela
 elae
