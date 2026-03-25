@@ -548,6 +548,7 @@ arjuna
 arka
 arma
 aro
+arok
 arsi
 arta
 arti
@@ -3881,6 +3882,7 @@ ngarti
 ngaru
 ngaruh
 ngaruk
+ngarung
 ngarus
 ngas
 ngasa
@@ -6296,6 +6298,7 @@ woh
 woi
 woke
 woko
+wola
 wolu
 won
 wong
