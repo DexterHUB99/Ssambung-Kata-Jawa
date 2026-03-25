@@ -153,7 +153,6 @@ aiku
 ail
 aila
 ailan
-aili
 ailo
 aima
 aimu
@@ -605,7 +604,6 @@ arih
 arii
 arik
 arin
-arina
 aring
 ario
 arip
@@ -1057,7 +1055,6 @@ cen
 cendol
 cengkeh
 centil
-cepet
 ceplok
 ceri
 cerita
@@ -1274,7 +1271,6 @@ duga
 duh
 duha
 duit
-duju
 dujun
 duka
 duku
@@ -1459,7 +1455,6 @@ embuh
 embun
 embung
 eme
-emeh
 emek
 emer
 emes
@@ -2412,7 +2407,6 @@ ikii
 ikim
 ikio
 ikita
-iklas
 iklim
 iko
 ikoe
@@ -2528,7 +2522,6 @@ injing
 injuk
 injung
 insan
-insyaallah
 inti
 intil
 intine
@@ -3599,7 +3592,6 @@ lira
 liren
 lirih
 lirik
-liru
 lis
 lisa
 lisan
@@ -3917,11 +3909,9 @@ micek
 mie
 mii
 mik
-mika
 mikir
 mikul
 mila
-milan
 mili
 milih
 milu
@@ -3942,7 +3932,6 @@ mirah
 miri
 mis
 misah
-miskin
 misu
 misuh
 misuhi
@@ -4457,7 +4446,6 @@ ngenes
 ngeng
 ngengek
 ngenget
-ngengko
 ngengobrol
 ngenteni
 ngentu
@@ -4537,6 +4525,7 @@ ngilu
 ngima
 ngimpi
 ngin
+nginep
 nging
 nginggil
 ngintip
@@ -4610,7 +4599,6 @@ ngorek
 ngoreng
 ngori
 ngorok
-ngorong
 ngos
 ngosek
 ngoseng
@@ -5448,7 +5436,6 @@ purun
 pusaka
 puser
 pusing
-put
 pute
 putih
 puting
@@ -6249,7 +6236,6 @@ suwir
 suwun
 suya
 ta
-tablet
 tabo
 tabok
 tabrak
@@ -6370,7 +6356,6 @@ telur
 tem
 tema
 teman
-tembak
 tembe
 tembok
 teme
@@ -6773,7 +6758,6 @@ ungkit
 ungu
 uni
 unia
-unja
 unjal
 unjuk
 unma
@@ -6945,7 +6929,6 @@ waan
 waca
 wacana
 wadah
-wadoh
 wadol
 wadon
 waduh
@@ -7046,7 +7029,6 @@ wilangan
 wili
 wilujeng
 win
-wina
 wingi
 wingko
 winta
