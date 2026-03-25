@@ -2754,6 +2754,7 @@ jipang
 jipuk
 jir
 jira
+jiran
 jitak
 jiwa
 jiwae
@@ -3198,6 +3199,7 @@ kitaa
 kitab
 kite
 kiwa
+kiye
 klambi
 klambimu
 klebus
