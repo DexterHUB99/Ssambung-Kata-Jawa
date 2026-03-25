@@ -884,6 +884,7 @@ bahan
 bahasa
 bai
 baii
+baja
 bajigur
 bajing
 bajingan
@@ -6127,6 +6128,7 @@ rasa
 rasah
 rasak
 rasan
+rasane
 rasi
 rasis
 rasko
@@ -6198,6 +6200,7 @@ rempela
 rempeyek
 remu
 remuk
+ren
 rena
 renan
 renang
