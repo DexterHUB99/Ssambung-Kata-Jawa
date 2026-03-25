@@ -628,6 +628,7 @@ asih
 asii
 asik
 asil
+asim
 asin
 asing
 asir
