@@ -3445,6 +3445,7 @@ ker
 kera
 kerajin
 keram
+keramas
 keran
 kerang
 keras
@@ -3477,6 +3478,7 @@ kesandung
 kesasar
 kesat
 kese
+kesel
 keselek
 kesem
 keset
