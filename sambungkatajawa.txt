@@ -5574,6 +5574,7 @@ siapo
 sidha
 sie
 sigap
+sih
 sii
 siji
 sik
@@ -5954,6 +5955,7 @@ tim
 tima
 timah
 timang
+timbal
 timbang
 timbul
 timi
