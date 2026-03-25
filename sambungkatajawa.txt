@@ -5231,6 +5231,7 @@ suba
 subuh
 subur
 suci
+sucok
 sudah
 sude
 sudi
