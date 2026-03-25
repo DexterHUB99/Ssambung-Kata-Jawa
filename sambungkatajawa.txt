@@ -4372,6 +4372,7 @@ ngintip
 ngipas
 ngipasi
 ngira
+ngiras
 ngiri
 ngiris
 ngirit
