@@ -404,6 +404,7 @@ anay
 ancam
 ancaman
 ancen
+ancene
 ancer
 anci
 ancik
@@ -835,6 +836,7 @@ basil
 bat
 bata
 batak
+baten
 bati
 batok
 batu
@@ -1831,6 +1833,7 @@ gelombang
 gelot
 geluk
 gelut
+gem
 gema
 gemah
 gemas
@@ -5997,6 +6000,7 @@ sudo
 sue
 sugeh
 sugeng
+sugi
 sugih
 suh
 sui
@@ -6257,6 +6261,7 @@ tikus
 til
 tila
 tilam
+tilap
 tilar
 tilem
 tilep
