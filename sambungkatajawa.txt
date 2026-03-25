@@ -1026,6 +1026,7 @@ bumi
 bunder
 bunga
 bungkus
+bunglon
 buntel
 buntu
 buntung
@@ -4000,6 +4001,7 @@ matur
 maturnuwun
 matursuwun
 mau
+mawar
 mawon
 maya
 mayaa
@@ -6428,6 +6430,7 @@ sundul
 sungai
 sungkan
 sungkem
+suntik
 suntuk
 sunyi
 suo
