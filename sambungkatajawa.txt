@@ -1396,6 +1396,7 @@ emot
 empan
 empang
 empedu
+empek
 empeng
 empet
 emping
@@ -1679,6 +1680,7 @@ gamma
 gampang
 gampil
 gan
+ganco
 gancuk
 ganda
 gandeng
@@ -4824,6 +4826,7 @@ opah
 opak
 opal
 opel
+opem
 open
 openi
 oper
@@ -4900,6 +4903,7 @@ pa
 pacul
 pada
 padae
+padahal
 padang
 padha
 padhang
@@ -6070,6 +6074,7 @@ tarek
 tari
 taruk
 tas
+tasi
 tat
 tata
 tatas
