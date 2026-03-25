@@ -250,6 +250,7 @@ akut
 al
 ala
 alah
+alai
 alak
 alam
 alama
@@ -1206,6 +1207,7 @@ domba
 dona
 dong
 dongo
+doni
 dor
 dora
 doro
@@ -2112,6 +2114,7 @@ haru
 harum
 harus
 has
+hasa
 hasan
 hase
 hasem
@@ -6848,6 +6851,7 @@ wo
 woe
 woh
 woi
+wok
 woke
 woko
 wola
