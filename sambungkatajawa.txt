@@ -659,6 +659,7 @@ asri
 asta
 astaga
 astagfirullah
+astaghfirullah
 astane
 asti
 asu
@@ -5712,6 +5713,7 @@ sas
 sasa
 sasak
 sasi
+sasu
 sate
 satru
 satu
@@ -6011,6 +6013,7 @@ supi
 supo
 sura
 surabaya
+surai
 surat
 surau
 suri
@@ -6518,6 +6521,7 @@ umur
 un
 una
 unah
+unam
 unan
 unang
 uncal
