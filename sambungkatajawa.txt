@@ -3284,6 +3284,7 @@ mantuk
 mantul
 mantun
 manuk
+manungsa
 manusi
 manut
 maos
@@ -3770,6 +3771,7 @@ ngeces
 ngeden
 ngegunung
 ngeh
+ngei
 ngejak
 ngejek
 ngeki
@@ -4715,6 +4717,7 @@ rambut
 rambutan
 rame
 ramene
+rames
 rampun
 rampung
 ramu
@@ -5623,6 +5626,7 @@ ubek
 ubi
 ubii
 ubun
+uca
 ucap
 ucapan
 ucul
