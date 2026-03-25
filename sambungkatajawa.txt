@@ -1328,6 +1328,7 @@ dimari
 dimas
 din
 dina
+dinding
 dinggo
 dingin
 dini
@@ -5029,6 +5030,7 @@ ngoseng
 ngosi
 ngosok
 ngotak
+ngotori
 ngotot
 ngowoh
 ngoyak
