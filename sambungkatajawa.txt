@@ -5112,6 +5112,7 @@ samun
 san
 sana
 sandal
+sanduk
 sanes
 sang
 sangar
@@ -6142,6 +6143,7 @@ wiji
 wik
 wila
 wilangan
+wili
 wilujeng
 win
 wingi
@@ -6190,6 +6192,7 @@ yaampun
 yadi
 yae
 yah
+yai
 yaka
 yaken
 yakin
