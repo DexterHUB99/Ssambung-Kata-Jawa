@@ -1678,6 +1678,7 @@ endi
 endog
 endol
 endong
+endung
 ene
 ened
 eneg
@@ -7893,6 +7894,7 @@ yaken
 yakin
 yaksa
 yala
+yali
 yam
 yama
 yamaha
