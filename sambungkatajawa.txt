@@ -5678,6 +5678,7 @@ saii
 saiki
 saing
 sajake
+saji
 sak
 saka
 sakarep
@@ -6664,6 +6665,7 @@ urna
 uro
 urta
 uru
+urua
 uruk
 urun
 urunan
