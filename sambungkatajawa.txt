@@ -4705,6 +4705,7 @@ nisan
 niscaya
 nisi
 nita
+nitah
 nite
 niti
 nitih
@@ -6067,6 +6068,7 @@ sotel
 soto
 sowan
 soyo
+srengenge
 sri
 su
 sua
@@ -6884,6 +6886,7 @@ wala
 walang
 wali
 walik
+wan
 wanci
 wangi
 wangsul
