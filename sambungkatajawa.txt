@@ -5832,6 +5832,7 @@ puh
 puing
 puja
 pujaan
+puk
 puki
 pukimak
 pukul
