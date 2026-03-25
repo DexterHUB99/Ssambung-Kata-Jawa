@@ -4871,6 +4871,7 @@ piatu
 picek
 pie
 pii
+pijak
 pijer
 pijet
 pijit
@@ -5825,6 +5826,7 @@ tamune
 tan
 tana
 tanah
+tandang
 tanduk
 tandur
 tanduran
