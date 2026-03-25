@@ -621,6 +621,7 @@ areng
 arep
 arepan
 arepe
+aret
 arga
 ari
 aria
@@ -4701,6 +4702,7 @@ ngeseng
 ngesi
 ngesor
 ngesot
+ngestu
 ngesu
 ngesuk
 nget
@@ -7151,6 +7153,7 @@ uras
 urat
 ure
 urek
+uren
 ures
 uri
 urii
