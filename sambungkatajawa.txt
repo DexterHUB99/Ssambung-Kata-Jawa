@@ -1437,6 +1437,7 @@ gali
 galia
 galih
 galine
+galio
 galo
 galon
 galung
@@ -3915,6 +3916,7 @@ ngurusi
 ngusel
 ngusir
 ngusu
+ngusung
 nguta
 ngutang
 ngutangan
