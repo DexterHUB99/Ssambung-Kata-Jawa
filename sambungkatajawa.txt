@@ -371,6 +371,7 @@ angguk
 anggur
 angin
 angka
+angkasa
 angkat
 angker
 angklung
@@ -3044,6 +3045,7 @@ lucu
 ludah
 ludruk
 lugu
+luh
 luhur
 luka
 lukis
@@ -3881,6 +3883,7 @@ nimbali
 nimbang
 nimbun
 nimen
+nimu
 nin
 nina
 nindak
@@ -5348,6 +5351,7 @@ tore
 toro
 toto
 towo
+tresno
 tu
 tua
 tuak
