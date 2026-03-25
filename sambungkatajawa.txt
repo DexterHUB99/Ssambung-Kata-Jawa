@@ -2727,7 +2727,6 @@ jigong
 jijik
 jika
 jikuk
-jil
 jila
 jilat
 jilbab
@@ -3588,6 +3587,7 @@ lira
 liren
 lirih
 lirik
+liru
 lis
 lisa
 lisan
@@ -5234,7 +5234,6 @@ pepek
 pepes
 peran
 perang
-perih
 perlu
 pesing
 peso
@@ -5824,7 +5823,6 @@ saleh
 sali
 salim
 salira
-salo
 salom
 salut
 sam
@@ -6254,7 +6252,6 @@ talas
 tales
 tali
 talie
-talo
 tam
 tama
 taman
@@ -6774,7 +6771,6 @@ upah
 upal
 upama
 upan
-upas
 upaya
 upel
 upi
