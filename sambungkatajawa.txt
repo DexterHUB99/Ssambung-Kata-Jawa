@@ -899,6 +899,7 @@ dandang
 dani
 dap
 dapur
+dara
 darah
 dari
 darma
@@ -5562,6 +5563,7 @@ usut
 uta
 utaa
 utah
+utai
 utak
 utama
 utami
