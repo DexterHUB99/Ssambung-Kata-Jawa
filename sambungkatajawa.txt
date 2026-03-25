@@ -1625,6 +1625,7 @@ emba
 embah
 emban
 embat
+embe
 ember
 emboh
 embok
@@ -1709,6 +1710,7 @@ enjing
 enko
 eno
 enok
+enom
 enong
 enri
 entak
@@ -4498,6 +4500,7 @@ muta
 mutah
 mute
 muter
+muti
 na
 naa
 nab
