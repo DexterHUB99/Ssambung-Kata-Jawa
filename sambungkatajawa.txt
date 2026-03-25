@@ -859,6 +859,7 @@ biba
 bibar
 bibi
 bibik
+bibit
 bidan
 bidun
 bidur
