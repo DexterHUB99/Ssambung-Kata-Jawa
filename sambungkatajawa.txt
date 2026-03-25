@@ -2753,6 +2753,7 @@ kara
 karak
 karang
 kare
+karem
 karep
 karepmu
 kari
@@ -4340,6 +4341,7 @@ ngotot
 ngowoh
 ngoyak
 ngoyo
+ngrep
 ngrit
 ngsu
 nguber
