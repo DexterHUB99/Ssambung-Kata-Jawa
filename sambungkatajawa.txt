@@ -1636,6 +1636,7 @@ endang
 endange
 endap
 endas
+endase
 endel
 endi
 endog
@@ -1661,6 +1662,7 @@ enik
 ening
 enjang
 enjing
+enko
 eno
 enok
 enong
@@ -1729,6 +1731,7 @@ erem
 eren
 ereng
 erer
+eres
 eret
 eri
 eria
@@ -2062,6 +2065,7 @@ geme
 gemes
 gemi
 gempa
+gempal
 gempar
 gempil
 gempol
@@ -2176,6 +2180,7 @@ gol
 gola
 gole
 golek
+goleki
 golet
 goleti
 goli
@@ -2735,6 +2740,7 @@ inggih
 inggil
 ingin
 ingkang
+ingku
 ingkung
 ingsun
 ingu
@@ -3653,6 +3659,7 @@ kuping
 kupu
 kur
 kura
+kuran
 kurang
 kurawa
 kurban
@@ -4072,6 +4079,7 @@ mah
 maha
 mahal
 mahar
+mahir
 mai
 maido
 maii
@@ -4300,6 +4308,7 @@ molen
 moli
 molok
 mom
+momong
 momori
 momot
 mona
@@ -4908,6 +4917,7 @@ nggae
 nggah
 nggak
 nggaku
+nggali
 nggateli
 nggawa
 nggawe
@@ -5758,6 +5768,7 @@ piano
 piatu
 picek
 pidak
+pidana
 pie
 pii
 pijak
@@ -5965,6 +5976,7 @@ rabu
 rabun
 racik
 racun
+radar
 raden
 radi
 radika
@@ -6276,6 +6288,7 @@ royo
 rt
 ru
 rua
+ruah
 ruam
 ruang
 rubuh
@@ -6555,6 +6568,7 @@ siao
 siap
 siapa
 siapo
+sida
 sidang
 sidha
 sie
@@ -6711,6 +6725,7 @@ sugeh
 sugeng
 sugi
 sugih
+sugu
 suh
 sui
 suji
@@ -6819,7 +6834,6 @@ tae
 taek
 tah
 tahan
-tahi
 tahta
 tahu
 tahun
@@ -7176,6 +7190,7 @@ ucek
 ucik
 ucul
 uda
+udae
 udah
 udahan
 udal
@@ -7413,6 +7428,7 @@ ur
 ura
 uraa
 urab
+urae
 urah
 uraha
 urai
