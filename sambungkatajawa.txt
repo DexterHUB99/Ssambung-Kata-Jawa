@@ -372,6 +372,7 @@ anduk
 ane
 aneh
 aneng
+anes
 ange
 angel
 angen
@@ -4646,6 +4647,7 @@ raa
 rabi
 rabit
 rabun
+racik
 racun
 raden
 radika
@@ -5586,6 +5588,7 @@ turukmu
 turuo
 tusuk
 tuti
+tutuk
 tutup
 tutur
 tuwo
@@ -5726,6 +5729,7 @@ umbul
 ume
 umi
 umo
+ump
 umpama
 umpan
 umra
