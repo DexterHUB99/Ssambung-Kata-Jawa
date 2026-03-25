@@ -1573,6 +1573,7 @@ gopoh
 gor
 goren
 goreng
+gorengan
 gori
 goro
 goroh
@@ -2207,6 +2208,7 @@ jom
 jombang
 jomlo
 jon
+jongi
 jongkok
 jongo
 joni
