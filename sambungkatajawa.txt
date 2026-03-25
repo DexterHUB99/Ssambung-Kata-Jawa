@@ -5803,6 +5803,7 @@ rumput
 rumus
 run
 runcing
+runding
 rung
 rungkad
 rungu
