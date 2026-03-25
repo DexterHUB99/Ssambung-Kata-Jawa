@@ -32,6 +32,7 @@ adaa
 adab
 adah
 adap
+ade
 adek
 adem
 adhem
@@ -2667,6 +2668,7 @@ keset
 kesleo
 kesusu
 ketan
+ketat
 ketek
 ketel
 ketemu
@@ -3057,6 +3059,7 @@ limu
 limun
 lin
 lina
+linggih
 linggis
 lingkaran
 linglung
@@ -4463,6 +4466,7 @@ peler
 peli
 pelit
 pelo
+peluk
 pema
 pen
 pena
@@ -5369,6 +5373,7 @@ tamtu
 tamu
 tamune
 tan
+tana
 tanah
 tanduk
 tandur
