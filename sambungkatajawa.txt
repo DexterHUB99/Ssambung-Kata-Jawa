@@ -2558,6 +2558,7 @@ kedadi
 kedah
 kedai
 kedaton
+kedondong
 kedurung
 kedut
 kejar
@@ -4652,6 +4653,7 @@ puting
 putra
 putri
 putu
+putus
 puyeng
 puyuh
 ra
