@@ -186,6 +186,7 @@ akis
 akit
 aklam
 ako
+akol
 akon
 akor
 akra
@@ -989,6 +990,7 @@ desa
 deso
 dewi
 di
+diamput
 diana
 diba
 didesa
@@ -1958,6 +1960,7 @@ hu
 hubung
 hubungan
 huda
+hudan
 hujan
 huk
 hukum
@@ -2291,6 +2294,7 @@ iyu
 iyuh
 iz
 jabur
+jadi
 jae
 jaga
 jago
@@ -2425,6 +2429,7 @@ kalah
 kalajengking
 kalan
 kalap
+kaleh
 kalem
 kaleng
 kali
@@ -3873,6 +3878,7 @@ ngising
 ngisor
 ngisu
 ngisuh
+ngitil
 ngitung
 ngko
 nglantur
