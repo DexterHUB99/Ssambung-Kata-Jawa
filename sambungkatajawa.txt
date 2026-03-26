@@ -3658,6 +3658,7 @@ kemben
 kemeja
 kemiri
 kemos
+kempes
 kempit
 kempol
 kemproh
@@ -6823,6 +6824,7 @@ rolas
 rolo
 rom
 roma
+romah
 romawi
 rombak
 rombeng
