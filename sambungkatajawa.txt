@@ -5196,6 +5196,7 @@ ngosek
 ngoseng
 ngosi
 ngosok
+ngot
 ngotak
 ngotori
 ngotot
@@ -8022,6 +8023,7 @@ yoh
 yohan
 yoi
 yok
+yoki
 yolo
 yom
 yoman
