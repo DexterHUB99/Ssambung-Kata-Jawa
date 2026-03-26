@@ -10,7 +10,6 @@ abai
 abal
 abang
 abata
-abdi
 abe
 abena
 abi
@@ -1324,6 +1323,7 @@ dalu
 dama
 damai
 damar
+damara
 damel
 damen
 dampak
@@ -1440,7 +1440,6 @@ diran
 diren
 diri
 diriku
-diru
 dirumah
 dis
 disek
@@ -2042,6 +2041,7 @@ galio
 galo
 galon
 galung
+gam
 gama
 gaman
 gambang
@@ -2083,6 +2083,7 @@ gani
 ganja
 ganjar
 ganjil
+ganjur
 ganta
 gantang
 ganteng
@@ -2107,7 +2108,6 @@ garai
 garang
 garanga
 garap
-garapan
 garasi
 garbis
 garda
@@ -2236,7 +2236,6 @@ gene
 geneo
 genep
 geneyo
-geng
 genge
 geni
 genio
@@ -2313,7 +2312,6 @@ gita
 gitar
 giwang
 glagah
-glora
 go
 goblog
 goblok
@@ -2877,7 +2875,6 @@ imbase
 imboh
 imbu
 imbuh
-imbul
 ime
 imi
 iming
@@ -3869,6 +3866,7 @@ kumpul
 kumuh
 kun
 kuna
+kunang
 kunci
 kuncup
 kundur
@@ -4764,6 +4762,7 @@ nangkep
 nangkring
 nani
 naning
+nano
 nantang
 nanti
 nanya
@@ -4941,7 +4940,6 @@ ngalangi
 ngalap
 ngale
 ngaleh
-ngalem
 ngaler
 ngali
 ngalih
@@ -5308,7 +5306,6 @@ ngisu
 ngisuh
 ngitil
 ngitung
-ngiwang
 ngka
 ngko
 nglantur
@@ -5379,7 +5376,6 @@ ngowoh
 ngoyak
 ngoyo
 ngragal
-ngragas
 ngrayu
 ngrep
 ngrit
@@ -5388,6 +5384,7 @@ ngsu
 ngubek
 nguber
 ngubur
+ngucap
 ngudang
 ngudek
 ngudi
@@ -6192,6 +6189,7 @@ pipil
 pipis
 pipit
 pipu
+pipur
 pir
 pira
 pirang
@@ -6433,7 +6431,6 @@ randu
 randue
 rangda
 rangga
-rangkul
 rangu
 rani
 ranjang
@@ -6497,6 +6494,7 @@ rebung
 rebus
 rebut
 rebutan
+receh
 redi
 rega
 regan
@@ -6798,6 +6796,7 @@ salun
 salut
 sam
 sama
+saman
 sambal
 sambang
 sambat
@@ -7393,9 +7392,7 @@ telur
 tem
 tema
 teman
-temanggung
 tembaga
-tembang
 tembe
 tembem
 tembok
@@ -7482,7 +7479,6 @@ tini
 tinju
 tip
 tir
-tira
 tirai
 tiri
 tiru
@@ -7819,6 +7815,7 @@ umurmu
 un
 una
 unah
+unak
 unam
 unan
 unang
@@ -8241,7 +8238,6 @@ yana
 yang
 yani
 yano
-yap
 yapa
 yapi
 yaping
