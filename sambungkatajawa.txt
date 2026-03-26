@@ -2065,6 +2065,7 @@ eyang
 eye
 eyem
 eyo
+eyup
 ez
 faji
 firman
@@ -3023,6 +3024,7 @@ inam
 inama
 inana
 inang
+inara
 inaya
 inda
 indah
@@ -4269,6 +4271,7 @@ lengah
 lenggah
 lengser
 leni
+lepi
 ler
 leren
 leres
@@ -6815,6 +6818,7 @@ renan
 renang
 rendang
 rendeng
+rendi
 rene
 reng
 rengginang
