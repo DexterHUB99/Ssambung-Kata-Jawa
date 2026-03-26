@@ -2187,6 +2187,7 @@ gaji
 gajian
 gajie
 gak
+gaka
 gaki
 gakiso
 gakro
@@ -6460,6 +6461,7 @@ palang
 paleh
 palem
 paleng
+palet
 pali
 paling
 palko
