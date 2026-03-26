@@ -4410,6 +4410,7 @@ misuhi
 mitoni
 mlaku
 mlebu
+mlumah
 mmbuh
 mmelu
 mo
@@ -5987,6 +5988,7 @@ pipu
 pir
 pira
 pirang
+piring
 piro
 pis
 pisa
