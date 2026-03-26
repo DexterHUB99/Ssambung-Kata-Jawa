@@ -6757,6 +6757,7 @@ pian
 piano
 piatu
 picek
+picik
 pidak
 pidama
 pidan
@@ -7314,6 +7315,7 @@ rok
 roka
 rokaat
 roket
+roki
 roko
 rokok
 rola
