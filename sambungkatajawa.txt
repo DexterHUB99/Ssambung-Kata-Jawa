@@ -6019,6 +6019,7 @@ pijet
 pijit
 piki
 pikun
+pikur
 pil
 pila
 pilah
@@ -7681,6 +7682,7 @@ ungger
 unggul
 ungkal
 ungkap
+ungkapan
 ungkar
 ungker
 ungkit
