@@ -3594,6 +3594,7 @@ kamia
 kamii
 kamila
 kamilan
+kamir
 kamis
 kamise
 kamit
@@ -4865,6 +4866,7 @@ mewek
 mi
 mia
 micek
+midak
 mie
 mii
 mik
@@ -6158,6 +6160,7 @@ obeng
 oblong
 obok
 obong
+obongan
 obor
 oboti
 obral
