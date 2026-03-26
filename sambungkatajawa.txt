@@ -1881,6 +1881,7 @@ enko
 eno
 enok
 enom
+enome
 enong
 enri
 enta
