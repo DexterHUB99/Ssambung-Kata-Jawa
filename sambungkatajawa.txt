@@ -387,6 +387,7 @@ ambegan
 ambek
 amben
 ambeng
+ambengan
 amber
 ambi
 ambik
@@ -5058,6 +5059,7 @@ napal
 napas
 napi
 napo
+napsu
 nar
 nara
 narada
