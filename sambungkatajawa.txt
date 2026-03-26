@@ -739,6 +739,7 @@ ardi
 are
 arek
 arem
+arema
 aren
 areng
 arep
@@ -6391,6 +6392,7 @@ ojok
 ojol
 ok
 oka
+okaa
 okae
 okai
 okak
