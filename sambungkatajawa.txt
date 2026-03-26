@@ -217,6 +217,7 @@ ajure
 ak
 aka
 akad
+akah
 akak
 akaku
 akal
@@ -3680,6 +3681,7 @@ kiki
 kikil
 kil
 kila
+kilap
 kilat
 kilen
 kili
@@ -4555,6 +4557,7 @@ miri
 miring
 mis
 misah
+misi
 misu
 misuh
 misuhi
