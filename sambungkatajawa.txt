@@ -1697,6 +1697,7 @@ ehil
 ehim
 ehir
 eho
+ehob
 ehoh
 ehok
 ehop
@@ -8345,6 +8346,7 @@ unii
 uning
 unjal
 unjar
+unjaran
 unjuk
 unjukan
 unjung
