@@ -5257,6 +5257,7 @@ ngambil
 ngambu
 ngambul
 ngambung
+ngame
 ngamem
 ngami
 ngamil
@@ -6315,6 +6316,7 @@ paji
 pak
 paka
 pakan
+pakap
 paksa
 paku
 pala
