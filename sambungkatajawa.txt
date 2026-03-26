@@ -688,6 +688,7 @@ apal
 apan
 apane
 apangan
+apapa
 apar
 apas
 apasi
@@ -5801,6 +5802,7 @@ ngere
 ngerem
 ngeres
 ngeri
+ngero
 ngerok
 ngeroso
 ngerti
