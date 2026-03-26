@@ -116,6 +116,7 @@ ahat
 ahaw
 ahay
 ahe
+ahed
 ahek
 ahem
 ahen
@@ -749,6 +750,7 @@ arti
 artine
 artis
 arto
+artos
 aru
 aruh
 arul
@@ -3160,6 +3162,7 @@ ipun
 ipwa
 ir
 ira
+iraa
 irab
 irae
 irah
