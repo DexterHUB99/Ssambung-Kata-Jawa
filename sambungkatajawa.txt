@@ -1414,6 +1414,7 @@ dahi
 daju
 daki
 daku
+dakun
 dal
 dala
 dalam
@@ -8746,6 +8747,7 @@ wela
 welo
 wen
 wena
+weneh
 wengi
 weni
 werkudara
