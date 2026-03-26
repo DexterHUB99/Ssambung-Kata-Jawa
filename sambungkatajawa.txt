@@ -5445,6 +5445,7 @@ nipu
 nipun
 nira
 niri
+niris
 nirwana
 nis
 nisa
@@ -6944,6 +6945,7 @@ sirah
 siram
 siraman
 sirep
+siri
 sirih
 siro
 sirsak
