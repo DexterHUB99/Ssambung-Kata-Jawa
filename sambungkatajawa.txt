@@ -3252,6 +3252,7 @@ jaran
 jaranan
 jare
 jari
+jarik
 jaring
 jarum
 jatuh
@@ -8336,6 +8337,7 @@ wahana
 wahing
 wahyu
 wai
+waja
 wajah
 wajan
 wajik
