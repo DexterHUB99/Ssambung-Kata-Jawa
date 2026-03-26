@@ -2142,6 +2142,7 @@ esep
 eses
 esi
 esih
+esin
 eso
 esok
 eson
@@ -6701,6 +6702,7 @@ pandan
 pandang
 pandu
 panduan
+pane
 panen
 pang
 pangan
@@ -8240,6 +8242,7 @@ tegak
 tegal
 teh
 teha
+tek
 tekan
 teko
 tekor
