@@ -2228,6 +2228,7 @@ garem
 gareme
 garen
 gareng
+gares
 gari
 garih
 garii
@@ -4533,6 +4534,7 @@ macak
 macan
 macul
 mad
+mada
 madan
 madang
 madas
