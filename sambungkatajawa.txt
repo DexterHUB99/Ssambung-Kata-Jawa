@@ -359,6 +359,7 @@ aloy
 alpukat
 alu
 aluban
+alul
 alum
 alumni
 alun
@@ -375,6 +376,7 @@ amal
 amala
 amalan
 amam
+amama
 aman
 amanah
 amanat
@@ -867,6 +869,7 @@ atek
 aten
 atep
 ater
+ates
 ati
 atia
 atid
@@ -1135,7 +1138,6 @@ bihun
 bijak
 biji
 bik
-biki
 bikin
 bil
 bila
@@ -1459,7 +1461,6 @@ dana
 danaa
 danau
 dancok
-dancuk
 dandan
 dandang
 dangkal
@@ -2814,7 +2815,6 @@ heha
 hehe
 hehi
 hei
-heki
 hela
 hele
 heli
@@ -3392,7 +3392,6 @@ jamak
 jaman
 jamat
 jambak
-jambi
 jambu
 jamput
 jamu
@@ -3498,7 +3497,6 @@ jom
 jombang
 jomblo
 jomlo
-jomo
 jon
 jongi
 jongkok
@@ -4356,6 +4354,7 @@ lanjut
 lansia
 lantai
 lantang
+lanting
 lantun
 lantur
 lanyah
@@ -5195,6 +5194,7 @@ nangkring
 nani
 naning
 nanja
+nano
 nantang
 nanti
 nanya
@@ -5364,7 +5364,7 @@ ngaduk
 ngadus
 ngae
 ngaga
-ngagel
+ngagang
 ngago
 ngah
 ngahi
@@ -6181,6 +6181,7 @@ nyamar
 nyambi
 nyamuk
 nyang
+nyangking
 nyangkul
 nyangu
 nyani
@@ -6995,6 +6996,7 @@ ramping
 rampok
 rampun
 rampung
+ramta
 ramu
 ramua
 ramuan
@@ -8106,6 +8108,7 @@ ticok
 tigan
 tik
 tika
+tikan
 tikar
 tiki
 tiktok
