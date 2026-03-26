@@ -3264,6 +3264,7 @@ inana
 inang
 inara
 inaya
+incar
 inda
 indah
 indak
@@ -8730,6 +8731,7 @@ ukem
 uken
 ukep
 uker
+ukes
 uki
 ukin
 ukir
@@ -9173,6 +9175,7 @@ weda
 wedal
 wedan
 wedang
+wedangen
 wedhang
 wedhus
 wedi
