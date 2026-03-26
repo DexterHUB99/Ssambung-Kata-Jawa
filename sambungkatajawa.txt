@@ -1544,6 +1544,7 @@ dibi
 didesa
 didi
 didik
+didin
 dihapus
 dik
 dika
@@ -3152,6 +3153,7 @@ ina
 inah
 inai
 inak
+inal
 inam
 inama
 inana
