@@ -922,6 +922,7 @@ baku
 bakul
 bal
 balai
+balap
 balek
 bali
 balik
@@ -1616,6 +1617,7 @@ eleke
 elel
 elen
 eleng
+elep
 eli
 elig
 elii
