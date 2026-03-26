@@ -5796,6 +5796,7 @@ ngestu
 ngesu
 ngesuk
 nget
+ngeta
 ngetan
 ngetel
 ngetok
