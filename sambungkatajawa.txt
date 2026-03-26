@@ -1064,6 +1064,7 @@ basil
 basin
 baso
 basu
+basuh
 bat
 bata
 batak
@@ -6365,6 +6366,7 @@ olih
 olika
 olin
 oling
+olit
 olo
 oloh
 olok
