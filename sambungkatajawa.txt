@@ -1475,7 +1475,6 @@ cuti
 dada
 dadah
 dadali
-dadang
 dadar
 dadi
 dadis
@@ -1789,7 +1788,6 @@ egah
 egak
 egal
 ege
-eges
 egi
 egik
 ego
@@ -1872,7 +1870,6 @@ ekoh
 ekok
 ekol
 ekon
-ekop
 ekor
 ekore
 ekos
@@ -3206,7 +3203,6 @@ ilmu
 ilmune
 ilo
 ilok
-ilon
 iloo
 ilu
 ilue
@@ -5954,7 +5950,6 @@ ngiki
 ngikil
 ngiku
 ngikut
-ngil
 ngila
 ngilag
 ngilang
@@ -6424,7 +6419,6 @@ nyawat
 nyawiji
 nyawit
 nyekel
-nyeker
 nyeleh
 nyi
 nyiku
@@ -7533,7 +7527,6 @@ ron
 rona
 ronda
 rondo
-rondoo
 ronggeng
 ronggo
 roni
@@ -8495,7 +8488,6 @@ tokoh
 tola
 tolak
 tole
-toleh
 toli
 tolol
 tolong
@@ -8809,7 +8801,6 @@ umbi
 umbul
 ume
 umi
-umii
 ummi
 umo
 ump
