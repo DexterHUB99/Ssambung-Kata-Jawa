@@ -1297,6 +1297,7 @@ dara
 darah
 dari
 darma
+darus
 das
 dasar
 dasi
@@ -6432,6 +6433,7 @@ rogoh
 roi
 rok
 roka
+rokaat
 roket
 roko
 rokok
