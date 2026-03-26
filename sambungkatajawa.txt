@@ -1245,6 +1245,7 @@ cikal
 cikur
 cilok
 cimu
+cimut
 cina
 cincang
 cincin
@@ -1311,6 +1312,7 @@ dalang
 dale
 dalem
 daleman
+daleme
 dali
 dalih
 dalu
@@ -1318,6 +1320,7 @@ dama
 damai
 damar
 damel
+damen
 dampak
 dampar
 damping
@@ -1609,6 +1612,7 @@ ekas
 eke
 ekeh
 ekek
+ekeka
 ekel
 ekem
 eken
@@ -4582,6 +4586,7 @@ muka
 mukakmu
 muke
 muki
+muku
 mukul
 mul
 mula
