@@ -723,6 +723,7 @@ arif
 arih
 arii
 arik
+arika
 arim
 arin
 aring
@@ -5257,6 +5258,7 @@ ngaler
 ngali
 ngalih
 ngalir
+ngalo
 ngalor
 ngalos
 ngalu
@@ -6440,6 +6442,7 @@ pasu
 pasukan
 pasuruhan
 pat
+paten
 pateni
 pati
 patih
