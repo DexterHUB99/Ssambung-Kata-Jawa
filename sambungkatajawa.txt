@@ -5351,6 +5351,7 @@ nawi
 nawon
 naya
 ndak
+ndalu
 ndang
 ndas
 ndasmu
@@ -5387,6 +5388,7 @@ nekate
 neko
 nela
 nelae
+nelayan
 nelen
 neli
 nelongso
@@ -6674,6 +6676,7 @@ pang
 pangan
 panganan
 pangapunten
+pangestu
 panggah
 panggang
 panggih
@@ -8190,6 +8193,7 @@ tawang
 tawar
 tawe
 tawon
+taya
 tayi
 tayo
 te
