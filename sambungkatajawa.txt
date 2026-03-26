@@ -5020,6 +5020,7 @@ mendoan
 mene
 menehi
 meneng
+menika
 mentah
 mentas
 menyang
@@ -7567,6 +7568,7 @@ sa
 saa
 saan
 saapi
+saba
 sabar
 sabe
 saben
