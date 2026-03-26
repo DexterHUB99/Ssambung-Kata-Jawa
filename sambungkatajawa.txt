@@ -6413,6 +6413,7 @@ ondol
 ondone
 oneng
 ongak
+ongkeh
 ongkek
 ongkel
 ongko
