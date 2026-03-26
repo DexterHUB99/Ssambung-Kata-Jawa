@@ -815,6 +815,7 @@ asti
 astina
 asu
 asuh
+asuha
 asui
 asul
 asun
@@ -3672,6 +3673,7 @@ kawat
 kawe
 kawen
 kawi
+kawih
 kawin
 kawit
 kawok
@@ -8650,6 +8652,7 @@ wiri
 wis
 wisa
 wisan
+wisnu
 wisuh
 wit
 wita
