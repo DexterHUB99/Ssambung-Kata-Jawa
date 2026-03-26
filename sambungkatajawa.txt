@@ -4572,6 +4572,7 @@ leman
 lemari
 lemas
 lembah
+lembar
 lembek
 lembur
 lembut
@@ -5473,6 +5474,7 @@ nemen
 nemi
 nempali
 nempel
+nempil
 nemu
 nen
 nendang
