@@ -713,6 +713,7 @@ arif
 arih
 arii
 arik
+arim
 arin
 aring
 ario
@@ -8632,6 +8633,7 @@ yuki
 yuko
 yula
 yuli
+yulo
 yuma
 yumi
 yumu
