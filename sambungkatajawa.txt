@@ -342,6 +342,7 @@ amalan
 amam
 aman
 amanah
+amanat
 amane
 amang
 amar
@@ -404,6 +405,7 @@ ampel
 ampela
 ampelan
 ampelo
+ampir
 amplas
 ampok
 ampu
