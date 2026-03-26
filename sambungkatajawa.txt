@@ -4050,6 +4050,7 @@ kempit
 kempol
 kemproh
 kemul
+kemuning
 kemut
 ken
 kena
@@ -5906,6 +5907,7 @@ ngengobrol
 ngenko
 ngenos
 ngenteni
+ngentil
 ngentoh
 ngentu
 ngentui
@@ -7042,6 +7044,7 @@ pilup
 pilus
 pin
 pina
+pinan
 pinang
 pinarak
 pincang
@@ -8253,6 +8256,7 @@ susilo
 susok
 susu
 susuk
+susuke
 susul
 susumu
 susune
