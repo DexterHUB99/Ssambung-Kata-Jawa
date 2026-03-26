@@ -5587,6 +5587,7 @@ ngapurane
 ngapuro
 ngapus
 ngapusi
+ngarah
 ngarai
 ngarak
 ngarang
@@ -6504,6 +6505,7 @@ oper
 opet
 opik
 opini
+opit
 opo
 opoe
 opoiki
