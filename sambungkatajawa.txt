@@ -1140,6 +1140,7 @@ bintang
 bio
 bir
 biri
+biro
 biru
 bis
 bisa
