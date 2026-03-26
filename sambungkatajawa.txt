@@ -269,6 +269,7 @@ akis
 akit
 aklam
 ako
+akoh
 akol
 akon
 akor
@@ -1044,6 +1045,7 @@ belek
 beli
 beling
 belo
+belut
 ben
 benang
 bener
@@ -1143,6 +1145,7 @@ boso
 bosok
 bot
 botak
+bothok
 boti
 boto
 botok
@@ -1259,6 +1262,7 @@ celak
 celana
 celek
 celeng
+celengan
 celu
 celuk
 cema
@@ -1446,6 +1450,7 @@ dewean
 dewi
 dewo
 di
+diajak
 diamput
 diana
 dianik
@@ -1735,6 +1740,7 @@ eloo
 elor
 elos
 elot
+eloy
 elu
 eluh
 eluk
@@ -3244,6 +3250,7 @@ jauh
 jawa
 jawab
 jawi
+je
 jebul
 jela
 jelang
@@ -3578,6 +3585,7 @@ kawit
 kawok
 kawruh
 kawula
+kawun
 kawus
 kaya
 kayah
@@ -3598,6 +3606,7 @@ keceh
 kecer
 keceret
 kecoa
+kecolongan
 kecut
 kedadi
 kedah
@@ -3899,6 +3908,7 @@ kopok
 kopyor
 kor
 kora
+korak
 koran
 korban
 korek
@@ -4227,6 +4237,7 @@ lian
 liana
 liane
 liar
+libu
 libur
 licin
 lidah
@@ -4476,7 +4487,6 @@ maku
 malah
 malahan
 malaikat
-malak
 malam
 malang
 malas
@@ -4650,6 +4660,7 @@ micek
 mie
 mii
 mik
+mika
 miki
 mikir
 mikul
@@ -4695,7 +4706,6 @@ moci
 moco
 modal
 modar
-modo
 modus
 modyar
 mogok
@@ -4947,6 +4957,7 @@ natan
 natap
 natar
 nate
+natur
 nawa
 nawang
 nawar
@@ -5422,6 +5433,7 @@ ngijo
 ngijoli
 ngik
 ngiki
+ngiku
 ngikut
 ngila
 ngilang
@@ -5473,7 +5485,6 @@ ngitung
 ngiwang
 ngka
 ngko
-nglah
 nglali
 nglantur
 nglim
@@ -6134,7 +6145,6 @@ pagi
 pahing
 pahit
 paido
-paijo
 paing
 pait
 pajak
@@ -6475,6 +6485,7 @@ powa
 poyo
 prai
 praja
+prawan
 prei
 pria
 pripun
@@ -6969,6 +6980,7 @@ saget
 sagu
 sah
 saha
+sahit
 sahur
 sai
 saia
@@ -7005,6 +7017,8 @@ salun
 salut
 sam
 sama
+samah
+saman
 sambal
 sambang
 sambat
@@ -7353,6 +7367,7 @@ suamii
 suar
 suara
 suaramu
+suaro
 suasu
 suba
 subuh
@@ -7494,7 +7509,6 @@ tak
 takaran
 takdir
 taki
-takjil
 tako
 takon
 takoni
@@ -7705,10 +7719,10 @@ tingkah
 tini
 tinju
 tip
-tipi
 tir
 tira
 tirai
+tiran
 tiri
 tiru
 tisa
@@ -7744,7 +7758,6 @@ tokoh
 tola
 tolak
 tole
-toleh
 tolol
 tolong
 toma
@@ -8119,6 +8132,7 @@ up
 upa
 upacara
 upah
+upak
 upal
 upama
 upan
