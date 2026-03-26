@@ -1527,6 +1527,7 @@ dimas
 dimasak
 din
 dina
+dinar
 dinding
 dinggo
 dingin
@@ -2510,6 +2511,7 @@ gondol
 gondrong
 gong
 gongso
+gontor
 gopal
 gopoh
 gor
@@ -3598,6 +3600,7 @@ kapa
 kapak
 kapal
 kapan
+kapane
 kape
 kapel
 kapi
@@ -4376,6 +4379,7 @@ libu
 libur
 licin
 lidah
+lih
 lihat
 lii
 lik
@@ -6950,6 +6954,7 @@ remah
 remang
 remas
 remba
+rembang
 rembes
 rembug
 rembuk
@@ -8198,6 +8203,7 @@ uing
 uira
 uj
 uja
+ujam
 ujan
 ujar
 uji
