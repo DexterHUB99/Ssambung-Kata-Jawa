@@ -9043,6 +9043,7 @@ uso
 usra
 usrek
 ustadz
+ustadzah
 usu
 usua
 usui
