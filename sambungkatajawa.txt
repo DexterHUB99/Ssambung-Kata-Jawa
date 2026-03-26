@@ -1707,6 +1707,7 @@ dungo
 duno
 dunung
 dupa
+dupak
 dupo
 duren
 duri
@@ -1891,6 +1892,7 @@ elum
 elus
 em
 ema
+emaa
 emae
 emaem
 emah
@@ -7432,6 +7434,7 @@ rudah
 rugi
 ruh
 ruha
+ruhi
 rui
 rujak
 rujakcingur
@@ -8647,6 +8650,7 @@ umbar
 umbas
 umbel
 umbele
+umbelen
 umbi
 umbul
 ume
