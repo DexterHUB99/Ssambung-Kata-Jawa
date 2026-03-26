@@ -3701,6 +3701,7 @@ kerajin
 keram
 keramas
 keran
+kerana
 kerang
 keras
 kerat
