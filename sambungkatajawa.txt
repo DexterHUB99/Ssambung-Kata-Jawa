@@ -634,6 +634,7 @@ apusi
 ar
 ara
 arab
+arag
 arah
 arahan
 arahane
@@ -5205,6 +5206,7 @@ ngrep
 ngrit
 ngrokok
 ngsu
+ngubek
 nguber
 ngubur
 ngudang
