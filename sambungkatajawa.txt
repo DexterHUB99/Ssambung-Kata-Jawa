@@ -1870,6 +1870,7 @@ epat
 epe
 epeh
 epek
+epel
 epen
 epep
 eper
@@ -2026,6 +2027,7 @@ eyem
 eyo
 ez
 faji
+final
 firman
 fisik
 fix
@@ -3124,6 +3126,7 @@ ismi
 isna
 iso
 isoe
+isoi
 isok
 isoma
 isoo
