@@ -5850,6 +5850,7 @@ palur
 pamali
 paman
 pameran
+pami
 pamit
 pamrih
 pan
@@ -7355,6 +7356,7 @@ tok
 tokek
 token
 toko
+tokoh
 tola
 tolak
 tole
@@ -7907,6 +7909,7 @@ wanita
 war
 waras
 wareg
+warek
 warga
 waria
 waris
