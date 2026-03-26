@@ -155,7 +155,6 @@ ahoa
 ahoha
 ahok
 ahoo
-ahor
 ahoy
 ahu
 ahud
@@ -365,7 +364,6 @@ alone
 alos
 alot
 aloy
-alpa
 alpukat
 alu
 aluban
@@ -1138,7 +1136,6 @@ benik
 beo
 ber
 berak
-beran
 beras
 beri
 bersih
@@ -1402,7 +1399,6 @@ cina
 cincang
 cincin
 cing
-cingkrang
 cino
 cinta
 cintai
@@ -4918,7 +4914,6 @@ marii
 maring
 maringi
 mario
-marmut
 maru
 maruk
 mas
@@ -5076,7 +5071,6 @@ mogok
 moh
 mojo
 mok
-moke
 moki
 mol
 mola
@@ -9241,7 +9235,6 @@ yuan
 yuda
 yudha
 yudi
-yugo
 yuh
 yui
 yuk
