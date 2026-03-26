@@ -5868,6 +5868,7 @@ ngemot
 ngemper
 ngempet
 ngempit
+ngemplok
 ngempot
 ngemuk
 ngemut
@@ -6293,6 +6294,7 @@ nino
 nio
 nip
 nipa
+nipak
 nipan
 nipis
 nipon
@@ -6319,6 +6321,7 @@ nitik
 nitip
 niyat
 njaluk
+njero
 njingan
 njupuk
 nki
@@ -7378,6 +7381,7 @@ raung
 raup
 rausah
 raut
+rautan
 rawa
 rawak
 rawan
@@ -9047,6 +9051,7 @@ using
 usir
 usli
 usma
+usmu
 usna
 uso
 usra
