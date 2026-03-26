@@ -3471,6 +3471,7 @@ jogja
 joglo
 jogo
 jok
+joka
 joki
 joko
 jokowi
@@ -3956,6 +3957,7 @@ ketek
 ketel
 ketemu
 keterangan
+ketiga
 ketik
 ketil
 ketir
@@ -7263,6 +7265,7 @@ rui
 rujak
 rujakcingur
 rujuk
+ruki
 ruko
 ruku
 rukun
