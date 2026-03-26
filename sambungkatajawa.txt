@@ -671,6 +671,7 @@ apis
 aplikasi
 apo
 apolo
+apon
 apu
 apun
 apung
@@ -5032,6 +5033,7 @@ nembe
 neme
 nemen
 nemi
+nempali
 nempel
 nemu
 nen
@@ -6459,6 +6461,7 @@ poka
 poke
 poki
 poko
+pokoe
 pokok
 pokoke
 pokro
