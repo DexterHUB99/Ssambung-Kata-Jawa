@@ -347,6 +347,7 @@ alon
 alos
 alot
 aloy
+alpukat
 alu
 aluban
 alum
@@ -6720,6 +6721,7 @@ rapi
 rapih
 rapo
 rapopo
+rapu
 rapuh
 rara
 rarambut
