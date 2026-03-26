@@ -534,6 +534,7 @@ andung
 ane
 aneh
 anek
+anema
 aneng
 anes
 anga
@@ -1551,6 +1552,7 @@ dibi
 didesa
 didi
 didik
+didin
 dihapus
 dik
 dika
@@ -2668,6 +2670,7 @@ gurih
 gurit
 gurita
 guru
+guruh
 gurune
 gus
 gusah
@@ -2989,6 +2992,7 @@ ida
 idaman
 idan
 ide
+ideo
 idep
 ider
 idi
@@ -3164,6 +3168,7 @@ ina
 inah
 inai
 inak
+inal
 inam
 inama
 inana
@@ -4691,6 +4696,7 @@ lungguh
 lunglai
 lungo
 luni
+luntur
 lup
 lupa
 lupi
@@ -4800,6 +4806,7 @@ manah
 manak
 mancing
 mandeg
+mandeng
 mandhang
 mandhek
 mandi
@@ -4898,6 +4905,7 @@ me
 medal
 medeni
 medhok
+mega
 meh
 meja
 mek
@@ -5398,6 +5406,7 @@ ngadus
 ngae
 ngaga
 ngagang
+ngagas
 ngagel
 ngago
 ngah
@@ -6278,6 +6287,7 @@ og
 ogah
 ogak
 oge
+ogel
 oger
 ogi
 ogoh
@@ -6698,6 +6708,7 @@ pendopo
 pengen
 peni
 peno
+pensil
 pentil
 penting
 pentung
@@ -6949,6 +6960,7 @@ pusa
 pusaka
 puser
 pusing
+puta
 pute
 putih
 puting
@@ -7041,6 +7053,7 @@ rambutan
 rame
 ramene
 rames
+ramni
 ramping
 rampok
 rampun
@@ -8340,6 +8353,7 @@ turukmu
 turun
 turuo
 tus
+tusa
 tusu
 tusuk
 tut
@@ -8347,6 +8361,7 @@ tuti
 tutuk
 tutup
 tutur
+tuwa
 tuwan
 tuwo
 tuyul
@@ -8753,6 +8768,7 @@ utan
 utane
 utang
 utange
+utanglo
 utangmu
 utar
 utara
