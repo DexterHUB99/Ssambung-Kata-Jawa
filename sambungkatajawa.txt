@@ -4011,6 +4011,7 @@ ketek
 ketel
 ketemu
 keterangan
+kethek
 ketiga
 ketik
 ketil
@@ -6667,6 +6668,7 @@ paten
 pateni
 pati
 patih
+patik
 patil
 patok
 patu
