@@ -1402,6 +1402,7 @@ dawuh
 dayah
 dayang
 de
+debu
 dede
 dedeg
 dedek
@@ -4679,6 +4680,7 @@ modus
 modyar
 mogok
 moh
+mojo
 mok
 moki
 mol
