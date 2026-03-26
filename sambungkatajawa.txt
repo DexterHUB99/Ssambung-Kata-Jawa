@@ -1328,6 +1328,7 @@ cuki
 cukup
 cukur
 cuma
+cumbu
 cumi
 cunduk
 cupu
@@ -7981,6 +7982,7 @@ ummi
 umo
 ump
 umpama
+umpamane
 umpami
 umpan
 umpit
