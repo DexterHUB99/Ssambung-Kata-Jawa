@@ -8097,6 +8097,7 @@ wuno
 wur
 wuta
 wutan
+wuto
 xenon
 xray
 ya
