@@ -1626,6 +1626,7 @@ eben
 ebi
 eboh
 ebol
+ebom
 ebor
 eca
 ece
@@ -2762,6 +2763,7 @@ hina
 hinggap
 hir
 hira
+hire
 hiruk
 his
 hisa
@@ -5933,6 +5935,7 @@ nunung
 nunut
 nuo
 nup
+nupa
 nur
 nurani
 nuri
@@ -6878,6 +6881,7 @@ rendi
 rene
 reng
 rengginang
+reno
 reo
 reog
 repot
