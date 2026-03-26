@@ -4149,6 +4149,7 @@ kul
 kula
 kulak
 kulan
+kulang
 kulawe
 kule
 kulem
@@ -4469,6 +4470,7 @@ linggih
 linggis
 lingkar
 lingkaran
+lingkungan
 linglung
 lingsir
 lini
@@ -5986,6 +5988,7 @@ niti
 nitih
 nitik
 nitip
+niyat
 njaluk
 njingan
 njupuk
