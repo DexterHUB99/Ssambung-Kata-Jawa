@@ -2714,6 +2714,7 @@ got
 gotong
 gotongroyong
 gowo
+gowoe
 goyang
 graji
 grapyak
@@ -7729,6 +7730,7 @@ sabtu
 sabuk
 sabun
 sadar
+sadela
 sadewa
 sadewo
 sae
