@@ -1060,6 +1060,7 @@ bebe
 bebek
 beca
 becak
+becek
 bedane
 bedo
 bedok
@@ -7806,6 +7807,7 @@ tabok
 tabrak
 tabuh
 tabung
+tabur
 tae
 taek
 tah
