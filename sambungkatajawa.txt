@@ -1931,6 +1931,7 @@ entar
 entas
 ente
 entek
+entekne
 enteng
 enteni
 enter
@@ -2675,6 +2676,7 @@ ham
 hama
 hamae
 haman
+hamane
 hamba
 hambar
 hambur
