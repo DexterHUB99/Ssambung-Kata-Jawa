@@ -1269,6 +1269,7 @@ celengan
 celu
 celuk
 cema
+cemara
 cemen
 cemeng
 cen
