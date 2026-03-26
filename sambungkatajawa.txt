@@ -1323,6 +1323,7 @@ cen
 cendol
 cengkeh
 centil
+centong
 ceplok
 cerdas
 ceri
@@ -7993,6 +7994,7 @@ temen
 tempat
 tempe
 tempek
+tempekmu
 tempik
 tempiling
 tempura
