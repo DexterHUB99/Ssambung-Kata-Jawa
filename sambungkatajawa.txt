@@ -1307,6 +1307,7 @@ cicis
 cicit
 cide
 ciduk
+cigar
 cigur
 cika
 cikal
@@ -2745,6 +2746,7 @@ heni
 heno
 henteu
 heo
+hepi
 her
 hera
 heran
@@ -8540,6 +8542,7 @@ waris
 warna
 warnae
 waro
+waru
 waruh
 warung
 warya
