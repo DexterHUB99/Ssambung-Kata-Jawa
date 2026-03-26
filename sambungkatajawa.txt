@@ -4933,6 +4933,7 @@ natan
 natap
 natar
 nate
+natur
 nawa
 nawang
 nawar
@@ -7678,6 +7679,7 @@ tip
 tir
 tira
 tirai
+tiran
 tiri
 tiru
 tisa
