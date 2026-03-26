@@ -4988,6 +4988,7 @@ ngapusi
 ngarak
 ngarang
 ngarap
+ngare
 ngarek
 ngareng
 ngarep
@@ -5547,6 +5548,7 @@ nugraha
 nuh
 nuhun
 nui
+nuju
 nuk
 nuka
 nuki
