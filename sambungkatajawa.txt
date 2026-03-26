@@ -1833,6 +1833,7 @@ enu
 enuk
 enul
 enyong
+eomah
 ep
 epa
 epah
@@ -4187,6 +4188,7 @@ lin
 lina
 lincah
 lindhu
+lindur
 linggih
 linggis
 lingkar
