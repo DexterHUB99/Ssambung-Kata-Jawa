@@ -1678,6 +1678,7 @@ ekok
 ekol
 ekon
 ekor
+ekos
 ekot
 eku
 ekul
@@ -5011,6 +5012,7 @@ ngaco
 ngadai
 ngadeg
 ngadek
+ngadep
 ngadepi
 ngadi
 ngadii
@@ -6737,6 +6739,7 @@ rino
 rio
 rip
 ripa
+ripan
 ripen
 ripi
 ripna
