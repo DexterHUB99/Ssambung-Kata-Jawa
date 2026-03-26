@@ -3617,6 +3617,7 @@ keles
 kelet
 keli
 keliling
+kelinci
 kelingan
 kelip
 keliru
@@ -3919,6 +3920,7 @@ kudune
 kudus
 kue
 kui
+kuia
 kuii
 kuio
 kuk
@@ -4453,6 +4455,7 @@ male
 malek
 malem
 males
+malesi
 mali
 malih
 malik
@@ -8132,6 +8135,7 @@ using
 usir
 usma
 uso
+usra
 usrek
 ustadz
 usu
