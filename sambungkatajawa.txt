@@ -1113,7 +1113,6 @@ batuk
 batur
 bau
 bawa
-bawang
 bawok
 baya
 bayem
@@ -1547,7 +1546,6 @@ dara
 darah
 darat
 dari
-darii
 darma
 darus
 das
@@ -2215,6 +2213,7 @@ ete
 eteh
 etek
 etel
+etem
 eten
 ethok
 eti
@@ -2304,6 +2303,7 @@ gage
 gagean
 gagu
 gah
+gaha
 gahi
 gaib
 gairah
@@ -3707,6 +3707,7 @@ kacung
 kadak
 kadal
 kadang
+kadek
 kades
 kadi
 kadong
@@ -3879,6 +3880,7 @@ kas
 kasa
 kasah
 kasak
+kasan
 kasar
 kasara
 kase
@@ -3928,7 +3930,6 @@ katuh
 katuk
 katul
 katun
-katup
 katur
 katus
 kawah
@@ -5871,6 +5872,7 @@ ngemot
 ngemper
 ngempet
 ngempit
+ngemplok
 ngempot
 ngemuk
 ngemut
@@ -6296,6 +6298,7 @@ nino
 nio
 nip
 nipa
+nipak
 nipan
 nipis
 nipon
@@ -6322,6 +6325,7 @@ nitik
 nitip
 niyat
 njaluk
+njero
 njingan
 njupuk
 nki
@@ -7381,6 +7385,7 @@ raung
 raup
 rausah
 raut
+rautan
 rawa
 rawak
 rawan
@@ -7906,6 +7911,7 @@ semut
 sen
 senam
 senang
+senar
 sendal
 sendok
 seneg
@@ -9050,6 +9056,7 @@ using
 usir
 usli
 usma
+usmu
 usna
 uso
 usra
