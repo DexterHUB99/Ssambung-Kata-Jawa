@@ -5661,6 +5661,7 @@ nge
 ngebas
 ngebet
 ngeblok
+ngebo
 ngecat
 ngece
 ngecek
@@ -6333,6 +6334,7 @@ obongan
 obor
 oboti
 obral
+obrol
 oceh
 oci
 ocok
