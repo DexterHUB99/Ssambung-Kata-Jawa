@@ -217,6 +217,7 @@ ajure
 ak
 aka
 akad
+akah
 akak
 akaku
 akal
@@ -275,7 +276,6 @@ akui
 akuk
 akul
 akula
-akum
 akun
 akur
 akus
@@ -3458,6 +3458,7 @@ kates
 kathok
 kati
 katil
+katimbang
 katir
 katok
 katon
@@ -3681,6 +3682,7 @@ kiki
 kikil
 kil
 kila
+kilap
 kilat
 kilen
 kili
@@ -4028,7 +4030,6 @@ larang
 laras
 lare
 lari
-laris
 laron
 larut
 las
@@ -4557,6 +4558,7 @@ miri
 miring
 mis
 misah
+misi
 misu
 misuh
 misuhi
@@ -4965,6 +4967,7 @@ ngalun
 ngalur
 ngalus
 ngam
+ngama
 ngamah
 ngamal
 ngamar
@@ -5115,7 +5118,6 @@ ngayun
 nge
 ngebas
 ngebet
-ngeblak
 ngeblok
 ngecat
 ngece
@@ -5259,7 +5261,6 @@ nggone
 nggoo
 nggoreng
 nggowo
-nggulung
 ngguyu
 ngguyur
 ngibing
@@ -5978,7 +5979,6 @@ paji
 pak
 paka
 pakan
-pakle
 paksa
 paku
 pala
@@ -6846,7 +6846,6 @@ sang
 sangar
 sanggul
 sangu
-sani
 sanjang
 santai
 santen
@@ -7369,6 +7368,7 @@ tare
 tarek
 tari
 tarik
+taro
 taruh
 taruk
 tarung
