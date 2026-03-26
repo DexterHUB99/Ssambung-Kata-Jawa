@@ -83,6 +83,7 @@ agah
 agak
 agam
 agama
+agap
 agar
 agawe
 age
@@ -5258,6 +5259,7 @@ nggah
 nggak
 nggaku
 nggali
+nggan
 ngganggu
 nggarap
 nggateli
