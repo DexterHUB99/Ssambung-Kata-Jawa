@@ -1591,6 +1591,7 @@ dena
 dene
 dengkul
 dening
+depak
 depi
 der
 dereng
@@ -3974,6 +3975,7 @@ kediri
 kedondong
 kedurung
 kedut
+keemut
 kejan
 kejar
 kejut
@@ -5929,6 +5931,7 @@ ngetel
 ngetok
 ngetung
 ngewangi
+ngewar
 ngewe
 ngewee
 ngewek
