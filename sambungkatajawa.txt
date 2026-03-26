@@ -5923,6 +5923,7 @@ picek
 pidak
 pidana
 pie
+pien
 pii
 pijak
 pijek
@@ -7159,6 +7160,7 @@ tengah
 tengen
 tengik
 tepak
+tepung
 ter
 tera
 teraken
