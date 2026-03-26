@@ -666,6 +666,7 @@ arane
 arang
 arap
 aras
+arasen
 ardi
 are
 arek
@@ -934,6 +935,7 @@ bakon
 bakso
 baku
 bakul
+bakus
 bal
 balai
 balap
@@ -1237,6 +1239,7 @@ cicis
 cicit
 cide
 ciduk
+cigur
 cika
 cikal
 cikur
@@ -2119,6 +2122,7 @@ gasik
 gasing
 gasir
 gass
+gata
 gatar
 gatau
 gatel
@@ -2631,6 +2635,7 @@ hooh
 hor
 hora
 hore
+hori
 hormat
 horo
 horog
@@ -2817,6 +2822,7 @@ ilermu
 ili
 ilih
 ilik
+ilili
 ilin
 iling
 ilir
@@ -2973,6 +2979,7 @@ irub
 iruk
 irung
 irunge
+irungmu
 irup
 irus
 irut
@@ -3833,6 +3840,7 @@ kuman
 kumbah
 kumbahan
 kumbang
+kume
 kumel
 kumpul
 kumuh
@@ -4008,6 +4016,7 @@ lawak
 lawang
 lawas
 lawe
+lawu
 lawuh
 layah
 layang
@@ -4121,6 +4130,7 @@ lipas
 lipat
 lipen
 lipet
+lipur
 lir
 lira
 liren
@@ -4467,6 +4477,7 @@ merahe
 merak
 mercon
 merek
+merem
 mergo
 meri
 mesem
@@ -4997,6 +5008,7 @@ ngarek
 ngareng
 ngarep
 ngarepan
+ngarepmu
 ngaret
 ngari
 ngarik
@@ -5048,6 +5060,7 @@ ngawii
 ngawir
 ngawiti
 ngawor
+ngawu
 ngawun
 ngawur
 ngaya
@@ -5105,6 +5118,7 @@ ngemot
 ngemper
 ngempet
 ngempit
+ngempot
 ngemuk
 ngemut
 ngen
@@ -5918,6 +5932,7 @@ paleh
 paleng
 pali
 paling
+palko
 palu
 palung
 palur
@@ -6682,6 +6697,7 @@ ruwatan
 ruwet
 sa
 saa
+saapi
 sabar
 sabe
 saben
@@ -6940,6 +6956,7 @@ sikan
 sikat
 siki
 sikil
+sikilmu
 siku
 sikut
 sil
@@ -7847,6 +7864,7 @@ uren
 ures
 uri
 uria
+urih
 urii
 urik
 uring
@@ -7871,6 +7889,7 @@ urus
 urusan
 uruso
 urut
+urwa
 us
 usa
 usada
