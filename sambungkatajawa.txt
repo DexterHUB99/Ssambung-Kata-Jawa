@@ -2988,6 +2988,7 @@ induk
 indung
 inem
 inep
+infaq
 ing
 ingas
 ingat
@@ -7106,6 +7107,7 @@ sempake
 semprul
 semrawut
 semua
+semut
 sen
 senam
 senang
