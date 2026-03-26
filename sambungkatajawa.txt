@@ -375,6 +375,7 @@ amal
 amala
 amalan
 amam
+amama
 aman
 amanah
 amanat
@@ -575,7 +576,6 @@ angur
 angus
 ani
 aniani
-aniaya
 anii
 anik
 anika
@@ -867,6 +867,7 @@ atek
 aten
 atep
 ater
+ates
 ati
 atia
 atid
@@ -1755,7 +1756,6 @@ ehut
 ehuy
 eja
 ejik
-ejol
 eju
 ek
 eka
@@ -5767,7 +5767,6 @@ ngis
 ngisak
 ngisen
 ngiseng
-ngiseni
 ngisep
 ngisi
 ngisih
@@ -6169,6 +6168,7 @@ nyamar
 nyambi
 nyamuk
 nyang
+nyangking
 nyangkul
 nyangu
 nyani
@@ -6981,6 +6981,7 @@ ramping
 rampok
 rampun
 rampung
+ramta
 ramu
 ramua
 ramuan
@@ -8476,7 +8477,6 @@ umi
 ummi
 umo
 ump
-umpakan
 umpama
 umpamane
 umpami
