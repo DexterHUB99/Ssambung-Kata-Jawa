@@ -802,6 +802,7 @@ asip
 asir
 asli
 aslii
+asline
 asma
 asmane
 asmanipun
@@ -7513,6 +7514,7 @@ setunggal
 sewa
 sewelas
 sewu
+sholat
 si
 sia
 siaa
