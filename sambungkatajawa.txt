@@ -555,6 +555,7 @@ angker
 angklung
 angkong
 angkot
+angkrik
 angkringan
 angkuh
 angon
@@ -742,6 +743,7 @@ arma
 aro
 aroh
 arok
+arom
 arop
 arsa
 arsi
@@ -4362,6 +4364,7 @@ lembut
 leme
 lemek
 lemes
+lemet
 lemot
 lempeng
 lemper
