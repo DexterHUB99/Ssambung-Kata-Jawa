@@ -2213,7 +2213,6 @@ ete
 eteh
 etek
 etel
-etem
 eten
 ethok
 eti
@@ -3706,7 +3705,6 @@ kacung
 kadak
 kadal
 kadang
-kadek
 kades
 kadi
 kadong
@@ -3879,7 +3877,6 @@ kas
 kasa
 kasah
 kasak
-kasan
 kasar
 kasara
 kase
@@ -5871,7 +5868,6 @@ ngemot
 ngemper
 ngempet
 ngempit
-ngemplok
 ngempot
 ngemuk
 ngemut
@@ -6297,7 +6293,6 @@ nino
 nio
 nip
 nipa
-nipak
 nipan
 nipis
 nipon
@@ -6324,7 +6319,6 @@ nitik
 nitip
 niyat
 njaluk
-njero
 njingan
 njupuk
 nki
@@ -7384,7 +7378,6 @@ raung
 raup
 rausah
 raut
-rautan
 rawa
 rawak
 rawan
@@ -9054,7 +9047,6 @@ using
 usir
 usli
 usma
-usmu
 usna
 uso
 usra
