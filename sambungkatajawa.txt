@@ -1016,7 +1016,6 @@ bebe
 bebek
 beca
 becak
-beda
 bedane
 bedo
 bedok
@@ -1289,7 +1288,6 @@ ciu
 coba
 cobak
 cobek
-cobo
 cocok
 cocot
 cocote
@@ -2146,7 +2144,6 @@ garak
 garan
 garang
 garanga
-garangan
 garap
 garapan
 garasi
@@ -2164,6 +2161,7 @@ garing
 garis
 garong
 garpu
+garu
 garuda
 garue
 garuk
@@ -3248,7 +3246,6 @@ jimpit
 jin
 jina
 jinak
-jinaka
 jingga
 jingkrak
 jinjit
@@ -4432,7 +4429,6 @@ malam
 malang
 malas
 male
-maleh
 malek
 malem
 males
@@ -4480,7 +4476,6 @@ mangkrak
 mangku
 mangkuk
 mangsa
-mangu
 mani
 manis
 manja
@@ -6500,7 +6495,6 @@ raino
 raiso
 raja
 rajang
-rajawali
 rajim
 rajin
 raju
@@ -7083,7 +7077,6 @@ sepur
 sepuran
 ser
 sera
-serabi
 seragam
 seran
 serang
@@ -7758,6 +7751,7 @@ tutur
 tuwan
 tuwo
 tuyul
+tv
 ua
 uan
 uang
