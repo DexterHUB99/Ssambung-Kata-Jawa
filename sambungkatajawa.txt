@@ -3535,6 +3535,7 @@ jauh
 jawa
 jawab
 jawi
+jawir
 je
 jebul
 jela
