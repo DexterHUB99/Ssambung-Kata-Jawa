@@ -4963,6 +4963,7 @@ ngalun
 ngalur
 ngalus
 ngam
+ngama
 ngamah
 ngamal
 ngamar
@@ -5113,7 +5114,6 @@ ngayun
 nge
 ngebas
 ngebet
-ngeblak
 ngeblok
 ngecat
 ngece
@@ -5257,7 +5257,6 @@ nggone
 nggoo
 nggoreng
 nggowo
-nggulung
 ngguyu
 ngguyur
 ngibing
@@ -6843,7 +6842,6 @@ sang
 sangar
 sanggul
 sangu
-sani
 sanjang
 santai
 santen
