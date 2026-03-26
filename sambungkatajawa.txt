@@ -3748,6 +3748,7 @@ kara
 karaa
 karak
 karang
+karap
 kare
 karek
 karem
@@ -6729,6 +6730,7 @@ pei
 pejah
 peju
 pek
+peka
 pekik
 peko
 pekok
@@ -9025,6 +9027,7 @@ wirama
 wirang
 wirasa
 wiri
+wiro
 wis
 wisa
 wisan
