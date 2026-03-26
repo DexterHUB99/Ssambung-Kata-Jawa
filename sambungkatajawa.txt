@@ -2190,6 +2190,7 @@ gandeng
 gandos
 gandrung
 gandul
+gandung
 ganep
 gang
 ganggu
@@ -2271,6 +2272,7 @@ gateli
 gathel
 gati
 gatok
+gatol
 gatot
 gatuk
 gaul
@@ -5528,6 +5530,7 @@ nggai
 nggak
 nggaku
 nggali
+nggambar
 nggan
 ngganggu
 nggarap
@@ -7935,6 +7938,7 @@ tiyang
 to
 toa
 tobat
+toe
 togel
 toh
 toha
