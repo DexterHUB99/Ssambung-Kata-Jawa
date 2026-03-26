@@ -7565,6 +7565,7 @@ saleh
 sali
 salim
 salin
+saling
 salira
 salo
 salom
@@ -9171,6 +9172,7 @@ yap
 yapa
 yapi
 yaping
+yar
 yari
 yas
 yasin
