@@ -239,6 +239,7 @@ akaran
 akas
 akasara
 akat
+akay
 akbar
 ake
 akee
@@ -5627,6 +5628,7 @@ ngubur
 ngudang
 ngudek
 ngudi
+ngudu
 ngudud
 ngudut
 ngugu
@@ -7339,6 +7341,7 @@ sinom
 sinta
 sinten
 sio
+siomay
 sip
 sipa
 sipit
@@ -7768,6 +7771,7 @@ tila
 tilam
 tilap
 tilar
+tile
 tilem
 tilep
 tim
