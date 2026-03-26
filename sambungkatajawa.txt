@@ -1904,6 +1904,7 @@ epat
 epe
 epeh
 epek
+epem
 epen
 epep
 eper
@@ -6591,6 +6592,7 @@ putu
 putus
 puyeng
 puyuh
+quran
 ra
 raa
 raba
