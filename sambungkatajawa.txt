@@ -853,6 +853,7 @@ awur
 ax
 ay
 aya
+ayag
 ayah
 ayahe
 ayak
@@ -918,6 +919,7 @@ balai
 balek
 bali
 balik
+balikno
 balung
 ban
 banci
@@ -1257,7 +1259,6 @@ cunduk
 cupu
 curi
 curut
-da
 dada
 dadah
 dadali
@@ -1879,6 +1880,7 @@ etin
 etis
 eto
 etok
+etokno
 etol
 eton
 etos
@@ -1950,6 +1952,7 @@ gairah
 gaja
 gajah
 gaje
+gajelas
 gaji
 gajian
 gajie
@@ -3081,6 +3084,7 @@ jero
 jeruk
 jet
 ji
+jig
 jiga
 jigong
 jijik
@@ -3436,7 +3440,6 @@ kelet
 keli
 keliling
 kelingan
-kelio
 kelip
 keliru
 kelok
@@ -4573,7 +4576,6 @@ naila
 naira
 najan
 najeng
-najin
 najis
 nak
 naka
@@ -4803,6 +4805,7 @@ ngaku
 ngal
 ngala
 ngalah
+ngalam
 ngalangi
 ngalap
 ngale
@@ -4966,7 +4969,6 @@ ngecat
 ngece
 ngecek
 ngeces
-ngecok
 ngedan
 ngedar
 ngeden
@@ -4986,6 +4988,7 @@ ngekos
 ngel
 ngelag
 ngelak
+ngelam
 ngelap
 ngelawak
 ngeleh
@@ -5028,6 +5031,7 @@ ngeng
 ngengek
 ngenget
 ngenggeh
+ngengkol
 ngengobrol
 ngenteni
 ngentoh
@@ -5165,6 +5169,7 @@ nglor
 ngno
 ngnu
 ngobrol
+ngoceh
 ngocok
 ngodong
 ngoh
@@ -5717,6 +5722,7 @@ oren
 oreng
 oreo
 orep
+organisasi
 ori
 oria
 orii
@@ -6585,7 +6591,6 @@ saia
 saii
 saiki
 saing
-saja
 sajake
 sajen
 saji
@@ -7161,6 +7166,7 @@ tati
 tato
 tatu
 taun
+taura
 tawa
 tawang
 tawar
@@ -7534,6 +7540,7 @@ ukurane
 ukuren
 ukuro
 ukya
+ul
 ula
 ulaa
 ulae
@@ -7914,6 +7921,7 @@ werno
 weruh
 wes
 wesi
+westa
 wet
 wetan
 weteng
