@@ -5784,6 +5784,7 @@ paksa
 paku
 pala
 palah
+palak
 palamu
 palang
 paleh
@@ -5922,6 +5923,7 @@ peni
 peno
 pentil
 penting
+pentung
 penuh
 penyu
 pepak
