@@ -375,6 +375,7 @@ amal
 amala
 amalan
 amam
+amama
 aman
 amanah
 amanat
@@ -867,6 +868,7 @@ atek
 aten
 atep
 ater
+ates
 ati
 atia
 atid
@@ -4351,6 +4353,7 @@ lanjut
 lansia
 lantai
 lantang
+lanting
 lantun
 lantur
 lanyah
@@ -5190,6 +5193,7 @@ nangkring
 nani
 naning
 nanja
+nano
 nantang
 nanti
 nanya
@@ -5359,6 +5363,7 @@ ngaduk
 ngadus
 ngae
 ngaga
+ngagang
 ngago
 ngah
 ngahi
@@ -6175,6 +6180,7 @@ nyamar
 nyambi
 nyamuk
 nyang
+nyangking
 nyangkul
 nyangu
 nyani
@@ -6989,6 +6995,7 @@ ramping
 rampok
 rampun
 rampung
+ramta
 ramu
 ramua
 ramuan
@@ -8100,6 +8107,7 @@ ticok
 tigan
 tik
 tika
+tikan
 tikar
 tiki
 tiktok
