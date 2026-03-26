@@ -9063,6 +9063,7 @@ uteke
 utekmu
 utel
 utem
+uten
 uter
 uti
 utih
@@ -9216,6 +9217,7 @@ werna
 werno
 weruh
 wes
+wesa
 wesi
 westa
 wet
