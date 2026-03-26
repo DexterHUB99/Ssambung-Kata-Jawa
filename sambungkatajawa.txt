@@ -6448,6 +6448,7 @@ raa
 raba
 rabi
 rabit
+rabot
 rabu
 rabun
 racik
@@ -6789,6 +6790,7 @@ ruang
 rubuh
 rugi
 ruh
+ruha
 rui
 rujak
 rujakcingur
@@ -8212,6 +8214,7 @@ warya
 was
 wasis
 watak
+water
 wates
 wati
 watir
