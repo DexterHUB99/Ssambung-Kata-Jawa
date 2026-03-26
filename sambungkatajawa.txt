@@ -7554,6 +7554,7 @@ sapeh
 sapi
 sapih
 sapii
+sapo
 sapu
 sapun
 saput
