@@ -5301,6 +5301,7 @@ ngisu
 ngisuh
 ngitil
 ngitung
+ngiwang
 ngka
 ngko
 nglantur
