@@ -4659,6 +4659,7 @@ lesu
 letong
 lewat
 leyeh
+lha
 lho
 li
 lia
@@ -5827,6 +5828,7 @@ ngayogyakarta
 ngayomi
 ngayuh
 ngayun
+ngcok
 nge
 ngebas
 ngebet
@@ -7833,6 +7835,7 @@ sarem
 sareng
 sarep
 sari
+sarip
 sarong
 saru
 sarung
