@@ -2230,6 +2230,7 @@ gantang
 ganteng
 ganti
 gantian
+gantol
 gantolan
 gantung
 gantunga
@@ -3843,6 +3844,7 @@ kepompong
 kepriben
 ker
 kera
+kerajaan
 kerajin
 keram
 keramas
@@ -6530,6 +6532,7 @@ perak
 peran
 perang
 perek
+peri
 perih
 perlu
 pes
