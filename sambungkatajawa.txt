@@ -5666,6 +5666,7 @@ ngamal
 ngamar
 ngambang
 ngambar
+ngamben
 ngambi
 ngambil
 ngambu
