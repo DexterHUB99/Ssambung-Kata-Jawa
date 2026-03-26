@@ -2793,6 +2793,7 @@ hemat
 hemate
 hena
 heni
+hening
 heno
 henteu
 heo
@@ -3832,6 +3833,7 @@ kempit
 kempol
 kemproh
 kemul
+kemut
 ken
 kena
 kenak
