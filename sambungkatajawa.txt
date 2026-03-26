@@ -1286,6 +1286,7 @@ damping
 damput
 dan
 dana
+danaa
 dancok
 dandan
 dandang
@@ -2215,6 +2216,7 @@ gili
 gilik
 giling
 gilo
+gim
 giman
 gimbal
 gina
