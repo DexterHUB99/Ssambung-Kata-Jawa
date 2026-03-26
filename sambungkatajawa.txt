@@ -5569,6 +5569,7 @@ ngiki
 ngiku
 ngikut
 ngila
+ngilag
 ngilang
 ngilange
 ngilat
