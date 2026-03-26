@@ -1583,6 +1583,7 @@ dimar
 dimari
 dimas
 dimasak
+dimna
 din
 dina
 dinar
@@ -7528,6 +7529,7 @@ sampai
 samparan
 sampean
 sampeyan
+samping
 sampo
 sampun
 samu
