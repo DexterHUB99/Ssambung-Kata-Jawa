@@ -5046,6 +5046,7 @@ nalik
 nalika
 naliko
 nalima
+nalo
 nalung
 naluri
 nam
@@ -5756,6 +5757,7 @@ ngpel
 ngragal
 ngragas
 ngrayu
+ngregeti
 ngrep
 ngrit
 ngrokok
@@ -8040,6 +8042,7 @@ tokoh
 tola
 tolak
 tole
+toli
 tolol
 tolong
 toma
