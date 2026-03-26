@@ -1350,6 +1350,7 @@ dah
 dahar
 dahi
 daki
+daku
 dalam
 dalan
 dalang
@@ -5686,6 +5687,7 @@ njaluk
 njupuk
 nki
 nko
+nmu
 nnangka
 nnani
 nnduk
@@ -7283,6 +7285,7 @@ songo
 songong
 sonten
 sop
+sopa
 sopan
 sopir
 sopo
