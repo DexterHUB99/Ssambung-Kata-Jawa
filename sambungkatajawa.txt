@@ -3730,6 +3730,7 @@ kelakon
 kelam
 kelana
 kelangan
+kelap
 kelar
 kelas
 kelawan
