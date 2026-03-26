@@ -1351,6 +1351,7 @@ dahar
 dahi
 daki
 daku
+dala
 dalam
 dalan
 dalang
@@ -1870,7 +1871,6 @@ epat
 epe
 epeh
 epek
-epel
 epen
 epep
 eper
@@ -2027,7 +2027,6 @@ eyem
 eyo
 ez
 faji
-final
 firman
 fisik
 fix
@@ -2990,7 +2989,6 @@ induk
 indung
 inem
 inep
-infaq
 ing
 ingas
 ingat
@@ -3126,7 +3124,6 @@ ismi
 isna
 iso
 isoe
-isoi
 isok
 isoma
 isoo
@@ -3701,7 +3698,6 @@ kerajin
 keram
 keramas
 keran
-kerana
 kerang
 keras
 kerat
@@ -7111,7 +7107,6 @@ sempake
 semprul
 semrawut
 semua
-semut
 sen
 senam
 senang
@@ -7289,7 +7284,6 @@ sombong
 son
 songo
 songong
-soni
 sonten
 sop
 sopa
@@ -7427,7 +7421,6 @@ susune
 sut
 sutan
 sutil
-sutra
 suwe
 suwek
 suwen
