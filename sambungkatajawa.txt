@@ -6500,6 +6500,7 @@ nyirem
 nyocot
 nyogok
 nyoli
+nyolong
 nyong
 nyoto
 nyulik
@@ -9330,6 +9331,7 @@ witen
 witi
 witir
 wito
+wiwa
 wiwi
 wiwit
 wo
