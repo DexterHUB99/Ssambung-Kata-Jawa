@@ -3316,6 +3316,7 @@ kasir
 kasor
 kasot
 kasu
+kasue
 kasur
 kasure
 kasuri
@@ -7475,6 +7476,7 @@ ukura
 ukuran
 ukurane
 ukuren
+ukuro
 ukya
 ula
 ulaa
