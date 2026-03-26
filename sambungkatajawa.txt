@@ -1003,6 +1003,7 @@ batur
 bau
 bawa
 bawok
+baya
 bayem
 bayi
 bayu
@@ -1923,6 +1924,7 @@ esam
 esan
 esay
 escendol
+esdawet
 ese
 eseh
 esek
@@ -2571,6 +2573,7 @@ harga
 hari
 harian
 harii
+hariku
 harima
 harimau
 harimo
@@ -4847,6 +4850,7 @@ narasi
 nari
 narik
 narima
+narkoba
 naro
 narsis
 naruh
