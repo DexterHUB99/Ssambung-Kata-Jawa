@@ -3863,6 +3863,7 @@ kumpul
 kumuh
 kun
 kuna
+kunang
 kunci
 kuncup
 kundur
@@ -5301,7 +5302,6 @@ ngisu
 ngisuh
 ngitil
 ngitung
-ngiwang
 ngka
 ngko
 nglantur
@@ -6789,6 +6789,7 @@ salun
 salut
 sam
 sama
+saman
 sambal
 sambang
 sambat
