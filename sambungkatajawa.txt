@@ -1113,6 +1113,7 @@ batuk
 batur
 bau
 bawa
+bawang
 bawok
 baya
 bayem
@@ -1546,6 +1547,7 @@ dara
 darah
 darat
 dari
+darii
 darma
 darus
 das
@@ -2339,6 +2341,7 @@ galio
 galo
 galon
 galung
+gam
 gama
 gaman
 gambang
@@ -3930,6 +3933,7 @@ katuh
 katuk
 katul
 katun
+katup
 katur
 katus
 kawah
@@ -5420,6 +5424,7 @@ nangkap
 nangkep
 nangkring
 nani
+nanii
 naning
 nanja
 nano
