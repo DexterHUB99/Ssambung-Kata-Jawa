@@ -359,7 +359,6 @@ aloy
 alpukat
 alu
 aluban
-alul
 alum
 alumni
 alun
@@ -376,7 +375,6 @@ amal
 amala
 amalan
 amam
-amama
 aman
 amanah
 amanat
@@ -617,7 +615,6 @@ anom
 anoman
 anop
 ansur
-ansuran
 anta
 antah
 antam
@@ -870,7 +867,6 @@ atek
 aten
 atep
 ater
-ates
 ati
 atia
 atid
@@ -1139,6 +1135,7 @@ bihun
 bijak
 biji
 bik
+biki
 bikin
 bil
 bila
@@ -1323,7 +1320,6 @@ ceki
 cekok
 cela
 celak
-celaka
 celana
 celek
 celeng
@@ -1386,6 +1382,7 @@ cod
 cok
 cokan
 coklat
+cokor
 cokot
 cokro
 col
@@ -1463,6 +1460,7 @@ dana
 danaa
 danau
 dancok
+dancuk
 dandan
 dandang
 dangkal
@@ -2817,6 +2815,7 @@ heha
 hehe
 hehi
 hei
+heki
 hela
 hele
 heli
@@ -2976,6 +2975,7 @@ ider
 idi
 idih
 idii
+idin
 ido
 idu
 idulfitri
@@ -3386,6 +3386,7 @@ jakaa
 jaket
 jaki
 jaku
+jala
 jalak
 jalii
 jaluk
@@ -3394,6 +3395,7 @@ jamak
 jaman
 jamat
 jambak
+jambi
 jambu
 jamput
 jamu
@@ -3499,6 +3501,7 @@ jom
 jombang
 jomblo
 jomlo
+jomo
 jon
 jongi
 jongkok
@@ -3922,6 +3925,7 @@ kepo
 kepompong
 kepriben
 kepriwe
+kepur
 ker
 kera
 kerajaan
@@ -4356,7 +4360,6 @@ lanjut
 lansia
 lantai
 lantang
-lanting
 lantun
 lantur
 lanyah
@@ -4599,6 +4602,7 @@ longgor
 longor
 longsor
 lonjong
+lono
 lontar
 lonte
 lontong
@@ -5196,7 +5200,6 @@ nangkring
 nani
 naning
 nanja
-nano
 nantang
 nanti
 nanya
@@ -5366,7 +5369,7 @@ ngaduk
 ngadus
 ngae
 ngaga
-ngagang
+ngagel
 ngago
 ngah
 ngahi
@@ -5612,6 +5615,7 @@ ngelus
 ngeluwes
 ngemas
 ngembun
+ngemil
 ngemis
 ngemong
 ngemot
@@ -5942,6 +5946,7 @@ nguru
 ngurung
 ngurus
 ngurusi
+ngurut
 ngus
 ngusaha
 ngusap
@@ -6069,6 +6074,7 @@ nol
 nolak
 nolan
 noleh
+noli
 nom
 noman
 nombak
@@ -6183,7 +6189,6 @@ nyamar
 nyambi
 nyamuk
 nyang
-nyangking
 nyangkul
 nyangu
 nyani
@@ -6998,7 +7003,6 @@ ramping
 rampok
 rampun
 rampung
-ramta
 ramu
 ramua
 ramuan
@@ -7225,6 +7229,7 @@ riwayat
 riwe
 riya
 riyaya
+riyo
 ro
 roa
 rob
@@ -8110,7 +8115,6 @@ ticok
 tigan
 tik
 tika
-tikan
 tikar
 tiki
 tiktok
@@ -9009,6 +9013,7 @@ yoi
 yoiku
 yok
 yoki
+yoli
 yolo
 yom
 yoman
