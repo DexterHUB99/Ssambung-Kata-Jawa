@@ -1101,6 +1101,7 @@ boti
 boto
 botok
 bowo
+boyo
 boyok
 bu
 buang
@@ -1711,6 +1712,7 @@ empot
 empuk
 empun
 emu
+emul
 emut
 emutno
 en
