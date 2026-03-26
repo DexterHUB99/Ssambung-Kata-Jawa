@@ -1630,6 +1630,7 @@ dogo
 doh
 dok
 dokar
+dol
 dola
 dolan
 dolanan
@@ -4392,6 +4393,7 @@ lamun
 lamunan
 lan
 lana
+lanan
 lanang
 lanangan
 lancang
