@@ -1113,6 +1113,7 @@ batuk
 batur
 bau
 bawa
+bawang
 bawok
 baya
 bayem
@@ -1546,6 +1547,7 @@ dara
 darah
 darat
 dari
+darii
 darma
 darus
 das
@@ -3926,6 +3928,7 @@ katuh
 katuk
 katul
 katun
+katup
 katur
 katus
 kawah
