@@ -811,6 +811,7 @@ aseh
 asek
 asem
 asemi
+asen
 aseng
 asep
 asew
@@ -8311,6 +8312,7 @@ tir
 tira
 tirai
 tiran
+tire
 tiri
 tiru
 tisa
