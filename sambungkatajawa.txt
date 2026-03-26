@@ -2650,6 +2650,7 @@ hero
 hes
 hesti
 heti
+hewa
 hi
 hias
 hiasan
@@ -7554,6 +7555,7 @@ tete
 teteh
 tetek
 tetelan
+thole
 ti
 tiba
 tibake
