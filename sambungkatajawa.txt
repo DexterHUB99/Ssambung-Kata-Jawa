@@ -1042,6 +1042,7 @@ baten
 bati
 batok
 batu
+batuk
 batur
 bau
 bawa
