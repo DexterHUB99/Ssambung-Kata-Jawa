@@ -5736,6 +5736,7 @@ ngen
 ngenas
 ngencuk
 ngendang
+ngendangi
 ngendeng
 ngendep
 ngendhok
@@ -9213,6 +9214,7 @@ yoopo
 yoora
 yora
 yori
+yosan
 yosi
 yoto
 yowe
