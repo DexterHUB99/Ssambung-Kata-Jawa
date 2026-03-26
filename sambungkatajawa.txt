@@ -431,6 +431,7 @@ ampel
 ampela
 ampelan
 ampelo
+ampi
 ampir
 ampiri
 amplas
@@ -5773,6 +5774,7 @@ nurut
 nuruti
 nus
 nusa
+nusi
 nusul
 nuti
 nutuk
@@ -6788,6 +6790,7 @@ rolas
 rolo
 rom
 roma
+romawi
 rombak
 rombeng
 rombong
