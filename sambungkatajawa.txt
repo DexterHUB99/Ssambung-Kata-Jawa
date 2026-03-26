@@ -3468,6 +3468,7 @@ jamu
 jamur
 jan
 jancok
+jancuk
 janda
 jane
 jang
