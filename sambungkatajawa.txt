@@ -3365,6 +3365,7 @@ joki
 joko
 jokowi
 jola
+jole
 joli
 jolo
 jom
@@ -4416,6 +4417,7 @@ lombo
 lombok
 lomo
 lompat
+lomu
 loncang
 loncat
 longgar
@@ -6587,6 +6589,7 @@ pripun
 pua
 puan
 puasa
+pucuk
 puh
 pui
 puing
@@ -6810,6 +6813,7 @@ rega
 regan
 regane
 reget
+regi
 rehi
 rei
 rek
