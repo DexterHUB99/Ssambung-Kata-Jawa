@@ -6930,6 +6930,7 @@ rawon
 rawu
 rawuh
 raya
+rayang
 rayap
 rayi
 rayu
