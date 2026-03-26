@@ -101,6 +101,7 @@ ageng
 agi
 agik
 agit
+ago
 agos
 agu
 agung
@@ -8749,6 +8750,7 @@ ukno
 uko
 ukol
 ukom
+ukop
 ukro
 ukta
 uku
