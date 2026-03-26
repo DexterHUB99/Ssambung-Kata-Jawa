@@ -821,6 +821,7 @@ atar
 atas
 atasan
 atat
+atater
 ate
 ateh
 atek
@@ -1691,6 +1692,7 @@ ekos
 ekot
 eku
 ekul
+ekur
 el
 ela
 elae
@@ -3557,6 +3559,7 @@ katus
 kawah
 kawal
 kawan
+kawanen
 kawani
 kawasan
 kawat
@@ -7972,6 +7975,7 @@ ulo
 uloe
 uloo
 ulu
+uluk
 ulun
 ulung
 ulur
