@@ -1870,6 +1870,7 @@ ekoh
 ekok
 ekol
 ekon
+ekop
 ekor
 ekore
 ekos
