@@ -503,7 +503,6 @@ anay
 ancak
 ancam
 ancaman
-ancas
 ancase
 ancen
 ancene
@@ -5171,7 +5170,6 @@ mususi
 mut
 muta
 mutah
-mutan
 mute
 muter
 muti
@@ -6623,7 +6621,6 @@ palko
 palu
 palung
 palur
-pam
 pamali
 paman
 pameran
@@ -8157,7 +8154,6 @@ tawang
 tawar
 tawe
 tawon
-tawur
 tayi
 tayo
 te
@@ -8415,7 +8411,6 @@ tunggal
 tunggu
 tungkak
 tuni
-tuntun
 tupa
 tupi
 tur
