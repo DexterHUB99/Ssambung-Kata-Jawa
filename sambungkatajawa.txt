@@ -1373,6 +1373,7 @@ cobek
 cocok
 cocot
 cocote
+cod
 cok
 cokan
 coklat
@@ -5164,6 +5165,7 @@ nangkep
 nangkring
 nani
 naning
+nanja
 nantang
 nanti
 nanya
