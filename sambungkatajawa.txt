@@ -1245,7 +1245,6 @@ cikal
 cikur
 cilok
 cimu
-cimut
 cina
 cincang
 cincin
@@ -1610,7 +1609,6 @@ ekas
 eke
 ekeh
 ekek
-ekeka
 ekel
 ekem
 eken
