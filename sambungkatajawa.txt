@@ -1060,6 +1060,7 @@ belo
 belut
 ben
 benang
+bendo
 bener
 bengek
 bengong
@@ -6753,6 +6754,7 @@ rapat
 rapet
 rapi
 rapih
+rapio
 rapo
 rapopo
 rapu
