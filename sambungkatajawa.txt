@@ -1583,6 +1583,7 @@ didesa
 didi
 didik
 didin
+didu
 dihapus
 dik
 dika
@@ -5675,6 +5676,7 @@ ngatok
 ngatuk
 ngatur
 ngaturaken
+ngaturi
 ngaur
 ngawa
 ngawai
