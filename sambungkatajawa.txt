@@ -9,6 +9,7 @@ abah
 abai
 abal
 abang
+abas
 abata
 abdi
 abe
@@ -3149,6 +3150,7 @@ jahe
 jaja
 jajai
 jajajan
+jajal
 jajam
 jajan
 jajang
