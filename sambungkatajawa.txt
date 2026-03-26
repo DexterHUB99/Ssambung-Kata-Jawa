@@ -247,6 +247,7 @@ akaran
 akas
 akasara
 akat
+akaw
 akay
 akbar
 ake
@@ -1081,6 +1082,7 @@ batak
 batang
 baten
 bati
+batin
 batok
 batu
 batuk
@@ -8742,6 +8744,7 @@ urai
 urak
 uraka
 urakan
+ural
 uram
 urama
 uran
