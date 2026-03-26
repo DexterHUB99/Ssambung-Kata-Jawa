@@ -2453,6 +2453,7 @@ hadap
 hadeh
 hadiah
 hadir
+hadist
 hae
 haem
 hafal
@@ -6838,6 +6839,7 @@ sanduk
 sanes
 sang
 sangar
+sanggul
 sangu
 sanjang
 santai
@@ -6862,6 +6864,7 @@ sarapan
 sarat
 sare
 sarem
+sareng
 sari
 sarong
 saru
@@ -6936,6 +6939,7 @@ semanten
 semar
 semarang
 sembah
+sembarang
 sembarangan
 sembur
 semi
@@ -7397,6 +7401,7 @@ telas
 telat
 tele
 telek
+telekmu
 teles
 telinga
 teliti
@@ -7444,6 +7449,7 @@ tere
 teri
 terima
 ternak
+terne
 terong
 terus
 tes
