@@ -379,6 +379,7 @@ alut
 am
 ama
 amaa
+amab
 amah
 amak
 amal
@@ -1009,6 +1010,7 @@ babal
 babat
 babi
 babia
+babii
 babu
 baca
 bacin
@@ -1158,6 +1160,7 @@ biang
 biasa
 biawak
 biaya
+bib
 biba
 bibar
 bibi
@@ -7384,6 +7387,7 @@ rili
 rilo
 rim
 rima
+rimaa
 riman
 rimao
 rimi
