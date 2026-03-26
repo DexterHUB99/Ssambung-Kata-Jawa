@@ -3444,6 +3444,7 @@ kebon
 kebong
 kebun
 kece
+keceh
 kecer
 keceret
 kecoa
@@ -4804,6 +4805,7 @@ nene
 nenek
 nenen
 neng
+nengah
 nengdi
 nengga
 neni
