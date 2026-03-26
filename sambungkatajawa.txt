@@ -3764,6 +3764,7 @@ kemaki
 kemanten
 kemanuk
 kemaren
+kemari
 kemarin
 kemayu
 kembali
@@ -4973,6 +4974,7 @@ nafas
 nag
 naga
 nagasari
+nage
 nagi
 nagih
 nagihe
@@ -5803,6 +5805,7 @@ nguyup
 nguyur
 ngwes
 ngwur
+nha
 ni
 nia
 nian
@@ -6825,6 +6828,7 @@ randu
 randue
 rangda
 rangga
+rangi
 rangkul
 rangu
 rani
