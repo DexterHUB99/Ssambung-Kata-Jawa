@@ -414,6 +414,7 @@ ampu
 ampuh
 ampun
 ampus
+amri
 amrih
 amu
 amuh
@@ -3725,6 +3726,7 @@ krambil
 kresna
 krikil
 krocok
+krungu
 ku
 kua
 kuasa
