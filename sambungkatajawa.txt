@@ -324,6 +324,7 @@ alos
 alot
 aloy
 alu
+aluban
 alum
 alumni
 alun
@@ -3269,6 +3270,7 @@ kaping
 kapir
 kapok
 kaprah
+kapuk
 kapur
 kar
 kara
