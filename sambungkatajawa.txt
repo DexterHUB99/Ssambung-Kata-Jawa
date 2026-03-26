@@ -2253,6 +2253,7 @@ gasik
 gasing
 gasir
 gass
+gasta
 gata
 gatar
 gatau
@@ -5233,6 +5234,7 @@ ngambung
 ngamem
 ngami
 ngamil
+ngamin
 ngamok
 ngampak
 ngampar
