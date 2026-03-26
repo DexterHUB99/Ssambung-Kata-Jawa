@@ -5951,6 +5951,7 @@ ngiki
 ngikil
 ngiku
 ngikut
+ngil
 ngila
 ngilag
 ngilang
