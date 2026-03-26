@@ -914,6 +914,7 @@ az
 ba
 baa
 bab
+baba
 babak
 babal
 babat
@@ -963,6 +964,7 @@ bandel
 bando
 bang
 bangkekan
+bangkong
 banjir
 banjur
 bantal
@@ -2995,6 +2997,7 @@ ipun
 ipwa
 ir
 ira
+irab
 irae
 irah
 iraha
