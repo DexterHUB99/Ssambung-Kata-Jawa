@@ -1048,6 +1048,7 @@ ber
 berak
 beras
 beri
+bersih
 bes
 besan
 beso
