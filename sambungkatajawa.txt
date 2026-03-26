@@ -4189,6 +4189,7 @@ lama
 lamai
 lamba
 lambai
+lamban
 lambe
 lambemu
 lambene
@@ -5872,6 +5873,7 @@ nitih
 nitik
 nitip
 njaluk
+njingan
 njupuk
 nki
 nko
@@ -6123,6 +6125,7 @@ oler
 oles
 oli
 olih
+olika
 olin
 oling
 olo
@@ -6550,6 +6553,7 @@ pinus
 pio
 pipi
 pipil
+pipimu
 pipis
 pipit
 pipu
@@ -7080,6 +7084,7 @@ ruah
 ruam
 ruang
 rubuh
+rudah
 rugi
 ruh
 ruha
