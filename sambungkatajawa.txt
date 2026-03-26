@@ -5797,6 +5797,7 @@ okem
 oker
 oket
 okin
+okina
 okok
 okoke
 okol
@@ -6897,6 +6898,7 @@ saput
 sar
 sara
 saran
+sarap
 sarapan
 sarat
 sare
