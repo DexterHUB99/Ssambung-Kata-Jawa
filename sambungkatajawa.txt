@@ -1107,6 +1107,7 @@ bedane
 bedo
 bedok
 bego
+beh
 beha
 beja
 bejo
@@ -5433,6 +5434,7 @@ ngabdi
 ngaben
 ngabet
 ngablak
+ngabur
 ngaburi
 ngaca
 ngaceng
