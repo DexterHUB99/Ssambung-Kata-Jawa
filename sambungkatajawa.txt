@@ -118,6 +118,7 @@ ahaw
 ahay
 ahe
 ahed
+aheh
 ahek
 ahem
 ahen
@@ -4259,6 +4260,7 @@ kuwe
 kuwi
 kuwo
 kuya
+kwe
 kyai
 la
 lab
