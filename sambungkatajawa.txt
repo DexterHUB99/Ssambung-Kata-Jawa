@@ -5224,6 +5224,7 @@ ngangsur
 ngangur
 nganjok
 nganjuk
+nganko
 ngano
 ngantar
 ngantem
@@ -5256,6 +5257,7 @@ ngapurane
 ngapuro
 ngapus
 ngapusi
+ngarai
 ngarak
 ngarang
 ngarani
@@ -5628,6 +5630,7 @@ ngsu
 ngubek
 nguber
 ngubur
+ngucap
 ngudang
 ngudek
 ngudi
