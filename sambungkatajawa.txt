@@ -3287,6 +3287,7 @@ kamila
 kamilan
 kamis
 kamise
+kamit
 kampret
 kampung
 kampungan
@@ -7079,6 +7080,7 @@ sundel
 sunduk
 sundul
 sungai
+sungka
 sungkan
 sungkem
 suntik
@@ -7676,6 +7678,7 @@ ump
 umpama
 umpami
 umpan
+umpit
 umpo
 umra
 umu
