@@ -996,6 +996,7 @@ banjir
 banjur
 bantal
 banteng
+bantheng
 bantu
 banu
 banya
@@ -6014,6 +6015,7 @@ oker
 oket
 okin
 okina
+okit
 okok
 okoke
 okol
