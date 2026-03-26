@@ -846,6 +846,7 @@ aulah
 auma
 aumi
 aun
+auna
 aup
 aura
 aus
@@ -1245,6 +1246,7 @@ cikal
 cikur
 cilok
 cimu
+cimut
 cina
 cincang
 cincin
@@ -1311,6 +1313,7 @@ dalang
 dale
 dalem
 daleman
+daleme
 dali
 dalih
 dalu
@@ -1318,6 +1321,7 @@ dama
 damai
 damar
 damel
+damen
 dampak
 dampar
 damping
@@ -1609,6 +1613,7 @@ ekas
 eke
 ekeh
 ekek
+ekeka
 ekel
 ekem
 eken
@@ -1990,7 +1995,6 @@ gagal
 gagang
 gagap
 gagas
-gagasan
 gage
 gagean
 gagu
@@ -2062,6 +2066,7 @@ gandul
 ganep
 gang
 ganggu
+gangguan
 gangsal
 gangsar
 gangsing
@@ -4583,6 +4588,7 @@ muka
 mukakmu
 muke
 muki
+muku
 mukul
 mul
 mula
@@ -4646,6 +4652,7 @@ nab
 nabi
 nabii
 nabok
+naboki
 nabrak
 nabu
 nabuh
@@ -5197,7 +5204,6 @@ nggah
 nggak
 nggaku
 nggali
-ngganggu
 nggarap
 nggateli
 nggawa
