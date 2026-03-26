@@ -846,6 +846,7 @@ aulah
 auma
 aumi
 aun
+auna
 aup
 aura
 aus
@@ -976,7 +977,6 @@ baso
 bat
 bata
 batak
-batang
 baten
 bati
 batok
@@ -1246,17 +1246,16 @@ cikal
 cikur
 cilok
 cimu
+cimut
 cina
 cincang
 cincin
 cing
-cino
 cinta
 cintai
 cipa
 cipluk
 cir
-cireng
 ciu
 coba
 cobak
@@ -1314,6 +1313,7 @@ dalang
 dale
 dalem
 daleman
+daleme
 dali
 dalih
 dalu
@@ -1321,6 +1321,7 @@ dama
 damai
 damar
 damel
+damen
 dampak
 dampar
 damping
@@ -1457,11 +1458,9 @@ dokar
 dola
 dolan
 dolanan
-dom
 doman
 domas
 domba
-domi
 don
 dona
 dong
@@ -1614,6 +1613,7 @@ ekas
 eke
 ekeh
 ekek
+ekeka
 ekel
 ekem
 eken
@@ -1891,6 +1891,7 @@ esan
 esay
 escendol
 ese
+eseh
 esek
 esem
 esep
@@ -1995,7 +1996,6 @@ gagal
 gagang
 gagap
 gagas
-gagasan
 gage
 gagean
 gagu
@@ -2067,6 +2067,7 @@ gandul
 ganep
 gang
 ganggu
+gangguan
 gangsal
 gangsar
 gangsing
@@ -2231,6 +2232,7 @@ geni
 genio
 geno
 genteng
+genting
 gentong
 genuk
 geo
@@ -2239,6 +2241,7 @@ gepuk
 ger
 gerah
 gerak
+gerakan
 geram
 gerang
 gerbang
@@ -2250,7 +2253,6 @@ gerih
 gering
 germo
 gerobak
-gerong
 gertak
 ges
 gesek
@@ -2420,7 +2422,6 @@ gusti
 gusur
 gut
 guwa
-guyang
 guyon
 guyonan
 guys
@@ -3984,6 +3985,7 @@ lani
 lanjut
 lansia
 lantai
+lantang
 lantun
 lantur
 lanyah
@@ -4059,7 +4061,6 @@ lembah
 lembek
 lembur
 lembut
-leme
 lemek
 lemes
 lemot
@@ -4468,6 +4469,7 @@ melati
 melok
 melu
 mem
+memadi
 meme
 memek
 menawi
@@ -4591,6 +4593,7 @@ muka
 mukakmu
 muke
 muki
+muku
 mukul
 mul
 mula
@@ -4613,6 +4616,7 @@ mumbul
 mumet
 mumi
 mumpung
+mun
 muna
 munafik
 mundak
@@ -4654,6 +4658,7 @@ nab
 nabi
 nabii
 nabok
+naboki
 nabrak
 nabu
 nabuh
@@ -4711,6 +4716,7 @@ nambah
 nambahi
 nambal
 nambar
+name
 nami
 nampak
 nampan
@@ -5205,7 +5211,6 @@ nggah
 nggak
 nggaku
 nggali
-ngganggu
 nggarap
 nggateli
 nggawa
@@ -5256,6 +5261,7 @@ nging
 nginggil
 nginjak
 nginjeng
+ngino
 ngintal
 ngintil
 ngintip
@@ -5439,6 +5445,7 @@ ngutowo
 ngutus
 nguyu
 nguyuh
+nguyuhi
 nguyup
 nguyur
 ngwes
@@ -5447,6 +5454,7 @@ ni
 nia
 nian
 niba
+nie
 niha
 nii
 nik
@@ -5615,7 +5623,6 @@ nup
 nur
 nurani
 nuri
-nuru
 nurui
 nurun
 nurut
@@ -5772,7 +5779,6 @@ ombak
 ombe
 omben
 ombo
-omboh
 ome
 omea
 omel
@@ -6028,7 +6034,6 @@ pasti
 pasu
 pasukan
 pat
-pateni
 pati
 patih
 patil
@@ -6159,6 +6164,7 @@ pinten
 pinter
 pintu
 pinus
+pio
 pipi
 pipil
 pipis
@@ -6497,7 +6503,6 @@ remeh
 remek
 remeng
 remes
-remi
 remo
 remok
 rempah
@@ -6907,10 +6912,12 @@ senam
 senang
 sendal
 sendok
+seneg
 seneng
 seng
 senok
 sepanci
+sepat
 sepatu
 sepele
 sepi
@@ -7171,6 +7178,7 @@ sungai
 sungka
 sungkan
 sungkem
+sungki
 suntik
 suntuk
 sunyi
@@ -7267,7 +7275,6 @@ tambak
 tambang
 tameng
 tami
-tampa
 tampah
 tampar
 tampi
@@ -7690,6 +7697,7 @@ ukiran
 ukiro
 ukit
 ukki
+ukli
 ukna
 uko
 ukol
@@ -8169,7 +8177,6 @@ wot
 wowo
 woyo
 wuh
-wujud
 wuku
 wulan
 wuno
