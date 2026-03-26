@@ -4391,6 +4391,7 @@ lin
 lina
 lincah
 lindhu
+lindungi
 lindur
 linggih
 linggis
@@ -5493,6 +5494,7 @@ ngenget
 ngenggeh
 ngengkol
 ngengobrol
+ngenko
 ngenos
 ngenteni
 ngentoh
