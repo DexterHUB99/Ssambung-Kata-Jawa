@@ -298,7 +298,6 @@ alas
 alasan
 alase
 alat
-alate
 alay
 ale
 alem
@@ -649,7 +648,6 @@ apu
 apun
 apung
 apus
-apuse
 apusi
 ar
 ara
@@ -934,6 +932,7 @@ bakon
 bakso
 baku
 bakul
+bakus
 bal
 balai
 balap
@@ -950,7 +949,6 @@ bang
 bangkekan
 banjir
 banjur
-bantal
 banteng
 bantu
 banu
@@ -1083,7 +1081,6 @@ bodoh
 bodoni
 bojo
 bojok
-boke
 bokong
 bol
 bola
@@ -2628,6 +2625,7 @@ hooh
 hor
 hora
 hore
+hori
 hormat
 horo
 horog
@@ -2814,6 +2812,7 @@ ilermu
 ili
 ilih
 ilik
+ilili
 ilin
 iling
 ilir
@@ -2970,6 +2969,7 @@ irub
 iruk
 irung
 irunge
+irungmu
 irup
 irus
 irut
@@ -3218,7 +3218,6 @@ kabar
 kabare
 kabeh
 kabi
-kabor
 kabun
 kabur
 kabut
@@ -3313,7 +3312,6 @@ kampung
 kampungan
 kampus
 kamu
-kamuk
 kamus
 kan
 kana
@@ -3830,6 +3828,7 @@ kuman
 kumbah
 kumbahan
 kumbang
+kume
 kumel
 kumpul
 kumuh
@@ -4005,6 +4004,7 @@ lawak
 lawang
 lawas
 lawe
+lawu
 lawuh
 layah
 layang
@@ -4118,6 +4118,7 @@ lipas
 lipat
 lipen
 lipet
+lipur
 lir
 lira
 liren
@@ -4989,11 +4990,11 @@ ngapusi
 ngarak
 ngarang
 ngarap
-ngare
 ngarek
 ngareng
 ngarep
 ngarepan
+ngarepmu
 ngaret
 ngari
 ngarik
@@ -5045,6 +5046,7 @@ ngawii
 ngawir
 ngawiti
 ngawor
+ngawu
 ngawun
 ngawur
 ngaya
@@ -5102,6 +5104,7 @@ ngemot
 ngemper
 ngempet
 ngempit
+ngempot
 ngemuk
 ngemut
 ngen
@@ -5549,7 +5552,6 @@ nugraha
 nuh
 nuhun
 nui
-nuju
 nuk
 nuka
 nuki
@@ -5914,6 +5916,7 @@ paleh
 paleng
 pali
 paling
+palko
 palu
 palung
 palur
@@ -6678,6 +6681,7 @@ ruwatan
 ruwet
 sa
 saa
+saapi
 sabar
 sabe
 saben
@@ -6869,7 +6873,6 @@ semprul
 semua
 sen
 senam
-senang
 sendal
 sendok
 seneng
@@ -6936,6 +6939,7 @@ sikan
 sikat
 siki
 sikil
+sikilmu
 siku
 sikut
 sil
@@ -6986,7 +6990,6 @@ sirsak
 sirup
 sis
 sisa
-sisan
 sisi
 sisih
 sisik
@@ -7566,7 +7569,6 @@ ucek
 ucik
 ucu
 ucul
-ud
 uda
 udae
 udah
@@ -7867,6 +7869,7 @@ urus
 urusan
 uruso
 urut
+urwa
 us
 usa
 usada
@@ -8188,7 +8191,6 @@ yere
 yes
 yesi
 yeye
-yi
 yo
 yoan
 yoe
