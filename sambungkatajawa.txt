@@ -2645,6 +2645,7 @@ hemat
 hemate
 hena
 heni
+heno
 henteu
 heo
 her
@@ -5677,6 +5678,7 @@ noni
 nonjok
 nono
 nonton
+nop
 nopang
 nopi
 nopo
