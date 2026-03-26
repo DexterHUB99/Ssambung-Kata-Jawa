@@ -4625,6 +4625,7 @@ licik
 licin
 lidah
 lih
+liha
 lihat
 lii
 lik
@@ -6626,6 +6627,7 @@ opo
 opoe
 opoiki
 opok
+opoki
 opol
 opoo
 opor
