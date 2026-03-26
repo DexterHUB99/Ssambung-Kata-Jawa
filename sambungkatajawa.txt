@@ -4836,6 +4836,7 @@ manggae
 manggah
 manggis
 mangkat
+mangkel
 mangkir
 mangkrak
 mangku
@@ -6334,6 +6335,7 @@ okee
 okeh
 okei
 okel
+okela
 okem
 oker
 oket
