@@ -1257,6 +1257,7 @@ cunduk
 cupu
 curi
 curut
+da
 dada
 dadah
 dadali
@@ -4963,6 +4964,7 @@ ngecat
 ngece
 ngecek
 ngeces
+ngecok
 ngedan
 ngedar
 ngeden
