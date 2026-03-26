@@ -269,6 +269,7 @@ akis
 akit
 aklam
 ako
+akoh
 akol
 akon
 akor
@@ -294,7 +295,6 @@ akut
 akuy
 al
 ala
-alaa
 alah
 alai
 alak
@@ -1142,6 +1142,7 @@ boso
 bosok
 bot
 botak
+bothok
 boti
 boto
 botok
@@ -1219,7 +1220,6 @@ cah
 cahya
 cai
 caii
-cak
 cakar
 cakep
 cakwe
@@ -1378,7 +1378,6 @@ damput
 dan
 dana
 danaa
-danau
 dancok
 dandan
 dandang
@@ -1484,7 +1483,6 @@ dinten
 dipan
 diparani
 dipi
-diposit
 dipun
 dir
 diran
@@ -3662,7 +3660,6 @@ kemben
 kemeja
 kemiri
 kemos
-kempes
 kempit
 kempol
 kemproh
@@ -3894,7 +3891,6 @@ kopi
 kopii
 koplak
 koplo
-kopok
 kopyor
 kor
 kora
@@ -3976,7 +3972,6 @@ kumbahan
 kumbang
 kume
 kumel
-kumi
 kumpul
 kumuh
 kun
@@ -4120,7 +4115,6 @@ laos
 lap
 lapa
 lapak
-lapan
 lapangan
 lapar
 lapi
@@ -4357,7 +4351,6 @@ loro
 lorone
 lorong
 los
-losa
 lose
 loso
 lota
@@ -4721,7 +4714,6 @@ monyet
 mop
 mori
 moro
-mos
 mosa
 mosok
 mot
@@ -4943,6 +4935,7 @@ natan
 natap
 natar
 nate
+natur
 nawa
 nawang
 nawar
@@ -5155,7 +5148,6 @@ nganteni
 nganter
 nganthuk
 nganti
-ngantor
 ngantri
 ngantuk
 ngantun
@@ -5370,7 +5362,6 @@ ngetok
 ngetung
 ngewangi
 ngewe
-ngewee
 ngewek
 ngeyel
 ngg
@@ -5473,7 +5464,6 @@ nglim
 nglindur
 ngliwet
 nglor
-ngni
 ngno
 ngnu
 ngobat
@@ -5825,7 +5815,6 @@ nutur
 nuturi
 nuwa
 nuweki
-nuwi
 nuwun
 nuwunsewu
 ny
@@ -6303,7 +6292,6 @@ perlu
 pes
 pesing
 peso
-peta
 peteng
 peti
 petir
@@ -6840,7 +6828,6 @@ rolas
 rolo
 rom
 roma
-romah
 romawi
 rombak
 rombeng
@@ -6994,6 +6981,7 @@ salun
 salut
 sam
 sama
+samah
 sambal
 sambang
 sambat
@@ -7341,6 +7329,7 @@ suamii
 suar
 suara
 suaramu
+suaro
 suasu
 suba
 subuh
@@ -7482,7 +7471,6 @@ tak
 takaran
 takdir
 taki
-tako
 takon
 takoni
 taksi
@@ -7695,6 +7683,7 @@ tip
 tir
 tira
 tirai
+tiran
 tiri
 tiru
 tisa
@@ -7805,7 +7794,6 @@ tumpeng
 tumpul
 tumrap
 tumut
-tun
 tuna
 tunas
 tundhuk
@@ -7982,7 +7970,6 @@ ulangan
 ulap
 ular
 ulas
-ulasan
 ulat
 ule
 uleg
@@ -8040,7 +8027,6 @@ umurmu
 un
 una
 unah
-unak
 unam
 unan
 unang
@@ -8102,6 +8088,7 @@ up
 upa
 upacara
 upah
+upak
 upal
 upama
 upan
@@ -8143,7 +8130,6 @@ uria
 urih
 urii
 urik
-urine
 uring
 urip
 uripe
@@ -8268,7 +8254,6 @@ waa
 waalaikumsalam
 waan
 waca
-wacaan
 wacana
 wadah
 wader
@@ -8373,7 +8358,6 @@ weton
 wetu
 wewe
 wewenang
-wibawa
 wicara
 widok
 wie
