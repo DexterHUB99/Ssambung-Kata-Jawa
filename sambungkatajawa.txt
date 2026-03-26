@@ -5848,6 +5848,7 @@ obat
 obaten
 obeh
 obeng
+obok
 obong
 obor
 oboti
