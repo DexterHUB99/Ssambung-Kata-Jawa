@@ -1583,6 +1583,7 @@ dodo
 dodol
 dodolan
 dodole
+dogo
 doh
 dok
 dokar
@@ -6845,6 +6846,7 @@ ra
 raa
 raba
 rabi
+rabisa
 rabit
 rabot
 rabu
@@ -7971,6 +7973,7 @@ teluk
 telur
 tem
 tema
+temah
 teman
 temanggung
 tembaga
