@@ -1247,7 +1247,6 @@ camat
 campur
 can
 candi
-cangkang
 cangkem
 cangkir
 cangkol
@@ -2229,6 +2228,7 @@ garem
 gareme
 garen
 gareng
+gares
 gari
 garih
 garii
@@ -4347,6 +4347,7 @@ limbahe
 limbuk
 limi
 limo
+limolas
 limpa
 limu
 limun
@@ -4534,6 +4535,7 @@ macak
 macan
 macul
 mad
+mada
 madan
 madang
 madas
