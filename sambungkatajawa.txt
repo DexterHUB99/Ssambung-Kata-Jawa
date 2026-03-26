@@ -1750,6 +1750,7 @@ enok
 enom
 enong
 enri
+enta
 entak
 entar
 entas
@@ -4481,6 +4482,7 @@ modyar
 mogok
 moh
 mok
+mol
 mola
 molan
 mole
