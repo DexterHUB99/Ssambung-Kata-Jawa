@@ -1802,6 +1802,7 @@ embong
 embuh
 embun
 embung
+embus
 eme
 emek
 emen
@@ -1906,6 +1907,7 @@ entuk
 entung
 entut
 enu
+enuh
 enuk
 enul
 enyong
@@ -4548,6 +4550,7 @@ madan
 madang
 madas
 madhang
+madi
 madiun
 madosi
 madrasah
@@ -8613,6 +8616,7 @@ windu
 wingi
 wingibengi
 wingko
+wini
 winta
 wio
 wir
