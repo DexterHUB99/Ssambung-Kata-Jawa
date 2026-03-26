@@ -715,6 +715,7 @@ arsi
 arta
 arti
 artine
+artis
 arto
 aru
 aruh
