@@ -80,6 +80,7 @@ afik
 afu
 aga
 agah
+agak
 agam
 agama
 agar
@@ -2407,6 +2408,7 @@ guling
 gulir
 gulu
 gulung
+gumam
 gumuh
 gumuk
 gumun
