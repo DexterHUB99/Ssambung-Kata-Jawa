@@ -1598,6 +1598,7 @@ dereng
 des
 desa
 desi
+desir
 deso
 dewa
 dewe
@@ -2217,6 +2218,7 @@ etik
 etika
 etil
 etin
+etir
 etis
 eto
 etok
@@ -5438,6 +5440,7 @@ narsis
 naruh
 nas
 nasa
+nasab
 nasar
 nasehat
 nasek
@@ -5573,6 +5576,7 @@ ngabur
 ngaburi
 ngaca
 ngacak
+ngacem
 ngaceng
 ngaco
 ngadai
