@@ -2653,6 +2653,7 @@ hes
 hesti
 heti
 hewa
+hewo
 hi
 hias
 hiasan
@@ -3456,6 +3457,7 @@ kare
 karek
 karem
 karep
+karepe
 karepem
 karepmu
 karet
