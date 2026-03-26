@@ -6493,6 +6493,7 @@ piano
 piatu
 picek
 pidak
+pidama
 pidana
 pie
 pien
@@ -6573,6 +6574,7 @@ pito
 pitu
 pitung
 pitutur
+piwaris
 piwe
 piwulang
 piyambak
@@ -8790,6 +8792,7 @@ yuma
 yumi
 yumu
 yun
+yuna
 yunani
 yung
 yuni
