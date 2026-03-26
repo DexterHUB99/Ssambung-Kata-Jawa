@@ -3815,6 +3815,7 @@ kunir
 kuno
 kunti
 kuntul
+kuntulmu
 kunyuk
 kuo
 kuota
@@ -5186,6 +5187,7 @@ nginjeng
 ngintal
 ngintil
 ngintip
+nginum
 ngipas
 ngipasi
 ngir
@@ -6869,6 +6871,7 @@ sidang
 sidha
 sie
 sigap
+sigar
 sih
 sii
 siji
@@ -7035,6 +7038,7 @@ sukai
 suket
 suki
 sukma
+suko
 suku
 sukun
 sukur
