@@ -1287,6 +1287,7 @@ bulu
 bumbu
 bumi
 bun
+buna
 bunder
 bunga
 bungah
@@ -1815,6 +1816,7 @@ eho
 ehob
 ehoh
 ehok
+ehon
 ehop
 ehor
 ehot
