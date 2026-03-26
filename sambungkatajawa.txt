@@ -660,7 +660,6 @@ apas
 ape
 apek
 apel
-apeli
 apem
 apen
 apes
@@ -898,7 +897,6 @@ auto
 aw
 awa
 awak
-awakdewe
 awakmu
 awal
 awalan
@@ -1062,6 +1060,7 @@ belo
 belut
 ben
 benang
+bendo
 bener
 bengek
 bengong
@@ -1341,7 +1340,6 @@ colak
 colek
 coli
 colo
-colok
 colong
 congor
 copet
@@ -1400,7 +1398,6 @@ damel
 damen
 dampak
 dampar
-damparan
 damping
 damput
 dan
@@ -1828,7 +1825,6 @@ emplok
 empol
 empos
 empot
-emprit
 empuk
 empun
 emu
@@ -1936,6 +1932,7 @@ epos
 epu
 epuk
 epul
+epun
 epur
 er
 era
@@ -1965,7 +1962,6 @@ erik
 erika
 erin
 ering
-eris
 erit
 ero
 eroh
@@ -2442,7 +2438,6 @@ godhong
 godog
 godok
 godong
-gogoh
 gogol
 gogrok
 gojek
@@ -3322,6 +3317,7 @@ jemput
 jenang
 jeneng
 jenengan
+jengen
 jengkel
 jera
 jerami
@@ -3372,7 +3368,6 @@ joki
 joko
 jokowi
 jola
-jole
 joli
 jolo
 jom
@@ -3507,7 +3502,6 @@ kamilan
 kamis
 kamise
 kamit
-kampil
 kampret
 kampung
 kampungan
@@ -3843,7 +3837,6 @@ ketos
 ketua
 ketum
 ketupat
-keturon
 ketut
 kewan
 kewek
@@ -4123,7 +4116,6 @@ kyai
 la
 lab
 laba
-labi
 labu
 labue
 lada
@@ -4290,7 +4282,6 @@ lemot
 lempeng
 lemper
 lemu
-lemut
 len
 lena
 leng
@@ -4428,8 +4419,6 @@ lombo
 lombok
 lomo
 lompat
-lomu
-lon
 loncang
 loncat
 longgar
@@ -4930,7 +4919,6 @@ nadia
 nae
 naek
 nafas
-nag
 naga
 nagasari
 nagi
@@ -5418,7 +5406,6 @@ ngempot
 ngemuk
 ngemut
 ngen
-ngenas
 ngencuk
 ngendang
 ngendeng
@@ -5876,7 +5863,6 @@ nose
 nosi
 nota
 note
-noya
 nresnani
 nrimo
 nsua
@@ -5974,7 +5960,6 @@ nyi
 nyiku
 nyilih
 nyim
-nyirem
 nyocot
 nyoli
 nyong
@@ -6051,7 +6036,6 @@ okok
 okoke
 okol
 okon
-okoni
 okop
 okor
 okos
@@ -6104,7 +6088,6 @@ omboh
 ome
 omea
 omel
-omeli
 omi
 oming
 omo
@@ -6606,7 +6589,6 @@ pripun
 pua
 puan
 puasa
-pucuk
 puh
 pui
 puing
@@ -6774,6 +6756,7 @@ rapat
 rapet
 rapi
 rapih
+rapio
 rapo
 rapopo
 rapu
@@ -6830,7 +6813,6 @@ rega
 regan
 regane
 reget
-regi
 rehi
 rei
 rek
@@ -7418,7 +7400,6 @@ sirup
 sis
 sisa
 sisan
-siser
 sisi
 sisih
 sisik
@@ -7500,7 +7481,6 @@ suami
 suamii
 suar
 suara
-suaraa
 suaramu
 suaro
 suasu
@@ -7932,7 +7912,6 @@ tua
 tuak
 tuban
 tube
-tubruk
 tubuh
 tugel
 tuh
@@ -8583,7 +8562,6 @@ wirasa
 wiri
 wis
 wisa
-wisan
 wisuh
 wit
 wita
