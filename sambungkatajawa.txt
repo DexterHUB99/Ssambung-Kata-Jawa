@@ -918,6 +918,7 @@ ausi
 aut
 autan
 auto
+ava
 aw
 awa
 awak
@@ -4775,6 +4776,7 @@ manut
 maos
 mapan
 mapel
+mar
 mara
 marah
 marai
