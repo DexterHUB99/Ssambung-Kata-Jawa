@@ -713,6 +713,7 @@ arif
 arih
 arii
 arik
+arim
 arin
 aring
 ario
@@ -1363,6 +1364,7 @@ dadali
 dadar
 dadi
 dadu
+dagang
 dagelan
 daging
 dagu
@@ -1425,6 +1427,7 @@ dayah
 dayang
 de
 debu
+dedak
 dede
 dedeg
 dedek
@@ -2074,6 +2077,7 @@ gabuk
 gabung
 gabus
 gabut
+gacoan
 gada
 gadah
 gadai
@@ -2475,6 +2479,7 @@ gowo
 goyang
 graji
 grapyak
+greget
 gresik
 grobak
 grogi
@@ -3171,6 +3176,7 @@ isoma
 isoo
 isra
 isro
+ista
 istana
 isti
 istighfar
@@ -3302,6 +3308,7 @@ jero
 jeruk
 jet
 ji
+jidat
 jig
 jiga
 jigong
@@ -3804,6 +3811,7 @@ ketil
 ketir
 ketok
 keton
+ketos
 ketua
 ketum
 ketupat
@@ -4453,6 +4461,7 @@ lunga
 lungguh
 lunglai
 lungo
+luni
 lup
 lupa
 lupi
@@ -4786,6 +4795,7 @@ motor
 mripat
 mu
 mual
+mubal
 mubeng
 mucuk
 mudeng
@@ -4843,6 +4853,7 @@ murah
 murid
 murka
 murub
+murung
 murup
 mus
 musa
@@ -4851,6 +4862,7 @@ muse
 musi
 musim
 musola
+mustahil
 mustaka
 musu
 musuh
@@ -7975,6 +7987,7 @@ ue
 uem
 uen
 uga
+ugak
 ugal
 ugas
 uget
@@ -8635,6 +8648,7 @@ yuki
 yuko
 yula
 yuli
+yulo
 yuma
 yumi
 yumu
