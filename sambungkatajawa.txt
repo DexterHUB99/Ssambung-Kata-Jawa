@@ -1836,6 +1836,7 @@ elah
 elak
 elam
 elan
+elane
 elang
 elap
 ele
@@ -7759,6 +7760,7 @@ simbok
 simbokne
 simi
 simo
+simoen
 simpang
 sin
 sina
