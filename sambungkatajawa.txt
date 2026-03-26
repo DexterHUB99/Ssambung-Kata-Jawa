@@ -4070,6 +4070,7 @@ latar
 lathi
 lati
 latih
+lato
 latu
 laut
 lautan
@@ -4081,6 +4082,7 @@ lawe
 lawu
 lawuh
 layah
+layan
 layang
 layangan
 layar
