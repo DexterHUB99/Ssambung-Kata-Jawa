@@ -249,6 +249,7 @@ aker
 akes
 aket
 akhir
+akhirat
 aki
 akia
 akie
@@ -944,6 +945,7 @@ ayo
 ayok
 ayu
 ayud
+ayuh
 ayuk
 ayun
 az
@@ -1679,6 +1681,7 @@ egrang
 eh
 eha
 ehad
+ehah
 ehak
 eham
 ehan
