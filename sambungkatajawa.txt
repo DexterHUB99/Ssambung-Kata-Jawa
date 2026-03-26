@@ -1213,6 +1213,7 @@ bo
 bobi
 bobo
 bobok
+bobol
 bobot
 bocah
 bocil
@@ -9136,6 +9137,7 @@ wee
 wegah
 weh
 wei
+wejang
 weka
 weki
 wektu
