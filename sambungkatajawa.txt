@@ -1151,6 +1151,7 @@ budal
 budaya
 bude
 budeg
+budek
 budi
 buha
 bui
@@ -4128,6 +4129,7 @@ layuh
 layur
 le
 lebah
+lebar
 lebih
 lebok
 lebur
