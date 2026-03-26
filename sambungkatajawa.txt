@@ -1060,6 +1060,7 @@ bihun
 bijak
 biji
 bik
+bikin
 bil
 bila
 bilah
@@ -7689,6 +7690,7 @@ uang
 uange
 ub
 uban
+ubang
 ubek
 uber
 ubi
