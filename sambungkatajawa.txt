@@ -344,6 +344,7 @@ aliya
 alm
 alo
 alok
+alom
 alon
 alos
 alot
@@ -2262,6 +2263,7 @@ gawe
 gawean
 gawee
 gaweopo
+gaweyan
 gawir
 gawok
 gayam
@@ -3757,6 +3759,7 @@ kentut
 kenyang
 kenyot
 keong
+kep
 kepa
 kepal
 kepala
@@ -5420,6 +5423,7 @@ ngentu
 ngentui
 ngentuk
 ngentut
+ngenyang
 ngenyot
 ngepang
 ngepas
