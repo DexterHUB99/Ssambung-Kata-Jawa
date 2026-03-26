@@ -1478,6 +1478,7 @@ dikon
 dila
 dilah
 dilan
+dilat
 dilit
 diluk
 dilut
@@ -3245,6 +3246,7 @@ jalak
 jalii
 jam
 jaman
+jamat
 jambak
 jambu
 jamput
@@ -4069,6 +4071,7 @@ kutek
 kutha
 kutilang
 kutu
+kutuk
 kuwalat
 kuwat
 kuwe
