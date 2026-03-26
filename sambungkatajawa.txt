@@ -1284,6 +1284,7 @@ cireng
 ciu
 coba
 cobak
+cobek
 cocok
 cocot
 cocote
@@ -1358,6 +1359,7 @@ dancok
 dandan
 dandang
 dani
+dano
 danu
 dap
 dapi
