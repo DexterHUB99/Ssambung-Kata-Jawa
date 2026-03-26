@@ -1613,6 +1613,7 @@ duha
 duhur
 duit
 dujun
+duk
 duka
 duko
 duku
@@ -8660,6 +8661,7 @@ wawang
 wawi
 way
 wayah
+wayan
 wayang
 waye
 wayo
