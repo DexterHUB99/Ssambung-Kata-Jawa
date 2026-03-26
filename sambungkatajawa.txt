@@ -1431,6 +1431,7 @@ cunduk
 cupu
 curi
 curut
+cuti
 dada
 dadah
 dadali
@@ -3074,6 +3075,7 @@ iket
 ikhlas
 ikhtiar
 iki
+ikian
 ikie
 ikih
 ikii
@@ -6612,6 +6614,7 @@ pangling
 panguripan
 pani
 panik
+panir
 panjang
 panjenengan
 panji
