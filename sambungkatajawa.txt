@@ -6725,6 +6725,7 @@ palah
 palak
 palamu
 palang
+pale
 paleh
 palem
 paleng
@@ -8518,6 +8519,7 @@ tuku
 tukul
 tul
 tula
+tulak
 tulan
 tulang
 tulen
