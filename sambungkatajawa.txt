@@ -2431,6 +2431,7 @@ gola
 golan
 gole
 golek
+golekan
 goleke
 goleki
 golet
@@ -4492,6 +4493,7 @@ maha
 mahal
 mahar
 mahir
+mahu
 mai
 maido
 maii
