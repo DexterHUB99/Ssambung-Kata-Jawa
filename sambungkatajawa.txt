@@ -8795,6 +8795,7 @@ wini
 winta
 wio
 wir
+wira
 wirama
 wirang
 wirasa
