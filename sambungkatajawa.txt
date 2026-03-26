@@ -1035,6 +1035,7 @@ ban
 banci
 bandel
 bando
+bandung
 bang
 bangkekan
 bangkong
@@ -4999,6 +5000,7 @@ mino
 minta
 minum
 mio
+mir
 mira
 mirah
 miri
@@ -5122,6 +5124,7 @@ muntah
 munyuk
 mur
 murah
+murahan
 murid
 murka
 murub
@@ -5810,6 +5813,7 @@ ngiling
 ngilo
 ngilu
 ngima
+ngimi
 ngiming
 ngimpi
 ngin
