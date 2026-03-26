@@ -2282,6 +2282,7 @@ geng
 genge
 geni
 genio
+genjer
 geno
 genteng
 genting
