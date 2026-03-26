@@ -2849,6 +2849,7 @@ ibuku
 ic
 ica
 ical
+ican
 icone
 icu
 id
@@ -5921,6 +5922,7 @@ nuwunsewu
 ny
 nya
 nyai
+nyali
 nyamar
 nyambi
 nyamuk
