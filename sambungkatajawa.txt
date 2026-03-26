@@ -4833,6 +4833,7 @@ malam
 malang
 malas
 male
+maleh
 malek
 malem
 males
@@ -7865,6 +7866,7 @@ sira
 sirah
 siram
 siraman
+sirat
 sirep
 siri
 sirih
