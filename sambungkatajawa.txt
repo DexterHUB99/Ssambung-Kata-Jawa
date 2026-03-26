@@ -3890,6 +3890,7 @@ kopi
 kopii
 koplak
 koplo
+kopok
 kopyor
 kor
 kora
@@ -3971,6 +3972,7 @@ kumbahan
 kumbang
 kume
 kumel
+kumi
 kumpul
 kumuh
 kun
@@ -4114,6 +4116,7 @@ laos
 lap
 lapa
 lapak
+lapan
 lapangan
 lapar
 lapi
@@ -5362,6 +5365,7 @@ ngetok
 ngetung
 ngewangi
 ngewe
+ngewee
 ngewek
 ngeyel
 ngg
@@ -8128,6 +8132,7 @@ uria
 urih
 urii
 urik
+urine
 uring
 urip
 uripe
