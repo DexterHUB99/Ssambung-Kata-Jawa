@@ -1247,7 +1247,6 @@ camat
 campur
 can
 candi
-cangkang
 cangkem
 cangkir
 cangkol
@@ -1536,7 +1535,6 @@ diwak
 diwan
 do
 doa
-dobol
 doda
 dodi
 dodik
@@ -2230,6 +2228,7 @@ garem
 gareme
 garen
 gareng
+gares
 gari
 garih
 garii
@@ -4348,6 +4347,7 @@ limbahe
 limbuk
 limi
 limo
+limolas
 limpa
 limu
 limun
@@ -4535,6 +4535,7 @@ macak
 macan
 macul
 mad
+mada
 madan
 madang
 madas
@@ -4681,6 +4682,7 @@ matamu
 matane
 matek
 maten
+mateni
 mati
 matii
 matu
@@ -6469,7 +6471,6 @@ pijer
 pijet
 pijit
 piki
-piknik
 pikun
 pikur
 pil
