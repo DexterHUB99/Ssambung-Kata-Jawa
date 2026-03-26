@@ -2595,6 +2595,7 @@ hise
 hisi
 hitam
 hitung
+hitungan
 hiu
 hm
 hmm
@@ -2923,6 +2924,7 @@ ipola
 ipone
 ipuk
 ipun
+ipwa
 ir
 ira
 irae
