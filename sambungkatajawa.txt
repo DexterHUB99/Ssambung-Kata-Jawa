@@ -3434,6 +3434,7 @@ kapak
 kapal
 kapan
 kape
+kapel
 kapi
 kaping
 kapir
