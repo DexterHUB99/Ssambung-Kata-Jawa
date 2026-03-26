@@ -1581,6 +1581,7 @@ dinten
 dipan
 dipana
 diparani
+dipek
 dipi
 diposit
 dipun
@@ -8384,6 +8385,7 @@ udut
 ue
 uem
 uen
+ug
 uga
 ugah
 ugak
