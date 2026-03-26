@@ -2339,6 +2339,7 @@ gampar
 gampil
 gamping
 gan
+gancet
 ganco
 gancuk
 ganda
@@ -5800,6 +5801,7 @@ ngeles
 ngelih
 ngeling
 ngelmu
+ngelo
 ngelok
 ngelon
 ngeloni
