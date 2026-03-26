@@ -273,6 +273,7 @@ ako
 akoh
 akol
 akon
+akoni
 akor
 akra
 akrab
@@ -4724,6 +4725,7 @@ maten
 mateni
 mati
 matii
+matio
 matu
 matur
 maturnuwun
