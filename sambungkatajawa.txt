@@ -375,6 +375,7 @@ amal
 amala
 amalan
 amam
+amama
 aman
 amanah
 amanat
@@ -575,7 +576,6 @@ angur
 angus
 ani
 aniani
-aniaya
 anii
 anik
 anika
@@ -867,6 +867,7 @@ atek
 aten
 atep
 ater
+ates
 ati
 atia
 atid
@@ -1025,7 +1026,6 @@ bando
 bang
 bangkekan
 bangkong
-bangsat
 banjir
 banjur
 bantal
@@ -1756,7 +1756,6 @@ ehut
 ehuy
 eja
 ejik
-ejol
 eju
 ek
 eka
@@ -5355,6 +5354,7 @@ ngaduk
 ngadus
 ngae
 ngaga
+ngagang
 ngago
 ngah
 ngahi
@@ -5768,7 +5768,6 @@ ngis
 ngisak
 ngisen
 ngiseng
-ngiseni
 ngisep
 ngisi
 ngisih
@@ -6170,6 +6169,7 @@ nyamar
 nyambi
 nyamuk
 nyang
+nyangking
 nyangkul
 nyangu
 nyani
@@ -6594,7 +6594,6 @@ patih
 patil
 patok
 patu
-patuh
 patung
 pawa
 pawang
@@ -6983,6 +6982,7 @@ ramping
 rampok
 rampun
 rampung
+ramta
 ramu
 ramua
 ramuan
@@ -8094,6 +8094,7 @@ ticok
 tigan
 tik
 tika
+tikan
 tikar
 tiki
 tiktok
@@ -8478,7 +8479,6 @@ umi
 ummi
 umo
 ump
-umpakan
 umpama
 umpamane
 umpami
