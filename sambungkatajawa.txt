@@ -258,6 +258,7 @@ akimu
 akin
 akine
 aking
+akio
 akir
 akiran
 akis
@@ -5639,6 +5640,7 @@ nitip
 njaluk
 njupuk
 nki
+nko
 nnangka
 nnani
 nnduk
@@ -8235,6 +8237,7 @@ wayo
 wc
 we
 wea
+weda
 wedal
 wedan
 wedang
