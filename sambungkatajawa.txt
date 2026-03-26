@@ -839,6 +839,7 @@ asian
 asie
 asih
 asii
+asij
 asik
 asil
 asim
@@ -1113,7 +1114,6 @@ batuk
 batur
 bau
 bawa
-bawang
 bawok
 baya
 bayem
@@ -1547,7 +1547,6 @@ dara
 darah
 darat
 dari
-darii
 darma
 darus
 das
@@ -2341,7 +2340,6 @@ galio
 galo
 galon
 galung
-gam
 gama
 gaman
 gambang
@@ -2892,6 +2890,7 @@ harimau
 harimo
 harimu
 harine
+hariono
 harjo
 harm
 haro
@@ -3933,7 +3932,6 @@ katuh
 katuk
 katul
 katun
-katup
 katur
 katus
 kawah
@@ -5291,6 +5289,7 @@ munyuk
 mur
 murah
 murahan
+murai
 murid
 murka
 murub
@@ -5424,7 +5423,6 @@ nangkap
 nangkep
 nangkring
 nani
-nanii
 naning
 nanja
 nano
@@ -7839,6 +7837,7 @@ satus
 saung
 saur
 sawah
+sawak
 sawan
 sawang
 sawer
@@ -8691,7 +8690,6 @@ uban
 ubang
 ubek
 uber
-ubet
 ubi
 ubii
 ubun
