@@ -207,6 +207,7 @@ ajor
 aju
 ajur
 ajuran
+ajure
 ak
 aka
 akad
@@ -5161,6 +5162,7 @@ ngorek
 ngoreng
 ngori
 ngorok
+ngorong
 ngos
 ngosek
 ngoseng
