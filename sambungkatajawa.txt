@@ -1817,6 +1817,7 @@ ehik
 ehil
 ehim
 ehir
+ehit
 eho
 ehob
 ehoh
