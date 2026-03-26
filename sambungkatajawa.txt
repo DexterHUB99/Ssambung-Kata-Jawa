@@ -5403,6 +5403,7 @@ ngempot
 ngemuk
 ngemut
 ngen
+ngenas
 ngencuk
 ngendang
 ngendeng
