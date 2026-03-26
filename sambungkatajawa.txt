@@ -1402,6 +1402,7 @@ cina
 cincang
 cincin
 cing
+cingkrang
 cino
 cinta
 cintai
