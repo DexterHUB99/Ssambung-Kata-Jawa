@@ -1790,6 +1790,7 @@ ekor
 ekore
 ekos
 ekot
+eksi
 eku
 ekul
 ekur
