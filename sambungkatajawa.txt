@@ -1285,6 +1285,7 @@ bukit
 buku
 bulan
 bulat
+bule
 bulik
 bulu
 bumbu
@@ -4600,6 +4601,7 @@ lengah
 lenggah
 lengser
 leni
+lentog
 lepi
 ler
 lere
@@ -6001,6 +6003,7 @@ ngisir
 ngisor
 ngisu
 ngisuh
+ngisuk
 ngitil
 ngitung
 ngiwang
