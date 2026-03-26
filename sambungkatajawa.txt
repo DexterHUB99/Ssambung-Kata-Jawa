@@ -7514,6 +7514,7 @@ ringkasan
 ringkes
 ringo
 rini
+rinja
 rino
 rio
 rip
@@ -7729,6 +7730,7 @@ salam
 salama
 sale
 saleh
+salep
 sali
 salim
 salin
@@ -8353,6 +8355,7 @@ taruh
 taruk
 tarung
 tas
+tasbih
 tasi
 tat
 tata
