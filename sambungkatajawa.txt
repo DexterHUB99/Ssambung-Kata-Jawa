@@ -575,7 +575,6 @@ angur
 angus
 ani
 aniani
-aniaya
 anii
 anik
 anika
@@ -867,6 +866,7 @@ atek
 aten
 atep
 ater
+ates
 ati
 atia
 atid
@@ -6167,6 +6167,7 @@ nyamar
 nyambi
 nyamuk
 nyang
+nyangking
 nyangkul
 nyangu
 nyani
@@ -6979,6 +6980,7 @@ ramping
 rampok
 rampun
 rampung
+ramta
 ramu
 ramua
 ramuan
@@ -8474,7 +8476,6 @@ umi
 ummi
 umo
 ump
-umpakan
 umpama
 umpamane
 umpami
