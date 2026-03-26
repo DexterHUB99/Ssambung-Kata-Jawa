@@ -294,6 +294,7 @@ akut
 akuy
 al
 ala
+alaa
 alah
 alai
 alak
@@ -4349,6 +4350,7 @@ loro
 lorone
 lorong
 los
+losa
 lose
 loso
 lota
