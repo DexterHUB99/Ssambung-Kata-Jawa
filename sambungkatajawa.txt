@@ -1064,6 +1064,7 @@ bongko
 bono
 bor
 boring
+boro
 borok
 bos
 bosen
@@ -4803,6 +4804,7 @@ ngambil
 ngambu
 ngambul
 ngambung
+ngamem
 ngami
 ngamil
 ngamok
@@ -4863,6 +4865,7 @@ ngapu
 ngapung
 ngapunten
 ngapurancang
+ngapurane
 ngapuro
 ngapus
 ngapusi
@@ -7493,6 +7496,7 @@ ulaa
 ulae
 ulah
 ulahe
+ulahmu
 ulai
 ulak
 ulal
