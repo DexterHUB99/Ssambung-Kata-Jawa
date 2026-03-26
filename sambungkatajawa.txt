@@ -2079,6 +2079,7 @@ epul
 epur
 er
 era
+eraa
 erae
 erah
 erai
@@ -9272,6 +9273,7 @@ yolo
 yom
 yoman
 yon
+yona
 yong
 yono
 yoo
