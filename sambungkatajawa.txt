@@ -5636,6 +5636,7 @@ oneng
 ongak
 ongkek
 ongkel
+ongko
 ongkos
 ongol
 online
