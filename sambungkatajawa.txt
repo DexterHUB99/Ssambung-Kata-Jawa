@@ -1824,6 +1824,7 @@ emplok
 empol
 empos
 empot
+emprit
 empuk
 empun
 emu
@@ -5963,6 +5964,7 @@ nyi
 nyiku
 nyilih
 nyim
+nyirem
 nyocot
 nyoli
 nyong
@@ -8567,6 +8569,7 @@ wirasa
 wiri
 wis
 wisa
+wisan
 wisuh
 wit
 wita
