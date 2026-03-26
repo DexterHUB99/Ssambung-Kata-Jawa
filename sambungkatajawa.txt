@@ -1229,6 +1229,7 @@ busu
 busuk
 busung
 buta
+butek
 buto
 butu
 butuh
@@ -7697,6 +7698,7 @@ susune
 sut
 sutan
 sutil
+suw
 suwe
 suwek
 suwen
@@ -8338,6 +8340,7 @@ ungu
 uni
 unia
 unii
+uning
 unjal
 unjar
 unjuk
