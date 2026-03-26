@@ -5240,6 +5240,7 @@ nakon
 naksir
 nakula
 nala
+nalam
 nalan
 nalang
 nalar
@@ -5263,6 +5264,7 @@ nambal
 nambar
 name
 nami
+nampa
 nampak
 nampan
 nampani
@@ -6792,6 +6794,7 @@ pelit
 pelo
 peluk
 pema
+pemuda
 pen
 pena
 penak
