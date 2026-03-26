@@ -240,6 +240,7 @@ akalan
 akam
 akan
 akang
+akap
 akar
 akara
 akaran
@@ -8939,6 +8940,7 @@ warek
 warga
 waria
 waris
+warisan
 warkop
 warna
 warnae
