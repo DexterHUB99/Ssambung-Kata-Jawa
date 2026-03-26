@@ -518,6 +518,7 @@ angka
 angkara
 angkasa
 angkat
+angkel
 angker
 angklung
 angkong
