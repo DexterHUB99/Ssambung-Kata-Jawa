@@ -1919,6 +1919,7 @@ elin
 eling
 elingan
 elir
+elis
 elit
 elmu
 elo
@@ -5398,6 +5399,7 @@ nang
 nanga
 nangan
 nangdi
+nanggal
 nanggung
 nanging
 nangis
