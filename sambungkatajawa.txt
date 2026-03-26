@@ -3126,6 +3126,7 @@ julu
 jumat
 jumbo
 jumpa
+jungkel
 jurang
 juri
 jus
@@ -5257,6 +5258,7 @@ ngutek
 nguter
 ngutil
 ngutowo
+ngutus
 nguyu
 nguyuh
 nguyup
@@ -7364,6 +7366,7 @@ ucap
 ucapan
 ucek
 ucik
+ucu
 ucul
 uda
 udae
