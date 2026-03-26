@@ -21,6 +21,7 @@ abil
 abimanyu
 abin
 abis
+abit
 abo
 aboh
 abot
@@ -932,6 +933,7 @@ badog
 badok
 baduk
 bae
+bagi
 bagong
 bagus
 bah
