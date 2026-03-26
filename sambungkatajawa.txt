@@ -6019,6 +6019,7 @@ nglim
 nglindur
 ngliwet
 nglor
+ngn
 ngnan
 ngni
 ngno
@@ -9377,6 +9378,7 @@ yuda
 yudha
 yudi
 yuh
+yuha
 yui
 yuk
 yuka
