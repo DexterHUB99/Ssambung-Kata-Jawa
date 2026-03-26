@@ -3591,6 +3591,7 @@ kasim
 kasip
 kasir
 kasor
+kasos
 kasot
 kasu
 kasue
