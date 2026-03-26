@@ -3030,6 +3030,7 @@ ilali
 ilam
 ilan
 ilang
+ilange
 ilap
 ilar
 ilas
@@ -5499,6 +5500,7 @@ ngek
 ngeker
 ngeki
 ngeko
+ngekor
 ngekos
 ngel
 ngelag
