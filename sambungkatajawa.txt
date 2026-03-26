@@ -5736,6 +5736,7 @@ ngulik
 ngulo
 ngulon
 ngulu
+ngulur
 ngumah
 ngumbah
 ngumbahi
@@ -6977,6 +6978,7 @@ rili
 rilo
 rim
 rima
+riman
 rimao
 rimi
 rimo
