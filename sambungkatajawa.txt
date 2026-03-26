@@ -7805,6 +7805,7 @@ sika
 sikah
 sikan
 sikat
+sikep
 siki
 sikil
 sikilmu
@@ -9015,6 +9016,7 @@ watu
 watuk
 wawa
 wawang
+wawasan
 wawi
 way
 wayah
