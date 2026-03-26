@@ -1376,6 +1376,7 @@ damput
 dan
 dana
 danaa
+danau
 dancok
 dandan
 dandang
@@ -7962,6 +7963,7 @@ ulangan
 ulap
 ular
 ulas
+ulasan
 ulat
 ule
 uleg
