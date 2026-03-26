@@ -2730,6 +2730,7 @@ ihni
 iho
 ihsan
 ihta
+ihwa
 ihya
 ij
 ija
@@ -7647,6 +7648,7 @@ ukom
 ukro
 ukta
 uku
+ukuk
 ukul
 ukum
 ukung
