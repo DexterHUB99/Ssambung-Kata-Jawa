@@ -3450,6 +3450,7 @@ jan
 jancok
 janda
 jane
+jang
 jangan
 jangger
 jangkrik
@@ -5734,6 +5735,7 @@ ngeplak
 ngepot
 ngera
 ngeraba
+ngerasa
 ngere
 ngerem
 ngeres
@@ -9123,6 +9125,7 @@ yera
 yere
 yes
 yesi
+yete
 yeye
 yi
 yo
