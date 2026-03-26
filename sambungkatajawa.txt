@@ -1247,7 +1247,6 @@ camat
 campur
 can
 candi
-cangkang
 cangkem
 cangkir
 cangkol
@@ -1536,7 +1535,6 @@ diwak
 diwan
 do
 doa
-dobol
 doda
 dodi
 dodik
@@ -2230,6 +2228,7 @@ garem
 gareme
 garen
 gareng
+gares
 gari
 garih
 garii
@@ -2871,7 +2870,6 @@ id
 ida
 idaman
 idan
-idar
 ide
 idep
 ider
@@ -4349,6 +4347,7 @@ limbahe
 limbuk
 limi
 limo
+limolas
 limpa
 limu
 limun
@@ -4536,6 +4535,7 @@ macak
 macan
 macul
 mad
+mada
 madan
 madang
 madas
@@ -4682,6 +4682,7 @@ matamu
 matane
 matek
 maten
+mateni
 mati
 matii
 matu
@@ -5501,6 +5502,7 @@ ngg
 ngga
 nggae
 nggah
+nggai
 nggak
 nggaku
 nggali
@@ -5728,6 +5730,7 @@ nguping
 ngupo
 ngura
 ngurai
+ngurang
 nguras
 nguri
 nguripi
@@ -5842,6 +5845,7 @@ njupuk
 nki
 nko
 nmu
+nnalika
 nnangka
 nnani
 nnduk
@@ -6470,7 +6474,6 @@ pijer
 pijet
 pijit
 piki
-piknik
 pikun
 pikur
 pil
@@ -6722,6 +6725,7 @@ rajang
 rajim
 rajin
 raju
+rajungan
 rajut
 rak
 raka
@@ -7654,6 +7658,7 @@ taie
 taii
 taik
 tajin
+tajug
 tak
 takaran
 takdir
@@ -7759,7 +7764,6 @@ tegal
 teh
 teha
 tekan
-teke
 teko
 tekor
 tela
@@ -8075,6 +8079,7 @@ ue
 uem
 uen
 uga
+ugah
 ugak
 ugal
 ugas
