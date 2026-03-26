@@ -4587,6 +4587,7 @@ lengser
 leni
 lepi
 ler
+lere
 leren
 leres
 les
@@ -5023,6 +5024,7 @@ melek
 melok
 melu
 mem
+memacul
 memadi
 memang
 meme
@@ -7631,6 +7633,7 @@ sakarep
 saking
 sakit
 sakite
+sakkarepmu
 saku
 sakura
 sal
