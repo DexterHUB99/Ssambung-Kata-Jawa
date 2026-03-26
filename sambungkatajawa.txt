@@ -3063,6 +3063,7 @@ inem
 inep
 infaq
 ing
+ingali
 ingas
 ingat
 inget
@@ -6293,6 +6294,7 @@ palak
 palamu
 palang
 paleh
+palem
 paleng
 pali
 paling
