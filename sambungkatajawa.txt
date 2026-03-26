@@ -2081,6 +2081,7 @@ ewan
 ewang
 ewangi
 ewe
+ewean
 ewee
 ewek
 ewer
@@ -5184,6 +5185,7 @@ neptu
 ner
 neraka
 nerang
+nerap
 neras
 neri
 nerimo
@@ -6531,6 +6533,7 @@ piatu
 picek
 pidak
 pidama
+pidan
 pidana
 pie
 pien
@@ -6590,6 +6593,7 @@ pipu
 pir
 pira
 pirang
+pirasan
 piring
 piro
 pis
@@ -8859,6 +8863,7 @@ yuto
 yuwa
 yuyu
 yuyun
+yuyuyu
 zahra
 zaitun
 zakat
