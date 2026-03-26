@@ -3989,6 +3989,7 @@ lemah
 lemahe
 lemak
 leman
+lemari
 lemas
 lembah
 lembek
@@ -7234,6 +7235,7 @@ telur
 tem
 tema
 teman
+tembaga
 tembe
 tembem
 tembok
