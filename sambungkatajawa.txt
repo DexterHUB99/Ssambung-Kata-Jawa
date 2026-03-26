@@ -762,6 +762,7 @@ aseh
 asek
 asem
 asemi
+aseng
 asep
 asew
 asi
@@ -3609,6 +3610,7 @@ kayu
 ke
 keano
 kebab
+kebak
 kebang
 kebaya
 kebo
@@ -3804,6 +3806,7 @@ kiki
 kikil
 kil
 kila
+kilan
 kilap
 kilat
 kilen
@@ -7273,6 +7276,7 @@ siman
 simbah
 simbok
 simi
+simo
 sin
 sina
 sinau
