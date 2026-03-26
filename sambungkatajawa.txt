@@ -3148,6 +3148,7 @@ jaran
 jaranan
 jare
 jari
+jaring
 jauh
 jawa
 jawab
@@ -5643,6 +5644,7 @@ nunggang
 nunggangi
 nunggu
 nungu
+nuni
 nunjuk
 nuntun
 nunung
