@@ -6443,6 +6443,7 @@ ros
 rosa
 rosi
 roso
+rosomu
 rotan
 roti
 roto
@@ -7548,6 +7549,7 @@ umu
 umum
 umume
 umur
+umurmu
 un
 una
 unah
