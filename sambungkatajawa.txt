@@ -407,6 +407,7 @@ ampela
 ampelan
 ampelo
 ampir
+ampiri
 amplas
 ampok
 ampu
