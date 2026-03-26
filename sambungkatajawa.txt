@@ -3534,6 +3534,7 @@ jidat
 jig
 jiga
 jigong
+jijih
 jijik
 jika
 jikuk
@@ -5941,6 +5942,7 @@ ngiwang
 ngka
 ngko
 nglali
+nglampah
 nglantur
 nglim
 nglindur
@@ -6870,6 +6872,7 @@ pidan
 pidana
 pie
 pien
+pigura
 pii
 pijak
 pijek
