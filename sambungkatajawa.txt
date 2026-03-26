@@ -2275,6 +2275,7 @@ gawang
 gawe
 gawean
 gawee
+gaweko
 gaweopo
 gaweyan
 gawir
@@ -3891,6 +3892,7 @@ kina
 kinan
 kinang
 kinanthi
+kinanti
 kincung
 kini
 kinjeng
@@ -5188,6 +5190,7 @@ ngaduh
 ngaduk
 ngae
 ngaga
+ngago
 ngah
 ngahi
 ngaja
@@ -6992,6 +6995,7 @@ ro
 roa
 rob
 robek
+robi
 roboh
 roda
 rodo
