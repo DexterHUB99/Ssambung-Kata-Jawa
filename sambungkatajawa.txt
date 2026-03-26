@@ -4324,6 +4324,7 @@ kosi
 kosok
 kosong
 kosor
+kot
 kota
 kotak
 kotang
@@ -8238,6 +8239,7 @@ supe
 supel
 supi
 supo
+sur
 sura
 surabaya
 surai
