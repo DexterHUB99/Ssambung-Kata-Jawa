@@ -605,6 +605,7 @@ anoman
 anop
 ansur
 anta
+antah
 antam
 antar
 antara
@@ -655,6 +656,7 @@ apak
 apal
 apan
 apane
+apangan
 apar
 apas
 ape
@@ -1651,6 +1653,7 @@ ef
 efek
 eg
 ega
+egah
 egak
 egal
 ege
@@ -6682,6 +6685,7 @@ pura
 purek
 puri
 purna
+purnama
 purun
 pusaka
 puser
