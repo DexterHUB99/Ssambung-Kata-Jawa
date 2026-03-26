@@ -510,6 +510,7 @@ angker
 angklung
 angkong
 angkot
+angkringan
 angkuh
 angon
 angop
@@ -2249,6 +2250,7 @@ gokil
 goks
 gol
 gola
+golan
 gole
 golek
 goleke
@@ -5630,6 +5632,7 @@ ompol
 ompong
 ompreng
 on
+onang
 onar
 onari
 oncom
