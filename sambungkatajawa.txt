@@ -2251,6 +2251,7 @@ gani
 ganja
 ganjar
 ganjil
+gano
 ganta
 gantang
 ganteng
@@ -6198,6 +6199,7 @@ ohya
 oj
 ojek
 ojo
+ojoe
 ojog
 ojok
 ojol
