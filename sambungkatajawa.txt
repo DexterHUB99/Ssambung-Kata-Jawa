@@ -5116,6 +5116,7 @@ nelae
 nelen
 neli
 nelongso
+nem
 nema
 nembak
 nembang
@@ -5654,6 +5655,7 @@ ngong
 ngoni
 ngono
 ngontal
+ngonten
 ngop
 ngopak
 ngopeni
