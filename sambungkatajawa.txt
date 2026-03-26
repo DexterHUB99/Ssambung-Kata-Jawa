@@ -5917,6 +5917,7 @@ obat
 obaten
 obeh
 obeng
+oblong
 obok
 obong
 obor
