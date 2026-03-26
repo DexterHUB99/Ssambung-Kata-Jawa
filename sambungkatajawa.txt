@@ -2524,6 +2524,7 @@ genderuwo
 genderwo
 gendheng
 gendhis
+gendi
 gendon
 gendong
 gendut
