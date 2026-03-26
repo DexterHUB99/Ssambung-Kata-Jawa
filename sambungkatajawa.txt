@@ -935,6 +935,7 @@ awet
 awi
 awis
 awit
+awon
 awor
 awu
 awur
@@ -7640,6 +7641,7 @@ singgah
 singkong
 singo
 sini
+sining
 sinom
 sinta
 sinten
