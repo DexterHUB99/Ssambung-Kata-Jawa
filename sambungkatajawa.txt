@@ -1061,6 +1061,7 @@ beja
 bejo
 beka
 bekal
+bekas
 beko
 bela
 belajar
@@ -3956,6 +3957,7 @@ kit
 kita
 kitaa
 kitab
+kitae
 kite
 kiti
 kiwa
