@@ -977,6 +977,7 @@ baso
 bat
 bata
 batak
+batang
 baten
 bati
 batok
@@ -1251,11 +1252,13 @@ cina
 cincang
 cincin
 cing
+cino
 cinta
 cintai
 cipa
 cipluk
 cir
+cireng
 ciu
 coba
 cobak
@@ -1458,9 +1461,11 @@ dokar
 dola
 dolan
 dolanan
+dom
 doman
 domas
 domba
+domi
 don
 dona
 dong
@@ -1996,6 +2001,7 @@ gagal
 gagang
 gagap
 gagas
+gagasan
 gage
 gagean
 gagu
@@ -2253,6 +2259,7 @@ gerih
 gering
 germo
 gerobak
+gerong
 gertak
 ges
 gesek
@@ -2422,6 +2429,7 @@ gusti
 gusur
 gut
 guwa
+guyang
 guyon
 guyonan
 guys
@@ -4061,6 +4069,7 @@ lembah
 lembek
 lembur
 lembut
+leme
 lemek
 lemes
 lemot
@@ -5211,6 +5220,7 @@ nggah
 nggak
 nggaku
 nggali
+ngganggu
 nggarap
 nggateli
 nggawa
@@ -5623,6 +5633,7 @@ nup
 nur
 nurani
 nuri
+nuru
 nurui
 nurun
 nurut
@@ -5779,6 +5790,7 @@ ombak
 ombe
 omben
 ombo
+omboh
 ome
 omea
 omel
@@ -6034,6 +6046,7 @@ pasti
 pasu
 pasukan
 pat
+pateni
 pati
 patih
 patil
@@ -6503,6 +6516,7 @@ remeh
 remek
 remeng
 remes
+remi
 remo
 remok
 rempah
@@ -6906,6 +6920,7 @@ semok
 sempak
 sempake
 semprul
+semrawut
 semua
 sen
 senam
@@ -7275,6 +7290,7 @@ tambak
 tambang
 tameng
 tami
+tampa
 tampah
 tampar
 tampi
@@ -8177,6 +8193,7 @@ wot
 wowo
 woyo
 wuh
+wujud
 wuku
 wulan
 wuno
