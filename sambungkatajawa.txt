@@ -1366,6 +1366,7 @@ dagu
 dah
 dahar
 dahi
+daju
 daki
 daku
 dala
@@ -1428,6 +1429,7 @@ dedi
 degan
 dek
 dekan
+deki
 delima
 delman
 delo
