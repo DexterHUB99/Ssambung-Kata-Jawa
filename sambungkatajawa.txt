@@ -1788,6 +1788,7 @@ egah
 egak
 egal
 ege
+eges
 egi
 egik
 ego
@@ -6421,6 +6422,7 @@ nyawat
 nyawiji
 nyawit
 nyekel
+nyeker
 nyeleh
 nyi
 nyiku
