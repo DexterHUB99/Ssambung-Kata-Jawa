@@ -5291,6 +5291,7 @@ ngalah
 ngalam
 ngalangi
 ngalap
+ngalas
 ngale
 ngaleh
 ngalem
