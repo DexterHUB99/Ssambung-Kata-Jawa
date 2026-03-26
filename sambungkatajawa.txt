@@ -6824,6 +6824,7 @@ pasir
 paso
 pasti
 pasu
+pasuk
 pasukan
 pasuruhan
 pat
