@@ -438,6 +438,7 @@ ampel
 ampela
 ampelan
 ampelo
+ampera
 ampi
 ampir
 ampiri
@@ -6722,6 +6723,7 @@ rabu
 rabun
 racik
 racun
+rada
 radar
 raden
 radi
@@ -8378,6 +8380,7 @@ urie
 urih
 urii
 urik
+urika
 urine
 uring
 urip
