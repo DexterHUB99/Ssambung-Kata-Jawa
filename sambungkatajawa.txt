@@ -4773,6 +4773,7 @@ lomu
 lon
 loncang
 loncat
+lonceng
 longgar
 longgor
 longor
