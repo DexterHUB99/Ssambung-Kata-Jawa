@@ -3458,6 +3458,7 @@ jipuk
 jir
 jira
 jiran
+jita
 jitak
 jiwa
 jiwae
@@ -4246,6 +4247,7 @@ kuwalat
 kuwat
 kuwe
 kuwi
+kuwo
 kuya
 kyai
 la
@@ -6159,6 +6161,7 @@ nyawang
 nyawat
 nyawiji
 nyawit
+nyekel
 nyi
 nyiku
 nyilih
