@@ -1783,6 +1783,7 @@ ekok
 ekol
 ekon
 ekor
+ekore
 ekos
 ekot
 eku
@@ -4089,6 +4090,7 @@ kontrol
 konyol
 kop
 kopeng
+koper
 kopet
 kopi
 kopii
@@ -7049,6 +7051,7 @@ rekoso
 rela
 relo
 rem
+rema
 remah
 remang
 remas
