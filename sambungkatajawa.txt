@@ -7164,6 +7164,7 @@ semok
 sempak
 sempake
 semprul
+sempurna
 semrawut
 semua
 sen
@@ -8533,6 +8534,7 @@ ye
 yek
 yen
 yeni
+yepa
 yera
 yere
 yes
