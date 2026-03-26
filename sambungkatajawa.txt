@@ -822,6 +822,7 @@ asemi
 asen
 aseng
 asep
+aset
 asew
 asi
 asia
@@ -1393,6 +1394,7 @@ ciblok
 cica
 cicak
 cici
+cicii
 cicil
 cicis
 cicit
@@ -3798,6 +3800,7 @@ kar
 kara
 karaa
 karak
+karam
 karang
 karap
 kare
@@ -4396,6 +4399,7 @@ lada
 lading
 laen
 lag
+laga
 lagak
 lagi
 lagii
