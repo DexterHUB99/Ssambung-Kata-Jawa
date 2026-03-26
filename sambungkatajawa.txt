@@ -436,7 +436,6 @@ ampel
 ampela
 ampelan
 ampelo
-amper
 ampi
 ampir
 ampiri
@@ -1421,7 +1420,6 @@ datu
 daun
 davi
 dawa
-dawah
 dawak
 dawet
 dawuh
@@ -4799,7 +4797,6 @@ mudin
 muga
 mugi
 muh
-mujair
 muji
 muka
 mukak
@@ -7558,7 +7555,6 @@ tae
 taek
 tah
 tahan
-tahi
 tahta
 tahu
 tahun
