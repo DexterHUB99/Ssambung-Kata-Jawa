@@ -6937,6 +6937,7 @@ segok
 segoro
 seh
 sehat
+sejarah
 sejuk
 sejum
 sek
@@ -7369,6 +7370,7 @@ tani
 tanjung
 tanpa
 tansah
+tante
 tanya
 tao
 tap
