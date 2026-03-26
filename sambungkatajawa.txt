@@ -3267,6 +3267,7 @@ jaku
 jalak
 jalii
 jam
+jamak
 jaman
 jamat
 jambak
@@ -7358,6 +7359,7 @@ simak
 siman
 simbah
 simbok
+simbokne
 simi
 simo
 sin
