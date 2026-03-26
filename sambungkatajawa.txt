@@ -2309,6 +2309,7 @@ gita
 gitar
 giwang
 glagah
+glora
 go
 goblog
 goblok
@@ -3863,7 +3864,6 @@ kumpul
 kumuh
 kun
 kuna
-kunang
 kunci
 kuncup
 kundur
@@ -5302,6 +5302,7 @@ ngisu
 ngisuh
 ngitil
 ngitung
+ngiwang
 ngka
 ngko
 nglantur
@@ -5372,6 +5373,7 @@ ngowoh
 ngoyak
 ngoyo
 ngragal
+ngragas
 ngrayu
 ngrep
 ngrit
@@ -6184,7 +6186,6 @@ pipil
 pipis
 pipit
 pipu
-pipur
 pir
 pira
 pirang
@@ -6790,7 +6791,6 @@ salun
 salut
 sam
 sama
-saman
 sambal
 sambang
 sambat
@@ -7386,6 +7386,7 @@ telur
 tem
 tema
 teman
+temanggung
 tembaga
 tembe
 tembem
@@ -7473,6 +7474,7 @@ tini
 tinju
 tip
 tir
+tira
 tirai
 tiri
 tiru
@@ -8231,6 +8233,7 @@ yana
 yang
 yani
 yano
+yap
 yapa
 yapi
 yaping
