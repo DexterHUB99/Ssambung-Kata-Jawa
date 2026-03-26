@@ -69,6 +69,7 @@ ae
 aeng
 aengi
 af
+afa
 afan
 afi
 afif
@@ -5169,6 +5170,7 @@ ngisu
 ngisuh
 ngitil
 ngitung
+ngka
 ngko
 nglantur
 nglim
