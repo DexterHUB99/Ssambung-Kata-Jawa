@@ -667,6 +667,7 @@ apane
 apangan
 apar
 apas
+apasi
 ape
 apek
 apel
@@ -3256,6 +3257,7 @@ isin
 isine
 ising
 isini
+isino
 isis
 isisa
 isisin
@@ -4089,6 +4091,7 @@ kori
 kos
 kosan
 kosek
+kosekan
 kosi
 kosok
 kosong
