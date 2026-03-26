@@ -4717,6 +4717,7 @@ monyet
 mop
 mori
 moro
+mos
 mosa
 mosok
 mot
@@ -5819,6 +5820,7 @@ nutur
 nuturi
 nuwa
 nuweki
+nuwi
 nuwun
 nuwunsewu
 ny
@@ -8030,6 +8032,7 @@ umurmu
 un
 una
 unah
+unak
 unam
 unan
 unang
