@@ -3568,6 +3568,7 @@ katimbang
 katir
 katok
 katon
+katresnan
 katrok
 katuh
 katuk
@@ -4282,6 +4283,7 @@ lingkaran
 linglung
 lingsir
 lini
+linja
 linta
 lintah
 lintang
@@ -5517,6 +5519,7 @@ ngolah
 ngolak
 ngolek
 ngoleke
+ngoli
 ngolo
 ngoloh
 ngolok
@@ -7982,6 +7985,7 @@ ukit
 ukki
 ukli
 ukna
+ukno
 uko
 ukol
 ukom
