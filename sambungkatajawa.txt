@@ -1491,6 +1491,7 @@ cuti
 dada
 dadah
 dadali
+dadang
 dadar
 dadi
 dadis
@@ -1824,6 +1825,7 @@ eham
 ehan
 ehar
 ehas
+ehat
 ehay
 ehe
 ehed
@@ -2649,6 +2651,7 @@ glagah
 glora
 go
 goblog
+goblogan
 goblok
 gocek
 godhong
