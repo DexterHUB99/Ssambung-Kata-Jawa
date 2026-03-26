@@ -996,6 +996,7 @@ bejo
 bekal
 beko
 bela
+belan
 belang
 belek
 beli
@@ -3997,6 +3998,7 @@ layangan
 layar
 layu
 layuh
+layur
 le
 lebah
 lebih
@@ -4331,6 +4333,7 @@ mandhek
 mandi
 mane
 maneh
+manes
 mang
 manga
 mangan
