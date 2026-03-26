@@ -4646,6 +4646,7 @@ mori
 moro
 mosa
 mosok
+mot
 moto
 motol
 motor
@@ -6775,6 +6776,7 @@ rumbak
 rumbuk
 rumit
 rumiyin
+rumo
 rumongso
 rumput
 rumus
