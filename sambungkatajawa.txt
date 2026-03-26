@@ -1256,6 +1256,7 @@ cendol
 cengkeh
 centil
 ceplok
+cerdas
 ceri
 cerita
 ces
