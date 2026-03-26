@@ -2016,6 +2016,7 @@ enggih
 enggo
 engkang
 engko
+engkok
 engkol
 engkole
 eni
@@ -6094,6 +6095,7 @@ ngulo
 ngulon
 ngulu
 ngulur
+ngum
 ngumah
 ngumbah
 ngumbahi
