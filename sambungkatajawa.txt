@@ -7713,6 +7713,7 @@ sumuk
 sumur
 sun
 suna
+sunan
 sunar
 sunat
 sunda
@@ -8277,6 +8278,7 @@ ukiran
 ukiro
 ukit
 ukki
+ukko
 ukli
 ukna
 ukno
