@@ -1618,6 +1618,7 @@ edaran
 edi
 edo
 edos
+edul
 edus
 eeh
 eenak
