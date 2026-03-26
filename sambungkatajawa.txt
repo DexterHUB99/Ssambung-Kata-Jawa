@@ -1707,6 +1707,7 @@ enak
 enake
 enam
 enan
+enang
 encok
 endah
 endang
@@ -4170,6 +4171,7 @@ ludruk
 lugu
 luh
 luhur
+luk
 luka
 luki
 lukis
@@ -7503,6 +7505,7 @@ udek
 udel
 udelan
 udelmu
+udeng
 udi
 udin
 udo
