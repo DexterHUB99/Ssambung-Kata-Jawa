@@ -1549,6 +1549,7 @@ dukun
 dukur
 dulan
 dulang
+duli
 dulu
 dulur
 dumadi
@@ -3407,6 +3408,7 @@ kamar
 kambi
 kambil
 kambing
+kambu
 kambuh
 kami
 kamia
