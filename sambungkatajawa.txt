@@ -5315,6 +5315,7 @@ nambahi
 nambal
 nambar
 name
+namen
 nami
 nampa
 nampak
@@ -8519,6 +8520,7 @@ tumis
 tumit
 tumpah
 tumpak
+tumpakan
 tumpang
 tumpar
 tumpeng
