@@ -3598,6 +3598,7 @@ kasos
 kasot
 kasu
 kasue
+kasuk
 kasur
 kasure
 kasuri
