@@ -1610,6 +1610,7 @@ ehoh
 ehok
 ehop
 ehor
+ehot
 ehoy
 ehu
 ehup
@@ -7718,6 +7719,7 @@ udeng
 udi
 udin
 udo
+udra
 udu
 udud
 udui
