@@ -2128,6 +2128,7 @@ gapuk
 gapura
 gar
 gara
+garah
 garai
 garak
 garan
@@ -2385,6 +2386,7 @@ goreh
 goren
 goreng
 gorengan
+gores
 gori
 goro
 goroh
@@ -5896,6 +5898,7 @@ ongol
 online
 ono
 onoe
+onono
 onoo
 onta
 ontel
