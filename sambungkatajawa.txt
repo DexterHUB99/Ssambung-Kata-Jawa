@@ -596,6 +596,7 @@ anyar
 anyel
 anyep
 anyer
+anyes
 anying
 anyir
 aos
@@ -5020,7 +5021,6 @@ ngeng
 ngengek
 ngenget
 ngenggeh
-ngengkol
 ngengobrol
 ngenteni
 ngentoh
@@ -7153,7 +7153,6 @@ tati
 tato
 tatu
 taun
-taura
 tawa
 tawang
 tawar
@@ -7907,7 +7906,6 @@ werno
 weruh
 wes
 wesi
-westa
 wet
 wetan
 weteng
