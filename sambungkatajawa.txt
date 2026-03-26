@@ -596,6 +596,7 @@ anyar
 anyel
 anyep
 anyer
+anyes
 anying
 anyir
 aos
@@ -917,7 +918,6 @@ balai
 balek
 bali
 balik
-balikno
 balung
 ban
 banci
@@ -1103,6 +1103,7 @@ buji
 buk
 buka
 bukan
+bukit
 buku
 bulan
 bulat
@@ -1948,7 +1949,6 @@ gairah
 gaja
 gajah
 gaje
-gajelas
 gaji
 gajian
 gajie
@@ -2783,6 +2783,7 @@ imam
 iman
 imane
 imao
+imar
 imas
 imba
 imbal
@@ -4799,7 +4800,6 @@ ngaku
 ngal
 ngala
 ngalah
-ngalam
 ngalangi
 ngalap
 ngale
@@ -4830,6 +4830,7 @@ ngami
 ngamil
 ngamok
 ngampak
+ngampet
 ngampiri
 ngamuk
 ngan
@@ -4981,7 +4982,6 @@ ngekos
 ngel
 ngelag
 ngelak
-ngelam
 ngelap
 ngelawak
 ngeleh
@@ -5024,7 +5024,6 @@ ngeng
 ngengek
 ngenget
 ngenggeh
-ngengkol
 ngengobrol
 ngenteni
 ngentoh
@@ -5714,7 +5713,6 @@ oren
 oreng
 oreo
 orep
-organisasi
 ori
 oria
 orii
@@ -7158,7 +7156,6 @@ tati
 tato
 tatu
 taun
-taura
 tawa
 tawang
 tawar
@@ -7532,7 +7529,6 @@ ukurane
 ukuren
 ukuro
 ukya
-ul
 ula
 ulaa
 ulae
@@ -7913,7 +7909,6 @@ werno
 weruh
 wes
 wesi
-westa
 wet
 wetan
 weteng
