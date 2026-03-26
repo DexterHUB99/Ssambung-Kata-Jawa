@@ -5253,6 +5253,7 @@ ngaco
 ngadai
 ngadeg
 ngadek
+ngadem
 ngadep
 ngadepi
 ngadi
@@ -7795,6 +7796,7 @@ tak
 takaran
 takdir
 taki
+takjil
 tako
 takon
 takoni
