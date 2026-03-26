@@ -1382,6 +1382,7 @@ dahi
 daju
 daki
 daku
+dal
 dala
 dalam
 dalan
@@ -7030,6 +7031,7 @@ rose
 rosi
 roso
 rosomu
+rot
 rotan
 roti
 roto
