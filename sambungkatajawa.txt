@@ -508,6 +508,7 @@ angguk
 anggur
 angin
 angka
+angkara
 angkasa
 angkat
 angker
@@ -4363,6 +4364,7 @@ mayaa
 mayak
 mayat
 mayit
+mayu
 mbah
 mbok
 mbuh
