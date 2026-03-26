@@ -5677,6 +5677,7 @@ note
 nresnani
 nrimo
 nsua
+nsuri
 nu
 nua
 nuana
@@ -6685,6 +6686,7 @@ rin
 rina
 rindu
 ring
+ringa
 ringan
 ringin
 ringkas
