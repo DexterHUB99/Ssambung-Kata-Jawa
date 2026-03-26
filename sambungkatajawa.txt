@@ -2339,6 +2339,7 @@ galio
 galo
 galon
 galung
+gam
 gama
 gaman
 gambang
