@@ -1408,6 +1408,7 @@ diwan
 do
 doa
 doda
+dodi
 dodik
 dodo
 dodol
@@ -1793,6 +1794,7 @@ erang
 eras
 erasa
 erat
+ere
 erek
 erem
 eren
