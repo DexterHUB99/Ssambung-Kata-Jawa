@@ -2457,6 +2457,7 @@ gupak
 gupuh
 gur
 gura
+gurami
 guren
 guri
 gurih
@@ -4592,6 +4593,7 @@ milen
 mili
 milih
 milu
+mima
 mimi
 mimis
 min
@@ -5460,6 +5462,7 @@ ngotot
 ngowoh
 ngoyak
 ngoyo
+ngpel
 ngragal
 ngragas
 ngrayu
@@ -6262,6 +6265,7 @@ pina
 pinang
 pinarak
 pincang
+pincuk
 pindah
 pindang
 pindho
