@@ -5225,6 +5225,7 @@ ngilu
 ngima
 ngimpi
 ngin
+nginep
 nging
 nginggil
 nginjak
