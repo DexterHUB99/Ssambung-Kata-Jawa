@@ -3763,6 +3763,7 @@ kaliren
 kalo
 kalong
 kalor
+kalori
 kaluhur
 kalung
 kam
@@ -9371,6 +9372,7 @@ yar
 yari
 yas
 yasin
+yat
 yati
 yato
 yaudah
