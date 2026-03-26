@@ -758,6 +758,7 @@ arto
 artos
 aru
 aruh
+aruk
 arul
 arum
 arun
@@ -4821,6 +4822,7 @@ mekso
 mela
 melas
 melati
+melek
 melok
 melu
 mem
