@@ -3381,6 +3381,7 @@ islam
 isma
 ismi
 isna
+isni
 iso
 isoe
 isok
@@ -5095,6 +5096,7 @@ mok
 moki
 mol
 mola
+molah
 molan
 mole
 moleh
@@ -5946,6 +5948,7 @@ ngko
 nglali
 nglampah
 nglantur
+nglawuhi
 nglim
 nglindur
 ngliwet
