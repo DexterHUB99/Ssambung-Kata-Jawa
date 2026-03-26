@@ -1393,6 +1393,7 @@ dirumah
 dis
 disek
 disik
+disini
 ditipu
 diwak
 diwan
@@ -6594,6 +6595,7 @@ sambal
 sambang
 sambat
 sambel
+sambil
 sambung
 sambut
 same
