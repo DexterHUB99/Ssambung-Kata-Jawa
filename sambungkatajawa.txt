@@ -375,6 +375,7 @@ amal
 amala
 amalan
 amam
+amama
 aman
 amanah
 amanat
@@ -575,7 +576,6 @@ angur
 angus
 ani
 aniani
-aniaya
 anii
 anik
 anika
@@ -867,6 +867,7 @@ atek
 aten
 atep
 ater
+ates
 ati
 atia
 atid
@@ -1025,7 +1026,6 @@ bando
 bang
 bangkekan
 bangkong
-bangsat
 banjir
 banjur
 bantal
@@ -1756,7 +1756,6 @@ ehut
 ehuy
 eja
 ejik
-ejol
 eju
 ek
 eka
@@ -4146,7 +4145,6 @@ koyak
 koyo
 koyoe
 koyok
-koyoke
 krama
 kramas
 krambil
@@ -4349,6 +4347,7 @@ lanjut
 lansia
 lantai
 lantang
+lanting
 lantun
 lantur
 lanyah
@@ -4987,7 +4986,6 @@ mongo
 moni
 montor
 monyet
-monyong
 mop
 mora
 mori
@@ -5357,6 +5355,7 @@ ngaduk
 ngadus
 ngae
 ngaga
+ngagang
 ngago
 ngah
 ngahi
@@ -5770,7 +5769,6 @@ ngis
 ngisak
 ngisen
 ngiseng
-ngiseni
 ngisep
 ngisi
 ngisih
@@ -6061,7 +6059,6 @@ nolan
 noleh
 nom
 noman
-nombak
 nombok
 nomer
 non
@@ -6173,6 +6170,7 @@ nyamar
 nyambi
 nyamuk
 nyang
+nyangking
 nyangkul
 nyangu
 nyani
@@ -6597,7 +6595,6 @@ patih
 patil
 patok
 patu
-patuh
 patung
 pawa
 pawang
@@ -6672,7 +6669,6 @@ peyek
 php
 pi
 pia
-piagam
 piala
 pian
 piano
@@ -6987,6 +6983,7 @@ ramping
 rampok
 rampun
 rampung
+ramta
 ramu
 ramua
 ramuan
@@ -8098,6 +8095,7 @@ ticok
 tigan
 tik
 tika
+tikan
 tikar
 tiki
 tiktok
@@ -8482,7 +8480,6 @@ umi
 ummi
 umo
 ump
-umpakan
 umpama
 umpamane
 umpami
