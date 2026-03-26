@@ -5504,6 +5504,7 @@ ngira
 ngiras
 ngireng
 ngiri
+ngirim
 ngiris
 ngirit
 ngirup
