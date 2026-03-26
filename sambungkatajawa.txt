@@ -5369,6 +5369,7 @@ nitip
 njaluk
 njupuk
 nki
+nnangka
 nnani
 nnduk
 nngalor
@@ -7766,6 +7767,7 @@ utik
 uting
 utir
 utiran
+utli
 uto
 utoh
 utowo
