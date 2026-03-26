@@ -5473,6 +5473,7 @@ nglim
 nglindur
 ngliwet
 nglor
+ngni
 ngno
 ngnu
 ngobat
@@ -8267,6 +8268,7 @@ waa
 waalaikumsalam
 waan
 waca
+wacaan
 wacana
 wadah
 wader
