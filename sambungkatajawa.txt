@@ -3877,6 +3877,7 @@ kas
 kasa
 kasah
 kasak
+kasan
 kasar
 kasara
 kase
