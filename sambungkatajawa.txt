@@ -95,6 +95,7 @@ agap
 agar
 agawe
 age
+ageman
 ageng
 agi
 agik
@@ -1776,6 +1777,7 @@ ehe
 ehed
 eheh
 ehek
+ehel
 ehem
 ehen
 eher
