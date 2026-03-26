@@ -948,6 +948,7 @@ awak
 awakdewe
 awake
 awakmu
+awaku
 awal
 awalan
 awan
@@ -7594,6 +7595,7 @@ sarat
 sare
 sarem
 sareng
+sarep
 sari
 sarong
 saru
@@ -7883,6 +7885,7 @@ sonten
 sop
 sopa
 sopan
+sopi
 sopir
 sopo
 sor
