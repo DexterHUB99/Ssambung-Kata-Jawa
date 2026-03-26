@@ -846,6 +846,7 @@ aulah
 auma
 aumi
 aun
+auna
 aup
 aura
 aus
@@ -1245,6 +1246,7 @@ cikal
 cikur
 cilok
 cimu
+cimut
 cina
 cincang
 cincin
@@ -1254,7 +1256,6 @@ cintai
 cipa
 cipluk
 cir
-cireng
 ciu
 coba
 cobak
@@ -1312,6 +1313,7 @@ dalang
 dale
 dalem
 daleman
+daleme
 dali
 dalih
 dalu
@@ -1319,6 +1321,7 @@ dama
 damai
 damar
 damel
+damen
 dampak
 dampar
 damping
@@ -1610,6 +1613,7 @@ ekas
 eke
 ekeh
 ekek
+ekeka
 ekel
 ekem
 eken
@@ -1991,7 +1995,6 @@ gagal
 gagang
 gagap
 gagas
-gagasan
 gage
 gagean
 gagu
@@ -2063,6 +2066,7 @@ gandul
 ganep
 gang
 ganggu
+gangguan
 gangsal
 gangsar
 gangsing
@@ -2227,6 +2231,7 @@ geni
 genio
 geno
 genteng
+genting
 gentong
 genuk
 geo
@@ -2235,6 +2240,7 @@ gepuk
 ger
 gerah
 gerak
+gerakan
 geram
 gerang
 gerbang
@@ -2246,7 +2252,6 @@ gerih
 gering
 germo
 gerobak
-gerong
 gertak
 ges
 gesek
@@ -3979,6 +3984,7 @@ lani
 lanjut
 lansia
 lantai
+lantang
 lantun
 lantur
 lanyah
@@ -4462,6 +4468,7 @@ melati
 melok
 melu
 mem
+memadi
 meme
 memek
 menawi
@@ -4585,6 +4592,7 @@ muka
 mukakmu
 muke
 muki
+muku
 mukul
 mul
 mula
@@ -4648,6 +4656,7 @@ nab
 nabi
 nabii
 nabok
+naboki
 nabrak
 nabu
 nabuh
@@ -5199,7 +5208,6 @@ nggah
 nggak
 nggaku
 nggali
-ngganggu
 nggarap
 nggateli
 nggawa
@@ -5250,6 +5258,7 @@ nging
 nginggil
 nginjak
 nginjeng
+ngino
 ngintal
 ngintil
 ngintip
@@ -6020,7 +6029,6 @@ pasti
 pasu
 pasukan
 pat
-pateni
 pati
 patih
 patil
@@ -7680,6 +7688,7 @@ ukiran
 ukiro
 ukit
 ukki
+ukli
 ukna
 uko
 ukol
