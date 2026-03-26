@@ -3500,6 +3500,7 @@ kamilan
 kamis
 kamise
 kamit
+kampil
 kampret
 kampung
 kampungan
@@ -7401,6 +7402,7 @@ sirup
 sis
 sisa
 sisan
+siser
 sisi
 sisih
 sisik
