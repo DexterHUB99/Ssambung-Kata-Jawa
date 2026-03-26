@@ -1519,6 +1519,7 @@ das
 dasar
 dasi
 daster
+datan
 datu
 daun
 davi
@@ -7981,6 +7982,7 @@ subuh
 subur
 suci
 sucok
+sud
 sudah
 sude
 sudi
