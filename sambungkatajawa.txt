@@ -3544,6 +3544,7 @@ kambil
 kambing
 kambu
 kambuh
+kamer
 kami
 kamia
 kamii
@@ -4589,6 +4590,7 @@ madang
 madas
 madhang
 madi
+madio
 madiun
 madosi
 madrasah
@@ -7437,6 +7439,7 @@ sesama
 sesat
 sesek
 sesok
+sesorah
 sesuk
 setan
 setunggal
@@ -7471,6 +7474,7 @@ sikat
 siki
 sikil
 sikilmu
+siko
 siku
 sikut
 sil
