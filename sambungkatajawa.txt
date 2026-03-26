@@ -629,6 +629,7 @@ apil
 apim
 apin
 apip
+apis
 aplikasi
 apo
 apolo
@@ -3038,6 +3039,7 @@ jahe
 jaja
 jajai
 jajajan
+jajam
 jajan
 jakaa
 jaket
