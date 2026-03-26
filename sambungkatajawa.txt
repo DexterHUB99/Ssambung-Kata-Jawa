@@ -7396,6 +7396,7 @@ tindhak
 tinggal
 tinggalna
 tingkah
+tini
 tinju
 tip
 tir
@@ -7957,6 +7958,7 @@ waan
 waca
 wacana
 wadah
+wader
 wadol
 wadon
 waduh
