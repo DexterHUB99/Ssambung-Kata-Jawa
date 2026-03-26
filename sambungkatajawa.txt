@@ -3954,6 +3954,7 @@ kupas
 kupat
 kupeng
 kuping
+kupluk
 kupu
 kur
 kura
