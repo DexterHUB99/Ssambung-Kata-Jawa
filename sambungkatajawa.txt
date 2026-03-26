@@ -859,6 +859,7 @@ asui
 asul
 asum
 asun
+asune
 asuo
 asup
 asura
