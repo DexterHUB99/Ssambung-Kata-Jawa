@@ -4196,6 +4196,7 @@ luh
 luhur
 luk
 luka
+lukaa
 luki
 lukis
 luku
@@ -6126,6 +6127,7 @@ pitung
 pitutur
 piwe
 piwulang
+piyambak
 piye
 piyo
 pling
