@@ -4802,6 +4802,7 @@ moni
 montor
 monyet
 mop
+mora
 mori
 moro
 mos
@@ -7262,6 +7263,7 @@ semprul
 sempurna
 semrawut
 semua
+semut
 sen
 senam
 senang
