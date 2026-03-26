@@ -288,6 +288,7 @@ aklam
 ako
 akoh
 akol
+akom
 akon
 akoni
 akor
@@ -1312,6 +1313,7 @@ buntel
 buntu
 buntung
 bunuh
+bup
 bur
 burek
 buri
@@ -2184,6 +2186,7 @@ ese
 eseh
 esek
 esem
+eseman
 esep
 eses
 esi
@@ -7512,6 +7515,7 @@ riku
 ril
 rila
 rili
+rilis
 rilo
 rim
 rima
