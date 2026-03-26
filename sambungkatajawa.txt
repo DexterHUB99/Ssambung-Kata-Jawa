@@ -1536,6 +1536,7 @@ diwak
 diwan
 do
 doa
+dobol
 doda
 dodi
 dodik
@@ -6468,6 +6469,7 @@ pijer
 pijet
 pijit
 piki
+piknik
 pikun
 pikur
 pil
