@@ -548,6 +548,7 @@ angon
 angop
 angsa
 angsal
+angsi
 angsle
 angsur
 angsuran
@@ -6536,6 +6537,7 @@ raine
 raino
 raiso
 raja
+rajab
 rajang
 rajim
 rajin
@@ -6964,6 +6966,7 @@ sambal
 sambang
 sambat
 sambel
+sambi
 sambil
 sambung
 sambut
