@@ -7959,6 +7959,7 @@ wilujeng
 win
 windu
 wingi
+wingibengi
 wingko
 winta
 wio
@@ -8059,6 +8060,7 @@ yeni
 yera
 yere
 yes
+yesi
 yeye
 yo
 yoan
