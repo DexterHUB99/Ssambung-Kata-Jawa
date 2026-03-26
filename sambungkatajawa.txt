@@ -4792,6 +4792,7 @@ mugi
 muh
 muji
 muka
+mukak
 mukakmu
 muke
 muki
@@ -7062,6 +7063,7 @@ sam
 sama
 samah
 saman
+samat
 sambal
 sambang
 sambat
