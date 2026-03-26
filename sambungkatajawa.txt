@@ -522,6 +522,7 @@ anco
 ancok
 ancuk
 ancur
+ancuran
 anda
 andae
 andai
@@ -546,6 +547,7 @@ andu
 anduk
 andul
 andung
+andus
 ane
 aneh
 anek
@@ -2227,6 +2229,7 @@ etung
 ew
 ewa
 ewah
+ewak
 ewan
 ewang
 ewangi
