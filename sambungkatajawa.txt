@@ -4761,6 +4761,7 @@ mantuk
 mantul
 mantun
 manuk
+manukmu
 manungsa
 manungso
 manusi
@@ -5009,6 +5010,7 @@ munafik
 mundak
 mundhut
 mundur
+mung
 munggah
 mungil
 mungkin
