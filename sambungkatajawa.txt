@@ -5795,6 +5795,7 @@ ngoli
 ngolo
 ngoloh
 ngolok
+ngoma
 ngomah
 ngombe
 ngombek
@@ -7260,6 +7261,7 @@ rujuk
 ruko
 ruku
 rukun
+ruli
 rum
 ruma
 rumah
