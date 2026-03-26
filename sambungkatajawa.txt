@@ -2915,6 +2915,7 @@ irenge
 ires
 iri
 irii
+irik
 irim
 irin
 iring
@@ -4326,6 +4327,7 @@ manut
 maos
 mapan
 mapel
+mara
 marah
 marai
 marang
@@ -5134,6 +5136,7 @@ ngicip
 ngidal
 ngidam
 ngidek
+ngider
 ngidu
 ngidul
 ngih
