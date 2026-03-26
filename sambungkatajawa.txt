@@ -4746,6 +4746,7 @@ lope
 lopis
 lor
 lora
+lorak
 lorek
 loreng
 lori
@@ -6335,6 +6336,7 @@ numa
 numan
 numbal
 numbas
+numbuk
 numen
 numis
 numpah
