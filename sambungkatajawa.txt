@@ -386,6 +386,7 @@ amber
 ambi
 ambik
 ambil
+ambing
 amblas
 ambles
 ambo
@@ -6750,6 +6751,7 @@ ret
 retan
 reti
 rewang
+rewel
 rezeki
 ri
 ria
@@ -7118,6 +7120,7 @@ selamet
 selan
 selasa
 selawe
+seleb
 selet
 selo
 semangat
