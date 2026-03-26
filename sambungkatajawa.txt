@@ -3499,6 +3499,7 @@ kapan
 kape
 kapel
 kapi
+kapil
 kaping
 kapir
 kapok
@@ -8237,6 +8238,7 @@ usil
 using
 usir
 usma
+usna
 uso
 usra
 usrek
