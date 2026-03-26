@@ -1484,6 +1484,7 @@ dinten
 dipan
 diparani
 dipi
+diposit
 dipun
 dir
 diran
@@ -7799,6 +7800,7 @@ tumpeng
 tumpul
 tumrap
 tumut
+tun
 tuna
 tunas
 tundhuk
