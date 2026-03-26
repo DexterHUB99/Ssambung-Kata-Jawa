@@ -1016,6 +1016,7 @@ bebe
 bebek
 beca
 becak
+beda
 bedane
 bedo
 bedok
@@ -4430,6 +4431,7 @@ malam
 malang
 malas
 male
+maleh
 malek
 malem
 males
@@ -4477,6 +4479,7 @@ mangkrak
 mangku
 mangkuk
 mangsa
+mangu
 mani
 manis
 manja
