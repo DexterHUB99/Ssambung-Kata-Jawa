@@ -1885,6 +1885,7 @@ eloh
 elok
 elokan
 elom
+elon
 eloo
 elor
 elos
