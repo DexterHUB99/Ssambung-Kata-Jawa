@@ -269,6 +269,7 @@ akis
 akit
 aklam
 ako
+akoh
 akol
 akon
 akor
@@ -294,7 +295,6 @@ akut
 akuy
 al
 ala
-alaa
 alah
 alai
 alak
@@ -386,7 +386,6 @@ amber
 ambi
 ambik
 ambil
-ambing
 amblas
 ambles
 ambo
@@ -1143,6 +1142,7 @@ boso
 bosok
 bot
 botak
+bothok
 boti
 boto
 botok
@@ -1220,7 +1220,6 @@ cah
 cahya
 cai
 caii
-cak
 cakar
 cakep
 cakwe
@@ -1379,7 +1378,6 @@ damput
 dan
 dana
 danaa
-danau
 dancok
 dandan
 dandang
@@ -1446,6 +1444,7 @@ dewean
 dewi
 dewo
 di
+diajak
 diamput
 diana
 dianik
@@ -1485,7 +1484,6 @@ dinten
 dipan
 diparani
 dipi
-diposit
 dipun
 dir
 diran
@@ -3663,7 +3661,6 @@ kemben
 kemeja
 kemiri
 kemos
-kempes
 kempit
 kempol
 kemproh
@@ -3895,10 +3892,10 @@ kopi
 kopii
 koplak
 koplo
-kopok
 kopyor
 kor
 kora
+korak
 koran
 korban
 korek
@@ -3977,7 +3974,6 @@ kumbahan
 kumbang
 kume
 kumel
-kumi
 kumpul
 kumuh
 kun
@@ -4121,7 +4117,6 @@ laos
 lap
 lapa
 lapak
-lapan
 lapangan
 lapar
 lapi
@@ -4226,6 +4221,7 @@ lian
 liana
 liane
 liar
+libu
 libur
 licin
 lidah
@@ -4358,7 +4354,6 @@ loro
 lorone
 lorong
 los
-losa
 lose
 loso
 lota
@@ -4722,7 +4717,6 @@ monyet
 mop
 mori
 moro
-mos
 mosa
 mosok
 mot
@@ -4944,6 +4938,7 @@ natan
 natap
 natar
 nate
+natur
 nawa
 nawang
 nawar
@@ -5156,7 +5151,6 @@ nganteni
 nganter
 nganthuk
 nganti
-ngantor
 ngantri
 ngantuk
 ngantun
@@ -5371,7 +5365,6 @@ ngetok
 ngetung
 ngewangi
 ngewe
-ngewee
 ngewek
 ngeyel
 ngg
@@ -5418,6 +5411,7 @@ ngijo
 ngijoli
 ngik
 ngiki
+ngiku
 ngikut
 ngila
 ngilang
@@ -5474,7 +5468,6 @@ nglim
 nglindur
 ngliwet
 nglor
-ngni
 ngno
 ngnu
 ngobat
@@ -5826,7 +5819,6 @@ nutur
 nuturi
 nuwa
 nuweki
-nuwi
 nuwun
 nuwunsewu
 ny
@@ -6304,7 +6296,6 @@ perlu
 pes
 pesing
 peso
-peta
 peteng
 peti
 petir
@@ -6647,7 +6638,6 @@ rasah
 rasak
 rasan
 rasane
-rase
 rasi
 rasis
 rasko
@@ -6751,7 +6741,6 @@ ret
 retan
 reti
 rewang
-rewel
 rezeki
 ri
 ria
@@ -6843,7 +6832,6 @@ rolas
 rolo
 rom
 roma
-romah
 romawi
 rombak
 rombeng
@@ -6997,6 +6985,8 @@ salun
 salut
 sam
 sama
+samah
+saman
 sambal
 sambang
 sambat
@@ -7120,7 +7110,6 @@ selamet
 selan
 selasa
 selawe
-seleb
 selet
 selo
 semangat
@@ -7345,6 +7334,7 @@ suamii
 suar
 suara
 suaramu
+suaro
 suasu
 suba
 subuh
@@ -7486,7 +7476,6 @@ tak
 takaran
 takdir
 taki
-tako
 takon
 takoni
 taksi
@@ -7699,6 +7688,7 @@ tip
 tir
 tira
 tirai
+tiran
 tiri
 tiru
 tisa
@@ -7809,7 +7799,6 @@ tumpeng
 tumpul
 tumrap
 tumut
-tun
 tuna
 tunas
 tundhuk
@@ -7986,7 +7975,6 @@ ulangan
 ulap
 ular
 ulas
-ulasan
 ulat
 ule
 uleg
@@ -8044,7 +8032,6 @@ umurmu
 un
 una
 unah
-unak
 unam
 unan
 unang
@@ -8080,7 +8067,6 @@ ungkit
 ungu
 uni
 unia
-unii
 unjal
 unjar
 unjuk
@@ -8107,6 +8093,7 @@ up
 upa
 upacara
 upah
+upak
 upal
 upama
 upan
@@ -8148,7 +8135,6 @@ uria
 urih
 urii
 urik
-urine
 uring
 urip
 uripe
@@ -8273,7 +8259,6 @@ waa
 waalaikumsalam
 waan
 waca
-wacaan
 wacana
 wadah
 wader
@@ -8378,7 +8363,6 @@ weton
 wetu
 wewe
 wewenang
-wibawa
 wicara
 widok
 wie
