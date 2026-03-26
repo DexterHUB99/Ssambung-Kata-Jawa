@@ -1150,6 +1150,7 @@ bun
 bunder
 bunga
 bungkus
+buni
 buntel
 buntu
 buntung
@@ -7579,6 +7580,7 @@ tu
 tua
 tuak
 tuban
+tube
 tubuh
 tugel
 tuh
