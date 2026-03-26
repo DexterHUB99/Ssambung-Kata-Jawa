@@ -8,6 +8,7 @@ abab
 abah
 abai
 abal
+aban
 abang
 abas
 abata
@@ -730,6 +731,7 @@ aru
 aruh
 arul
 arum
+arun
 aruna
 arus
 aruse
