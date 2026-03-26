@@ -4043,6 +4043,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopeng
 kopet
 kopi
 kopii
@@ -7194,6 +7195,7 @@ run
 runcing
 runding
 rung
+rungka
 rungkad
 rungu
 runi
@@ -7913,6 +7915,7 @@ teliti
 telo
 telon
 telu
+teluk
 telur
 tem
 tema
