@@ -2643,6 +2643,7 @@ gula
 gulai
 gulali
 gulane
+gulang
 gule
 guleng
 guli
@@ -4837,6 +4838,7 @@ manggae
 manggah
 manggis
 mangkat
+mangke
 mangkel
 mangkir
 mangkrak
