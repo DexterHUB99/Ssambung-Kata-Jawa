@@ -1941,6 +1941,7 @@ emut
 emutno
 en
 ena
+enah
 enak
 enake
 enam
@@ -4423,6 +4424,7 @@ lapak
 lapan
 lapangan
 lapar
+lape
 lapi
 lapis
 lapo
