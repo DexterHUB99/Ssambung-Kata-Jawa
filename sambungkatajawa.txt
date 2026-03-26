@@ -1963,6 +1963,7 @@ epil
 epin
 epis
 epo
+epoh
 epok
 epon
 epos
@@ -4060,6 +4061,7 @@ kosor
 kota
 kotak
 kotang
+koti
 kotor
 kotoran
 kowe
@@ -6953,6 +6955,7 @@ rekak
 rekam
 rekan
 rekasa
+reko
 rekoso
 rela
 relo
@@ -7550,6 +7553,7 @@ sisih
 sisik
 sisil
 sisir
+sisire
 sisok
 sisu
 sit
@@ -7691,6 +7695,7 @@ suna
 sunar
 sunat
 sunda
+sundae
 sundel
 sunduk
 sundul
@@ -7905,6 +7910,7 @@ teme
 temen
 tempat
 tempe
+tempee
 tempek
 tempik
 tempiling
