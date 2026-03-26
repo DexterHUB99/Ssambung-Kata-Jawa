@@ -1688,6 +1688,7 @@ dopo
 dor
 dora
 doren
+dori
 doro
 dorong
 dosa
@@ -3602,6 +3603,7 @@ joki
 joko
 jokowi
 jola
+jolat
 jole
 joli
 jolo
@@ -7149,6 +7151,7 @@ raba
 rabi
 rabisa
 rabit
+rabok
 rabot
 rabu
 rabun
