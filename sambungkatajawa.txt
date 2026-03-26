@@ -2212,6 +2212,7 @@ gawe
 gawean
 gawee
 gaweopo
+gawir
 gawok
 gayam
 gayeng
@@ -4440,6 +4441,7 @@ mainan
 majo
 maju
 mak
+maka
 makam
 makan
 makanan
@@ -8460,6 +8462,7 @@ yogyakarta
 yoh
 yohan
 yoi
+yoiku
 yok
 yoki
 yolo
