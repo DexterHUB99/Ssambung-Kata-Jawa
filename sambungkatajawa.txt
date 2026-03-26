@@ -104,6 +104,7 @@ ahap
 ahar
 ahas
 ahat
+ahaw
 ahay
 ahe
 ahek
@@ -805,6 +806,7 @@ atik
 atiku
 atim
 atimu
+atin
 atine
 atir
 atis
@@ -7621,6 +7623,7 @@ ulahmu
 ulai
 ulak
 ulal
+ulala
 ulam
 ulama
 ulan
