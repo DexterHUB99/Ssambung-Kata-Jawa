@@ -294,6 +294,7 @@ akut
 akuy
 al
 ala
+alaa
 alah
 alai
 alak
@@ -1218,6 +1219,7 @@ cah
 cahya
 cai
 caii
+cak
 cakar
 cakep
 cakwe
@@ -1376,6 +1378,7 @@ damput
 dan
 dana
 danaa
+danau
 dancok
 dandan
 dandang
@@ -3657,6 +3660,7 @@ kemben
 kemeja
 kemiri
 kemos
+kempes
 kempit
 kempol
 kemproh
@@ -3887,6 +3891,7 @@ kopi
 kopii
 koplak
 koplo
+kopok
 kopyor
 kor
 kora
@@ -3968,6 +3973,7 @@ kumbahan
 kumbang
 kume
 kumel
+kumi
 kumpul
 kumuh
 kun
@@ -4111,6 +4117,7 @@ laos
 lap
 lapa
 lapak
+lapan
 lapangan
 lapar
 lapi
@@ -4347,6 +4354,7 @@ loro
 lorone
 lorong
 los
+losa
 lose
 loso
 lota
@@ -4710,6 +4718,7 @@ monyet
 mop
 mori
 moro
+mos
 mosa
 mosok
 mot
@@ -5143,6 +5152,7 @@ nganteni
 nganter
 nganthuk
 nganti
+ngantor
 ngantri
 ngantuk
 ngantun
@@ -5357,6 +5367,7 @@ ngetok
 ngetung
 ngewangi
 ngewe
+ngewee
 ngewek
 ngeyel
 ngg
@@ -5810,6 +5821,7 @@ nutur
 nuturi
 nuwa
 nuweki
+nuwi
 nuwun
 nuwunsewu
 ny
@@ -6215,7 +6227,6 @@ pasir
 pasti
 pasu
 pasukan
-pasuruhan
 pat
 pateni
 pati
@@ -6823,6 +6834,7 @@ rolas
 rolo
 rom
 roma
+romah
 romawi
 rombak
 rombeng
@@ -7464,6 +7476,7 @@ tak
 takaran
 takdir
 taki
+tako
 takon
 takoni
 taksi
@@ -7962,6 +7975,7 @@ ulangan
 ulap
 ular
 ulas
+ulasan
 ulat
 ule
 uleg
@@ -8019,6 +8033,7 @@ umurmu
 un
 una
 unah
+unak
 unam
 unan
 unang
@@ -8121,6 +8136,7 @@ uria
 urih
 urii
 urik
+urine
 uring
 urip
 uripe
