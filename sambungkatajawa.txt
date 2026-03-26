@@ -2568,6 +2568,7 @@ gokil
 goks
 gol
 gola
+golak
 golan
 gole
 golek
