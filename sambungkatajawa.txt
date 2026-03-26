@@ -405,6 +405,7 @@ amoh
 among
 amor
 amp
+ampa
 ampal
 ampan
 ampar
@@ -4117,6 +4118,7 @@ loba
 lobang
 lober
 lobi
+lobok
 lodeh
 lodhang
 loding
