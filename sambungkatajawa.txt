@@ -2291,6 +2291,7 @@ gemas
 gemati
 gembel
 gembili
+gembira
 gemblong
 gemblung
 gembok
