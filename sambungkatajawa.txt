@@ -1054,6 +1054,7 @@ barat
 bareng
 baret
 baris
+barong
 baru
 bas
 basa
@@ -8346,6 +8347,7 @@ tundhuk
 tunggal
 tunggu
 tungkak
+tuni
 tupa
 tupi
 tur
