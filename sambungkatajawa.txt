@@ -1652,6 +1652,7 @@ dulang
 duli
 dulu
 dulur
+dum
 dumadi
 dumeh
 dunga
@@ -3036,6 +3037,7 @@ iki
 ikie
 ikih
 ikii
+ikilo
 ikim
 ikio
 ikita
@@ -3428,6 +3430,7 @@ jengkel
 jera
 jerami
 jero
+jeroan
 jeruk
 jet
 ji
@@ -4802,6 +4805,7 @@ mare
 mari
 marii
 maring
+maringi
 mario
 maru
 maruk
@@ -8633,6 +8637,7 @@ usik
 usil
 using
 usir
+usli
 usma
 usna
 uso
