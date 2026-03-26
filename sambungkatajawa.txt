@@ -134,6 +134,7 @@ ahli
 ahline
 ahlu
 aho
+ahoa
 ahoha
 ahok
 ahoo
@@ -4831,6 +4832,7 @@ ngadu
 ngaduh
 ngaduk
 ngae
+ngaga
 ngah
 ngahi
 ngaja
