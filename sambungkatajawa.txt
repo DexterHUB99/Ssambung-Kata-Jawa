@@ -1314,6 +1314,7 @@ buso
 busu
 busuk
 busung
+but
 buta
 butek
 buto
@@ -3044,6 +3045,7 @@ hurup
 hus
 husa
 husi
+husna
 hut
 huta
 hutan
@@ -7063,6 +7065,7 @@ pol
 pola
 polah
 polan
+polar
 poleh
 poles
 poli
@@ -7417,6 +7420,7 @@ resep
 resi
 resik
 resiko
+resing
 restu
 ret
 retan
