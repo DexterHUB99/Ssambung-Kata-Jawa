@@ -3182,6 +3182,7 @@ isine
 ising
 isini
 isis
+isisa
 isisin
 isit
 isla
@@ -5520,6 +5521,7 @@ nggowo
 nggulung
 ngguyu
 ngguyur
+ngibarat
 ngibing
 ngibul
 ngicip
