@@ -5245,6 +5245,7 @@ ngliwet
 nglor
 ngno
 ngnu
+ngobat
 ngobong
 ngobrol
 ngoceh
