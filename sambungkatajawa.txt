@@ -1224,6 +1224,7 @@ ciblok
 cica
 cicak
 cici
+cicil
 cicis
 cicit
 cide
@@ -5235,6 +5236,7 @@ ngka
 ngko
 nglantur
 nglim
+nglindur
 ngliwet
 nglor
 ngno
