@@ -4994,6 +4994,7 @@ ngelag
 ngelak
 ngelam
 ngelap
+ngelas
 ngelawak
 ngeleh
 ngelem
