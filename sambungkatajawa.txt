@@ -614,6 +614,7 @@ anjrit
 anjuk
 anjung
 anjunga
+anjungan
 anjur
 anjuran
 ano
@@ -6992,6 +6993,7 @@ puser
 pusing
 puta
 pute
+puti
 putih
 puting
 putra
