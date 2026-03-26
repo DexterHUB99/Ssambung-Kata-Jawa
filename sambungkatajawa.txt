@@ -648,6 +648,7 @@ apu
 apun
 apung
 apus
+apuse
 apusi
 ar
 ara
@@ -1080,6 +1081,7 @@ bodoh
 bodoni
 bojo
 bojok
+boke
 bokong
 bol
 bola
@@ -5095,7 +5097,6 @@ ngemot
 ngemper
 ngempet
 ngempit
-ngempot
 ngemuk
 ngemut
 ngen
@@ -5907,7 +5908,6 @@ paleh
 paleng
 pali
 paling
-palko
 palu
 palung
 palur
@@ -6979,6 +6979,7 @@ sirsak
 sirup
 sis
 sisa
+sisan
 sisi
 sisih
 sisik
