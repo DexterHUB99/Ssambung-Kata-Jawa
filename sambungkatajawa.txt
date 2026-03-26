@@ -4979,6 +4979,7 @@ nada
 nadah
 nadi
 nadia
+nado
 nae
 naek
 nafas
@@ -8786,6 +8787,7 @@ yek
 yen
 yeni
 yepa
+yer
 yera
 yere
 yes
