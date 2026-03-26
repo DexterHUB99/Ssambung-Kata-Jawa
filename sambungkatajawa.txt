@@ -276,6 +276,7 @@ akui
 akuk
 akul
 akula
+akum
 akun
 akur
 akus
@@ -1142,6 +1143,7 @@ bukit
 buku
 bulan
 bulat
+bule
 bulik
 bulu
 bumbu
@@ -1545,6 +1547,7 @@ ebol
 ebor
 eca
 ece
+eci
 eco
 ed
 eda
@@ -1953,6 +1956,7 @@ etu
 etuk
 etum
 etung
+evo
 ew
 ewa
 ewah
@@ -4031,6 +4035,7 @@ larang
 laras
 lare
 lari
+laris
 laron
 larut
 las
@@ -4061,6 +4066,7 @@ layu
 layuh
 layur
 le
+leak
 lebah
 lebih
 lebok
@@ -5119,6 +5125,7 @@ ngayun
 nge
 ngebas
 ngebet
+ngeblak
 ngeblok
 ngecat
 ngece
@@ -5262,6 +5269,7 @@ nggone
 nggoo
 nggoreng
 nggowo
+nggulung
 ngguyu
 ngguyur
 ngibing
@@ -5981,6 +5989,7 @@ paji
 pak
 paka
 pakan
+pakle
 paksa
 paku
 pala
@@ -6848,6 +6857,7 @@ sang
 sangar
 sanggul
 sangu
+sani
 sanjang
 santai
 santen
@@ -8316,6 +8326,7 @@ yono
 yoo
 yoopo
 yoora
+yor
 yora
 yosi
 yoto
