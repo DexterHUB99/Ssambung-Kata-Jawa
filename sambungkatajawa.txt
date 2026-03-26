@@ -5113,6 +5113,7 @@ ngayun
 nge
 ngebas
 ngebet
+ngeblak
 ngeblok
 ngecat
 ngece
