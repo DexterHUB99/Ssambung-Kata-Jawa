@@ -6350,6 +6350,7 @@ remang
 remas
 remba
 rembes
+rembug
 rembuk
 rembulan
 remeh
