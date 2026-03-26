@@ -2026,6 +2026,7 @@ engkok
 engkol
 engkole
 eni
+enih
 enik
 ening
 enjang
@@ -6555,6 +6556,7 @@ ome
 omea
 omel
 omeli
+omen
 omi
 oming
 omo
