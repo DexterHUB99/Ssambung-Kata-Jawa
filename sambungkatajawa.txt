@@ -4964,6 +4964,7 @@ nete
 neteh
 netek
 netes
+netot
 netra
 newa
 ngabab
@@ -5071,6 +5072,7 @@ ngangsang
 ngangso
 ngangsu
 ngangsur
+ngangur
 nganjok
 nganjuk
 ngano
@@ -7021,6 +7023,7 @@ sembah
 sembarang
 sembarangan
 sembur
+semen
 semi
 semok
 sempak
