@@ -1207,6 +1207,7 @@ bumi
 bun
 bunder
 bunga
+bungah
 bungkus
 buni
 buntel
@@ -1221,6 +1222,7 @@ bus
 busa
 busana
 busi
+buso
 busu
 busuk
 busung
@@ -6308,6 +6310,7 @@ padus
 paes
 pagar
 pagi
+pago
 pahing
 pahit
 paido
@@ -6410,6 +6413,7 @@ parut
 pas
 pasa
 pasak
+pasang
 pasar
 pasaran
 pasek
