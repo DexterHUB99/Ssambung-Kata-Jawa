@@ -5092,6 +5092,7 @@ ngenget
 ngenggeh
 ngengkol
 ngengobrol
+ngenos
 ngenteni
 ngentoh
 ngentu
