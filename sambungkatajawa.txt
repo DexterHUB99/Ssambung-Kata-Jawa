@@ -2594,6 +2594,7 @@ haman
 hamba
 hambar
 hambur
+hami
 hamil
 hampir
 hamu
@@ -2858,6 +2859,7 @@ iha
 ihaa
 ihan
 ihe
+ihem
 ihha
 ihhi
 ihi
@@ -8521,6 +8523,7 @@ wur
 wuta
 wutan
 wuto
+wutuh
 xenon
 xray
 ya
