@@ -5230,6 +5230,7 @@ ngece
 ngecek
 ngeces
 ngedan
+ngedang
 ngedar
 ngeden
 ngedol
@@ -5871,6 +5872,7 @@ okae
 okai
 okak
 okal
+okali
 okam
 okan
 okar
@@ -6259,6 +6261,7 @@ per
 perak
 peran
 perang
+perek
 perih
 perlu
 pes
