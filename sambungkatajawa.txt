@@ -1225,6 +1225,7 @@ can
 candi
 cangkem
 cangkir
+cangkol
 cangkul
 cantik
 canting
