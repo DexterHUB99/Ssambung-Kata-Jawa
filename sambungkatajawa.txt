@@ -1493,6 +1493,7 @@ dapi
 dapur
 dara
 darah
+darat
 dari
 darma
 darus
@@ -6282,6 +6283,7 @@ nyim
 nyimpen
 nyirem
 nyocot
+nyogok
 nyoli
 nyong
 nyoto
