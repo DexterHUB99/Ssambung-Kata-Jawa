@@ -5459,6 +5459,7 @@ ndelok
 nderek
 ndeso
 ndlogok
+ndlosor
 ndoro
 ndugal
 nduk
@@ -5581,6 +5582,7 @@ ngagel
 ngago
 ngah
 ngahi
+ngain
 ngaja
 ngajah
 ngajak
@@ -7787,6 +7789,7 @@ sate
 satru
 satu
 satus
+saung
 saur
 sawah
 sawan
