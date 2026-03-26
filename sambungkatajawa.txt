@@ -1187,6 +1187,7 @@ budaya
 bude
 budeg
 budek
+budhe
 budi
 buha
 bui
@@ -1213,6 +1214,7 @@ buni
 buntel
 buntu
 buntung
+bunuh
 bur
 burek
 buri
@@ -1247,6 +1249,7 @@ cahya
 cai
 caii
 cak
+caka
 cakar
 cakep
 cakwe
@@ -1668,6 +1671,7 @@ egi
 egik
 ego
 egod
+egoh
 egrang
 eh
 eha
@@ -2766,6 +2770,7 @@ hesti
 heti
 hewa
 hewo
+heya
 hi
 hias
 hiasan
