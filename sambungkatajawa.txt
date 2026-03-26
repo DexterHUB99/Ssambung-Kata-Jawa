@@ -1008,6 +1008,7 @@ bejo
 bekal
 beko
 bela
+belajar
 belan
 belang
 belek
@@ -5266,6 +5267,7 @@ nggone
 nggoo
 nggoreng
 nggowo
+nggulung
 ngguyu
 ngguyur
 ngibing
