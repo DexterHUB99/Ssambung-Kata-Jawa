@@ -4969,6 +4969,7 @@ newa
 ngabab
 ngabdi
 ngaben
+ngabet
 ngablak
 ngaburi
 ngaca
@@ -6835,6 +6836,7 @@ sabe
 saben
 sabi
 sabit
+sabok
 sabon
 sabtu
 sabuk
@@ -8251,6 +8253,7 @@ wewenang
 wicara
 widok
 wie
+wifi
 wigati
 wih
 wii
