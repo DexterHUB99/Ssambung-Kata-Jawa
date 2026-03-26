@@ -1063,6 +1063,7 @@ beri
 bersih
 bes
 besan
+besar
 beso
 besok
 beti
