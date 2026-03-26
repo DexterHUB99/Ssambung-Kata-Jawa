@@ -308,6 +308,7 @@ alih
 aliho
 alii
 alik
+alika
 alim
 alime
 alin
@@ -1029,6 +1030,7 @@ bihun
 bijak
 biji
 bik
+bil
 bila
 bilah
 bilai
