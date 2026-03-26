@@ -5730,6 +5730,7 @@ ngarepmu
 ngaret
 ngari
 ngarik
+ngaring
 ngaris
 ngarit
 ngarpu
@@ -9116,6 +9117,7 @@ wadon
 waduh
 waduk
 wadul
+wadulan
 wae
 wage
 wah
