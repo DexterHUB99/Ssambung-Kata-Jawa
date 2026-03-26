@@ -82,6 +82,7 @@ afi
 afif
 afik
 afu
+ag
 aga
 agah
 agak
@@ -2355,6 +2356,7 @@ geleman
 geli
 gelis
 gelo
+geloe
 gelombang
 gelot
 geluk
