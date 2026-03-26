@@ -2199,6 +2199,7 @@ gaduh
 gadung
 gae
 gagah
+gagajah
 gagak
 gagal
 gagang
@@ -4671,6 +4672,7 @@ luhur
 luk
 luka
 lukaa
+lukan
 luki
 lukis
 luku
@@ -8946,6 +8948,7 @@ wii
 wiji
 wik
 wika
+wiki
 wila
 wilan
 wilangan
