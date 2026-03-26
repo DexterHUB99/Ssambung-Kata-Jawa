@@ -3239,6 +3239,7 @@ ing
 ingali
 ingas
 ingat
+ingatan
 inget
 inggal
 inggih
@@ -3497,6 +3498,7 @@ jarik
 jaring
 jarum
 jas
+jati
 jatuh
 jauh
 jawa
@@ -5568,6 +5570,7 @@ ngang
 nganga
 nganggep
 nganggo
+nganggu
 nganggur
 ngangi
 ngangkang
@@ -5938,6 +5941,7 @@ ngni
 ngno
 ngnu
 ngobat
+ngober
 ngobong
 ngobrol
 ngoceh
