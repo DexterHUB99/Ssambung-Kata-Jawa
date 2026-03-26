@@ -2934,6 +2934,7 @@ irus
 irut
 is
 isa
+isab
 isae
 isai
 isak
@@ -7083,6 +7084,7 @@ suwi
 suwine
 suwir
 suwun
+suwung
 suya
 ta
 tabi
