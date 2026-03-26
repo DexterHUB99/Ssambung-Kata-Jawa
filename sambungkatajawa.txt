@@ -1344,6 +1344,7 @@ desa
 desi
 deso
 dewa
+dewe
 dewean
 dewi
 dewo
@@ -2389,6 +2390,7 @@ hajiane
 hajie
 hak
 haka
+hakan
 haki
 hakim
 hako
