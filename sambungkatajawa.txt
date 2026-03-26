@@ -2462,6 +2462,7 @@ gongso
 gopal
 gopoh
 gor
+gore
 goreh
 goren
 goreng
@@ -4784,6 +4785,7 @@ momot
 mona
 mondok
 monggo
+mongo
 moni
 montor
 monyet
