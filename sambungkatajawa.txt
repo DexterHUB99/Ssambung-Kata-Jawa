@@ -365,6 +365,7 @@ alone
 alos
 alot
 aloy
+alpa
 alpukat
 alu
 aluban
@@ -9239,6 +9240,7 @@ yuan
 yuda
 yudha
 yudi
+yugo
 yuh
 yui
 yuk
