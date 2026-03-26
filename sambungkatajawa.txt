@@ -2190,6 +2190,7 @@ gedhang
 gedhe
 gedhi
 gee
+gega
 geger
 gegere
 geh
@@ -8290,6 +8291,7 @@ yah
 yai
 yak
 yaka
+yakan
 yaken
 yakin
 yaksa
