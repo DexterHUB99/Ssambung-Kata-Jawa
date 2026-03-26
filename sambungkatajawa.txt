@@ -1388,6 +1388,7 @@ centil
 centong
 ceplok
 cerdas
+ceret
 ceri
 cerita
 ces
@@ -6407,6 +6408,7 @@ nyogok
 nyoli
 nyong
 nyoto
+nyulik
 nyungsep
 nyuri
 nyurung
@@ -7308,6 +7310,7 @@ rayap
 rayi
 rayu
 re
+rebahan
 rebo
 reboi
 rebung
