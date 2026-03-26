@@ -1430,6 +1430,7 @@ danau
 dancok
 dandan
 dandang
+dangkal
 dani
 dano
 danu
@@ -2447,6 +2448,7 @@ gih
 gila
 gilaa
 gilak
+gilane
 gilang
 gilani
 gilap
@@ -6454,6 +6456,7 @@ pasar
 pasaran
 pasek
 pasi
+pasii
 pasing
 pasir
 pasti
@@ -7983,6 +7986,7 @@ tingkah
 tini
 tinju
 tip
+tipak
 tir
 tira
 tirai
