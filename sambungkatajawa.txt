@@ -2510,6 +2510,7 @@ gundul
 gunem
 guneman
 gung
+guni
 gunting
 guntur
 gunung
@@ -4761,6 +4762,7 @@ mori
 moro
 mos
 mosa
+mosi
 mosok
 mot
 moto
@@ -6912,6 +6914,7 @@ ropi
 roro
 ros
 rosa
+rose
 rosi
 roso
 rosomu
