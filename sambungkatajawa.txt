@@ -224,6 +224,7 @@ ajen
 ajeng
 aji
 ajib
+ajig
 ajik
 ajing
 ajining
@@ -4092,6 +4093,7 @@ kertas
 kertos
 kerudung
 keruh
+keruk
 kerupuk
 kerut
 kes
@@ -9177,6 +9179,7 @@ wejang
 weka
 weki
 wektu
+wel
 wela
 welo
 wen
