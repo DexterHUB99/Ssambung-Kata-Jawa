@@ -114,6 +114,7 @@ ageman
 ageng
 agi
 agik
+agil
 agit
 ago
 agos
@@ -220,6 +221,7 @@ aio
 air
 aira
 airan
+aire
 airi
 aita
 aite
@@ -313,6 +315,7 @@ akis
 akit
 aklam
 ako
+akoe
 akoh
 akol
 akom
@@ -651,7 +654,6 @@ angsa
 angsal
 angsi
 angsle
-angsul
 angsur
 angsuran
 angu
@@ -718,6 +720,7 @@ antek
 antem
 antemi
 anteng
+antenge
 antep
 anter
 anti
@@ -1058,6 +1061,7 @@ aut
 auta
 autan
 auto
+av
 ava
 aw
 awa
@@ -1380,6 +1384,7 @@ bolo
 bolog
 bolong
 bom
+bonek
 bongko
 boni
 bono
@@ -1816,6 +1821,7 @@ dijus
 dik
 dika
 dikan
+dike
 diko
 dikon
 dila
@@ -1872,6 +1878,7 @@ disik
 disini
 ditipu
 dito
+diusir
 diwa
 diwak
 diwan
@@ -2504,6 +2511,7 @@ etuh
 etuk
 etum
 etung
+ev
 eva
 evan
 evi
@@ -2539,7 +2547,9 @@ eyu
 eyup
 ez
 faji
+fana
 fase
+fikir
 firman
 fisik
 fix
@@ -2661,6 +2671,7 @@ gandul
 gandung
 ganep
 gang
+ganga
 ganggu
 gangguan
 gangsal
@@ -3233,6 +3244,7 @@ harta
 hartamu
 haru
 harum
+harume
 harus
 has
 hasa
@@ -3255,6 +3267,7 @@ hatimu
 haturnuhun
 hawa
 hawane
+hawe
 hawi
 haya
 hayang
@@ -3366,6 +3379,7 @@ hooh
 hor
 hora
 hore
+horen
 hori
 hormat
 horo
@@ -3474,6 +3488,7 @@ iha
 ihaa
 ihae
 ihan
+ihara
 ihe
 ihem
 ihha
@@ -3873,6 +3888,7 @@ itungan
 itungi
 iut
 iuta
+iv
 iw
 iwak
 iwake
@@ -3930,6 +3946,7 @@ jaki
 jaku
 jala
 jalak
+jalar
 jaler
 jalii
 jaluk
@@ -4108,7 +4125,6 @@ kabare
 kabeh
 kabi
 kabor
-kabuh
 kabun
 kabur
 kabut
@@ -4442,7 +4458,6 @@ kek
 keke
 kekek
 kekel
-kekep
 keker
 keki
 kekunci
@@ -4455,7 +4470,6 @@ kelana
 kelangan
 kelap
 kelar
-kelaran
 kelas
 kelat
 kelawan
@@ -4708,6 +4722,7 @@ kiye
 klambi
 klambii
 klambimu
+klamite
 klapa
 klasa
 klaten
@@ -4911,6 +4926,7 @@ kur
 kura
 kuran
 kurang
+kurangan
 kurawa
 kurban
 kurek
@@ -4951,7 +4967,6 @@ laba
 labi
 labu
 labue
-labuh
 lada
 ladi
 lading
@@ -5021,6 +5036,7 @@ landak
 landep
 landhep
 landung
+langeh
 langgar
 langgeng
 langit
@@ -5405,7 +5421,6 @@ lus
 lusa
 lusi
 lusuh
-lut
 luti
 luwe
 luweh
@@ -5414,6 +5429,7 @@ luwih
 luye
 ma
 maaf
+mabar
 mabu
 mabuk
 mabur
@@ -5560,6 +5576,7 @@ marang
 mardi
 mare
 marem
+marga
 mari
 maria
 marii
@@ -5574,7 +5591,6 @@ mas
 masa
 masah
 masak
-masakan
 mase
 masi
 masih
@@ -5582,6 +5598,7 @@ masing
 masinis
 masio
 masjid
+masrah
 masu
 masuh
 masuk
@@ -5637,7 +5654,6 @@ melati
 melek
 meler
 melok
-melon
 melu
 mem
 memacul
@@ -5806,6 +5822,7 @@ mual
 mubal
 mubeng
 mucuk
+mudar
 mudeng
 mudha
 mudhun
@@ -5986,6 +6003,7 @@ nan
 nana
 nanah
 nanai
+nanak
 nanam
 nanan
 nanang
@@ -6038,6 +6056,7 @@ nara
 narada
 naraka
 narasi
+narek
 nari
 narik
 narima
@@ -6069,6 +6088,7 @@ natap
 natar
 nate
 nati
+natik
 natur
 nawa
 nawang
@@ -6210,6 +6230,7 @@ ngadek
 ngadem
 ngadep
 ngadepi
+ngadhep
 ngadi
 ngadii
 ngadoh
@@ -6329,7 +6350,6 @@ nganik
 nganjok
 nganjuk
 nganjur
-nganjut
 nganko
 ngano
 nganon
@@ -6637,7 +6657,6 @@ nggali
 nggambar
 nggan
 ngganggu
-nggantung
 nggarap
 nggatel
 nggateli
@@ -6738,7 +6757,6 @@ ngisin
 ngising
 ngisingan
 ngisir
-ngisis
 ngisor
 ngisu
 ngisuh
@@ -6989,7 +7007,6 @@ nil
 nila
 nilai
 nilam
-nilan
 nilar
 nilas
 nilem
@@ -7071,7 +7088,6 @@ nnggih
 nni
 nnina
 nnumpak
-nnur
 no
 nodol
 noh
@@ -7579,6 +7595,7 @@ pakap
 pakar
 pakde
 pakdhe
+pakem
 pakle
 paksa
 paku
@@ -7742,7 +7759,6 @@ pejah
 peju
 pek
 peka
-peken
 pekik
 peko
 pekok
@@ -7780,6 +7796,7 @@ pepe
 pepek
 pepes
 per
+pera
 perahu
 perak
 peran
@@ -8055,6 +8072,7 @@ puri
 purna
 purnama
 purun
+purwa
 pus
 pusa
 pusaka
@@ -8168,6 +8186,7 @@ rame
 ramen
 ramene
 rames
+rami
 ramni
 ramping
 rampok
@@ -8212,6 +8231,7 @@ rapenting
 rapet
 rapi
 rapih
+rapihan
 rapo
 rapopo
 rapu
@@ -8292,7 +8312,6 @@ rekasa
 rekmo
 rekoso
 rela
-relek
 relo
 rem
 rema
@@ -8557,6 +8576,7 @@ rupak
 rupamu
 rupane
 rupo
+rurah
 ruri
 rus
 rusa
@@ -8700,7 +8720,6 @@ sang
 sanga
 sangar
 sanggul
-sanggup
 sangit
 sangkuni
 sangu
@@ -8713,7 +8732,6 @@ santun
 saos
 sap
 sapa
-sapapa
 sapeh
 sapi
 sapih
@@ -8739,6 +8757,7 @@ sarip
 saripan
 sarong
 saru
+sarun
 sarung
 sas
 sasa
@@ -8898,6 +8917,7 @@ sesak
 sesama
 sesat
 sesek
+seser
 sesok
 sesorah
 sesuk
@@ -9432,6 +9452,7 @@ tembem
 tembok
 teme
 temen
+temon
 tempat
 tempe
 tempek
@@ -9701,7 +9722,6 @@ tuti
 tutuk
 tutup
 tutur
-tuturi
 tuwa
 tuwan
 tuwo
@@ -9712,6 +9732,7 @@ uan
 uang
 uange
 ub
+uba
 uban
 ubang
 ubek
@@ -9941,6 +9962,7 @@ umu
 umum
 umume
 umur
+umure
 umurmu
 un
 una
@@ -10094,6 +10116,7 @@ urun
 urunan
 urung
 urup
+urupi
 urus
 urusan
 uruso
@@ -10220,6 +10243,7 @@ uyo
 uyuh
 uyung
 uz
+vila
 visa
 wa
 waa
@@ -10372,10 +10396,8 @@ wewe
 wewedang
 wewenang
 wi
-wian
 wibawa
 wicara
-widiya
 widok
 wie
 wifi
