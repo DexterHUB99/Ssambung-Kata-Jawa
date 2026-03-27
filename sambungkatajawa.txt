@@ -879,6 +879,7 @@ asah
 asai
 asak
 asal
+asale
 asam
 asan
 asap
@@ -3780,6 +3781,7 @@ iw
 iwak
 iwake
 iwakmu
+iwal
 iwan
 iwane
 iwangi
@@ -5175,6 +5177,7 @@ longgar
 longgor
 longor
 longsor
+lonjak
 lonjong
 lono
 lontar
@@ -5495,6 +5498,7 @@ memadi
 memang
 meme
 memek
+memi
 men
 menak
 menawi
@@ -6596,6 +6600,7 @@ ngolak
 ngolek
 ngoleke
 ngoli
+ngolik
 ngolo
 ngolob
 ngoloh
@@ -7813,6 +7818,7 @@ pundi
 pundika
 pungkasan
 puni
+punjul
 punten
 punya
 pup
@@ -8144,6 +8150,7 @@ riko
 riku
 ril
 rila
+rile
 rili
 rilis
 rilo
