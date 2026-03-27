@@ -939,6 +939,7 @@ atak
 atake
 atal
 atam
+atan
 atap
 atar
 atas
