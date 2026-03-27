@@ -6292,6 +6292,7 @@ ngaplok
 ngapu
 ngapung
 ngapunten
+ngapura
 ngapurancang
 ngapurane
 ngapuro
@@ -7002,6 +7003,7 @@ noman
 nombak
 nombok
 nomer
+nomi
 non
 nona
 nong
