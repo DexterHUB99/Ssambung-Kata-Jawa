@@ -23,6 +23,7 @@ abik
 abil
 abimanyu
 abin
+abir
 abis
 abit
 abo
@@ -118,6 +119,7 @@ ahab
 ahad
 ahada
 ahah
+ahahad
 ahaj
 ahak
 ahal
@@ -515,7 +517,6 @@ amul
 amun
 amung
 amur
-amus
 amut
 an
 ana
@@ -570,7 +571,6 @@ andha
 andhap
 andhiko
 andhok
-andhong
 andi
 andika
 andini
@@ -597,6 +597,7 @@ angen
 angep
 anget
 angetan
+anggaran
 anggep
 angger
 anggo
@@ -1348,6 +1349,7 @@ buang
 buat
 buatan
 buaya
+bubak
 bubar
 bubis
 bubu
@@ -1471,7 +1473,6 @@ cecak
 cece
 cecek
 cecep
-cecet
 cedak
 cekelan
 ceki
@@ -1623,7 +1624,6 @@ damai
 damar
 damel
 damen
-damii
 dampak
 dampar
 damparan
@@ -1669,7 +1669,6 @@ dawet
 dawuh
 dayah
 dayang
-dayu
 de
 debu
 dedak
@@ -1762,7 +1761,6 @@ dinggo
 dingin
 dini
 dino
-dinoo
 dinten
 dipa
 dipan
@@ -1819,7 +1817,6 @@ dona
 dong
 donga
 dongen
-dongkrak
 dongo
 doni
 dono
@@ -1978,7 +1975,6 @@ ehup
 ehut
 ehuy
 eiwak
-ej
 eja
 ejik
 ejol
@@ -3220,6 +3216,7 @@ homa
 homo
 hon
 honan
+hone
 honi
 hono
 honta
@@ -3392,7 +3389,6 @@ ikian
 ikie
 ikih
 ikii
-ikil
 ikilo
 ikim
 ikio
@@ -3439,7 +3435,6 @@ ilere
 ilermu
 ili
 ilih
-ilii
 ilik
 ilili
 ilin
@@ -3565,6 +3560,7 @@ ipa
 ipak
 ipan
 ipar
+ipat
 ipe
 ipek
 ipel
@@ -3970,7 +3966,6 @@ kagem
 kaget
 kagungan
 kahanan
-kahujan
 kain
 kaine
 kairi
@@ -4899,6 +4894,7 @@ lebar
 lebay
 lebih
 lebok
+lebu
 lebur
 lee
 lega
@@ -5023,7 +5019,6 @@ lipat
 lipe
 lipen
 lipet
-lipi
 lipur
 lir
 lira
@@ -5073,7 +5068,6 @@ lola
 loli
 lolo
 loloh
-loloo
 loloro
 lolos
 lom
@@ -5340,7 +5334,6 @@ marii
 maring
 maringi
 mario
-marisa
 marmut
 maru
 maruk
@@ -6078,7 +6071,6 @@ ngantemi
 nganteng
 nganteni
 nganter
-nganthi
 nganthuk
 nganti
 ngantor
@@ -7472,6 +7464,7 @@ pidana
 pie
 pien
 pigura
+pih
 pii
 pijak
 pijar
@@ -7623,7 +7616,6 @@ pono
 ponorogo
 poo
 pop
-popa
 popi
 popol
 popoli
@@ -7648,7 +7640,6 @@ praja
 prawan
 prei
 pria
-prio
 pripun
 pua
 puan
@@ -8250,7 +8241,6 @@ saking
 sakit
 sakite
 sakkarepmu
-sakral
 sakti
 saku
 sakura
@@ -8655,7 +8645,6 @@ solit
 solo
 som
 soma
-somar
 somat
 sombong
 some
@@ -9121,7 +9110,6 @@ tisan
 tisu
 tit
 tita
-titah
 titan
 tite
 titi
@@ -9411,6 +9399,7 @@ ukro
 ukta
 uku
 ukuk
+ukukir
 ukul
 ukum
 ukung
@@ -9527,6 +9516,7 @@ unek
 unen
 uner
 unes
+unesa
 ung
 ungaran
 unggah
@@ -9663,6 +9653,7 @@ usar
 use
 usek
 usem
+usen
 user
 usi
 usia
@@ -9678,7 +9669,6 @@ usna
 uso
 usra
 usrek
-usta
 ustadz
 ustadzah
 usu
