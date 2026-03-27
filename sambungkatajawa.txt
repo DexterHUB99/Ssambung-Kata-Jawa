@@ -119,6 +119,7 @@ ageman
 ageng
 agi
 agik
+agin
 agit
 ago
 agos
@@ -835,6 +836,7 @@ arang
 arap
 aras
 arasen
+aray
 ardi
 are
 areg
@@ -3959,6 +3961,7 @@ it
 ita
 itaa
 itai
+itaku
 itali
 ite
 item
@@ -5718,6 +5721,7 @@ mat
 mata
 matamu
 matane
+mate
 matek
 maten
 mateni
@@ -8149,6 +8153,7 @@ poles
 poli
 poling
 polisi
+poll
 polo
 polok
 poloo
