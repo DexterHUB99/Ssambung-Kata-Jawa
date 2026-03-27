@@ -8922,6 +8922,7 @@ ukli
 ukna
 ukno
 uko
+ukoh
 ukol
 ukom
 ukop
@@ -8989,6 +8990,7 @@ umahe
 umak
 umal
 uman
+umana
 umar
 umat
 umbah
