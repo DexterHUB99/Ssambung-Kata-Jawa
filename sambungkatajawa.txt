@@ -719,6 +719,7 @@ antek
 antem
 antemi
 anteng
+antenge
 antep
 anter
 anti
@@ -6039,6 +6040,7 @@ nara
 narada
 naraka
 narasi
+narek
 nari
 narik
 narima
@@ -6070,6 +6072,7 @@ natap
 natar
 nate
 nati
+natik
 natur
 nawa
 nawang
