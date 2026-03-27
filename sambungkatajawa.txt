@@ -5228,6 +5228,7 @@ lase
 lasi
 lat
 latah
+latak
 latar
 lathi
 lati
@@ -7135,6 +7136,7 @@ ngura
 ngurai
 ngurang
 ngurangi
+ngurap
 nguras
 nguri
 ngurip
