@@ -428,6 +428,7 @@ amblas
 ambles
 ambo
 amboi
+ambrol
 ambruk
 ambu
 ambulan
@@ -934,7 +935,6 @@ atim
 atimu
 atin
 atine
-atip
 atir
 atis
 atise
@@ -3034,6 +3034,7 @@ hina
 hinggap
 hir
 hira
+hiran
 hire
 hiruk
 his
@@ -3275,7 +3276,6 @@ ilik
 ilili
 ilin
 iling
-ilingan
 ilir
 ilis
 ilmu
@@ -4206,6 +4206,7 @@ keset
 kesleo
 kesusu
 ket
+keta
 ketan
 ketat
 ketek
@@ -6440,6 +6441,7 @@ nok
 nokar
 noken
 noki
+nokoh
 nol
 nolak
 nolan
@@ -8034,6 +8036,7 @@ seneg
 seneng
 seng
 senjata
+seno
 senok
 senopati
 sepanci
@@ -8892,6 +8895,7 @@ ujian
 ujug
 ujuk
 ujung
+ujur
 uk
 uka
 ukaa
