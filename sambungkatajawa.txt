@@ -3198,6 +3198,7 @@ idii
 idin
 ido
 idu
+iduem
 idulfitri
 iduni
 ieu
@@ -6031,6 +6032,7 @@ ngelo
 ngelok
 ngelon
 ngeloni
+ngelor
 ngelu
 ngelus
 ngeluwes
@@ -7254,6 +7256,7 @@ pilo
 pilok
 pilot
 pilu
+pilum
 pilup
 pilus
 pin
