@@ -5086,6 +5086,7 @@ le
 leak
 lebah
 lebar
+lebaran
 lebay
 lebih
 lebok
