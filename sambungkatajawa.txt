@@ -1377,6 +1377,7 @@ bolog
 bolong
 bom
 bongko
+boni
 bono
 bor
 borak
