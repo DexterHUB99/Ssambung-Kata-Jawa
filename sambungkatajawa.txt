@@ -1143,7 +1143,6 @@ bambang
 ban
 banci
 bandar
-bandara
 bandel
 bando
 bandung
@@ -4036,7 +4035,6 @@ kala
 kalaa
 kalah
 kalajengking
-kalam
 kalan
 kalap
 kalawo
@@ -5104,7 +5102,6 @@ lodhang
 loding
 lodoh
 loe
-loen
 logat
 loh
 loha
@@ -5271,7 +5268,6 @@ mah
 maha
 mahal
 mahar
-mahi
 mahir
 mahu
 mai
@@ -6001,7 +5997,6 @@ ngaca
 ngacak
 ngacem
 ngaceng
-ngacir
 ngaco
 ngacung
 ngadai
@@ -6344,7 +6339,6 @@ ngengkol
 ngengobrol
 ngenko
 ngenos
-ngentek
 ngenteni
 ngentil
 ngentoh
@@ -6966,7 +6960,6 @@ nyamar
 nyambi
 nyamping
 nyamuk
-nyandang
 nyang
 nyangking
 nyangkul
@@ -7444,7 +7437,6 @@ pasuk
 pasukan
 pasuruhan
 pat
-patek
 paten
 pateni
 pati
@@ -7530,6 +7522,7 @@ pesing
 peso
 peta
 pete
+petel
 peteng
 peti
 petir
@@ -9663,6 +9656,7 @@ untah
 untal
 untalen
 untap
+untas
 unte
 untek
 untir
@@ -9692,6 +9686,7 @@ upel
 upi
 upik
 upil
+upis
 upku
 upo
 upra
@@ -10041,7 +10036,6 @@ wingi
 wingibengi
 wingko
 wini
-wino
 winta
 wio
 wir
