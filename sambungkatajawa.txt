@@ -933,7 +933,6 @@ aseh
 asek
 asem
 asemi
-asemtenan
 asen
 aseng
 asep
@@ -1130,6 +1129,7 @@ ayahe
 ayak
 ayam
 ayame
+ayamgoreng
 ayan
 ayang
 ayangku
@@ -1495,7 +1495,6 @@ buki
 bukit
 buko
 buku
-bulak
 bulan
 bulat
 bule
@@ -3719,7 +3718,6 @@ ilin
 iling
 ilingan
 ilingen
-ilingo
 ilir
 ilis
 ilmu
@@ -3929,6 +3927,7 @@ isak
 isake
 isam
 isan
+isana
 isao
 isap
 isapi
@@ -5821,6 +5820,7 @@ melati
 melek
 meler
 melok
+melon
 melu
 mem
 memacul
@@ -5932,6 +5932,7 @@ mlampah
 mlangkah
 mlebu
 mlumah
+mmati
 mmbuh
 mmelu
 mo
@@ -5992,6 +5993,7 @@ mringis
 mripat
 mu
 mual
+muatan
 mubal
 mubeng
 mucuk
@@ -6829,6 +6831,7 @@ nget
 ngeta
 ngetan
 ngetana
+ngete
 ngetel
 ngetih
 ngetok
@@ -7294,6 +7297,7 @@ njupuk
 nki
 nko
 nmu
+nna
 nnalika
 nnaliko
 nnangka
@@ -8650,6 +8654,7 @@ ribut
 ridho
 rie
 riem
+rien
 rih
 rihan
 rihi
