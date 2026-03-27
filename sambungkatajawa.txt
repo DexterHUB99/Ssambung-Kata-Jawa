@@ -176,6 +176,7 @@ aho
 ahoa
 ahoha
 ahok
+ahom
 ahoo
 ahop
 ahoy
@@ -5834,6 +5835,7 @@ muse
 musi
 musim
 musis
+musoh
 musola
 mustahil
 mustaka
