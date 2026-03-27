@@ -2631,6 +2631,7 @@ galio
 galo
 galon
 galung
+galungan
 galur
 gama
 gaman
