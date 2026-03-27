@@ -3954,6 +3954,7 @@ it
 ita
 itaa
 itai
+itaku
 itali
 ite
 item
@@ -8133,6 +8134,7 @@ poles
 poli
 poling
 polisi
+poll
 polo
 polok
 poloo
