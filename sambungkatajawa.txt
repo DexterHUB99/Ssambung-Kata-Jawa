@@ -78,6 +78,7 @@ adil
 adin
 adipati
 adit
+ado
 adoh
 adohe
 ados
@@ -444,6 +445,7 @@ ambarawa
 ambegan
 ambek
 amben
+ambene
 ambeng
 ambengan
 amber
@@ -879,6 +881,7 @@ asah
 asai
 asak
 asal
+asale
 asam
 asan
 asap
@@ -911,6 +914,7 @@ asin
 asing
 asip
 asir
+asiri
 asli
 aslie
 aslii
@@ -1089,6 +1093,7 @@ ayo
 ayok
 ayom
 ayu
+ayub
 ayud
 ayuh
 ayuk
@@ -1372,7 +1377,6 @@ boyok
 bu
 bua
 buang
-buanga
 buat
 buatan
 buaya
@@ -1549,6 +1553,7 @@ cigar
 cigur
 cika
 cikal
+ciko
 cikur
 cilik
 cilok
@@ -2779,6 +2784,7 @@ gender
 genderuwo
 genderwo
 gendheng
+gendhing
 gendhis
 gendhuk
 gendi
@@ -3759,6 +3765,7 @@ isro
 ista
 istana
 isti
+istigfar
 istighfar
 istilah
 istimewa
@@ -3791,6 +3798,7 @@ iw
 iwak
 iwake
 iwakmu
+iwal
 iwan
 iwane
 iwangi
@@ -3810,6 +3818,7 @@ iyes
 iyo
 iyoo
 iyu
+iyub
 iyuh
 iyuk
 iz
@@ -4151,7 +4160,9 @@ kandani
 kandas
 kandel
 kandhang
+kandhani
 kandi
+kane
 kang
 kange
 kangen
@@ -4293,6 +4304,7 @@ kawi
 kawih
 kawin
 kawit
+kawitan
 kawok
 kawruh
 kawruhan
@@ -4552,6 +4564,7 @@ kilir
 kilonan
 kim
 kima
+kiman
 kime
 kimi
 kin
@@ -5064,6 +5077,7 @@ likis
 liko
 liku
 lila
+lilas
 lili
 lilin
 lilisung
@@ -5186,6 +5200,7 @@ longgar
 longgor
 longor
 longsor
+lonjak
 lonjong
 lono
 lontar
@@ -5463,6 +5478,7 @@ matii
 matio
 maton
 matu
+matuk
 matur
 maturnuwun
 matursuwun
@@ -5506,6 +5522,7 @@ memadi
 memang
 meme
 memek
+memi
 men
 menak
 menawi
@@ -5983,6 +6000,7 @@ nembung
 neme
 nemen
 nemi
+nemoni
 nempali
 nempel
 nempil
@@ -6445,6 +6463,7 @@ ngetan
 ngetel
 ngetih
 ngetok
+ngetot
 ngetung
 ngewangi
 ngewar
@@ -6596,6 +6615,7 @@ ngoceh
 ngocok
 ngodong
 ngoh
+ngohi
 ngojah
 ngojek
 ngojol
@@ -6610,6 +6630,7 @@ ngolak
 ngolek
 ngoleke
 ngoli
+ngolik
 ngolo
 ngolob
 ngoloh
@@ -7036,7 +7057,6 @@ nyawa
 nyawah
 nyawang
 nyawat
-nyawi
 nyawiji
 nyawit
 nyekek
@@ -7830,6 +7850,7 @@ pundi
 pundika
 pungkasan
 puni
+punjul
 punten
 punya
 pup
@@ -8081,6 +8102,7 @@ relo
 rem
 rema
 remah
+remak
 remang
 remas
 remba
@@ -8161,6 +8183,7 @@ riko
 riku
 ril
 rila
+rile
 rili
 rilis
 rilo
@@ -8250,6 +8273,7 @@ rombak
 rombeng
 rombong
 rombongan
+romi
 romo
 rompak
 rompi
@@ -8265,10 +8289,10 @@ roo
 rop
 ropan
 ropi
+rora
 roro
 ros
 rosa
-rosan
 rose
 rosi
 roso
@@ -8429,7 +8453,6 @@ sali
 salim
 salin
 saling
-salip
 salira
 salo
 salom
@@ -8598,6 +8621,7 @@ semanten
 semapak
 semar
 semarang
+semayang
 sembah
 sembarang
 sembarangan
@@ -8764,7 +8788,6 @@ sirat
 sirep
 siri
 sirih
-sirna
 siro
 sirsak
 sirup
@@ -9092,6 +9115,7 @@ tangguh
 tanggung
 tangi
 tangis
+tangisan
 tangkap
 tangkas
 tanglet
@@ -9166,6 +9190,7 @@ tele
 telek
 telekmu
 teles
+teli
 telinga
 teliti
 telo
@@ -9216,6 +9241,7 @@ tere
 teri
 terima
 terjun
+terna
 ternak
 terne
 terong
@@ -9225,6 +9251,7 @@ tete
 teteh
 tetek
 tetelan
+tetulung
 thole
 ti
 tiba
@@ -9378,7 +9405,6 @@ tuha
 tuhan
 tuk
 tukang
-tukaran
 tuki
 tuku
 tukul
