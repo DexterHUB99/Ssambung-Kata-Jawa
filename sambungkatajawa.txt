@@ -3195,6 +3195,7 @@ gunem
 guneman
 gung
 guni
+gunjing
 gunting
 guntur
 gunung
@@ -4590,6 +4591,7 @@ kel
 kela
 kelabang
 kelakon
+kelalen
 kelam
 kelana
 kelangan
@@ -9480,6 +9482,7 @@ sungka
 sungkan
 sungkem
 sungki
+suni
 suno
 suntik
 suntuk
