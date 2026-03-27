@@ -4887,6 +4887,7 @@ lon
 loncang
 loncat
 lonceng
+lone
 longgar
 longgor
 longor
