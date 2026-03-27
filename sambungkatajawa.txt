@@ -3519,6 +3519,7 @@ isapi
 isat
 ise
 isek
+isem
 isen
 iseng
 isep
