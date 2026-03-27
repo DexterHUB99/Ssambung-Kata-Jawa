@@ -773,6 +773,7 @@ anyes
 anyi
 anying
 anyir
+anyur
 aos
 ap
 apa
@@ -8793,6 +8794,7 @@ runding
 rung
 rungka
 rungkad
+rungsing
 rungu
 runi
 runtuh
@@ -9570,6 +9572,7 @@ talii
 talo
 tam
 tama
+tamah
 taman
 tamba
 tambah
