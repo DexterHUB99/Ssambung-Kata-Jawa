@@ -6465,6 +6465,7 @@ ngopel
 ngopeni
 ngoper
 ngopi
+ngopii
 ngopo
 ngor
 ngorek
