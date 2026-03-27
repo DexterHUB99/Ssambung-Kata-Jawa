@@ -2558,6 +2558,7 @@ es
 esa
 esaa
 esae
+esaf
 esah
 esai
 esak
@@ -7626,6 +7627,7 @@ obat
 obaten
 obeh
 obeng
+obes
 oblong
 obok
 obong
@@ -11078,6 +11080,7 @@ yolo
 yom
 yoma
 yoman
+yome
 yon
 yona
 yong
