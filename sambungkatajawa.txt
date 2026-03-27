@@ -282,7 +282,6 @@ akbar
 ake
 akee
 akeh
-akehe
 akehi
 aken
 aker
@@ -1362,7 +1361,6 @@ boleh
 bolo
 bolong
 bom
-bongkar
 bongko
 bono
 bor
@@ -2313,7 +2311,6 @@ epem
 epen
 epep
 eper
-epes
 epet
 epi
 epic
@@ -4890,7 +4887,6 @@ lah
 lahan
 lahi
 lahir
-lahiran
 lair
 lajeng
 laju
@@ -5492,7 +5488,6 @@ masing
 masinis
 masio
 masjid
-maso
 masu
 masuh
 masuk
@@ -5545,7 +5540,6 @@ melas
 melati
 melek
 meler
-melet
 melok
 melu
 mem
@@ -5660,7 +5654,6 @@ moci
 moco
 modal
 modar
-modaro
 modus
 modyar
 mogok
@@ -5681,6 +5674,7 @@ moli
 molin
 molok
 mom
+momi
 momong
 momori
 momot
@@ -6426,7 +6420,6 @@ ngemut
 ngen
 ngenas
 ngencuk
-ngendah
 ngendang
 ngendangi
 ngendeng
@@ -6452,7 +6445,6 @@ ngengkol
 ngengobrol
 ngenko
 ngenos
-ngenot
 ngentek
 ngenteni
 ngentil
@@ -7315,6 +7307,7 @@ opa
 opah
 opak
 opal
+opan
 opel
 opem
 open
@@ -8477,7 +8470,6 @@ sak
 saka
 sakal
 sakarep
-sakdurunge
 saket
 sakin
 saking
@@ -8626,7 +8618,6 @@ sayur
 sayuran
 se
 sebat
-seda
 sedang
 sedar
 sedaya
@@ -9166,7 +9157,6 @@ tanah
 tandang
 tanduk
 tandur
-tandura
 tanduran
 tangan
 tangga
@@ -9945,6 +9935,7 @@ usek
 usem
 usen
 user
+usha
 usi
 usia
 usik
