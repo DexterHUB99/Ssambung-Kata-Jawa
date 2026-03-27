@@ -2509,6 +2509,7 @@ gee
 gega
 geger
 gegere
+geguritan
 geh
 gek
 gel
@@ -2650,6 +2651,7 @@ gipang
 gir
 gira
 girang
+giren
 giri
 giring
 girisa
@@ -9365,6 +9367,7 @@ wirang
 wirasa
 wiri
 wiro
+wiru
 wis
 wisa
 wisan
