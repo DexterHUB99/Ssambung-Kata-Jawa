@@ -3033,6 +3033,7 @@ hina
 hinggap
 hir
 hira
+hiran
 hire
 hiruk
 his
@@ -6438,6 +6439,7 @@ nok
 nokar
 noken
 noki
+nokoh
 nol
 nolak
 nolan
@@ -8032,6 +8034,7 @@ seneg
 seneng
 seng
 senjata
+seno
 senok
 senopati
 sepanci
@@ -8890,6 +8893,7 @@ ujian
 ujug
 ujuk
 ujung
+ujur
 uk
 uka
 ukaa
