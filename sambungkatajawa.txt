@@ -6528,6 +6528,7 @@ nni
 nnina
 no
 noh
+nohi
 nok
 nokar
 noken
@@ -8766,6 +8767,7 @@ timan
 timang
 timba
 timbal
+timbali
 timbang
 timbul
 timi
@@ -9105,6 +9107,7 @@ ulan
 ulang
 ulanga
 ulangan
+ulangi
 ulap
 ular
 ulas
