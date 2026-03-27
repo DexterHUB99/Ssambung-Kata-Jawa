@@ -2089,6 +2089,7 @@ embung
 embus
 eme
 emeh
+emej
 emek
 emel
 emem
@@ -2674,6 +2675,7 @@ gelut
 gem
 gema
 gemah
+gemar
 gemas
 gemati
 gembel
