@@ -1164,6 +1164,7 @@ bali
 balik
 balikno
 baline
+balon
 balung
 bambang
 ban
