@@ -560,7 +560,6 @@ andalan
 andang
 andani
 andap
-andaran
 andas
 ander
 andha
@@ -1661,6 +1660,7 @@ dawet
 dawuh
 dayah
 dayang
+dayu
 de
 debu
 dedak
@@ -1809,6 +1809,7 @@ dona
 dong
 donga
 dongen
+dongkrak
 dongo
 doni
 dono
@@ -2149,7 +2150,6 @@ endap
 endas
 endase
 endel
-endhok
 endi
 endog
 endol
@@ -3220,7 +3220,6 @@ horog
 hot
 hotel
 hoti
-hotro
 howa
 howi
 howo
@@ -3552,7 +3551,6 @@ ipe
 ipek
 ipel
 ipen
-iper
 ipi
 ipik
 ipil
@@ -4055,7 +4053,6 @@ kandel
 kandhang
 kandi
 kang
-kange
 kangen
 kangge
 kanggih
@@ -4078,7 +4075,6 @@ kapak
 kapal
 kapan
 kapane
-kapas
 kape
 kapel
 kapi
@@ -5005,6 +5001,7 @@ lipat
 lipe
 lipen
 lipet
+lipi
 lipur
 lir
 lira
@@ -5320,6 +5317,7 @@ marii
 maring
 maringi
 mario
+marisa
 marmut
 maru
 maruk
@@ -5952,7 +5950,6 @@ ngain
 ngaja
 ngajah
 ngajak
-ngajam
 ngajar
 ngajen
 ngajeng
@@ -7971,7 +7968,6 @@ ridho
 rie
 riem
 rih
-rihan
 rii
 rik
 rika
@@ -8063,7 +8059,6 @@ rolo
 rom
 roma
 romah
-roman
 romawi
 rombak
 rombeng
@@ -8146,7 +8141,6 @@ rungu
 runi
 runtuh
 runyam
-ruo
 rup
 rupa
 rupak
