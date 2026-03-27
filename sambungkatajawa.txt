@@ -6795,6 +6795,7 @@ nguntap
 nguntung
 ngunu
 ngunung
+ngupa
 ngupas
 ngupe
 ngupi
