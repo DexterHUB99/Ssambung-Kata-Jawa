@@ -1010,6 +1010,7 @@ atok
 atom
 aton
 atos
+atose
 atrahe
 atrap
 atret
@@ -1253,6 +1254,7 @@ belo
 belut
 ben
 benang
+bendo
 bene
 bener
 bengek
@@ -2417,6 +2419,7 @@ etah
 etak
 etam
 etan
+etane
 etang
 etano
 etap
@@ -2572,6 +2575,7 @@ gambar
 gambas
 gambir
 gambleh
+gambol
 gambreng
 gambuh
 gambut
@@ -2579,6 +2583,7 @@ gambyong
 game
 gamean
 gamel
+gamela
 gamelan
 gamen
 gami
@@ -3593,6 +3598,7 @@ indana
 indang
 indek
 inden
+indeng
 indik
 indomie
 indra
@@ -3850,6 +3856,7 @@ jajal
 jajam
 jajan
 jajang
+jak
 jaka
 jakaa
 jakat
@@ -4940,6 +4947,7 @@ lanjut
 lansia
 lantai
 lantang
+lantas
 lanting
 lantun
 lantung
@@ -5076,6 +5084,7 @@ licin
 lidah
 lih
 liha
+lihar
 lihat
 lii
 lik
@@ -5536,6 +5545,7 @@ men
 menak
 menawi
 mencar
+mendek
 mendoan
 mene
 menehi
@@ -6315,6 +6325,7 @@ ngawi
 ngawih
 ngawii
 ngawir
+ngawisi
 ngawit
 ngawiti
 ngawor
@@ -6382,6 +6393,7 @@ ngelus
 ngeluwes
 ngem
 ngemas
+ngembel
 ngembun
 ngemil
 ngemis
@@ -6421,7 +6433,6 @@ ngengkol
 ngengobrol
 ngenko
 ngenos
-ngenot
 ngentek
 ngenteni
 ngentil
@@ -6725,6 +6736,7 @@ ngugu
 nguji
 ngujuk
 nguk
+nguker
 ngukir
 ngukur
 ngul
@@ -7298,6 +7310,7 @@ opoiki
 opok
 opoki
 opol
+opone
 opoo
 opor
 opose
@@ -7328,6 +7341,7 @@ organisasi
 ori
 oria
 orii
+oring
 orok
 orong
 oros
@@ -7414,6 +7428,7 @@ pakap
 pakar
 pakde
 pakdhe
+pakle
 paksa
 paku
 pal
@@ -8442,7 +8457,6 @@ sak
 saka
 sakal
 sakarep
-sakdurunge
 saket
 sakin
 saking
@@ -8576,6 +8590,7 @@ sawang
 sawer
 sawi
 sawiji
+sawijine
 sawik
 sawis
 sawise
@@ -8644,6 +8659,7 @@ semayang
 sembah
 sembarang
 sembarangan
+sembari
 sembur
 semen
 semi
@@ -9995,6 +10011,7 @@ uwit
 uwong
 uwu
 uwuh
+uwuhe
 ux
 uy
 uya
@@ -10094,6 +10111,7 @@ wawasan
 wawi
 wawo
 way
+waya
 wayah
 wayan
 wayang
