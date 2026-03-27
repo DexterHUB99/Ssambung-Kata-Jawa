@@ -4841,6 +4841,7 @@ korek
 koreng
 kori
 kos
+kosa
 kosan
 kosek
 kosekan
