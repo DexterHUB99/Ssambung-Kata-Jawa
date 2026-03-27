@@ -1098,6 +1098,7 @@ awek
 awet
 awi
 awik
+awir
 awis
 awit
 awo
@@ -5865,6 +5866,7 @@ moci
 moco
 modal
 modar
+modaro
 modus
 modyar
 mogok
@@ -9367,6 +9369,7 @@ sunda
 sundel
 sunduk
 sundul
+sung
 sungai
 sungi
 sunging
