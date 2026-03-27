@@ -400,6 +400,7 @@ aloy
 alpukat
 alu
 aluban
+aluk
 alul
 alum
 alumni
@@ -1086,6 +1087,7 @@ ayud
 ayuh
 ayuk
 ayun
+ayunan
 az
 ba
 baa
