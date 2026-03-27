@@ -17,7 +17,6 @@ abdi
 abdina
 abe
 abel
-aben
 abena
 abi
 abia
@@ -27,7 +26,6 @@ abil
 abim
 abimanyu
 abin
-abing
 abir
 abis
 abit
@@ -4357,7 +4355,6 @@ kam
 kama
 kamae
 kamala
-kaman
 kamar
 kamari
 kambi
@@ -5002,6 +4999,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kuburan
 kucing
 kucir
@@ -5962,7 +5960,6 @@ moh
 mohan
 mojo
 mok
-moke
 moki
 mokong
 mol
@@ -6007,7 +6004,6 @@ mringis
 mripat
 mu
 mual
-muatan
 mubal
 mubeng
 mucuk
@@ -6294,6 +6290,7 @@ nawi
 nawon
 nawuh
 naya
+ncok
 ndak
 ndalu
 ndang
@@ -6323,6 +6320,7 @@ neg
 nega
 negara
 negeri
+negeria
 neges
 negi
 negor
@@ -6916,7 +6914,6 @@ ngiki
 ngikil
 ngiku
 ngikut
-ngil
 ngila
 ngilag
 ngilang
@@ -8054,6 +8051,7 @@ pemuda
 pen
 pena
 penak
+pendek
 pendopo
 pengen
 peni
@@ -8987,7 +8985,6 @@ sam
 sama
 samah
 saman
-samar
 samat
 sambak
 sambal
@@ -9030,7 +9027,6 @@ sanggul
 sangit
 sangkuni
 sangu
-sanja
 sanjang
 santai
 santen
@@ -9225,7 +9221,6 @@ serong
 seru
 ses
 sesa
-sesajen
 sesak
 sesakno
 sesama
@@ -9407,7 +9402,6 @@ some
 son
 songo
 songong
-soni
 sono
 sonten
 sop
