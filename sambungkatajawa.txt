@@ -2004,6 +2004,7 @@ empet
 emping
 emplok
 empol
+empong
 empos
 empot
 emprit
@@ -2245,6 +2246,7 @@ etuk
 etum
 etung
 eva
+evan
 ew
 ewa
 ewah
