@@ -1891,6 +1891,7 @@ dulang
 duli
 dulu
 dulur
+dulure
 dum
 dumadi
 dumeh
@@ -8469,6 +8470,7 @@ sasi
 sastra
 sasu
 sate
+satoan
 satru
 satu
 satus
