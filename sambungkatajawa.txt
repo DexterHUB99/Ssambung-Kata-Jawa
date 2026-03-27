@@ -906,7 +906,6 @@ astane
 asti
 astina
 asu
-asue
 asuh
 asuha
 asui
@@ -1561,7 +1560,6 @@ dahar
 dahi
 daju
 daki
-dako
 dakon
 daku
 dakun
@@ -1830,7 +1828,6 @@ durian
 durma
 durung
 dus
-dusa
 duso
 dusun
 duta
@@ -1842,8 +1839,6 @@ duwet
 duwit
 duwur
 ealah
-eb
-eba
 eben
 ebi
 eboh
@@ -3866,7 +3861,6 @@ kagem
 kaget
 kagungan
 kahanan
-kaiden
 kain
 kaine
 kairi
@@ -3913,6 +3907,7 @@ kalim
 kalimat
 kalin
 kaliren
+kalis
 kalo
 kalong
 kalor
@@ -4291,6 +4286,7 @@ kesambet
 kesandung
 kesasar
 kesat
+kesatuan
 kese
 kesel
 keselek
@@ -5205,7 +5201,6 @@ mara
 marah
 marai
 marang
-marani
 mardi
 mare
 marem
@@ -5558,7 +5553,6 @@ nakal
 nakes
 naki
 nakon
-nakoni
 naksir
 nakula
 nala
@@ -6160,7 +6154,6 @@ ngerung
 nges
 ngesa
 ngesak
-ngesek
 ngeselin
 ngeseng
 ngesi
@@ -6651,6 +6644,7 @@ nuju
 nuk
 nuka
 nuki
+nuko
 nuku
 nul
 nula
@@ -7061,7 +7055,6 @@ paka
 pakan
 pakap
 pakde
-pako
 paksa
 paku
 pal
@@ -8952,7 +8945,6 @@ tresno
 tu
 tua
 tuak
-tuba
 tuban
 tube
 tubruk
@@ -9541,7 +9533,6 @@ wai
 waja
 wajah
 wajan
-wajib
 wajik
 wak
 waki
