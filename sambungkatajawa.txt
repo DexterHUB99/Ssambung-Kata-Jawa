@@ -211,6 +211,7 @@ aili
 ailo
 ailon
 aima
+aimo
 aimu
 aina
 aing
@@ -704,6 +705,7 @@ anol
 anom
 anoman
 anop
+anos
 ansur
 ansuran
 anta
@@ -1659,6 +1661,7 @@ cupu
 curi
 curut
 cuti
+dablek
 dada
 dadah
 dadali
@@ -5235,6 +5238,7 @@ lintasan
 lio
 lip
 lipa
+lipak
 lipan
 lipas
 lipat
@@ -6757,6 +6761,7 @@ nglampah
 nglamun
 nglantur
 nglawuhi
+ngledek
 nglim
 nglindur
 ngliwet
@@ -8329,6 +8334,7 @@ renan
 renang
 rencang
 renda
+rendah
 rendang
 rendeng
 rendi
