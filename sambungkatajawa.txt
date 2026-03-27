@@ -613,7 +613,6 @@ andul
 andung
 andus
 ane
-anee
 aneh
 anek
 anema
@@ -653,6 +652,7 @@ angkrik
 angkring
 angkringan
 angkuh
+angkut
 angling
 angon
 angop
@@ -5086,7 +5086,6 @@ lamis
 lamon
 lamongan
 lampah
-lamper
 lampir
 lampiran
 lampit
@@ -5243,7 +5242,6 @@ les
 lesehan
 lestari
 lesu
-let
 letong
 lewat
 leyeh
@@ -5752,7 +5750,6 @@ menika
 menowo
 mentah
 mentas
-mentil
 menyang
 mepe
 mepet
@@ -5768,7 +5765,6 @@ meri
 mesem
 meski
 meso
-mesu
 mesum
 met
 meta
@@ -6238,7 +6234,6 @@ nemi
 nemoni
 nempali
 nempel
-nempik
 nempil
 nemu
 nen
@@ -6898,6 +6893,7 @@ ngolah
 ngolak
 ngolek
 ngoleke
+ngolet
 ngoli
 ngolik
 ngolo
@@ -7566,7 +7562,6 @@ opah
 opak
 opal
 opan
-opat
 opel
 opem
 open
@@ -7592,6 +7587,7 @@ opotoh
 opoyo
 or
 ora
+oraa
 orah
 orai
 oraiso
@@ -8727,6 +8723,7 @@ saa
 saan
 saapi
 saba
+sabang
 sabar
 sabe
 saben
@@ -9608,7 +9605,6 @@ teng
 tengah
 tengen
 tengik
-tep
 tepak
 tepel
 tepung
