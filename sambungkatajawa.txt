@@ -1436,6 +1436,7 @@ cilik
 cilok
 cimu
 cimut
+cin
 cina
 cincang
 cincin
@@ -1791,7 +1792,6 @@ ebor
 eca
 ece
 eco
-ecok
 ed
 eda
 edak
@@ -2202,7 +2202,6 @@ eses
 esi
 esih
 esin
-esis
 eso
 esok
 eson
@@ -2626,13 +2625,11 @@ gidal
 gig
 giga
 gigi
-gigigi
 gigih
 gigir
 gigit
 gigu
 gih
-giha
 gila
 gilaa
 gilak
@@ -3309,7 +3306,6 @@ inang
 inara
 inaya
 incar
-inceng
 inda
 indah
 indak
@@ -3356,7 +3352,6 @@ insan
 insyaallah
 internet
 inti
-intik
 intil
 intine
 intinya
@@ -3456,6 +3451,7 @@ isian
 isih
 isii
 isik
+isika
 isil
 isin
 isine
@@ -4468,7 +4464,6 @@ kus
 kusa
 kusi
 kusir
-kut
 kuta
 kutah
 kutan
@@ -6704,7 +6699,6 @@ ondol
 ondone
 oneng
 ongak
-ongeh
 ongkeh
 ongkek
 ongkel
@@ -6868,7 +6862,6 @@ paleng
 palet
 pali
 paling
-palis
 palko
 palu
 palung
@@ -7583,7 +7576,6 @@ rindu
 ring
 ringa
 ringan
-ringi
 ringin
 ringkas
 ringkasan
@@ -7801,7 +7793,6 @@ saku
 sakura
 sal
 sala
-salad
 salah
 salahku
 salak
@@ -8190,7 +8181,6 @@ sore
 sori
 soroh
 sos
-sosa
 sosi
 sosis
 sosmed
@@ -8860,7 +8850,6 @@ uken
 ukep
 uker
 ukes
-ukhi
 uki
 ukin
 ukir
@@ -9451,7 +9440,6 @@ yakan
 yaken
 yakin
 yaksa
-yaku
 yala
 yali
 yam
