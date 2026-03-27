@@ -160,6 +160,7 @@ ahiy
 ahlak
 ahli
 ahlia
+ahlian
 ahline
 ahlu
 aho
@@ -307,6 +308,7 @@ akol
 akom
 akon
 akoni
+akoo
 akor
 akoro
 akra
@@ -560,6 +562,7 @@ andalan
 andang
 andani
 andap
+andaran
 andas
 ander
 andha
@@ -1429,6 +1432,7 @@ cacin
 cacing
 cacu
 cah
+cahaya
 cahya
 cai
 caii
@@ -1615,7 +1619,6 @@ damai
 damar
 damel
 damen
-damii
 dampak
 dampar
 damparan
@@ -1661,7 +1664,6 @@ dawet
 dawuh
 dayah
 dayang
-dayu
 de
 debu
 dedak
@@ -1810,7 +1812,6 @@ dona
 dong
 donga
 dongen
-dongkrak
 dongo
 doni
 dono
@@ -1994,6 +1995,7 @@ ekeka
 ekel
 ekem
 eken
+ekep
 eker
 ekes
 eket
@@ -2151,6 +2153,7 @@ endap
 endas
 endase
 endel
+endhok
 endi
 endog
 endol
@@ -2222,6 +2225,7 @@ ep
 epa
 epah
 epak
+epal
 epan
 epang
 epar
@@ -3126,6 +3130,7 @@ heh
 heha
 hehe
 hehi
+heho
 hei
 heki
 hela
@@ -3221,6 +3226,7 @@ horog
 hot
 hotel
 hoti
+hotro
 howa
 howi
 howo
@@ -3552,6 +3558,7 @@ ipe
 ipek
 ipel
 ipen
+iper
 ipi
 ipik
 ipil
@@ -3952,7 +3959,6 @@ kagem
 kaget
 kagungan
 kahanan
-kahujan
 kain
 kaine
 kairi
@@ -4055,6 +4061,7 @@ kandel
 kandhang
 kandi
 kang
+kange
 kangen
 kangge
 kanggih
@@ -4077,6 +4084,7 @@ kapak
 kapal
 kapan
 kapane
+kapas
 kape
 kapel
 kapi
@@ -5003,7 +5011,6 @@ lipat
 lipe
 lipen
 lipet
-lipi
 lipur
 lir
 lira
@@ -5319,7 +5326,6 @@ marii
 maring
 maringi
 mario
-marisa
 marmut
 maru
 maruk
@@ -5678,6 +5684,7 @@ nakon
 naksir
 nakula
 nala
+nalah
 nalam
 nalan
 nalang
@@ -5952,6 +5959,7 @@ ngain
 ngaja
 ngajah
 ngajak
+ngajam
 ngajar
 ngajen
 ngajeng
@@ -7202,6 +7210,7 @@ pagak
 pagar
 pagi
 pago
+pahar
 pahing
 pahit
 paido
@@ -7622,7 +7631,6 @@ praja
 prawan
 prei
 pria
-prio
 pripun
 pua
 puan
@@ -7971,6 +7979,7 @@ ridho
 rie
 riem
 rih
+rihan
 rii
 rik
 rika
@@ -8062,6 +8071,7 @@ rolo
 rom
 roma
 romah
+roman
 romawi
 rombak
 rombeng
@@ -8144,6 +8154,7 @@ rungu
 runi
 runtuh
 runyam
+ruo
 rup
 rupa
 rupak
@@ -8624,7 +8635,6 @@ solit
 solo
 som
 soma
-somar
 somat
 sombong
 some
