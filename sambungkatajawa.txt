@@ -1350,7 +1350,6 @@ bisa
 bisaa
 bisik
 bisma
-bismillah
 biso
 bisu
 bisue
@@ -1814,7 +1813,6 @@ didin
 dido
 didu
 dihapus
-dijul
 dijus
 dik
 dika
@@ -3106,7 +3104,6 @@ gurita
 guru
 guruh
 gurune
-guruo
 gus
 gusah
 gusar
@@ -4563,7 +4560,6 @@ kera
 kerah
 kerajaan
 kerajin
-kerak
 keram
 keramas
 keran
@@ -6206,7 +6202,6 @@ ngacir
 ngaco
 ngacung
 ngadai
-ngadangu
 ngadani
 ngadeg
 ngadek
@@ -7035,7 +7030,6 @@ nipon
 nipu
 nipun
 nira
-nirai
 niri
 niris
 nirwana
@@ -7181,7 +7175,6 @@ nup
 nupa
 nupi
 nur
-nura
 nurah
 nurani
 nuri
@@ -8689,7 +8682,6 @@ sampeyan
 sampi
 samping
 sampo
-sampul
 sampun
 samu
 samudra
@@ -8904,7 +8896,6 @@ sesok
 sesorah
 sesuk
 setan
-setela
 setunggal
 sewa
 sewelas
