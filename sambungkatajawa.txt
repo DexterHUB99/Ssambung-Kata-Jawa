@@ -5921,6 +5921,7 @@ musan
 muse
 musi
 musim
+musire
 musis
 musola
 mustahil
@@ -8612,6 +8613,7 @@ rumo
 rumongso
 rumput
 rumus
+rumusan
 run
 runcing
 runding
