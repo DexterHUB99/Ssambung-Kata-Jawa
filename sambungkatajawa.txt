@@ -927,6 +927,7 @@ atin
 atine
 atir
 atis
+atise
 atit
 atma
 ato
@@ -8360,6 +8361,7 @@ tal
 tala
 talak
 talas
+talenan
 tales
 tali
 talie
