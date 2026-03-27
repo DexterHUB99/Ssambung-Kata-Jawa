@@ -1502,6 +1502,7 @@ cokot
 cokro
 col
 colak
+cole
 colek
 coli
 colo
@@ -7224,6 +7225,7 @@ pi
 pia
 piagam
 piala
+piama
 pian
 piano
 piatu
@@ -8153,6 +8155,7 @@ selamat
 selamet
 selan
 selasa
+selat
 selawe
 seleb
 selet
