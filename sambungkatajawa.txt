@@ -4874,6 +4874,7 @@ korban
 korea
 korek
 koreng
+korengan
 kori
 kos
 kosan
@@ -10764,6 +10765,7 @@ yunan
 yunani
 yung
 yuni
+yur
 yura
 yuri
 yuro
