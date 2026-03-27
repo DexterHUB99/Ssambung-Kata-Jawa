@@ -70,6 +70,7 @@ adap
 adar
 adat
 ade
+adegan
 adek
 adel
 adem
@@ -2904,6 +2905,7 @@ gembira
 gemblong
 gemblung
 gembok
+gembong
 gembos
 gembrot
 gembung
@@ -2915,6 +2917,7 @@ gempal
 gempar
 gempil
 gempol
+gempur
 gemu
 gemuk
 gen
@@ -3118,6 +3121,7 @@ goyang
 graji
 grapyak
 grebeg
+greges
 greget
 gresik
 grimis
@@ -4280,6 +4284,7 @@ kalan
 kalap
 kalawo
 kale
+kalebu
 kaleh
 kalem
 kalen
@@ -5487,6 +5492,7 @@ lulur
 lum
 luma
 lumah
+lumajang
 lumaku
 lumayan
 lumbung
@@ -5953,6 +5959,7 @@ mulai
 mulak
 mulane
 mulanee
+mulang
 mule
 muleh
 mules
@@ -7100,6 +7107,7 @@ ngut
 nguta
 ngutang
 ngutangan
+ngutangi
 ngutek
 nguter
 ngutil
@@ -7356,6 +7364,7 @@ ny
 nya
 nyai
 nyali
+nyaman
 nyamar
 nyambi
 nyamping
@@ -8736,6 +8745,7 @@ rungkad
 rungu
 runi
 runtuh
+runtut
 runyam
 ruo
 rup
@@ -9088,6 +9098,7 @@ seru
 ses
 sesa
 sesak
+sesakno
 sesama
 sesat
 sesek
