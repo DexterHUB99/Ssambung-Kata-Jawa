@@ -6694,6 +6694,7 @@ ngijing
 ngijo
 ngijoli
 ngik
+ngikan
 ngiki
 ngikil
 ngiku
@@ -9654,6 +9655,7 @@ tuh
 tuha
 tuhan
 tuk
+tukan
 tukang
 tukaran
 tuki
