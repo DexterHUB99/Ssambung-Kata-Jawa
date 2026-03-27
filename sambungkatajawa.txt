@@ -2745,6 +2745,7 @@ gedek
 gedhang
 gedhe
 gedhi
+gedor
 gedung
 gee
 gega
