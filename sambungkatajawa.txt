@@ -7394,6 +7394,7 @@ raos
 rap
 rapa
 rapat
+rapenting
 rapet
 rapi
 rapih
@@ -8172,6 +8173,7 @@ soroh
 sos
 sosi
 sosis
+sosmed
 sosok
 sotel
 soto
