@@ -4823,6 +4823,7 @@ lipa
 lipan
 lipas
 lipat
+lipe
 lipen
 lipet
 lipur
@@ -8323,6 +8324,7 @@ su
 sua
 suami
 suamii
+suan
 suar
 suara
 suaraa
