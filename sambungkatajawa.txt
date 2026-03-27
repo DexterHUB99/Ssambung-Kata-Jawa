@@ -9434,6 +9434,7 @@ telat
 tele
 telek
 telekmu
+telepon
 teles
 teli
 telinga
