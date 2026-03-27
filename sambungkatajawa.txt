@@ -428,6 +428,7 @@ amblas
 ambles
 ambo
 amboi
+ambrol
 ambruk
 ambu
 ambulan
@@ -4205,6 +4206,7 @@ keset
 kesleo
 kesusu
 ket
+keta
 ketan
 ketat
 ketek
