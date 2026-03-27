@@ -2294,6 +2294,7 @@ eton
 etos
 etot
 etu
+etuh
 etuk
 etum
 etung
@@ -3533,6 +3534,7 @@ isit
 isla
 islam
 isma
+ismana
 ismi
 isna
 isni
