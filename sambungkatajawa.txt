@@ -880,6 +880,7 @@ artis
 arto
 artos
 aru
+arub
 aruh
 aruk
 aruka
@@ -1902,6 +1903,7 @@ diriku
 diru
 dirumah
 dis
+disa
 disana
 disek
 disi
