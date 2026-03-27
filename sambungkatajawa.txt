@@ -5249,6 +5249,7 @@ milu
 mima
 mimi
 mimis
+mimisan
 min
 mina
 minal
@@ -6226,6 +6227,7 @@ ngolo
 ngolob
 ngoloh
 ngolok
+ngom
 ngoma
 ngomah
 ngombe
