@@ -3169,6 +3169,7 @@ guguk
 gugup
 gugur
 gugus
+guha
 gujeng
 gul
 gula
@@ -9701,7 +9702,6 @@ taura
 tawa
 tawang
 tawar
-tawas
 tawe
 tawon
 taya
