@@ -118,7 +118,6 @@ ahab
 ahad
 ahada
 ahah
-ahahad
 ahaj
 ahak
 ahal
@@ -570,6 +569,7 @@ andha
 andhap
 andhiko
 andhok
+andhong
 andi
 andika
 andini
@@ -1347,7 +1347,6 @@ buang
 buat
 buatan
 buaya
-bubak
 bubar
 bubis
 bubu
@@ -1471,6 +1470,7 @@ cecak
 cece
 cecek
 cecep
+cecet
 cedak
 cekelan
 ceki
@@ -1622,6 +1622,7 @@ damai
 damar
 damel
 damen
+damii
 dampak
 dampar
 damparan
@@ -1667,6 +1668,7 @@ dawet
 dawuh
 dayah
 dayang
+dayu
 de
 debu
 dedak
@@ -1815,6 +1817,7 @@ dona
 dong
 donga
 dongen
+dongkrak
 dongo
 doni
 dono
@@ -1973,6 +1976,7 @@ ehup
 ehut
 ehuy
 eiwak
+ej
 eja
 ejik
 ejol
@@ -3386,6 +3390,7 @@ ikian
 ikie
 ikih
 ikii
+ikil
 ikilo
 ikim
 ikio
@@ -3557,7 +3562,6 @@ ipa
 ipak
 ipan
 ipar
-ipat
 ipe
 ipek
 ipel
@@ -3963,6 +3967,7 @@ kagem
 kaget
 kagungan
 kahanan
+kahujan
 kain
 kaine
 kairi
@@ -4891,7 +4896,6 @@ lebar
 lebay
 lebih
 lebok
-lebu
 lebur
 lee
 lega
@@ -5016,6 +5020,7 @@ lipat
 lipe
 lipen
 lipet
+lipi
 lipur
 lir
 lira
@@ -5065,6 +5070,7 @@ lola
 loli
 lolo
 loloh
+loloo
 loloro
 lolos
 lom
@@ -5331,6 +5337,7 @@ marii
 maring
 maringi
 mario
+marisa
 marmut
 maru
 maruk
@@ -7636,6 +7643,7 @@ praja
 prawan
 prei
 pria
+prio
 pripun
 pua
 puan
@@ -8237,6 +8245,7 @@ saking
 sakit
 sakite
 sakkarepmu
+sakral
 sakti
 saku
 sakura
@@ -8641,6 +8650,7 @@ solit
 solo
 som
 soma
+somar
 somat
 sombong
 some
@@ -9511,7 +9521,6 @@ unek
 unen
 uner
 unes
-unesa
 ung
 ungaran
 unggah
@@ -9663,6 +9672,7 @@ usna
 uso
 usra
 usrek
+usta
 ustadz
 ustadzah
 usu
