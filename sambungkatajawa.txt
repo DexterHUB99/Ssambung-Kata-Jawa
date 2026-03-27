@@ -3647,6 +3647,7 @@ irae
 irah
 iraha
 irahan
+irai
 irak
 iram
 irama
@@ -7440,6 +7441,7 @@ papua
 par
 para
 parah
+parai
 parang
 parani
 paras
@@ -8572,6 +8574,7 @@ semen
 semi
 semok
 semol
+semot
 sempak
 sempake
 semprul
