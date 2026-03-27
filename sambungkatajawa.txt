@@ -7692,6 +7692,7 @@ okela
 okem
 oker
 oket
+oketoh
 okewa
 okin
 okina
@@ -10962,6 +10963,7 @@ woo
 wor
 wora
 woro
+wortel
 wos
 wot
 wowo
