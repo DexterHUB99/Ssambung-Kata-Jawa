@@ -1179,6 +1179,7 @@ bai
 baii
 bait
 baja
+baji
 bajigur
 bajing
 bajingan
@@ -1705,6 +1706,7 @@ dadar
 dadi
 dadii
 dadis
+dados
 dadu
 dagang
 dagel
@@ -2049,6 +2051,7 @@ ebol
 ebom
 ebor
 eca
+ecah
 ece
 eco
 ecok
@@ -2312,6 +2315,7 @@ ena
 enah
 enak
 enake
+enal
 enam
 enan
 enang
@@ -4273,7 +4277,6 @@ kalan
 kalap
 kalawo
 kale
-kalebu
 kaleh
 kalem
 kalen
@@ -10289,6 +10292,7 @@ urta
 uru
 urua
 uruk
+uruki
 urun
 urunan
 urung
