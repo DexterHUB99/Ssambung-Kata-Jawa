@@ -69,6 +69,7 @@ adap
 adar
 adat
 ade
+adegan
 adek
 adel
 adem
@@ -5951,6 +5952,7 @@ mulai
 mulak
 mulane
 mulanee
+mulang
 mule
 muleh
 mules
