@@ -776,6 +776,7 @@ apae
 apah
 apak
 apal
+apala
 apan
 apane
 apangan
@@ -2319,6 +2320,7 @@ endange
 endap
 endas
 endase
+endek
 endel
 endhok
 endi
@@ -2853,6 +2855,7 @@ gedor
 gedung
 gee
 gega
+gegel
 geger
 gegere
 geguritan
@@ -2923,6 +2926,7 @@ gendi
 gendir
 gendon
 gendong
+gendul
 gendut
 gene
 geneo
@@ -3543,6 +3547,7 @@ ieu
 if
 ig
 iga
+igah
 igak
 igal
 igo
@@ -3624,6 +3629,7 @@ iklim
 iko
 ikoe
 ikon
+ikoo
 ikrar
 iku
 ikue
@@ -5435,6 +5441,7 @@ lori
 loro
 lorone
 lorong
+loroo
 los
 losa
 lose
@@ -7520,6 +7527,7 @@ oman
 omara
 ombak
 ombe
+ombee
 omben
 ombo
 omboh
@@ -8135,7 +8143,6 @@ popoli
 por
 pora
 porah
-poran
 porasi
 porek
 pori
@@ -10610,6 +10617,7 @@ witen
 witi
 witir
 wito
+witoh
 witri
 wiwa
 wiwi
@@ -10750,7 +10758,6 @@ yon
 yona
 yong
 yongi
-yoni
 yono
 yoo
 yoopo
