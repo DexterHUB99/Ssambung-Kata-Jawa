@@ -459,6 +459,7 @@ ambal
 ambalan
 ambar
 ambarawa
+ambasi
 ambegan
 ambek
 amben
@@ -2616,6 +2617,7 @@ eyu
 eyup
 ez
 faji
+fani
 fase
 firman
 fisik
