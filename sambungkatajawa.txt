@@ -625,7 +625,6 @@ angus
 ani
 aniani
 aniaya
-anif
 anii
 anik
 anika
@@ -1166,7 +1165,6 @@ bau
 bawa
 bawok
 baya
-bayar
 bayem
 bayi
 bayu
@@ -2371,7 +2369,6 @@ eyang
 eye
 eyem
 eyo
-eyu
 eyup
 ez
 faji
@@ -2607,7 +2604,6 @@ gedek
 gedhang
 gedhe
 gedhi
-gedung
 gee
 gega
 geger
@@ -2623,7 +2619,6 @@ gelange
 gelap
 gelar
 gelas
-geleh
 gelek
 gelem
 geleman
@@ -3223,7 +3218,6 @@ iba
 ibaa
 ibadah
 ibak
-iban
 ibarat
 iblis
 ibu
@@ -5554,7 +5548,6 @@ muti
 na
 naa
 nab
-naba
 nabi
 nabii
 nabok
@@ -5568,7 +5561,6 @@ nada
 nadah
 nadi
 nadia
-nadine
 nado
 nae
 naek
@@ -5615,7 +5607,6 @@ naliko
 nalima
 nalo
 nalung
-nalur
 naluri
 nam
 nama
@@ -5791,6 +5782,7 @@ nendang
 nene
 nenek
 nenen
+neneng
 neng
 nengah
 nengdi
@@ -6848,7 +6840,6 @@ ohya
 oj
 ojek
 ojet
-ojik
 ojo
 ojoe
 ojog
@@ -7417,7 +7408,6 @@ pisa
 pisah
 pisan
 pisang
-pisi
 pisis
 pisu
 pisuh
@@ -9456,7 +9446,6 @@ urik
 urika
 urine
 uring
-urio
 urip
 uripe
 uripmu
@@ -9585,7 +9574,6 @@ uy
 uya
 uyah
 uye
-uyo
 uyuh
 uyung
 uz
