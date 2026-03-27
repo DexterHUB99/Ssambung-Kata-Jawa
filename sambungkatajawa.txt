@@ -2286,6 +2286,7 @@ etik
 etika
 etil
 etin
+eting
 etir
 etis
 eto
@@ -6220,6 +6221,7 @@ ngisih
 ngisik
 ngisin
 ngising
+ngisingan
 ngisir
 ngisor
 ngisu
