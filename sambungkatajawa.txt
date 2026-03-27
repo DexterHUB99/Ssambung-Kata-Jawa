@@ -2753,6 +2753,7 @@ galang
 galau
 gale
 galeh
+galeng
 galer
 gali
 galia
