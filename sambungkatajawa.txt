@@ -5996,6 +5996,7 @@ nawas
 nawe
 nawi
 nawon
+nawuh
 naya
 ndak
 ndalu
@@ -8624,6 +8625,7 @@ sasa
 sasak
 sasemi
 sasi
+sasimo
 sastra
 sasu
 sate
