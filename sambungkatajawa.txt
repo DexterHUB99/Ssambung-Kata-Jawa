@@ -269,7 +269,6 @@ ake
 akee
 akeh
 akehi
-aken
 aker
 akes
 aket
@@ -1143,7 +1142,6 @@ basin
 baso
 basu
 basuh
-basuki
 bat
 bata
 batak
@@ -1242,6 +1240,7 @@ bil
 bila
 bilah
 bilai
+bili
 bilo
 bima
 bimo
@@ -1477,6 +1476,7 @@ cide
 ciduk
 cigar
 cigur
+cigut
 cika
 cikal
 cikur
@@ -1596,7 +1596,6 @@ dancok
 dancuk
 dandan
 dandang
-danga
 dangdut
 dangkal
 dani
@@ -2699,7 +2698,6 @@ getan
 gethuk
 getih
 getok
-geton
 getuk
 getun
 gewe
@@ -3153,7 +3151,6 @@ howo
 hoyo
 hp
 hu
-hub
 hubung
 hubungan
 huda
@@ -3506,6 +3503,7 @@ irenge
 ires
 iri
 iria
+irian
 irig
 irih
 irii
@@ -3970,7 +3968,6 @@ kandhang
 kandi
 kang
 kangen
-kangge
 kanggih
 kanggo
 kangkung
@@ -4397,7 +4394,6 @@ kiwa
 kiye
 klambi
 klambimu
-klapa
 klaten
 klebus
 klenger
@@ -4908,6 +4904,7 @@ lipet
 lipur
 lir
 lira
+lire
 liren
 lirih
 lirik
@@ -5714,7 +5711,6 @@ nedho
 nedi
 neduh
 neg
-nega
 negara
 negeri
 neges
@@ -6037,7 +6033,6 @@ ngawu
 ngawun
 ngawur
 ngaya
-ngayah
 ngayam
 ngayogyakarta
 ngayomi
@@ -6557,7 +6552,6 @@ nipa
 nipak
 nipan
 nipis
-nipo
 nipon
 nipu
 nipun
@@ -7697,7 +7691,6 @@ rawat
 rawe
 rawi
 rawit
-rawoh
 rawon
 rawu
 rawuh
@@ -8079,7 +8072,6 @@ sama
 samah
 saman
 samat
-sambak
 sambal
 sambang
 sambat
@@ -8109,7 +8101,6 @@ sandang
 sanduk
 sanes
 sang
-sanga
 sangar
 sanggul
 sangu
