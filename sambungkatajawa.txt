@@ -5110,6 +5110,7 @@ laju
 lak
 laka
 laki
+laknat
 lakon
 lakoni
 laku
@@ -8772,6 +8773,7 @@ rum
 ruma
 rumah
 rumangsa
+rumba
 rumbah
 rumbai
 rumbak
