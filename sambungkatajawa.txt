@@ -2757,6 +2757,7 @@ geseng
 geser
 gesit
 getan
+getar
 gethuk
 getih
 getok
@@ -7434,6 +7435,7 @@ pien
 pigura
 pii
 pijak
+pijar
 pijat
 pijek
 pijer
@@ -9845,6 +9847,7 @@ wesa
 wesi
 westa
 wet
+weta
 wetan
 weteng
 weton
