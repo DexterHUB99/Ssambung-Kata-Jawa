@@ -1791,6 +1791,7 @@ ebor
 eca
 ece
 eco
+ecok
 ed
 eda
 edak
@@ -3353,6 +3354,7 @@ insan
 insyaallah
 internet
 inti
+intik
 intil
 intine
 intinya
@@ -6863,6 +6865,7 @@ paleng
 palet
 pali
 paling
+palis
 palko
 palu
 palung
