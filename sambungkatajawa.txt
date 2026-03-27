@@ -37,6 +37,7 @@ abote
 abrit
 abu
 abuh
+abuk
 abul
 abus
 abuy
@@ -69,7 +70,6 @@ adap
 adar
 adat
 ade
-adegan
 adek
 adel
 adem
@@ -1180,6 +1180,7 @@ bai
 baii
 bait
 baja
+baji
 bajigur
 bajing
 bajingan
@@ -1383,6 +1384,7 @@ biru
 bis
 bisa
 bisaa
+bisane
 bisik
 bisma
 bismillah
@@ -1636,6 +1638,7 @@ cimu
 cimut
 cin
 cina
+cinaa
 cincang
 cincin
 cing
@@ -1706,6 +1709,7 @@ dadar
 dadi
 dadii
 dadis
+dados
 dadu
 dagang
 dagel
@@ -2050,6 +2054,7 @@ ebol
 ebom
 ebor
 eca
+ecah
 ece
 eco
 ecok
@@ -2313,6 +2318,7 @@ ena
 enah
 enak
 enake
+enal
 enam
 enan
 enang
@@ -2898,7 +2904,6 @@ gembira
 gemblong
 gemblung
 gembok
-gembong
 gembos
 gembrot
 gembung
@@ -2910,7 +2915,6 @@ gempal
 gempar
 gempil
 gempol
-gempur
 gemu
 gemuk
 gen
@@ -3114,7 +3118,6 @@ goyang
 graji
 grapyak
 grebeg
-greges
 greget
 gresik
 grimis
@@ -4277,7 +4280,6 @@ kalan
 kalap
 kalawo
 kale
-kalebu
 kaleh
 kalem
 kalen
@@ -5485,7 +5487,6 @@ lulur
 lum
 luma
 lumah
-lumajang
 lumaku
 lumayan
 lumbung
@@ -5952,7 +5953,6 @@ mulai
 mulak
 mulane
 mulanee
-mulang
 mule
 muleh
 mules
@@ -7100,7 +7100,6 @@ ngut
 nguta
 ngutang
 ngutangan
-ngutangi
 ngutek
 nguter
 ngutil
@@ -7357,7 +7356,6 @@ ny
 nya
 nyai
 nyali
-nyaman
 nyamar
 nyambi
 nyamping
@@ -7751,6 +7749,7 @@ paku
 pakuk
 pal
 pala
+palaa
 palah
 palak
 palamu
@@ -8737,7 +8736,6 @@ rungkad
 rungu
 runi
 runtuh
-runtut
 runyam
 ruo
 rup
@@ -9057,6 +9055,7 @@ senjata
 seno
 senok
 senopati
+seo
 sep
 sepadu
 sepanci
@@ -9089,7 +9088,6 @@ seru
 ses
 sesa
 sesak
-sesakno
 sesama
 sesat
 sesek
@@ -10092,6 +10090,7 @@ ulas
 ulasan
 ulat
 ule
+ulee
 uleg
 ulek
 ulekan
@@ -10299,6 +10298,7 @@ urta
 uru
 urua
 uruk
+uruki
 urun
 urunan
 urung
