@@ -6830,7 +6830,6 @@ ngrokok
 ngrumpi
 ngrungokake
 ngsu
-ngubah
 ngubek
 nguber
 ngubur
@@ -9190,7 +9189,6 @@ susaa
 susah
 susan
 susi
-susie
 susii
 susilo
 susok
@@ -9390,7 +9388,6 @@ temah
 teman
 temanggung
 tembaga
-tembak
 tembang
 tembe
 tembem
