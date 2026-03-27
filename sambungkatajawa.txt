@@ -4854,6 +4854,7 @@ klepon
 kleru
 klimis
 kliwon
+klo
 ko
 kobis
 kobong
@@ -6701,6 +6702,7 @@ ngem
 ngemas
 ngembel
 ngembun
+ngemet
 ngemil
 ngemis
 ngemong
@@ -6935,6 +6937,7 @@ ngiwang
 ngk
 ngka
 ngke
+ngki
 ngko
 nglali
 nglampah
