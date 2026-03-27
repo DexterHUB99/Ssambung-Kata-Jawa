@@ -412,6 +412,7 @@ amane
 amang
 amar
 amarga
+amargo
 amarta
 amas
 amat
@@ -2287,6 +2288,7 @@ etek
 etel
 etem
 eten
+eter
 etet
 ethok
 eti
@@ -8252,6 +8254,7 @@ setunggal
 sewa
 sewelas
 sewu
+shalat
 sholat
 si
 sia
