@@ -2600,6 +2600,7 @@ galung
 galur
 gama
 gaman
+gamane
 gambang
 gambar
 gambas
@@ -3965,6 +3966,7 @@ jembut
 jembutmu
 jempol
 jemput
+jemuran
 jenang
 jeneng
 jenengan
@@ -5106,6 +5108,7 @@ lenggah
 lengser
 leni
 lentog
+lepat
 lepi
 ler
 lere
@@ -5141,6 +5144,7 @@ lii
 lik
 lika
 likan
+liki
 likis
 liko
 liku
@@ -7098,6 +7102,7 @@ nung
 nunggal
 nunggang
 nunggangi
+nunggoni
 nunggu
 nungu
 nuni
@@ -7214,6 +7219,7 @@ ogel
 oger
 ogi
 ogoh
+ogor
 oh
 ohh
 ohhh
@@ -7487,6 +7493,7 @@ pagak
 pagar
 pagi
 pago
+paham
 pahar
 pahing
 pahit
