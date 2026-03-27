@@ -176,6 +176,7 @@ ai
 aia
 aian
 aie
+aiem
 aiha
 aii
 aiing
@@ -589,6 +590,7 @@ angkringan
 angkuh
 angon
 angop
+angos
 angsa
 angsal
 angsi
