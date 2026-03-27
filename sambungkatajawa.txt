@@ -3727,6 +3727,7 @@ iketen
 ikhlas
 ikhtiar
 iki
+ikiake
 ikian
 ikie
 ikih
@@ -5594,6 +5595,7 @@ longgar
 longgor
 longor
 longsor
+loni
 lonjak
 lonjong
 lono
@@ -9206,6 +9208,7 @@ santen
 santo
 santri
 santun
+sao
 saos
 sap
 sapa
