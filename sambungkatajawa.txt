@@ -34,7 +34,6 @@ abote
 abrit
 abu
 abuh
-abul
 abus
 abuy
 ac
@@ -1140,7 +1139,6 @@ bajingan
 baju
 bajul
 bak
-baka
 bakon
 bakso
 baku
@@ -1252,6 +1250,7 @@ belo
 belut
 ben
 benang
+bendo
 bene
 bener
 bengek
@@ -1379,7 +1378,6 @@ boyok
 bu
 bua
 buang
-buanga
 buat
 buatan
 buaya
@@ -1812,7 +1810,6 @@ dinten
 dipa
 dipan
 dipana
-dipanca
 diparani
 dipek
 dipi
@@ -2416,6 +2413,7 @@ etah
 etak
 etam
 etan
+etane
 etang
 etano
 etap
@@ -2578,6 +2576,7 @@ gambyong
 game
 gamean
 gamel
+gamela
 gamelan
 gamen
 gami
@@ -3591,6 +3590,7 @@ indana
 indang
 indek
 inden
+indeng
 indik
 indomie
 indra
@@ -3796,7 +3796,6 @@ ito
 itu
 itung
 itungan
-itungi
 iut
 iuta
 iw
@@ -3847,6 +3846,7 @@ jajal
 jajam
 jajan
 jajang
+jak
 jaka
 jakaa
 jakat
@@ -4937,6 +4937,7 @@ lanjut
 lansia
 lantai
 lantang
+lantas
 lanting
 lantun
 lantung
@@ -5168,7 +5169,6 @@ lodoh
 loe
 loen
 logat
-logok
 loh
 loha
 lohan
@@ -5825,7 +5825,6 @@ nalan
 nalang
 nalar
 nali
-nalii
 nalik
 nalika
 nalikae
@@ -6049,7 +6048,6 @@ net
 neta
 netan
 netap
-netas
 nete
 neteh
 netek
@@ -6312,6 +6310,7 @@ ngawi
 ngawih
 ngawii
 ngawir
+ngawisi
 ngawit
 ngawiti
 ngawor
@@ -6379,6 +6378,7 @@ ngelus
 ngeluwes
 ngem
 ngemas
+ngembel
 ngembun
 ngemil
 ngemis
@@ -6500,7 +6500,6 @@ nggawe
 ngge
 nggeh
 nggendong
-ngger
 nggi
 nggih
 nggilani
@@ -6721,6 +6720,7 @@ ngugu
 nguji
 ngujuk
 nguk
+nguker
 ngukir
 ngukur
 ngul
@@ -7066,7 +7066,6 @@ nyawa
 nyawah
 nyawang
 nyawat
-nyawi
 nyawiji
 nyawit
 nyekek
@@ -7294,6 +7293,7 @@ opoiki
 opok
 opoki
 opol
+opone
 opoo
 opor
 opose
@@ -7541,7 +7541,6 @@ pati
 patih
 patik
 patil
-patin
 patok
 patu
 patuh
@@ -8304,7 +8303,6 @@ rora
 roro
 ros
 rosa
-rosan
 rose
 rosi
 roso
@@ -8465,7 +8463,6 @@ sali
 salim
 salin
 saling
-salip
 salira
 salo
 salom
@@ -8570,6 +8567,7 @@ sawang
 sawer
 sawi
 sawiji
+sawijine
 sawik
 sawis
 sawise
@@ -8638,6 +8636,7 @@ semayang
 sembah
 sembarang
 sembarangan
+sembari
 sembur
 semen
 semi
@@ -8801,7 +8800,6 @@ sirat
 sirep
 siri
 sirih
-sirna
 siro
 sirsak
 sirup
@@ -8819,7 +8817,6 @@ siska
 sisok
 sisu
 siswa
-siswi
 sit
 sita
 sitak
@@ -9420,7 +9417,6 @@ tuha
 tuhan
 tuk
 tukang
-tukaran
 tuki
 tuku
 tukul
@@ -10088,6 +10084,7 @@ wawasan
 wawi
 wawo
 way
+waya
 wayah
 wayan
 wayang
