@@ -3952,6 +3952,7 @@ kagem
 kaget
 kagungan
 kahanan
+kahujan
 kain
 kaine
 kairi
@@ -8623,6 +8624,7 @@ solit
 solo
 som
 soma
+somar
 somat
 sombong
 some
