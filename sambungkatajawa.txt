@@ -1562,6 +1562,7 @@ camat
 campur
 can
 candi
+canggah
 cangkem
 cangkir
 cangkol
@@ -5348,6 +5349,7 @@ limu
 limun
 lin
 lina
+linang
 lincah
 lindhu
 lindungi
