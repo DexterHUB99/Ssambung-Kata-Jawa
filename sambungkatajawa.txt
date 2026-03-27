@@ -4116,6 +4116,7 @@ jamak
 jaman
 jamat
 jambak
+jamban
 jambi
 jambu
 jami
@@ -6103,6 +6104,7 @@ mumpung
 mun
 muna
 munafik
+muncul
 mundak
 mundhut
 mundur
