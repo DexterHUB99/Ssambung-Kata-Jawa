@@ -3656,6 +3656,7 @@ inggih
 inggil
 ingin
 ingkang
+ingko
 ingku
 ingkung
 ingsun
@@ -4457,6 +4458,7 @@ kembar
 kemben
 kemeja
 kemem
+kemerin
 kemeruh
 kemiri
 kemis
@@ -7933,6 +7935,7 @@ puing
 puja
 pujaan
 puk
+puka
 pukan
 puki
 pukimak
@@ -10453,6 +10456,7 @@ yoman
 yon
 yona
 yong
+yongi
 yono
 yoo
 yoopo
