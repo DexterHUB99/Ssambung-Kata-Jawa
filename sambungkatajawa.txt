@@ -346,6 +346,7 @@ ale
 alem
 aleman
 aleng
+alengka
 aler
 alhamdulillah
 ali
@@ -3906,6 +3907,7 @@ kandang
 kandani
 kandas
 kandel
+kandhang
 kandi
 kang
 kangen
