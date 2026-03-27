@@ -2911,6 +2911,7 @@ gerem
 gergaji
 geri
 gerih
+gerimis
 gering
 germo
 gerobak
@@ -9146,6 +9147,7 @@ sotel
 soto
 sowan
 soyo
+srambi
 srawung
 sregep
 srengenge
