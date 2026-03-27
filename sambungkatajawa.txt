@@ -2216,6 +2216,7 @@ empul
 empun
 emu
 emul
+emur
 emut
 emutno
 en
@@ -5472,6 +5473,7 @@ manuk
 manukmu
 manungsa
 manungso
+manus
 manusi
 manut
 maos
@@ -10248,6 +10250,7 @@ wili
 wilo
 wilujeng
 win
+wina
 windu
 wingi
 wingibengi
