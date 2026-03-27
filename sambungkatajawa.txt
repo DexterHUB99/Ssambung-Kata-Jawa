@@ -1967,7 +1967,6 @@ duit
 dujun
 duk
 duka
-duki
 duko
 duku
 dukuh
@@ -2378,7 +2377,6 @@ epem
 epen
 epep
 eper
-epes
 epet
 epi
 epic
@@ -3209,7 +3207,6 @@ hamae
 haman
 hamane
 hamba
-hambali
 hambar
 hambur
 hami
@@ -3678,7 +3675,6 @@ impel
 impi
 impian
 impis
-impor
 impun
 impung
 imra
@@ -4845,7 +4841,6 @@ korek
 koreng
 kori
 kos
-kosa
 kosan
 kosek
 kosekan
@@ -4948,7 +4943,6 @@ kuntulmu
 kunyuk
 kuo
 kuota
-kup
 kupa
 kupan
 kupas
@@ -4994,7 +4988,6 @@ kuwe
 kuwi
 kuwo
 kuya
-kuyo
 kwe
 kyai
 la
@@ -5165,7 +5158,6 @@ lega
 legi
 leh
 lek
-leker
 lekoh
 lelah
 lele
@@ -5187,7 +5179,6 @@ leme
 lemek
 lemes
 lemet
-lemi
 lemot
 lempeng
 lemper
@@ -5766,7 +5757,6 @@ min
 mina
 minal
 minat
-minder
 mingat
 minggat
 minggir
@@ -7133,6 +7123,7 @@ nki
 nko
 nmu
 nnalika
+nnaliko
 nnangka
 nnani
 nnduk
@@ -7523,7 +7514,6 @@ opem
 open
 openi
 oper
-opes
 opet
 opik
 opini
@@ -7832,6 +7822,7 @@ pela
 pelan
 pelangi
 pele
+peleh
 pelem
 peler
 peli
@@ -8223,7 +8214,6 @@ raket
 rakha
 raki
 rakit
-rakma
 rako
 raksasa
 raku
@@ -8366,6 +8356,7 @@ reget
 regi
 rehi
 rei
+rejeb
 rejo
 rek
 reka
@@ -8373,7 +8364,6 @@ rekak
 rekam
 rekan
 rekasa
-rekat
 rekmo
 rekoso
 rela
@@ -8417,7 +8407,6 @@ rendi
 rene
 reng
 rengginang
-rengkuh
 reni
 reno
 reo
@@ -8968,7 +8957,6 @@ sepii
 sepiro
 sepon
 sepuh
-sepuluh
 sepur
 sepuran
 ser
