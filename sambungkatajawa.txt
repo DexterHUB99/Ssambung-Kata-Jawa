@@ -5944,6 +5944,7 @@ nampar
 nampel
 nampol
 namu
+namung
 nan
 nana
 nanah
@@ -9915,6 +9916,7 @@ ungu
 uni
 unia
 unii
+unine
 uning
 unira
 unjal
