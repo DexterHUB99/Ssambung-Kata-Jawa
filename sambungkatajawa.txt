@@ -184,6 +184,7 @@ aho
 ahoa
 ahoha
 ahok
+ahom
 ahoo
 ahop
 ahor
@@ -1521,6 +1522,7 @@ bulan
 bulat
 bule
 bulet
+buli
 bulik
 bulu
 bumbu
@@ -1982,6 +1984,7 @@ doda
 dodi
 dodik
 dodo
+dodok
 dodol
 dodolan
 dodole
@@ -2564,6 +2567,7 @@ esdawet
 ese
 eseh
 esek
+esel
 esem
 eseman
 esep
@@ -2889,6 +2893,7 @@ gatol
 gatot
 gatuk
 gaul
+gaulan
 gaun
 gawa
 gawaa
@@ -2919,6 +2924,7 @@ gede
 gedeg
 gedek
 geden
+geder
 gedhang
 gedhe
 gedhi
@@ -3652,11 +3658,13 @@ ihma
 ihmu
 ihni
 iho
+ihra
 ihre
 ihsan
 ihta
 ihwa
 ihya
+ihyo
 ij
 ija
 ijab
@@ -4000,6 +4008,7 @@ isis
 isisa
 isisin
 isisis
+isiso
 isit
 isla
 islam
@@ -5954,6 +5963,7 @@ milen
 mili
 milih
 milik
+milo
 milu
 mima
 mimi
@@ -6064,6 +6074,7 @@ muatan
 mubal
 mubeng
 mucuk
+mudal
 mudeng
 mudha
 mudhun
@@ -6577,6 +6588,7 @@ ngampet
 ngampil
 ngampiri
 ngampung
+ngamu
 ngamuk
 ngan
 ngana
@@ -6630,6 +6642,7 @@ nganter
 nganthi
 nganthuk
 nganti
+ngantil
 nganting
 ngantor
 ngantos
@@ -7670,6 +7683,7 @@ okin
 okina
 okit
 okok
+okokan
 okoke
 okol
 okon
@@ -8017,6 +8031,7 @@ pantu
 pantun
 pantura
 panutan
+panuwun
 papa
 papah
 papan
@@ -8146,6 +8161,7 @@ pentung
 penuh
 penyu
 pepak
+pepaya
 pepe
 pepek
 pepes
@@ -8416,6 +8432,7 @@ puluh
 puma
 pun
 puna
+punan
 punapa
 puncak
 pundi
@@ -8652,6 +8669,7 @@ raya
 rayang
 rayap
 rayi
+rayo
 rayu
 re
 rebahan
@@ -9153,6 +9171,7 @@ saring
 sarip
 saripan
 sarong
+sarota
 saru
 sarung
 sas
@@ -9734,6 +9753,7 @@ takut
 tal
 tala
 talak
+talan
 talas
 tale
 talenan
@@ -10408,6 +10428,7 @@ uncal
 undak
 undakan
 undang
+undanga
 undangan
 undi
 undia
@@ -11084,6 +11105,7 @@ yunan
 yunani
 yung
 yuni
+yuo
 yur
 yura
 yuri
