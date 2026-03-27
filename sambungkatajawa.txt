@@ -2448,6 +2448,7 @@ epok
 epon
 epos
 epu
+epuh
 epuk
 epul
 epun
@@ -4759,6 +4760,7 @@ kethok
 ketiga
 ketik
 ketil
+ketinggalan
 ketir
 ketok
 keton
