@@ -4061,6 +4061,7 @@ jir
 jira
 jiran
 jire
+jiri
 jita
 jitak
 jiwa
@@ -7589,6 +7590,7 @@ paes
 pagak
 pagar
 pagi
+pagii
 pago
 paham
 pahar
@@ -10393,6 +10395,7 @@ wenang
 weneh
 wengi
 weni
+wer
 werkudara
 werna
 werno
