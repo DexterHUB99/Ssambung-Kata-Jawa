@@ -23,6 +23,7 @@ abik
 abil
 abimanyu
 abin
+abir
 abis
 abit
 abo
@@ -118,6 +119,7 @@ ahab
 ahad
 ahada
 ahah
+ahahad
 ahaj
 ahak
 ahal
@@ -597,6 +599,7 @@ angen
 angep
 anget
 angetan
+anggaran
 anggep
 angger
 anggo
@@ -1348,6 +1351,7 @@ buang
 buat
 buatan
 buaya
+bubak
 bubar
 bubis
 bubu
@@ -2018,6 +2022,7 @@ eko
 ekoh
 ekok
 ekol
+ekom
 ekon
 ekor
 ekore
@@ -2261,6 +2266,7 @@ epos
 epu
 epuk
 epul
+epun
 epur
 epus
 er
@@ -2325,6 +2331,7 @@ esai
 esak
 esam
 esan
+esap
 esay
 escendol
 esdawet
@@ -3220,6 +3227,7 @@ homa
 homo
 hon
 honan
+hone
 honi
 hono
 honta
@@ -3427,7 +3435,6 @@ ilamu
 ilan
 ilang
 ilange
-ilangono
 ilap
 ilar
 ilas
@@ -3446,7 +3453,6 @@ ilili
 ilin
 iling
 ilingan
-ilingen
 ilir
 ilis
 ilmu
@@ -3567,6 +3573,7 @@ ipa
 ipak
 ipan
 ipar
+ipat
 ipe
 ipek
 ipel
@@ -4000,7 +4007,6 @@ kaku
 kakung
 kal
 kala
-kalaa
 kalah
 kalajengking
 kalan
@@ -4361,6 +4367,7 @@ kepin
 kepincut
 kepiring
 kepiye
+keplak
 kepleset
 kepo
 kepompong
@@ -4517,6 +4524,7 @@ klambi
 klambii
 klambimu
 klapa
+klasa
 klaten
 klebus
 klenger
@@ -4902,6 +4910,7 @@ lebar
 lebay
 lebih
 lebok
+lebu
 lebur
 lee
 lega
@@ -5040,7 +5049,6 @@ lise
 lisi
 lit
 lita
-litah
 liwa
 liwat
 liwet
@@ -5749,6 +5757,7 @@ nanai
 nanam
 nanan
 nanang
+nanangis
 nanas
 nanase
 nancap
@@ -5848,6 +5857,7 @@ ndlosor
 ndoro
 ndugal
 nduk
+ndukani
 ne
 nebang
 neda
@@ -6562,7 +6572,6 @@ ngrit
 ngrok
 ngrokok
 ngrumpi
-ngrungokake
 ngsu
 ngubek
 nguber
@@ -6574,6 +6583,7 @@ ngudi
 ngudu
 ngudud
 ngudut
+ngugah
 ngugu
 nguji
 ngujuk
@@ -6659,6 +6669,7 @@ nguter
 ngutil
 ngutowo
 ngutus
+nguwi
 nguyu
 nguyuh
 nguyuhi
@@ -6869,6 +6880,7 @@ nup
 nupa
 nupi
 nur
+nurah
 nurani
 nuri
 nuru
@@ -7215,6 +7227,7 @@ oyot
 oz
 ozon
 pa
+pacol
 pacul
 pada
 padae
@@ -7478,6 +7491,7 @@ pidana
 pie
 pien
 pigura
+pih
 pii
 pijak
 pijar
@@ -7828,7 +7842,6 @@ ramuan
 ramutu
 ran
 rana
-ranaa
 ranah
 randa
 randu
@@ -8091,7 +8104,6 @@ roki
 roko
 rokok
 rola
-rolaa
 rolas
 roli
 rolo
@@ -9419,6 +9431,7 @@ ukro
 ukta
 uku
 ukuk
+ukukir
 ukul
 ukum
 ukung
@@ -9535,6 +9548,7 @@ unek
 unen
 uner
 unes
+unesa
 ung
 ungaran
 unggah
@@ -9671,6 +9685,7 @@ usar
 use
 usek
 usem
+usen
 user
 usi
 usia
@@ -9833,6 +9848,7 @@ warisan
 warkop
 warna
 warnae
+warno
 waro
 warti
 waru
@@ -9998,7 +10014,7 @@ wuku
 wula
 wulan
 wulang
-wuli
+wulu
 wulung
 wuno
 wur
