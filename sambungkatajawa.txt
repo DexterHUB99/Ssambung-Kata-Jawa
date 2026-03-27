@@ -2462,6 +2462,7 @@ esek
 esem
 eseman
 esep
+eser
 eses
 esi
 esih
@@ -2747,6 +2748,7 @@ garu
 garuda
 garue
 garuk
+garung
 garut
 garwa
 garwane
@@ -4358,6 +4360,7 @@ kase
 kasek
 kasem
 kasep
+kasepen
 kasepuh
 kaset
 kasi
@@ -4601,6 +4604,7 @@ kerbau
 kere
 kerek
 keren
+keres
 keret
 kereta
 keri
@@ -6384,6 +6388,7 @@ ngantos
 ngantri
 ngantuk
 ngantun
+ngantung
 nganu
 nganyeli
 ngaos
@@ -7310,6 +7315,7 @@ obor
 oboti
 obral
 obrol
+ocak
 oceh
 oci
 ocok
@@ -8916,6 +8922,7 @@ senjata
 seno
 senok
 senopati
+sep
 sepadu
 sepanci
 sepat
