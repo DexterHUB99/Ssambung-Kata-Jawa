@@ -1897,6 +1897,7 @@ ehu
 ehup
 ehut
 ehuy
+eiwak
 eja
 ejik
 ejol
