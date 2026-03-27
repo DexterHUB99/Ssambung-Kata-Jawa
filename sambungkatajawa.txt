@@ -1969,6 +1969,7 @@ ehup
 ehut
 ehuy
 eiwak
+ej
 eja
 ejik
 ejol
