@@ -3131,6 +3131,7 @@ gita
 gitae
 gitar
 giwang
+giwangan
 glagah
 glepung
 glora
@@ -6826,6 +6827,7 @@ ngedu
 ngeeh
 ngegas
 ngegawe
+ngegeh
 ngeger
 ngegunung
 ngeh
