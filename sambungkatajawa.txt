@@ -70,7 +70,6 @@ adap
 adar
 adat
 ade
-adegan
 adek
 adel
 adem
@@ -835,6 +834,7 @@ arang
 arap
 aras
 arasen
+aray
 ardi
 are
 areg
@@ -1583,7 +1583,6 @@ cecek
 cecep
 cecet
 cedak
-cekatan
 cekelan
 ceki
 cekok
@@ -2906,7 +2905,6 @@ gembira
 gemblong
 gemblung
 gembok
-gembong
 gembos
 gembrot
 gembung
@@ -2918,7 +2916,6 @@ gempal
 gempar
 gempil
 gempol
-gempur
 gemu
 gemuk
 gen
@@ -3122,7 +3119,6 @@ goyang
 graji
 grapyak
 grebeg
-greges
 greget
 gresik
 grimis
@@ -3959,6 +3955,7 @@ it
 ita
 itaa
 itai
+itaku
 itali
 ite
 item
@@ -4282,11 +4279,9 @@ kalah
 kalajengking
 kalam
 kalan
-kalangan
 kalap
 kalawo
 kale
-kalebu
 kaleh
 kalem
 kalen
@@ -5494,7 +5489,6 @@ lulur
 lum
 luma
 lumah
-lumajang
 lumaku
 lumayan
 lumbung
@@ -5717,6 +5711,7 @@ mat
 mata
 matamu
 matane
+mate
 matek
 maten
 mateni
@@ -5961,7 +5956,6 @@ mulai
 mulak
 mulane
 mulanee
-mulang
 mule
 muleh
 mules
@@ -6319,7 +6313,6 @@ netas
 nete
 neteh
 netek
-neteki
 netel
 netes
 netot
@@ -7110,7 +7103,6 @@ ngut
 nguta
 ngutang
 ngutangan
-ngutangi
 ngutek
 nguter
 ngutil
@@ -7346,7 +7338,6 @@ nuri
 nuru
 nurui
 nurun
-nuruni
 nurut
 nuruti
 nus
@@ -7368,7 +7359,6 @@ ny
 nya
 nyai
 nyali
-nyaman
 nyamar
 nyambi
 nyamping
@@ -8146,6 +8136,7 @@ poles
 poli
 poling
 polisi
+poll
 polo
 polok
 poloo
@@ -8749,7 +8740,6 @@ rungkad
 rungu
 runi
 runtuh
-runtut
 runyam
 ruo
 rup
@@ -9102,7 +9092,6 @@ seru
 ses
 sesa
 sesak
-sesakno
 sesama
 sesat
 sesek
@@ -10331,7 +10320,6 @@ usae
 usah
 usaha
 usai
-usak
 usan
 usani
 usap
