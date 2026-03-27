@@ -5761,6 +5761,7 @@ matek
 maten
 mateni
 mati
+matih
 matii
 matil
 matio
@@ -8325,6 +8326,7 @@ puyi
 puyuh
 pwe
 quran
+qurban
 ra
 raa
 raba
