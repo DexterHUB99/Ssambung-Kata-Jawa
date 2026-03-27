@@ -568,7 +568,6 @@ andalan
 andang
 andani
 andap
-andara
 andaran
 andas
 ander
@@ -1228,6 +1227,7 @@ bela
 belajar
 belan
 belang
+belas
 belek
 beli
 beling
@@ -1685,7 +1685,6 @@ dawah
 dawak
 dawet
 dawuh
-daya
 dayah
 dayang
 dayu
@@ -1719,6 +1718,7 @@ dempul
 den
 dena
 dene
+dengki
 dengkul
 dening
 depak
@@ -1957,6 +1957,7 @@ ego
 egod
 egoh
 egrang
+egu
 eh
 eha
 ehab
@@ -2206,6 +2207,7 @@ enggan
 enggar
 enggeh
 enggih
+enggil
 enggo
 engkang
 engko
@@ -3197,6 +3199,7 @@ heri
 hero
 hes
 hesti
+het
 hetan
 heti
 hewa
@@ -3651,6 +3654,7 @@ irin
 iring
 iringan
 irip
+iriri
 iris
 irit
 irita
@@ -4098,6 +4102,7 @@ kamul
 kamus
 kan
 kana
+kanaa
 kanak
 kanan
 kanane
@@ -5023,7 +5028,6 @@ lik
 lika
 likan
 likis
-liko
 liku
 lila
 lili
@@ -5867,6 +5871,7 @@ nasi
 nasib
 nasie
 nasii
+nasikuning
 nastar
 nasu
 nat
@@ -6584,7 +6589,6 @@ ngompol
 ngompor
 ngon
 ngonde
-ngonek
 ngong
 ngoni
 ngono
@@ -7536,6 +7540,7 @@ pesing
 peso
 peta
 pete
+petel
 peteng
 peti
 petir
@@ -8690,6 +8695,7 @@ sipit
 sir
 sira
 sirah
+sirahmu
 siram
 siraman
 sirat
@@ -8815,6 +8821,7 @@ sude
 sudi
 sudo
 sue
+suen
 sugeh
 sugeng
 sugi
@@ -9671,6 +9678,7 @@ untah
 untal
 untalen
 untap
+untas
 unte
 untek
 untir
@@ -9700,6 +9708,7 @@ upel
 upi
 upik
 upil
+upis
 upku
 upo
 upra
