@@ -1645,6 +1645,7 @@ datu
 daun
 davi
 dawa
+dawah
 dawak
 dawet
 dawuh
@@ -1660,6 +1661,7 @@ dedi
 degan
 dek
 dekan
+dekek
 deki
 dekok
 dela
@@ -4080,6 +4082,7 @@ karma
 karo
 karpet
 kartu
+karun
 karung
 karyani
 kas
@@ -9640,6 +9643,7 @@ uwis
 uwit
 uwong
 uwu
+uwuh
 ux
 uy
 uya
