@@ -6490,6 +6490,7 @@ ngeres
 ngeri
 ngero
 ngerok
+ngerokok
 ngeroso
 ngerti
 ngertos
