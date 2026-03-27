@@ -2101,6 +2101,7 @@ ehuy
 eiwak
 ej
 eja
+ejak
 ejek
 ejik
 ejol
@@ -5284,6 +5285,7 @@ lintah
 lintang
 lintas
 lintasan
+lintu
 lio
 lip
 lipa
@@ -7554,6 +7556,7 @@ oraki
 oran
 orang
 orangutan
+orapapa
 orapopo
 oras
 orasah
