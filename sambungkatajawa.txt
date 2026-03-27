@@ -7181,6 +7181,7 @@ nup
 nupa
 nupi
 nur
+nura
 nurah
 nurani
 nuri
@@ -8903,6 +8904,7 @@ sesok
 sesorah
 sesuk
 setan
+setela
 setunggal
 sewa
 sewelas
