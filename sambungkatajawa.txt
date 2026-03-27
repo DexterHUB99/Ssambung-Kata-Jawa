@@ -2860,6 +2860,7 @@ gempal
 gempar
 gempil
 gempol
+gemu
 gemuk
 gen
 gena
