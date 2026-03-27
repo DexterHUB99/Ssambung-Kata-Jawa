@@ -2896,6 +2896,7 @@ gendhing
 gendhis
 gendhuk
 gendi
+gendir
 gendon
 gendong
 gendut
