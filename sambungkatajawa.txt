@@ -3257,6 +3257,7 @@ hurung
 hurup
 hus
 husa
+husen
 husi
 husna
 hut
@@ -7266,6 +7267,7 @@ panggon
 panggung
 pangku
 pangling
+pangurip
 panguripan
 pani
 panik
