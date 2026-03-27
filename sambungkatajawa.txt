@@ -6700,6 +6700,7 @@ ngijing
 ngijo
 ngijoli
 ngik
+ngikan
 ngiki
 ngikil
 ngiku
@@ -7363,7 +7364,6 @@ okop
 okor
 okos
 okot
-okul
 okum
 okur
 okut
@@ -7514,6 +7514,7 @@ oren
 oreng
 oreo
 orep
+ores
 organisasi
 ori
 oria
@@ -9663,6 +9664,7 @@ tuh
 tuha
 tuhan
 tuk
+tukan
 tukang
 tukaran
 tuki
@@ -10357,7 +10359,6 @@ wayo
 wc
 we
 wea
-weban
 weda
 wedal
 wedan
