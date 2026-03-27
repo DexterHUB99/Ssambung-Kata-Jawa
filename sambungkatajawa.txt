@@ -1009,6 +1009,7 @@ atok
 atom
 aton
 atos
+atose
 atrahe
 atrap
 atret
@@ -7325,6 +7326,7 @@ organisasi
 ori
 oria
 orii
+oring
 orok
 orong
 oros
@@ -7411,6 +7413,7 @@ pakap
 pakar
 pakde
 pakdhe
+pakle
 paksa
 paku
 pal
