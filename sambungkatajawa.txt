@@ -23,6 +23,7 @@ abik
 abil
 abimanyu
 abin
+abir
 abis
 abit
 abo
@@ -118,6 +119,7 @@ ahab
 ahad
 ahada
 ahah
+ahahad
 ahaj
 ahak
 ahal
@@ -597,6 +599,7 @@ angen
 angep
 anget
 angetan
+anggaran
 anggep
 angger
 anggo
@@ -1348,6 +1351,7 @@ buang
 buat
 buatan
 buaya
+bubak
 bubar
 bubis
 bubu
@@ -2018,6 +2022,7 @@ eko
 ekoh
 ekok
 ekol
+ekom
 ekon
 ekor
 ekore
@@ -2261,6 +2266,7 @@ epos
 epu
 epuk
 epul
+epun
 epur
 epus
 er
@@ -2325,6 +2331,7 @@ esai
 esak
 esam
 esan
+esap
 esay
 escendol
 esdawet
@@ -3220,6 +3227,7 @@ homa
 homo
 hon
 honan
+hone
 honi
 hono
 honta
@@ -3427,7 +3435,6 @@ ilamu
 ilan
 ilang
 ilange
-ilangono
 ilap
 ilar
 ilas
@@ -3566,6 +3573,7 @@ ipa
 ipak
 ipan
 ipar
+ipat
 ipe
 ipek
 ipel
@@ -4515,6 +4523,7 @@ klambi
 klambii
 klambimu
 klapa
+klasa
 klaten
 klebus
 klenger
@@ -4900,6 +4909,7 @@ lebar
 lebay
 lebih
 lebok
+lebu
 lebur
 lee
 lega
@@ -5746,6 +5756,7 @@ nanai
 nanam
 nanan
 nanang
+nanangis
 nanas
 nanase
 nancap
@@ -5845,6 +5856,7 @@ ndlosor
 ndoro
 ndugal
 nduk
+ndukani
 ne
 nebang
 neda
@@ -6559,7 +6571,6 @@ ngrit
 ngrok
 ngrokok
 ngrumpi
-ngrungokake
 ngsu
 ngubek
 nguber
@@ -6656,6 +6667,7 @@ nguter
 ngutil
 ngutowo
 ngutus
+nguwi
 nguyu
 nguyuh
 nguyuhi
@@ -6866,6 +6878,7 @@ nup
 nupa
 nupi
 nur
+nurah
 nurani
 nuri
 nuru
@@ -7212,6 +7225,7 @@ oyot
 oz
 ozon
 pa
+pacol
 pacul
 pada
 padae
@@ -7475,6 +7489,7 @@ pidana
 pie
 pien
 pigura
+pih
 pii
 pijak
 pijar
@@ -7825,7 +7840,6 @@ ramuan
 ramutu
 ran
 rana
-ranaa
 ranah
 randa
 randu
@@ -9415,6 +9429,7 @@ ukro
 ukta
 uku
 ukuk
+ukukir
 ukul
 ukum
 ukung
@@ -9531,6 +9546,7 @@ unek
 unen
 uner
 unes
+unesa
 ung
 ungaran
 unggah
@@ -9667,6 +9683,7 @@ usar
 use
 usek
 usem
+usen
 user
 usi
 usia
@@ -9829,6 +9846,7 @@ warisan
 warkop
 warna
 warnae
+warno
 waro
 warti
 waru
@@ -9994,6 +10012,7 @@ wuku
 wula
 wulan
 wulang
+wulu
 wulung
 wuno
 wur
