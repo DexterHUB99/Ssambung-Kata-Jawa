@@ -560,6 +560,7 @@ andalan
 andang
 andani
 andap
+andaran
 andas
 ander
 andha
@@ -3549,6 +3550,7 @@ ipe
 ipek
 ipel
 ipen
+iper
 ipi
 ipik
 ipil
@@ -8054,6 +8056,7 @@ rolo
 rom
 roma
 romah
+roman
 romawi
 rombak
 rombeng
