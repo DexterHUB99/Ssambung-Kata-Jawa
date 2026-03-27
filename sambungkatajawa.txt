@@ -1922,6 +1922,7 @@ dowu
 doyan
 du
 duda
+dudi
 dudo
 dudu
 duduh
@@ -8571,6 +8572,7 @@ sah
 saha
 sahit
 sahur
+sahut
 sai
 saia
 saii
