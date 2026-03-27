@@ -523,6 +523,7 @@ ampal
 ampan
 ampar
 ampas
+ampat
 ampek
 ampel
 ampela
@@ -1128,6 +1129,7 @@ awon
 awor
 awu
 awuh
+awuk
 awur
 ax
 ay
@@ -1138,6 +1140,7 @@ ayahe
 ayak
 ayam
 ayame
+ayamgoreng
 ayan
 ayang
 ayangku
@@ -2151,6 +2154,7 @@ ehi
 ehik
 ehil
 ehim
+ehin
 ehir
 ehit
 eho
@@ -3030,6 +3034,7 @@ gesek
 geseng
 geser
 gesit
+geta
 getan
 getar
 gethuk
@@ -3830,6 +3835,7 @@ inggah
 inggal
 inggih
 inggil
+ingi
 ingin
 ingkang
 ingko
@@ -3946,6 +3952,7 @@ isak
 isake
 isam
 isan
+isana
 isao
 isap
 isapi
@@ -4122,6 +4129,7 @@ jara
 jaran
 jaranan
 jare
+jarene
 jari
 jarii
 jarik
@@ -5851,6 +5859,7 @@ melek
 meler
 melet
 melok
+melon
 melu
 mem
 memacul
@@ -5962,6 +5971,7 @@ mlampah
 mlangkah
 mlebu
 mlumah
+mmati
 mmbuh
 mmelu
 mo
@@ -6023,6 +6033,7 @@ mringis
 mripat
 mu
 mual
+muatan
 mubal
 mubeng
 mucuk
@@ -6309,6 +6320,7 @@ nawi
 nawon
 nawuh
 naya
+ncok
 ndak
 ndalu
 ndang
@@ -6847,6 +6859,7 @@ ngerokok
 ngeroso
 ngerti
 ngertos
+ngerujak
 ngeruk
 ngerung
 nges
@@ -6865,6 +6878,7 @@ nget
 ngeta
 ngetan
 ngetana
+ngete
 ngetel
 ngetih
 ngetok
@@ -7334,6 +7348,7 @@ njupuk
 nki
 nko
 nmu
+nna
 nnai
 nnalika
 nnaliko
@@ -8697,6 +8712,7 @@ ribut
 ridho
 rie
 riem
+rien
 rih
 rihan
 rihi
@@ -8719,6 +8735,7 @@ rim
 rima
 rimaa
 riman
+rimani
 rimao
 rimi
 rimo
@@ -9187,6 +9204,7 @@ sembah
 sembarang
 sembarangan
 sembari
+sembrono
 sembur
 semen
 semi
