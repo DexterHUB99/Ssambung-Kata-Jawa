@@ -801,6 +801,7 @@ aplikasi
 apo
 apolo
 apon
+app
 apu
 apun
 apung
