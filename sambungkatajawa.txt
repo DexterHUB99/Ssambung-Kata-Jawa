@@ -1521,6 +1521,7 @@ bulan
 bulat
 bule
 bulet
+buli
 bulik
 bulu
 bumbu
@@ -2888,6 +2889,7 @@ gatol
 gatot
 gatuk
 gaul
+gaulan
 gaun
 gawa
 gawaa
@@ -6575,6 +6577,7 @@ ngampet
 ngampil
 ngampiri
 ngampung
+ngamu
 ngamuk
 ngan
 ngana
@@ -6628,6 +6631,7 @@ nganter
 nganthi
 nganthuk
 nganti
+ngantil
 nganting
 ngantor
 ngantos
@@ -8413,6 +8417,7 @@ puluh
 puma
 pun
 puna
+punan
 punapa
 puncak
 pundi
@@ -9150,6 +9155,7 @@ saring
 sarip
 saripan
 sarong
+sarota
 saru
 sarung
 sas
@@ -9730,6 +9736,7 @@ takut
 tal
 tala
 talak
+talan
 talas
 tale
 talenan
