@@ -1657,6 +1657,7 @@ dadali
 dadang
 dadar
 dadi
+dadii
 dadis
 dadu
 dagang
@@ -5216,6 +5217,7 @@ lira
 liren
 lirih
 lirik
+liro
 lis
 lisa
 lisan
