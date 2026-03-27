@@ -583,6 +583,7 @@ andap
 andara
 andaran
 andas
+andel
 ander
 andha
 andhap
@@ -1744,6 +1745,7 @@ deki
 dekok
 dela
 dele
+deleng
 delik
 delima
 delman
@@ -3477,6 +3479,7 @@ ijoo
 ik
 ika
 ikaa
+ikaan
 ikae
 ikaen
 ikal
