@@ -2462,6 +2462,7 @@ esek
 esem
 eseman
 esep
+eser
 eses
 esi
 esih
@@ -4358,6 +4359,7 @@ kase
 kasek
 kasem
 kasep
+kasepen
 kasepuh
 kaset
 kasi
@@ -4601,6 +4603,7 @@ kerbau
 kere
 kerek
 keren
+keres
 keret
 kereta
 keri
@@ -6384,6 +6387,7 @@ ngantos
 ngantri
 ngantuk
 ngantun
+ngantung
 nganu
 nganyeli
 ngaos
@@ -7310,6 +7314,7 @@ obor
 oboti
 obral
 obrol
+ocak
 oceh
 oci
 ocok
