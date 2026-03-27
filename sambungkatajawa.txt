@@ -747,6 +747,7 @@ anuwa
 anyam
 anyaman
 anyar
+anyeb
 anyel
 anyem
 anyep
@@ -1837,6 +1838,7 @@ dimasak
 dimna
 din
 dina
+dinaa
 dinar
 dinas
 dinding
@@ -1990,6 +1992,7 @@ eboh
 ebol
 ebom
 ebor
+ebuh
 eca
 ece
 eco
@@ -3864,7 +3867,6 @@ itungan
 itungi
 iut
 iuta
-iv
 iw
 iwak
 iwake
@@ -3927,6 +3929,7 @@ jalii
 jaluk
 jam
 jamak
+jamal
 jaman
 jamat
 jambak
@@ -4696,7 +4699,6 @@ kiye
 klambi
 klambii
 klambimu
-klamite
 klapa
 klasa
 klaten
@@ -5516,6 +5518,7 @@ mangkuk
 mangsa
 mani
 mania
+manii
 manis
 manja
 manjer
@@ -5797,6 +5800,7 @@ muga
 mugi
 mugih
 muh
+mujair
 muji
 muka
 mukak
@@ -5969,7 +5973,6 @@ nan
 nana
 nanah
 nanai
-nanak
 nanam
 nanan
 nanang
@@ -6193,7 +6196,6 @@ ngadek
 ngadem
 ngadep
 ngadepi
-ngadhep
 ngadi
 ngadii
 ngadoh
@@ -6714,6 +6716,7 @@ ngiseni
 ngisep
 ngisi
 ngisih
+ngisii
 ngisik
 ngisin
 ngising
@@ -6752,6 +6755,7 @@ ngocak
 ngoceh
 ngocok
 ngodong
+ngoe
 ngoh
 ngohi
 ngojah
@@ -7554,7 +7558,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakem
 pakle
 paksa
 paku
@@ -8030,7 +8033,6 @@ puri
 purna
 purnama
 purun
-purwa
 pus
 pusa
 pusaka
@@ -8515,6 +8517,7 @@ rumongso
 rumput
 rumus
 run
+runa
 runcing
 runding
 rung
@@ -8531,7 +8534,6 @@ rupak
 rupamu
 rupane
 rupo
-rurah
 ruri
 rus
 rusa
@@ -8678,6 +8680,7 @@ sanggul
 sangit
 sangkuni
 sangu
+sani
 sanjang
 santai
 santen
@@ -10059,7 +10062,6 @@ urun
 urunan
 urung
 urup
-urupi
 urus
 urusan
 uruso
@@ -10073,6 +10075,7 @@ usae
 usah
 usaha
 usai
+usak
 usan
 usani
 usap
@@ -10185,7 +10188,6 @@ uyo
 uyuh
 uyung
 uz
-vila
 visa
 wa
 waa
@@ -10556,6 +10558,7 @@ yuk
 yuka
 yuki
 yuko
+yuku
 yula
 yuli
 yulo
@@ -10570,6 +10573,7 @@ yuni
 yura
 yuri
 yuro
+yus
 yusa
 yusan
 yusi
