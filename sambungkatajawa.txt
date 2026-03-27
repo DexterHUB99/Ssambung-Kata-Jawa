@@ -653,7 +653,6 @@ angkrik
 angkring
 angkringan
 angkuh
-angkut
 angling
 angon
 angop
@@ -1292,7 +1291,6 @@ belan
 belang
 belas
 belek
-beler
 beli
 beling
 belo
@@ -2156,7 +2154,6 @@ ekes
 eket
 eki
 ekih
-ekik
 ekil
 ekir
 ekis
@@ -2316,6 +2313,7 @@ endange
 endap
 endas
 endase
+endek
 endel
 endhok
 endi
@@ -2849,6 +2847,7 @@ gedor
 gedung
 gee
 gega
+gegel
 geger
 gegere
 geguritan
@@ -4742,7 +4741,6 @@ kilan
 kilap
 kilas
 kilat
-kile
 kilen
 kili
 kilir
@@ -6608,7 +6606,6 @@ ngeko
 ngekor
 ngekos
 ngel
-ngeladeni
 ngelag
 ngelak
 ngelam
@@ -6905,7 +6902,6 @@ ngolah
 ngolak
 ngolek
 ngoleke
-ngolet
 ngoli
 ngolik
 ngolo
@@ -7601,7 +7597,6 @@ opotoh
 opoyo
 or
 ora
-oraa
 orah
 orai
 oraiso
@@ -7976,7 +7971,6 @@ pikantuk
 pikep
 piki
 pikiran
-piko
 piku
 pikul
 pikun
@@ -8738,7 +8732,6 @@ saa
 saan
 saapi
 saba
-sabang
 sabar
 sabe
 saben
