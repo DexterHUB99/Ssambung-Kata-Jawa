@@ -1453,6 +1453,7 @@ buruh
 bus
 busa
 busana
+buset
 busi
 buso
 busu
