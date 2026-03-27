@@ -5349,6 +5349,7 @@ loso
 lota
 lotek
 lotis
+lotok
 lowe
 lowo
 lowongan
@@ -6841,6 +6842,7 @@ ngosek
 ngoseng
 ngosi
 ngosok
+ngosoki
 ngot
 ngotak
 ngotori
