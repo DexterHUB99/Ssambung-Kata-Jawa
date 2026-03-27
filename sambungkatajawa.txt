@@ -6072,6 +6072,7 @@ muatan
 mubal
 mubeng
 mucuk
+mudal
 mudeng
 mudha
 mudhun
