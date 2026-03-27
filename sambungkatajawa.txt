@@ -6385,6 +6385,7 @@ ngangsur
 ngangu
 nganguk
 ngangur
+ngani
 nganik
 nganjok
 nganjuk
@@ -9087,6 +9088,7 @@ sirah
 sirahmu
 siram
 siraman
+sirap
 sirat
 sirep
 siri
