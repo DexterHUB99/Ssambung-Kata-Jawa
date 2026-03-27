@@ -1122,6 +1122,7 @@ balik
 balikno
 baline
 balung
+bambang
 ban
 banci
 bandar
@@ -6302,6 +6303,7 @@ nggambar
 nggan
 ngganggu
 nggarap
+nggatel
 nggateli
 nggawa
 nggawe
