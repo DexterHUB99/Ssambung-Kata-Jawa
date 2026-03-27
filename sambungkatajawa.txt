@@ -1013,6 +1013,7 @@ atiku
 atim
 atimu
 atin
+atina
 atine
 atip
 atir
@@ -3192,6 +3193,7 @@ halang
 halangan
 hale
 hali
+halilintar
 halo
 halus
 ham
@@ -8390,6 +8392,7 @@ renan
 renang
 rencang
 renda
+rendah
 rendang
 rendeng
 rendi
