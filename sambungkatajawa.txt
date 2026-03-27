@@ -1216,6 +1216,7 @@ ben
 benang
 bener
 bengek
+bengok
 bengong
 beni
 benik
