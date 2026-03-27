@@ -9322,6 +9322,7 @@ siwa
 siwak
 siwi
 siwo
+siwur
 siyam
 siyang
 slamet
