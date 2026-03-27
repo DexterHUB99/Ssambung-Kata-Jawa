@@ -3778,6 +3778,7 @@ jawa
 jawab
 jawi
 jawir
+jawoh
 je
 jebul
 jela
