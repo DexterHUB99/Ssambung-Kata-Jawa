@@ -6363,6 +6363,7 @@ ngusap
 ngusar
 ngusel
 ngusi
+ngusih
 ngusik
 ngusir
 ngusu
