@@ -885,6 +885,7 @@ as
 asa
 asaa
 asah
+asahan
 asai
 asak
 asal
@@ -1367,6 +1368,7 @@ bola
 bolak
 boleh
 bolo
+bolog
 bolong
 bom
 bongko
