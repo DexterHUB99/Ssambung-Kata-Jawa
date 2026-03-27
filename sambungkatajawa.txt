@@ -1120,7 +1120,6 @@ awon
 awor
 awu
 awuh
-awuk
 awur
 ax
 ay
@@ -1131,7 +1130,6 @@ ayahe
 ayak
 ayam
 ayame
-ayamgoreng
 ayan
 ayang
 ayangku
@@ -3931,7 +3929,6 @@ isak
 isake
 isam
 isan
-isana
 isao
 isap
 isapi
@@ -5824,7 +5821,6 @@ melati
 melek
 meler
 melok
-melon
 melu
 mem
 memacul
@@ -5936,7 +5932,6 @@ mlampah
 mlangkah
 mlebu
 mlumah
-mmati
 mmbuh
 mmelu
 mo
@@ -5997,7 +5992,6 @@ mringis
 mripat
 mu
 mual
-muatan
 mubal
 mubeng
 mucuk
@@ -6835,7 +6829,6 @@ nget
 ngeta
 ngetan
 ngetana
-ngete
 ngetel
 ngetih
 ngetok
@@ -7301,7 +7294,6 @@ njupuk
 nki
 nko
 nmu
-nna
 nnalika
 nnaliko
 nnangka
@@ -8659,7 +8651,6 @@ ribut
 ridho
 rie
 riem
-rien
 rih
 rihan
 rihi
@@ -9148,7 +9139,6 @@ sembah
 sembarang
 sembarangan
 sembari
-sembrono
 sembur
 semen
 semi
