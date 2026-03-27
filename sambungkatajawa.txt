@@ -2120,6 +2120,7 @@ empot
 emprit
 empu
 empuk
+empul
 empun
 emu
 emul
@@ -7192,6 +7193,7 @@ pakan
 pakap
 pakar
 pakde
+pakdhe
 paksa
 paku
 pal
