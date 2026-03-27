@@ -1389,6 +1389,7 @@ cak
 caka
 cakar
 cakep
+cakra
 cakwe
 camat
 campur
@@ -7889,6 +7890,7 @@ saben
 sabet
 sabi
 sabit
+sablon
 sabok
 sabon
 sabtu
