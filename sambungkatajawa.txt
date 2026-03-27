@@ -1531,6 +1531,7 @@ capung
 cara
 cari
 carik
+caruk
 catur
 cawan
 cawet
@@ -6466,6 +6467,7 @@ ngayu
 ngayuh
 ngayun
 ngayung
+ngayur
 ngcok
 nge
 ngebas
@@ -7968,6 +7970,7 @@ poloo
 polri
 pom
 poma
+pomen
 pomo
 pomu
 pon
