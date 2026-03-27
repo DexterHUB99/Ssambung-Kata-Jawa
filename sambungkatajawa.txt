@@ -3685,6 +3685,7 @@ jem
 jembatan
 jembut
 jembutmu
+jempol
 jemput
 jenang
 jeneng
@@ -7222,6 +7223,7 @@ pilek
 pilem
 pili
 pilih
+pilim
 pilok
 pilot
 pilu
