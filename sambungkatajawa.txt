@@ -7909,6 +7909,7 @@ pasuk
 pasukan
 pasuruhan
 pat
+patang
 patek
 paten
 pateni
@@ -8803,6 +8804,7 @@ ruwahan
 ruwat
 ruwatan
 ruwet
+ruwo
 rw
 sa
 saa
