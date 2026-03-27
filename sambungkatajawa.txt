@@ -30,6 +30,7 @@ abo
 aboh
 abon
 abot
+abote
 abrit
 abu
 abuh
@@ -65,6 +66,7 @@ ade
 adek
 adel
 adem
+adep
 adhem
 adhep
 adhi
@@ -400,6 +402,7 @@ aloy
 alpukat
 alu
 aluban
+aluk
 alul
 alum
 alumni
@@ -557,6 +560,7 @@ anci
 ancik
 anco
 ancok
+ancu
 ancuk
 ancur
 ancuran
@@ -568,6 +572,7 @@ andalan
 andang
 andani
 andap
+andara
 andaran
 andas
 ander
@@ -1080,11 +1085,13 @@ ayia
 ayik
 ayo
 ayok
+ayom
 ayu
 ayud
 ayuh
 ayuk
 ayun
+ayunan
 az
 ba
 baa
@@ -1197,7 +1204,6 @@ batur
 bau
 bawa
 bawok
-bawuk
 baya
 bayar
 bayem
@@ -1236,6 +1242,7 @@ belo
 belut
 ben
 benang
+bene
 bener
 bengek
 bengi
@@ -1463,7 +1470,6 @@ cakar
 cakep
 cakra
 cakwe
-calon
 camat
 campur
 can
@@ -1688,6 +1694,7 @@ dawah
 dawak
 dawet
 dawuh
+daya
 dayah
 dayang
 dayu
@@ -1868,6 +1875,7 @@ dudu
 duduh
 duduk
 dudul
+dudun
 dudung
 dudut
 duga
@@ -1889,6 +1897,7 @@ dulang
 duli
 dulu
 dulur
+dulure
 dum
 dumadi
 dumeh
@@ -2157,7 +2166,6 @@ empang
 empedu
 empek
 empeng
-emper
 empet
 emping
 emplok
@@ -2866,6 +2874,7 @@ giwang
 glagah
 glora
 go
+gobak
 goblog
 goblogan
 goblok
@@ -3255,6 +3264,7 @@ hoi
 hoki
 hoko
 hola
+hole
 holi
 holo
 homa
@@ -3275,6 +3285,7 @@ hormat
 horo
 horog
 hot
+hota
 hotel
 hoti
 hotro
@@ -3425,6 +3436,7 @@ ikar
 ikat
 ikatan
 ike
+ikea
 ikel
 iker
 iket
@@ -3638,6 +3650,7 @@ irae
 irah
 iraha
 irahan
+irai
 irak
 iram
 irama
@@ -3769,6 +3782,7 @@ iwake
 iwakmu
 iwan
 iwane
+iwangi
 iwas
 iwel
 iwenan
@@ -3864,6 +3878,7 @@ jawa
 jawab
 jawi
 jawir
+jawoh
 je
 jebul
 jela
@@ -5035,6 +5050,7 @@ lik
 lika
 likan
 likis
+liko
 liku
 lila
 lili
@@ -6116,7 +6132,6 @@ nganah
 nganan
 ngancani
 ngancing
-ngancuk
 ngandang
 ngandani
 ngandap
@@ -6159,6 +6174,7 @@ nganthi
 nganthuk
 nganti
 ngantor
+ngantos
 ngantri
 ngantuk
 ngantun
@@ -6352,7 +6368,6 @@ ngendo
 ngendog
 ngendong
 ngene
-ngenei
 ngenen
 ngenes
 ngeng
@@ -6598,6 +6613,7 @@ ngompol
 ngompor
 ngon
 ngonde
+ngonek
 ngong
 ngoni
 ngono
@@ -6634,6 +6650,7 @@ ngoyo
 ngpel
 ngragal
 ngragas
+ngrasa
 ngrayu
 ngregeti
 ngrep
@@ -6895,6 +6912,7 @@ nos
 nosa
 nose
 nosi
+not
 nota
 note
 noya
@@ -6922,6 +6940,7 @@ nul
 nula
 nuli
 nulis
+nulisi
 nulo
 nulung
 nulungi
@@ -7382,6 +7401,7 @@ panci
 pancing
 pandan
 pandang
+pandangan
 pandawa
 pandu
 panduan
@@ -7429,6 +7449,7 @@ papua
 par
 para
 parah
+parai
 parang
 parani
 paras
@@ -7743,6 +7764,7 @@ porno
 poro
 pos
 pose
+posen
 posi
 posok
 pot
@@ -7966,6 +7988,7 @@ rapuh
 rara
 rarambut
 raras
+rari
 ras
 rasa
 rasah
@@ -8027,6 +8050,7 @@ reget
 regi
 rehi
 rei
+rejo
 rek
 reka
 rekak
@@ -8113,6 +8137,7 @@ rii
 rik
 rika
 rikala
+rikate
 riki
 rikma
 riko
@@ -8145,6 +8170,7 @@ ringo
 rini
 rinja
 rino
+rinta
 rio
 rip
 ripa
@@ -8389,6 +8415,7 @@ salira
 salo
 salom
 salun
+salur
 salut
 sam
 sama
@@ -8475,6 +8502,7 @@ sasi
 sastra
 sasu
 sate
+satoan
 satru
 satu
 satus
@@ -8558,6 +8586,7 @@ semen
 semi
 semok
 semol
+semot
 sempak
 sempake
 semprul
@@ -9386,6 +9415,7 @@ turun
 turuo
 tus
 tusa
+tusi
 tusu
 tusuk
 tut
@@ -9509,6 +9539,7 @@ uken
 ukep
 uker
 ukes
+uket
 ukhi
 uki
 ukin
@@ -10179,6 +10210,7 @@ yaping
 yar
 yari
 yas
+yasa
 yasin
 yat
 yati
