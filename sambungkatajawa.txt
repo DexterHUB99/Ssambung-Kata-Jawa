@@ -626,6 +626,7 @@ aneng
 anes
 anga
 angan
+angar
 angaran
 ange
 angel
@@ -8505,6 +8506,7 @@ rekan
 rekasa
 rekmo
 rekoso
+reksa
 rela
 relo
 rem
