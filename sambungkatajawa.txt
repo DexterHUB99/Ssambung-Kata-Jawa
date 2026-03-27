@@ -1104,6 +1104,7 @@ baline
 balung
 ban
 banci
+bandar
 bandel
 bando
 bandung
@@ -4767,6 +4768,7 @@ le
 leak
 lebah
 lebar
+lebay
 lebih
 lebok
 lebur
