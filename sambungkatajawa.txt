@@ -1800,7 +1800,6 @@ depak
 depi
 der
 dereng
-dermawan
 des
 desa
 desi
@@ -2911,7 +2910,6 @@ gerem
 gergaji
 geri
 gerih
-gerimis
 gering
 germo
 gerobak
@@ -4030,7 +4028,6 @@ jenengan
 jengkel
 jera
 jerami
-jerih
 jero
 jeroan
 jeruk
@@ -5030,7 +5027,6 @@ lami
 lamis
 lamon
 lamongan
-lampah
 lampir
 lampiran
 lampit
@@ -5559,7 +5555,6 @@ mangkrak
 mangku
 mangkuk
 mangsa
-mangu
 mani
 mania
 manis
@@ -6305,7 +6300,6 @@ ngam
 ngama
 ngamah
 ngamal
-ngaman
 ngamar
 ngambang
 ngambar
@@ -6332,7 +6326,6 @@ ngan
 ngana
 nganah
 nganan
-ngancam
 ngancani
 ngancing
 ngancuk
@@ -6358,7 +6351,6 @@ ngangsang
 ngangso
 ngangsu
 ngangsur
-ngangu
 nganguk
 ngangur
 nganik
@@ -6945,7 +6937,6 @@ ngunci
 ngundah
 ngundang
 ngunduh
-ngung
 nguni
 ngunjuk
 ngunjung
@@ -7310,6 +7301,7 @@ obor
 oboti
 obral
 obrol
+ocak
 oceh
 oci
 ocok
@@ -7667,7 +7659,6 @@ pandan
 pandang
 pandangan
 pandawa
-pande
 pandu
 panduan
 pane
@@ -9147,7 +9138,6 @@ sotel
 soto
 sowan
 soyo
-srambi
 srawung
 sregep
 srengenge
