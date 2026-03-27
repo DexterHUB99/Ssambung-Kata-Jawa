@@ -115,6 +115,7 @@ ageng
 agi
 agik
 agit
+agni
 ago
 agos
 agu
@@ -651,6 +652,7 @@ angsa
 angsal
 angsi
 angsle
+angsul
 angsur
 angsuran
 angu
@@ -802,7 +804,6 @@ ar
 ara
 araa
 arab
-arabi
 arag
 arah
 arahan
@@ -1070,7 +1071,6 @@ awal
 awalan
 awan
 awas
-away
 awe
 awek
 awet
@@ -1819,6 +1819,7 @@ dika
 dikan
 diko
 dikon
+dikur
 dila
 dilah
 dilan
@@ -2874,7 +2875,6 @@ gentong
 genuk
 geo
 geol
-gepeng
 gepuk
 ger
 gerah
@@ -3932,7 +3932,6 @@ jaki
 jaku
 jala
 jalak
-jalan
 jaler
 jalii
 jaluk
@@ -4111,6 +4110,7 @@ kabare
 kabeh
 kabi
 kabor
+kabuh
 kabun
 kabur
 kabut
@@ -4444,6 +4444,7 @@ kek
 keke
 kekek
 kekel
+kekep
 keker
 keki
 kekunci
@@ -4456,6 +4457,7 @@ kelana
 kelangan
 kelap
 kelar
+kelaran
 kelas
 kelat
 kelawan
@@ -4951,6 +4953,7 @@ laba
 labi
 labu
 labue
+labuh
 lada
 ladi
 lading
@@ -5404,6 +5407,7 @@ lus
 lusa
 lusi
 lusuh
+lut
 luti
 luwe
 luweh
@@ -5572,6 +5576,7 @@ mas
 masa
 masah
 masak
+masakan
 mase
 masi
 masih
@@ -5634,6 +5639,7 @@ melati
 melek
 meler
 melok
+melon
 melu
 mem
 memacul
@@ -5943,7 +5949,6 @@ nalam
 nalan
 nalang
 nalar
-naleni
 nali
 nalii
 nalik
@@ -6326,6 +6331,7 @@ nganik
 nganjok
 nganjuk
 nganjur
+nganjut
 nganko
 ngano
 nganon
@@ -6551,7 +6557,6 @@ ngengek
 ngenget
 ngenggeh
 ngengken
-ngengko
 ngengkol
 ngengobrol
 ngenko
@@ -6634,6 +6639,7 @@ nggali
 nggambar
 nggan
 ngganggu
+nggantung
 nggarap
 nggatel
 nggateli
@@ -6734,6 +6740,7 @@ ngisin
 ngising
 ngisingan
 ngisir
+ngisis
 ngisor
 ngisu
 ngisuh
@@ -6944,7 +6951,6 @@ ngusik
 ngusir
 ngusu
 ngusung
-ngusungi
 ngut
 nguta
 ngutang
@@ -6985,6 +6991,7 @@ nil
 nila
 nilai
 nilam
+nilan
 nilar
 nilas
 nilem
@@ -7066,6 +7073,7 @@ nnggih
 nni
 nnina
 nnumpak
+nnur
 no
 nodol
 noh
@@ -7456,7 +7464,6 @@ opol
 opone
 opoo
 opor
-opos
 opose
 oposi
 opotoh
@@ -7737,6 +7744,7 @@ pejah
 peju
 pek
 peka
+peken
 pekik
 peko
 pekok
@@ -8286,6 +8294,7 @@ rekasa
 rekmo
 rekoso
 rela
+relek
 relo
 rem
 rema
@@ -8693,6 +8702,7 @@ sang
 sanga
 sangar
 sanggul
+sanggup
 sangit
 sangkuni
 sangu
@@ -8705,6 +8715,7 @@ santun
 saos
 sap
 sapa
+sapapa
 sapeh
 sapi
 sapih
@@ -9446,7 +9457,6 @@ tepel
 tepung
 ter
 tera
-terak
 teraken
 teran
 terang
@@ -9693,6 +9703,7 @@ tuti
 tutuk
 tutup
 tutur
+tuturi
 tuwa
 tuwan
 tuwo
@@ -9988,7 +9999,6 @@ unjukan
 unjung
 unla
 unma
-unmi
 unna
 uno
 unta
@@ -10115,7 +10125,6 @@ usik
 usil
 using
 usir
-uska
 usli
 usma
 usmi
@@ -10365,8 +10374,10 @@ wewe
 wewedang
 wewenang
 wi
+wian
 wibawa
 wicara
+widiya
 widok
 wie
 wifi
@@ -10503,7 +10514,6 @@ yara
 yari
 yas
 yasa
-yasi
 yasin
 yat
 yata
