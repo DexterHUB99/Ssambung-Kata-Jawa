@@ -10169,6 +10169,7 @@ ubii
 ublik
 ubun
 ubur
+uc
 uca
 ucap
 ucapan
