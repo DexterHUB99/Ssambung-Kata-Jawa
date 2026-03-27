@@ -6259,6 +6259,7 @@ ngeden
 ngedol
 ngeeh
 ngegas
+ngeger
 ngegunung
 ngeh
 ngei
