@@ -184,7 +184,6 @@ aho
 ahoa
 ahoha
 ahok
-ahom
 ahoo
 ahop
 ahor
@@ -1522,7 +1521,6 @@ bulan
 bulat
 bule
 bulet
-buli
 bulik
 bulu
 bumbu
@@ -1704,6 +1702,7 @@ cocote
 cod
 cok
 cokan
+cokelat
 coklat
 cokor
 cokot
@@ -1983,7 +1982,6 @@ doda
 dodi
 dodik
 dodo
-dodok
 dodol
 dodolan
 dodole
@@ -2566,7 +2564,6 @@ esdawet
 ese
 eseh
 esek
-esel
 esem
 eseman
 esep
@@ -2892,7 +2889,6 @@ gatol
 gatot
 gatuk
 gaul
-gaulan
 gaun
 gawa
 gawaa
@@ -2923,7 +2919,6 @@ gede
 gedeg
 gedek
 geden
-geder
 gedhang
 gedhe
 gedhi
@@ -3657,7 +3652,6 @@ ihma
 ihmu
 ihni
 iho
-ihra
 ihre
 ihsan
 ihta
@@ -3811,6 +3805,7 @@ impel
 impi
 impian
 impis
+impit
 impul
 impun
 impung
@@ -4005,7 +4000,6 @@ isis
 isisa
 isisin
 isisis
-isiso
 isit
 isla
 islam
@@ -6583,7 +6577,6 @@ ngampet
 ngampil
 ngampiri
 ngampung
-ngamu
 ngamuk
 ngan
 ngana
@@ -6637,7 +6630,6 @@ nganter
 nganthi
 nganthuk
 nganti
-ngantil
 nganting
 ngantor
 ngantos
@@ -7230,6 +7222,7 @@ ngundah
 ngundang
 ngunduh
 ngune
+ngunem
 ngung
 nguni
 ngunjuk
@@ -7677,7 +7670,6 @@ okin
 okina
 okit
 okok
-okokan
 okoke
 okol
 okon
@@ -8025,7 +8017,6 @@ pantu
 pantun
 pantura
 panutan
-panuwun
 papa
 papah
 papan
@@ -8425,7 +8416,6 @@ puluh
 puma
 pun
 puna
-punan
 punapa
 puncak
 pundi
@@ -9163,7 +9153,6 @@ saring
 sarip
 saripan
 sarong
-sarota
 saru
 sarung
 sas
@@ -9197,6 +9186,7 @@ sawis
 sawise
 sawit
 sawo
+sawung
 saya
 sayaa
 sayah
@@ -9744,7 +9734,6 @@ takut
 tal
 tala
 talak
-talan
 talas
 tale
 talenan
@@ -10036,6 +10025,7 @@ tokoh
 tola
 tolak
 tole
+toleh
 toli
 tolol
 tolong
@@ -10113,6 +10103,7 @@ tuman
 tumbal
 tumbas
 tumbu
+tumen
 tumenggung
 tumi
 tumindak
@@ -10180,6 +10171,7 @@ ubii
 ublik
 ubun
 ubur
+uc
 uca
 ucap
 ucapan
@@ -10416,7 +10408,6 @@ uncal
 undak
 undakan
 undang
-undanga
 undangan
 undi
 undia
@@ -10958,6 +10949,7 @@ wutan
 wuto
 wutuh
 xenon
+xixixi
 xray
 ya
 yaa
