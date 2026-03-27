@@ -934,6 +934,7 @@ ata
 ataa
 atah
 ataha
+atai
 atak
 atake
 atal
@@ -3854,6 +3855,7 @@ juli
 julu
 jumat
 jumbo
+jumeneng
 jumpa
 jungkel
 jurang
