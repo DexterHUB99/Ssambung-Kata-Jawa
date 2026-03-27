@@ -5697,6 +5697,7 @@ na
 naa
 nab
 naba
+naban
 nabi
 nabii
 nabok
@@ -8334,6 +8335,7 @@ salaman
 sale
 saleh
 salem
+salen
 salep
 sali
 salim
