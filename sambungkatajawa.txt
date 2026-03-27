@@ -26,6 +26,7 @@ abil
 abim
 abimanyu
 abin
+abing
 abir
 abis
 abit
@@ -669,7 +670,6 @@ angsa
 angsal
 angsi
 angsle
-angso
 angsur
 angsuran
 angu
@@ -1497,7 +1497,6 @@ buki
 bukit
 buko
 buku
-bula
 bulak
 bulan
 bulat
@@ -5465,7 +5464,6 @@ logok
 loh
 loha
 lohan
-loho
 loi
 loji
 lok
@@ -8013,7 +8011,6 @@ pecah
 pecel
 peci
 pedagang
-pedah
 pedang
 pede
 pedes
@@ -8112,7 +8109,6 @@ pijer
 pijet
 pijit
 pijun
-pika
 pikantuk
 pikep
 piki
@@ -9032,7 +9028,6 @@ santun
 saos
 sap
 sapa
-sapai
 sapeh
 sapi
 sapih
@@ -9708,7 +9703,6 @@ tasi
 tat
 tata
 tatah
-tatak
 tatan
 tatanan
 tatas
@@ -10546,7 +10540,6 @@ utowo
 utta
 utu
 utuh
-utuku
 uturi
 utus
 utusan
