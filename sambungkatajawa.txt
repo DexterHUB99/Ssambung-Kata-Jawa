@@ -486,7 +486,6 @@ amoh
 amok
 among
 amor
-amos
 amp
 ampa
 ampal
@@ -571,6 +570,7 @@ andas
 ander
 andha
 andhap
+andhi
 andhiko
 andhok
 andhong
@@ -665,7 +665,6 @@ anjing
 anjinga
 anjinge
 anjir
-anjlog
 anjlok
 anjng
 anjok
@@ -700,7 +699,6 @@ anteng
 antep
 anter
 anti
-antii
 antik
 antiku
 antimo
@@ -1262,6 +1260,7 @@ bibi
 bibik
 bibir
 bibis
+bibit
 bibu
 bidan
 biduk
@@ -1272,6 +1271,7 @@ bihun
 bijak
 biji
 bik
+bika
 biki
 bikin
 bil
@@ -2395,6 +2395,7 @@ etoh
 etok
 etokno
 etol
+etom
 eton
 etos
 etot
@@ -2563,6 +2564,7 @@ ganjar
 ganjel
 ganjil
 gano
+ganong
 ganta
 gantang
 gante
@@ -3439,7 +3441,6 @@ ilamu
 ilan
 ilang
 ilange
-ilangono
 ilap
 ilar
 ilas
@@ -3458,7 +3459,6 @@ ilili
 ilin
 iling
 ilingan
-ilingen
 ilir
 ilis
 ilmu
@@ -3642,6 +3642,7 @@ irub
 iruk
 irum
 irung
+irungan
 irunge
 irungmu
 irup
@@ -4013,7 +4014,6 @@ kaku
 kakung
 kal
 kala
-kalaa
 kalah
 kalajengking
 kalan
@@ -4051,6 +4051,7 @@ kambil
 kambing
 kambu
 kambuh
+kamen
 kamer
 kami
 kamia
@@ -4092,7 +4093,6 @@ kang
 kange
 kangen
 kangge
-kanggen
 kanggih
 kanggo
 kangkung
@@ -4166,6 +4166,7 @@ kase
 kasek
 kasem
 kasep
+kasepuh
 kaset
 kasi
 kasih
@@ -4598,7 +4599,6 @@ kontolmu
 kontrol
 konyol
 kop
-kopan
 kopeng
 koper
 kopet
@@ -5058,7 +5058,6 @@ lise
 lisi
 lit
 lita
-litah
 liwa
 liwat
 liwet
@@ -5418,7 +5417,6 @@ mega
 meh
 meja
 mek
-mekan
 mekar
 meki
 mekso
@@ -6187,7 +6185,6 @@ ngatemi
 ngati
 ngatok
 ngatos
-ngatu
 ngatuk
 ngatur
 ngaturaken
@@ -6427,7 +6424,6 @@ ngila
 ngilag
 ngilang
 ngilange
-ngilap
 ngilat
 ngiler
 ngiling
@@ -6454,6 +6450,7 @@ ngintip
 nginum
 ngipas
 ngipasi
+ngipet
 ngir
 ngira
 ngiras
@@ -6585,7 +6582,6 @@ ngrit
 ngrok
 ngrokok
 ngrumpi
-ngrungokake
 ngsu
 ngubek
 nguber
@@ -6607,6 +6603,7 @@ ngukur
 ngul
 ngula
 ngulah
+ngulak
 ngulam
 ngulang
 ngulangi
@@ -6776,7 +6773,6 @@ nitik
 nitip
 niya
 niyat
-njajal
 njaluk
 njero
 njingan
@@ -7000,6 +6996,7 @@ ohhh
 oho
 ohya
 oj
+ojak
 ojek
 ojet
 ojik
@@ -7857,7 +7854,6 @@ ramuan
 ramutu
 ran
 rana
-ranaa
 ranah
 randa
 randu
@@ -8120,7 +8116,6 @@ roki
 roko
 rokok
 rola
-rolaa
 rolas
 roli
 rolo
@@ -9212,6 +9207,7 @@ topi
 topii
 topo
 tora
+toran
 tore
 toro
 tos
@@ -9230,6 +9226,7 @@ tuak
 tub
 tuban
 tube
+tubi
 tubruk
 tubuh
 tugel
@@ -9764,6 +9761,7 @@ utel
 utem
 uten
 uter
+uthil
 uti
 utih
 utik
@@ -9855,12 +9853,10 @@ wanie
 wanita
 wapi
 war
-wara
 waras
 wareg
 warek
 warga
-wari
 waria
 waris
 warisan
@@ -10033,7 +10029,6 @@ wuku
 wula
 wulan
 wulang
-wuli
 wulu
 wulung
 wuno
@@ -10116,6 +10111,7 @@ yoi
 yoiku
 yok
 yoki
+yola
 yoli
 yolo
 yom
