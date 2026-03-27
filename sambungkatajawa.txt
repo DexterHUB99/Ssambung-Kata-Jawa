@@ -69,7 +69,6 @@ ade
 adek
 adel
 adem
-aden
 adep
 adhap
 adhem
@@ -212,7 +211,6 @@ aili
 ailo
 ailon
 aima
-aimo
 aimu
 aina
 aing
@@ -706,7 +704,6 @@ anol
 anom
 anoman
 anop
-anos
 ansur
 ansuran
 anta
@@ -1582,7 +1579,6 @@ ci
 ciblok
 cica
 cicak
-cicek
 cici
 cicii
 cicil
@@ -1663,7 +1659,6 @@ cupu
 curi
 curut
 cuti
-dablek
 dada
 dadah
 dadali
@@ -2882,7 +2877,6 @@ genuk
 geo
 geol
 gepeng
-geprek
 gepuk
 ger
 gerah
@@ -5241,7 +5235,6 @@ lintasan
 lio
 lip
 lipa
-lipak
 lipan
 lipas
 lipat
@@ -6764,7 +6757,6 @@ nglampah
 nglamun
 nglantur
 nglawuhi
-ngledek
 nglim
 nglindur
 ngliwet
@@ -8015,7 +8007,6 @@ prei
 pria
 prio
 pripun
-pu
 pua
 puan
 puasa
@@ -8338,7 +8329,6 @@ renan
 renang
 rencang
 renda
-rendah
 rendang
 rendeng
 rendi
@@ -9254,7 +9244,6 @@ sut
 sutan
 suten
 sutil
-suting
 sutra
 suw
 suwe
