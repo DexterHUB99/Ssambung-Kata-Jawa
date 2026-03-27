@@ -1204,6 +1204,7 @@ batur
 bau
 bawa
 bawok
+bawuk
 baya
 bayar
 bayem
@@ -1470,6 +1471,7 @@ cakar
 cakep
 cakra
 cakwe
+calon
 camat
 campur
 can
@@ -2166,6 +2168,7 @@ empang
 empedu
 empek
 empeng
+emper
 empet
 emping
 emplok
@@ -6132,6 +6135,7 @@ nganah
 nganan
 ngancani
 ngancing
+ngancuk
 ngandang
 ngandani
 ngandap
@@ -6368,6 +6372,7 @@ ngendo
 ngendog
 ngendong
 ngene
+ngenei
 ngenen
 ngenes
 ngeng
@@ -8568,6 +8573,7 @@ selasa
 selat
 selawe
 seleb
+selendang
 selet
 seling
 selo
