@@ -2377,6 +2377,7 @@ epem
 epen
 epep
 eper
+epes
 epet
 epi
 epic
@@ -4841,6 +4842,7 @@ korek
 koreng
 kori
 kos
+kosa
 kosan
 kosek
 kosekan
@@ -4988,6 +4990,7 @@ kuwe
 kuwi
 kuwo
 kuya
+kuyo
 kwe
 kyai
 la
@@ -5158,6 +5161,7 @@ lega
 legi
 leh
 lek
+leker
 lekoh
 lelah
 lele
@@ -7123,7 +7127,6 @@ nki
 nko
 nmu
 nnalika
-nnaliko
 nnangka
 nnani
 nnduk
@@ -7514,6 +7517,7 @@ opem
 open
 openi
 oper
+opes
 opet
 opik
 opini
