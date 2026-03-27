@@ -4094,6 +4094,7 @@ kebo
 kebon
 kebong
 kebun
+kecap
 kece
 keceh
 kecelek
@@ -4624,6 +4625,7 @@ lak
 laka
 laki
 lakon
+lakoni
 laku
 lakui
 lalah
@@ -7520,6 +7522,7 @@ raja
 rajab
 rajaku
 rajang
+rajib
 rajim
 rajin
 raju
