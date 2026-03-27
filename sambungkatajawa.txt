@@ -1761,6 +1761,7 @@ dompet
 don
 dona
 dong
+donga
 dongo
 doni
 dono
@@ -5348,6 +5349,7 @@ miring
 mis
 misa
 misah
+misen
 misi
 miskin
 misu
@@ -8863,6 +8865,7 @@ tire
 tiri
 tiru
 tisa
+tisan
 tisu
 tit
 tita
