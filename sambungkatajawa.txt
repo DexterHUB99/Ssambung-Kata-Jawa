@@ -1800,6 +1800,7 @@ depak
 depi
 der
 dereng
+dermawan
 des
 desa
 desi
@@ -6353,6 +6354,7 @@ ngangsang
 ngangso
 ngangsu
 ngangsur
+ngangu
 nganguk
 ngangur
 nganik
@@ -6939,6 +6941,7 @@ ngunci
 ngundah
 ngundang
 ngunduh
+ngung
 nguni
 ngunjuk
 ngunjung
@@ -7660,6 +7663,7 @@ pandan
 pandang
 pandangan
 pandawa
+pande
 pandu
 panduan
 pane
