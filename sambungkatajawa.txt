@@ -1126,6 +1126,7 @@ awas
 away
 awe
 awek
+awem
 awet
 awi
 awik
@@ -4671,6 +4672,7 @@ kekunci
 kel
 kela
 kelabang
+kelah
 kelakon
 kelalen
 kelam
@@ -6787,6 +6789,7 @@ ngayung
 ngayur
 ngcok
 nge
+ngeasin
 ngebas
 ngebet
 ngeblok
