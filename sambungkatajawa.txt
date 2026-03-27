@@ -5939,6 +5939,7 @@ nalam
 nalan
 nalang
 nalar
+naleni
 nali
 nalii
 nalik
