@@ -1086,6 +1086,7 @@ ausi
 aut
 auta
 autan
+autna
 auto
 ava
 aw
@@ -2760,6 +2761,7 @@ gangsal
 gangsar
 gangsing
 gani
+ganing
 ganja
 ganjar
 ganjel
