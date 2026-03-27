@@ -2350,6 +2350,7 @@ gabus
 gabut
 gacoan
 gada
+gadag
 gadah
 gadai
 gadang
@@ -3209,6 +3210,7 @@ igo
 ih
 iha
 ihaa
+ihae
 ihan
 ihe
 ihem
