@@ -4308,6 +4308,7 @@ kabar
 kabare
 kabeh
 kabel
+kabes
 kabi
 kabor
 kabuk
@@ -7100,6 +7101,7 @@ ngobat
 ngober
 ngobok
 ngobong
+ngobral
 ngobrol
 ngocak
 ngoceh
