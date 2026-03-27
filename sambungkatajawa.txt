@@ -4681,6 +4681,7 @@ lari
 laris
 laron
 larut
+larutan
 las
 lasa
 lasak
@@ -5620,6 +5621,7 @@ ndang
 ndas
 ndasmu
 ndeleng
+ndelik
 ndelok
 nderek
 ndeso
