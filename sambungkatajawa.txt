@@ -673,7 +673,6 @@ ansuran
 anta
 antah
 antam
-antang
 antar
 antara
 antareja
@@ -2515,7 +2514,6 @@ gantolan
 gantung
 gantunga
 gantungan
-ganwi
 ganyong
 gap
 gapa
@@ -5175,7 +5173,6 @@ males
 malesi
 mali
 malih
-malii
 malik
 maling
 malu
@@ -5800,7 +5797,6 @@ nendang
 nene
 nenek
 nenen
-neneng
 neng
 nengah
 nengdi
@@ -6743,7 +6739,6 @@ nung
 nunggang
 nunggangi
 nunggu
-nungkak
 nungu
 nuni
 nunjuk
@@ -7002,7 +6997,6 @@ opa
 opah
 opak
 opal
-opat
 opel
 opem
 open
@@ -7096,7 +7090,6 @@ oyot
 oz
 ozon
 pa
-paapa
 pacul
 pada
 padae
@@ -7137,7 +7130,6 @@ palah
 palak
 palamu
 palang
-palapa
 pale
 paleh
 palem
@@ -8329,7 +8321,6 @@ seno
 senok
 senopati
 sepadu
-sepak
 sepanci
 sepat
 sepatu
@@ -9261,7 +9252,6 @@ ukoh
 ukol
 ukom
 ukop
-ukra
 ukro
 ukta
 uku
@@ -9436,7 +9426,6 @@ upama
 upami
 upan
 upas
-upawa
 upaya
 upe
 upek
