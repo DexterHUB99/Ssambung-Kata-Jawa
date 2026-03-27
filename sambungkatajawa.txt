@@ -762,6 +762,7 @@ aras
 arasen
 ardi
 are
+areg
 arek
 arem
 arema
@@ -936,7 +937,6 @@ atim
 atimu
 atin
 atine
-atip
 atir
 atis
 atise
@@ -1080,7 +1080,6 @@ balek
 bali
 balik
 balikno
-baline
 balung
 ban
 banci
@@ -2491,7 +2490,6 @@ gasi
 gasik
 gasing
 gasir
-gasmi
 gass
 gasta
 gata
@@ -3282,7 +3280,6 @@ ilik
 ilili
 ilin
 iling
-ilingan
 ilir
 ilis
 ilmu
@@ -3570,7 +3567,6 @@ iyu
 iyuh
 iyuk
 iz
-ja
 jaa
 jabur
 jadi
@@ -4114,7 +4110,6 @@ kemeja
 kemem
 kemeruh
 kemiri
-kemis
 kemoh
 kemos
 kempes
@@ -6931,6 +6926,7 @@ palung
 palur
 pamali
 paman
+pamer
 pameran
 pami
 pamit
@@ -7134,7 +7130,6 @@ pijet
 pijit
 pikantuk
 piki
-piku
 pikul
 pikun
 pikur
@@ -7242,7 +7237,6 @@ pola
 polah
 polan
 polar
-pole
 poleh
 poles
 poli
@@ -7436,7 +7430,6 @@ rambut
 rambuta
 rambutan
 rame
-ramen
 ramene
 rames
 ramni
@@ -7462,7 +7455,6 @@ rangi
 rangkul
 rangu
 rani
-ranja
 ranjang
 ransel
 rantai
@@ -7812,6 +7804,7 @@ ruwahan
 ruwat
 ruwatan
 ruwet
+rw
 sa
 saa
 saan
@@ -8035,7 +8028,6 @@ sembur
 semen
 semi
 semok
-semol
 sempak
 sempake
 semprul
@@ -8052,7 +8044,6 @@ sendok
 seneg
 seneng
 seng
-senin
 senjata
 seno
 senok
@@ -8311,7 +8302,6 @@ suker
 suket
 suki
 sukma
-sukman
 suko
 suku
 sukun
@@ -8401,7 +8391,6 @@ susumu
 susune
 sut
 sutan
-suten
 sutil
 suw
 suwe
@@ -8541,7 +8530,6 @@ tayi
 tayo
 te
 tebang
-tebing
 tebu
 tegak
 tegal
@@ -9275,7 +9263,6 @@ utna
 uto
 utoh
 utowo
-utta
 utu
 utuh
 uturi
