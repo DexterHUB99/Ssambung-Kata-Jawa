@@ -6018,6 +6018,7 @@ nganjur
 nganko
 ngano
 nganon
+ngantang
 ngantar
 ngantem
 ngantemi
@@ -6628,6 +6629,7 @@ nilas
 nilem
 nilep
 nili
+nilo
 nim
 nima
 niman
