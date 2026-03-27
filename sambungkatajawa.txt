@@ -1051,6 +1051,7 @@ awet
 awi
 awis
 awit
+awo
 awon
 awor
 awu
@@ -9005,6 +9006,7 @@ tape
 tapi
 tapih
 tapir
+tapis
 tapuk
 tar
 tara
