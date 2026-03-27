@@ -2019,6 +2019,7 @@ elan
 elane
 elang
 elap
+elas
 ele
 eleh
 elek
@@ -5397,6 +5398,7 @@ mesem
 meski
 meso
 mesum
+met
 meta
 metek
 meteng
@@ -5888,6 +5890,7 @@ newa
 ngabab
 ngabdi
 ngaben
+ngabes
 ngabet
 ngablak
 ngabur
