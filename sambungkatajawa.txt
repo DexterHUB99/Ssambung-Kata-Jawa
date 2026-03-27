@@ -364,7 +364,6 @@ alak
 alal
 alam
 alama
-alaman
 alami
 alamo
 alan
@@ -393,7 +392,6 @@ ali
 alia
 alien
 alif
-alig
 alih
 aliho
 alii
@@ -448,7 +446,6 @@ amalan
 amam
 amama
 aman
-amana
 amanah
 amanat
 amane
@@ -525,7 +522,6 @@ ampal
 ampan
 ampar
 ampas
-ampat
 ampek
 ampel
 ampela
@@ -569,7 +565,6 @@ anakmu
 anal
 anam
 anama
-anaman
 anan
 anane
 anang
@@ -583,7 +578,6 @@ ancak
 ancam
 ancaman
 ancang
-ancas
 ancase
 ancen
 ancene
@@ -774,7 +768,6 @@ anut
 anuwa
 anyam
 anyaman
-anyamana
 anyar
 anyel
 anyem
@@ -891,7 +884,6 @@ arjuno
 arka
 arma
 aro
-arogan
 aroh
 arok
 arom
@@ -1132,7 +1124,6 @@ awon
 awor
 awu
 awuh
-awuk
 awur
 ax
 ay
@@ -1143,7 +1134,6 @@ ayahe
 ayak
 ayam
 ayame
-ayamgoreng
 ayan
 ayang
 ayangku
@@ -1259,7 +1249,6 @@ banya
 banyak
 banyu
 bapak
-bar
 bara
 barang
 barat
@@ -2043,7 +2032,6 @@ duku
 dukuh
 dukun
 dukur
-dukut
 dulan
 dulang
 duli
@@ -2087,7 +2075,6 @@ duwet
 duwit
 duwur
 ealah
-ebas
 eben
 ebi
 eboh
@@ -2159,7 +2146,6 @@ ehi
 ehik
 ehil
 ehim
-ehin
 ehir
 ehit
 eho
@@ -2743,7 +2729,6 @@ galungan
 galur
 gama
 gaman
-gamanan
 gamane
 gambang
 gambar
@@ -2946,7 +2931,6 @@ gelut
 gem
 gema
 gemah
-geman
 gemar
 gemas
 gemati
@@ -3040,7 +3024,6 @@ gesek
 geseng
 geser
 gesit
-geta
 getan
 getar
 gethuk
@@ -3843,7 +3826,6 @@ inggah
 inggal
 inggih
 inggil
-ingi
 ingin
 ingkang
 ingko
@@ -3960,7 +3942,6 @@ isak
 isake
 isam
 isan
-isana
 isao
 isap
 isapi
@@ -3988,7 +3969,6 @@ isino
 isis
 isisa
 isisin
-isisis
 isit
 isla
 islam
@@ -4137,7 +4117,6 @@ jara
 jaran
 jaranan
 jare
-jarene
 jari
 jarii
 jarik
@@ -4153,7 +4132,6 @@ jawab
 jawi
 jawir
 jawoh
-jaya
 je
 jebul
 jela
@@ -4283,7 +4261,6 @@ kabare
 kabeh
 kabi
 kabor
-kabuk
 kabun
 kabur
 kabut
@@ -4305,7 +4282,6 @@ kadas
 kadek
 kades
 kadi
-kadiri
 kadong
 kados
 kadung
@@ -4787,7 +4763,6 @@ keruk
 kerupuk
 kerut
 kes
-kesa
 kesah
 kesambet
 kesan
@@ -4801,10 +4776,8 @@ keselek
 kesem
 kesempatan
 keset
-kesil
 kesleo
 kesuh
-kesuk
 kesusu
 ket
 keta
@@ -4947,7 +4920,6 @@ kolek
 koli
 koloh
 kolong
-kolongan
 kolop
 kolot
 kom
@@ -4969,7 +4941,6 @@ kondhang
 kondi
 kondisi
 kondur
-kone
 konek
 koni
 kono
@@ -5009,7 +4980,6 @@ kosi
 kosok
 kosong
 kosor
-kost
 kot
 kota
 kotak
@@ -5868,9 +5838,7 @@ melas
 melati
 melek
 meler
-melet
 melok
-melon
 melu
 mem
 memacul
@@ -5982,7 +5950,6 @@ mlampah
 mlangkah
 mlebu
 mlumah
-mmati
 mmbuh
 mmelu
 mo
@@ -6022,7 +5989,6 @@ mona
 mondok
 monggo
 mongo
-mongso
 moni
 montor
 monyet
@@ -6332,7 +6298,6 @@ nawi
 nawon
 nawuh
 naya
-ncok
 ndak
 ndalu
 ndang
@@ -6384,7 +6349,6 @@ nelongso
 neluk
 nem
 nema
-neman
 nembak
 nembang
 nembe
@@ -6534,7 +6498,6 @@ ngama
 ngamah
 ngamal
 ngaman
-ngamang
 ngamar
 ngambang
 ngambar
@@ -6553,7 +6516,6 @@ ngamok
 ngampak
 ngampar
 ngampel
-ngamper
 ngampet
 ngampil
 ngampiri
@@ -6744,13 +6706,11 @@ ngecat
 ngece
 ngecek
 ngeces
-ngecok
 ngedan
 ngedang
 ngedar
 ngeden
 ngedol
-ngedu
 ngeeh
 ngegas
 ngegawe
@@ -6872,7 +6832,6 @@ ngerokok
 ngeroso
 ngerti
 ngertos
-ngerujak
 ngeruk
 ngerung
 nges
@@ -6891,7 +6850,6 @@ nget
 ngeta
 ngetan
 ngetana
-ngete
 ngetel
 ngetih
 ngetok
@@ -6994,7 +6952,6 @@ ngino
 ngintal
 ngintil
 ngintip
-nginu
 nginum
 ngipas
 ngipasi
@@ -7185,7 +7142,6 @@ ngulu
 ngulur
 ngum
 ngumah
-nguman
 ngumbah
 ngumbahi
 ngumbel
@@ -7199,7 +7155,6 @@ ngunci
 ngundah
 ngundang
 ngunduh
-ngune
 ngung
 nguni
 ngunjuk
@@ -7357,13 +7312,11 @@ niyat
 njajal
 njaluk
 njero
-njing
 njingan
 njupuk
 nki
 nko
 nmu
-nna
 nnai
 nnalika
 nnaliko
@@ -7439,7 +7392,6 @@ nuh
 nuhun
 nui
 nuju
-nujuman
 nuk
 nuka
 nuki
@@ -7558,7 +7510,6 @@ nyong
 nyonya
 nyoto
 nyulik
-nyumbang
 nyungsep
 nyuri
 nyurung
@@ -8302,7 +8253,6 @@ pokro
 pol
 pola
 polah
-polahe
 polan
 polar
 pole
@@ -8729,7 +8679,6 @@ ribut
 ridho
 rie
 riem
-rien
 rih
 rihan
 rihi
@@ -8752,7 +8701,6 @@ rim
 rima
 rimaa
 riman
-rimani
 rimao
 rimi
 rimo
@@ -8902,7 +8850,6 @@ rum
 ruma
 rumah
 rumangsa
-rumangsane
 rumba
 rumbah
 rumbai
@@ -9210,7 +9157,6 @@ selet
 seling
 selir
 selo
-selop
 sem
 semak
 semangat
@@ -9224,7 +9170,6 @@ sembah
 sembarang
 sembarangan
 sembari
-sembrono
 sembur
 semen
 semi
@@ -9612,7 +9557,6 @@ surabaya
 surai
 surat
 surau
-sure
 suri
 suro
 suroro
@@ -9715,7 +9659,6 @@ taman
 tamba
 tambah
 tambak
-tambal
 tambang
 tame
 tameng
@@ -9792,7 +9735,6 @@ taura
 tawa
 tawang
 tawar
-tawas
 tawe
 tawon
 taya
