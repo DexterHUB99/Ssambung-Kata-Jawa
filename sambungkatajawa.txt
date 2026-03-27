@@ -7220,6 +7220,7 @@ peri
 perih
 perlu
 pes
+pesen
 pesing
 peso
 peta
