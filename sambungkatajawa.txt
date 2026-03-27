@@ -6932,6 +6932,7 @@ okur
 okut
 ol
 olah
+olaha
 olahan
 olahraga
 olak
@@ -9832,6 +9833,7 @@ witen
 witi
 witir
 wito
+witri
 wiwa
 wiwi
 wiwit
