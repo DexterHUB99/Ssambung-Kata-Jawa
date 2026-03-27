@@ -1561,6 +1561,7 @@ dahar
 dahi
 daju
 daki
+dako
 dakon
 daku
 dakun
@@ -8945,6 +8946,7 @@ tresno
 tu
 tua
 tuak
+tuba
 tuban
 tube
 tubruk
