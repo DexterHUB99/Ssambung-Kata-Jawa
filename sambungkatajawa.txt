@@ -921,6 +921,7 @@ asu
 asuh
 asuha
 asui
+asuii
 asuku
 asul
 asum
@@ -1488,6 +1489,7 @@ cerita
 ces
 cewek
 cewok
+ci
 ciblok
 cica
 cicak
@@ -4461,6 +4463,7 @@ kiti
 kiwa
 kiye
 klambi
+klambii
 klambimu
 klapa
 klaten
