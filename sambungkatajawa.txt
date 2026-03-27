@@ -26,7 +26,6 @@ abil
 abim
 abimanyu
 abin
-abing
 abir
 abis
 abit
@@ -6004,7 +6003,6 @@ mringis
 mripat
 mu
 mual
-muatan
 mubal
 mubeng
 mucuk
@@ -6320,6 +6318,7 @@ neg
 nega
 negara
 negeri
+negeria
 neges
 negi
 negor
@@ -8050,6 +8049,7 @@ pemuda
 pen
 pena
 penak
+pendek
 pendopo
 pengen
 peni
@@ -9025,7 +9025,6 @@ sanggul
 sangit
 sangkuni
 sangu
-sanja
 sanjang
 santai
 santen
@@ -9220,7 +9219,6 @@ serong
 seru
 ses
 sesa
-sesajen
 sesak
 sesakno
 sesama
