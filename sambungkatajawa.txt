@@ -1781,6 +1781,7 @@ dapi
 dapo
 dapur
 dapuran
+dar
 dara
 darah
 darat
