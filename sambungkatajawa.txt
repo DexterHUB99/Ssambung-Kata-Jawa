@@ -2817,6 +2817,7 @@ gegere
 geguritan
 geh
 gek
+geku
 gel
 gela
 gelak
@@ -6793,6 +6794,7 @@ ngiwak
 ngiwang
 ngk
 ngka
+ngke
 ngko
 nglali
 nglampah
@@ -8814,6 +8816,7 @@ sate
 satoan
 satru
 satu
+satunggal
 satus
 saung
 saur
