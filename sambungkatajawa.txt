@@ -1920,6 +1920,7 @@ dik
 dika
 dikan
 diko
+dikom
 dikon
 dikot
 dila
@@ -7296,6 +7297,7 @@ ngurang
 ngurangi
 ngurap
 nguras
+ngurat
 nguri
 ngurip
 nguripi
