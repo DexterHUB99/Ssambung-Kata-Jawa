@@ -47,6 +47,7 @@ ad
 ada
 adaa
 adab
+adac
 adah
 adaj
 adam
@@ -2010,6 +2011,7 @@ embus
 eme
 emeh
 emek
+emel
 emem
 emen
 emer
