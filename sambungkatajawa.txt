@@ -7665,6 +7665,7 @@ panir
 panjang
 panjenengan
 panji
+panma
 pantai
 pantat
 pante
