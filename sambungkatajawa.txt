@@ -1288,6 +1288,7 @@ biso
 bisu
 bisue
 bisulan
+bit
 biyung
 bo
 bobi
@@ -2256,6 +2257,7 @@ eras
 erasa
 erat
 ere
+ereh
 erek
 erem
 eren
