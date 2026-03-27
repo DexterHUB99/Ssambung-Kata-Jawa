@@ -3765,6 +3765,7 @@ isro
 ista
 istana
 isti
+istigfar
 istighfar
 istilah
 istimewa
