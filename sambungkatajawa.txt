@@ -2793,6 +2793,7 @@ gowoe
 goyang
 graji
 grapyak
+grebeg
 greget
 gresik
 griya
@@ -4104,6 +4105,7 @@ kedanan
 kedaton
 kediri
 kedondong
+kedung
 kedurung
 kedut
 keemut
