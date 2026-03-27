@@ -1227,6 +1227,7 @@ bela
 belajar
 belan
 belang
+belas
 belek
 beli
 beling
@@ -1717,6 +1718,7 @@ dempul
 den
 dena
 dene
+dengki
 dengkul
 dening
 depak
@@ -1955,6 +1957,7 @@ ego
 egod
 egoh
 egrang
+egu
 eh
 eha
 ehab
@@ -2204,6 +2207,7 @@ enggan
 enggar
 enggeh
 enggih
+enggil
 enggo
 engkang
 engko
@@ -3649,6 +3653,7 @@ irin
 iring
 iringan
 irip
+iriri
 iris
 irit
 irita
@@ -4096,6 +4101,7 @@ kamul
 kamus
 kan
 kana
+kanaa
 kanak
 kanan
 kanane
@@ -5864,6 +5870,7 @@ nasi
 nasib
 nasie
 nasii
+nasikuning
 nastar
 nasu
 nat
@@ -7532,6 +7539,7 @@ pesing
 peso
 peta
 pete
+petel
 peteng
 peti
 petir
@@ -9667,6 +9675,7 @@ untah
 untal
 untalen
 untap
+untas
 unte
 untek
 untir
@@ -9696,6 +9705,7 @@ upel
 upi
 upik
 upil
+upis
 upku
 upo
 upra
