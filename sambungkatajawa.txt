@@ -673,7 +673,6 @@ ansuran
 anta
 antah
 antam
-antang
 antar
 antara
 antareja
@@ -1042,6 +1041,7 @@ ayam
 ayame
 ayan
 ayang
+ayar
 ayat
 ayay
 aye
@@ -1785,6 +1785,7 @@ don
 dona
 dong
 donga
+dongen
 dongo
 doni
 dono
@@ -2515,7 +2516,6 @@ gantolan
 gantung
 gantunga
 gantungan
-ganwi
 ganyong
 gap
 gapa
@@ -4260,7 +4260,6 @@ kendi
 kene
 kenek
 keni
-kening
 kenopo
 kentang
 kenter
@@ -4927,7 +4926,6 @@ lingkar
 lingkaran
 lingkungan
 linglung
-lingsem
 lingsir
 lini
 linja
@@ -5177,7 +5175,6 @@ males
 malesi
 mali
 malih
-malii
 malik
 maling
 malu
@@ -5698,6 +5695,7 @@ napsu
 nar
 nara
 narada
+naraka
 narasi
 nari
 narik
@@ -5802,7 +5800,6 @@ nendang
 nene
 nenek
 nenen
-neneng
 neng
 nengah
 nengdi
@@ -6745,7 +6742,6 @@ nung
 nunggang
 nunggangi
 nunggu
-nungkak
 nungu
 nuni
 nunjuk
@@ -7004,7 +7000,6 @@ opa
 opah
 opak
 opal
-opat
 opel
 opem
 open
@@ -7098,7 +7093,6 @@ oyot
 oz
 ozon
 pa
-paapa
 pacul
 pada
 padae
@@ -7139,7 +7133,6 @@ palah
 palak
 palamu
 palang
-palapa
 pale
 paleh
 palem
@@ -7661,6 +7654,7 @@ rakha
 raki
 rakit
 rako
+raksasa
 raku
 rakus
 rakyat
@@ -7734,7 +7728,6 @@ rapu
 rapuh
 rara
 rarambut
-raro
 ras
 rasa
 rasah
@@ -8332,7 +8325,6 @@ seno
 senok
 senopati
 sepadu
-sepak
 sepanci
 sepat
 sepatu
@@ -9264,7 +9256,6 @@ ukoh
 ukol
 ukom
 ukop
-ukra
 ukro
 ukta
 uku
@@ -9439,7 +9430,6 @@ upama
 upami
 upan
 upas
-upawa
 upaya
 upe
 upek
