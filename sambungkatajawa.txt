@@ -35,6 +35,7 @@ abuh
 abus
 aca
 acak
+acan
 acar
 ace
 aceh
@@ -1954,6 +1955,7 @@ elel
 elen
 eleng
 elep
+eles
 eli
 elig
 elii
@@ -5229,6 +5231,7 @@ micek
 midak
 mie
 mii
+mijet
 mijil
 mik
 mika
