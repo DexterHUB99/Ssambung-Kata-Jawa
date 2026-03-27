@@ -6514,6 +6514,7 @@ ngenos
 ngenot
 ngentek
 ngenteni
+ngenti
 ngentil
 ngentoh
 ngentu
@@ -8223,6 +8224,7 @@ rei
 rejo
 rek
 reka
+rekae
 rekak
 rekam
 rekan
