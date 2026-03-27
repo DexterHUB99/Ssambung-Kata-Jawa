@@ -2550,6 +2550,7 @@ ewee
 ewek
 ewer
 ewes
+ewin
 ewo
 ewoh
 ewok
@@ -3978,6 +3979,7 @@ jala
 jalak
 jalan
 jaler
+jali
 jalii
 jaluk
 jam
@@ -10235,6 +10237,7 @@ usna
 uso
 usra
 usrek
+usri
 usta
 ustadz
 ustadzah
