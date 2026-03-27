@@ -834,7 +834,6 @@ arang
 arap
 aras
 arasen
-aray
 ardi
 are
 areg
@@ -846,6 +845,7 @@ areng
 arep
 arepan
 arepe
+ares
 aret
 arga
 ari
@@ -1087,6 +1087,7 @@ awa
 awak
 awakdewe
 awake
+awakku
 awakmu
 awaku
 awal
@@ -1767,6 +1768,7 @@ dano
 danu
 danur
 dap
+dapa
 dapi
 dapur
 dapuran
@@ -2005,6 +2007,7 @@ duku
 dukuh
 dukun
 dukur
+dul
 dulan
 dulang
 duli
@@ -2343,6 +2346,7 @@ endung
 ene
 ened
 eneg
+eneh
 enek
 enem
 enen
@@ -3127,6 +3131,7 @@ grobak
 grogi
 gu
 gubernur
+gubris
 gubug
 gudang
 gudangan
@@ -3142,6 +3147,7 @@ gugus
 gujeng
 gul
 gula
+gulabatu
 gulai
 gulali
 gulane
@@ -3498,6 +3504,7 @@ huni
 hup
 hur
 hura
+hure
 huri
 hurip
 huripan
@@ -3933,6 +3940,7 @@ iso
 isoe
 isok
 isoma
+isone
 isoo
 isra
 isro
@@ -3955,7 +3963,6 @@ it
 ita
 itaa
 itai
-itaku
 itali
 ite
 item
@@ -4055,6 +4062,7 @@ janda
 jane
 jang
 jangan
+jangga
 jangger
 jangka
 jangkar
@@ -4065,6 +4073,7 @@ janji
 jantung
 jar
 jara
+jarak
 jaran
 jaranan
 jare
@@ -5586,6 +5595,7 @@ maki
 makruh
 maksud
 maku
+mal
 malah
 malahan
 malaii
@@ -5711,7 +5721,6 @@ mat
 mata
 matamu
 matane
-mate
 matek
 maten
 mateni
@@ -5741,6 +5750,7 @@ mbah
 mbak
 mbok
 mbuh
+mburi
 me
 medal
 medeni
@@ -5755,6 +5765,7 @@ meki
 mekso
 mela
 melas
+melasi
 melati
 melek
 meler
@@ -5864,6 +5875,7 @@ mit
 mita
 mitoni
 miya
+miyos
 mlaku
 mlampah
 mlangkah
@@ -5902,6 +5914,7 @@ momi
 momong
 momori
 momot
+mon
 mona
 mondok
 monggo
@@ -6160,6 +6173,7 @@ napal
 napas
 nape
 napi
+napko
 napo
 napsu
 nar
@@ -6626,6 +6640,7 @@ ngegunung
 ngeh
 ngei
 ngejak
+ngejar
 ngejek
 ngek
 ngeker
@@ -6995,6 +7010,7 @@ ngrayu
 ngregeti
 ngrep
 ngrepoti
+ngrewangi
 ngrit
 ngrok
 ngrokok
@@ -7147,6 +7163,7 @@ nili
 nilo
 nim
 nima
+nimah
 niman
 nimba
 nimbali
@@ -7392,6 +7409,7 @@ nyilih
 nyim
 nyimpen
 nyirem
+nyo
 nyocot
 nyogok
 nyoli
@@ -7662,6 +7680,7 @@ oros
 orotan
 os
 osah
+osaha
 osak
 osaka
 osal
@@ -7943,6 +7962,7 @@ penak
 pendopo
 pengen
 peni
+pening
 peno
 pensil
 pentil
@@ -8136,7 +8156,6 @@ poles
 poli
 poling
 polisi
-poll
 polo
 polok
 poloo
@@ -8162,6 +8181,7 @@ popoli
 por
 pora
 porah
+poran
 porasi
 porek
 pori
@@ -8475,6 +8495,7 @@ rekam
 rekan
 rekasa
 rekmo
+reko
 rekoso
 rela
 relo
@@ -10060,6 +10081,7 @@ ukukir
 ukul
 ukum
 ukung
+ukup
 ukur
 ukura
 ukuran
@@ -10783,6 +10805,7 @@ yon
 yona
 yong
 yongi
+yoni
 yono
 yoo
 yoopo
