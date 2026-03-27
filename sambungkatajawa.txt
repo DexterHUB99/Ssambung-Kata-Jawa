@@ -664,6 +664,7 @@ anjing
 anjinga
 anjinge
 anjir
+anjlog
 anjlok
 anjng
 anjok
@@ -3436,6 +3437,7 @@ ilamu
 ilan
 ilang
 ilange
+ilangono
 ilap
 ilar
 ilas
@@ -3454,6 +3456,7 @@ ilili
 ilin
 iling
 ilingan
+ilingen
 ilir
 ilis
 ilmu
@@ -4008,6 +4011,7 @@ kaku
 kakung
 kal
 kala
+kalaa
 kalah
 kalajengking
 kalan
@@ -5050,6 +5054,7 @@ lise
 lisi
 lit
 lita
+litah
 liwa
 liwat
 liwet
@@ -6573,6 +6578,7 @@ ngrit
 ngrok
 ngrokok
 ngrumpi
+ngrungokake
 ngsu
 ngubek
 nguber
@@ -7843,6 +7849,7 @@ ramuan
 ramutu
 ran
 rana
+ranaa
 ranah
 randa
 randu
@@ -8105,6 +8112,7 @@ roki
 roko
 rokok
 rola
+rolaa
 rolas
 roli
 rolo
@@ -9843,6 +9851,7 @@ waras
 wareg
 warek
 warga
+wari
 waria
 waris
 warisan
@@ -10015,6 +10024,7 @@ wuku
 wula
 wulan
 wulang
+wuli
 wulu
 wulung
 wuno
