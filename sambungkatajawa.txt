@@ -1679,6 +1679,7 @@ dilah
 dilan
 dilas
 dilat
+dilem
 dilit
 diluk
 dilut
@@ -4330,6 +4331,7 @@ kira
 kirab
 kirang
 kirap
+kire
 kirek
 kiri
 kirik
