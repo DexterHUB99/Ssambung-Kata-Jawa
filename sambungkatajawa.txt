@@ -1143,6 +1143,7 @@ bambang
 ban
 banci
 bandar
+bandara
 bandel
 bando
 bandung
