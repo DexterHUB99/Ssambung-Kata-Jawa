@@ -1710,6 +1710,7 @@ dingin
 dini
 dino
 dinten
+dipa
 dipan
 dipana
 diparani
@@ -2684,6 +2685,7 @@ gesek
 geseng
 geser
 gesit
+getan
 gethuk
 getih
 getok
@@ -6899,6 +6901,7 @@ onoi
 onono
 onoo
 onta
+ontang
 ontel
 onten
 onthel
