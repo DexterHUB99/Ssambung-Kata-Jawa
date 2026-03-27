@@ -548,7 +548,6 @@ anay
 ancak
 ancam
 ancaman
-ancang
 ancase
 ancen
 ancene
@@ -1144,7 +1143,6 @@ bambang
 ban
 banci
 bandar
-bandara
 bandel
 bando
 bandung
@@ -1955,6 +1953,7 @@ ego
 egod
 egoh
 egrang
+egu
 eh
 eha
 ehab
@@ -1998,7 +1997,6 @@ ehuy
 eiwak
 ej
 eja
-ejek
 ejik
 ejol
 eju
@@ -2204,6 +2202,7 @@ enggan
 enggar
 enggeh
 enggih
+enggil
 enggo
 engkang
 engko
@@ -3649,6 +3648,7 @@ irin
 iring
 iringan
 irip
+iriri
 iris
 irit
 irita
@@ -4038,7 +4038,6 @@ kala
 kalaa
 kalah
 kalajengking
-kalam
 kalan
 kalap
 kalawo
@@ -4096,6 +4095,7 @@ kamul
 kamus
 kan
 kana
+kanaa
 kanak
 kanan
 kanane
@@ -5106,7 +5106,6 @@ lodhang
 loding
 lodoh
 loe
-loen
 logat
 loh
 loha
@@ -5273,7 +5272,6 @@ mah
 maha
 mahal
 mahar
-mahi
 mahir
 mahu
 mai
@@ -5864,6 +5862,7 @@ nasi
 nasib
 nasie
 nasii
+nasikuning
 nastar
 nasu
 nat
@@ -6003,7 +6002,6 @@ ngaca
 ngacak
 ngacem
 ngaceng
-ngacir
 ngaco
 ngacung
 ngadai
@@ -6346,7 +6344,6 @@ ngengkol
 ngengobrol
 ngenko
 ngenos
-ngentek
 ngenteni
 ngentil
 ngentoh
@@ -6968,7 +6965,6 @@ nyamar
 nyambi
 nyamping
 nyamuk
-nyandang
 nyang
 nyangking
 nyangkul
@@ -7446,7 +7442,6 @@ pasuk
 pasukan
 pasuruhan
 pat
-patek
 paten
 pateni
 pati
@@ -7532,6 +7527,7 @@ pesing
 peso
 peta
 pete
+petel
 peteng
 peti
 petir
@@ -9491,7 +9487,6 @@ ukin
 ukir
 ukira
 ukiran
-ukiren
 ukiro
 ukit
 ukka
@@ -9666,6 +9661,7 @@ untah
 untal
 untalen
 untap
+untas
 unte
 untek
 untir
@@ -9695,6 +9691,7 @@ upel
 upi
 upik
 upil
+upis
 upku
 upo
 upra
@@ -10044,7 +10041,6 @@ wingi
 wingibengi
 wingko
 wini
-wino
 winta
 wio
 wir
