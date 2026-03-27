@@ -4457,6 +4457,7 @@ kemeruh
 kemiri
 kemis
 kemoh
+kemon
 kemos
 kempes
 kempit
@@ -7739,6 +7740,7 @@ pijer
 pijet
 pijit
 pikantuk
+pikep
 piki
 pikiran
 piku
