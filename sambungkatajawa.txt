@@ -394,6 +394,7 @@ alip
 alir
 aliran
 alis
+alisa
 alit
 aliya
 alm
@@ -1177,6 +1178,7 @@ bali
 balik
 balikno
 baline
+balok
 balon
 balung
 bambang
@@ -1760,6 +1762,7 @@ dedak
 dede
 dedeg
 dedek
+dedekan
 dedi
 degan
 dek
@@ -5059,6 +5062,7 @@ lap
 lapa
 lapak
 lapan
+lapang
 lapangan
 lapar
 lape
@@ -6694,7 +6698,6 @@ ngijing
 ngijo
 ngijoli
 ngik
-ngikan
 ngiki
 ngikil
 ngiku
@@ -6930,6 +6933,7 @@ ngunjung
 nguno
 nguntal
 nguntap
+nguntuk
 nguntung
 ngunu
 ngunung
@@ -8542,6 +8546,7 @@ rui
 rujak
 rujakcingur
 rujuk
+rujukan
 ruka
 ruki
 ruko
@@ -9655,7 +9660,6 @@ tuh
 tuha
 tuhan
 tuk
-tukan
 tukang
 tukaran
 tuki
