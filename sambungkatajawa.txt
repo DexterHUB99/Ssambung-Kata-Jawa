@@ -5963,6 +5963,7 @@ milen
 mili
 milih
 milik
+milo
 milu
 mima
 mimi
@@ -8160,6 +8161,7 @@ pentung
 penuh
 penyu
 pepak
+pepaya
 pepe
 pepek
 pepes
