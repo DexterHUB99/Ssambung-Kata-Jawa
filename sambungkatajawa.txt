@@ -390,6 +390,7 @@ ali
 alia
 alien
 alif
+alig
 alih
 aliho
 alii
@@ -444,6 +445,7 @@ amalan
 amam
 amama
 aman
+amana
 amanah
 amanat
 amane
@@ -563,6 +565,7 @@ anakmu
 anal
 anam
 anama
+anaman
 anan
 anane
 anang
@@ -576,6 +579,7 @@ ancak
 ancam
 ancaman
 ancang
+ancas
 ancase
 ancen
 ancene
@@ -765,6 +769,7 @@ anut
 anuwa
 anyam
 anyaman
+anyamana
 anyar
 anyel
 anyem
@@ -881,6 +886,7 @@ arjuno
 arka
 arma
 aro
+arogan
 aroh
 arok
 arom
@@ -1037,7 +1043,6 @@ atih
 atii
 atik
 atiku
-atil
 atim
 atimu
 atin
@@ -1246,6 +1251,7 @@ banya
 banyak
 banyu
 bapak
+bar
 bara
 barang
 barat
@@ -2578,7 +2584,6 @@ etel
 etem
 eten
 eter
-etes
 etet
 ethok
 eti
@@ -2724,6 +2729,7 @@ galungan
 galur
 gama
 gaman
+gamanan
 gamane
 gambang
 gambar
@@ -2926,6 +2932,7 @@ gelut
 gem
 gema
 gemah
+geman
 gemar
 gemas
 gemati
@@ -3465,7 +3472,6 @@ hitam
 hitung
 hitungan
 hiu
-hla
 hm
 hmm
 ho
@@ -4125,6 +4131,7 @@ jawab
 jawi
 jawir
 jawoh
+jaya
 je
 jebul
 jela
@@ -4275,6 +4282,7 @@ kadas
 kadek
 kades
 kadi
+kadiri
 kadong
 kados
 kadung
@@ -4309,7 +4317,6 @@ kakang
 kakange
 kakap
 kakasur
-kakayu
 kake
 kakehan
 kakek
@@ -4768,8 +4775,10 @@ keselek
 kesem
 kesempatan
 keset
+kesil
 kesleo
 kesuh
+kesuk
 kesusu
 ket
 keta
@@ -4912,6 +4921,7 @@ kolek
 koli
 koloh
 kolong
+kolongan
 kolop
 kolot
 kom
@@ -4933,6 +4943,7 @@ kondhang
 kondi
 kondisi
 kondur
+kone
 konek
 koni
 kono
@@ -4972,6 +4983,7 @@ kosi
 kosok
 kosong
 kosor
+kost
 kot
 kota
 kotak
@@ -5828,6 +5840,7 @@ melas
 melati
 melek
 meler
+melet
 melok
 melu
 mem
@@ -5978,6 +5991,7 @@ mona
 mondok
 monggo
 mongo
+mongso
 moni
 montor
 monyet
@@ -6165,7 +6179,6 @@ nam
 nama
 namaa
 namae
-namaku
 naman
 namar
 nambah
@@ -6337,6 +6350,7 @@ nelongso
 neluk
 nem
 nema
+neman
 nembak
 nembang
 nembe
@@ -6486,6 +6500,7 @@ ngama
 ngamah
 ngamal
 ngaman
+ngamang
 ngamar
 ngambang
 ngambar
@@ -7298,15 +7313,14 @@ niyat
 njajal
 njaluk
 njero
+njing
 njingan
 njupuk
 nki
 nko
 nmu
-nnai
 nnalika
 nnaliko
-nnana
 nnangka
 nnani
 nnduk
@@ -8834,6 +8848,7 @@ rum
 ruma
 rumah
 rumangsa
+rumangsane
 rumba
 rumbah
 rumbai
@@ -9138,6 +9153,7 @@ selet
 seling
 selir
 selo
+selop
 sem
 semak
 semangat
@@ -9392,6 +9408,7 @@ some
 son
 songo
 songong
+soni
 sono
 sonten
 sop
@@ -9638,6 +9655,7 @@ taman
 tamba
 tambah
 tambak
+tambal
 tambang
 tame
 tameng
@@ -9713,6 +9731,7 @@ taura
 tawa
 tawang
 tawar
+tawas
 tawe
 tawon
 taya
