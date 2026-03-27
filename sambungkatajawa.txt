@@ -1345,6 +1345,7 @@ bunder
 bunga
 bungah
 bungkus
+bunglon
 buni
 buntel
 buntu
@@ -4520,6 +4521,7 @@ kunang
 kunci
 kuncup
 kundur
+kune
 kuneng
 kungkum
 kuning
@@ -7233,6 +7235,7 @@ pilem
 pili
 pilih
 pilim
+pilo
 pilok
 pilot
 pilu
