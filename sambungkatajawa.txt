@@ -5368,6 +5368,7 @@ mubeng
 mucuk
 mudeng
 mudha
+mudhun
 mudin
 muga
 mugi
@@ -6369,6 +6370,7 @@ ngupi
 ngupil
 nguping
 ngupo
+ngur
 ngura
 ngurai
 ngurang
