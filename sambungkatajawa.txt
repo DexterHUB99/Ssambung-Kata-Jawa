@@ -5439,6 +5439,7 @@ nanga
 nangan
 nangdi
 nanggal
+nanggap
 nanggung
 nanging
 nangis
@@ -6499,6 +6500,7 @@ nyai
 nyali
 nyamar
 nyambi
+nyamping
 nyamuk
 nyang
 nyangking
