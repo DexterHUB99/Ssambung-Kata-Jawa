@@ -5352,6 +5352,7 @@ molah
 molan
 mole
 moleh
+molek
 molen
 moli
 molin
@@ -8163,6 +8164,7 @@ semprul
 sempurna
 semrawut
 semua
+semur
 semut
 sen
 senam
