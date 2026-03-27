@@ -4428,6 +4428,7 @@ kukur
 kukus
 kul
 kula
+kulaan
 kulak
 kulan
 kulang
@@ -5664,6 +5665,7 @@ ngacem
 ngaceng
 ngaco
 ngadai
+ngadani
 ngadeg
 ngadek
 ngadem
@@ -7107,6 +7109,7 @@ pien
 pigura
 pii
 pijak
+pijat
 pijek
 pijer
 pijet
