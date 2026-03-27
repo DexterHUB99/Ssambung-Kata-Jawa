@@ -4075,6 +4075,7 @@ kapak
 kapal
 kapan
 kapane
+kapas
 kape
 kapel
 kapi
