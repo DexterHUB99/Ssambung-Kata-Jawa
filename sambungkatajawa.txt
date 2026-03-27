@@ -6681,6 +6681,7 @@ nnangka
 nnani
 nnduk
 nngalor
+nnggih
 nni
 nnina
 no
@@ -9340,6 +9341,7 @@ ulangi
 ulap
 ular
 ulari
+ularo
 ulas
 ulasan
 ulat
@@ -9862,6 +9864,7 @@ won
 wong
 wonge
 wono
+wonogiri
 wonosobo
 wonten
 woo
