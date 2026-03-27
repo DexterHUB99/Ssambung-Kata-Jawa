@@ -1166,6 +1166,7 @@ batak
 batang
 baten
 bati
+batik
 batin
 batok
 batu
