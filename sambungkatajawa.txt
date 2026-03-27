@@ -70,7 +70,6 @@ adap
 adar
 adat
 ade
-adegan
 adek
 adel
 adem
@@ -846,6 +845,7 @@ areng
 arep
 arepan
 arepe
+ares
 aret
 arga
 ari
@@ -1087,6 +1087,7 @@ awa
 awak
 awakdewe
 awake
+awakku
 awakmu
 awaku
 awal
@@ -1767,6 +1768,7 @@ dano
 danu
 danur
 dap
+dapa
 dapi
 dapur
 dapuran
@@ -2005,6 +2007,7 @@ duku
 dukuh
 dukun
 dukur
+dul
 dulan
 dulang
 duli
@@ -2343,6 +2346,7 @@ endung
 ene
 ened
 eneg
+eneh
 enek
 enem
 enen
@@ -2905,7 +2909,6 @@ gembira
 gemblong
 gemblung
 gembok
-gembong
 gembos
 gembrot
 gembung
@@ -2917,7 +2920,6 @@ gempal
 gempar
 gempil
 gempol
-gempur
 gemu
 gemuk
 gen
@@ -3121,7 +3123,6 @@ goyang
 graji
 grapyak
 grebeg
-greges
 greget
 gresik
 grimis
@@ -3130,6 +3131,7 @@ grobak
 grogi
 gu
 gubernur
+gubris
 gubug
 gudang
 gudangan
@@ -3145,6 +3147,7 @@ gugus
 gujeng
 gul
 gula
+gulabatu
 gulai
 gulali
 gulane
@@ -3501,6 +3504,7 @@ huni
 hup
 hur
 hura
+hure
 huri
 hurip
 huripan
@@ -3936,6 +3940,7 @@ iso
 isoe
 isok
 isoma
+isone
 isoo
 isra
 isro
@@ -4057,6 +4062,7 @@ janda
 jane
 jang
 jangan
+jangga
 jangger
 jangka
 jangkar
@@ -4067,6 +4073,7 @@ janji
 jantung
 jar
 jara
+jarak
 jaran
 jaranan
 jare
@@ -4281,11 +4288,9 @@ kalah
 kalajengking
 kalam
 kalan
-kalangan
 kalap
 kalawo
 kale
-kalebu
 kaleh
 kalem
 kalen
@@ -4944,6 +4949,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kuburan
 kucing
 kucir
@@ -5493,7 +5499,6 @@ lulur
 lum
 luma
 lumah
-lumajang
 lumaku
 lumayan
 lumbung
@@ -5591,6 +5596,7 @@ maki
 makruh
 maksud
 maku
+mal
 malah
 malahan
 malaii
@@ -5745,6 +5751,7 @@ mbah
 mbak
 mbok
 mbuh
+mburi
 me
 medal
 medeni
@@ -5759,6 +5766,7 @@ meki
 mekso
 mela
 melas
+melasi
 melati
 melek
 meler
@@ -5868,6 +5876,7 @@ mit
 mita
 mitoni
 miya
+miyos
 mlaku
 mlampah
 mlangkah
@@ -5906,6 +5915,7 @@ momi
 momong
 momori
 momot
+mon
 mona
 mondok
 monggo
@@ -5960,7 +5970,6 @@ mulai
 mulak
 mulane
 mulanee
-mulang
 mule
 muleh
 mules
@@ -6165,6 +6174,7 @@ napal
 napas
 nape
 napi
+napko
 napo
 napsu
 nar
@@ -6362,6 +6372,7 @@ ngaga
 ngagang
 ngagas
 ngagel
+ngagem
 ngago
 ngah
 ngahi
@@ -6631,6 +6642,7 @@ ngegunung
 ngeh
 ngei
 ngejak
+ngejar
 ngejek
 ngek
 ngeker
@@ -7000,6 +7012,7 @@ ngrayu
 ngregeti
 ngrep
 ngrepoti
+ngrewangi
 ngrit
 ngrok
 ngrokok
@@ -7108,7 +7121,6 @@ ngut
 nguta
 ngutang
 ngutangan
-ngutangi
 ngutek
 nguter
 ngutil
@@ -7153,6 +7165,7 @@ nili
 nilo
 nim
 nima
+nimah
 niman
 nimba
 nimbali
@@ -7344,7 +7357,6 @@ nuri
 nuru
 nurui
 nurun
-nuruni
 nurut
 nuruti
 nus
@@ -7366,7 +7378,6 @@ ny
 nya
 nyai
 nyali
-nyaman
 nyamar
 nyambi
 nyamping
@@ -7400,6 +7411,7 @@ nyilih
 nyim
 nyimpen
 nyirem
+nyo
 nyocot
 nyogok
 nyoli
@@ -7670,6 +7682,7 @@ oros
 orotan
 os
 osah
+osaha
 osak
 osaka
 osal
@@ -7951,6 +7964,7 @@ penak
 pendopo
 pengen
 peni
+pening
 peno
 pensil
 pentil
@@ -8169,6 +8183,7 @@ popoli
 por
 pora
 porah
+poran
 porasi
 porek
 pori
@@ -8482,6 +8497,7 @@ rekam
 rekan
 rekasa
 rekmo
+reko
 rekoso
 rela
 relo
@@ -8747,7 +8763,6 @@ rungkad
 rungu
 runi
 runtuh
-runtut
 runyam
 ruo
 rup
@@ -9100,7 +9115,6 @@ seru
 ses
 sesa
 sesak
-sesakno
 sesama
 sesat
 sesek
@@ -10069,6 +10083,7 @@ ukukir
 ukul
 ukum
 ukung
+ukup
 ukur
 ukura
 ukuran
@@ -10329,7 +10344,6 @@ usae
 usah
 usaha
 usai
-usak
 usan
 usani
 usap
@@ -10793,6 +10807,7 @@ yon
 yona
 yong
 yongi
+yoni
 yono
 yoo
 yoopo
