@@ -2604,6 +2604,7 @@ gaweyan
 gawir
 gawok
 gayam
+gayang
 gayeng
 gayu
 gayuh
@@ -4299,6 +4300,7 @@ kepriwe
 kepur
 ker
 kera
+kerah
 kerajaan
 kerajin
 keram
