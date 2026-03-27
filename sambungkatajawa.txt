@@ -921,6 +921,7 @@ asu
 asuh
 asuha
 asui
+asuii
 asuku
 asul
 asum
@@ -1488,6 +1489,7 @@ cerita
 ces
 cewek
 cewok
+ci
 ciblok
 cica
 cicak
@@ -4461,6 +4463,7 @@ kiti
 kiwa
 kiye
 klambi
+klambii
 klambimu
 klapa
 klaten
@@ -5706,6 +5709,7 @@ nangkap
 nangkep
 nangkring
 nani
+nanii
 naning
 nanja
 nano
@@ -6084,6 +6088,7 @@ ngasil
 ngasin
 ngasing
 ngaso
+ngasoh
 ngasta
 ngasu
 ngasuh
@@ -6297,6 +6302,7 @@ nggi
 nggih
 nggilani
 nggiling
+nggo
 nggole
 nggolek
 nggon
@@ -7613,6 +7619,7 @@ puri
 purna
 purnama
 purun
+pus
 pusa
 pusaka
 puser
@@ -9593,6 +9600,7 @@ usus
 ususe
 ususus
 usut
+uswa
 ut
 uta
 utaa
