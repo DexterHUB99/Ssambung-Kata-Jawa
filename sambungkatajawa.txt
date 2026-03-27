@@ -6152,6 +6152,7 @@ ngesak
 ngeselin
 ngeseng
 ngesi
+ngesok
 ngesor
 ngesot
 ngestu
