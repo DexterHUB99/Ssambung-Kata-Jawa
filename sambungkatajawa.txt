@@ -1245,7 +1245,6 @@ banya
 banyak
 banyu
 bapak
-bar
 bara
 barang
 barat
@@ -3170,6 +3169,7 @@ guguk
 gugup
 gugur
 gugus
+guha
 gujeng
 gul
 gula
@@ -4284,6 +4284,7 @@ kaget
 kagungan
 kahanan
 kahujan
+kail
 kain
 kaine
 kairi
@@ -9702,7 +9703,6 @@ taura
 tawa
 tawang
 tawar
-tawas
 tawe
 tawon
 taya
