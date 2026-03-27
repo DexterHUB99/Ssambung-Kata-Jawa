@@ -2173,6 +2173,7 @@ enok
 enom
 enome
 enong
+enra
 enri
 enta
 entak
@@ -4139,6 +4140,7 @@ katok
 katon
 katresnan
 katrok
+katua
 katuh
 katuk
 katul
