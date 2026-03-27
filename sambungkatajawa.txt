@@ -34,6 +34,7 @@ abu
 abuh
 abus
 abuy
+ac
 aca
 acak
 acan
@@ -625,6 +626,7 @@ angus
 ani
 aniani
 aniaya
+anif
 anii
 anik
 anika
@@ -671,7 +673,6 @@ ansuran
 anta
 antah
 antam
-antang
 antar
 antara
 antareja
@@ -1166,6 +1167,7 @@ bau
 bawa
 bawok
 baya
+bayar
 bayem
 bayi
 bayu
@@ -1339,6 +1341,7 @@ budhal
 budhe
 budi
 bue
+bufa
 buha
 bui
 bujak
@@ -2370,9 +2373,11 @@ eyang
 eye
 eyem
 eyo
+eyu
 eyup
 ez
 faji
+fase
 firman
 fisik
 fix
@@ -2508,7 +2513,6 @@ gantolan
 gantung
 gantunga
 gantungan
-ganwi
 ganyong
 gap
 gapa
@@ -2606,6 +2610,7 @@ gedek
 gedhang
 gedhe
 gedhi
+gedung
 gee
 gega
 geger
@@ -2621,6 +2626,7 @@ gelange
 gelap
 gelar
 gelas
+geleh
 gelek
 gelem
 geleman
@@ -3220,6 +3226,7 @@ iba
 ibaa
 ibadah
 ibak
+iban
 ibarat
 iblis
 ibu
@@ -4880,6 +4887,7 @@ lihat
 lii
 lik
 lika
+likan
 likis
 liku
 lila
@@ -5163,7 +5171,6 @@ males
 malesi
 mali
 malih
-malii
 malik
 maling
 malu
@@ -5551,6 +5558,7 @@ muti
 na
 naa
 nab
+naba
 nabi
 nabii
 nabok
@@ -5564,6 +5572,7 @@ nada
 nadah
 nadi
 nadia
+nadine
 nado
 nae
 naek
@@ -5610,6 +5619,7 @@ naliko
 nalima
 nalo
 nalung
+nalur
 naluri
 nam
 nama
@@ -5785,7 +5795,6 @@ nendang
 nene
 nenek
 nenen
-neneng
 neng
 nengah
 nengdi
@@ -6029,6 +6038,7 @@ ngasah
 ngasahi
 ngasak
 ngasal
+ngase
 ngasem
 ngasi
 ngasih
@@ -6843,6 +6853,7 @@ ohya
 oj
 ojek
 ojet
+ojik
 ojo
 ojoe
 ojog
@@ -6984,7 +6995,6 @@ opa
 opah
 opak
 opal
-opat
 opel
 opem
 open
@@ -7078,7 +7088,6 @@ oyot
 oz
 ozon
 pa
-paapa
 pacul
 pada
 padae
@@ -7119,7 +7128,6 @@ palah
 palak
 palamu
 palang
-palapa
 pale
 paleh
 palem
@@ -7414,6 +7422,7 @@ pisa
 pisah
 pisan
 pisang
+pisi
 pisis
 pisu
 pisuh
@@ -8271,6 +8280,7 @@ selat
 selawe
 seleb
 selet
+seling
 selo
 semak
 semangat
@@ -8308,11 +8318,12 @@ senjata
 seno
 senok
 senopati
-sepak
+sepadu
 sepanci
 sepat
 sepatu
 sepele
+sepet
 sepi
 sepii
 sepiro
@@ -8443,6 +8454,7 @@ sirsak
 sirup
 sis
 sisa
+sisak
 sisan
 siser
 sisi
@@ -9081,6 +9093,7 @@ tungkak
 tuni
 tuntun
 tupa
+tupen
 tupi
 tur
 tura
@@ -9237,7 +9250,6 @@ ukoh
 ukol
 ukom
 ukop
-ukra
 ukro
 ukta
 uku
@@ -9411,7 +9423,6 @@ upama
 upami
 upan
 upas
-upawa
 upaya
 upe
 upek
@@ -9455,6 +9466,7 @@ urik
 urika
 urine
 uring
+urio
 urip
 uripe
 uripmu
@@ -9583,6 +9595,7 @@ uy
 uya
 uyah
 uye
+uyo
 uyuh
 uyung
 uz
@@ -9803,6 +9816,7 @@ wuan
 wuh
 wujud
 wuku
+wula
 wulan
 wulang
 wulung
