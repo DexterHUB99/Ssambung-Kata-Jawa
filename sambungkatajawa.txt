@@ -2535,6 +2535,7 @@ gabuk
 gabung
 gabus
 gabut
+gaco
 gacoan
 gada
 gadag
@@ -5816,6 +5817,7 @@ muntab
 muntah
 munyuk
 mur
+mura
 murah
 murahan
 murai
@@ -7284,6 +7286,7 @@ olaha
 olahan
 olahraga
 olak
+olam
 olar
 ole
 olee
