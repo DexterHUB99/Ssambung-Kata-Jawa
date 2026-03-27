@@ -1040,6 +1040,7 @@ atawa
 ate
 ateh
 atek
+atem
 aten
 atep
 ater
@@ -11037,6 +11038,7 @@ yapi
 yaping
 yar
 yara
+yare
 yari
 yas
 yasa
