@@ -1531,6 +1531,7 @@ capung
 cara
 cari
 carik
+caruk
 catur
 cawan
 cawet
@@ -4104,7 +4105,6 @@ juni
 juragan
 jurang
 juri
-juru
 jurus
 jus
 ka
@@ -4383,6 +4383,7 @@ katul
 katun
 katur
 katus
+katut
 kawah
 kawal
 kawan
@@ -6431,6 +6432,7 @@ ngatemi
 ngaterna
 ngati
 ngatok
+ngaton
 ngatos
 ngatu
 ngatuk
@@ -6467,6 +6469,7 @@ ngayu
 ngayuh
 ngayun
 ngayung
+ngayur
 ngcok
 nge
 ngebas
@@ -7969,6 +7972,7 @@ poloo
 polri
 pom
 poma
+pomen
 pomo
 pomu
 pon
@@ -9195,7 +9199,6 @@ sungka
 sungkan
 sungkem
 sungki
-sunnah
 suno
 suntik
 suntuk
