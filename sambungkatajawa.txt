@@ -2964,6 +2964,7 @@ guna
 gunae
 gunan
 gunane
+gundah
 gundam
 gundik
 gundul
@@ -7507,6 +7508,7 @@ pesen
 pesing
 peso
 peta
+pete
 peteng
 peti
 petir
