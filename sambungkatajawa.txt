@@ -9794,6 +9794,7 @@ utak
 utake
 utakmu
 utama
+utamane
 utami
 utan
 utane
@@ -9991,6 +9992,7 @@ weruh
 wes
 wesa
 wesi
+weso
 westa
 wet
 weta
