@@ -5947,6 +5947,7 @@ ngain
 ngaja
 ngajah
 ngajak
+ngajam
 ngajar
 ngajen
 ngajeng
