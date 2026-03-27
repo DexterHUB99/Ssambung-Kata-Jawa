@@ -568,6 +568,7 @@ andalan
 andang
 andani
 andap
+andara
 andaran
 andas
 ander
@@ -1684,6 +1685,7 @@ dawah
 dawak
 dawet
 dawuh
+daya
 dayah
 dayang
 dayu
@@ -6582,6 +6584,7 @@ ngompol
 ngompor
 ngon
 ngonde
+ngonek
 ngong
 ngoni
 ngono
