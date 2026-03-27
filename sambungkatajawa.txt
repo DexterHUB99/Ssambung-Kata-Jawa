@@ -1327,6 +1327,7 @@ buku
 bulan
 bulat
 bule
+bulet
 bulik
 bulu
 bumbu
