@@ -6624,6 +6624,7 @@ nggoo
 nggoreng
 nggowo
 nggoyo
+ngguling
 nggulung
 ngguyu
 ngguyur
@@ -10306,6 +10307,7 @@ weteng
 weton
 wetu
 wewe
+wewedang
 wewenang
 wi
 wibawa
