@@ -2377,6 +2377,7 @@ epem
 epen
 epep
 eper
+epes
 epet
 epi
 epic
@@ -5159,6 +5160,7 @@ lega
 legi
 leh
 lek
+leker
 lekoh
 lelah
 lele
