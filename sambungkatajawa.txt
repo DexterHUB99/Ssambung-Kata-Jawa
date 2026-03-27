@@ -882,6 +882,7 @@ aslie
 aslii
 asline
 asma
+asmae
 asmane
 asmanipun
 asmara
@@ -1084,6 +1085,7 @@ bajigur
 bajing
 bajingan
 baju
+bajul
 bak
 bakon
 bakso
@@ -1855,6 +1857,7 @@ edane
 edankoe
 edar
 edaran
+ede
 edi
 edo
 edos
