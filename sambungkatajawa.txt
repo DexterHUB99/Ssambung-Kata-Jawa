@@ -3864,7 +3864,6 @@ ipna
 ipo
 ipola
 ipone
-ipri
 ipuk
 ipun
 ipwa
@@ -4268,7 +4267,6 @@ kadal
 kadang
 kadas
 kadek
-kader
 kades
 kadi
 kadong
@@ -4504,7 +4502,6 @@ kataa
 katae
 katah
 katak
-katana
 katane
 kate
 katel
@@ -4953,7 +4950,6 @@ kora
 korak
 koran
 korban
-kore
 korea
 korek
 koreng
@@ -7576,7 +7572,6 @@ okewa
 okin
 okina
 okit
-okita
 okok
 okoke
 okol
