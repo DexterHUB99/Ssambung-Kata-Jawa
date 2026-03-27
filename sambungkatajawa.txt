@@ -576,7 +576,6 @@ ancak
 ancam
 ancaman
 ancang
-ancas
 ancase
 ancen
 ancene
@@ -882,7 +881,6 @@ arjuno
 arka
 arma
 aro
-arogan
 aroh
 arok
 arom
@@ -1247,7 +1245,6 @@ banya
 banyak
 banyu
 bapak
-bar
 bara
 barang
 barat
@@ -2580,6 +2577,7 @@ etel
 etem
 eten
 eter
+etes
 etet
 ethok
 eti
@@ -2725,7 +2723,6 @@ galungan
 galur
 gama
 gaman
-gamanan
 gamane
 gambang
 gambar
@@ -3467,6 +3464,7 @@ hitam
 hitung
 hitungan
 hiu
+hla
 hm
 hmm
 ho
@@ -4126,7 +4124,6 @@ jawab
 jawi
 jawir
 jawoh
-jaya
 je
 jebul
 jela
@@ -4277,7 +4274,6 @@ kadas
 kadek
 kades
 kadi
-kadiri
 kadong
 kados
 kadung
@@ -4312,6 +4308,7 @@ kakang
 kakange
 kakap
 kakasur
+kakayu
 kake
 kakehan
 kakek
@@ -4770,10 +4767,8 @@ keselek
 kesem
 kesempatan
 keset
-kesil
 kesleo
 kesuh
-kesuk
 kesusu
 ket
 keta
@@ -4976,7 +4971,6 @@ kosi
 kosok
 kosong
 kosor
-kost
 kot
 kota
 kotak
@@ -5833,7 +5827,6 @@ melas
 melati
 melek
 meler
-melet
 melok
 melu
 mem
@@ -6491,7 +6484,6 @@ ngama
 ngamah
 ngamal
 ngaman
-ngamang
 ngamar
 ngambang
 ngambar
@@ -9142,7 +9134,6 @@ selet
 seling
 selir
 selo
-selop
 sem
 semak
 semangat
@@ -9643,7 +9634,6 @@ taman
 tamba
 tambah
 tambak
-tambal
 tambang
 tame
 tameng
@@ -9719,7 +9709,6 @@ taura
 tawa
 tawang
 tawar
-tawas
 tawe
 tawon
 taya
