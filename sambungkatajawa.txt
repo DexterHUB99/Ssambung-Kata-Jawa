@@ -1122,6 +1122,7 @@ ayi
 ayia
 ayib
 ayik
+ayin
 ayo
 ayok
 ayom
@@ -5892,6 +5893,7 @@ muga
 mugi
 mugih
 muh
+muhun
 muji
 muka
 mukak
