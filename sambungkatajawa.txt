@@ -211,7 +211,6 @@ aili
 ailo
 ailon
 aima
-aimo
 aimu
 aina
 aing
@@ -705,7 +704,6 @@ anol
 anom
 anoman
 anop
-anos
 ansur
 ansuran
 anta
@@ -1533,6 +1531,7 @@ capung
 cara
 cari
 carik
+caruk
 catur
 cawan
 cawet
@@ -4384,6 +4383,7 @@ katul
 katun
 katur
 katus
+katut
 kawah
 kawal
 kawan
@@ -6468,6 +6468,7 @@ ngayu
 ngayuh
 ngayun
 ngayung
+ngayur
 ngcok
 nge
 ngebas
@@ -7970,6 +7971,7 @@ poloo
 polri
 pom
 poma
+pomen
 pomo
 pomu
 pon
@@ -8331,7 +8333,6 @@ renan
 renang
 rencang
 renda
-rendah
 rendang
 rendeng
 rendi
