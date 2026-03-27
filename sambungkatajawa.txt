@@ -2885,6 +2885,7 @@ hakan
 haki
 hakim
 hako
+haku
 hal
 hala
 halah
@@ -7909,6 +7910,7 @@ salama
 salaman
 sale
 saleh
+salem
 salep
 sali
 salim
