@@ -1338,6 +1338,7 @@ buat
 buatan
 buaya
 bubar
+bubi
 bubis
 bubu
 bubuk
@@ -4734,6 +4735,7 @@ lalah
 lalak
 lalang
 lalat
+lalatan
 laler
 lali
 lalia
@@ -9199,6 +9201,7 @@ ubek
 uber
 ubi
 ubii
+ubub
 ubun
 ubur
 uca
@@ -10021,6 +10024,7 @@ yuli
 yulo
 yuma
 yumi
+yumo
 yumu
 yun
 yuna
