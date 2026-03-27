@@ -3161,6 +3161,7 @@ gulali
 gulane
 gulang
 gule
+gulek
 guleng
 guli
 gulii
@@ -5023,6 +5024,7 @@ kuneng
 kungkum
 kuni
 kuning
+kuningan
 kunir
 kuno
 kunti
