@@ -1245,7 +1245,6 @@ banya
 banyak
 banyu
 bapak
-bar
 bara
 barang
 barat
@@ -2503,6 +2502,7 @@ ero
 eroh
 erok
 erong
+erop
 eror
 eros
 erosi
@@ -3170,6 +3170,7 @@ guguk
 gugup
 gugur
 gugus
+guha
 gujeng
 gul
 gula
@@ -3736,6 +3737,7 @@ ilyas
 im
 ima
 imaa
+imai
 imaji
 imam
 iman
@@ -4270,7 +4272,6 @@ kadas
 kadek
 kades
 kadi
-kadiri
 kadong
 kados
 kadung
@@ -4285,6 +4286,7 @@ kaget
 kagungan
 kahanan
 kahujan
+kail
 kain
 kaine
 kairi
@@ -8182,6 +8184,7 @@ pisi
 pisis
 pisu
 pisuh
+pisusu
 pit
 pita
 pitak
@@ -9703,7 +9706,6 @@ taura
 tawa
 tawang
 tawar
-tawas
 tawe
 tawon
 taya
