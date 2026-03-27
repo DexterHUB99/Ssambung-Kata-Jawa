@@ -1203,6 +1203,7 @@ besok
 betah
 beti
 beton
+bh
 biak
 biang
 biasa
@@ -9539,6 +9540,7 @@ wawa
 wawang
 wawasan
 wawi
+wawo
 way
 wayah
 wayan
