@@ -23,6 +23,7 @@ abik
 abil
 abimanyu
 abin
+abir
 abis
 abit
 abo
@@ -118,6 +119,7 @@ ahab
 ahad
 ahada
 ahah
+ahahad
 ahaj
 ahak
 ahal
@@ -597,6 +599,7 @@ angen
 angep
 anget
 angetan
+anggaran
 anggep
 angger
 anggo
@@ -1348,6 +1351,7 @@ buang
 buat
 buatan
 buaya
+bubak
 bubar
 bubis
 bubu
@@ -3220,6 +3224,7 @@ homa
 homo
 hon
 honan
+hone
 honi
 hono
 honta
@@ -3565,6 +3570,7 @@ ipa
 ipak
 ipan
 ipar
+ipat
 ipe
 ipek
 ipel
@@ -4899,6 +4905,7 @@ lebar
 lebay
 lebih
 lebok
+lebu
 lebur
 lee
 lega
@@ -7210,6 +7217,7 @@ oyot
 oz
 ozon
 pa
+pacol
 pacul
 pada
 padae
@@ -7473,6 +7481,7 @@ pidana
 pie
 pien
 pigura
+pih
 pii
 pijak
 pijar
@@ -9412,6 +9421,7 @@ ukro
 ukta
 uku
 ukuk
+ukukir
 ukul
 ukum
 ukung
@@ -9528,6 +9538,7 @@ unek
 unen
 uner
 unes
+unesa
 ung
 ungaran
 unggah
@@ -9664,6 +9675,7 @@ usar
 use
 usek
 usem
+usen
 user
 usi
 usia
