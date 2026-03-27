@@ -207,7 +207,6 @@ air
 aira
 airan
 airi
-aita
 aite
 aiwa
 aiwak
@@ -270,6 +269,7 @@ ake
 akee
 akeh
 akehi
+aken
 aker
 akes
 aket
@@ -1080,6 +1080,7 @@ bagus
 bah
 bahan
 bahasa
+bahwa
 bai
 baii
 baja
@@ -1143,6 +1144,7 @@ basin
 baso
 basu
 basuh
+basuki
 bat
 bata
 batak
@@ -1595,6 +1597,7 @@ dancok
 dancuk
 dandan
 dandang
+danga
 dangdut
 dangkal
 dani
@@ -1793,6 +1796,7 @@ duduh
 duduk
 dudul
 dudung
+dudut
 duga
 dugi
 duh
@@ -1815,6 +1819,7 @@ dulur
 dum
 dumadi
 dumeh
+dumi
 dunga
 dungo
 duno
@@ -2116,7 +2121,6 @@ eneng
 engeh
 enggal
 enggan
-enggar
 enggeh
 enggih
 enggo
@@ -2153,6 +2157,7 @@ enthog
 enthok
 enting
 entok
+entol
 entong
 entu
 entuk
@@ -2698,6 +2703,7 @@ getan
 gethuk
 getih
 getok
+geton
 getuk
 getun
 gewe
@@ -2874,6 +2880,7 @@ gupuh
 gur
 gura
 gurami
+guramii
 guren
 guri
 gurih
@@ -2969,6 +2976,7 @@ hangi
 hani
 haning
 hanja
+hano
 hansip
 hanta
 hantam
@@ -3151,6 +3159,7 @@ howo
 hoyo
 hp
 hu
+hub
 hubung
 hubungan
 huda
@@ -3967,6 +3976,7 @@ kandhang
 kandi
 kang
 kangen
+kangge
 kanggih
 kanggo
 kangkung
@@ -4393,6 +4403,7 @@ kiwa
 kiye
 klambi
 klambimu
+klapa
 klaten
 klebus
 klenger
@@ -5639,6 +5650,7 @@ napa
 napak
 napal
 napas
+nape
 napi
 napo
 napsu
@@ -5709,6 +5721,7 @@ nedho
 nedi
 neduh
 neg
+nega
 negara
 negeri
 neges
@@ -6002,6 +6015,7 @@ ngasta
 ngasu
 ngasuh
 ngasur
+ngatah
 ngatal
 ngatel
 ngatemi
@@ -6031,6 +6045,7 @@ ngawu
 ngawun
 ngawur
 ngaya
+ngayah
 ngayam
 ngayogyakarta
 ngayomi
@@ -6431,6 +6446,7 @@ ngumbahi
 ngumbel
 ngumpat
 ngumpet
+ngumpil
 ngumpul
 ngun
 ngunani
@@ -6550,6 +6566,7 @@ nipa
 nipak
 nipan
 nipis
+nipo
 nipon
 nipu
 nipun
@@ -7196,6 +7213,7 @@ pawang
 pawon
 paya
 payah
+payang
 payu
 payung
 pe
@@ -7379,6 +7397,7 @@ piwaris
 piwe
 piwulang
 piyambak
+piyan
 piye
 piyo
 pling
@@ -7575,6 +7594,7 @@ rajungan
 rajut
 rak
 raka
+rakan
 rake
 raken
 raket
@@ -7683,12 +7703,14 @@ rausah
 raut
 rautan
 rawa
+rawah
 rawak
 rawan
 rawat
 rawe
 rawi
 rawit
+rawoh
 rawon
 rawu
 rawuh
@@ -8070,6 +8092,7 @@ sama
 samah
 saman
 samat
+sambak
 sambal
 sambang
 sambat
@@ -8099,6 +8122,7 @@ sandang
 sanduk
 sanes
 sang
+sanga
 sangar
 sanggul
 sangu
@@ -8211,6 +8235,7 @@ selo
 semak
 semangat
 semanten
+semapak
 semar
 semarang
 sembah
@@ -8799,6 +8824,7 @@ tengah
 tengen
 tengik
 tepak
+tepel
 tepung
 ter
 tera
@@ -9415,6 +9441,7 @@ usai
 usan
 usani
 usap
+usar
 use
 usek
 usem
@@ -9521,6 +9548,7 @@ waca
 wacaan
 wacana
 wadah
+wadang
 wader
 wadi
 wadol
@@ -9574,6 +9602,7 @@ warkop
 warna
 warnae
 waro
+warti
 waru
 waruh
 warung
@@ -9624,11 +9653,11 @@ weki
 wektu
 wel
 wela
+welai
 welo
 welut
 wen
 wena
-wenang
 weneh
 wengi
 weni
