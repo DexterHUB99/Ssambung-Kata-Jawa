@@ -4955,6 +4955,7 @@ lansia
 lantai
 lantang
 lantas
+lantih
 lanting
 lantun
 lantung
@@ -5446,6 +5447,7 @@ manjing
 manjur
 mantap
 manten
+mantep
 mantu
 mantuk
 mantul
@@ -7652,6 +7654,7 @@ pes
 pesen
 pesing
 peso
+pesta
 peta
 pete
 petel
