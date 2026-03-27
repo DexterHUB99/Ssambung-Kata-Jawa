@@ -211,6 +211,7 @@ aili
 ailo
 ailon
 aima
+aimo
 aimu
 aina
 aing
@@ -704,6 +705,7 @@ anol
 anom
 anoman
 anop
+anos
 ansur
 ansuran
 anta
@@ -1531,7 +1533,6 @@ capung
 cara
 cari
 carik
-caruk
 catur
 cawan
 cawet
@@ -1660,6 +1661,7 @@ cupu
 curi
 curut
 cuti
+dablek
 dada
 dadah
 dadali
@@ -4383,7 +4385,6 @@ katul
 katun
 katur
 katus
-katut
 kawah
 kawal
 kawan
@@ -5237,6 +5238,7 @@ lintasan
 lio
 lip
 lipa
+lipak
 lipan
 lipas
 lipat
@@ -6468,7 +6470,6 @@ ngayu
 ngayuh
 ngayun
 ngayung
-ngayur
 ngcok
 nge
 ngebas
@@ -7971,7 +7972,6 @@ poloo
 polri
 pom
 poma
-pomen
 pomo
 pomu
 pon
@@ -8333,6 +8333,7 @@ renan
 renang
 rencang
 renda
+rendah
 rendang
 rendeng
 rendi
