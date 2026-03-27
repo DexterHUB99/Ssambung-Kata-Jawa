@@ -2421,6 +2421,7 @@ esis
 eso
 esok
 eson
+esop
 esor
 estri
 estu
