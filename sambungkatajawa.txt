@@ -7489,6 +7489,7 @@ nuh
 nuhun
 nui
 nuju
+nujum
 nujuman
 nuk
 nuka
@@ -8047,6 +8048,7 @@ pantun
 pantura
 panutan
 panuwun
+panyuwun
 papa
 papah
 papan
