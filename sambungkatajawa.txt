@@ -6175,6 +6175,7 @@ ngolek
 ngoleke
 ngoli
 ngolo
+ngolob
 ngoloh
 ngolok
 ngoma
@@ -8293,6 +8294,7 @@ sultan
 sulung
 sum
 suma
+suman
 sumbang
 sumbar
 sumber
