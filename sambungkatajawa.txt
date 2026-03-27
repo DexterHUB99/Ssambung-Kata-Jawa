@@ -21,6 +21,7 @@ abia
 abih
 abik
 abil
+abim
 abimanyu
 abin
 abir
@@ -1733,6 +1734,7 @@ dekek
 deki
 dekok
 dela
+dele
 delik
 delima
 delman
