@@ -1459,6 +1459,7 @@ bur
 burek
 buri
 burik
+buron
 buruh
 bus
 busa
@@ -4429,6 +4430,7 @@ kelangan
 kelap
 kelar
 kelas
+kelat
 kelawan
 kelebon
 kelek
