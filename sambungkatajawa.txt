@@ -6458,6 +6458,7 @@ ngetan
 ngetel
 ngetih
 ngetok
+ngetot
 ngetung
 ngewangi
 ngewar
