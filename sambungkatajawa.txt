@@ -1920,6 +1920,7 @@ egoh
 egrang
 eh
 eha
+ehab
 ehad
 ehah
 ehak
@@ -7429,6 +7430,7 @@ pilar
 pilarian
 pilat
 pile
+pileh
 pilek
 pilem
 pili
