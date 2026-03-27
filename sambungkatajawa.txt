@@ -1309,6 +1309,7 @@ budaya
 bude
 budeg
 budek
+budhal
 budhe
 budi
 bue
@@ -1364,6 +1365,7 @@ buto
 butu
 butuh
 buyu
+buyut
 ca
 cabe
 cabuk
@@ -8465,6 +8467,7 @@ suwung
 suya
 ta
 taat
+tabah
 tabi
 tabir
 tabo
