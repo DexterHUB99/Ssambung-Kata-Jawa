@@ -3472,6 +3472,7 @@ iris
 irit
 irita
 iroh
+irol
 iron
 irong
 iros
@@ -3815,6 +3816,7 @@ kafir
 kagem
 kaget
 kagungan
+kahanan
 kain
 kaine
 kairi
@@ -4870,6 +4872,7 @@ lodoh
 loe
 logat
 loh
+loha
 lohan
 loi
 loji
