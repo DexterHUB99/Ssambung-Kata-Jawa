@@ -397,6 +397,7 @@ alum
 alumni
 alun
 alunan
+alunna
 alupi
 alur
 alus
@@ -3735,6 +3736,7 @@ jane
 jang
 jangan
 jangger
+jangka
 jangkar
 jangkrik
 jangkung
