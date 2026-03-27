@@ -1221,6 +1221,7 @@ bajing
 bajingan
 bajo
 baju
+bajuk
 bajul
 bak
 baka
@@ -4144,6 +4145,7 @@ jalii
 jaluk
 jam
 jamak
+jamal
 jaman
 jamat
 jambak
