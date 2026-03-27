@@ -2569,6 +2569,7 @@ eser
 eses
 esi
 esih
+esik
 esin
 esis
 eso
@@ -9142,7 +9143,6 @@ saring
 sarip
 saripan
 sarong
-sarota
 saru
 sarung
 sas
@@ -9168,6 +9168,7 @@ sawan
 sawang
 sawer
 sawi
+sawii
 sawiji
 sawijine
 sawik
