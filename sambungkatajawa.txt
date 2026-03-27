@@ -1986,6 +1986,7 @@ dot
 dowo
 dowu
 doyan
+doyo
 du
 duda
 dudi
@@ -6719,6 +6720,7 @@ ngenget
 ngenggeh
 ngengken
 ngengko
+ngengkok
 ngengkol
 ngengobrol
 ngenko
