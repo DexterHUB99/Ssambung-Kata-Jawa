@@ -741,6 +741,7 @@ apuse
 apusi
 ar
 ara
+araa
 arab
 arag
 arah
@@ -1083,6 +1084,7 @@ bandel
 bando
 bandung
 bang
+bangke
 bangkekan
 bangkong
 bangsat
@@ -5862,6 +5864,7 @@ ngatel
 ngatemi
 ngati
 ngatok
+ngatos
 ngatuk
 ngatur
 ngaturaken
