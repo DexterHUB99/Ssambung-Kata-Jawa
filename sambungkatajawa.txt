@@ -4980,6 +4980,7 @@ luwe
 luweh
 luwes
 luwih
+luye
 ma
 maaf
 mabu
@@ -7528,6 +7529,7 @@ raso
 rasti
 rasu
 rasuk
+rasukan
 rasya
 rata
 ratau
