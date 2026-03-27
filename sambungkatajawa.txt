@@ -186,7 +186,6 @@ ahoha
 ahok
 ahoo
 ahop
-ahor
 ahoy
 ahu
 ahud
@@ -577,6 +576,7 @@ anane
 anang
 anangin
 anani
+anar
 anas
 anasi
 anat
@@ -851,6 +851,7 @@ aran
 arane
 arang
 arap
+arar
 aras
 arasen
 aray
@@ -1159,7 +1160,6 @@ ayep
 ayi
 ayia
 ayib
-ayih
 ayik
 ayin
 ayo
@@ -1307,7 +1307,6 @@ bea
 bebas
 bebe
 bebek
-bebir
 beca
 becak
 becek
@@ -1567,6 +1566,7 @@ cabe
 cabuk
 cabut
 caca
+cacah
 cacak
 cacat
 cace
@@ -2024,7 +2024,6 @@ dowo
 dowu
 doyan
 doyo
-doyong
 du
 duda
 dudi
@@ -2138,6 +2137,7 @@ egik
 ego
 egod
 egoh
+egois
 egrang
 egu
 eh
@@ -3082,6 +3082,7 @@ giling
 gilir
 gilo
 gim
+gima
 giman
 gimbal
 gina
@@ -3727,6 +3728,7 @@ ilahi
 ilai
 ilak
 ilaki
+ilala
 ilali
 ilam
 ilamu
@@ -4288,7 +4290,6 @@ kaba
 kabar
 kabare
 kabeh
-kabel
 kabi
 kabor
 kabuk
@@ -5043,7 +5044,6 @@ ku
 kua
 kuasa
 kuat
-kubur
 kuburan
 kucing
 kucir
@@ -5170,6 +5170,7 @@ laba
 labi
 labu
 labue
+labur
 lada
 ladi
 lading
@@ -6145,7 +6146,6 @@ mutah
 mute
 muter
 muti
-mutih
 na
 naa
 nab
@@ -6373,7 +6373,6 @@ neg
 nega
 negara
 negeri
-negeria
 neges
 negi
 negor
@@ -6802,8 +6801,8 @@ ngelu
 ngelus
 ngeluwes
 ngem
+ngeman
 ngemas
-ngembala
 ngembel
 ngembun
 ngemet
@@ -7924,7 +7923,6 @@ pakap
 pakar
 pakde
 pakdhe
-paki
 pakle
 paksa
 paku
@@ -8123,7 +8121,6 @@ pemuda
 pen
 pena
 penak
-pendek
 pendopo
 pengen
 peni
@@ -8602,6 +8599,7 @@ rasan
 rasane
 rase
 rasi
+rasian
 rasis
 rasko
 raso
@@ -8885,7 +8883,6 @@ rotan
 roti
 roto
 rowang
-rowi
 rowo
 roya
 royo
@@ -8981,7 +8978,6 @@ sabe
 saben
 sabet
 sabi
-sabil
 sabit
 sablon
 sabok
@@ -9245,7 +9241,6 @@ sembari
 sembrono
 sembur
 semen
-semene
 semi
 semok
 semol
@@ -10543,7 +10538,6 @@ urutan
 urwa
 us
 usa
-usaa
 usada
 usae
 usah
@@ -10804,7 +10798,6 @@ weneh
 wengi
 weni
 wer
-weri
 werkudara
 werna
 werno
@@ -11070,7 +11063,6 @@ yuri
 yuro
 yusa
 yusan
-yusha
 yusi
 yuswa
 yuswo
