@@ -3535,6 +3535,7 @@ ihma
 ihmu
 ihni
 iho
+ihre
 ihsan
 ihta
 ihwa
@@ -4421,6 +4422,7 @@ katimbang
 katir
 katok
 katon
+katot
 katresnan
 katrok
 katua
