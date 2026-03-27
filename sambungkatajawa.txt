@@ -2974,6 +2974,7 @@ hangi
 hani
 haning
 hanja
+hano
 hansip
 hanta
 hantam
@@ -7697,6 +7698,7 @@ rausah
 raut
 rautan
 rawa
+rawah
 rawak
 rawan
 rawat
