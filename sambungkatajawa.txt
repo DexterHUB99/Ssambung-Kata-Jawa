@@ -487,6 +487,7 @@ amoh
 amok
 among
 amor
+amos
 amp
 ampa
 ampal
@@ -626,6 +627,7 @@ angkrik
 angkring
 angkringan
 angkuh
+angling
 angon
 angop
 angos
@@ -666,6 +668,7 @@ anjing
 anjinga
 anjinge
 anjir
+anjlog
 anjlok
 anjng
 anjok
@@ -700,6 +703,7 @@ anteng
 antep
 anter
 anti
+antii
 antik
 antiku
 antimo
@@ -1648,6 +1652,7 @@ dandang
 danga
 dangdut
 dangkal
+dangu
 dani
 dano
 danu
@@ -1677,7 +1682,6 @@ dawet
 dawuh
 dayah
 dayang
-dayoh
 dayu
 de
 debu
@@ -2069,6 +2073,7 @@ elingan
 elir
 elis
 elit
+elmi
 elmu
 elo
 eloh
@@ -2108,6 +2113,7 @@ embe
 ember
 emboh
 embok
+embokmu
 embong
 embuh
 embun
@@ -3335,6 +3341,7 @@ ido
 idu
 iduem
 idulfitri
+idumu
 iduni
 ieu
 if
@@ -3443,6 +3450,7 @@ ilamu
 ilan
 ilang
 ilange
+ilangono
 ilap
 ilar
 ilas
@@ -3461,6 +3469,7 @@ ilili
 ilin
 iling
 ilingan
+ilingen
 ilir
 ilis
 ilmu
@@ -3814,7 +3823,6 @@ jangkrik
 jangkung
 jani
 janji
-jantan
 jantung
 jar
 jara
@@ -4017,6 +4025,7 @@ kaku
 kakung
 kal
 kala
+kalaa
 kalah
 kalajengking
 kalan
@@ -4096,6 +4105,7 @@ kang
 kange
 kangen
 kangge
+kanggen
 kanggih
 kanggo
 kangkung
@@ -4602,6 +4612,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopan
 kopeng
 koper
 kopet
@@ -4904,6 +4915,7 @@ lawak
 lawan
 lawang
 lawas
+lawase
 lawe
 lawu
 lawuh
@@ -5061,6 +5073,7 @@ lise
 lisi
 lit
 lita
+litah
 liwa
 liwat
 liwet
@@ -5420,6 +5433,7 @@ mega
 meh
 meja
 mek
+mekan
 mekar
 meki
 mekso
@@ -5959,6 +5973,7 @@ netot
 netra
 newa
 ngabab
+ngabari
 ngabdi
 ngaben
 ngabes
@@ -6188,6 +6203,7 @@ ngatemi
 ngati
 ngatok
 ngatos
+ngatu
 ngatuk
 ngatur
 ngaturaken
@@ -6200,7 +6216,6 @@ ngawang
 ngawas
 ngawe
 ngaweh
-ngawer
 ngaweruhi
 ngawes
 ngawi
@@ -6428,6 +6443,7 @@ ngila
 ngilag
 ngilang
 ngilange
+ngilap
 ngilat
 ngiler
 ngiling
@@ -6586,6 +6602,7 @@ ngrit
 ngrok
 ngrokok
 ngrumpi
+ngrungokake
 ngsu
 ngubek
 nguber
@@ -6777,6 +6794,7 @@ nitik
 nitip
 niya
 niyat
+njajal
 njaluk
 njero
 njingan
@@ -7439,6 +7457,7 @@ peka
 pekik
 peko
 pekok
+pel
 pela
 pelan
 pelangi
@@ -7858,6 +7877,7 @@ ramuan
 ramutu
 ran
 rana
+ranaa
 ranah
 randa
 randu
@@ -7961,6 +7981,7 @@ rekak
 rekam
 rekan
 rekasa
+rekmo
 rekoso
 rela
 relo
@@ -8120,6 +8141,7 @@ roki
 roko
 rokok
 rola
+rolaa
 rolas
 roli
 rolo
@@ -8391,6 +8413,7 @@ sarung
 sas
 sasa
 sasak
+sasemi
 sasi
 sastra
 sasu
@@ -8807,7 +8830,6 @@ sunar
 sunat
 sunatan
 sunda
-sundari
 sundel
 sunduk
 sundul
@@ -9609,6 +9631,7 @@ untir
 untu
 untua
 untuk
+untuku
 untul
 untumu
 untune
@@ -9859,10 +9882,12 @@ wanie
 wanita
 wapi
 war
+wara
 waras
 wareg
 warek
 warga
+wari
 waria
 waris
 warisan
@@ -10035,6 +10060,7 @@ wuku
 wula
 wulan
 wulang
+wuli
 wulu
 wulung
 wuno
