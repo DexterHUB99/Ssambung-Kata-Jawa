@@ -961,6 +961,7 @@ asuh
 asuha
 asui
 asuii
+asuk
 asuku
 asul
 asum
@@ -5561,6 +5562,7 @@ manus
 manusi
 manut
 maos
+map
 mapan
 mapel
 mar
@@ -7942,6 +7944,7 @@ piyambak
 piyan
 piye
 piyo
+piyus
 pling
 po
 poa
