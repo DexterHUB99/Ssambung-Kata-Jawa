@@ -5856,6 +5856,7 @@ milah
 milen
 mili
 milih
+milik
 milu
 mima
 mimi
@@ -6837,6 +6838,7 @@ nggowo
 nggoyo
 ngguling
 nggulung
+nggusah
 ngguyu
 ngguyur
 ngibarat
