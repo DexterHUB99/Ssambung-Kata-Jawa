@@ -6702,6 +6702,7 @@ ondol
 ondone
 oneng
 ongak
+ongeh
 ongkeh
 ongkek
 ongkel
