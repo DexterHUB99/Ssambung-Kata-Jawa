@@ -5288,6 +5288,7 @@ mina
 minal
 minat
 mingat
+minggat
 minggir
 minggu
 mingkem
