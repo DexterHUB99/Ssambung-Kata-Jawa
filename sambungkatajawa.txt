@@ -6001,6 +6001,7 @@ ngaca
 ngacak
 ngacem
 ngaceng
+ngacir
 ngaco
 ngacung
 ngadai
@@ -6965,6 +6966,7 @@ nyamar
 nyambi
 nyamping
 nyamuk
+nyandang
 nyang
 nyangking
 nyangkul
