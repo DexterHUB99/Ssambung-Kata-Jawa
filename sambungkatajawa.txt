@@ -6566,6 +6566,7 @@ numbas
 numbuk
 numen
 numis
+numo
 numpah
 numpak
 numpang
@@ -7049,6 +7050,7 @@ parip
 paris
 parit
 parkir
+parno
 parok
 paru
 parup
