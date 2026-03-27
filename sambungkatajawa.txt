@@ -2749,6 +2749,7 @@ gerong
 geros
 gertak
 ges
+gesang
 gesek
 geseng
 geser
@@ -6135,6 +6136,7 @@ ngawang
 ngawas
 ngawe
 ngaweh
+ngaweruhi
 ngawes
 ngawi
 ngawih
@@ -9856,6 +9858,7 @@ wifi
 wigati
 wih
 wii
+wijaya
 wiji
 wik
 wika
