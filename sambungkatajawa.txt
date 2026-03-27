@@ -6797,6 +6797,7 @@ ngelu
 ngelus
 ngeluwes
 ngem
+ngeman
 ngemas
 ngembel
 ngembun
