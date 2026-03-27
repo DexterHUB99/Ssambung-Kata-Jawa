@@ -576,6 +576,7 @@ ancak
 ancam
 ancaman
 ancang
+ancas
 ancase
 ancen
 ancene
@@ -1245,6 +1246,7 @@ banya
 banyak
 banyu
 bapak
+bar
 bara
 barang
 barat
@@ -4272,6 +4274,7 @@ kadas
 kadek
 kades
 kadi
+kadiri
 kadong
 kados
 kadung
@@ -4968,6 +4971,7 @@ kosi
 kosok
 kosong
 kosor
+kost
 kot
 kota
 kotak
@@ -5824,6 +5828,7 @@ melas
 melati
 melek
 meler
+melet
 melok
 melu
 mem
@@ -9131,6 +9136,7 @@ selet
 seling
 selir
 selo
+selop
 sem
 semak
 semangat
@@ -9706,6 +9712,7 @@ taura
 tawa
 tawang
 tawar
+tawas
 tawe
 tawon
 taya
