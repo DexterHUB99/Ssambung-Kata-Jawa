@@ -159,7 +159,6 @@ ahoa
 ahoha
 ahok
 ahoo
-ahop
 ahoy
 ahu
 ahud
@@ -429,7 +428,6 @@ amblas
 ambles
 ambo
 amboi
-ambrol
 ambruk
 ambu
 ambulan
@@ -936,6 +934,7 @@ atim
 atimu
 atin
 atine
+atip
 atir
 atis
 atise
@@ -1079,6 +1078,7 @@ balek
 bali
 balik
 balikno
+baline
 balung
 ban
 banci
@@ -2407,7 +2407,6 @@ ganco
 gancuk
 ganda
 gandeng
-gandokan
 gandos
 gandrung
 gandul
@@ -2488,6 +2487,7 @@ gasi
 gasik
 gasing
 gasir
+gasmi
 gass
 gasta
 gata
@@ -3036,7 +3036,6 @@ hina
 hinggap
 hir
 hira
-hiran
 hire
 hiruk
 his
@@ -3278,6 +3277,7 @@ ilik
 ilili
 ilin
 iling
+ilingan
 ilir
 ilis
 ilmu
@@ -3565,6 +3565,7 @@ iyu
 iyuh
 iyuk
 iz
+ja
 jaa
 jabur
 jadi
@@ -3689,7 +3690,6 @@ jipuk
 jir
 jira
 jiran
-jire
 jita
 jitak
 jiwa
@@ -4108,6 +4108,7 @@ kemeja
 kemem
 kemeruh
 kemiri
+kemis
 kemoh
 kemos
 kempes
@@ -4209,7 +4210,6 @@ keset
 kesleo
 kesusu
 ket
-keta
 ketan
 ketat
 ketek
@@ -6043,7 +6043,6 @@ ngewar
 ngewe
 ngewee
 ngewek
-ngewi
 ngeyel
 ngg
 ngga
@@ -6445,7 +6444,6 @@ nok
 nokar
 noken
 noki
-nokoh
 nol
 nolak
 nolan
@@ -6954,7 +6952,6 @@ panggih
 panggil
 panggo
 panggon
-panggung
 pangling
 panguripan
 pani
@@ -7127,6 +7124,7 @@ pijet
 pijit
 pikantuk
 piki
+piku
 pikul
 pikun
 pikur
@@ -7234,6 +7232,7 @@ pola
 polah
 polan
 polar
+pole
 poleh
 poles
 poli
@@ -7427,6 +7426,7 @@ rambut
 rambuta
 rambutan
 rame
+ramen
 ramene
 rames
 ramni
@@ -8024,6 +8024,7 @@ sembur
 semen
 semi
 semok
+semol
 sempak
 sempake
 semprul
@@ -8040,8 +8041,8 @@ sendok
 seneg
 seneng
 seng
+senin
 senjata
-seno
 senok
 senopati
 sepanci
@@ -8387,6 +8388,7 @@ susumu
 susune
 sut
 sutan
+suten
 sutil
 suw
 suwe
@@ -8526,6 +8528,7 @@ tayi
 tayo
 te
 tebang
+tebing
 tebu
 tegak
 tegal
@@ -8900,7 +8903,6 @@ ujian
 ujug
 ujuk
 ujung
-ujur
 uk
 uka
 ukaa
