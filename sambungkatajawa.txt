@@ -2377,6 +2377,7 @@ epem
 epen
 epep
 eper
+epes
 epet
 epi
 epic
@@ -3675,6 +3676,7 @@ impel
 impi
 impian
 impis
+impor
 impun
 impung
 imra
@@ -4841,6 +4843,7 @@ korek
 koreng
 kori
 kos
+kosa
 kosan
 kosek
 kosekan
@@ -4943,6 +4946,7 @@ kuntulmu
 kunyuk
 kuo
 kuota
+kup
 kupa
 kupan
 kupas
@@ -4988,6 +4992,7 @@ kuwe
 kuwi
 kuwo
 kuya
+kuyo
 kwe
 kyai
 la
@@ -5158,6 +5163,7 @@ lega
 legi
 leh
 lek
+leker
 lekoh
 lelah
 lele
@@ -7123,7 +7129,6 @@ nki
 nko
 nmu
 nnalika
-nnaliko
 nnangka
 nnani
 nnduk
@@ -7514,6 +7519,7 @@ opem
 open
 openi
 oper
+opes
 opet
 opik
 opini
@@ -8362,6 +8368,7 @@ rekak
 rekam
 rekan
 rekasa
+rekat
 rekmo
 rekoso
 rela
