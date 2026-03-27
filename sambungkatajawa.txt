@@ -1301,6 +1301,7 @@ besan
 besar
 beso
 besok
+besuk
 betah
 beti
 beton
@@ -7778,6 +7779,7 @@ patok
 patu
 patuh
 patung
+patut
 paunten
 pawa
 pawang
