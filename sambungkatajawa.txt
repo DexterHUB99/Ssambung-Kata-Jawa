@@ -2743,6 +2743,7 @@ gatuk
 gaul
 gaun
 gawa
+gawaa
 gawae
 gawan
 gawang
@@ -8148,6 +8149,7 @@ rangda
 rangga
 ranggi
 rangi
+rangkap
 rangkit
 rangkul
 rangu
@@ -9175,6 +9177,7 @@ susaa
 susah
 susan
 susi
+susii
 susilo
 susok
 susu
