@@ -694,7 +694,6 @@ anyem
 anyep
 anyer
 anyes
-anyi
 anying
 anyir
 aos
@@ -741,7 +740,6 @@ apuse
 apusi
 ar
 ara
-araa
 arab
 arag
 arah
@@ -1084,7 +1082,6 @@ bandel
 bando
 bandung
 bang
-bangke
 bangkekan
 bangkong
 bangsat
@@ -4415,7 +4412,6 @@ kudus
 kue
 kui
 kuia
-kuian
 kuii
 kuio
 kuk
@@ -4428,7 +4424,6 @@ kukur
 kukus
 kul
 kula
-kulaan
 kulak
 kulan
 kulang
@@ -4453,7 +4448,6 @@ kume
 kumel
 kumi
 kumpul
-kumu
 kumuh
 kun
 kuna
@@ -5665,7 +5659,6 @@ ngacem
 ngaceng
 ngaco
 ngadai
-ngadani
 ngadeg
 ngadek
 ngadem
@@ -5866,7 +5859,6 @@ ngatel
 ngatemi
 ngati
 ngatok
-ngatos
 ngatuk
 ngatur
 ngaturaken
@@ -6183,7 +6175,6 @@ ngolek
 ngoleke
 ngoli
 ngolo
-ngolob
 ngoloh
 ngolok
 ngoma
@@ -7109,7 +7100,6 @@ pien
 pigura
 pii
 pijak
-pijat
 pijek
 pijer
 pijet
@@ -7914,7 +7904,6 @@ sapii
 sapo
 sapu
 sapun
-sapurne
 saput
 sar
 sara
@@ -8030,6 +8019,7 @@ seneg
 seneng
 seng
 senjata
+seno
 senok
 senopati
 sepanci
@@ -8304,7 +8294,6 @@ sultan
 sulung
 sum
 suma
-suman
 sumbang
 sumbar
 sumber
@@ -8387,7 +8376,6 @@ suwun
 suwung
 suya
 ta
-taat
 tabi
 tabir
 tabo
@@ -8924,7 +8912,6 @@ ukli
 ukna
 ukno
 uko
-ukoh
 ukol
 ukom
 ukop
@@ -8992,7 +8979,6 @@ umahe
 umak
 umal
 uman
-umana
 umar
 umat
 umbah
@@ -9303,7 +9289,6 @@ waki
 wakil
 waktu
 waku
-wakul
 wala
 walah
 walang
