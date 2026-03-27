@@ -4029,6 +4029,7 @@ jenengan
 jengkel
 jera
 jerami
+jerih
 jero
 jeroan
 jeruk
@@ -5028,6 +5029,7 @@ lami
 lamis
 lamon
 lamongan
+lampah
 lampir
 lampiran
 lampit
@@ -6302,6 +6304,7 @@ ngam
 ngama
 ngamah
 ngamal
+ngaman
 ngamar
 ngambang
 ngambar
