@@ -5224,6 +5224,7 @@ mela
 melas
 melati
 melek
+meler
 melok
 melu
 mem
@@ -7493,6 +7494,7 @@ rajang
 rajim
 rajin
 raju
+rajuk
 rajungan
 rajut
 rak
