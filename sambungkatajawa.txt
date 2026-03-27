@@ -3965,6 +3965,7 @@ kandhang
 kandi
 kang
 kangen
+kangge
 kanggih
 kanggo
 kangkung
@@ -5707,6 +5708,7 @@ nedho
 nedi
 neduh
 neg
+nega
 negara
 negeri
 neges
