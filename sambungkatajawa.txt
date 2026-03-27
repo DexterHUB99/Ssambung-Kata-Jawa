@@ -5741,6 +5741,7 @@ malesi
 mali
 malih
 malik
+malin
 maling
 malu
 malut
@@ -9136,6 +9137,7 @@ sanak
 sandal
 sandang
 sanduk
+sandung
 sanes
 sang
 sanga
