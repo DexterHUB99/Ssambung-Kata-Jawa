@@ -3248,6 +3248,7 @@ hoi
 hoki
 hoko
 hola
+hole
 holi
 holo
 homa
