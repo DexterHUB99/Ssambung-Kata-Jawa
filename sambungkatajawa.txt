@@ -3951,6 +3951,7 @@ isoe
 isok
 isoma
 isoo
+isor
 isra
 isro
 ista
