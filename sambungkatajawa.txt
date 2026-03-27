@@ -4355,6 +4355,7 @@ kase
 kasek
 kasem
 kasep
+kasepen
 kasepuh
 kaset
 kasi
@@ -6376,6 +6377,7 @@ ngantos
 ngantri
 ngantuk
 ngantun
+ngantung
 nganu
 nganyeli
 ngaos
