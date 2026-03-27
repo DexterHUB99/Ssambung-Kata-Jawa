@@ -3498,6 +3498,7 @@ iuta
 iw
 iwak
 iwake
+iwakmu
 iwan
 iwane
 iwas
@@ -3777,6 +3778,7 @@ kali
 kalian
 kalih
 kalii
+kalim
 kalimat
 kalin
 kaliren
@@ -6104,6 +6106,7 @@ ngobat
 ngober
 ngobong
 ngobrol
+ngocak
 ngoceh
 ngocok
 ngodong
@@ -8142,6 +8145,7 @@ some
 son
 songo
 songong
+sono
 sonten
 sop
 sopa
