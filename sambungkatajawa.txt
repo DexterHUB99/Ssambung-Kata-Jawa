@@ -365,7 +365,6 @@ alal
 alalah
 alam
 alama
-alaman
 alami
 alamo
 alan
@@ -394,7 +393,6 @@ ali
 alia
 alien
 alif
-alig
 alih
 aliho
 alii
@@ -449,7 +447,6 @@ amalan
 amam
 amama
 aman
-amana
 amanah
 amanat
 amane
@@ -569,7 +566,6 @@ anakmu
 anal
 anam
 anama
-anaman
 anan
 anane
 anang
@@ -583,7 +579,6 @@ ancak
 ancam
 ancaman
 ancang
-ancas
 ancase
 ancen
 ancene
@@ -774,7 +769,6 @@ anut
 anuwa
 anyam
 anyaman
-anyamana
 anyar
 anyel
 anyem
@@ -891,7 +885,6 @@ arjuno
 arka
 arma
 aro
-arogan
 aroh
 arok
 arom
@@ -1257,7 +1250,6 @@ banya
 banyak
 banyu
 bapak
-bar
 bara
 barang
 barat
@@ -2043,7 +2035,6 @@ duku
 dukuh
 dukun
 dukur
-dukut
 dulan
 dulang
 duli
@@ -2087,7 +2078,6 @@ duwet
 duwit
 duwur
 ealah
-ebas
 eben
 ebi
 eboh
@@ -2742,7 +2732,6 @@ galungan
 galur
 gama
 gaman
-gamanan
 gamane
 gambang
 gambar
@@ -2945,7 +2934,6 @@ gelut
 gem
 gema
 gemah
-geman
 gemar
 gemas
 gemati
@@ -3984,7 +3972,6 @@ isino
 isis
 isisa
 isisin
-isisis
 isit
 isla
 islam
@@ -4148,7 +4135,6 @@ jawab
 jawi
 jawir
 jawoh
-jaya
 je
 jebul
 jela
@@ -4278,7 +4264,6 @@ kabare
 kabeh
 kabi
 kabor
-kabuk
 kabun
 kabur
 kabut
@@ -4300,7 +4285,6 @@ kadas
 kadek
 kades
 kadi
-kadiri
 kadong
 kados
 kadung
@@ -4782,7 +4766,6 @@ keruk
 kerupuk
 kerut
 kes
-kesa
 kesah
 kesambet
 kesan
@@ -4796,10 +4779,8 @@ keselek
 kesem
 kesempatan
 keset
-kesil
 kesleo
 kesuh
-kesuk
 kesusu
 ket
 keta
@@ -4942,7 +4923,6 @@ kolek
 koli
 koloh
 kolong
-kolongan
 kolop
 kolot
 kom
@@ -4964,7 +4944,6 @@ kondhang
 kondi
 kondisi
 kondur
-kone
 konek
 koni
 kono
@@ -5004,7 +4983,6 @@ kosi
 kosok
 kosong
 kosor
-kost
 kot
 kota
 kotak
@@ -5863,7 +5841,6 @@ melas
 melati
 melek
 meler
-melet
 melok
 melu
 mem
@@ -6015,7 +5992,6 @@ mona
 mondok
 monggo
 mongo
-mongso
 moni
 montor
 monyet
@@ -6377,7 +6353,6 @@ nelongso
 neluk
 nem
 nema
-neman
 nembak
 nembang
 nembe
@@ -6527,7 +6502,6 @@ ngama
 ngamah
 ngamal
 ngaman
-ngamang
 ngamar
 ngambang
 ngambar
@@ -6546,7 +6520,6 @@ ngamok
 ngampak
 ngampar
 ngampel
-ngamper
 ngampet
 ngampil
 ngampiri
@@ -6737,13 +6710,11 @@ ngecat
 ngece
 ngecek
 ngeces
-ngecok
 ngedan
 ngedang
 ngedar
 ngeden
 ngedol
-ngedu
 ngeeh
 ngegas
 ngegawe
@@ -6985,7 +6956,6 @@ ngino
 ngintal
 ngintil
 ngintip
-nginu
 nginum
 ngipas
 ngipasi
@@ -7176,7 +7146,6 @@ ngulu
 ngulur
 ngum
 ngumah
-nguman
 ngumbah
 ngumbahi
 ngumbel
@@ -7190,7 +7159,6 @@ ngunci
 ngundah
 ngundang
 ngunduh
-ngune
 ngung
 nguni
 ngunjuk
@@ -7348,7 +7316,6 @@ niyat
 njajal
 njaluk
 njero
-njing
 njingan
 njupuk
 nki
@@ -7429,7 +7396,6 @@ nuh
 nuhun
 nui
 nuju
-nujuman
 nuk
 nuka
 nuki
@@ -7548,7 +7514,6 @@ nyong
 nyonya
 nyoto
 nyulik
-nyumbang
 nyungsep
 nyuri
 nyurung
@@ -8293,7 +8258,6 @@ pokro
 pol
 pola
 polah
-polahe
 polan
 polar
 pole
@@ -8891,7 +8855,6 @@ rum
 ruma
 rumah
 rumangsa
-rumangsane
 rumba
 rumbah
 rumbai
@@ -9199,7 +9162,6 @@ selet
 seling
 selir
 selo
-selop
 sem
 semak
 semangat
@@ -9600,7 +9562,6 @@ surabaya
 surai
 surat
 surau
-sure
 suri
 suro
 suroro
@@ -9703,7 +9664,6 @@ taman
 tamba
 tambah
 tambak
-tambal
 tambang
 tame
 tameng
@@ -9780,7 +9740,6 @@ taura
 tawa
 tawang
 tawar
-tawas
 tawe
 tawon
 taya
