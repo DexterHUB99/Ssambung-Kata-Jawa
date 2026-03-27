@@ -204,6 +204,7 @@ aino
 aio
 air
 aira
+airan
 airi
 aite
 aiwa
@@ -7704,6 +7705,7 @@ ribet
 ribut
 ridho
 rie
+riem
 rih
 rii
 rik
@@ -9686,6 +9688,7 @@ yo
 yoan
 yoe
 yoga
+yogya
 yogyakarta
 yoh
 yohan
