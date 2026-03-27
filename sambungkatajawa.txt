@@ -2272,6 +2272,7 @@ eleng
 elep
 eles
 eli
+elif
 elig
 elii
 elik
@@ -6693,6 +6694,7 @@ ngapurane
 ngapuro
 ngapus
 ngapusi
+ngar
 ngarah
 ngarai
 ngarak
