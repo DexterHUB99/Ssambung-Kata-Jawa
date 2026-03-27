@@ -1419,6 +1419,7 @@ budhe
 budi
 bue
 bufa
+buga
 buha
 bui
 bujak
@@ -5880,6 +5881,7 @@ naki
 nakon
 naksir
 nakula
+nal
 nala
 nalah
 nalam
@@ -7426,6 +7428,7 @@ osen
 oseng
 oser
 oses
+osik
 osin
 osing
 osip
