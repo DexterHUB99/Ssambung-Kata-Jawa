@@ -6221,6 +6221,7 @@ ngirit
 ngirup
 ngis
 ngisak
+ngisam
 ngisen
 ngiseng
 ngiseni
@@ -7821,6 +7822,7 @@ rombeng
 rombong
 rombongan
 romo
+rompak
 rompi
 ron
 rona
