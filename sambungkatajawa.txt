@@ -116,6 +116,7 @@ ah
 aha
 ahab
 ahad
+ahada
 ahah
 ahaj
 ahak
@@ -9818,6 +9819,7 @@ wektu
 wel
 wela
 welai
+welas
 welo
 welut
 wen
