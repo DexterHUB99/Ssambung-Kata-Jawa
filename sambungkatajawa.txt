@@ -3336,6 +3336,7 @@ ike
 ikel
 iker
 iket
+iketen
 ikhlas
 ikhtiar
 iki
@@ -9098,6 +9099,7 @@ tulis
 tulisan
 tulung
 tulungagung
+tulungen
 tulus
 tum
 tuma
