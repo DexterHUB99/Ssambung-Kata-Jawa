@@ -613,6 +613,7 @@ andul
 andung
 andus
 ane
+anee
 aneh
 anek
 anema
@@ -5241,6 +5242,7 @@ les
 lesehan
 lestari
 lesu
+let
 letong
 lewat
 leyeh
