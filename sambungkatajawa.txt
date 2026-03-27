@@ -5677,6 +5677,7 @@ luwih
 luye
 ma
 maaf
+mabar
 mabu
 mabuk
 mabur
@@ -7264,6 +7265,7 @@ nguntuk
 nguntung
 ngunu
 ngunung
+ngup
 ngupa
 ngupas
 ngupe
