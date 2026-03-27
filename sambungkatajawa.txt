@@ -1449,6 +1449,7 @@ bodoh
 bodoni
 bojo
 bojok
+bok
 boke
 bokek
 bokong
@@ -2772,6 +2773,7 @@ gama
 gaman
 gamanan
 gamane
+gamanne
 gambang
 gambar
 gambas
@@ -8621,6 +8623,7 @@ ramping
 rampok
 rampun
 rampung
+rampungan
 ramta
 ramu
 ramua
