@@ -186,7 +186,6 @@ ahoha
 ahok
 ahoo
 ahop
-ahor
 ahoy
 ahu
 ahud
@@ -1159,7 +1158,6 @@ ayep
 ayi
 ayia
 ayib
-ayih
 ayik
 ayin
 ayo
@@ -3080,6 +3078,7 @@ giling
 gilir
 gilo
 gim
+gima
 giman
 gimbal
 gina
@@ -4286,7 +4285,6 @@ kaba
 kabar
 kabare
 kabeh
-kabel
 kabi
 kabor
 kabuk
@@ -5041,7 +5039,6 @@ ku
 kua
 kuasa
 kuat
-kubur
 kuburan
 kucing
 kucir
@@ -6370,7 +6367,6 @@ neg
 nega
 negara
 negeri
-negeria
 neges
 negi
 negor
@@ -7920,7 +7916,6 @@ pakap
 pakar
 pakde
 pakdhe
-paki
 pakle
 paksa
 paku
@@ -8119,7 +8114,6 @@ pemuda
 pen
 pena
 penak
-pendek
 pendopo
 pengen
 peni
@@ -8598,6 +8592,7 @@ rasan
 rasane
 rase
 rasi
+rasian
 rasis
 rasko
 raso
@@ -8881,7 +8876,6 @@ rotan
 roti
 roto
 rowang
-rowi
 rowo
 roya
 royo
@@ -9240,7 +9234,6 @@ sembari
 sembrono
 sembur
 semen
-semene
 semi
 semok
 semol
@@ -10538,7 +10531,6 @@ urutan
 urwa
 us
 usa
-usaa
 usada
 usae
 usah
@@ -10799,7 +10791,6 @@ weneh
 wengi
 weni
 wer
-weri
 werkudara
 werna
 werno
@@ -11065,7 +11056,6 @@ yuri
 yuro
 yusa
 yusan
-yusha
 yusi
 yuswa
 yuswo
