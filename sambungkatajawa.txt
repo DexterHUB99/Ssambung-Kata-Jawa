@@ -8687,6 +8687,7 @@ sayekti
 sayur
 sayuran
 se
+sea
 sebat
 sedang
 sedar
