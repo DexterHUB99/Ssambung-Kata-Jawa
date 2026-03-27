@@ -7766,6 +7766,7 @@ pajangan
 paji
 pak
 paka
+pakam
 pakan
 pakap
 pakar
@@ -7934,6 +7935,7 @@ peci
 pedagang
 pedang
 pede
+pedes
 pedot
 pee
 pegawai
