@@ -6894,6 +6894,7 @@ ngusaha
 ngusap
 ngusar
 ngusel
+nguser
 ngusi
 ngusih
 ngusik
