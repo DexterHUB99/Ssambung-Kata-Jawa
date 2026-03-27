@@ -1292,6 +1292,7 @@ biaya
 bib
 biba
 bibar
+bibek
 bibi
 bibik
 bibir
@@ -4633,6 +4634,7 @@ kita
 kitaa
 kitab
 kitae
+kitan
 kite
 kiti
 kiwa
@@ -8551,6 +8553,7 @@ sampai
 samparan
 sampe
 sampean
+sampek
 sampeyan
 samping
 sampo
