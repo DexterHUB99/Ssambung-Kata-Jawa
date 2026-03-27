@@ -381,6 +381,7 @@ alit
 aliya
 alm
 alo
+aloh
 alok
 alom
 alon
@@ -1326,6 +1327,7 @@ bowo
 boyo
 boyok
 bu
+bua
 buang
 buat
 buatan
