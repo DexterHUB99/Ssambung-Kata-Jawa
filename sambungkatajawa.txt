@@ -6829,6 +6829,7 @@ nget
 ngeta
 ngetan
 ngetana
+ngete
 ngetel
 ngetih
 ngetok
