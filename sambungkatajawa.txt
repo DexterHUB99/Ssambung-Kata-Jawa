@@ -7441,6 +7441,7 @@ rajungan
 rajut
 rak
 raka
+rake
 raken
 raket
 rakha
