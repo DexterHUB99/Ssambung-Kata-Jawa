@@ -7904,6 +7904,7 @@ salahku
 salak
 salam
 salama
+salaman
 sale
 saleh
 salep
@@ -9541,6 +9542,7 @@ wos
 wot
 wowo
 woyo
+wuan
 wuh
 wujud
 wuku
