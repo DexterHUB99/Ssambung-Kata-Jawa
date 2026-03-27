@@ -1057,7 +1057,6 @@ aut
 auta
 autan
 auto
-av
 ava
 aw
 awa
@@ -1380,7 +1379,6 @@ bolo
 bolog
 bolong
 bom
-bonek
 bongko
 boni
 bono
@@ -2536,7 +2534,6 @@ eyu
 eyup
 ez
 faji
-fana
 fase
 firman
 fisik
@@ -3231,7 +3228,6 @@ harta
 hartamu
 haru
 harum
-harume
 harus
 has
 hasa
@@ -3872,7 +3868,6 @@ itungan
 itungi
 iut
 iuta
-iv
 iw
 iwak
 iwake
@@ -4704,7 +4699,6 @@ kiye
 klambi
 klambii
 klambimu
-klamite
 klapa
 klasa
 klaten
@@ -5977,7 +5971,6 @@ nan
 nana
 nanah
 nanai
-nanak
 nanam
 nanan
 nanang
@@ -6201,7 +6194,6 @@ ngadek
 ngadem
 ngadep
 ngadepi
-ngadhep
 ngadi
 ngadii
 ngadoh
@@ -7565,7 +7557,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakem
 pakle
 paksa
 paku
@@ -8041,7 +8032,6 @@ puri
 purna
 purnama
 purun
-purwa
 pus
 pusa
 pusaka
@@ -8154,7 +8144,6 @@ rame
 ramen
 ramene
 rames
-rami
 ramni
 ramping
 rampok
@@ -8543,7 +8532,6 @@ rupak
 rupamu
 rupane
 rupo
-rurah
 ruri
 rus
 rusa
@@ -10077,7 +10065,6 @@ urun
 urunan
 urung
 urup
-urupi
 urus
 urusan
 uruso
@@ -10204,7 +10191,6 @@ uyo
 uyuh
 uyung
 uz
-vila
 visa
 wa
 waa
