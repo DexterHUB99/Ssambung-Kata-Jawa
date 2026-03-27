@@ -1193,6 +1193,7 @@ bibir
 bibis
 bibu
 bidan
+biduk
 bidun
 bidur
 bien
