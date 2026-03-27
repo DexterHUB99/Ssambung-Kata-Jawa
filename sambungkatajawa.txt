@@ -2436,6 +2436,7 @@ ganjil
 gano
 ganta
 gantang
+gante
 ganteng
 ganti
 gantian
@@ -4222,6 +4223,7 @@ keselek
 kesem
 keset
 kesleo
+kesuh
 kesusu
 ket
 keta
@@ -4382,6 +4384,7 @@ kopeng
 koper
 kopet
 kopi
+kopiah
 kopii
 koplak
 koplo
