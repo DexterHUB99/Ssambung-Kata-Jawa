@@ -3048,6 +3048,7 @@ hir
 hira
 hiran
 hire
+hiri
 hiruk
 his
 hisa
