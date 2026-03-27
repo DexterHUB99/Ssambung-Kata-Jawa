@@ -5,6 +5,7 @@ aaha
 ab
 aba
 abab
+abadi
 abah
 abai
 abal
@@ -373,6 +374,7 @@ ale
 alek
 alem
 aleman
+alen
 aleng
 alengka
 aler
@@ -7797,6 +7799,7 @@ pasii
 pasing
 pasir
 paso
+pasrah
 pasti
 pasu
 pasuk
