@@ -6199,6 +6199,7 @@ nggambar
 nggan
 ngganggu
 nggarap
+nggaru
 nggateli
 nggawa
 nggawe
