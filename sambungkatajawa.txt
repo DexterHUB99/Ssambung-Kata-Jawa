@@ -69,7 +69,6 @@ adap
 adar
 adat
 ade
-adegan
 adek
 adel
 adem
@@ -845,6 +844,7 @@ areng
 arep
 arepan
 arepe
+ares
 aret
 arga
 ari
@@ -2336,6 +2336,7 @@ endung
 ene
 ened
 eneg
+eneh
 enek
 enem
 enen
@@ -2898,7 +2899,6 @@ gembira
 gemblong
 gemblung
 gembok
-gembong
 gembos
 gembrot
 gembung
@@ -2910,7 +2910,6 @@ gempal
 gempar
 gempil
 gempol
-gempur
 gemu
 gemuk
 gen
@@ -3114,7 +3113,6 @@ goyang
 graji
 grapyak
 grebeg
-greges
 greget
 gresik
 grimis
@@ -3123,6 +3121,7 @@ grobak
 grogi
 gu
 gubernur
+gubris
 gubug
 gudang
 gudangan
@@ -3138,6 +3137,7 @@ gugus
 gujeng
 gul
 gula
+gulabatu
 gulai
 gulali
 gulane
@@ -3494,6 +3494,7 @@ huni
 hup
 hur
 hura
+hure
 huri
 hurip
 huripan
@@ -3929,6 +3930,7 @@ iso
 isoe
 isok
 isoma
+isone
 isoo
 isra
 isro
@@ -4050,6 +4052,7 @@ janda
 jane
 jang
 jangan
+jangga
 jangger
 jangka
 jangkar
@@ -4277,7 +4280,6 @@ kalan
 kalap
 kalawo
 kale
-kalebu
 kaleh
 kalem
 kalen
@@ -5485,7 +5487,6 @@ lulur
 lum
 luma
 lumah
-lumajang
 lumaku
 lumayan
 lumbung
@@ -5583,6 +5584,7 @@ maki
 makruh
 maksud
 maku
+mal
 malah
 malahan
 malaii
@@ -5737,6 +5739,7 @@ mbah
 mbak
 mbok
 mbuh
+mburi
 me
 medal
 medeni
@@ -5860,6 +5863,7 @@ mit
 mita
 mitoni
 miya
+miyos
 mlaku
 mlampah
 mlangkah
@@ -5898,6 +5902,7 @@ momi
 momong
 momori
 momot
+mon
 mona
 mondok
 monggo
@@ -5952,7 +5957,6 @@ mulai
 mulak
 mulane
 mulanee
-mulang
 mule
 muleh
 mules
@@ -6992,6 +6996,7 @@ ngrayu
 ngregeti
 ngrep
 ngrepoti
+ngrewangi
 ngrit
 ngrok
 ngrokok
@@ -7144,6 +7149,7 @@ nili
 nilo
 nim
 nima
+nimah
 niman
 nimba
 nimbali
@@ -7389,6 +7395,7 @@ nyilih
 nyim
 nyimpen
 nyirem
+nyo
 nyocot
 nyogok
 nyoli
@@ -7659,6 +7666,7 @@ oros
 orotan
 os
 osah
+osaha
 osak
 osaka
 osal
@@ -7939,6 +7947,7 @@ penak
 pendopo
 pengen
 peni
+pening
 peno
 pensil
 pentil
@@ -8157,6 +8166,7 @@ popoli
 por
 pora
 porah
+poran
 porasi
 porek
 pori
@@ -8470,6 +8480,7 @@ rekam
 rekan
 rekasa
 rekmo
+reko
 rekoso
 rela
 relo
@@ -10054,6 +10065,7 @@ ukukir
 ukul
 ukum
 ukung
+ukup
 ukur
 ukura
 ukuran
@@ -10775,6 +10787,7 @@ yon
 yona
 yong
 yongi
+yoni
 yono
 yoo
 yoopo
