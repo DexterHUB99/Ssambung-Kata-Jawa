@@ -4591,6 +4591,7 @@ kelet
 keli
 keliling
 kelinci
+kelindes
 kelingan
 kelip
 keliru
