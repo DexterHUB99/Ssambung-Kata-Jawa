@@ -482,6 +482,7 @@ amen
 ameng
 amer
 amerga
+ames
 amet
 ami
 amia
@@ -1996,6 +1997,7 @@ durian
 durma
 durung
 dus
+dusi
 duso
 dusun
 duta
