@@ -4695,6 +4695,7 @@ kiye
 klambi
 klambii
 klambimu
+klamite
 klapa
 klasa
 klaten
@@ -5514,7 +5515,6 @@ mangkuk
 mangsa
 mani
 mania
-manii
 manis
 manja
 manjer
@@ -5968,6 +5968,7 @@ nan
 nana
 nanah
 nanai
+nanak
 nanam
 nanan
 nanang
@@ -10066,7 +10067,6 @@ usae
 usah
 usaha
 usai
-usak
 usan
 usani
 usap
