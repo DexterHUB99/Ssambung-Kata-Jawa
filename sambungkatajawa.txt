@@ -1057,7 +1057,6 @@ aut
 auta
 autan
 auto
-av
 ava
 aw
 awa
@@ -1158,6 +1157,7 @@ baju
 bajul
 bak
 baka
+bakar
 bakon
 bakso
 baku
@@ -1379,7 +1379,6 @@ bolo
 bolog
 bolong
 bom
-bonek
 bongko
 boni
 bono
@@ -1875,6 +1874,7 @@ dito
 diwa
 diwak
 diwan
+diwe
 do
 doa
 doda
@@ -2075,6 +2075,7 @@ ejek
 ejik
 ejol
 eju
+ejun
 ek
 eka
 ekaa
@@ -2533,7 +2534,6 @@ eyu
 eyup
 ez
 faji
-fana
 fase
 firman
 fisik
@@ -3228,7 +3228,6 @@ harta
 hartamu
 haru
 harum
-harume
 harus
 has
 hasa
@@ -3863,12 +3862,12 @@ itil
 itila
 ito
 itu
+itui
 itung
 itungan
 itungi
 iut
 iuta
-iv
 iw
 iwak
 iwake
@@ -4700,7 +4699,6 @@ kiye
 klambi
 klambii
 klambimu
-klamite
 klapa
 klasa
 klaten
@@ -5973,7 +5971,6 @@ nan
 nana
 nanah
 nanai
-nanak
 nanam
 nanan
 nanang
@@ -6197,7 +6194,6 @@ ngadek
 ngadem
 ngadep
 ngadepi
-ngadhep
 ngadi
 ngadii
 ngadoh
@@ -6409,6 +6405,7 @@ ngasuh
 ngasur
 ngatah
 ngatal
+ngatau
 ngatel
 ngatemi
 ngaterna
@@ -6731,6 +6728,7 @@ ngitil
 ngitung
 ngiwak
 ngiwang
+ngk
 ngka
 ngko
 nglali
@@ -6838,6 +6836,7 @@ ngrokok
 ngrumpi
 ngrungokake
 ngsu
+ngubah
 ngubek
 nguber
 ngubur
@@ -7558,7 +7557,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakem
 pakle
 paksa
 paku
@@ -8034,7 +8032,6 @@ puri
 purna
 purnama
 purun
-purwa
 pus
 pusa
 pusaka
@@ -8147,7 +8144,6 @@ rame
 ramen
 ramene
 rames
-rami
 ramni
 ramping
 rampok
@@ -8536,7 +8532,6 @@ rupak
 rupamu
 rupane
 rupo
-rurah
 ruri
 rus
 rusa
@@ -9201,6 +9196,7 @@ susaa
 susah
 susan
 susi
+susie
 susii
 susilo
 susok
@@ -9228,6 +9224,7 @@ suwun
 suwung
 suya
 ta
+taa
 taat
 tabah
 tabi
@@ -9400,6 +9397,7 @@ temah
 teman
 temanggung
 tembaga
+tembak
 tembang
 tembe
 tembem
@@ -9691,6 +9689,7 @@ ubek
 uber
 ubi
 ubii
+ublik
 ubun
 ubur
 uca
@@ -9768,6 +9767,7 @@ ujia
 ujian
 ujug
 ujuk
+ujum
 ujung
 ujur
 uk
@@ -10004,6 +10004,7 @@ upaya
 upe
 upek
 upel
+upha
 upi
 upik
 upil
@@ -10064,7 +10065,6 @@ urun
 urunan
 urung
 urup
-urupi
 urus
 urusan
 uruso
@@ -10139,6 +10139,7 @@ utar
 utara
 utari
 utas
+utasan
 utawa
 utawi
 ute
@@ -10190,7 +10191,6 @@ uyo
 uyuh
 uyung
 uz
-vila
 visa
 wa
 waa
