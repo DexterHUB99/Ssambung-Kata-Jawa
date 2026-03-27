@@ -5963,6 +5963,7 @@ ngarit
 ngarpu
 ngarsa
 ngarti
+ngarto
 ngaru
 ngaruh
 ngaruk
