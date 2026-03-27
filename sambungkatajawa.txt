@@ -78,7 +78,6 @@ adil
 adin
 adipati
 adit
-ado
 adoh
 adohe
 ados
@@ -880,7 +879,6 @@ asah
 asai
 asak
 asal
-asale
 asam
 asan
 asap
@@ -1089,7 +1087,6 @@ ayo
 ayok
 ayom
 ayu
-ayub
 ayud
 ayuh
 ayuk
@@ -1207,6 +1204,7 @@ batur
 bau
 bawa
 bawok
+bawuk
 baya
 bayar
 bayem
@@ -1473,6 +1471,7 @@ cakar
 cakep
 cakra
 cakwe
+calon
 camat
 campur
 can
@@ -2169,6 +2168,7 @@ empang
 empedu
 empek
 empeng
+emper
 empet
 emping
 emplok
@@ -3783,7 +3783,6 @@ iw
 iwak
 iwake
 iwakmu
-iwal
 iwan
 iwane
 iwangi
@@ -5179,7 +5178,6 @@ longgar
 longgor
 longor
 longsor
-lonjak
 lonjong
 lono
 lontar
@@ -5500,7 +5498,6 @@ memadi
 memang
 meme
 memek
-memi
 men
 menak
 menawi
@@ -6138,6 +6135,7 @@ nganah
 nganan
 ngancani
 ngancing
+ngancuk
 ngandang
 ngandani
 ngandap
@@ -6374,6 +6372,7 @@ ngendo
 ngendog
 ngendong
 ngene
+ngenei
 ngenen
 ngenes
 ngeng
@@ -6602,7 +6601,6 @@ ngolak
 ngolek
 ngoleke
 ngoli
-ngolik
 ngolo
 ngolob
 ngoloh
@@ -7820,7 +7818,6 @@ pundi
 pundika
 pungkasan
 puni
-punjul
 punten
 punya
 pup
@@ -8152,7 +8149,6 @@ riko
 riku
 ril
 rila
-rile
 rili
 rilis
 rilo
@@ -8577,6 +8573,7 @@ selasa
 selat
 selawe
 seleb
+selendang
 selet
 seling
 selo
@@ -9028,6 +9025,7 @@ taka
 takaran
 takdir
 taki
+takir
 takjil
 tako
 takon
@@ -9287,6 +9285,7 @@ titi
 titid
 titik
 titip
+titipan
 titis
 titit
 tititi
@@ -9781,6 +9780,7 @@ uram
 urama
 uran
 urang
+urangan
 urap
 uras
 urat
@@ -10226,6 +10226,7 @@ yati
 yato
 yaudah
 yauwis
+yawa
 yawes
 yawis
 yaya
