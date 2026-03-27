@@ -8417,6 +8417,7 @@ subur
 suci
 sucok
 sud
+suda
 sudah
 sude
 sudi
