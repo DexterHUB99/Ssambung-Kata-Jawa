@@ -664,7 +664,6 @@ anjing
 anjinga
 anjinge
 anjir
-anjlog
 anjlok
 anjng
 anjok
@@ -3437,7 +3436,6 @@ ilamu
 ilan
 ilang
 ilange
-ilangono
 ilap
 ilar
 ilas
@@ -3456,7 +3454,6 @@ ilili
 ilin
 iling
 ilingan
-ilingen
 ilir
 ilis
 ilmu
@@ -3640,6 +3637,7 @@ irub
 iruk
 irum
 irung
+irungan
 irunge
 irungmu
 irup
@@ -4011,7 +4009,6 @@ kaku
 kakung
 kal
 kala
-kalaa
 kalah
 kalajengking
 kalan
@@ -4049,6 +4046,7 @@ kambil
 kambing
 kambu
 kambuh
+kamen
 kamer
 kami
 kamia
@@ -5054,7 +5052,6 @@ lise
 lisi
 lit
 lita
-litah
 liwa
 liwat
 liwet
@@ -6578,7 +6575,6 @@ ngrit
 ngrok
 ngrokok
 ngrumpi
-ngrungokake
 ngsu
 ngubek
 nguber
@@ -6992,6 +6988,7 @@ ohhh
 oho
 ohya
 oj
+ojak
 ojek
 ojet
 ojik
@@ -7849,7 +7846,6 @@ ramuan
 ramutu
 ran
 rana
-ranaa
 ranah
 randa
 randu
@@ -8112,7 +8108,6 @@ roki
 roko
 rokok
 rola
-rolaa
 rolas
 roli
 rolo
@@ -9851,7 +9846,6 @@ waras
 wareg
 warek
 warga
-wari
 waria
 waris
 warisan
@@ -10024,7 +10018,6 @@ wuku
 wula
 wulan
 wulang
-wuli
 wulu
 wulung
 wuno
