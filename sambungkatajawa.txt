@@ -17,6 +17,7 @@ abdi
 abdina
 abe
 abel
+aben
 abena
 abi
 abia
@@ -26,6 +27,7 @@ abil
 abim
 abimanyu
 abin
+abing
 abir
 abis
 abit
@@ -362,6 +364,7 @@ alak
 alal
 alam
 alama
+alaman
 alami
 alamo
 alan
@@ -390,6 +393,7 @@ ali
 alia
 alien
 alif
+alig
 alih
 aliho
 alii
@@ -444,6 +448,7 @@ amalan
 amam
 amama
 aman
+amana
 amanah
 amanat
 amane
@@ -563,6 +568,7 @@ anakmu
 anal
 anam
 anama
+anaman
 anan
 anane
 anang
@@ -576,6 +582,7 @@ ancak
 ancam
 ancaman
 ancang
+ancas
 ancase
 ancen
 ancene
@@ -766,6 +773,7 @@ anut
 anuwa
 anyam
 anyaman
+anyamana
 anyar
 anyel
 anyem
@@ -882,6 +890,7 @@ arjuno
 arka
 arma
 aro
+arogan
 aroh
 arok
 arom
@@ -1247,6 +1256,7 @@ banya
 banyak
 banyu
 bapak
+bar
 bara
 barang
 barat
@@ -2030,6 +2040,7 @@ duku
 dukuh
 dukun
 dukur
+dukut
 dulan
 dulang
 duli
@@ -2073,6 +2084,7 @@ duwet
 duwit
 duwur
 ealah
+ebas
 eben
 ebi
 eboh
@@ -2726,6 +2738,7 @@ galungan
 galur
 gama
 gaman
+gamanan
 gamane
 gambang
 gambar
@@ -2928,6 +2941,7 @@ gelut
 gem
 gema
 gemah
+geman
 gemar
 gemas
 gemati
@@ -3964,6 +3978,7 @@ isino
 isis
 isisa
 isisin
+isisis
 isit
 isla
 islam
@@ -4127,6 +4142,7 @@ jawab
 jawi
 jawir
 jawoh
+jaya
 je
 jebul
 jela
@@ -4256,6 +4272,7 @@ kabare
 kabeh
 kabi
 kabor
+kabuk
 kabun
 kabur
 kabut
@@ -4277,6 +4294,7 @@ kadas
 kadek
 kades
 kadi
+kadiri
 kadong
 kados
 kadung
@@ -4355,6 +4373,7 @@ kam
 kama
 kamae
 kamala
+kaman
 kamar
 kamari
 kambi
@@ -4757,6 +4776,7 @@ keruk
 kerupuk
 kerut
 kes
+kesa
 kesah
 kesambet
 kesan
@@ -4770,8 +4790,10 @@ keselek
 kesem
 kesempatan
 keset
+kesil
 kesleo
 kesuh
+kesuk
 kesusu
 ket
 keta
@@ -4914,6 +4936,7 @@ kolek
 koli
 koloh
 kolong
+kolongan
 kolop
 kolot
 kom
@@ -4935,6 +4958,7 @@ kondhang
 kondi
 kondisi
 kondur
+kone
 konek
 koni
 kono
@@ -4974,6 +4998,7 @@ kosi
 kosok
 kosong
 kosor
+kost
 kot
 kota
 kotak
@@ -4999,7 +5024,6 @@ ku
 kua
 kuasa
 kuat
-kubur
 kuburan
 kucing
 kucir
@@ -5832,6 +5856,7 @@ melas
 melati
 melek
 meler
+melet
 melok
 melu
 mem
@@ -5960,6 +5985,7 @@ moh
 mohan
 mojo
 mok
+moke
 moki
 mokong
 mol
@@ -5982,6 +6008,7 @@ mona
 mondok
 monggo
 mongo
+mongso
 moni
 montor
 monyet
@@ -6004,6 +6031,7 @@ mringis
 mripat
 mu
 mual
+muatan
 mubal
 mubeng
 mucuk
@@ -6290,7 +6318,6 @@ nawi
 nawon
 nawuh
 naya
-ncok
 ndak
 ndalu
 ndang
@@ -6320,7 +6347,6 @@ neg
 nega
 negara
 negeri
-negeria
 neges
 negi
 negor
@@ -6343,6 +6369,7 @@ nelongso
 neluk
 nem
 nema
+neman
 nembak
 nembang
 nembe
@@ -6492,6 +6519,7 @@ ngama
 ngamah
 ngamal
 ngaman
+ngamang
 ngamar
 ngambang
 ngambar
@@ -6510,6 +6538,7 @@ ngamok
 ngampak
 ngampar
 ngampel
+ngamper
 ngampet
 ngampil
 ngampiri
@@ -6700,11 +6729,13 @@ ngecat
 ngece
 ngecek
 ngeces
+ngecok
 ngedan
 ngedang
 ngedar
 ngeden
 ngedol
+ngedu
 ngeeh
 ngegas
 ngegawe
@@ -6914,6 +6945,7 @@ ngiki
 ngikil
 ngiku
 ngikut
+ngil
 ngila
 ngilag
 ngilang
@@ -6944,6 +6976,7 @@ ngino
 ngintal
 ngintil
 ngintip
+nginu
 nginum
 ngipas
 ngipasi
@@ -7134,6 +7167,7 @@ ngulu
 ngulur
 ngum
 ngumah
+nguman
 ngumbah
 ngumbahi
 ngumbel
@@ -7147,6 +7181,7 @@ ngunci
 ngundah
 ngundang
 ngunduh
+ngune
 ngung
 nguni
 ngunjuk
@@ -7304,6 +7339,7 @@ niyat
 njajal
 njaluk
 njero
+njing
 njingan
 njupuk
 nki
@@ -7384,6 +7420,7 @@ nuh
 nuhun
 nui
 nuju
+nujuman
 nuk
 nuka
 nuki
@@ -7502,6 +7539,7 @@ nyong
 nyonya
 nyoto
 nyulik
+nyumbang
 nyungsep
 nyuri
 nyurung
@@ -8051,7 +8089,6 @@ pemuda
 pen
 pena
 penak
-pendek
 pendopo
 pengen
 peni
@@ -8246,6 +8283,7 @@ pokro
 pol
 pola
 polah
+polahe
 polan
 polar
 pole
@@ -8843,6 +8881,7 @@ rum
 ruma
 rumah
 rumangsa
+rumangsane
 rumba
 rumbah
 rumbai
@@ -8985,6 +9024,7 @@ sam
 sama
 samah
 saman
+samar
 samat
 sambak
 sambal
@@ -9027,6 +9067,7 @@ sanggul
 sangit
 sangkuni
 sangu
+sanja
 sanjang
 santai
 santen
@@ -9148,6 +9189,7 @@ selet
 seling
 selir
 selo
+selop
 sem
 semak
 semangat
@@ -9221,6 +9263,7 @@ serong
 seru
 ses
 sesa
+sesajen
 sesak
 sesakno
 sesama
@@ -9402,6 +9445,7 @@ some
 son
 songo
 songong
+soni
 sono
 sonten
 sop
@@ -9546,6 +9590,7 @@ surabaya
 surai
 surat
 surau
+sure
 suri
 suro
 suroro
@@ -9648,6 +9693,7 @@ taman
 tamba
 tambah
 tambak
+tambal
 tambang
 tame
 tameng
@@ -9724,6 +9770,7 @@ taura
 tawa
 tawang
 tawar
+tawas
 tawe
 tawon
 taya
