@@ -651,6 +651,7 @@ angsa
 angsal
 angsi
 angsle
+angsul
 angsur
 angsuran
 angu
@@ -1989,7 +1990,6 @@ ealah
 eben
 ebi
 eboh
-ebok
 ebol
 ebom
 ebor
@@ -2049,7 +2049,6 @@ ehel
 ehem
 ehen
 eher
-ehes
 ehey
 ehi
 ehik
@@ -2388,7 +2387,6 @@ erek
 erem
 eren
 ereng
-erep
 erer
 eres
 eret
@@ -2521,7 +2519,6 @@ ewer
 ewes
 ewo
 ewoh
-ewok
 ewon
 ewong
 ewu
@@ -4107,6 +4104,7 @@ kabare
 kabeh
 kabi
 kabor
+kabuh
 kabun
 kabur
 kabut
@@ -4440,6 +4438,7 @@ kek
 keke
 kekek
 kekel
+kekep
 keker
 keki
 kekunci
@@ -4452,6 +4451,7 @@ kelana
 kelangan
 kelap
 kelar
+kelaran
 kelas
 kelat
 kelawan
@@ -4600,7 +4600,6 @@ kese
 kesel
 keselek
 kesem
-kesempatan
 keset
 kesleo
 kesuh
@@ -5303,7 +5302,6 @@ lon
 loncang
 loncat
 lonceng
-londok
 lone
 longgar
 longgor
@@ -5400,6 +5398,7 @@ lus
 lusa
 lusi
 lusuh
+lut
 luti
 luwe
 luweh
@@ -5568,6 +5567,7 @@ mas
 masa
 masah
 masak
+masakan
 mase
 masi
 masih
@@ -5597,7 +5597,6 @@ matur
 maturnuwun
 matursuwun
 mau
-maui
 mawar
 mawon
 maya
@@ -5630,6 +5629,7 @@ melati
 melek
 meler
 melok
+melon
 melu
 mem
 memacul
@@ -5994,7 +5994,6 @@ nang
 nanga
 nangan
 nangdi
-nangen
 nangga
 nanggal
 nanggap
@@ -6321,6 +6320,7 @@ nganik
 nganjok
 nganjuk
 nganjur
+nganjut
 nganko
 ngano
 nganon
@@ -6628,6 +6628,7 @@ nggali
 nggambar
 nggan
 ngganggu
+nggantung
 nggarap
 nggatel
 nggateli
@@ -6728,6 +6729,7 @@ ngisin
 ngising
 ngisingan
 ngisir
+ngisis
 ngisor
 ngisu
 ngisuh
@@ -7059,6 +7061,7 @@ nnggih
 nni
 nnina
 nnumpak
+nnur
 no
 nodol
 noh
@@ -7311,7 +7314,6 @@ okela
 okem
 oker
 oket
-okewa
 okin
 okina
 okit
@@ -7729,6 +7731,7 @@ pejah
 peju
 pek
 peka
+peken
 pekik
 peko
 pekok
@@ -8102,7 +8105,6 @@ raimu
 raimuasu
 raimui
 raimuya
-rain
 raine
 raino
 raiso
@@ -8278,6 +8280,7 @@ rekasa
 rekmo
 rekoso
 rela
+relek
 relo
 rem
 rema
@@ -8685,6 +8688,7 @@ sang
 sanga
 sangar
 sanggul
+sanggup
 sangit
 sangkuni
 sangu
@@ -8983,7 +8987,6 @@ sirat
 sirep
 siri
 sirih
-sirik
 sirna
 siro
 sirsak
@@ -9684,6 +9687,7 @@ tuti
 tutuk
 tutup
 tutur
+tuturi
 tuwa
 tuwan
 tuwo
@@ -10354,6 +10358,7 @@ wewe
 wewedang
 wewenang
 wi
+wian
 wibawa
 wicara
 widok
@@ -10580,7 +10585,6 @@ yumi
 yumu
 yun
 yuna
-yunan
 yunani
 yung
 yuni
