@@ -4163,6 +4163,7 @@ karipan
 karma
 karo
 karpet
+karsa
 kartu
 karun
 karung
@@ -9536,6 +9537,7 @@ uma
 umaa
 umah
 umahe
+umai
 umak
 umal
 uman
