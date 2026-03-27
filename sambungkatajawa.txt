@@ -4041,6 +4041,7 @@ kataa
 katae
 katah
 katak
+katane
 kate
 katel
 kates
@@ -5767,6 +5768,7 @@ ngacak
 ngacem
 ngaceng
 ngaco
+ngacung
 ngadai
 ngadani
 ngadeg
