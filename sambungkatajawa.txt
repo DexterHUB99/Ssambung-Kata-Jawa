@@ -6198,6 +6198,7 @@ ngajeng
 ngajeni
 ngaji
 ngajie
+ngajii
 ngajok
 ngak
 ngaka
@@ -9400,6 +9401,7 @@ terong
 terus
 tes
 tete
+teteg
 teteh
 tetek
 tetelan
