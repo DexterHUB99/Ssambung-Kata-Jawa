@@ -4319,6 +4319,7 @@ kalin
 kaliren
 kalis
 kalo
+kalon
 kalong
 kalor
 kalori
@@ -6225,6 +6226,7 @@ nasib
 nasie
 nasii
 nasikuning
+nasiuduk
 nastar
 nasu
 nat
