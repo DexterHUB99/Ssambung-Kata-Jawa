@@ -844,6 +844,7 @@ areng
 arep
 arepan
 arepe
+ares
 aret
 arga
 ari
@@ -2335,6 +2336,7 @@ endung
 ene
 ened
 eneg
+eneh
 enek
 enem
 enen
@@ -3119,6 +3121,7 @@ grobak
 grogi
 gu
 gubernur
+gubris
 gubug
 gudang
 gudangan
@@ -3134,6 +3137,7 @@ gugus
 gujeng
 gul
 gula
+gulabatu
 gulai
 gulali
 gulane
@@ -4046,6 +4050,7 @@ janda
 jane
 jang
 jangan
+jangga
 jangger
 jangka
 jangkar
@@ -5731,6 +5736,7 @@ mbah
 mbak
 mbok
 mbuh
+mburi
 me
 medal
 medeni
@@ -6985,6 +6991,7 @@ ngrayu
 ngregeti
 ngrep
 ngrepoti
+ngrewangi
 ngrit
 ngrok
 ngrokok
@@ -7137,6 +7144,7 @@ nili
 nilo
 nim
 nima
+nimah
 niman
 nimba
 nimbali
@@ -7382,6 +7390,7 @@ nyilih
 nyim
 nyimpen
 nyirem
+nyo
 nyocot
 nyogok
 nyoli
@@ -7932,6 +7941,7 @@ penak
 pendopo
 pengen
 peni
+pening
 peno
 pensil
 pentil
@@ -8150,6 +8160,7 @@ popoli
 por
 pora
 porah
+poran
 porasi
 porek
 pori
@@ -8463,6 +8474,7 @@ rekam
 rekan
 rekasa
 rekmo
+reko
 rekoso
 rela
 relo
@@ -10047,6 +10059,7 @@ ukukir
 ukul
 ukum
 ukung
+ukup
 ukur
 ukura
 ukuran
@@ -10768,6 +10781,7 @@ yon
 yona
 yong
 yongi
+yoni
 yono
 yoo
 yoopo
