@@ -2569,6 +2569,7 @@ eser
 eses
 esi
 esih
+esik
 esin
 esis
 eso
@@ -6570,7 +6571,6 @@ ngampet
 ngampil
 ngampiri
 ngampung
-ngamu
 ngamuk
 ngan
 ngana
@@ -6604,6 +6604,7 @@ ngangsu
 ngangsur
 ngangu
 nganguk
+nganguni
 ngangur
 ngani
 nganik
@@ -6623,7 +6624,6 @@ nganter
 nganthi
 nganthuk
 nganti
-ngantil
 nganting
 ngantor
 ngantos
@@ -8024,6 +8024,7 @@ parang
 parani
 paras
 pare
+parek
 parem
 pari
 parii
@@ -9144,7 +9145,6 @@ saring
 sarip
 saripan
 sarong
-sarota
 saru
 sarung
 sas
@@ -9170,6 +9170,7 @@ sawan
 sawang
 sawer
 sawi
+sawii
 sawiji
 sawijine
 sawik
