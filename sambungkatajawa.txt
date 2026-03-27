@@ -2688,6 +2688,7 @@ ganep
 gang
 ganggu
 gangguan
+gangsa
 gangsal
 gangsar
 gangsing
