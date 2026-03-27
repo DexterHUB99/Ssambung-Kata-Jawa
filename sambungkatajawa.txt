@@ -1531,7 +1531,6 @@ capung
 cara
 cari
 carik
-caruk
 catur
 cawan
 cawet
@@ -4383,7 +4382,6 @@ katul
 katun
 katur
 katus
-katut
 kawah
 kawal
 kawan
@@ -6432,7 +6430,6 @@ ngatemi
 ngaterna
 ngati
 ngatok
-ngaton
 ngatos
 ngatu
 ngatuk
@@ -6469,7 +6466,6 @@ ngayu
 ngayuh
 ngayun
 ngayung
-ngayur
 ngcok
 nge
 ngebas
@@ -7972,7 +7968,6 @@ poloo
 polri
 pom
 poma
-pomen
 pomo
 pomu
 pon
