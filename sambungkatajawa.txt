@@ -7886,6 +7886,7 @@ ori
 oria
 orii
 oring
+orog
 orok
 orong
 oros
@@ -11087,6 +11088,7 @@ yohan
 yoi
 yoiku
 yok
+yoka
 yoki
 yola
 yoli
