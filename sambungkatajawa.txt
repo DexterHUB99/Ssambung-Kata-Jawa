@@ -69,6 +69,7 @@ ade
 adek
 adel
 adem
+aden
 adep
 adhap
 adhem
@@ -211,6 +212,7 @@ aili
 ailo
 ailon
 aima
+aimo
 aimu
 aina
 aing
@@ -704,6 +706,7 @@ anol
 anom
 anoman
 anop
+anos
 ansur
 ansuran
 anta
@@ -1531,7 +1534,6 @@ capung
 cara
 cari
 carik
-caruk
 catur
 cawan
 cawet
@@ -1580,6 +1582,7 @@ ci
 ciblok
 cica
 cicak
+cicek
 cici
 cicii
 cicil
@@ -1660,6 +1663,7 @@ cupu
 curi
 curut
 cuti
+dablek
 dada
 dadah
 dadali
@@ -2878,6 +2882,7 @@ genuk
 geo
 geol
 gepeng
+geprek
 gepuk
 ger
 gerah
@@ -4383,7 +4388,6 @@ katul
 katun
 katur
 katus
-katut
 kawah
 kawal
 kawan
@@ -5237,6 +5241,7 @@ lintasan
 lio
 lip
 lipa
+lipak
 lipan
 lipas
 lipat
@@ -6432,7 +6437,6 @@ ngatemi
 ngaterna
 ngati
 ngatok
-ngaton
 ngatos
 ngatu
 ngatuk
@@ -6469,7 +6473,6 @@ ngayu
 ngayuh
 ngayun
 ngayung
-ngayur
 ngcok
 nge
 ngebas
@@ -6761,6 +6764,7 @@ nglampah
 nglamun
 nglantur
 nglawuhi
+ngledek
 nglim
 nglindur
 ngliwet
@@ -7972,7 +7976,6 @@ poloo
 polri
 pom
 poma
-pomen
 pomo
 pomu
 pon
@@ -8334,6 +8337,7 @@ renan
 renang
 rencang
 renda
+rendah
 rendang
 rendeng
 rendi
