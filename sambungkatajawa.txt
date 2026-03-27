@@ -184,6 +184,7 @@ aho
 ahoa
 ahoha
 ahok
+ahom
 ahoo
 ahop
 ahor
@@ -1521,6 +1522,7 @@ bulan
 bulat
 bule
 bulet
+buli
 bulik
 bulu
 bumbu
@@ -1702,7 +1704,6 @@ cocote
 cod
 cok
 cokan
-cokelat
 coklat
 cokor
 cokot
@@ -2889,6 +2890,7 @@ gatol
 gatot
 gatuk
 gaul
+gaulan
 gaun
 gawa
 gawaa
@@ -6576,6 +6578,7 @@ ngampet
 ngampil
 ngampiri
 ngampung
+ngamu
 ngamuk
 ngan
 ngana
@@ -6629,6 +6632,7 @@ nganter
 nganthi
 nganthuk
 nganti
+ngantil
 nganting
 ngantor
 ngantos
@@ -8414,6 +8418,7 @@ puluh
 puma
 pun
 puna
+punan
 punapa
 puncak
 pundi
@@ -9151,6 +9156,7 @@ saring
 sarip
 saripan
 sarong
+sarota
 saru
 sarung
 sas
@@ -9731,6 +9737,7 @@ takut
 tal
 tala
 talak
+talan
 talas
 tale
 talenan
@@ -10022,7 +10029,6 @@ tokoh
 tola
 tolak
 tole
-toleh
 toli
 tolol
 tolong
@@ -10100,7 +10106,6 @@ tuman
 tumbal
 tumbas
 tumbu
-tumen
 tumenggung
 tumi
 tumindak
@@ -10404,6 +10409,7 @@ uncal
 undak
 undakan
 undang
+undanga
 undangan
 undi
 undia
