@@ -49,6 +49,7 @@ ace
 aceh
 aci
 acik
+acil
 aco
 acu
 acuh
@@ -1082,6 +1083,7 @@ awakmu
 awaku
 awal
 awalan
+awamu
 awan
 awas
 away
