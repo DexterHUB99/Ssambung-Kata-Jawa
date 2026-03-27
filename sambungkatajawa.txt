@@ -114,7 +114,6 @@ ageman
 ageng
 agi
 agik
-agil
 agit
 ago
 agos
@@ -221,7 +220,6 @@ aio
 air
 aira
 airan
-aire
 airi
 aita
 aite
@@ -315,7 +313,6 @@ akis
 akit
 aklam
 ako
-akoe
 akoh
 akol
 akom
@@ -720,7 +717,6 @@ antek
 antem
 antemi
 anteng
-antenge
 antep
 anter
 anti
@@ -1061,7 +1057,6 @@ aut
 auta
 autan
 auto
-av
 ava
 aw
 awa
@@ -1384,7 +1379,6 @@ bolo
 bolog
 bolong
 bom
-bonek
 bongko
 boni
 bono
@@ -1877,7 +1871,6 @@ disik
 disini
 ditipu
 dito
-diusir
 diwa
 diwak
 diwan
@@ -1996,6 +1989,7 @@ ealah
 eben
 ebi
 eboh
+ebok
 ebol
 ebom
 ebor
@@ -2055,6 +2049,7 @@ ehel
 ehem
 ehen
 eher
+ehes
 ehey
 ehi
 ehik
@@ -2393,6 +2388,7 @@ erek
 erem
 eren
 ereng
+erep
 erer
 eres
 eret
@@ -2525,6 +2521,7 @@ ewer
 ewes
 ewo
 ewoh
+ewok
 ewon
 ewong
 ewu
@@ -2541,9 +2538,7 @@ eyu
 eyup
 ez
 faji
-fana
 fase
-fikir
 firman
 fisik
 fix
@@ -3237,7 +3232,6 @@ harta
 hartamu
 haru
 harum
-harume
 harus
 has
 hasa
@@ -3260,7 +3254,6 @@ hatimu
 haturnuhun
 hawa
 hawane
-hawe
 hawi
 haya
 hayang
@@ -3372,7 +3365,6 @@ hooh
 hor
 hora
 hore
-horen
 hori
 hormat
 horo
@@ -3481,7 +3473,6 @@ iha
 ihaa
 ihae
 ihan
-ihara
 ihe
 ihem
 ihha
@@ -3881,7 +3872,6 @@ itungan
 itungi
 iut
 iuta
-iv
 iw
 iwak
 iwake
@@ -3939,7 +3929,6 @@ jaki
 jaku
 jala
 jalak
-jalar
 jaler
 jalii
 jaluk
@@ -4611,6 +4600,7 @@ kese
 kesel
 keselek
 kesem
+kesempatan
 keset
 kesleo
 kesuh
@@ -4714,7 +4704,6 @@ kiye
 klambi
 klambii
 klambimu
-klamite
 klapa
 klasa
 klaten
@@ -5027,7 +5016,6 @@ landak
 landep
 landhep
 landung
-langeh
 langgar
 langgeng
 langit
@@ -5315,6 +5303,7 @@ lon
 loncang
 loncat
 lonceng
+londok
 lone
 longgar
 longgor
@@ -5419,7 +5408,6 @@ luwih
 luye
 ma
 maaf
-mabar
 mabu
 mabuk
 mabur
@@ -5587,7 +5575,6 @@ masing
 masinis
 masio
 masjid
-masrah
 masu
 masuh
 masuk
@@ -5610,6 +5597,7 @@ matur
 maturnuwun
 matursuwun
 mau
+maui
 mawar
 mawon
 maya
@@ -5990,7 +5978,6 @@ nan
 nana
 nanah
 nanai
-nanak
 nanam
 nanan
 nanang
@@ -6007,6 +5994,7 @@ nang
 nanga
 nangan
 nangdi
+nangen
 nangga
 nanggal
 nanggap
@@ -6042,7 +6030,6 @@ nara
 narada
 naraka
 narasi
-narek
 nari
 narik
 narima
@@ -6074,7 +6061,6 @@ natap
 natar
 nate
 nati
-natik
 natur
 nawa
 nawang
@@ -6216,7 +6202,6 @@ ngadek
 ngadem
 ngadep
 ngadepi
-ngadhep
 ngadi
 ngadii
 ngadoh
@@ -7580,7 +7565,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakem
 pakle
 paksa
 paku
@@ -8056,7 +8040,6 @@ puri
 purna
 purnama
 purun
-purwa
 pus
 pusa
 pusaka
@@ -8118,6 +8101,7 @@ raimu
 raimuasu
 raimui
 raimuya
+rain
 raine
 raino
 raiso
@@ -8169,7 +8153,6 @@ rame
 ramen
 ramene
 rames
-rami
 ramni
 ramping
 rampok
@@ -8558,7 +8541,6 @@ rupak
 rupamu
 rupane
 rupo
-rurah
 ruri
 rus
 rusa
@@ -9000,6 +8982,7 @@ sirat
 sirep
 siri
 sirih
+sirik
 sirna
 siro
 sirsak
@@ -10092,7 +10075,6 @@ urun
 urunan
 urung
 urup
-urupi
 urus
 urusan
 uruso
@@ -10219,7 +10201,6 @@ uyo
 uyuh
 uyung
 uz
-vila
 visa
 wa
 waa
@@ -10598,6 +10579,7 @@ yumi
 yumu
 yun
 yuna
+yunan
 yunani
 yung
 yuni
