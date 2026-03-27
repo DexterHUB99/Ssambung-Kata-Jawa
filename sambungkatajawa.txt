@@ -4558,6 +4558,7 @@ kerono
 keroso
 kerot
 kersa
+kersane
 kerta
 kertas
 kertos
@@ -8179,6 +8180,7 @@ rasya
 rata
 ratau
 rati
+ratih
 rating
 ratna
 ratu
