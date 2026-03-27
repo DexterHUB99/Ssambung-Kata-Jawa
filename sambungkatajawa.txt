@@ -1708,6 +1708,7 @@ di
 diajak
 diamput
 diana
+diancok
 dianik
 diba
 dibi
@@ -7136,6 +7137,7 @@ osing
 osip
 osir
 osit
+osoh
 osok
 osor
 ot
