@@ -7760,6 +7760,7 @@ pio
 pipi
 pipil
 pipimu
+pipin
 pipis
 pipit
 pipu
@@ -8843,6 +8844,7 @@ siomay
 sip
 sipa
 sipat
+sipi
 sipit
 sir
 sira
