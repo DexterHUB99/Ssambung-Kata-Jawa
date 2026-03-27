@@ -1129,7 +1129,6 @@ ayahe
 ayak
 ayam
 ayame
-ayamgoreng
 ayan
 ayang
 ayangku
@@ -3718,6 +3717,7 @@ ilin
 iling
 ilingan
 ilingen
+ilingo
 ilir
 ilis
 ilmu
@@ -3927,7 +3927,6 @@ isak
 isake
 isam
 isan
-isana
 isao
 isap
 isapi
@@ -5820,7 +5819,6 @@ melati
 melek
 meler
 melok
-melon
 melu
 mem
 memacul
@@ -6829,7 +6827,6 @@ nget
 ngeta
 ngetan
 ngetana
-ngete
 ngetel
 ngetih
 ngetok
@@ -7295,7 +7292,6 @@ njupuk
 nki
 nko
 nmu
-nna
 nnalika
 nnaliko
 nnangka
