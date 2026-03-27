@@ -1157,6 +1157,7 @@ baju
 bajul
 bak
 baka
+bakar
 bakon
 bakso
 baku
@@ -1873,6 +1874,7 @@ dito
 diwa
 diwak
 diwan
+diwe
 do
 doa
 doda
@@ -3859,12 +3861,12 @@ itil
 itila
 ito
 itu
+itui
 itung
 itungan
 itungi
 iut
 iuta
-iv
 iw
 iwak
 iwake
@@ -4696,7 +4698,6 @@ kiye
 klambi
 klambii
 klambimu
-klamite
 klapa
 klasa
 klaten
@@ -5969,7 +5970,6 @@ nan
 nana
 nanah
 nanai
-nanak
 nanam
 nanan
 nanang
@@ -6404,6 +6404,7 @@ ngasuh
 ngasur
 ngatah
 ngatal
+ngatau
 ngatel
 ngatemi
 ngaterna
@@ -6833,6 +6834,7 @@ ngrokok
 ngrumpi
 ngrungokake
 ngsu
+ngubah
 ngubek
 nguber
 ngubur
@@ -7553,7 +7555,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakem
 pakle
 paksa
 paku
@@ -9193,6 +9194,7 @@ susaa
 susah
 susan
 susi
+susie
 susii
 susilo
 susok
@@ -9220,6 +9222,7 @@ suwun
 suwung
 suya
 ta
+taa
 taat
 tabah
 tabi
@@ -9392,6 +9395,7 @@ temah
 teman
 temanggung
 tembaga
+tembak
 tembang
 tembe
 tembem
@@ -9760,6 +9764,7 @@ ujia
 ujian
 ujug
 ujuk
+ujum
 ujung
 ujur
 uk
@@ -9996,6 +10001,7 @@ upaya
 upe
 upek
 upel
+upha
 upi
 upik
 upil
@@ -10056,7 +10062,6 @@ urun
 urunan
 urung
 urup
-urupi
 urus
 urusan
 uruso
@@ -10182,7 +10187,6 @@ uyo
 uyuh
 uyung
 uz
-vila
 visa
 wa
 waa
