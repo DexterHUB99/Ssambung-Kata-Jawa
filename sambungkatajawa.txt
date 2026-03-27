@@ -2461,6 +2461,7 @@ esek
 esem
 eseman
 esep
+eser
 eses
 esi
 esih
@@ -4599,6 +4600,7 @@ kerbau
 kere
 kerek
 keren
+keres
 keret
 kereta
 keri
