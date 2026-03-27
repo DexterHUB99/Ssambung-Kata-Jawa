@@ -4522,6 +4522,7 @@ keramas
 keran
 kerang
 keras
+kerasa
 kerat
 keraton
 kerbau
@@ -8644,6 +8645,7 @@ sarung
 sas
 sasa
 sasak
+sasar
 sasemi
 sasi
 sasimo
