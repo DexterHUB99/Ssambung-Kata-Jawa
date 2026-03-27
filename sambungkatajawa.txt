@@ -3113,6 +3113,7 @@ heri
 hero
 hes
 hesti
+hetan
 heti
 hewa
 hewo
