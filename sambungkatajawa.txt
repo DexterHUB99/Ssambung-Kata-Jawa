@@ -353,7 +353,6 @@ alat
 alate
 alay
 ale
-aleh
 alek
 alem
 aleman
@@ -3779,7 +3778,6 @@ jawa
 jawab
 jawi
 jawir
-jawoh
 je
 jebul
 jela
