@@ -114,7 +114,6 @@ ageman
 ageng
 agi
 agik
-agil
 agit
 ago
 agos
@@ -314,7 +313,6 @@ akis
 akit
 aklam
 ako
-akoe
 akoh
 akol
 akom
@@ -653,6 +651,7 @@ angsa
 angsal
 angsi
 angsle
+angsul
 angsur
 angsuran
 angu
@@ -1059,7 +1058,6 @@ aut
 auta
 autan
 auto
-av
 ava
 aw
 awa
@@ -1382,7 +1380,6 @@ bolo
 bolog
 bolong
 bom
-bonek
 bongko
 boni
 bono
@@ -2538,7 +2535,6 @@ eyu
 eyup
 ez
 faji
-fana
 fase
 firman
 fisik
@@ -3233,7 +3229,6 @@ harta
 hartamu
 haru
 harum
-harume
 harus
 has
 hasa
@@ -3256,7 +3251,6 @@ hatimu
 haturnuhun
 hawa
 hawane
-hawe
 hawi
 haya
 hayang
@@ -3368,7 +3362,6 @@ hooh
 hor
 hora
 hore
-horen
 hori
 hormat
 horo
@@ -3477,7 +3470,6 @@ iha
 ihaa
 ihae
 ihan
-ihara
 ihe
 ihem
 ihha
@@ -3877,7 +3869,6 @@ itungan
 itungi
 iut
 iuta
-iv
 iw
 iwak
 iwake
@@ -4446,6 +4437,7 @@ kek
 keke
 kekek
 kekel
+kekep
 keker
 keki
 kekunci
@@ -4458,6 +4450,7 @@ kelana
 kelangan
 kelap
 kelar
+kelaran
 kelas
 kelat
 kelawan
@@ -4709,7 +4702,6 @@ kiye
 klambi
 klambii
 klambimu
-klamite
 klapa
 klasa
 klaten
@@ -5022,7 +5014,6 @@ landak
 landep
 landhep
 landung
-langeh
 langgar
 langgeng
 langit
@@ -5406,6 +5397,7 @@ lus
 lusa
 lusi
 lusuh
+lut
 luti
 luwe
 luweh
@@ -5574,6 +5566,7 @@ mas
 masa
 masah
 masak
+masakan
 mase
 masi
 masih
@@ -5581,7 +5574,6 @@ masing
 masinis
 masio
 masjid
-masrah
 masu
 masuh
 masuk
@@ -5984,7 +5976,6 @@ nan
 nana
 nanah
 nanai
-nanak
 nanam
 nanan
 nanang
@@ -6208,7 +6199,6 @@ ngadek
 ngadem
 ngadep
 ngadepi
-ngadhep
 ngadi
 ngadii
 ngadoh
@@ -6328,6 +6318,7 @@ nganik
 nganjok
 nganjuk
 nganjur
+nganjut
 nganko
 ngano
 nganon
@@ -6635,6 +6626,7 @@ nggali
 nggambar
 nggan
 ngganggu
+nggantung
 nggarap
 nggatel
 nggateli
@@ -7066,6 +7058,7 @@ nnggih
 nni
 nnina
 nnumpak
+nnur
 no
 nodol
 noh
@@ -7572,7 +7565,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakem
 pakle
 paksa
 paku
@@ -7736,6 +7728,7 @@ pejah
 peju
 pek
 peka
+peken
 pekik
 peko
 pekok
@@ -8048,7 +8041,6 @@ puri
 purna
 purnama
 purun
-purwa
 pus
 pusa
 pusaka
@@ -8161,7 +8153,6 @@ rame
 ramen
 ramene
 rames
-rami
 ramni
 ramping
 rampok
@@ -8286,6 +8277,7 @@ rekasa
 rekmo
 rekoso
 rela
+relek
 relo
 rem
 rema
@@ -8550,7 +8542,6 @@ rupak
 rupamu
 rupane
 rupo
-rurah
 ruri
 rus
 rusa
@@ -9692,6 +9683,7 @@ tuti
 tutuk
 tutup
 tutur
+tuturi
 tuwa
 tuwan
 tuwo
@@ -10084,7 +10076,6 @@ urun
 urunan
 urung
 urup
-urupi
 urus
 urusan
 uruso
@@ -10211,7 +10202,6 @@ uyo
 uyuh
 uyung
 uz
-vila
 visa
 wa
 waa
@@ -10364,6 +10354,7 @@ wewe
 wewedang
 wewenang
 wi
+wian
 wibawa
 wicara
 widok
