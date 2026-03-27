@@ -747,6 +747,7 @@ anuwa
 anyam
 anyaman
 anyar
+anyeb
 anyel
 anyem
 anyep
@@ -959,6 +960,7 @@ asuh
 asuha
 asui
 asuii
+asuk
 asuku
 asul
 asum
@@ -1838,6 +1840,7 @@ dimasak
 dimna
 din
 dina
+dinaa
 dinar
 dinas
 dinding
@@ -1992,6 +1995,7 @@ eboh
 ebol
 ebom
 ebor
+ebuh
 eca
 ece
 eco
@@ -2500,6 +2504,7 @@ etuh
 etuk
 etum
 etung
+etus
 eva
 evan
 evi
@@ -3930,6 +3935,7 @@ jalii
 jaluk
 jam
 jamak
+jamal
 jaman
 jamat
 jambak
@@ -5518,6 +5524,7 @@ mangkuk
 mangsa
 mani
 mania
+manii
 manis
 manja
 manjer
@@ -5562,7 +5569,6 @@ mas
 masa
 masah
 masak
-masakan
 mase
 masi
 masih
@@ -5800,6 +5806,7 @@ muga
 mugi
 mugih
 muh
+mujair
 muji
 muka
 mukak
@@ -6572,6 +6579,7 @@ ngerawat
 ngere
 ngerem
 ngeres
+ngeret
 ngeri
 ngero
 ngerok
@@ -6716,6 +6724,7 @@ ngiseni
 ngisep
 ngisi
 ngisih
+ngisii
 ngisik
 ngisin
 ngising
@@ -6755,6 +6764,7 @@ ngocak
 ngoceh
 ngocok
 ngodong
+ngoe
 ngoh
 ngohi
 ngojah
@@ -8517,6 +8527,7 @@ rumongso
 rumput
 rumus
 run
+runa
 runcing
 runding
 rung
@@ -8679,6 +8690,7 @@ sanggul
 sangit
 sangkuni
 sangu
+sani
 sanjang
 santai
 santen
@@ -9674,7 +9686,6 @@ tuti
 tutuk
 tutup
 tutur
-tuturi
 tuwa
 tuwan
 tuwo
@@ -10080,6 +10091,7 @@ usae
 usah
 usaha
 usai
+usak
 usan
 usani
 usap
@@ -10563,6 +10575,7 @@ yuk
 yuka
 yuki
 yuko
+yuku
 yula
 yuli
 yulo
@@ -10577,6 +10590,7 @@ yuni
 yura
 yuri
 yuro
+yus
 yusa
 yusan
 yusi
