@@ -176,6 +176,7 @@ aho
 ahoa
 ahoha
 ahok
+ahom
 ahoo
 ahop
 ahoy
@@ -1263,6 +1264,7 @@ belek
 beli
 beling
 belo
+belum
 belut
 ben
 benang
@@ -1976,6 +1978,7 @@ duwet
 duwit
 duwur
 ealah
+eb
 eben
 ebi
 eboh
@@ -4633,6 +4636,7 @@ kima
 kiman
 kime
 kimi
+kimir
 kin
 kina
 kinan
@@ -5834,6 +5838,7 @@ muse
 musi
 musim
 musis
+musoh
 musola
 mustahil
 mustaka
@@ -6390,6 +6395,7 @@ ngawai
 ngawan
 ngawang
 ngawas
+ngawasi
 ngawe
 ngaweh
 ngaweruhi
@@ -6511,6 +6517,7 @@ ngenos
 ngenot
 ngentek
 ngenteni
+ngenti
 ngentil
 ngentoh
 ngentu
@@ -6978,6 +6985,7 @@ nipun
 nira
 niri
 niris
+niro
 nirwana
 nis
 nisa
@@ -7851,6 +7859,7 @@ pitak
 pitakon
 pitar
 pitek
+piti
 pitik
 piting
 pito
@@ -8220,6 +8229,7 @@ rei
 rejo
 rek
 reka
+rekae
 rekak
 rekam
 rekan
