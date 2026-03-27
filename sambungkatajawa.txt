@@ -456,6 +456,7 @@ amanah
 amanat
 amane
 amang
+amao
 amar
 amarga
 amargo
@@ -3929,6 +3930,7 @@ ipik
 ipil
 ipin
 ipit
+ipko
 ipma
 ipna
 ipo
