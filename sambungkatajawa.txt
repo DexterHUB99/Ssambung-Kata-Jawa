@@ -5514,7 +5514,6 @@ mangkuk
 mangsa
 mani
 mania
-manii
 manis
 manja
 manjer
@@ -6402,6 +6401,7 @@ ngasuh
 ngasur
 ngatah
 ngatal
+ngatau
 ngatel
 ngatemi
 ngaterna
@@ -6831,6 +6831,7 @@ ngrokok
 ngrumpi
 ngrungokake
 ngsu
+ngubah
 ngubek
 nguber
 ngubur
@@ -9190,6 +9191,7 @@ susaa
 susah
 susan
 susi
+susie
 susii
 susilo
 susok
@@ -9389,6 +9391,7 @@ temah
 teman
 temanggung
 tembaga
+tembak
 tembang
 tembe
 tembem
@@ -9993,6 +9996,7 @@ upaya
 upe
 upek
 upel
+upha
 upi
 upik
 upil
@@ -10066,7 +10070,6 @@ usae
 usah
 usaha
 usai
-usak
 usan
 usani
 usap
