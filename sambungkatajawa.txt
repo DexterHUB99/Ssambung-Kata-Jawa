@@ -1033,6 +1033,7 @@ aturen
 atus
 atut
 auh
+auha
 aul
 aulah
 aum
@@ -5919,6 +5920,7 @@ nangga
 nanggal
 nanggap
 nanggung
+nangi
 nanging
 nangis
 nangka
