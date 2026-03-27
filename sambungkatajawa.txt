@@ -747,6 +747,7 @@ anuwa
 anyam
 anyaman
 anyar
+anyeb
 anyel
 anyem
 anyep
@@ -1157,7 +1158,6 @@ baju
 bajul
 bak
 baka
-bakar
 bakon
 bakso
 baku
@@ -1838,6 +1838,7 @@ dimasak
 dimna
 din
 dina
+dinaa
 dinar
 dinas
 dinding
@@ -1874,7 +1875,6 @@ dito
 diwa
 diwak
 diwan
-diwe
 do
 doa
 doda
@@ -3861,7 +3861,6 @@ itil
 itila
 ito
 itu
-itui
 itung
 itungan
 itungi
@@ -3929,6 +3928,7 @@ jalii
 jaluk
 jam
 jamak
+jamal
 jaman
 jamat
 jambak
@@ -5517,6 +5517,7 @@ mangkuk
 mangsa
 mani
 mania
+manii
 manis
 manja
 manjer
@@ -5798,6 +5799,7 @@ muga
 mugi
 mugih
 muh
+mujair
 muji
 muka
 mukak
@@ -6404,7 +6406,6 @@ ngasuh
 ngasur
 ngatah
 ngatal
-ngatau
 ngatel
 ngatemi
 ngaterna
@@ -6834,7 +6835,6 @@ ngrokok
 ngrumpi
 ngrungokake
 ngsu
-ngubah
 ngubek
 nguber
 ngubur
@@ -8514,6 +8514,7 @@ rumongso
 rumput
 rumus
 run
+runa
 runcing
 runding
 rung
@@ -8676,6 +8677,7 @@ sanggul
 sangit
 sangkuni
 sangu
+sani
 sanjang
 santai
 santen
@@ -9194,7 +9196,6 @@ susaa
 susah
 susan
 susi
-susie
 susii
 susilo
 susok
@@ -9222,7 +9223,6 @@ suwun
 suwung
 suya
 ta
-taa
 taat
 tabah
 tabi
@@ -9395,7 +9395,6 @@ temah
 teman
 temanggung
 tembaga
-tembak
 tembang
 tembe
 tembem
@@ -9764,7 +9763,6 @@ ujia
 ujian
 ujug
 ujuk
-ujum
 ujung
 ujur
 uk
@@ -10001,7 +9999,6 @@ upaya
 upe
 upek
 upel
-upha
 upi
 upik
 upil
@@ -10075,6 +10072,7 @@ usae
 usah
 usaha
 usai
+usak
 usan
 usani
 usap
@@ -10571,6 +10569,7 @@ yuni
 yura
 yuri
 yuro
+yus
 yusa
 yusan
 yusi
