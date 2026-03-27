@@ -5027,6 +5027,7 @@ lagii
 lagu
 lague
 lah
+laha
 lahan
 lahi
 lahir
@@ -6839,6 +6840,7 @@ ngliwet
 nglor
 ngn
 ngnan
+ngngarit
 ngngaso
 ngni
 ngno
