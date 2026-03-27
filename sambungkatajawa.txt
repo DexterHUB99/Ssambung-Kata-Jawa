@@ -1311,6 +1311,7 @@ beler
 beli
 beling
 belo
+beluk
 belum
 belut
 ben
