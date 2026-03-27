@@ -2318,6 +2318,7 @@ etak
 etam
 etan
 etang
+etano
 etap
 etawa
 ete
@@ -6211,6 +6212,7 @@ ngeplak
 ngepot
 ngera
 ngeraba
+ngerah
 ngerap
 ngeras
 ngerasa
