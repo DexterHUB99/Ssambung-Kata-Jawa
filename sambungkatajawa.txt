@@ -1306,6 +1306,7 @@ bibis
 bibit
 bibu
 bidan
+bidu
 biduk
 bidun
 bidur
@@ -6921,6 +6922,7 @@ nimbang
 nimbul
 nimbun
 nimen
+nimo
 nimu
 nin
 nina
