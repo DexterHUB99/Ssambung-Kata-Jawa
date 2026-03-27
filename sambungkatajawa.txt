@@ -906,6 +906,7 @@ astane
 asti
 astina
 asu
+asue
 asuh
 asuha
 asui
@@ -1361,6 +1362,7 @@ buni
 buntel
 buntu
 buntung
+buntut
 bunuh
 bup
 bur
@@ -1561,6 +1563,7 @@ dahar
 dahi
 daju
 daki
+dako
 dakon
 daku
 dakun
@@ -1829,6 +1832,7 @@ durian
 durma
 durung
 dus
+dusa
 duso
 dusun
 duta
@@ -1840,6 +1844,8 @@ duwet
 duwit
 duwur
 ealah
+eb
+eba
 eben
 ebi
 eboh
@@ -2493,6 +2499,7 @@ gap
 gapa
 gapak
 gapapa
+gapi
 gapit
 gaplek
 gapopo
@@ -3075,6 +3082,7 @@ heri
 hero
 hes
 hesti
+het
 heti
 hewa
 hewo
@@ -3501,7 +3509,6 @@ irenge
 ires
 iri
 iria
-irian
 irig
 irih
 irii
@@ -3698,6 +3705,7 @@ jara
 jaran
 jaranan
 jare
+jarene
 jari
 jarik
 jaring
@@ -3831,6 +3839,7 @@ kabare
 kabeh
 kabi
 kabor
+kabuh
 kabun
 kabur
 kabut
@@ -3864,6 +3873,7 @@ kagem
 kaget
 kagungan
 kahanan
+kaiden
 kain
 kaine
 kairi
@@ -4104,6 +4114,7 @@ kaya
 kayah
 kayak
 kayan
+kayane
 kayu
 kayuh
 ke
@@ -4233,6 +4244,7 @@ kep
 kepa
 kepal
 kepala
+keparat
 kepaten
 kepek
 kepeleset
@@ -4816,6 +4828,7 @@ lenggah
 lengser
 leni
 lentog
+lep
 lepi
 ler
 lere
@@ -4902,7 +4915,6 @@ lipet
 lipur
 lir
 lira
-lire
 liren
 lirih
 lirik
@@ -5003,6 +5015,7 @@ loya
 loyo
 lu
 luang
+luarbiasa
 lucu
 ludah
 ludruk
@@ -5205,6 +5218,7 @@ mara
 marah
 marai
 marang
+marani
 mardi
 mare
 marem
@@ -5255,6 +5269,7 @@ mayang
 mayat
 mayit
 mayu
+mayun
 mbah
 mbok
 mbuh
@@ -5559,6 +5574,7 @@ nakal
 nakes
 naki
 nakon
+nakoni
 naksir
 nakula
 nala
@@ -6160,6 +6176,7 @@ ngerung
 nges
 ngesa
 ngesak
+ngesek
 ngeselin
 ngeseng
 ngesi
@@ -6392,6 +6409,7 @@ ngrepoti
 ngrit
 ngrok
 ngrokok
+ngrung
 ngsu
 ngubek
 nguber
@@ -7061,6 +7079,7 @@ paka
 pakan
 pakap
 pakde
+pako
 paksa
 paku
 pal
@@ -7503,6 +7522,7 @@ puri
 purna
 purnama
 purun
+pus
 pusa
 pusaka
 puser
@@ -7824,6 +7844,7 @@ ringin
 ringkas
 ringkasan
 ringkes
+ringku
 ringo
 rini
 rinja
@@ -8035,6 +8056,7 @@ sak
 saka
 sakal
 sakarep
+saki
 sakin
 saking
 sakit
@@ -8086,6 +8108,7 @@ sampai
 samparan
 sampean
 sampeyan
+sampho
 samping
 sampo
 sampun
@@ -8102,6 +8125,7 @@ sang
 sangar
 sanggul
 sangu
+sani
 sanjang
 santai
 santen
@@ -8274,6 +8298,7 @@ sesa
 sesak
 sesama
 sesat
+sese
 sesek
 sesok
 sesorah
@@ -8882,6 +8907,7 @@ tiran
 tire
 tiri
 tiru
+tis
 tisa
 tisan
 tisu
@@ -8953,6 +8979,7 @@ tresno
 tu
 tua
 tuak
+tuba
 tuban
 tube
 tubruk
@@ -9272,6 +9299,7 @@ undak
 undakan
 undang
 undangan
+undar
 undi
 undian
 unduh
@@ -9415,6 +9443,7 @@ usai
 usan
 usani
 usap
+usar
 use
 usek
 usem
@@ -9541,6 +9570,7 @@ wai
 waja
 wajah
 wajan
+wajib
 wajik
 wak
 waki
@@ -9553,6 +9583,7 @@ walah
 walang
 wali
 walik
+walit
 waluh
 wan
 wanci
