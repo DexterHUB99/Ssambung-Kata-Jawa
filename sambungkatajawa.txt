@@ -7041,6 +7041,7 @@ para
 parah
 parang
 parani
+paras
 pare
 parem
 pari
@@ -9712,6 +9713,7 @@ yusan
 yusi
 yuswa
 yuswo
+yut
 yuta
 yuti
 yuto
