@@ -5259,6 +5259,7 @@ marii
 maring
 maringi
 mario
+marmut
 maru
 maruk
 mas
@@ -6936,6 +6937,7 @@ olong
 oloo
 olop
 olor
+oloro
 olos
 olot
 om
