@@ -4756,6 +4756,7 @@ kene
 kenek
 kenen
 keni
+kening
 kenopo
 kentang
 kenter
@@ -7193,6 +7194,7 @@ ngot
 ngotak
 ngotori
 ngotot
+ngowe
 ngowoh
 ngoyak
 ngoyo
