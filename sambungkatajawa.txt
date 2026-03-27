@@ -2035,6 +2035,7 @@ ef
 efek
 eg
 ega
+egag
 egah
 egak
 egal
@@ -9353,6 +9354,7 @@ tamba
 tambah
 tambak
 tambang
+tame
 tameng
 tami
 tampa
