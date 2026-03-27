@@ -1265,6 +1265,7 @@ belek
 beli
 beling
 belo
+belum
 belut
 ben
 benang
@@ -6018,6 +6019,7 @@ narasi
 nari
 narik
 narima
+narimo
 narkoba
 naro
 narsis
@@ -6399,6 +6401,7 @@ ngatah
 ngatal
 ngatel
 ngatemi
+ngaterna
 ngati
 ngatok
 ngatos
@@ -8784,6 +8787,7 @@ selet
 seling
 selir
 selo
+sem
 semak
 semangat
 semangka
