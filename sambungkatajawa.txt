@@ -651,7 +651,6 @@ angsa
 angsal
 angsi
 angsle
-angsul
 angsur
 angsuran
 angu
@@ -4437,7 +4436,6 @@ kek
 keke
 kekek
 kekel
-kekep
 keker
 keki
 kekunci
@@ -4450,7 +4448,6 @@ kelana
 kelangan
 kelap
 kelar
-kelaran
 kelas
 kelat
 kelawan
@@ -5397,7 +5394,6 @@ lus
 lusa
 lusi
 lusuh
-lut
 luti
 luwe
 luweh
@@ -5566,7 +5562,6 @@ mas
 masa
 masah
 masak
-masakan
 mase
 masi
 masih
@@ -5596,6 +5591,7 @@ matur
 maturnuwun
 matursuwun
 mau
+maui
 mawar
 mawon
 maya
@@ -6318,7 +6314,6 @@ nganik
 nganjok
 nganjuk
 nganjur
-nganjut
 nganko
 ngano
 nganon
@@ -6626,7 +6621,6 @@ nggali
 nggambar
 nggan
 ngganggu
-nggantung
 nggarap
 nggatel
 nggateli
@@ -7058,7 +7052,6 @@ nnggih
 nni
 nnina
 nnumpak
-nnur
 no
 nodol
 noh
@@ -7728,7 +7721,6 @@ pejah
 peju
 pek
 peka
-peken
 pekik
 peko
 pekok
@@ -8277,7 +8269,6 @@ rekasa
 rekmo
 rekoso
 rela
-relek
 relo
 rem
 rema
@@ -9683,7 +9674,6 @@ tuti
 tutuk
 tutup
 tutur
-tuturi
 tuwa
 tuwan
 tuwo
@@ -10354,7 +10344,6 @@ wewe
 wewedang
 wewenang
 wi
-wian
 wibawa
 wicara
 widok
