@@ -269,7 +269,6 @@ ake
 akee
 akeh
 akehi
-aken
 aker
 akes
 aket
@@ -907,6 +906,7 @@ astane
 asti
 astina
 asu
+asue
 asuh
 asuha
 asui
@@ -1143,7 +1143,6 @@ basin
 baso
 basu
 basuh
-basuki
 bat
 bata
 batak
@@ -1363,6 +1362,7 @@ buni
 buntel
 buntu
 buntung
+buntut
 bunuh
 bup
 bur
@@ -1563,6 +1563,7 @@ dahar
 dahi
 daju
 daki
+dako
 dakon
 daku
 dakun
@@ -1831,6 +1832,7 @@ durian
 durma
 durung
 dus
+dusa
 duso
 dusun
 duta
@@ -1842,6 +1844,8 @@ duwet
 duwit
 duwur
 ealah
+eb
+eba
 eben
 ebi
 eboh
@@ -2495,6 +2499,7 @@ gap
 gapa
 gapak
 gapapa
+gapi
 gapit
 gaplek
 gapopo
@@ -3077,6 +3082,7 @@ heri
 hero
 hes
 hesti
+het
 heti
 hewa
 hewo
@@ -3151,7 +3157,6 @@ howo
 hoyo
 hp
 hu
-hub
 hubung
 hubungan
 huda
@@ -3700,6 +3705,7 @@ jara
 jaran
 jaranan
 jare
+jarene
 jari
 jarik
 jaring
@@ -3866,6 +3872,7 @@ kagem
 kaget
 kagungan
 kahanan
+kaiden
 kain
 kaine
 kairi
@@ -3968,7 +3975,6 @@ kandhang
 kandi
 kang
 kangen
-kangge
 kanggih
 kanggo
 kangkung
@@ -4236,6 +4242,7 @@ kep
 kepa
 kepal
 kepala
+keparat
 kepaten
 kepek
 kepeleset
@@ -4395,7 +4402,6 @@ kiwa
 kiye
 klambi
 klambimu
-klapa
 klaten
 klebus
 klenger
@@ -4820,6 +4826,7 @@ lenggah
 lengser
 leni
 lentog
+lep
 lepi
 ler
 lere
@@ -5006,6 +5013,7 @@ loya
 loyo
 lu
 luang
+luarbiasa
 lucu
 ludah
 ludruk
@@ -5208,6 +5216,7 @@ mara
 marah
 marai
 marang
+marani
 mardi
 mare
 marem
@@ -5258,6 +5267,7 @@ mayang
 mayat
 mayit
 mayu
+mayun
 mbah
 mbok
 mbuh
@@ -5562,6 +5572,7 @@ nakal
 nakes
 naki
 nakon
+nakoni
 naksir
 nakula
 nala
@@ -5712,7 +5723,6 @@ nedho
 nedi
 neduh
 neg
-nega
 negara
 negeri
 neges
@@ -6035,7 +6045,6 @@ ngawu
 ngawun
 ngawur
 ngaya
-ngayah
 ngayam
 ngayogyakarta
 ngayomi
@@ -6165,6 +6174,7 @@ ngerung
 nges
 ngesa
 ngesak
+ngesek
 ngeselin
 ngeseng
 ngesi
@@ -6397,6 +6407,7 @@ ngrepoti
 ngrit
 ngrok
 ngrokok
+ngrung
 ngsu
 ngubek
 nguber
@@ -7066,6 +7077,7 @@ paka
 pakan
 pakap
 pakde
+pako
 paksa
 paku
 pal
@@ -7508,6 +7520,7 @@ puri
 purna
 purnama
 purun
+pus
 pusa
 pusaka
 puser
@@ -7694,7 +7707,6 @@ rawat
 rawe
 rawi
 rawit
-rawoh
 rawon
 rawu
 rawuh
@@ -7830,6 +7842,7 @@ ringin
 ringkas
 ringkasan
 ringkes
+ringku
 ringo
 rini
 rinja
@@ -8041,6 +8054,7 @@ sak
 saka
 sakal
 sakarep
+saki
 sakin
 saking
 sakit
@@ -8108,6 +8122,7 @@ sang
 sangar
 sanggul
 sangu
+sani
 sanjang
 santai
 santen
@@ -8280,6 +8295,7 @@ sesa
 sesak
 sesama
 sesat
+sese
 sesek
 sesok
 sesorah
@@ -8959,6 +8975,7 @@ tresno
 tu
 tua
 tuak
+tuba
 tuban
 tube
 tubruk
@@ -9278,6 +9295,7 @@ undak
 undakan
 undang
 undangan
+undar
 undi
 undian
 unduh
@@ -9547,6 +9565,7 @@ wai
 waja
 wajah
 wajan
+wajib
 wajik
 wak
 waki
@@ -9559,6 +9578,7 @@ walah
 walang
 wali
 walik
+walit
 waluh
 wan
 wanci
