@@ -8443,6 +8443,7 @@ sum
 suma
 suman
 sumbang
+sumbangan
 sumbar
 sumber
 sume
@@ -8458,6 +8459,7 @@ suna
 sunan
 sunar
 sunat
+sunatan
 sunda
 sundel
 sunduk
@@ -9335,6 +9337,7 @@ using
 usir
 usli
 usma
+usmi
 usmu
 usna
 uso
