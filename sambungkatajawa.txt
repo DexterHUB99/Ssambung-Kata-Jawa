@@ -4203,6 +4203,7 @@ kae
 kaee
 kaei
 kafir
+kagaka
 kagem
 kaget
 kagungan
@@ -9628,6 +9629,7 @@ tilam
 tilan
 tilap
 tilar
+tilas
 tile
 tilem
 tilep
