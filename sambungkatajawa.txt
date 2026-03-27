@@ -78,6 +78,7 @@ adil
 adin
 adipati
 adit
+ado
 adoh
 adohe
 ados
@@ -879,6 +880,7 @@ asah
 asai
 asak
 asal
+asale
 asam
 asan
 asap
@@ -1073,7 +1075,6 @@ ayam
 ayame
 ayan
 ayang
-ayangku
 ayar
 ayat
 ayay
@@ -1088,6 +1089,7 @@ ayo
 ayok
 ayom
 ayu
+ayub
 ayud
 ayuh
 ayuk
@@ -1546,6 +1548,7 @@ cigar
 cigur
 cika
 cikal
+ciko
 cikur
 cilik
 cilok
@@ -3785,6 +3788,7 @@ iw
 iwak
 iwake
 iwakmu
+iwal
 iwan
 iwane
 iwangi
@@ -3804,6 +3808,7 @@ iyes
 iyo
 iyoo
 iyu
+iyub
 iyuh
 iyuk
 iz
@@ -5180,6 +5185,7 @@ longgar
 longgor
 longor
 longsor
+lonjak
 lonjong
 lono
 lontar
@@ -5500,6 +5506,7 @@ memadi
 memang
 meme
 memek
+memi
 men
 menak
 menawi
@@ -6590,6 +6597,7 @@ ngoceh
 ngocok
 ngodong
 ngoh
+ngohi
 ngojah
 ngojek
 ngojol
@@ -6604,6 +6612,7 @@ ngolak
 ngolek
 ngoleke
 ngoli
+ngolik
 ngolo
 ngolob
 ngoloh
@@ -6878,7 +6887,6 @@ nngalor
 nnggih
 nni
 nnina
-nnumpak
 no
 nodol
 noh
@@ -7822,6 +7830,7 @@ pundi
 pundika
 pungkasan
 puni
+punjul
 punten
 punya
 pup
@@ -8153,6 +8162,7 @@ riko
 riku
 ril
 rila
+rile
 rili
 rilis
 rilo
@@ -8257,6 +8267,7 @@ roo
 rop
 ropan
 ropi
+rora
 roro
 ros
 rosa
@@ -8588,6 +8599,7 @@ semanten
 semapak
 semar
 semarang
+semayang
 sembah
 sembarang
 sembarangan
@@ -8699,7 +8711,6 @@ siku
 sikut
 sil
 sila
-silaa
 silah
 silan
 silane
