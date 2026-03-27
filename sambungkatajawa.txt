@@ -762,6 +762,7 @@ aras
 arasen
 ardi
 are
+areg
 arek
 arem
 arema
@@ -7803,6 +7804,7 @@ ruwahan
 ruwat
 ruwatan
 ruwet
+rw
 sa
 saa
 saan
