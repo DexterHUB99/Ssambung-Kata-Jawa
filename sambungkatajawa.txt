@@ -296,6 +296,7 @@ akhir
 akhirat
 aki
 akia
+akib
 akie
 akih
 akii
@@ -1339,6 +1340,7 @@ bien
 bihun
 bijak
 biji
+bijur
 bik
 bika
 biki
