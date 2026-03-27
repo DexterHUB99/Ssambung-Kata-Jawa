@@ -152,7 +152,6 @@ ahet
 ahh
 ahhh
 ahi
-ahib
 ahid
 ahig
 ahih
@@ -1968,7 +1967,6 @@ duit
 dujun
 duk
 duka
-duki
 duko
 duku
 dukuh
@@ -2379,7 +2377,6 @@ epem
 epen
 epep
 eper
-epes
 epet
 epi
 epic
@@ -3210,7 +3207,6 @@ hamae
 haman
 hamane
 hamba
-hambali
 hambar
 hambur
 hami
@@ -3679,7 +3675,6 @@ impel
 impi
 impian
 impis
-impor
 impun
 impung
 imra
@@ -4201,7 +4196,6 @@ kajen
 kajeng
 kaji
 kajian
-kajii
 kajut
 kak
 kaka
@@ -4848,7 +4842,6 @@ korek
 koreng
 kori
 kos
-kosa
 kosan
 kosek
 kosekan
@@ -4952,7 +4945,6 @@ kuntulmu
 kunyuk
 kuo
 kuota
-kup
 kupa
 kupan
 kupas
@@ -4998,7 +4990,6 @@ kuwe
 kuwi
 kuwo
 kuya
-kuyo
 kwe
 kyai
 la
@@ -5169,7 +5160,6 @@ lega
 legi
 leh
 lek
-leker
 lekoh
 lelah
 lele
@@ -5191,7 +5181,6 @@ leme
 lemek
 lemes
 lemet
-lemi
 lemot
 lempeng
 lemper
@@ -5769,9 +5758,7 @@ mimisan
 min
 mina
 minal
-minan
 minat
-minder
 mingat
 minggat
 minggir
@@ -5876,7 +5863,6 @@ mugi
 mugih
 muh
 muji
-muk
 muka
 mukak
 mukakmu
@@ -6310,6 +6296,7 @@ ngajok
 ngak
 ngaka
 ngakak
+ngakon
 ngaku
 ngal
 ngala
@@ -7530,7 +7517,6 @@ opem
 open
 openi
 oper
-opes
 opet
 opik
 opini
@@ -8232,7 +8218,6 @@ raket
 rakha
 raki
 rakit
-rakma
 rako
 raksasa
 raku
@@ -8383,7 +8368,6 @@ rekak
 rekam
 rekan
 rekasa
-rekat
 rekmo
 rekoso
 rela
@@ -8427,7 +8411,6 @@ rendi
 rene
 reng
 rengginang
-rengkuh
 reni
 reno
 reo
@@ -8978,7 +8961,6 @@ sepii
 sepiro
 sepon
 sepuh
-sepuluh
 sepur
 sepuran
 ser
@@ -9413,7 +9395,6 @@ talii
 talo
 tam
 tama
-tamah
 taman
 tamba
 tambah
@@ -10001,7 +9982,6 @@ ulekan
 ulem
 ulen
 uler
-ules
 ulet
 uli
 ulih
