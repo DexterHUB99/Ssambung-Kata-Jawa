@@ -3407,6 +3407,7 @@ ibu
 ibuk
 ibukmu
 ibuku
+ibumu
 ic
 ica
 ical
@@ -6488,6 +6489,7 @@ ngengkol
 ngengobrol
 ngenko
 ngenos
+ngenot
 ngentek
 ngenteni
 ngentil
@@ -6540,6 +6542,7 @@ ngesuk
 nget
 ngeta
 ngetan
+ngetana
 ngetel
 ngetih
 ngetok
