@@ -3854,6 +3854,7 @@ jawa
 jawab
 jawi
 jawir
+jawoh
 je
 jebul
 jela
@@ -10158,6 +10159,7 @@ yaping
 yar
 yari
 yas
+yasa
 yasin
 yat
 yati
