@@ -6115,6 +6115,7 @@ ngerok
 ngeroso
 ngerti
 ngertos
+ngeruk
 ngerung
 nges
 ngesa
@@ -7548,6 +7549,7 @@ raman
 ramayana
 rambak
 ramban
+rambi
 rambu
 rambut
 rambuta
