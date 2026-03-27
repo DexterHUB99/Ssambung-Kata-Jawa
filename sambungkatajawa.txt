@@ -6522,6 +6522,7 @@ ngrepoti
 ngrit
 ngrok
 ngrokok
+ngrumpi
 ngsu
 ngubek
 nguber
