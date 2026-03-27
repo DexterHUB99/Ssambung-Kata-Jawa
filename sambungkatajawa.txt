@@ -2362,6 +2362,7 @@ esis
 eso
 esok
 eson
+esor
 estri
 estu
 esu
@@ -6622,6 +6623,7 @@ ngudi
 ngudu
 ngudud
 ngudut
+nguga
 ngugah
 ngugu
 nguji
