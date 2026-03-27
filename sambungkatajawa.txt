@@ -432,6 +432,7 @@ ama
 amaa
 amab
 amah
+amai
 amak
 amal
 amala
@@ -776,6 +777,7 @@ apae
 apah
 apak
 apal
+apala
 apan
 apane
 apangan
@@ -842,7 +844,6 @@ areng
 arep
 arepan
 arepe
-ares
 aret
 arga
 ari
@@ -1097,6 +1098,7 @@ awek
 awet
 awi
 awik
+awir
 awis
 awit
 awo
@@ -1405,6 +1407,7 @@ bodoni
 bojo
 bojok
 boke
+bokek
 bokong
 bol
 bola
@@ -2320,6 +2323,7 @@ endange
 endap
 endas
 endase
+endek
 endel
 endhok
 endi
@@ -2331,7 +2335,6 @@ endung
 ene
 ened
 eneg
-eneh
 enek
 enem
 enen
@@ -2855,6 +2858,7 @@ gedor
 gedung
 gee
 gega
+gegel
 geger
 gegere
 geguritan
@@ -2925,6 +2929,7 @@ gendi
 gendir
 gendon
 gendong
+gendul
 gendut
 gene
 geneo
@@ -3114,7 +3119,6 @@ grobak
 grogi
 gu
 gubernur
-gubris
 gubug
 gudang
 gudangan
@@ -3130,7 +3134,6 @@ gugus
 gujeng
 gul
 gula
-gulabatu
 gulai
 gulali
 gulane
@@ -3547,6 +3550,7 @@ ieu
 if
 ig
 iga
+igah
 igak
 igal
 igo
@@ -3628,6 +3632,7 @@ iklim
 iko
 ikoe
 ikon
+ikoo
 ikrar
 iku
 ikue
@@ -4041,7 +4046,6 @@ janda
 jane
 jang
 jangan
-jangga
 jangger
 jangka
 jangkar
@@ -5440,6 +5444,7 @@ lori
 loro
 lorone
 lorong
+loroo
 los
 losa
 lose
@@ -5726,7 +5731,6 @@ mbah
 mbak
 mbok
 mbuh
-mburi
 me
 medal
 medeni
@@ -5863,6 +5867,7 @@ moci
 moco
 modal
 modar
+modaro
 modus
 modyar
 mogok
@@ -6605,6 +6610,7 @@ ngeden
 ngedol
 ngeeh
 ngegas
+ngegawe
 ngeger
 ngegunung
 ngeh
@@ -6894,6 +6900,7 @@ ngno
 ngnu
 ngobat
 ngober
+ngobok
 ngobong
 ngobrol
 ngocak
@@ -6978,7 +6985,6 @@ ngrayu
 ngregeti
 ngrep
 ngrepoti
-ngrewangi
 ngrit
 ngrok
 ngrokok
@@ -7131,7 +7137,6 @@ nili
 nilo
 nim
 nima
-nimah
 niman
 nimba
 nimbali
@@ -7377,7 +7382,6 @@ nyilih
 nyim
 nyimpen
 nyirem
-nyo
 nyocot
 nyogok
 nyoli
@@ -7529,6 +7533,7 @@ oman
 omara
 ombak
 ombe
+ombee
 omben
 ombo
 omboh
@@ -7573,6 +7578,7 @@ onoi
 onono
 onoo
 onta
+ontaa
 ontang
 ontel
 onten
@@ -7926,7 +7932,6 @@ penak
 pendopo
 pengen
 peni
-pening
 peno
 pensil
 pentil
@@ -8145,7 +8150,6 @@ popoli
 por
 pora
 porah
-poran
 porasi
 porek
 pori
@@ -8520,6 +8524,7 @@ resiko
 resing
 restu
 ret
+retak
 retan
 reti
 rewang
@@ -9366,6 +9371,7 @@ sunda
 sundel
 sunduk
 sundul
+sung
 sungai
 sungi
 sunging
@@ -10041,7 +10047,6 @@ ukukir
 ukul
 ukum
 ukung
-ukup
 ukur
 ukura
 ukuran
@@ -10459,6 +10464,7 @@ walang
 wali
 walik
 waluh
+waluyo
 wan
 wanci
 wangi
@@ -10621,6 +10627,7 @@ witen
 witi
 witir
 wito
+witoh
 witri
 wiwa
 wiwi
@@ -10761,12 +10768,12 @@ yon
 yona
 yong
 yongi
-yoni
 yono
 yoo
 yoopo
 yoora
 yora
+yore
 yori
 yos
 yosan
