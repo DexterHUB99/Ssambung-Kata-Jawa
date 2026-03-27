@@ -1377,7 +1377,6 @@ boyok
 bu
 bua
 buang
-buanga
 buat
 buatan
 buaya
@@ -3588,6 +3587,7 @@ indana
 indang
 indek
 inden
+indeng
 indik
 indomie
 indra
@@ -3793,7 +3793,6 @@ ito
 itu
 itung
 itungan
-itungi
 iut
 iuta
 iw
@@ -6494,7 +6493,6 @@ nggawe
 ngge
 nggeh
 nggendong
-ngger
 nggi
 nggih
 nggilani
@@ -7060,7 +7058,6 @@ nyawa
 nyawah
 nyawang
 nyawat
-nyawi
 nyawiji
 nyawit
 nyekek
@@ -8297,7 +8294,6 @@ rora
 roro
 ros
 rosa
-rosan
 rose
 rosi
 roso
@@ -8458,7 +8454,6 @@ sali
 salim
 salin
 saling
-salip
 salira
 salo
 salom
@@ -8794,7 +8789,6 @@ sirat
 sirep
 siri
 sirih
-sirna
 siro
 sirsak
 sirup
@@ -9412,7 +9406,6 @@ tuha
 tuhan
 tuk
 tukang
-tukaran
 tuki
 tuku
 tukul
@@ -10080,6 +10073,7 @@ wawasan
 wawi
 wawo
 way
+waya
 wayah
 wayan
 wayang
