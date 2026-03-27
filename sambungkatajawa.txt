@@ -5644,6 +5644,7 @@ mem
 memacul
 memadi
 memang
+memar
 meme
 memek
 memi
