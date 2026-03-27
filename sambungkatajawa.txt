@@ -10369,6 +10369,7 @@ yapa
 yapi
 yaping
 yar
+yara
 yari
 yas
 yasa
