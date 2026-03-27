@@ -842,6 +842,7 @@ asan
 asap
 asar
 asas
+asasi
 asat
 ase
 aseh
@@ -1912,6 +1913,7 @@ ekane
 ekap
 ekar
 ekas
+ekat
 eke
 ekeh
 ekek
@@ -8212,6 +8214,7 @@ simoen
 simpang
 sin
 sina
+sinare
 sinau
 sing
 singa
