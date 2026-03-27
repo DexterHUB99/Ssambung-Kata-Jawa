@@ -68,7 +68,6 @@ adek
 adel
 adem
 adep
-adhap
 adhem
 adhep
 adhi
@@ -282,6 +281,7 @@ akbar
 ake
 akee
 akeh
+akehe
 akehi
 aken
 aker
@@ -482,7 +482,6 @@ amia
 amie
 amii
 amik
-amil
 amim
 amin
 aming
@@ -1012,7 +1011,6 @@ atok
 atom
 aton
 atos
-atose
 atrahe
 atrap
 atret
@@ -1070,7 +1068,6 @@ awo
 awon
 awor
 awu
-awuh
 awur
 ax
 ay
@@ -1257,7 +1254,6 @@ belo
 belut
 ben
 benang
-bendo
 bene
 bener
 bengek
@@ -1361,6 +1357,7 @@ boleh
 bolo
 bolong
 bom
+bongkar
 bongko
 bono
 bor
@@ -1544,7 +1541,6 @@ cerdas
 ceret
 ceri
 cerita
-cermin
 ces
 cewek
 cewok
@@ -1749,7 +1745,6 @@ dempul
 den
 dena
 dene
-deneng
 dengki
 dengkul
 dening
@@ -2424,7 +2419,6 @@ etah
 etak
 etam
 etan
-etane
 etang
 etano
 etap
@@ -2580,7 +2574,6 @@ gambar
 gambas
 gambir
 gambleh
-gambol
 gambreng
 gambuh
 gambut
@@ -2588,7 +2581,6 @@ gambyong
 game
 gamean
 gamel
-gamela
 gamelan
 gamen
 gami
@@ -3603,7 +3595,6 @@ indana
 indang
 indek
 inden
-indeng
 indik
 indomie
 indra
@@ -3861,7 +3852,6 @@ jajal
 jajam
 jajan
 jajang
-jak
 jaka
 jakaa
 jakat
@@ -4505,7 +4495,6 @@ kerja
 kerjo
 kero
 kerok
-kerono
 keroso
 kerot
 kersa
@@ -4886,6 +4875,7 @@ lah
 lahan
 lahi
 lahir
+lahiran
 lair
 lajeng
 laju
@@ -4953,7 +4943,6 @@ lanjut
 lansia
 lantai
 lantang
-lantas
 lanting
 lantun
 lantung
@@ -5088,10 +5077,8 @@ libur
 licik
 licin
 lidah
-lie
 lih
 liha
-lihar
 lihat
 lii
 lik
@@ -5552,7 +5539,6 @@ men
 menak
 menawi
 mencar
-mendek
 mendoan
 mene
 menehi
@@ -5653,6 +5639,7 @@ moci
 moco
 modal
 modar
+modaro
 modus
 modyar
 mogok
@@ -6180,7 +6167,6 @@ ngamok
 ngampak
 ngampar
 ngampet
-ngampil
 ngampiri
 ngampung
 ngamuk
@@ -6333,7 +6319,6 @@ ngawi
 ngawih
 ngawii
 ngawir
-ngawisi
 ngawit
 ngawiti
 ngawor
@@ -6348,7 +6333,6 @@ ngayomi
 ngayu
 ngayuh
 ngayun
-ngayung
 ngcok
 nge
 ngebas
@@ -6402,7 +6386,6 @@ ngelus
 ngeluwes
 ngem
 ngemas
-ngembel
 ngembun
 ngemil
 ngemis
@@ -6442,6 +6425,7 @@ ngengkol
 ngengobrol
 ngenko
 ngenos
+ngenot
 ngentek
 ngenteni
 ngentil
@@ -6745,7 +6729,6 @@ ngugu
 nguji
 ngujuk
 nguk
-nguker
 ngukir
 ngukur
 ngul
@@ -7319,7 +7302,6 @@ opoiki
 opok
 opoki
 opol
-opone
 opoo
 opor
 opose
@@ -7350,7 +7332,6 @@ organisasi
 ori
 oria
 orii
-oring
 orok
 orong
 oros
@@ -7437,7 +7418,6 @@ pakap
 pakar
 pakde
 pakdhe
-pakle
 paksa
 paku
 pal
@@ -8466,6 +8446,7 @@ sak
 saka
 sakal
 sakarep
+sakdurunge
 saket
 sakin
 saking
@@ -8599,7 +8580,6 @@ sawang
 sawer
 sawi
 sawiji
-sawijine
 sawik
 sawis
 sawise
@@ -8668,7 +8648,6 @@ semayang
 sembah
 sembarang
 sembarangan
-sembari
 sembur
 semen
 semi
@@ -9696,7 +9675,6 @@ ulangan
 ulangi
 ulap
 ular
-ulara
 ulari
 ularo
 ulas
@@ -10019,10 +9997,8 @@ uwi
 uwis
 uwit
 uwong
-uwos
 uwu
 uwuh
-uwuhe
 ux
 uy
 uya
@@ -10122,7 +10098,6 @@ wawasan
 wawi
 wawo
 way
-waya
 wayah
 wayan
 wayang
