@@ -2237,6 +2237,7 @@ erung
 erungi
 erup
 erus
+erusan
 erusi
 es
 esa
@@ -9792,6 +9793,7 @@ yos
 yosan
 yosi
 yoto
+yowa
 yowe
 yowes
 yowis
