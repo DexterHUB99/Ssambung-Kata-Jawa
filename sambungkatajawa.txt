@@ -2902,6 +2902,7 @@ hanya
 hao
 hap
 hapa
+hapan
 hape
 hapi
 hapunten
@@ -4204,6 +4205,7 @@ keton
 ketos
 ketua
 ketum
+ketung
 ketupat
 keturon
 ketut
