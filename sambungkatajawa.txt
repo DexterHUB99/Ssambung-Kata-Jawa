@@ -211,7 +211,6 @@ aili
 ailo
 ailon
 aima
-aimo
 aimu
 aina
 aing
@@ -705,7 +704,6 @@ anol
 anom
 anoman
 anop
-anos
 ansur
 ansuran
 anta
@@ -1661,7 +1659,6 @@ cupu
 curi
 curut
 cuti
-dablek
 dada
 dadah
 dadali
@@ -4107,6 +4104,7 @@ juni
 juragan
 jurang
 juri
+juru
 jurus
 jus
 ka
@@ -5238,7 +5236,6 @@ lintasan
 lio
 lip
 lipa
-lipak
 lipan
 lipas
 lipat
@@ -8333,7 +8330,6 @@ renan
 renang
 rencang
 renda
-rendah
 rendang
 rendeng
 rendi
@@ -9199,6 +9195,7 @@ sungka
 sungkan
 sungkem
 sungki
+sunnah
 suno
 suntik
 suntuk
