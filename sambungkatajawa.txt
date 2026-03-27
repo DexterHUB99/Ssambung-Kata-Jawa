@@ -30,7 +30,6 @@ abo
 aboh
 abon
 abot
-abote
 abrit
 abu
 abuh
@@ -401,7 +400,6 @@ aloy
 alpukat
 alu
 aluban
-aluk
 alul
 alum
 alumni
@@ -559,7 +557,6 @@ anci
 ancik
 anco
 ancok
-ancu
 ancuk
 ancur
 ancuran
@@ -571,7 +568,6 @@ andalan
 andang
 andani
 andap
-andara
 andaran
 andas
 ander
@@ -1089,7 +1085,6 @@ ayud
 ayuh
 ayuk
 ayun
-ayunan
 az
 ba
 baa
@@ -1240,7 +1235,6 @@ belo
 belut
 ben
 benang
-bene
 bener
 bengek
 bengi
@@ -1692,7 +1686,6 @@ dawah
 dawak
 dawet
 dawuh
-daya
 dayah
 dayang
 dayu
@@ -1894,7 +1887,6 @@ dulang
 duli
 dulu
 dulur
-dulure
 dum
 dumadi
 dumeh
@@ -3260,7 +3252,6 @@ hoi
 hoki
 hoko
 hola
-hole
 holi
 holo
 homa
@@ -3281,7 +3272,6 @@ hormat
 horo
 horog
 hot
-hota
 hotel
 hoti
 hotro
@@ -3432,7 +3422,6 @@ ikar
 ikat
 ikatan
 ike
-ikea
 ikel
 iker
 iket
@@ -3872,7 +3861,6 @@ jawa
 jawab
 jawi
 jawir
-jawoh
 je
 jebul
 jela
@@ -5044,7 +5032,6 @@ lik
 lika
 likan
 likis
-liko
 liku
 lila
 lili
@@ -6606,7 +6593,6 @@ ngompol
 ngompor
 ngon
 ngonde
-ngonek
 ngong
 ngoni
 ngono
@@ -6904,7 +6890,6 @@ nos
 nosa
 nose
 nosi
-not
 nota
 note
 noya
@@ -8123,7 +8108,6 @@ rii
 rik
 rika
 rikala
-rikate
 riki
 rikma
 riko
@@ -8486,7 +8470,6 @@ sasi
 sastra
 sasu
 sate
-satoan
 satru
 satu
 satus
@@ -9398,7 +9381,6 @@ turun
 turuo
 tus
 tusa
-tusi
 tusu
 tusuk
 tut
@@ -10192,7 +10174,6 @@ yaping
 yar
 yari
 yas
-yasa
 yasin
 yat
 yati
