@@ -573,6 +573,7 @@ angger
 anggo
 anggon
 anggoro
+anggota
 anggrek
 anggu
 angguk
@@ -1232,6 +1233,7 @@ bisma
 biso
 bisu
 bisue
+bisulan
 biyung
 bo
 bobi
