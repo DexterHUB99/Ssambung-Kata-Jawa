@@ -154,6 +154,7 @@ ahit
 ahiy
 ahlak
 ahli
+ahlia
 ahline
 ahlu
 aho
@@ -5868,6 +5869,7 @@ ngaos
 ngap
 ngapa
 ngapae
+ngapai
 ngapain
 ngapak
 ngapal
