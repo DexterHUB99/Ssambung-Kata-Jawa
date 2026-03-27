@@ -6206,6 +6206,7 @@ ngacir
 ngaco
 ngacung
 ngadai
+ngadangu
 ngadani
 ngadeg
 ngadek
