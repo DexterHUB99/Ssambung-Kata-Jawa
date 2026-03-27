@@ -6735,6 +6735,7 @@ nikmat
 niko
 niku
 nikung
+nikus
 nil
 nila
 nilai
@@ -7210,6 +7211,7 @@ orapopo
 oras
 orasah
 ore
+oreg
 orek
 oren
 oreng
