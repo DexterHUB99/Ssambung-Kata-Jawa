@@ -4753,6 +4753,7 @@ kora
 korak
 koran
 korban
+korea
 korek
 koreng
 kori
@@ -4849,6 +4850,7 @@ kundur
 kune
 kuneng
 kungkum
+kuni
 kuning
 kunir
 kuno
