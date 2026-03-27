@@ -17,7 +17,6 @@ abdi
 abdina
 abe
 abel
-aben
 abena
 abi
 abia
@@ -27,7 +26,6 @@ abil
 abim
 abimanyu
 abin
-abing
 abir
 abis
 abit
@@ -2622,7 +2620,6 @@ ewe
 ewean
 ewee
 ewek
-ewene
 ewer
 ewes
 ewin
@@ -3235,7 +3232,6 @@ guruo
 gus
 gusah
 gusar
-gusel
 gusi
 gusti
 gusur
@@ -3772,7 +3768,6 @@ imi
 iming
 imla
 imma
-imna
 imo
 impel
 impi
@@ -4259,6 +4254,7 @@ kaba
 kabar
 kabare
 kabeh
+kabel
 kabi
 kabor
 kabun
@@ -4360,7 +4356,6 @@ kam
 kama
 kamae
 kamala
-kaman
 kamar
 kamari
 kambi
@@ -5005,6 +5000,7 @@ ku
 kua
 kuasa
 kuat
+kubur
 kuburan
 kucing
 kucir
@@ -5247,7 +5243,6 @@ larang
 laras
 lare
 lari
-larik
 laring
 laris
 laron
@@ -5966,7 +5961,6 @@ moh
 mohan
 mojo
 mok
-moke
 moki
 mokong
 mol
@@ -6011,7 +6005,6 @@ mringis
 mripat
 mu
 mual
-muatan
 mubal
 mubeng
 mucuk
@@ -6298,6 +6291,7 @@ nawi
 nawon
 nawuh
 naya
+ncok
 ndak
 ndalu
 ndang
@@ -6327,6 +6321,7 @@ neg
 nega
 negara
 negeri
+negeria
 neges
 negi
 negor
@@ -6920,7 +6915,6 @@ ngiki
 ngikil
 ngiku
 ngikut
-ngil
 ngila
 ngilag
 ngilang
@@ -6934,7 +6928,6 @@ ngilo
 ngilu
 ngima
 ngimam
-ngiman
 ngimi
 ngiming
 ngimpi
@@ -8059,6 +8052,7 @@ pemuda
 pen
 pena
 penak
+pendek
 pendopo
 pengen
 peni
@@ -8817,6 +8811,7 @@ rotan
 roti
 roto
 rowang
+rowi
 rowo
 roya
 royo
@@ -8992,7 +8987,6 @@ sam
 sama
 samah
 saman
-samar
 samat
 sambak
 sambal
@@ -9035,7 +9029,6 @@ sanggul
 sangit
 sangkuni
 sangu
-sanja
 sanjang
 santai
 santen
@@ -9172,6 +9165,7 @@ sembarangan
 sembari
 sembur
 semen
+semene
 semi
 semok
 semol
@@ -9230,7 +9224,6 @@ serong
 seru
 ses
 sesa
-sesajen
 sesak
 sesakno
 sesama
@@ -9412,7 +9405,6 @@ some
 son
 songo
 songong
-soni
 sono
 sonten
 sop
