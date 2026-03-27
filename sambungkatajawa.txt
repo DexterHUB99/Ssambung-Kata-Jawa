@@ -7227,6 +7227,7 @@ pinarak
 pincang
 pincuk
 pindah
+pindak
 pindang
 pindho
 pindo
