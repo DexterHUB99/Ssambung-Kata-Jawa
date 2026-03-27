@@ -1012,6 +1012,7 @@ ayep
 ayi
 ayia
 ayik
+aying
 ayo
 ayok
 ayu
@@ -1167,7 +1168,6 @@ berak
 beras
 beri
 bersih
-bertanya
 bes
 besan
 besar
@@ -1276,7 +1276,6 @@ buang
 buat
 buatan
 buaya
-bubar
 bubis
 bubu
 bubuk
@@ -1794,7 +1793,6 @@ ebor
 eca
 ece
 eco
-ecok
 ed
 eda
 edak
@@ -2205,7 +2203,6 @@ eses
 esi
 esih
 esin
-esis
 eso
 esok
 eson
@@ -2629,13 +2626,11 @@ gidal
 gig
 giga
 gigi
-gigigi
 gigih
 gigir
 gigit
 gigu
 gih
-giha
 gila
 gilaa
 gilak
@@ -3210,6 +3205,7 @@ ikilo
 ikim
 ikio
 ikita
+ikiyo
 iklas
 iklim
 iko
@@ -3312,7 +3308,6 @@ inang
 inara
 inaya
 incar
-inceng
 inda
 indah
 indak
@@ -3359,7 +3354,6 @@ insan
 insyaallah
 internet
 inti
-intik
 intil
 intine
 intinya
@@ -4472,7 +4466,6 @@ kus
 kusa
 kusi
 kusir
-kut
 kuta
 kutah
 kutan
@@ -6171,7 +6164,6 @@ ngoni
 ngono
 ngontal
 ngonten
-ngontol
 ngop
 ngopak
 ngopeni
@@ -6390,6 +6382,7 @@ njupuk
 nki
 nko
 nmu
+nnadi
 nnalika
 nnangka
 nnani
@@ -6709,7 +6702,6 @@ ondol
 ondone
 oneng
 ongak
-ongeh
 ongkeh
 ongkek
 ongkel
@@ -6861,7 +6853,6 @@ pakan
 pakap
 paksa
 paku
-pal
 pala
 palah
 palak
@@ -6874,7 +6865,6 @@ paleng
 palet
 pali
 paling
-palis
 palko
 palu
 palung
@@ -7589,7 +7579,6 @@ rindu
 ring
 ringa
 ringan
-ringi
 ringin
 ringkas
 ringkasan
@@ -7799,7 +7788,6 @@ sak
 saka
 sakal
 sakarep
-sakin
 saking
 sakit
 sakite
@@ -7808,7 +7796,6 @@ saku
 sakura
 sal
 sala
-salad
 salah
 salahku
 salak
@@ -7849,6 +7836,7 @@ sampean
 sampeyan
 samping
 sampo
+sampul
 sampun
 samu
 samudra
@@ -8197,8 +8185,6 @@ sore
 sori
 soroh
 sos
-sosa
-sosao
 sosi
 sosis
 sosmed
@@ -8690,6 +8676,7 @@ tuh
 tuha
 tuhan
 tuk
+tuka
 tukang
 tuki
 tuku
@@ -8823,7 +8810,6 @@ ugah
 ugak
 ugal
 ugas
-uger
 uget
 ugi
 ugo
@@ -8869,7 +8855,6 @@ uken
 ukep
 uker
 ukes
-ukhi
 uki
 ukin
 ukir
@@ -9460,7 +9445,6 @@ yakan
 yaken
 yakin
 yaksa
-yaku
 yala
 yali
 yam
