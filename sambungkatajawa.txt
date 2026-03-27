@@ -78,7 +78,6 @@ adil
 adin
 adipati
 adit
-ado
 adoh
 adohe
 ados
@@ -880,7 +879,6 @@ asah
 asai
 asak
 asal
-asale
 asam
 asan
 asap
@@ -1075,6 +1073,7 @@ ayam
 ayame
 ayan
 ayang
+ayangku
 ayar
 ayat
 ayay
@@ -1089,7 +1088,6 @@ ayo
 ayok
 ayom
 ayu
-ayub
 ayud
 ayuh
 ayuk
@@ -1525,6 +1523,7 @@ cendol
 cengkeh
 centil
 centong
+cepet
 ceplok
 cerdas
 ceret
@@ -1548,7 +1547,6 @@ cigar
 cigur
 cika
 cikal
-ciko
 cikur
 cilik
 cilok
@@ -1766,6 +1764,7 @@ didin
 dido
 didu
 dihapus
+dijus
 dik
 dika
 dikan
@@ -1916,6 +1915,7 @@ dupa
 dupak
 dupo
 dur
+dura
 duran
 duren
 duri
@@ -2778,6 +2778,7 @@ genderuwo
 genderwo
 gendheng
 gendhis
+gendhuk
 gendi
 gendon
 gendong
@@ -3788,7 +3789,6 @@ iw
 iwak
 iwake
 iwakmu
-iwal
 iwan
 iwane
 iwangi
@@ -3808,7 +3808,6 @@ iyes
 iyo
 iyoo
 iyu
-iyub
 iyuh
 iyuk
 iz
@@ -4551,7 +4550,6 @@ kilir
 kilonan
 kim
 kima
-kiman
 kime
 kimi
 kin
@@ -5186,7 +5184,6 @@ longgar
 longgor
 longor
 longsor
-lonjak
 lonjong
 lono
 lontar
@@ -5464,7 +5461,6 @@ matii
 matio
 maton
 matu
-matuk
 matur
 maturnuwun
 matursuwun
@@ -5508,7 +5504,6 @@ memadi
 memang
 meme
 memek
-memi
 men
 menak
 menawi
@@ -6599,7 +6594,6 @@ ngoceh
 ngocok
 ngodong
 ngoh
-ngohi
 ngojah
 ngojek
 ngojol
@@ -6614,7 +6608,6 @@ ngolak
 ngolek
 ngoleke
 ngoli
-ngolik
 ngolo
 ngolob
 ngoloh
@@ -6889,6 +6882,7 @@ nngalor
 nnggih
 nni
 nnina
+nnumpak
 no
 nodol
 noh
@@ -7126,6 +7120,7 @@ okana
 okar
 okas
 oke
+okean
 okee
 okeh
 okei
@@ -7832,7 +7827,6 @@ pundi
 pundika
 pungkasan
 puni
-punjul
 punten
 punya
 pup
@@ -8084,7 +8078,6 @@ relo
 rem
 rema
 remah
-remak
 remang
 remas
 remba
@@ -8165,7 +8158,6 @@ riko
 riku
 ril
 rila
-rile
 rili
 rilis
 rilo
@@ -8255,7 +8247,6 @@ rombak
 rombeng
 rombong
 rombongan
-romi
 romo
 rompak
 rompi
@@ -8271,7 +8262,6 @@ roo
 rop
 ropan
 ropi
-rora
 roro
 ros
 rosa
@@ -8603,7 +8593,6 @@ semanten
 semapak
 semar
 semarang
-semayang
 sembah
 sembarang
 sembarangan
@@ -8715,6 +8704,7 @@ siku
 sikut
 sil
 sila
+silaa
 silah
 silan
 silane
@@ -9220,7 +9210,6 @@ tere
 teri
 terima
 terjun
-terna
 ternak
 terne
 terong
