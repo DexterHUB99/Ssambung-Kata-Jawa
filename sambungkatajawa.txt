@@ -1259,6 +1259,7 @@ bibi
 bibik
 bibir
 bibis
+bibit
 bibu
 bidan
 biduk
@@ -6444,6 +6445,7 @@ ngintip
 nginum
 ngipas
 ngipasi
+ngipet
 ngir
 ngira
 ngiras
@@ -9217,6 +9219,7 @@ tuak
 tub
 tuban
 tube
+tubi
 tubruk
 tubuh
 tugel
@@ -10101,6 +10104,7 @@ yoi
 yoiku
 yok
 yoki
+yola
 yoli
 yolo
 yom
