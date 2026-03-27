@@ -1338,7 +1338,6 @@ buat
 buatan
 buaya
 bubar
-bubi
 bubis
 bubu
 bubuk
@@ -2470,6 +2469,7 @@ gali
 galia
 galie
 galih
+galii
 galine
 galio
 galo
@@ -2839,6 +2839,7 @@ gondrong
 gonel
 gong
 gongso
+goni
 gontor
 gopal
 gopoh
@@ -3741,6 +3742,7 @@ jamput
 jamu
 jamur
 jan
+jana
 janaka
 jancok
 jancuk
@@ -4735,7 +4737,6 @@ lalah
 lalak
 lalang
 lalat
-lalatan
 laler
 lali
 lalia
@@ -9201,7 +9202,6 @@ ubek
 uber
 ubi
 ubii
-ubub
 ubun
 ubur
 uca
@@ -10024,7 +10024,6 @@ yuli
 yulo
 yuma
 yumi
-yumo
 yumu
 yun
 yuna
