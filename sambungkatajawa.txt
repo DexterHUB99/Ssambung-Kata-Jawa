@@ -6087,6 +6087,7 @@ ngasil
 ngasin
 ngasing
 ngaso
+ngasoh
 ngasta
 ngasu
 ngasuh
@@ -6300,6 +6301,7 @@ nggi
 nggih
 nggilani
 nggiling
+nggo
 nggole
 nggolek
 nggon
@@ -7616,6 +7618,7 @@ puri
 purna
 purnama
 purun
+pus
 pusa
 pusaka
 puser
@@ -9596,6 +9599,7 @@ usus
 ususe
 ususus
 usut
+uswa
 ut
 uta
 utaa
