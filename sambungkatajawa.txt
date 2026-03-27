@@ -26,6 +26,7 @@ abil
 abim
 abimanyu
 abin
+abing
 abir
 abis
 abit
@@ -6003,6 +6004,7 @@ mringis
 mripat
 mu
 mual
+muatan
 mubal
 mubeng
 mucuk
@@ -8048,7 +8050,6 @@ pemuda
 pen
 pena
 penak
-pendek
 pendopo
 pengen
 peni
@@ -9024,6 +9025,7 @@ sanggul
 sangit
 sangkuni
 sangu
+sanja
 sanjang
 santai
 santen
