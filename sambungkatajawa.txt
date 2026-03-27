@@ -5609,6 +5609,7 @@ loya
 loyo
 lu
 luang
+luber
 lucu
 ludah
 ludruk
@@ -7242,6 +7243,7 @@ ngumpil
 ngumpul
 ngun
 ngunani
+nguncal
 ngunci
 ngundah
 ngundang
