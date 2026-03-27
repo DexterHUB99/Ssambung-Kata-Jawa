@@ -5154,6 +5154,7 @@ lamon
 lamongan
 lampah
 lamper
+lamping
 lampir
 lampiran
 lampit
@@ -7681,6 +7682,7 @@ opoiki
 opok
 opoki
 opol
+opoleh
 opone
 opoo
 opor
