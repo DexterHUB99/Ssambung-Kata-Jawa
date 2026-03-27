@@ -3620,6 +3620,7 @@ imi
 iming
 imla
 imo
+impel
 impi
 impian
 impun
@@ -3953,6 +3954,7 @@ jaran
 jaranan
 jare
 jari
+jarii
 jarik
 jaring
 jarum
@@ -7820,6 +7822,7 @@ pilu
 pilum
 pilup
 pilus
+pimen
 pin
 pina
 pinan
