@@ -8395,6 +8395,7 @@ sigap
 sigar
 sih
 sii
+siipun
 siji
 sik
 sika
@@ -9047,6 +9048,7 @@ towo
 toya
 toyi
 toyo
+tresna
 tresno
 tu
 tua
