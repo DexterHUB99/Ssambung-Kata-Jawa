@@ -2257,6 +2257,7 @@ empedu
 empek
 empeng
 emper
+emperan
 empet
 emping
 emplok
@@ -2683,6 +2684,7 @@ ganda
 gandeng
 gandhes
 gandhul
+gandok
 gandokan
 gandos
 gandrung
@@ -9937,6 +9939,7 @@ ukol
 ukom
 ukon
 ukop
+ukra
 ukro
 ukta
 uku
