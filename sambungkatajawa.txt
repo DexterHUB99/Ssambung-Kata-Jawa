@@ -653,6 +653,7 @@ angkrik
 angkring
 angkringan
 angkuh
+angkut
 angling
 angon
 angop
@@ -1149,6 +1150,7 @@ babat
 babi
 babia
 babii
+babon
 babu
 baca
 bacin
@@ -1291,6 +1293,7 @@ belan
 belang
 belas
 belek
+beler
 beli
 beling
 belo
@@ -1357,6 +1360,7 @@ bil
 bila
 bilah
 bilai
+bilak
 bilo
 bima
 bimo
@@ -2154,6 +2158,7 @@ ekes
 eket
 eki
 ekih
+ekik
 ekil
 ekir
 ekis
@@ -2313,7 +2318,6 @@ endange
 endap
 endas
 endase
-endek
 endel
 endhok
 endi
@@ -2462,6 +2466,7 @@ erong
 eror
 eros
 erosi
+erta
 erti
 ertia
 eru
@@ -2847,7 +2852,6 @@ gedor
 gedung
 gee
 gega
-gegel
 geger
 gegere
 geguritan
@@ -3619,7 +3623,6 @@ iklim
 iko
 ikoe
 ikon
-ikoo
 ikrar
 iku
 ikue
@@ -4742,6 +4745,7 @@ kilan
 kilap
 kilas
 kilat
+kile
 kilen
 kili
 kilir
@@ -5430,7 +5434,6 @@ lori
 loro
 lorone
 lorong
-loroo
 los
 losa
 lose
@@ -6608,6 +6611,7 @@ ngeko
 ngekor
 ngekos
 ngel
+ngeladeni
 ngelag
 ngelak
 ngelam
@@ -6904,6 +6908,7 @@ ngolah
 ngolak
 ngolek
 ngoleke
+ngolet
 ngoli
 ngolik
 ngolo
@@ -7194,6 +7199,7 @@ nni
 nnina
 nnumpak
 no
+nobat
 nodol
 noh
 nohi
@@ -7599,6 +7605,7 @@ opotoh
 opoyo
 or
 ora
+oraa
 orah
 orai
 oraiso
@@ -7973,6 +7980,7 @@ pikantuk
 pikep
 piki
 pikiran
+piko
 piku
 pikul
 pikun
@@ -8734,6 +8742,7 @@ saa
 saan
 saapi
 saba
+sabang
 sabar
 sabe
 saben
