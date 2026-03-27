@@ -3649,6 +3649,7 @@ jarik
 jaring
 jarum
 jas
+jasa
 jati
 jatuh
 jauh
@@ -3966,6 +3967,7 @@ kasa
 kasah
 kasak
 kasan
+kasang
 kasar
 kasara
 kase
