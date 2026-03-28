@@ -1566,6 +1566,7 @@ bujak
 bujang
 bujangan
 buji
+bujun
 buk
 buka
 bukak
@@ -7773,6 +7774,7 @@ numis
 numo
 numpah
 numpak
+numpaki
 numpang
 numplek
 numpuk
