@@ -4194,6 +4194,7 @@ jaring
 jarum
 jas
 jasa
+jata
 jati
 jatuh
 jauh
@@ -10936,6 +10937,7 @@ weton
 wetu
 wewe
 wewedang
+weweh
 wewenang
 wi
 wibawa
