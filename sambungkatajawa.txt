@@ -6412,6 +6412,7 @@ muji
 muka
 mukak
 mukakmu
+mukat
 muke
 muki
 muku
@@ -9993,6 +9994,7 @@ sita
 sitak
 siti
 sitii
+sitok
 sitol
 siwa
 siwak
