@@ -3382,6 +3382,7 @@ hal
 hala
 halah
 halal
+halan
 halang
 halangan
 hale
@@ -5002,6 +5003,7 @@ kisa
 kisan
 kisanak
 kisi
+kismis
 kit
 kita
 kitaa
