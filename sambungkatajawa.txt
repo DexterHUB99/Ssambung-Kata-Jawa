@@ -1883,6 +1883,7 @@ dek
 dekan
 dekek
 deki
+dekil
 dekok
 dela
 dele
@@ -5976,6 +5977,7 @@ mekso
 mela
 melas
 melati
+meleh
 melek
 meler
 melet
@@ -7115,6 +7117,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbu
 ngimi
 ngiming
 ngimpi
@@ -8153,6 +8156,7 @@ panuwun
 panyuwun
 papa
 papah
+papai
 papan
 papat
 papi
@@ -9197,6 +9201,7 @@ salam
 salama
 salaman
 salat
+salawase
 sale
 saleh
 salem
@@ -9476,6 +9481,7 @@ sesorah
 sesuk
 setan
 setela
+seti
 setunggal
 sewa
 sewelas
