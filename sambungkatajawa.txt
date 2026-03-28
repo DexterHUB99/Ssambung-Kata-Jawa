@@ -2990,6 +2990,7 @@ gares
 gari
 garih
 garii
+garine
 garing
 garis
 garisan
@@ -3768,6 +3769,7 @@ ica
 icak
 ical
 ican
+icip
 icone
 icu
 id
@@ -4078,6 +4080,7 @@ ipi
 ipik
 ipil
 ipin
+iping
 ipit
 ipko
 ipma
@@ -6287,6 +6290,7 @@ moh
 mohan
 mojo
 mok
+moka
 moke
 moki
 mokong
@@ -7325,6 +7329,7 @@ ngin
 nginang
 nginap
 nginceng
+ngindang
 nginep
 nging
 nginggil
@@ -9893,6 +9898,7 @@ sit
 sita
 sitak
 siti
+sitik
 sitol
 siwa
 siwak
