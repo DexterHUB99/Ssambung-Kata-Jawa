@@ -2590,6 +2590,7 @@ enra
 enri
 enta
 entak
+entang
 entar
 entas
 ente
@@ -10973,6 +10974,7 @@ ulanga
 ulangan
 ulangi
 ulap
+ulapo
 ular
 ulara
 ulari
