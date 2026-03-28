@@ -101,7 +101,6 @@ ados
 adu
 aduh
 aduk
-adun
 adus
 ae
 aeng
@@ -1781,7 +1780,6 @@ coba
 cobak
 cobek
 cocok
-cocol
 cocot
 cocote
 cod
@@ -4712,7 +4710,6 @@ karsa
 kartu
 karun
 karung
-karya
 karyani
 kas
 kasa
@@ -6053,6 +6050,7 @@ marem
 mari
 maria
 mariana
+marie
 marii
 maring
 maringi
@@ -9609,6 +9607,7 @@ sebat
 sedang
 sedap
 sedar
+sedasa
 sedaya
 sedeng
 sedha
