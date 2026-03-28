@@ -2233,6 +2233,7 @@ ebok
 ebol
 ebom
 ebor
+ebut
 eca
 ecah
 ece
@@ -9211,6 +9212,7 @@ retak
 retan
 reti
 rewang
+rewe
 rewel
 rezeki
 ri
