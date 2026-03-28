@@ -2962,6 +2962,7 @@ gamela
 gamelan
 gamen
 gami
+gaming
 gamis
 gamma
 gampang
@@ -4893,6 +4894,7 @@ kawruh
 kawruhan
 kawula
 kawun
+kawur
 kawus
 kaya
 kayah
