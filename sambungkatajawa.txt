@@ -2025,6 +2025,7 @@ desa
 desi
 desir
 deso
+desu
 dewa
 dewe
 dewean
@@ -11378,6 +11379,7 @@ utna
 uto
 utoh
 utowo
+utra
 utta
 utu
 utuh
