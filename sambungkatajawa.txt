@@ -3199,6 +3199,7 @@ gereh
 gereja
 gerem
 gereng
+geret
 gergaji
 geri
 gerih
@@ -8734,6 +8735,7 @@ pitik
 piting
 pito
 pitu
+pituk
 pitung
 pitutur
 piuji
