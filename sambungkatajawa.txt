@@ -1366,6 +1366,7 @@ bawok
 bawuk
 baya
 bayar
+bayat
 bayem
 bayi
 bayu
@@ -7840,6 +7841,7 @@ nota
 note
 noya
 nresnani
+nri
 nrimo
 nsua
 nsuri
@@ -9874,6 +9876,7 @@ sil
 sila
 silaa
 silah
+silam
 silan
 silane
 sile
