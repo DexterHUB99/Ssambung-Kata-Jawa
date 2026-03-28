@@ -2362,6 +2362,7 @@ eleh
 elek
 eleke
 elel
+elem
 elen
 eleng
 elep
@@ -8765,6 +8766,7 @@ pulo
 pulpen
 pulsa
 puluh
+pulung
 puma
 pun
 puna
