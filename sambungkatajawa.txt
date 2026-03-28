@@ -3538,6 +3538,7 @@ hanta
 hantam
 hante
 hantu
+hantui
 hanung
 hanya
 hao
@@ -7617,6 +7618,7 @@ ngunjuk
 ngunjung
 nguno
 nguntal
+nguntali
 nguntap
 nguntuk
 nguntung
