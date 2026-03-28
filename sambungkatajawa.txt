@@ -101,7 +101,6 @@ ados
 adu
 aduh
 aduk
-adun
 adus
 ae
 aeng
@@ -1542,7 +1541,6 @@ bothok
 boti
 boto
 botok
-botol
 bowo
 boyo
 boyok
@@ -1782,7 +1780,6 @@ coba
 cobak
 cobek
 cocok
-cocol
 cocot
 cocote
 cod
@@ -4715,7 +4712,6 @@ karsa
 kartu
 karun
 karung
-karya
 karyani
 kas
 kasa
@@ -6030,7 +6026,6 @@ manjur
 mantap
 manten
 mantep
-manthuk
 mantu
 mantuk
 mantul
@@ -7319,6 +7314,7 @@ ngin
 nginang
 nginap
 nginceng
+ngindang
 nginep
 nging
 nginggil
@@ -7452,7 +7448,6 @@ ngoper
 ngopi
 ngopii
 ngopo
-ngopoo
 ngor
 ngora
 ngorek
@@ -8364,7 +8359,6 @@ panjang
 panjenengan
 panji
 panma
-panta
 pantai
 pantat
 pante
@@ -8520,7 +8514,6 @@ perahu
 perak
 peran
 perang
-pere
 perek
 peri
 perih
@@ -9011,7 +9004,6 @@ rasul
 rasya
 rat
 rata
-ratan
 ratau
 rati
 ratih
@@ -9309,7 +9301,6 @@ ruam
 ruang
 rubuh
 rudah
-rue
 rugi
 ruh
 ruha
@@ -9656,7 +9647,6 @@ selamet
 selan
 selasa
 selat
-selatan
 selawe
 seleb
 selendang
