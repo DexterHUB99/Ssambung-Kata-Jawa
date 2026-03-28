@@ -1646,6 +1646,7 @@ caruk
 catur
 cawan
 cawet
+cawisan
 ce
 cebok
 cecak
@@ -7488,6 +7489,7 @@ nining
 nininja
 ninja
 nino
+ninung
 nio
 nip
 nipa
