@@ -8364,6 +8364,7 @@ panjang
 panjenengan
 panji
 panma
+panta
 pantai
 pantat
 pante
@@ -9010,6 +9011,7 @@ rasul
 rasya
 rat
 rata
+ratan
 ratau
 rati
 ratih
