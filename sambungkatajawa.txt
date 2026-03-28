@@ -338,6 +338,7 @@ akow
 akra
 akrab
 akrak
+akrama
 aksa
 aksara
 aksen
@@ -870,6 +871,7 @@ ardi
 are
 areg
 arek
+arel
 arem
 arema
 aren
@@ -2862,6 +2864,7 @@ gap
 gapa
 gapak
 gapapa
+gapi
 gapit
 gaplek
 gapopo
@@ -4704,7 +4707,6 @@ kekek
 kekel
 keker
 keki
-keko
 kekunci
 kel
 kela
@@ -6295,6 +6297,7 @@ nalikane
 naliko
 nalima
 nalo
+nalu
 nalung
 nalur
 naluri
@@ -8922,7 +8925,6 @@ ripi
 ripna
 rira
 riri
-riribut
 riro
 ris
 risa
@@ -10451,7 +10453,6 @@ ulal
 ulala
 ulam
 ulama
-ulami
 ulan
 ulang
 ulanga
@@ -10508,6 +10509,7 @@ umbi
 umbul
 ume
 umi
+umma
 ummi
 umo
 ump
