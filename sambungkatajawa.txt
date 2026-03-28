@@ -6577,6 +6577,7 @@ musa
 musan
 muse
 musi
+musibah
 musim
 musire
 musis
@@ -11879,6 +11880,7 @@ yura
 yure
 yuri
 yuro
+yus
 yusa
 yusan
 yusha
