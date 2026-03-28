@@ -5645,6 +5645,7 @@ lega
 legi
 leh
 lek
+lekas
 lekoh
 lela
 lelah
@@ -11572,6 +11573,7 @@ wujud
 wuka
 wuke
 wuku
+wul
 wula
 wulan
 wulang
