@@ -4222,6 +4222,7 @@ iyu
 iyub
 iyuh
 iyuk
+iyung
 iyur
 iz
 ja
@@ -7009,6 +7010,7 @@ ngegunung
 ngeh
 ngei
 ngejak
+ngejar
 ngejek
 ngek
 ngeker
@@ -10056,6 +10058,7 @@ tajug
 tak
 taka
 takaran
+takber
 takdir
 taki
 takir
