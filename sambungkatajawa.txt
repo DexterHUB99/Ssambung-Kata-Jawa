@@ -1818,6 +1818,7 @@ colong
 com
 combe
 como
+cona
 congklak
 congor
 cop
@@ -7170,6 +7171,7 @@ ngeladeni
 ngelag
 ngelak
 ngelam
+ngelang
 ngelap
 ngelas
 ngelatih
@@ -10476,6 +10478,7 @@ teraken
 teran
 terang
 teras
+terbang
 tere
 teri
 terima
