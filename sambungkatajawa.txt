@@ -5740,6 +5740,7 @@ lisi
 lit
 lita
 litah
+lite
 liwa
 liwat
 liwet
@@ -6961,6 +6962,7 @@ ngapal
 ngapel
 ngapi
 ngapik
+ngapit
 ngaplok
 ngapu
 ngapung
