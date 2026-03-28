@@ -101,6 +101,7 @@ ados
 adu
 aduh
 aduk
+adun
 adus
 ae
 aeng
@@ -433,6 +434,7 @@ aliya
 alm
 alo
 aloh
+aloi
 alok
 alom
 alon
@@ -1541,6 +1543,7 @@ bothok
 boti
 boto
 botok
+botol
 bowo
 boyo
 boyok
@@ -1780,6 +1783,7 @@ coba
 cobak
 cobek
 cocok
+cocol
 cocot
 cocote
 cod
@@ -1821,6 +1825,7 @@ cuka
 cuki
 cukup
 cukur
+culik
 cuma
 cumbu
 cumi
@@ -2032,6 +2037,7 @@ dimasak
 dimna
 din
 dina
+dinamo
 dinar
 dinas
 dinding
@@ -2984,7 +2990,6 @@ gares
 gari
 garih
 garii
-garine
 garing
 garis
 garisan
@@ -3763,7 +3768,6 @@ ica
 icak
 ical
 ican
-icip
 icone
 icu
 id
@@ -4074,7 +4078,6 @@ ipi
 ipik
 ipil
 ipin
-iping
 ipit
 ipko
 ipma
@@ -4313,6 +4316,7 @@ jamat
 jambak
 jamban
 jambi
+jambret
 jambu
 jami
 jamii
@@ -4475,6 +4479,7 @@ jujur
 jule
 juli
 julu
+jum
 jumat
 jumbo
 jumeneng
@@ -4715,6 +4720,7 @@ karsa
 kartu
 karun
 karung
+karya
 karyani
 kas
 kasa
@@ -5879,6 +5885,7 @@ lupi
 lupis
 luput
 lur
+lura
 lurah
 luring
 luru
@@ -6029,6 +6036,7 @@ manjur
 mantap
 manten
 mantep
+manthuk
 mantu
 mantuk
 mantul
@@ -6279,7 +6287,6 @@ moh
 mohan
 mojo
 mok
-moka
 moke
 moki
 mokong
@@ -7318,7 +7325,6 @@ ngin
 nginang
 nginap
 nginceng
-ngindang
 nginep
 nging
 nginggil
@@ -7399,6 +7405,7 @@ ngocak
 ngoceh
 ngocok
 ngocot
+ngodok
 ngodong
 ngoh
 ngohi
@@ -7452,6 +7459,7 @@ ngoper
 ngopi
 ngopii
 ngopo
+ngopoo
 ngor
 ngora
 ngorek
@@ -8363,6 +8371,7 @@ panjang
 panjenengan
 panji
 panma
+panta
 pantai
 pantat
 pante
@@ -8518,6 +8527,7 @@ perahu
 perak
 peran
 perang
+pere
 perek
 peri
 perih
@@ -8934,6 +8944,7 @@ ramene
 rames
 rami
 ramni
+ramo
 ramping
 rampok
 rampun
@@ -9008,6 +9019,7 @@ rasul
 rasya
 rat
 rata
+ratan
 ratau
 rati
 ratih
@@ -9305,6 +9317,7 @@ ruam
 ruang
 rubuh
 rudah
+rue
 rugi
 ruh
 ruha
@@ -9651,6 +9664,7 @@ selamet
 selan
 selasa
 selat
+selatan
 selawe
 seleb
 selendang
@@ -9879,7 +9893,6 @@ sit
 sita
 sitak
 siti
-sitik
 sitol
 siwa
 siwak
@@ -11146,6 +11159,7 @@ uy
 uya
 uyah
 uye
+uyi
 uyo
 uyuh
 uyung
@@ -11320,6 +11334,7 @@ wewet
 wi
 wibawa
 wicara
+widara
 widi
 widok
 wie
