@@ -338,7 +338,9 @@ akow
 akra
 akrab
 akrak
+akrama
 aksa
+aksama
 aksara
 aksen
 aksi
@@ -870,6 +872,7 @@ ardi
 are
 areg
 arek
+arel
 arem
 arema
 aren
@@ -1929,7 +1932,6 @@ didin
 dido
 didu
 didulang
-diendi
 dihapus
 dijul
 dijus
@@ -2682,7 +2684,6 @@ ewe
 ewean
 ewee
 ewek
-ewen
 ewene
 ewer
 ewes
@@ -2864,6 +2865,7 @@ gap
 gapa
 gapak
 gapapa
+gapi
 gapit
 gaplek
 gapopo
@@ -3306,6 +3308,7 @@ guruh
 gurune
 guruo
 gus
+gusa
 gusah
 gusar
 gusel
@@ -3647,6 +3650,7 @@ ibuku
 ibumu
 ic
 ica
+icak
 ical
 ican
 icone
@@ -4706,7 +4710,6 @@ kekek
 kekel
 keker
 keki
-keko
 kekunci
 kel
 kela
@@ -6109,7 +6112,6 @@ momori
 momot
 mona
 mondok
-mong
 monggo
 mongo
 mongso
@@ -6298,6 +6300,7 @@ nalikane
 naliko
 nalima
 nalo
+nalu
 nalung
 nalur
 naluri
@@ -7013,7 +7016,6 @@ ngeweh
 ngewek
 ngewes
 ngewi
-ngeyal
 ngeyel
 ngg
 ngga
@@ -8926,7 +8928,6 @@ ripi
 ripna
 rira
 riri
-riribut
 riro
 ris
 risa
@@ -9771,6 +9772,7 @@ surakarta
 surat
 surau
 sure
+suren
 suri
 suro
 suroro
@@ -10455,7 +10457,6 @@ ulal
 ulala
 ulam
 ulama
-ulami
 ulan
 ulang
 ulanga
@@ -10512,6 +10513,7 @@ umbi
 umbul
 ume
 umi
+umma
 ummi
 umo
 ump
@@ -10866,7 +10868,6 @@ walik
 waluh
 waluyo
 wan
-wana
 wanci
 wangi
 wangkir
