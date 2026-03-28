@@ -4918,6 +4918,7 @@ keran
 kerang
 keras
 kerasa
+kerasan
 kerat
 keraton
 kerbau
@@ -7775,6 +7776,7 @@ nuwunsewu
 ny
 nya
 nyai
+nyalek
 nyali
 nyaman
 nyamar
