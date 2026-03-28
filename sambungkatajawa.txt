@@ -3376,6 +3376,7 @@ guha
 gujeng
 gul
 gula
+gulaa
 gulai
 gulali
 gulane
@@ -7282,6 +7283,7 @@ nggai
 nggak
 nggaku
 nggali
+nggalih
 nggambar
 nggan
 ngganggu
