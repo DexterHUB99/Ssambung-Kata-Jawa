@@ -4991,6 +4991,7 @@ kirik
 kirim
 kiring
 kiris
+kirok
 kis
 kisa
 kisan
@@ -6709,6 +6710,7 @@ nganduk
 ngandung
 ngang
 nganga
+ngangeni
 nganggep
 nganggo
 nganggu
