@@ -1477,6 +1477,7 @@ bibir
 bibis
 bibit
 bibu
+bici
 bidal
 bidan
 bidu
@@ -2369,6 +2370,7 @@ ejak
 ejek
 eji
 ejik
+ejo
 ejol
 eju
 ejun
