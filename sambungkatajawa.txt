@@ -2133,6 +2133,7 @@ dum
 duma
 dumadi
 duman
+dumane
 dumeh
 dumi
 dunga
@@ -9085,6 +9086,7 @@ riti
 riwa
 riwayat
 riwe
+riwo
 riya
 riyaya
 riyo
@@ -11287,6 +11289,7 @@ yam
 yama
 yamaha
 yaman
+yamna
 yan
 yana
 yang
