@@ -1945,7 +1945,6 @@ davi
 dawa
 dawah
 dawak
-dawegan
 dawet
 dawi
 dawuh
@@ -2288,7 +2287,6 @@ ehab
 ehad
 ehah
 ehak
-ehal
 eham
 ehan
 ehar
@@ -3861,6 +3859,7 @@ ihli
 ihma
 ihmu
 ihni
+ihning
 iho
 ihra
 ihre
@@ -6062,7 +6061,6 @@ mana
 manaa
 manah
 manak
-manam
 manas
 mancing
 mandeg
@@ -6557,7 +6555,6 @@ nakula
 nal
 nala
 nalah
-nalak
 nalam
 nalan
 nalang
@@ -7631,6 +7628,7 @@ ngumpet
 ngumpil
 ngumpul
 ngun
+nguna
 ngunani
 nguncal
 ngunci
@@ -7702,7 +7700,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -8180,7 +8177,6 @@ omeli
 omen
 omi
 oming
-ommo
 omo
 omong
 omongan
@@ -10268,6 +10264,7 @@ taat
 tabah
 tabi
 tabir
+tablet
 tabo
 tabok
 tabrak
@@ -11735,7 +11732,6 @@ yusi
 yuso
 yuswa
 yuswo
-yusya
 yut
 yuta
 yuti
