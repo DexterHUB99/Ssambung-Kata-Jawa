@@ -6081,6 +6081,7 @@ metu
 mewek
 mi
 mia
+mian
 micek
 midak
 mie
@@ -10622,6 +10623,7 @@ umahe
 umai
 umak
 umal
+umami
 uman
 umana
 umar
