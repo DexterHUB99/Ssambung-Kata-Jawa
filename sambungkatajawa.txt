@@ -8743,6 +8743,7 @@ ramae
 ramah
 ramai
 ramal
+ramalan
 raman
 ramayana
 rambak
@@ -9302,6 +9303,7 @@ sambut
 same
 sami
 samin
+samo
 sampah
 sampai
 samparan
