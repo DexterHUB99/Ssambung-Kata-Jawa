@@ -1945,7 +1945,6 @@ davi
 dawa
 dawah
 dawak
-dawegan
 dawet
 dawi
 dawuh
@@ -6061,7 +6060,6 @@ mana
 manaa
 manah
 manak
-manam
 manas
 mancing
 mandeg
@@ -6556,7 +6554,6 @@ nakula
 nal
 nala
 nalah
-nalak
 nalam
 nalan
 nalang
@@ -7701,7 +7698,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -8179,7 +8175,6 @@ omeli
 omen
 omi
 oming
-ommo
 omo
 omong
 omongan
@@ -11734,7 +11729,6 @@ yusi
 yuso
 yuswa
 yuswo
-yusya
 yut
 yuta
 yuti
