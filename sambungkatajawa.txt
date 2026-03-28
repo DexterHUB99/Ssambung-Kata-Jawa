@@ -1478,6 +1478,7 @@ bilah
 bilai
 bilak
 bilo
+bilu
 bima
 bimo
 bin
@@ -8772,6 +8773,7 @@ piwaris
 piwe
 piwulang
 piwulangan
+piya
 piyambak
 piyan
 piye
