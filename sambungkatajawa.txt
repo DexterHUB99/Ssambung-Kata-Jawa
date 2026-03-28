@@ -6444,6 +6444,7 @@ mosi
 mosing
 mosok
 mot
+mota
 moto
 motol
 motong
