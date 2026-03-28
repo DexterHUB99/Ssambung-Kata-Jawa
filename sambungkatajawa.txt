@@ -3124,6 +3124,7 @@ gerobak
 gerong
 geros
 gertak
+geruh
 ges
 gesang
 gesek
@@ -9412,6 +9413,7 @@ se
 sea
 sebat
 sedang
+sedap
 sedar
 sedaya
 sedeng
