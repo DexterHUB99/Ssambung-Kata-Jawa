@@ -1625,6 +1625,7 @@ cacik
 cacin
 cacing
 cacu
+cadang
 caga
 cah
 cahaya
@@ -2133,6 +2134,7 @@ dum
 duma
 dumadi
 duman
+dumane
 dumeh
 dumi
 dunga
@@ -5189,6 +5191,7 @@ kresna
 krikil
 krocok
 krungu
+krupuk
 ku
 kua
 kuasa
@@ -9085,6 +9088,7 @@ riti
 riwa
 riwayat
 riwe
+riwo
 riya
 riyaya
 riyo
@@ -9497,7 +9501,6 @@ seko
 sekola
 sekolah
 sekta
-sekte
 sekti
 sekul
 sela
@@ -9571,6 +9574,7 @@ sepii
 sepiro
 sepon
 sepuh
+sepul
 sepur
 sepuran
 ser
@@ -11288,6 +11292,7 @@ yam
 yama
 yamaha
 yaman
+yamna
 yan
 yana
 yang
@@ -11345,6 +11350,7 @@ yoiku
 yok
 yoka
 yoki
+yoko
 yola
 yoli
 yolo
