@@ -9,6 +9,7 @@ abab
 abadi
 abah
 abai
+abak
 abal
 aban
 abang
@@ -8502,7 +8503,6 @@ paras
 pare
 parek
 parem
-pareng
 pari
 parii
 paring
