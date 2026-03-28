@@ -4875,6 +4875,7 @@ kemoh
 kemon
 kemos
 kempes
+kempis
 kempit
 kempol
 kemproh
@@ -8178,6 +8179,7 @@ ozon
 pa
 paben
 pacar
+paci
 pacol
 pacul
 pada
