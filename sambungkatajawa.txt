@@ -1977,6 +1977,7 @@ demam
 demen
 demi
 demit
+demo
 demok
 demokrasi
 dempet
@@ -3196,6 +3197,7 @@ gepeng
 gepuk
 ger
 gerah
+gerai
 gerak
 gerakan
 geram
@@ -6836,6 +6838,7 @@ ngacung
 ngadai
 ngadangu
 ngadani
+ngade
 ngadeg
 ngadek
 ngadem
