@@ -1780,7 +1780,6 @@ coba
 cobak
 cobek
 cocok
-cocol
 cocot
 cocote
 cod
@@ -6051,6 +6050,7 @@ marem
 mari
 maria
 mariana
+marie
 marii
 maring
 maringi
@@ -9607,6 +9607,7 @@ sebat
 sedang
 sedap
 sedar
+sedasa
 sedaya
 sedeng
 sedha
