@@ -10352,6 +10352,7 @@ udut
 ue
 uem
 uen
+uf
 ug
 uga
 ugah
