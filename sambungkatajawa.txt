@@ -9611,6 +9611,7 @@ sega
 segawon
 seger
 segera
+segi
 sego
 segok
 segoro
@@ -9854,6 +9855,7 @@ sisi
 sisih
 sisik
 sisil
+sisine
 sisir
 siska
 sisok
