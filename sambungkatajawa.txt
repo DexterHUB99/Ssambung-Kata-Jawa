@@ -338,9 +338,7 @@ akow
 akra
 akrab
 akrak
-akrama
 aksa
-aksama
 aksara
 aksen
 aksi
@@ -872,7 +870,6 @@ ardi
 are
 areg
 arek
-arel
 arem
 arema
 aren
@@ -2865,7 +2862,6 @@ gap
 gapa
 gapak
 gapapa
-gapi
 gapit
 gaplek
 gapopo
@@ -3308,7 +3304,6 @@ guruh
 gurune
 guruo
 gus
-gusa
 gusah
 gusar
 gusel
@@ -3650,7 +3645,6 @@ ibuku
 ibumu
 ic
 ica
-icak
 ical
 ican
 icone
@@ -6300,7 +6294,6 @@ nalikane
 naliko
 nalima
 nalo
-nalu
 nalung
 nalur
 naluri
@@ -10512,7 +10505,6 @@ umbi
 umbul
 ume
 umi
-umma
 ummi
 umo
 ump
