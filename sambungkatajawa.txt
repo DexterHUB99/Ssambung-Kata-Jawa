@@ -2086,6 +2086,7 @@ disi
 disik
 disimi
 disini
+diso
 ditipu
 dito
 diwa
@@ -11633,6 +11634,7 @@ yuni
 yuo
 yur
 yura
+yure
 yuri
 yuro
 yusa
