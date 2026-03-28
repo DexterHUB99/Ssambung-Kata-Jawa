@@ -369,9 +369,7 @@ akul
 akula
 akule
 akulo
-akumi
 akun
-akuo
 akur
 akura
 akus
@@ -820,7 +818,6 @@ anur
 anus
 anut
 anuwa
-anyak
 anyam
 anyaman
 anyamana
@@ -1282,7 +1279,6 @@ bagus
 bah
 bahan
 bahasa
-bahu
 bahwa
 bai
 baii
@@ -1877,7 +1873,6 @@ cupu
 curi
 curut
 cuti
-dabu
 dada
 dadah
 dadak
@@ -2263,7 +2258,6 @@ duwek
 duwet
 duwit
 duwur
-dwi
 ealah
 ebas
 eben
@@ -2343,7 +2337,6 @@ ehim
 ehin
 ehir
 ehit
-ehiy
 eho
 ehob
 ehoh
@@ -2752,7 +2745,6 @@ esak
 esam
 esan
 esap
-esar
 esay
 escendol
 esdawet
@@ -3117,7 +3109,6 @@ gawe
 gawean
 gawee
 gaweko
-gaweo
 gaweopo
 gaweyan
 gawir
@@ -3758,6 +3749,7 @@ hoa
 hobi
 hoe
 hoh
+hoha
 hohi
 hoho
 hoi
@@ -3773,7 +3765,6 @@ homu
 hon
 honan
 hone
-honem
 honi
 hono
 honta
@@ -3792,7 +3783,6 @@ hotel
 hoti
 hotro
 howa
-howe
 howi
 howo
 hoya
@@ -6381,6 +6371,7 @@ milo
 milu
 mima
 mimi
+mimikul
 mimis
 mimisan
 min
@@ -7600,6 +7591,7 @@ ngokok
 ngokol
 ngokon
 ngokop
+ngol
 ngolah
 ngolak
 ngoleh
@@ -7844,7 +7836,6 @@ nim
 nima
 niman
 nimba
-nimbal
 nimbali
 nimbang
 nimbul
@@ -10388,7 +10379,6 @@ suwir
 suwun
 suwung
 suya
-suyi
 ta
 taa
 taat
@@ -11297,6 +11287,7 @@ urung
 urup
 urus
 urusan
+urusen
 uruso
 urut
 urutan
