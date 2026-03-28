@@ -608,6 +608,7 @@ anas
 anasi
 anat
 anay
+anca
 ancak
 ancam
 ancaman
@@ -1308,6 +1309,7 @@ bando
 bandot
 bandung
 bang
+bangga
 bangke
 bangkekan
 bangkong
@@ -1760,6 +1762,7 @@ ciduk
 cigar
 cigor
 cigur
+cik
 cika
 cikal
 ciko
@@ -5844,6 +5847,7 @@ lorek
 loreng
 lori
 loro
+loroi
 lorone
 lorong
 loroo
@@ -9800,6 +9804,7 @@ sering
 serit
 serok
 serong
+serot
 seru
 ses
 sesa
@@ -10176,6 +10181,7 @@ susumu
 susun
 susune
 sut
+suta
 sutan
 suten
 suti
@@ -10211,6 +10217,7 @@ tah
 tahan
 tahe
 tahi
+tahlil
 tahta
 tahu
 tahun
@@ -11467,6 +11474,7 @@ woma
 won
 wong
 wonge
+wongi
 wongo
 woni
 wono
