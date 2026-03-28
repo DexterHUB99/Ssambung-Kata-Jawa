@@ -750,6 +750,7 @@ anjunga
 anjungan
 anjur
 anjuran
+anjurka
 ano
 anoa
 anok
@@ -4734,6 +4735,7 @@ katrok
 katu
 katua
 katuh
+katui
 katuk
 katul
 katun
