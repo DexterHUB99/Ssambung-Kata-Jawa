@@ -1697,6 +1697,7 @@ cakar
 cakep
 cakra
 cakwe
+calo
 calon
 camat
 cambah
@@ -10518,6 +10519,7 @@ teha
 tek
 teka
 tekan
+teke
 teko
 tekor
 tel
