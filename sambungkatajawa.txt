@@ -8172,6 +8172,7 @@ ondone
 oneng
 ongak
 ongeh
+onggok
 ongkang
 ongkeh
 ongkek
@@ -10464,6 +10465,7 @@ teteg
 teteh
 tetek
 tetelan
+tetes
 tetulung
 thole
 ti
