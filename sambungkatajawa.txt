@@ -959,6 +959,7 @@ asaa
 asah
 asahan
 asai
+asaj
 asak
 asal
 asale
@@ -3081,6 +3082,7 @@ genap
 genape
 gendak
 gendar
+gendel
 gendeng
 gender
 genderuwo
@@ -6023,6 +6025,7 @@ mayang
 mayat
 mayit
 mayu
+mayun
 mayur
 mbah
 mbahe
@@ -7269,6 +7272,7 @@ nglakoni
 nglali
 nglampah
 nglamun
+nglangi
 nglantur
 nglawuhi
 nglim
@@ -8617,6 +8621,7 @@ posen
 posi
 posok
 pot
+poti
 potong
 powa
 poyo
@@ -9197,6 +9202,7 @@ rumput
 rumus
 rumusan
 run
+runan
 runcing
 runding
 rung
@@ -9748,6 +9754,7 @@ sodom
 sodor
 sogok
 sok
+soke
 soki
 sokin
 soko
