@@ -870,7 +870,6 @@ ardi
 are
 areg
 arek
-arel
 arem
 arema
 aren
@@ -2863,7 +2862,6 @@ gap
 gapa
 gapak
 gapapa
-gapi
 gapit
 gaplek
 gapopo
@@ -6296,7 +6294,6 @@ nalikane
 naliko
 nalima
 nalo
-nalu
 nalung
 nalur
 naluri
