@@ -369,7 +369,9 @@ akul
 akula
 akule
 akulo
+akumi
 akun
+akuo
 akur
 akura
 akus
@@ -1279,6 +1281,7 @@ bagus
 bah
 bahan
 bahasa
+bahu
 bahwa
 bai
 baii
@@ -1873,6 +1876,7 @@ cupu
 curi
 curut
 cuti
+dabu
 dada
 dadah
 dadak
@@ -2337,6 +2341,7 @@ ehim
 ehin
 ehir
 ehit
+ehiy
 eho
 ehob
 ehoh
@@ -2745,6 +2750,7 @@ esak
 esam
 esan
 esap
+esar
 esay
 escendol
 esdawet
@@ -3782,6 +3788,7 @@ hotel
 hoti
 hotro
 howa
+howe
 howi
 howo
 hoya
@@ -7833,6 +7840,7 @@ nim
 nima
 niman
 nimba
+nimbal
 nimbali
 nimbang
 nimbul
@@ -10376,6 +10384,7 @@ suwir
 suwun
 suwung
 suya
+suyi
 ta
 taa
 taat
