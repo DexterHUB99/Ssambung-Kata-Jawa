@@ -828,6 +828,7 @@ apin
 apine
 apip
 apis
+apit
 aplikasi
 apo
 apolo
@@ -1204,6 +1205,7 @@ bacot
 bacut
 badak
 bade
+badek
 badhe
 badog
 badok
