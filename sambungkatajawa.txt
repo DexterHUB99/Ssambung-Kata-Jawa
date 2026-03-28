@@ -3022,6 +3022,7 @@ gaun
 gawa
 gawaa
 gawae
+gawai
 gawan
 gawang
 gawe
@@ -4884,6 +4885,7 @@ kem
 kema
 kemah
 kemaki
+kemangi
 kemanten
 kemanuk
 kemaren
@@ -6162,6 +6164,7 @@ merahe
 merak
 mercon
 merek
+mereka
 mereki
 merem
 mergo
