@@ -1344,6 +1344,7 @@ batuk
 batur
 bau
 bawa
+bawang
 bawok
 bawuk
 baya
@@ -1364,6 +1365,7 @@ becek
 bedane
 bedo
 bedok
+bee
 bego
 beh
 beha
@@ -7483,6 +7485,7 @@ ngulik
 ngulo
 ngulon
 ngulu
+ngulung
 ngulur
 ngum
 ngumah
@@ -10765,6 +10768,7 @@ umami
 uman
 umana
 umar
+umas
 umat
 umbah
 umbar
