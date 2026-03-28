@@ -1721,6 +1721,7 @@ cantik
 canting
 cantolan
 cap
+capek
 caper
 capo
 capung
@@ -10936,6 +10937,7 @@ udeg
 udek
 udel
 udelan
+udelem
 udelmu
 udeng
 udho
