@@ -450,6 +450,7 @@ alpa
 alpukat
 alu
 aluban
+alui
 aluk
 alul
 alum
@@ -1229,6 +1230,7 @@ ayuh
 ayuk
 ayun
 ayunan
+ayus
 az
 ba
 baa
