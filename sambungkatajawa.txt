@@ -693,6 +693,7 @@ angsal
 angsi
 angsle
 angso
+angsulan
 angsur
 angsuran
 angu
@@ -5765,6 +5766,7 @@ luye
 ma
 maaf
 mabar
+mabit
 mabu
 mabuk
 mabur
