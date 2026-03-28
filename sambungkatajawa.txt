@@ -5415,6 +5415,7 @@ kuren
 kuri
 kurma
 kuro
+kuroo
 kursi
 kuru
 kurung
@@ -10161,6 +10162,7 @@ sungkem
 sungki
 suni
 suno
+sunta
 suntik
 suntuk
 sunyi
