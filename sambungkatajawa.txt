@@ -6246,6 +6246,7 @@ medal
 medeni
 medhok
 mega
+megah
 meh
 meja
 mek
