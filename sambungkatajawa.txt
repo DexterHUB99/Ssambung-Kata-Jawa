@@ -8778,6 +8778,7 @@ rekmo
 rekoso
 reksa
 rela
+reles
 relo
 rem
 rema
