@@ -1094,6 +1094,7 @@ ate
 ateh
 atek
 atem
+ateman
 aten
 atep
 ater
