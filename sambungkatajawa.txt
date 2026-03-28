@@ -101,7 +101,6 @@ ados
 adu
 aduh
 aduk
-adun
 adus
 ae
 aeng
@@ -1781,7 +1780,6 @@ coba
 cobak
 cobek
 cocok
-cocol
 cocot
 cocote
 cod
@@ -3228,6 +3226,7 @@ gilar
 gili
 gilik
 giling
+gilingan
 gilir
 gilo
 gim
@@ -4179,6 +4178,7 @@ isisin
 isisis
 isiso
 isit
+iska
 isla
 islah
 islam
@@ -4712,7 +4712,6 @@ karsa
 kartu
 karun
 karung
-karya
 karyani
 kas
 kasa
@@ -6027,7 +6026,6 @@ manjur
 mantap
 manten
 mantep
-manthuk
 mantu
 mantuk
 mantul
@@ -6054,6 +6052,7 @@ marem
 mari
 maria
 mariana
+marie
 marii
 maring
 maringi
@@ -7448,7 +7447,6 @@ ngoper
 ngopi
 ngopii
 ngopo
-ngopoo
 ngor
 ngora
 ngorek
@@ -8515,7 +8513,6 @@ perahu
 perak
 peran
 perang
-pere
 perek
 peri
 perih
@@ -9612,6 +9609,7 @@ sebat
 sedang
 sedap
 sedar
+sedasa
 sedaya
 sedeng
 sedha
