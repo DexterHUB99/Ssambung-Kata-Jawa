@@ -7105,6 +7105,7 @@ ngerem
 ngeres
 ngerestui
 ngeri
+ngerja
 ngero
 ngerok
 ngerokok
@@ -8926,6 +8927,7 @@ rayang
 rayap
 rayi
 rayo
+rayon
 rayu
 re
 rebahan
