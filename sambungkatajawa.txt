@@ -7254,6 +7254,7 @@ ngel
 ngeladeni
 ngelag
 ngelak
+ngelakon
 ngelam
 ngelang
 ngelap
