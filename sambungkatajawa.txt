@@ -2,7 +2,6 @@ aa
 aae
 aah
 aaha
-aahi
 ab
 aba
 abab
@@ -1217,6 +1216,7 @@ ayib
 ayih
 ayik
 ayin
+aying
 ayo
 ayok
 ayom
@@ -1316,6 +1316,7 @@ banjir
 banjur
 bantal
 banteng
+banter
 bantheng
 bantu
 banu
@@ -1450,6 +1451,7 @@ bibir
 bibis
 bibit
 bibu
+bicu
 bidan
 bidu
 biduk
@@ -1648,6 +1650,7 @@ cabuk
 cabut
 caca
 cacad
+cacah
 cacahing
 cacak
 cacat
@@ -1914,7 +1917,6 @@ dara
 darah
 darat
 dari
-darii
 darma
 daru
 darus
@@ -1971,7 +1973,6 @@ dempet
 dempul
 den
 dena
-dendeng
 dene
 deneng
 dengki
@@ -2132,7 +2133,6 @@ doren
 dori
 doro
 dorong
-dos
 dosa
 doso
 dosu
@@ -2162,7 +2162,6 @@ duit
 dujun
 duk
 duka
-duki
 duko
 duku
 dukuh
@@ -2997,6 +2996,7 @@ gares
 gari
 garih
 garii
+garine
 garing
 garis
 garisan
@@ -3174,6 +3174,7 @@ genuk
 geo
 geol
 gepeng
+geplak
 gepuk
 ger
 gerah
@@ -3776,6 +3777,7 @@ ica
 icak
 ical
 ican
+icip
 icone
 icu
 id
@@ -3893,6 +3895,7 @@ ikoo
 ikrar
 iku
 ikue
+ikuha
 ikui
 ikulo
 ikune
@@ -4086,6 +4089,7 @@ ipi
 ipik
 ipil
 ipin
+iping
 ipit
 ipko
 ipma
@@ -4740,6 +4744,7 @@ kasang
 kasar
 kasara
 kase
+kasebut
 kasek
 kasem
 kasep
@@ -4838,6 +4843,7 @@ kebo
 kebon
 kebong
 kebun
+kebus
 kecap
 kece
 keceh
@@ -5108,7 +5114,6 @@ kim
 kima
 kiman
 kime
-kimen
 kimi
 kin
 kina
@@ -5627,7 +5632,6 @@ leng
 lengah
 lenggah
 lenggang
-lengkuas
 lengser
 leni
 lentog
@@ -5743,7 +5747,6 @@ lisi
 lit
 lita
 litah
-lite
 liwa
 liwat
 liwet
@@ -5844,6 +5847,7 @@ lotok
 lowa
 lowe
 lowo
+lowong
 lowongan
 loya
 loyo
@@ -5968,6 +5972,7 @@ maka
 makam
 makan
 makanan
+makane
 make
 maki
 makruh
@@ -6300,6 +6305,7 @@ moh
 mohan
 mojo
 mok
+moka
 moke
 moki
 mokong
@@ -6965,7 +6971,6 @@ ngapal
 ngapel
 ngapi
 ngapik
-ngapit
 ngaplok
 ngapu
 ngapung
@@ -7120,6 +7125,7 @@ ngelek
 ngelem
 ngeleng
 ngeles
+ngeli
 ngelih
 ngeling
 ngelmu
@@ -7292,6 +7298,7 @@ nggoreng
 nggowo
 nggowoe
 nggoyo
+nggubris
 ngguling
 nggulung
 nggusah
@@ -7340,6 +7347,7 @@ ngin
 nginang
 nginap
 nginceng
+ngindang
 nginep
 nging
 nginggil
@@ -7445,6 +7453,7 @@ ngolo
 ngolob
 ngoloh
 ngolok
+ngolor
 ngom
 ngoma
 ngomah
@@ -7740,6 +7749,7 @@ njupuk
 nki
 nko
 nmu
+nn
 nna
 nnai
 nnalika
@@ -8371,6 +8381,7 @@ pangapunten
 pangestu
 panggah
 panggang
+panggel
 panggih
 panggil
 panggo
@@ -9069,7 +9080,6 @@ rayo
 rayon
 rayu
 re
-rebah
 rebahan
 rebo
 reboi
@@ -9876,6 +9886,7 @@ sipa
 sipat
 sipi
 sipit
+sipo
 sipuk
 sir
 sira
@@ -9913,6 +9924,7 @@ sit
 sita
 sitak
 siti
+sitik
 sitol
 siwa
 siwak
@@ -10348,6 +10360,7 @@ tembang
 tembe
 tembem
 tembok
+tembung
 teme
 temen
 temon
@@ -11078,7 +11091,6 @@ user
 usha
 usi
 usia
-usii
 usik
 usil
 using
