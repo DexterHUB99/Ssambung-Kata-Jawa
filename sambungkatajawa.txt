@@ -354,6 +354,7 @@ akuk
 akul
 akula
 akule
+akuli
 akun
 akur
 akura
@@ -5179,7 +5180,6 @@ kumbang
 kume
 kumel
 kumi
-kumo
 kumpul
 kumu
 kumuh
@@ -5916,6 +5916,7 @@ masing
 masinis
 masio
 masjid
+masta
 masu
 masuh
 masuk
@@ -9021,6 +9022,7 @@ roo
 rop
 ropan
 ropi
+ropoh
 rora
 rori
 roro
@@ -9065,7 +9067,6 @@ ruko
 ruku
 rukuh
 rukun
-rula
 ruli
 rum
 ruma
@@ -10506,6 +10507,7 @@ uler
 ulet
 uli
 ulih
+ulii
 ulik
 ulo
 uloe
@@ -10651,6 +10653,7 @@ upaya
 upe
 upek
 upel
+uper
 upha
 upi
 upik
