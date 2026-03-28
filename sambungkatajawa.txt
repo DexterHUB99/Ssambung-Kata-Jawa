@@ -2,6 +2,7 @@ aa
 aae
 aah
 aaha
+aahi
 ab
 aba
 abab
@@ -5103,6 +5104,7 @@ kim
 kima
 kiman
 kime
+kimen
 kimi
 kin
 kina
@@ -5621,6 +5623,7 @@ leng
 lengah
 lenggah
 lenggang
+lengkuas
 lengser
 leni
 lentog
@@ -9060,6 +9063,7 @@ rayo
 rayon
 rayu
 re
+rebah
 rebahan
 rebo
 reboi
