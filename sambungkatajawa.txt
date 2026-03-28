@@ -2384,6 +2384,7 @@ ekos
 ekot
 eksi
 eku
+ekuh
 ekul
 ekur
 el
@@ -6135,6 +6136,7 @@ marai
 marang
 mardi
 mare
+marek
 marem
 mari
 maria
