@@ -339,6 +339,7 @@ akom
 akon
 akoni
 akoo
+akop
 akor
 akoro
 akow
@@ -8520,6 +8521,7 @@ pesing
 peso
 pesta
 peta
+petak
 pete
 petel
 peteng
