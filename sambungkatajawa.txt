@@ -5541,6 +5541,7 @@ legi
 leh
 lek
 lekoh
+lela
 lelah
 lele
 lelet
@@ -9669,6 +9670,7 @@ seret
 seri
 sering
 serit
+serok
 serong
 seru
 ses
@@ -10136,6 +10138,7 @@ tan
 tana
 tanah
 tandang
+tandas
 tanduk
 tandur
 tanduran
@@ -11341,6 +11344,7 @@ wuh
 wuhan
 wujud
 wuka
+wuke
 wuku
 wula
 wulan
