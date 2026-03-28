@@ -5261,6 +5261,7 @@ kui
 kuia
 kuian
 kuii
+kuiki
 kuio
 kuk
 kuka
