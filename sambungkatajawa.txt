@@ -1297,6 +1297,7 @@ bakul
 bakus
 bal
 balai
+balang
 balangan
 balap
 balek
@@ -2331,6 +2332,7 @@ eho
 ehob
 ehoh
 ehok
+ehol
 ehon
 ehop
 ehor
