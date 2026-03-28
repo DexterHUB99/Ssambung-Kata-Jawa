@@ -115,6 +115,7 @@ afi
 afif
 afik
 afu
+afur
 ag
 aga
 agah
@@ -5702,6 +5703,7 @@ legi
 leh
 lek
 lekas
+leker
 lekoh
 lela
 lelah
@@ -10016,6 +10018,7 @@ sikep
 siki
 sikil
 sikile
+sikilku
 sikilmu
 siko
 siku
