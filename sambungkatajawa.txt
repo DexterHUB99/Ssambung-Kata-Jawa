@@ -6967,6 +6967,7 @@ ngelap
 ngelas
 ngelawak
 ngeleh
+ngelek
 ngelem
 ngeleng
 ngeles
