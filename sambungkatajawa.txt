@@ -2924,6 +2924,7 @@ gambleh
 gambol
 gambreng
 gambuh
+gambung
 gambut
 gambyong
 game
@@ -7945,6 +7946,7 @@ nuweki
 nuwi
 nuwun
 nuwunsewu
+nuya
 ny
 nya
 nyai
