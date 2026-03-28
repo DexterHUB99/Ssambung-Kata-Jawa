@@ -2867,6 +2867,7 @@ galine
 galing
 galio
 galo
+galok
 galon
 galung
 galungan
@@ -2978,6 +2979,7 @@ garih
 garii
 garing
 garis
+garisan
 garit
 garong
 garongan
