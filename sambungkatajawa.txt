@@ -780,6 +780,7 @@ antii
 antik
 antiku
 antimo
+antina
 anting
 anto
 anton
@@ -1943,6 +1944,7 @@ demen
 demi
 demit
 demok
+demokrasi
 dempet
 dempul
 den
@@ -6415,6 +6417,7 @@ nai
 naii
 naik
 naiki
+nail
 naila
 naira
 najan
