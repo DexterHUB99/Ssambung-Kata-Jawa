@@ -4011,6 +4011,7 @@ ipek
 ipel
 ipen
 iper
+ipho
 ipi
 ipik
 ipil
@@ -11024,6 +11025,7 @@ walik
 waluh
 waluyo
 wan
+wana
 wanci
 wangi
 wangkir
