@@ -2198,6 +2198,7 @@ ehok
 ehon
 ehop
 ehor
+ehos
 ehot
 ehoy
 ehu
@@ -8038,6 +8039,7 @@ pali
 paling
 palis
 palko
+palo
 palu
 palung
 palur
