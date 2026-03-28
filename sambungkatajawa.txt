@@ -6241,6 +6241,7 @@ mringis
 mripat
 mu
 mual
+muara
 muatan
 mubal
 mubeng
