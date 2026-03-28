@@ -1453,6 +1453,7 @@ bit
 biyung
 blekok
 bo
+boba
 bobi
 bobo
 bobok
@@ -11075,6 +11076,7 @@ wola
 wolo
 wolu
 wolulas
+woma
 won
 wong
 wonge
