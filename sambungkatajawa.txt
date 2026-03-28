@@ -697,6 +697,7 @@ angsal
 angsi
 angsle
 angso
+angsul
 angsulan
 angsur
 angsuran
