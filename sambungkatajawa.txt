@@ -1311,6 +1311,7 @@ bangke
 bangkekan
 bangkong
 bangsat
+bangun
 banjar
 banjir
 banjur
