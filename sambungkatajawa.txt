@@ -5986,6 +5986,7 @@ mangkir
 mangkrak
 mangku
 mangkuk
+mangling
 mangsa
 mangu
 mani
