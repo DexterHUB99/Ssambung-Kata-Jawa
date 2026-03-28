@@ -5862,6 +5862,7 @@ maem
 maga
 magang
 magelang
+magis
 mah
 maha
 mahal
