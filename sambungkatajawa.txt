@@ -1713,6 +1713,7 @@ cicit
 cide
 ciduk
 cigar
+cigor
 cigur
 cika
 cikal
@@ -9098,6 +9099,7 @@ rotan
 roti
 roto
 rowang
+rowe
 rowi
 rowo
 roya
