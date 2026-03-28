@@ -870,7 +870,6 @@ ardi
 are
 areg
 arek
-arel
 arem
 arema
 aren
@@ -2863,7 +2862,6 @@ gap
 gapa
 gapak
 gapapa
-gapi
 gapit
 gaplek
 gapopo
@@ -4706,6 +4704,7 @@ kekek
 kekel
 keker
 keki
+keko
 kekunci
 kel
 kela
@@ -6296,7 +6295,6 @@ nalikane
 naliko
 nalima
 nalo
-nalu
 nalung
 nalur
 naluri
@@ -10452,6 +10450,7 @@ ulal
 ulala
 ulam
 ulama
+ulami
 ulan
 ulang
 ulanga
