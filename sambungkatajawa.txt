@@ -2026,6 +2026,7 @@ dipon
 diposit
 dipun
 dir
+dira
 diran
 diren
 diri
@@ -6825,7 +6826,6 @@ ngangur
 ngani
 nganik
 nganis
-nganjar
 nganjok
 nganjuk
 nganjur
@@ -9011,6 +9011,7 @@ reni
 reno
 reo
 reog
+rep
 repot
 republik
 rere
