@@ -468,6 +468,7 @@ amang
 amao
 amar
 amarga
+amargi
 amargo
 amarta
 amas
@@ -4318,6 +4319,7 @@ jira
 jiran
 jire
 jiri
+jirih
 jita
 jitak
 jiwa
