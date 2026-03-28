@@ -4144,6 +4144,7 @@ isla
 islah
 islam
 isma
+ismai
 ismana
 ismi
 isna
@@ -9103,6 +9104,7 @@ ringin
 ringkas
 ringkasan
 ringkes
+ringkih
 ringo
 rini
 rinja
