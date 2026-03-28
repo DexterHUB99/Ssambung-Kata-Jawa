@@ -2711,6 +2711,7 @@ fani
 fase
 firman
 fisik
+fitrah
 fix
 fo
 foto
@@ -2976,6 +2977,7 @@ gegere
 geguritan
 geh
 gei
+gejig
 gek
 geku
 gel
