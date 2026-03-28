@@ -385,6 +385,7 @@ alan
 alang
 alangan
 alap
+alar
 alara
 alas
 alasan
@@ -1935,6 +1936,7 @@ dening
 depak
 depi
 der
+deras
 derek
 dereng
 dermawan
@@ -4165,6 +4167,7 @@ itila
 ito
 itu
 itui
+itumu
 itung
 itungan
 itungi
@@ -4963,6 +4966,7 @@ ketemu
 keterangan
 kethek
 kethok
+keti
 ketiga
 ketik
 ketil
