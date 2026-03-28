@@ -435,6 +435,7 @@ alom
 alon
 alone
 alop
+alor
 alos
 alot
 aloy
@@ -2026,7 +2027,6 @@ dipon
 diposit
 dipun
 dir
-dira
 diran
 diren
 diri
@@ -6826,6 +6826,7 @@ ngangur
 ngani
 nganik
 nganis
+nganjar
 nganjok
 nganjuk
 nganjur
@@ -8270,6 +8271,7 @@ panjenengan
 panji
 panma
 pantai
+pantas
 pantat
 pante
 pantes
@@ -9011,7 +9013,6 @@ reni
 reno
 reo
 reog
-rep
 repot
 republik
 rere
