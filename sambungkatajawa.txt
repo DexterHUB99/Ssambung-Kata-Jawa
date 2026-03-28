@@ -4222,6 +4222,7 @@ ja
 jaa
 jabur
 jadi
+jadul
 jae
 jaga
 jago
