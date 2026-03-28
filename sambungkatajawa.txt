@@ -757,6 +757,7 @@ anjlog
 anjlok
 anjng
 anjok
+anjong
 anjrah
 anjrit
 anjuk
@@ -9890,6 +9891,7 @@ semar
 semarang
 semayang
 sembah
+sembahyang
 sembarang
 sembarangan
 sembari
