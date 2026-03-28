@@ -9,7 +9,6 @@ abab
 abadi
 abah
 abai
-abak
 abal
 aban
 abang
@@ -4898,6 +4897,7 @@ kedai
 kedanan
 kedaton
 kediri
+kedoman
 kedondong
 kedung
 kedurung
@@ -8503,6 +8503,7 @@ paras
 pare
 parek
 parem
+pareng
 pari
 parii
 paring
