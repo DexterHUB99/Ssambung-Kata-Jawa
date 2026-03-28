@@ -5179,7 +5179,6 @@ kumbang
 kume
 kumel
 kumi
-kumo
 kumpul
 kumu
 kumuh
@@ -9021,6 +9020,7 @@ roo
 rop
 ropan
 ropi
+ropoh
 rora
 rori
 roro
@@ -9065,7 +9065,6 @@ ruko
 ruku
 rukuh
 rukun
-rula
 ruli
 rum
 ruma
@@ -10651,6 +10650,7 @@ upaya
 upe
 upek
 upel
+uper
 upha
 upi
 upik
