@@ -7024,6 +7024,7 @@ ngeng
 ngengek
 ngenget
 ngenggeh
+ngenggo
 ngengken
 ngengko
 ngengkok
@@ -8163,6 +8164,7 @@ palung
 palur
 pamali
 paman
+pambayun
 pamer
 pameran
 pami
