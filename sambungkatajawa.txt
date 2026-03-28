@@ -5188,6 +5188,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopak
 kopan
 kopeng
 koper
