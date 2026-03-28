@@ -1382,6 +1382,7 @@ ber
 berak
 beras
 beri
+berok
 bersih
 bertanya
 bes
@@ -3492,6 +3493,7 @@ hatimu
 haturnuhun
 hawa
 hawane
+hawate
 hawi
 haya
 hayang
