@@ -2381,6 +2381,7 @@ elek
 eleke
 elel
 elem
+elemen
 elen
 eleng
 elep
@@ -5077,6 +5078,7 @@ ketum
 ketung
 ketupat
 keturon
+keturu
 ketut
 kewan
 kewek
@@ -11594,6 +11596,7 @@ yuan
 yuda
 yudha
 yudi
+yue
 yuga
 yuh
 yuha
