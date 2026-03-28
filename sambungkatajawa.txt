@@ -670,6 +670,7 @@ anggep
 angger
 anggo
 anggon
+anggone
 anggoro
 anggota
 anggrek
@@ -1009,6 +1010,7 @@ asmanipun
 asmara
 asna
 aso
+asoa
 asoi
 asop
 asor
@@ -1043,6 +1045,7 @@ asup
 asupan
 asura
 asus
+asut
 asuw
 asuwe
 asuya
@@ -6098,6 +6101,7 @@ merahe
 merak
 mercon
 merek
+mereki
 merem
 mergo
 meri
@@ -8052,6 +8056,7 @@ opok
 opoki
 opol
 opoleh
+opon
 opone
 opoo
 opor
@@ -11073,6 +11078,7 @@ wanie
 wanita
 wanja
 wano
+wape
 wapi
 war
 wara
