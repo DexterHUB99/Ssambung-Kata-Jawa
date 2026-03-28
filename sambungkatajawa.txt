@@ -1462,6 +1462,7 @@ bibir
 bibis
 bibit
 bibu
+bidal
 bidan
 bidu
 biduk
@@ -6799,6 +6800,7 @@ nembang
 nembe
 nembung
 neme
+nemek
 nemen
 nemi
 nemoni
