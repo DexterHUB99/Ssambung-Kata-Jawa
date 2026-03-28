@@ -1403,6 +1403,7 @@ bibar
 bibek
 bibi
 bibik
+bibin
 bibir
 bibis
 bibit
@@ -7976,6 +7977,7 @@ orapapa
 orapopo
 oras
 orasah
+oratau
 ore
 oreg
 orek
