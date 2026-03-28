@@ -9478,6 +9478,7 @@ roso
 rosomu
 rot
 rotan
+rote
 roti
 roto
 rowang
@@ -10066,6 +10067,7 @@ sirsak
 sirup
 sis
 sisa
+sisah
 sisak
 sisan
 siser
