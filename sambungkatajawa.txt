@@ -3084,6 +3084,7 @@ genap
 genape
 gendak
 gendar
+gendel
 gendeng
 gender
 genderuwo
@@ -9206,6 +9207,7 @@ rumput
 rumus
 rumusan
 run
+runan
 runcing
 runding
 rung
@@ -9758,6 +9760,7 @@ sodom
 sodor
 sogok
 sok
+soke
 soki
 sokin
 soko
