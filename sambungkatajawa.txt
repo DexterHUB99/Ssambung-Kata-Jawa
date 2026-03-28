@@ -2,7 +2,6 @@ aa
 aae
 aah
 aaha
-aahi
 ab
 aba
 abab
@@ -1316,6 +1315,7 @@ banjir
 banjur
 bantal
 banteng
+banter
 bantheng
 bantu
 banu
@@ -1450,6 +1450,7 @@ bibir
 bibis
 bibit
 bibu
+bicu
 bidan
 bidu
 biduk
@@ -1648,6 +1649,7 @@ cabuk
 cabut
 caca
 cacad
+cacah
 cacahing
 cacak
 cacat
@@ -1914,7 +1916,6 @@ dara
 darah
 darat
 dari
-darii
 darma
 daru
 darus
@@ -2994,6 +2995,7 @@ gares
 gari
 garih
 garii
+garine
 garing
 garis
 garisan
@@ -3171,6 +3173,7 @@ genuk
 geo
 geol
 gepeng
+geplak
 gepuk
 ger
 gerah
@@ -3773,6 +3776,7 @@ ica
 icak
 ical
 ican
+icip
 icone
 icu
 id
@@ -3890,6 +3894,7 @@ ikoo
 ikrar
 iku
 ikue
+ikuha
 ikui
 ikulo
 ikune
@@ -4083,6 +4088,7 @@ ipi
 ipik
 ipil
 ipin
+iping
 ipit
 ipko
 ipma
@@ -4737,6 +4743,7 @@ kasang
 kasar
 kasara
 kase
+kasebut
 kasek
 kasem
 kasep
@@ -4835,6 +4842,7 @@ kebo
 kebon
 kebong
 kebun
+kebus
 kecap
 kece
 keceh
@@ -5105,7 +5113,6 @@ kim
 kima
 kiman
 kime
-kimen
 kimi
 kin
 kina
@@ -5624,7 +5631,6 @@ leng
 lengah
 lenggah
 lenggang
-lengkuas
 lengser
 leni
 lentog
@@ -5840,6 +5846,7 @@ lotok
 lowa
 lowe
 lowo
+lowong
 lowongan
 loya
 loyo
@@ -5964,6 +5971,7 @@ maka
 makam
 makan
 makanan
+makane
 make
 maki
 makruh
@@ -6296,6 +6304,7 @@ moh
 mohan
 mojo
 mok
+moka
 moke
 moki
 mokong
@@ -7335,6 +7344,7 @@ ngin
 nginang
 nginap
 nginceng
+ngindang
 nginep
 nging
 nginggil
@@ -7440,6 +7450,7 @@ ngolo
 ngolob
 ngoloh
 ngolok
+ngolor
 ngom
 ngoma
 ngomah
@@ -7735,6 +7746,7 @@ njupuk
 nki
 nko
 nmu
+nn
 nna
 nnai
 nnalika
@@ -9064,7 +9076,6 @@ rayo
 rayon
 rayu
 re
-rebah
 rebahan
 rebo
 reboi
@@ -9908,6 +9919,7 @@ sit
 sita
 sitak
 siti
+sitik
 sitol
 siwa
 siwak
