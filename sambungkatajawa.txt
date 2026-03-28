@@ -3195,6 +3195,7 @@ gilane
 gilang
 gilani
 gilap
+gilar
 gili
 gilik
 giling
@@ -11282,6 +11283,7 @@ witri
 wiwa
 wiwi
 wiwit
+wiwitan
 wkwk
 wkwkwk
 wo
