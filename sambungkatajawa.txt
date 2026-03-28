@@ -9154,6 +9154,7 @@ salak
 salam
 salama
 salaman
+salat
 sale
 saleh
 salem
@@ -10840,6 +10841,7 @@ waku
 wakul
 wala
 walah
+walak
 walang
 wali
 walik
