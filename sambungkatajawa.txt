@@ -3504,6 +3504,7 @@ hambar
 hambur
 hami
 hamil
+hamis
 hamo
 hampir
 hamu
