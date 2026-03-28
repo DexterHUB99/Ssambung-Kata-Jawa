@@ -7439,6 +7439,7 @@ ngider
 ngidu
 ngidul
 ngie
+ngigu
 ngih
 ngijing
 ngijo
@@ -10539,6 +10540,7 @@ tembak
 tembang
 tembe
 tembem
+tember
 tembok
 teme
 temen
