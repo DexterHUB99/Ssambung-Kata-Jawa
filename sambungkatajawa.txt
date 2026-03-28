@@ -5723,6 +5723,7 @@ liku
 lila
 lilas
 lili
+lilimo
 lilin
 lilisung
 lilit
