@@ -6825,6 +6825,7 @@ ngangur
 ngani
 nganik
 nganis
+nganjar
 nganjok
 nganjuk
 nganjur
@@ -9010,7 +9011,6 @@ reni
 reno
 reo
 reog
-rep
 repot
 republik
 rere
