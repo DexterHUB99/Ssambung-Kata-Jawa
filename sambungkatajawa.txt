@@ -2234,6 +2234,7 @@ ehos
 ehot
 ehoy
 ehu
+ehul
 ehup
 ehut
 ehuy
@@ -6769,6 +6770,7 @@ ngantem
 ngantemi
 nganteng
 nganteni
+ngantep
 nganter
 nganthi
 nganthuk
