@@ -1007,6 +1007,7 @@ asing
 asip
 asir
 asiri
+asis
 asli
 aslie
 aslii
@@ -6112,6 +6113,7 @@ mbahe
 mbak
 mben
 mbok
+mbote
 mbuh
 mburi
 me
