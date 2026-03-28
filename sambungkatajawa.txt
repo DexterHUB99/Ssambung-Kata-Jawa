@@ -1281,6 +1281,7 @@ bagus
 bah
 bahan
 bahasa
+bahu
 bahwa
 bai
 baii
@@ -3785,6 +3786,7 @@ hotel
 hoti
 hotro
 howa
+howe
 howi
 howo
 hoya
