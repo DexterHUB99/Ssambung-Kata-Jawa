@@ -807,6 +807,7 @@ anyam
 anyaman
 anyamana
 anyar
+anyaran
 anyel
 anyem
 anyep
@@ -7428,6 +7429,7 @@ ngopi
 ngopii
 ngopo
 ngor
+ngora
 ngorek
 ngoreng
 ngori
