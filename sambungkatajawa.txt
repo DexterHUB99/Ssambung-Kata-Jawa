@@ -1101,6 +1101,7 @@ aturaken
 aturan
 aturen
 atus
+atusan
 atut
 auh
 auha
@@ -3982,6 +3983,7 @@ irak
 iram
 irama
 irang
+irara
 iras
 irat
 irawa
@@ -6666,6 +6668,7 @@ ngampet
 ngampil
 ngampiri
 ngampung
+ngampuni
 ngamu
 ngamuk
 ngan
