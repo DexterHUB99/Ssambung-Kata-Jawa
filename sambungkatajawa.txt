@@ -2510,6 +2510,7 @@ emog
 emoh
 emohe
 emok
+emol
 emong
 emot
 empal
@@ -11363,6 +11364,7 @@ uting
 utir
 utiran
 utli
+utma
 utmi
 utna
 uto
