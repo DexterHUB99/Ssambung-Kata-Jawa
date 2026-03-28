@@ -3921,6 +3921,7 @@ ikal
 ikan
 ikane
 ikar
+ikari
 ikas
 ikat
 ikata
@@ -8307,6 +8308,7 @@ opoki
 opol
 opoleh
 opon
+oponan
 opone
 opoo
 opor
