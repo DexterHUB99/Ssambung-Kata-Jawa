@@ -2574,6 +2574,7 @@ eraman
 eran
 erane
 erang
+erangan
 eras
 erasa
 erat
@@ -5977,6 +5978,7 @@ matane
 mate
 matek
 maten
+mateng
 mateni
 mati
 matih
@@ -10997,6 +10999,7 @@ wangsulan
 wani
 wanie
 wanita
+wanja
 wano
 wapi
 war
