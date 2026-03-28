@@ -8618,6 +8618,7 @@ posen
 posi
 posok
 pot
+poti
 potong
 powa
 poyo
@@ -9198,6 +9199,7 @@ rumput
 rumus
 rumusan
 run
+runan
 runcing
 runding
 rung
