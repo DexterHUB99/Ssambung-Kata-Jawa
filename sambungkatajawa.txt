@@ -2148,6 +2148,7 @@ dona
 dong
 donga
 dongen
+dongeng
 dongkrak
 dongo
 doni
@@ -5934,6 +5935,7 @@ luber
 lucu
 ludah
 ludruk
+lugas
 lugu
 luh
 luhur
