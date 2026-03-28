@@ -1095,6 +1095,7 @@ atoh
 atok
 atom
 aton
+ator
 atos
 atose
 atrahe
@@ -10146,6 +10147,7 @@ tengen
 tengik
 tep
 tepak
+tepe
 tepel
 tepung
 ter
@@ -10915,6 +10917,7 @@ uting
 utir
 utiran
 utli
+utmi
 utna
 uto
 utoh
