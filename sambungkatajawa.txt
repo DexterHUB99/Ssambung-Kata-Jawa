@@ -390,6 +390,7 @@ alara
 alas
 alasan
 alase
+alaska
 alat
 alate
 alay
@@ -8083,6 +8084,7 @@ ori
 oria
 orii
 oring
+oris
 orog
 orok
 orong
