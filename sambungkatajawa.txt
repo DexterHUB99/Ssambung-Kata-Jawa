@@ -959,7 +959,6 @@ asaa
 asah
 asahan
 asai
-asaj
 asak
 asal
 asale
@@ -6024,7 +6023,6 @@ mayang
 mayat
 mayit
 mayu
-mayun
 mayur
 mbah
 mbahe
@@ -7271,7 +7269,6 @@ nglakoni
 nglali
 nglampah
 nglamun
-nglangi
 nglantur
 nglawuhi
 nglim
