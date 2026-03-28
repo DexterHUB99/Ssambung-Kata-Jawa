@@ -3672,6 +3672,7 @@ icone
 icu
 id
 ida
+idaki
 idam
 idaman
 idan
@@ -7003,6 +7004,7 @@ ngerawat
 ngere
 ngerem
 ngeres
+ngerestui
 ngeri
 ngero
 ngerok
