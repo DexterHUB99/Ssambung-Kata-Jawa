@@ -10060,6 +10060,7 @@ taksi
 taksir
 taku
 takut
+takwir
 tal
 tala
 talak
@@ -11278,6 +11279,7 @@ won
 wong
 wonge
 wongo
+woni
 wono
 wonogiri
 wonosobo
