@@ -7732,6 +7732,7 @@ nu
 nua
 nuana
 nubruk
+nuding
 nuduh
 nue
 nugraha
@@ -10716,6 +10717,7 @@ ulek
 ulekan
 ulem
 ulen
+uleni
 uler
 ulet
 uli
