@@ -2085,6 +2085,7 @@ dis
 disa
 disana
 disek
+disel
 disep
 disi
 disik
@@ -3582,6 +3583,7 @@ hasem
 hasi
 hasil
 hasile
+hasma
 hasmi
 hasna
 hasrat
@@ -3625,6 +3627,7 @@ heli
 helikopter
 helo
 hem
+hema
 hemat
 hemate
 hena
@@ -7004,6 +7007,7 @@ ngapurane
 ngapuro
 ngapus
 ngapusi
+ngapusii
 ngar
 ngarah
 ngarai
