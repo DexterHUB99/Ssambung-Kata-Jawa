@@ -1745,6 +1745,7 @@ coli
 colo
 colok
 colong
+combe
 como
 congor
 cop
@@ -1992,6 +1993,7 @@ diren
 diri
 diriku
 diro
+diroso
 diru
 dirumah
 dis
@@ -4230,6 +4232,7 @@ jati
 jatuh
 jauh
 jawa
+jawaa
 jawab
 jawi
 jawir
@@ -10502,6 +10505,7 @@ ulih
 ulik
 ulo
 uloe
+ulomo
 uloo
 ulu
 uluk
