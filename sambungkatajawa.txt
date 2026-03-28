@@ -4407,6 +4407,7 @@ jar
 jara
 jaran
 jaranan
+jarang
 jare
 jarene
 jari
