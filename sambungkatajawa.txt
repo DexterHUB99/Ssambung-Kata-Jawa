@@ -5793,6 +5793,7 @@ lote
 lotek
 lotis
 lotok
+lowa
 lowe
 lowo
 lowongan
@@ -8062,6 +8063,7 @@ ondone
 oneng
 ongak
 ongeh
+ongkang
 ongkeh
 ongkek
 ongkel
