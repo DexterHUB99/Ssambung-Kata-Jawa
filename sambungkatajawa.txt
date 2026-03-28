@@ -2883,6 +2883,7 @@ gamane
 gamanne
 gambang
 gambar
+gambare
 gambas
 gambir
 gambleh
@@ -4400,6 +4401,7 @@ jimpit
 jin
 jina
 jinak
+jine
 jingga
 jingkrak
 jini
