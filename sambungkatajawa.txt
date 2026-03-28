@@ -101,6 +101,7 @@ ados
 adu
 aduh
 aduk
+adun
 adus
 ae
 aeng
@@ -1780,6 +1781,7 @@ coba
 cobak
 cobek
 cocok
+cocol
 cocot
 cocote
 cod
@@ -4712,6 +4714,7 @@ karsa
 kartu
 karun
 karung
+karya
 karyani
 kas
 kasa
@@ -6026,6 +6029,7 @@ manjur
 mantap
 manten
 mantep
+manthuk
 mantu
 mantuk
 mantul
@@ -7447,6 +7451,7 @@ ngoper
 ngopi
 ngopii
 ngopo
+ngopoo
 ngor
 ngora
 ngorek
@@ -8513,6 +8518,7 @@ perahu
 perak
 peran
 perang
+pere
 perek
 peri
 perih
