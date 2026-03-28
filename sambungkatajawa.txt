@@ -5916,6 +5916,7 @@ malah
 malahan
 malaii
 malaikat
+malak
 malam
 malang
 malas
@@ -7651,6 +7652,7 @@ niti
 nitih
 nitik
 nitip
+niwasi
 niya
 niyat
 njajal
@@ -7852,6 +7854,7 @@ nyi
 nyiku
 nyilih
 nyim
+nyimak
 nyimpen
 nyirem
 nyocot
