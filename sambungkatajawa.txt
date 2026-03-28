@@ -1789,6 +1789,7 @@ cuma
 cumbu
 cumi
 cunduk
+cung
 cupu
 curi
 curut
@@ -6769,6 +6770,7 @@ nganguni
 ngangur
 ngani
 nganik
+nganis
 nganjok
 nganjuk
 nganjur
