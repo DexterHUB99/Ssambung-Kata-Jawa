@@ -11,6 +11,7 @@ abai
 abal
 aban
 abang
+abange
 abas
 abata
 abdi
@@ -1882,6 +1883,7 @@ dek
 dekan
 dekek
 deki
+dekil
 dekok
 dela
 dele
@@ -2171,6 +2173,7 @@ egag
 egah
 egak
 egal
+egang
 ege
 egi
 egik
@@ -3255,6 +3258,7 @@ gudang
 gudangan
 gudeg
 gudel
+gudheg
 gugah
 gugu
 gugug
@@ -3749,6 +3753,7 @@ ikal
 ikan
 ikane
 ikar
+ikas
 ikat
 ikatan
 ike
@@ -5179,6 +5184,7 @@ kumbang
 kume
 kumel
 kumi
+kumo
 kumpul
 kumu
 kumuh
@@ -5972,6 +5978,7 @@ mekso
 mela
 melas
 melati
+meleh
 melek
 meler
 melet
@@ -7111,6 +7118,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbu
 ngimi
 ngiming
 ngimpi
@@ -8149,6 +8157,7 @@ panuwun
 panyuwun
 papa
 papah
+papai
 papan
 papat
 papi
@@ -9064,6 +9073,7 @@ ruko
 ruku
 rukuh
 rukun
+rula
 ruli
 rum
 ruma
@@ -9192,6 +9202,7 @@ salam
 salama
 salaman
 salat
+salawase
 sale
 saleh
 salem
@@ -9270,6 +9281,7 @@ saos
 sap
 sapa
 sapai
+sape
 sapeh
 sapi
 sapih
@@ -9471,6 +9483,7 @@ sesorah
 sesuk
 setan
 setela
+seti
 setunggal
 sewa
 sewelas
@@ -10546,6 +10559,7 @@ umpama
 umpamane
 umpami
 umpan
+umpet
 umpit
 umpo
 umra
