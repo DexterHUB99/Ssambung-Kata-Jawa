@@ -233,6 +233,7 @@ ailo
 ailon
 aima
 aimi
+aimo
 aimu
 aina
 aing
@@ -3911,6 +3912,7 @@ ikane
 ikar
 ikas
 ikat
+ikata
 ikatan
 ike
 ikea
