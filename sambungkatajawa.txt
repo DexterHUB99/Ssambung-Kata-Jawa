@@ -3258,6 +3258,7 @@ gosip
 gosok
 gosong
 got
+gota
 goti
 gotong
 gotongroyong
