@@ -2601,6 +2601,7 @@ enu
 enuh
 enuk
 enul
+enun
 enus
 enyong
 eomah
