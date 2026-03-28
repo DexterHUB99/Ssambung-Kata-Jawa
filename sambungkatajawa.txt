@@ -6706,6 +6706,7 @@ nelayan
 nelen
 neli
 nelongso
+nelu
 neluk
 nem
 nema
