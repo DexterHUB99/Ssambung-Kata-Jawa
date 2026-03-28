@@ -777,6 +777,7 @@ anteng
 antep
 anter
 anti
+antih
 antii
 antik
 antiku
