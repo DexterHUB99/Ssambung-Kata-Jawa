@@ -818,6 +818,7 @@ apah
 apak
 apal
 apala
+apalan
 apan
 apane
 apangan
@@ -2074,6 +2075,7 @@ donyo
 dopo
 dor
 dora
+dore
 doren
 dori
 doro
@@ -3555,6 +3557,7 @@ here
 heri
 hero
 hes
+hesa
 hesti
 het
 hetan
@@ -7233,6 +7236,7 @@ ngka
 ngke
 ngki
 ngko
+nglakoni
 nglali
 nglampah
 nglamun
@@ -9219,6 +9223,7 @@ sabuk
 sabun
 sadar
 sadela
+sades
 sadewa
 sadewo
 sae
