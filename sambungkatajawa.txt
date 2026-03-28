@@ -1361,6 +1361,7 @@ bekal
 bekas
 beko
 bekong
+bekti
 bela
 belajar
 belan
@@ -2831,6 +2832,7 @@ galon
 galung
 galungan
 galur
+gam
 gama
 gaman
 gamanan
@@ -7079,6 +7081,7 @@ ngerokok
 ngeroso
 ngerti
 ngertos
+ngeruh
 ngerujak
 ngeruk
 ngerung
