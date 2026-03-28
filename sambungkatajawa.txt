@@ -539,6 +539,7 @@ ampan
 ampar
 ampas
 ampat
+ampean
 ampek
 ampel
 ampela
