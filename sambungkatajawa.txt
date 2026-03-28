@@ -2881,6 +2881,7 @@ garing
 garis
 garit
 garong
+garongan
 garpu
 garu
 garuda
@@ -4111,6 +4112,7 @@ iyata
 iye
 iyes
 iyo
+iyom
 iyoo
 iyu
 iyub
