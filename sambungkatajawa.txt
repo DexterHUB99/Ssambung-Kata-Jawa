@@ -1241,6 +1241,7 @@ bacot
 bacut
 badak
 bade
+badeg
 badek
 badhe
 badog
@@ -10385,6 +10386,7 @@ tip
 tipa
 tipak
 tipe
+tipi
 tir
 tira
 tirai
