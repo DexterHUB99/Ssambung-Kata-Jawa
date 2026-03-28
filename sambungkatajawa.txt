@@ -1315,7 +1315,6 @@ banjir
 banjur
 bantal
 banteng
-banter
 bantheng
 bantu
 banu
@@ -1450,7 +1449,6 @@ bibir
 bibis
 bibit
 bibu
-bicu
 bidan
 bidu
 biduk
@@ -1649,7 +1647,6 @@ cabuk
 cabut
 caca
 cacad
-cacah
 cacahing
 cacak
 cacat
@@ -2995,7 +2992,6 @@ gares
 gari
 garih
 garii
-garine
 garing
 garis
 garisan
@@ -3173,7 +3169,6 @@ genuk
 geo
 geol
 gepeng
-geplak
 gepuk
 ger
 gerah
@@ -3776,7 +3771,6 @@ ica
 icak
 ical
 ican
-icip
 icone
 icu
 id
@@ -4087,7 +4081,6 @@ ipi
 ipik
 ipil
 ipin
-iping
 ipit
 ipko
 ipma
@@ -4742,7 +4735,6 @@ kasang
 kasar
 kasara
 kase
-kasebut
 kasek
 kasem
 kasep
@@ -4841,7 +4833,6 @@ kebo
 kebon
 kebong
 kebun
-kebus
 kecap
 kece
 keceh
@@ -4952,6 +4943,7 @@ kencing
 kencot
 kencur
 kendal
+kendala
 kendang
 kendel
 kendhang
@@ -5968,7 +5960,6 @@ maka
 makam
 makan
 makanan
-makane
 make
 maki
 makruh
@@ -6301,7 +6292,6 @@ moh
 mohan
 mojo
 mok
-moka
 moke
 moki
 mokong
@@ -7340,7 +7330,6 @@ ngin
 nginang
 nginap
 nginceng
-ngindang
 nginep
 nging
 nginggil
@@ -7741,7 +7730,6 @@ njupuk
 nki
 nko
 nmu
-nn
 nna
 nnai
 nnalika
@@ -8187,6 +8175,7 @@ opoyo
 or
 ora
 oraa
+orae
 orah
 orai
 oraiso
@@ -9911,7 +9900,6 @@ sit
 sita
 sitak
 siti
-sitik
 sitol
 siwa
 siwak
@@ -10098,6 +10086,7 @@ supados
 supaya
 supe
 supel
+supen
 supi
 supo
 supoyo
@@ -10183,6 +10172,7 @@ taii
 taik
 tajin
 tajug
+tajuk
 tak
 taka
 takaran
