@@ -4732,6 +4732,7 @@ karina
 karipa
 karipan
 karma
+karna
 karo
 karpet
 karsa
@@ -5228,6 +5229,7 @@ kondangan
 konde
 kondhang
 kondi
+kondie
 kondisi
 kondur
 kone
@@ -5629,6 +5631,7 @@ leme
 lemek
 lemes
 lemet
+lemir
 lemot
 lempeng
 lemper
@@ -6587,6 +6590,7 @@ nanggung
 nangi
 nanging
 nangis
+nangisi
 nangka
 nangkap
 nangkep
@@ -7682,6 +7686,7 @@ nikung
 nikus
 nil
 nila
+nilaa
 nilai
 nilam
 nilar
@@ -8568,6 +8573,7 @@ peran
 perang
 pere
 perek
+perempuan
 peri
 perih
 perlu
@@ -9938,6 +9944,7 @@ sit
 sita
 sitak
 siti
+sitii
 sitol
 siwa
 siwak
@@ -10011,6 +10018,7 @@ sosmed
 sosok
 sotel
 soto
+sotoi
 sowan
 soyo
 srambi
@@ -10092,6 +10100,7 @@ sumi
 sumo
 sumpah
 sumringah
+sumu
 sumuk
 sumur
 sun
@@ -10101,6 +10110,7 @@ sunar
 sunat
 sunatan
 sunda
+sundal
 sundel
 sunduk
 sundul
