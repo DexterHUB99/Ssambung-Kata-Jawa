@@ -4724,6 +4724,7 @@ katos
 katot
 katresnan
 katrok
+katu
 katua
 katuh
 katuk
@@ -5179,6 +5180,7 @@ koreng
 korengan
 kori
 kos
+kosa
 kosan
 kosek
 kosekan
