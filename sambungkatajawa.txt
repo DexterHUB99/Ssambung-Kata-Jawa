@@ -4260,6 +4260,7 @@ ja
 jaa
 jabur
 jadi
+jadii
 jadul
 jae
 jaga
@@ -9169,6 +9170,7 @@ rinja
 rino
 rinta
 rio
+riono
 rip
 ripa
 ripan
