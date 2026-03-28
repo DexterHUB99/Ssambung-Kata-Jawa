@@ -5667,6 +5667,7 @@ lola
 loli
 lolo
 loloh
+lololo
 loloo
 loloro
 lolos
@@ -9347,6 +9348,7 @@ sanes
 sang
 sanga
 sangar
+sangat
 sanggul
 sangit
 sangkuni
