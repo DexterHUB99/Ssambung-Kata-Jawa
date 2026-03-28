@@ -4231,6 +4231,7 @@ isna
 isni
 iso
 isoe
+isoi
 isok
 isoma
 isoo
@@ -9763,6 +9764,7 @@ seling
 selir
 selo
 selop
+selut
 sem
 semak
 semangat
@@ -9940,6 +9942,7 @@ sining
 sino
 sinom
 sinta
+sinte
 sinten
 sio
 siomay
