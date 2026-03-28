@@ -1750,6 +1750,7 @@ copet
 copo
 cor
 corak
+coret
 coro
 crita
 cu
