@@ -9959,6 +9959,7 @@ simi
 simo
 simoen
 simpang
+simu
 sin
 sina
 sinare
@@ -11284,6 +11285,7 @@ utuku
 uturi
 utus
 utusan
+ututa
 utwa
 uud
 uw
