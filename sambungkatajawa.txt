@@ -5220,6 +5220,7 @@ kleru
 klimis
 kliwon
 klo
+klobot
 ko
 kobis
 kobong
@@ -11260,6 +11261,7 @@ utanglo
 utangmu
 utar
 utara
+utaran
 utari
 utas
 utasan
