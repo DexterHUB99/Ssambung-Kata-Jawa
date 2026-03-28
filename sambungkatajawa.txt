@@ -3737,6 +3737,7 @@ hilang
 himpun
 himpunan
 hina
+hinga
 hinggap
 hir
 hira
@@ -9650,6 +9651,7 @@ sabtu
 sabuk
 sabun
 sadar
+sade
 sadean
 sadela
 sades
