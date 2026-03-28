@@ -7350,6 +7350,7 @@ ngetana
 ngete
 ngetel
 ngetih
+ngetik
 ngetok
 ngetot
 ngetung
