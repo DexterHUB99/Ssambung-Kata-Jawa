@@ -1620,6 +1620,7 @@ cakra
 cakwe
 calon
 camat
+cambah
 campur
 can
 candi
@@ -7549,6 +7550,7 @@ nolan
 noleh
 noli
 nom
+noma
 noman
 nombak
 nombok
