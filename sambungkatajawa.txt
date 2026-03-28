@@ -3136,6 +3136,7 @@ gilo
 gim
 giman
 gimbal
+gimi
 gina
 gincu
 ginem
@@ -3446,6 +3447,7 @@ hartamu
 haru
 harum
 harus
+haruse
 has
 hasa
 hasan
@@ -11114,6 +11116,7 @@ yak
 yaka
 yakan
 yaken
+yaki
 yakin
 yaksa
 yaku
