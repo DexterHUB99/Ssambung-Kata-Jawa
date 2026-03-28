@@ -427,6 +427,7 @@ alop
 alos
 alot
 aloy
+alpa
 alpukat
 alu
 aluban
