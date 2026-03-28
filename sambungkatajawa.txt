@@ -5782,6 +5782,7 @@ lin
 lina
 linang
 lincah
+lindes
 lindhu
 lindungi
 lindur
