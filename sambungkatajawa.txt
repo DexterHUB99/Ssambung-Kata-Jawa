@@ -1875,6 +1875,7 @@ cupu
 curi
 curut
 cuti
+dabu
 dada
 dadah
 dadak
@@ -7835,6 +7836,7 @@ nim
 nima
 niman
 nimba
+nimbal
 nimbali
 nimbang
 nimbul
@@ -10378,6 +10380,7 @@ suwir
 suwun
 suwung
 suya
+suyi
 ta
 taa
 taat
