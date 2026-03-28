@@ -49,6 +49,7 @@ aca
 acak
 acan
 acar
+acara
 ace
 aceh
 aci
@@ -357,6 +358,7 @@ akuk
 akul
 akula
 akule
+akulo
 akun
 akur
 akura
@@ -5549,6 +5551,7 @@ lilo
 lim
 lima
 limaa
+limang
 limao
 limas
 limbah
