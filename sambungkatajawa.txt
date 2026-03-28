@@ -1542,6 +1542,7 @@ bothok
 boti
 boto
 botok
+botol
 bowo
 boyo
 boyok
@@ -9306,6 +9307,7 @@ ruam
 ruang
 rubuh
 rudah
+rue
 rugi
 ruh
 ruha
@@ -9652,6 +9654,7 @@ selamet
 selan
 selasa
 selat
+selatan
 selawe
 seleb
 selendang
