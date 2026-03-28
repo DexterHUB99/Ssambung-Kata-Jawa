@@ -2535,6 +2535,7 @@ epat
 epe
 epeh
 epek
+epel
 epem
 epen
 epep
@@ -8819,6 +8820,7 @@ rasak
 rasan
 rasane
 rase
+rasel
 rasi
 rasis
 rasko
@@ -10380,6 +10382,7 @@ turun
 turuo
 tus
 tusa
+tusan
 tusi
 tusu
 tusuk
@@ -10988,6 +10991,7 @@ wangsulan
 wani
 wanie
 wanita
+wano
 wapi
 war
 wara
