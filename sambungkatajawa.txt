@@ -8546,6 +8546,7 @@ pirasan
 pireng
 piring
 piro
+pirus
 pis
 pisa
 pisah
