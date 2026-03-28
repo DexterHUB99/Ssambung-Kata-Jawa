@@ -2104,6 +2104,7 @@ dukuh
 dukun
 dukur
 dukut
+dula
 dulan
 dulang
 duli
@@ -5067,6 +5068,7 @@ kolak
 kolam
 kole
 kolek
+kolese
 koli
 koloh
 kolong
@@ -10760,6 +10762,7 @@ urio
 urip
 uripe
 uripmu
+uris
 urit
 uritan
 urli
