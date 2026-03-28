@@ -8146,6 +8146,7 @@ paris
 parit
 parkir
 parno
+paro
 parok
 parti
 paru
