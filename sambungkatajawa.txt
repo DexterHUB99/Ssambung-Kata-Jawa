@@ -1829,6 +1829,7 @@ ciduk
 cigar
 cigor
 cigur
+cihuy
 cik
 cika
 cikal
@@ -2483,6 +2484,7 @@ elan
 elane
 elang
 elap
+elar
 elas
 elat
 ele
@@ -4741,6 +4743,7 @@ kadus
 kae
 kaee
 kaei
+kaela
 kafir
 kagaka
 kagem
