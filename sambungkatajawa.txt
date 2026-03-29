@@ -869,6 +869,7 @@ apala
 apalan
 apan
 apane
+apang
 apangan
 apapa
 apar
@@ -3754,6 +3755,7 @@ haso
 hasrat
 hasta
 hasut
+hasutan
 hata
 hate
 hati
@@ -4087,6 +4089,7 @@ iklim
 iko
 ikoe
 ikon
+ikone
 ikoo
 ikrar
 iku
@@ -5287,6 +5290,7 @@ kesandung
 kesasar
 kesat
 kesatuan
+kesawah
 kese
 kesel
 keselek
@@ -5320,6 +5324,7 @@ keton
 ketoprak
 ketos
 ketua
+ketuk
 ketum
 ketung
 ketupat
@@ -6986,6 +6991,7 @@ ndugal
 nduk
 ndukani
 ndulang
+ndulur
 ne
 nebang
 nebus
@@ -8502,6 +8508,7 @@ on
 onang
 onar
 onari
+onco
 oncom
 onda
 onde
@@ -8869,6 +8876,7 @@ patin
 patok
 patu
 patuh
+patun
 patung
 patut
 paunten
@@ -9101,6 +9109,7 @@ piting
 pito
 pitu
 pituk
+pitulang
 pitung
 pitutur
 piuji
@@ -9255,6 +9264,7 @@ purek
 puri
 purna
 purnama
+purno
 purun
 pus
 pusa
@@ -9303,6 +9313,7 @@ ragi
 ragil
 ragu
 rah
+raha
 rahasia
 rahayu
 rahi
@@ -10040,6 +10051,7 @@ sarap
 sarapan
 sarat
 sare
+sarean
 sarem
 sareng
 sarep
@@ -10071,6 +10083,7 @@ satus
 saung
 saur
 sawah
+sawahne
 sawak
 sawan
 sawang
@@ -10243,6 +10256,7 @@ sesat
 sesek
 sesok
 sesorah
+sesu
 sesuk
 setan
 setela
@@ -11592,6 +11606,7 @@ usan
 usani
 usap
 usar
+usara
 use
 usek
 usem
