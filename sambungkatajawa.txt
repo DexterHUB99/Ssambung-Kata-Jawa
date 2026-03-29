@@ -5074,6 +5074,7 @@ kem
 kema
 kemah
 kemaki
+kemang
 kemangi
 kemanten
 kemanuk
@@ -6526,6 +6527,7 @@ momi
 momong
 momori
 momot
+mon
 mona
 mondok
 monggo
