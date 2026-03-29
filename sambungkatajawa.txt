@@ -2302,6 +2302,7 @@ duwit
 duwur
 dwi
 ealah
+eba
 ebas
 eben
 ebi
@@ -9716,6 +9717,7 @@ ruli
 rum
 ruma
 rumah
+rumahne
 rumangsa
 rumangsane
 rumba
