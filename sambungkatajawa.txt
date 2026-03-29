@@ -1829,7 +1829,6 @@ ciduk
 cigar
 cigor
 cigur
-cihuy
 cik
 cika
 cikal
@@ -4746,7 +4745,6 @@ kadus
 kae
 kaee
 kaei
-kaela
 kafir
 kagaka
 kagem
