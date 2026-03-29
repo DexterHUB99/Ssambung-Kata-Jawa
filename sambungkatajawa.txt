@@ -2485,7 +2485,6 @@ elan
 elane
 elang
 elap
-elar
 elas
 elat
 ele
@@ -2661,6 +2660,7 @@ engko
 engkok
 engkol
 engkole
+engkong
 eni
 enih
 enik
