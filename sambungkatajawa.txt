@@ -3755,6 +3755,7 @@ haso
 hasrat
 hasta
 hasut
+hasutan
 hata
 hate
 hati
@@ -9257,6 +9258,7 @@ purek
 puri
 purna
 purnama
+purno
 purun
 pus
 pusa
