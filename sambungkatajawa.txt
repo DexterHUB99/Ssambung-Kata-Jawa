@@ -925,7 +925,6 @@ ara
 araa
 arab
 arabi
-araf
 arag
 arah
 arahan
@@ -938,7 +937,6 @@ arama
 aran
 arane
 arang
-arani
 arap
 aras
 arasen
@@ -1582,7 +1580,6 @@ bisue
 bisulan
 bit
 biyung
-blas
 blekok
 bo
 boba
@@ -1689,7 +1686,6 @@ bulet
 buli
 bulik
 bulu
-bulus
 bumbu
 bumi
 bun
@@ -2339,7 +2335,6 @@ duran
 duren
 duri
 durian
-durjana
 durma
 duru
 durung
@@ -2676,7 +2671,6 @@ endase
 endasmu
 endek
 endel
-endeng
 endhog
 endhok
 endi
@@ -3155,7 +3149,6 @@ ganti
 gantian
 gantol
 gantolan
-gantos
 gantung
 gantunga
 gantungan
@@ -3591,7 +3584,6 @@ gulane
 gulang
 gule
 gulek
-gulem
 guleng
 guli
 gulii
@@ -4194,7 +4186,6 @@ ilmu
 ilmune
 ilo
 ilok
-ilon
 iloo
 ilu
 ilue
@@ -4887,7 +4878,6 @@ kalor
 kalori
 kaluhur
 kalung
-kalut
 kam
 kama
 kamae
@@ -5302,7 +5292,6 @@ kepriwe
 kepriye
 kepruk
 kepur
-kepurun
 ker
 kera
 kerah
@@ -5532,7 +5521,6 @@ komik
 komodo
 kompak
 kompas
-komplit
 kompor
 kon
 kona
@@ -6094,6 +6082,7 @@ lit
 lita
 litah
 lite
+liti
 liwa
 liwat
 liwet
@@ -6369,6 +6358,7 @@ mamah
 mamak
 mamake
 maman
+mamas
 mamat
 mambu
 mami
@@ -6473,7 +6463,6 @@ masih
 masing
 masinis
 masio
-masir
 masjid
 masu
 masuh
@@ -7636,7 +7625,6 @@ ngenko
 ngenos
 ngenot
 ngentek
-ngentel
 ngenteni
 ngentil
 ngentoh
@@ -7812,7 +7800,6 @@ nginjak
 nginjek
 nginjeng
 ngino
-nginsing
 ngintal
 ngintil
 ngintip
@@ -8076,7 +8063,6 @@ nguri
 ngurip
 nguripi
 nguru
-ngurui
 ngurung
 ngurus
 ngurusi
@@ -8367,6 +8353,7 @@ nusa
 nusan
 nusi
 nusul
+nut
 nuti
 nutuk
 nutup
@@ -9077,6 +9064,7 @@ perih
 perlu
 perot
 pes
+pesawat
 pesen
 pesing
 peso
@@ -9181,7 +9169,6 @@ pinten
 pinter
 pintu
 pinus
-pinutur
 pio
 pipe
 pipi
@@ -9705,7 +9692,6 @@ reng
 renges
 rengginang
 reni
-renjang
 reno
 renta
 reo
@@ -10581,7 +10567,6 @@ somar
 somat
 sombong
 some
-sompral
 son
 song
 songo
@@ -11694,7 +11679,6 @@ urama
 uran
 urang
 urangan
-urao
 urap
 uras
 urat
@@ -11770,7 +11754,6 @@ usik
 usil
 using
 usir
-usiren
 uska
 usku
 usla
@@ -11783,7 +11766,6 @@ uso
 usra
 usrek
 usri
-ust
 usta
 ustadz
 ustadzah
