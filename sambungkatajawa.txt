@@ -2061,6 +2061,7 @@ dene
 deneng
 dengki
 dengkul
+dengkulmu
 dening
 depak
 depi
