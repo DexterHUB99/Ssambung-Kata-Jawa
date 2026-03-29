@@ -312,6 +312,7 @@ akee
 akeh
 akehi
 aken
+akeng
 aker
 akes
 aket
@@ -1885,7 +1886,6 @@ dada
 dadah
 dadak
 dadali
-dadam
 dadang
 dadar
 dadi
@@ -3678,7 +3678,6 @@ haya
 hayang
 hayat
 hayati
-hayi
 hayo
 hayoo
 hayu
