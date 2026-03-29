@@ -609,6 +609,7 @@ an
 ana
 anaa
 anab
+anad
 anae
 anah
 anai
@@ -4323,7 +4324,6 @@ iroh
 irol
 iron
 irong
-ironi
 iros
 irot
 iru
@@ -8742,7 +8742,6 @@ pande
 pandu
 panduan
 pane
-panemu
 panen
 pang
 pangan
