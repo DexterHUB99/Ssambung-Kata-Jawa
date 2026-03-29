@@ -2482,7 +2482,6 @@ elan
 elane
 elang
 elap
-elar
 elas
 elat
 ele
@@ -11729,6 +11728,7 @@ walak
 walang
 wali
 walik
+walisongo
 walo
 waluh
 waluyo
