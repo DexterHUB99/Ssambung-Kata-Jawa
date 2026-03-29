@@ -11870,6 +11870,7 @@ warnae
 warno
 waro
 warok
+warta
 warti
 waru
 waruh
