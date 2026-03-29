@@ -8313,6 +8313,7 @@ okos
 okot
 okul
 okum
+okup
 okur
 okut
 ol
