@@ -1335,6 +1335,7 @@ bagus
 bah
 bahan
 bahasa
+bahaya
 bahu
 bahwa
 bai
@@ -3317,6 +3318,7 @@ gelo
 geloe
 gelombang
 gelot
+gelud
 geluk
 gelut
 gem
@@ -4217,6 +4219,7 @@ ilue
 ilui
 iluk
 ilyas
+ilyasa
 im
 ima
 imaa
