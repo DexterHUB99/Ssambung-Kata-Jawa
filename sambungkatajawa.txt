@@ -1926,6 +1926,7 @@ daleme
 dali
 dalih
 dalu
+daluo
 dama
 damai
 damar
