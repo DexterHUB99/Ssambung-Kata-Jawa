@@ -180,6 +180,7 @@ ahin
 ahip
 ahir
 ahiran
+ahirane
 ahire
 ahiri
 ahis
@@ -375,6 +376,7 @@ akule
 akulo
 akumi
 akun
+akune
 akuo
 akur
 akura
@@ -6926,6 +6928,7 @@ nepi
 nepis
 neptu
 ner
+nerak
 neraka
 nerang
 nerap
