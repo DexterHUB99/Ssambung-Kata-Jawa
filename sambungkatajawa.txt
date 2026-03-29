@@ -631,6 +631,7 @@ anan
 anane
 anang
 anangin
+ananging
 anani
 anas
 anasi
@@ -10448,6 +10449,7 @@ siyam
 siyang
 slamet
 sleman
+slendang
 so
 soale
 soasu
