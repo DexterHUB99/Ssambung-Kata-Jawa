@@ -7810,6 +7810,7 @@ nglindur
 ngliwet
 nglor
 ngn
+ngna
 ngnan
 ngngarit
 ngngaso
