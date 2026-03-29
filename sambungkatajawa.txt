@@ -634,6 +634,7 @@ anang
 anangin
 ananging
 anani
+anar
 anas
 anasi
 anat
@@ -934,7 +935,6 @@ arama
 aran
 arane
 arang
-arani
 arap
 aras
 arasen
@@ -1645,6 +1645,7 @@ bubis
 bubu
 bubuk
 bubur
+bubut
 buda
 budak
 budal
@@ -2100,6 +2101,7 @@ der
 deras
 derek
 dereng
+deres
 dermawan
 des
 desa
@@ -2126,6 +2128,7 @@ didesa
 didi
 didik
 didin
+didit
 dido
 didu
 didulang
@@ -5198,6 +5201,7 @@ kem
 kema
 kemah
 kemaki
+kemal
 kemang
 kemangi
 kemanten
@@ -8693,6 +8697,7 @@ oria
 orii
 oring
 oris
+orit
 orog
 orok
 orong
@@ -9941,6 +9946,7 @@ rupa
 rupak
 rupamu
 rupane
+rupe
 rupo
 ruri
 ruro
@@ -10002,6 +10008,7 @@ saestu
 saga
 saged
 saget
+sagon
 sagu
 sagul
 sah
@@ -11548,6 +11555,7 @@ undangan
 undi
 undia
 undian
+undir
 unduh
 unduk
 undung
