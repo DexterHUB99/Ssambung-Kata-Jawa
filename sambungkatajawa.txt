@@ -8560,6 +8560,7 @@ otol
 otom
 otoman
 otot
+otote
 ow
 owah
 owak
@@ -8641,6 +8642,7 @@ palem
 paleng
 palet
 pali
+palih
 paling
 palis
 palko
