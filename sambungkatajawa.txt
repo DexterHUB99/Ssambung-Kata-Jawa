@@ -8791,6 +8791,7 @@ paro
 parok
 parti
 paru
+paruh
 parup
 parut
 pas
