@@ -313,6 +313,7 @@ akaw
 akay
 akbar
 ake
+akea
 akee
 akeh
 akehi
@@ -4489,6 +4490,7 @@ jala
 jalak
 jalan
 jalanan
+jalang
 jaler
 jali
 jalii
@@ -5990,6 +5992,7 @@ liyane
 liyo
 lo
 loa
+loan
 lob
 loba
 lobang
@@ -7026,6 +7029,7 @@ nerang
 nerangke
 nerap
 neras
+nerek
 neri
 nerima
 nerimo
@@ -7245,6 +7249,7 @@ ngantuk
 ngantun
 ngantung
 nganu
+nganyam
 nganyeli
 ngaos
 ngap
@@ -9388,6 +9393,7 @@ rasak
 rasan
 rasane
 rase
+rasek
 rasel
 rasha
 rasi
@@ -9870,6 +9876,7 @@ sakit
 sakite
 sakkarepmu
 sakral
+saksi
 sakti
 saku
 sakura
@@ -11381,6 +11388,7 @@ unggal
 unggas
 ungger
 unggul
+unggulan
 ungkal
 ungkap
 ungkapan
@@ -11502,6 +11510,7 @@ urra
 urta
 uru
 urua
+urui
 uruk
 uruki
 urun
