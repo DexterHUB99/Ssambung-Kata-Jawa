@@ -2587,6 +2587,7 @@ emu
 emul
 emur
 emut
+emute
 emutno
 en
 ena
@@ -11467,6 +11468,7 @@ urung
 urup
 urus
 urusan
+urusane
 urusen
 uruso
 urut
