@@ -5988,6 +5988,7 @@ losa
 lose
 losi
 loso
+lot
 lota
 lote
 lotek
@@ -7437,6 +7438,7 @@ ngetik
 ngetok
 ngetot
 ngetung
+ngewa
 ngewangi
 ngewar
 ngewe
