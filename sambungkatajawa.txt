@@ -2638,6 +2638,7 @@ emute
 emutno
 en
 ena
+enad
 enah
 enak
 enake
@@ -7155,7 +7156,6 @@ ngabdi
 ngaben
 ngabes
 ngabet
-ngabi
 ngablak
 ngabu
 ngabur
