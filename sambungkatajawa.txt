@@ -10705,6 +10705,7 @@ tetulung
 thole
 ti
 tiba
+tibae
 tibak
 tibake
 tiban
@@ -11677,6 +11678,7 @@ weweh
 wewenang
 wewet
 wi
+wia
 wibawa
 wibu
 wicara
