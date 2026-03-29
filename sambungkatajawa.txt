@@ -8069,6 +8069,7 @@ noma
 noman
 nombak
 nombok
+nome
 nomer
 nomi
 non
@@ -8247,6 +8248,7 @@ nyulik
 nyumbang
 nyungsep
 nyuri
+nyuruh
 nyurung
 nyusu
 nyuwun
