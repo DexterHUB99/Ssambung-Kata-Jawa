@@ -5129,6 +5129,7 @@ kening
 kenopo
 kentang
 kenter
+kenthel
 kentu
 kentut
 kenyang
@@ -7381,6 +7382,7 @@ ngembun
 ngemet
 ngemil
 ngemis
+ngemoh
 ngemong
 ngemot
 ngemper
