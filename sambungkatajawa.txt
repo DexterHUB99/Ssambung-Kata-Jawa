@@ -7436,6 +7436,7 @@ ngegeh
 ngeger
 ngegunung
 ngeh
+ngehasil
 ngei
 ngejak
 ngejar
@@ -8242,6 +8243,7 @@ nura
 nurah
 nurani
 nuri
+nuro
 nuru
 nurui
 nurun
