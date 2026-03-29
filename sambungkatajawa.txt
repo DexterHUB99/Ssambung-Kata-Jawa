@@ -609,7 +609,6 @@ an
 ana
 anaa
 anab
-anad
 anae
 anah
 anai
@@ -8742,6 +8741,7 @@ pande
 pandu
 panduan
 pane
+panemu
 panen
 pang
 pangan
