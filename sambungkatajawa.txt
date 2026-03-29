@@ -542,7 +542,6 @@ ambulan
 ambune
 ambung
 ambyar
-ambyuk
 ambyur
 ame
 ameh
@@ -935,6 +934,7 @@ arama
 aran
 arane
 arang
+arani
 arap
 aras
 arasen
@@ -2330,6 +2330,7 @@ duran
 duren
 duri
 durian
+durjana
 durma
 duru
 durung
@@ -2665,6 +2666,7 @@ endase
 endasmu
 endek
 endel
+endeng
 endhog
 endhok
 endi
@@ -3143,6 +3145,7 @@ ganti
 gantian
 gantol
 gantolan
+gantos
 gantung
 gantunga
 gantungan
@@ -11658,6 +11661,7 @@ urama
 uran
 urang
 urangan
+urao
 urap
 uras
 urat
@@ -11745,6 +11749,7 @@ uso
 usra
 usrek
 usri
+ust
 usta
 ustadz
 ustadzah
