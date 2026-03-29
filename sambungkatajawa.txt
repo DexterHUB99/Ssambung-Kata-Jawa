@@ -1586,6 +1586,7 @@ bom
 bongko
 boni
 bono
+bontot
 bor
 borak
 boring
@@ -6834,6 +6835,7 @@ nanging
 nangis
 nangisi
 nangka
+nangkane
 nangkap
 nangkep
 nangkring
