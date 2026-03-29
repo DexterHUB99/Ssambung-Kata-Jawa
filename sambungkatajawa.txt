@@ -1827,6 +1827,7 @@ ciduk
 cigar
 cigor
 cigur
+cihuy
 cik
 cika
 cikal
@@ -2481,6 +2482,7 @@ elan
 elane
 elang
 elap
+elar
 elas
 elat
 ele
