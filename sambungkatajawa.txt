@@ -5851,6 +5851,7 @@ lengkuas
 lengser
 leni
 lentog
+lepa
 lepat
 lepi
 ler
@@ -10357,6 +10358,7 @@ songong
 soni
 sono
 sonten
+sontoloyo
 sop
 sopa
 sopan
