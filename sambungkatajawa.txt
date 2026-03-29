@@ -2482,6 +2482,7 @@ elan
 elane
 elang
 elap
+elar
 elas
 elat
 ele
