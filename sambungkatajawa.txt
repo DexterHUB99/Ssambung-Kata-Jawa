@@ -1690,6 +1690,7 @@ buri
 burik
 burok
 buron
+buru
 buruh
 bus
 busa
