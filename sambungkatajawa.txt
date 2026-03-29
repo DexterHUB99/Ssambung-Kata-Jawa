@@ -5667,6 +5667,7 @@ lanangan
 lancang
 lancar
 lancip
+landa
 landak
 landep
 landhep
@@ -8937,6 +8938,7 @@ pira
 pirang
 pirasan
 pireng
+piri
 piring
 piro
 pirus
