@@ -810,6 +810,7 @@ antemi
 anteng
 antep
 anter
+anteran
 anti
 antih
 antii
@@ -1587,6 +1588,7 @@ bolo
 bolog
 bolong
 bom
+bon
 bongko
 boni
 bono
