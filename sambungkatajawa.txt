@@ -475,6 +475,7 @@ alunan
 alunna
 alupi
 alur
+aluran
 alus
 alut
 am
