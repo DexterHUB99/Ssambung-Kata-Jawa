@@ -5140,6 +5140,7 @@ keraton
 kerbau
 kere
 kerek
+kerem
 keren
 keres
 keret
