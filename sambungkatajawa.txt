@@ -4680,6 +4680,7 @@ jum
 jumat
 jumbo
 jumeneng
+jumi
 jumpa
 jumput
 jungkat
