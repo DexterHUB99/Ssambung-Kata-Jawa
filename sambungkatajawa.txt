@@ -2640,6 +2640,7 @@ emute
 emutno
 en
 ena
+enad
 enah
 enak
 enake
@@ -6713,6 +6714,7 @@ mubal
 mubeng
 mucuk
 mudal
+mudar
 mudeng
 mudha
 mudhun
@@ -11202,6 +11204,7 @@ tumpang
 tumpar
 tumpeng
 tumplek
+tumpuk
 tumpul
 tumrap
 tumut
