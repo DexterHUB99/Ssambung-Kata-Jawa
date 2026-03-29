@@ -4630,6 +4630,7 @@ jumpa
 jumput
 jungkat
 jungkel
+jungkir
 juni
 juragan
 jurang
