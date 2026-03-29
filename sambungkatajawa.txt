@@ -1464,6 +1464,7 @@ bertanya
 bes
 besan
 besar
+besek
 beso
 besok
 besuk
@@ -7447,6 +7448,7 @@ ngeruh
 ngerujak
 ngeruk
 ngerung
+ngerusak
 nges
 ngesa
 ngesak
