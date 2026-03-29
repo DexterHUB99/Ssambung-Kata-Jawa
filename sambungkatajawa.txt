@@ -934,6 +934,7 @@ arama
 aran
 arane
 arang
+arani
 arap
 aras
 arasen
@@ -2664,6 +2665,7 @@ endase
 endasmu
 endek
 endel
+endeng
 endhog
 endhok
 endi
@@ -11657,6 +11659,7 @@ urama
 uran
 urang
 urangan
+urao
 urap
 uras
 urat
