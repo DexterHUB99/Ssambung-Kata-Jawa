@@ -1150,6 +1150,7 @@ atose
 atrahe
 atrap
 atret
+atri
 atu
 atuh
 atuk
