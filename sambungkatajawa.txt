@@ -724,6 +724,7 @@ anggu
 angguk
 anggur
 angin
+angine
 angka
 angkara
 angkasa
@@ -5627,6 +5628,7 @@ krama
 kramas
 krambil
 kraton
+kremi
 kresna
 krikil
 krocok
