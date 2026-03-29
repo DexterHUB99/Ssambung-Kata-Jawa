@@ -808,6 +808,7 @@ anta
 antah
 antam
 antang
+antap
 antar
 antara
 antareja
@@ -1113,6 +1114,7 @@ asut
 asuw
 asuwe
 asuya
+aswatama
 asyik
 at
 ata
@@ -1642,7 +1644,6 @@ bubis
 bubu
 bubuk
 bubur
-bubut
 buda
 budak
 budal
@@ -2098,7 +2099,6 @@ der
 deras
 derek
 dereng
-deres
 dermawan
 des
 desa
@@ -2125,7 +2125,6 @@ didesa
 didi
 didik
 didin
-didit
 dido
 didu
 didulang
@@ -2645,6 +2644,7 @@ emute
 emutno
 en
 ena
+enad
 enah
 enak
 enake
@@ -5197,7 +5197,6 @@ kem
 kema
 kemah
 kemaki
-kemal
 kemang
 kemangi
 kemanten
@@ -6136,6 +6135,7 @@ londok
 lone
 longgar
 longgor
+longok
 longor
 longsor
 loni
@@ -6301,6 +6301,7 @@ maido
 maii
 main
 mainan
+majir
 majo
 maju
 mak
@@ -6721,6 +6722,7 @@ mubal
 mubeng
 mucuk
 mudal
+mudar
 mudeng
 mudha
 mudhun
@@ -8690,7 +8692,6 @@ oria
 orii
 oring
 oris
-orit
 orog
 orok
 orong
@@ -9939,7 +9940,6 @@ rupa
 rupak
 rupamu
 rupane
-rupe
 rupo
 ruri
 ruro
@@ -10001,7 +10001,6 @@ saestu
 saga
 saged
 saget
-sagon
 sagu
 sagul
 sah
@@ -11219,6 +11218,7 @@ tumpang
 tumpar
 tumpeng
 tumplek
+tumpuk
 tumpul
 tumrap
 tumut
@@ -11547,7 +11547,6 @@ undangan
 undi
 undia
 undian
-undir
 unduh
 unduk
 undung
