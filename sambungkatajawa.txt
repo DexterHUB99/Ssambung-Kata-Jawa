@@ -5948,6 +5948,7 @@ liar
 libas
 libu
 libur
+liburan
 licik
 licin
 lidah
