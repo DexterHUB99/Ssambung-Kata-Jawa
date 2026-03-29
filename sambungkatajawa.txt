@@ -4789,6 +4789,7 @@ kafir
 kagaka
 kagem
 kaget
+kagung
 kagungan
 kahanan
 kahujan
@@ -7018,6 +7019,7 @@ ndelik
 ndelok
 nderek
 ndeso
+ndhog
 ndlogok
 ndlosor
 ndoro
@@ -10637,6 +10639,7 @@ sunduk
 sundul
 sung
 sungai
+sunge
 sungi
 sunging
 sungka
