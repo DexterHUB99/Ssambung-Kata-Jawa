@@ -7567,6 +7567,7 @@ ngero
 ngerok
 ngerokok
 ngeroso
+ngersa
 ngerti
 ngertos
 ngeruh
@@ -8658,6 +8659,7 @@ oyot
 oz
 ozon
 pa
+paalu
 paandu
 paben
 pacar
