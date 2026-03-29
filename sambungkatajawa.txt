@@ -11600,6 +11600,7 @@ usan
 usani
 usap
 usar
+usara
 use
 usek
 usem
