@@ -810,6 +810,7 @@ antemi
 anteng
 antep
 anter
+anteran
 anti
 antih
 antii
@@ -1587,6 +1588,7 @@ bolo
 bolog
 bolong
 bom
+bon
 bongko
 boni
 bono
@@ -1827,6 +1829,7 @@ ciduk
 cigar
 cigor
 cigur
+cihuy
 cik
 cika
 cikal
@@ -2108,6 +2111,7 @@ diko
 dikom
 dikon
 dikot
+diku
 dila
 dilah
 dilam
@@ -2481,6 +2485,7 @@ elan
 elane
 elang
 elap
+elar
 elas
 elat
 ele
@@ -2656,6 +2661,7 @@ engko
 engkok
 engkol
 engkole
+engkong
 eni
 enih
 enik
@@ -2978,6 +2984,7 @@ gagasan
 gagat
 gage
 gagean
+gagrak
 gagu
 gah
 gaha
@@ -3547,6 +3554,7 @@ gundah
 gundam
 gundik
 gundul
+gundulmu
 gunem
 guneman
 gung
@@ -3623,6 +3631,7 @@ hajine
 hak
 haka
 hakan
+hake
 haki
 hakim
 hako
@@ -3729,6 +3738,7 @@ hasile
 hasma
 hasmi
 hasna
+haso
 hasrat
 hasta
 hasut
@@ -4738,6 +4748,7 @@ kadus
 kae
 kaee
 kaei
+kaela
 kafir
 kagaka
 kagem
@@ -6225,6 +6236,7 @@ mak
 maka
 makai
 makam
+makamu
 makan
 makanan
 make
@@ -8723,6 +8735,7 @@ pancasila
 pancen
 panci
 pancing
+pancingan
 pandan
 pandang
 pandangan
@@ -10642,6 +10655,7 @@ taie
 taii
 taik
 tajin
+tajir
 tajug
 tajuk
 tak
@@ -11726,6 +11740,7 @@ walak
 walang
 wali
 walik
+walisongo
 walo
 waluh
 waluyo
