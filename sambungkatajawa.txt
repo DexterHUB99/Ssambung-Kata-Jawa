@@ -11606,6 +11606,7 @@ welo
 welut
 wen
 wena
+wenan
 wenang
 weneh
 wengi
