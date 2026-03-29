@@ -8378,6 +8378,7 @@ obaten
 obeh
 obeng
 obes
+obit
 oblong
 obok
 obong
