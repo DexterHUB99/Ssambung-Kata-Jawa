@@ -2471,6 +2471,7 @@ elen
 eleng
 elep
 eles
+elet
 eli
 elif
 elig
@@ -6918,6 +6919,7 @@ nekar
 nekat
 nekate
 neko
+nel
 nela
 nelae
 nelayan
