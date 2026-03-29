@@ -2571,6 +2571,7 @@ elit
 elmi
 elmu
 elo
+eloe
 eloh
 elok
 elokan
