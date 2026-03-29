@@ -4816,6 +4816,7 @@ kadi
 kadiri
 kadong
 kados
+kadosi
 kadung
 kadus
 kae
@@ -8524,6 +8525,7 @@ okar
 okara
 okas
 okasan
+okaya
 oke
 okean
 okee
