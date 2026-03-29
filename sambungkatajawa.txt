@@ -925,7 +925,6 @@ ara
 araa
 arab
 arabi
-araf
 arag
 arah
 arahan
@@ -938,7 +937,6 @@ arama
 aran
 arane
 arang
-arani
 arap
 aras
 arasen
@@ -2336,7 +2334,6 @@ duran
 duren
 duri
 durian
-durjana
 durma
 duru
 durung
@@ -2672,7 +2669,6 @@ endase
 endasmu
 endek
 endel
-endeng
 endhog
 endhok
 endi
@@ -3151,7 +3147,6 @@ ganti
 gantian
 gantol
 gantolan
-gantos
 gantung
 gantunga
 gantungan
@@ -3587,7 +3582,6 @@ gulane
 gulang
 gule
 gulek
-gulem
 guleng
 guli
 gulii
@@ -4881,7 +4875,6 @@ kalor
 kalori
 kaluhur
 kalung
-kalut
 kam
 kama
 kamae
@@ -5295,7 +5288,6 @@ kepriwe
 kepriye
 kepruk
 kepur
-kepurun
 ker
 kera
 kerah
@@ -5525,7 +5517,6 @@ komik
 komodo
 kompak
 kompas
-komplit
 kompor
 kon
 kona
@@ -9692,7 +9683,6 @@ reng
 renges
 rengginang
 reni
-renjang
 reno
 renta
 reo
@@ -11677,7 +11667,6 @@ urama
 uran
 urang
 urangan
-urao
 urap
 uras
 urat
@@ -11765,7 +11754,6 @@ uso
 usra
 usrek
 usri
-ust
 usta
 ustadz
 ustadzah
