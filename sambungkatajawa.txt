@@ -2271,6 +2271,7 @@ dukuh
 dukun
 dukur
 dukut
+dul
 dula
 dulan
 dulang
@@ -11181,6 +11182,7 @@ udui
 uduk
 udun
 udunen
+udung
 udur
 udut
 ue
