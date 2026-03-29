@@ -1703,6 +1703,7 @@ burok
 buron
 buru
 buruh
+buruk
 bus
 busa
 busana
@@ -11365,6 +11366,7 @@ ukit
 ukka
 ukki
 ukko
+ukku
 ukla
 ukli
 ukmi
