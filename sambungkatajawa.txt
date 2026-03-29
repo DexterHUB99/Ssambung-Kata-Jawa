@@ -1252,6 +1252,7 @@ awu
 awuh
 awuk
 awur
+awura
 ax
 ay
 aya
@@ -1731,6 +1732,7 @@ but
 buta
 butek
 buto
+butoh
 butu
 butuh
 buwang
@@ -7036,6 +7038,7 @@ nasine
 nasiuduk
 nastar
 nasu
+nasuha
 nat
 nata
 natah
