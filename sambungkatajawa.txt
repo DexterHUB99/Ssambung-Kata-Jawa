@@ -7091,6 +7091,7 @@ ngala
 ngalah
 ngalam
 ngalamun
+ngalang
 ngalangi
 ngalap
 ngalas
@@ -11254,6 +11255,7 @@ umana
 umar
 umas
 umat
+umatne
 umbah
 umbar
 umbas
