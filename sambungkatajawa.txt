@@ -9170,6 +9170,7 @@ pinten
 pinter
 pintu
 pinus
+pinutur
 pio
 pipe
 pipi
