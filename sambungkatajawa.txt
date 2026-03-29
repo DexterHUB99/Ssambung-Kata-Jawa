@@ -10350,6 +10350,7 @@ sumbar
 sumber
 sume
 sumeh
+sumenep
 sumi
 sumo
 sumpah
