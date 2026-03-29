@@ -2485,6 +2485,7 @@ elan
 elane
 elang
 elap
+elar
 elas
 elat
 ele
@@ -8743,6 +8744,7 @@ pande
 pandu
 panduan
 pane
+panemu
 panen
 pang
 pangan
