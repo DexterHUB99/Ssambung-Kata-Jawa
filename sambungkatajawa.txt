@@ -810,7 +810,6 @@ antang
 antar
 antara
 antareja
-antasena
 antawi
 antek
 antem
@@ -2639,7 +2638,6 @@ emute
 emutno
 en
 ena
-enad
 enah
 enak
 enake
@@ -5171,6 +5169,7 @@ kelereng
 keles
 kelet
 keli
+kelii
 keliling
 kelin
 kelinci
@@ -6711,7 +6710,6 @@ mubal
 mubeng
 mucuk
 mudal
-mudar
 mudeng
 mudha
 mudhun
@@ -7158,6 +7156,7 @@ ngabdi
 ngaben
 ngabes
 ngabet
+ngabi
 ngablak
 ngabu
 ngabur
@@ -9600,6 +9599,7 @@ reged
 reget
 regi
 rehi
+reho
 rei
 rejeb
 rejek
