@@ -3197,6 +3197,7 @@ gembos
 gembrot
 gembung
 geme
+gemer
 gemes
 gemi
 gempa
