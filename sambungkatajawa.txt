@@ -869,6 +869,7 @@ apala
 apalan
 apan
 apane
+apang
 apangan
 apapa
 apar
@@ -9303,6 +9304,7 @@ ragi
 ragil
 ragu
 rah
+raha
 rahasia
 rahayu
 rahi
@@ -10071,6 +10073,7 @@ satus
 saung
 saur
 sawah
+sawahne
 sawak
 sawan
 sawang
