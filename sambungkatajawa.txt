@@ -6300,6 +6300,7 @@ make
 maki
 makmur
 makruh
+maksa
 maksud
 maku
 mala
