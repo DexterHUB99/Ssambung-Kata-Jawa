@@ -2016,6 +2016,7 @@ dekok
 dela
 dele
 deleng
+deli
 delik
 delima
 delman
@@ -8150,6 +8151,7 @@ nyaman
 nyamar
 nyambi
 nyamping
+nyamu
 nyamuk
 nyandang
 nyang
