@@ -4399,6 +4399,7 @@ iros
 irot
 iru
 irub
+irug
 iruk
 irum
 irung
@@ -5608,6 +5609,7 @@ kota
 kotak
 kotang
 kotangmu
+kote
 kotor
 kotoran
 kowe
