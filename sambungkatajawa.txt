@@ -4482,6 +4482,7 @@ isui
 isuk
 isukan
 isun
+iswa
 isya
 it
 ita
@@ -12238,6 +12239,7 @@ yar
 yara
 yare
 yari
+yaring
 yas
 yasa
 yasi
