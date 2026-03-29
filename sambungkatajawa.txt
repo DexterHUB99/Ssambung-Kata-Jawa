@@ -1431,6 +1431,7 @@ bau
 bawa
 bawang
 bawok
+bawu
 bawuk
 baya
 bayar
@@ -6531,6 +6532,7 @@ mbah
 mbahe
 mbak
 mben
+mbesuk
 mbok
 mbote
 mbuh
