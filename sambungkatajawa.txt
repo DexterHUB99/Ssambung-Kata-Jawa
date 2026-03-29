@@ -9324,6 +9324,7 @@ rayo
 rayon
 rayu
 re
+reang
 reba
 rebah
 rebahan
@@ -11394,6 +11395,7 @@ usil
 using
 usir
 uska
+usku
 usla
 usli
 usma
