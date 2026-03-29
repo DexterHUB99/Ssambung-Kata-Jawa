@@ -2648,6 +2648,7 @@ enjih
 enjing
 enjoy
 enko
+enli
 eno
 enok
 enom
@@ -5125,6 +5126,7 @@ kemproh
 kemul
 kemuning
 kemut
+kemutan
 ken
 kena
 kenak
