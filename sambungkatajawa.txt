@@ -6980,6 +6980,7 @@ ner
 nerak
 neraka
 nerang
+nerangke
 nerap
 neras
 neri
