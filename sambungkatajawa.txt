@@ -1513,6 +1513,7 @@ bimo
 bin
 bina
 bindeng
+bine
 bingka
 bingung
 bini
@@ -5374,6 +5375,7 @@ koni
 kono
 kontal
 kontol
+kontole
 kontolmu
 kontrol
 konyol
