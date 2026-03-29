@@ -2528,6 +2528,7 @@ embah
 emban
 embat
 embe
+emben
 ember
 emboh
 embok
@@ -6308,6 +6309,7 @@ mas
 masa
 masah
 masak
+masake
 mase
 masi
 masih
