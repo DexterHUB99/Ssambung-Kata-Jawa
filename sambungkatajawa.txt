@@ -3043,6 +3043,7 @@ gamel
 gamela
 gamelan
 gamen
+gamer
 gami
 gaming
 gamis
