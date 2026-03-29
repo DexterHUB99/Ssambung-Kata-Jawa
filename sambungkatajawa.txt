@@ -172,6 +172,7 @@ ahet
 ahh
 ahhh
 ahi
+ahib
 ahid
 ahig
 ahih
@@ -456,6 +457,7 @@ alis
 alisa
 alit
 aliya
+aliyah
 alm
 alo
 aloh
@@ -542,6 +544,7 @@ ambulan
 ambune
 ambung
 ambyar
+ambyuk
 ambyur
 ame
 ameh
@@ -922,7 +925,6 @@ ara
 araa
 arab
 arabi
-araf
 arag
 arah
 arahan
@@ -935,7 +937,6 @@ arama
 aran
 arane
 arang
-arani
 arap
 aras
 arasen
@@ -1889,6 +1890,7 @@ clorot
 coba
 cobak
 cobek
+coco
 cocok
 cocol
 cocot
@@ -2078,6 +2080,7 @@ delo
 dema
 demak
 demam
+demek
 demen
 demi
 demit
@@ -2331,7 +2334,6 @@ duran
 duren
 duri
 durian
-durjana
 durma
 duru
 durung
@@ -2667,7 +2669,6 @@ endase
 endasmu
 endek
 endel
-endeng
 endhog
 endhok
 endi
@@ -3146,7 +3147,6 @@ ganti
 gantian
 gantol
 gantolan
-gantos
 gantung
 gantunga
 gantungan
@@ -3462,6 +3462,7 @@ giring
 girisa
 gisa
 gita
+gitaa
 gitae
 gitar
 giwang
@@ -3581,7 +3582,6 @@ gulane
 gulang
 gule
 gulek
-gulem
 guleng
 guli
 gulii
@@ -4875,7 +4875,6 @@ kalor
 kalori
 kaluhur
 kalung
-kalut
 kam
 kama
 kamae
@@ -5095,6 +5094,7 @@ kawin
 kawit
 kawitan
 kawok
+kawor
 kawruh
 kawruhan
 kawula
@@ -5288,7 +5288,6 @@ kepriwe
 kepriye
 kepruk
 kepur
-kepurun
 ker
 kera
 kerah
@@ -5518,7 +5517,6 @@ komik
 komodo
 kompak
 kompas
-komplit
 kompor
 kon
 kona
@@ -6576,6 +6574,7 @@ mesem
 meski
 meso
 mesu
+mesuk
 mesum
 met
 meta
@@ -7453,6 +7452,7 @@ ngatau
 ngatel
 ngatemi
 ngaterna
+ngatheli
 ngati
 ngatok
 ngaton
@@ -9683,7 +9683,6 @@ reng
 renges
 rengginang
 reni
-renjang
 reno
 renta
 reo
@@ -11530,6 +11529,7 @@ umpamane
 umpami
 umpan
 umpet
+umpil
 umpit
 umpo
 umra
@@ -11667,7 +11667,6 @@ urama
 uran
 urang
 urangan
-urao
 urap
 uras
 urat
@@ -11755,7 +11754,6 @@ uso
 usra
 usrek
 usri
-ust
 usta
 ustadz
 ustadzah
