@@ -68,6 +68,7 @@ adab
 adac
 adah
 adaj
+adal
 adam
 adama
 adan
@@ -4399,6 +4400,7 @@ itui
 itumu
 itung
 itungan
+itunge
 itungi
 iut
 iuta
