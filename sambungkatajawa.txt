@@ -8811,6 +8811,7 @@ pande
 pandu
 panduan
 pane
+panek
 panen
 pang
 pangan
@@ -9632,6 +9633,7 @@ renta
 reo
 reog
 rep
+repi
 repot
 republik
 rere
@@ -12085,6 +12087,7 @@ xray
 ya
 yaa
 yaampun
+yaan
 yaapa
 yadi
 yae
@@ -12092,6 +12095,7 @@ yaelah
 yah
 yaha
 yai
+yaiya
 yak
 yaka
 yakan
