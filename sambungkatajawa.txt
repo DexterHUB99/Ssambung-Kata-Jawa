@@ -2484,7 +2484,6 @@ elan
 elane
 elang
 elap
-elar
 elas
 elat
 ele
@@ -3628,6 +3627,7 @@ hajine
 hak
 haka
 hakan
+hake
 haki
 hakim
 hako
@@ -3734,6 +3734,7 @@ hasile
 hasma
 hasmi
 hasna
+haso
 hasrat
 hasta
 hasut
