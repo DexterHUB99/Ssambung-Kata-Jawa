@@ -2158,6 +2158,7 @@ diparani
 dipek
 dipi
 dipijak
+dipo
 dipon
 diposit
 dipun
@@ -6224,6 +6225,7 @@ maem
 maga
 magang
 magelang
+mager
 magis
 mah
 maha
@@ -8336,6 +8338,7 @@ obok
 obong
 obongan
 obor
+oborne
 oboti
 obral
 obrol
