@@ -2683,6 +2683,7 @@ enjing
 enjoy
 enko
 enli
+enmu
 eno
 enok
 enom
@@ -7026,6 +7027,7 @@ nela
 nelae
 nelayan
 nelen
+neles
 neli
 nelongso
 nelu
