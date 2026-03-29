@@ -5613,6 +5613,7 @@ kosi
 kosok
 kosong
 kosor
+kosot
 kost
 kot
 kota
