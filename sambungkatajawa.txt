@@ -3921,6 +3921,7 @@ iden
 ideo
 idep
 ider
+idhu
 idi
 idih
 idii
@@ -7331,6 +7332,7 @@ ngeden
 ngedol
 ngedu
 ngeeh
+ngeewe
 ngegas
 ngegawe
 ngegeh
