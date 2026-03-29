@@ -2972,6 +2972,7 @@ fafa
 faji
 fani
 fase
+figur
 firman
 fisik
 fitrah
@@ -6080,6 +6081,7 @@ lodoh
 loe
 loen
 logat
+logi
 logok
 loh
 loha
