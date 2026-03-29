@@ -2482,7 +2482,6 @@ elan
 elane
 elang
 elap
-elar
 elas
 elat
 ele
@@ -8726,6 +8725,7 @@ pancasila
 pancen
 panci
 pancing
+pancingan
 pandan
 pandang
 pandangan
