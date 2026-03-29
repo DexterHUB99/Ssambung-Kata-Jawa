@@ -6469,6 +6469,7 @@ miri
 miring
 mirip
 miris
+mirsani
 mis
 misa
 misah
