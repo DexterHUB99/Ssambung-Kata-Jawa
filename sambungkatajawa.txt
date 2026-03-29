@@ -609,7 +609,6 @@ an
 ana
 anaa
 anab
-anad
 anae
 anah
 anai
@@ -1830,6 +1829,7 @@ ciduk
 cigar
 cigor
 cigur
+cihuy
 cik
 cika
 cikal
@@ -2485,6 +2485,7 @@ elan
 elane
 elang
 elap
+elar
 elas
 elat
 ele
@@ -4324,6 +4325,7 @@ iroh
 irol
 iron
 irong
+ironi
 iros
 irot
 iru
@@ -4747,6 +4749,7 @@ kadus
 kae
 kaee
 kaei
+kaela
 kafir
 kagaka
 kagem
@@ -8742,6 +8745,7 @@ pande
 pandu
 panduan
 pane
+panemu
 panen
 pang
 pangan
