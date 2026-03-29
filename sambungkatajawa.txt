@@ -3328,6 +3328,7 @@ gilik
 giling
 gilingan
 gilir
+giliran
 gilo
 gim
 giman
