@@ -925,7 +925,6 @@ ara
 araa
 arab
 arabi
-araf
 arag
 arah
 arahan
@@ -938,7 +937,6 @@ arama
 aran
 arane
 arang
-arani
 arap
 aras
 arasen
@@ -2153,6 +2151,7 @@ dilan
 dilas
 dilat
 dilem
+dili
 dilit
 dilo
 diluk
@@ -2336,7 +2335,6 @@ duran
 duren
 duri
 durian
-durjana
 durma
 duru
 durung
@@ -2644,6 +2642,7 @@ empul
 empun
 emu
 emuh
+emuk
 emul
 emur
 emut
@@ -2672,7 +2671,6 @@ endase
 endasmu
 endek
 endel
-endeng
 endhog
 endhok
 endi
@@ -3151,7 +3149,6 @@ ganti
 gantian
 gantol
 gantolan
-gantos
 gantung
 gantunga
 gantungan
@@ -3587,7 +3584,6 @@ gulane
 gulang
 gule
 gulek
-gulem
 guleng
 guli
 gulii
@@ -4245,6 +4241,7 @@ inaa
 inah
 inai
 inak
+inaku
 inal
 inam
 inama
@@ -4881,7 +4878,6 @@ kalor
 kalori
 kaluhur
 kalung
-kalut
 kam
 kama
 kamae
@@ -5178,6 +5174,7 @@ kelalen
 kelam
 kelana
 kelangan
+kelantur
 kelap
 kelar
 kelas
@@ -5295,7 +5292,6 @@ kepriwe
 kepriye
 kepruk
 kepur
-kepurun
 ker
 kera
 kerah
@@ -5525,7 +5521,6 @@ komik
 komodo
 kompak
 kompas
-komplit
 kompor
 kon
 kona
@@ -7628,7 +7623,6 @@ ngenko
 ngenos
 ngenot
 ngentek
-ngentel
 ngenteni
 ngentil
 ngentoh
@@ -7804,7 +7798,6 @@ nginjak
 nginjek
 nginjeng
 ngino
-nginsing
 ngintal
 ngintil
 ngintip
@@ -8068,7 +8061,6 @@ nguri
 ngurip
 nguripi
 nguru
-ngurui
 ngurung
 ngurus
 ngurusi
@@ -9173,7 +9165,6 @@ pinten
 pinter
 pintu
 pinus
-pinutur
 pio
 pipe
 pipi
@@ -9696,7 +9687,6 @@ reng
 renges
 rengginang
 reni
-renjang
 reno
 renta
 reo
@@ -9887,6 +9877,7 @@ rot
 rotan
 rote
 roti
+rotii
 roto
 rowa
 rowang
@@ -10340,6 +10331,7 @@ sepadu
 sepanci
 sepat
 sepatu
+sepeda
 sepele
 sepet
 sepi
@@ -11494,6 +11486,7 @@ uler
 ulet
 uli
 ulih
+ulii
 ulik
 ulo
 uloe
@@ -11681,7 +11674,6 @@ urama
 uran
 urang
 urangan
-urao
 urap
 uras
 urat
@@ -11769,7 +11761,6 @@ uso
 usra
 usrek
 usri
-ust
 usta
 ustadz
 ustadzah
