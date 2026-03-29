@@ -10061,6 +10061,7 @@ sembrono
 sembur
 semen
 semene
+semeru
 semi
 semok
 semol
