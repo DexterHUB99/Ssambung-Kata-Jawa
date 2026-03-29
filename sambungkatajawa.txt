@@ -808,6 +808,7 @@ anta
 antah
 antam
 antang
+antap
 antar
 antara
 antareja
@@ -6132,6 +6133,7 @@ londok
 lone
 longgar
 longgor
+longok
 longor
 longsor
 loni
@@ -6297,6 +6299,7 @@ maido
 maii
 main
 mainan
+majir
 majo
 maju
 mak
@@ -11212,6 +11215,7 @@ tumpang
 tumpar
 tumpeng
 tumplek
+tumpuk
 tumpul
 tumrap
 tumut
