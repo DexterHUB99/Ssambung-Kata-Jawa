@@ -381,6 +381,7 @@ akune
 akuo
 akur
 akura
+akure
 akus
 akut
 akuwe
@@ -2606,6 +2607,7 @@ endase
 endasmu
 endek
 endel
+endhog
 endhok
 endi
 endog
@@ -10106,6 +10108,7 @@ serabi
 seragam
 seran
 serang
+seranga
 serasa
 serat
 serem
