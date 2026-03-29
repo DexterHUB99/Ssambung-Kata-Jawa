@@ -871,6 +871,7 @@ api
 apii
 apik
 apikan
+apike
 apil
 apim
 apin
