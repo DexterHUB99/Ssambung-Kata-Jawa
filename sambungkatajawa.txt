@@ -2156,6 +2156,7 @@ dodok
 dodol
 dodolan
 dodole
+dog
 dogo
 doh
 dohi
