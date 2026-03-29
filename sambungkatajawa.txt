@@ -2638,6 +2638,7 @@ emute
 emutno
 en
 ena
+enad
 enah
 enak
 enake
@@ -5169,7 +5170,6 @@ kelereng
 keles
 kelet
 keli
-kelii
 keliling
 kelin
 kelinci
@@ -6710,6 +6710,7 @@ mubal
 mubeng
 mucuk
 mudal
+mudar
 mudeng
 mudha
 mudhun
@@ -7156,7 +7157,6 @@ ngabdi
 ngaben
 ngabes
 ngabet
-ngabi
 ngablak
 ngabu
 ngabur
