@@ -11108,6 +11108,7 @@ ub
 uba
 uban
 ubang
+ubar
 ubek
 uber
 ubi
