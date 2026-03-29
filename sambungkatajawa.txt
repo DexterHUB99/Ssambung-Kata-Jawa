@@ -1758,6 +1758,7 @@ capek
 caper
 capo
 capung
+car
 cara
 cari
 carik
