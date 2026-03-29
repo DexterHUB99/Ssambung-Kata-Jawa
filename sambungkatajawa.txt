@@ -7652,6 +7652,7 @@ nggali
 nggalih
 nggambar
 nggan
+nggandeng
 ngganggu
 nggarap
 nggatel
@@ -10831,6 +10832,7 @@ tatan
 tatanan
 tatas
 tati
+tatik
 tato
 tatu
 taun
