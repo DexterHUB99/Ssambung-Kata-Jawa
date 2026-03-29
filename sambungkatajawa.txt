@@ -350,6 +350,7 @@ akoo
 akop
 akor
 akoro
+akos
 akow
 akra
 akrab
@@ -4915,6 +4916,7 @@ katui
 katuk
 katul
 katun
+katung
 katur
 katus
 katut
