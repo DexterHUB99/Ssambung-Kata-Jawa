@@ -592,7 +592,6 @@ ampil
 ampir
 ampiri
 amplas
-ampleng
 ampok
 ampu
 ampuh
@@ -808,6 +807,7 @@ anta
 antah
 antam
 antang
+antap
 antar
 antara
 antareja
@@ -1313,7 +1313,6 @@ badhe
 badog
 badok
 baduk
-badut
 bae
 bagas
 bagi
@@ -1927,7 +1926,6 @@ cuci
 cucu
 cucuk
 cucur
-cucut
 cuk
 cuka
 cuki
@@ -4940,7 +4938,6 @@ kanthil
 kanti
 kantii
 kantil
-kanto
 kantor
 kanut
 kaos
@@ -5174,7 +5171,6 @@ kelereng
 keles
 kelet
 keli
-kelii
 keliling
 kelin
 kelinci
@@ -6130,6 +6126,7 @@ londok
 lone
 longgar
 longgor
+longok
 longor
 longsor
 loni
@@ -6295,6 +6292,7 @@ maido
 maii
 main
 mainan
+majir
 majo
 maju
 mak
@@ -7161,7 +7159,6 @@ ngabdi
 ngaben
 ngabes
 ngabet
-ngabi
 ngablak
 ngabu
 ngabur
@@ -7446,7 +7443,6 @@ ngatur
 ngaturaken
 ngaturi
 ngaur
-ngaura
 ngawa
 ngawai
 ngawan
@@ -7854,7 +7850,6 @@ ngocok
 ngocot
 ngodok
 ngodong
-ngoe
 ngoh
 ngohi
 ngojah
@@ -8751,7 +8746,6 @@ pada
 padae
 padahal
 padang
-padas
 padha
 padhang
 padil
@@ -9607,7 +9601,6 @@ reged
 reget
 regi
 rehi
-reho
 rei
 rejeb
 rejek
@@ -11810,7 +11803,6 @@ utusan
 ututa
 utwa
 uud
-uv
 uw
 uwa
 uwe
