@@ -1829,7 +1829,6 @@ ciduk
 cigar
 cigor
 cigur
-cihuy
 cik
 cika
 cikal
@@ -2111,6 +2110,7 @@ diko
 dikom
 dikon
 dikot
+diku
 dila
 dilah
 dilam
@@ -4744,7 +4744,6 @@ kadus
 kae
 kaee
 kaei
-kaela
 kafir
 kagaka
 kagem
