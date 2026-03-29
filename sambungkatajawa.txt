@@ -9283,6 +9283,7 @@ rambuan
 rambut
 rambuta
 rambutan
+rambutane
 rame
 ramen
 ramene
@@ -11365,6 +11366,7 @@ untah
 untal
 untalen
 untap
+untar
 untas
 unte
 untek
