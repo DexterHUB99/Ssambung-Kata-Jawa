@@ -5292,6 +5292,7 @@ kipas
 kir
 kira
 kirab
+kirane
 kirang
 kirap
 kire
