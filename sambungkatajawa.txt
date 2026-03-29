@@ -808,7 +808,6 @@ anta
 antah
 antam
 antang
-antap
 antar
 antara
 antareja
@@ -2098,6 +2097,7 @@ der
 deras
 derek
 dereng
+deres
 dermawan
 des
 desa
@@ -2124,6 +2124,7 @@ didesa
 didi
 didik
 didin
+didit
 dido
 didu
 didulang
@@ -5195,6 +5196,7 @@ kem
 kema
 kemah
 kemaki
+kemal
 kemang
 kemangi
 kemanten
@@ -6133,7 +6135,6 @@ londok
 lone
 longgar
 longgor
-longok
 longor
 longsor
 loni
@@ -6299,7 +6300,6 @@ maido
 maii
 main
 mainan
-majir
 majo
 maju
 mak
@@ -9937,6 +9937,7 @@ rupa
 rupak
 rupamu
 rupane
+rupe
 rupo
 ruri
 ruro
@@ -11215,7 +11216,6 @@ tumpang
 tumpar
 tumpeng
 tumplek
-tumpuk
 tumpul
 tumrap
 tumut
@@ -11544,6 +11544,7 @@ undangan
 undi
 undia
 undian
+undir
 unduh
 unduk
 undung
