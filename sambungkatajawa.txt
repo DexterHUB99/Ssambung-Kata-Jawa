@@ -1677,6 +1677,7 @@ busa
 busana
 buset
 busi
+busik
 buso
 busu
 busuk
