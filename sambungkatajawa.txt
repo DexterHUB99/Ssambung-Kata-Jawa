@@ -2638,6 +2638,7 @@ emute
 emutno
 en
 ena
+enad
 enah
 enak
 enake
@@ -6709,6 +6710,7 @@ mubal
 mubeng
 mucuk
 mudal
+mudar
 mudeng
 mudha
 mudhun
@@ -7155,7 +7157,6 @@ ngabdi
 ngaben
 ngabes
 ngabet
-ngabi
 ngablak
 ngabu
 ngabur
