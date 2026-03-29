@@ -1203,6 +1203,7 @@ awakmu
 awaku
 awal
 awalan
+awam
 awamu
 awan
 awane
@@ -5085,6 +5086,7 @@ keles
 kelet
 keli
 keliling
+kelin
 kelinci
 kelindes
 kelingan
