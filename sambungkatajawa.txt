@@ -300,6 +300,7 @@ akak
 akaku
 akal
 akalan
+akali
 akam
 akan
 akang
@@ -3171,6 +3172,7 @@ gatau
 gatel
 gateli
 gathel
+gathot
 gati
 gatok
 gatol
