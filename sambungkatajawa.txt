@@ -9258,6 +9258,7 @@ pot
 poti
 potong
 powa
+powe
 poyo
 prai
 praja
