@@ -2692,6 +2692,7 @@ enjoy
 enko
 enli
 enmu
+enni
 eno
 enok
 enom
