@@ -313,7 +313,6 @@ akaw
 akay
 akbar
 ake
-akea
 akee
 akeh
 akehi
@@ -1803,6 +1802,7 @@ ceret
 cerewet
 ceri
 cerita
+ceritane
 cermin
 ces
 cetek
@@ -2409,6 +2409,7 @@ ej
 eja
 ejak
 ejek
+ejet
 eji
 ejik
 ejo
@@ -2596,6 +2597,7 @@ emuh
 emul
 emur
 emut
+emutane
 emute
 emutno
 en
@@ -2855,6 +2857,7 @@ etel
 etem
 eten
 eter
+eterne
 etes
 etet
 ethok
@@ -3223,6 +3226,7 @@ geleh
 gelek
 gelem
 geleman
+geler
 geli
 gelis
 gelo
@@ -4484,7 +4488,6 @@ jala
 jalak
 jalan
 jalanan
-jalang
 jaler
 jali
 jalii
@@ -4583,6 +4586,7 @@ jiga
 jigong
 jijih
 jijik
+jijikan
 jika
 jikuk
 jil
@@ -4767,6 +4771,7 @@ kalan
 kalangan
 kalap
 kalapa
+kalar
 kalawo
 kale
 kalebu
@@ -5038,6 +5043,7 @@ kecengklak
 kecer
 keceret
 kecoa
+kecoh
 kecolongan
 kecut
 kedadi
@@ -5983,7 +5989,6 @@ liyane
 liyo
 lo
 loa
-loan
 lob
 loba
 lobang
@@ -6674,6 +6679,7 @@ munjuk
 muntab
 muntah
 munyuk
+mup
 mur
 mura
 murah
@@ -7237,7 +7243,6 @@ ngantuk
 ngantun
 ngantung
 nganu
-nganyam
 nganyeli
 ngaos
 ngap
@@ -8438,6 +8443,7 @@ omo
 omong
 omongan
 omongane
+omonge
 ompol
 ompong
 ompreng
@@ -8660,6 +8666,7 @@ palah
 palak
 palamu
 palang
+palat
 pale
 paleh
 palem
@@ -9379,7 +9386,6 @@ rasak
 rasan
 rasane
 rase
-rasek
 rasel
 rasha
 rasi
@@ -9644,6 +9650,7 @@ roi
 rok
 roka
 rokaat
+rokan
 roket
 roki
 roko
@@ -9754,6 +9761,7 @@ run
 runan
 runcing
 runding
+rune
 rung
 rungka
 rungkad
@@ -9860,7 +9868,6 @@ sakit
 sakite
 sakkarepmu
 sakral
-saksi
 sakti
 saku
 sakura
@@ -11167,6 +11174,7 @@ ujar
 uji
 ujia
 ujian
+ujud
 ujug
 ujuk
 ujum
@@ -11333,6 +11341,7 @@ umume
 umur
 umure
 umurmu
+umurne
 un
 una
 unah
@@ -11370,7 +11379,6 @@ unggal
 unggas
 ungger
 unggul
-unggulan
 ungkal
 ungkap
 ungkapan
@@ -11426,6 +11434,7 @@ upal
 upama
 upami
 upan
+upang
 upas
 upat
 upaya
@@ -11491,7 +11500,6 @@ urra
 urta
 uru
 urua
-urui
 uruk
 uruki
 urun
