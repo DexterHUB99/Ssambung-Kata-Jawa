@@ -2867,6 +2867,7 @@ etut
 eva
 evan
 evi
+evos
 ew
 ewa
 ewah
@@ -5024,6 +5025,7 @@ kedung
 kedurung
 kedut
 keemut
+kehilangan
 kejan
 kejar
 kejem
