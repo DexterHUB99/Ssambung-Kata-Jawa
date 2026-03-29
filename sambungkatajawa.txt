@@ -8066,6 +8066,7 @@ nguri
 ngurip
 nguripi
 nguru
+ngurui
 ngurung
 ngurus
 ngurusi
