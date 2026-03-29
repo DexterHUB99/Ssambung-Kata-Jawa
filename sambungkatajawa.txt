@@ -3263,6 +3263,7 @@ genit
 genjer
 genjot
 geno
+gentar
 genteng
 genting
 gentong
