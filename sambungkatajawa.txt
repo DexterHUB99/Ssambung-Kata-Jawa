@@ -313,6 +313,7 @@ akaw
 akay
 akbar
 ake
+akea
 akee
 akeh
 akehi
@@ -3311,7 +3312,6 @@ geol
 gepeng
 gepuk
 ger
-gera
 gerah
 gerai
 gerak
@@ -3366,7 +3366,6 @@ gigit
 gigu
 gih
 giha
-gihi
 gila
 gilaa
 gilak
@@ -4491,6 +4490,7 @@ jala
 jalak
 jalan
 jalanan
+jalang
 jaler
 jali
 jalii
@@ -4818,6 +4818,7 @@ kamer
 kami
 kamia
 kamii
+kamil
 kamila
 kamilan
 kamir
@@ -5992,6 +5993,7 @@ liyane
 liyo
 lo
 loa
+loan
 lob
 loba
 lobang
@@ -6635,7 +6637,6 @@ muh
 muha
 muhun
 muji
-muk
 muka
 mukak
 mukakmu
@@ -7029,6 +7030,7 @@ nerang
 nerangke
 nerap
 neras
+nerek
 neri
 nerima
 nerimo
@@ -7110,7 +7112,6 @@ ngain
 ngaja
 ngajah
 ngajak
-ngajake
 ngajam
 ngajar
 ngajen
@@ -7249,6 +7250,7 @@ ngantuk
 ngantun
 ngantung
 nganu
+nganyam
 nganyeli
 ngaos
 ngap
@@ -9392,6 +9394,7 @@ rasak
 rasan
 rasane
 rase
+rasek
 rasel
 rasha
 rasi
@@ -9874,6 +9877,7 @@ sakit
 sakite
 sakkarepmu
 sakral
+saksi
 sakti
 saku
 sakura
@@ -11385,6 +11389,7 @@ unggal
 unggas
 ungger
 unggul
+unggulan
 ungkal
 ungkap
 ungkapan
@@ -11506,6 +11511,7 @@ urra
 urta
 uru
 urua
+urui
 uruk
 uruki
 urun
