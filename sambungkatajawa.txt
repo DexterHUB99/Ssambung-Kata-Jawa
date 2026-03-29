@@ -4576,6 +4576,7 @@ jiran
 jire
 jiri
 jirih
+jisim
 jita
 jitak
 jiwa
@@ -7244,6 +7245,7 @@ ngasta
 ngasu
 ngasuh
 ngasur
+ngasut
 ngatah
 ngatal
 ngatau
