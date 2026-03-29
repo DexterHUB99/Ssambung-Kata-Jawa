@@ -5399,6 +5399,7 @@ kora
 korak
 koran
 korban
+kore
 korea
 korek
 koreng
