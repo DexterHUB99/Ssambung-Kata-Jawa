@@ -1897,6 +1897,7 @@ cung
 cungkil
 cupu
 curi
+curug
 curut
 cuti
 dabu
@@ -6309,6 +6310,7 @@ masuk
 masyaallah
 mat
 mata
+matai
 matamu
 matane
 mate
