@@ -496,6 +496,7 @@ amane
 amang
 amao
 amar
+amaran
 amarga
 amargi
 amargo
@@ -3374,6 +3375,7 @@ ginjal
 gipang
 gir
 gira
+giran
 girang
 girap
 giren
@@ -6145,6 +6147,7 @@ mad
 mada
 madan
 madang
+madange
 madas
 madhang
 madi
