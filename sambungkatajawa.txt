@@ -1925,6 +1925,7 @@ cuci
 cucu
 cucuk
 cucur
+cucut
 cuk
 cuka
 cuki
@@ -2639,7 +2640,6 @@ emute
 emutno
 en
 ena
-enad
 enah
 enak
 enake
@@ -5171,6 +5171,7 @@ kelereng
 keles
 kelet
 keli
+kelii
 keliling
 kelin
 kelinci
@@ -6711,7 +6712,6 @@ mubal
 mubeng
 mucuk
 mudal
-mudar
 mudeng
 mudha
 mudhun
@@ -7158,6 +7158,7 @@ ngabdi
 ngaben
 ngabes
 ngabet
+ngabi
 ngablak
 ngabu
 ngabur
@@ -7849,6 +7850,7 @@ ngocok
 ngocot
 ngodok
 ngodong
+ngoe
 ngoh
 ngohi
 ngojah
@@ -9600,6 +9602,7 @@ reged
 reget
 regi
 rehi
+reho
 rei
 rejeb
 rejek
@@ -11802,6 +11805,7 @@ utusan
 ututa
 utwa
 uud
+uv
 uw
 uwa
 uwe
