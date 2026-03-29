@@ -1827,7 +1827,6 @@ ciduk
 cigar
 cigor
 cigur
-cihuy
 cik
 cika
 cikal
@@ -2482,7 +2481,6 @@ elan
 elane
 elang
 elap
-elar
 elas
 elat
 ele
@@ -3549,6 +3547,7 @@ gundah
 gundam
 gundik
 gundul
+gundulmu
 gunem
 guneman
 gung
@@ -4740,7 +4739,6 @@ kadus
 kae
 kaee
 kaei
-kaela
 kafir
 kagaka
 kagem
