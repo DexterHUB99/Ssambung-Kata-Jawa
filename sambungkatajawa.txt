@@ -384,6 +384,7 @@ akul
 akula
 akule
 akulo
+akum
 akumi
 akun
 akune
@@ -1190,6 +1191,7 @@ atun
 atuna
 atup
 atur
+atura
 aturaken
 aturan
 aturen
@@ -2522,6 +2524,7 @@ eku
 ekuh
 ekul
 ekur
+ekus
 el
 ela
 elae
@@ -11443,6 +11446,7 @@ ukarane
 ukas
 ukasa
 uke
+ukek
 ukel
 ukem
 uken
