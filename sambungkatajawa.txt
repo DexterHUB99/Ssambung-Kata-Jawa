@@ -9469,6 +9469,7 @@ ransel
 rantai
 rantang
 rante
+ranti
 ranting
 ranung
 raono
