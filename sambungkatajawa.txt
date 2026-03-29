@@ -580,6 +580,7 @@ ampelo
 amper
 ampera
 ampi
+ampil
 ampir
 ampiri
 amplas
@@ -6590,6 +6591,7 @@ motor
 mriku
 mringis
 mripat
+mripatmu
 mu
 mual
 muara
