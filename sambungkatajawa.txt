@@ -542,6 +542,7 @@ ambulan
 ambune
 ambung
 ambyar
+ambyuk
 ambyur
 ame
 ameh
@@ -934,7 +935,6 @@ arama
 aran
 arane
 arang
-arani
 arap
 aras
 arasen
@@ -1888,6 +1888,7 @@ clorot
 coba
 cobak
 cobek
+coco
 cocok
 cocol
 cocot
@@ -2077,6 +2078,7 @@ delo
 dema
 demak
 demam
+demek
 demen
 demi
 demit
@@ -2330,7 +2332,6 @@ duran
 duren
 duri
 durian
-durjana
 durma
 duru
 durung
@@ -2666,7 +2667,6 @@ endase
 endasmu
 endek
 endel
-endeng
 endhog
 endhok
 endi
@@ -3145,7 +3145,6 @@ ganti
 gantian
 gantol
 gantolan
-gantos
 gantung
 gantunga
 gantungan
@@ -5514,7 +5513,6 @@ komik
 komodo
 kompak
 kompas
-komplit
 kompor
 kon
 kona
@@ -6572,6 +6570,7 @@ mesem
 meski
 meso
 mesu
+mesuk
 mesum
 met
 meta
@@ -7449,6 +7448,7 @@ ngatau
 ngatel
 ngatemi
 ngaterna
+ngatheli
 ngati
 ngatok
 ngaton
@@ -9679,7 +9679,6 @@ reng
 renges
 rengginang
 reni
-renjang
 reno
 renta
 reo
@@ -11526,6 +11525,7 @@ umpamane
 umpami
 umpan
 umpet
+umpil
 umpit
 umpo
 umra
@@ -11663,7 +11663,6 @@ urama
 uran
 urang
 urangan
-urao
 urap
 uras
 urat
@@ -11751,7 +11750,6 @@ uso
 usra
 usrek
 usri
-ust
 usta
 ustadz
 ustadzah
