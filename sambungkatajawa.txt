@@ -1117,6 +1117,7 @@ atake
 atal
 atam
 atan
+atang
 atap
 atar
 atas
@@ -3629,6 +3630,7 @@ hahaha
 hahi
 hai
 haii
+haing
 hajar
 hajat
 haji
