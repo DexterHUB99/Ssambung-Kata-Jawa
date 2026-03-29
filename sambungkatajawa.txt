@@ -4420,6 +4420,7 @@ iya
 iyaa
 iyalah
 iyan
+iyane
 iyata
 iye
 iyes
@@ -9387,6 +9388,7 @@ rayo
 rayon
 rayu
 re
+rea
 reang
 reba
 rebah
@@ -9489,6 +9491,7 @@ retak
 retan
 reti
 rewang
+rewangi
 rewe
 rewel
 rezeki
