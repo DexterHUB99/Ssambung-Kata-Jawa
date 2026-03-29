@@ -5218,6 +5218,7 @@ kerajaan
 kerajin
 kerak
 keram
+kerama
 keramas
 keran
 kerang
@@ -7422,6 +7423,7 @@ ngeko
 ngekor
 ngekos
 ngel
+ngela
 ngeladeni
 ngelag
 ngelak
