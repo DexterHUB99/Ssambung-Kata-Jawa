@@ -10524,6 +10524,7 @@ sum
 suma
 suman
 sumbang
+sumbanga
 sumbangan
 sumbar
 sumber
