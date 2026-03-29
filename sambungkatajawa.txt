@@ -4174,6 +4174,7 @@ ilam
 ilamu
 ilan
 ilang
+ilangan
 ilange
 ilangono
 ilani
@@ -4768,6 +4769,7 @@ juang
 jubah
 juju
 jujur
+jula
 jule
 juli
 julu
@@ -7872,6 +7874,7 @@ ngisik
 ngisin
 ngising
 ngisingan
+ngisip
 ngisir
 ngisor
 ngisu
@@ -10566,6 +10569,7 @@ siti
 sitii
 sitok
 sitol
+situasi
 siwa
 siwak
 siwi
