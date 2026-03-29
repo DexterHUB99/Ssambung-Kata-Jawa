@@ -3884,6 +3884,7 @@ ibadah
 ibak
 iban
 ibarat
+ibarate
 iblis
 ibu
 ibuk
@@ -11003,6 +11004,7 @@ udelan
 udelem
 udelmu
 udeng
+udhar
 udho
 udi
 udik
