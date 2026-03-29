@@ -1003,6 +1003,7 @@ asal
 asale
 asam
 asan
+asane
 asap
 asar
 asas
