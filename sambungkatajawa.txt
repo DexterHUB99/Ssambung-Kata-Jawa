@@ -5033,6 +5033,7 @@ katane
 katar
 katarak
 kate
+katek
 katel
 kates
 kathok
@@ -9835,6 +9836,7 @@ rotan
 rote
 roti
 roto
+rowa
 rowang
 rowe
 rowi
