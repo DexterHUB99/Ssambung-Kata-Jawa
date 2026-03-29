@@ -2595,7 +2595,6 @@ emuh
 emul
 emur
 emut
-emutane
 emute
 emutno
 en
@@ -11328,7 +11327,6 @@ umume
 umur
 umure
 umurmu
-umurne
 un
 una
 unah
