@@ -1021,7 +1021,6 @@ arogan
 aroh
 arok
 arom
-aron
 arop
 aroy
 arsa
@@ -1232,7 +1231,6 @@ aturen
 atus
 atusan
 atut
-audan
 auh
 auha
 aul
@@ -2771,6 +2769,7 @@ enad
 enah
 enak
 enake
+enaki
 enakya
 enal
 enam
@@ -4441,6 +4440,7 @@ ines
 infaq
 ing
 inga
+ingak
 ingali
 ingas
 ingat
@@ -4529,6 +4529,7 @@ irama
 irang
 irara
 iras
+irasa
 irat
 irati
 irawa
@@ -4670,7 +4671,6 @@ itile
 ito
 itu
 itui
-itula
 itumu
 itung
 itungan
@@ -5581,6 +5581,7 @@ ket
 keta
 ketam
 ketan
+ketara
 ketat
 ketek
 ketel
@@ -5987,7 +5988,6 @@ labu
 labue
 labuh
 lada
-ladak
 ladi
 lading
 lado
@@ -6081,6 +6081,7 @@ langu
 lani
 lanjut
 lansia
+lanta
 lantai
 lantang
 lantas
@@ -6307,6 +6308,7 @@ linglung
 lingsir
 lini
 linja
+lino
 linta
 lintah
 lintang
@@ -6456,6 +6458,7 @@ lowo
 lowong
 lowongan
 loya
+loyi
 loyo
 lu
 luang
@@ -6473,7 +6476,6 @@ lukaa
 lukan
 luki
 lukis
-lukisan
 luku
 lulang
 lulu
@@ -6673,6 +6675,7 @@ mangku
 mangkuk
 mangling
 mangsa
+mangsi
 mangu
 mani
 mania
@@ -6718,7 +6721,6 @@ mariana
 marie
 marii
 mariki
-marinasi
 maring
 maringi
 mario
@@ -7055,7 +7057,6 @@ mula
 mulaa
 mulai
 mulak
-mulan
 mulane
 mulanee
 mulang
@@ -7274,6 +7275,7 @@ nanii
 naning
 nanja
 nano
+nanpa
 nantang
 nanti
 nanung
@@ -9502,7 +9504,6 @@ pilo
 pilok
 pilot
 pilu
-piluk
 pilum
 pilup
 pilus
@@ -9531,6 +9532,7 @@ pinta
 pinten
 pinter
 pintu
+pinuk
 pinus
 pinutur
 pio
@@ -10005,6 +10007,7 @@ redi
 rega
 regan
 regane
+rege
 reged
 reget
 regi
@@ -10345,7 +10348,6 @@ rupaa
 rupak
 rupamu
 rupane
-rupi
 rupo
 ruri
 ruro
@@ -11851,6 +11853,7 @@ ukir
 ukira
 ukiran
 ukirane
+ukire
 ukiren
 ukiro
 ukit
@@ -12457,6 +12460,7 @@ weka
 wekdal
 weke
 weki
+weko
 wektu
 wel
 wela
