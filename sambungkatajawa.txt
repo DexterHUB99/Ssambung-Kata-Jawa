@@ -3699,6 +3699,7 @@ gota
 goti
 gotong
 gotongroyong
+gowang
 gowo
 gowoe
 goyah
@@ -7825,6 +7826,7 @@ ngayah
 ngayak
 ngayal
 ngayam
+ngayang
 ngayogyakarta
 ngayomi
 ngayu
@@ -7943,6 +7945,7 @@ ngenes
 ngeng
 ngenge
 ngengek
+ngenger
 ngenget
 ngenggeh
 ngenggo
