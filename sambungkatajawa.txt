@@ -470,6 +470,7 @@ alok
 alom
 alon
 alone
+aloo
 alop
 alos
 alot
@@ -10585,6 +10586,7 @@ simi
 simo
 simoen
 simpang
+simpen
 simu
 sin
 sina
