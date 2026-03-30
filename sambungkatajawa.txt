@@ -686,6 +686,7 @@ andel
 ander
 andha
 andhap
+andheng
 andhi
 andhiko
 andhok
@@ -3075,6 +3076,7 @@ eyu
 eyup
 ez
 fafa
+faha
 faji
 fani
 fase
