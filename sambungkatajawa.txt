@@ -1342,6 +1342,7 @@ babia
 babii
 babon
 babu
+babue
 babuk
 baca
 baci
@@ -6183,6 +6184,7 @@ len
 lena
 leng
 lengah
+lengen
 lenggah
 lenggang
 lengkuas
@@ -7760,6 +7762,7 @@ ngawes
 ngawi
 ngawih
 ngawii
+ngawil
 ngawir
 ngawisi
 ngawit
@@ -8162,6 +8165,7 @@ ngngarit
 ngngaso
 ngni
 ngno
+ngnte
 ngnu
 ngobat
 ngober
@@ -10890,6 +10894,7 @@ soba
 sobat
 sobek
 soblok
+soboh
 sodara
 sodir
 sodok
