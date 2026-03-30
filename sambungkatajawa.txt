@@ -3507,6 +3507,7 @@ gentong
 genuk
 geo
 geol
+gepak
 gepeng
 gepuk
 ger
