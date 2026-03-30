@@ -6164,6 +6164,7 @@ limbuk
 limbung
 limi
 limo
+limoa
 limolas
 limpa
 limu
@@ -9595,6 +9596,7 @@ rabu
 rabuk
 rabun
 racik
+racok
 racun
 rada
 radar
