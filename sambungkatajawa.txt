@@ -10748,6 +10748,7 @@ siwo
 siwur
 siyam
 siyang
+siye
 slamet
 sleman
 slendang
@@ -12491,6 +12492,7 @@ yes
 yesa
 yesi
 yete
+yeti
 yeye
 yi
 yo
