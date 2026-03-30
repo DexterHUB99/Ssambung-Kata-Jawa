@@ -1691,6 +1691,7 @@ botol
 bowo
 boyo
 boyok
+bro
 bu
 bua
 buang
@@ -2026,6 +2027,7 @@ cung
 cungkil
 cupu
 curi
+curo
 curug
 curut
 cuti
@@ -10293,6 +10295,7 @@ ruro
 rurus
 rus
 rusa
+rusae
 rusak
 rusake
 rusaki
