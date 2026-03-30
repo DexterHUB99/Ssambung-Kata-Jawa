@@ -5084,6 +5084,7 @@ kanto
 kantor
 kanut
 kaos
+kap
 kapa
 kapak
 kapal
@@ -9199,6 +9200,7 @@ patin
 patok
 patu
 patuh
+patuk
 patun
 patung
 patut
