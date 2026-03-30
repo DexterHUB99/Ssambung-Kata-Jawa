@@ -1021,7 +1021,6 @@ arogan
 aroh
 arok
 arom
-aron
 arop
 aroy
 arsa
@@ -1232,7 +1231,6 @@ aturen
 atus
 atusan
 atut
-audan
 auh
 auha
 aul
@@ -1585,6 +1583,7 @@ bibis
 bibit
 bibu
 bici
+bidak
 bidal
 bidan
 bidu
@@ -2455,6 +2454,7 @@ duwit
 duwur
 dwi
 ealah
+eb
 eba
 ebas
 eben
@@ -3509,6 +3509,7 @@ gentong
 genuk
 geo
 geol
+gepak
 gepeng
 gepuk
 ger
@@ -3746,6 +3747,7 @@ gumun
 gun
 guna
 gunae
+gunama
 gunan
 gunane
 gundah
@@ -4666,7 +4668,6 @@ itile
 ito
 itu
 itui
-itula
 itumu
 itung
 itungan
@@ -6287,6 +6288,7 @@ lin
 lina
 linang
 lincah
+lincak
 lindes
 lindhu
 lindungi
@@ -7047,7 +7049,6 @@ mula
 mulaa
 mulai
 mulak
-mulan
 mulane
 mulanee
 mulang
@@ -9494,7 +9495,6 @@ pilo
 pilok
 pilot
 pilu
-piluk
 pilum
 pilup
 pilus
@@ -12443,6 +12443,7 @@ wegah
 weh
 wei
 wejang
+wek
 weka
 wekdal
 weke
