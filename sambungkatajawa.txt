@@ -973,7 +973,6 @@ arbi
 ardi
 are
 areg
-areh
 arek
 arel
 arem
@@ -1343,6 +1342,7 @@ babia
 babii
 babon
 babu
+babue
 babuk
 baca
 baci
@@ -1539,6 +1539,7 @@ bengok
 bengong
 beni
 benik
+benowo
 bentol
 bentrok
 beo
@@ -2509,7 +2510,6 @@ ehad
 ehag
 ehah
 ehak
-ehal
 eham
 ehan
 ehar
@@ -2686,7 +2686,6 @@ emana
 emane
 emang
 emansipasi
-emar
 emas
 emase
 emat
@@ -4400,7 +4399,6 @@ inam
 inama
 inana
 inang
-inao
 inara
 inaya
 incar
@@ -5865,7 +5863,6 @@ kulo
 kulon
 kulone
 kuloo
-kulup
 kum
 kuma
 kumaha
@@ -6188,6 +6185,7 @@ len
 lena
 leng
 lengah
+lengen
 lenggah
 lenggang
 lengkuas
@@ -6648,7 +6646,6 @@ mangu
 mani
 mania
 manik
-maninga
 manis
 manja
 manjer
@@ -7766,6 +7763,7 @@ ngawes
 ngawi
 ngawih
 ngawii
+ngawil
 ngawir
 ngawisi
 ngawit
@@ -8168,6 +8166,7 @@ ngngarit
 ngngaso
 ngni
 ngno
+ngnte
 ngnu
 ngobat
 ngober
@@ -8503,7 +8502,6 @@ niti
 nitih
 nitik
 nitip
-niwas
 niwasi
 niya
 niyat
@@ -9055,7 +9053,6 @@ osit
 osoh
 osok
 osor
-osot
 ot
 otak
 otakmu
@@ -10898,6 +10895,7 @@ soba
 sobat
 sobek
 soblok
+soboh
 sodara
 sodir
 sodok
@@ -12360,7 +12358,6 @@ was
 wasiat
 wasis
 waspada
-wat
 watak
 watek
 water
@@ -12515,6 +12512,7 @@ wiwitan
 wkwk
 wkwkwk
 wo
+woa
 woe
 woh
 woi
