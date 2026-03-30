@@ -5028,6 +5028,7 @@ kapane
 kapas
 kape
 kapel
+kapen
 kapi
 kapil
 kaping
@@ -11600,6 +11601,7 @@ ukura
 ukuran
 ukurane
 ukuren
+ukurno
 ukuro
 ukya
 ul
