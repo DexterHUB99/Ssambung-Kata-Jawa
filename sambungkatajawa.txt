@@ -710,6 +710,7 @@ angan
 angap
 angar
 angaran
+angat
 ange
 angel
 angen
@@ -5376,6 +5377,7 @@ keres
 keret
 kereta
 keri
+kerik
 keris
 kerja
 kerjo
