@@ -1292,6 +1292,7 @@ ayi
 ayia
 ayib
 ayih
+ayii
 ayik
 ayin
 ayo
@@ -1928,6 +1929,7 @@ cod
 cok
 cokan
 cokelat
+cokla
 coklat
 cokor
 cokot
