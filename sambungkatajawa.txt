@@ -1639,6 +1639,7 @@ bolog
 bolong
 bom
 bon
+bonang
 bongko
 bongkotan
 boni
@@ -2728,6 +2729,7 @@ endhog
 endhok
 endi
 endog
+endogmu
 endol
 endong
 endorse
@@ -11527,6 +11529,7 @@ udho
 udi
 udik
 udin
+uding
 udo
 udra
 udu
