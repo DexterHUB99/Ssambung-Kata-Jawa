@@ -2781,6 +2781,7 @@ ena
 enad
 enah
 enak
+enaka
 enake
 enakya
 enal
@@ -8526,6 +8527,7 @@ ninggal
 ninggali
 ningka
 ningkat
+ningko
 ningsih
 nini
 ninine
@@ -10300,6 +10302,7 @@ roso
 rosoe
 rosomu
 rot
+rota
 rotan
 rote
 roti
