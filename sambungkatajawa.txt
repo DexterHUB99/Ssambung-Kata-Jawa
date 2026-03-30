@@ -2515,6 +2515,7 @@ ehem
 ehen
 eher
 ehes
+ehet
 ehey
 ehi
 ehih
@@ -11731,6 +11732,7 @@ ujar
 uji
 ujia
 ujian
+ujii
 ujud
 ujug
 ujuk
@@ -12572,6 +12574,7 @@ yana
 yang
 yani
 yano
+yao
 yap
 yapa
 yapi
