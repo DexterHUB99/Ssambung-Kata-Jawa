@@ -2207,6 +2207,7 @@ der
 deras
 derek
 dereng
+deres
 dermawan
 des
 desa
@@ -9282,6 +9283,7 @@ panji
 panma
 panta
 pantai
+pantang
 pantas
 pantat
 pante
