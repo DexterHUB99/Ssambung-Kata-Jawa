@@ -720,6 +720,7 @@ angen
 angep
 anget
 angetan
+anggar
 anggaran
 angge
 anggep
@@ -5218,6 +5219,7 @@ keceret
 kecoa
 kecoh
 kecolongan
+kecot
 kecut
 kedadi
 kedah
