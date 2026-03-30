@@ -8787,6 +8787,7 @@ oring
 oris
 orog
 orok
+orokan
 orong
 oros
 orotan
@@ -9568,6 +9569,7 @@ rambuta
 rambutan
 rambutane
 rame
+ramee
 ramen
 ramene
 rames
