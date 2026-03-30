@@ -7533,6 +7533,7 @@ ngasih
 ngasil
 ngasin
 ngasing
+ngasir
 ngaso
 ngasoh
 ngasta
