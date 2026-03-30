@@ -3090,6 +3090,7 @@ ewih
 ewin
 ewo
 ewoh
+ewohe
 ewohne
 ewok
 ewon
