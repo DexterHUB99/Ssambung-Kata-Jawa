@@ -2233,6 +2233,7 @@ dipun
 dir
 dira
 diran
+dire
 diren
 diri
 diriku
@@ -9842,6 +9843,7 @@ rendeng
 rendi
 rene
 reng
+rengan
 renges
 rengginang
 reni
