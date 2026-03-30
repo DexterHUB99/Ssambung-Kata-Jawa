@@ -4527,6 +4527,7 @@ irama
 irang
 irara
 iras
+irasa
 irat
 irati
 irawa
@@ -9523,6 +9524,7 @@ pinta
 pinten
 pinter
 pintu
+pinuk
 pinus
 pinutur
 pio
