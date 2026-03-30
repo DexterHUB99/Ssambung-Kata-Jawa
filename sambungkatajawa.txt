@@ -1390,6 +1390,7 @@ bajul
 bak
 baka
 bakar
+bake
 bakon
 bakso
 baku
@@ -2486,6 +2487,7 @@ ede
 edi
 edo
 edos
+edoy
 edul
 edus
 eeh
