@@ -5773,6 +5773,7 @@ kori
 kos
 kosa
 kosan
+kose
 kosek
 kosekan
 koseng
@@ -6231,6 +6232,7 @@ lila
 lilas
 lile
 lili
+lilimbah
 lilimo
 lilin
 lilisung
