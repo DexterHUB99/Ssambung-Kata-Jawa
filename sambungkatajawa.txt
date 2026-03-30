@@ -2032,6 +2032,7 @@ cunduk
 cung
 cungkil
 cupu
+curhat
 curi
 curo
 curug
