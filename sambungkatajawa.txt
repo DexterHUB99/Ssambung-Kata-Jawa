@@ -4093,6 +4093,7 @@ ideki
 iden
 ideo
 idep
+idepmu
 ider
 idhu
 idi
@@ -7354,6 +7355,7 @@ ngadep
 ngadepi
 ngadi
 ngadii
+ngading
 ngadoh
 ngadok
 ngadon
