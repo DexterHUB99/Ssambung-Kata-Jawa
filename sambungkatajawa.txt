@@ -2128,6 +2128,7 @@ dedekan
 dedi
 deg
 degan
+deja
 dek
 dekan
 dekek
@@ -6806,6 +6807,7 @@ mimisan
 min
 mina
 minal
+minan
 minarak
 minat
 minder
