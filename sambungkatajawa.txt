@@ -12538,6 +12538,7 @@ yos
 yosa
 yosan
 yosi
+yota
 yoti
 yoto
 yowa
