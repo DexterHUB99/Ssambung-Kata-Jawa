@@ -92,6 +92,7 @@ adhap
 adhem
 adhep
 adhi
+adhik
 adi
 adiguna
 adigung
@@ -11762,6 +11763,7 @@ uing
 uira
 uj
 uja
+ujal
 ujam
 ujan
 ujar
