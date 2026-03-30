@@ -1657,6 +1657,7 @@ boleh
 bolo
 bolog
 bolong
+bolot
 bom
 bon
 bonang
@@ -4419,6 +4420,7 @@ inggih
 inggil
 ingi
 ingin
+ingka
 ingkang
 ingko
 ingku
@@ -5564,6 +5566,7 @@ ketus
 ketut
 kewan
 kewek
+kewer
 kewet
 ki
 kiai
