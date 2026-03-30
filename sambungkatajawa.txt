@@ -1483,6 +1483,7 @@ beca
 becak
 becek
 becik
+bedak
 bedane
 bedha
 bedo
@@ -4450,6 +4451,7 @@ ipat
 ipe
 ipek
 ipel
+ipeli
 ipen
 iper
 ipes
@@ -9444,6 +9446,7 @@ pipo
 pipu
 pir
 pira
+piran
 pirang
 pirasan
 pireng
