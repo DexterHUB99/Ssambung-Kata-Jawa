@@ -9494,6 +9494,7 @@ pilar
 pilarian
 pilat
 pile
+pileg
 pileh
 pilek
 pilem
@@ -10635,6 +10636,7 @@ sedaya
 sedeng
 sedha
 sedia
+sedos
 seduh
 see
 sega
