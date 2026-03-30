@@ -1518,6 +1518,7 @@ bengok
 bengong
 beni
 benik
+bentol
 bentrok
 beo
 ber
@@ -3173,6 +3174,7 @@ gamean
 gamel
 gamela
 gamelan
+gamelane
 gamen
 gamer
 gami
