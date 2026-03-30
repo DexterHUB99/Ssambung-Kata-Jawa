@@ -4658,6 +4658,7 @@ jalang
 jaler
 jali
 jalii
+jalu
 jaluk
 jam
 jamak
@@ -6798,6 +6799,7 @@ misuh
 misuhi
 mit
 mita
+miti
 mitoni
 miya
 mlaku
