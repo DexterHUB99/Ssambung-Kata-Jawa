@@ -6338,6 +6338,7 @@ lorek
 loreng
 lori
 loro
+loroen
 loroi
 lorone
 lorong
@@ -10488,6 +10489,7 @@ seduh
 see
 sega
 segawon
+sege
 seger
 segera
 segi
