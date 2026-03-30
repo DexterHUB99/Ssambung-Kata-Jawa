@@ -6879,6 +6879,7 @@ mundur
 mung
 munggah
 mungil
+mungki
 mungkin
 mungkur
 muni
@@ -7731,6 +7732,7 @@ ngentui
 ngentuk
 ngentut
 ngenyang
+ngenyek
 ngenyot
 ngepang
 ngepas
@@ -9383,6 +9385,7 @@ ponakan
 pondok
 pone
 poni
+poning
 pono
 ponorogo
 poo
