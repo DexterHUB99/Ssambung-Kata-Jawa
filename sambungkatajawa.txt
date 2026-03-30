@@ -1095,6 +1095,7 @@ asip
 asir
 asiri
 asis
+asiy
 asli
 aslie
 aslii
@@ -1276,6 +1277,7 @@ awir
 awis
 awit
 awo
+awoi
 awok
 awon
 awor
@@ -1340,7 +1342,6 @@ babia
 babii
 babon
 babu
-babue
 babuk
 baca
 baci
@@ -2325,6 +2326,7 @@ doh
 dohi
 dok
 dokar
+doko
 dokok
 dol
 dola
@@ -6181,7 +6183,6 @@ len
 lena
 leng
 lengah
-lengen
 lenggah
 lenggang
 lengkuas
@@ -6619,6 +6620,7 @@ mandor
 mandu
 mane
 maneh
+manen
 manes
 mang
 manga
@@ -6960,6 +6962,7 @@ mop
 mor
 mora
 moran
+moren
 mori
 moro
 mos
@@ -7757,7 +7760,6 @@ ngawes
 ngawi
 ngawih
 ngawii
-ngawil
 ngawir
 ngawisi
 ngawit
@@ -8160,7 +8162,6 @@ ngngarit
 ngngaso
 ngni
 ngno
-ngnte
 ngnu
 ngobat
 ngober
@@ -10888,7 +10889,6 @@ soba
 sobat
 sobek
 soblok
-soboh
 sodara
 sodir
 sodok
