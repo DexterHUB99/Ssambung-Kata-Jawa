@@ -1945,6 +1945,7 @@ ciu
 ciut
 ciwi
 clorot
+cob
 coba
 cobak
 cobek
@@ -11055,6 +11056,7 @@ ta
 taa
 taat
 tabah
+tabel
 tabi
 tabib
 tabir
