@@ -4406,6 +4406,7 @@ iner
 ines
 infaq
 ing
+inga
 ingali
 ingas
 ingat
@@ -8064,6 +8065,7 @@ ngipasi
 ngipet
 ngir
 ngira
+ngirah
 ngiras
 ngireng
 ngiri
