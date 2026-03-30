@@ -8166,6 +8166,7 @@ ngis
 ngisai
 ngisak
 ngisam
+ngisap
 ngisen
 ngiseng
 ngiseni
