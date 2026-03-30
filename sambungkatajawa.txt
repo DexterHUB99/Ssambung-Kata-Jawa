@@ -193,7 +193,6 @@ ahiran
 ahirane
 ahire
 ahiri
-ahirne
 ahis
 ahit
 ahiy
@@ -1229,7 +1228,6 @@ atura
 aturaken
 aturan
 aturen
-aturne
 atus
 atusan
 atut
@@ -1306,7 +1304,6 @@ ayamne
 ayan
 ayang
 ayangku
-ayangne
 ayar
 ayat
 ayay
@@ -2036,7 +2033,6 @@ cunduk
 cung
 cungkil
 cupu
-curhat
 curi
 curo
 curug
@@ -2781,7 +2777,6 @@ encer
 encik
 encok
 endah
-endahe
 endang
 endange
 endap
@@ -3095,7 +3090,6 @@ ewih
 ewin
 ewo
 ewoh
-ewohe
 ewohne
 ewok
 ewon
@@ -3117,7 +3111,6 @@ ez
 fafa
 faha
 faji
-fakta
 fani
 fase
 figur
@@ -3767,6 +3760,7 @@ gunting
 guntur
 gunung
 gununga
+guoblok
 gupak
 gupuh
 gur
@@ -4300,7 +4294,6 @@ ikur
 ikura
 ikut
 ikutan
-ikuti
 ikutne
 il
 ila
@@ -4768,7 +4761,6 @@ jamii
 jampi
 jamput
 jamu
-jamune
 jamur
 jan
 jana
@@ -5143,6 +5135,7 @@ kanggih
 kanggo
 kangkung
 kangmas
+kani
 kanjeng
 kanjut
 kanjuta
@@ -5783,7 +5776,6 @@ kopet
 kopi
 kopiah
 kopii
-kopine
 koplak
 koplo
 kopok
@@ -6029,6 +6021,7 @@ lam
 lama
 lamai
 laman
+lamaran
 lamba
 lambai
 lamban
@@ -6321,6 +6314,7 @@ lipe
 lipen
 lipet
 lipi
+lipis
 lipur
 lir
 lira
@@ -6484,6 +6478,7 @@ lumaku
 luman
 lumayan
 lumbung
+lumer
 lumi
 lumpang
 lumpat
@@ -7963,7 +7958,6 @@ ngerah
 ngerap
 ngeras
 ngerasa
-ngerasake
 ngerawat
 ngere
 ngerebus
@@ -8225,7 +8219,6 @@ ngolak
 ngoleh
 ngolek
 ngoleke
-ngoleki
 ngolet
 ngoli
 ngolik
@@ -8359,6 +8352,7 @@ ngunci
 ngundah
 ngundang
 ngunduh
+ngundur
 ngune
 ngunem
 ngung
@@ -8787,6 +8781,7 @@ obongan
 obor
 oborne
 oboti
+obrak
 obral
 obrol
 ocak
@@ -9066,7 +9061,6 @@ osaka
 osal
 osam
 osan
-osana
 osar
 osas
 osek
@@ -9631,7 +9625,6 @@ pomo
 pomu
 pon
 ponakan
-ponan
 pondok
 pone
 poni
@@ -10872,6 +10865,7 @@ sipa
 sipat
 sipi
 sipit
+sipo
 sipuk
 sir
 sira
@@ -10944,7 +10938,6 @@ soke
 soki
 sokin
 soko
-sokon
 sokor
 sol
 sola
@@ -11314,6 +11307,7 @@ taruh
 taruk
 tarung
 tas
+tasa
 tasbih
 tasi
 tasu
@@ -11637,7 +11631,6 @@ tum
 tuma
 tuman
 tumbal
-tumbar
 tumbas
 tumbu
 tumen
@@ -12093,6 +12086,7 @@ upis
 upku
 upo
 upra
+uprek
 ur
 ura
 uraa
