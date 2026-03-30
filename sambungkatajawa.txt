@@ -193,7 +193,6 @@ ahiran
 ahirane
 ahire
 ahiri
-ahirne
 ahis
 ahit
 ahiy
@@ -1229,10 +1228,10 @@ atura
 aturaken
 aturan
 aturen
-aturne
 atus
 atusan
 atut
+audan
 auh
 auha
 aul
@@ -1306,7 +1305,6 @@ ayamne
 ayan
 ayang
 ayangku
-ayangne
 ayar
 ayat
 ayay
@@ -2036,13 +2034,11 @@ cunduk
 cung
 cungkil
 cupu
-curhat
 curi
 curo
 curug
 curut
 cuti
-da
 dabu
 dada
 dadah
@@ -2782,7 +2778,6 @@ encer
 encik
 encok
 endah
-endahe
 endang
 endange
 endap
@@ -3096,7 +3091,6 @@ ewih
 ewin
 ewo
 ewoh
-ewohe
 ewohne
 ewok
 ewon
@@ -3118,7 +3112,6 @@ ez
 fafa
 faha
 faji
-fakta
 fani
 fase
 figur
@@ -4302,7 +4295,6 @@ ikur
 ikura
 ikut
 ikutan
-ikuti
 ikutne
 il
 ila
@@ -4673,6 +4665,7 @@ itile
 ito
 itu
 itui
+itula
 itumu
 itung
 itungan
@@ -4770,7 +4763,6 @@ jamii
 jampi
 jamput
 jamu
-jamune
 jamur
 jan
 jana
@@ -5786,7 +5778,6 @@ kopet
 kopi
 kopiah
 kopii
-kopine
 koplak
 koplo
 kopok
@@ -7763,7 +7754,6 @@ ngasoh
 ngasta
 ngasu
 ngasuh
-ngasun
 ngasur
 ngasut
 ngatah
@@ -7971,7 +7961,6 @@ ngerah
 ngerap
 ngeras
 ngerasa
-ngerasake
 ngerawat
 ngere
 ngerebus
@@ -8233,7 +8222,6 @@ ngolak
 ngoleh
 ngolek
 ngoleke
-ngoleki
 ngolet
 ngoli
 ngolik
@@ -9076,7 +9064,6 @@ osaka
 osal
 osam
 osan
-osana
 osar
 osas
 osek
@@ -9641,7 +9628,6 @@ pomo
 pomu
 pon
 ponakan
-ponan
 pondok
 pone
 poni
@@ -10205,7 +10191,6 @@ riyo
 ro
 roa
 rob
-roban
 robek
 robi
 roboh
@@ -10956,7 +10941,6 @@ soke
 soki
 sokin
 soko
-sokon
 sokor
 sol
 sola
@@ -11069,7 +11053,6 @@ sula
 sulah
 sulak
 sulam
-sulaman
 sulap
 sule
 sulem
@@ -11219,7 +11202,6 @@ tahlil
 tahta
 tahu
 tahun
-tahune
 tai
 taia
 taie
@@ -11652,7 +11634,6 @@ tum
 tuma
 tuman
 tumbal
-tumbar
 tumbas
 tumbu
 tumen
