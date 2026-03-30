@@ -5394,6 +5394,7 @@ kemeja
 kemem
 kemerin
 kemeruh
+kemi
 kemiri
 kemis
 kemoh
@@ -5578,6 +5579,7 @@ kidang
 kidul
 kidung
 kie
+kiee
 kijang
 kijing
 kik
@@ -8120,6 +8122,7 @@ nglampah
 nglamun
 nglangi
 nglantur
+nglatih
 nglawuhi
 nglemper
 nglim
@@ -10410,6 +10413,7 @@ same
 sami
 samin
 samo
+sampa
 sampah
 sampai
 samparan
