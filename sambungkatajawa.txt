@@ -8851,6 +8851,7 @@ osan
 osar
 osas
 osek
+osel
 osen
 oseng
 oser
@@ -11512,6 +11513,7 @@ ugas
 uger
 uget
 ugi
+ugik
 ugo
 ugu
 ugung
