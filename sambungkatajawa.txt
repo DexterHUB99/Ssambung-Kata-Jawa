@@ -5736,6 +5736,7 @@ kontolmu
 kontrol
 konyol
 kop
+kopa
 kopak
 kopan
 kopeng
@@ -11658,6 +11659,7 @@ uda
 udae
 udah
 udahan
+udak
 udakara
 udal
 udam
