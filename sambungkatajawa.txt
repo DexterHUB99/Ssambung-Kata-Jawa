@@ -2007,6 +2007,7 @@ daleme
 dali
 dalih
 dalu
+dalung
 daluo
 dama
 damai
@@ -6206,6 +6207,7 @@ lonjong
 lono
 lontar
 lonte
+lontee
 lontong
 loo
 lop
@@ -10325,6 +10327,7 @@ sejuk
 sejum
 sek
 seka
+sekali
 sekar
 seket
 seki
@@ -11224,6 +11227,7 @@ tolong
 toma
 tomat
 tombak
+tombro
 tomi
 tomo
 tompel
