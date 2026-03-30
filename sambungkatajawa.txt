@@ -1393,6 +1393,7 @@ bajul
 bak
 baka
 bakar
+bake
 bakon
 bakso
 baku
@@ -1870,6 +1871,7 @@ cari
 carik
 caruk
 catur
+cawa
 cawan
 cawet
 cawik
@@ -2488,6 +2490,7 @@ ede
 edi
 edo
 edos
+edoy
 edul
 edus
 eeh
@@ -2772,6 +2775,7 @@ enad
 enah
 enak
 enake
+enaki
 enakya
 enal
 enam
@@ -4333,6 +4337,7 @@ iler
 ilere
 ilermu
 ili
+ilian
 ilih
 ilii
 ilik
@@ -4442,6 +4447,7 @@ ines
 infaq
 ing
 inga
+ingak
 ingali
 ingas
 ingat
@@ -4530,6 +4536,7 @@ irama
 irang
 irara
 iras
+irasa
 irat
 irati
 irawa
@@ -5582,6 +5589,7 @@ ket
 keta
 ketam
 ketan
+ketara
 ketat
 ketek
 ketel
@@ -6082,6 +6090,7 @@ langu
 lani
 lanjut
 lansia
+lanta
 lantai
 lantang
 lantas
@@ -6308,6 +6317,7 @@ linglung
 lingsir
 lini
 linja
+lino
 linta
 lintah
 lintang
@@ -6457,6 +6467,7 @@ lowo
 lowong
 lowongan
 loya
+loyi
 loyo
 lu
 luang
@@ -6674,6 +6685,7 @@ mangku
 mangkuk
 mangling
 mangsa
+mangsi
 mangu
 mani
 mania
@@ -7275,6 +7287,7 @@ nanii
 naning
 nanja
 nano
+nanpa
 nantang
 nanti
 nanung
@@ -9492,6 +9505,7 @@ pilar
 pilarian
 pilat
 pile
+pileg
 pileh
 pilek
 pilem
@@ -9532,6 +9546,7 @@ pinta
 pinten
 pinter
 pintu
+pinuk
 pinus
 pinutur
 pio
@@ -9583,6 +9598,7 @@ pitulang
 pitung
 pitutur
 piuji
+piwa
 piwaris
 piwe
 piwulang
@@ -10006,6 +10022,7 @@ redi
 rega
 regan
 regane
+rege
 reged
 reget
 regi
@@ -10203,6 +10220,7 @@ riyo
 ro
 roa
 rob
+robah
 robek
 robi
 roboh
@@ -10632,6 +10650,7 @@ sedaya
 sedeng
 sedha
 sedia
+sedos
 seduh
 see
 sega
@@ -11852,6 +11871,7 @@ ukir
 ukira
 ukiran
 ukirane
+ukire
 ukiren
 ukiro
 ukit
@@ -12458,6 +12478,7 @@ weka
 wekdal
 weke
 weki
+weko
 wektu
 wel
 wela
