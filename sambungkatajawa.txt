@@ -6181,6 +6181,7 @@ len
 lena
 leng
 lengah
+lengen
 lenggah
 lenggang
 lengkuas
