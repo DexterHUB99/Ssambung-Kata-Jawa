@@ -1502,6 +1502,7 @@ beluk
 belum
 belut
 ben
+benan
 benang
 bendo
 bene
@@ -10555,6 +10556,7 @@ siao
 siap
 siapa
 siapo
+sibar
 sida
 sidang
 sidat
@@ -12198,6 +12200,7 @@ wengi
 weni
 wer
 wera
+were
 weri
 werkudara
 werna
