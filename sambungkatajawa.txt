@@ -5395,6 +5395,7 @@ kelok
 kelon
 kelor
 keluarga
+kelud
 keluh
 kelumah
 kelut
