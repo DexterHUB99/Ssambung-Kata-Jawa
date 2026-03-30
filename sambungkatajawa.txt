@@ -7267,6 +7267,7 @@ ndang
 ndas
 ndase
 ndasmu
+ndek
 ndeleng
 ndelik
 ndelok
