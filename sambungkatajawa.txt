@@ -11525,6 +11525,7 @@ token
 toki
 toko
 tokoh
+toku
 tola
 tolak
 tole
