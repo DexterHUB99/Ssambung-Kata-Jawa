@@ -2326,6 +2326,7 @@ doh
 dohi
 dok
 dokar
+doko
 dokok
 dol
 dola
