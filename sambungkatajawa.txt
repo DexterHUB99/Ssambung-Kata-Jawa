@@ -716,6 +716,7 @@ angar
 angaran
 angat
 ange
+angee
 angel
 angen
 angep
@@ -1512,6 +1513,7 @@ bemo
 ben
 benan
 benang
+benci
 bendo
 bene
 bener
@@ -3516,7 +3518,6 @@ giha
 gila
 gilaa
 gilak
-gilale
 gilane
 gilang
 gilani
@@ -5064,6 +5065,7 @@ kangkung
 kangmas
 kanjeng
 kanjut
+kanjuta
 kantang
 kanthi
 kanthil
