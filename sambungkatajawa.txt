@@ -720,6 +720,7 @@ angep
 anget
 angetan
 anggaran
+angge
 anggep
 angger
 anggo
@@ -4765,6 +4766,7 @@ jirih
 jisim
 jita
 jitak
+jiten
 jiwa
 jiwaa
 jiwae
