@@ -2828,6 +2828,7 @@ engkok
 engkol
 engkole
 engkong
+engkuk
 eni
 enih
 enik
