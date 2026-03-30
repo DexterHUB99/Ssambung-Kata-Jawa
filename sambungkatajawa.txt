@@ -1095,6 +1095,7 @@ asip
 asir
 asiri
 asis
+asiy
 asli
 aslie
 aslii
@@ -1340,7 +1341,6 @@ babia
 babii
 babon
 babu
-babue
 babuk
 baca
 baci
@@ -6181,7 +6181,6 @@ len
 lena
 leng
 lengah
-lengen
 lenggah
 lenggang
 lengkuas
@@ -7757,7 +7756,6 @@ ngawes
 ngawi
 ngawih
 ngawii
-ngawil
 ngawir
 ngawisi
 ngawit
@@ -10887,7 +10885,6 @@ soba
 sobat
 sobek
 soblok
-soboh
 sodara
 sodir
 sodok
