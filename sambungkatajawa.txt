@@ -3000,6 +3000,7 @@ ewok
 ewon
 ewong
 ewu
+ewuh
 ex
 ey
 eya
@@ -7186,6 +7187,7 @@ nelu
 neluk
 nem
 nema
+nemah
 neman
 nembak
 nembang
