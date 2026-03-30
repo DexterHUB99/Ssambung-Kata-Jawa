@@ -1624,6 +1624,7 @@ bisu
 bisue
 bisulan
 bit
+bitu
 biyen
 biyung
 blas
@@ -4320,6 +4321,7 @@ ilon
 iloo
 ilu
 ilue
+iluha
 ilui
 iluk
 ilyas
@@ -11591,6 +11593,7 @@ tut
 tuta
 tutan
 tuti
+tutug
 tutuk
 tutup
 tutur
