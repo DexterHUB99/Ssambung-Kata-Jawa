@@ -5652,6 +5652,7 @@ krambil
 kraton
 kremi
 kresna
+kretek
 krikil
 krocok
 krungu
@@ -11802,6 +11803,7 @@ uris
 urit
 uritan
 urka
+urla
 urli
 urma
 urna
@@ -12241,6 +12243,7 @@ wowi
 wowo
 woyo
 wuan
+wuda
 wudhu
 wuh
 wuhan
