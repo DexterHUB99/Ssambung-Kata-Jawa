@@ -3235,6 +3235,7 @@ garasi
 garbis
 garda
 gardu
+gare
 garem
 gareme
 garen
