@@ -8442,6 +8442,7 @@ njaluk
 njero
 njing
 njingan
+njungkel
 njupuk
 nki
 nko
@@ -8784,6 +8785,7 @@ olar
 ole
 olee
 oleh
+oleha
 oleholeh
 olek
 olem
@@ -9845,6 +9847,7 @@ ratusan
 rauh
 rauk
 raul
+raum
 raung
 raup
 rausah
