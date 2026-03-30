@@ -5750,6 +5750,7 @@ koyoke
 krama
 kramas
 krambil
+krasa
 kraton
 kremi
 kresna
@@ -7285,6 +7286,7 @@ negi
 negor
 negos
 neh
+nehi
 nek
 neka
 nekan
