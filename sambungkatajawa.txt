@@ -10813,6 +10813,7 @@ setan
 setela
 seti
 setunggal
+setyo
 sewa
 sewelas
 sewot
