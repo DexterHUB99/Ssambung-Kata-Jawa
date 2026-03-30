@@ -1696,6 +1696,7 @@ bubis
 bubu
 bubuk
 bubur
+bubut
 buda
 budak
 budal
@@ -5964,6 +5965,7 @@ lalii
 lam
 lama
 lamai
+laman
 lamba
 lambai
 lamban
