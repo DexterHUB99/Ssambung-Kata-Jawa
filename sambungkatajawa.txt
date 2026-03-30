@@ -2017,6 +2017,7 @@ cor
 corak
 coret
 coro
+cowek
 crita
 cu
 cublak
@@ -7386,6 +7387,7 @@ nduk
 ndukani
 ndulang
 ndulur
+nduwe
 ne
 nebang
 nebus
