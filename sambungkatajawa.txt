@@ -2646,6 +2646,7 @@ elap
 elas
 elat
 ele
+elef
 eleh
 elej
 elek
