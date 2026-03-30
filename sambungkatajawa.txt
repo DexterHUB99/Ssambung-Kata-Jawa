@@ -2816,6 +2816,7 @@ enuk
 enul
 enun
 enus
+enya
 enyong
 eomah
 ep
@@ -3524,6 +3525,7 @@ gilir
 giliran
 gilo
 gim
+gima
 giman
 gimbal
 gimi
