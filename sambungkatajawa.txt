@@ -9900,6 +9900,7 @@ ris
 risa
 risak
 risang
+rise
 risen
 risi
 risih
@@ -10404,6 +10405,7 @@ sembarang
 sembarangan
 sembari
 sembrono
+sembuh
 sembur
 semen
 semene
