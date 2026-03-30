@@ -8054,6 +8054,7 @@ ngiler
 ngiling
 ngilingake
 ngilo
+ngiloki
 ngilu
 ngima
 ngimam
@@ -12371,6 +12372,7 @@ weh
 wei
 wejang
 weka
+wekdal
 weke
 weki
 wektu
