@@ -1617,6 +1617,7 @@ bokong
 bol
 bola
 bolak
+bole
 boleh
 bolo
 bolog
