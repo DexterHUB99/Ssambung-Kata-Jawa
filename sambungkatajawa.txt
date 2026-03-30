@@ -1609,6 +1609,7 @@ bisu
 bisue
 bisulan
 bit
+biyen
 biyung
 blas
 blekok
@@ -9842,6 +9843,7 @@ rem
 rema
 remah
 remak
+reman
 remang
 remas
 remba
