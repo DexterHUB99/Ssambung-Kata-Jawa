@@ -610,6 +610,7 @@ ampok
 ampu
 ampuh
 ampun
+ampuni
 ampura
 ampus
 amri
