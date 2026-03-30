@@ -1507,6 +1507,7 @@ belo
 beluk
 belum
 belut
+bemo
 ben
 benan
 benang
