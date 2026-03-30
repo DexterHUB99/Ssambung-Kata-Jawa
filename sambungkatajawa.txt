@@ -2024,6 +2024,7 @@ dagelan
 daging
 dagu
 dah
+dahan
 dahar
 dahi
 daju
@@ -3518,7 +3519,6 @@ giha
 gila
 gilaa
 gilak
-gilale
 gilane
 gilang
 gilani
