@@ -4291,6 +4291,7 @@ ikur
 ikura
 ikut
 ikutan
+ikutne
 il
 ila
 ilaa
