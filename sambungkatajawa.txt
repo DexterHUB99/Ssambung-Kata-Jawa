@@ -2065,6 +2065,7 @@ data
 datan
 datu
 daun
+dava
 davi
 dawa
 dawah
