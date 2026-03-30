@@ -3089,6 +3089,7 @@ ewih
 ewin
 ewo
 ewoh
+ewohne
 ewok
 ewon
 ewong
