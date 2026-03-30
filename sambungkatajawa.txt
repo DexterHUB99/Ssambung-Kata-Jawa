@@ -1424,6 +1424,7 @@ barat
 bareng
 baret
 baris
+barito
 barong
 baru
 bas
@@ -7786,6 +7787,7 @@ ngenteni
 ngentil
 ngentoh
 ngentu
+ngentue
 ngentui
 ngentuk
 ngentut
