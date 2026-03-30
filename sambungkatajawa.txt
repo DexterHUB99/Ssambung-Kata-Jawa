@@ -3519,6 +3519,7 @@ giha
 gila
 gilaa
 gilak
+gilale
 gilane
 gilang
 gilani
@@ -4594,6 +4595,7 @@ itemi
 itik
 itil
 itila
+itile
 ito
 itu
 itui
