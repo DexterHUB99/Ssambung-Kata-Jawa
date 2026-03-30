@@ -4595,7 +4595,6 @@ itemi
 itik
 itil
 itila
-itile
 ito
 itu
 itui
@@ -11123,6 +11122,7 @@ tangan
 tangga
 tanggap
 tangguh
+tanggul
 tanggung
 tangi
 tangis
