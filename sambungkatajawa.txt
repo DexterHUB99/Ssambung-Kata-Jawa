@@ -3062,6 +3062,7 @@ foto
 ga
 gabah
 gabar
+gaber
 gabuk
 gabung
 gabus
@@ -5380,6 +5381,7 @@ kepala
 kepaten
 kepek
 kepeleset
+kepenak
 kepet
 kepie
 kepin
