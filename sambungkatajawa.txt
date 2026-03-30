@@ -5351,6 +5351,7 @@ kemoh
 kemon
 kemos
 kemot
+kempe
 kempes
 kempis
 kempit
@@ -7925,6 +7926,7 @@ nggo
 nggodek
 nggole
 nggolek
+nggoleki
 nggolet
 nggon
 nggone
