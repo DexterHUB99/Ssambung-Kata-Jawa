@@ -5858,6 +5858,7 @@ kucing
 kucir
 kuciwa
 kuda
+kudet
 kudu
 kudune
 kudus
