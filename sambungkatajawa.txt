@@ -7678,6 +7678,7 @@ ngecok
 ngedan
 ngedang
 ngedar
+ngedel
 ngeden
 ngedol
 ngedu
