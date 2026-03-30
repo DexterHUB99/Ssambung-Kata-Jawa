@@ -4678,6 +4678,7 @@ jele
 jelek
 jem
 jema
+jembar
 jembatan
 jembut
 jembutmu
@@ -7734,6 +7735,7 @@ ngeras
 ngerasa
 ngerawat
 ngere
+ngerebus
 ngerem
 ngeres
 ngerestui
