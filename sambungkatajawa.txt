@@ -5800,6 +5800,7 @@ kutang
 kutangan
 kutek
 kutha
+kuti
 kutilang
 kutu
 kutuk
@@ -6715,6 +6716,7 @@ min
 mina
 minal
 minat
+minder
 mingat
 minggat
 minggir
