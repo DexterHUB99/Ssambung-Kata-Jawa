@@ -9092,6 +9092,7 @@ pede
 pedes
 pedot
 pee
+pega
 pegawai
 pei
 pejah
@@ -9584,6 +9585,7 @@ ramen
 ramene
 rames
 rami
+ramis
 ramni
 ramo
 ramping
@@ -12441,6 +12443,7 @@ yuta
 yuti
 yuto
 yuwa
+yuya
 yuyu
 yuyun
 yuyuyu
