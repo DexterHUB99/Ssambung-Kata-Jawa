@@ -2769,6 +2769,7 @@ enad
 enah
 enak
 enake
+enaki
 enakya
 enal
 enam
@@ -10005,6 +10006,7 @@ redi
 rega
 regan
 regane
+rege
 reged
 reget
 regi
