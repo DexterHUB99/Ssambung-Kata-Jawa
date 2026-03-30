@@ -7975,6 +7975,7 @@ ngiris
 ngirit
 ngirup
 ngis
+ngisai
 ngisak
 ngisam
 ngisen
