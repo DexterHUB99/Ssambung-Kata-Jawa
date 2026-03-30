@@ -966,6 +966,7 @@ arani
 arap
 aras
 arasen
+arasmu
 aray
 arb
 arba
@@ -5882,6 +5883,7 @@ kumu
 kumuh
 kun
 kuna
+kunan
 kunang
 kunci
 kuncup
