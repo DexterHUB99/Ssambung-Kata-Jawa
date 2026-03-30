@@ -2567,6 +2567,7 @@ ehoy
 ehu
 ehul
 ehup
+ehur
 ehus
 ehut
 ehuy
@@ -7870,6 +7871,7 @@ ngeewe
 ngegas
 ngegawe
 ngegeh
+ngegem
 ngeger
 ngegunung
 ngeh
