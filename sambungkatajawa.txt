@@ -3087,6 +3087,7 @@ gakan
 gaki
 gakiso
 gakro
+gaksah
 gal
 gala
 galae
@@ -5975,6 +5976,7 @@ lawang
 lawas
 lawase
 lawe
+lawee
 lawu
 lawuh
 layah
