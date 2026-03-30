@@ -3525,6 +3525,7 @@ gimbal
 gimi
 gina
 gincu
+ginda
 ginem
 gini
 ginie
@@ -5337,6 +5338,7 @@ kemis
 kemoh
 kemon
 kemos
+kemot
 kempes
 kempis
 kempit
@@ -7660,6 +7662,7 @@ ngawur
 ngaya
 ngayah
 ngayak
+ngayal
 ngayam
 ngayogyakarta
 ngayomi
