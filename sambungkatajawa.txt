@@ -1231,6 +1231,7 @@ aturen
 atus
 atusan
 atut
+audan
 auh
 auha
 aul
@@ -3507,7 +3508,6 @@ gentong
 genuk
 geo
 geol
-gepak
 gepeng
 gepuk
 ger
@@ -4665,6 +4665,7 @@ itile
 ito
 itu
 itui
+itula
 itumu
 itung
 itungan
@@ -9491,6 +9492,7 @@ pilo
 pilok
 pilot
 pilu
+piluk
 pilum
 pilup
 pilus
