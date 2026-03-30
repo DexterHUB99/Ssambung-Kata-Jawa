@@ -4376,6 +4376,7 @@ ingatan
 inget
 inggah
 inggal
+inggi
 inggih
 inggil
 ingi
@@ -5337,6 +5338,7 @@ kembali
 kembang
 kembar
 kemben
+kembuh
 kemeja
 kemem
 kemerin
@@ -9505,6 +9507,7 @@ poti
 potong
 powa
 powe
+poya
 poyo
 prai
 praja
