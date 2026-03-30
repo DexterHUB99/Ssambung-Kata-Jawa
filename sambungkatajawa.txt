@@ -2031,6 +2031,7 @@ dalih
 dalu
 dalung
 daluo
+dam
 dama
 damai
 damar
