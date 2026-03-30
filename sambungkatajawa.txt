@@ -11500,6 +11500,7 @@ tolong
 toma
 tomat
 tombak
+tombok
 tombro
 tomi
 tomo
@@ -11630,6 +11631,7 @@ tutan
 tuti
 tutug
 tutuk
+tutuka
 tutup
 tutur
 tuwa
