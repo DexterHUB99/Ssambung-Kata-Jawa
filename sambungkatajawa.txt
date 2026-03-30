@@ -1021,6 +1021,7 @@ arogan
 aroh
 arok
 arom
+aron
 arop
 aroy
 arsa
@@ -1231,6 +1232,7 @@ aturen
 atus
 atusan
 atut
+audan
 auh
 auha
 aul
@@ -4668,6 +4670,7 @@ itile
 ito
 itu
 itui
+itula
 itumu
 itung
 itungan
@@ -7049,6 +7052,7 @@ mula
 mulaa
 mulai
 mulak
+mulan
 mulane
 mulanee
 mulang
@@ -9495,6 +9499,7 @@ pilo
 pilok
 pilot
 pilu
+piluk
 pilum
 pilup
 pilus
