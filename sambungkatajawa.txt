@@ -8329,6 +8329,7 @@ ngunung
 ngup
 ngupa
 ngupai
+ngupak
 ngupas
 ngupe
 ngupel
@@ -10279,6 +10280,7 @@ runyam
 ruo
 rup
 rupa
+rupaa
 rupak
 rupamu
 rupane
