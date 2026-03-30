@@ -3102,6 +3102,7 @@ gajie
 gak
 gaka
 gakan
+gakgelem
 gaki
 gakiso
 gakro
@@ -7892,6 +7893,7 @@ ngguyu
 ngguyur
 ngibarat
 ngibing
+ngibrit
 ngibul
 ngicip
 ngidal
@@ -11399,6 +11401,7 @@ tulis
 tulisan
 tulung
 tulungagung
+tulungana
 tulungen
 tulus
 tum
