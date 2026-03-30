@@ -7923,6 +7923,7 @@ nglamun
 nglangi
 nglantur
 nglawuhi
+nglemper
 nglim
 nglindur
 ngliwet
