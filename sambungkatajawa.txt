@@ -2919,6 +2919,7 @@ esel
 esem
 eseman
 eseme
+esemmu
 esep
 eser
 eses
@@ -9700,6 +9701,7 @@ rara
 rarambut
 raras
 raraup
+rare
 rari
 raro
 ras
