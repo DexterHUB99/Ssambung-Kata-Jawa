@@ -1424,6 +1424,7 @@ basuki
 bat
 bata
 batak
+batal
 batang
 baten
 bati
