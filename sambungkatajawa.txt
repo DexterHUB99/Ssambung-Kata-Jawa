@@ -8783,6 +8783,7 @@ nyoli
 nyolong
 nyolot
 nyong
+nyongko
 nyonya
 nyoto
 nyulik
@@ -12265,6 +12266,7 @@ utak
 utake
 utakmu
 utakno
+utalo
 utama
 utamane
 utami
