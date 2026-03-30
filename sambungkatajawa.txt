@@ -5712,6 +5712,7 @@ kompak
 kompas
 komplit
 kompor
+komputer
 kon
 kona
 konangan
@@ -6774,6 +6775,7 @@ menawi
 mencar
 mendek
 mendoan
+mendung
 mene
 menehi
 meneng
@@ -9252,6 +9254,7 @@ paso
 pasrah
 pasti
 pasu
+pasue
 pasuk
 pasukan
 pasuruhan
