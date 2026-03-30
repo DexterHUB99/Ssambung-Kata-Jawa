@@ -8899,6 +8899,7 @@ opem
 open
 openi
 oper
+operan
 opet
 opik
 opin
