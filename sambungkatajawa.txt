@@ -1531,6 +1531,7 @@ ber
 berak
 berangkat
 beras
+beres
 beri
 berok
 bersih
