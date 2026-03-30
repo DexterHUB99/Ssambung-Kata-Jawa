@@ -5930,6 +5930,7 @@ laras
 lare
 lari
 larik
+larikan
 laring
 laris
 laron
@@ -8876,6 +8877,7 @@ padil
 pados
 padu
 paduka
+padung
 padus
 paes
 pagak
