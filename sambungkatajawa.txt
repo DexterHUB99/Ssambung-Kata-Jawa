@@ -2773,6 +2773,7 @@ endung
 ene
 ened
 eneg
+eneh
 enek
 enem
 enen
@@ -3968,6 +3969,7 @@ hero
 hes
 hesa
 hesan
+hese
 hesti
 het
 hetan
@@ -4763,6 +4765,7 @@ je
 jebul
 jeha
 jejeg
+jek
 jela
 jelang
 jelas
