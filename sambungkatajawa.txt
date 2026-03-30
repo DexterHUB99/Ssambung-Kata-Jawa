@@ -452,6 +452,7 @@ aliho
 alii
 alik
 alika
+aliko
 alim
 aliman
 alime
@@ -3520,6 +3521,7 @@ getan
 getar
 gethuk
 getih
+getir
 getok
 geton
 getuk
