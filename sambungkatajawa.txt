@@ -2725,6 +2725,7 @@ enam
 enan
 enang
 enas
+encer
 encik
 encok
 endah
@@ -6668,6 +6669,7 @@ me
 medal
 medeni
 medhok
+meditasi
 mega
 megah
 meh
