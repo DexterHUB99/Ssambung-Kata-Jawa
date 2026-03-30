@@ -1174,6 +1174,7 @@ atir
 atis
 atise
 atit
+atiy
 atma
 ato
 atoh
@@ -8168,6 +8169,7 @@ ngusa
 ngusaha
 ngusap
 ngusar
+ngusek
 ngusel
 nguser
 ngusi
@@ -11607,6 +11609,7 @@ uleg
 ulek
 ulekan
 ulem
+uleman
 ulen
 uleni
 uler
