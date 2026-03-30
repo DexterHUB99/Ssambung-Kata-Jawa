@@ -5633,6 +5633,7 @@ kopak
 kopan
 kopeng
 koper
+koperasi
 kopet
 kopi
 kopiah
@@ -6729,6 +6730,7 @@ mimisan
 min
 mina
 minal
+minarak
 minat
 minder
 mingat
