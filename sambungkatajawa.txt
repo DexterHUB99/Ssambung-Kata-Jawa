@@ -7939,6 +7939,7 @@ nget
 ngeta
 ngetan
 ngetana
+ngetane
 ngete
 ngetel
 ngeten
