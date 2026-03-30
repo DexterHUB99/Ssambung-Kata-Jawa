@@ -1323,6 +1323,7 @@ babii
 babon
 babu
 baca
+baci
 bacin
 baco
 bacot
@@ -1872,6 +1873,7 @@ cewe
 cewek
 cewok
 ci
+ciba
 ciblok
 cica
 cicak
@@ -6975,6 +6977,7 @@ nah
 naha
 nahan
 nahi
+nahu
 nai
 naii
 naik
