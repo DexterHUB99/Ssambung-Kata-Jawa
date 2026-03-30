@@ -6794,6 +6794,7 @@ mayak
 mayan
 mayang
 mayat
+mayi
 mayit
 mayu
 mayun
@@ -7006,6 +7007,7 @@ momot
 mon
 mona
 mondok
+mong
 monggo
 mongo
 mongso
