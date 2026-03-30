@@ -4899,6 +4899,7 @@ jisim
 jita
 jitak
 jiten
+jiti
 jiwa
 jiwaa
 jiwae
