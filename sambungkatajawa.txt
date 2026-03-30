@@ -1021,6 +1021,7 @@ arogan
 aroh
 arok
 arom
+aron
 arop
 aroy
 arsa
@@ -1231,6 +1232,7 @@ aturen
 atus
 atusan
 atut
+audan
 auh
 auha
 aul
@@ -3507,7 +3509,6 @@ gentong
 genuk
 geo
 geol
-gepak
 gepeng
 gepuk
 ger
@@ -4665,6 +4666,7 @@ itile
 ito
 itu
 itui
+itula
 itumu
 itung
 itungan
@@ -6285,7 +6287,6 @@ lin
 lina
 linang
 lincah
-lincak
 lindes
 lindhu
 lindungi
@@ -9492,6 +9493,7 @@ pilo
 pilok
 pilot
 pilu
+piluk
 pilum
 pilup
 pilus
