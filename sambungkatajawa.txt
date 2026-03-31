@@ -4095,6 +4095,7 @@ hiri
 hiruk
 his
 hisa
+hisan
 hise
 hisi
 hitam
@@ -12164,6 +12165,7 @@ umpil
 umpit
 umpo
 umra
+umro
 umu
 umum
 umume
