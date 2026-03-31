@@ -931,6 +931,7 @@ apim
 apin
 apine
 apip
+apir
 apis
 apit
 aplikasi
