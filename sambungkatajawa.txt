@@ -10598,6 +10598,7 @@ sapeh
 sapi
 sapih
 sapii
+sapira
 sapo
 sapu
 sapun
