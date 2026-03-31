@@ -11899,6 +11899,7 @@ tunggu
 tungkak
 tuni
 tuntun
+tup
 tupa
 tupen
 tupi
