@@ -1184,6 +1184,7 @@ atek
 atem
 ateman
 aten
+atene
 atep
 ater
 ates
@@ -2716,6 +2717,7 @@ embah
 emban
 embat
 embe
+embel
 emben
 ember
 emboh
