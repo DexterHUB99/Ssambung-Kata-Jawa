@@ -4875,6 +4875,7 @@ janoko
 jantung
 jar
 jara
+jarak
 jaran
 jaranan
 jarang
