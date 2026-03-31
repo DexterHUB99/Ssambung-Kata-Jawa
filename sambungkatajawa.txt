@@ -4540,6 +4540,7 @@ ipna
 ipo
 ipola
 ipone
+iporo
 ipuk
 ipun
 ipwa
