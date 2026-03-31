@@ -8211,6 +8211,7 @@ nggoreng
 nggowo
 nggowoe
 nggoyo
+nggregesi
 ngguling
 nggulung
 nggusah
@@ -9582,6 +9583,7 @@ penting
 pentung
 penuh
 penyu
+peo
 pepak
 pepaya
 pepe
@@ -10726,7 +10728,6 @@ sangit
 sangka
 sangkuni
 sangu
-sani
 sanja
 sanjang
 santai
@@ -11272,13 +11273,11 @@ sula
 sulah
 sulak
 sulam
-sulan
 sulap
 sule
 sulem
 suli
 suling
-sulingan
 sulo
 sultan
 sulung
