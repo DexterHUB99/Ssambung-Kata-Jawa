@@ -992,6 +992,7 @@ ardi
 are
 areg
 areh
+arej
 arek
 arel
 arem
@@ -9586,6 +9587,7 @@ pen
 pena
 penak
 pendek
+pendem
 pendopo
 pener
 pengen
