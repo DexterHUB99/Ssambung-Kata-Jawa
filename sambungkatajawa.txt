@@ -5661,6 +5661,7 @@ kewet
 ki
 kiai
 kicak
+kicep
 kidal
 kidang
 kidul
@@ -12897,6 +12898,7 @@ yusa
 yusan
 yusha
 yusi
+yusna
 yuso
 yuswa
 yuswo
