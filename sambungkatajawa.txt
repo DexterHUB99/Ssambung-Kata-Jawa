@@ -6677,6 +6677,7 @@ manaa
 manah
 manak
 manas
+mancal
 mancing
 mandeg
 mandeng
@@ -10125,6 +10126,7 @@ reng
 rengan
 renges
 rengginang
+renggo
 reni
 renjang
 reno
