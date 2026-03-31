@@ -1879,7 +1879,6 @@ car
 cara
 cari
 carik
-carok
 caruk
 cas
 catur
@@ -3895,6 +3894,7 @@ hale
 hali
 halilintar
 halo
+haloo
 halus
 ham
 hama
@@ -4914,7 +4914,6 @@ jile
 jilid
 jim
 jima
-jiman
 jimat
 jimate
 jimpit
@@ -5141,6 +5140,7 @@ kambil
 kambing
 kambu
 kambuh
+kame
 kamen
 kamer
 kami
@@ -5447,7 +5447,6 @@ kelebon
 kelek
 kelem
 kelengkeng
-kelep
 kelereng
 keles
 kelet
@@ -6093,6 +6092,7 @@ lalat
 laler
 lali
 lalia
+lalie
 lalii
 lam
 lama
@@ -6383,7 +6383,6 @@ lintang
 lintas
 lintasan
 lintu
-linung
 lio
 lip
 lipa
@@ -7029,6 +7028,7 @@ mlumah
 mmati
 mmbuh
 mmelu
+mmonggo
 mo
 mobil
 moci
@@ -8670,7 +8670,6 @@ nnggih
 nni
 nnina
 nnumpak
-nnyuwun
 no
 nobat
 nodol
@@ -11350,7 +11349,6 @@ tabungan
 tabur
 tae
 taek
-tag
 tah
 tahan
 tahe
@@ -11898,6 +11896,7 @@ udan
 udanderes
 udane
 udang
+udangan
 udange
 udar
 udara
@@ -11954,7 +11953,6 @@ uing
 uira
 uj
 uja
-ujah
 ujal
 ujam
 ujan
