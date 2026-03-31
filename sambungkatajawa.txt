@@ -7808,6 +7808,7 @@ ngasar
 ngase
 ngaseh
 ngasem
+ngasep
 ngasi
 ngasih
 ngasil
