@@ -4913,6 +4913,7 @@ jile
 jilid
 jim
 jima
+jiman
 jimat
 jimate
 jimpit
@@ -5445,6 +5446,7 @@ kelebon
 kelek
 kelem
 kelengkeng
+kelep
 kelereng
 keles
 kelet
@@ -6090,7 +6092,6 @@ lalat
 laler
 lali
 lalia
-lalie
 lalii
 lam
 lama
@@ -7026,7 +7027,6 @@ mlumah
 mmati
 mmbuh
 mmelu
-mmonggo
 mo
 mobil
 moci
@@ -8668,6 +8668,7 @@ nnggih
 nni
 nnina
 nnumpak
+nnyuwun
 no
 nobat
 nodol
@@ -11347,6 +11348,7 @@ tabungan
 tabur
 tae
 taek
+tag
 tah
 tahan
 tahe
@@ -11950,6 +11952,7 @@ uing
 uira
 uj
 uja
+ujah
 ujal
 ujam
 ujan
