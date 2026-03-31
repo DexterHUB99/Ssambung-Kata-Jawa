@@ -2674,6 +2674,7 @@ elik
 elin
 eling
 elingan
+elingo
 elir
 elis
 elit
@@ -10590,6 +10591,7 @@ sangar
 sangat
 sanggul
 sangit
+sangka
 sangkuni
 sangu
 sanja
