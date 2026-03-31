@@ -4913,7 +4913,6 @@ jile
 jilid
 jim
 jima
-jiman
 jimat
 jimate
 jimpit
@@ -8667,7 +8666,6 @@ nnggih
 nni
 nnina
 nnumpak
-nnyuwun
 no
 nobat
 nodol
@@ -11347,7 +11345,6 @@ tabungan
 tabur
 tae
 taek
-tag
 tah
 tahan
 tahe
@@ -11951,7 +11948,6 @@ uing
 uira
 uj
 uja
-ujah
 ujal
 ujam
 ujan
