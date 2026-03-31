@@ -8019,6 +8019,7 @@ ngenot
 ngentek
 ngentel
 ngenteni
+ngenti
 ngentil
 ngentoh
 ngentu
