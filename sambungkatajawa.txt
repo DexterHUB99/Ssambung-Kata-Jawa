@@ -927,6 +927,7 @@ apem
 apen
 apes
 api
+apih
 apii
 apik
 apikan
@@ -10279,6 +10280,7 @@ rii
 rik
 rika
 rikala
+rikan
 rikate
 riki
 rikma
