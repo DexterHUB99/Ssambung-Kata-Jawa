@@ -2148,6 +2148,7 @@ daru
 darus
 das
 dasar
+dase
 dasi
 daster
 data
@@ -5922,6 +5923,7 @@ kukan
 kuki
 kuko
 kuku
+kukuh
 kukuli
 kukur
 kukus
@@ -8381,6 +8383,7 @@ ngoyo
 ngpel
 ngragal
 ngragas
+ngranti
 ngrasa
 ngrasuk
 ngrayu
