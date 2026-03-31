@@ -1543,6 +1543,7 @@ benan
 benang
 benci
 bendo
+bendung
 bene
 bener
 bengek
@@ -4779,6 +4780,7 @@ jali
 jalii
 jalu
 jaluk
+jalur
 jam
 jamak
 jamal
