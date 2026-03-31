@@ -5240,6 +5240,7 @@ kasan
 kasang
 kasar
 kasara
+kasat
 kase
 kasek
 kasem
