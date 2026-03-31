@@ -1437,7 +1437,6 @@ bangga
 bangke
 bangkekan
 bangkong
-bangkotan
 bangsat
 bangun
 banjar
@@ -1622,7 +1621,6 @@ bilak
 bilo
 bilu
 bima
-bimala
 bimo
 bin
 bina
@@ -1756,7 +1754,6 @@ buk
 buka
 bukak
 bukan
-buke
 buki
 bukit
 buko
@@ -5245,6 +5242,7 @@ kare
 karek
 karem
 karen
+karena
 karep
 karepe
 karepem
@@ -5488,6 +5486,7 @@ kemanuk
 kemaren
 kemari
 kemarin
+kemas
 kemayu
 kembali
 kembang
@@ -10563,7 +10562,6 @@ saiki
 saine
 saing
 sair
-saisa
 saja
 sajake
 sajem
@@ -12815,7 +12813,6 @@ yaku
 yala
 yali
 yalili
-yalo
 yam
 yama
 yamaha
