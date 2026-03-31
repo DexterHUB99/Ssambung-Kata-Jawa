@@ -2362,6 +2362,7 @@ dola
 dolan
 dolanan
 dole
+dolem
 dolo
 dom
 doman
@@ -8525,6 +8526,7 @@ ngutangan
 ngutangi
 ngutek
 nguter
+ngutik
 ngutil
 ngutowo
 ngutus
