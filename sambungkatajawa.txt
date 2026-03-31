@@ -9374,6 +9374,7 @@ pasang
 pasangan
 pasar
 pasaran
+pase
 pasek
 paser
 pasi
@@ -10809,6 +10810,7 @@ senopati
 seo
 sep
 sepadu
+sepak
 sepanci
 sepat
 sepatu
