@@ -8665,7 +8665,6 @@ nnggih
 nni
 nnina
 nnumpak
-nnyuwun
 no
 nobat
 nodol
@@ -10674,6 +10673,7 @@ sapai
 sape
 sapeh
 sapi
+sapie
 sapih
 sapii
 sapira
@@ -11341,7 +11341,6 @@ tabungan
 tabur
 tae
 taek
-tag
 tah
 tahan
 tahe
@@ -11945,7 +11944,6 @@ uing
 uira
 uj
 uja
-ujah
 ujal
 ujam
 ujan
