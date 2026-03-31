@@ -140,6 +140,7 @@ agi
 agik
 agil
 agin
+agis
 agit
 ago
 agos
@@ -5308,6 +5309,7 @@ katon
 katos
 katot
 katresnan
+katro
 katrok
 katu
 katua
@@ -12558,6 +12560,7 @@ wela
 welai
 welas
 weli
+weling
 welo
 welut
 wen
