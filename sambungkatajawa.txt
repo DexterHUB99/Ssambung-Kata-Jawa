@@ -9938,6 +9938,7 @@ pusa
 pusaka
 puser
 pusing
+put
 puta
 pute
 puti
