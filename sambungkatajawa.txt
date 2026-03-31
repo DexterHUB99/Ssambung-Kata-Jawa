@@ -4435,6 +4435,7 @@ imna
 imo
 impek
 impel
+impen
 impi
 impian
 impis
@@ -8665,7 +8666,6 @@ nnggih
 nni
 nnina
 nnumpak
-nnyuwun
 no
 nobat
 nodol
@@ -9381,6 +9381,7 @@ papan
 papari
 papat
 papi
+papo
 papu
 papua
 par
@@ -10674,6 +10675,7 @@ sapai
 sape
 sapeh
 sapi
+sapie
 sapih
 sapii
 sapira
@@ -11341,7 +11343,6 @@ tabungan
 tabur
 tae
 taek
-tag
 tah
 tahan
 tahe
@@ -11945,7 +11946,6 @@ uing
 uira
 uj
 uja
-ujah
 ujal
 ujam
 ujan
@@ -12799,6 +12799,7 @@ yam
 yama
 yamaha
 yaman
+yami
 yamna
 yan
 yana
