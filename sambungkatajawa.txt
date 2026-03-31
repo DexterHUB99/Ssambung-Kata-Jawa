@@ -4528,6 +4528,7 @@ ipak
 ipan
 ipar
 ipat
+ipaya
 ipe
 ipek
 ipel
@@ -7897,6 +7898,7 @@ ngedang
 ngedar
 ngedel
 ngeden
+ngedeni
 ngedol
 ngedu
 ngee
@@ -8175,6 +8177,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbang
 ngimbu
 ngimbuh
 ngimi
