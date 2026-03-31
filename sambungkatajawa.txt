@@ -528,6 +528,7 @@ amargo
 amarta
 amas
 amat
+amati
 amay
 amba
 ambal
@@ -6258,6 +6259,7 @@ legi
 leh
 lek
 lekas
+lekat
 leker
 lekoh
 lela
@@ -6356,6 +6358,7 @@ lim
 lima
 limaa
 limalas
+liman
 limang
 limao
 limas
