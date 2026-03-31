@@ -8124,6 +8124,7 @@ ngerusak
 nges
 ngesa
 ngesak
+ngesal
 ngeselin
 ngeseng
 ngesi
@@ -9899,6 +9900,7 @@ purek
 puri
 purna
 purnama
+purni
 purno
 purun
 pus
@@ -10368,6 +10370,7 @@ riwo
 riwut
 riya
 riyaya
+riyin
 riyo
 ro
 roa
@@ -10681,6 +10684,7 @@ samping
 sampo
 sampul
 sampun
+sampur
 samu
 samudra
 samun
