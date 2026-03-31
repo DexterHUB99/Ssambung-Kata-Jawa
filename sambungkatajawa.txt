@@ -6606,6 +6606,7 @@ madan
 madang
 madange
 madas
+madep
 madhang
 madi
 madio
@@ -7542,6 +7543,7 @@ neteh
 netek
 neteki
 netel
+netep
 netes
 netot
 netra
@@ -8179,6 +8181,7 @@ ngima
 ngimam
 ngiman
 ngimbang
+ngimbangi
 ngimbu
 ngimbuh
 ngimi
