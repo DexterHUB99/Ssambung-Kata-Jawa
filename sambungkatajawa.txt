@@ -6489,6 +6489,7 @@ luang
 luber
 lucu
 ludah
+ludar
 ludruk
 lugas
 lugu
