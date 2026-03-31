@@ -3816,6 +3816,7 @@ gusah
 gusar
 gusel
 gusi
+gusii
 gusti
 gusur
 gut
@@ -10040,6 +10041,7 @@ rawat
 rawe
 rawi
 rawit
+rawo
 rawoh
 rawon
 rawu
