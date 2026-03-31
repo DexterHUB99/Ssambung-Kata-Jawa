@@ -9174,6 +9174,7 @@ osar
 osas
 osek
 osel
+osem
 osen
 oseng
 oser
