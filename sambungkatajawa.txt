@@ -5919,6 +5919,7 @@ kuman
 kumbah
 kumbahan
 kumbang
+kumbangan
 kume
 kumel
 kumi
@@ -8928,6 +8929,7 @@ ol
 olah
 olaha
 olahan
+olahi
 olahraga
 olak
 olam
@@ -10408,6 +10410,7 @@ rusak
 rusake
 rusaki
 rusi
+rusli
 rusma
 ruso
 rusuh
