@@ -1888,6 +1888,7 @@ cecep
 cecet
 cedak
 cekatan
+cekel
 cekelan
 ceki
 cekok
