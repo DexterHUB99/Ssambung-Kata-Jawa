@@ -6139,6 +6139,7 @@ lapi
 lapis
 lapo
 lapoan
+laporan
 lapuk
 lar
 lara
