@@ -5791,6 +5791,7 @@ kontal
 kontol
 kontole
 kontolem
+kontolku
 kontolmu
 kontrol
 konyol
@@ -9924,6 +9925,7 @@ ran
 rana
 ranaa
 ranah
+ranai
 randa
 randu
 randue
