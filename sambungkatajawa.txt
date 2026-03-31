@@ -5445,6 +5445,7 @@ keli
 kelii
 keliling
 kelimis
+kelimo
 kelin
 kelinci
 kelindes
