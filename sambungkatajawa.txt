@@ -2854,6 +2854,7 @@ enok
 enom
 enome
 enong
+enor
 enra
 enri
 enta
