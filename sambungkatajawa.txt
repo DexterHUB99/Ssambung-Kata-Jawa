@@ -5078,6 +5078,7 @@ kajeng
 kaji
 kajian
 kajim
+kajin
 kajut
 kak
 kaka
@@ -10722,6 +10723,7 @@ sarem
 sareng
 sarep
 sari
+sarim
 saring
 sarip
 saripan
