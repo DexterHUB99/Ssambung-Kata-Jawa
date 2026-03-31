@@ -2812,6 +2812,7 @@ emu
 emuh
 emuk
 emul
+emun
 emur
 emut
 emutane
@@ -10988,6 +10989,7 @@ sesajen
 sesak
 sesakno
 sesama
+sesapu
 sesat
 sesek
 sesok
