@@ -1437,7 +1437,6 @@ bangga
 bangke
 bangkekan
 bangkong
-bangkotan
 bangsat
 bangun
 banjar
@@ -1622,7 +1621,6 @@ bilak
 bilo
 bilu
 bima
-bimala
 bimo
 bin
 bina
@@ -1756,7 +1754,6 @@ buk
 buka
 bukak
 bukan
-buke
 buki
 bukit
 buko
@@ -3898,6 +3895,7 @@ hale
 hali
 halilintar
 halo
+haloo
 halus
 ham
 hama
@@ -5144,6 +5142,7 @@ kambil
 kambing
 kambu
 kambuh
+kame
 kamen
 kamer
 kami
@@ -6096,6 +6095,7 @@ lalat
 laler
 lali
 lalia
+lalie
 lalii
 lam
 lama
@@ -6476,6 +6476,7 @@ lomo
 lompat
 lomu
 lon
+lona
 loncang
 loncat
 lonceng
@@ -7032,6 +7033,7 @@ mlumah
 mmati
 mmbuh
 mmelu
+mmonggo
 mo
 mobil
 moci
@@ -10558,7 +10560,6 @@ saiki
 saine
 saing
 sair
-saisa
 saja
 sajake
 sajem
@@ -11902,6 +11903,7 @@ udan
 udanderes
 udane
 udang
+udangan
 udange
 udar
 udara
@@ -11923,6 +11925,7 @@ udo
 udra
 udu
 udud
+uduh
 udui
 uduk
 udun
