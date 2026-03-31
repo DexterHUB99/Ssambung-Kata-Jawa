@@ -5253,6 +5253,7 @@ karia
 karii
 karim
 karima
+karimun
 karin
 karina
 karipa
@@ -12226,6 +12227,7 @@ untar
 untas
 unte
 untek
+untel
 untir
 untu
 untua
