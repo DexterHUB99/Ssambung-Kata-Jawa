@@ -775,6 +775,7 @@ angos
 angsa
 angsal
 angsi
+angsir
 angsle
 angso
 angsoro
