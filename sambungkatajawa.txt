@@ -3235,6 +3235,7 @@ galah
 galak
 galan
 galang
+galangan
 galau
 gale
 galeh
