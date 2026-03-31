@@ -6947,6 +6947,7 @@ melok
 melon
 melu
 mem
+mema
 memacul
 memadi
 memakai
