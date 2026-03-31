@@ -3385,6 +3385,7 @@ gasmi
 gass
 gasta
 gata
+gatak
 gatar
 gatau
 gatel
@@ -6813,6 +6814,7 @@ mata
 matai
 matamu
 matane
+matang
 mate
 matek
 maten
