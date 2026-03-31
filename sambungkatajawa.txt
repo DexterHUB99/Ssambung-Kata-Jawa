@@ -7595,6 +7595,7 @@ ngajah
 ngajak
 ngajam
 ngajar
+ngajari
 ngajen
 ngajeng
 ngajeni
@@ -8291,6 +8292,7 @@ ngolo
 ngolob
 ngoloh
 ngolok
+ngolor
 ngom
 ngoma
 ngomah
@@ -10598,6 +10600,7 @@ sang
 sanga
 sangar
 sangat
+sangga
 sanggul
 sangit
 sangka
@@ -11633,6 +11636,7 @@ toha
 toi
 toja
 tok
+tokan
 tokek
 token
 toki
