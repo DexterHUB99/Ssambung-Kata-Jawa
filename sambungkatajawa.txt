@@ -1898,6 +1898,7 @@ cekatan
 cekel
 cekelan
 ceki
+cekik
 cekok
 cekus
 cela
@@ -3327,6 +3328,7 @@ gapapa
 gapi
 gapit
 gaplek
+gapleki
 gapopo
 gapuk
 gapura
