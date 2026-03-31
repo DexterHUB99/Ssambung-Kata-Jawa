@@ -2645,6 +2645,7 @@ eki
 ekih
 ekik
 ekil
+ekim
 ekir
 ekis
 eklek
@@ -2731,6 +2732,7 @@ emaem
 emah
 emak
 emal
+emam
 eman
 emana
 emane
@@ -7409,6 +7411,7 @@ nar
 nara
 narada
 narai
+narak
 naraka
 naras
 narasi
