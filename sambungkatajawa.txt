@@ -6283,6 +6283,7 @@ kupas
 kupat
 kupe
 kupeng
+kuper
 kupi
 kuping
 kupinge
