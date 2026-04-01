@@ -10564,6 +10564,7 @@ ratih
 rating
 ratna
 ratu
+ratus
 ratusan
 rauh
 rauk
