@@ -9080,6 +9080,7 @@ obes
 obit
 oblong
 obok
+obokan
 obong
 obongan
 obor
@@ -9339,6 +9340,7 @@ oraiso
 orak
 orakan
 oraki
+orako
 oran
 orang
 orangutan
