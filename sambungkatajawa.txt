@@ -10,6 +10,7 @@ abad
 abadi
 abah
 abai
+abak
 abal
 aban
 abang
@@ -776,6 +777,7 @@ angguk
 anggur
 angin
 angine
+angita
 angka
 angkara
 angkasa
@@ -4802,7 +4804,6 @@ isam
 isami
 isan
 isana
-isane
 isao
 isap
 isapi
@@ -6029,6 +6030,7 @@ kondur
 kone
 konek
 koneng
+kongkon
 koni
 kono
 kontal
@@ -7648,6 +7650,7 @@ naruh
 nas
 nasa
 nasab
+nasak
 nasar
 nase
 nasehat
@@ -9108,7 +9111,6 @@ nusa
 nusan
 nusi
 nusul
-nusun
 nuti
 nutuk
 nutup
@@ -11055,6 +11057,7 @@ sapie
 sapih
 sapii
 sapik
+sapin
 sapira
 sapo
 sapu
@@ -11130,7 +11133,6 @@ sayaa
 sayah
 sayang
 sayekti
-sayor
 sayur
 sayuran
 sayut
