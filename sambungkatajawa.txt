@@ -2787,6 +2787,7 @@ elokan
 elom
 elon
 eloo
+elop
 elor
 elos
 elot
@@ -5546,6 +5547,7 @@ kebek
 kebo
 kebon
 kebong
+kebul
 kebun
 kebus
 kecak
@@ -6291,6 +6293,7 @@ lambung
 lame
 lamek
 lami
+lamii
 lamis
 lamon
 lamongan
@@ -12828,6 +12831,7 @@ uz
 via
 viral
 visa
+visi
 wa
 waa
 waalaikumsalam
