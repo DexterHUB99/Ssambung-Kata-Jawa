@@ -744,6 +744,7 @@ andu
 anduk
 anduka
 andul
+andum
 andung
 andus
 ane
@@ -2320,6 +2321,7 @@ dengki
 dengkul
 dengkulmu
 dening
+deno
 depa
 depak
 depi
@@ -7312,6 +7314,7 @@ mio
 mir
 mira
 mirah
+mireng
 mirengake
 miri
 miring
@@ -12638,6 +12641,7 @@ ume
 umi
 umii
 uming
+umku
 umma
 ummi
 umo
