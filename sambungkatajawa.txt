@@ -974,7 +974,6 @@ arahane
 arai
 arak
 arakan
-aral
 aram
 arama
 aran
@@ -4143,6 +4142,7 @@ hoha
 hohi
 hoho
 hoi
+hoka
 hoki
 hoko
 hola
@@ -7931,7 +7931,6 @@ ngaton
 ngatos
 ngatu
 ngatuk
-ngatung
 ngatur
 ngaturaken
 ngaturi
@@ -9558,7 +9557,6 @@ pedah
 pedang
 pede
 pedes
-pedhot
 pedot
 pee
 pega
