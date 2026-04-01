@@ -3153,6 +3153,7 @@ eta
 etaa
 etah
 etak
+etal
 etam
 etan
 etane
@@ -5662,6 +5663,7 @@ kempis
 kempit
 kempol
 kemproh
+kempul
 kemul
 kemuning
 kemut
