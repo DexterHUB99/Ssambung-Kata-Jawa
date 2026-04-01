@@ -975,7 +975,6 @@ arahane
 arai
 arak
 arakan
-aral
 aram
 arama
 aran
@@ -7934,7 +7933,6 @@ ngaton
 ngatos
 ngatu
 ngatuk
-ngatung
 ngatur
 ngaturaken
 ngaturi
@@ -9522,7 +9520,6 @@ pasuk
 pasukan
 pasuruhan
 pat
-patak
 patang
 patek
 paten
@@ -9562,7 +9559,6 @@ pedah
 pedang
 pede
 pedes
-pedhot
 pedot
 pee
 pega
