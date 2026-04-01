@@ -5587,6 +5587,7 @@ kejer
 kejut
 kek
 kekal
+kekan
 kekarep
 keke
 kekek
@@ -7316,6 +7317,7 @@ mu
 mual
 muara
 muatan
+mubah
 mubal
 mubeng
 mucuk
