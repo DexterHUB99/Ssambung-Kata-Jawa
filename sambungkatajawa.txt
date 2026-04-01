@@ -621,6 +621,7 @@ ampan
 ampar
 ampas
 ampat
+ampe
 ampean
 ampek
 ampel
