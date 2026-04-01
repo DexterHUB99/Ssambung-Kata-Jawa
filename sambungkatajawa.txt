@@ -10581,6 +10581,7 @@ rune
 rung
 rungka
 rungkad
+rungkut
 rungsing
 rungu
 runi
