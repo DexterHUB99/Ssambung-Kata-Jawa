@@ -1956,6 +1956,7 @@ celeng
 celengan
 celu
 celuk
+celup
 cema
 cemara
 cemen
