@@ -3889,7 +3889,6 @@ godok
 godong
 gogoh
 gogol
-gogolek
 gogrok
 gojek
 gojekan
@@ -4693,7 +4692,6 @@ impor
 impul
 impun
 impung
-imput
 imra
 imuh
 imut
@@ -4985,6 +4983,7 @@ itunge
 itungi
 iut
 iuta
+iute
 iv
 iw
 iwak
@@ -9086,7 +9085,6 @@ nit
 nita
 nitah
 nite
-niten
 niteni
 niti
 nitih
