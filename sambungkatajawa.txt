@@ -10828,6 +10828,7 @@ riku
 ril
 rila
 rile
+rileks
 rili
 rilis
 rilo
@@ -13568,6 +13569,7 @@ yoiku
 yoing
 yok
 yoka
+yoke
 yoki
 yoko
 yola
