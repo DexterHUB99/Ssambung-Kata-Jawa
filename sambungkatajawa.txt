@@ -2254,6 +2254,7 @@ deras
 derek
 dereng
 deres
+deri
 dermawan
 des
 desa
@@ -6437,6 +6438,7 @@ limbung
 limi
 limo
 limoa
+limoe
 limolas
 limpa
 limu
@@ -7581,6 +7583,7 @@ neko
 nel
 nela
 nelae
+nelas
 nelayan
 nelen
 neles
