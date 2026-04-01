@@ -2406,6 +2406,7 @@ dimari
 dimas
 dimasak
 dimna
+dimor
 din
 dina
 dinamo
@@ -12072,6 +12073,7 @@ telo
 telon
 telu
 teluk
+telung
 telur
 tem
 tema
