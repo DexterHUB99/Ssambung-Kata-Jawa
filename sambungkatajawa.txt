@@ -3183,7 +3183,6 @@ esemmu
 esep
 eser
 eses
-eset
 esi
 esih
 esik
@@ -3723,7 +3722,6 @@ geo
 geol
 gepak
 gepeng
-geprek
 gepuk
 ger
 gera
@@ -8897,7 +8895,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
