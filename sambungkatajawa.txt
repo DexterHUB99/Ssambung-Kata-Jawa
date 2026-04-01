@@ -7930,7 +7930,6 @@ ngaton
 ngatos
 ngatu
 ngatuk
-ngatung
 ngatur
 ngaturaken
 ngaturi
@@ -9557,7 +9556,6 @@ pedah
 pedang
 pede
 pedes
-pedhot
 pedot
 pee
 pega
