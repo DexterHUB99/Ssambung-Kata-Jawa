@@ -10,6 +10,7 @@ abad
 abadi
 abah
 abai
+abak
 abal
 aban
 abang
@@ -776,6 +777,7 @@ angguk
 anggur
 angin
 angine
+angita
 angka
 angkara
 angkasa
@@ -1077,6 +1079,7 @@ artos
 aru
 arub
 aruh
+arui
 aruk
 aruka
 arul
@@ -2834,6 +2837,7 @@ emat
 emba
 embae
 embah
+embahe
 emban
 embar
 embat
@@ -3289,6 +3293,7 @@ ga
 gabah
 gabar
 gaber
+gablok
 gabuk
 gabung
 gabus
@@ -4659,6 +4664,7 @@ ingat
 ingatan
 inge
 inget
+ingeti
 inggah
 inggal
 inggi
@@ -6028,6 +6034,7 @@ kondur
 kone
 konek
 koneng
+kongkon
 koni
 kono
 kontal
@@ -7647,6 +7654,7 @@ naruh
 nas
 nasa
 nasab
+nasak
 nasar
 nase
 nasehat
@@ -9714,6 +9722,7 @@ papu
 papua
 par
 para
+paraga
 parah
 parai
 parang
@@ -9853,7 +9862,6 @@ penta
 pentil
 penting
 pentung
-penu
 penuh
 penyu
 peo
@@ -11054,6 +11062,7 @@ sapie
 sapih
 sapii
 sapik
+sapin
 sapira
 sapo
 sapu
@@ -11175,7 +11184,6 @@ sekolah
 sekta
 sekti
 sekul
-sel
 sela
 selam
 selama
