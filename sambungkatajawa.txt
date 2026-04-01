@@ -6918,6 +6918,7 @@ maii
 main
 mainan
 majak
+majang
 majir
 majo
 maju
