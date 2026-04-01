@@ -5373,6 +5373,7 @@ kake
 kakehan
 kakek
 kaki
+kakii
 kakik
 kakim
 kakine
@@ -8744,6 +8745,7 @@ ngnan
 ngngarit
 ngngaso
 ngngombe
+ngngopo
 ngni
 ngno
 ngnu
