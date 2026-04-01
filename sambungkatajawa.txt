@@ -3533,6 +3533,7 @@ gemas
 gemati
 gembala
 gembel
+gembelan
 gembili
 gembira
 gemblong
@@ -6378,6 +6379,7 @@ les
 lesehan
 lestari
 lesu
+lesung
 let
 letong
 lewat
@@ -9182,6 +9184,7 @@ onda
 onde
 ondho
 ondo
+ondoe
 ondol
 ondone
 oneng
