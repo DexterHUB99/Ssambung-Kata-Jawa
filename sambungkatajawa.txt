@@ -1138,6 +1138,7 @@ asna
 aso
 asoa
 asoi
+asok
 asop
 asor
 asoy
@@ -2087,6 +2088,7 @@ cumi
 cunduk
 cung
 cungkil
+cupet
 cupu
 curi
 curo
@@ -11258,6 +11260,7 @@ sitak
 sitas
 siti
 sitii
+sito
 sitok
 sitol
 situasi
