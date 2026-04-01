@@ -2850,6 +2850,7 @@ elu
 eluh
 eluk
 elum
+elung
 elus
 em
 ema
