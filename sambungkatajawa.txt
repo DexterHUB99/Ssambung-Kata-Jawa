@@ -2965,7 +2965,6 @@ endhog
 endhok
 endi
 endie
-endii
 endog
 endogmu
 endol
@@ -4870,6 +4869,7 @@ isisis
 isiso
 isit
 iska
+isko
 isla
 islah
 islam
@@ -6012,6 +6012,7 @@ klimis
 kliwon
 klo
 klobot
+kntl
 ko
 kobis
 kobong
@@ -6129,7 +6130,6 @@ kotak
 kotang
 kotangmu
 kote
-koti
 kotor
 kotoran
 kowe
@@ -6555,7 +6555,6 @@ lengah
 lenggah
 lenggang
 lengkuas
-lengo
 lengser
 leni
 lentog
@@ -7005,7 +7004,6 @@ manak
 manas
 mancal
 mancing
-mandang
 mandeg
 mandeng
 mandhang
@@ -7804,7 +7802,6 @@ nekat
 nekate
 neke
 neken
-neki
 neko
 nel
 nela
@@ -8611,7 +8608,6 @@ ngising
 ngisingan
 ngisip
 ngisir
-ngisis
 ngisor
 ngisu
 ngisuh
@@ -9468,7 +9464,6 @@ ongkos
 ongol
 online
 ono
-onoa
 onoe
 onoi
 onono
@@ -9881,6 +9876,7 @@ pedot
 pee
 pega
 pegawai
+pegel
 pei
 pejah
 peju
@@ -13110,7 +13106,6 @@ wedangen
 wedhang
 wedhus
 wedi
-wedie
 weding
 wedo
 wedok
