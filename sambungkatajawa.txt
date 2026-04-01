@@ -1809,6 +1809,7 @@ budaya
 bude
 budeg
 budek
+buder
 budhal
 budhe
 budi
@@ -11630,6 +11631,7 @@ sole
 solek
 soli
 solid
+solik
 solit
 solo
 soloo
