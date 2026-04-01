@@ -1587,7 +1587,6 @@ bekong
 bekti
 bel
 bela
-belah
 belajar
 belan
 belang
@@ -2966,7 +2965,6 @@ endhog
 endhok
 endi
 endie
-endii
 endog
 endogmu
 endol
@@ -4356,7 +4354,6 @@ humi
 humor
 hun
 huna
-hunan
 huni
 hup
 hupi
@@ -4872,6 +4869,7 @@ isisis
 isiso
 isit
 iska
+isko
 isla
 islah
 islam
@@ -6014,6 +6012,7 @@ klimis
 kliwon
 klo
 klobot
+kntl
 ko
 kobis
 kobong
@@ -6131,7 +6130,6 @@ kotak
 kotang
 kotangmu
 kote
-koti
 kotor
 kotoran
 kowe
@@ -6557,7 +6555,6 @@ lengah
 lenggah
 lenggang
 lengkuas
-lengo
 lengser
 leni
 lentog
@@ -7007,7 +7004,6 @@ manak
 manas
 mancal
 mancing
-mandang
 mandeg
 mandeng
 mandhang
@@ -7806,7 +7802,6 @@ nekat
 nekate
 neke
 neken
-neki
 neko
 nel
 nela
@@ -8251,7 +8246,6 @@ ngebas
 ngebet
 ngeblok
 ngebo
-ngebon
 ngecat
 ngece
 ngecek
@@ -8521,6 +8515,7 @@ ngibing
 ngibrit
 ngibul
 ngicip
+ngicipi
 ngidal
 ngidam
 ngidame
@@ -8614,7 +8609,6 @@ ngising
 ngisingan
 ngisip
 ngisir
-ngisis
 ngisor
 ngisu
 ngisuh
@@ -8874,7 +8868,6 @@ nguripi
 nguru
 ngurui
 ngurung
-ngurupi
 ngurus
 ngurusi
 ngurut
@@ -9472,7 +9465,6 @@ ongkos
 ongol
 online
 ono
-onoa
 onoe
 onoi
 onono
@@ -9885,6 +9877,7 @@ pedot
 pee
 pega
 pegawai
+pegel
 pei
 pejah
 peju
@@ -10771,7 +10764,6 @@ ro
 roa
 rob
 robah
-roban
 robek
 robi
 roboh
@@ -11017,6 +11009,7 @@ sakim
 sakin
 saking
 sakir
+sakira
 sakit
 sakite
 sakkarepmu
@@ -13082,6 +13075,7 @@ waspada
 wat
 watak
 watek
+waten
 water
 wates
 wati
@@ -13115,7 +13109,6 @@ wedangen
 wedhang
 wedhus
 wedi
-wedie
 weding
 wedo
 wedok
