@@ -2840,7 +2840,6 @@ elok
 elokan
 elom
 elon
-elong
 eloo
 elop
 elor
@@ -5726,7 +5725,6 @@ keliru
 kelis
 kelok
 kelon
-kelonan
 kelor
 keluarga
 kelud
@@ -8009,6 +8007,7 @@ ngakung
 ngal
 ngala
 ngalah
+ngalai
 ngalam
 ngalamun
 ngalang
@@ -9306,6 +9305,7 @@ obake
 oban
 obat
 obaten
+obati
 obeh
 obeng
 obes
@@ -10211,7 +10211,6 @@ poloo
 polri
 pom
 poma
-pome
 pomen
 pomo
 pomu
@@ -13522,7 +13521,6 @@ yunani
 yune
 yung
 yuni
-yuno
 yuo
 yur
 yura
