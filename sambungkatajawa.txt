@@ -2851,6 +2851,7 @@ enah
 enak
 enaka
 enake
+enakno
 enakya
 enal
 enam
@@ -6452,6 +6453,7 @@ liman
 limang
 limao
 limas
+limasan
 limbah
 limbahe
 limbuk
