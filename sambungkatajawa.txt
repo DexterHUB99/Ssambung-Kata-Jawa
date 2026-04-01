@@ -6999,6 +6999,7 @@ manak
 manas
 mancal
 mancing
+mandang
 mandeg
 mandeng
 mandhang
@@ -9456,6 +9457,7 @@ ongkos
 ongol
 online
 ono
+onoa
 onoe
 onoi
 onono
@@ -13095,6 +13097,7 @@ wedangen
 wedhang
 wedhus
 wedi
+wedie
 weding
 wedo
 wedok
