@@ -2721,6 +2721,7 @@ ekok
 ekol
 ekom
 ekon
+ekop
 ekor
 ekore
 ekos
