@@ -5985,6 +5985,7 @@ korek
 koreng
 korengan
 kori
+korok
 kos
 kosa
 kosan
