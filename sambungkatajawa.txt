@@ -3309,6 +3309,7 @@ ewer
 ewes
 ewi
 ewih
+ewik
 ewin
 ewo
 ewoh
@@ -5266,6 +5267,7 @@ jumeneng
 jumi
 jumpa
 jumput
+jumputan
 jungkat
 jungkel
 jungkir
