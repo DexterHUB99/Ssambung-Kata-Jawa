@@ -1671,6 +1671,7 @@ bisu
 bisue
 bisulan
 bit
+bito
 bitu
 biyen
 biyung
@@ -5073,6 +5074,7 @@ jualan
 juanda
 juang
 jubah
+judek
 juju
 jujur
 jula
@@ -9326,6 +9328,7 @@ orok
 orokan
 orong
 oros
+orot
 orotan
 oruk
 os
@@ -9364,6 +9367,7 @@ otom
 otoman
 otot
 otote
+ov
 ow
 owah
 owak
