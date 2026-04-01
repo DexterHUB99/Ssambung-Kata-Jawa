@@ -1135,6 +1135,7 @@ asik
 asil
 asim
 asin
+asinan
 asing
 asip
 asir
@@ -6200,6 +6201,7 @@ kupe
 kupeng
 kupi
 kuping
+kupinge
 kupluk
 kupu
 kur
@@ -6873,6 +6875,7 @@ magang
 magelang
 mager
 magis
+magrib
 mah
 maha
 mahal
@@ -9717,6 +9720,7 @@ parem
 pareng
 pari
 parii
+parikan
 paring
 paringan
 paringi
@@ -10906,6 +10910,7 @@ sai
 saia
 saii
 saiki
+saikii
 saine
 saing
 sair
