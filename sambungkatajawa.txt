@@ -10530,6 +10530,7 @@ ripi
 ripna
 rira
 riri
+riribut
 riro
 ris
 risa
