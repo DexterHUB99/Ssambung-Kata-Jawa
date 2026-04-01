@@ -5206,6 +5206,7 @@ jule
 juli
 julu
 jum
+juma
 jumat
 jumbo
 jumeneng
@@ -7126,6 +7127,7 @@ maturnuwun
 matursuwun
 mau
 maui
+mawa
 mawar
 mawon
 maya
@@ -7791,6 +7793,7 @@ nekani
 nekar
 nekat
 nekate
+neke
 neken
 neko
 nel
