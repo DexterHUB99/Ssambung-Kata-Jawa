@@ -2870,6 +2870,7 @@ emoh
 emohe
 emok
 emol
+emon
 emong
 emos
 emot
@@ -3417,6 +3418,7 @@ ganco
 gancuk
 ganda
 gandeng
+gandengan
 gandhes
 gandhul
 gandok
