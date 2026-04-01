@@ -1853,6 +1853,7 @@ butoh
 butu
 butuh
 buwang
+buyar
 buyu
 buyut
 ca
@@ -11680,6 +11681,7 @@ tales
 tali
 talie
 talii
+talita
 talo
 tam
 tama
