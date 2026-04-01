@@ -1729,6 +1729,7 @@ bocor
 bodo
 bodoh
 bodoni
+bogor
 bojo
 bojok
 bok
