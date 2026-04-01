@@ -5174,6 +5174,7 @@ jeno
 jera
 jerami
 jerat
+jere
 jerih
 jero
 jeroan
