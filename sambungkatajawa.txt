@@ -1239,6 +1239,7 @@ atay
 ate
 ateh
 atek
+atel
 atem
 ateman
 aten
@@ -4557,6 +4558,7 @@ ilaa
 ilae
 ilag
 ilah
+ilaha
 ilahi
 ilai
 ilak
@@ -9114,6 +9116,7 @@ nsuri
 ntah
 nu
 nua
+nuak
 nuana
 nubruk
 nuding
@@ -10757,6 +10760,7 @@ riro
 ris
 risa
 risak
+risan
 risang
 rise
 risen
