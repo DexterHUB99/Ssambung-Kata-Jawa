@@ -2963,6 +2963,7 @@ endhog
 endhok
 endi
 endie
+endii
 endog
 endogmu
 endol
@@ -6999,6 +7000,7 @@ manak
 manas
 mancal
 mancing
+mandang
 mandeg
 mandeng
 mandhang
@@ -8890,7 +8892,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -9457,6 +9458,7 @@ ongkos
 ongol
 online
 ono
+onoa
 onoe
 onoi
 onono
@@ -13096,6 +13098,7 @@ wedangen
 wedhang
 wedhus
 wedi
+wedie
 weding
 wedo
 wedok
