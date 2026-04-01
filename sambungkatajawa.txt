@@ -9196,6 +9196,7 @@ num
 numa
 numan
 numbal
+numbar
 numbas
 numbuk
 numen
