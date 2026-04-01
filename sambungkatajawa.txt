@@ -3757,6 +3757,7 @@ genjot
 geno
 gentar
 genteng
+genter
 genti
 genting
 gentong
@@ -11583,6 +11584,7 @@ simu
 sin
 sina
 sinare
+sinata
 sinau
 sinden
 sing
