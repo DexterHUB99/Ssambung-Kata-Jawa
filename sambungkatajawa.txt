@@ -2809,6 +2809,7 @@ elik
 elin
 eling
 elingan
+elingno
 elingo
 elir
 elis
@@ -6083,6 +6084,7 @@ kopet
 kopi
 kopiah
 kopii
+kopine
 koplak
 koplo
 kopok
