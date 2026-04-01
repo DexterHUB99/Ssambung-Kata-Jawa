@@ -12291,6 +12291,7 @@ uduh
 udui
 uduk
 udun
+udunan
 udunen
 udung
 udur
@@ -13335,6 +13336,7 @@ yuni
 yuo
 yur
 yura
+yuran
 yure
 yuri
 yuro
