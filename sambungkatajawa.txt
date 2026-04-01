@@ -10693,6 +10693,7 @@ sagu
 sagul
 sah
 saha
+sahi
 sahit
 sahur
 sahut
@@ -11462,6 +11463,7 @@ susol
 susu
 susuk
 susukaa
+susukamu
 susuke
 susul
 susum
