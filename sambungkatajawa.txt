@@ -1241,7 +1241,6 @@ atay
 ate
 ateh
 atek
-atel
 atem
 ateman
 aten
@@ -1620,6 +1619,7 @@ bengok
 bengong
 beni
 benik
+bening
 bentol
 bentrok
 benu
@@ -4565,7 +4565,6 @@ ilaa
 ilae
 ilag
 ilah
-ilaha
 ilahi
 ilai
 ilak
@@ -10777,7 +10776,6 @@ riro
 ris
 risa
 risak
-risan
 risang
 rise
 risen
