@@ -8438,6 +8438,7 @@ ngenos
 ngenot
 ngensing
 ngenta
+ngente
 ngentek
 ngentel
 ngenteni
