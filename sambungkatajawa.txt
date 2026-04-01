@@ -586,6 +586,7 @@ amer
 amerga
 ames
 amet
+amey
 ami
 amia
 amie
@@ -2345,6 +2346,7 @@ dilem
 dili
 dilit
 dilo
+dilok
 diluk
 dilut
 dim
