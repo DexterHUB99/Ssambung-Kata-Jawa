@@ -2981,6 +2981,7 @@ enteni
 enter
 enthog
 enthok
+enthong
 enting
 entok
 entoke
