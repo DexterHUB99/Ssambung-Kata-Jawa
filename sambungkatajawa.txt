@@ -4325,6 +4325,7 @@ hilang
 himpun
 himpunan
 hina
+hinae
 hinga
 hinggap
 hir
