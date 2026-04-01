@@ -3750,6 +3750,7 @@ geo
 geol
 gepak
 gepeng
+geprek
 gepuk
 ger
 gera
@@ -10283,6 +10284,7 @@ prai
 praja
 prawan
 prei
+pri
 pria
 prio
 pripun
