@@ -3321,6 +3321,7 @@ gampang
 gampar
 gampil
 gamping
+gampingan
 gan
 gana
 gancet
@@ -4286,6 +4287,7 @@ iduem
 idulfitri
 idumu
 iduni
+iduo
 ieu
 if
 ig
