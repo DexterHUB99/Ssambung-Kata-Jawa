@@ -7661,6 +7661,7 @@ nebang
 nebus
 neda
 nedah
+nedas
 nedha
 nedho
 nedi
@@ -12522,6 +12523,7 @@ ungkal
 ungkap
 ungkapan
 ungkar
+ungkel
 ungker
 ungkit
 ungu
