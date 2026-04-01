@@ -1618,6 +1618,7 @@ beni
 benik
 bentol
 bentrok
+benu
 beo
 ber
 berak
@@ -2277,6 +2278,7 @@ dede
 dedeg
 dedek
 dedekan
+dedemit
 dedi
 deg
 degan
@@ -6366,6 +6368,7 @@ lam
 lama
 lamai
 laman
+lamar
 lamaran
 lamba
 lambai
