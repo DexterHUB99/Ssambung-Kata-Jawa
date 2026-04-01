@@ -186,6 +186,7 @@ aher
 ahes
 ahet
 ahew
+ahey
 ahh
 ahhh
 ahi
@@ -1229,6 +1230,7 @@ atap
 atar
 atas
 atasan
+atasane
 atat
 atatap
 atater
@@ -2809,6 +2811,7 @@ elik
 elin
 eling
 elingan
+elingno
 elingo
 elir
 elis
@@ -4173,6 +4176,7 @@ hasutan
 hata
 hate
 hati
+hatii
 hatimu
 haturnuhun
 hawa
@@ -5203,6 +5207,7 @@ jule
 juli
 julu
 jum
+juma
 jumat
 jumbo
 jumeneng
@@ -5696,6 +5701,7 @@ kelor
 keluarga
 kelud
 keluh
+keluhan
 kelumah
 kelut
 keluwe
@@ -6083,6 +6089,7 @@ kopet
 kopi
 kopiah
 kopii
+kopine
 koplak
 koplo
 kopok
@@ -7024,6 +7031,7 @@ mangsane
 mangu
 mani
 mania
+manie
 manik
 maning
 maninga
@@ -7120,6 +7128,7 @@ maturnuwun
 matursuwun
 mau
 maui
+mawa
 mawar
 mawon
 maya
@@ -7283,6 +7292,7 @@ mio
 mir
 mira
 mirah
+mirengake
 miri
 miring
 mirip
@@ -7784,6 +7794,7 @@ nekani
 nekar
 nekat
 nekate
+neke
 neken
 neko
 nel
@@ -9875,6 +9886,7 @@ peleh
 pelem
 peler
 peli
+pelie
 pelii
 peling
 pelit
@@ -10243,6 +10255,7 @@ pupuh
 pupuk
 pupus
 puput
+puputan
 pur
 pura
 purek
@@ -10870,6 +10883,7 @@ runcing
 runding
 rune
 rung
+rungi
 rungka
 rungkad
 rungkut
@@ -12588,6 +12602,7 @@ umbi
 umbul
 ume
 umi
+umii
 uming
 umma
 ummi
@@ -12751,6 +12766,7 @@ urang
 urangan
 urao
 urap
+urapan
 uras
 urat
 ure
