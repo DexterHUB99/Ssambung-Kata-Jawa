@@ -1815,6 +1815,7 @@ buntung
 buntut
 bunuh
 bup
+bupati
 bur
 burek
 buri
@@ -12729,6 +12730,7 @@ waktu
 waku
 wakul
 wala
+walaa
 walah
 walak
 walang
