@@ -2379,7 +2379,6 @@ dili
 dilit
 dilo
 dilok
-dilor
 diluk
 dilut
 dim
@@ -2630,7 +2629,6 @@ ede
 edi
 edo
 edog
-edok
 edos
 edul
 edus
@@ -7612,7 +7610,6 @@ name
 namen
 nami
 namine
-namo
 nampa
 nampak
 nampan
@@ -8893,6 +8890,7 @@ ngutil
 ngutowo
 ngutus
 nguwi
+nguyah
 nguyu
 nguyuh
 nguyuhi
