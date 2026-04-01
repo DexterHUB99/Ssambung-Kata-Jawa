@@ -3951,6 +3951,7 @@ gusii
 gusti
 gusur
 gut
+guti
 guwa
 guyang
 guyon
@@ -7241,6 +7242,7 @@ mol
 mola
 molah
 molan
+molas
 mole
 moleh
 molek
