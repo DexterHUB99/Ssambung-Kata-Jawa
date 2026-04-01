@@ -4142,7 +4142,6 @@ hoha
 hohi
 hoho
 hoi
-hoka
 hoki
 hoko
 hola
@@ -9999,6 +9998,7 @@ ragu
 rah
 raha
 rahasia
+rahat
 rahayu
 rahi
 rahma
