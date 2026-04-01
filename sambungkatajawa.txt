@@ -4768,6 +4768,7 @@ isro
 ista
 istana
 isti
+istiadat
 istigfar
 istighfar
 istilah
@@ -9801,6 +9802,7 @@ pinta
 pinten
 pinter
 pintu
+pinuk
 pinus
 pinutur
 pio
