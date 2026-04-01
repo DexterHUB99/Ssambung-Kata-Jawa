@@ -3448,6 +3448,7 @@ gapi
 gapit
 gaplek
 gapleki
+gaplok
 gapopo
 gapuk
 gapura
@@ -8551,6 +8552,7 @@ ngobat
 ngober
 ngobok
 ngobong
+ngobrak
 ngobral
 ngobrol
 ngocak
