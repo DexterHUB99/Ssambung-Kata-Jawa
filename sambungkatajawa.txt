@@ -2869,6 +2869,7 @@ endeng
 endhog
 endhok
 endi
+endie
 endog
 endogmu
 endol
@@ -3031,6 +3032,7 @@ ering
 eris
 erit
 ero
+eroe
 eroh
 erok
 erong
@@ -11205,6 +11207,7 @@ sisah
 sisak
 sisan
 siser
+siset
 sisi
 sisih
 sisik
