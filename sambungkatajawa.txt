@@ -8574,6 +8574,7 @@ ngopi
 ngopii
 ngopo
 ngopoa
+ngopoae
 ngopok
 ngopoo
 ngor
@@ -10949,6 +10950,7 @@ sapi
 sapie
 sapih
 sapii
+sapik
 sapira
 sapo
 sapu
@@ -12726,6 +12728,7 @@ utik
 uting
 utir
 utiran
+utiren
 utli
 utma
 utmi
