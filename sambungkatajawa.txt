@@ -1962,6 +1962,7 @@ centil
 centong
 cepet
 ceplok
+cepu
 cerdas
 ceret
 cerewet
