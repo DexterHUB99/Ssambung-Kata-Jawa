@@ -2811,6 +2811,7 @@ ekur
 ekus
 el
 ela
+elaa
 elae
 elag
 elah
@@ -8614,6 +8615,7 @@ nggusah
 ngguwak
 ngguyu
 ngguyur
+ngher
 ngibadah
 ngibarat
 ngibing
