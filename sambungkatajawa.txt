@@ -8356,6 +8356,7 @@ ngebet
 ngeblok
 ngebo
 ngebon
+ngebor
 ngecat
 ngece
 ngecek
