@@ -1547,6 +1547,7 @@ batak
 batal
 batang
 baten
+bathang
 bati
 batik
 batin
