@@ -4834,6 +4834,7 @@ iyata
 iye
 iyes
 iyo
+iyoe
 iyom
 iyoo
 iyu
@@ -10894,6 +10895,7 @@ saset
 sasi
 sasil
 sasimo
+sasin
 sastra
 sasu
 sate
