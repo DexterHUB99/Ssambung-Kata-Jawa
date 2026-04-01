@@ -4802,7 +4802,6 @@ isam
 isami
 isan
 isana
-isane
 isao
 isap
 isapi
@@ -7105,7 +7104,6 @@ mben
 mbesuk
 mbok
 mbote
-mboten
 mbuh
 mburi
 me
@@ -8507,7 +8505,6 @@ ngindak
 nginep
 nging
 nginggil
-nginggo
 ngini
 nginjak
 nginjek
@@ -9110,7 +9107,6 @@ nusa
 nusan
 nusi
 nusul
-nusun
 nuti
 nutuk
 nutup
@@ -11132,7 +11128,6 @@ sayaa
 sayah
 sayang
 sayekti
-sayor
 sayur
 sayuran
 sayut
@@ -11179,6 +11174,7 @@ sekolah
 sekta
 sekti
 sekul
+sel
 sela
 selam
 selama
