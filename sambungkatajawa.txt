@@ -7715,6 +7715,7 @@ neteki
 netel
 netep
 netes
+netet
 netot
 netra
 netut
@@ -11077,6 +11078,7 @@ senen
 seneng
 seng
 senin
+senja
 senjata
 seno
 senok
