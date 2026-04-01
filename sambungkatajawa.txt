@@ -5611,6 +5611,7 @@ kem
 kema
 kemah
 kemaki
+keman
 kemang
 kemangi
 kemanten
@@ -11415,6 +11416,7 @@ sosi
 sosis
 sosmed
 sosok
+sot
 sotel
 soto
 sotoi
