@@ -349,6 +349,7 @@ akhirat
 aki
 akia
 akib
+akid
 akie
 akih
 akii
@@ -6263,6 +6264,7 @@ langkung
 langsing
 langu
 lani
+lanjur
 lanjut
 lansia
 lantai
