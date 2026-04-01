@@ -3853,6 +3853,7 @@ gulir
 gulu
 gulue
 gulung
+gulungan
 gumam
 gumuh
 gumuk
@@ -6711,6 +6712,7 @@ lus
 lusa
 lusi
 lusuh
+lut
 luti
 luwe
 luweh
@@ -7347,6 +7349,7 @@ nadah
 nadi
 nadia
 nadine
+nadiya
 nado
 nadyan
 nae
