@@ -1890,7 +1890,6 @@ buyut
 ca
 cabai
 cabe
-cabit
 cabuk
 cabut
 caca
@@ -2966,6 +2965,7 @@ endhog
 endhok
 endi
 endie
+endii
 endog
 endogmu
 endol
@@ -3184,7 +3184,6 @@ esemmu
 esep
 eser
 eses
-eset
 esi
 esih
 esik
@@ -3724,7 +3723,6 @@ geo
 geol
 gepak
 gepeng
-geprek
 gepuk
 ger
 gera
@@ -5229,7 +5227,6 @@ jurang
 juri
 jurus
 jus
-juta
 ka
 kaada
 kaba
@@ -6132,6 +6129,7 @@ kotak
 kotang
 kotangmu
 kote
+koti
 kotor
 kotoran
 kowe
@@ -6335,7 +6333,6 @@ lahir
 lair
 laiya
 lajeng
-laji
 laju
 lak
 laka
@@ -6558,6 +6555,7 @@ lengah
 lenggah
 lenggang
 lengkuas
+lengo
 lengser
 leni
 lentog
@@ -7007,6 +7005,7 @@ manak
 manas
 mancal
 mancing
+mandang
 mandeg
 mandeng
 mandhang
@@ -7805,6 +7804,7 @@ nekat
 nekate
 neke
 neken
+neki
 neko
 nel
 nela
@@ -7891,7 +7891,6 @@ netel
 netep
 netes
 netet
-neti
 netot
 netra
 netut
@@ -8612,6 +8611,7 @@ ngising
 ngisingan
 ngisip
 ngisir
+ngisis
 ngisor
 ngisu
 ngisuh
@@ -8871,6 +8871,7 @@ nguripi
 nguru
 ngurui
 ngurung
+ngurupi
 ngurus
 ngurusi
 ngurut
@@ -8901,7 +8902,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -9469,6 +9469,7 @@ ongkos
 ongol
 online
 ono
+onoa
 onoe
 onoi
 onono
@@ -10767,6 +10768,7 @@ ro
 roa
 rob
 robah
+roban
 robek
 robi
 roboh
@@ -11577,7 +11579,6 @@ soli
 solid
 solit
 solo
-sololo
 soloo
 som
 soma
@@ -11872,7 +11873,6 @@ tales
 tali
 talie
 talii
-talingan
 talita
 talo
 tam
@@ -13112,6 +13112,7 @@ wedangen
 wedhang
 wedhus
 wedi
+wedie
 weding
 wedo
 wedok
