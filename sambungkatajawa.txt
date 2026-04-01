@@ -1488,6 +1488,7 @@ banu
 banya
 banyak
 banyu
+bapa
 bapak
 bar
 bara
@@ -7524,6 +7525,7 @@ namaku
 namamu
 naman
 namar
+namba
 nambah
 nambahi
 nambal
