@@ -12085,6 +12085,7 @@ ujal
 ujam
 ujan
 ujar
+ujaran
 uji
 ujia
 ujian
@@ -12944,6 +12945,7 @@ yamna
 yan
 yana
 yang
+yangrek
 yani
 yano
 yao
