@@ -331,6 +331,7 @@ akara
 akaran
 akas
 akasara
+akasia
 akat
 akaw
 akay
@@ -4807,6 +4808,7 @@ isoi
 isok
 isol
 isoma
+isono
 isoo
 isor
 isra
@@ -10584,6 +10586,7 @@ rise
 risen
 risi
 risih
+rising
 riska
 riski
 risma
