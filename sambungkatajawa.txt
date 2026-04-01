@@ -6806,6 +6806,7 @@ maei
 maem
 mag
 maga
+magan
 magang
 magelang
 mager
