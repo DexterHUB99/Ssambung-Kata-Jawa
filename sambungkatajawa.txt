@@ -11005,6 +11005,7 @@ sesok
 sesorah
 sesu
 sesuk
+set
 setan
 setela
 seti
