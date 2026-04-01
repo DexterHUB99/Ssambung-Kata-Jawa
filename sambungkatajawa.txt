@@ -10018,6 +10018,7 @@ pomen
 pomo
 pomu
 pon
+pona
 ponakan
 pondok
 pone
@@ -11953,6 +11954,7 @@ timbang
 timbangan
 timbul
 timbun
+time
 timi
 timpuh
 timun
