@@ -5659,6 +5659,7 @@ kelangan
 kelantur
 kelap
 kelar
+kelaran
 kelas
 kelat
 kelawan
