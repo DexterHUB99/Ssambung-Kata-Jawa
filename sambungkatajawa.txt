@@ -2951,6 +2951,7 @@ en
 ena
 enad
 enah
+enaj
 enak
 enaka
 enake
@@ -8839,6 +8840,7 @@ nguleg
 ngulek
 ngulem
 nguli
+ngulih
 ngulik
 ngulo
 ngulon
