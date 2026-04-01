@@ -10392,6 +10392,7 @@ ringkasan
 ringkes
 ringkesan
 ringkih
+ringku
 ringo
 rini
 rinja
