@@ -1890,6 +1890,7 @@ buyut
 ca
 cabai
 cabe
+cabit
 cabuk
 cabut
 caca
@@ -3183,6 +3184,7 @@ esemmu
 esep
 eser
 eses
+eset
 esi
 esih
 esik
@@ -3722,6 +3724,7 @@ geo
 geol
 gepak
 gepeng
+geprek
 gepuk
 ger
 gera
@@ -4869,7 +4872,6 @@ isisis
 isiso
 isit
 iska
-isko
 isla
 islah
 islam
@@ -5227,6 +5229,7 @@ jurang
 juri
 jurus
 jus
+juta
 ka
 kaada
 kaba
@@ -6012,7 +6015,6 @@ klimis
 kliwon
 klo
 klobot
-kntl
 ko
 kobis
 kobong
@@ -6333,6 +6335,7 @@ lahir
 lair
 laiya
 lajeng
+laji
 laju
 lak
 laka
@@ -7888,6 +7891,7 @@ netel
 netep
 netes
 netet
+neti
 netot
 netra
 netut
@@ -8897,6 +8901,7 @@ ngutil
 ngutowo
 ngutus
 nguwi
+nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -9876,7 +9881,6 @@ pedot
 pee
 pega
 pegawai
-pegel
 pei
 pejah
 peju
@@ -11573,6 +11577,7 @@ soli
 solid
 solit
 solo
+sololo
 soloo
 som
 soma
@@ -11867,6 +11872,7 @@ tales
 tali
 talie
 talii
+talingan
 talita
 talo
 tam
