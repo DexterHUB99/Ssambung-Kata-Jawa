@@ -3299,6 +3299,7 @@ gaji
 gajian
 gajiane
 gajie
+gajii
 gak
 gaka
 gakan
@@ -3674,6 +3675,7 @@ gerong
 geros
 gertak
 geruh
+gerung
 ges
 gesang
 gesek
@@ -8023,6 +8025,7 @@ ngasil
 ngasin
 ngasing
 ngasir
+ngasli
 ngaso
 ngasoh
 ngasta
