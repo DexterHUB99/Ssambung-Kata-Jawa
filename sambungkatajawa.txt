@@ -5579,6 +5579,7 @@ kaulo
 kawah
 kawal
 kawan
+kawanan
 kawanen
 kawani
 kawasan
@@ -12850,6 +12851,7 @@ usada
 usae
 usah
 usaha
+usahane
 usai
 usak
 usan
