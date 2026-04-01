@@ -3127,6 +3127,7 @@ erui
 eruk
 erul
 erum
+erun
 erung
 erungi
 erup
@@ -9721,6 +9722,7 @@ papan
 papari
 papat
 papi
+papin
 papo
 papu
 papua
@@ -9866,6 +9868,7 @@ penta
 pentil
 penting
 pentung
+penu
 penuh
 penyu
 peo
@@ -11189,6 +11192,7 @@ sekolah
 sekta
 sekti
 sekul
+sel
 sela
 selam
 selama
