@@ -3299,6 +3299,7 @@ gadung
 gadungan
 gae
 gagah
+gagahe
 gagajah
 gagak
 gagal
@@ -6477,6 +6478,7 @@ lemot
 lempeng
 lemper
 lemu
+lemue
 lemut
 len
 lena
