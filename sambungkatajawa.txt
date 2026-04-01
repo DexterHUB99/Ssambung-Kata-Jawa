@@ -1661,6 +1661,7 @@ bin
 bina
 bindeng
 bine
+binging
 bingka
 bingung
 bini
@@ -12014,6 +12015,7 @@ toi
 toja
 tok
 tokan
+toke
 tokek
 token
 toki
