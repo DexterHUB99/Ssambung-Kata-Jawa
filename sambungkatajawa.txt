@@ -11842,6 +11842,7 @@ tebal
 tebang
 tebing
 tebu
+tebus
 tegak
 tegal
 teh
