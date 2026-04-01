@@ -11091,6 +11091,7 @@ selet
 seling
 selir
 selo
+selok
 selop
 selut
 sem
