@@ -255,6 +255,7 @@ aiku
 ail
 aila
 ailan
+ailang
 aili
 ailo
 ailon
@@ -301,6 +302,7 @@ ajen
 ajeng
 ajengan
 aji
+ajian
 ajib
 ajig
 ajii
@@ -621,7 +623,6 @@ ampan
 ampar
 ampas
 ampat
-ampe
 ampean
 ampek
 ampel
@@ -650,6 +651,7 @@ amrih
 amu
 amuh
 amuk
+amukan
 amul
 amun
 amung
@@ -798,7 +800,6 @@ anglo
 angon
 angop
 angos
-angrek
 angsa
 angsal
 angsi
@@ -2026,6 +2027,7 @@ cigur
 cik
 cika
 cikal
+cikar
 ciki
 ciko
 cikrak
@@ -2074,6 +2076,7 @@ cocol
 cocot
 cocote
 cod
+codot
 cok
 cokan
 cokelat
@@ -2346,7 +2349,6 @@ didu
 didulang
 digaploki
 dihapus
-dihu
 dijul
 dijus
 dik
@@ -2599,7 +2601,6 @@ ebut
 eca
 ecah
 ece
-eci
 eco
 ecok
 ecu
@@ -2828,6 +2829,7 @@ emaa
 emae
 emaem
 emah
+emai
 emak
 emal
 emam
@@ -4379,6 +4381,7 @@ ica
 icak
 ical
 ican
+icip
 ico
 icone
 icu
@@ -4814,6 +4817,7 @@ isam
 isami
 isan
 isana
+isane
 isao
 isap
 isapi
@@ -5046,6 +5050,7 @@ jauh
 jawa
 jawaa
 jawab
+jawae
 jawah
 jawi
 jawir
@@ -5228,6 +5233,7 @@ kacok
 kacu
 kacuk
 kacung
+kacut
 kadak
 kadal
 kadang
@@ -6348,6 +6354,7 @@ lampir
 lampiran
 lampit
 lampu
+lampune
 lampung
 lamu
 lamun
@@ -7117,6 +7124,7 @@ mben
 mbesuk
 mbok
 mbote
+mboten
 mbuh
 mburi
 me
@@ -8519,6 +8527,7 @@ ngindak
 nginep
 nging
 nginggil
+nginggo
 ngini
 nginjak
 nginjek
@@ -8555,6 +8564,7 @@ ngiseni
 ngisep
 ngisi
 ngisih
+ngisii
 ngisik
 ngisin
 ngising
@@ -9122,6 +9132,7 @@ nusa
 nusan
 nusi
 nusul
+nusun
 nuti
 nutuk
 nutup
@@ -11147,6 +11158,7 @@ sayaa
 sayah
 sayang
 sayekti
+sayor
 sayur
 sayuran
 sayut
@@ -11215,7 +11227,6 @@ selok
 selop
 selut
 sem
-sema
 semak
 semangat
 semangka
@@ -11414,6 +11425,7 @@ sining
 sinjang
 sino
 sinom
+sinoman
 sinta
 sinte
 sinten
@@ -12333,7 +12345,6 @@ udel
 udelan
 udelem
 udelmu
-uden
 udeng
 udhar
 udho
