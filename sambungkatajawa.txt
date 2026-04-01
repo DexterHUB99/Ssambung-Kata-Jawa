@@ -2819,6 +2819,7 @@ emaa
 emae
 emaem
 emah
+emai
 emak
 emal
 emam
@@ -3121,7 +3122,6 @@ erui
 eruk
 erul
 erum
-erun
 erung
 erungi
 erup
@@ -4803,6 +4803,7 @@ isam
 isami
 isan
 isana
+isane
 isao
 isap
 isapi
@@ -5217,6 +5218,7 @@ kacok
 kacu
 kacuk
 kacung
+kacut
 kadak
 kadal
 kadang
@@ -6336,6 +6338,7 @@ lampir
 lampiran
 lampit
 lampu
+lampune
 lampung
 lamu
 lamun
@@ -7105,6 +7108,7 @@ mben
 mbesuk
 mbok
 mbote
+mboten
 mbuh
 mburi
 me
@@ -8506,6 +8510,7 @@ ngindak
 nginep
 nging
 nginggil
+nginggo
 ngini
 nginjak
 nginjek
@@ -9108,6 +9113,7 @@ nusa
 nusan
 nusi
 nusul
+nusun
 nuti
 nutuk
 nutup
@@ -9710,7 +9716,6 @@ papan
 papari
 papat
 papi
-papin
 papo
 papu
 papua
@@ -9855,7 +9860,6 @@ penta
 pentil
 penting
 pentung
-penu
 penuh
 penyu
 peo
@@ -11131,6 +11135,7 @@ sayaa
 sayah
 sayang
 sayekti
+sayor
 sayur
 sayuran
 sayut
@@ -11177,7 +11182,6 @@ sekolah
 sekta
 sekti
 sekul
-sel
 sela
 selam
 selama
