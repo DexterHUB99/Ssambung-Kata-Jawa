@@ -10369,6 +10369,7 @@ rari
 raro
 ras
 rasa
+rasae
 rasah
 rasak
 rasan
@@ -13208,6 +13209,7 @@ yangrek
 yani
 yano
 yao
+yaono
 yap
 yapa
 yapi
