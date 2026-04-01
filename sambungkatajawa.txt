@@ -1595,6 +1595,7 @@ bejo
 beka
 bekal
 bekas
+bekel
 beko
 bekong
 bekti
@@ -10573,6 +10574,7 @@ ransel
 rantai
 rantang
 rante
+ranteng
 ranti
 ranting
 ranung
