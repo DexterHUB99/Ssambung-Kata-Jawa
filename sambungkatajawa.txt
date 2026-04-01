@@ -11727,6 +11727,7 @@ sucok
 sud
 suda
 sudah
+sudahan
 sude
 sudi
 sudo
