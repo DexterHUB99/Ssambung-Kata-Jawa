@@ -2082,6 +2082,7 @@ cor
 corak
 coret
 coro
+corok
 cowek
 crita
 cu
@@ -8607,6 +8608,7 @@ ngpel
 ngragal
 ngragas
 ngranti
+ngraosi
 ngrasa
 ngrasuk
 ngrayu
