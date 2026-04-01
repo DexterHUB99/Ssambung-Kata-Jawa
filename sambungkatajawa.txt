@@ -1240,7 +1240,6 @@ atay
 ate
 ateh
 atek
-atel
 atem
 ateman
 aten
@@ -4562,7 +4561,6 @@ ilaa
 ilae
 ilag
 ilah
-ilaha
 ilahi
 ilai
 ilak
@@ -6372,6 +6370,7 @@ lalat
 laler
 lali
 lalia
+lalian
 lalie
 lalii
 lam
@@ -10771,7 +10770,6 @@ riro
 ris
 risa
 risak
-risan
 risang
 rise
 risen
