@@ -1687,6 +1687,7 @@ bobok
 bobol
 bobot
 bobrok
+boca
 bocah
 bocil
 bocor
@@ -9115,6 +9116,7 @@ okasa
 okasan
 okaya
 oke
+okea
 okean
 okee
 okeh
