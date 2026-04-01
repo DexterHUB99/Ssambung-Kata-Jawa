@@ -1240,6 +1240,7 @@ atay
 ate
 ateh
 atek
+atel
 atem
 ateman
 aten
@@ -4561,6 +4562,7 @@ ilaa
 ilae
 ilag
 ilah
+ilaha
 ilahi
 ilai
 ilak
@@ -5628,6 +5630,7 @@ kebang
 kebas
 kebaya
 kebek
+kebes
 kebo
 kebon
 kebong
@@ -10771,6 +10774,7 @@ riro
 ris
 risa
 risak
+risan
 risang
 rise
 risen
