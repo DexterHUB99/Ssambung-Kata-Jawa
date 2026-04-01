@@ -1890,7 +1890,6 @@ buyut
 ca
 cabai
 cabe
-cabit
 cabuk
 cabut
 caca
@@ -3184,7 +3183,6 @@ esemmu
 esep
 eser
 eses
-eset
 esi
 esih
 esik
@@ -3724,7 +3722,6 @@ geo
 geol
 gepak
 gepeng
-geprek
 gepuk
 ger
 gera
@@ -7889,7 +7886,6 @@ netel
 netep
 netes
 netet
-neti
 netot
 netra
 netut
@@ -8899,7 +8895,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -11575,7 +11570,6 @@ soli
 solid
 solit
 solo
-sololo
 soloo
 som
 soma
