@@ -536,6 +536,7 @@ amane
 amang
 amao
 amar
+amara
 amaran
 amarga
 amargi
@@ -3557,6 +3558,7 @@ gebang
 geber
 geblak
 geblek
+gedag
 gedang
 gede
 gedeg
