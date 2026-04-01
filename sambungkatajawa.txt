@@ -8090,6 +8090,7 @@ ngempet
 ngempit
 ngemplok
 ngempot
+ngemu
 ngemuk
 ngemut
 ngen
@@ -10057,6 +10058,7 @@ rajah
 rajaku
 rajang
 rajawali
+rajek
 rajib
 rajim
 rajin
