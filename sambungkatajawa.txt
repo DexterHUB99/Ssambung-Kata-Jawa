@@ -301,7 +301,6 @@ ajen
 ajeng
 ajengan
 aji
-ajian
 ajib
 ajig
 ajii
@@ -798,6 +797,7 @@ anglo
 angon
 angop
 angos
+angrek
 angsa
 angsal
 angsi
@@ -2073,7 +2073,6 @@ cocol
 cocot
 cocote
 cod
-codot
 cok
 cokan
 cokelat
@@ -2346,6 +2345,7 @@ didu
 didulang
 digaploki
 dihapus
+dihu
 dijul
 dijus
 dik
@@ -2826,7 +2826,6 @@ emaa
 emae
 emaem
 emah
-emai
 emak
 emal
 emam
@@ -4378,7 +4377,6 @@ ica
 icak
 ical
 ican
-icip
 ico
 icone
 icu
@@ -4814,7 +4812,6 @@ isam
 isami
 isan
 isana
-isane
 isao
 isap
 isapi
@@ -5229,7 +5226,6 @@ kacok
 kacu
 kacuk
 kacung
-kacut
 kadak
 kadal
 kadang
@@ -6350,7 +6346,6 @@ lampir
 lampiran
 lampit
 lampu
-lampune
 lampung
 lamu
 lamun
@@ -7120,7 +7115,6 @@ mben
 mbesuk
 mbok
 mbote
-mboten
 mbuh
 mburi
 me
@@ -8523,7 +8517,6 @@ ngindak
 nginep
 nging
 nginggil
-nginggo
 ngini
 nginjak
 nginjek
@@ -9127,7 +9120,6 @@ nusa
 nusan
 nusi
 nusul
-nusun
 nuti
 nutuk
 nutup
@@ -11153,7 +11145,6 @@ sayaa
 sayah
 sayang
 sayekti
-sayor
 sayur
 sayuran
 sayut
@@ -12339,6 +12330,7 @@ udel
 udelan
 udelem
 udelmu
+uden
 udeng
 udhar
 udho
