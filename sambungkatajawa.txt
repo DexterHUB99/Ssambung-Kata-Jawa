@@ -8210,6 +8210,7 @@ ngasem
 ngasep
 ngasi
 ngasih
+ngasik
 ngasil
 ngasin
 ngasing
