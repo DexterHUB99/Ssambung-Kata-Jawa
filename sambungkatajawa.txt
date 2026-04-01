@@ -9156,6 +9156,7 @@ nyuri
 nyuruh
 nyurung
 nyusu
+nyusul
 nyuwun
 oalah
 ob
@@ -9551,6 +9552,7 @@ paham
 pahar
 pahing
 pahit
+paidi
 paido
 paijo
 paing
@@ -11815,6 +11817,7 @@ tapis
 tapuk
 tar
 tara
+tarak
 tarawih
 tare
 tarek
