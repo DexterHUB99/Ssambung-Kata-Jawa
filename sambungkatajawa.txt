@@ -26,6 +26,7 @@ abena
 abi
 abia
 abih
+abii
 abik
 abil
 abim
@@ -12417,6 +12418,7 @@ umpo
 umra
 umro
 umu
+umuk
 umum
 umume
 umur
