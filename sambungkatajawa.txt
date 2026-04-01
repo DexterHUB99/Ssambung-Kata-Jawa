@@ -2632,6 +2632,7 @@ edus
 eeh
 eeha
 eenak
+eentek
 ef
 efa
 efek
@@ -4590,6 +4591,7 @@ ilue
 iluha
 ilui
 iluk
+ilune
 ilyas
 ilyasa
 im
