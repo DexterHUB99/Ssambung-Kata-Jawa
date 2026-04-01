@@ -5699,6 +5699,7 @@ kelor
 keluarga
 kelud
 keluh
+keluhan
 kelumah
 kelut
 keluwe
@@ -7288,6 +7289,7 @@ mio
 mir
 mira
 mirah
+mirengake
 miri
 miring
 mirip
