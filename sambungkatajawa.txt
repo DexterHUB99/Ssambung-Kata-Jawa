@@ -4802,6 +4802,7 @@ isam
 isami
 isan
 isana
+isane
 isao
 isap
 isapi
@@ -9107,6 +9108,7 @@ nusa
 nusan
 nusi
 nusul
+nusun
 nuti
 nutuk
 nutup
@@ -11128,6 +11130,7 @@ sayaa
 sayah
 sayang
 sayekti
+sayor
 sayur
 sayuran
 sayut
