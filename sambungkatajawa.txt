@@ -10249,6 +10249,7 @@ pupuh
 pupuk
 pupus
 puput
+puputan
 pur
 pura
 purek
@@ -10876,6 +10877,7 @@ runcing
 runding
 rune
 rung
+rungi
 rungka
 rungkad
 rungkut
