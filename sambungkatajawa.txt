@@ -3656,6 +3656,7 @@ gepak
 gepeng
 gepuk
 ger
+gera
 gerah
 gerai
 gerak
