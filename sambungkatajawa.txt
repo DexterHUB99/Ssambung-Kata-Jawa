@@ -2528,6 +2528,7 @@ dongen
 dongeng
 dongkrak
 dongo
+dongok
 doni
 dono
 donyo
