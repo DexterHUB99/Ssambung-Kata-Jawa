@@ -1239,7 +1239,6 @@ atay
 ate
 ateh
 atek
-atel
 atem
 ateman
 aten
@@ -4558,7 +4557,6 @@ ilaa
 ilae
 ilag
 ilah
-ilaha
 ilahi
 ilai
 ilak
@@ -6459,6 +6457,7 @@ lar
 lara
 larah
 larai
+larak
 larang
 laras
 lare
@@ -7886,6 +7885,7 @@ nerima
 nerimo
 nerka
 nerong
+neros
 nerus
 nes
 nesa
@@ -10760,7 +10760,6 @@ riro
 ris
 risa
 risak
-risan
 risang
 rise
 risen
