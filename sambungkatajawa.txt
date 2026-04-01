@@ -4802,7 +4802,6 @@ isam
 isami
 isan
 isana
-isane
 isao
 isap
 isapi
@@ -6029,6 +6028,7 @@ kondur
 kone
 konek
 koneng
+kongkon
 koni
 kono
 kontal
@@ -7648,6 +7648,7 @@ naruh
 nas
 nasa
 nasab
+nasak
 nasar
 nase
 nasehat
@@ -9108,7 +9109,6 @@ nusa
 nusan
 nusi
 nusul
-nusun
 nuti
 nutuk
 nutup
@@ -11055,6 +11055,7 @@ sapie
 sapih
 sapii
 sapik
+sapin
 sapira
 sapo
 sapu
