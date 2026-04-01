@@ -7783,6 +7783,7 @@ nekani
 nekar
 nekat
 nekate
+neken
 neko
 nel
 nela
@@ -12015,6 +12016,7 @@ tengah
 tengen
 tengik
 tentrem
+tenun
 tep
 tepak
 tepe
