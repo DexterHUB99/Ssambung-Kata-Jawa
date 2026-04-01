@@ -9396,6 +9396,7 @@ oris
 orog
 orok
 orokan
+orokmu
 orong
 oros
 orot
