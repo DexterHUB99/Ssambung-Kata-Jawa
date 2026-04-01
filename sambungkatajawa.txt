@@ -3884,6 +3884,7 @@ gus
 gusa
 gusah
 gusar
+guse
 gusel
 gusi
 gusii
