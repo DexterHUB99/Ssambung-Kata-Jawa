@@ -8794,6 +8794,7 @@ ngubur
 ngucal
 ngucap
 ngucek
+ngucir
 ngudak
 ngudang
 ngudek
@@ -11931,6 +11932,7 @@ tandur
 tanduran
 tangan
 tangga
+tanggal
 tanggap
 tangguh
 tanggul
