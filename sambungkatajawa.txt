@@ -6516,6 +6516,7 @@ lih
 liha
 lihar
 lihat
+lihe
 lii
 lik
 lika
@@ -7369,6 +7370,7 @@ mumpung
 mun
 muna
 munafik
+muncrat
 muncul
 mundak
 mundhut
