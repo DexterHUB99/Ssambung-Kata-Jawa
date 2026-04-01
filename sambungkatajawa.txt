@@ -4142,6 +4142,7 @@ hoha
 hohi
 hoho
 hoi
+hoka
 hoki
 hoko
 hola
@@ -9625,6 +9626,7 @@ perih
 perlu
 perot
 pes
+pesa
 pesen
 pesing
 peso
