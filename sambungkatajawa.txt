@@ -10,6 +10,7 @@ abad
 abadi
 abah
 abai
+abak
 abal
 aban
 abang
@@ -776,6 +777,7 @@ angguk
 anggur
 angin
 angine
+angita
 angka
 angkara
 angkasa
@@ -1077,6 +1079,7 @@ artos
 aru
 arub
 aruh
+arui
 aruk
 aruka
 arul
@@ -1558,6 +1561,7 @@ bedane
 bedha
 bedo
 bedok
+beduk
 bee
 bego
 beh
@@ -2762,6 +2766,7 @@ elam
 elan
 elane
 elang
+elange
 elap
 elas
 elat
@@ -2819,7 +2824,6 @@ emaa
 emae
 emaem
 emah
-emai
 emak
 emal
 emam
@@ -2835,6 +2839,7 @@ emat
 emba
 embae
 embah
+embahe
 emban
 embar
 embat
@@ -3290,6 +3295,7 @@ ga
 gabah
 gabar
 gaber
+gablok
 gabuk
 gabung
 gabus
@@ -4660,6 +4666,7 @@ ingat
 ingatan
 inge
 inget
+ingeti
 inggah
 inggal
 inggi
@@ -4803,7 +4810,6 @@ isam
 isami
 isan
 isana
-isane
 isao
 isap
 isapi
@@ -5218,7 +5224,6 @@ kacok
 kacu
 kacuk
 kacung
-kacut
 kadak
 kadal
 kadang
@@ -6031,6 +6036,7 @@ kondur
 kone
 konek
 koneng
+kongkon
 koni
 kono
 kontal
@@ -6338,7 +6344,6 @@ lampir
 lampiran
 lampit
 lampu
-lampune
 lampung
 lamu
 lamun
@@ -7108,7 +7113,6 @@ mben
 mbesuk
 mbok
 mbote
-mboten
 mbuh
 mburi
 me
@@ -7652,6 +7656,7 @@ naruh
 nas
 nasa
 nasab
+nasak
 nasar
 nase
 nasehat
@@ -8510,7 +8515,6 @@ ngindak
 nginep
 nging
 nginggil
-nginggo
 ngini
 nginjak
 nginjek
@@ -9113,7 +9117,6 @@ nusa
 nusan
 nusi
 nusul
-nusun
 nuti
 nutuk
 nutup
@@ -9721,6 +9724,7 @@ papu
 papua
 par
 para
+paraga
 parah
 parai
 parang
@@ -9917,6 +9921,7 @@ pie
 pien
 pigura
 pih
+piha
 pii
 pijak
 pijar
@@ -11060,6 +11065,7 @@ sapie
 sapih
 sapii
 sapik
+sapin
 sapira
 sapo
 sapu
@@ -11135,7 +11141,6 @@ sayaa
 sayah
 sayang
 sayekti
-sayor
 sayur
 sayuran
 sayut
