@@ -2738,6 +2738,7 @@ elemen
 elen
 eleng
 elep
+eler
 eles
 elet
 eli
@@ -10012,6 +10013,7 @@ pua
 puan
 puasa
 pucuk
+pue
 puguh
 puh
 pui
