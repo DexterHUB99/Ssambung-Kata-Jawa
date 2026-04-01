@@ -3089,6 +3089,7 @@ erop
 eror
 eros
 erosi
+erot
 erta
 erti
 ertia
@@ -5204,6 +5205,7 @@ kae
 kaee
 kaei
 kafir
+kagak
 kagaka
 kagem
 kaget
@@ -12213,6 +12215,7 @@ uber
 ubi
 ubii
 ublik
+ubo
 ubun
 ubur
 uc
