@@ -6999,6 +6999,7 @@ manak
 manas
 mancal
 mancing
+mandang
 mandeg
 mandeng
 mandhang
@@ -7610,7 +7611,6 @@ name
 namen
 nami
 namine
-namo
 nampa
 nampak
 nampan
@@ -9457,6 +9457,7 @@ ongkos
 ongol
 online
 ono
+onoa
 onoe
 onoi
 onono
@@ -13096,6 +13097,7 @@ wedangen
 wedhang
 wedhus
 wedi
+wedie
 weding
 wedo
 wedok
