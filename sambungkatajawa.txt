@@ -1240,6 +1240,7 @@ atay
 ate
 ateh
 atek
+atel
 atem
 ateman
 aten
@@ -1970,6 +1971,7 @@ cawik
 cawisan
 ce
 cebok
+cebol
 cecak
 cece
 cecek
@@ -2830,6 +2832,7 @@ elmu
 elo
 eloe
 eloh
+eloj
 elok
 elokan
 elom
@@ -4549,6 +4552,7 @@ ikulo
 ikune
 ikur
 ikura
+ikus
 ikut
 ikutan
 ikutne
@@ -4558,6 +4562,7 @@ ilaa
 ilae
 ilag
 ilah
+ilaha
 ilahi
 ilai
 ilak
@@ -10766,6 +10771,7 @@ riro
 ris
 risa
 risak
+risan
 risang
 rise
 risen
