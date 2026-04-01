@@ -10010,6 +10010,7 @@ pit
 pita
 pitak
 pitakon
+pitakonan
 pitar
 pite
 pitek
