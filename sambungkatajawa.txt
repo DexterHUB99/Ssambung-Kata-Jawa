@@ -2194,6 +2194,7 @@ darat
 dari
 darii
 darma
+darsa
 daru
 darus
 das
@@ -12980,6 +12981,7 @@ wolu
 wolulas
 woma
 won
+wona
 wong
 wonge
 wongi
