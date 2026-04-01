@@ -8808,6 +8808,7 @@ ngucir
 ngudak
 ngudang
 ngudek
+ngudel
 ngudi
 ngudo
 ngudu
