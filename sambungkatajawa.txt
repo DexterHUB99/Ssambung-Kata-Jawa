@@ -636,6 +636,7 @@ ampun
 ampunan
 ampuni
 ampura
+ampure
 ampus
 amri
 amrih
@@ -5541,6 +5542,7 @@ kebo
 kebon
 kebong
 kebun
+kebus
 kecak
 kecap
 kece
