@@ -6284,6 +6284,7 @@ lantai
 lantang
 lantas
 lante
+lanti
 lantih
 lanting
 lantun
@@ -7981,6 +7982,7 @@ ngarti
 ngarto
 ngaru
 ngaruh
+ngaruhi
 ngaruk
 ngarung
 ngarus
@@ -9054,6 +9056,7 @@ nyong
 nyongko
 nyonya
 nyoto
+nyuci
 nyulik
 nyumbang
 nyungsep
@@ -10991,6 +10994,7 @@ sedasa
 sedaya
 sedeng
 sedha
+sedho
 sedia
 seduh
 sedulur
@@ -12690,6 +12694,7 @@ utuku
 uturi
 uturo
 utus
+utusa
 utusan
 ututa
 utwa
