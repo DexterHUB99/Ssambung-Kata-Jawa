@@ -5954,6 +5954,7 @@ kondisi
 kondur
 kone
 konek
+koneng
 koni
 kono
 kontal
@@ -6562,6 +6563,7 @@ lite
 liwa
 liwat
 liwe
+liwer
 liwet
 liya
 liyan
