@@ -623,7 +623,6 @@ ampan
 ampar
 ampas
 ampat
-ampe
 ampean
 ampek
 ampel
@@ -801,7 +800,6 @@ anglo
 angon
 angop
 angos
-angrek
 angsa
 angsal
 angsi
@@ -2351,7 +2349,6 @@ didu
 didulang
 digaploki
 dihapus
-dihu
 dijul
 dijus
 dik
@@ -2604,7 +2601,6 @@ ebut
 eca
 ecah
 ece
-eci
 eco
 ecok
 ecu
@@ -9436,6 +9432,7 @@ onono
 onoo
 onta
 ontaa
+ontae
 ontang
 ontel
 onten
@@ -11231,7 +11228,6 @@ selok
 selop
 selut
 sem
-sema
 semak
 semangat
 semangka
@@ -12350,7 +12346,6 @@ udel
 udelan
 udelem
 udelmu
-uden
 udeng
 udhar
 udho
