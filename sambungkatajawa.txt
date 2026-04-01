@@ -2362,6 +2362,7 @@ disi
 disik
 disimi
 disini
+disiplin
 disit
 diso
 dita
@@ -3645,6 +3646,7 @@ gi
 gidal
 gig
 giga
+gige
 gigi
 gigig
 gigigi
@@ -12017,6 +12019,7 @@ ubun
 ubur
 uc
 uca
+ucao
 ucap
 ucapan
 ucek
