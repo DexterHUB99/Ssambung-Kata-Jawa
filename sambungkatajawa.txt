@@ -4142,7 +4142,6 @@ hoha
 hohi
 hoho
 hoi
-hoka
 hoki
 hoko
 hola
