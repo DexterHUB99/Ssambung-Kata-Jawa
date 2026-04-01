@@ -1809,6 +1809,7 @@ bumi
 bun
 buna
 bunder
+bung
 bunga
 bungaa
 bungah
@@ -4436,6 +4437,7 @@ ikilo
 ikim
 ikio
 ikita
+ikiyo
 iklas
 iklim
 iko
