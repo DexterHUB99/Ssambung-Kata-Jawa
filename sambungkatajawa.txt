@@ -5016,6 +5016,7 @@ jila
 jilat
 jilbab
 jile
+jili
 jilid
 jim
 jima
@@ -9010,6 +9011,7 @@ nyanyi
 nyapa
 nyapi
 nyapu
+nyarap
 nyasar
 nyatru
 nyawa
