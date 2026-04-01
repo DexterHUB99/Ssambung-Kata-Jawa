@@ -1988,6 +1988,7 @@ cecep
 cecet
 ceci
 cedak
+cedek
 cekatan
 cekel
 cekelan
