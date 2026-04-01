@@ -4557,6 +4557,7 @@ ingali
 ingas
 ingat
 ingatan
+inge
 inget
 inggah
 inggal
@@ -10937,6 +10938,7 @@ sekar
 seket
 seki
 seko
+sekol
 sekola
 sekolah
 sekta
