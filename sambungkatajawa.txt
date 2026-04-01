@@ -10,7 +10,6 @@ abad
 abadi
 abah
 abai
-abak
 abal
 aban
 abang
@@ -777,7 +776,6 @@ angguk
 anggur
 angin
 angine
-angita
 angka
 angkara
 angkasa
@@ -6030,7 +6028,6 @@ kondur
 kone
 konek
 koneng
-kongkon
 koni
 kono
 kontal
@@ -7650,7 +7647,6 @@ naruh
 nas
 nasa
 nasab
-nasak
 nasar
 nase
 nasehat
@@ -11057,7 +11053,6 @@ sapie
 sapih
 sapii
 sapik
-sapin
 sapira
 sapo
 sapu
@@ -11179,6 +11174,7 @@ sekolah
 sekta
 sekti
 sekul
+sel
 sela
 selam
 selama
