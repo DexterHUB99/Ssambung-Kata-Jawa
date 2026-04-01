@@ -90,6 +90,7 @@ adel
 adem
 aden
 adep
+ader
 adhap
 adhem
 adhep
@@ -9379,6 +9380,7 @@ opit
 opo
 opoan
 opoe
+opoi
 opoiki
 opok
 opoki
