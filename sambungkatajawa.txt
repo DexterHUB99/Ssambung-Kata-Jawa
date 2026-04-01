@@ -1139,6 +1139,7 @@ asmae
 asmane
 asmanipun
 asmara
+asmarandana
 asna
 aso
 asoa
@@ -6940,6 +6941,7 @@ masa
 masah
 masak
 masake
+masam
 mase
 masi
 masih
