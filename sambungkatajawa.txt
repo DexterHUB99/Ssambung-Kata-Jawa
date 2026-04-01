@@ -4804,6 +4804,7 @@ ipo
 ipola
 ipone
 iporo
+iprit
 ipuk
 ipun
 ipwa
@@ -13048,6 +13049,7 @@ utta
 utu
 utuh
 utuku
+utumu
 uturi
 uturo
 utus
