@@ -2558,6 +2558,7 @@ egik
 ego
 egod
 egoh
+egois
 egrang
 egu
 eh
