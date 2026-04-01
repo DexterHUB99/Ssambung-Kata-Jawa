@@ -3210,6 +3210,7 @@ esik
 esin
 esis
 eso
+esoh
 esok
 eson
 esop
