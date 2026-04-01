@@ -11525,6 +11525,7 @@ sobat
 sobek
 soblok
 sodara
+soden
 sodir
 sodok
 sodom
