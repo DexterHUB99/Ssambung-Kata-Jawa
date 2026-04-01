@@ -2965,7 +2965,6 @@ endhog
 endhok
 endi
 endie
-endii
 endog
 endogmu
 endol
@@ -6129,7 +6128,6 @@ kotak
 kotang
 kotangmu
 kote
-koti
 kotor
 kotoran
 kowe
@@ -7004,7 +7002,6 @@ manak
 manas
 mancal
 mancing
-mandang
 mandeg
 mandeng
 mandhang
@@ -9465,7 +9462,6 @@ ongkos
 ongol
 online
 ono
-onoa
 onoe
 onoi
 onono
@@ -13107,7 +13103,6 @@ wedangen
 wedhang
 wedhus
 wedi
-wedie
 weding
 wedo
 wedok
