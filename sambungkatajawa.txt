@@ -2538,6 +2538,7 @@ duri
 durian
 durjana
 durma
+duro
 duru
 durung
 dus
@@ -4313,6 +4314,7 @@ hutan
 hutang
 huti
 hya
+hyang
 ib
 iba
 ibaa
