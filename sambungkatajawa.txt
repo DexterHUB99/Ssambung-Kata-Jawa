@@ -2379,7 +2379,6 @@ dili
 dilit
 dilo
 dilok
-dilor
 diluk
 dilut
 dim
@@ -2630,7 +2629,6 @@ ede
 edi
 edo
 edog
-edok
 edos
 edul
 edus
@@ -2965,6 +2963,7 @@ endhog
 endhok
 endi
 endie
+endii
 endog
 endogmu
 endol
@@ -5309,7 +5308,6 @@ kake
 kakehan
 kakek
 kaki
-kakik
 kakim
 kakine
 kaku
@@ -7002,6 +7000,7 @@ manak
 manas
 mancal
 mancing
+mandang
 mandeg
 mandeng
 mandhang
@@ -7613,7 +7612,6 @@ name
 namen
 nami
 namine
-namo
 nampa
 nampak
 nampan
@@ -8369,7 +8367,6 @@ ngeni
 ngenko
 ngenos
 ngenot
-ngensing
 ngenta
 ngentek
 ngentel
@@ -9291,7 +9288,6 @@ ogi
 ogie
 ogih
 ogil
-ogila
 ogoh
 ogor
 oh
@@ -9462,6 +9458,7 @@ ongkos
 ongol
 online
 ono
+onoa
 onoe
 onoi
 onono
@@ -10767,7 +10764,6 @@ roda
 rodo
 roe
 rogoh
-rohi
 roi
 rok
 roka
@@ -12778,7 +12774,6 @@ uras
 urat
 ure
 urek
-urem
 uren
 ures
 uret
@@ -13103,6 +13098,7 @@ wedangen
 wedhang
 wedhus
 wedi
+wedie
 weding
 wedo
 wedok
