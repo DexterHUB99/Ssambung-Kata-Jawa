@@ -2850,6 +2850,7 @@ elu
 eluh
 eluk
 elum
+elung
 elus
 em
 ema
@@ -2951,6 +2952,7 @@ en
 ena
 enad
 enah
+enaj
 enak
 enaka
 enake
@@ -5723,7 +5725,6 @@ keliru
 kelis
 kelok
 kelon
-kelonan
 kelor
 keluarga
 kelud
@@ -5954,6 +5955,7 @@ kijang
 kijing
 kik
 kika
+kike
 kiki
 kikil
 kil
@@ -6888,6 +6890,7 @@ lungo
 luni
 lunjak
 luntur
+lunyu
 lup
 lupa
 lupi
@@ -6982,6 +6985,7 @@ makam
 makamu
 makan
 makanan
+makani
 make
 maki
 maklum
@@ -8838,6 +8842,7 @@ nguleg
 ngulek
 ngulem
 nguli
+ngulih
 ngulik
 ngulo
 ngulon
@@ -9449,6 +9454,7 @@ olos
 olot
 om
 oma
+omaa
 omae
 omah
 omahe
@@ -10203,7 +10209,6 @@ poloo
 polri
 pom
 poma
-pome
 pomen
 pomo
 pomu
@@ -13266,6 +13271,7 @@ wirya
 wis
 wisa
 wisan
+wisata
 wisnu
 wisuh
 wit
@@ -13513,7 +13519,6 @@ yunani
 yune
 yung
 yuni
-yuno
 yuo
 yur
 yura
