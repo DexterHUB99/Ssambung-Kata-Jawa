@@ -4692,6 +4692,7 @@ impor
 impul
 impun
 impung
+imput
 imra
 imuh
 imut
