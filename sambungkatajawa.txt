@@ -1239,6 +1239,7 @@ atay
 ate
 ateh
 atek
+atel
 atem
 ateman
 aten
@@ -1638,6 +1639,7 @@ beso
 besok
 besuk
 betah
+betet
 beti
 beton
 bh
@@ -4556,6 +4558,7 @@ ilaa
 ilae
 ilag
 ilah
+ilaha
 ilahi
 ilai
 ilak
@@ -10756,6 +10759,7 @@ riro
 ris
 risa
 risak
+risan
 risang
 rise
 risen
