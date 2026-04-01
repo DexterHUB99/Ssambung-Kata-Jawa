@@ -2965,7 +2965,6 @@ endhog
 endhok
 endi
 endie
-endii
 endog
 endogmu
 endol
@@ -3184,6 +3183,7 @@ esemmu
 esep
 eser
 eses
+eset
 esi
 esih
 esik
@@ -3723,6 +3723,7 @@ geo
 geol
 gepak
 gepeng
+geprek
 gepuk
 ger
 gera
@@ -6129,7 +6130,6 @@ kotak
 kotang
 kotangmu
 kote
-koti
 kotor
 kotoran
 kowe
@@ -7004,7 +7004,6 @@ manak
 manas
 mancal
 mancing
-mandang
 mandeg
 mandeng
 mandhang
@@ -7803,7 +7802,6 @@ nekat
 nekate
 neke
 neken
-neki
 neko
 nel
 nela
@@ -7890,6 +7888,7 @@ netel
 netep
 netes
 netet
+neti
 netot
 netra
 netut
@@ -8899,6 +8898,7 @@ ngutil
 ngutowo
 ngutus
 nguwi
+nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -9466,7 +9466,6 @@ ongkos
 ongol
 online
 ono
-onoa
 onoe
 onoi
 onono
@@ -11575,6 +11574,7 @@ soli
 solid
 solit
 solo
+sololo
 soloo
 som
 soma
@@ -13108,7 +13108,6 @@ wedangen
 wedhang
 wedhus
 wedi
-wedie
 weding
 wedo
 wedok
