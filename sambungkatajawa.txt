@@ -2379,6 +2379,7 @@ dili
 dilit
 dilo
 dilok
+dilor
 diluk
 dilut
 dim
@@ -2629,6 +2630,7 @@ ede
 edi
 edo
 edog
+edok
 edos
 edul
 edus
@@ -3720,7 +3722,6 @@ geo
 geol
 gepak
 gepeng
-geprek
 gepuk
 ger
 gera
@@ -5308,6 +5309,7 @@ kake
 kakehan
 kakek
 kaki
+kakik
 kakim
 kakine
 kaku
@@ -7611,6 +7613,7 @@ name
 namen
 nami
 namine
+namo
 nampa
 nampak
 nampan
@@ -8366,6 +8369,7 @@ ngeni
 ngenko
 ngenos
 ngenot
+ngensing
 ngenta
 ngentek
 ngentel
@@ -8891,7 +8895,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -9288,6 +9291,7 @@ ogi
 ogie
 ogih
 ogil
+ogila
 ogoh
 ogor
 oh
@@ -10763,6 +10767,7 @@ roda
 rodo
 roe
 rogoh
+rohi
 roi
 rok
 roka
