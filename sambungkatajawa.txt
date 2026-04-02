@@ -2965,6 +2965,7 @@ emes
 emese
 emi
 emik
+emin
 emip
 emir
 emira
@@ -3380,6 +3381,7 @@ eyan
 eyang
 eye
 eyem
+eyey
 eyo
 eyow
 eyu
@@ -4158,6 +4160,7 @@ hak
 haka
 hakan
 hake
+hakem
 haki
 hakim
 hako
