@@ -6200,6 +6200,7 @@ kopine
 koplak
 koplo
 kopok
+kopoken
 kopyor
 kor
 kora
@@ -11259,6 +11260,7 @@ samparan
 sampe
 sampean
 sampek
+samper
 sampeyan
 sampho
 sampi
