@@ -2080,6 +2080,7 @@ cilaka
 cilik
 cilo
 cilok
+cim
 cimu
 cimut
 cin
@@ -4727,6 +4728,7 @@ imut
 in
 ina
 inaa
+inae
 inah
 inai
 inak
