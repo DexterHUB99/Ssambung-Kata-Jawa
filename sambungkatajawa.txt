@@ -10304,6 +10304,7 @@ pima
 pimen
 pin
 pina
+pinak
 pinan
 pinang
 pinarak
@@ -11211,6 +11212,7 @@ rupamu
 rupane
 rupi
 rupo
+rupomu
 ruri
 ruro
 rurus
