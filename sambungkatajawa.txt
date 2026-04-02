@@ -6772,6 +6772,7 @@ limang
 limao
 limas
 limasan
+limat
 limbah
 limbahe
 limbuk
@@ -10076,6 +10077,7 @@ patuk
 patun
 patung
 patut
+paung
 paunten
 pawa
 pawai
