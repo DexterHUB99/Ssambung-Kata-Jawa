@@ -2902,6 +2902,7 @@ eloh
 eloj
 elok
 elokan
+eloke
 elom
 elon
 elong
@@ -3234,6 +3235,7 @@ ertia
 eru
 erue
 eruh
+eruhe
 erui
 eruk
 erul
@@ -7773,6 +7775,7 @@ naira
 najan
 najeng
 najis
+najise
 nak
 naka
 nakai
