@@ -9945,6 +9945,7 @@ pandang
 pandangan
 pandawa
 pande
+pandir
 pandu
 panduan
 pane
@@ -12005,6 +12006,7 @@ suo
 sup
 supa
 supados
+supan
 supaya
 supe
 supel
