@@ -2414,6 +2414,7 @@ dika
 dikan
 dikek
 diki
+dikit
 diko
 dikom
 dikon
@@ -6696,6 +6697,7 @@ lemir
 lemot
 lempeng
 lemper
+lempung
 lemu
 lemue
 lemut
