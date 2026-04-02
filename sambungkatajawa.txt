@@ -9233,7 +9233,6 @@ nimbang
 nimbul
 nimbun
 nimen
-nimi
 nimo
 nimu
 nin
@@ -13668,6 +13667,7 @@ woi
 wok
 woke
 woko
+woku
 wol
 wola
 woli
