@@ -7126,6 +7126,7 @@ make
 maki
 maklum
 makmur
+makna
 makruh
 maksa
 maksud
@@ -13149,6 +13150,7 @@ urusan
 urusane
 urusen
 uruso
+urusono
 urut
 urutan
 urwa
