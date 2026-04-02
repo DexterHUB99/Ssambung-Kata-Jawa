@@ -11929,6 +11929,7 @@ sowan
 soyo
 srambi
 srawung
+sreg
 sregep
 srengenge
 sri
