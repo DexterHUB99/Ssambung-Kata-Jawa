@@ -1894,6 +1894,7 @@ bunuh
 bup
 bupati
 bur
+buram
 burek
 buri
 burik
@@ -5221,6 +5222,7 @@ jero
 jeroan
 jeruk
 jet
+jewer
 ji
 jidat
 jig
