@@ -2165,6 +2165,7 @@ corak
 coret
 coro
 corok
+cot
 cowek
 crita
 cu
