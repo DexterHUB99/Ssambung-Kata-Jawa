@@ -9813,6 +9813,7 @@ orak
 orakan
 oraki
 orako
+orala
 oran
 orang
 orangutan
@@ -13354,6 +13355,7 @@ ux
 uy
 uya
 uyah
+uyahe
 uye
 uyi
 uyo
