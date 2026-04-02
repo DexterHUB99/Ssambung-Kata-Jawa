@@ -4128,6 +4128,7 @@ halah
 halal
 halan
 halang
+halanga
 halangan
 hale
 hali
@@ -12245,6 +12246,7 @@ terne
 terong
 terus
 tes
+tesa
 tete
 teteg
 teteh
