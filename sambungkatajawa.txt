@@ -11832,6 +11832,7 @@ sosi
 sosis
 sosmed
 sosok
+sosun
 sot
 sotel
 soto
@@ -12699,6 +12700,7 @@ ukaa
 ukae
 ukai
 ukak
+ukakan
 ukal
 ukam
 ukan
