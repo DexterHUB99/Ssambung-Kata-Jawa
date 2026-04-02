@@ -5790,6 +5790,7 @@ kedung
 kedurung
 kedut
 keemut
+kehet
 kehilangan
 kejam
 kejan
@@ -5879,6 +5880,7 @@ kemben
 kembuh
 kemeja
 kemem
+kemeng
 kemerin
 kemeruh
 kemi
@@ -12373,6 +12375,7 @@ tempat
 tempe
 tempek
 tempekmu
+tempelan
 tempik
 tempiling
 tempur
