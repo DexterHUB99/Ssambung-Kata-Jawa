@@ -11551,6 +11551,7 @@ segok
 segoro
 seh
 sehat
+sei
 sejarah
 sejuk
 sejum
