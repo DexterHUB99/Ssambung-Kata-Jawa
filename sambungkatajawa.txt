@@ -7605,6 +7605,7 @@ muni
 munjuk
 muntab
 muntah
+muntu
 munyuk
 mup
 mur
@@ -8609,6 +8610,7 @@ ngewek
 ngeweo
 ngewes
 ngewi
+ngewos
 ngeyel
 ngg
 ngga
