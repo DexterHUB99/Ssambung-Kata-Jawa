@@ -6355,6 +6355,7 @@ kremi
 kresna
 kretek
 krikil
+kripik
 krocok
 krowak
 krungu
@@ -7758,6 +7759,7 @@ mususi
 mut
 muta
 mutah
+mutan
 mutar
 mute
 muter
