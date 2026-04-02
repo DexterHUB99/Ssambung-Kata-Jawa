@@ -10846,6 +10846,7 @@ reta
 retak
 retan
 reti
+rew
 rewang
 rewangi
 rewe
