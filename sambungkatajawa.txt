@@ -7060,6 +7060,7 @@ makam
 makamu
 makan
 makanan
+makane
 makani
 make
 maki
