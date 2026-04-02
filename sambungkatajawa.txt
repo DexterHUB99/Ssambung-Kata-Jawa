@@ -3564,7 +3564,6 @@ gap
 gapa
 gapak
 gapapa
-gapen
 gapi
 gapit
 gaplek
@@ -4237,7 +4236,6 @@ hartamu
 haru
 harue
 harui
-haruka
 harum
 harus
 haruse
