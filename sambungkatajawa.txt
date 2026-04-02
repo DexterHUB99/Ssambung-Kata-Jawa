@@ -736,6 +736,7 @@ andani
 andap
 andara
 andaran
+andarna
 andas
 andel
 ander
