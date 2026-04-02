@@ -9538,6 +9538,7 @@ obes
 obit
 oblak
 oblong
+oblongane
 obog
 obok
 obokan
