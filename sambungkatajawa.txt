@@ -3155,6 +3155,7 @@ enul
 enun
 enus
 enya
+enyak
 enyong
 eomah
 ep
