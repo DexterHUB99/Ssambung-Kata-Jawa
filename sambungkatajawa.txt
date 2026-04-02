@@ -7697,6 +7697,7 @@ murai
 muri
 murid
 murih
+muring
 murka
 murub
 murun
@@ -11693,6 +11694,7 @@ seret
 seri
 sering
 serit
+serius
 serok
 serong
 serot
