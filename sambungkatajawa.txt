@@ -2631,6 +2631,7 @@ dungo
 dungu
 duno
 dunung
+dup
 dupa
 dupak
 dupo
