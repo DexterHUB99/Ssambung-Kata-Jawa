@@ -1745,6 +1745,7 @@ bismillah
 biso
 bisu
 bisue
+bisula
 bisulan
 bit
 bita
@@ -3908,6 +3909,7 @@ giren
 giri
 giring
 girisa
+giru
 gisa
 gita
 gitaa
@@ -5269,6 +5271,7 @@ jir
 jira
 jiran
 jire
+jireh
 jiri
 jirih
 jisim
