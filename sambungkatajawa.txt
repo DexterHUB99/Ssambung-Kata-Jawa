@@ -936,6 +936,7 @@ anuk
 anuku
 anum
 anumu
+anun
 anung
 anur
 anus
@@ -1231,6 +1232,7 @@ asus
 asut
 asuw
 asuwe
+asuy
 asuya
 aswatama
 asyik
@@ -13090,6 +13092,7 @@ untuk
 untuku
 untul
 untumu
+untun
 untune
 untung
 untunge
@@ -13597,6 +13600,7 @@ wis
 wisa
 wisan
 wisata
+wisma
 wisnu
 wisuh
 wit
