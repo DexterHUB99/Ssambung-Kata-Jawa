@@ -9648,6 +9648,7 @@ olihe
 olik
 olika
 olin
+oline
 oling
 olit
 olo
@@ -13471,6 +13472,7 @@ weda
 wedal
 wedan
 wedang
+wedange
 wedangen
 wedhang
 wedhus
