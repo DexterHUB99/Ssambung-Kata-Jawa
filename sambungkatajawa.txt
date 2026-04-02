@@ -5878,6 +5878,7 @@ kendali
 kendang
 kendel
 kendhang
+kendhik
 kendho
 kendi
 kendil
