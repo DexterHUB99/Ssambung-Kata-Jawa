@@ -8560,6 +8560,7 @@ ngeng
 ngenge
 ngengek
 ngenger
+ngenges
 ngenget
 ngenggeh
 ngenggo
@@ -10669,6 +10670,7 @@ rami
 ramis
 ramni
 ramo
+rampas
 ramping
 rampok
 rampun
