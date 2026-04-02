@@ -3444,6 +3444,7 @@ gakan
 gakgelem
 gaki
 gakiso
+gakono
 gakro
 gaksah
 gal
