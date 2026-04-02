@@ -5310,6 +5310,7 @@ jumi
 jumpa
 jumput
 jumputan
+juna
 jungkat
 jungkel
 jungkir
