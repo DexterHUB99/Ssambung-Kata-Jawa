@@ -3103,6 +3103,7 @@ enome
 enong
 enor
 enot
+enow
 enra
 enri
 enta
