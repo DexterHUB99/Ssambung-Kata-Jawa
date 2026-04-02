@@ -2403,6 +2403,7 @@ didin
 dido
 didu
 didulang
+dig
 digaploki
 dihapus
 dihu
@@ -4504,6 +4505,7 @@ idaki
 idal
 idam
 idaman
+idamana
 idan
 ide
 ideki
