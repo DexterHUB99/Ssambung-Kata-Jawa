@@ -8119,6 +8119,7 @@ ngalur
 ngalus
 ngam
 ngama
+ngamae
 ngamah
 ngamal
 ngaman
@@ -11440,6 +11441,7 @@ selawe
 selawi
 seleb
 selendang
+selera
 selesi
 selet
 seling
