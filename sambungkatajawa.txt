@@ -2358,6 +2358,7 @@ dening
 depa
 depak
 depi
+depot
 der
 deras
 derek
@@ -5226,6 +5227,7 @@ jima
 jiman
 jimat
 jimate
+jimbar
 jimpit
 jin
 jina
