@@ -6428,6 +6428,7 @@ laen
 lag
 laga
 lagak
+lagek
 lagi
 lagii
 lagu
@@ -8846,6 +8847,7 @@ ngompol
 ngompor
 ngon
 ngonde
+ngondol
 ngonek
 ngong
 ngoni
