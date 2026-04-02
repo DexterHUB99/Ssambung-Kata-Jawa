@@ -2879,6 +2879,7 @@ eling
 elingan
 elingno
 elingo
+elingono
 elir
 elis
 elit
