@@ -1616,7 +1616,6 @@ belah
 belajar
 belan
 belang
-belangkon
 belas
 bele
 belek
@@ -3849,7 +3848,6 @@ gi
 gidal
 gig
 giga
-gigal
 gige
 gigi
 gigig
@@ -6135,6 +6133,7 @@ klawu
 klebus
 klenger
 klepon
+klereng
 kleru
 klimis
 kliwon
@@ -7818,7 +7817,6 @@ nangka
 nangkane
 nangkap
 nangkep
-nangko
 nangkring
 nangku
 nani
@@ -11936,7 +11934,6 @@ sula
 sulah
 sulak
 sulam
-sulami
 sulap
 sule
 sulem
