@@ -1487,6 +1487,7 @@ balangan
 balap
 balek
 bali
+balih
 balik
 balikno
 baline
