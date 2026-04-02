@@ -7997,6 +7997,7 @@ ndulur
 nduwe
 ne
 nebang
+nebas
 nebus
 neda
 nedah
@@ -8594,6 +8595,7 @@ ngendi
 ngendii
 ngendika
 ngendikan
+ngendikane
 ngendo
 ngendog
 ngendong
