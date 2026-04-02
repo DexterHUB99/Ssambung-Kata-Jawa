@@ -7283,6 +7283,7 @@ mapan
 mapel
 mar
 mara
+marae
 marah
 marai
 marang
@@ -9229,6 +9230,7 @@ nimbang
 nimbul
 nimbun
 nimen
+nimi
 nimo
 nimu
 nin
