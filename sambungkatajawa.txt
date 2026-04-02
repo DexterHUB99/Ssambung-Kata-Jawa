@@ -9824,6 +9824,7 @@ paalu
 paandu
 paben
 pacar
+pacel
 paci
 pacol
 pacul
@@ -13404,6 +13405,7 @@ wela
 welah
 welai
 welas
+weleh
 weli
 weling
 welo
