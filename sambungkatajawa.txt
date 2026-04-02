@@ -225,6 +225,7 @@ ahoe
 ahoha
 ahoi
 ahok
+ahol
 ahom
 ahoo
 ahop
@@ -6504,6 +6505,7 @@ lamaran
 lamba
 lambai
 lamban
+lambang
 lambe
 lambee
 lambemu
