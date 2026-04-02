@@ -2099,6 +2099,7 @@ cintai
 cipa
 cipluk
 ciplukan
+cipo
 cir
 cireng
 ciri
@@ -9397,6 +9398,7 @@ nyebar
 nyegat
 nyekek
 nyekel
+nyelam
 nyeleh
 nyeni
 nyepi
@@ -12808,6 +12810,7 @@ uleman
 ulen
 uleni
 uler
+ules
 ulet
 uli
 ulih
