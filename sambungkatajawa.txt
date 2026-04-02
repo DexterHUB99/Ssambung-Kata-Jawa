@@ -2007,6 +2007,7 @@ car
 cara
 cari
 carik
+cario
 carok
 caruk
 cas
@@ -9234,6 +9235,7 @@ nimbang
 nimbul
 nimbun
 nimen
+nimi
 nimo
 nimu
 nin
