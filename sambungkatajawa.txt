@@ -1616,6 +1616,7 @@ belah
 belajar
 belan
 belang
+belangkon
 belas
 bele
 belek
@@ -3848,6 +3849,7 @@ gi
 gidal
 gig
 giga
+gigal
 gige
 gigi
 gigig
@@ -7816,6 +7818,7 @@ nangka
 nangkane
 nangkap
 nangkep
+nangko
 nangkring
 nangku
 nani
@@ -9289,6 +9292,7 @@ ntah
 nu
 nua
 nuak
+nuan
 nuana
 nub
 nubruk
@@ -11932,6 +11936,7 @@ sula
 sulah
 sulak
 sulam
+sulami
 sulap
 sule
 sulem
