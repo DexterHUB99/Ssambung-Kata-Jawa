@@ -2099,6 +2099,7 @@ cintai
 cipa
 cipluk
 ciplukan
+cipo
 cir
 cireng
 ciri
@@ -3915,7 +3916,6 @@ godhok
 godhong
 godi
 godog
-godoh
 godok
 godong
 gogoh
@@ -5125,6 +5125,7 @@ jamur
 jan
 jana
 janaka
+jancik
 jancok
 jancuk
 janda
@@ -9398,6 +9399,7 @@ nyebar
 nyegat
 nyekek
 nyekel
+nyelam
 nyeleh
 nyeni
 nyepi
@@ -11798,7 +11800,6 @@ solik
 solit
 solo
 soloo
-solowe
 som
 soma
 somar
@@ -12810,6 +12811,7 @@ uleman
 ulen
 uleni
 uler
+ules
 ulet
 uli
 ulih
