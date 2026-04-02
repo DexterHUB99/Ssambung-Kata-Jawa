@@ -7986,6 +7986,7 @@ nepi
 nepis
 neptu
 ner
+nera
 nerak
 neraka
 nerang
