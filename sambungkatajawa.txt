@@ -12784,6 +12784,7 @@ ukli
 ukma
 ukmi
 ukna
+ukni
 ukno
 uko
 ukoh
