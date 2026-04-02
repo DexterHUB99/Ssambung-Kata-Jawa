@@ -3226,6 +3226,7 @@ esek
 esel
 esem
 eseman
+esemane
 eseme
 esemmu
 esep
@@ -3841,6 +3842,7 @@ gih
 giha
 gila
 gilaa
+gilae
 gilak
 gilale
 gilane
