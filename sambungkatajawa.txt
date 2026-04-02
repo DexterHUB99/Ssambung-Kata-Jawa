@@ -1650,6 +1650,7 @@ bengong
 beni
 benik
 bening
+benjol
 bentol
 bentrok
 benu
@@ -8678,6 +8679,7 @@ ngesal
 ngeselin
 ngeseng
 ngesi
+ngesik
 ngesok
 ngesor
 ngesot
