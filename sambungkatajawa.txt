@@ -388,6 +388,7 @@ aklam
 ako
 akoe
 akoh
+akoi
 akol
 akom
 akon
@@ -13538,6 +13539,7 @@ wot
 wota
 wowi
 wowo
+wowoo
 woyo
 wu
 wuan
