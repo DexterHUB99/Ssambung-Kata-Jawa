@@ -6844,6 +6844,7 @@ liro
 liru
 lis
 lisa
+lisah
 lisan
 lise
 lisi
@@ -9783,6 +9784,7 @@ oratau
 ore
 oreg
 orek
+orem
 oren
 oreng
 oreo
