@@ -2099,7 +2099,6 @@ cintai
 cipa
 cipluk
 ciplukan
-cipo
 cir
 cireng
 ciri
@@ -9398,7 +9397,6 @@ nyebar
 nyegat
 nyekek
 nyekel
-nyelam
 nyeleh
 nyeni
 nyepi
@@ -11799,6 +11797,7 @@ solik
 solit
 solo
 soloo
+solowe
 som
 soma
 somar
@@ -12810,7 +12809,6 @@ uleman
 ulen
 uleni
 uler
-ules
 ulet
 uli
 ulih
