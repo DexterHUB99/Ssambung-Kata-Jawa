@@ -1706,6 +1706,7 @@ bila
 bilah
 bilai
 bilak
+bilih
 bilo
 bilu
 bim
@@ -7592,6 +7593,7 @@ mundak
 mundhut
 mundi
 mundur
+munel
 mung
 munggah
 mungil
