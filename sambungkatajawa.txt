@@ -6967,6 +6967,7 @@ luber
 lucu
 ludah
 ludar
+ludas
 ludruk
 lugas
 lugu
@@ -9358,6 +9359,7 @@ nunggang
 nunggangi
 nunggoni
 nunggu
+nungi
 nungu
 nuni
 nunjuk
