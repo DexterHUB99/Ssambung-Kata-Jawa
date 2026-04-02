@@ -5633,6 +5633,7 @@ karepmu
 karet
 kari
 karia
+karie
 karii
 karim
 karima
@@ -6693,6 +6694,7 @@ layuh
 layur
 le
 leak
+leb
 lebah
 lebar
 lebaran
@@ -9227,6 +9229,7 @@ nimbang
 nimbul
 nimbun
 nimen
+nimi
 nimo
 nimu
 nin
@@ -10233,6 +10236,7 @@ peno
 pensil
 penta
 pentil
+pentile
 penting
 pentung
 penuh
