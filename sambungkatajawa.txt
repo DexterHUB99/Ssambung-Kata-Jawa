@@ -3716,6 +3716,7 @@ geblak
 geblek
 gedag
 gedang
+gedangan
 gede
 gedeg
 gedek
@@ -9598,6 +9599,7 @@ og
 ogah
 ogak
 oge
+ogek
 ogel
 oger
 ogi
