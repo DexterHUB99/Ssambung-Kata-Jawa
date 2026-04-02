@@ -1685,6 +1685,7 @@ bici
 bidak
 bidal
 bidan
+bidet
 bidu
 biduk
 bidun
@@ -12007,6 +12008,7 @@ sutra
 suw
 suwara
 suwe
+suwee
 suweg
 suwek
 suwen
