@@ -3126,6 +3126,7 @@ entol
 entong
 entu
 entuk
+entuke
 entung
 entut
 entutmu
@@ -3355,6 +3356,7 @@ ewah
 ewak
 ewan
 ewang
+ewange
 ewangi
 ewe
 ewean
