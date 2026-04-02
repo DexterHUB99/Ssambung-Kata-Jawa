@@ -3087,6 +3087,7 @@ engkang
 engko
 engkok
 engkol
+engkolan
 engkole
 engkong
 engkuk
@@ -3302,6 +3303,7 @@ esua
 esue
 esui
 esuk
+esuke
 esuli
 esur
 et
@@ -9231,6 +9233,7 @@ nimbang
 nimbul
 nimbun
 nimen
+nimi
 nimo
 nimu
 nin
