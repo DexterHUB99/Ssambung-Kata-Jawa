@@ -7561,6 +7561,7 @@ muk
 muka
 mukak
 mukakmu
+mukan
 mukat
 muke
 mukel
@@ -11230,6 +11231,7 @@ sal
 sala
 salad
 salah
+salahe
 salahku
 salak
 salam
@@ -11831,6 +11833,7 @@ sosi
 sosis
 sosmed
 sosok
+sosun
 sot
 sotel
 soto
@@ -12163,6 +12166,7 @@ tarian
 tarii
 tarik
 taro
+taru
 taruh
 taruk
 tarung
@@ -12698,6 +12702,7 @@ ukaa
 ukae
 ukai
 ukak
+ukakan
 ukal
 ukam
 ukan
@@ -13599,6 +13604,7 @@ yat
 yata
 yati
 yato
+yatra
 yaudah
 yauwis
 yawa
