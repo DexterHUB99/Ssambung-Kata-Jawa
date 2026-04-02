@@ -791,6 +791,7 @@ anggaran
 angge
 anggep
 angger
+anggit
 anggo
 anggon
 anggone
@@ -9225,6 +9226,7 @@ nimbang
 nimbul
 nimbun
 nimen
+nimi
 nimo
 nimu
 nin
