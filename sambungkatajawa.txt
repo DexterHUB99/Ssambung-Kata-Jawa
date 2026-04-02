@@ -5877,6 +5877,7 @@ kem
 kema
 kemah
 kemaki
+kemalan
 keman
 kemang
 kemangi
