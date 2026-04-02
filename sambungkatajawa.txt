@@ -120,6 +120,7 @@ adus
 ae
 aenak
 aeng
+aenge
 aengi
 af
 afa
@@ -13233,6 +13234,7 @@ waluyo
 wan
 wana
 wanci
+wangan
 wangen
 wangi
 wangkir
