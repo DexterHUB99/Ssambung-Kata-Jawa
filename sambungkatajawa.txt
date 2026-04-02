@@ -11883,6 +11883,7 @@ sud
 suda
 sudah
 sudahan
+sudan
 sude
 sudi
 sudo
