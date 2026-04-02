@@ -5899,6 +5899,7 @@ kempol
 kemproh
 kempul
 kemul
+kemule
 kemuning
 kemut
 kemutan
