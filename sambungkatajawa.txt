@@ -5855,6 +5855,7 @@ kena
 kenak
 kenan
 kenang
+kenanga
 kenangan
 kenapa
 kenari
@@ -11581,6 +11582,7 @@ set
 setan
 setela
 seti
+setitik
 setunggal
 setyo
 sewa
@@ -13381,6 +13383,7 @@ werno
 weruh
 wes
 wesa
+wesan
 wesi
 weso
 westa
