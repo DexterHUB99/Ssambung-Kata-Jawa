@@ -1227,6 +1227,7 @@ asum
 asumu
 asun
 asune
+asunee
 asuo
 asup
 asupan
@@ -9230,7 +9231,6 @@ nimbang
 nimbul
 nimbun
 nimen
-nimi
 nimo
 nimu
 nin
