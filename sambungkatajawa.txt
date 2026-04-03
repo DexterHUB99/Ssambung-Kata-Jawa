@@ -1743,6 +1743,7 @@ bidak
 bidal
 bidan
 bidet
+bidog
 bidu
 biduk
 bidun
