@@ -584,6 +584,7 @@ ambasi
 ambat
 ambegan
 ambek
+ambel
 amben
 ambene
 ambeng
