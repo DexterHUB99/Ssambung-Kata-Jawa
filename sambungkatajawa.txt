@@ -7502,6 +7502,7 @@ memi
 memori
 men
 menak
+menawa
 menawi
 mencar
 mendek
