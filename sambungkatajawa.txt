@@ -2742,7 +2742,6 @@ ebok
 ebol
 ebom
 ebor
-ebu
 ebuk
 ebut
 eca
@@ -3371,7 +3370,6 @@ esui
 esuk
 esuke
 esuli
-esun
 esur
 et
 eta
@@ -6377,7 +6375,6 @@ kono
 konoe
 konoha
 kontal
-kontan
 kontol
 kontole
 kontolem
@@ -6582,7 +6579,6 @@ kurmat
 kuro
 kuroo
 kursi
-kursii
 kursine
 kuru
 kurung
@@ -8421,6 +8417,7 @@ ngampet
 ngampi
 ngampil
 ngampiri
+ngampun
 ngampung
 ngampuni
 ngamu
@@ -8469,7 +8466,6 @@ nganguni
 ngangur
 ngani
 nganik
-nganing
 nganis
 nganjing
 nganjok
@@ -8633,7 +8629,6 @@ ngawu
 ngawuh
 ngawun
 ngawur
-ngawut
 ngaya
 ngayah
 ngayak
@@ -9507,6 +9502,7 @@ nolan
 noleh
 nolek
 noli
+nolol
 nom
 noma
 noman
@@ -11445,6 +11441,7 @@ rungan
 rungi
 rungka
 rungkad
+rungko
 rungkut
 rungsing
 rungu
