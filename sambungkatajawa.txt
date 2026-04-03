@@ -13326,6 +13326,7 @@ urap
 urapan
 uras
 urat
+uraya
 ure
 urek
 urem
