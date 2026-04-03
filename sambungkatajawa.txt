@@ -7634,6 +7634,7 @@ minggat
 minggir
 minggu
 mingkem
+mini
 minjem
 mino
 minta
@@ -11733,6 +11734,7 @@ sawae
 sawah
 sawahne
 sawak
+sawal
 sawan
 sawang
 sawange
