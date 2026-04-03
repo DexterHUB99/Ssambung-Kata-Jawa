@@ -705,6 +705,7 @@ anam
 anama
 anaman
 anan
+anana
 ananang
 anane
 anang
@@ -1225,6 +1226,7 @@ astane
 asti
 astina
 asu
+asucok
 asue
 asuh
 asuha
@@ -2047,6 +2049,7 @@ cawisan
 ce
 cebok
 cebol
+ceca
 cecak
 cece
 cecek
@@ -2730,7 +2733,6 @@ ebut
 eca
 ecah
 ece
-ecera
 eci
 eco
 ecok
@@ -5528,6 +5530,7 @@ kak
 kaka
 kakak
 kakaka
+kakan
 kakang
 kakange
 kakap
@@ -7192,6 +7195,7 @@ maca
 macak
 macan
 macet
+maci
 macit
 macul
 mad
@@ -8820,6 +8824,7 @@ ngetane
 ngete
 ngetel
 ngeten
+ngeterke
 ngetih
 ngetik
 ngetok
@@ -11925,6 +11930,7 @@ sidoarjo
 sie
 sigap
 sigar
+sigra
 sih
 siha
 sii
@@ -12200,7 +12206,6 @@ suket
 suki
 sukma
 sukman
-sukmo
 suko
 suku
 sukun
