@@ -8625,6 +8625,7 @@ ngegawe
 ngegeh
 ngegem
 ngeger
+ngegolong
 ngegunung
 ngeh
 ngehasil
@@ -11916,6 +11917,7 @@ sie
 sigap
 sigar
 sih
+siha
 sii
 siipun
 siji
