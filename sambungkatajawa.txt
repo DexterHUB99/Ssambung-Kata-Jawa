@@ -11630,6 +11630,7 @@ segi
 sego
 segok
 segoro
+segung
 seh
 sehat
 sei
@@ -11907,6 +11908,7 @@ sirep
 siri
 sirih
 sirik
+sirip
 sirna
 siro
 sirsak
