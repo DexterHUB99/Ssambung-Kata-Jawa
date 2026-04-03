@@ -2433,6 +2433,7 @@ desir
 deso
 desu
 dewa
+dewasa
 dewe
 dewean
 dewi
@@ -4421,6 +4422,7 @@ het
 hetan
 heti
 hewa
+hewe
 hewo
 heya
 heyo
@@ -5525,7 +5527,6 @@ kak
 kaka
 kakak
 kakaka
-kakan
 kakang
 kakange
 kakap
