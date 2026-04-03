@@ -4078,6 +4078,7 @@ guguk
 gugunung
 gugup
 gugur
+guguran
 gugus
 guha
 gujeng
@@ -5934,6 +5935,7 @@ kemeng
 kemerin
 kemeruh
 kemi
+kemil
 kemiri
 kemis
 kemocing
