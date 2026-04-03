@@ -2028,6 +2028,7 @@ caper
 capil
 capo
 capu
+capuk
 capung
 car
 cara
