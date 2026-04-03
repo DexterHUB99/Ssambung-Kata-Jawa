@@ -588,6 +588,7 @@ ambi
 ambigu
 ambik
 ambil
+ambilaken
 ambing
 amblas
 ambles
