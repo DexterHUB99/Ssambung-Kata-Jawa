@@ -1074,6 +1074,7 @@ areg
 areh
 arej
 arek
+areke
 arel
 arem
 arema
