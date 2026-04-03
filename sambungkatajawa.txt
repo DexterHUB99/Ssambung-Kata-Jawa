@@ -1686,6 +1686,7 @@ bendo
 bendung
 bene
 bener
+beneran
 bengek
 bengi
 bengok
