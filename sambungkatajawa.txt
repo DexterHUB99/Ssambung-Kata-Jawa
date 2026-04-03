@@ -4272,6 +4272,7 @@ hane
 hang
 hangat
 hangi
+hangka
 hani
 haning
 hanja
