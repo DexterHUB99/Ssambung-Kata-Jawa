@@ -2095,6 +2095,7 @@ cepet
 ceplok
 cepu
 cerdas
+cerdik
 ceret
 cerewet
 ceri
@@ -3470,6 +3471,7 @@ fago
 faha
 faji
 fakta
+fama
 fani
 fase
 figur
@@ -8956,6 +8958,7 @@ ngilu
 ngima
 ngimam
 ngiman
+ngimbal
 ngimbang
 ngimbangi
 ngimbu
