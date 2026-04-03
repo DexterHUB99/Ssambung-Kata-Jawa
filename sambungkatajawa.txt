@@ -11443,6 +11443,7 @@ ruma
 rumah
 rumahmakan
 rumahne
+rumang
 rumangsa
 rumangsane
 rumba
