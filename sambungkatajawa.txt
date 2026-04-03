@@ -3381,6 +3381,7 @@ esok
 eson
 esop
 esor
+esos
 estri
 estu
 esu
