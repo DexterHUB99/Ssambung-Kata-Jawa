@@ -3072,6 +3072,7 @@ endasmu
 endek
 endel
 endeng
+ender
 endhog
 endhok
 endi
@@ -8955,6 +8956,7 @@ ngka
 ngke
 ngki
 ngko
+nglah
 nglakoni
 nglali
 nglampah
