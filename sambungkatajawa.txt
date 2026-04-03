@@ -1362,6 +1362,7 @@ auto
 autopsi
 av
 ava
+aver
 aw
 awa
 awak
