@@ -5463,6 +5463,7 @@ kaada
 kaba
 kabar
 kabare
+kabaya
 kabeh
 kabel
 kabes
@@ -13129,6 +13130,7 @@ ulapo
 ular
 ulara
 ulari
+ularmu
 ularo
 ulas
 ulasan
