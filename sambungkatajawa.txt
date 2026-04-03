@@ -15,6 +15,7 @@ abal
 aban
 abang
 abange
+abar
 abas
 abat
 abata
@@ -5936,6 +5937,7 @@ kem
 kema
 kemah
 kemaki
+kemal
 kemalan
 keman
 kemang
