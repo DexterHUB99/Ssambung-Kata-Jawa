@@ -84,6 +84,7 @@ adangan
 adap
 adar
 adara
+adas
 adat
 ade
 adegan
@@ -11526,6 +11527,7 @@ sambat
 sambel
 sambi
 sambil
+sambo
 sambung
 sambut
 same
