@@ -643,6 +643,7 @@ amoe
 amoh
 amoi
 amok
+amon
 among
 amor
 amos
@@ -1747,6 +1748,7 @@ bidun
 bidur
 bien
 big
+bihi
 bihun
 bija
 bijak
