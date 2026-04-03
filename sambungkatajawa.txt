@@ -2728,6 +2728,7 @@ edo
 edog
 edok
 edos
+edu
 edul
 edus
 eeh
