@@ -3370,6 +3370,7 @@ esui
 esuk
 esuke
 esuli
+esun
 esur
 et
 eta
