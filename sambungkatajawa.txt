@@ -153,6 +153,7 @@ agin
 agis
 agit
 ago
+agoh
 agon
 agos
 agu
@@ -4457,6 +4458,7 @@ homi
 homo
 homu
 hon
+hona
 honan
 hone
 honem
