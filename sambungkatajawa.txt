@@ -3903,6 +3903,7 @@ getan
 getar
 geter
 gethuk
+geti
 getih
 getir
 getok
