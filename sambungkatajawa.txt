@@ -1447,7 +1447,6 @@ babon
 babu
 babuk
 baca
-bacem
 baci
 bacin
 baco
@@ -2692,7 +2691,6 @@ eb
 eba
 ebak
 ebas
-ebat
 ebe
 eben
 ebi
@@ -7241,7 +7239,6 @@ mamasa
 mamat
 mambu
 mami
-mamii
 mamol
 mampir
 mampu
@@ -7481,7 +7478,6 @@ merek
 mereka
 mereki
 merem
-meres
 mergo
 meri
 meru
@@ -10705,7 +10701,6 @@ radio
 rae
 raga
 ragat
-ragel
 ragelem
 ragi
 ragil
