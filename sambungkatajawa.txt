@@ -1515,6 +1515,7 @@ baline
 balok
 balon
 balung
+bam
 bambang
 ban
 bancaan
