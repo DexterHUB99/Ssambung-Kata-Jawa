@@ -6355,6 +6355,7 @@ koyoke
 krama
 kramas
 krambil
+kran
 krasa
 kraton
 kremi
