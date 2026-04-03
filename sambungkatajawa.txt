@@ -2527,6 +2527,7 @@ dipi
 dipijak
 dipo
 dipon
+dipos
 diposit
 dipun
 dir
@@ -5106,6 +5107,7 @@ istilah
 istimewa
 istirahat
 istri
+istrii
 isu
 isue
 isui
