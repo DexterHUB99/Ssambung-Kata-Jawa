@@ -915,6 +915,7 @@ anta
 antah
 antam
 antang
+antangi
 antap
 antar
 antara
@@ -10793,6 +10794,7 @@ putri
 putu
 putus
 puya
+puye
 puyeng
 puyi
 puyuh
