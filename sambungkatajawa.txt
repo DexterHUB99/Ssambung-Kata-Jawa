@@ -10675,6 +10675,7 @@ pose
 posen
 posi
 posok
+posor
 pot
 poti
 potong
@@ -11137,6 +11138,7 @@ repol
 repot
 republik
 rere
+reresik
 res
 resa
 resah
