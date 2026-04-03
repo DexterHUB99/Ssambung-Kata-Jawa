@@ -432,6 +432,7 @@ akule
 akulo
 akum
 akumi
+akumu
 akun
 akune
 akuo
@@ -9168,6 +9169,7 @@ ngrungu
 ngsu
 ngubah
 ngubek
+ngubeng
 nguber
 ngubur
 ngucal
