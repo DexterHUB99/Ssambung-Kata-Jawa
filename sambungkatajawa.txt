@@ -9146,6 +9146,7 @@ ngucap
 ngucek
 ngucir
 ngudak
+ngudan
 ngudang
 ngudek
 ngudel
