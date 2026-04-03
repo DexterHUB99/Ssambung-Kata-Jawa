@@ -2892,6 +2892,7 @@ ekin
 ekir
 ekis
 ekit
+eklas
 eklek
 eko
 ekoh
