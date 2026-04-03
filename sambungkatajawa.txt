@@ -6384,6 +6384,7 @@ kucing
 kucir
 kuciwa
 kuda
+kudaa
 kudane
 kudani
 kudet
@@ -13819,6 +13820,7 @@ yakno
 yako
 yaksa
 yaku
+yakui
 yala
 yali
 yalili
