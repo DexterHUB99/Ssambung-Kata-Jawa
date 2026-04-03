@@ -7017,6 +7017,7 @@ lintang
 lintas
 lintasan
 lintu
+lintuk
 linung
 lio
 lip
