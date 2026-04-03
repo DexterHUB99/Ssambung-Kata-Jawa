@@ -1769,6 +1769,7 @@ bilo
 bilu
 bim
 bima
+bimi
 bimo
 bin
 bina
@@ -7365,7 +7366,6 @@ mana
 manaa
 manah
 manak
-manan
 manas
 mancal
 mancing
@@ -11910,7 +11910,6 @@ sembur
 semen
 semene
 semeru
-semet
 semi
 semok
 semol
