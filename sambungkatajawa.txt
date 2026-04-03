@@ -7364,7 +7364,6 @@ mana
 manaa
 manah
 manak
-manan
 manas
 mancal
 mancing
@@ -9514,6 +9513,7 @@ nnani
 nnduk
 nngalor
 nnggih
+nngka
 nni
 nnina
 nnumpak
@@ -11908,7 +11908,6 @@ sembur
 semen
 semene
 semeru
-semet
 semi
 semok
 semol
