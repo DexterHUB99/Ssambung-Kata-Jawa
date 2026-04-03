@@ -4188,6 +4188,7 @@ guri
 gurih
 gurit
 gurita
+gurite
 guru
 gurue
 guruh
@@ -6883,6 +6884,7 @@ leren
 leres
 les
 lesehan
+lesi
 lestari
 lesu
 lesung
