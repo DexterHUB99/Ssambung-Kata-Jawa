@@ -13083,6 +13083,7 @@ ulang
 ulanga
 ulangan
 ulangi
+ulangtahun
 ulap
 ulapo
 ular
