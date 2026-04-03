@@ -2743,7 +2743,6 @@ ebok
 ebol
 ebom
 ebor
-ebu
 ebuk
 ebut
 eca
@@ -3372,7 +3371,6 @@ esui
 esuk
 esuke
 esuli
-esun
 esur
 et
 eta
@@ -6378,7 +6376,6 @@ kono
 konoe
 konoha
 kontal
-kontan
 kontol
 kontole
 kontolem
@@ -6583,7 +6580,6 @@ kurmat
 kuro
 kuroo
 kursi
-kursii
 kursine
 kuru
 kurung
@@ -6807,7 +6803,6 @@ lawas
 lawase
 lawe
 lawee
-lawi
 lawu
 lawuh
 layah
@@ -7021,6 +7016,7 @@ lisi
 lisung
 lit
 lita
+litaa
 litah
 lite
 liwa
@@ -7914,6 +7910,7 @@ nafas
 nafkah
 nag
 naga
+nagaa
 nagae
 nagasari
 nage
@@ -8472,7 +8469,6 @@ nganguni
 ngangur
 ngani
 nganik
-nganing
 nganis
 nganjing
 nganjok
@@ -8636,7 +8632,6 @@ ngawu
 ngawuh
 ngawun
 ngawur
-ngawut
 ngaya
 ngayah
 ngayak
@@ -10871,6 +10866,7 @@ raimui
 raimulo
 raimuya
 rain
+raina
 raine
 raino
 raira
