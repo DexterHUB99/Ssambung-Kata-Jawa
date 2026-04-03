@@ -1516,6 +1516,7 @@ balap
 balek
 bali
 balih
+balii
 balik
 balikno
 baline
@@ -5713,6 +5714,7 @@ kartini
 kartu
 karun
 karung
+karunia
 karya
 karyani
 kas
