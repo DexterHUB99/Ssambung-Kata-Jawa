@@ -741,6 +741,7 @@ andae
 andai
 andal
 andalan
+andana
 andang
 andani
 andap
@@ -1409,6 +1410,7 @@ aya
 ayag
 ayah
 ayahe
+ayahmu
 ayak
 ayam
 ayame
@@ -9020,6 +9022,7 @@ nglampah
 nglamun
 nglangi
 nglantur
+nglap
 nglatih
 nglawuhi
 nglemper
