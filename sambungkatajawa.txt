@@ -1579,6 +1579,7 @@ baret
 barie
 baris
 barito
+barno
 barong
 barongan
 baru
