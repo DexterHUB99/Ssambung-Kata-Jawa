@@ -9067,6 +9067,7 @@ ngopo
 ngopoa
 ngopoae
 ngopok
+ngopol
 ngopoo
 ngor
 ngora
@@ -11627,6 +11628,7 @@ sasu
 sate
 satin
 satoan
+satos
 satru
 satu
 satunggal
