@@ -2919,6 +2919,7 @@ elam
 elan
 elane
 elang
+elangan
 elange
 elap
 elas
