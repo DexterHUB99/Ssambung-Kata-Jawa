@@ -6582,6 +6582,7 @@ lajeng
 laju
 lak
 laka
+lake
 laki
 laknat
 lakon
@@ -7976,6 +7977,7 @@ napas
 nape
 napi
 napiana
+naping
 napo
 napsu
 nar
@@ -8986,6 +8988,7 @@ ngngaso
 ngngombe
 ngngopo
 ngni
+ngninja
 ngno
 ngnu
 ngobat
