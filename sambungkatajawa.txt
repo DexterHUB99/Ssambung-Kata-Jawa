@@ -2529,6 +2529,7 @@ dit
 dita
 ditipu
 dito
+ditok
 diwa
 diwak
 diwan
