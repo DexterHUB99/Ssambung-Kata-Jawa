@@ -8885,6 +8885,7 @@ nggilani
 nggiling
 nggo
 nggodek
+nggodog
 nggoe
 nggole
 nggolek
@@ -10443,6 +10444,7 @@ pidal
 pidama
 pidan
 pidana
+pidang
 pie
 pien
 pigura
