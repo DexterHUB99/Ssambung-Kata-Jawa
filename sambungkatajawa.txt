@@ -3468,6 +3468,7 @@ fakta
 fani
 fase
 figur
+fikir
 film
 firman
 fisik
