@@ -4504,6 +4504,7 @@ hukume
 hula
 hulah
 hulai
+hulat
 hulu
 hum
 huma
@@ -7965,6 +7966,7 @@ nano
 nantang
 nanti
 nanung
+nanur
 nanya
 nao
 naon
@@ -12276,6 +12278,7 @@ suwee
 suweg
 suwek
 suwen
+suweng
 suwi
 suwine
 suwir
