@@ -4099,7 +4099,6 @@ goroken
 gorong
 gosip
 gosok
-gosokan
 gosong
 got
 gota
@@ -5314,7 +5313,6 @@ jari
 jarii
 jarik
 jaring
-jarne
 jarum
 jas
 jasa
