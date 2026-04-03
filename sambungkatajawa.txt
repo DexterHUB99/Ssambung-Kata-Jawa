@@ -977,6 +977,7 @@ apalan
 apan
 apane
 apang
+apanga
 apangan
 apapa
 apar
@@ -6388,6 +6389,7 @@ krungu
 krupuk
 ku
 kua
+kuan
 kuasa
 kuat
 kubur
