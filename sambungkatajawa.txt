@@ -8051,6 +8051,7 @@ ndasmu
 ndek
 ndeleng
 ndelik
+ndelog
 ndelok
 nderek
 ndeso
