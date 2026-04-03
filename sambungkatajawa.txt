@@ -3370,6 +3370,7 @@ esui
 esuk
 esuke
 esuli
+esun
 esur
 et
 eta
@@ -6375,6 +6376,7 @@ kono
 konoe
 konoha
 kontal
+kontan
 kontol
 kontole
 kontolem
@@ -8628,6 +8630,7 @@ ngawu
 ngawuh
 ngawun
 ngawur
+ngawut
 ngaya
 ngayah
 ngayak
