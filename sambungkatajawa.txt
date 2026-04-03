@@ -4774,6 +4774,7 @@ ilar
 ilas
 ilasan
 ilat
+ilata
 ilate
 ilatmu
 ilawa
@@ -8880,6 +8881,7 @@ nggeblak
 nggeh
 nggendong
 ngger
+nggerus
 nggi
 nggih
 nggilani
