@@ -1187,7 +1187,6 @@ asi
 asia
 asian
 asie
-asif
 asih
 asii
 asij
@@ -1380,7 +1379,6 @@ awa
 awak
 awakdewe
 awake
-awakku
 awakmu
 awaku
 awal
@@ -2240,7 +2238,6 @@ cucut
 cuek
 cuk
 cuka
-cukak
 cuki
 cukup
 cukur
@@ -2746,7 +2743,6 @@ ebok
 ebol
 ebom
 ebor
-ebu
 ebuk
 ebut
 eca
@@ -3375,7 +3371,6 @@ esui
 esuk
 esuke
 esuli
-esun
 esur
 et
 eta
@@ -4099,6 +4094,7 @@ goroken
 gorong
 gosip
 gosok
+gosokan
 gosong
 got
 gota
@@ -5313,6 +5309,7 @@ jari
 jarii
 jarik
 jaring
+jarne
 jarum
 jas
 jasa
@@ -6381,7 +6378,6 @@ kono
 konoe
 konoha
 kontal
-kontan
 kontol
 kontole
 kontolem
@@ -6586,7 +6582,6 @@ kurmat
 kuro
 kuroo
 kursi
-kursii
 kursine
 kuru
 kurung
@@ -6635,7 +6630,6 @@ lada
 ladak
 ladi
 ladii
-ladila
 lading
 lado
 laen
@@ -6811,7 +6805,6 @@ lawas
 lawase
 lawe
 lawee
-lawi
 lawu
 lawuh
 layah
@@ -8450,7 +8443,6 @@ ngandap
 ngandel
 ngandem
 ngandhap
-ngandhut
 ngandi
 ngandok
 nganduk
@@ -8479,7 +8471,6 @@ nganguni
 ngangur
 ngani
 nganik
-nganing
 nganis
 nganjing
 nganjok
@@ -8643,7 +8634,6 @@ ngawu
 ngawuh
 ngawun
 ngawur
-ngawut
 ngaya
 ngayah
 ngayak
@@ -10670,7 +10660,6 @@ polan
 polar
 pole
 poleh
-polem
 poles
 poli
 poling
@@ -11755,7 +11744,6 @@ sate
 satin
 satoan
 satos
-satria
 satru
 satu
 satunggal
@@ -12333,7 +12321,6 @@ sunduk
 sundukan
 sundul
 sung
-sunga
 sungai
 sunge
 sungi
@@ -12342,7 +12329,6 @@ sungka
 sungkan
 sungkem
 sungki
-sungo
 suni
 sunnah
 suno
