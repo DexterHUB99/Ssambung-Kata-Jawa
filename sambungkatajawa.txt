@@ -981,6 +981,7 @@ apapa
 apar
 apas
 apasi
+apasira
 ape
 apek
 apel
@@ -7201,6 +7202,7 @@ makane
 makani
 make
 maki
+makii
 maklum
 makmur
 makna
