@@ -1642,6 +1642,7 @@ beler
 beli
 beling
 belo
+belon
 beluk
 belum
 belut
@@ -5217,6 +5218,7 @@ jancuk
 janda
 jane
 jang
+janga
 jangan
 jangger
 jangka
