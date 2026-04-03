@@ -1990,7 +1990,6 @@ cacad
 cacah
 cacahing
 cacak
-cacari
 cacat
 cace
 caci
@@ -9312,6 +9311,7 @@ ngupai
 ngupak
 ngupang
 ngupas
+ngupaya
 ngupe
 ngupel
 ngupi
@@ -10731,7 +10731,6 @@ powa
 powe
 poya
 poyo
-prabu
 prai
 praja
 prawan
