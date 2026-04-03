@@ -1749,6 +1749,7 @@ bintara
 bintit
 bio
 bir
+bira
 biri
 biro
 biru
