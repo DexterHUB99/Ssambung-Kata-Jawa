@@ -2433,7 +2433,6 @@ desir
 deso
 desu
 dewa
-dewasa
 dewe
 dewean
 dewi
@@ -5526,6 +5525,7 @@ kak
 kaka
 kakak
 kakaka
+kakan
 kakang
 kakange
 kakap
