@@ -1495,6 +1495,7 @@ baku
 bakul
 bakus
 bal
+bala
 balai
 balang
 balangan
@@ -8157,6 +8158,7 @@ net
 neta
 netan
 netap
+netar
 netas
 nete
 neteh
