@@ -97,7 +97,6 @@ adel
 adem
 aden
 adep
-adepan
 ader
 adhap
 adhem
@@ -2820,7 +2819,6 @@ egak
 egal
 egang
 ege
-egeh
 egi
 egik
 ego
@@ -3858,7 +3856,6 @@ gelange
 gelap
 gelar
 gelas
-gele
 geleh
 gelek
 gelem
@@ -4495,6 +4492,7 @@ hesan
 hese
 hesti
 het
+heta
 hetan
 heti
 hewa
@@ -5200,7 +5198,6 @@ isuk
 isukan
 isun
 iswa
-iswo
 isya
 it
 ita
@@ -5590,6 +5587,7 @@ kae
 kaee
 kaei
 kaena
+kafan
 kafir
 kagak
 kagaka
@@ -5732,7 +5730,6 @@ kandha
 kandhang
 kandhani
 kandi
-kandungan
 kane
 kang
 kange
@@ -7193,6 +7190,7 @@ lope
 loper
 lopi
 lopis
+lopor
 lor
 lora
 lorak
@@ -7508,7 +7506,6 @@ mardi
 mare
 marek
 marem
-mareng
 marga
 mari
 maria
@@ -8803,6 +8800,7 @@ ngelak
 ngelakon
 ngelam
 ngelang
+ngelantur
 ngelap
 ngelas
 ngelatih
@@ -8971,7 +8969,6 @@ ngeten
 ngeterke
 ngetih
 ngetik
-ngeto
 ngetok
 ngetot
 ngetung
@@ -9369,7 +9366,6 @@ ngumbah
 ngumbahi
 ngumbar
 ngumbel
-ngumet
 ngumi
 ngumpat
 ngumpet
@@ -10938,9 +10934,7 @@ qurban
 ra
 raa
 raba
-rabah
 rabi
-rabia
 rabien
 rabii
 rabisa
@@ -11272,7 +11266,6 @@ ren
 rena
 renan
 renang
-rencana
 rencang
 renda
 rendah
@@ -11548,6 +11541,7 @@ ruma
 rumah
 rumahmakan
 rumahne
+ruman
 rumang
 rumangsa
 rumangsane
@@ -13021,7 +13015,6 @@ tugel
 tuh
 tuha
 tuhan
-tuhe
 tuk
 tuka
 tukan
@@ -13631,7 +13624,6 @@ usahane
 usai
 usak
 usan
-usana
 usani
 usap
 usar
@@ -14033,6 +14025,7 @@ wisa
 wisan
 wisata
 wisma
+wismi
 wisnu
 wisuh
 wit
