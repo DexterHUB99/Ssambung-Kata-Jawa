@@ -10880,6 +10880,7 @@ posa
 pose
 posen
 posi
+posing
 posok
 posor
 pot
