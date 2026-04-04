@@ -342,6 +342,7 @@ akak
 akaku
 akal
 akalan
+akale
 akali
 akalo
 akam
@@ -2993,7 +2994,6 @@ elingo
 elingono
 elir
 elis
-elisa
 elit
 elmi
 elmu
@@ -4985,7 +4985,6 @@ ini
 inia
 inie
 inii
-inina
 inini
 inja
 injak
@@ -5921,7 +5920,6 @@ kaya
 kayah
 kayak
 kayan
-kayangan
 kayu
 kayuh
 kayut
@@ -6988,6 +6986,7 @@ liha
 lihar
 lihat
 lihe
+lihi
 lii
 lik
 lika
@@ -7175,7 +7174,6 @@ lop
 lopa
 lopan
 lope
-loper
 lopi
 lopis
 lor
@@ -8589,7 +8587,6 @@ ngapai
 ngapain
 ngapak
 ngapal
-ngapan
 ngapel
 ngapi
 ngapik
@@ -10178,6 +10175,7 @@ otom
 otoman
 otot
 otote
+ototing
 ov
 ow
 owah
