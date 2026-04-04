@@ -3184,6 +3184,7 @@ encok
 endah
 endang
 endange
+endangi
 endap
 endas
 endase
@@ -11388,6 +11389,7 @@ remen
 remeng
 remes
 remi
+remino
 remo
 remok
 rempah
