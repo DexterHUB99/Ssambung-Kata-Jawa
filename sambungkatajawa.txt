@@ -6792,7 +6792,6 @@ laha
 lahan
 lahi
 lahir
-laiki
 lair
 laiya
 lajeng
@@ -7554,7 +7553,6 @@ maning
 maninga
 manipulatif
 manis
-manise
 manja
 manjer
 manjing
@@ -9561,7 +9559,6 @@ ngutil
 ngutowo
 ngutus
 nguwi
-nguyah
 nguyu
 nguyuh
 nguyuhi
@@ -11376,7 +11373,6 @@ rembukan
 rembulan
 remeh
 remek
-remen
 remeng
 remes
 remi
