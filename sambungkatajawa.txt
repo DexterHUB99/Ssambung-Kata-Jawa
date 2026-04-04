@@ -4015,6 +4015,7 @@ geros
 gertak
 geruh
 gerung
+gerus
 ges
 gesae
 gesang
@@ -13604,6 +13605,7 @@ untung
 untunge
 untur
 unung
+unya
 unyi
 uo
 up
