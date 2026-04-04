@@ -7933,6 +7933,7 @@ moto
 motol
 motong
 motor
+mpun
 mriki
 mriksani
 mriku
@@ -8759,6 +8760,7 @@ ngasem
 ngasep
 ngasi
 ngasih
+ngasihi
 ngasik
 ngasil
 ngasin
