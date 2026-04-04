@@ -3353,6 +3353,7 @@ eren
 ereng
 erep
 erer
+ererak
 eres
 eresi
 eret
@@ -4277,6 +4278,7 @@ gura
 gurah
 gurami
 guramii
+gure
 guren
 guri
 gurih
@@ -5528,6 +5530,7 @@ jok
 joka
 joki
 joko
+jokoo
 jokowi
 jola
 jolat
