@@ -5955,6 +5955,7 @@ kejar
 kejem
 kejer
 kejut
+kejutan
 kek
 kekal
 kekan
@@ -11604,6 +11605,7 @@ sagul
 sah
 saha
 sahabat
+saham
 sahi
 sahit
 sahur
