@@ -1282,6 +1282,7 @@ atan
 atang
 atap
 atar
+atara
 atas
 atasan
 atasane
