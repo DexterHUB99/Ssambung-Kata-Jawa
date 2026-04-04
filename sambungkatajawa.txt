@@ -97,7 +97,6 @@ adel
 adem
 aden
 adep
-adepan
 ader
 adhap
 adhem
@@ -343,6 +342,7 @@ akak
 akaku
 akal
 akalan
+akale
 akali
 akalo
 akam
@@ -2911,6 +2911,7 @@ ekan
 ekane
 ekap
 ekar
+ekare
 ekas
 ekat
 eke
@@ -3885,6 +3886,7 @@ gembira
 gemblong
 gemblung
 gembok
+gembol
 gembong
 gembos
 gembrot
@@ -5195,7 +5197,6 @@ isuk
 isukan
 isun
 iswa
-iswo
 isya
 it
 ita
@@ -6041,6 +6042,7 @@ kelud
 keluh
 keluhan
 kelumah
+kelurahan
 kelut
 keluwe
 kem
@@ -6242,6 +6244,7 @@ ketemu
 keterangan
 kethek
 kethok
+kethokan
 keti
 ketiga
 ketik
@@ -6687,6 +6690,7 @@ la
 lab
 laba
 labe
+labet
 labi
 labrak
 labu
@@ -6993,6 +6997,7 @@ liha
 lihar
 lihat
 lihe
+lihi
 lii
 lik
 lika
@@ -7498,7 +7503,6 @@ mardi
 mare
 marek
 marem
-mareng
 marga
 mari
 maria
@@ -8382,6 +8386,7 @@ ngablak
 ngabu
 ngabur
 ngaburi
+ngabut
 ngaca
 ngacak
 ngacem
@@ -8960,7 +8965,6 @@ ngeten
 ngeterke
 ngetih
 ngetik
-ngeto
 ngetok
 ngetot
 ngetung
@@ -10186,6 +10190,7 @@ otom
 otoman
 otot
 otote
+ototing
 ov
 ow
 owah
@@ -10925,9 +10930,7 @@ qurban
 ra
 raa
 raba
-rabah
 rabi
-rabia
 rabien
 rabii
 rabisa
@@ -11259,7 +11262,6 @@ ren
 rena
 renan
 renang
-rencana
 rencang
 renda
 rendah
@@ -12298,6 +12300,7 @@ solo
 soloo
 som
 soma
+soman
 somar
 somat
 sombong
@@ -13007,7 +13010,6 @@ tugel
 tuh
 tuha
 tuhan
-tuhe
 tuk
 tuka
 tukan
