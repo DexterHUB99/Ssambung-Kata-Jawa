@@ -12007,6 +12007,7 @@ se
 sea
 sebat
 sebel
+sebentar
 sedang
 sedap
 sedar
