@@ -9222,6 +9222,7 @@ ngisuk
 ngita
 ngitil
 ngitung
+ngiwa
 ngiwak
 ngiwang
 ngiyuh
@@ -13937,6 +13938,7 @@ wangan
 wangen
 wangi
 wangkir
+wangon
 wangsul
 wangsulan
 wani
