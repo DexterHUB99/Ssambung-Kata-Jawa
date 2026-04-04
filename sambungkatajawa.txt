@@ -2901,6 +2901,7 @@ ejah
 ejak
 ejam
 ejek
+ejen
 ejet
 eji
 ejik
@@ -5206,6 +5207,7 @@ istirahat
 istri
 istrii
 isu
+isua
 isue
 isui
 isuk
