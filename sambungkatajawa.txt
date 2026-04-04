@@ -1763,6 +1763,7 @@ bidur
 bien
 big
 bihi
+bihu
 bihun
 bija
 bijak
@@ -12107,6 +12108,7 @@ sewu
 seya
 shalat
 sholat
+sholawat
 si
 sia
 siaa
