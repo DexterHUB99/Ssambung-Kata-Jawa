@@ -5072,6 +5072,7 @@ ipe
 ipek
 ipel
 ipeli
+ipem
 ipen
 iper
 ipes
@@ -13895,6 +13896,7 @@ wacaan
 wacana
 wadah
 wadang
+wadas
 wader
 wadi
 wadoh
