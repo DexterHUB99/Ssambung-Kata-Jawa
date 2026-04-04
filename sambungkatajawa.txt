@@ -3003,6 +3003,7 @@ elang
 elangan
 elange
 elap
+elar
 elas
 elat
 ele
@@ -6911,6 +6912,7 @@ lapar
 lape
 lapi
 lapis
+lapisan
 lapo
 lapoan
 laporan
@@ -14074,6 +14076,7 @@ weda
 wedal
 wedan
 wedang
+wedangan
 wedange
 wedangen
 wedhang
