@@ -1656,6 +1656,7 @@ bedane
 bedha
 bedo
 bedok
+bedu
 beduk
 bee
 bego
