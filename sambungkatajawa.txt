@@ -2993,6 +2993,7 @@ elingo
 elingono
 elir
 elis
+elisa
 elit
 elmi
 elmu
