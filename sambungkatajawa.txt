@@ -6936,6 +6936,7 @@ leni
 lentog
 lepa
 lepat
+lepe
 lepi
 ler
 lere
