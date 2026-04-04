@@ -61,6 +61,7 @@ acar
 acara
 ace
 aceh
+acem
 acen
 aci
 acik
@@ -1815,6 +1816,7 @@ bit
 bita
 bito
 bitu
+biwa
 biyen
 biyung
 blas
@@ -2129,6 +2131,7 @@ cerita
 ceritane
 cermin
 ces
+cetak
 cetek
 cetha
 cetho
@@ -5528,6 +5531,7 @@ kabare
 kabaya
 kabeh
 kabel
+kaben
 kabes
 kabi
 kabor
@@ -7598,6 +7602,7 @@ memacul
 memadi
 memakai
 memang
+memar
 meme
 memek
 memen
@@ -8968,6 +8973,7 @@ nggatel
 nggateli
 nggawa
 nggawe
+nggawean
 nggawee
 ngge
 nggeblak
@@ -12580,6 +12586,7 @@ tambah
 tambak
 tambal
 tambang
+tambi
 tambir
 tame
 tameng
