@@ -3142,6 +3142,7 @@ empuk
 empul
 empun
 emu
+emud
 emuh
 emuk
 emul
@@ -6682,6 +6683,7 @@ kupluk
 kupu
 kur
 kura
+kurai
 kuran
 kurang
 kurangajar
