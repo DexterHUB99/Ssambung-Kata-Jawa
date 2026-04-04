@@ -7741,6 +7741,7 @@ mlangkah
 mlayu
 mlebu
 mlumah
+mmadhang
 mmati
 mmbuh
 mmelu
