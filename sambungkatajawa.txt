@@ -2724,6 +2724,7 @@ duit
 dujun
 duk
 duka
+dukaa
 duki
 duko
 duku
@@ -7132,6 +7133,7 @@ lipur
 lir
 lira
 liren
+liri
 lirih
 lirik
 liring
