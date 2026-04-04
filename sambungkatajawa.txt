@@ -342,7 +342,6 @@ akak
 akaku
 akal
 akalan
-akale
 akali
 akalo
 akam
@@ -1357,6 +1356,7 @@ aturen
 atus
 atusan
 atut
+atuy
 audan
 auh
 auha
@@ -2017,6 +2017,7 @@ cacig
 cacik
 cacin
 cacing
+cacit
 cacu
 cadang
 cadok
@@ -2909,7 +2910,6 @@ ekan
 ekane
 ekap
 ekar
-ekare
 ekas
 ekat
 eke
@@ -2995,6 +2995,7 @@ elingo
 elingono
 elir
 elis
+elisa
 elit
 elmi
 elmu
@@ -3842,6 +3843,7 @@ geh
 gei
 gejig
 gek
+geke
 geko
 geku
 gel
@@ -4986,6 +4988,7 @@ ini
 inia
 inie
 inii
+inina
 inini
 inja
 injak
@@ -5921,6 +5924,7 @@ kaya
 kayah
 kayak
 kayan
+kayangan
 kayu
 kayuh
 kayut
@@ -6035,7 +6039,6 @@ kelud
 keluh
 keluhan
 kelumah
-kelurahan
 kelut
 keluwe
 kem
@@ -6988,7 +6991,6 @@ liha
 lihar
 lihat
 lihe
-lihi
 lii
 lik
 lika
@@ -7176,6 +7178,7 @@ lop
 lopa
 lopan
 lope
+loper
 lopi
 lopis
 lor
@@ -8376,7 +8379,6 @@ ngablak
 ngabu
 ngabur
 ngaburi
-ngabut
 ngaca
 ngacak
 ngacem
@@ -8590,6 +8592,7 @@ ngapai
 ngapain
 ngapak
 ngapal
+ngapan
 ngapel
 ngapi
 ngapik
@@ -9046,6 +9049,7 @@ ngijing
 ngijo
 ngijoli
 ngik
+ngikat
 ngiki
 ngikil
 ngiku
@@ -10178,7 +10182,6 @@ otom
 otoman
 otot
 otote
-ototing
 ov
 ow
 owah
@@ -12438,6 +12441,7 @@ sung
 sunga
 sungai
 sunge
+sungguh
 sungi
 sunging
 sungka
@@ -13399,6 +13403,7 @@ umurne
 un
 una
 unah
+unaha
 unak
 unal
 unam
