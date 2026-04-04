@@ -5515,6 +5515,7 @@ jumi
 jumpa
 jumput
 jumputan
+jun
 juna
 jungkat
 jungkel
@@ -5714,6 +5715,7 @@ kandang
 kandani
 kandas
 kandel
+kandha
 kandhang
 kandhani
 kandi
