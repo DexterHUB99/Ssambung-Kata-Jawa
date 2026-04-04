@@ -342,6 +342,7 @@ akak
 akaku
 akal
 akalan
+akale
 akali
 akalo
 akam
@@ -2910,6 +2911,7 @@ ekan
 ekane
 ekap
 ekar
+ekare
 ekas
 ekat
 eke
@@ -6039,6 +6041,7 @@ kelud
 keluh
 keluhan
 kelumah
+kelurahan
 kelut
 keluwe
 kem
@@ -6685,6 +6688,7 @@ la
 lab
 laba
 labe
+labet
 labi
 labrak
 labu
@@ -6991,6 +6995,7 @@ liha
 lihar
 lihat
 lihe
+lihi
 lii
 lik
 lika
@@ -8379,6 +8384,7 @@ ngablak
 ngabu
 ngabur
 ngaburi
+ngabut
 ngaca
 ngacak
 ngacem
@@ -8957,7 +8963,6 @@ ngeten
 ngeterke
 ngetih
 ngetik
-ngeto
 ngetok
 ngetot
 ngetung
@@ -10183,6 +10188,7 @@ otom
 otoman
 otot
 otote
+ototing
 ov
 ow
 owah
@@ -10923,7 +10929,6 @@ ra
 raa
 raba
 rabi
-rabia
 rabien
 rabii
 rabisa
@@ -11255,7 +11260,6 @@ ren
 rena
 renan
 renang
-rencana
 rencang
 renda
 rendah
@@ -13003,7 +13007,6 @@ tugel
 tuh
 tuha
 tuhan
-tuhe
 tuk
 tuka
 tukan
