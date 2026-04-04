@@ -1666,6 +1666,7 @@ bei
 beja
 bejat
 bejo
+bek
 beka
 bekal
 bekas
@@ -13862,6 +13863,7 @@ waning
 wanita
 wanja
 wano
+wao
 wape
 wapi
 war
