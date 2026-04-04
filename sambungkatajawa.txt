@@ -9800,6 +9800,7 @@ nukai
 nuki
 nuko
 nuku
+nukui
 nul
 nula
 nuli
@@ -10417,6 +10418,7 @@ paling
 palis
 palko
 palo
+palsu
 palu
 palung
 palur
