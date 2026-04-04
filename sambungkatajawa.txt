@@ -8711,6 +8711,7 @@ ngarani
 ngarap
 ngare
 ngarek
+ngarem
 ngaren
 ngareng
 ngarep
@@ -13007,6 +13008,7 @@ timbal
 timbali
 timbang
 timbangan
+timbuk
 timbul
 timbun
 time
