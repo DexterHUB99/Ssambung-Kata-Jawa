@@ -3979,6 +3979,7 @@ gesit
 geta
 getan
 getar
+gete
 geter
 gethuk
 geti
@@ -12185,6 +12186,7 @@ sisih
 sisii
 sisik
 sisil
+sisin
 sisine
 sisir
 siska
