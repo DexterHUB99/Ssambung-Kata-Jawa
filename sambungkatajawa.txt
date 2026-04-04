@@ -5731,6 +5731,7 @@ kandha
 kandhang
 kandhani
 kandi
+kandungan
 kane
 kang
 kange
@@ -9367,6 +9368,7 @@ ngumbah
 ngumbahi
 ngumbar
 ngumbel
+ngumet
 ngumi
 ngumpat
 ngumpet
