@@ -124,6 +124,7 @@ aduh
 aduk
 adun
 adus
+adzan
 ae
 aenak
 aeng
@@ -3360,6 +3361,7 @@ erong
 erop
 eror
 eros
+erose
 erosi
 erot
 erta
@@ -12853,6 +12855,7 @@ tempur
 tempura
 temriki
 temu
+temue
 temulawak
 ten
 tenan
