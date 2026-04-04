@@ -4869,6 +4869,7 @@ ilingen
 ilingo
 ilir
 ilis
+ilisna
 ilmu
 ilmune
 ilo
