@@ -4177,6 +4177,7 @@ gulali
 gulane
 gulang
 gule
+gulei
 gulek
 gulem
 guleman
@@ -5785,6 +5786,7 @@ karma
 karna
 karo
 karoan
+karoi
 karok
 karpet
 karsa
@@ -6252,6 +6254,7 @@ kicak
 kicep
 kidal
 kidang
+kidangan
 kidange
 kidul
 kidung
@@ -14090,6 +14093,7 @@ yamaha
 yaman
 yami
 yamna
+yamu
 yan
 yana
 yang
