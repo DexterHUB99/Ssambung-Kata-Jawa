@@ -5922,6 +5922,7 @@ kati
 katil
 katimbang
 katir
+katis
 katok
 katon
 katos
@@ -9964,6 +9965,7 @@ ojek
 ojet
 ojik
 ojo
+ojoa
 ojoe
 ojog
 ojok
