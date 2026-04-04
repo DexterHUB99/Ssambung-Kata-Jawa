@@ -8707,6 +8707,7 @@ ngati
 ngatok
 ngaton
 ngatos
+ngatri
 ngatu
 ngatuk
 ngatung
@@ -9359,6 +9360,7 @@ ngula
 ngulah
 ngulak
 ngulam
+ngulan
 ngulang
 ngulangi
 ngulas
