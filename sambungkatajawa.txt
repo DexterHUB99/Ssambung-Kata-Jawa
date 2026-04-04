@@ -2285,6 +2285,7 @@ curut
 cuti
 cuwek
 da
+dablek
 dabu
 dacok
 dada
@@ -14071,6 +14072,7 @@ wolulas
 woma
 won
 wona
+wonen
 wong
 wonge
 wongi
