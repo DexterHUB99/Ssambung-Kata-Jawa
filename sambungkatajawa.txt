@@ -3961,6 +3961,7 @@ gertak
 geruh
 gerung
 ges
+gesae
 gesang
 gesek
 geseng
@@ -9041,6 +9042,7 @@ nginceng
 ngindak
 nginep
 nging
+nginget
 nginggil
 nginggo
 ngini
@@ -11675,6 +11677,7 @@ sambak
 sambal
 sambang
 sambat
+sambate
 sambel
 sambi
 sambil
