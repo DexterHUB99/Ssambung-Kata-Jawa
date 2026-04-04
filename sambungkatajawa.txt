@@ -841,6 +841,7 @@ angling
 anglo
 angon
 angop
+angora
 angos
 angrek
 angsa
@@ -3065,6 +3066,7 @@ emes
 emese
 emi
 emik
+emil
 emin
 emip
 emir
@@ -13341,6 +13343,7 @@ umpama
 umpamane
 umpami
 umpan
+umpatan
 umpet
 umpil
 umpit
