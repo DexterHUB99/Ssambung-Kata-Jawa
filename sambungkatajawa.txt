@@ -14075,6 +14075,7 @@ woko
 woku
 wol
 wola
+wolak
 woli
 wolo
 wolu
