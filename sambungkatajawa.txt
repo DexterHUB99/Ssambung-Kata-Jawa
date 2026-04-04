@@ -3286,6 +3286,7 @@ enyong
 eomah
 ep
 epa
+epae
 epah
 epak
 epal
@@ -12250,6 +12251,7 @@ sikile
 sikilku
 sikilmu
 siko
+siksa
 siku
 sikut
 sil
