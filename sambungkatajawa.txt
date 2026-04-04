@@ -8729,6 +8729,7 @@ ngatal
 ngatasi
 ngatau
 ngatel
+ngateli
 ngatemi
 ngaterna
 ngates
@@ -14272,6 +14273,7 @@ yek
 yeko
 yen
 yena
+yeng
 yeni
 yep
 yepa
