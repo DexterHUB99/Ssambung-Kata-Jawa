@@ -342,6 +342,7 @@ akak
 akaku
 akal
 akalan
+akale
 akali
 akalo
 akam
@@ -8493,7 +8494,6 @@ ngampet
 ngampi
 ngampil
 ngampiri
-ngampleng
 ngampun
 ngampung
 ngampuni
@@ -13808,7 +13808,6 @@ wangsulan
 wani
 wanie
 wanii
-waning
 wanita
 wanja
 wano
