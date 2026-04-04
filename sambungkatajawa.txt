@@ -4742,6 +4742,7 @@ ih
 iha
 ihaa
 ihae
+ihai
 ihan
 ihana
 ihara
@@ -11306,6 +11307,7 @@ rekam
 rekan
 rekasa
 rekat
+rekma
 rekmo
 reko
 rekon
