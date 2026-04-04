@@ -3167,6 +3167,7 @@ enek
 enem
 enen
 eneng
+enge
 engeh
 enggal
 enggan
@@ -4985,6 +4986,7 @@ inini
 inja
 injak
 injek
+injen
 inji
 injih
 injing
@@ -11197,6 +11199,7 @@ rela
 relax
 reles
 relo
+relu
 rem
 rema
 remah
