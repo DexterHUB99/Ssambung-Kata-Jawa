@@ -11904,6 +11904,7 @@ selama
 selamat
 selamet
 selan
+selangkung
 selasa
 selat
 selatan
@@ -13723,6 +13724,7 @@ waduk
 wadul
 wadulan
 wae
+wagah
 wage
 wagu
 wah
