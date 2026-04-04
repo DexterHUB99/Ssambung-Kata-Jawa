@@ -3802,6 +3802,7 @@ gas
 gasa
 gasak
 gasal
+gasen
 gasi
 gasik
 gasing
@@ -4496,6 +4497,7 @@ heem
 heh
 heha
 hehe
+heheh
 hehi
 heho
 hei
