@@ -8747,6 +8747,7 @@ ngasir
 ngasli
 ngaso
 ngasoh
+ngasor
 ngasta
 ngasu
 ngasuh
@@ -9591,6 +9592,7 @@ nimbali
 nimbang
 nimbul
 nimbun
+nime
 nimen
 nimi
 nimo
@@ -11743,6 +11745,7 @@ sabon
 sabtu
 sabuk
 sabun
+sabung
 sada
 sadar
 sade
