@@ -483,6 +483,7 @@ alat
 alate
 alay
 ale
+alea
 alee
 alek
 alel
@@ -961,6 +962,7 @@ antung
 antur
 anu
 anua
+anuan
 anue
 anuf
 anuh
@@ -7151,6 +7153,7 @@ liwet
 liya
 liyan
 liyane
+liye
 liyo
 lo
 loa
@@ -10622,6 +10625,7 @@ pesa
 pesen
 pesing
 peso
+pesona
 pesta
 pet
 peta
@@ -13509,6 +13513,7 @@ undakan
 undang
 undanga
 undangan
+undar
 undi
 undia
 undian
