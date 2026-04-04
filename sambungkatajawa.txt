@@ -1532,6 +1532,7 @@ bait
 baja
 baji
 bajigur
+bajik
 bajing
 bajingan
 bajo
@@ -10486,6 +10487,7 @@ parkir
 parno
 paro
 parok
+partai
 parti
 paru
 paruh
