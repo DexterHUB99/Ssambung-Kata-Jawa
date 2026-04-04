@@ -5521,6 +5521,7 @@ jurus
 jus
 ka
 kaada
+kaadhang
 kaba
 kabar
 kabare
