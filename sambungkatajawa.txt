@@ -342,7 +342,6 @@ akak
 akaku
 akal
 akalan
-akale
 akali
 akalo
 akam
@@ -2994,6 +2993,7 @@ elingo
 elingono
 elir
 elis
+elisa
 elit
 elmi
 elmu
@@ -7173,6 +7173,7 @@ lop
 lopa
 lopan
 lope
+loper
 lopi
 lopis
 lor
