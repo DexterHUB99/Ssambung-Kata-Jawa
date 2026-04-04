@@ -6258,6 +6258,7 @@ kewek
 kewer
 kewet
 kewok
+keyong
 ki
 kiai
 kicak
@@ -9974,6 +9975,7 @@ omae
 omah
 omahe
 oman
+omao
 omara
 ombak
 ombakan
@@ -10208,6 +10210,7 @@ padus
 paes
 pagak
 pagar
+pagelaran
 pagi
 pagii
 pago
@@ -13962,6 +13965,7 @@ wili
 wilo
 wilujeng
 wima
+wimi
 win
 wina
 windu
