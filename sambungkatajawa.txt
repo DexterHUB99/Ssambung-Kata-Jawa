@@ -6396,6 +6396,7 @@ kipas
 kir
 kira
 kirab
+kiran
 kirana
 kirane
 kirang
@@ -13010,6 +13011,7 @@ timbal
 timbali
 timbang
 timbangan
+timbuk
 timbul
 timbun
 time
