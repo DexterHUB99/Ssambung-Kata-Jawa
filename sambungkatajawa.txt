@@ -2374,6 +2374,7 @@ darii
 darma
 darsa
 daru
+darung
 darus
 das
 dasar
@@ -11538,6 +11539,7 @@ rusak
 rusake
 rusaki
 rusi
+ruska
 rusli
 rusma
 ruso
