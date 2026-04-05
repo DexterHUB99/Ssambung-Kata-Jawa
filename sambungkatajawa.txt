@@ -2904,6 +2904,7 @@ ehob
 ehoh
 ehok
 ehol
+ehom
 ehon
 ehop
 ehor
@@ -10428,6 +10429,7 @@ pama
 pamali
 paman
 pambayun
+pamen
 pamer
 pameran
 pami
